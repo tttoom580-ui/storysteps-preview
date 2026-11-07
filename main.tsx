@@ -4,3 +4,5 @@ import './app/globals.css';
 createRoot(document.getElementById('root')!).render(<Home/>);
 
 import './app/mobile.css';
+
+import './app/reader-upgrade.css';
