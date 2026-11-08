@@ -1,21 +1,21 @@
 import {sendEvent} from './study-service';
-import {useEffect,useState} from 'react';
+import {useEffect,useRef,useState} from 'react';
 import {stories,levels} from './content';
 import type {Story,Chapter} from './types';
 import previews from './story-previews.json';
 const readLocal=(key:string,fallback:any)=>{try{return JSON.parse(localStorage.getItem(key)||'null')??fallback}catch{return fallback}};
 export function recordReading(kind:string,book='',chapter=''){sendEvent(kind,book,chapter);try{const rows=readLocal('storysteps-study-events',[]);rows.push({kind,book,chapter,time:Date.now()});localStorage.setItem('storysteps-study-events',JSON.stringify(rows.slice(-2000)))}catch{}}
-export function useReaderComfort(chapter:Chapter|null,active=true){const [focus,setFocus]=useState(false),[line,setLine]=useState(()=>readLocal('storysteps-line',1.9));
+export function useReaderComfort(chapter:Chapter|null,active=true){const pauseRef=useRef<()=>void>(()=>{});const [focus,setFocus]=useState(false),[line,setLine]=useState(()=>readLocal('storysteps-line',1.9));
 useEffect(()=>{try{localStorage.setItem('storysteps-line',JSON.stringify(line))}catch{}},[line]);
 useEffect(()=>{
- if(!chapter||!active)return;
- const key='storysteps-position-'+chapter.id,saved=readLocal(key,0);let restored=false,frame=0;
- const save=()=>{if(!restored)return;const nodes=[...document.querySelectorAll<HTMLElement>('[data-paragraph]')];const current=nodes.find(el=>el.getBoundingClientRect().bottom>90);if(!current)return;try{localStorage.setItem(key,JSON.stringify({index:Number(current.dataset.paragraph),offset:Math.round(current.getBoundingClientRect().top)}))}catch{}};
+ if(!chapter||!active){pauseRef.current=()=>{};return;}
+ const key='storysteps-position-'+chapter.id,saved=readLocal(key,0);let restored=false,frame=0,capturing=true;
+ const save=()=>{if(!restored||!capturing)return;const nodes=[...document.querySelectorAll<HTMLElement>('[data-paragraph]')];const current=nodes.find(el=>el.getBoundingClientRect().bottom>90);if(!current)return;try{localStorage.setItem(key,JSON.stringify({index:Number(current.dataset.paragraph),offset:Math.round(current.getBoundingClientRect().top)}))}catch{}};
  const onScroll=()=>{if(frame)return;frame=requestAnimationFrame(()=>{frame=0;save()})};
  const timer=setTimeout(()=>{const index=typeof saved==='number'?saved:saved?.index;const node=document.getElementById('paragraph-'+index);if(node&&(index>0||typeof saved==='object')){const offset=typeof saved==='object'&&Number.isFinite(saved.offset)?saved.offset:100;window.scrollBy(0,node.getBoundingClientRect().top-offset)}restored=true},220);
- window.addEventListener('scroll',onScroll,{passive:true});recordReading('chapter_open','',chapter.id);
- return()=>{save();clearTimeout(timer);if(frame)cancelAnimationFrame(frame);window.removeEventListener('scroll',onScroll)};
- },[chapter?.id,active]);return {focus,setFocus,line,setLine};}
+ pauseRef.current=()=>{save();capturing=false};window.addEventListener('pagehide',save);window.addEventListener('scroll',onScroll,{passive:true});recordReading('chapter_open','',chapter.id);
+ return()=>{save();clearTimeout(timer);if(frame)cancelAnimationFrame(frame);window.removeEventListener('scroll',onScroll);window.removeEventListener('pagehide',save)};
+ },[chapter?.id,active]);return {focus,setFocus,line,setLine,pause:()=>pauseRef.current()};}
 export function StoryPreview({story,onRead}:{story:Story;onRead:(id:string)=>void}){const p=(previews as any)[story.id];const [copied,setCopied]=useState('');return <section className="story-preview"><span className="eyebrow">先看故事，再決定出發</span><h2>{p?.hook||story.hook}</h2><p>{p?.intro||story.desc}</p><p className="fine">無劇透介紹 · {story.genre} · {story.level}</p><div className="feature-actions"><button className="primary" onClick={()=>{recordReading('preview_to_read',story.id);onRead(story.chapters[0].id)}}>試讀第一章 →</button><button className="secondary" onClick={async()=>{const url=new URL(location.href);url.search='';url.searchParams.set('book',story.id);try{await navigator.clipboard.writeText(url.toString());setCopied('連結已複製')}catch{setCopied(url.toString())}}}>分享這個故事</button></div>{copied&&<p role="status" className="share-result">{copied}</p>}</section>}
 export function DiscoveryPicker({onBook,onRead,last}:{onBook:(s:Story)=>void;onRead:(id:string)=>void;last:string}){const [level,setLevel]=useState(''),[topic,setTopic]=useState('');const picks=stories.filter(s=>(!level||s.level===level)&&(!topic||(s.genre+' '+(s.tags||[]).join(' ')).includes(topic)));const groups=['懸疑','戀愛','奇幻','科幻','成長'];return <section className="discovery-picker"><span className="eyebrow">從一個想知道的結局開始</span><h2>今天，想讀什麼故事？</h2><p>先看中文介紹，喜歡再試讀。程度不確定，可以先從入門開始。</p><div className="picker-controls"><label>閱讀程度<select value={level} onChange={e=>setLevel(e.target.value)}><option value="">先看看所有程度</option>{levels.map(l=><option key={l}>{l}</option>)}</select></label><label>想看的題材<select value={topic} onChange={e=>setTopic(e.target.value)}><option value="">不限題材</option>{groups.map(g=><option key={g}>{g}</option>)}</select></label><button className="secondary" onClick={()=>onRead(last)}>接續上次閱讀</button></div><div className="discovery-picks">{picks.slice(0,3).map(s=><button key={s.id} onClick={()=>onBook(s)}><small>{s.level} · {s.genre}</small><b>{s.zh}</b><span>{(previews as any)[s.id]?.hook||s.hook}</span><strong>先看中文介紹 →</strong></button>)}</div>{!picks.length&&<p>目前沒有符合這組條件的故事。<button onClick={()=>{setLevel('');setTopic('')}}>重設條件</button></p>}</section>}
 export function ChapterPreview({chapter}:{chapter:Chapter}){return <details className="chapter-preview" onToggle={e=>{if(e.currentTarget.open)recordReading('chapter_preview','',chapter.id)}}><summary>讀之前，先看中文開場</summary><p>{(previews as any).chapters?.[chapter.id]||chapter.paragraphs[0]?.zh}</p><small>節錄本章開場；可收起後直接讀英文。</small></details>}
