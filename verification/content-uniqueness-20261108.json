@@ -1,0 +1,418 @@
+{
+  "books": 50,
+  "chapters": 1250,
+  "duplicateTitles": [],
+  "duplicateBooks": [],
+  "duplicateChapters": [],
+  "reusedLongParagraphs": [],
+  "mostSimilarPairs": [
+    {
+      "a": "ss-r5-l3-b",
+      "b": "ss-r4-l3-b",
+      "jaccard": 0.00072,
+      "sharedFractionOfShorter": 0.00158,
+      "sharedSevenWordPhrases": 22
+    },
+    {
+      "a": "ss-r4-l2-b",
+      "b": "ss-r2-l2-b",
+      "jaccard": 0.00018,
+      "sharedFractionOfShorter": 0.00037,
+      "sharedSevenWordPhrases": 6
+    },
+    {
+      "a": "import-rain-bell",
+      "b": "ss-r3-l1-a",
+      "jaccard": 0.00012,
+      "sharedFractionOfShorter": 0.00026,
+      "sharedSevenWordPhrases": 4
+    },
+    {
+      "a": "ss-r4-l1-a",
+      "b": "ss-r3-l1-a",
+      "jaccard": 0.00012,
+      "sharedFractionOfShorter": 0.00026,
+      "sharedSevenWordPhrases": 4
+    },
+    {
+      "a": "ss-r4-l1-a",
+      "b": "ss-r4-l2-b",
+      "jaccard": 0.00012,
+      "sharedFractionOfShorter": 0.00024,
+      "sharedSevenWordPhrases": 4
+    },
+    {
+      "a": "import-third-gate",
+      "b": "import-unbowed-city",
+      "jaccard": 8e-05,
+      "sharedFractionOfShorter": 0.00022,
+      "sharedSevenWordPhrases": 2
+    },
+    {
+      "a": "import-seed-ledger",
+      "b": "ss-r2-l2-b",
+      "jaccard": 9e-05,
+      "sharedFractionOfShorter": 0.00018,
+      "sharedSevenWordPhrases": 3
+    },
+    {
+      "a": "ss-r5-l2-b",
+      "b": "ss-r2-l6-b",
+      "jaccard": 9e-05,
+      "sharedFractionOfShorter": 0.00018,
+      "sharedSevenWordPhrases": 3
+    },
+    {
+      "a": "ss-r5-l2-b",
+      "b": "ss-r2-l2-b",
+      "jaccard": 9e-05,
+      "sharedFractionOfShorter": 0.00018,
+      "sharedSevenWordPhrases": 3
+    },
+    {
+      "a": "ss-r5-l5-b",
+      "b": "ss-r4-l5-b",
+      "jaccard": 7e-05,
+      "sharedFractionOfShorter": 0.00018,
+      "sharedSevenWordPhrases": 2
+    },
+    {
+      "a": "ss-r5-l3-b",
+      "b": "ss-r2-l4-a",
+      "jaccard": 9e-05,
+      "sharedFractionOfShorter": 0.00018,
+      "sharedSevenWordPhrases": 3
+    },
+    {
+      "a": "ss-r4-l5-b",
+      "b": "ss-r4-l2-a",
+      "jaccard": 9e-05,
+      "sharedFractionOfShorter": 0.00018,
+      "sharedSevenWordPhrases": 3
+    },
+    {
+      "a": "ss-r5-l1-b",
+      "b": "ss-r4-l1-b",
+      "jaccard": 7e-05,
+      "sharedFractionOfShorter": 0.00015,
+      "sharedSevenWordPhrases": 2
+    },
+    {
+      "a": "import-two-histories",
+      "b": "ss-r4-l1-b",
+      "jaccard": 6e-05,
+      "sharedFractionOfShorter": 0.00013,
+      "sharedSevenWordPhrases": 2
+    },
+    {
+      "a": "import-yun-cape",
+      "b": "ss-r5-l5-a",
+      "jaccard": 6e-05,
+      "sharedFractionOfShorter": 0.00013,
+      "sharedSevenWordPhrases": 2
+    }
+  ],
+  "method": "Case/punctuation-insensitive title and English/Chinese full-text SHA256; chapter hashes; English paragraphs >=15 words; seven-word shingle overlap across all book pairs. Similarity screening cannot establish originality or exclude all paraphrased plots.",
+  "catalog": [
+    {
+      "id": "tomorrow",
+      "title": "明天，別來學校",
+      "chapters": 25,
+      "englishWords": 13684
+    },
+    {
+      "id": "import-rain-bell",
+      "title": "雨來之前的鐘聲",
+      "chapters": 25,
+      "englishWords": 16637
+    },
+    {
+      "id": "import-two-rivers",
+      "title": "雙河，同心",
+      "chapters": 25,
+      "englishWords": 16545
+    },
+    {
+      "id": "import-last-garden",
+      "title": "最後的花園",
+      "chapters": 25,
+      "englishWords": 15816
+    },
+    {
+      "id": "import-two-histories",
+      "title": "雙時代之鐘",
+      "chapters": 25,
+      "englishWords": 15598
+    },
+    {
+      "id": "import-third-gate",
+      "title": "南河雙時錄",
+      "chapters": 25,
+      "englishWords": 15898
+    },
+    {
+      "id": "import-campus-crush",
+      "title": "戀愛嫌疑犯通緝中",
+      "chapters": 25,
+      "englishWords": 16469
+    },
+    {
+      "id": "import-seed-ledger",
+      "title": "種子帳冊",
+      "chapters": 25,
+      "englishWords": 16422
+    },
+    {
+      "id": "import-seventh-light",
+      "title": "第七盞燈",
+      "chapters": 25,
+      "englishWords": 9318
+    },
+    {
+      "id": "import-yun-cape",
+      "title": "雲岬十三光",
+      "chapters": 25,
+      "englishWords": 16163
+    },
+    {
+      "id": "import-platform-thirteen",
+      "title": "第十三站台",
+      "chapters": 25,
+      "englishWords": 17644
+    },
+    {
+      "id": "import-unbowed-city",
+      "title": "灰橋不低頭",
+      "chapters": 25,
+      "englishWords": 16639
+    },
+    {
+      "id": "ceo-1",
+      "title": "總裁，這份合約我改了｜第一卷：她刪掉的那一條",
+      "chapters": 25,
+      "englishWords": 14445
+    },
+    {
+      "id": "import-borrowed-thunder",
+      "title": "借雷之城",
+      "chapters": 25,
+      "englishWords": 15839
+    },
+    {
+      "id": "import-salt-archive",
+      "title": "灰潮檔案",
+      "chapters": 25,
+      "englishWords": 15984
+    },
+    {
+      "id": "import-reverse-clock-inn",
+      "title": "逆鐘旅店",
+      "chapters": 25,
+      "englishWords": 16170
+    },
+    {
+      "id": "ss-r5-l1-b",
+      "title": "貝殼灣的影子節",
+      "chapters": 25,
+      "englishWords": 16639
+    },
+    {
+      "id": "ss-r5-l2-b",
+      "title": "不必編造的約會",
+      "chapters": 25,
+      "englishWords": 18813
+    },
+    {
+      "id": "ss-r5-l3-a",
+      "title": "第二聲鐘響前，離開白沙灘",
+      "chapters": 25,
+      "englishWords": 15482
+    },
+    {
+      "id": "ss-r5-l4-b",
+      "title": "1996，晨光照相館的第二張底片",
+      "chapters": 25,
+      "englishWords": 16546
+    },
+    {
+      "id": "ss-r5-l5-b",
+      "title": "封存試煉：未被允許遺忘的人",
+      "chapters": 25,
+      "englishWords": 16515
+    },
+    {
+      "id": "ss-r5-l6-b",
+      "title": "這次，我把自己的名字留在門上",
+      "chapters": 25,
+      "englishWords": 15593
+    },
+    {
+      "id": "ss-r4-l1-a",
+      "title": "鈴聲過後的每一封信",
+      "chapters": 25,
+      "englishWords": 16764
+    },
+    {
+      "id": "ss-r5-l2-a",
+      "title": "不會飛的信使，替群山點燈",
+      "chapters": 25,
+      "englishWords": 16982
+    },
+    {
+      "id": "ss-r5-l3-b",
+      "title": "兩把鑰匙，同一座舞台",
+      "chapters": 25,
+      "englishWords": 16810
+    },
+    {
+      "id": "ss-r5-l4-a",
+      "title": "第九街區，不接受單人通關",
+      "chapters": 25,
+      "englishWords": 20297
+    },
+    {
+      "id": "ss-r5-l5-a",
+      "title": "第十三道潮痕：鐘樓不肯說的時間",
+      "chapters": 25,
+      "englishWords": 15469
+    },
+    {
+      "id": "ss-r5-l6-a",
+      "title": "王庭第七份證詞",
+      "chapters": 25,
+      "englishWords": 17246
+    },
+    {
+      "id": "ss-r4-l1-b",
+      "title": "河流兩岸的紅繩",
+      "chapters": 25,
+      "englishWords": 15749
+    },
+    {
+      "id": "ss-r4-l2-b",
+      "title": "凌晨四點，咖啡還是熱的",
+      "chapters": 25,
+      "englishWords": 17223
+    },
+    {
+      "id": "ss-r2-l3-a",
+      "title": "這座圖書館，禁止替別人作答",
+      "chapters": 25,
+      "englishWords": 15769
+    },
+    {
+      "id": "ss-r4-l4-b",
+      "title": "1997，青禾市場的第二張招牌",
+      "chapters": 25,
+      "englishWords": 17456
+    },
+    {
+      "id": "ss-r4-l5-b",
+      "title": "山海邊境，失蹤者仍在等待",
+      "chapters": 25,
+      "englishWords": 16910
+    },
+    {
+      "id": "ss-r2-l6-b",
+      "title": "退房之前，請把真話說完",
+      "chapters": 25,
+      "englishWords": 16236
+    },
+    {
+      "id": "ss-r4-l2-a",
+      "title": "鐘聲之外，還有一行字",
+      "chapters": 25,
+      "englishWords": 16265
+    },
+    {
+      "id": "ss-r4-l3-b",
+      "title": "被改掉的那句話",
+      "chapters": 25,
+      "englishWords": 20725
+    },
+    {
+      "id": "ss-r3-l4-a",
+      "title": "零段位情報員：城市不該只聽強者說話",
+      "chapters": 25,
+      "englishWords": 15804
+    },
+    {
+      "id": "ss-r4-l5-a",
+      "title": "明燈基金：第三輛車的帳",
+      "chapters": 25,
+      "englishWords": 17279
+    },
+    {
+      "id": "ss-r2-l6-a",
+      "title": "反派的辯護人，決定先替自己翻案",
+      "chapters": 25,
+      "englishWords": 16215
+    },
+    {
+      "id": "ss-r2-l1-b",
+      "title": "獸人村的第一間早餐店",
+      "chapters": 25,
+      "englishWords": 15751
+    },
+    {
+      "id": "ss-r2-l2-b",
+      "title": "死對頭成了我的雙人直播搭檔",
+      "chapters": 25,
+      "englishWords": 16383
+    },
+    {
+      "id": "ss-r2-l4-b",
+      "title": "1998，海禾戲院不打烊",
+      "chapters": 25,
+      "englishWords": 16373
+    },
+    {
+      "id": "ss-r2-l5-b",
+      "title": "兩個不能飛升的人，接下了送信任務",
+      "chapters": 25,
+      "englishWords": 16951
+    },
+    {
+      "id": "ss-r3-l1-a",
+      "title": "星星不見的那一天",
+      "chapters": 25,
+      "englishWords": 15550
+    },
+    {
+      "id": "ss-r3-l2-a",
+      "title": "山門的最後一枚銅牌",
+      "chapters": 25,
+      "englishWords": 20838
+    },
+    {
+      "id": "ss-r3-l5-a",
+      "title": "驛站密信：兩枚印章之下",
+      "chapters": 25,
+      "englishWords": 19110
+    },
+    {
+      "id": "ss-r2-l1-a",
+      "title": "打烊後，這間店由我作主",
+      "chapters": 25,
+      "englishWords": 16598
+    },
+    {
+      "id": "ss-r2-l2-a",
+      "title": "我的修仙天賦，是看懂使用說明",
+      "chapters": 25,
+      "englishWords": 18074
+    },
+    {
+      "id": "ss-r2-l4-a",
+      "title": "遊戲降臨後，我只想開一家修理店",
+      "chapters": 25,
+      "englishWords": 16661
+    },
+    {
+      "id": "ss-r2-l5-a",
+      "title": "實習結束前，我要拿回自己的名字",
+      "chapters": 25,
+      "englishWords": 16800
+    }
+  ]
+}

@@ -7,3 +7,32 @@
 @media(max-width:900px){.home-story-grid{gap:12px}.home-story-copy{padding:12px}.home-story-copy h2{font-size:16px}.home-progress>.growth-panel{padding:16px}.habit-compact{display:flex;flex-direction:column;align-items:stretch;gap:5px}.habit-compact .primary{align-self:flex-start}.home-progress h2{font-size:16px}.goal-compact{display:flex;flex-direction:column;align-items:stretch;justify-content:center}.goal-compact label{display:flex;align-items:center;justify-content:space-between}.goal-compact>div:first-child{flex:initial}.header-actions{gap:8px}}
 @media(max-width:600px){.home-stories h1{font-size:22px;line-height:1.5}.home-story-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 10px}.home-story-art{aspect-ratio:4/5}.home-story-copy h2{font-size:15px;min-height:46px}.home-story-copy p{font-size:11px;margin-bottom:8px}.home-story-copy{padding:11px}.home-story-category{font-size:9px;left:10px;bottom:10px}.home-story-badge{top:8px;left:8px;font-size:9px;padding:4px 8px}.home-progress{gap:10px;margin:20px 0}.home-progress>.growth-panel{padding:13px 11px}.home-progress h2{font-size:14px}.habit-compact .primary{font-size:10px;padding:9px 10px}.habit-compact .text-link{font-size:10px;min-height:32px}.goal-compact label{font-size:10px}.theme-toggle{width:40px;height:40px}.sponsor-copy strong{font-size:18px;letter-spacing:0}.sponsor-label{max-width:none}.sponsor-slot .sponsor-copy{flex-basis:100%}.sponsor-copy p{font-size:12px}.popular-note{font-size:11px}.home-story-card:hover{transform:none}}
 @media(prefers-reduced-motion:reduce){.home-story-card{transition:none}.home-story-card:hover{transform:none}}
+
+/* Shared surfaces and controls, including pages outside the home screen. */
+.page-reading-note{margin-top:36px;padding:15px 0;border-top:1px solid var(--line);font-size:11px;line-height:1.9;color:var(--muted)}
+.page-reading-support{margin-top:32px;padding-top:20px;border-top:1px solid var(--line)}
+.theme-night :is(.featured-book,.chapter-grid>button,.free-benefits>div,.purchase-panel,.purchase-books article,.purchase-plan,.reward-panel,.story-preview,.static-local-note,.series-panel,.notice,.test-notice,.chapter-heat>div,.mood-total){background:var(--paper);border-color:var(--line);color:var(--ink)}
+.theme-night :is(input:not([type=radio]):not([type=checkbox]),select,textarea){background:#292a37;color:var(--ink);border-color:#565367;color-scheme:dark}
+.theme-night :is(.topic-tabs button,.icon-text,.lock-circle,.history-icon,.strip-icon,.modal-icon){background:var(--lavender);color:#d4c3f3;border-color:var(--line)}
+.theme-night :is(.topic-tabs button.selected,.level-tabs button.selected,.side-nav button.selected,.reader-toc button.selected,.icon-text.selected,.series-panel button.selected){background:#4b3b65;color:#f0e4ff;border-color:#8270a0}
+.theme-night :is(.reader-tools,.reader-comfort,.reader-hint,.reader-title h2,.read-meta,.reader-header,.reader-toc button,.reader-toc p,.paragraph-translate,.chapter-number,.chapter-status,.detail-en,.detail-copy h3,.detail-stats b,.daily-card strong,.word-modal h2,.word-modal .word-meaning,footer b){color:#d0bcE8}
+.theme-night :is(.detail-copy>p:not(.detail-en):not(.fine),.detail-stats small,.chapter-grid small,.chapter-grid .chapter-status,.chapter-words button span,.word-list small,.flashcard p,.flashcard>span,.metrics span,.metrics b small,.history small,.purchase-plan p,.purchase-books small,.purchase-panel p,.passport-rules p,.world-stamp span,.novel-rank-card p,.novel-rank-card small,.side-nav button,.side-levels button>span:last-child,.eyebrow,.side-label,.original-label,.shelf-summary,.card-bottom,.publication,.launch-note,.vocabulary-verification small,.advertising-slot>small){color:var(--muted)}
+.theme-night .prose .translation{color:#c8bfd5;border-color:#7b668e}
+.theme-night .chapter-words button{background:#2d293a;border-color:#51465e}
+.theme-night .chapter-words button b{color:#e0c9f2}
+.theme-night .inline-word:focus-visible{background:#483858;color:#ebddf5;outline:2px solid #bea9f5}
+.theme-night :is(.purchase-plan.selected,.purchase-message,.issued-code code,.world-stamp.earned,.rank-road .earned,.level-badges .earned){background:#393246;color:var(--ink);border-color:#9983b6}
+.theme-night .novel-rank-card:hover{background:#302c3e}
+.theme-night .quiz label{border-color:#51485f;color:var(--ink)}
+.theme-night .quiz label>span{color:#cec0dd}
+.theme-night .quiz label.picked{background:#3a304b;border-color:#b39acb}
+.theme-night .quiz label.correct{background:#2f3e37;color:#c5e3cf;border-color:#88b899}
+.theme-night .quiz label.wrong{background:#473238;color:#f0cbd3;border-color:#bd8390}
+.theme-night .primary:hover:not(:disabled){background:#baa0ef;color:#17121f}
+.theme-night :is(input,textarea)::placeholder{color:#aaa2ba}
+.theme-night .error-text{color:#f3aaaa!important}
+.theme-night .overlay{background:#080710b8}
+.theme-night .header nav{background:#1c1d28}
+.theme-night .home-story-badge{background:#30283e;color:#f0e5ff}
+.theme-night .cover-badge{background:#312b3e;color:#eee2fa}
+.theme-night .cover-badge.complete{background:#343c30;color:#dbe8c8}
