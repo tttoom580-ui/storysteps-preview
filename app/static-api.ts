@@ -7,7 +7,7 @@ const nativeFetch=window.fetch.bind(window);
 const json=(value:any,status=200)=>Promise.resolve(new Response(JSON.stringify(value),{status,headers:{'Content-Type':'application/json'}}));
 const read=(key:string,fallback:any)=>{try{return JSON.parse(localStorage.getItem(key)||'null')??fallback}catch{return fallback}};
 let manifestPromise:Promise<any>|null=null;const cache=new Map<string,Promise<any[]>>();
-const manifest=()=>manifestPromise??=nativeFetch(new URL('./content-manifest.json',document.baseURI)).then(r=>{if(!r.ok)throw Error('無法載入書庫設定');return r.json()}).catch(e=>{manifestPromise=null;throw e});
+const manifest=()=>manifestPromise??=nativeFetch(new URL('./content-manifest.json',document.baseURI),{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('無法載入書庫設定');return r.json()}).catch(e=>{manifestPromise=null;throw e});
 function chapters(id:string){if(!cache.has(id))cache.set(id,manifest().then(m=>{const item=m.books[id];if(!item)throw Error('找不到故事');return nativeFetch(new URL(item.url,document.baseURI))}).then(r=>{if(!r.ok)throw Error('故事資料載入失敗');return new Response(r.body!.pipeThrough(new DecompressionStream('gzip'))).json()}).catch(e=>{cache.delete(id);throw e}));return cache.get(id)!}
 const loadedChapters=()=>Promise.all([...cache.values()]).then(xs=>xs.flat());
 const guest=()=>read('storysteps-guest',{progress:[],vocab:[],activity:[]});
