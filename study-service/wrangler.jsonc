@@ -1,0 +1,9 @@
+{
+  "name": "storysteps-reading-study",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-11-08",
+  "workers_dev": true,
+  "d1_databases": [{"binding":"DB","database_name":"storysteps-reading-study","database_id":"e2bb7f43-e8ae-4238-a528-9a8908d77236"}],
+  "triggers": {"crons":["15 19 * * *"]},
+  "observability": {"enabled":true,"logs":{"enabled":true,"invocation_logs":false},"traces":{"enabled":true,"head_sampling_rate":0.01}}
+}

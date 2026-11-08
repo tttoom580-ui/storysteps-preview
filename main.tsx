@@ -6,3 +6,5 @@ createRoot(document.getElementById('root')!).render(<Home/>);
 import './app/mobile.css';
 
 import './app/reader-upgrade.css';
+
+import './app/reading-growth.css';
