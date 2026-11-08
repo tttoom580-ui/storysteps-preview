@@ -11,6 +11,6 @@ export function cleanState(x:any):ReaderState{
 }
 export function validateBackup(x:any){if(x?.format!=='storysteps-learning'||x.version!==1||!Array.isArray(x.progress)||!Array.isArray(x.vocab)||x.progress.length>5000||x.vocab.length>10000)throw Error('不是支援的拾頁備份，或資料量超出限制。');
  const progress=x.progress.filter((p:any)=>stories.some(b=>b.chapters.some(c=>c.available&&c.id===p.chapter))).map((p:any)=>({chapter:p.chapter,score:0,completed:Number.isFinite(p.completed)?Math.max(0,Math.min(Date.now(),p.completed)):Date.now()}));
- const vocab=x.vocab.filter((v:any)=>typeof v.word==='string'&&/^[a-z]+(?:'[a-z]+)*$/.test(v.word)&&v.word.length<=40&&typeof v.meaning==='string'&&v.meaning.trim()&&v.meaning.length<=200).map((v:any)=>({word:v.word,meaning:v.meaning,stage:Number.isInteger(v.stage)?Math.max(0,Math.min(5,v.stage)):0,due:Number.isFinite(v.due)?Math.max(0,Math.min(Date.now()+30*86400000,v.due)):Date.now()}));
+ const vocab=x.vocab.filter((v:any)=>typeof v.word==='string'&&/^\p{L}+(?:'\p{L}+)*$/u.test(v.word)&&v.word.length<=40&&typeof v.meaning==='string'&&v.meaning.trim()&&v.meaning.length<=200).map((v:any)=>({word:v.word,meaning:v.meaning,stage:Number.isInteger(v.stage)?Math.max(0,Math.min(5,v.stage)):0,due:Number.isFinite(v.due)?Math.max(0,Math.min(Date.now()+30*86400000,v.due)):Date.now()}));
  return {progress,vocab,state:cleanState(x.state)};
 }
