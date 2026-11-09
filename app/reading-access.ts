@@ -1,3 +1,4 @@
+import {markLocalSaved} from './storage-status';
 import {stories} from './content';
 import {blockForChapter,appendGrant} from './access-policy.mjs';
 const key='storysteps-free-access-v1';
@@ -5,12 +6,12 @@ export function readGrants(){try{const d=JSON.parse(localStorage.getItem(key)||'
 export function canRead(story:string,number:number){const block=blockForChapter(number);return !block||readGrants().some(g=>g.story===story&&g.start===block.start)}
 export function grantBlock(story:string,number:number,source:'launch-gift'|'rewarded-ad'){
  if(!stories.some(b=>b.id===story))throw Error('找不到故事');const block=blockForChapter(number);if(!block)return;
- localStorage.setItem(key,JSON.stringify(appendGrant(readGrants(),story,block.start,source)));window.dispatchEvent(new Event('storysteps-access-changed'));
+ localStorage.setItem(key,JSON.stringify(appendGrant(readGrants(),story,block.start,source)));markLocalSaved();window.dispatchEvent(new Event('storysteps-access-changed'));
 }
 export {blockForChapter};
 export type AdConfig={enabled:boolean;adUnitPath:string;allowFreeFallback:boolean};
 let configPromise:Promise<AdConfig>|null=null;
-export function adConfig(){return configPromise??=window.fetch(new URL('./rewarded-config.json',document.baseURI)).then(r=>{if(!r.ok)throw Error('無法載入閱讀設定');return r.json()}).then(d=>({enabled:d.enabled===true,adUnitPath:typeof d.adUnitPath==='string'?d.adUnitPath:'',allowFreeFallback:d.allowFreeFallback===true})).catch(e=>{configPromise=null;throw e})}
+export function adConfig(){return configPromise??=window.fetch(new URL('./rewarded-config.json',document.baseURI)).then(r=>{if(!r.ok)throw Error('無法載入閱讀設定');return r.json()}).then(d=>({enabled:false,adUnitPath:typeof d.adUnitPath==='string'?d.adUnitPath:'',allowFreeFallback:d.allowFreeFallback===true})).catch(e=>{configPromise=null;throw e})}
 let active=false;
 let sdkPromise:Promise<void>|null=null;
 function loadSDK(){return sdkPromise??=new Promise<void>((resolve,reject)=>{

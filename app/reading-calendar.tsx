@@ -1,8 +1,9 @@
+import {markLocalSaved} from './storage-status';
 import {useEffect,useState} from 'react';
 import {cleanDays,dayStats,readingTick,taipeiDay} from './habit-policy.mjs';
 const key='storysteps-reading-days-v1';
 export function readDays():string[]{try{return cleanDays(JSON.parse(localStorage.getItem(key)||'[]'))}catch{return []}}
-export function mergeDays(value:unknown){const next=cleanDays([...readDays(),...(Array.isArray(value)?value:[])]);localStorage.setItem(key,JSON.stringify(next));window.dispatchEvent(new Event('storysteps-days-changed'));return next}
+export function mergeDays(value:unknown){const next=cleanDays([...readDays(),...(Array.isArray(value)?value:[])]);localStorage.setItem(key,JSON.stringify(next));markLocalSaved();window.dispatchEvent(new Event('storysteps-days-changed'));return next}
 export function useReadingDays(activity:string[],chapter:string|null){
  const [days,setDays]=useState(readDays),[now,setNow]=useState(Date.now),[notice,setNotice]=useState('');
  useEffect(()=>{const update=()=>{setDays(readDays());setNow(Date.now())};window.addEventListener('storysteps-days-changed',update);window.addEventListener('storage',update);const t=setInterval(()=>setNow(Date.now()),60000);return()=>{clearInterval(t);window.removeEventListener('storysteps-days-changed',update);window.removeEventListener('storage',update)}},[]);
