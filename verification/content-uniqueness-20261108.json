@@ -1,6 +1,6 @@
 {
-  "books": 50,
-  "chapters": 1250,
+  "books": 62,
+  "chapters": 1550,
   "duplicateTitles": [],
   "duplicateBooks": [],
   "duplicateChapters": [],
@@ -12,6 +12,13 @@
       "jaccard": 0.00072,
       "sharedFractionOfShorter": 0.00158,
       "sharedSevenWordPhrases": 22
+    },
+    {
+      "a": "ss-r5-l6-b",
+      "b": "ss-r6-l2-b",
+      "jaccard": 0.00019,
+      "sharedFractionOfShorter": 0.00038,
+      "sharedSevenWordPhrases": 6
     },
     {
       "a": "ss-r4-l2-b",
@@ -42,11 +49,46 @@
       "sharedSevenWordPhrases": 4
     },
     {
+      "a": "ss-r5-l3-b",
+      "b": "ss-r6-l2-b",
+      "jaccard": 0.00012,
+      "sharedFractionOfShorter": 0.00024,
+      "sharedSevenWordPhrases": 4
+    },
+    {
       "a": "import-third-gate",
       "b": "import-unbowed-city",
       "jaccard": 8e-05,
       "sharedFractionOfShorter": 0.00022,
       "sharedSevenWordPhrases": 2
+    },
+    {
+      "a": "ss-r5-l1-b",
+      "b": "ss-r7-l1-b",
+      "jaccard": 0.0001,
+      "sharedFractionOfShorter": 0.00022,
+      "sharedSevenWordPhrases": 3
+    },
+    {
+      "a": "ss-r3-l2-a",
+      "b": "ss-r6-l6-b",
+      "jaccard": 0.0001,
+      "sharedFractionOfShorter": 0.00022,
+      "sharedSevenWordPhrases": 2
+    },
+    {
+      "a": "ss-r4-l1-b",
+      "b": "ss-r6-l1-a",
+      "jaccard": 9e-05,
+      "sharedFractionOfShorter": 0.00019,
+      "sharedSevenWordPhrases": 3
+    },
+    {
+      "a": "ss-r2-l2-a",
+      "b": "ss-r7-l1-b",
+      "jaccard": 9e-05,
+      "sharedFractionOfShorter": 0.00019,
+      "sharedSevenWordPhrases": 3
     },
     {
       "a": "import-seed-ledger",
@@ -68,48 +110,6 @@
       "jaccard": 9e-05,
       "sharedFractionOfShorter": 0.00018,
       "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "ss-r5-l5-b",
-      "b": "ss-r4-l5-b",
-      "jaccard": 7e-05,
-      "sharedFractionOfShorter": 0.00018,
-      "sharedSevenWordPhrases": 2
-    },
-    {
-      "a": "ss-r5-l3-b",
-      "b": "ss-r2-l4-a",
-      "jaccard": 9e-05,
-      "sharedFractionOfShorter": 0.00018,
-      "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "ss-r4-l5-b",
-      "b": "ss-r4-l2-a",
-      "jaccard": 9e-05,
-      "sharedFractionOfShorter": 0.00018,
-      "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "ss-r5-l1-b",
-      "b": "ss-r4-l1-b",
-      "jaccard": 7e-05,
-      "sharedFractionOfShorter": 0.00015,
-      "sharedSevenWordPhrases": 2
-    },
-    {
-      "a": "import-two-histories",
-      "b": "ss-r4-l1-b",
-      "jaccard": 6e-05,
-      "sharedFractionOfShorter": 0.00013,
-      "sharedSevenWordPhrases": 2
-    },
-    {
-      "a": "import-yun-cape",
-      "b": "ss-r5-l5-a",
-      "jaccard": 6e-05,
-      "sharedFractionOfShorter": 0.00013,
-      "sharedSevenWordPhrases": 2
     }
   ],
   "method": "Case/punctuation-insensitive title and English/Chinese full-text SHA256; chapter hashes; English paragraphs >=15 words; seven-word shingle overlap across all book pairs. Similarity screening cannot establish originality or exclude all paraphrased plots.",
@@ -413,6 +413,78 @@
       "title": "實習結束前，我要拿回自己的名字",
       "chapters": 25,
       "englishWords": 16800
+    },
+    {
+      "id": "ss-r6-l1-a",
+      "title": "第七個位置",
+      "chapters": 25,
+      "englishWords": 15896
+    },
+    {
+      "id": "ss-r6-l2-b",
+      "title": "寄給明天的兩張明信片",
+      "chapters": 25,
+      "englishWords": 16780
+    },
+    {
+      "id": "ss-r6-l3-b",
+      "title": "當城市聽見我們",
+      "chapters": 25,
+      "englishWords": 16341
+    },
+    {
+      "id": "ss-r6-l4-b",
+      "title": "1996，藍線裁縫舖的第二把尺",
+      "chapters": 25,
+      "englishWords": 15600
+    },
+    {
+      "id": "ss-r6-l5-b",
+      "title": "折春城的第四季：與你一起等春來",
+      "chapters": 25,
+      "englishWords": 16266
+    },
+    {
+      "id": "ss-r6-l6-b",
+      "title": "你終於學會告白時，我已經準備離開",
+      "chapters": 25,
+      "englishWords": 15752
+    },
+    {
+      "id": "ss-r7-l1-b",
+      "title": "雪谷的七種聲音",
+      "chapters": 25,
+      "englishWords": 15561
+    },
+    {
+      "id": "ss-r7-l2-a",
+      "title": "沒有火種的修窯師",
+      "chapters": 25,
+      "englishWords": 16171
+    },
+    {
+      "id": "ss-r7-l3-a",
+      "title": "零號月台的三條規則",
+      "chapters": 25,
+      "englishWords": 16295
+    },
+    {
+      "id": "ss-r7-l4-a",
+      "title": "失物檔案館：城市遺忘的那一天",
+      "chapters": 25,
+      "englishWords": 18291
+    },
+    {
+      "id": "ss-r7-l5-a",
+      "title": "紅色母帶：誰有權借走她的聲音",
+      "chapters": 25,
+      "englishWords": 16389
+    },
+    {
+      "id": "ss-r7-l6-a",
+      "title": "最後一幕，不准有人犧牲",
+      "chapters": 25,
+      "englishWords": 16429
     }
   ]
 }

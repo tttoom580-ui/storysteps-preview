@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ss-r7-l1-b",
+    "title": "雪谷的七種聲音",
+    "source": "StorySteps_1B_雪谷的七種聲音_全新第5版_完整25章.md",
+    "sourceSha256": "d5d53455de7409efd7ac04bd4786d40224f3efcbc951ab744c78be88d1f5de81",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 604,
+    "maxEnglishWords": 667
+  },
+  {
+    "id": "ss-r7-l2-a",
+    "title": "沒有火種的修窯師",
+    "source": "2A_沒有火種的修窯師_25章完整雙語稿.md",
+    "sourceSha256": "cb38b726be3aca2128e7bc38a4a0be05e2ecb151b63031623c917451d18b3cb9",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 701,
+    "maxEnglishWords": 761
+  },
+  {
+    "id": "ss-r7-l3-a",
+    "title": "零號月台的三條規則",
+    "source": "StorySteps_3A_零號月台的三條規則_完整25章.md",
+    "sourceSha256": "7509a9803be9de64e6a05aacf394522fafb672d14e1a9412ede00103c9a2863e",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 624,
+    "maxEnglishWords": 688
+  },
+  {
+    "id": "ss-r7-l4-a",
+    "title": "失物檔案館：城市遺忘的那一天",
+    "source": "4A_失物檔案館_城市遺忘的那一天_全25章.md",
+    "sourceSha256": "8e74402b24f39da1a4aef2c5bcd9909f359f9062f45d73fe0f9f1a1d7ee2e088",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 685,
+    "maxEnglishWords": 770
+  },
+  {
+    "id": "ss-r7-l5-a",
+    "title": "紅色母帶：誰有權借走她的聲音",
+    "source": "5A_紅色母帶_誰有權借走她的聲音_25章全新第五版.md",
+    "sourceSha256": "9c521c622cacb76eb320ecd3eeb438ae0d8181c118cf8337ad789e7db4057a67",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 632,
+    "maxEnglishWords": 688
+  },
+  {
+    "id": "ss-r7-l6-a",
+    "title": "最後一幕，不准有人犧牲",
+    "source": "6A_最後一幕不准有人犧牲_全新第四部25章雙語小說.md",
+    "sourceSha256": "8d4f130adcade412518d1ec6e8a6e0754d5005e0070f4d3025b624fe50371e03",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 676,
+    "maxEnglishWords": 760
+  }
+]
