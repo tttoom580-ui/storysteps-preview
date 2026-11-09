@@ -1,0 +1,67 @@
+{
+  "newBooks": [
+    {
+      "id": "ss-r8-l2-b",
+      "title": "燈熄之後，星星仍在",
+      "source": "2B_燈熄之後星星仍在_25章完整雙語稿.md",
+      "sourceSha256": "2dc73d4a2ace9622146fdb971ca8641ee572dfe208146e159e508f78ec36a332",
+      "chapters": 25,
+      "questions": 50,
+      "uniqueTargetIds": 501,
+      "minEnglishWords": 637,
+      "maxEnglishWords": 702
+    },
+    {
+      "id": "ss-r8-l3-b",
+      "title": "把夜路畫成星圖",
+      "source": "StorySteps_3B_把夜路畫成星圖_完整25章.md",
+      "sourceSha256": "ef388c8c13bdf60faf784e99d4f870c3cb84b41d28f56f153afdc80d5d7ba747",
+      "chapters": 25,
+      "questions": 50,
+      "uniqueTargetIds": 501,
+      "minEnglishWords": 600,
+      "maxEnglishWords": 696
+    },
+    {
+      "id": "ss-r8-l4-b",
+      "title": "1995，最後一班渡輪的午餐",
+      "source": "4B_1995最後一班渡輪的午餐_全25章.md",
+      "sourceSha256": "e59f9c6eac677ab8f43d2748704b496716794112c3d0145f933b7afe84ff6342",
+      "chapters": 25,
+      "questions": 50,
+      "uniqueTargetIds": 501,
+      "minEnglishWords": 615,
+      "maxEnglishWords": 682
+    },
+    {
+      "id": "ss-r8-l5-b",
+      "title": "星債未償：我們替夜空記住名字",
+      "source": "5B_星債未償_我們替夜空記住名字_25章全新第五版.md",
+      "sourceSha256": "43e97c1f5029553c2bcfe92039bbf10e4c98843432054318b49cb608222ac8fe",
+      "chapters": 25,
+      "questions": 50,
+      "uniqueTargetIds": 501,
+      "minEnglishWords": 607,
+      "maxEnglishWords": 681
+    },
+    {
+      "id": "ss-r8-l6-b",
+      "title": "最後一班夜車，我要自己決定終點",
+      "source": "6B_最後一班夜車我要自己決定終點_全新第四部25章雙語小說.md",
+      "sourceSha256": "589857a63faec3c1453327e56b856a278feeba2a7ef26c214c1bc5d11ea60cc4",
+      "chapters": 25,
+      "questions": 50,
+      "uniqueTargetIds": 501,
+      "minEnglishWords": 600,
+      "maxEnglishWords": 630
+    }
+  ],
+  "skippedDuplicate": {
+    "title": "零號月台的三條規則",
+    "existingId": "ss-r7-l3-a",
+    "sourceSha256": "7509a9803be9de64e6a05aacf394522fafb672d14e1a9412ede00103c9a2863e",
+    "reason": "byte-identical to already imported manuscript; editorial revision handled separately"
+  },
+  "gradeAttribution": "CEEC reference compiled to align with MOE 108 English curriculum; site range and A/B split are project arrangement, not official endorsement",
+  "learningPlan": "25 daily chapters + review days, about 1 month/book; A+B about 1000 target entries, exposure not guaranteed mastery"
+}

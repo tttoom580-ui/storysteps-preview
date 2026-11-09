@@ -1,6 +1,6 @@
 {
-  "books": 62,
-  "chapters": 1550,
+  "books": 67,
+  "chapters": 1675,
   "duplicateTitles": [],
   "duplicateBooks": [],
   "duplicateChapters": [],
@@ -56,6 +56,20 @@
       "sharedSevenWordPhrases": 4
     },
     {
+      "a": "ss-r6-l2-b",
+      "b": "ss-r8-l2-b",
+      "jaccard": 0.00012,
+      "sharedFractionOfShorter": 0.00024,
+      "sharedSevenWordPhrases": 4
+    },
+    {
+      "a": "ss-r7-l6-a",
+      "b": "ss-r8-l3-b",
+      "jaccard": 0.0001,
+      "sharedFractionOfShorter": 0.00023,
+      "sharedSevenWordPhrases": 3
+    },
+    {
       "a": "import-third-gate",
       "b": "import-unbowed-city",
       "jaccard": 8e-05,
@@ -92,20 +106,6 @@
     },
     {
       "a": "import-seed-ledger",
-      "b": "ss-r2-l2-b",
-      "jaccard": 9e-05,
-      "sharedFractionOfShorter": 0.00018,
-      "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "ss-r5-l2-b",
-      "b": "ss-r2-l6-b",
-      "jaccard": 9e-05,
-      "sharedFractionOfShorter": 0.00018,
-      "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "ss-r5-l2-b",
       "b": "ss-r2-l2-b",
       "jaccard": 9e-05,
       "sharedFractionOfShorter": 0.00018,
@@ -166,7 +166,7 @@
       "id": "import-seventh-light",
       "title": "第七盞燈",
       "chapters": 25,
-      "englishWords": 9318
+      "englishWords": 13366
     },
     {
       "id": "import-yun-cape",
@@ -454,19 +454,19 @@
       "id": "ss-r7-l1-b",
       "title": "雪谷的七種聲音",
       "chapters": 25,
-      "englishWords": 15561
+      "englishWords": 15595
     },
     {
       "id": "ss-r7-l2-a",
       "title": "沒有火種的修窯師",
       "chapters": 25,
-      "englishWords": 16171
+      "englishWords": 16215
     },
     {
       "id": "ss-r7-l3-a",
       "title": "零號月台的三條規則",
       "chapters": 25,
-      "englishWords": 16295
+      "englishWords": 16340
     },
     {
       "id": "ss-r7-l4-a",
@@ -485,6 +485,36 @@
       "title": "最後一幕，不准有人犧牲",
       "chapters": 25,
       "englishWords": 16429
+    },
+    {
+      "id": "ss-r8-l2-b",
+      "title": "燈熄之後，星星仍在",
+      "chapters": 25,
+      "englishWords": 16753
+    },
+    {
+      "id": "ss-r8-l3-b",
+      "title": "把夜路畫成星圖",
+      "chapters": 25,
+      "englishWords": 15769
+    },
+    {
+      "id": "ss-r8-l4-b",
+      "title": "1995，最後一班渡輪的午餐",
+      "chapters": 25,
+      "englishWords": 16181
+    },
+    {
+      "id": "ss-r8-l5-b",
+      "title": "星債未償：我們替夜空記住名字",
+      "chapters": 25,
+      "englishWords": 16207
+    },
+    {
+      "id": "ss-r8-l6-b",
+      "title": "最後一班夜車，我要自己決定終點",
+      "chapters": 25,
+      "englishWords": 15474
     }
   ]
 }

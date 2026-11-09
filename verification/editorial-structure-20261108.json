@@ -1,13 +1,10 @@
 {
   "summary": {
-    "books": 62,
-    "chapters": 1550,
-    "bilingualParagraphs": 9452,
-    "questions": 2326,
-    "chapterFlags": {
-      "noComprehensionQuestions": 374,
-      "underPlanned500Words": 20
-    },
+    "books": 67,
+    "chapters": 1675,
+    "bilingualParagraphs": 10146,
+    "questions": 3324,
+    "chapterFlags": {},
     "humanEditorialStatus": "not_completed",
     "checks": "All chapter payloads, bilingual pairing, word counts, quiz shape, unique options; separate uniqueness audit. Does not validate factual correctness, naturalness, plot continuity, translation fidelity or all quiz answers."
   },
@@ -268,10 +265,8 @@
       "englishWords": 788,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -280,10 +275,8 @@
       "englishWords": 656,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -292,10 +285,8 @@
       "englishWords": 663,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -304,10 +295,8 @@
       "englishWords": 673,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -316,10 +305,8 @@
       "englishWords": 659,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -328,10 +315,8 @@
       "englishWords": 659,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -340,10 +325,8 @@
       "englishWords": 655,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -352,10 +335,8 @@
       "englishWords": 676,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -364,10 +345,8 @@
       "englishWords": 656,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -376,10 +355,8 @@
       "englishWords": 674,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -388,10 +365,8 @@
       "englishWords": 666,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -400,10 +375,8 @@
       "englishWords": 667,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -412,10 +385,8 @@
       "englishWords": 656,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -424,10 +395,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -436,10 +405,8 @@
       "englishWords": 663,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -448,10 +415,8 @@
       "englishWords": 664,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -460,10 +425,8 @@
       "englishWords": 649,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -472,10 +435,8 @@
       "englishWords": 637,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -484,10 +445,8 @@
       "englishWords": 656,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -496,10 +455,8 @@
       "englishWords": 675,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -508,10 +465,8 @@
       "englishWords": 655,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -520,10 +475,8 @@
       "englishWords": 653,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -532,10 +485,8 @@
       "englishWords": 640,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -544,10 +495,8 @@
       "englishWords": 660,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -556,10 +505,8 @@
       "englishWords": 679,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -568,10 +515,8 @@
       "englishWords": 689,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -580,10 +525,8 @@
       "englishWords": 618,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -592,10 +535,8 @@
       "englishWords": 620,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -604,10 +545,8 @@
       "englishWords": 606,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -616,10 +555,8 @@
       "englishWords": 653,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -628,10 +565,8 @@
       "englishWords": 678,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -640,10 +575,8 @@
       "englishWords": 662,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -652,10 +585,8 @@
       "englishWords": 665,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -664,10 +595,8 @@
       "englishWords": 683,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -676,10 +605,8 @@
       "englishWords": 664,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -688,10 +615,8 @@
       "englishWords": 679,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -700,10 +625,8 @@
       "englishWords": 661,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -712,10 +635,8 @@
       "englishWords": 687,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -724,10 +645,8 @@
       "englishWords": 658,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -736,10 +655,8 @@
       "englishWords": 682,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -748,10 +665,8 @@
       "englishWords": 616,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -760,10 +675,8 @@
       "englishWords": 682,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -772,10 +685,8 @@
       "englishWords": 672,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -784,10 +695,8 @@
       "englishWords": 656,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -796,10 +705,8 @@
       "englishWords": 664,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -808,10 +715,8 @@
       "englishWords": 668,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -820,10 +725,8 @@
       "englishWords": 674,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -832,10 +735,8 @@
       "englishWords": 689,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -844,10 +745,8 @@
       "englishWords": 694,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -856,10 +755,8 @@
       "englishWords": 617,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -868,10 +765,8 @@
       "englishWords": 631,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -880,10 +775,8 @@
       "englishWords": 615,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -892,10 +785,8 @@
       "englishWords": 605,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -904,10 +795,8 @@
       "englishWords": 601,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -916,10 +805,8 @@
       "englishWords": 646,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -928,10 +815,8 @@
       "englishWords": 644,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -940,10 +825,8 @@
       "englishWords": 647,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -952,10 +835,8 @@
       "englishWords": 609,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -964,10 +845,8 @@
       "englishWords": 661,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -976,10 +855,8 @@
       "englishWords": 632,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -988,10 +865,8 @@
       "englishWords": 637,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1000,10 +875,8 @@
       "englishWords": 618,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1012,10 +885,8 @@
       "englishWords": 618,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1024,10 +895,8 @@
       "englishWords": 644,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1036,10 +905,8 @@
       "englishWords": 649,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1048,10 +915,8 @@
       "englishWords": 639,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1060,10 +925,8 @@
       "englishWords": 611,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1072,10 +935,8 @@
       "englishWords": 630,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1084,10 +945,8 @@
       "englishWords": 628,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1096,10 +955,8 @@
       "englishWords": 624,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1108,10 +965,8 @@
       "englishWords": 605,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1120,10 +975,8 @@
       "englishWords": 647,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1132,10 +985,8 @@
       "englishWords": 619,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1144,10 +995,8 @@
       "englishWords": 659,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1156,10 +1005,8 @@
       "englishWords": 682,
       "bilingualParagraphs": 6,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1168,10 +1015,8 @@
       "englishWords": 621,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1180,10 +1025,8 @@
       "englishWords": 652,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1192,10 +1035,8 @@
       "englishWords": 638,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1204,10 +1045,8 @@
       "englishWords": 610,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1216,10 +1055,8 @@
       "englishWords": 617,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1228,10 +1065,8 @@
       "englishWords": 622,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1240,10 +1075,8 @@
       "englishWords": 611,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1252,10 +1085,8 @@
       "englishWords": 609,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1264,10 +1095,8 @@
       "englishWords": 612,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1276,10 +1105,8 @@
       "englishWords": 624,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1288,10 +1115,8 @@
       "englishWords": 602,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1300,10 +1125,8 @@
       "englishWords": 612,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1312,10 +1135,8 @@
       "englishWords": 615,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1324,10 +1145,8 @@
       "englishWords": 631,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1336,10 +1155,8 @@
       "englishWords": 627,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1348,10 +1165,8 @@
       "englishWords": 618,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1360,10 +1175,8 @@
       "englishWords": 608,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1372,10 +1185,8 @@
       "englishWords": 602,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1384,10 +1195,8 @@
       "englishWords": 607,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1396,10 +1205,8 @@
       "englishWords": 624,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1408,10 +1215,8 @@
       "englishWords": 606,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1420,10 +1225,8 @@
       "englishWords": 631,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1432,10 +1235,8 @@
       "englishWords": 623,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1444,10 +1245,8 @@
       "englishWords": 633,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1456,10 +1255,8 @@
       "englishWords": 731,
       "bilingualParagraphs": 7,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1468,10 +1265,8 @@
       "englishWords": 816,
       "bilingualParagraphs": 12,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1480,10 +1275,8 @@
       "englishWords": 678,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1492,10 +1285,8 @@
       "englishWords": 652,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1504,10 +1295,8 @@
       "englishWords": 619,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1516,10 +1305,8 @@
       "englishWords": 609,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1528,10 +1315,8 @@
       "englishWords": 617,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1540,10 +1325,8 @@
       "englishWords": 650,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1552,10 +1335,8 @@
       "englishWords": 634,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1564,10 +1345,8 @@
       "englishWords": 625,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1576,10 +1355,8 @@
       "englishWords": 637,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1588,10 +1365,8 @@
       "englishWords": 630,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1600,10 +1375,8 @@
       "englishWords": 637,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1612,10 +1385,8 @@
       "englishWords": 608,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1624,10 +1395,8 @@
       "englishWords": 623,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1636,10 +1405,8 @@
       "englishWords": 623,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1648,10 +1415,8 @@
       "englishWords": 640,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1660,10 +1425,8 @@
       "englishWords": 627,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1672,10 +1435,8 @@
       "englishWords": 619,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1684,10 +1445,8 @@
       "englishWords": 626,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1696,10 +1455,8 @@
       "englishWords": 605,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1708,10 +1465,8 @@
       "englishWords": 620,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1720,10 +1475,8 @@
       "englishWords": 612,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1732,10 +1485,8 @@
       "englishWords": 611,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1744,10 +1495,8 @@
       "englishWords": 643,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1756,10 +1505,8 @@
       "englishWords": 630,
       "bilingualParagraphs": 6,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1768,10 +1515,8 @@
       "englishWords": 905,
       "bilingualParagraphs": 10,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1780,10 +1525,8 @@
       "englishWords": 625,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1792,10 +1535,8 @@
       "englishWords": 611,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1804,10 +1545,8 @@
       "englishWords": 648,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1816,10 +1555,8 @@
       "englishWords": 610,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1828,10 +1565,8 @@
       "englishWords": 628,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1840,10 +1575,8 @@
       "englishWords": 634,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1852,10 +1585,8 @@
       "englishWords": 632,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1864,10 +1595,8 @@
       "englishWords": 607,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1876,10 +1605,8 @@
       "englishWords": 630,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1888,10 +1615,8 @@
       "englishWords": 668,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1900,10 +1625,8 @@
       "englishWords": 646,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1912,10 +1635,8 @@
       "englishWords": 657,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1924,10 +1645,8 @@
       "englishWords": 645,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1936,10 +1655,8 @@
       "englishWords": 643,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1948,10 +1665,8 @@
       "englishWords": 645,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1960,10 +1675,8 @@
       "englishWords": 672,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1972,10 +1685,8 @@
       "englishWords": 660,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1984,10 +1695,8 @@
       "englishWords": 645,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -1996,10 +1705,8 @@
       "englishWords": 662,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2008,10 +1715,8 @@
       "englishWords": 675,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2020,10 +1725,8 @@
       "englishWords": 639,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2032,10 +1735,8 @@
       "englishWords": 673,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2044,10 +1745,8 @@
       "englishWords": 654,
       "bilingualParagraphs": 7,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2056,10 +1755,8 @@
       "englishWords": 721,
       "bilingualParagraphs": 7,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2068,10 +1765,8 @@
       "englishWords": 620,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2080,10 +1775,8 @@
       "englishWords": 670,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2092,10 +1785,8 @@
       "englishWords": 600,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2104,10 +1795,8 @@
       "englishWords": 684,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2116,10 +1805,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2128,10 +1815,8 @@
       "englishWords": 664,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2140,10 +1825,8 @@
       "englishWords": 663,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2152,10 +1835,8 @@
       "englishWords": 654,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2164,10 +1845,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2176,10 +1855,8 @@
       "englishWords": 662,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2188,10 +1865,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2200,10 +1875,8 @@
       "englishWords": 661,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2212,10 +1885,8 @@
       "englishWords": 653,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2224,10 +1895,8 @@
       "englishWords": 663,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2236,10 +1905,8 @@
       "englishWords": 677,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2248,10 +1915,8 @@
       "englishWords": 668,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2260,10 +1925,8 @@
       "englishWords": 667,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2272,10 +1935,8 @@
       "englishWords": 628,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2284,10 +1945,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2296,10 +1955,8 @@
       "englishWords": 667,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2308,10 +1965,8 @@
       "englishWords": 681,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2320,10 +1975,8 @@
       "englishWords": 657,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2332,10 +1985,8 @@
       "englishWords": 669,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2344,10 +1995,8 @@
       "englishWords": 652,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2356,10 +2005,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 5,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2368,10 +2015,8 @@
       "englishWords": 635,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2380,10 +2025,8 @@
       "englishWords": 614,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2392,10 +2035,8 @@
       "englishWords": 597,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2404,10 +2045,8 @@
       "englishWords": 583,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2416,270 +2055,208 @@
       "englishWords": 587,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-6",
-      "englishWords": 474,
-      "bilingualParagraphs": 4,
+      "englishWords": 547,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-7",
-      "englishWords": 434,
-      "bilingualParagraphs": 4,
+      "englishWords": 528,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-8",
-      "englishWords": 430,
-      "bilingualParagraphs": 4,
+      "englishWords": 516,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-9",
-      "englishWords": 446,
-      "bilingualParagraphs": 4,
+      "englishWords": 523,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-10",
-      "englishWords": 453,
-      "bilingualParagraphs": 4,
+      "englishWords": 535,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-11",
-      "englishWords": 298,
-      "bilingualParagraphs": 3,
+      "englishWords": 507,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-12",
-      "englishWords": 283,
-      "bilingualParagraphs": 3,
+      "englishWords": 511,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-13",
-      "englishWords": 298,
-      "bilingualParagraphs": 3,
+      "englishWords": 512,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-14",
-      "englishWords": 252,
-      "bilingualParagraphs": 3,
+      "englishWords": 512,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-15",
-      "englishWords": 311,
-      "bilingualParagraphs": 3,
+      "englishWords": 521,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-16",
-      "englishWords": 260,
-      "bilingualParagraphs": 3,
+      "englishWords": 509,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-17",
-      "englishWords": 257,
-      "bilingualParagraphs": 3,
+      "englishWords": 507,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-18",
-      "englishWords": 246,
-      "bilingualParagraphs": 3,
+      "englishWords": 501,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-19",
-      "englishWords": 243,
-      "bilingualParagraphs": 3,
+      "englishWords": 507,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-20",
-      "englishWords": 283,
-      "bilingualParagraphs": 3,
+      "englishWords": 510,
+      "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-21",
-      "englishWords": 257,
-      "bilingualParagraphs": 3,
+      "englishWords": 510,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-22",
-      "englishWords": 237,
-      "bilingualParagraphs": 3,
+      "englishWords": 501,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-23",
-      "englishWords": 242,
-      "bilingualParagraphs": 3,
+      "englishWords": 502,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-24",
-      "englishWords": 258,
-      "bilingualParagraphs": 3,
+      "englishWords": 517,
+      "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
       "book": "import-seventh-light",
       "chapter": "import-seventh-light-25",
-      "englishWords": 331,
-      "bilingualParagraphs": 3,
+      "englishWords": 561,
+      "bilingualParagraphs": 5,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "underPlanned500Words",
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2688,10 +2265,8 @@
       "englishWords": 632,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2700,10 +2275,8 @@
       "englishWords": 636,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2712,10 +2285,8 @@
       "englishWords": 607,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2724,10 +2295,8 @@
       "englishWords": 618,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2736,10 +2305,8 @@
       "englishWords": 600,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2748,10 +2315,8 @@
       "englishWords": 718,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2760,10 +2325,8 @@
       "englishWords": 656,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2772,10 +2335,8 @@
       "englishWords": 647,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2784,10 +2345,8 @@
       "englishWords": 627,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2796,10 +2355,8 @@
       "englishWords": 626,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2808,10 +2365,8 @@
       "englishWords": 710,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2820,10 +2375,8 @@
       "englishWords": 619,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2832,10 +2385,8 @@
       "englishWords": 627,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2844,10 +2395,8 @@
       "englishWords": 622,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2856,10 +2405,8 @@
       "englishWords": 634,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2868,10 +2415,8 @@
       "englishWords": 656,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2880,10 +2425,8 @@
       "englishWords": 622,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2892,10 +2435,8 @@
       "englishWords": 681,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2904,10 +2445,8 @@
       "englishWords": 661,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2916,10 +2455,8 @@
       "englishWords": 675,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2928,10 +2465,8 @@
       "englishWords": 643,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2940,10 +2475,8 @@
       "englishWords": 657,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2952,10 +2485,8 @@
       "englishWords": 674,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2964,10 +2495,8 @@
       "englishWords": 657,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2976,10 +2505,8 @@
       "englishWords": 645,
       "bilingualParagraphs": 6,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -2988,10 +2515,8 @@
       "englishWords": 735,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3000,10 +2525,8 @@
       "englishWords": 704,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3012,10 +2535,8 @@
       "englishWords": 724,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3024,10 +2545,8 @@
       "englishWords": 717,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3036,10 +2555,8 @@
       "englishWords": 710,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3048,10 +2565,8 @@
       "englishWords": 730,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3060,10 +2575,8 @@
       "englishWords": 717,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3072,10 +2585,8 @@
       "englishWords": 702,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3084,10 +2595,8 @@
       "englishWords": 668,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3096,10 +2605,8 @@
       "englishWords": 693,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3108,10 +2615,8 @@
       "englishWords": 705,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3120,10 +2625,8 @@
       "englishWords": 697,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3132,10 +2635,8 @@
       "englishWords": 657,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3144,10 +2645,8 @@
       "englishWords": 707,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3156,10 +2655,8 @@
       "englishWords": 693,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3168,10 +2665,8 @@
       "englishWords": 705,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3180,10 +2675,8 @@
       "englishWords": 740,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3192,10 +2685,8 @@
       "englishWords": 720,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3204,10 +2695,8 @@
       "englishWords": 704,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3216,10 +2705,8 @@
       "englishWords": 691,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3228,10 +2715,8 @@
       "englishWords": 694,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3240,10 +2725,8 @@
       "englishWords": 712,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3252,10 +2735,8 @@
       "englishWords": 700,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3264,10 +2745,8 @@
       "englishWords": 724,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3276,10 +2755,8 @@
       "englishWords": 684,
       "bilingualParagraphs": 6,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3288,10 +2765,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3300,10 +2775,8 @@
       "englishWords": 657,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3312,10 +2785,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3324,10 +2795,8 @@
       "englishWords": 734,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3336,10 +2805,8 @@
       "englishWords": 641,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3348,10 +2815,8 @@
       "englishWords": 681,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3360,10 +2825,8 @@
       "englishWords": 656,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3372,10 +2835,8 @@
       "englishWords": 683,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3384,10 +2845,8 @@
       "englishWords": 657,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3396,10 +2855,8 @@
       "englishWords": 645,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3408,10 +2865,8 @@
       "englishWords": 658,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3420,10 +2875,8 @@
       "englishWords": 688,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3432,10 +2885,8 @@
       "englishWords": 674,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3444,10 +2895,8 @@
       "englishWords": 664,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3456,10 +2905,8 @@
       "englishWords": 652,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3468,10 +2915,8 @@
       "englishWords": 643,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3480,10 +2925,8 @@
       "englishWords": 640,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3492,10 +2935,8 @@
       "englishWords": 666,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3504,10 +2945,8 @@
       "englishWords": 651,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3516,10 +2955,8 @@
       "englishWords": 660,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3528,10 +2965,8 @@
       "englishWords": 669,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3540,10 +2975,8 @@
       "englishWords": 666,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3552,10 +2985,8 @@
       "englishWords": 659,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3564,10 +2995,8 @@
       "englishWords": 693,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3576,10 +3005,8 @@
       "englishWords": 696,
       "bilingualParagraphs": 5,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3598,10 +3025,8 @@
       "englishWords": 549,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3610,10 +3035,8 @@
       "englishWords": 547,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3622,10 +3045,8 @@
       "englishWords": 558,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3634,10 +3055,8 @@
       "englishWords": 552,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3646,10 +3065,8 @@
       "englishWords": 570,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3658,10 +3075,8 @@
       "englishWords": 558,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3670,10 +3085,8 @@
       "englishWords": 568,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3682,10 +3095,8 @@
       "englishWords": 570,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3694,10 +3105,8 @@
       "englishWords": 587,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3706,10 +3115,8 @@
       "englishWords": 575,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3718,10 +3125,8 @@
       "englishWords": 557,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3730,10 +3135,8 @@
       "englishWords": 569,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3742,10 +3145,8 @@
       "englishWords": 585,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3754,10 +3155,8 @@
       "englishWords": 590,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3766,10 +3165,8 @@
       "englishWords": 589,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3778,10 +3175,8 @@
       "englishWords": 586,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3790,10 +3185,8 @@
       "englishWords": 580,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3802,10 +3195,8 @@
       "englishWords": 589,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3814,10 +3205,8 @@
       "englishWords": 588,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3826,10 +3215,8 @@
       "englishWords": 578,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3838,10 +3225,8 @@
       "englishWords": 584,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3850,10 +3235,8 @@
       "englishWords": 592,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3862,10 +3245,8 @@
       "englishWords": 599,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3874,10 +3255,8 @@
       "englishWords": 607,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3886,10 +3265,8 @@
       "englishWords": 667,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3898,10 +3275,8 @@
       "englishWords": 663,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3910,10 +3285,8 @@
       "englishWords": 677,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3922,10 +3295,8 @@
       "englishWords": 643,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3934,10 +3305,8 @@
       "englishWords": 636,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3946,10 +3315,8 @@
       "englishWords": 644,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3958,10 +3325,8 @@
       "englishWords": 636,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3970,10 +3335,8 @@
       "englishWords": 634,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3982,10 +3345,8 @@
       "englishWords": 639,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -3994,10 +3355,8 @@
       "englishWords": 627,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4006,10 +3365,8 @@
       "englishWords": 628,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4018,10 +3375,8 @@
       "englishWords": 607,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4030,10 +3385,8 @@
       "englishWords": 627,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4042,10 +3395,8 @@
       "englishWords": 611,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4054,10 +3405,8 @@
       "englishWords": 610,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4066,10 +3415,8 @@
       "englishWords": 632,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4078,10 +3425,8 @@
       "englishWords": 624,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4090,10 +3435,8 @@
       "englishWords": 614,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4102,10 +3445,8 @@
       "englishWords": 640,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4114,10 +3455,8 @@
       "englishWords": 631,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4126,10 +3465,8 @@
       "englishWords": 613,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4138,10 +3475,8 @@
       "englishWords": 640,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4150,10 +3485,8 @@
       "englishWords": 621,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4162,10 +3495,8 @@
       "englishWords": 612,
       "bilingualParagraphs": 6,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4174,10 +3505,8 @@
       "englishWords": 654,
       "bilingualParagraphs": 6,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4186,10 +3515,8 @@
       "englishWords": 734,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4198,10 +3525,8 @@
       "englishWords": 743,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4210,10 +3535,8 @@
       "englishWords": 612,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4222,10 +3545,8 @@
       "englishWords": 612,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4234,10 +3555,8 @@
       "englishWords": 601,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4246,10 +3565,8 @@
       "englishWords": 617,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4258,10 +3575,8 @@
       "englishWords": 614,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4270,10 +3585,8 @@
       "englishWords": 610,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4282,10 +3595,8 @@
       "englishWords": 602,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4294,10 +3605,8 @@
       "englishWords": 624,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4306,10 +3615,8 @@
       "englishWords": 636,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4318,10 +3625,8 @@
       "englishWords": 611,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4330,10 +3635,8 @@
       "englishWords": 627,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4342,10 +3645,8 @@
       "englishWords": 638,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4354,10 +3655,8 @@
       "englishWords": 625,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4366,10 +3665,8 @@
       "englishWords": 660,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4378,10 +3675,8 @@
       "englishWords": 632,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4390,10 +3685,8 @@
       "englishWords": 646,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4402,10 +3695,8 @@
       "englishWords": 662,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4414,10 +3705,8 @@
       "englishWords": 647,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4426,10 +3715,8 @@
       "englishWords": 631,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4438,10 +3725,8 @@
       "englishWords": 649,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4450,10 +3735,8 @@
       "englishWords": 632,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4462,10 +3745,8 @@
       "englishWords": 668,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4474,10 +3755,8 @@
       "englishWords": 646,
       "bilingualParagraphs": 4,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4486,10 +3765,8 @@
       "englishWords": 738,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4498,10 +3775,8 @@
       "englishWords": 738,
       "bilingualParagraphs": 5,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4510,10 +3785,8 @@
       "englishWords": 603,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4522,10 +3795,8 @@
       "englishWords": 620,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4534,10 +3805,8 @@
       "englishWords": 627,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4546,10 +3815,8 @@
       "englishWords": 612,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4558,10 +3825,8 @@
       "englishWords": 614,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4570,10 +3835,8 @@
       "englishWords": 607,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4582,10 +3845,8 @@
       "englishWords": 620,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4594,10 +3855,8 @@
       "englishWords": 621,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4606,10 +3865,8 @@
       "englishWords": 654,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4618,10 +3875,8 @@
       "englishWords": 654,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4630,10 +3885,8 @@
       "englishWords": 665,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4642,10 +3895,8 @@
       "englishWords": 652,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4654,10 +3905,8 @@
       "englishWords": 667,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4666,10 +3915,8 @@
       "englishWords": 643,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4678,10 +3925,8 @@
       "englishWords": 655,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4690,10 +3935,8 @@
       "englishWords": 638,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4702,10 +3945,8 @@
       "englishWords": 652,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4714,10 +3955,8 @@
       "englishWords": 649,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4726,10 +3965,8 @@
       "englishWords": 645,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4738,10 +3975,8 @@
       "englishWords": 636,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4750,10 +3985,8 @@
       "englishWords": 640,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4762,10 +3995,8 @@
       "englishWords": 675,
       "bilingualParagraphs": 4,
       "targetWords": 20,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -4774,10 +4005,8 @@
       "englishWords": 642,
       "bilingualParagraphs": 4,
       "targetWords": 21,
-      "questions": 0,
-      "reviewNeeded": [
-        "noComprehensionQuestions"
-      ],
+      "questions": 2,
+      "reviewNeeded": [],
       "humanEditorialStatus": "not_verified"
     },
     {
@@ -14783,7 +14012,7 @@
     {
       "book": "ss-r7-l1-b",
       "chapter": "ss-r7-l1-b-1",
-      "englishWords": 667,
+      "englishWords": 678,
       "bilingualParagraphs": 6,
       "targetWords": 20,
       "questions": 2,
@@ -14793,7 +14022,7 @@
     {
       "book": "ss-r7-l1-b",
       "chapter": "ss-r7-l1-b-2",
-      "englishWords": 630,
+      "englishWords": 629,
       "bilingualParagraphs": 6,
       "targetWords": 20,
       "questions": 2,
@@ -14803,7 +14032,7 @@
     {
       "book": "ss-r7-l1-b",
       "chapter": "ss-r7-l1-b-3",
-      "englishWords": 624,
+      "englishWords": 625,
       "bilingualParagraphs": 6,
       "targetWords": 20,
       "questions": 2,
@@ -14813,7 +14042,7 @@
     {
       "book": "ss-r7-l1-b",
       "chapter": "ss-r7-l1-b-4",
-      "englishWords": 623,
+      "englishWords": 637,
       "bilingualParagraphs": 6,
       "targetWords": 20,
       "questions": 2,
@@ -14823,7 +14052,7 @@
     {
       "book": "ss-r7-l1-b",
       "chapter": "ss-r7-l1-b-5",
-      "englishWords": 632,
+      "englishWords": 641,
       "bilingualParagraphs": 6,
       "targetWords": 20,
       "questions": 2,
@@ -15033,7 +14262,7 @@
     {
       "book": "ss-r7-l2-a",
       "chapter": "ss-r7-l2-a-1",
-      "englishWords": 737,
+      "englishWords": 739,
       "bilingualParagraphs": 7,
       "targetWords": 20,
       "questions": 2,
@@ -15043,7 +14272,7 @@
     {
       "book": "ss-r7-l2-a",
       "chapter": "ss-r7-l2-a-2",
-      "englishWords": 723,
+      "englishWords": 728,
       "bilingualParagraphs": 7,
       "targetWords": 20,
       "questions": 2,
@@ -15053,7 +14282,7 @@
     {
       "book": "ss-r7-l2-a",
       "chapter": "ss-r7-l2-a-3",
-      "englishWords": 727,
+      "englishWords": 746,
       "bilingualParagraphs": 7,
       "targetWords": 20,
       "questions": 2,
@@ -15063,7 +14292,7 @@
     {
       "book": "ss-r7-l2-a",
       "chapter": "ss-r7-l2-a-4",
-      "englishWords": 735,
+      "englishWords": 740,
       "bilingualParagraphs": 7,
       "targetWords": 20,
       "questions": 2,
@@ -15073,7 +14302,7 @@
     {
       "book": "ss-r7-l2-a",
       "chapter": "ss-r7-l2-a-5",
-      "englishWords": 636,
+      "englishWords": 649,
       "bilingualParagraphs": 6,
       "targetWords": 20,
       "questions": 2,
@@ -15283,7 +14512,7 @@
     {
       "book": "ss-r7-l3-a",
       "chapter": "ss-r7-l3-a-1",
-      "englishWords": 688,
+      "englishWords": 706,
       "bilingualParagraphs": 5,
       "targetWords": 20,
       "questions": 2,
@@ -15303,7 +14532,7 @@
     {
       "book": "ss-r7-l3-a",
       "chapter": "ss-r7-l3-a-3",
-      "englishWords": 665,
+      "englishWords": 675,
       "bilingualParagraphs": 5,
       "targetWords": 20,
       "questions": 2,
@@ -15313,7 +14542,7 @@
     {
       "book": "ss-r7-l3-a",
       "chapter": "ss-r7-l3-a-4",
-      "englishWords": 678,
+      "englishWords": 683,
       "bilingualParagraphs": 5,
       "targetWords": 20,
       "questions": 2,
@@ -15323,7 +14552,7 @@
     {
       "book": "ss-r7-l3-a",
       "chapter": "ss-r7-l3-a-5",
-      "englishWords": 665,
+      "englishWords": 677,
       "bilingualParagraphs": 5,
       "targetWords": 20,
       "questions": 2,
@@ -16275,6 +15504,1256 @@
       "chapter": "ss-r7-l6-a-25",
       "englishWords": 760,
       "bilingualParagraphs": 6,
+      "targetWords": 21,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-1",
+      "englishWords": 685,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-2",
+      "englishWords": 679,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-3",
+      "englishWords": 702,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-4",
+      "englishWords": 688,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-5",
+      "englishWords": 672,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-6",
+      "englishWords": 681,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-7",
+      "englishWords": 693,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-8",
+      "englishWords": 664,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-9",
+      "englishWords": 687,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-10",
+      "englishWords": 662,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-11",
+      "englishWords": 685,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-12",
+      "englishWords": 637,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-13",
+      "englishWords": 688,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-14",
+      "englishWords": 650,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-15",
+      "englishWords": 668,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-16",
+      "englishWords": 642,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-17",
+      "englishWords": 657,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-18",
+      "englishWords": 649,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-19",
+      "englishWords": 678,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-20",
+      "englishWords": 676,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-21",
+      "englishWords": 649,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-22",
+      "englishWords": 678,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-23",
+      "englishWords": 639,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-24",
+      "englishWords": 647,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l2-b",
+      "chapter": "ss-r8-l2-b-25",
+      "englishWords": 684,
+      "bilingualParagraphs": 6,
+      "targetWords": 21,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-1",
+      "englishWords": 696,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-2",
+      "englishWords": 650,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-3",
+      "englishWords": 651,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-4",
+      "englishWords": 644,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-5",
+      "englishWords": 635,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-6",
+      "englishWords": 644,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-7",
+      "englishWords": 633,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-8",
+      "englishWords": 642,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-9",
+      "englishWords": 630,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-10",
+      "englishWords": 629,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-11",
+      "englishWords": 615,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-12",
+      "englishWords": 638,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-13",
+      "englishWords": 606,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-14",
+      "englishWords": 610,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-15",
+      "englishWords": 634,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-16",
+      "englishWords": 632,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-17",
+      "englishWords": 611,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-18",
+      "englishWords": 614,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-19",
+      "englishWords": 603,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-20",
+      "englishWords": 647,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-21",
+      "englishWords": 600,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-22",
+      "englishWords": 623,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-23",
+      "englishWords": 626,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-24",
+      "englishWords": 603,
+      "bilingualParagraphs": 6,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l3-b",
+      "chapter": "ss-r8-l3-b-25",
+      "englishWords": 631,
+      "bilingualParagraphs": 6,
+      "targetWords": 21,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-1",
+      "englishWords": 682,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-2",
+      "englishWords": 658,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-3",
+      "englishWords": 660,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-4",
+      "englishWords": 656,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-5",
+      "englishWords": 655,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-6",
+      "englishWords": 648,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-7",
+      "englishWords": 643,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-8",
+      "englishWords": 646,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-9",
+      "englishWords": 645,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-10",
+      "englishWords": 648,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-11",
+      "englishWords": 660,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-12",
+      "englishWords": 634,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-13",
+      "englishWords": 641,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-14",
+      "englishWords": 637,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-15",
+      "englishWords": 636,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-16",
+      "englishWords": 651,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-17",
+      "englishWords": 640,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-18",
+      "englishWords": 633,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-19",
+      "englishWords": 636,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-20",
+      "englishWords": 640,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-21",
+      "englishWords": 625,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-22",
+      "englishWords": 634,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-23",
+      "englishWords": 615,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-24",
+      "englishWords": 621,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l4-b",
+      "chapter": "ss-r8-l4-b-25",
+      "englishWords": 672,
+      "bilingualParagraphs": 5,
+      "targetWords": 21,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-1",
+      "englishWords": 667,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-2",
+      "englishWords": 649,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-3",
+      "englishWords": 639,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-4",
+      "englishWords": 628,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-5",
+      "englishWords": 642,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-6",
+      "englishWords": 672,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-7",
+      "englishWords": 681,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-8",
+      "englishWords": 652,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-9",
+      "englishWords": 662,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-10",
+      "englishWords": 651,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-11",
+      "englishWords": 651,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-12",
+      "englishWords": 653,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-13",
+      "englishWords": 643,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-14",
+      "englishWords": 634,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-15",
+      "englishWords": 672,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-16",
+      "englishWords": 662,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-17",
+      "englishWords": 670,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-18",
+      "englishWords": 656,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-19",
+      "englishWords": 616,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-20",
+      "englishWords": 654,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-21",
+      "englishWords": 619,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-22",
+      "englishWords": 607,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-23",
+      "englishWords": 636,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-24",
+      "englishWords": 647,
+      "bilingualParagraphs": 4,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l5-b",
+      "chapter": "ss-r8-l5-b-25",
+      "englishWords": 626,
+      "bilingualParagraphs": 4,
+      "targetWords": 21,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-1",
+      "englishWords": 605,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-2",
+      "englishWords": 627,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-3",
+      "englishWords": 628,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-4",
+      "englishWords": 621,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-5",
+      "englishWords": 623,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-6",
+      "englishWords": 606,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-7",
+      "englishWords": 624,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-8",
+      "englishWords": 625,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-9",
+      "englishWords": 605,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-10",
+      "englishWords": 605,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-11",
+      "englishWords": 601,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-12",
+      "englishWords": 607,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-13",
+      "englishWords": 600,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-14",
+      "englishWords": 619,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-15",
+      "englishWords": 616,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-16",
+      "englishWords": 630,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-17",
+      "englishWords": 603,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-18",
+      "englishWords": 625,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-19",
+      "englishWords": 620,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-20",
+      "englishWords": 605,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-21",
+      "englishWords": 629,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-22",
+      "englishWords": 617,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-23",
+      "englishWords": 612,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-24",
+      "englishWords": 630,
+      "bilingualParagraphs": 5,
+      "targetWords": 20,
+      "questions": 2,
+      "reviewNeeded": [],
+      "humanEditorialStatus": "not_verified"
+    },
+    {
+      "book": "ss-r8-l6-b",
+      "chapter": "ss-r8-l6-b-25",
+      "englishWords": 618,
+      "bilingualParagraphs": 5,
       "targetWords": 21,
       "questions": 2,
       "reviewNeeded": [],

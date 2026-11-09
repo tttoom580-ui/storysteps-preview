@@ -1,0 +1,383 @@
+{
+  "reviewer": "AI editorial pass; not human certification",
+  "books": 3,
+  "chaptersRead": 15,
+  "changes": [
+    {
+      "chapter": "ss-r7-l1-b-1",
+      "field": "zh",
+      "before": "冷杉谷",
+      "after": "雲松谷",
+      "reason": "Align location translation with Cloudpine and book context"
+    },
+    {
+      "chapter": "ss-r7-l1-b-1",
+      "field": "en",
+      "before": "“Do not lie to yourself,” he said kindly. “There may be birds on the other side of the hill.”",
+      "after": "“I will not lie to you,” he said kindly. “I heard no birds on the north path either. But there may be birds on the other side of the hill.”",
+      "reason": "Avoid accusing Tavi of lying without cause; retain target lie"
+    },
+    {
+      "chapter": "ss-r7-l1-b-1",
+      "field": "zh",
+      "before": "「別對自己說謊，」他溫和地說，「山丘另一邊可能還有鳥。」",
+      "after": "「我不會騙妳，」他溫和地說，「北邊小路上我也沒聽到鳥鳴。不過山丘另一邊可能還有鳥。」",
+      "reason": "Match revised dialogue"
+    },
+    {
+      "chapter": "ss-r7-l1-b-1",
+      "reason": "Replace ambiguous negative quiz: other unmentioned sounds could also be absent"
+    },
+    {
+      "chapter": "ss-r7-l1-b-2",
+      "field": "en",
+      "before": "A small telephone/phone lay on the shelf",
+      "after": "A small telephone lay on the shelf",
+      "reason": "Remove dictionary slash notation from narrative"
+    },
+    {
+      "chapter": "ss-r7-l1-b-3",
+      "field": "en",
+      "before": "set it beside the path as a safe place to stand",
+      "after": "set it beside the path to mark a safe place to stand",
+      "reason": "Stick marks a position; it is not itself a standing place"
+    },
+    {
+      "chapter": "ss-r7-l1-b-4",
+      "field": "en",
+      "before": "A high snow block lay on the path beyond it.",
+      "after": "A large block of snow lay on the path beyond it.",
+      "reason": "Natural collocation; retain block"
+    },
+    {
+      "chapter": "ss-r7-l1-b-4",
+      "field": "en",
+      "before": "Nell took a bowl of hot water from her bag to help warm a cold hand.",
+      "after": "Nell took a bowl and a closed flask from her bag. She poured warm water into the bowl so Tavi could warm her cold hands.",
+      "reason": "Resolve open hot bowl inside bag; plausible physical action"
+    },
+    {
+      "chapter": "ss-r7-l1-b-4",
+      "field": "zh",
+      "before": "奈兒從袋子取出一碗熱水，讓凍冷的手暖一暖。",
+      "after": "奈兒從袋子取出碗和蓋緊的保溫瓶，把溫水倒進碗裡，讓塔薇暖一暖凍冷的雙手。",
+      "reason": "Match physically coherent revision"
+    },
+    {
+      "chapter": "ss-r7-l1-b-4",
+      "field": "zh",
+      "before": "年長的山羊奧德太太",
+      "after": "年長的綿羊奧德太太",
+      "reason": "Mountain sheep is not goat"
+    },
+    {
+      "chapter": "ss-r7-l1-b-4",
+      "field": "zh",
+      "before": "老山羊",
+      "after": "老綿羊",
+      "reason": "Maintain species consistency"
+    },
+    {
+      "chapter": "ss-r7-l1-b-4",
+      "field": "en",
+      "before": "The little duck waved from a window as they left, and Tavi waved back.",
+      "after": "The child held up his little wooden duck at a window as they left, and Tavi waved back.",
+      "reason": "Wooden toy cannot wave by itself"
+    },
+    {
+      "chapter": "ss-r7-l1-b-4",
+      "field": "zh",
+      "before": "離開時，小木鴨從窗邊朝他們揮動，塔薇也揮手回應。",
+      "after": "離開時，那孩子在窗邊舉起小木鴨，塔薇也揮手回應。",
+      "reason": "Align subject with child and toy"
+    },
+    {
+      "chapter": "ss-r7-l1-b-5",
+      "field": "en",
+      "before": "the wheel was safe when it turned slow",
+      "after": "the wheel was safe to watch from behind the fence when it turned at a slow speed",
+      "reason": "Avoid implying slow machinery always safe; retain target slow"
+    },
+    {
+      "chapter": "ss-r7-l1-b-5",
+      "field": "zh",
+      "before": "但只要轉得慢，木輪就是安全的",
+      "after": "但當它緩慢轉動時，站在圍欄後觀察是安全的",
+      "reason": "Match qualified observation"
+    },
+    {
+      "chapter": "ss-r7-l1-b-5",
+      "field": "en",
+      "before": "sounds that looked alike to a new listener",
+      "after": "sounds that seemed alike to a new listener",
+      "reason": "Sounds are heard, not seen"
+    },
+    {
+      "chapter": "ss-r7-l1-b-5",
+      "field": "en",
+      "before": "a copy of her notes about the wooden wheel",
+      "after": "a copy of her notes about the water tank",
+      "reason": "Earlier loose board was under tank, not wheel"
+    },
+    {
+      "chapter": "ss-r7-l1-b-5",
+      "field": "zh",
+      "before": "一份木輪紀錄副本",
+      "after": "一份水箱紀錄副本",
+      "reason": "Preserve sound-source continuity"
+    },
+    {
+      "chapter": "ss-r7-l2-a-1",
+      "field": "en",
+      "before": "the people above them could not eat a bright flame",
+      "after": "the people who depended on them could not eat a bright flame",
+      "reason": "Clarify dependency, not spatial relation"
+    },
+    {
+      "chapter": "ss-r7-l2-a-1",
+      "field": "zh",
+      "before": "住在上方的人不能靠明亮火焰填飽肚子",
+      "after": "依靠苗圃生活的人不能靠明亮火焰填飽肚子",
+      "reason": "Align food dependency"
+    },
+    {
+      "chapter": "ss-r7-l2-a-2",
+      "field": "en",
+      "before": "Qiao asked to see the task in writing before giving her approval.",
+      "after": "Master Qiao, who supervised the apprentices, asked to see the task in writing before giving her approval.",
+      "reason": "Introduce new character and role"
+    },
+    {
+      "chapter": "ss-r7-l2-a-2",
+      "field": "zh",
+      "before": "喬要求先看到書面工作內容才願批准。",
+      "after": "負責指導學徒的喬師傅要求先看到書面工作內容才願批准。",
+      "reason": "Introduce character before use"
+    },
+    {
+      "chapter": "ss-r7-l2-a-2",
+      "field": "zh",
+      "before": "請文不要提示，自己試做一次",
+      "after": "請文在不接受提示的情況下自行試做一次",
+      "reason": "English means Wen tests without receiving hints"
+    },
+    {
+      "chapter": "ss-r7-l2-a-3",
+      "field": "en",
+      "before": "A small air cell beside the chimney had filled with smoke.",
+      "after": "A small air cell beside the chimney had filled with what looked like smoke.",
+      "reason": "Later cause is airborne dust, not combustion"
+    },
+    {
+      "chapter": "ss-r7-l2-a-3",
+      "field": "zh",
+      "before": "煙囪旁的一個小氣室積滿煙。",
+      "after": "煙囪旁的一個小氣室積滿看似煙霧的東西。",
+      "reason": "Do not assert smoke before dust identified"
+    },
+    {
+      "chapter": "ss-r7-l2-a-3",
+      "field": "en",
+      "before": "At a festival stall nearby, a child in a cowboy hat offered her a classic drawing of the kiln, made during a school tour.",
+      "after": "When the fair stalls opened later that morning, a child in a cowboy hat offered her a classic drawing of the kiln, made during a school tour.",
+      "reason": "Bridge predawn alarm and later fair"
+    },
+    {
+      "chapter": "ss-r7-l2-a-3",
+      "field": "zh",
+      "before": "附近祭典攤位上，一個戴牛仔帽的小孩拿來",
+      "after": "當天上午稍晚，附近市集的攤位開張後，一個戴牛仔帽的小孩拿來",
+      "reason": "Align chronology"
+    },
+    {
+      "chapter": "ss-r7-l2-a-3",
+      "field": "en",
+      "before": "the smoke alarm could be judged only when she looked from more than one side",
+      "after": "the cause of the smoke alarm could be judged only when she looked from more than one side",
+      "reason": "Investigate alarm cause, not judge device visually"
+    },
+    {
+      "chapter": "ss-r7-l2-a-3",
+      "field": "zh",
+      "before": "煙霧警報必須從不只一個方向觀察才能判斷",
+      "after": "要判斷煙霧警報的原因，必須從不只一個方向觀察",
+      "reason": "Clarify investigation"
+    },
+    {
+      "chapter": "ss-r7-l2-a-3",
+      "field": "en",
+      "before": "the cause of that morning's smoke was no longer a mystery",
+      "after": "the cause of that morning's alarm was no longer a mystery: the cloud had been dust, not smoke from a fire",
+      "reason": "Explicit dust/smoke resolution"
+    },
+    {
+      "chapter": "ss-r7-l2-a-3",
+      "field": "zh",
+      "before": "但今晨煙霧的來源終於有了答案",
+      "after": "但今晨警報的原因終於有了答案：那團雲霧是積塵，不是燃燒產生的煙",
+      "reason": "Resolve causal inconsistency"
+    },
+    {
+      "chapter": "ss-r7-l2-a-4",
+      "field": "zh",
+      "before": "糧食作物死亡會帶來疾病與饑荒",
+      "after": "糧食作物死亡會影響居民健康",
+      "reason": "Remove unsupported famine addition"
+    },
+    {
+      "chapter": "ss-r7-l2-a-4",
+      "field": "en",
+      "before": "a cold drop was not the same as winter heat",
+      "after": "a cold drop test did not show how it would behave when heated in winter",
+      "reason": "Natural technical comparison"
+    },
+    {
+      "chapter": "ss-r7-l2-a-5",
+      "field": "en",
+      "before": "who had spent the previous night working in the cold",
+      "after": "who had worked late in the cold the previous evening",
+      "reason": "Avoid conflict with prior chapter going home safely"
+    },
+    {
+      "chapter": "ss-r7-l2-a-5",
+      "field": "zh",
+      "before": "替通宵在寒風工作的林",
+      "after": "替前一晚在寒風中工作到很晚的林",
+      "reason": "Align timeline"
+    },
+    {
+      "chapter": "ss-r7-l2-a-5",
+      "reason": "Replace near-repeated ch1 workbench paragraph; remove nonsensical moving parts in budget scene"
+    },
+    {
+      "chapter": "ss-r7-l2-a-5",
+      "reason": "Replace templated repeated shift ending with scene-specific budget resolution"
+    },
+    {
+      "chapter": "ss-r7-l3-a-1",
+      "field": "en",
+      "before": "The tram museum at North Gate Station had been closed for eleven years",
+      "after": "North Gate Station had been closed for eleven years and was being prepared to reopen as a tram museum",
+      "reason": "Resolve closure vs later recent visitors/exhibits"
+    },
+    {
+      "chapter": "ss-r7-l3-a-1",
+      "field": "zh",
+      "before": "北門車站的電車博物館已關閉十一年",
+      "after": "北門車站已關閉十一年，如今正準備改建為電車博物館並重新開放",
+      "reason": "Align timeline; preview events can occur during preparation"
+    },
+    {
+      "chapter": "ss-r7-l3-a-1",
+      "field": "en",
+      "before": "The note lay on a broken stool",
+      "after": "A duplicate of the note lay on a broken stool",
+      "reason": "Pinned note cannot simultaneously lie on stool"
+    },
+    {
+      "chapter": "ss-r7-l3-a-1",
+      "field": "zh",
+      "before": "便條放在一張損壞的凳子上",
+      "after": "同樣內容的另一張便條放在一張損壞的凳子上",
+      "reason": "Resolve location contradiction"
+    },
+    {
+      "chapter": "ss-r7-l3-a-1",
+      "field": "en",
+      "before": "This time she noticed the sound came through a loudspeaker, not from a clock.",
+      "after": "She asked Arun to record it and mark the position of the loudspeaker, so they could later compare it with the service clock.",
+      "reason": "Already established speaker in earlier paragraph; avoid rediscovery"
+    },
+    {
+      "chapter": "ss-r7-l3-a-1",
+      "field": "zh",
+      "before": "這次她注意到聲音來自喇叭，不是鐘本身。",
+      "after": "她請阿倫錄下鐘聲並標記喇叭的位置，以便之後與維修鐘比較。",
+      "reason": "Avoid redundant revelation"
+    },
+    {
+      "chapter": "ss-r7-l3-a-2",
+      "field": "en",
+      "before": "she had heard a contractor spit angrily at the warning sign",
+      "after": "she had seen a contractor spit angrily at the warning sign",
+      "reason": "Witness cannot hear direction and helmet alone"
+    },
+    {
+      "chapter": "ss-r7-l3-a-2",
+      "field": "zh",
+      "before": "曾聽見承包商憤怒地朝牌子吐口水",
+      "after": "曾看見承包商憤怒地朝牌子吐口水",
+      "reason": "Match direct visual observation"
+    },
+    {
+      "chapter": "ss-r7-l3-a-3",
+      "field": "en",
+      "before": "The cabinet contained absurd objects",
+      "after": "After the guard unlocked the cabinet and logged who entered, Iva found it contained absurd objects",
+      "reason": "Supply missing access transition; avoid implied unexplained entry"
+    },
+    {
+      "chapter": "ss-r7-l3-a-3",
+      "field": "zh",
+      "before": "櫃子裡塞著舊兒童園遊會的荒唐物品",
+      "after": "警衛打開櫃鎖、記下查看人員後，以薇發現裡面塞著舊兒童園遊會的荒唐物品",
+      "reason": "Match access and evidence transition"
+    },
+    {
+      "chapter": "ss-r7-l3-a-3",
+      "field": "en",
+      "before": "Iva did not tell him that the three knocks had sounded again while he spoke, each one separated by an equal pause.",
+      "after": "Iva told the officer that the three knocks had sounded again while he spoke, each one separated by an equal pause.",
+      "reason": "Do not withhold possible trapped-person cue from responder"
+    },
+    {
+      "chapter": "ss-r7-l3-a-3",
+      "field": "zh",
+      "before": "以薇沒有告訴他，剛才說話時三次敲擊又響起了",
+      "after": "以薇告訴保全，剛才說話時三次敲擊又響起了",
+      "reason": "Match explicit possible-rescue report"
+    },
+    {
+      "chapter": "ss-r7-l3-a-4",
+      "field": "en",
+      "before": "beside onions and roast vegetables from a railway dining car",
+      "after": "beside replicas of onions and roast vegetables from a railway dining car",
+      "reason": "Decades-old food exhibit should be replicas"
+    },
+    {
+      "chapter": "ss-r7-l3-a-4",
+      "field": "zh",
+      "before": "放在舊餐車的洋蔥與烤蔬菜旁",
+      "after": "放在仿製的舊餐車洋蔥與烤蔬菜旁",
+      "reason": "Clarify replicas"
+    },
+    {
+      "chapter": "ss-r7-l3-a-4",
+      "field": "en",
+      "before": "the exact signal Dara had used in her maintenance training",
+      "after": "a pattern similar to the signal Dara had used in her maintenance training",
+      "reason": "Later intervals differ; not exact pattern"
+    },
+    {
+      "chapter": "ss-r7-l3-a-4",
+      "field": "zh",
+      "before": "與達拉維修訓練使用的訊號完全相同",
+      "after": "與達拉維修訓練使用的訊號相似",
+      "reason": "Avoid exact-vs-different contradiction"
+    },
+    {
+      "chapter": "ss-r7-l3-a-5",
+      "field": "en",
+      "before": "He could not erase the marks on the floor, he said, because his flour sacks had left a white trail the previous evening.",
+      "after": "He asked whether he should erase the marks on the floor: his flour sacks had left a white trail the previous evening. Iva asked him to leave the trail untouched until Arun had photographed it.",
+      "reason": "Fix illogical causal inability to erase; preserve erase target"
+    },
+    {
+      "chapter": "ss-r7-l3-a-5",
+      "field": "zh",
+      "before": "他說地上的痕跡無法擦除，因為前一晚他載來的麵粉袋留下了白色粉路。",
+      "after": "他問是否該擦掉地上痕跡：前一晚他載來的麵粉袋留下了白色粉路。以薇請他等阿倫拍照後再處理。",
+      "reason": "Match evidence-preservation dialogue"
+    }
+  ]
+}
