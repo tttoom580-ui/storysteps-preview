@@ -23,8 +23,8 @@ assert not broken,broken[:10]
 sm=ET.parse(D/'sitemap.xml');locs=[x.text for x in sm.findall('.//{*}loc')];assert len(locs)==N*6+9 and len(set(locs))==N*6+9
 for name in ['vocabulary.html','teachers.html','partners.html']:
  assert (D/name).is_file() and any(url.endswith('/'+name) for url in locs)
-for p in D.rglob('*.html'):
- assert 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' not in p.read_text(),p
+for p in [D/'index.html',*list((D/'stories').rglob('*.html'))]:
+ assert 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' in p.read_text(),p
 assert len(list((D/'stories').rglob('chapter-*.html')))==N*5
 assert all('pagead2.googlesyndication.com' not in (D/x).read_text() for x in ['privacy.html','contact.html','about.html','editorial.html'])
 cat=json.loads((D/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'));assert len(cat)==N and all(b.get('cover') for b in cat)
