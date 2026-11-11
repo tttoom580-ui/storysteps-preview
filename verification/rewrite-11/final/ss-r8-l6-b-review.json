@@ -1,0 +1,197 @@
+{
+  "book": "ss-r8-l6-b",
+  "baseline": "HEAD:public/content-manifest.json (69f3f36)",
+  "scope": "All 25 chapters, English and Traditional Chinese paragraphs, target glossaries, and 50 comprehension questions read. Removed all four generic refrain blocks everywhere, including their first occurrence; authored 25 scene-specific bilingual extensions. Preserved the plot, care autonomy and chosen long-distance relationship.",
+  "removedBlocks": 72,
+  "authoredExtensions": 25,
+  "changes": [
+    "Ch24 fellowship departure aligned to six weeks from vote; ch25 later that morning retained.",
+    "Ch23 loose plate repaired before final approval, separating historical first inspection from morning sign approval.",
+    "Ch3 meeting observations moved before the home visit.",
+    "Ch11 courage discussion identifies earlier unsafe reopening, not supervised demonstration.",
+    "Ch9 quiz option narrowed to the stated exam-night journey.",
+    "All quiz explanations cite their supporting paragraph."
+  ],
+  "structuralErrors": [],
+  "repeatedLongSentencePatterns": 0,
+  "minimumChapterWords": 569,
+  "totalEnglishWords": 14962,
+  "minimumTargetEntries": 20,
+  "metrics": [
+    {
+      "id": "ss-r8-l6-b-1",
+      "englishWords": 632,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-2",
+      "englishWords": 602,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-3",
+      "englishWords": 604,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-4",
+      "englishWords": 597,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-5",
+      "englishWords": 631,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-6",
+      "englishWords": 585,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-7",
+      "englishWords": 602,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-8",
+      "englishWords": 573,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-9",
+      "englishWords": 583,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-10",
+      "englishWords": 584,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-11",
+      "englishWords": 583,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-12",
+      "englishWords": 584,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-13",
+      "englishWords": 579,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-14",
+      "englishWords": 595,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-15",
+      "englishWords": 596,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-16",
+      "englishWords": 610,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-17",
+      "englishWords": 583,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-18",
+      "englishWords": 609,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-19",
+      "englishWords": 569,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-20",
+      "englishWords": 585,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-21",
+      "englishWords": 609,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-22",
+      "englishWords": 597,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-23",
+      "englishWords": 595,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-24",
+      "englishWords": 609,
+      "targets": 20,
+      "paragraphs": 5,
+      "questions": 2
+    },
+    {
+      "id": "ss-r8-l6-b-25",
+      "englishWords": 666,
+      "targets": 21,
+      "paragraphs": 5,
+      "questions": 2
+    }
+  ]
+}

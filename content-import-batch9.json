@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "ss-r9-l1-a",
+    "title": "山頂上的藍色風車",
+    "source": "StorySteps_1A_山頂上的藍色風車_全新第5版_完整25章.md",
+    "sourceSHA256": "e7a3b9aa1267b6c5ec65b30af544e76d411e60c0d6446198a22f273a4466ac03",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 629,
+    "maxEnglishWords": 814,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r9-l1-b",
+    "title": "蒲公英鎮的慢慢巴士",
+    "source": "StorySteps_1B_蒲公英鎮的慢慢巴士_全新第6版_完整25章.md",
+    "sourceSHA256": "e64c95b34f116b30d85e902868093f1909a1055e1a563b0fd05a792740834516",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 602,
+    "maxEnglishWords": 697,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r9-l2-a",
+    "title": "聽不見咒語的靈獸醫師",
+    "source": "2A_聽不見咒語的靈獸醫師_第7版_25章完整雙語稿.md",
+    "sourceSHA256": "6103b5aca0d3aa47247fba608dbbd6742e0ef766b47a627a1c2be60d351d4e72",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 604,
+    "maxEnglishWords": 647,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r9-l2-b",
+    "title": "雨季借你一把傘",
+    "source": "2B_雨季借你一把傘_第6版_25章完整雙語稿.md",
+    "sourceSHA256": "6d62375e7e1cfb4aab52390c3f6db1daf19a0f47f289feb48d425427585fecde",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 642,
+    "maxEnglishWords": 721,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r9-l3-a",
+    "title": "雲線以上，請聽第三聲",
+    "source": "StorySteps_3A_第六版_雲線以上請聽第三聲_完整25章.md",
+    "sourceSHA256": "b1052d8034bb9cae3475587a1806239101771154278b856c2aa0034c3de1a0ee",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 603,
+    "maxEnglishWords": 732,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r9-l3-b",
+    "title": "把海風留在最後一格",
+    "source": "StorySteps_3B_第六版_把海風留在最後一格_完整25章.md",
+    "sourceSHA256": "a83654d7de3b85c7983eef582b4e7980a764ca49d8b3949a748c4c8517110562",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 692,
+    "maxEnglishWords": 768,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r9-l4-b",
+    "title": "1994，榕灣週報的最後一頁",
+    "source": "4B_1994，榕灣週報的最後一頁_全25章.md",
+    "sourceSHA256": "f4df59bc6d9f9c5181d01e7a45c22fb35fe35dc81c60c1f2ec397bd40dc16223",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 615,
+    "maxEnglishWords": 767,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r9-l5-a",
+    "title": "沙海種子庫：最後一袋雨",
+    "source": "5A_沙海種子庫_最後一袋雨_25章全新第七版.md",
+    "sourceSHA256": "41d54bbfea37c7634bf032c85f47bfa33114ae5e33c226399bedc35cae79c145",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 508,
+    "maxEnglishWords": 564,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "sourceRepeatedLongSentencePatterns": 82,
+    "editorialRevision": {
+      "id": "ss-r9-l5-a",
+      "title": "沙海種子庫：最後一袋雨",
+      "chapters": 25,
+      "englishWords": 13186,
+      "minimumChapterWords": 508,
+      "maximumChapterWords": 564,
+      "questions": 50,
+      "targetEntries": 501,
+      "repeatedLongSentencePatterns": 0,
+      "finalSHA256": "6e419259b01440f748aa4b5a3f56db28d97aa37179694aaa2e04e22e6edbba34",
+      "chapterWordCounts": [
+        524,
+        519,
+        508,
+        523,
+        534,
+        521,
+        530,
+        515,
+        510,
+        536,
+        512,
+        564,
+        529,
+        510,
+        552,
+        540,
+        539,
+        529,
+        526,
+        510,
+        548,
+        533,
+        517,
+        548,
+        509
+      ]
+    },
+    "sourceMinEnglishWords": 809,
+    "sourceMaxEnglishWords": 881,
+    "sourceRepeatedSentences": [
+      {
+        "sentence": "the wheels of the seed caravan had traveled for weeks without encountering a green field",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "nara venn its thirty year old keeper paused before writing the day's first entry",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "she had learned that a seed could look dead and still hold life but nobody could tell which without time water and an honest count",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "across the basin families were already choosing between food now and the possibility of food next year",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "nara promised herself that neither fear nor celebration would change the numbers in her book",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "such questions could sound tedious but she knew that ordinary details were often the only bridge between disagreement and evidence",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "ilyas kept a separate record because a report that depended entirely on one person's memory was too fragile to carry a public decision",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "rui opened her notebook ready to turn the confrontation into a story",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "nara asked her to wait until the people named in it had a chance to answer",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "a report could travel beyond the basin in a night but a damaged reputation might remain for years",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "still the brief pause changed the conversation instead of asking whom to blame a few people began asking which measurements could settle the dispute",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "people wanted a solution big enough to fill an empty table not another careful procedure",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "ilyas drew a boundary around the working area and placed the measuring equipment in plain sight",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "tasa checked the wording with neighbors who had been excluded from earlier decisions",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "nothing in the plan prevented disagreement it made disagreement visible and useful",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "nara could see that the ministry's letters were becoming colder and that the caravan's funding might not survive another dispute",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "ilyas asked whether she wanted to withdraw from the public role and let the village speak alone",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "the decision did not belong to her alone but she could not pretend she had never accepted responsibility for the archive",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "she told him she would step aside whenever the keepers asked not whenever the powerful became impatient",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "the result answered part of the morning's question not all of it",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "nara read the note aloud while ilyas compared the figures with his own copy",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "tasa corrected a place name that outsiders had written incorrectly for years",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "rui watched both corrections and erased a dramatic sentence from her draft",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "there was dignity in allowing the record to change when the evidence changed",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "it meant the next reader could begin with something stronger than rumor",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22,
+          25
+        ]
+      },
+      {
+        "sentence": "a careful answer had revealed the shape of a new problem and new problems required new witnesses",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22
+        ]
+      },
+      {
+        "sentence": "at the door tasa asked whether nara still believed that the caravan could help",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22
+        ]
+      },
+      {
+        "sentence": "the next step would have to be useful even to those who distrusted the people carrying it",
+        "chapters": [
+          1,
+          4,
+          7,
+          10,
+          13,
+          16,
+          19,
+          22
+        ]
+      },
+      {
+        "sentence": "dust moved in small waves over the road and the caravan's blue canvas snapped against its frame",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "nara venn had been appointed keeper because she could distinguish a damaged seal from a damaged seed though she considered the difference less important than the trust attached to either one",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "her mentor once said that every jar was a promise to someone not yet born",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "she checked her tools greeted the people waiting nearby and reminded herself that a promise made in a dry season must survive ordinary questions",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "some saw the first sign of hope others saw proof that somebody had lied",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "she asked a worker to repeat the observation and invited an elder to describe what the same place had looked like in past seasons",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "the uncertainty gave the group a task it could actually carry out",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "a man in the back demanded that nara announce who was responsible",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "she looked at the faces beside him and realized that even those who disagreed feared the same empty kitchens",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "tasa an older farmer who had guarded seed since childhood told them that anger was useful only when it directed attention toward a repair",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "she offered them a date for the next check and a place where the evidence could be inspected",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "she told the team what this step would establish and equally important what it would not establish",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "a few workers were relieved to be offered a task instead of another argument others still wanted a dramatic announcement",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "their right to question the process mattered more than her comfort at the meeting",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "the caravan lost several hours the crew needed an extra guard and more clean containers",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "ilyas proposed a faster route then abandoned it when a resident explained that it crossed the only shaded path to a clinic",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "she had begun the journey thinking a keeper's main duty was to protect things",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "now she was learning how easily protecting things could become an excuse to overlook people",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "nara placed the new note beside the old one rather than replacing it",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "if the old record was wrong readers would need to see how that error had been recognized",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "a tired worker asked whether the day had been worth the difficulty",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "the work was not owned by the official who spoke most loudly",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "it belonged to the people who had done it and could explain what they knew",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "a question left visible could invite a better method a question erased would only return later as suspicion",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "the basin was larger than any one keeper's knowledge and a seed's future was longer than any minister's term",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "tomorrow would demand courage but the kind she needed most was the courage to be corrected in public",
+        "chapters": [
+          2,
+          5,
+          8,
+          11,
+          14,
+          17,
+          20,
+          23
+        ]
+      },
+      {
+        "sentence": "nara venn stepped down from the caravan and listened before she spoke",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "markets and government offices had different names for what the vault protected material property inheritance perhaps a future meal",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "to her each packet was a record of the hands that had kept it alive",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "she was thirty old enough to know that a good intention could do harm if it moved too quickly",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "she opened a plain notebook instead of making a speech and the people around her gradually began to talk",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "ilyas the engineer who maintained the caravan repeated the observation to make sure everyone had heard the same thing",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "nara drew two columns in her notebook one for what could be seen and another for explanations that still needed testing",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "her friend rui a young reporter asked whether the difference would matter to someone who had never entered a laboratory",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "nara answered that a family planning its next meal would understand the difference between what had happened and what officials merely wished had happened",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "ilyas muttered that an argument could exhaust the team more quickly than a storm",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "nara heard a tempting invitation beneath the demand promise certainty and the room would briefly become easier to manage",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "a decision about water or inheritance could outlast the official who announced it",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "she asked those with objections to put them in their own words then copied the objections without changing their tone",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "the decision was narrower than many people wanted and that made it easier to test",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "ilyas wrote down the tools and the person responsible for each one",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "tasa named the villagers who could enter the site rui promised to separate confirmed observations from commentary in her report",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "she asked the group to return at the same hour on the following day when the result could be compared with the original record",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "workers bent over tables corrected measurements and argued about the order of small tasks",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "this was what recovery often looked like when nobody had enough resources",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "rui admitted that she had expected a simpler conflict with one villain and one brave answer",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "tasa smiled sadly and said that a field did not grow because a bad owner had been removed",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "it grew only if people kept returning with water good soil and the willingness to notice what had changed",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "the result was useful but it carried new duties and those duties would fall on people who had already worked too hard",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "rui left her recorder on the table long enough for the last witness to correct a word",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "then the lights went out one by one and the unfinished questions seemed less frightening than they had at dawn",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "still she preferred a disappointing answer that could be checked to a reassuring promise that would fail in the next dry season",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "outside the caravan a faint wind crossed the road carrying a little dust between the wheels",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      },
+      {
+        "sentence": "somewhere beyond the lamps people were deciding whether to trust her work",
+        "chapters": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ss-r9-l5-b",
+    "title": "雲鶴歸巢：與你修一條天空的路",
+    "source": "5B_雲鶴歸巢_與你修一條天空的路_25章全新第六版.md",
+    "sourceSHA256": "7e6569ca9846e276fed8a8a7cca4bbc5f08ee13c3b4d7d750f1e9cc7975a7063",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 572,
+    "maxEnglishWords": 650,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "sourceRepeatedLongSentencePatterns": 41,
+    "editorialRevision": {
+      "id": "ss-r9-l5-b",
+      "title": "雲鶴歸巢：與你修一條天空的路",
+      "chapters": 25,
+      "englishWords": 15203,
+      "minimumChapterWords": 572,
+      "maximumChapterWords": 650,
+      "questions": 50,
+      "targetEntries": 501,
+      "repeatedLongSentencePatterns": 0,
+      "finalSHA256": "321a2b8cc44cc7b568749bb05f5b67cea2a2dea877fc8a8cd973c8555f4e9a7c",
+      "chapterWordCounts": [
+        596,
+        608,
+        596,
+        572,
+        592,
+        615,
+        597,
+        599,
+        599,
+        592,
+        630,
+        619,
+        615,
+        615,
+        608,
+        641,
+        636,
+        618,
+        598,
+        596,
+        598,
+        616,
+        594,
+        603,
+        650
+      ]
+    },
+    "sourceMinEnglishWords": 794,
+    "sourceMaxEnglishWords": 867,
+    "sourceRepeatedSentences": [
+      {
+        "sentence": "a rope stretched between two roofs could change a family's journey a closed gate could delay a healer",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "he yan kept those ordinary lives in mind while he checked the knots rather than allowing the beauty of the flying islands to distract him",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "they measured twice because the first number was often the easiest to believe",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "lu que placed a leaf in the air and watched it fall he yan compared its path with the marks on his kite frame",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "when the results differed they investigated the difference instead of hiding it in a convenient average",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "that evening they spoke beside a small stove while the others slept",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "he yan was not asking lu que to forgive the mistakes of the wind guild and lu que was not asking he yan to abandon the craft that gave his life meaning",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "they were learning the harder practice of sharing a decision without pretending they had always agreed",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "a temporary passage could close again and a repaired tool could still fail under a heavier load",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "yet someone who had been afraid to leave home could now see a possible path",
+        "chapters": [
+          1,
+          5,
+          9,
+          13,
+          17,
+          21,
+          25
+        ]
+      },
+      {
+        "sentence": "the most experienced travelers carried spare lines and counted the minutes before twilight",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "they made the same careful preparations now although the journey promised no reward except the chance that the next island might still be alive in spring",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "lu que understood animals better than machines while he yan understood machines better than wild creatures",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "their disagreements were useful when each named the limit of his knowledge",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "they agreed that any experiment must leave the birds an open way to refuse a successful crossing achieved by trapping them would count as a failure",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "he yan had once been praised for finishing work faster than anyone else",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "he now saw how easily speed could become an excuse to leave people behind",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "lu que noticed the change but did not turn it into a declaration of trust",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "instead he passed over the measuring cord and waited for he yan to take the other end",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "that was the difference between building a road and building a cage lu que said",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "for the first time the two men could imagine a passage strong enough for travelers and gentle enough for creatures that had never asked humans for help",
+        "chapters": [
+          2,
+          6,
+          10,
+          14,
+          18,
+          22
+        ]
+      },
+      {
+        "sentence": "he had learned that a beautiful plan was not the same as a safe one",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "a person on the ground would have to live with every decision made high above it",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "he therefore drew a second route on the back of the map and marked exactly where the group could turn around if the wind changed",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "the group checked the ordinary parts first the condition of the rope the direction of the lowest leaves and the space available for landing",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "their powers could sharpen hearing but could not create wind from nothing",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "if the air stopped moving the only honest answer was to rest and change the schedule",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "it began with smaller acts keeping a seat dry during rain sharing the last warm drink and telling an uncomfortable truth before it became a danger",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "beyond the next rise another island waited under a different color of cloud",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "he yan secured the tools and lu que checked the bird tracks one last time",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "they knew their solution here would not simply fit the new place",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "still they carried a better question with them what did this island need before anyone offered to save it",
+        "chapters": [
+          3,
+          7,
+          11,
+          15,
+          19,
+          23
+        ]
+      },
+      {
+        "sentence": "it was who would notice the first small change and whether the others would listen",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      },
+      {
+        "sentence": "they divided the work openly so that even the youngest helper could stop a dangerous test without asking permission from a senior master",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      },
+      {
+        "sentence": "a drawing could show the height of a tower but it could not show the fear of someone who had to climb it",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      },
+      {
+        "sentence": "before the test each volunteer named a task that felt manageable and a task that did not",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      },
+      {
+        "sentence": "when lu que was silent he yan no longer treated silence as approval",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      },
+      {
+        "sentence": "in turn lu que stopped assuming that every tool made by the old guild was meant to control living things",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      },
+      {
+        "sentence": "both men found that trust required attention to the present not an oath about the future",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      },
+      {
+        "sentence": "at the end of the day they wrote down what had worked and what had failed",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      },
+      {
+        "sentence": "the page included the names of the helpers not merely the masters who spoke at meetings",
+        "chapters": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ]
+      }
+    ]
+  }
+]

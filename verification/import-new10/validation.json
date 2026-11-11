@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "ss-r10-l1-a",
+    "title": "紅磚街的星星課",
+    "source": "StorySteps_1A_紅磚街的星星課_全新第6版_完整25章(1).md",
+    "sourceSHA256": "e59a17a2d22d815fa56da94e1a088d23bc310e6c0f16456229a5e92d333b00a0",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 651,
+    "maxEnglishWords": 705,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r10-l2-b",
+    "title": "把市場的聲音，留到明天",
+    "source": "2B_把市場的聲音留到明天_第7版_25章完整雙語稿(1).md",
+    "sourceSHA256": "eccbe1ca96c3f09204ac7a561b93b6c95d04ffbe2592bba01028eb00323db8a4",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 619,
+    "maxEnglishWords": 737,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r10-l3-b",
+    "title": "把地板留給每一種舞步",
+    "source": "StorySteps_3B_第七版_把地板留給每一種舞步_完整25章(1).md",
+    "sourceSHA256": "ff4f704ce581a9e81dd6ef58b145ed9f8bd74b935aee1b98c69480c26fc9a324",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 664,
+    "maxEnglishWords": 761,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r10-l4-a",
+    "title": "都市高武：我替弱者校準屏障",
+    "source": "4A_都市高武我替弱者校準屏障_全25章(1).md",
+    "sourceSHA256": "6c99c57140ac10c60a70b014aa6981369d75facab6b1bf581c7be9e8705da827",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 602,
+    "maxEnglishWords": 661,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 0,
+    "repeatedSentences": []
+  },
+  {
+    "id": "ss-r10-l5-b",
+    "title": "萬味渡口：與你煮一碗回家的湯",
+    "source": "5B_萬味渡口_與你煮一碗回家的湯_25章全新第七版(1).md",
+    "sourceSHA256": "29fac4601e73300829ea55c1cefdbb4e50ee3cdea02e601986ff991ad6dc9d29",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 782,
+    "maxEnglishWords": 859,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 62,
+    "repeatedSentences": [
+      {
+        "sentence": "gu wen a thirty three year old traveling cook who practiced the small arts of heat and scent had never trusted a miraculous meal",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "people had gathered before sunrise not because they expected a famous hero but because the next meal might depend on what happened here",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "a promise that sounded generous from the council table might mean something very different to a family standing at the end of a queue",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "lin zhou thirty five had trained as an herbalist before learning to hear the faint notes released by heated minerals",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "his skill could identify a change in a dish but it could not create food or erase a poison",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "gu wen marked the position in his notebook while lin zhou asked a second person to repeat the measurement with fresh tools",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "a different result would have mattered as much as a matching one",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "they had agreed on three rules for their craft flavor could be revealed never invented a test needed a real sample and a person had to consent before their private recipe or medical story was shared",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "by afternoon the matter had become a question of action rather than opinion",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "the travelers could leave with an impressive theory or they could stay long enough to help the people who would bear the consequences",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "they had already lost wages time and confidence a cautious solution sounded unbearably slow",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "he showed them which part of the result was known and which part still had to be tested",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "when gu wen asked if the plan was fair lin zhou answered that fairness had to survive the journey from a meeting room to a kitchen door",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "they worked beside people whose hands knew more than any official certificate could say",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "a porter knew the weight of a full sack a cook understood how long broth could stand a parent recognized the silence of a child too tired to complain",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "nobody claimed the entire river had been healed and the records were left where the people who had helped could check them",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "the work had names dates and mistakes recorded plainly instead of hidden behind a heroic speech",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "for the first time that day gu wen allowed himself a mouthful of warm food",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "it tasted plain and honest which seemed better than any spell he could perform",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "after the tables were cleaned the two men sat where they could see the last boats on the water",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "their silence was easier than it had been at the start of the road",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "sentence": "they folded the new information into their map instead of calling it proof",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "at dawn they would travel again but this time neither man would have to pretend he was walking alone",
+        "chapters": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "the first five ports had not given gu wen and lin zhou an easy answer but they had shown what a mistake could cost",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "lin zhou prepared two separate sample jars before he would discuss a result",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "one held material from the suspicious route the other held a control sample obtained with a witness watching",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "their copper pot might amplify a real aroma but no enchantment could replace grain that had never been harvested",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "that distinction kept the work focused on actual supplies and actual people",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "it was easy to identify a flawed tool and much harder to decide who deserved help first when supplies were limited",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "one person fetched water another tested the jars and a third wrote down the objections so that even those who arrived late could understand the decision",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "by dusk the noise of the workshop had softened into the rattle of dishes and distant conversation",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "the two men finally found time to speak about something besides the mineral",
+        "chapters": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "sentence": "at the middle of their journey gu wen discovered that a route on paper could look perfectly safe while the people walking it were afraid",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "lin zhou began every visit by asking who lived with its consequences",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "gu wen learned to recognize lin zhou’s careful silence the herbalist was usually considering the possibility he most wanted to reject",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "the copper spoon was useful only when its sound could be compared with a known sample",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "a sample without its location and date could mislead an entire port",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "gu wen wrote both on the label while lin zhou counted the tools taking care not to confuse an attractive result with a trustworthy one",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "some people wanted immediate punishment others wanted the work stopped and the cooks still needed to prepare supper before the lamps went out",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "a group of residents stayed after the official discussion and tried the procedure with their own hands",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "their questions were specific what was safe to touch who would keep the key and how could a failed test be reported",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "gu wen and lin zhou walked at the edge of the crowd close enough to hear one another without having to compete with the cheering",
+        "chapters": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "sentence": "after the first honest feast the travelers had to deal with success as carefully as failure",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "a generous offer might conceal a demand for control while an old friendship could reveal a painful omission",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "a cooking method could be taught openly without forcing anyone to disclose the story of an illness or a family recipe",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "as the political dispute grew their rule about consent became more important",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "witnesses could choose a private hearing cooks could contribute food without handing over every secret in their family notebooks",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "the market wanted a triumphant announcement while the families asked whether the repair would last beyond the festival",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "the common hearth became a place where arguments could turn into work",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "each task gave a different answer to the question of who owned the feast",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "once the last worker had gone home the two men remained to check the hearth",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "it was the quiet work afterward not the speeches before that let them understand each other",
+        "chapters": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "sentence": "near the end of the seven port route gu wen and lin zhou no longer mistook exhaustion for courage",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "they had learned to ask for help identify safe limits and let people decide which promises to accept",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "they brought clean cloth fresh bottles water and a list of places where a second test could be repeated without permission from the merchant",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "heat could release a smell and herbs could reveal a change but toxic mineral still had to be contained collected and handled by trained people",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "near the final decision caution meant more than a warning spoken from a safe distance",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "people needed an evacuation route a usable kitchen and a clear reason for every delay",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "the repair crews moved with the deliberate pace of people who knew that a shortcut could put strangers in danger",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "neither traveler stood above them giving orders from a dry and comfortable platform",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "they had once imagined that finishing the case would mean returning to separate lives",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "sentence": "now their maps lay side by side on the table and both were learning how to make a future without taking the other for granted",
+        "chapters": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ss-r10-l6-a",
+    "title": "星曆失落的十七分鐘",
+    "source": "6A_星曆失落的十七分鐘_全新第六部25章雙語小說(1).md",
+    "sourceSHA256": "fead0006ecb3a6af1c027c2d046d354d28b1da7ad9894956d06faff6fde85348",
+    "chapters": 25,
+    "questions": 50,
+    "uniqueTargetIds": 501,
+    "minEnglishWords": 778,
+    "maxEnglishWords": 826,
+    "missingTargets": [],
+    "repeatedLongSentencePatterns": 49,
+    "repeatedSentences": [
+      {
+        "sentence": "she reminded the team that a prediction was not the same as an observation",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "a prediction could suggest when to look but the actual measurement had to be written down with its uncertainty and the name of the observer",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "if the instruments disagreed the disagreement belonged in the record instead of disappearing from it",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "the ministry could still object and a corrected timetable could create new costs for dockworkers who relied on predictable shifts",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "veyra asked the council to publish those costs rather than conceal them",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "an honest solution had to protect lives without pretending that cancelled voyages harmed nobody",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "what she knew from a story could direct her attention toward a suspicious hour but it could not replace a signed observation",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "her new life would be measured by the records she made available to other people",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "the youngest apprentice corrected a numerical error and the oldest sailor admitted that his memory of a bell could be mistaken",
+        "chapters": [
+          1,
+          6,
+          11,
+          16,
+          21
+        ]
+      },
+      {
+        "sentence": "the council's written record included both the majority conclusion and the objections",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "a dissenting voice might prove mistaken but removing it would make tomorrow's investigation harder",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "in the novel every official had possessed the right answer in life answers needed revision dates",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "silas copied the dates onto a separate sheet and signed every correction",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "now he understood that a crossed out number with an explanation was often more useful than a spotless page",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "he placed the discarded calculations in an envelope instead of burning them",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "the accusation sounded convincing because it mixed one true detail with several unsupported conclusions",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "she acknowledged what she had signed denied what she had not ordered and submitted the remaining questions to the independent panel",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "it was an uncomfortable method of self defense but discomfort was not evidence of guilt",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "for years elegant charts had concealed the work of people who climbed wet stairs adjusted lenses and waited for a cloud to pass",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "the instruments were not infallible and neither were the people using them",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "that was precisely why the procedure required more than one pair of eyes",
+        "chapters": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ]
+      },
+      {
+        "sentence": "it seemed inefficient until they learned how easily a single courier could be delayed",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "independent evidence was not merely about having two documents on one desk it required two custodians who could explain where their documents had been and who had handled them",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "the final decision could not return the lost wages or erase every frightening night but it could assign responsibility and establish a remedy",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "veyra insisted on separate compensation for economic losses and a separate finding about the altered clock",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "she asked where to place the next piece of evidence and who could inspect it without seeking permission from the accused official",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "they agreed on separate copies an open list of corrections and a recorded opportunity for witnesses to challenge the account",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "the warning board outside the observatory carried a plain sentence no schedule overruled a visible hazard",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "people could appeal an unnecessary closure and an independent officer had to answer within a fixed period",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "safety used as an excuse for unlimited power could eventually become another form of danger",
+        "chapters": [
+          3,
+          8,
+          13,
+          18,
+          23
+        ]
+      },
+      {
+        "sentence": "a certified table needed two independent sets of readings while a temporary safety warning could be issued on a single credible danger report",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "veyra wrote the distinction on the board where everyone including the guards could see it",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "jory checked the clock by hand not because he distrusted every scientist but because the clock was a different kind of witness",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "a mechanism could prove that time had been changed identifying who changed it required another chain of evidence",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "at the long table each specialist was allowed to say what the evidence did not prove",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "that made the meeting slower and more frustrating but it kept an attractive theory from becoming a verdict too soon",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "the sea was not obliged to follow a minister and the council was not obliged to follow veyra",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "wind could push the water above its predicted height while an unexpected delay could put a vessel into a different current",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "jory tested the clock anwen checked the gauge veyra checked whether either result had been edited after the fact",
+        "chapters": [
+          4,
+          9,
+          14,
+          19,
+          24
+        ]
+      },
+      {
+        "sentence": "they arranged the evidence in chronological order and left visible gaps where a document was missing",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "anwen objected when a clerk tried to fill one gap with an assumption",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "even a plausible explanation would become dangerous once it was copied into an official register as if somebody had observed it directly",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "the person whose livelihood depended on the gate had a different question from the person who calibrated it",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "veyra asked the dockworkers to specify lost shifts and the engineers to specify mechanical limits",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "a policy that answered only one group would fail once the weather changed",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "one successful operation did not prove that every station was safe one broken device did not prove that the entire warning network was worthless",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "citizens received the raw readings a corrected chart and a date for the next independent inspection",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "shopkeepers argued about deliveries apprentices hurried across the square and families wanted definite answers",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      },
+      {
+        "sentence": "she could however explain what had been checked what remained unknown and who would make the next decision",
+        "chapters": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ]
+      }
+    ]
+  }
+]

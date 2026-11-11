@@ -12,7 +12,7 @@ class Page(HTMLParser):
    x=a.get('href') or a.get('src')
    if x:self.links.append(x)
  def handle_data(self,data):self.text.append(data)
-files=list((D/'stories').rglob('*.html'))+[D/x for x in ['index.html','library.html','about.html','privacy.html','contact.html','editorial.html','vocabulary.html','teachers.html','partners.html']];broken=[]
+files=list((D/'stories').rglob('*.html'))+[D/x for x in ['index.html','library.html','about.html','privacy.html','contact.html','editorial.html','vocabulary.html','teachers.html','partners.html','story-review.html']];broken=[]
 for p in files:
  s=p.read_text();v=Page();v.feed(s);assert '<title>' in s and 'rel="canonical"' in s and '<h1>' in s,p
  for link in v.links:
@@ -20,8 +20,8 @@ for p in files:
   path=unquote(urlparse(link).path.removeprefix('/storysteps-preview/'));dest=D/path
   if path and not (dest.exists() or (dest/'index.html').exists()):broken.append((str(p.relative_to(D)),link))
 assert not broken,broken[:10]
-sm=ET.parse(D/'sitemap.xml');locs=[x.text for x in sm.findall('.//{*}loc')];assert len(locs)==N*6+9 and len(set(locs))==N*6+9
-for name in ['vocabulary.html','teachers.html','partners.html']:
+sm=ET.parse(D/'sitemap.xml');locs=[x.text for x in sm.findall('.//{*}loc')];assert len(locs)==N*6+10 and len(set(locs))==N*6+10
+for name in ['vocabulary.html','teachers.html','partners.html','story-review.html']:
  assert (D/name).is_file() and any(url.endswith('/'+name) for url in locs)
 for p in [D/'index.html',*list((D/'stories').rglob('*.html'))]:
  assert 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' in p.read_text(),p
@@ -31,4 +31,4 @@ cat=json.loads((D/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'));asser
 m=json.loads((D/'content-manifest.json').read_text())
 for b in cat:
  assert (D/b['cover']).stat().st_size>10000;Image.open(D/b['cover']).verify();cs=json.loads(gzip.decompress((D/m['books'][b['id']]['url']).read_bytes()));assert len(cs)==25
-print(f'PASS: {N*6+9} sitemap URLs; {N*5} static bilingual chapters; {N} covers and full manuscripts; all internal destinations exist; informational pages have no advertising script.')
+print(f'PASS: {N*6+10} sitemap URLs; {N*5} static bilingual chapters; {N} covers and full manuscripts; all internal destinations exist; informational pages have no advertising script.')

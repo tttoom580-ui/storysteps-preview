@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ss-r9-l4-b",
+    "prompt": "Use case: historical-scene. Asset type: polished original literary novel cover illustration, portrait 2:3, image only. Scene: 1994 small coastal Taiwanese town, intimate local newspaper letterpress room, a banyan tree visible through the window. Subject: Wu Caiping, a 36-year-old Taiwanese woman newspaper editor, in simple period-appropriate blouse with rolled sleeves, examining a large newspaper proof beside the typesetter and small metal letterpress. Local newspaper sheets, composing sticks and metal type trays occupy the foreground; newspaper marks are abstract and illegible. Composition: strong graceful editorial figure in middle foreground, layered papers and printing equipment, warm window at upper left opens onto banyan leaves and a glimpse of coastal town. Style: premium historical editorial illustration, painterly gouache and delicate ink line, tactile paper grain, evocative and elegant bookstore cover, warm dusty golden light against muted ink-blue shadows. Preserve adult proportions and believable equipment. No typography, no readable text, no title, no letters, no logos, no watermark. Full bleed portrait 2:3.",
+    "tool": "image_gen.imagegen (built-in)",
+    "source": "/workspace/scratch/60f70b8a6868/generated_images/exec-fe90ac55-798b-4e32-acde-15366ed1228c.png",
+    "png": "/workspace/scratch/60f70b8a6868/storysteps/verification/new9-covers/ss-r9-l4-b.png",
+    "webp": "/workspace/scratch/60f70b8a6868/storysteps/verification/new9-covers/ss-r9-l4-b.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "inspection": "Generated output visually inspected: approved, portrait 2:3, illustration, no title or watermark."
+  },
+  {
+    "id": "ss-r9-l5-a",
+    "prompt": "Use case: illustration-story. Asset type: original premium speculative novel cover illustration, full bleed portrait 2:3, no text. Primary request: The Seed Vault of Sunreach: A Harvest That Was Not Promised, depicted without lettering. Scene: vast sunlit desert basin with ancient cracked irrigation channels leading toward the far horizon. Subject: Nara, a 30-year-old woman seedkeeper, standing beside her mobile seed caravan, a sturdy fantastical wheeled wagon with open compartments of beautiful glass seed jars, carrying a last small waterbag in her hand. She looks watchful and determined. Composition: low sweeping cinematic viewpoint, Nara and seed caravan in lower-middle foreground, curving dry channels and monumental wind-eroded desert basin beyond, ample atmospheric depth. Her practical sand-colored travel robes and headscarf contrast with tiny emerald and amber seeds glowing naturally through glass jars. Style: richly textured cinematic science fantasy illustration, elegant brushwork, striking professional bookstore cover, luminous golden desert light and deep turquoise shadows. Water scarcity and hidden water rights mystery suggested by cracked irrigation gates, no written symbols. No text, no typography, no readable writing, no title, no logos, no watermark. Mature adult woman with believable anatomy. Portrait 2:3.",
+    "tool": "image_gen.imagegen (built-in)",
+    "source": "/workspace/scratch/60f70b8a6868/generated_images/exec-08307b31-cf23-4abe-89fc-4928bbc3063b.png",
+    "png": "/workspace/scratch/60f70b8a6868/storysteps/verification/new9-covers/ss-r9-l5-a.png",
+    "webp": "/workspace/scratch/60f70b8a6868/storysteps/verification/new9-covers/ss-r9-l5-a.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "inspection": "Generated output visually inspected: approved, portrait 2:3, illustration, no title or watermark."
+  },
+  {
+    "id": "ss-r9-l5-b",
+    "prompt": "Use case: illustration-story. Asset type: original bookstore-quality romantic xianxia adventure novel cover art, full bleed portrait 2:3, no typography. Primary request: The Skyway We Built for the Returning Cranes, conveyed visually without lettering. Subject: two mature East Asian adult men, a 34-year-old kitebuilder in indigo work robes and a 32-year-old herbal steward in flowing pale sage robes. Both have adult facial features, strong believable adult proportions, long dark tied hair. They stand close together repairing a delicate suspended kite windway bridge between floating green islands, their hands working together on a bamboo kite frame and braided lines with quiet tender companionship. Scene: majestic floating green islands, living root towers, enormous roots curling into mist, old bronze windbells hanging from the framework; a migrating flock of luminous white cranes arcs upward through the sky along the completed windway. Composition: men at lower third in a three-quarter view, subtle affectionate exchange of glances, graceful diagonal windway rising into vast atmospheric floating-island landscape; cranes curve through upper half. Style: lush majestic painterly xianxia fantasy cover, nuanced elegant faces, beautifully rendered silks, bamboo and vines, rich jade green and indigo with pearly white cranes and pale gold sunlight, elevated romantic adventurous mood. No text, no title, no letters, no logos, no watermark. No extra people. Two clearly adult men. Portrait 2:3.",
+    "tool": "image_gen.imagegen (built-in)",
+    "source": "/workspace/scratch/60f70b8a6868/generated_images/exec-e8138bd0-0fa7-44ec-91ab-a8c71b7dac9a.png",
+    "png": "/workspace/scratch/60f70b8a6868/storysteps/verification/new9-covers/ss-r9-l5-b.png",
+    "webp": "/workspace/scratch/60f70b8a6868/storysteps/verification/new9-covers/ss-r9-l5-b.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "inspection": "Generated output visually inspected: approved, portrait 2:3, illustration, no title or watermark."
+  }
+]

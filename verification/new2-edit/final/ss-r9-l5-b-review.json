@@ -1,0 +1,210 @@
+{
+  "book": "ss-r9-l5-b",
+  "sourcePayload": "public/books/ss-r9-l5-b-49520d75be68.bin",
+  "sha256": "321a2b8cc44cc7b568749bb05f5b67cea2a2dea877fc8a8cd973c8555f4e9a7c",
+  "chapters": 25,
+  "englishWords": 15203,
+  "minimumChapterWords": 572,
+  "maximumChapterWords": 650,
+  "targetEntries": 501,
+  "uniqueEntryIds": 501,
+  "minimumChapterTargets": 20,
+  "questions": 50,
+  "questionsUnchangedFromBaseline": true,
+  "bilingualParagraphs": 100,
+  "removedPairedTemplateTails": 100,
+  "distinctPairedTemplateTails": 16,
+  "boundedBilingualPolishChanges": 11,
+  "normalizedCrossChapterEnglishSentenceReusePatterns": 0,
+  "normalization": "Exact scripts/audit_story_release.py wc/norm/sentence split: normalized English sentences >=12 words across chapters",
+  "checksPassed": [
+    "original chapter IDs/order/schema/titles",
+    "unchanged complete target entries and meanings",
+    "every target exact case-insensitive whole-word occurrence",
+    ">=500 English prose words per chapter",
+    ">=20 unique targets per chapter",
+    "four nonempty EN/ZH paragraphs per chapter",
+    "retained two Chinese story blocks per paragraph",
+    "two valid three-choice questions per chapter",
+    "all 50 answers manually supported by retained prose",
+    "zero repeated normalized English sentences >=12 words across chapters",
+    "no placeholders"
+  ],
+  "chapterResults": [
+    {
+      "chapter": "ss-r9-l5-b-1",
+      "englishWords": 596,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-2",
+      "englishWords": 608,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-3",
+      "englishWords": 596,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-4",
+      "englishWords": 572,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-5",
+      "englishWords": 592,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-6",
+      "englishWords": 615,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-7",
+      "englishWords": 597,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-8",
+      "englishWords": 599,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-9",
+      "englishWords": 599,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-10",
+      "englishWords": 592,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-11",
+      "englishWords": 630,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-12",
+      "englishWords": 619,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-13",
+      "englishWords": 615,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-14",
+      "englishWords": 615,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-15",
+      "englishWords": 608,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-16",
+      "englishWords": 641,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-17",
+      "englishWords": 636,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-18",
+      "englishWords": 618,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-19",
+      "englishWords": 598,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-20",
+      "englishWords": 596,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-21",
+      "englishWords": 598,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-22",
+      "englishWords": 616,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-23",
+      "englishWords": 594,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-24",
+      "englishWords": 603,
+      "uniqueTargets": 20,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    },
+    {
+      "chapter": "ss-r9-l5-b-25",
+      "englishWords": 650,
+      "uniqueTargets": 21,
+      "questions": 2,
+      "bilingualParagraphs": 4
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "date": "2026-11-10",
+  "referenceImages": [],
+  "assets": [
+    {
+      "id": "ss-r9-l2-b",
+      "title": "An Umbrella for the Rainy Season",
+      "source": "/workspace/scratch/60f70b8a6868/generated_images/exec-b7fdf60b-df73-4abf-a6f6-cc2f27141399.png",
+      "prompt": "Use case: illustration-story. Asset: original premium bookstore novel cover illustration, portrait 2:3. No text, letters, title, logos or watermark anywhere. A tender slow-burn university romantic comedy: Iris, a 23-year-old female design student with a sketchbook, and Jun, a 25-year-old male university student, beside a shared umbrella rack outside a rainy campus cafe. They are clearly adults. One open umbrella links their silhouettes while they share a shy amused glance. Teal rain, reflective paving, soft warm amber cafe window glow, leafy campus blurred behind. Sophisticated painterly contemporary editorial illustration, appealing expressive characters, crisp focal silhouettes legible at thumbnail, romantic visual storytelling, controlled detailed brushwork. Full-bleed portrait illustration with no border. Avoid childish proportions, school uniforms and text.",
+      "output": "verification/new9-covers/ss-r9-l2-b.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "qa": "Visually inspected: adult characters, intended setting and motifs, 2:3 portrait, no text, logos, or watermarks."
+    },
+    {
+      "id": "ss-r9-l3-a",
+      "title": "Above the Fog Wait for the Third Signal",
+      "source": "/workspace/scratch/60f70b8a6868/generated_images/exec-551179cb-e202-4b6e-a948-2a22e1c17900.png",
+      "prompt": "Use case: illustration-story. Original premium literary mystery cover artwork, portrait 2:3, full bleed, entirely without text, title, letters, logos or watermarks. A 28-year-old woman weather technician with a folded instrument map stands with an adult mountain guide at an isolated ridge weather station. They are small but distinct adult figures in practical mountaineering parkas in the foreground. A weather instrument console and map forms frame the foreground; the map has only abstract topographical lines, no labels. Towering snowy peaks emerge from thick blue-gray fog behind a lonely weather station and tall antenna whose red signal glows through the mist. Strong visual hierarchy: red beacon, woman, fog-shrouded station. Atmospheric grounded mystery, beautiful dramatic quiet tension, no supernatural beings or monsters. Sophisticated painterly gouache and ink editorial illustration, sculptural mountain shapes, textured paper, limited icy slate and warm red palette, legible at thumbnail. Portrait ratio 2:3.",
+      "output": "verification/new9-covers/ss-r9-l3-a.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "qa": "Visually inspected: adult characters, intended setting and motifs, 2:3 portrait, no text, logos, or watermarks."
+    },
+    {
+      "id": "ss-r9-l3-b",
+      "title": "The Last Frame of the Harbor",
+      "source": "/workspace/scratch/60f70b8a6868/generated_images/exec-e8189faf-7563-45ed-94e3-611bbc3047f7.png",
+      "prompt": "Use case: illustration-story. Create original premium illustrated literary romance novel cover artwork, portrait 2:3 full bleed, NO TEXT OR LETTERS anywhere, no title, no logos, no watermark. A 29-year-old woman film restorer and a 32-year-old male projection technician stand together beside the entrance of an old coastal cinema in a harbor town at blue hour. Both unmistakably adult, mature and thoughtful. She holds an old metal film reel tin while he gently supports an unfurled short strip of film; their quiet eye contact suggests shared history and reflective love. In the background, harbor water and a strong curved floodgate silhouette, moored boats; the cinema doorway spills warm amber projection light. The blank cinema marquee has no lettering. Composition uses a large beautiful circular film reel motif in foreground balanced with the couple and harbor. Sophisticated painterly contemporary book illustration, tactile warm film-grain texture, moody deep blue and amber light, emotionally restrained and cinematic, clear silhouettes and focal objects legible at thumbnail. No childish faces, no crowds, no supernatural elements.",
+      "output": "verification/new9-covers/ss-r9-l3-b.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "qa": "Visually inspected: adult characters, intended setting and motifs, 2:3 portrait, no text, logos, or watermarks."
+    }
+  ]
+}

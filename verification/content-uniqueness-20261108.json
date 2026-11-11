@@ -1,6 +1,6 @@
 {
-  "books": 67,
-  "chapters": 1675,
+  "books": 76,
+  "chapters": 1900,
   "duplicateTitles": [],
   "duplicateBooks": [],
   "duplicateChapters": [],
@@ -10,8 +10,22 @@
       "a": "ss-r5-l3-b",
       "b": "ss-r4-l3-b",
       "jaccard": 0.00072,
-      "sharedFractionOfShorter": 0.00158,
+      "sharedFractionOfShorter": 0.00161,
       "sharedSevenWordPhrases": 22
+    },
+    {
+      "a": "ss-r8-l2-b",
+      "b": "ss-r9-l2-b",
+      "jaccard": 0.00024,
+      "sharedFractionOfShorter": 0.00048,
+      "sharedSevenWordPhrases": 8
+    },
+    {
+      "a": "ss-r5-l6-b",
+      "b": "ss-r9-l3-b",
+      "jaccard": 0.00021,
+      "sharedFractionOfShorter": 0.00045,
+      "sharedSevenWordPhrases": 7
     },
     {
       "a": "ss-r5-l6-b",
@@ -28,6 +42,13 @@
       "sharedSevenWordPhrases": 6
     },
     {
+      "a": "ss-r6-l2-b",
+      "b": "ss-r9-l2-b",
+      "jaccard": 0.00015,
+      "sharedFractionOfShorter": 0.0003,
+      "sharedSevenWordPhrases": 5
+    },
+    {
       "a": "import-rain-bell",
       "b": "ss-r3-l1-a",
       "jaccard": 0.00012,
@@ -39,6 +60,20 @@
       "b": "ss-r3-l1-a",
       "jaccard": 0.00012,
       "sharedFractionOfShorter": 0.00026,
+      "sharedSevenWordPhrases": 4
+    },
+    {
+      "a": "ss-r2-l6-b",
+      "b": "ss-r9-l3-a",
+      "jaccard": 0.00012,
+      "sharedFractionOfShorter": 0.00025,
+      "sharedSevenWordPhrases": 4
+    },
+    {
+      "a": "ss-r2-l6-b",
+      "b": "ss-r9-l4-b",
+      "jaccard": 0.00012,
+      "sharedFractionOfShorter": 0.00025,
       "sharedSevenWordPhrases": 4
     },
     {
@@ -63,20 +98,6 @@
       "sharedSevenWordPhrases": 4
     },
     {
-      "a": "ss-r7-l6-a",
-      "b": "ss-r8-l3-b",
-      "jaccard": 0.0001,
-      "sharedFractionOfShorter": 0.00023,
-      "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "import-third-gate",
-      "b": "import-unbowed-city",
-      "jaccard": 8e-05,
-      "sharedFractionOfShorter": 0.00022,
-      "sharedSevenWordPhrases": 2
-    },
-    {
       "a": "ss-r5-l1-b",
       "b": "ss-r7-l1-b",
       "jaccard": 0.0001,
@@ -84,31 +105,10 @@
       "sharedSevenWordPhrases": 3
     },
     {
-      "a": "ss-r3-l2-a",
-      "b": "ss-r6-l6-b",
+      "a": "ss-r7-l6-a",
+      "b": "ss-r8-l3-b",
       "jaccard": 0.0001,
-      "sharedFractionOfShorter": 0.00022,
-      "sharedSevenWordPhrases": 2
-    },
-    {
-      "a": "ss-r4-l1-b",
-      "b": "ss-r6-l1-a",
-      "jaccard": 9e-05,
-      "sharedFractionOfShorter": 0.00019,
-      "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "ss-r2-l2-a",
-      "b": "ss-r7-l1-b",
-      "jaccard": 9e-05,
-      "sharedFractionOfShorter": 0.00019,
-      "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "import-seed-ledger",
-      "b": "ss-r2-l2-b",
-      "jaccard": 9e-05,
-      "sharedFractionOfShorter": 0.00018,
+      "sharedFractionOfShorter": 0.0002,
       "sharedSevenWordPhrases": 3
     }
   ],
@@ -166,7 +166,7 @@
       "id": "import-seventh-light",
       "title": "第七盞燈",
       "chapters": 25,
-      "englishWords": 13366
+      "englishWords": 14338
     },
     {
       "id": "import-yun-cape",
@@ -184,7 +184,7 @@
       "id": "import-unbowed-city",
       "title": "灰橋不低頭",
       "chapters": 25,
-      "englishWords": 16639
+      "englishWords": 14290
     },
     {
       "id": "ceo-1",
@@ -202,7 +202,7 @@
       "id": "import-salt-archive",
       "title": "灰潮檔案",
       "chapters": 25,
-      "englishWords": 15984
+      "englishWords": 16014
     },
     {
       "id": "import-reverse-clock-inn",
@@ -214,7 +214,7 @@
       "id": "ss-r5-l1-b",
       "title": "貝殼灣的影子節",
       "chapters": 25,
-      "englishWords": 16639
+      "englishWords": 13433
     },
     {
       "id": "ss-r5-l2-b",
@@ -226,7 +226,7 @@
       "id": "ss-r5-l3-a",
       "title": "第二聲鐘響前，離開白沙灘",
       "chapters": 25,
-      "englishWords": 15482
+      "englishWords": 15464
     },
     {
       "id": "ss-r5-l4-b",
@@ -238,7 +238,7 @@
       "id": "ss-r5-l5-b",
       "title": "封存試煉：未被允許遺忘的人",
       "chapters": 25,
-      "englishWords": 16515
+      "englishWords": 13668
     },
     {
       "id": "ss-r5-l6-b",
@@ -268,7 +268,7 @@
       "id": "ss-r5-l4-a",
       "title": "第九街區，不接受單人通關",
       "chapters": 25,
-      "englishWords": 20297
+      "englishWords": 13505
     },
     {
       "id": "ss-r5-l5-a",
@@ -328,7 +328,7 @@
       "id": "ss-r4-l3-b",
       "title": "被改掉的那句話",
       "chapters": 25,
-      "englishWords": 20725
+      "englishWords": 13712
     },
     {
       "id": "ss-r3-l4-a",
@@ -382,13 +382,13 @@
       "id": "ss-r3-l2-a",
       "title": "山門的最後一枚銅牌",
       "chapters": 25,
-      "englishWords": 20838
+      "englishWords": 14191
     },
     {
       "id": "ss-r3-l5-a",
       "title": "驛站密信：兩枚印章之下",
       "chapters": 25,
-      "englishWords": 19110
+      "englishWords": 13329
     },
     {
       "id": "ss-r2-l1-a",
@@ -448,7 +448,7 @@
       "id": "ss-r6-l6-b",
       "title": "你終於學會告白時，我已經準備離開",
       "chapters": 25,
-      "englishWords": 15752
+      "englishWords": 13628
     },
     {
       "id": "ss-r7-l1-b",
@@ -460,7 +460,7 @@
       "id": "ss-r7-l2-a",
       "title": "沒有火種的修窯師",
       "chapters": 25,
-      "englishWords": 16215
+      "englishWords": 13980
     },
     {
       "id": "ss-r7-l3-a",
@@ -472,7 +472,7 @@
       "id": "ss-r7-l4-a",
       "title": "失物檔案館：城市遺忘的那一天",
       "chapters": 25,
-      "englishWords": 18291
+      "englishWords": 13962
     },
     {
       "id": "ss-r7-l5-a",
@@ -484,7 +484,7 @@
       "id": "ss-r7-l6-a",
       "title": "最後一幕，不准有人犧牲",
       "chapters": 25,
-      "englishWords": 16429
+      "englishWords": 15071
     },
     {
       "id": "ss-r8-l2-b",
@@ -514,7 +514,61 @@
       "id": "ss-r8-l6-b",
       "title": "最後一班夜車，我要自己決定終點",
       "chapters": 25,
-      "englishWords": 15474
+      "englishWords": 15036
+    },
+    {
+      "id": "ss-r9-l1-a",
+      "title": "山頂上的藍色風車",
+      "chapters": 25,
+      "englishWords": 16542
+    },
+    {
+      "id": "ss-r9-l1-b",
+      "title": "蒲公英鎮的慢慢巴士",
+      "chapters": 25,
+      "englishWords": 16719
+    },
+    {
+      "id": "ss-r9-l2-a",
+      "title": "聽不見咒語的靈獸醫師",
+      "chapters": 25,
+      "englishWords": 15621
+    },
+    {
+      "id": "ss-r9-l2-b",
+      "title": "雨季借你一把傘",
+      "chapters": 25,
+      "englishWords": 16980
+    },
+    {
+      "id": "ss-r9-l3-a",
+      "title": "雲線以上，請聽第三聲",
+      "chapters": 25,
+      "englishWords": 16858
+    },
+    {
+      "id": "ss-r9-l3-b",
+      "title": "把海風留在最後一格",
+      "chapters": 25,
+      "englishWords": 18562
+    },
+    {
+      "id": "ss-r9-l4-b",
+      "title": "1994，榕灣週報的最後一頁",
+      "chapters": 25,
+      "englishWords": 16222
+    },
+    {
+      "id": "ss-r9-l5-a",
+      "title": "沙海種子庫：最後一袋雨",
+      "chapters": 25,
+      "englishWords": 13196
+    },
+    {
+      "id": "ss-r9-l5-b",
+      "title": "雲鶴歸巢：與你修一條天空的路",
+      "chapters": 25,
+      "englishWords": 15228
     }
   ]
 }
