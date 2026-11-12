@@ -11,7 +11,7 @@ export function grantBlock(story:string,number:number,source:'launch-gift'|'rewa
 export {blockForChapter};
 export type AdConfig={enabled:boolean;adUnitPath:string;allowFreeFallback:boolean};
 let configPromise:Promise<AdConfig>|null=null;
-export function adConfig(){return configPromise??=window.fetch(new URL('./rewarded-config.json',document.baseURI)).then(r=>{if(!r.ok)throw Error('無法載入閱讀設定');return r.json()}).then(d=>({enabled:false,adUnitPath:typeof d.adUnitPath==='string'?d.adUnitPath:'',allowFreeFallback:d.allowFreeFallback===true})).catch(e=>{configPromise=null;throw e})}
+export function adConfig(){return configPromise??=window.fetch(new URL('./rewarded-config.json',document.baseURI)).then(r=>{if(!r.ok)throw Error('無法載入閱讀設定');return r.json()}).then(d=>({enabled:d.enabled===true,adUnitPath:typeof d.adUnitPath==='string'?d.adUnitPath:'',allowFreeFallback:d.allowFreeFallback===true})).catch(e=>{configPromise=null;throw e})}
 let active=false;
 let sdkPromise:Promise<void>|null=null;
 function loadSDK(){return sdkPromise??=new Promise<void>((resolve,reject)=>{
