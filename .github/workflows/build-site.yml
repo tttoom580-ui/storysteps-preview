@@ -11,6 +11,7 @@ on:
       - 'package.json'
       - 'vite.config.ts'
       - '.github/workflows/build-site.yml'
+      - 'verification/browser-smoke.mjs'
   workflow_dispatch:
 permissions:
   contents: write
@@ -30,6 +31,12 @@ jobs:
         run: |
           npm install --no-audit --no-fund
           npm run build
+      - name: Install smoke test browser
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Desktop and mobile-emulated interaction smoke tests
+        run: node verification/browser-smoke.mjs
       - name: Commit generated GitHub Pages files
         run: |
           git config user.name 'github-actions[bot]'
@@ -40,6 +47,7 @@ jobs:
           if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
             git reset --hard origin/main
             npm run build
+            node verification/browser-smoke.mjs
           fi
           git add -A docs
           if ! git diff --cached --quiet; then
