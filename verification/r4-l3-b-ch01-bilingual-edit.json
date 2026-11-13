@@ -1,0 +1,28 @@
+{
+  "scope": "Only chapter 1, paragraph 4, and the two Chapter 1 quiz explanations, not a book certification.",
+  "book": "ss-r4-l3-b",
+  "chapter": "ss-r4-l3-b-1",
+  "englishWordsBefore": 536,
+  "englishWordsAfter": 627,
+  "targetWordsStillPresent": 20,
+  "missingTargetWords": [],
+  "quizAnswersReviewed": [
+    {
+      "number": 1,
+      "answer": "The mother character’s",
+      "sourceParagraph": 1,
+      "support": "Every line spoken by the mother character had vanished from the new copies."
+    },
+    {
+      "number": 2,
+      "answer": "ASK HER FIRST",
+      "sourceParagraph": 8,
+      "support": "On the back of the deleted page somebody had written, ASK HER FIRST."
+    }
+  ],
+  "bilingualParagraphsRevised": [
+    4
+  ],
+  "wholeBookPlotAndTranslationCertified": false,
+  "newBookResource": "./books/ss-r4-l3-b-fcfc21b94bac.bin"
+}
