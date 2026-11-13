@@ -1,0 +1,17 @@
+name: StorySteps editorial diagnostics
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/editorial_scene_map.py'
+      - '.github/workflows/editorial-diagnostics.yml'
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Print chapter-level narrative and reuse diagnostics
+        run: python3 scripts/editorial_scene_map.py
