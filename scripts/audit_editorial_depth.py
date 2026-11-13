@@ -78,6 +78,11 @@ summary={'totalBooks':len(cat),'totalChapters':len(all_chapters),'chaptersUnder5
  'fullHumanSemanticApprovalCount':0,
  'sharedExactEnglishParagraphPatternsAcrossBooks':len(duplicates)}
 report={'version':'2026-11-14','description':'Full machine screening, NOT sentence-by-sentence editorial approval. Translation length anomalies are candidate flags, not proof of mistranslation. Quiz semantic review required for all items without explicit source citations.','summary':summary,'books':all_book_report,'chapters':all_chapters,'crossBookDuplicateParagraphs':list(duplicates.items())[:100]}
+# Concise reading samples for grounded editorial popularity review (never certify full text).
+CANDIDATES={'tomorrow','import-campus-crush','ss-r2-l2-b','ss-r7-l3-a','ss-r2-l3-a','ss-r2-l2-a','ceo-1','ss-r9-l3-a','import-platform-thirteen','ss-r5-l4-a','ss-r3-l1-a','ss-r2-l1-b','ss-r9-l2-a','ss-r4-l3-b','ss-r10-l5-b'}
+for entry in all_book_report:
+ if entry['id'] in CANDIDATES:
+  print('RANK_READING',json.dumps({'id':entry['id'],'title':entry['name'],'hook':entry['hook'],'opening':entry['sample']['beginning']['openingEnglish'][:320],'middle':entry['sample']['middle']['openingEnglish'][:160],'closing':entry['sample']['ending']['closingEnglish'][-180:]},ensure_ascii=False))
 (OUT/'editorial-triage-20261114.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 print('EDITORIAL_TRIAGE_SUMMARY',json.dumps(summary,ensure_ascii=False))
 for b in all_book_report:
