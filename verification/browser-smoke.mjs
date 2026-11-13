@@ -82,6 +82,18 @@ async function run(label,options){
    const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth+3);
    if(overflow)throw Error('Mobile reader overflows screen horizontally');
   }
+  // Rewarded advertising is not live: free access must work without fetching Google ad SDKs.
+  const adRequests=[];
+  page.on('request',request=>{if(/googlesyndication|doubleclick|googletag/.test(request.url()))adRequests.push(request.url())});
+  await page.goto(base+'?book=tomorrow&chapter=tomorrow-6',{waitUntil:'domcontentloaded'});
+  await page.getByRole('button',{name:/免廣告免費解鎖 4 章/}).first().waitFor({timeout:20000});
+  await page.getByRole('button',{name:/免廣告免費解鎖 4 章/}).first().click();
+  await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
+  const grants=await page.evaluate(()=>JSON.parse(localStorage.getItem('storysteps-free-access-v1')||'[]').filter(x=>x.story==='tomorrow'&&x.start===6));
+  if(grants.length!==1||grants[0].source!=='launch-gift')throw Error('No-ad unlock was not saved exactly once');
+  await page.goto(base+'?book=tomorrow&chapter=tomorrow-7',{waitUntil:'domcontentloaded'});
+  await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
+  if(adRequests.length)throw Error('Google ad scripts unexpectedly requested without consent: '+adRequests.join(','));
   if(errors.length)throw Error(label+' JS errors: '+errors.join('; '));
   console.log(JSON.stringify({device:label,ok:true,sync:true,theme:true}));
  }finally{await context.close()}
