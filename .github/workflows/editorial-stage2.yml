@@ -22,12 +22,31 @@ jobs:
           python3 scripts/audit_story_release.py
           python3 scripts/audit_launch.py
           python3 scripts/audit_content_uniqueness.py
-      - name: Push validated changed manuscript assets and report
+      - name: Publish validated revisions safely on latest main
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add public/books public/catalog.js public/content-manifest.json public/story-review.json STORY_REVIEW.md verification/stage2-20261113.json verification/story-review-20261110.json verification/content-uniqueness-20261108.json
-          if ! git diff --cached --quiet; then
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/stage2_remove_recycled_prose.py
+            python3 scripts/audit_story_release.py
+            python3 scripts/audit_launch.py
+            python3 scripts/audit_content_uniqueness.py
+            git add public/books public/catalog.js public/content-manifest.json public/story-review.json STORY_REVIEW.md verification/stage2-20261113.json verification/story-review-20261110.json verification/content-uniqueness-20261108.json
+            if git diff --cached --quiet; then
+              echo 'No uncommitted editorial changes to publish'
+              exit 0
+            fi
             git commit -m 'editorial: preserve validated bilingual de-duplication [skip editorial]'
-            git push origin HEAD:main
-          fi
+            if git push origin HEAD:main; then
+              echo 'Validated editorial changes published'
+              exit 0
+            fi
+            echo "Remote changed; retry $attempt"
+            sleep 2
+          done
+          echo 'Editorial changes not published: race with other GitHub edits' >&2
+          exit 1
