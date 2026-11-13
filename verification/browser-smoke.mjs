@@ -94,6 +94,14 @@ async function run(label,options){
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-7',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   if(adRequests.length)throw Error('Google ad scripts unexpectedly requested without consent: '+adRequests.join(','));
+  // Stage 2 editorial transparency: every book is shown, none falsely certified.
+  await page.goto(base+'editorial-progress.html',{waitUntil:'domcontentloaded'});
+  const editorialRows=page.locator('#books tbody tr');
+  if(await editorialRows.count()!==82)throw Error('Editorial tracker must list all 82 published books');
+  await page.locator('#search').fill('萬味渡口');
+  if(await editorialRows.filter({visible:true}).count()!==1)throw Error('Editorial filter did not isolate one book');
+  const auditContent=await editorialRows.filter({visible:true}).first().innerText();
+  if(!auditContent.includes('逐段英中、情節、角色與答案審閱未完成'))throw Error('Editorial review is incorrectly marked complete');
   if(errors.length)throw Error(label+' JS errors: '+errors.join('; '));
   console.log(JSON.stringify({device:label,ok:true,sync:true,theme:true}));
  }finally{await context.close()}
