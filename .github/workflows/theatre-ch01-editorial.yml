@@ -1,0 +1,51 @@
+name: StorySteps focused bilingual chapter revision
+on:
+  push:
+    paths:
+      - 'scripts/revise_theatre_ch01.py'
+      - '.github/workflows/theatre-ch01-editorial.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: stage2-theatre-ch1
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify focused original bilingual revision and full-book integrity
+        run: |
+          python3 scripts/revise_theatre_ch01.py
+          python3 scripts/audit_story_release.py
+          python3 scripts/audit_launch.py
+          python3 scripts/audit_editorial_depth.py > /tmp/editorial-audit.log
+          python3 scripts/build_editorial_progress.py
+      - name: Publish validated manuscript with race-safe retries
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/revise_theatre_ch01.py
+            python3 scripts/audit_story_release.py
+            python3 scripts/audit_launch.py
+            python3 scripts/audit_editorial_depth.py > /tmp/editorial-audit.log
+            python3 scripts/build_editorial_progress.py
+            git add public/catalog.js public/content-manifest.json public/books public/story-review.json public/editorial-progress.html STORY_REVIEW.md verification/story-review-20261110.json verification/editorial-triage-20261114.json verification/r4-l3-b-ch01-bilingual-edit.json
+            if git diff --cached --quiet; then
+              echo 'Validated revisions are already checked in'
+              exit 0
+            fi
+            git commit -m 'editorial: rewrite theatre chapter 1 bilingual scene with answer references [skip editorial]'
+            if git push origin HEAD:main; then
+              echo 'FOCUSED_BILINGUAL_EDIT_PUBLISHED'
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
