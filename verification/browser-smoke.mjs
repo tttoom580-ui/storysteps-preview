@@ -56,6 +56,16 @@ async function run(label,options){
   const toggle=page.getByRole('button',{name:/切換黑暗模式|切換淺色模式/}).first();
   const before=await toggle.getAttribute('aria-pressed');await toggle.click();if((await toggle.getAttribute('aria-pressed'))===before)throw Error('Theme did not change');
   await toggle.click();
+  // Read a real compressed story chapter, expand translation and verify reader viewport.
+  await page.goto(base+'?book=tomorrow&chapter=tomorrow-1',{waitUntil:'domcontentloaded'});
+  await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
+  await page.locator('.paragraph-tools').first().locator('summary').click();
+  await page.locator('.paragraph-translate').first().click();
+  await page.locator('[data-paragraph] .translation').first().waitFor();
+  if(label==='mobile'){
+   const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth+3);
+   if(overflow)throw Error('Mobile reader overflows screen horizontally');
+  }
   if(errors.length)throw Error(label+' JS errors: '+errors.join('; '));
   console.log(JSON.stringify({device:label,ok:true,sync:true,theme:true}));
  }finally{await context.close()}
