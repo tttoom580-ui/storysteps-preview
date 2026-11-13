@@ -11,7 +11,7 @@ export function grantBlock(story:string,number:number,source:'launch-gift'|'rewa
 export {blockForChapter};
 export type AdConfig={enabled:boolean;adUnitPath:string;allowFreeFallback:boolean};
 let configPromise:Promise<AdConfig>|null=null;
-export function adConfig(){return configPromise??=window.fetch(new URL('./rewarded-config.json',document.baseURI),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('無法載入閱讀設定');return r.json()}).then(d=>({enabled:d.enabled===true&&typeof d.adUnitPath==='string'&&/^\\/\\d{5,20}\\/[A-Za-z0-9_/-]{1,150}$/.test(d.adUnitPath),adUnitPath:typeof d.adUnitPath==='string'?d.adUnitPath:'',allowFreeFallback:true})).catch(e=>{configPromise=null;throw e})}
+export function adConfig(){return configPromise??=window.fetch(new URL('./rewarded-config.json',document.baseURI),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('無法載入閱讀設定');return r.json()}).then(d=>({enabled:d.enabled===true&&typeof d.adUnitPath==='string'&&/^\/\d{5,20}\/[A-Za-z0-9_-]+(?:\/[A-Za-z0-9_-]+)*$/.test(d.adUnitPath),adUnitPath:typeof d.adUnitPath==='string'?d.adUnitPath:'',allowFreeFallback:true})).catch(e=>{configPromise=null;throw e})}
 // Never gate free reading on an advertising provider. The client only stores a local convenience grant.
 let active=false;
 let sdkPromise:Promise<void>|null=null;
@@ -23,7 +23,7 @@ function loadSDK(){return sdkPromise??=new Promise<void>((resolve,reject)=>{
 })}
 export async function watchRewardedAd(config:AdConfig,signal?:AbortSignal){
  if(active)throw Error('已有廣告正在處理，請先完成或關閉。');
- if(!config.enabled||!/^\\/\\d{5,20}\\/[A-Za-z0-9_/-]{1,150}$/.test(config.adUnitPath))throw Error('正式廣告尚未啟用。');
+ if(!config.enabled||!/^\/\d{5,20}\/[A-Za-z0-9_-]+(?:\/[A-Za-z0-9_-]+)*$/.test(config.adUnitPath))throw Error('正式廣告尚未啟用。');
  if(signal?.aborted)throw new DOMException('已取消','AbortError');
  active=true;
  try{
