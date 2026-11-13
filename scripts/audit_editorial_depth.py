@@ -52,7 +52,7 @@ for b in cat:
  zh_repeats=sum(len(ids)>1 for ids in repeated_zh.values())
  first=chapters[0];mid=chapters[12];end=chapters[-1]
  def snippet(c):
-  return {'chapter':c['number'],'zh':c['zh'],'openingEnglish':c['paragraphs'][0]['en'][:620],
+  return {'chapter':chapters.index(c)+1,'zh':c['zh'],'openingEnglish':c['paragraphs'][0]['en'][:620],
           'openingChinese':c['paragraphs'][0]['zh'][:230],
           'closingEnglish':c['paragraphs'][-1]['en'][-440:],
           'closingChinese':c['paragraphs'][-1]['zh'][-190:]}
