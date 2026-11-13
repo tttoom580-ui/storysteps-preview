@@ -21,36 +21,47 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22.13.1'
-      - name: Build site and run required checks
+      - name: Install dependencies and browser once
         run: |
           npm install --no-audit --no-fund
-          npm run build
-      - name: Install smoke test browser
-        run: |
           npm install --no-save playwright
           npx playwright install --with-deps chromium
-      - name: Desktop and mobile-emulated interaction smoke tests
-        run: node verification/browser-smoke.mjs
-      - name: Commit generated GitHub Pages files
+      - name: Build, audit and browser smoke test
         run: |
+          npm run build
+          timeout 100s node verification/browser-smoke.mjs
+      - name: Publish only the latest verified source commit
+        shell: bash
+        run: |
+          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          # Subsequent content edits may land while build is running.
-          # Rebuild from the current main so a stale artifact can never overwrite newer files.
-          git fetch origin main
-          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+          for attempt in 1 2 3 4; do
+            # The remote may advance while browser tests run or while publishing.
+            git fetch origin main
             git reset --hard origin/main
             npm run build
-            node verification/browser-smoke.mjs
-          fi
-          git add -A docs
-          if ! git diff --cached --quiet; then
-            git commit -m 'build: publish generated StorySteps pages [skip ci]'
-            git push origin HEAD:main
-          fi
+            # Confirm the code being published is the code checked in and tested.
+            timeout 100s node verification/browser-smoke.mjs
+            printf '{"sourceCommit":"%s"}\n' "$(git rev-parse HEAD)" > docs/release.json
+            git add -A docs
+            if git diff --cached --quiet; then
+              echo 'Current generated files are already published.'
+              exit 0
+            fi
+            git commit -m 'build: publish tested StorySteps pages [skip ci]'
+            if git push origin HEAD:main; then
+              echo 'Published tested StorySteps build.'
+              exit 0
+            fi
+            echo "Main advanced during push (attempt $attempt), rebuilding from latest source."
+            sleep 2
+          done
+          echo 'Unable to publish after four retries; previous live site preserved.' >&2
+          exit 1
