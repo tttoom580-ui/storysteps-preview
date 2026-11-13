@@ -59,6 +59,10 @@ export default function CloudSync({onRestore}:{onRestore:()=>void}){
     const localChanged=Object.entries(merged).some(([k,v])=>localStorage.getItem(k)!==v);
     const normalized={version:1 as const,records:merged};
     if(JSON.stringify(normalized).length>800000)throw Error('學習資料太大，請先下載備份。');
+    // Avoid a new database write/revision on every visibility change without new data.
+    if(JSON.stringify(normalized)===JSON.stringify(data.snapshot)&&!localChanged){
+     setMessage('雲端資料已是最新：'+new Date().toLocaleTimeString('zh-TW'));return;
+    }
     // Write local data only after the server accepts the merged snapshot.
     try{
      const saved=await request('/api/snapshot',credential,{method:'PUT',body:JSON.stringify({revision:data.revision,snapshot:normalized})});
@@ -82,7 +86,9 @@ export default function CloudSync({onRestore}:{onRestore:()=>void}){
   return()=>{stopped=true;clearTimeout(timer);clearInterval(interval);for(const ev of ['storysteps-local-saved','storysteps-days-changed','storysteps-access-changed'])window.removeEventListener(ev,schedule);window.removeEventListener('focus',onVisible);document.removeEventListener('visibilitychange',onVisible)}
  },[key,sync]);
  async function create(){setBusy(true);try{const r=await request('/api/register','',{method:'POST'});localStorage.setItem(KEY_STORAGE,r.key);setKey(r.key);setEntry(r.key);setMessage('同步空間已建立。請先複製並安全保管同步金鑰；它是另一台裝置的登入憑證。');}catch(e:any){setMessage('建立失敗：'+e.message)}finally{setBusy(false)}}
- function connect(){const k=entry.trim();if(!isKey(k)){setMessage('同步金鑰格式不正確。');return}localStorage.setItem(KEY_STORAGE,k);setKey(k);setMessage('正在驗證並合併兩台裝置的閱讀紀錄…');sync(k)}
+ async function connect(){const k=entry.trim();if(!isKey(k)){setMessage('同步金鑰格式不正確。');return}
+  setBusy(true);setMessage('正在驗證同步金鑰…');try{const data=await request('/api/snapshot',k);if(!validateRemote(data.snapshot))throw Error('伺服器資料格式不正確');localStorage.setItem(KEY_STORAGE,k);setKey(k);setMessage('金鑰已驗證，正在合併資料…');}catch(e:any){setMessage('無法登入：'+(e.message||'請檢查金鑰與網路')+'。未保存這組金鑰。')}finally{setBusy(false)}
+ }
  async function removeCloud(){if(!confirm('確定永久刪除雲端同步資料？所有使用這組金鑰的裝置將無法再同步。各裝置本機資料不刪除。'))return;setBusy(true);try{await request('/api/account',key,{method:'DELETE'});disconnect();setMessage('雲端資料已刪除，本機資料不受影響。')}catch(e:any){setMessage('刪除失敗：'+e.message)}finally{setBusy(false)}}
  function disconnect(){localStorage.removeItem(KEY_STORAGE);setKey('');setEntry('')}
  return <section className="cloud-sync feature-panel" aria-label="跨裝置同步"><h3>跨裝置同步（自願啟用）</h3><p>使用匿名同步金鑰，在手機與電腦合併閱讀進度、單字、書架、簽到與免費解鎖紀錄。啟用後自動嘗試同步；離線時仍保留本機資料。</p>
