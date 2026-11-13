@@ -36,11 +36,11 @@ for bid in ('ss-r10-l5-b','ss-r10-l6-a'):
  spans=defaultdict(set)
  for c in cs:
   for p in c['paragraphs']:
-   for sentence in re.split(r'(?<=[.!?])\\s+',p['en']):
+   for sentence in re.split(r'(?<=[.!?])\s+',p['en']):
     if wc(sentence)>=12:spans[norm(sentence)].add(c['id'])
  repeated={s for s,v in spans.items() if len(v)>1}
  for c in cs[:4]:
   for i,p in enumerate(c['paragraphs']):
-   ens=re.split(r'(?<=[.!?])\\s+',p['en']);zh=[x for x in re.split(r'(?<=[。！？])',p['zh']) if x.strip()]
+   ens=re.split(r'(?<=[.!?])\s+',p['en']);zh=[x for x in re.split(r'(?<=[。！？])',p['zh']) if x.strip()]
    indices=[k for k,t in enumerate(ens) if norm(t) in repeated and wc(t)>=12]
    print('ALIGN',json.dumps({'chapter':c['id'],'p':i+1,'enSents':len(ens),'zhSents':len(zh),'firstRepeat':min(indices) if indices else None,'repeats':len(indices),'enEnd':ens[-1][:80],'zhEnd':zh[-1][-100:]},ensure_ascii=False))
