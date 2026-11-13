@@ -56,6 +56,7 @@ export default function CloudSync({onRestore}:{onRestore:()=>void}){
    if(!validateRemote(data.snapshot))throw Error('遠端資料格式不正確，未修改本機紀錄。');
    for(let attempt=0;attempt<3;attempt++){
     const merged=mergeRecords(local().records,data.snapshot.records);
+    const localChanged=Object.entries(merged).some(([k,v])=>localStorage.getItem(k)!==v);
     const normalized={version:1 as const,records:merged};
     if(JSON.stringify(normalized).length>800000)throw Error('學習資料太大，請先下載備份。');
     // Write local data only after the server accepts the merged snapshot.
@@ -65,7 +66,7 @@ export default function CloudSync({onRestore}:{onRestore:()=>void}){
      try{for(const [k,v] of Object.entries(merged))if(localStorage.getItem(k)!==v)localStorage.setItem(k,v);}
      catch(e){for(const [k,v] of Object.entries(before)){try{v===null?localStorage.removeItem(k):localStorage.setItem(k,v)}catch{}}throw e}
      const t=Date.now();setLast(t);setMessage('已與雲端合併同步：'+new Date(t).toLocaleTimeString('zh-TW'));
-     window.dispatchEvent(new Event('storysteps-backup-restored'));window.dispatchEvent(new Event('storysteps-days-changed'));window.dispatchEvent(new Event('storysteps-access-changed'));onRestoreRef.current();
+     if(localChanged){window.dispatchEvent(new Event('storysteps-backup-restored'));window.dispatchEvent(new Event('storysteps-days-changed'));window.dispatchEvent(new Event('storysteps-access-changed'));onRestoreRef.current();}
      return;
     }catch(e:any){if(e.status!==409||attempt===2)throw e;data=await request('/api/snapshot',credential);if(!validateRemote(data.snapshot))throw Error('遠端資料格式錯誤');}
    }
