@@ -13,6 +13,7 @@ on:
       - '.github/workflows/build-site.yml'
       - 'verification/browser-smoke.mjs'
       - 'verification/sync-api-smoke.mjs'
+      - 'verification/ad-policy-smoke.mjs'
   workflow_dispatch:
 permissions:
   contents: write
@@ -36,6 +37,7 @@ jobs:
       - name: Build, audit and browser smoke test
         run: |
           npm run build
+          node verification/ad-policy-smoke.mjs
           timeout 100s node verification/browser-smoke.mjs
           timeout 90s node verification/sync-api-smoke.mjs
       - name: Publish only the latest verified source commit
@@ -49,6 +51,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             npm run build
+            node verification/ad-policy-smoke.mjs
             # Confirm the code being published is the code checked in and tested.
             timeout 100s node verification/browser-smoke.mjs
             printf '{"sourceCommit":"%s"}\n' "$(git rev-parse HEAD)" > docs/release.json
