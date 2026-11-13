@@ -2,10 +2,14 @@ import {useEffect,useRef,useState} from 'react';
 import {stories,levels} from './content';
 import type {Chapter,Story} from './types';
 import {localRead,studyConsent,sendEvent,sendFeedback,studyEndpoint} from './study-service';
-import guide from './reading-guide.json';
-const data=guide as any;
+import guideUrl from './reading-guide.json?url';
+// Heavy chapter guidance is fetched only when a matching reading widget mounts.
+let guidancePromise:Promise<any>|null=null;
+const loadGuidance=()=>guidancePromise??=fetch(guideUrl).then(r=>{if(!r.ok)throw Error('Unable to load reading guidance');return r.json()}).catch(e=>{guidancePromise=null;throw e});
+function useGuidance(){const [data,setData]=useState<any>({books:{},chapters:{}});useEffect(()=>{let active=true;loadGuidance().then(d=>{if(active)setData(d)}).catch(()=>{});return()=>{active=false}},[]);return data;}
 export function StudyChoice(){return <details className="growth-panel consent-panel"><summary>資料與隱私：學習資料留在此瀏覽器</summary><p>目前暫停新增雲端閱讀研究與段落文字回報。閱讀、查詞、生字複習與免費解鎖不受影響。既有研究樣本僅以彙總方式保留展示；隨機瀏覽器代碼不等於完全匿名。</p><a href="./privacy.html">查看資料處理與保存說明</a></details>}
 export function GuidedPicker({onBook,onRead,last}:{onBook:(s:Story)=>void;onRead:(id:string)=>void;last:string}){
+ const data=useGuidance();
  const [topic,setTopic]=useState('不限'),[level,setLevel]=useState(()=>Math.max(0,Math.min(6,localRead('storysteps-suggested-level',0)))),[rated,setRated]=useState(false),[message,setMessage]=useState('');
  const matching=stories.filter(s=>s.id!=='tomorrow'&&topic==='不限'||(s.genre+' '+(s.tags||[]).join(' ')).includes(topic));
  const ranked=[...matching].sort((a,b)=>Math.abs(levels.indexOf(a.level)-level)-Math.abs(levels.indexOf(b.level)-level)||Number(b.id.match(/^ss-r(\d+)-/)?.[1]||0)-Number(a.id.match(/^ss-r(\d+)-/)?.[1]||0));
@@ -20,6 +24,7 @@ export function WeeklyGoal({progress,onCenter,lastBackup,compact=false}:{progres
  return <section className={"growth-panel weekly-goal"+(compact?" goal-compact":"")}><div>{!compact&&<span className="eyebrow">慢慢讀，也算前進</span>}<h2>本週完成 {count} / {goal} 章</h2>{!compact&&<p>週一至週日，依臺灣時間計算；同一章本週只算一次。</p>}<progress max={goal} value={Math.min(count,goal)} aria-label="本週閱讀目標"/></div><label>每週目標<select value={goal} onChange={e=>{const n=Number(e.target.value);setGoal(n);localStorage.setItem('storysteps-weekly-goal',JSON.stringify(n))}}>{[1,3,5,7].map(n=><option key={n} value={n}>{n} 章</option>)}</select></label>{remind&&!compact&&<div className="backup-nudge"><p>你的閱讀紀錄只在這個瀏覽器，記得下載一份備份。</p><button className="secondary" onClick={onCenter}>前往備份中心</button><button className="text-link" onClick={()=>{const n=Date.now();setDismiss(n);localStorage.setItem('storysteps-backup-snooze',JSON.stringify(n))}}>明天提醒</button></div>}</section>
 }
 export function ReadingSupport({story,chapter,progress,onBook,onTranslate}:{story:Story;chapter:Chapter;progress:any[];onBook:(s:Story)=>void;onTranslate:()=>void}){
+ const data=useGuidance();
  const [difficulty,setDifficulty]=useState(()=>localRead('storysteps-difficulty-'+chapter.id,''));const info=data.chapters[chapter.id];const index=story.chapters.findIndex(c=>c.id===chapter.id),previous=story.chapters[index-1];
  const easier=[...stories].filter(s=>levels.indexOf(s.level)<levels.indexOf(story.level)).sort((a,b)=>Number(b.genre===story.genre)-Number(a.genre===story.genre))[0];
  function rate(value:string){setDifficulty(value);localStorage.setItem('storysteps-difficulty-'+chapter.id,JSON.stringify(value));sendEvent('difficulty_'+value,story.id,chapter.id)}
