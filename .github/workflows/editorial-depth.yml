@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'scripts/audit_editorial_depth.py'
+      - 'scripts/build_editorial_progress.py'
       - '.github/workflows/editorial-depth.yml'
   workflow_dispatch:
 permissions:
@@ -17,7 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Audit all published manuscripts
-        run: python3 scripts/audit_editorial_depth.py
+        run: |
+          python3 scripts/audit_editorial_depth.py
+          python3 scripts/build_editorial_progress.py
       - name: Persist the exact per-book and per-chapter findings
         run: |
           set -euo pipefail
@@ -27,7 +30,8 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             python3 scripts/audit_editorial_depth.py > /tmp/editorial-summary.txt
-            git add verification/editorial-triage-20261114.json
+            python3 scripts/build_editorial_progress.py
+            git add verification/editorial-triage-20261114.json public/editorial-progress.html
             if git diff --cached --quiet; then
               echo 'Editorial report already current'
               exit 0
