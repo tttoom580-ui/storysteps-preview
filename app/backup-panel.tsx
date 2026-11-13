@@ -1,3 +1,4 @@
+import CloudSync from './cloud-sync';
 import {cleanDays} from './habit-policy.mjs';
 import {markLocalSaved} from './storage-status';
 export {markLocalSaved} from './storage-status';
@@ -44,11 +45,11 @@ export default function BackupPanel({onRestore}:{onRestore:()=>void}){
   window.dispatchEvent(new Event('storysteps-days-changed'));markLocalSaved();window.dispatchEvent(new Event('storysteps-backup-restored'));window.dispatchEvent(new Event('storysteps-access-changed'));setCandidate(null);setNotice('已合併學習資料；同章節與同單字保留目前裝置的紀錄。閱讀設定及段落位置沒有覆蓋。');onRestore();
  }catch{setNotice('匯入未完成，請確認檔案與瀏覽器儲存空間。');}}
  const date=(n:number)=>n?new Date(n).toLocaleString('zh-TW',{timeZone:'Asia/Taipei'}):'尚無紀錄';
- return <section id="backup-center" className="backup-panel feature-panel"><h2>自動保存與備份</h2><p>讀完章節、收藏單字與書架會自動存在此瀏覽器，不用按儲存。換裝置、清除網站資料或改用 App 內建瀏覽器時，紀錄可能不同；獨立備份檔仍需你主動下載。</p><p>最近自動保存：{date(auto)}<br/>上次要求匯出：{date(meta.exportedAt)}{meta.exportedAt&&changed?' · 有新變更':''}</p>
+ return <section id="backup-center" className="backup-panel feature-panel"><h2>自動保存與備份</h2><CloudSync onRestore={onRestore}/><p>讀完章節、收藏單字與書架會自動存在此瀏覽器，不用按儲存。未開啟雲端同步時，換裝置、清除網站資料或改用 App 內建瀏覽器可能看不到原來紀錄；請定期下載備份。</p><p>最近自動保存：{date(auto)}<br/>上次要求匯出：{date(meta.exportedAt)}{meta.exportedAt&&changed?' · 有新變更':''}</p>
  {remind&&<p className="notice" role="status">{meta.exportedAt?'有新的學習資料，且已超過 7 天未匯出。':'已有學習資料，尚未匯出備份。'}建議下載一份備份。</p>}
  <button className="primary" onClick={download}>下載學習資料備份</button>
  {'persist'in(navigator.storage||{})&&<button className="secondary" onClick={async()=>{try{const yes=await navigator.storage.persist();setPersistent(yes);setNotice(yes?'瀏覽器已授予持續儲存。手動清除資料或裝置遺失仍需要備份。':'瀏覽器未授予持續儲存，原本的自動保存仍可使用。');}catch{setNotice('目前無法取得持續儲存權限；請保留下載備份。');}}}>加強此瀏覽器保存</button>}
- <p className="fine">持續儲存：{persistent===null?'依瀏覽器支援情況':'已取得／未取得'.split('／')[persistent?0:1]}。它不是下載資料夾的備份，也不提供跨裝置同步。</p>
+ <p className="fine">持續儲存：{persistent===null?'依瀏覽器支援情況':'已取得／未取得'.split('／')[persistent?0:1]}。它不是下載資料夾的備份；跨裝置同步請使用上方自願啟用功能。</p>
  <details><summary>從備份檔匯入</summary><label>選擇拾頁備份檔（JSON 或 TXT，最多 3 MB）<input type="file" accept=".json,.txt,application/json,text/plain" onChange={async e=>{const f=e.target.files?.[0];setCandidate(null);if(!f)return;if(f.size>3_000_000){setNotice('檔案超過 3 MB。');return;}try{const raw=JSON.parse(await f.text()),b=validateBackup(raw);setCandidate(raw);setNotice('檔案已驗證，請先確認下方摘要。');}catch(e:any){setNotice(e.message||'不是可用的拾頁備份。');}e.target.value='';}}/></label>
  {candidate&&<div className="restore-preview"><h3>匯入前確認</h3><p>{validateBackup(candidate).progress.length} 章、{validateBackup(candidate).vocab.length} 個單字、{validateBackup(candidate).state.books.length} 本收藏，{cleanDays(candidate.readingDays).length} 個簽到日。格式 v{candidate.version}。</p><p>將合併資料，不刪除目前進度；重複項目保留目前裝置的紀錄。</p><button className="secondary" onClick={()=>setCandidate(null)}>取消</button><button className="primary" onClick={restore}>確認合併學習資料</button></div>}</details><p className="fine">備份含閱讀紀錄，請保存到自己信任的位置。免費解鎖屬本機設定，不是購買憑證；本機 XP 不參加公開排行榜。</p><p role="status">{notice}</p></section>;
 }
