@@ -59,7 +59,7 @@ async function run(label,options){
   // Read a real compressed story chapter, expand translation and verify reader viewport.
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-1',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
-  await page.locator('.paragraph-tools').first().locator('summary').click();
+  await page.locator('.paragraph-tools > summary').first().click();
   await page.locator('.paragraph-translate').first().click();
   await page.locator('[data-paragraph] .translation').first().waitFor();
   if(label==='mobile'){
