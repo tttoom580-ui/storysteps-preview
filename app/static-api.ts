@@ -56,6 +56,14 @@ export async function siteFetch(input:any,init?:RequestInit):Promise<Response>{
   if(post&&body.action==='profile')localStorage.setItem('storysteps-local-nickname',JSON.stringify(String(body.nickname||'').slice(0,20)));
   return json({signed:false,test:false,profile:{nickname:read('storysteps-local-nickname',''),public:false},chapters:guest().progress.map((p:any)=>({chapter:p.chapter})),books:stories.filter(b=>b.chapters.every(c=>guest().progress.some((p:any)=>p.chapter===c.id))).map(b=>({story:b.id})),leaders:[]});
  }
- if(path==='/api/ads')return json({mode:'disabled'});
+ if(path==='/api/ads'){
+  try{
+   const r=await nativeFetch(new URL('./display-ad-config.json',document.baseURI),{cache:'no-store'});
+   if(!r.ok)return json({mode:'disabled'});
+   const d=await r.json();
+   const enabled=d.enabled===true&&d.mode==='live'&&d.client==='ca-pub-9154967510584289'&&/^\d{8,20}$/.test(d.slot||'');
+   return json(enabled?{mode:'live',client:d.client,slot:d.slot}:{mode:'disabled'});
+  }catch{return json({mode:'disabled'})}
+ }
  return json({error:'此功能尚未接入雲端服務；閱讀與學習功能免費。'},503);
 }
