@@ -26,3 +26,7 @@ for bid in ('ss-r10-l5-b','ss-r10-l6-a'):
  for num in [1,2,3,6,9,17,25]:
   c=cs[num-1]
   print('SCENE',json.dumps({'id':c['id'],'title':c['title'],'paragraphs':[{'i':j+1,'en':p['en'][:320],'zh':p['zh'][:190]} for j,p in enumerate(c['paragraphs'][:3])]},ensure_ascii=False))
+
+ for c in cs:
+  if bid!='ss-r10-l5-b':continue
+  print('FERRY_CORE',json.dumps({'id':c['id'],'title':c['title'],'cores':[{'i':i+1,'en':p['en'][:500],'zh':p['zh'][:190]} for i,p in enumerate(c['paragraphs']) if i in (2,4,5)]},ensure_ascii=False))
