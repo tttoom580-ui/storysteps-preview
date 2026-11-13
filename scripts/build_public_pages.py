@@ -1,7 +1,7 @@
 """Build public, crawlable book pages and the first five free bilingual chapters."""
 from pathlib import Path
 import json,gzip,re,html,posixpath,xml.etree.ElementTree as ET
-R=Path(__file__).resolve().parents[1];P=R/'public';BASE='https://tttoom580-ui.github.io/storysteps-preview/';PUB='ca-pub-9154967510584289';ADS_ENABLED=True
+R=Path(__file__).resolve().parents[1];P=R/'public';BASE='https://tttoom580-ui.github.io/storysteps-preview/';PUB='ca-pub-9154967510584289';ADS_ENABLED=False # Do not load ad scripts before an explicit reader opt-in.
 cat=json.loads((P/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'));cat=[b for b in cat if b.get('readable',True)];manifest=json.loads((P/'content-manifest.json').read_text());urls=[]
 esc=lambda s:html.escape(str(s),quote=True)
 def href(path):return BASE+path
