@@ -45,7 +45,8 @@ async function request(path:string,key:string,init:RequestInit={}){
 export default function CloudSync({onRestore}:{onRestore:()=>void}){
  const [key,setKey]=useState(()=>localStorage.getItem(KEY_STORAGE)||'');
  const [entry,setEntry]=useState(''),[busy,setBusy]=useState(false),[message,setMessage]=useState(''),[last,setLast]=useState(0);
- const busyRef=useRef(false),keyRef=useRef(key);
+ const busyRef=useRef(false),keyRef=useRef(key),onRestoreRef=useRef(onRestore);
+ useEffect(()=>{onRestoreRef.current=onRestore},[onRestore]);
  useEffect(()=>{keyRef.current=key},[key]);
  const sync=useCallback(async (credential:string,silent=false)=>{
   if(!credential||busyRef.current)return;
@@ -64,13 +65,13 @@ export default function CloudSync({onRestore}:{onRestore:()=>void}){
      try{for(const [k,v] of Object.entries(merged))if(localStorage.getItem(k)!==v)localStorage.setItem(k,v);}
      catch(e){for(const [k,v] of Object.entries(before)){try{v===null?localStorage.removeItem(k):localStorage.setItem(k,v)}catch{}}throw e}
      const t=Date.now();setLast(t);setMessage('已與雲端合併同步：'+new Date(t).toLocaleTimeString('zh-TW'));
-     window.dispatchEvent(new Event('storysteps-backup-restored'));window.dispatchEvent(new Event('storysteps-days-changed'));window.dispatchEvent(new Event('storysteps-access-changed'));onRestore();
+     window.dispatchEvent(new Event('storysteps-backup-restored'));window.dispatchEvent(new Event('storysteps-days-changed'));window.dispatchEvent(new Event('storysteps-access-changed'));onRestoreRef.current();
      return;
     }catch(e:any){if(e.status!==409||attempt===2)throw e;data=await request('/api/snapshot',credential);if(!validateRemote(data.snapshot))throw Error('遠端資料格式錯誤');}
    }
   }catch(e:any){setMessage('同步失敗：'+(e.message||'未知錯誤')+'。本機資料仍保留。');}
   finally{busyRef.current=false;setBusy(false)}
- },[onRestore]);
+ },[]);
  useEffect(()=>{if(!key)return;let timer:number|undefined;let stopped=false;
   const schedule=()=>{clearTimeout(timer);timer=window.setTimeout(()=>{if(!stopped&&!document.hidden)sync(key,true)},3500)};
   const onVisible=()=>{if(!document.hidden)schedule()};
