@@ -56,6 +56,22 @@ async function run(label,options){
   const toggle=page.getByRole('button',{name:/切換黑暗模式|切換淺色模式/}).first();
   const before=await toggle.getAttribute('aria-pressed');await toggle.click();if((await toggle.getAttribute('aria-pressed'))===before)throw Error('Theme did not change');
   await toggle.click();
+  // Test stage 3 review UI with disposable, synthetic wrong-answer data.
+  await page.evaluate(()=>{
+    localStorage.setItem('storysteps-review-mistakes-v1',JSON.stringify([{id:'tomorrow-1:0',chapter:'tomorrow-1',index:0,question:'Stage 3 test: which option is correct?',options:['A','B','C'],answer:1,explanation:'Synthetic test explanation',stage:0,due:0,attempts:1,updated:Date.now()}]));
+    window.dispatchEvent(new Event('storysteps-mistakes-changed'));
+  });
+  const review=page.getByRole('region',{name:'章末錯題複習'});
+  await review.getByRole('heading',{name:'章末錯題複習'}).waitFor();
+  await review.getByRole('button',{name:'B. B'}).click();
+  await review.getByText('Synthetic test explanation').waitFor();
+  await review.getByRole('button',{name:'下一題／完成本輪'}).click();
+  await review.getByText('目前沒有到期錯題',{exact:false}).waitFor();
+  const libraryNav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'書庫'}):page.locator('.desktop-nav').getByRole('button',{name:'分級書城'});
+  await libraryNav.click();
+  await page.getByRole('heading',{name:'三分鐘試讀'}).waitFor();
+  await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'仍需校訂'});
+  await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'全部校訂狀態'});
   // Read a real compressed story chapter, expand translation and verify reader viewport.
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-1',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
