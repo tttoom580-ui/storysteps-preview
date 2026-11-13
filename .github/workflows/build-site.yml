@@ -12,6 +12,7 @@ on:
       - 'vite.config.ts'
       - '.github/workflows/build-site.yml'
       - 'verification/browser-smoke.mjs'
+      - 'verification/sync-api-smoke.mjs'
   workflow_dispatch:
 permissions:
   contents: write
@@ -36,6 +37,7 @@ jobs:
         run: |
           npm run build
           timeout 100s node verification/browser-smoke.mjs
+          timeout 90s node verification/sync-api-smoke.mjs
       - name: Publish only the latest verified source commit
         shell: bash
         run: |
