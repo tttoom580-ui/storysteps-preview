@@ -1,0 +1,42 @@
+name: StorySteps quiz source evidence triage
+on:
+  push:
+    paths:
+      - 'scripts/triage_quiz_evidence.py'
+      - '.github/workflows/quiz-source-triage.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-quiz-triage
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Map source evidence candidates
+        run: python3 scripts/triage_quiz_evidence.py
+      - name: Commit per-question review evidence
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/triage_quiz_evidence.py
+            git add verification/quiz-source-review-20261114.json
+            if git diff --cached --quiet; then
+              exit 0
+            fi
+            git commit -m 'audit: catalog source evidence candidates for uncited quizzes [skip ci]'
+            if git push origin HEAD:main; then
+              echo 'QUIZ_REVIEW_QUEUE_PUBLISHED'
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
