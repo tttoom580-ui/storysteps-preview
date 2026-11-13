@@ -1,6 +1,6 @@
 {
-  "books": 76,
-  "chapters": 1900,
+  "books": 82,
+  "chapters": 2050,
   "duplicateTitles": [],
   "duplicateBooks": [],
   "duplicateChapters": [],
@@ -28,6 +28,13 @@
       "sharedSevenWordPhrases": 7
     },
     {
+      "a": "ss-r9-l2-b",
+      "b": "ss-r10-l2-b",
+      "jaccard": 0.00021,
+      "sharedFractionOfShorter": 0.00044,
+      "sharedSevenWordPhrases": 7
+    },
+    {
       "a": "ss-r5-l6-b",
       "b": "ss-r6-l2-b",
       "jaccard": 0.00019,
@@ -42,10 +49,24 @@
       "sharedSevenWordPhrases": 6
     },
     {
+      "a": "ss-r10-l2-b",
+      "b": "ss-r10-l3-b",
+      "jaccard": 0.00015,
+      "sharedFractionOfShorter": 0.00031,
+      "sharedSevenWordPhrases": 5
+    },
+    {
       "a": "ss-r6-l2-b",
       "b": "ss-r9-l2-b",
       "jaccard": 0.00015,
       "sharedFractionOfShorter": 0.0003,
+      "sharedSevenWordPhrases": 5
+    },
+    {
+      "a": "ss-r9-l2-b",
+      "b": "ss-r10-l3-b",
+      "jaccard": 0.00014,
+      "sharedFractionOfShorter": 0.00029,
       "sharedSevenWordPhrases": 5
     },
     {
@@ -63,6 +84,13 @@
       "sharedSevenWordPhrases": 4
     },
     {
+      "a": "ss-r4-l1-b",
+      "b": "ss-r10-l3-b",
+      "jaccard": 0.00012,
+      "sharedFractionOfShorter": 0.00025,
+      "sharedSevenWordPhrases": 4
+    },
+    {
       "a": "ss-r2-l6-b",
       "b": "ss-r9-l3-a",
       "jaccard": 0.00012,
@@ -77,39 +105,11 @@
       "sharedSevenWordPhrases": 4
     },
     {
-      "a": "ss-r4-l1-a",
-      "b": "ss-r4-l2-b",
-      "jaccard": 0.00012,
-      "sharedFractionOfShorter": 0.00024,
-      "sharedSevenWordPhrases": 4
-    },
-    {
-      "a": "ss-r5-l3-b",
-      "b": "ss-r6-l2-b",
-      "jaccard": 0.00012,
-      "sharedFractionOfShorter": 0.00024,
-      "sharedSevenWordPhrases": 4
-    },
-    {
       "a": "ss-r6-l2-b",
-      "b": "ss-r8-l2-b",
+      "b": "ss-r10-l2-b",
       "jaccard": 0.00012,
-      "sharedFractionOfShorter": 0.00024,
+      "sharedFractionOfShorter": 0.00025,
       "sharedSevenWordPhrases": 4
-    },
-    {
-      "a": "ss-r5-l1-b",
-      "b": "ss-r7-l1-b",
-      "jaccard": 0.0001,
-      "sharedFractionOfShorter": 0.00022,
-      "sharedSevenWordPhrases": 3
-    },
-    {
-      "a": "ss-r7-l6-a",
-      "b": "ss-r8-l3-b",
-      "jaccard": 0.0001,
-      "sharedFractionOfShorter": 0.0002,
-      "sharedSevenWordPhrases": 3
     }
   ],
   "method": "Case/punctuation-insensitive title and English/Chinese full-text SHA256; chapter hashes; English paragraphs >=15 words; seven-word shingle overlap across all book pairs. Similarity screening cannot establish originality or exclude all paraphrased plots.",
@@ -569,6 +569,42 @@
       "title": "雲鶴歸巢：與你修一條天空的路",
       "chapters": 25,
       "englishWords": 15228
+    },
+    {
+      "id": "ss-r10-l1-a",
+      "title": "紅磚街的星星課",
+      "chapters": 25,
+      "englishWords": 16993
+    },
+    {
+      "id": "ss-r10-l2-b",
+      "title": "把市場的聲音，留到明天",
+      "chapters": 25,
+      "englishWords": 16012
+    },
+    {
+      "id": "ss-r10-l3-b",
+      "title": "把地板留給每一種舞步",
+      "chapters": 25,
+      "englishWords": 17599
+    },
+    {
+      "id": "ss-r10-l4-a",
+      "title": "都市高武：我替弱者校準屏障",
+      "chapters": 25,
+      "englishWords": 16044
+    },
+    {
+      "id": "ss-r10-l5-b",
+      "title": "萬味渡口：與你煮一碗回家的湯",
+      "chapters": 25,
+      "englishWords": 19665
+    },
+    {
+      "id": "ss-r10-l6-a",
+      "title": "星曆失落的十七分鐘",
+      "chapters": 25,
+      "englishWords": 16576
     }
   ]
 }

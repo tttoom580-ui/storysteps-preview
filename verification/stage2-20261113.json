@@ -1,0 +1,519 @@
+{
+  "date": "2026-11-13",
+  "scope": "Conservative exact long-sentence bilingual cleanup; failed chapters unchanged; excludes complete narrative/translation proofreading",
+  "summary": {
+    "changedBooks": 2,
+    "changedChapters": 24,
+    "repetitionsBefore": 111,
+    "repetitionsAfter": 62,
+    "fullSemanticEditCompleted": false
+  },
+  "books": [
+    {
+      "id": "ss-r10-l5-b",
+      "changedChapters": 4,
+      "repeatedPatternsBefore": 62,
+      "repeatedPatternsAfter": 62,
+      "chapters": [
+        {
+          "id": "ss-r10-l5-b-1",
+          "accepted": false,
+          "englishWordsBefore": 824,
+          "englishWordsAfter": 824,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l5-b-2",
+          "accepted": false,
+          "englishWordsBefore": 832,
+          "englishWordsAfter": 832,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-3",
+          "accepted": false,
+          "englishWordsBefore": 815,
+          "englishWordsAfter": 815,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-4",
+          "accepted": false,
+          "englishWordsBefore": 845,
+          "englishWordsAfter": 845,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-5",
+          "accepted": false,
+          "englishWordsBefore": 840,
+          "englishWordsAfter": 840,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-6",
+          "accepted": true,
+          "englishWordsBefore": 782,
+          "englishWordsAfter": 543,
+          "removedRecycledEnglishWords": 239,
+          "removedRecycledChineseCharacters": 337,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l5-b-7",
+          "accepted": false,
+          "englishWordsBefore": 792,
+          "englishWordsAfter": 792,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-8",
+          "accepted": false,
+          "englishWordsBefore": 794,
+          "englishWordsAfter": 794,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-9",
+          "accepted": false,
+          "englishWordsBefore": 817,
+          "englishWordsAfter": 817,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-10",
+          "accepted": false,
+          "englishWordsBefore": 804,
+          "englishWordsAfter": 804,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-11",
+          "accepted": true,
+          "englishWordsBefore": 859,
+          "englishWordsAfter": 620,
+          "removedRecycledEnglishWords": 239,
+          "removedRecycledChineseCharacters": 337,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l5-b-12",
+          "accepted": false,
+          "englishWordsBefore": 840,
+          "englishWordsAfter": 840,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-13",
+          "accepted": false,
+          "englishWordsBefore": 831,
+          "englishWordsAfter": 831,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-14",
+          "accepted": false,
+          "englishWordsBefore": 828,
+          "englishWordsAfter": 828,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-15",
+          "accepted": false,
+          "englishWordsBefore": 828,
+          "englishWordsAfter": 828,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-16",
+          "accepted": true,
+          "englishWordsBefore": 801,
+          "englishWordsAfter": 562,
+          "removedRecycledEnglishWords": 239,
+          "removedRecycledChineseCharacters": 337,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l5-b-17",
+          "accepted": false,
+          "englishWordsBefore": 833,
+          "englishWordsAfter": 833,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-18",
+          "accepted": false,
+          "englishWordsBefore": 808,
+          "englishWordsAfter": 808,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-19",
+          "accepted": false,
+          "englishWordsBefore": 815,
+          "englishWordsAfter": 815,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-20",
+          "accepted": false,
+          "englishWordsBefore": 808,
+          "englishWordsAfter": 808,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-21",
+          "accepted": true,
+          "englishWordsBefore": 844,
+          "englishWordsAfter": 605,
+          "removedRecycledEnglishWords": 239,
+          "removedRecycledChineseCharacters": 337,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l5-b-22",
+          "accepted": false,
+          "englishWordsBefore": 824,
+          "englishWordsAfter": 824,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-23",
+          "accepted": false,
+          "englishWordsBefore": 840,
+          "englishWordsAfter": 840,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-24",
+          "accepted": false,
+          "englishWordsBefore": 839,
+          "englishWordsAfter": 839,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        },
+        {
+          "id": "ss-r10-l5-b-25",
+          "accepted": false,
+          "englishWordsBefore": 850,
+          "englishWordsAfter": 850,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": [
+            "under_500_words"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ss-r10-l6-a",
+      "changedChapters": 20,
+      "repeatedPatternsBefore": 49,
+      "repeatedPatternsAfter": 0,
+      "chapters": [
+        {
+          "id": "ss-r10-l6-a-1",
+          "accepted": false,
+          "englishWordsBefore": 826,
+          "englishWordsAfter": 826,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-2",
+          "accepted": false,
+          "englishWordsBefore": 803,
+          "englishWordsAfter": 803,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-3",
+          "accepted": false,
+          "englishWordsBefore": 798,
+          "englishWordsAfter": 798,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-4",
+          "accepted": false,
+          "englishWordsBefore": 792,
+          "englishWordsAfter": 792,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-5",
+          "accepted": false,
+          "englishWordsBefore": 790,
+          "englishWordsAfter": 790,
+          "removedRecycledEnglishWords": 0,
+          "removedRecycledChineseCharacters": 0,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-6",
+          "accepted": true,
+          "englishWordsBefore": 816,
+          "englishWordsAfter": 658,
+          "removedRecycledEnglishWords": 158,
+          "removedRecycledChineseCharacters": 275,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-7",
+          "accepted": true,
+          "englishWordsBefore": 794,
+          "englishWordsAfter": 613,
+          "removedRecycledEnglishWords": 181,
+          "removedRecycledChineseCharacters": 315,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-8",
+          "accepted": true,
+          "englishWordsBefore": 779,
+          "englishWordsAfter": 607,
+          "removedRecycledEnglishWords": 172,
+          "removedRecycledChineseCharacters": 329,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-9",
+          "accepted": true,
+          "englishWordsBefore": 795,
+          "englishWordsAfter": 623,
+          "removedRecycledEnglishWords": 172,
+          "removedRecycledChineseCharacters": 289,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-10",
+          "accepted": true,
+          "englishWordsBefore": 787,
+          "englishWordsAfter": 618,
+          "removedRecycledEnglishWords": 169,
+          "removedRecycledChineseCharacters": 312,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-11",
+          "accepted": true,
+          "englishWordsBefore": 796,
+          "englishWordsAfter": 638,
+          "removedRecycledEnglishWords": 158,
+          "removedRecycledChineseCharacters": 275,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-12",
+          "accepted": true,
+          "englishWordsBefore": 808,
+          "englishWordsAfter": 627,
+          "removedRecycledEnglishWords": 181,
+          "removedRecycledChineseCharacters": 315,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-13",
+          "accepted": true,
+          "englishWordsBefore": 805,
+          "englishWordsAfter": 633,
+          "removedRecycledEnglishWords": 172,
+          "removedRecycledChineseCharacters": 329,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-14",
+          "accepted": true,
+          "englishWordsBefore": 813,
+          "englishWordsAfter": 641,
+          "removedRecycledEnglishWords": 172,
+          "removedRecycledChineseCharacters": 289,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-15",
+          "accepted": true,
+          "englishWordsBefore": 798,
+          "englishWordsAfter": 629,
+          "removedRecycledEnglishWords": 169,
+          "removedRecycledChineseCharacters": 312,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-16",
+          "accepted": true,
+          "englishWordsBefore": 808,
+          "englishWordsAfter": 650,
+          "removedRecycledEnglishWords": 158,
+          "removedRecycledChineseCharacters": 275,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-17",
+          "accepted": true,
+          "englishWordsBefore": 784,
+          "englishWordsAfter": 603,
+          "removedRecycledEnglishWords": 181,
+          "removedRecycledChineseCharacters": 315,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-18",
+          "accepted": true,
+          "englishWordsBefore": 794,
+          "englishWordsAfter": 622,
+          "removedRecycledEnglishWords": 172,
+          "removedRecycledChineseCharacters": 329,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-19",
+          "accepted": true,
+          "englishWordsBefore": 795,
+          "englishWordsAfter": 623,
+          "removedRecycledEnglishWords": 172,
+          "removedRecycledChineseCharacters": 289,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-20",
+          "accepted": true,
+          "englishWordsBefore": 778,
+          "englishWordsAfter": 609,
+          "removedRecycledEnglishWords": 169,
+          "removedRecycledChineseCharacters": 312,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-21",
+          "accepted": true,
+          "englishWordsBefore": 800,
+          "englishWordsAfter": 642,
+          "removedRecycledEnglishWords": 158,
+          "removedRecycledChineseCharacters": 275,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-22",
+          "accepted": true,
+          "englishWordsBefore": 780,
+          "englishWordsAfter": 599,
+          "removedRecycledEnglishWords": 181,
+          "removedRecycledChineseCharacters": 315,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-23",
+          "accepted": true,
+          "englishWordsBefore": 796,
+          "englishWordsAfter": 624,
+          "removedRecycledEnglishWords": 172,
+          "removedRecycledChineseCharacters": 329,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-24",
+          "accepted": true,
+          "englishWordsBefore": 809,
+          "englishWordsAfter": 637,
+          "removedRecycledEnglishWords": 172,
+          "removedRecycledChineseCharacters": 289,
+          "issues": []
+        },
+        {
+          "id": "ss-r10-l6-a-25",
+          "accepted": true,
+          "englishWordsBefore": 826,
+          "englishWordsAfter": 657,
+          "removedRecycledEnglishWords": 169,
+          "removedRecycledChineseCharacters": 312,
+          "issues": []
+        }
+      ]
+    }
+  ]
+}
