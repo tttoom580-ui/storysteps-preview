@@ -1,0 +1,41 @@
+name: Build StorySteps GitHub Pages
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'app/**'
+      - 'scripts/**'
+      - 'public/**'
+      - 'index.html'
+      - 'main.tsx'
+      - 'package.json'
+      - 'vite.config.ts'
+      - '.github/workflows/build-site.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-build
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.13.1'
+      - name: Build site and run required checks
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Commit generated GitHub Pages files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A docs
+          if ! git diff --cached --quiet; then
+            git commit -m 'build: publish generated StorySteps pages [skip ci]'
+            git push origin HEAD:main
+          fi
