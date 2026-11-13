@@ -34,6 +34,13 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          # Subsequent content edits may land while build is running.
+          # Rebuild from the current main so a stale artifact can never overwrite newer files.
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+            git reset --hard origin/main
+            npm run build
+          fi
           git add -A docs
           if ! git diff --cached --quiet; then
             git commit -m 'build: publish generated StorySteps pages [skip ci]'
