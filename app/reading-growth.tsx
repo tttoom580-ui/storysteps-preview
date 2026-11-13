@@ -3,13 +3,14 @@ import {stories,levels} from './content';
 import type {Chapter,Story} from './types';
 import {localRead,studyConsent,sendEvent,sendFeedback,studyEndpoint} from './study-service';
 import guideUrl from './reading-guide.json?url';
+import homeSamples from './reading-guide-samples.json';
 // Heavy chapter guidance is fetched only when a matching reading widget mounts.
 let guidancePromise:Promise<any>|null=null;
 const loadGuidance=()=>guidancePromise??=fetch(guideUrl).then(r=>{if(!r.ok)throw Error('Unable to load reading guidance');return r.json()}).catch(e=>{guidancePromise=null;throw e});
 function useGuidance(){const [data,setData]=useState<any>({books:{},chapters:{}});useEffect(()=>{let active=true;loadGuidance().then(d=>{if(active)setData(d)}).catch(()=>{});return()=>{active=false}},[]);return data;}
 export function StudyChoice(){return <details className="growth-panel consent-panel"><summary>資料與隱私：學習資料留在此瀏覽器</summary><p>目前暫停新增雲端閱讀研究與段落文字回報。閱讀、查詞、生字複習與免費解鎖不受影響。既有研究樣本僅以彙總方式保留展示；隨機瀏覽器代碼不等於完全匿名。</p><a href="./privacy.html">查看資料處理與保存說明</a></details>}
 export function GuidedPicker({onBook,onRead,last}:{onBook:(s:Story)=>void;onRead:(id:string)=>void;last:string}){
- const data=useGuidance();
+ const data=homeSamples as any;
  const [topic,setTopic]=useState('不限'),[level,setLevel]=useState(()=>Math.max(0,Math.min(6,localRead('storysteps-suggested-level',0)))),[rated,setRated]=useState(false),[message,setMessage]=useState('');
  const matching=stories.filter(s=>s.id!=='tomorrow'&&topic==='不限'||(s.genre+' '+(s.tags||[]).join(' ')).includes(topic));
  const ranked=[...matching].sort((a,b)=>Math.abs(levels.indexOf(a.level)-level)-Math.abs(levels.indexOf(b.level)-level)||Number(b.id.match(/^ss-r(\d+)-/)?.[1]||0)-Number(a.id.match(/^ss-r(\d+)-/)?.[1]||0));
