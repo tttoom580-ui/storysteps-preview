@@ -1,0 +1,59 @@
+name: Five-book semantic repairs and 125-chapter release audit
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/edit_five_books_20261114.py'
+      - 'verification/five-book-editorial/curated-repairs-20261114.json'
+      - '.github/workflows/five-book-editorial.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-five-book-edit
+  cancel-in-progress: false
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.13.1'
+      - name: Apply bilingual continuity repairs and audit five complete book payloads
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/edit_five_books_20261114.py
+          python3 scripts/check_editorial_certification.py
+          python3 scripts/audit_story_release.py
+      - name: Regenerate site and publish only fully tested files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          npm install --no-audit --no-fund
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/edit_five_books_20261114.py
+            python3 scripts/check_editorial_certification.py
+            npm run build
+            node verification/ad-policy-smoke.mjs
+            node verification/offer-smoke.mjs
+            printf '{"sourceCommit":"%s"}\n' "$(git rev-parse HEAD)" > docs/release.json
+            git add -A public/books public/catalog.js public/content-manifest.json verification/five-book-editorial/five-book-progress-20261114.json verification/five-book-editorial/README.md docs
+            if git diff --cached --quiet; then
+              echo 'Verified revised passages and chapter evidence already published.'
+              exit 0
+            fi
+            git commit -m 'editorial: publish five-book bilingual repairs and 125 chapter audit [skip ci]'
+            if git push origin HEAD:main; then
+              echo 'Published the validated bilingual revisions.'
+              exit 0
+            fi
+            echo "Main changed during push; retrying from latest sources."
+          done
+          exit 1
