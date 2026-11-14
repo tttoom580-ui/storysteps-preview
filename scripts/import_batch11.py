@@ -41,7 +41,7 @@ def parse_quiz(part,key,i):
  if len(entries)!=2:raise ValueError((key,i,'question-headings',len(entries)))
  questions=[]
  for row in entries:
-  rest='\n'.join(row['rest']);opts=re.findall(r'(?m)^\s*(?:-\s*)?([ABC])[.．]\s*(.+?)\s*$',rest)
+  rest=re.sub(r'(?<=[.!?])-\s*([ABC])\.',r'\n- \1.', '\n'.join(row['rest']));opts=re.findall(r'(?m)^\s*(?:-\s*)?([ABC])[.．]\s*(.+?)\s*$',rest)
   ans=re.search(r'(?:答案|正解|Answer)\s*[：:]\s*([ABC])(?=[。．.\s*]|$)[。．.]?\s*(?:繁中解析|解析)?\s*[：:]?\s*(?:\*\*)?\s*([^\n]*)',rest,re.I)
   if len(opts)!=3 or not ans:raise ValueError((key,i,'question-parse',row['question'],len(opts),rest[:120]))
   exp=clean(ans[2]).strip(' 。')
