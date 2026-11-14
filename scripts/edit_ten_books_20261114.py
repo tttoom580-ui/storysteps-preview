@@ -88,7 +88,8 @@ for bid in ids:
             continue
         assert question['question']==q['oldQuestion'],(bid,number,'question modified unexpectedly')
         assert question['options']==q['oldOptions'],(bid,number,'question choices modified unexpectedly')
-        assert q['oldExplanation'] in question['explanation'],(bid,number,'quiz explanation unexpected')
+        if q.get('oldExplanation'):
+            assert q['oldExplanation'] in question['explanation'],(bid,number,'quiz explanation unexpected')
         question['question']=q['newQuestion']
         question['options']=q['newOptions']
         question['explanation']=q['newExplanation']
