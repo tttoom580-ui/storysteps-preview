@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "summary": {
     "scopeBooks": 10,
-    "patchGroupsRecorded": 7,
-    "patchGroupsAppliedThisRun": 7,
-    "chaptersWithDocumentedRepairs": 5,
+    "patchGroupsRecorded": 8,
+    "patchGroupsAppliedThisRun": 1,
+    "chaptersWithDocumentedRepairs": 6,
     "wholeBooksCertifiedByScript": 0
   },
   "changes": [
@@ -13,7 +13,7 @@
       "chapter": 2,
       "paragraph": 5,
       "reason": "Preserve original meeting record; later hearing should rely on a photo, not a stolen loose page",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "A loose page fell out. It contained the minutes of a meeting. The school had approved money for a repair, and Han had signed to say the work was complete.",
@@ -32,7 +32,7 @@
       "chapter": 3,
       "paragraph": 1,
       "reason": "Cross-chapter source ownership: c2 photograph not removed paper",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "The charge was false: he had taken a copy of a meeting record from a public shelf, and he had written down where he found it. Mei sat at the side with the original page protected in a cloth cover.",
@@ -51,7 +51,7 @@
       "chapter": 3,
       "paragraph": 2,
       "reason": "Clarify Yan's role and give test circuit actual energy source",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "He had given Rui his first haircut when Rui was a child, and he still treated him fairly.",
@@ -78,7 +78,7 @@
       "chapter": 4,
       "paragraph": 6,
       "reason": "Avoid unsafe single-person manipulation of pressurized hot valve and align safety ethos",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "He asked Bo to guide everyone back, then used a long wooden stick to push the handle toward its mark. Mei counted slowly so he would not move it too far. The sound faded. For one moment, all three stood in silence. Rui's knees shook. He had saved no treasure and won no title. He had simply prevented a machine from hurting people.",
@@ -97,7 +97,7 @@
       "chapter": 25,
       "paragraph": 3,
       "reason": "Explain final written judgment after earlier oral council hearing",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "The final judgment from the court arrived that afternoon. It confirmed the public water agreement and the shared safety board.",
@@ -116,7 +116,7 @@
       "chapter": 10,
       "paragraph": 1,
       "reason": "Mei counts everyone in audit group, including herself and the clerk",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "There were two council members, Director Lin, Captain Su, Han, Rui, and three village witnesses.",
@@ -135,7 +135,7 @@
       "chapter": 25,
       "paragraph": 1,
       "reason": "Resolve return of spring in chapter 24 and first summer after repairs in chapter 25",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "The first summer after the repairs began with a soft rain.",
@@ -146,6 +146,25 @@
         [
           "修復後的第一個夏天，以柔和的雨開始。",
           "睿取得維修證書後的那個夏天，以柔和的雨開始。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r10-l3-b",
+      "chapter": 24,
+      "paragraph": 1,
+      "reason": "Explain that Ron's replacement train departs late enough for same-day station visit and subsequent town errands",
+      "changesAppliedNow": true,
+      "englishBeforeAfter": [
+        [
+          "On the day Ron left for his contract, an airline delay changed his travel plan, so he took the train instead. Lian met him at the station to check the changed booking, where a cheerful volunteer helped visitors find the correct platform.",
+          "On the day Ron was due to leave for his contract, an airline delay forced him to take a late-afternoon train instead. Lian met him at the station in the morning to confirm the replacement booking, where a cheerful volunteer helped visitors find the correct platform."
+        ]
+      ],
+      "chineseBeforeAfter": [
+        [
+          "羅恩出發做外地合約那天，航空公司延誤改變了行程，他最後改搭火車。黎安先到車站陪他確認改票，一位開朗志工正在協助旅客找月台。",
+          "羅恩原定出發外地合約工作的那天，航空公司延誤迫使他改搭下午晚些時候的火車。黎安早上先陪他到車站確認改票，一位開朗志工正在協助旅客找正確月台。"
         ]
       ]
     }
