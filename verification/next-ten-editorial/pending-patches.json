@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "scopeFile": "verification/next-ten-editorial/scope-20261114.json",
+  "method": "Manually authored bilingual replacements based on actual full chapter reading; exact original substrings required.",
+  "patches": [
+    {
+      "book": "ss-r2-l2-a",
+      "chapter": 2,
+      "paragraph": 5,
+      "reason": "Preserve original meeting record; later hearing should rely on a photo, not a stolen loose page",
+      "english": [
+        [
+          "A loose page fell out. It contained the minutes of a meeting. The school had approved money for a repair, and Han had signed to say the work was complete.",
+          "A loose page fell out. It contained the minutes of a meeting. Rui photographed both sides and slipped the original back into the book, careful not to damage the paper. The school had approved money for a repair, and Han had signed to say the work was complete."
+        ]
+      ],
+      "chinese": [
+        [
+          "一張散頁從書中掉出來，記載著一次會議紀錄。山門曾核准一筆維修費，而韓簽名表示工程已完成。",
+          "一張散頁從書中掉出來，記載著一次會議紀錄。睿拍下紙張正反兩面，並把原件小心放回書中，沒有損壞紙張。山門曾核准一筆維修費，而韓簽名表示工程已完成。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r2-l2-a",
+      "chapter": 3,
+      "paragraph": 1,
+      "reason": "Cross-chapter source ownership: c2 photograph not removed paper",
+      "english": [
+        [
+          "The charge was false: he had taken a copy of a meeting record from a public shelf, and he had written down where he found it. Mei sat at the side with the original page protected in a cloth cover.",
+          "The accusation of theft was false: Rui had photographed a loose meeting record in the tunnel book, returned the page to its place, and noted where he had found it. Mei sat at the side with a printout of the photograph protected in a cloth cover."
+        ]
+      ],
+      "chinese": [
+        [
+          "指控並不屬實：他從公共書架上拿的是一份會議紀錄的副本，而且記下了發現地點。梅坐在一旁，原頁用布套妥善保護著。",
+          "偷竊的指控並不屬實：睿在隧道的書裡拍下散頁，將原件放回原處，也記下了發現地點。梅坐在一旁，把照片列印本妥善放在布套裡。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r2-l2-a",
+      "chapter": 3,
+      "paragraph": 2,
+      "reason": "Clarify Yan's role and give test circuit actual energy source",
+      "english": [
+        [
+          "He had given Rui his first haircut when Rui was a child, and he still treated him fairly.",
+          "He remembered Rui from his first haircut at the village barber's shop, when the boy had asked how the two blades worked together. Yan still treated him fairly."
+        ],
+        [
+          "Yan put an empty metal cell on the table.",
+          "Yan put a charged battery cell on the table."
+        ]
+      ],
+      "chinese": [
+        [
+          "他在睿小時候還替睿理過第一次頭髮，一直公平對待他。",
+          "他記得睿小時候在村裡理髮店第一次剪頭髮，當時男孩還問起兩片剪刀刀刃如何配合。嚴如今仍公平對待他。"
+        ],
+        [
+          "嚴把一個空的金屬電池槽放在桌上。",
+          "嚴把一顆已有電力的電池放在桌上。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r2-l2-a",
+      "chapter": 4,
+      "paragraph": 6,
+      "reason": "Avoid unsafe single-person manipulation of pressurized hot valve and align safety ethos",
+      "english": [
+        [
+          "He asked Bo to guide everyone back, then used a long wooden stick to push the handle toward its mark. Mei counted slowly so he would not move it too far. The sound faded. For one moment, all three stood in silence. Rui's knees shook. He had saved no treasure and won no title. He had simply prevented a machine from hurting people.",
+          "He asked Bo to lead everyone away from the hot pipe. Director Lin summoned the trained station operator and shut down the pump while Mei warned people to stay clear of the steam. Only after the pressure gauge dropped did the operator secure the slipped handle. The hiss faded. Rui's knees shook; he had not won a title or performed a miracle. They had prevented an injury by knowing when not to touch a dangerous machine."
+        ]
+      ],
+      "chinese": [
+        [
+          "他請柏帶大家退後，再用長木棒把把手推回標記處。梅慢慢計數，防止他推得太遠。聲音漸漸停了。三人一時無言。睿的膝蓋在發抖。他沒有救到寶物，也沒有得到頭銜，只是阻止機器傷人。",
+          "他請柏帶大家遠離高溫水管。林主任找來受過訓練的站務操作員，先停止水泵運轉；梅提醒所有人避開蒸汽。直到壓力表顯示壓力下降，操作員才固定滑脫的把手。嘶聲終於停了。睿的膝蓋仍在發抖；他沒有獲得頭銜，也沒施展奇蹟。他們靠的是知道什麼時候不該碰危險的機器，才阻止了傷害。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r2-l2-a",
+      "chapter": 25,
+      "paragraph": 3,
+      "reason": "Explain final written judgment after earlier oral council hearing",
+      "english": [
+        [
+          "The final judgment from the court arrived that afternoon. It confirmed the public water agreement and the shared safety board.",
+          "The court's written judgment, confirming the decision announced at the earlier hearing, arrived that afternoon. It upheld the public water agreement and the shared safety board."
+        ]
+      ],
+      "chinese": [
+        [
+          "下午，法院的最終裁定送到了。它確認公開用水協議與共同安全委員會。",
+          "下午，法院正式送達書面判決，確認先前聽證會已宣告的決定。判決維持公開用水協議與共同安全委員會。"
+        ]
+      ]
+    }
+  ]
+}
