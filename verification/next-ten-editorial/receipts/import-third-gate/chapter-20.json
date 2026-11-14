@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 20,
+  "chapterId": "import-third-gate-20",
+  "sourceChapterSha256": "b2986d46f33ea1c051a657e5135844ddf8d556321bbe520633d7f611afa3f53f",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "現代河岸豪宅開發威脅仍在使用的古渠，安與工程師提出地基荷重及舊維修軌道證據，市府延後出售。",
+    "previousChapterEndingEnglish": "With the first gray light, the outer channel opened. A wave struck the enemy causeway and swept away empty supply carts. The soldiers retreated, and a terrible scandal might have followed if the council had deliberately flooded nearby villages. But Mei had ordered the upstream families warned hours earlier. The surviving record included an update from every settlement, confirming that the evacuation had succeeded. Not a perfect victory, but undoubtedly a remarkable one. Mei stood on the wall and saw the water divide around the city like two arms. In that moment she understood that engineering was also a form of trust.",
+    "nextChapterOpeningEnglish": "A document recovered from a riverside warehouse seemed to connect the ancient siege with modern property claims. The scroll recorded an abundant grain supply sent to Nanhe by villagers who wanted fair treatment rather than a reward. An scanned the fragile pages and placed them in a setting with controlled light. The handwriting was crude but clear enough to reveal a declaration: every family contributing grain would receive equivalent access to irrigation after the war. It was an early statement of equity, though the writer used words unlike those in modern law."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "In modern Nanhe, a property company announced plans to purchase an estate beside the old embankment. Its brochures showed a fabulous view of the river and promised private gardens above the historic gate. An examined the proposal with an environmental analyst, who identified the embankment as a public asset still essential to flood protection. The company's administrative office offered to accommodate a small museum room within the development. An blushed with anger at the assumption that a glass display could replace access to the actual river works. She asked for counsel from a lawyer specializing in public land.",
+        "zh": "現代南河，一家地產公司宣布要收購古堤旁的莊園土地。宣傳冊展示絕佳河景，承諾在古水門上方建私人花園。安與環境分析師審查提案，發現河堤是仍攸關防洪的公共資產。公司行政部門表示願在開發案裡容納一間小博物室。安氣得臉紅：難道玻璃櫃展示就能取代親自走到真正水工設施的權利？她找了專辦公共土地的律師諮詢。",
+        "englishSha256": "618c92241e04dfd544a6f256510d9c260711f3f772132017f8d1294017d2c2c1",
+        "chineseSha256": "ffaf55782f03ed600d2d1a699d8350736acae411a729f8ead3a0b1100efbed58"
+      },
+      {
+        "number": 2,
+        "en": "The company's owner arrived for a negotiation aboard a luxury yacht. He had inherited his father's business but believed the waterfront should now serve wealthy travelers rather than ordinary residents. “People grieve over change,” he said, “yet progress requires purchase and demolition.” An answered that grief alone was not their argument. The old canal had structural functions; its fiber-reinforced repairs were documented in recent inspections. The project could not proceed safely while those reports remained hidden. She asked him to make every relevant plan transparent before claiming the development would benefit the city.",
+        "zh": "公司老闆搭豪華遊艇赴談判。他繼承父業，認為水岸應服務富裕旅客，而非一般居民。「人們總為改變悲傷，」他說，「但進步需要收購和拆除。」安回答，哀傷不是唯一理由。古渠仍具結構功能，近期檢查記錄了纖維加固工程。若報告不公開，建案不能安全推進。她要求對方先讓相關圖紙透明，再聲稱開發有益全城。",
+        "englishSha256": "6f98fd0b8039a6ca6b90d2f3fbc2d5566ffbf543d2c3ef11c2d5f6529172f074",
+        "chineseSha256": "74443a6448e6059a1fd5197ca2ea0dd84d8766dfdb5c83e4e94e1d15cbec78eb"
+      },
+      {
+        "number": 3,
+        "en": "An had read a prior report from the city engineers. It described how pressure overhead could provoke movement in the old stone foundation. Heavy buildings on the embankment might weaken the gate during an extreme storm. The developer disputed the model, saying modern techniques could overcome the problem. An did not reject modern engineering; she requested an independent review with attention to the sensitivity of the surrounding soil. A young engineer agreed to help, although her supervisor warned that speaking publicly might harm her career. She asked only that the evidence be considered fairly.",
+        "zh": "安看過市府工程師先前的報告，指出上方荷重可能引發古石基移動。若在堤上蓋重樓，極端暴雨時可能削弱水門。開發商不認同模型，說現代技術能解決。安沒有否定現代工程，只要求獨立審查，特別注意周圍土壤的敏感性。一名年輕工程師答應協助，儘管主管提醒公開發言可能傷害前途。她只要求大家公平看待證據。",
+        "englishSha256": "285f035502df65e66407d33bfd6df8ad0a3cfee8ab63cb537aa7ba43461a4b67",
+        "chineseSha256": "444d7887a6ead42219a84c411a54dc4c390a4c515da22bc123de8371109f4ea0"
+      },
+      {
+        "number": 4,
+        "en": "At a public hearing, residents told a narrative different from the company's advertisements. Fishermen described using the river steps daily; children recalled watching birds near the reeds; older people remembered floods in which the ancient channel had carried water away from homes. The developer accused them of opposing all change. An replied that the question was not development versus history, but which uses of land belonged to everyone and which might endanger them. Their legal team submitted the inspection reports and requested a pause until the risks could be measured.",
+        "zh": "公聽會上，居民提出與廣告截然不同的敘事。漁夫描述每日使用河階，孩子記得蘆葦旁賞鳥，老人記得洪水時古渠如何將水帶離住宅。開發商說他們反對所有變化。安答，問題不是發展對抗歷史，而是土地哪些用途應屬全民，哪些可能危及大家。法律團隊提交檢查報告，要求衡量風險前先暫停開發。",
+        "englishSha256": "a119e1a6497fdc9dc9bc5ca700e29fd34c543c71dae250fd123d729256fc9a75",
+        "chineseSha256": "616676fabb07886af0cbe26e54393d1f7374551f4650edfe8e45e57aaf0920b1"
+      },
+      {
+        "number": 5,
+        "en": "On a field visit, the analyst showed An an old metal rail embedded in the embankment. It had been installed in the previous century to guide equipment during repairs, but the developer's plans treated it as useless scrap. An asked a retired canal worker what the rail had actually been used for. He described nights when teams moved heavy gates along it in the rain, saving hours when every minute mattered. A few sections were rusty, yet the rail still marked a practical access route to the water mechanism. The analyst added it to the report, not as an untouchable relic but as evidence that maintenance required space. An began to see how much infrastructure could be lost simply because the people who knew its purpose had retired or died.",
+        "zh": "實地勘查時，分析師帶安看一條嵌在堤裡的舊金屬軌道。它是上一世紀維修時用來導引設備的，開發圖卻把它當無用廢鐵。安向退休水工詢問用途。老人描述雨夜用軌道搬動沉重閘門，省下攸關性命的幾個時辰。軌道雖鏽，仍標出通往機關的實用道路。分析師把它列入報告，不把它視作神聖不可碰的古物，而是證明維護需要足夠空間。安逐漸看見，有多少基礎設施只是因懂其用途的人退休或死去，就可能遭遺忘。",
+        "englishSha256": "bdc00b6d42face3f888edf96fb5a840494319d6f72a4f63059fa6f4353ca733a",
+        "chineseSha256": "cf17c01a6906cda82d4977bb1ffdfd68b142a9b45648407032d889f43dd9c3ca"
+      },
+      {
+        "number": 6,
+        "en": "The council postponed the sale and invited alternative designs. One proposal placed new housing away from the vulnerable foundation while preserving access to the old gate. It was less profitable on paper but safer and more useful to the neighborhood. An knew the argument was not finished. The owner still had influence, and the city needed money to repair aging structures. Yet the hearing had changed something important: the river was no longer a backdrop for expensive buildings. It had become a living part of the public conversation, as it had been in Mei's time.",
+        "zh": "議會延後出售，並邀請提出替代設計。一份方案把新住宅移離脆弱地基，同時保留古水門通道。帳面利潤較低，對社區卻更安全實用。安知道爭論尚未結束，老闆仍有影響力，城市也缺錢修老建物。但聽證已改變重要一點：河流不再只是昂貴大樓的背景，而是重新成為公共討論中活生生的一部分，如同梅的時代。",
+        "englishSha256": "f6df8773755504a1c9c4bc9230cc952f299887e493c00ebbd7b4e9c28d5364f0",
+        "chineseSha256": "ab2d318ee5157180888c226b03b6c52cbe52648b972abb9f4c725b0c42c68a10"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 600,
+    "targets": [
+      {
+        "word": "accommodate",
+        "meaning": "容納；為……提供便利",
+        "appearsInSource": true
+      },
+      {
+        "word": "administrative",
+        "meaning": "行政的",
+        "appearsInSource": true
+      },
+      {
+        "word": "analyst",
+        "meaning": "分析師",
+        "appearsInSource": true
+      },
+      {
+        "word": "asset",
+        "meaning": "資產",
+        "appearsInSource": true
+      },
+      {
+        "word": "blushed",
+        "meaning": "臉紅",
+        "appearsInSource": true
+      },
+      {
+        "word": "counsel",
+        "meaning": "法律諮詢；忠告",
+        "appearsInSource": true
+      },
+      {
+        "word": "estate",
+        "meaning": "莊園；土地",
+        "appearsInSource": true
+      },
+      {
+        "word": "fabulous",
+        "meaning": "極佳的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fiber",
+        "meaning": "纖維",
+        "appearsInSource": true
+      },
+      {
+        "word": "grieve",
+        "meaning": "哀傷",
+        "appearsInSource": true
+      },
+      {
+        "word": "narrative",
+        "meaning": "敘事",
+        "appearsInSource": true
+      },
+      {
+        "word": "negotiation",
+        "meaning": "協商；談判",
+        "appearsInSource": true
+      },
+      {
+        "word": "overhead",
+        "meaning": "上方的",
+        "appearsInSource": true
+      },
+      {
+        "word": "prior",
+        "meaning": "先前的",
+        "appearsInSource": true
+      },
+      {
+        "word": "provoke",
+        "meaning": "激起；引發",
+        "appearsInSource": true
+      },
+      {
+        "word": "purchase",
+        "meaning": "購買；收購",
+        "appearsInSource": true
+      },
+      {
+        "word": "rail",
+        "meaning": "鐵軌",
+        "appearsInSource": true
+      },
+      {
+        "word": "sensitivity",
+        "meaning": "敏感性",
+        "appearsInSource": true
+      },
+      {
+        "word": "transparent",
+        "meaning": "透明的",
+        "appearsInSource": true
+      },
+      {
+        "word": "yacht",
+        "meaning": "遊艇",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The House on the Embankment〉第 1 段的事件，哪個選項能正確補完整句？\nIts brochures showed ____ and promised private gardens above the historic gate.",
+      "options": [
+        "a fabulous view of the river",
+        "a new edition of the city chronicle",
+        "a suburban warehouse investigated"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a fabulous view of the river",
+      "existingAnswerExplanation": "原文證據：Its brochures showed a fabulous view of the river and promised private gardens above the historic gate.\n本段對照：現代南河，一家地產公司宣布要收購古堤旁的莊園土地。宣傳冊展示絕佳河景，承諾在古水門上方建私人花園。安與環境分析師審查提案，發現河堤是仍攸關防洪的公共資產。公司行政部門表示願在開發案裡容納一間小博物室。安氣得臉紅：難道玻璃櫃展示就能取代親自走到真正水工設施的權利？她找了專辦公共土地的律師諮詢。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "In modern Nanhe, a property company announced plans to purchase an estate beside the old embankment. Its brochures showed a fabulous view of the river and promised private gardens above the historic gate. An examined the proposal with an environmental analyst, who identified the embankment as a public asset still essential to flood protection. The company's administrative office offered to accommodate a small museum room within the development. An blushed with anger at the assumption that a glass display could replace access to the actual river works. She asked for counsel from a lawyer specializing in public land.",
+          "chinese": "現代南河，一家地產公司宣布要收購古堤旁的莊園土地。宣傳冊展示絕佳河景，承諾在古水門上方建私人花園。安與環境分析師審查提案，發現河堤是仍攸關防洪的公共資產。公司行政部門表示願在開發案裡容納一間小博物室。安氣得臉紅：難道玻璃櫃展示就能取代親自走到真正水工設施的權利？她找了專辦公共土地的律師諮詢。",
+          "matchedQueryTerms": 26
+        },
+        {
+          "paragraph": 3,
+          "english": "An had read a prior report from the city engineers. It described how pressure overhead could provoke movement in the old stone foundation. Heavy buildings on the embankment might weaken the gate during an extreme storm. The developer disputed the model, saying modern techniques could overcome the problem. An did not reject modern engineering; she requested an independent review with attention to the sensitivity of the surrounding soil. A young engineer agreed to help, although her supervisor warned that speaking publicly might harm her career. She asked only that the evidence be considered fairly.",
+          "chinese": "安看過市府工程師先前的報告，指出上方荷重可能引發古石基移動。若在堤上蓋重樓，極端暴雨時可能削弱水門。開發商不認同模型，說現代技術能解決。安沒有否定現代工程，只要求獨立審查，特別注意周圍土壤的敏感性。一名年輕工程師答應協助，儘管主管提醒公開發言可能傷害前途。她只要求大家公平看待證據。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The House on the Embankment〉第 5 段的事件，哪個選項能正確補完整句？\nOn a field visit, the analyst showed ____ in the embankment.",
+      "options": [
+        "An an old metal rail embedded",
+        "an enormous lump of bread",
+        "an urgent discussion of safety"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "An an old metal rail embedded",
+      "existingAnswerExplanation": "原文證據：On a field visit, the analyst showed An an old metal rail embedded in the embankment.\n本段對照：實地勘查時，分析師帶安看一條嵌在堤裡的舊金屬軌道。它是上一世紀維修時用來導引設備的，開發圖卻把它當無用廢鐵。安向退休水工詢問用途。老人描述雨夜用軌道搬動沉重閘門，省下攸關性命的幾個時辰。軌道雖鏽，仍標出通往機關的實用道路。分析師把它列入報告，不把它視作神聖不可碰的古物，而是證明維護需要足夠空間。安逐漸看見，有多少基礎設施只是因懂其用途的人退休或死去，就可能遭遺忘。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "On a field visit, the analyst showed An an old metal rail embedded in the embankment. It had been installed in the previous century to guide equipment during repairs, but the developer's plans treated it as useless scrap. An asked a retired canal worker what the rail had actually been used for. He described nights when teams moved heavy gates along it in the rain, saving hours when every minute mattered. A few sections were rusty, yet the rail still marked a practical access route to the water mechanism. The analyst added it to the report, not as an untouchable relic but as evidence that maintenance required space. An began to see how much infrastructure could be lost simply because the people who knew its purpose had retired or died.",
+          "chinese": "實地勘查時，分析師帶安看一條嵌在堤裡的舊金屬軌道。它是上一世紀維修時用來導引設備的，開發圖卻把它當無用廢鐵。安向退休水工詢問用途。老人描述雨夜用軌道搬動沉重閘門，省下攸關性命的幾個時辰。軌道雖鏽，仍標出通往機關的實用道路。分析師把它列入報告，不把它視作神聖不可碰的古物，而是證明維護需要足夠空間。安逐漸看見，有多少基礎設施只是因懂其用途的人退休或死去，就可能遭遺忘。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 1,
+          "english": "In modern Nanhe, a property company announced plans to purchase an estate beside the old embankment. Its brochures showed a fabulous view of the river and promised private gardens above the historic gate. An examined the proposal with an environmental analyst, who identified the embankment as a public asset still essential to flood protection. The company's administrative office offered to accommodate a small museum room within the development. An blushed with anger at the assumption that a glass display could replace access to the actual river works. She asked for counsel from a lawyer specializing in public land.",
+          "chinese": "現代南河，一家地產公司宣布要收購古堤旁的莊園土地。宣傳冊展示絕佳河景，承諾在古水門上方建私人花園。安與環境分析師審查提案，發現河堤是仍攸關防洪的公共資產。公司行政部門表示願在開發案裡容納一間小博物室。安氣得臉紅：難道玻璃櫃展示就能取代親自走到真正水工設施的權利？她找了專辦公共土地的律師諮詢。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

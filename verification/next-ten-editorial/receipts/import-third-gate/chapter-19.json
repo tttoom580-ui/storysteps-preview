@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 19,
+  "chapterId": "import-third-gate-19",
+  "sourceChapterSha256": "4f2bfdfc8f747972c994d58123b9729481675066386f3375932ff72f4305d9ef",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "古卷重返最後決戰前夜，梅與文師傅安排信使、墓園密道加固閘槽，上游村先撤離，分流沖走敵方空補給車。",
+    "previousChapterEndingEnglish": "Near closing time, An found a note in the visitor book. A teenager wrote that she had always believed history was made by famous rulers, until she read about the women who had carried the old maps through the siege. “I think my grandmother has a place in history too,” the note said. An kept a copy for the museum archive. That night she reviewed the lawmaker's document once more and found a clue to a second, hidden record: a list of people who had operated the gate on the final night. The last name was Mei's, followed by a mark that looked like a warning.",
+    "nextChapterOpeningEnglish": "In modern Nanhe, a property company announced plans to purchase an estate beside the old embankment. Its brochures showed a fabulous view of the river and promised private gardens above the historic gate. An examined the proposal with an environmental analyst, who identified the embankment as a public asset still essential to flood protection. The company's administrative office offered to accommodate a small museum room within the development. An blushed with anger at the assumption that a glass display could replace access to the actual river works. She asked for counsel from a lawyer specializing in public land."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The ancient record returned to the night before the final battle. Mei had arranged two lines of messengers to commute between the western gate and the council chamber. A young boxer, injured in the earlier fighting, volunteered to serve as a runner because his legs were still strong. Another messenger could pedal a handmade wooden wheel that moved faster on the smooth road than a man on foot. The innovation saved time, but Mei worried that enemies might hear its loop of wooden links rattling in the dark. She asked them to travel in pairs, with one watching the road while the other carried messages.",
+        "zh": "古記錄把故事帶回決戰前夜。梅安排兩路信使，往返西水門與議事廳。一名在戰鬥中受傷的年輕拳手自願跑腿，因為雙腿仍健全。另一人能踩動一種手工木輪車，走在平路上比步行更快。這項創新省時間，梅卻擔心敵人聽見木環鏈條在夜裡碰撞。她要信使兩人一組，一人看路，一人送信。",
+        "englishSha256": "1e62d03b22980c6f024ea6fdc18422fe77f64f36744776aa4ab0ad0368121321",
+        "chineseSha256": "ed2110dfbe1f3379ed2a2119921af96458cccb7cfa44a50fcc9e8ea2715e14ac"
+      },
+      {
+        "number": 2,
+        "en": "The city's defender in charge of the water system was a competent engineer, but he conceded that the flood levels were difficult to predict. A horizontal slot beneath the gate had begun to leak. Mei examined it with a lantern and smelled the sour scent of rotting wood. The beam had soaked up water for years. If it failed, too large a proportion of the river would rush toward the city instead of the enemy road. The risk was real. Yet waiting until dawn would give the besiegers time to cross the causeway and attack the crowded shelters.",
+        "zh": "負責水防的工程師能力可靠，卻坦承難以預測洪水高度。水閘下方的一條水平狹槽開始滲漏。梅提燈檢查，聞到腐木的酸味。木樑浸水多年，一旦斷裂，過大比例的河水會流向城內，而非敵方道路。風險真實存在，但若等到天亮，圍軍便有時間跨堤攻擊擠滿人的避難所。",
+        "englishSha256": "e7bb2e1e29ac746856a4a13c03e0ce99f324b88c2a437697515dd85f779774d6",
+        "chineseSha256": "6f70c92db8e4f5ce32e8fc0cddc93781e24057b42fe486bc8ce6b6555de18ab8"
+      },
+      {
+        "number": 3,
+        "en": "Yan, acting as a commentator rather than a commander, recorded the debate without declaring a winner. One officer proposed a raid on the enemy supplies; another wanted to surrender. A veteran laughed at both suggestions and offered a witty but painful observation: the city had spent years fearing the river and was now asking the river to save it. Mei did not answer immediately. She traced the map with her finger until she reached the cemetery, where the hidden tunnel might allow a team to repair the gate from behind. The solution was dangerous, but it was not impossible.",
+        "zh": "言此時是記錄評論者，不是將領。他記下辯論，沒有先宣布誰對誰錯。一名軍官主張夜襲敵方物資，另一名想投降。老兵笑兩人，說了句機智卻刺痛人的話：這城怕河怕了許多年，如今卻要求河來救自己。梅沒有立即回答，只沿地圖用手指描到墓園。那裡的祕道或許能讓工人從後方修閘。方法危險，但不是全然不可能。",
+        "englishSha256": "f70de51999f120b17ddfbc79526c8cda434b11ece055f3007682f421ca3163c4",
+        "chineseSha256": "532166ee6e0e4b91a68ffaf91f8b7b1aec8b1625ae166e9e8b4fba67f2c2daec"
+      },
+      {
+        "number": 4,
+        "en": "The council agreed to the operation, and Mei led six workers through the tunnel. Above them enemy voices drifted across the wall; ahead, the broken gate gleamed wetly. They placed a new beam beneath the damaged slot and tied it with heavy cord. At that moment a shout came from the rear: the enemy had found the tunnel's entrance. The workers moved faster. One slipped, striking his shoulder against a stone, but the others pulled him up. Mei's hands ached as she drove the final wedge into place.",
+        "zh": "議會同意行動，梅帶六名工人穿過密道。牆外飄來敵人的聲音，前方破閘在水光中閃動。他們把新木樑塞進破槽下，用粗繩綁牢。這時後方有人喊：敵軍發現密道入口！工人加快手腳。一人滑倒，肩膀撞上石頭，其他人把他拉起。梅的雙手因敲進最後的木楔而發痛。",
+        "englishSha256": "9bc9b6565738cf99ee191a8cbb48181d18b7f011b63111681cb715d06e319bda",
+        "chineseSha256": "f6b5b6d6018ed7eaff0fd67259968299bab57bb3ed2bb6f8e7a039af3cd2b556"
+      },
+      {
+        "number": 5,
+        "en": "In the shelter, an adolescent girl volunteered to guide younger children down the central aisle whenever the alarm sounded. Her brother had vanished during the first attack, and she feared every unfamiliar face arriving at the gate. Mei spoke with her after the water plan was approved. “You cannot carry everyone's safety alone,” she said. The girl answered that doing a small job helped her stop imagining the worst. Mei understood. She too had begun with maps because measuring a river made fear feel less shapeless. She promised the girl that messengers would continue searching for her brother, then handed her a paper listing safer routes through the city. The girl's hands still shook, but she folded the paper carefully and returned to the children waiting in the aisle.",
+        "zh": "避難所裡，一名少女自願在警報響起時，沿中央走道帶年幼孩子撤離。她弟弟在第一次攻擊中失蹤，每見陌生人入城便害怕。水防計畫通過後，梅與她談話。「妳不能獨自扛起所有人的安全。」少女說，做點小事能讓自己不一直想最壞結果。梅懂，自己當年也是藉畫地圖，讓對河水的恐懼不再毫無形狀。她答應信使繼續找弟弟，並給少女一張安全路線紙。少女的手仍抖，卻把紙仔細折好，回到走道旁等待的孩子身邊。",
+        "englishSha256": "a109279b06113e3ed957acfdb9fd0c222cd3c069779e0165676e4bcfa0e750e4",
+        "chineseSha256": "1943f06b5859fe3e85ca85ab9230937826132448bab20c9c891265879cb783f8"
+      },
+      {
+        "number": 6,
+        "en": "With the first gray light, the outer channel opened. A wave struck the enemy causeway and swept away empty supply carts. The soldiers retreated, and a terrible scandal might have followed if the council had deliberately flooded nearby villages. But Mei had ordered the upstream families warned hours earlier. The surviving record included an update from every settlement, confirming that the evacuation had succeeded. Not a perfect victory, but undoubtedly a remarkable one. Mei stood on the wall and saw the water divide around the city like two arms. In that moment she understood that engineering was also a form of trust.",
+        "zh": "天色微白時，外水道打開。浪頭衝上敵軍堤道，捲走空補給車。士兵撤退。若議會故意淹掉附近村落，勝利勢必成為醜聞，但梅數小時前便命人通知上游居民。倖存紀錄裡還附各村回報，證實撤離成功。這不是完美勝利，卻無疑極其難得。梅站在牆上，看河水像兩條手臂環繞城市。那刻她明白，工程其實也是一種信任。",
+        "englishSha256": "70cb667040a699e16ed2a79772f59bd9491e4c97cf5b050b176e2f8642674196",
+        "chineseSha256": "39bca2d0cb5a63dcb067958c8625958fd6dcc9060bcd11a6bd71436f56a7ae5c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 621,
+    "targets": [
+      {
+        "word": "adolescent",
+        "meaning": "青少年",
+        "appearsInSource": true
+      },
+      {
+        "word": "aisle",
+        "meaning": "走道",
+        "appearsInSource": true
+      },
+      {
+        "word": "boxer",
+        "meaning": "拳擊手",
+        "appearsInSource": true
+      },
+      {
+        "word": "commentator",
+        "meaning": "評論者",
+        "appearsInSource": true
+      },
+      {
+        "word": "commute",
+        "meaning": "通勤；往返",
+        "appearsInSource": true
+      },
+      {
+        "word": "competent",
+        "meaning": "能幹的",
+        "appearsInSource": true
+      },
+      {
+        "word": "conceded",
+        "meaning": "承認；讓步",
+        "appearsInSource": true
+      },
+      {
+        "word": "horizontal",
+        "meaning": "水平的",
+        "appearsInSource": true
+      },
+      {
+        "word": "innovation",
+        "meaning": "創新",
+        "appearsInSource": true
+      },
+      {
+        "word": "loop",
+        "meaning": "環；循環",
+        "appearsInSource": true
+      },
+      {
+        "word": "pedal",
+        "meaning": "踩踏板",
+        "appearsInSource": true
+      },
+      {
+        "word": "proportion",
+        "meaning": "比例",
+        "appearsInSource": true
+      },
+      {
+        "word": "raid",
+        "meaning": "突襲",
+        "appearsInSource": true
+      },
+      {
+        "word": "scandal",
+        "meaning": "醜聞",
+        "appearsInSource": true
+      },
+      {
+        "word": "scent",
+        "meaning": "氣味",
+        "appearsInSource": true
+      },
+      {
+        "word": "slot",
+        "meaning": "狹槽",
+        "appearsInSource": true
+      },
+      {
+        "word": "soaked",
+        "meaning": "浸透",
+        "appearsInSource": true
+      },
+      {
+        "word": "undoubtedly",
+        "meaning": "毫無疑問地",
+        "appearsInSource": true
+      },
+      {
+        "word": "update",
+        "meaning": "更新；最新回報",
+        "appearsInSource": true
+      },
+      {
+        "word": "witty",
+        "meaning": "機智的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Wheel in the Dark〉第 1 段的事件，哪個選項能正確補完整句？\nThe ancient record returned to ____ before the final battle.",
+      "options": [
+        "the report",
+        "the variation",
+        "the night"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the night",
+      "existingAnswerExplanation": "原文證據：The ancient record returned to the night before the final battle.\n本段對照：古記錄把故事帶回決戰前夜。梅安排兩路信使，往返西水門與議事廳。一名在戰鬥中受傷的年輕拳手自願跑腿，因為雙腿仍健全。另一人能踩動一種手工木輪車，走在平路上比步行更快。這項創新省時間，梅卻擔心敵人聽見木環鏈條在夜裡碰撞。她要信使兩人一組，一人看路，一人送信。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The ancient record returned to the night before the final battle. Mei had arranged two lines of messengers to commute between the western gate and the council chamber. A young boxer, injured in the earlier fighting, volunteered to serve as a runner because his legs were still strong. Another messenger could pedal a handmade wooden wheel that moved faster on the smooth road than a man on foot. The innovation saved time, but Mei worried that enemies might hear its loop of wooden links rattling in the dark. She asked them to travel in pairs, with one watching the road while the other carried messages.",
+          "chinese": "古記錄把故事帶回決戰前夜。梅安排兩路信使，往返西水門與議事廳。一名在戰鬥中受傷的年輕拳手自願跑腿，因為雙腿仍健全。另一人能踩動一種手工木輪車，走在平路上比步行更快。這項創新省時間，梅卻擔心敵人聽見木環鏈條在夜裡碰撞。她要信使兩人一組，一人看路，一人送信。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 5,
+          "english": "In the shelter, an adolescent girl volunteered to guide younger children down the central aisle whenever the alarm sounded. Her brother had vanished during the first attack, and she feared every unfamiliar face arriving at the gate. Mei spoke with her after the water plan was approved. “You cannot carry everyone's safety alone,” she said. The girl answered that doing a small job helped her stop imagining the worst. Mei understood. She too had begun with maps because measuring a river made fear feel less shapeless. She promised the girl that messengers would continue searching for her brother, then handed her a paper listing safer routes through the city. The girl's hands still shook, but she folded the paper carefully and returned to the children waiting in the aisle.",
+          "chinese": "避難所裡，一名少女自願在警報響起時，沿中央走道帶年幼孩子撤離。她弟弟在第一次攻擊中失蹤，每見陌生人入城便害怕。水防計畫通過後，梅與她談話。「妳不能獨自扛起所有人的安全。」少女說，做點小事能讓自己不一直想最壞結果。梅懂，自己當年也是藉畫地圖，讓對河水的恐懼不再毫無形狀。她答應信使繼續找弟弟，並給少女一張安全路線紙。少女的手仍抖，卻把紙仔細折好，回到走道旁等待的孩子身邊。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Wheel in the Dark〉第 6 段的事件，哪個選項能正確補完整句？\nThe surviving record included ____ from every settlement, confirming that the evacuation had succeeded.",
+      "options": [
+        "an injection of herbal liquid",
+        "an enormous lump of bread",
+        "an update"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "an update",
+      "existingAnswerExplanation": "原文證據：The surviving record included an update from every settlement, confirming that the evacuation had succeeded.\n本段對照：天色微白時，外水道打開。浪頭衝上敵軍堤道，捲走空補給車。士兵撤退。若議會故意淹掉附近村落，勝利勢必成為醜聞，但梅數小時前便命人通知上游居民。倖存紀錄裡還附各村回報，證實撤離成功。這不是完美勝利，卻無疑極其難得。梅站在牆上，看河水像兩條手臂環繞城市。那刻她明白，工程其實也是一種信任。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "With the first gray light, the outer channel opened. A wave struck the enemy causeway and swept away empty supply carts. The soldiers retreated, and a terrible scandal might have followed if the council had deliberately flooded nearby villages. But Mei had ordered the upstream families warned hours earlier. The surviving record included an update from every settlement, confirming that the evacuation had succeeded. Not a perfect victory, but undoubtedly a remarkable one. Mei stood on the wall and saw the water divide around the city like two arms. In that moment she understood that engineering was also a form of trust.",
+          "chinese": "天色微白時，外水道打開。浪頭衝上敵軍堤道，捲走空補給車。士兵撤退。若議會故意淹掉附近村落，勝利勢必成為醜聞，但梅數小時前便命人通知上游居民。倖存紀錄裡還附各村回報，證實撤離成功。這不是完美勝利，卻無疑極其難得。梅站在牆上，看河水像兩條手臂環繞城市。那刻她明白，工程其實也是一種信任。",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 1,
+          "english": "The ancient record returned to the night before the final battle. Mei had arranged two lines of messengers to commute between the western gate and the council chamber. A young boxer, injured in the earlier fighting, volunteered to serve as a runner because his legs were still strong. Another messenger could pedal a handmade wooden wheel that moved faster on the smooth road than a man on foot. The innovation saved time, but Mei worried that enemies might hear its loop of wooden links rattling in the dark. She asked them to travel in pairs, with one watching the road while the other carried messages.",
+          "chinese": "古記錄把故事帶回決戰前夜。梅安排兩路信使，往返西水門與議事廳。一名在戰鬥中受傷的年輕拳手自願跑腿，因為雙腿仍健全。另一人能踩動一種手工木輪車，走在平路上比步行更快。這項創新省時間，梅卻擔心敵人聽見木環鏈條在夜裡碰撞。她要信使兩人一組，一人看路，一人送信。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

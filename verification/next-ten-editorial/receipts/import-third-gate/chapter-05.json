@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 5,
+  "chapterId": "import-third-gate-5",
+  "sourceChapterSha256": "c568b4717000767933e8600c70991f3307dd45a83e565387d1b3c8a8b2655694",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "夏初首次公開議會把各區用水與工資記錄公開，不接受企業買下碼頭控制權，盲陶匠提無薪照護，經表決通過自治章程。",
+    "previousChapterEndingEnglish": "When the passes reopened, the merchant asked why Mei had not confiscated all his wares. “Because rules must protect even people who displease us,” she answered. He stood silently before leaving a cart of grain at the kitchen. Yan the journalist wrote about the winter fever but refused to name its survivors as heroes without their permission. Nanhe buried twelve people. It also established a permanent shelter and appointed two healers to advise its council. Mei knew no guideline could remove suffering altogether. Yet she believed careful planning could keep suffering from becoming the price of someone's pride.",
+    "nextChapterOpeningEnglish": "The royal court sent an abrupt order at the end of harvest: Nanhe was to provide troops for a campaign on the frontier. The message accused the new council of encouraging disobedience. Mei opened the envelope and found a second paper hidden behind the first. It was a plea from an exiled teacher who had once worked with her father. He wrote that the former governor now served a hostile commander beyond the border. His warning was simple: the campaign's purpose was not defense but an attempt to disrupt the city's fragile freedom."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At the start of summer, a bell called Nanhe's residents to the first open assembly in living memory. Its attendance surprised even Mei: fishermen, potters, traders, soldiers, and widows filled the square. Several wore their finest outfit, while others arrived straight from work with dust on their sleeves. At the center stood a wooden box for written suggestions. A contemporary chronicler later called it the beginning of a new political transition. To the people standing in the heat, it was simply the first time officials had agreed to listen without demanding payment.",
+        "zh": "夏初，一聲鐘響召來南河百姓，舉行人們記憶中第一次公開議會。出席人數連梅也驚訝：漁人、陶匠、商販、士兵與寡婦擠滿廣場。有些人穿上最體面的服裝，另一些才剛下工，衣袖還沾著灰。中央擺著一只供投遞意見的木箱。後世史家稱這是新政治轉型的起點；當時站在烈日下的人們，只覺得官員終於肯不收錢便聽他們說話。",
+        "englishSha256": "dee1bfc731ef096caaaf762932348ed8b4e4c1dfac79ea8d9134344f57d7304d",
+        "chineseSha256": "b11355552dcac12df3cfe367bdffb788c8a347b0a1135ac12806e9be2406862c"
+      },
+      {
+        "number": 2,
+        "en": "The proposed charter was controversial. It would give each district a voice in distributing water, but wealthy landowners contended that people without property could not understand the city's needs. One speaker pointed to a bruise on his arm from the old governor's guards. “I understand what a wall is for,” he replied. “I also understand when a wall becomes a prison.” His words captured the essence of the argument more clearly than any official could. Mei, meanwhile, examined a statistical table showing how much grain each district had provided during the flood.",
+        "zh": "擬議中的自治章程引發爭議。它要讓每區參與分配水源，富地主卻主張無產者不懂城市需求。一名發言人指著手臂上被前太守衛兵打出的瘀青說：「我懂牆是拿來做什麼的，也懂牆何時會變成監牢。」這番話比官員長篇大論更清楚地說出爭執的核心。另一頭，梅在查看一份統計表，記錄各區洪水期間提供了多少糧食。",
+        "englishSha256": "d1389b4a6b502bac9d9b2a2e4e6226f84b3accbea63fb9e219484bda235b7bd1",
+        "chineseSha256": "f6b127defc7072506328175176a205d77701fb0be728442685b81d993c8a3ab1"
+      },
+      {
+        "number": 3,
+        "en": "The proposal also asked a powerful trading corporation to pay for repairs to the harbor it used. Its agents offered a generous donation instead, expecting the council to endorse their private control of the docks. Mei refused the offering and proposed a public fund. “A gift given to purchase silence is not generosity,” she said. Some merchants cheered; others called her ungrateful. In the irony of the day, the corporation's own boatmen supported the new rules because safe docks mattered more to them than the comfort of absent owners.",
+        "zh": "章程也要求一家勢力強大的商業公司負擔港口修繕費。代理人表示願意慷慨捐款，但條件是議會必須支持公司私有碼頭的權利。梅拒絕這份奉獻，提議改設公共基金。「拿來購買沉默的禮物，不叫慷慨。」有人歡呼，也有人罵她不知感恩。諷刺的是，公司自己的船夫卻支持新規則，因為安全碼頭對他們比遠方東家的舒適更重要。",
+        "englishSha256": "aa52ed380b8cafb95c1507ee222d301d3d18f182e0f88e159e1e9012e1f56988",
+        "chineseSha256": "fb978212fffa31d9e49ad617ad4b9d406f72cbfe3281e0fbe66d4c24f2a04c91"
+      },
+      {
+        "number": 4,
+        "en": "Before voting, Master Wen performed a simple ritual: he placed an empty bowl on the table and asked people to remember those who had died. Then Yan read the charter aloud segment by segment, pausing so listeners could ask questions. He tried to facilitate discussion rather than tell them how to vote. The debate was long and noisy. One soldier promised to defy any command that ordered him to silence peaceful speakers. From the perspective of the old court, this sounded like rebellion. From the square, it sounded like responsibility.",
+        "zh": "投票前，文師傅行了一個簡單儀式：把空碗放在桌上，請大家記住那些死去的人。接著言逐段朗讀章程，每讀完一段就停下來讓人提問。他的任務是促進討論，而非告訴眾人怎麼投。辯論漫長而吵雜。一名士兵承諾，若接到鎮壓和平發言者的命令，他會違抗。在舊朝廷眼中，這近乎叛亂；在廣場百姓耳中，這叫負責。",
+        "englishSha256": "887badc56e6faca1ada2700eefe328ee223025ad99a3d4467944b5169322aec4",
+        "chineseSha256": "87b763492aee907f9329c5d38657643121dcbfe9929a62456c4c617301f67bf8"
+      },
+      {
+        "number": 5,
+        "en": "A blind potter asked to speak after the formal debate had ended. His daughter guided him to the front of the square, and several impatient merchants began to leave. He waited until the noise faded. “You have counted sacks and soldiers,” he said, “but who counts the hours a mother spends beside a sick child? Who counts the hands that wash the dead?” The question disturbed Mei because her statistical table had no column for unpaid care. She asked the potter's daughter to help design a fairer record. The council then agreed to provide grain credits for families serving at the shelter, regardless of whether the work was done by women or men. It was a modest measure and impossible to calculate perfectly. Still, the change gave the new charter another meaning: public value could not be measured only in silver or land.",
+        "zh": "正式辯論結束後，一位盲眼陶匠要求發言。女兒牽他走到廣場前，有幾名不耐煩的商人已準備離開。他等嘈雜聲退去才說：「你們算過穀袋和兵數，那誰來算一個母親守在病童旁的時辰？誰來算替死者洗身的雙手？」梅不安，因為她的統計表沒有無薪照護這欄。她請陶匠女兒協助設計更公平的紀錄。議會決定替服務避難所的家庭提供糧食點數，不分男女。方法有限，也不可能算得十全十美，卻讓新章程多了一層意義：公共價值不能只用銀兩或土地衡量。",
+        "englishSha256": "6689dd63d5b35606a52bc559f71241ea703b2a72f16a2c397189efa55b22a643",
+        "chineseSha256": "099efb95e6153d9f6e05bb4472318b86e2623d43a22d15163abd18748d61a364"
+      },
+      {
+        "number": 6,
+        "en": "By evening the charter passed, though not unanimously. Mei was pleased by the overall result, but she kept a page listing objections. A resident who had opposed her approached and asked whether the new council would truly welcome criticism. “Especially criticism,” she answered. “Otherwise this is only the old court wearing a different robe.” The town hired new canal workers the next day and opened its meetings to public observation. Years later, people remembered neither the heat nor the shouting as clearly as the sight of that suggestion box: a small object that made room for a larger future.",
+        "zh": "傍晚，章程通過，卻不是全票。梅對整體結果滿意，仍留下一頁記著反對意見。一名曾反對她的居民走來，問新議會是否真的容許批評。「尤其需要批評。」她說，「否則不過是舊衙門換了一件袍子。」隔天，城裡招募新的水道工，也開放民眾旁聽議事。多年以後，人們不再清楚記得那天的炎熱與爭吵，卻仍記得那只意見箱——一件小小器物，替更大的未來騰出了位置。",
+        "englishSha256": "84cde5fb8829b1b681d3b79a969789a28a908554db0120137f100e553b730d79",
+        "chineseSha256": "236d227b52cd2042bdb800bde4fc240ef54c08ad005cebffd05501747483ae9d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 605,
+    "targets": [
+      {
+        "word": "attendance",
+        "meaning": "出席人數",
+        "appearsInSource": true
+      },
+      {
+        "word": "bruise",
+        "meaning": "瘀傷",
+        "appearsInSource": true
+      },
+      {
+        "word": "contemporary",
+        "meaning": "當時的；同時代的",
+        "appearsInSource": true
+      },
+      {
+        "word": "contended",
+        "meaning": "主張；爭辯",
+        "appearsInSource": true
+      },
+      {
+        "word": "controversial",
+        "meaning": "有爭議的",
+        "appearsInSource": true
+      },
+      {
+        "word": "corporation",
+        "meaning": "公司",
+        "appearsInSource": true
+      },
+      {
+        "word": "defy",
+        "meaning": "違抗",
+        "appearsInSource": true
+      },
+      {
+        "word": "endorse",
+        "meaning": "支持；認可",
+        "appearsInSource": true
+      },
+      {
+        "word": "essence",
+        "meaning": "本質；核心",
+        "appearsInSource": true
+      },
+      {
+        "word": "facilitate",
+        "meaning": "促進；使更容易",
+        "appearsInSource": true
+      },
+      {
+        "word": "irony",
+        "meaning": "諷刺",
+        "appearsInSource": true
+      },
+      {
+        "word": "offering",
+        "meaning": "奉獻；供品",
+        "appearsInSource": true
+      },
+      {
+        "word": "outfit",
+        "meaning": "服裝",
+        "appearsInSource": true
+      },
+      {
+        "word": "overall",
+        "meaning": "整體的",
+        "appearsInSource": true
+      },
+      {
+        "word": "perspective",
+        "meaning": "觀點；角度",
+        "appearsInSource": true
+      },
+      {
+        "word": "resident",
+        "meaning": "居民",
+        "appearsInSource": true
+      },
+      {
+        "word": "ritual",
+        "meaning": "儀式",
+        "appearsInSource": true
+      },
+      {
+        "word": "segment",
+        "meaning": "部分；段落",
+        "appearsInSource": true
+      },
+      {
+        "word": "statistical",
+        "meaning": "統計的",
+        "appearsInSource": true
+      },
+      {
+        "word": "transition",
+        "meaning": "轉型；轉變",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Hundred Voices Assembly〉第 2 段的事件，哪個選項能正確補完整句？\nOne speaker pointed to ____ on his arm from the old governor's guards.",
+      "options": [
+        "a danger",
+        "a bruise",
+        "a collective of women"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a bruise",
+      "existingAnswerExplanation": "原文證據：One speaker pointed to a bruise on his arm from the old governor's guards.\n本段對照：擬議中的自治章程引發爭議。它要讓每區參與分配水源，富地主卻主張無產者不懂城市需求。一名發言人指著手臂上被前太守衛兵打出的瘀青說：「我懂牆是拿來做什麼的，也懂牆何時會變成監牢。」這番話比官員長篇大論更清楚地說出爭執的核心。另一頭，梅在查看一份統計表，記錄各區洪水期間提供了多少糧食。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The proposed charter was controversial. It would give each district a voice in distributing water, but wealthy landowners contended that people without property could not understand the city's needs. One speaker pointed to a bruise on his arm from the old governor's guards. “I understand what a wall is for,” he replied. “I also understand when a wall becomes a prison.” His words captured the essence of the argument more clearly than any official could. Mei, meanwhile, examined a statistical table showing how much grain each district had provided during the flood.",
+          "chinese": "擬議中的自治章程引發爭議。它要讓每區參與分配水源，富地主卻主張無產者不懂城市需求。一名發言人指著手臂上被前太守衛兵打出的瘀青說：「我懂牆是拿來做什麼的，也懂牆何時會變成監牢。」這番話比官員長篇大論更清楚地說出爭執的核心。另一頭，梅在查看一份統計表，記錄各區洪水期間提供了多少糧食。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 1,
+          "english": "At the start of summer, a bell called Nanhe's residents to the first open assembly in living memory. Its attendance surprised even Mei: fishermen, potters, traders, soldiers, and widows filled the square. Several wore their finest outfit, while others arrived straight from work with dust on their sleeves. At the center stood a wooden box for written suggestions. A contemporary chronicler later called it the beginning of a new political transition. To the people standing in the heat, it was simply the first time officials had agreed to listen without demanding payment.",
+          "chinese": "夏初，一聲鐘響召來南河百姓，舉行人們記憶中第一次公開議會。出席人數連梅也驚訝：漁人、陶匠、商販、士兵與寡婦擠滿廣場。有些人穿上最體面的服裝，另一些才剛下工，衣袖還沾著灰。中央擺著一只供投遞意見的木箱。後世史家稱這是新政治轉型的起點；當時站在烈日下的人們，只覺得官員終於肯不收錢便聽他們說話。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Hundred Voices Assembly〉第 6 段的事件，哪個選項能正確補完整句？\n“Otherwise this is only the old court wearing a different robe.” The town hired new canal workers the next day and opened ____ to public observation.",
+      "options": [
+        "its purpose",
+        "its ceremonial rights",
+        "its meetings"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "its meetings",
+      "existingAnswerExplanation": "原文證據：“Otherwise this is only the old court wearing a different robe.” The town hired new canal workers the next day and opened its meetings to public observation.\n本段對照：傍晚，章程通過，卻不是全票。梅對整體結果滿意，仍留下一頁記著反對意見。一名曾反對她的居民走來，問新議會是否真的容許批評。「尤其需要批評。」她說，「否則不過是舊衙門換了一件袍子。」隔天，城裡招募新的水道工，也開放民眾旁聽議事。多年以後，人們不再清楚記得那天的炎熱與爭吵，卻仍記得那只意見箱——一件小小器物，替更大的未來騰出了位置。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "By evening the charter passed, though not unanimously. Mei was pleased by the overall result, but she kept a page listing objections. A resident who had opposed her approached and asked whether the new council would truly welcome criticism. “Especially criticism,” she answered. “Otherwise this is only the old court wearing a different robe.” The town hired new canal workers the next day and opened its meetings to public observation. Years later, people remembered neither the heat nor the shouting as clearly as the sight of that suggestion box: a small object that made room for a larger future.",
+          "chinese": "傍晚，章程通過，卻不是全票。梅對整體結果滿意，仍留下一頁記著反對意見。一名曾反對她的居民走來，問新議會是否真的容許批評。「尤其需要批評。」她說，「否則不過是舊衙門換了一件袍子。」隔天，城裡招募新的水道工，也開放民眾旁聽議事。多年以後，人們不再清楚記得那天的炎熱與爭吵，卻仍記得那只意見箱——一件小小器物，替更大的未來騰出了位置。",
+          "matchedQueryTerms": 29
+        },
+        {
+          "paragraph": 1,
+          "english": "At the start of summer, a bell called Nanhe's residents to the first open assembly in living memory. Its attendance surprised even Mei: fishermen, potters, traders, soldiers, and widows filled the square. Several wore their finest outfit, while others arrived straight from work with dust on their sleeves. At the center stood a wooden box for written suggestions. A contemporary chronicler later called it the beginning of a new political transition. To the people standing in the heat, it was simply the first time officials had agreed to listen without demanding payment.",
+          "chinese": "夏初，一聲鐘響召來南河百姓，舉行人們記憶中第一次公開議會。出席人數連梅也驚訝：漁人、陶匠、商販、士兵與寡婦擠滿廣場。有些人穿上最體面的服裝，另一些才剛下工，衣袖還沾著灰。中央擺著一只供投遞意見的木箱。後世史家稱這是新政治轉型的起點；當時站在烈日下的人們，只覺得官員終於肯不收錢便聽他們說話。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

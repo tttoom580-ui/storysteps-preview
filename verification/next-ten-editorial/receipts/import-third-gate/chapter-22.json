@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 22,
+  "chapterId": "import-third-gate-22",
+  "sourceChapterSha256": "ce3443f766212c3532022bab68d06d94d17eebc9f73d9dd833ecb04df5209201",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "博物館在河市錄口述史，安讓不便說話的人用書寫或圖畫參與，重新協商攤位水電租金並重視參與者同意。",
+    "previousChapterEndingEnglish": "The newly translated declaration became the center of the next exhibit. Beside it An posted a simple comparison of ancient grain measures and modern currency, carefully stating where an equivalent could only be approximate. Visitors found the record less glamorous than the bronze seals, yet they spent longer reading it. It described neighbors deciding how to share water, which was still a question the city faced. At closing time, An stood before the case and imagined Mei receiving the grain. Perhaps the most lasting legacy of the siege was not its battle, but its promise.",
+    "nextChapterOpeningEnglish": "The city hired a new architect to examine the old gate before any construction began. Her task was not simply to make the ruins attractive but to ensure that modern foundations would comply with the environmental mandate. An joined the inspection with an agricultural specialist who studied how river deposits affected farms. The specialist warned that a major flood was inevitable at some point; no wall could promise absolute safety. The architect asserted that good design could still boost protection and public access without hiding the ancient structure behind concrete."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "An's museum established a small booth at the riverside market so residents who could not visit the main building could share their memories. A contractor donated a portable recording appliance, and the team rented tables for the afternoon. The market was gorgeous in early spring, with baskets of flowers and bright cloth, but An wanted a display that did more than look beautiful. She asked visitors to recite short family stories in whatever dialect they knew best. By midday the team had recorded fishermen, teachers, shopkeepers, and an elderly woman who remembered the river before the modern walls were built.",
+        "zh": "安的博物館在河岸市場設立小攤位，讓無法到本館的居民也能分享記憶。承包商捐了一台可攜錄音器，團隊租下幾張桌子。早春市場花籃與彩布交錯，景色漂亮，但安想做的不只是好看的展示。她請民眾用最熟悉的方言朗誦簡短家族故事。中午前已錄下漁民、教師、店主及一位記得現代堤牆興建前河流樣貌的老婦人。",
+        "englishSha256": "9f93b127e0774bec888a72874a5672d10fa15fc3407ca4b5b0770aa6118892a2",
+        "chineseSha256": "48e20a61c1a4924105f81c29312c4fc1612ca4eff114ba439abd2b1dfa56cda0"
+      },
+      {
+        "number": 2,
+        "en": "A visitor objected that recorded stories could not be compared with written documents. An agreed there was a distinction: oral memory and formal records had different strengths, and neither should be treated as automatically true. She explained the museum's stance with an example. A family might accurately remember where its boats were tied while getting the year wrong. A tax ledger might preserve the year while omitting the people who worked on those boats. Bringing the two together could unlock knowledge that either alone would keep confined.",
+        "zh": "有訪客質疑，口述不能與文書相比。安同意兩者有區別：口述記憶與正式檔案各有長處，都不能自動視為真。她舉例說明立場：家庭可能記對繫船地點，卻記錯年份；稅簿可能記對年分，卻漏掉實際工作的人。兩類資料互相比對，才可能解開單獨一方都藏著的知識。",
+        "englishSha256": "6a44a736a50b7d6c54913fd4ad4a3e5fb1e290fe54a279bdb864bad79af14cdd",
+        "chineseSha256": "f4fa21e5eb71233edd64cb11444425fd6642333d19699cb0f3bfce6d163da0cc"
+      },
+      {
+        "number": 3,
+        "en": "At noon a retired doctor arrived with a gentle request. His daughter had undergone treatment for a tumor, and the family hoped to create a quiet room for visitors dealing with illness or grief. The museum had ample space but had planned to use it for an exotic collection of decorative objects. An reconsidered. A beautiful object might attract applause, but a room that gave comfort could be a more useful legacy. She asked the doctor to join the planning group so the decision would not be made only by those who had never needed such a space.",
+        "zh": "中午，一名退休醫師帶來溫和的請求。他女兒曾接受腫瘤治療，家人希望博物館設個安靜房間，讓正經歷疾病或哀傷的訪客歇息。館內空間充裕，原本卻打算用來展示異國裝飾品。安重新考慮。漂亮文物能贏掌聲，提供慰藉的房間也許是更實用的遺產。她邀醫師加入規劃小組，不讓從未需要過這空間的人獨斷。",
+        "englishSha256": "0fb5114ed9911704641ab6b8b4d1cfac336311ef3e30acd0c3c63d9b954a3d88",
+        "chineseSha256": "21bb526d593c901b08e37d27726ddbea5d558ef524ec4f103c6fba8bf8249995"
+      },
+      {
+        "number": 4,
+        "en": "The afternoon brought disagreement about a rental contract for the market booth. One organizer believed the space belonged to the city and should cost nothing. The market manager replied that electricity and cleaning were utilities someone had to pay for. Rather than accuse him of greed, An asked for a clear statement of costs. The final agreement allowed public use at a reduced rate while covering maintenance. It was not the sort of outcome that appeared in legends, yet it reminded An how much of public life depended on patient negotiation.",
+        "zh": "下午，市場攤位租約又引發爭論。一名組織者認為場地屬於城市，應免費；市場經理說水電清潔都是有人得付的公共服務。安沒有指責他貪婪，而是請他列出成本。最後雙方同意以較低費率供公共使用，同時負擔維護。這種結果不會出現在傳奇裡，卻提醒安，公共生活有多少事倚靠耐心協商。",
+        "englishSha256": "b51d7586919308e601144e5ddb5fc94002607e4d8d541e2ca8d0154d2cc092cc",
+        "chineseSha256": "52d5b5aff26a25aa1e2c51d249af28147c4fac5c2066339e33306227c35f3334"
+      },
+      {
+        "number": 5,
+        "en": "One visitor could not speak after surgery and asked whether verbal recordings were the museum's only way to participate. An quickly saw the problem. She arranged a written form and a simple drawing table, and the visitor sketched the house where he had lived beside the river. The drawing showed a shared water tap and a narrow alley connecting three households. An realized that utility services such as clean water were part of family history too, even when official accounts focused on kings and wars. The visitor wrote a note thanking the team for allowing different ways to tell a story. The experience changed the museum's policy: future collection days would offer every practical mode of participation: written, spoken, and visual methods, with interpreters where possible. No one should need a perfect voice to be heard.",
+        "zh": "一名訪客手術後無法說話，問口頭錄音是否是參與唯一途徑。安立刻看見問題，安排書寫表格與繪畫桌。訪客畫出自己在河邊住過的房子，其中有共用水龍頭，以及連接三戶的窄巷。安發現水、電等公共設施也是家族史的一部分，即使官方紀錄多寫君王戰爭。訪客寫字感謝不同的敘事方式。這次經驗改變館方制度：未來收集日將提供各種實用參與模式，包括書寫、口述與圖像，可能時也備口譯協助。沒有人必須有完美的聲音，才值得被聽見。",
+        "englishSha256": "d1a5648f197f65fd8b9f3283ffe614a77b88ee4073f1cd63e81ef110956cd35b",
+        "chineseSha256": "e0990fc56b5d68e841cc2ed49e78054257133080a1421c5e892556187809eb3e"
+      },
+      {
+        "number": 6,
+        "en": "At sunset the recordings were copied into the archive. A young visitor listened to her grandfather's voice and said she had never realized how his childhood differed from hers, whereas both had grown up beside the same river. An looked across the market and thought of Mei's ancient assembly. The people had changed, as had their tools, but the need to be heard was familiar. She promised to keep the booth open on future weekends. The museum, she realized, did not have to confine history within its walls. History was already speaking all around it.",
+        "zh": "日落時，錄音複製進檔案。一名少女聽祖父的聲音，說以前不知道他童年和自己差那麼多，雖然兩人都在同一條河邊長大。安望著市場，想起梅的古代議會。人與工具都變了，被傾聽的需要卻熟悉。她答應未來週末繼續設攤。博物館不必把歷史關在牆內，因為歷史早就在四周說話。",
+        "englishSha256": "1a7c7365a23a861efd63b50cbbae121d5a7e0f104f0302628c25d7b3f167ecb3",
+        "chineseSha256": "5cdd9e4e06a2fd31c16fbf8c30d5a083cc4e0bb8666cfc0ce696afb884b9786a"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 607,
+    "targets": [
+      {
+        "word": "ample",
+        "meaning": "充裕的；足夠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "applause",
+        "meaning": "掌聲",
+        "appearsInSource": true
+      },
+      {
+        "word": "appliance",
+        "meaning": "器具；設備",
+        "appearsInSource": true
+      },
+      {
+        "word": "booth",
+        "meaning": "攤位",
+        "appearsInSource": true
+      },
+      {
+        "word": "confine",
+        "meaning": "限制；關住",
+        "appearsInSource": true
+      },
+      {
+        "word": "contractor",
+        "meaning": "承包商",
+        "appearsInSource": true
+      },
+      {
+        "word": "dialect",
+        "meaning": "方言",
+        "appearsInSource": true
+      },
+      {
+        "word": "distinction",
+        "meaning": "差別；區別",
+        "appearsInSource": true
+      },
+      {
+        "word": "exotic",
+        "meaning": "異國的",
+        "appearsInSource": true
+      },
+      {
+        "word": "gorgeous",
+        "meaning": "美麗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "legacy",
+        "meaning": "遺產；傳承",
+        "appearsInSource": true
+      },
+      {
+        "word": "mode",
+        "meaning": "模式；方式",
+        "appearsInSource": true
+      },
+      {
+        "word": "recite",
+        "meaning": "朗誦",
+        "appearsInSource": true
+      },
+      {
+        "word": "rental",
+        "meaning": "租賃；租金",
+        "appearsInSource": true
+      },
+      {
+        "word": "stance",
+        "meaning": "立場",
+        "appearsInSource": true
+      },
+      {
+        "word": "tumor",
+        "meaning": "腫瘤",
+        "appearsInSource": true
+      },
+      {
+        "word": "unlock",
+        "meaning": "解開；打開",
+        "appearsInSource": true
+      },
+      {
+        "word": "utility",
+        "meaning": "公用事業；實用功能",
+        "appearsInSource": true
+      },
+      {
+        "word": "verbal",
+        "meaning": "口頭的；言語的",
+        "appearsInSource": true
+      },
+      {
+        "word": "whereas",
+        "meaning": "然而；相對地",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈Voices from the River Market〉第 1 段的事件，哪個選項能正確補完整句？\nThe market was gorgeous in early spring, with baskets of flowers and bright cloth, but An wanted ____ that did more than look beautiful.",
+      "options": [
+        "a witty",
+        "a display",
+        "a glass pitcher filled"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a display",
+      "existingAnswerExplanation": "原文證據：The market was gorgeous in early spring, with baskets of flowers and bright cloth, but An wanted a display that did more than look beautiful.\n本段對照：安的博物館在河岸市場設立小攤位，讓無法到本館的居民也能分享記憶。承包商捐了一台可攜錄音器，團隊租下幾張桌子。早春市場花籃與彩布交錯，景色漂亮，但安想做的不只是好看的展示。她請民眾用最熟悉的方言朗誦簡短家族故事。中午前已錄下漁民、教師、店主及一位記得現代堤牆興建前河流樣貌的老婦人。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "An's museum established a small booth at the riverside market so residents who could not visit the main building could share their memories. A contractor donated a portable recording appliance, and the team rented tables for the afternoon. The market was gorgeous in early spring, with baskets of flowers and bright cloth, but An wanted a display that did more than look beautiful. She asked visitors to recite short family stories in whatever dialect they knew best. By midday the team had recorded fishermen, teachers, shopkeepers, and an elderly woman who remembered the river before the modern walls were built.",
+          "chinese": "安的博物館在河岸市場設立小攤位，讓無法到本館的居民也能分享記憶。承包商捐了一台可攜錄音器，團隊租下幾張桌子。早春市場花籃與彩布交錯，景色漂亮，但安想做的不只是好看的展示。她請民眾用最熟悉的方言朗誦簡短家族故事。中午前已錄下漁民、教師、店主及一位記得現代堤牆興建前河流樣貌的老婦人。",
+          "matchedQueryTerms": 24
+        },
+        {
+          "paragraph": 3,
+          "english": "At noon a retired doctor arrived with a gentle request. His daughter had undergone treatment for a tumor, and the family hoped to create a quiet room for visitors dealing with illness or grief. The museum had ample space but had planned to use it for an exotic collection of decorative objects. An reconsidered. A beautiful object might attract applause, but a room that gave comfort could be a more useful legacy. She asked the doctor to join the planning group so the decision would not be made only by those who had never needed such a space.",
+          "chinese": "中午，一名退休醫師帶來溫和的請求。他女兒曾接受腫瘤治療，家人希望博物館設個安靜房間，讓正經歷疾病或哀傷的訪客歇息。館內空間充裕，原本卻打算用來展示異國裝飾品。安重新考慮。漂亮文物能贏掌聲，提供慰藉的房間也許是更實用的遺產。她邀醫師加入規劃小組，不讓從未需要過這空間的人獨斷。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈Voices from the River Market〉第 5 段的事件，哪個選項能正確補完整句？\nThe visitor wrote ____ for allowing different ways to tell a story.",
+      "options": [
+        "a new burden",
+        "a note thanking the team",
+        "a witty"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a note thanking the team",
+      "existingAnswerExplanation": "原文證據：The visitor wrote a note thanking the team for allowing different ways to tell a story.\n本段對照：一名訪客手術後無法說話，問口頭錄音是否是參與唯一途徑。安立刻看見問題，安排書寫表格與繪畫桌。訪客畫出自己在河邊住過的房子，其中有共用水龍頭，以及連接三戶的窄巷。安發現水、電等公共設施也是家族史的一部分，即使官方紀錄多寫君王戰爭。訪客寫字感謝不同的敘事方式。這次經驗改變館方制度：未來收集日將提供各種實用參與模式，包括書寫、口述與圖像，可能時也備口譯協助。沒有人必須有完美的聲音，才值得被聽見。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "One visitor could not speak after surgery and asked whether verbal recordings were the museum's only way to participate. An quickly saw the problem. She arranged a written form and a simple drawing table, and the visitor sketched the house where he had lived beside the river. The drawing showed a shared water tap and a narrow alley connecting three households. An realized that utility services such as clean water were part of family history too, even when official accounts focused on kings and wars. The visitor wrote a note thanking the team for allowing different ways to tell a story. The experience changed the museum's policy: future collection days would offer every practical mode of participation: written, spoken, and visual methods, with interpreters where possible. No one should need a perfect voice to be heard.",
+          "chinese": "一名訪客手術後無法說話，問口頭錄音是否是參與唯一途徑。安立刻看見問題，安排書寫表格與繪畫桌。訪客畫出自己在河邊住過的房子，其中有共用水龍頭，以及連接三戶的窄巷。安發現水、電等公共設施也是家族史的一部分，即使官方紀錄多寫君王戰爭。訪客寫字感謝不同的敘事方式。這次經驗改變館方制度：未來收集日將提供各種實用參與模式，包括書寫、口述與圖像，可能時也備口譯協助。沒有人必須有完美的聲音，才值得被聽見。",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 2,
+          "english": "A visitor objected that recorded stories could not be compared with written documents. An agreed there was a distinction: oral memory and formal records had different strengths, and neither should be treated as automatically true. She explained the museum's stance with an example. A family might accurately remember where its boats were tied while getting the year wrong. A tax ledger might preserve the year while omitting the people who worked on those boats. Bringing the two together could unlock knowledge that either alone would keep confined.",
+          "chinese": "有訪客質疑，口述不能與文書相比。安同意兩者有區別：口述記憶與正式檔案各有長處，都不能自動視為真。她舉例說明立場：家庭可能記對繫船地點，卻記錯年份；稅簿可能記對年分，卻漏掉實際工作的人。兩類資料互相比對，才可能解開單獨一方都藏著的知識。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

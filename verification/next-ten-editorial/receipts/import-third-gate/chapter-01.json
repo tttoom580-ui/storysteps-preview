@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 1,
+  "chapterId": "import-third-gate-1",
+  "sourceChapterSha256": "7a8dc21daa38a87f84b63745a7752885fec970dc1adc5ce5aca9c26f45e631d3",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "南河暴雨前太守封西閘護官倉，梅在文師傅留下的古圖及父親木牘找到第三道水門，居民共同開閘導水護窮戶，太守逃走。",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "The morning after the flood, Nanhe smelled of mud, wet grain, and smoke from cooking fires. Mei walked through streets where strangers shared dry blankets with families they had never met. The governor had fled, but his collectors had left behind records showing an absurd tax on boats that carried food. When adverse winds delayed the next convoy, the kitchens would have nothing to cook. The old architecture of the grain office revealed another secret: a blocked staircase led to a room above the store, where someone had been keeping private accounts. Mei asked why the official seal appeared on sacks delivered to the governor's relatives rather than the public kitchens."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 12,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "In the kingdom of Lan, the city of Nanhe had survived seven wars but feared one river. Each autumn, the Black River rose against its walls. This year, the governor ordered the western floodgate sealed to protect the royal grain store. He called it a wise decision. To Mei, an apprentice mapmaker, it looked like a dangerous attempt to preserve a failing regime at the expense of ordinary families.",
+        "zh": "在虛構的蘭國，南河城熬過七場戰爭，卻始終畏懼一條河。每到秋天，黑河的水便暴漲，拍打城牆。今年，太守下令封死西側水閘，好保住官家的糧倉。他稱這是明智之舉。在製圖學徒梅眼中，這卻像是為了保全岌岌可危的政權，而把平民百姓推向險境。",
+        "englishSha256": "a11ca2b3909c42712d5b7fe232f247500b394e76b30699994e486a3fa463401e",
+        "chineseSha256": "d1d005e5c4eabfcf754b44351b21afa1a162a43eb42371db16ba40ab51743774"
+      },
+      {
+        "number": 2,
+        "en": "Mei's mentor, Master Wen, had taught her to read both maps and people. He showed her an ancient drawing of a circuit of channels beneath the city. The channels once carried excess water toward empty fields beyond the southern hills. Mei made a projection of the coming flood using marks left by earlier generations. If the western gate stayed shut, the poorest district would be underwater before sunrise.",
+        "zh": "梅的導師文師傅教她讀懂地圖，也讀懂人心。他拿出一張古圖，上面畫著一整圈環繞城底的水道。這些水道曾將多餘的洪水引往南山外的荒田。梅根據前人留下的水位刻痕，推算這場洪水可能達到的高度。若西閘繼續緊閉，天亮之前，最貧窮的街區便會沒入水中。",
+        "englishSha256": "3d651bba76990327701f636ca5e5ad751469f0a44110a995e4c2b0bc6d042a16",
+        "chineseSha256": "59d241bbd6e6b5a03d5898f70bff3dd50204ca7a64bae685ffcb51f30b02540a"
+      },
+      {
+        "number": 3,
+        "en": "At the governor's hall, Mei presented her numbers. The governor's nephew laughed. “Only an idiot trusts a broken map,” he said. “You may request an inquiry after the danger has passed.” Mei wanted to shout, but Master Wen touched her sleeve. “A ruler who refuses to listen,” he whispered, “will rarely hear the river until it reaches his own door.”",
+        "zh": "梅來到太守府，呈上她的計算結果。太守的姪子大笑：「只有白痴才會相信一張破地圖。等危機過後，妳再申請調查吧。」梅氣得想爭辯，文師傅卻輕輕拉住她的衣袖，低聲說：「不願傾聽的統治者，通常要等河水淹到自家門前，才聽得見水聲。」",
+        "englishSha256": "5fcb824a12d9daf56ae59e781ca355f38aedb7b8ca31277b945c645879f89384",
+        "chineseSha256": "f09893149d1224b854a97cebe2d7625583e5aa6a9111b1b3096e3bee17d1d5df"
+      },
+      {
+        "number": 4,
+        "en": "They went instead to the Temple of Clear Water. Its nonprofit kitchen fed laborers and widows without charging them a coin. Even there, the cooks struggled to provide a decent meal. A fresh batch of rice had arrived that morning, but half would be sent to the royal store by evening. The cook struck the rim of a bronze pot. “Tell us what to do,” she said. “We can fight hunger. We cannot fight a river without a plan.”",
+        "zh": "兩人轉往清水廟。廟裡設有不以營利為目的的施粥廚房，免費供應工人與寡婦餐食。即使如此，廚子們也難以張羅一頓像樣的飯。今早剛送來一批米，到了傍晚，卻有半數得送進官倉。掌廚敲了敲銅鍋的邊緣，說：「告訴我們該怎麼做。我們能對抗飢餓；但沒有計畫，我們對抗不了河水。」",
+        "englishSha256": "61f5934e88dfa2b3730edc58cf4cdb97872d84098b63137756c9024f7770fcd3",
+        "chineseSha256": "e68e0f63d8d2ed90f5638e7049a9153058b9cc3517639697a45dbf6c9bba1d1b"
+      },
+      {
+        "number": 5,
+        "en": "Mei studied the old map again. One narrow line ended below the temple floor. She mixed dark ink with rainwater, watched it dissolve, and poured the mixture into a gap between the stones. Minutes later, a child saw black water leaking from a drain near the southern wall. The buried channel was real. Better still, it had not been completely blocked.",
+        "zh": "梅再次細看古圖。一條細線的盡頭，竟指向廟宇地板下方。她把深色墨料放進雨水裡，看著它溶散，再將墨水倒進石縫。幾分鐘後，一名孩子發現南城牆附近的排水口滲出黑水。地下水道真的存在，而且尚未完全堵死。",
+        "englishSha256": "1df2d723bac4538273a9c52ef5910dd8b82e3ddb21faecfb9eae4ebbc23ffb24",
+        "chineseSha256": "b86372f0fca403c678bfd3b8afe8ee953af1b6b31ba0d4d1524f79cbdc1e49a5"
+      },
+      {
+        "number": 6,
+        "en": "Behind a loose stone, Master Wen found a wooden tablet signed by Mei's father, who had died during the last great flood. It described a third gate designed to send water away from homes. Its opening depended on the exact placement of three stone weights. The governor had hidden the gate because opening it would flood his private gardens. Mei stared at her father's name until the characters blurred through her tears.",
+        "zh": "文師傅在一塊鬆動的石板後找到木牘，上頭竟有梅父親的署名。父親死於上一次大洪水，木牘記載他設計了第三道水門，能將河水導離民宅。水門能否開啟，取決於三塊石砣放置的位置。太守刻意隱瞞這座水門，因為一旦打開，他的私人園林就會被淹沒。梅凝視父親的名字，直到淚水模糊了字跡。",
+        "englishSha256": "ab1be7d77d09d2fb762ff3dcd5887fd5f553a52159b7d2eb342e692f7a6e3738",
+        "chineseSha256": "52b681a3626de3a920db6266ed17c4739bb26ea2923beccc9d2f5282a911ec72"
+      },
+      {
+        "number": 7,
+        "en": "“We must implement his design tonight,” Mei said. Master Wen agreed, though the work would place a terrible strain on the ancient walls. They needed timber to reinforce the gate and enough hands to triple the number of workers before midnight. The temple cook rang the bronze pot again. Carpenters, farmers, and soldiers came running, regardless of their rank or former quarrels.",
+        "zh": "「今晚一定要把父親的設計付諸實行。」梅說。文師傅點頭，但這項工程勢必讓老城牆承受極大壓力。他們需要木材加固水門，還得在午夜前將人手增加到原本的三倍。掌廚再次敲響銅鍋，木匠、農夫與士兵紛紛趕來，不分身分，也不計較昔日恩怨。",
+        "englishSha256": "dc560fd44197eabc78ca3f80039652e115d870bba07fd3af333bee6982128ba0",
+        "chineseSha256": "123cb137067923bdd11efbc0a9d98c05ca3b781d547b540b6a777ae7470fdc89"
+      },
+      {
+        "number": 8,
+        "en": "A messenger galloped in from the riverbank. He was so frightened that he fell from his saddle before he could speak. Water was already pouring over the northern steps. The roar began to terrify even the bravest workers. Above them, a broken projection of stone hung from the wall like a giant tooth. Mei ordered everyone away from it and led the team through the lower passage.",
+        "zh": "一名傳令兵從河岸疾馳而來，驚慌得還沒開口，就從馬鞍上跌了下來。河水已漫過北側石階。震耳欲聾的水聲，連最勇敢的工人也開始害怕。眾人頭頂上，城牆一塊突出的殘石像巨齒般懸著。梅立刻命大家遠離，帶隊從下方通道前進。",
+        "englishSha256": "a8f372d5c7948a7ca054c1834e45549c335b368846c7c8de99f9de9631d444e7",
+        "chineseSha256": "74e4bd8cc6dc3349a24fb0057326c7adc61fa77bce21d0efa80a399f3955a72a"
+      },
+      {
+        "number": 9,
+        "en": "The third gate was buried in mud. Men dug with iron tools while women carried baskets of earth. Mei checked each weight against her father's instructions. A rope snapped. A wooden beam cracked. Master Wen caught the beam with his shoulder long enough for two boys to escape. Mei heard him cry out, but he shook his head. “Finish it,” he said. “The river will not give us another hour.”",
+        "zh": "第三道水門深埋在淤泥裡。男人用鐵具挖掘，女人一籃籃搬走泥土。梅照著父親的指示，逐一確認石砣。突然，一條繩索斷了，木樑也應聲裂開。文師傅用肩膀頂住木樑，為兩名少年爭取逃命的時間。梅聽見他痛呼，他卻搖頭說：「把事情做完。河水不會再給我們一個時辰。」",
+        "englishSha256": "1dbe49e97774d1aac38aed231c12e55d5040320e7ea97ae15afdc2b550e1801f",
+        "chineseSha256": "7d92cb6f4385818227a864d2f17ad2927a82ca593a54e9fca4638ef33d9c42f7"
+      },
+      {
+        "number": 10,
+        "en": "Mei pushed the final weight into place. For a moment, nothing happened. Then a low crack ran through the mud. Water struck the gate with such force that everyone stumbled backward. The old mechanism groaned, turned, and opened. A black wave rushed through the forgotten channel toward the empty southern plain. The workers cheered. Their breakthrough had come not from a new invention, but from trusting knowledge almost lost to time.",
+        "zh": "梅把最後一塊石砣推進定位。片刻間，什麼也沒發生。接著，淤泥裡傳來低沉的裂響。河水猛烈撞擊水門，眾人紛紛踉蹌後退。古老的機關嘎嘎作響，開始轉動，終於敞開。黑色洪流奔入被遺忘的水道，往南方無人的平原湧去。工人們歡呼起來。這場重大突破並非來自新發明，而是來自人們願意相信幾乎遭歲月埋沒的智慧。",
+        "englishSha256": "ffd6a2fd8780d0b6a551b14b110d9677b268dbb3e238b8d5f343b5a5490fd296",
+        "chineseSha256": "a09b80bcae38c3d4d4090e5f1b1ec251106e9aff6180f0614c967b01a7956bf2"
+      },
+      {
+        "number": 11,
+        "en": "By morning, the poorest district was wet but standing. The governor's gardens had disappeared beneath a lake. He threatened to arrest Mei, until the soldiers carried the wooden tablet into the public square and read it aloud. The crowd demanded an honest investigation. The governor fled before nightfall. Mei did not celebrate his fall; she stayed beside Master Wen, changing the bandage on his injured shoulder.",
+        "zh": "清晨，最貧窮的街區雖然到處積水，房屋卻仍安然矗立。太守的園林反倒沉入一片汪洋。他威脅要逮捕梅，直到士兵將那片木牘帶到廣場，當眾朗讀，群眾隨即要求徹查真相。太守沒等到入夜便逃走了。梅沒有慶祝他的垮台，只留在文師傅身旁，替他受傷的肩膀更換繃帶。",
+        "englishSha256": "224ad0a8fb4cf15e0295096235fbb55704568d93cf4dfb9e66ddd9225462d8b4",
+        "chineseSha256": "83a8da887fbb75f5ce7dbf4a40af2e9cb11b6e9974d87c8bb674d1fd15430907"
+      },
+      {
+        "number": 12,
+        "en": "That winter, the city repaired its canals before rebuilding the governor's house. Mei trained young mapmakers, asking each to question orders that endangered lives. On the temple wall she placed her father's old tablet beneath a simple inscription: A city is not saved by high walls alone, but by those willing to open the right gate. Whenever rain fell, Mei remembered the night Nanhe had chosen its people over its ruler.",
+        "zh": "那年冬天，南河城先修復水道，才重建太守府。梅開始教導年輕製圖師，要他們勇於質疑危及人命的命令。她將父親的舊木牘掛在廟牆上，下面刻著一句話：「拯救一座城的，不只是高牆，還有願意打開正確水門的人。」此後每逢落雨，梅總會想起那一夜——南河城選擇了百姓，而非統治者。",
+        "englishSha256": "00be6b9d285d8a715c5c03434577d24c5a2362902df66f7de564cabfa90be2b7",
+        "chineseSha256": "165433bb08107788ae19f894b20ed62a19fa779b3a49c9d5320eaa63c2b3b14e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 816,
+    "targets": [
+      {
+        "word": "batch",
+        "meaning": "一批（米、貨物等）",
+        "appearsInSource": true
+      },
+      {
+        "word": "breakthrough",
+        "meaning": "重大突破",
+        "appearsInSource": true
+      },
+      {
+        "word": "circuit",
+        "meaning": "環狀路線；環繞的水道系統",
+        "appearsInSource": true
+      },
+      {
+        "word": "decent",
+        "meaning": "像樣的；過得去的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dissolve",
+        "meaning": "溶解；溶散",
+        "appearsInSource": true
+      },
+      {
+        "word": "idiot",
+        "meaning": "白痴；笨蛋（冒犯語）",
+        "appearsInSource": true
+      },
+      {
+        "word": "implement",
+        "meaning": "實施；執行",
+        "appearsInSource": true
+      },
+      {
+        "word": "inquiry",
+        "meaning": "調查；查詢",
+        "appearsInSource": true
+      },
+      {
+        "word": "mentor",
+        "meaning": "導師",
+        "appearsInSource": true
+      },
+      {
+        "word": "nonprofit",
+        "meaning": "非營利的",
+        "appearsInSource": true
+      },
+      {
+        "word": "placement",
+        "meaning": "放置；配置",
+        "appearsInSource": true
+      },
+      {
+        "word": "projection",
+        "meaning": "預測；突出部分",
+        "appearsInSource": true
+      },
+      {
+        "word": "regardless",
+        "meaning": "不顧；無論如何",
+        "appearsInSource": true
+      },
+      {
+        "word": "regime",
+        "meaning": "政權；統治體制",
+        "appearsInSource": true
+      },
+      {
+        "word": "reinforce",
+        "meaning": "加固；增強",
+        "appearsInSource": true
+      },
+      {
+        "word": "rim",
+        "meaning": "（容器的）邊緣",
+        "appearsInSource": true
+      },
+      {
+        "word": "saddle",
+        "meaning": "馬鞍",
+        "appearsInSource": true
+      },
+      {
+        "word": "strain",
+        "meaning": "壓力；負荷",
+        "appearsInSource": true
+      },
+      {
+        "word": "terrify",
+        "meaning": "使極度害怕",
+        "appearsInSource": true
+      },
+      {
+        "word": "triple",
+        "meaning": "使成為三倍",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Third Gate〉第 3 段的事件，哪個選項能正確補完整句？\nAt the governor's hall, Mei presented ____.",
+      "options": [
+        "her belongings",
+        "her numbers",
+        "her condition"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "her numbers",
+      "existingAnswerExplanation": "原文證據：At the governor's hall, Mei presented her numbers.\n本段對照：梅來到太守府，呈上她的計算結果。太守的姪子大笑：「只有白痴才會相信一張破地圖。等危機過後，妳再申請調查吧。」梅氣得想爭辯，文師傅卻輕輕拉住她的衣袖，低聲說：「不願傾聽的統治者，通常要等河水淹到自家門前，才聽得見水聲。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "At the governor's hall, Mei presented her numbers. The governor's nephew laughed. “Only an idiot trusts a broken map,” he said. “You may request an inquiry after the danger has passed.” Mei wanted to shout, but Master Wen touched her sleeve. “A ruler who refuses to listen,” he whispered, “will rarely hear the river until it reaches his own door.”",
+          "chinese": "梅來到太守府，呈上她的計算結果。太守的姪子大笑：「只有白痴才會相信一張破地圖。等危機過後，妳再申請調查吧。」梅氣得想爭辯，文師傅卻輕輕拉住她的衣袖，低聲說：「不願傾聽的統治者，通常要等河水淹到自家門前，才聽得見水聲。」",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 12,
+          "english": "That winter, the city repaired its canals before rebuilding the governor's house. Mei trained young mapmakers, asking each to question orders that endangered lives. On the temple wall she placed her father's old tablet beneath a simple inscription: A city is not saved by high walls alone, but by those willing to open the right gate. Whenever rain fell, Mei remembered the night Nanhe had chosen its people over its ruler.",
+          "chinese": "那年冬天，南河城先修復水道，才重建太守府。梅開始教導年輕製圖師，要他們勇於質疑危及人命的命令。她將父親的舊木牘掛在廟牆上，下面刻著一句話：「拯救一座城的，不只是高牆，還有願意打開正確水門的人。」此後每逢落雨，梅總會想起那一夜——南河城選擇了百姓，而非統治者。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Third Gate〉第 12 段的事件，哪個選項能正確補完整句？\nWhenever rain fell, Mei remembered ____ over its ruler.",
+      "options": [
+        "the paper against the lantern",
+        "the night Nanhe had chosen its people",
+        "the same loads every day knew"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the night Nanhe had chosen its people",
+      "existingAnswerExplanation": "原文證據：Whenever rain fell, Mei remembered the night Nanhe had chosen its people over its ruler.\n本段對照：那年冬天，南河城先修復水道，才重建太守府。梅開始教導年輕製圖師，要他們勇於質疑危及人命的命令。她將父親的舊木牘掛在廟牆上，下面刻著一句話：「拯救一座城的，不只是高牆，還有願意打開正確水門的人。」此後每逢落雨，梅總會想起那一夜——南河城選擇了百姓，而非統治者。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 12,
+          "english": "That winter, the city repaired its canals before rebuilding the governor's house. Mei trained young mapmakers, asking each to question orders that endangered lives. On the temple wall she placed her father's old tablet beneath a simple inscription: A city is not saved by high walls alone, but by those willing to open the right gate. Whenever rain fell, Mei remembered the night Nanhe had chosen its people over its ruler.",
+          "chinese": "那年冬天，南河城先修復水道，才重建太守府。梅開始教導年輕製圖師，要他們勇於質疑危及人命的命令。她將父親的舊木牘掛在廟牆上，下面刻著一句話：「拯救一座城的，不只是高牆，還有願意打開正確水門的人。」此後每逢落雨，梅總會想起那一夜——南河城選擇了百姓，而非統治者。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 6,
+          "english": "Behind a loose stone, Master Wen found a wooden tablet signed by Mei's father, who had died during the last great flood. It described a third gate designed to send water away from homes. Its opening depended on the exact placement of three stone weights. The governor had hidden the gate because opening it would flood his private gardens. Mei stared at her father's name until the characters blurred through her tears.",
+          "chinese": "文師傅在一塊鬆動的石板後找到木牘，上頭竟有梅父親的署名。父親死於上一次大洪水，木牘記載他設計了第三道水門，能將河水導離民宅。水門能否開啟，取決於三塊石砣放置的位置。太守刻意隱瞞這座水門，因為一旦打開，他的私人園林就會被淹沒。梅凝視父親的名字，直到淚水模糊了字跡。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

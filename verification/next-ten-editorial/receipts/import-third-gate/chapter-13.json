@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 13,
+  "chapterId": "import-third-gate-13",
+  "sourceChapterSha256": "94912132a9d8fffb3fe800d765d64598905c94eabc8ac71e14dccda6c12e05b8",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "圍城缺水與醫藥時，醫者用舊酒罈儲水、提醒草藥過敏與同意，河泉開通後仍不把魚游動當飲水安全證據。",
+    "previousChapterEndingEnglish": "The captured messages later confirmed that the clerk was under coercion. Rescuing him seemed barely viable, yet the woman who had escaped offered a route through a drainage tunnel. Mei chose to try. At midnight a small team slipped beyond the wall and returned before dawn with the clerk and his family. The children who had arrived terrified now helped carry blankets for the new arrivals. An old soldier watching them wiped his eyes. The siege had not ended, and the kingdom was still divided. But within the city, strangers had begun to learn a different script: one in which survival did not require surrendering compassion.",
+    "nextChapterOpeningEnglish": "In the modern museum, An used a laser scanner to read writing hidden beneath a damaged scroll. The machine revealed a clause erased from a peace offer: the frontier commander had promised to spare Nanhe if its council surrendered the maps and the healer's records. A historian beside her called the language a masterpiece of empty rhetoric. It spoke of endless prosperity while permitting the commander to exploit prisoners for labor. An glared at the polished words. She could almost imagine Mei, centuries earlier, refusing to indulge a man who treated people as bargaining pieces."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "When the city ran short of clean water, its healers tried a conversion of abandoned wine jars into safe storage vessels. The idea seemed simple, but finding enough fuel for boiling placed a new burden on the kitchens. One healer reported a deficit of bandages and a growing number of patients with a strange fever syndrome. Mei requested an extension of the supply schedule while the council searched for new wells. The court's commander replied that the request was illegitimate because the city had refused his taxes. Mei read the letter twice, astonished that anyone could put pride ahead of sick children.",
+        "zh": "城裡乾淨水源告急，醫者便想把廢棄酒罈改造成儲水容器。辦法看似簡單，燒水所需的燃料卻加重公廚負擔。一名醫者報告繃帶短缺，奇怪的熱病症候群患者越來越多。梅要求延長補給時程，議會同時尋找新水井。王軍將領回信說南河拒稅，請求便不合法。梅把信讀了兩遍，驚訝竟有人將面子置於病童之前。",
+        "englishSha256": "d8d590a8b0d61af3cfdd6500747ae67a9c1a6408f4831f5194dca6834e80a002",
+        "chineseSha256": "963d1aaaca316d9d4232a05a360bdd588a2f65a6f48809e24d305f1ea0d513c3"
+      },
+      {
+        "number": 2,
+        "en": "At the shelter, a young performer entertained the children with shadow puppets. One puppet carried an enormous lump of bread, another a tiny mattress, and the villain stole both. The children laughed until a girl developed a violent rash. Her mother explained that she was allergic to a certain herb used in the soup. The healer quickly changed the meal and waited for her condition to improve. “Never utilize a remedy without learning whom it may harm,” he told his apprentices. “Good intentions are not enough. Care requires knowledge, attention, and consent.”",
+        "zh": "避難所裡，一位年輕表演者用皮影戲哄孩子。戲偶抱著一大塊麵包和一張小床墊，反派卻把兩者搶走。孩子們笑個不停，直到一名女孩突然起嚴重疹子。母親說她對湯裡某種藥草過敏。醫者立刻換餐，觀察她的恢復情況。「不了解可能傷害誰，就別使用療方，」他告誡學徒，「善意不足以治病。照護需要知識、注意，也需要同意。」",
+        "englishSha256": "238f527bfc88eedf16f3fff0fce823c385c2eb11d3763a45085934cf2a0d7884",
+        "chineseSha256": "cd798dd6f27089e6c768e259d8bd2fe4682b952004b10b8e6d79799fd6aefd70"
+      },
+      {
+        "number": 3,
+        "en": "Outside, the siege continued with miserable regularity. The people developed a preference for routines that helped them measure time: a morning bell, an afternoon meal, a short performance before bed. Yet pessimism spread whenever another messenger returned without supplies. Master Wen, who had remained sober despite the festival wine given to defenders, asked Mei to study the western hill. In old records he found acknowledgment of a spring that had once supplied the palace gardens. If the records were accurate, a blocked channel might be reopened from inside the wall.",
+        "zh": "城外圍攻仍規律而痛苦地持續。百姓開始偏好能幫助計算日子的習慣：晨鐘、午後一餐、睡前短戲。但每當信使空手返回，悲觀便蔓延。文師傅沒有飲用守城者分到的節慶酒，始終保持清醒，請梅查看西丘。他在舊紀錄中找到對一眼泉水的記載，那曾供應宮苑。若紀錄準確，城內就能重新打通堵住的水道。",
+        "englishSha256": "7da80852d622a4f86b1e0c4e5e531f90477d8e49e7b0f98aa91e6b1025fed30c",
+        "chineseSha256": "b955c5812d13cdba7dcc81b6768c6e7051950c0fb240ff786e5dc2f58c853a31"
+      },
+      {
+        "number": 4,
+        "en": "Mei and the healer asked the residents for permission to open a tunnel beneath their homes. They were considerate of families who feared collapse, and they marked every house whose foundation might be affected. The council offered temporary rooms and promised compensation for damage. A few households declined; their consent mattered even when the city's need was urgent. At last twelve families agreed. The builders cut through clay, listening for the sound of hidden water. Near midnight a thin stream appeared. The workers almost shouted, but Mei held up her hand and listened carefully.",
+        "zh": "梅與醫者逐戶請求同意，允許從住家下方開地道。他們顧及居民害怕坍塌的心情，標出可能影響地基的房子。議會提供臨時住所並承諾賠償。少數人拒絕，即使全城危急，這份不同意也有分量。終於十二戶答應。工人鑿開黏土，細聽地下水聲。將近午夜，一股細流湧現。眾人差點歡呼，梅卻舉手示意安靜聽。",
+        "englishSha256": "336af37571f22b582250345ef217a8f62b3c5f39b39216287a1e294e5fb1aa7e",
+        "chineseSha256": "668543b9fc58c45936677fd90522a0f15376fe2868ab6b8f7faa63d82b5aa740"
+      },
+      {
+        "number": 5,
+        "en": "The healer took one extra precaution before opening the old spring: he asked the builders to bring a live fish from the river and place it in a bowl of the new water. When the fish continued swimming, he reminded them that this was not proof the water was completely safe. Boiling and careful observation were still necessary. Mei found his caution reassuring. “Hence we should give the families a choice about using the new well,” she said. He agreed and drew up a notice explaining what they knew and what remained uncertain. Even the right to refuse an unfamiliar supply was legitimate when the risk had not been fully measured. Mei thought about how often rulers confused obedience with trust. By giving people information, the council might earn cooperation without demanding blind faith.",
+        "zh": "醫者在打開古泉前多做一項預防：叫工人從河裡帶一尾活魚，放進新泉水的碗裡。魚繼續游動，他卻提醒，這不能證明水完全安全，仍需煮沸與仔細觀察。梅對他的謹慎感到安心。「因此，也該讓家庭自行決定要不要先用新井。」醫者同意，寫下目前知道與未知的部分。在風險尚未測清時，拒絕使用陌生水源也是正當權利。梅想起統治者常把服從和信任混為一談。讓人獲得資訊，也許就能不靠盲從而得到合作。",
+        "englishSha256": "06590feb1410d567e6eb19c8977f7f0d37adf8bccccd7516ec29af64de0cd220",
+        "chineseSha256": "972ff63fdc75caf3bb4806bfe4b8536feaa901a3e5c66f782d63e7302594f081"
+      },
+      {
+        "number": 6,
+        "en": "The water was moving toward the city, not away from it. Someone had sealed the old spring from the far side. Mei understood that the enemy was trying to make thirst accomplish what swords could not. Rather than conceal the discovery, she asked the healer to explain the risks publicly in a format everyone could understand. The council voted to protect the spring and continue treating prisoners who arrived ill. “We cannot choose which lives deserve water,” Mei said. Her statement was brief, but it became the moral center of the city's defense.",
+        "zh": "水流朝城市而來，而不是向外流。有人從另一端封住古泉。梅明白，敵人想讓乾渴完成刀劍做不到的事。她沒有隱瞞，而是請醫者用人人聽得懂的形式公開說明風險。議會表決守住泉水，並繼續治療病重的敵方俘虜。「我們不能決定哪種人有資格喝水。」梅說。話雖短，卻成了南河守城的道德核心。",
+        "englishSha256": "fa0d84c0ff3ad0a6cd76a337161a48efe4347d790a6625166ccb345d7da8d0e0",
+        "chineseSha256": "4b7989e06c9dbfe33eaf96ed80262272195ac07ef97a8dffddea77ef9e9c3bf5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 605,
+    "targets": [
+      {
+        "word": "acknowledgment",
+        "meaning": "承認；致謝",
+        "appearsInSource": true
+      },
+      {
+        "word": "allergic",
+        "meaning": "過敏的",
+        "appearsInSource": true
+      },
+      {
+        "word": "astonished",
+        "meaning": "驚訝；驚奇",
+        "appearsInSource": true
+      },
+      {
+        "word": "consent",
+        "meaning": "同意；准許",
+        "appearsInSource": true
+      },
+      {
+        "word": "considerate",
+        "meaning": "體貼的",
+        "appearsInSource": true
+      },
+      {
+        "word": "conversion",
+        "meaning": "轉換；改造",
+        "appearsInSource": true
+      },
+      {
+        "word": "deficit",
+        "meaning": "短缺；赤字",
+        "appearsInSource": true
+      },
+      {
+        "word": "extension",
+        "meaning": "延長；延期",
+        "appearsInSource": true
+      },
+      {
+        "word": "format",
+        "meaning": "形式；格式",
+        "appearsInSource": true
+      },
+      {
+        "word": "hence",
+        "meaning": "因此；由此",
+        "appearsInSource": true
+      },
+      {
+        "word": "legitimate",
+        "meaning": "合法合理的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lump",
+        "meaning": "塊；團",
+        "appearsInSource": true
+      },
+      {
+        "word": "mattress",
+        "meaning": "床墊",
+        "appearsInSource": true
+      },
+      {
+        "word": "performer",
+        "meaning": "表演者",
+        "appearsInSource": true
+      },
+      {
+        "word": "pessimism",
+        "meaning": "悲觀情緒",
+        "appearsInSource": true
+      },
+      {
+        "word": "precaution",
+        "meaning": "預防措施",
+        "appearsInSource": true
+      },
+      {
+        "word": "preference",
+        "meaning": "偏好",
+        "appearsInSource": true
+      },
+      {
+        "word": "sober",
+        "meaning": "清醒的；未醉的",
+        "appearsInSource": true
+      },
+      {
+        "word": "syndrome",
+        "meaning": "症候群",
+        "appearsInSource": true
+      },
+      {
+        "word": "utilize",
+        "meaning": "使用；運用",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Healer's Consent〉第 1 段的事件，哪個選項能正確補完整句？\nThe idea seemed simple, but finding enough fuel for boiling placed ____ on the kitchens.",
+      "options": [
+        "a new burden",
+        "a nomination",
+        "a new research file"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a new burden",
+      "existingAnswerExplanation": "原文證據：The idea seemed simple, but finding enough fuel for boiling placed a new burden on the kitchens.\n本段對照：城裡乾淨水源告急，醫者便想把廢棄酒罈改造成儲水容器。辦法看似簡單，燒水所需的燃料卻加重公廚負擔。一名醫者報告繃帶短缺，奇怪的熱病症候群患者越來越多。梅要求延長補給時程，議會同時尋找新水井。王軍將領回信說南河拒稅，請求便不合法。梅把信讀了兩遍，驚訝竟有人將面子置於病童之前。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "When the city ran short of clean water, its healers tried a conversion of abandoned wine jars into safe storage vessels. The idea seemed simple, but finding enough fuel for boiling placed a new burden on the kitchens. One healer reported a deficit of bandages and a growing number of patients with a strange fever syndrome. Mei requested an extension of the supply schedule while the council searched for new wells. The court's commander replied that the request was illegitimate because the city had refused his taxes. Mei read the letter twice, astonished that anyone could put pride ahead of sick children.",
+          "chinese": "城裡乾淨水源告急，醫者便想把廢棄酒罈改造成儲水容器。辦法看似簡單，燒水所需的燃料卻加重公廚負擔。一名醫者報告繃帶短缺，奇怪的熱病症候群患者越來越多。梅要求延長補給時程，議會同時尋找新水井。王軍將領回信說南河拒稅，請求便不合法。梅把信讀了兩遍，驚訝竟有人將面子置於病童之前。",
+          "matchedQueryTerms": 16
+        },
+        {
+          "paragraph": 2,
+          "english": "At the shelter, a young performer entertained the children with shadow puppets. One puppet carried an enormous lump of bread, another a tiny mattress, and the villain stole both. The children laughed until a girl developed a violent rash. Her mother explained that she was allergic to a certain herb used in the soup. The healer quickly changed the meal and waited for her condition to improve. “Never utilize a remedy without learning whom it may harm,” he told his apprentices. “Good intentions are not enough. Care requires knowledge, attention, and consent.”",
+          "chinese": "避難所裡，一位年輕表演者用皮影戲哄孩子。戲偶抱著一大塊麵包和一張小床墊，反派卻把兩者搶走。孩子們笑個不停，直到一名女孩突然起嚴重疹子。母親說她對湯裡某種藥草過敏。醫者立刻換餐，觀察她的恢復情況。「不了解可能傷害誰，就別使用療方，」他告誡學徒，「善意不足以治病。照護需要知識、注意，也需要同意。」",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Healer's Consent〉第 6 段的事件，哪個選項能正確補完整句？\nHer statement was brief, but it became ____.",
+      "options": [
+        "the record less glamorous than the bronze seals",
+        "the moral center of the city's defense",
+        "the wooden tablet into the public square"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the moral center of the city's defense",
+      "existingAnswerExplanation": "原文證據：Her statement was brief, but it became the moral center of the city's defense.\n本段對照：水流朝城市而來，而不是向外流。有人從另一端封住古泉。梅明白，敵人想讓乾渴完成刀劍做不到的事。她沒有隱瞞，而是請醫者用人人聽得懂的形式公開說明風險。議會表決守住泉水，並繼續治療病重的敵方俘虜。「我們不能決定哪種人有資格喝水。」梅說。話雖短，卻成了南河守城的道德核心。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The water was moving toward the city, not away from it. Someone had sealed the old spring from the far side. Mei understood that the enemy was trying to make thirst accomplish what swords could not. Rather than conceal the discovery, she asked the healer to explain the risks publicly in a format everyone could understand. The council voted to protect the spring and continue treating prisoners who arrived ill. “We cannot choose which lives deserve water,” Mei said. Her statement was brief, but it became the moral center of the city's defense.",
+          "chinese": "水流朝城市而來，而不是向外流。有人從另一端封住古泉。梅明白，敵人想讓乾渴完成刀劍做不到的事。她沒有隱瞞，而是請醫者用人人聽得懂的形式公開說明風險。議會表決守住泉水，並繼續治療病重的敵方俘虜。「我們不能決定哪種人有資格喝水。」梅說。話雖短，卻成了南河守城的道德核心。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 4,
+          "english": "Mei and the healer asked the residents for permission to open a tunnel beneath their homes. They were considerate of families who feared collapse, and they marked every house whose foundation might be affected. The council offered temporary rooms and promised compensation for damage. A few households declined; their consent mattered even when the city's need was urgent. At last twelve families agreed. The builders cut through clay, listening for the sound of hidden water. Near midnight a thin stream appeared. The workers almost shouted, but Mei held up her hand and listened carefully.",
+          "chinese": "梅與醫者逐戶請求同意，允許從住家下方開地道。他們顧及居民害怕坍塌的心情，標出可能影響地基的房子。議會提供臨時住所並承諾賠償。少數人拒絕，即使全城危急，這份不同意也有分量。終於十二戶答應。工人鑿開黏土，細聽地下水聲。將近午夜，一股細流湧現。眾人差點歡呼，梅卻舉手示意安靜聽。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

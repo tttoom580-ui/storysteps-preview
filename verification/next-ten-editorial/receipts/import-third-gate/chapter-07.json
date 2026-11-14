@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 7,
+  "chapterId": "import-third-gate-7",
+  "sourceChapterSha256": "9eb93347efedfe37a790f9ab05875e7b3b3febe205a619d8682b99c0ec8f4135",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "春天船主聯盟以假海盜事件想獨占蘆葦湖，睿帶回領航員沈，三船夫與付款帳目證實雇人破壞，湖區重開共享。",
+    "previousChapterEndingEnglish": "The council voted to send food and doctors to the border, but no troops until an independent inquiry could confirm the danger. Mei signed the letter with a shaking hand. For the first time she understood why her father had kept duplicate maps: evidence could repay courage long after the person who collected it was gone. At dawn, Rui departed with the sealed decision. His route crossed wild hills where thieves watched the road, yet he smiled as he set out. “If the border is where orders become violence,” he told Mei, “it is also where they can become questions.”",
+    "nextChapterOpeningEnglish": "A delegation from the royal capital arrived carrying a patent granting exclusive use of a new waterwheel. The document bore gold thread and an impressive seal, but Mei wondered why a machine powered by a public river should benefit a single household. An undergraduate from the academy, visiting to learn about local engineering, offered to translate its most difficult clauses. He spoke with unusual fluency for a student of old technical language. Together they discovered that the patent claimed not only the wheel but also any improvement derived from it. That would have made nearly every future invention a debt to the court."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Spring brought an unexpected controversy to the riverside council. A league of boat owners wanted exclusive rights to the reed lake, claiming that pirates had made ordinary transport impossible. Their evidence was a row of damaged vessels, each with a sturdy plank torn from its side. Mei entered the old corridor beneath the eastern tower to examine the boats' records and noticed that the reported attacks all occurred on moonless nights. More strangely, the company had withdrawn its own guards immediately before each incident. The pattern suggested corruption, not simply bad luck.",
+        "zh": "春天，河岸議會爆發爭議。船主聯盟要求獨占蘆葦湖的航權，聲稱海盜讓一般運輸無法進行。他們搬出一排受損的船，每艘側邊都有結實木板被撕下。梅進入東塔下的老通道翻查船籍，發現所有襲擊都發生在無月夜。更奇怪的是，每次出事前，船行都會先撤走自己的守衛。這模式像是腐敗勾結，而不只是運氣不好。",
+        "englishSha256": "c147d9bd481923cfe78d16cfc08dfddb4efd7186b7ad238535030053b76ef493",
+        "chineseSha256": "047871255a1f9cfae2d7a80ab973b9ef39b1efc86c7b67ce2adab682ee7d4291"
+      },
+      {
+        "number": 2,
+        "en": "Rui returned from the frontier with a prisoner in his custody: a young navigator accused of directing the pirates. His name was Shen. He claimed that boat owners had hired the attackers, then blamed fishermen to gain control of the lake. Mei could not confirm his story, but his expertise in shallow water was unmistakable. He drew a map of hidden inlets and showed where someone had disconnected the warning bell from its rope. The bell itself had not been stolen. Its silence had been arranged by someone who knew the dock's infrastructure from the inside.",
+        "zh": "睿從邊境回來，押著一名被控指揮海盜的年輕領航員沈。他說船主雇人襲擊，再把罪名推給漁民，好接管湖區。梅還無法證實，但沈熟悉淺灘的專業本事無庸置疑。他畫出隱密水道，指出有人在何處拆斷警鐘繩索。鐘並未被偷，而是熟悉碼頭基礎設施的人故意讓它沉默。",
+        "englishSha256": "1647fb660931d1b77f127b52fc4dc44a552ad4653a17fc9bffc62f130e4c8a31",
+        "chineseSha256": "19a064e57b97281ac414e6ebee03c933d30612dce5037bff630efaa105d7994d"
+      },
+      {
+        "number": 3,
+        "en": "At the lake villages, Mei tasted fish cooked in a local cuisine she had never encountered. The villagers told her that their knowledge was derived from generations of watching wind and water. Without these guides, the city's grain barges would have grounded. Yet the league had removed their names from contracts, and the recipients of the profits were all wealthy men in town. The proposed removal of fishing families would destroy the very skills upon which trade depended. Mei realized that the villages were indispensable to Nanhe, even though official maps scarcely acknowledged them.",
+        "zh": "在湖邊村莊，梅吃到從未嘗過的地方魚料理。村民說，他們的知識源自祖祖輩輩觀察風向水勢。沒有這些領航者，城裡運糧船早就擱淺。然而，船主聯盟把他們的名字從契約裡抹去，利潤受益人全是城中的富戶。若逐走漁村，貿易賴以維生的技藝也會消失。梅這才明白，村民對南河不可或缺，官方地圖卻幾乎不記載他們。",
+        "englishSha256": "542435c569789dca3fceb55bf4bdc62393113881e01a9ed9afd1262983748daa",
+        "chineseSha256": "1950f064be05a42d527d8326519cc43371bb6555d1f03410679d82eaaf84938d"
+      },
+      {
+        "number": 4,
+        "en": "A fever began to infect the crowded prison, giving the council little time. Mei ordered Shen moved to the temple and placed witnesses under protection. She also asked a carpenter to reconstruct the bell rope from its cut ends. His demonstration showed that the rope had been sliced neatly, not broken in a storm. The discovery aroused anger among the boatmen, but Mei warned them against punishing anyone before the evidence was heard. “An array of rumors is not a verdict,” she said. “We need witnesses willing to stand where their words can be tested.”",
+        "zh": "監牢裡擠滿人，熱病開始感染囚犯，議會不能再拖。梅命人把沈移往寺院，讓證人接受保護，並請木匠重接斷掉的鐘繩。木匠證明繩子是被整齊割斷，並非風雨扯斷。發現激起船夫怒火，但梅提醒他們，證據未呈堂前不可先定罪。「一大堆流言不是判決，」她說，「我們需要肯公開接受檢驗的證人。」",
+        "englishSha256": "dd714af3907c15db0e5e89d4566628179fa5a0fdee4e12f6b05cd72b4dee9023",
+        "chineseSha256": "4b27ade05f030f8c4a56b25d55324bdee4c475daebd1b60f2c6d306e61015ac8"
+      },
+      {
+        "number": 5,
+        "en": "The rescued navigator asked whether he could return to the lake immediately. Mei wanted to agree, but his testimony placed him in danger from the men who had employed the attackers. Instead she arranged safe lodging with the cook's family and gave him a copy of the hearing record. “I have spent my life steering other people's boats,” Shen said. “Now everyone seems eager to steer me.” Mei apologized. They agreed he would choose his next journey after speaking with his family, not before. This was a small lesson for the council: even protection could become another form of control when officials forgot to ask the person involved. A corrupt official could use the language of safety to hide a selfish bargain. On the following morning, Shen taught three apprentices how to read the current beneath floating leaves. His knowledge was no longer treated as a secret belonging to the powerful, and the children listened with the seriousness of people entrusted with a future.",
+        "zh": "獲救的領航員問能否立刻返湖。梅想答應，但他的證詞讓他成了船主報復的目標。她先安排他住在掌廚家，並給他一份聽證紀錄。「我這輩子都替別人掌船，」沈說，「如今人人又急著替我掌方向。」梅道歉。兩人約定，他和家人談過後自行決定旅程。這讓議會學到小小一課：若不詢問當事人，連保護都可能變成控制。腐敗的官員更可能拿安全當藉口，藏住自私交易。翌晨，沈教三名學徒看浮葉下方的水流。那知識不再是權勢者的祕密，孩子們也以承接未來般的認真神情聽講。",
+        "englishSha256": "50fd21e2598340dd8296adfb3ca18ae5d41d4a91f9de768b47adce580976174d",
+        "chineseSha256": "4c37624052885bfdb1ed00740dc6f603adabc4454a4a22531bacd9ef2993729a"
+      },
+      {
+        "number": 6,
+        "en": "At the hearing, three boatmen testified that their employers had ordered the attacks. The league's director admitted the scheme when shown the payment records. Shen was released. Instead of demanding revenge, he proposed a tournament of river skills where village guides could teach the city's apprentices. Mei supported the plan as a worthwhile beginning, but she did not mistake celebration for justice. The contracts were rewritten, the dock officers replaced, and the lake opened to shared use. The next time its bell rang, even people in the poorest streets knew what the sound meant: the road by water belonged to more than one family.",
+        "zh": "聽證時，三名船夫證實雇主下令襲擊。聯盟主事人看見付款帳冊後承認計畫。沈被釋放，沒有急著報復，反而提議辦一場河上技藝競賽，讓村落領航員教導城中學徒。梅認為值得一試，但不把慶祝當正義。契約重寫，港吏撤換，湖區改為共同使用。下次警鐘響起時，連最窮街區的人都知道那聲音意味著什麼：水路不只屬於一家一族。",
+        "englishSha256": "c856ec8ffe0f83302151cf8c3195f53de2d1dc29fb1dbff4811342702f0a1a7c",
+        "chineseSha256": "c452ad7cf7f6eee820c28e2b3ed3b94a4474332370f4b36e2e80f31b83db67da"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 645,
+    "targets": [
+      {
+        "word": "aroused",
+        "meaning": "喚起；激起",
+        "appearsInSource": true
+      },
+      {
+        "word": "array",
+        "meaning": "一排；一系列",
+        "appearsInSource": true
+      },
+      {
+        "word": "controversy",
+        "meaning": "爭議",
+        "appearsInSource": true
+      },
+      {
+        "word": "corridor",
+        "meaning": "通道；走廊",
+        "appearsInSource": true
+      },
+      {
+        "word": "corrupt",
+        "meaning": "腐敗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cuisine",
+        "meaning": "地方菜餚",
+        "appearsInSource": true
+      },
+      {
+        "word": "custody",
+        "meaning": "拘留；監護",
+        "appearsInSource": true
+      },
+      {
+        "word": "derived",
+        "meaning": "衍生；源自",
+        "appearsInSource": true
+      },
+      {
+        "word": "disconnected",
+        "meaning": "拆斷；切斷連結",
+        "appearsInSource": true
+      },
+      {
+        "word": "expertise",
+        "meaning": "專業知識",
+        "appearsInSource": true
+      },
+      {
+        "word": "indispensable",
+        "meaning": "不可或缺的",
+        "appearsInSource": true
+      },
+      {
+        "word": "infect",
+        "meaning": "感染",
+        "appearsInSource": true
+      },
+      {
+        "word": "infrastructure",
+        "meaning": "基礎設施",
+        "appearsInSource": true
+      },
+      {
+        "word": "league",
+        "meaning": "聯盟",
+        "appearsInSource": true
+      },
+      {
+        "word": "pirates",
+        "meaning": "海盜",
+        "appearsInSource": true
+      },
+      {
+        "word": "recipients",
+        "meaning": "收受者；受益人",
+        "appearsInSource": true
+      },
+      {
+        "word": "removal",
+        "meaning": "移除；驅逐",
+        "appearsInSource": true
+      },
+      {
+        "word": "sturdy",
+        "meaning": "結實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tournament",
+        "meaning": "競賽；錦標賽",
+        "appearsInSource": true
+      },
+      {
+        "word": "worthwhile",
+        "meaning": "值得做的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Pirates of Reed Lake〉第 1 段的事件，哪個選項能正確補完整句？\nSpring brought ____ to the riverside council.",
+      "options": [
+        "An an old metal rail embedded",
+        "An through an open window",
+        "an unexpected controversy"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "an unexpected controversy",
+      "existingAnswerExplanation": "原文證據：Spring brought an unexpected controversy to the riverside council.\n本段對照：春天，河岸議會爆發爭議。船主聯盟要求獨占蘆葦湖的航權，聲稱海盜讓一般運輸無法進行。他們搬出一排受損的船，每艘側邊都有結實木板被撕下。梅進入東塔下的老通道翻查船籍，發現所有襲擊都發生在無月夜。更奇怪的是，每次出事前，船行都會先撤走自己的守衛。這模式像是腐敗勾結，而不只是運氣不好。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Spring brought an unexpected controversy to the riverside council. A league of boat owners wanted exclusive rights to the reed lake, claiming that pirates had made ordinary transport impossible. Their evidence was a row of damaged vessels, each with a sturdy plank torn from its side. Mei entered the old corridor beneath the eastern tower to examine the boats' records and noticed that the reported attacks all occurred on moonless nights. More strangely, the company had withdrawn its own guards immediately before each incident. The pattern suggested corruption, not simply bad luck.",
+          "chinese": "春天，河岸議會爆發爭議。船主聯盟要求獨占蘆葦湖的航權，聲稱海盜讓一般運輸無法進行。他們搬出一排受損的船，每艘側邊都有結實木板被撕下。梅進入東塔下的老通道翻查船籍，發現所有襲擊都發生在無月夜。更奇怪的是，每次出事前，船行都會先撤走自己的守衛。這模式像是腐敗勾結，而不只是運氣不好。",
+          "matchedQueryTerms": 21
+        },
+        {
+          "paragraph": 2,
+          "english": "Rui returned from the frontier with a prisoner in his custody: a young navigator accused of directing the pirates. His name was Shen. He claimed that boat owners had hired the attackers, then blamed fishermen to gain control of the lake. Mei could not confirm his story, but his expertise in shallow water was unmistakable. He drew a map of hidden inlets and showed where someone had disconnected the warning bell from its rope. The bell itself had not been stolen. Its silence had been arranged by someone who knew the dock's infrastructure from the inside.",
+          "chinese": "睿從邊境回來，押著一名被控指揮海盜的年輕領航員沈。他說船主雇人襲擊，再把罪名推給漁民，好接管湖區。梅還無法證實，但沈熟悉淺灘的專業本事無庸置疑。他畫出隱密水道，指出有人在何處拆斷警鐘繩索。鐘並未被偷，而是熟悉碼頭基礎設施的人故意讓它沉默。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Pirates of Reed Lake〉第 5 段的事件，哪個選項能正確補完整句？\nOn the following morning, Shen taught three apprentices how to read ____.",
+      "options": [
+        "the current beneath floating leaves",
+        "the retired teacher",
+        "the old documents"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the current beneath floating leaves",
+      "existingAnswerExplanation": "原文證據：On the following morning, Shen taught three apprentices how to read the current beneath floating leaves.\n本段對照：獲救的領航員問能否立刻返湖。梅想答應，但他的證詞讓他成了船主報復的目標。她先安排他住在掌廚家，並給他一份聽證紀錄。「我這輩子都替別人掌船，」沈說，「如今人人又急著替我掌方向。」梅道歉。兩人約定，他和家人談過後自行決定旅程。這讓議會學到小小一課：若不詢問當事人，連保護都可能變成控制。腐敗的官員更可能拿安全當藉口，藏住自私交易。翌晨，沈教三名學徒看浮葉下方的水流。那知識不再是權勢者的祕密，孩子們也以承接未來般的認真神情聽講。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "The rescued navigator asked whether he could return to the lake immediately. Mei wanted to agree, but his testimony placed him in danger from the men who had employed the attackers. Instead she arranged safe lodging with the cook's family and gave him a copy of the hearing record. “I have spent my life steering other people's boats,” Shen said. “Now everyone seems eager to steer me.” Mei apologized. They agreed he would choose his next journey after speaking with his family, not before. This was a small lesson for the council: even protection could become another form of control when officials forgot to ask the person involved. A corrupt official could use the language of safety to hide a selfish bargain. On the following morning, Shen taught three apprentices how to read the current beneath floating leaves. His knowledge was no longer treated as a secret belonging to the powerful, and the children listened with the seriousness of people entrusted with a future.",
+          "chinese": "獲救的領航員問能否立刻返湖。梅想答應，但他的證詞讓他成了船主報復的目標。她先安排他住在掌廚家，並給他一份聽證紀錄。「我這輩子都替別人掌船，」沈說，「如今人人又急著替我掌方向。」梅道歉。兩人約定，他和家人談過後自行決定旅程。這讓議會學到小小一課：若不詢問當事人，連保護都可能變成控制。腐敗的官員更可能拿安全當藉口，藏住自私交易。翌晨，沈教三名學徒看浮葉下方的水流。那知識不再是權勢者的祕密，孩子們也以承接未來般的認真神情聽講。",
+          "matchedQueryTerms": 23
+        },
+        {
+          "paragraph": 1,
+          "english": "Spring brought an unexpected controversy to the riverside council. A league of boat owners wanted exclusive rights to the reed lake, claiming that pirates had made ordinary transport impossible. Their evidence was a row of damaged vessels, each with a sturdy plank torn from its side. Mei entered the old corridor beneath the eastern tower to examine the boats' records and noticed that the reported attacks all occurred on moonless nights. More strangely, the company had withdrawn its own guards immediately before each incident. The pattern suggested corruption, not simply bad luck.",
+          "chinese": "春天，河岸議會爆發爭議。船主聯盟要求獨占蘆葦湖的航權，聲稱海盜讓一般運輸無法進行。他們搬出一排受損的船，每艘側邊都有結實木板被撕下。梅進入東塔下的老通道翻查船籍，發現所有襲擊都發生在無月夜。更奇怪的是，每次出事前，船行都會先撤走自己的守衛。這模式像是腐敗勾結，而不只是運氣不好。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

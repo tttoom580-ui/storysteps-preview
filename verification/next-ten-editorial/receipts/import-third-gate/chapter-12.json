@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 12,
+  "chapterId": "import-third-gate-12",
+  "sourceChapterSha256": "1586646f1f669190d5b07190a9f418bd6824a3d49b19ba51c0c69ddc1db30143",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "圍城首夜有兩童與傳教婦人逃回，梅保護不同信仰和口音，查失蹤糧吏是否被脅迫，見證後護送家屬返城。",
+    "previousChapterEndingEnglish": "The first enemy scouts appeared at sunset. Huo watched them from the tower, then sent a messenger down to Mei. “The water plan may work,” he said, “but only if the last gate survives.” She inspected its hinges one more time and felt the cold metal beneath her fingers. All their preparations could fail because of a single weak pin. She wondered how historians would judge them: as rebels, defenders, or merely frightened citizens doing their best. Then she heard children singing in the shelter and stopped wondering. The gate, like history, could only be opened by hands willing to act.",
+    "nextChapterOpeningEnglish": "When the city ran short of clean water, its healers tried a conversion of abandoned wine jars into safe storage vessels. The idea seemed simple, but finding enough fuel for boiling placed a new burden on the kitchens. One healer reported a deficit of bandages and a growing number of patients with a strange fever syndrome. Mei requested an extension of the supply schedule while the council searched for new wells. The court's commander replied that the request was illegitimate because the city had refused his taxes. Mei read the letter twice, astonished that anyone could put pride ahead of sick children."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The first night of the siege, a soldier arrived at the southern gate with two children and a woman whose wrists bore rope marks. They had escaped men who kidnapped villagers to use as hostages. The woman was a missionary from a distant faith community, accused by the frontier army of spreading dangerous ideas. Mei cared less about her religion than about her injuries. She brought the three inside, gave them warm food, and asked an observer to record their words before memories faded. The children could scarcely speak, but one clutched a folded script from a traveling play.",
+        "zh": "圍城第一夜，一名士兵帶著兩個孩子和一位手腕留有繩痕的婦人抵達南門。他們逃離擄人當人質的軍隊。婦人是遠方宗教團體的傳教者，被邊境軍指控傳播危險思想。梅在意的不是信仰，而是她的傷。她帶三人入城、給熱食，請觀察員趁記憶未模糊前記下證詞。孩子幾乎說不出話，其中一人緊抓著一份巡迴戲班的劇本。",
+        "englishSha256": "afd8bb639247dd5530cd5d3577fef17f0cce4dd268c79a9ddf6cffcf6775cb1d",
+        "chineseSha256": "81e32f29c0f26d2da4aeda6db46216c2191e378e72372af69bf30be6fb757e8f"
+      },
+      {
+        "number": 2,
+        "en": "The play described a kingdom where slavery was accepted as a normal part of life. Its villain was a nobleman who believed people could be bought like livestock. The missionary said the children had been made to perform it for the soldiers, who laughed at the cruel lines. A guard called their account abnormal and claimed everyone exaggerated during war. Mei confronted him: what was called the norm in a violent camp did not become right merely because many people obeyed it. She asked the guard to acquaint himself with the evidence before judging witnesses he had never met.",
+        "zh": "那戲講的是一個把奴隸制度當成常態的國家。反派貴族相信人可像牲口般買賣。婦人說，孩子被迫在士兵面前演出，士兵聽到殘酷台詞便哈哈大笑。一名守衛說證詞異常，戰時人人都會誇大。梅當面反駁：暴力軍營中的「常態」，不會因許多人服從就變得正當。她要守衛先熟悉證據，再評判從未見過的證人。",
+        "englishSha256": "a4c5cae4aaf6400926595287750788bc692bfcbeb6ccc1758c506e8ab9c73e22",
+        "chineseSha256": "bf5e314f79d988550030dd136eba05959ea5731caeefa0ef6885b5b8ba8302fc"
+      },
+      {
+        "number": 3,
+        "en": "As the attack intensified, an iron bolt struck the wooden door above them. The children screamed, and Mei led them deeper into a storage tunnel. It was not compatible with ordinary shelter plans; the passage was narrow and its air stale. But from there she could reach a stock of blankets and grain without crossing the open yard. The younger child mumbled that he had seen a man from the council inside the enemy camp. Mei stopped. “Which man?” she asked gently. He described a scar above the left eye—the same scar worn by a grain clerk who had recently vanished.",
+        "zh": "敵襲加劇，鐵製弩栓撞上頭頂木門。孩子尖叫，梅帶他們深入儲藏地道。這條通道不符合一般避難設施標準，狹窄而空氣混濁，卻能不用穿過露天院子就抵達毯子和穀物倉。小男孩含糊說，他曾在敵營看見一名議會的人。梅停住腳步，輕聲問：「哪一個？」孩子描述左眼上方有疤——與最近失蹤的一名糧吏相同。",
+        "englishSha256": "395c5ca8fe95e3a289ee0bc3a7ee488d1271b9850f0cb589a9b4245429ac6bf7",
+        "chineseSha256": "ba7b99b624728cb7a07fe97dd27562c49e54336d833430531f5bb3756131f2f5"
+      },
+      {
+        "number": 4,
+        "en": "A council investigator warned Mei not to publish the accusation immediately. She agreed. The matter required careful handling because suspicion could turn into discrimination against anyone whose family had ties across the border. She summoned two independent observers and asked them to compare the boy's description with employment records. When a second witness mentioned the same scar, the evidence became stronger. Still, Mei refused to call the missing clerk a traitor until they knew whether he had gone willingly. It was possible he had been forced to carry messages under threat to his own children.",
+        "zh": "一名議會調查員提醒梅不可立即公布指控，她同意了。因為猜疑很容易變成對跨境家庭的歧視。她找來兩名獨立觀察員，請他們拿男孩的描述比對人事資料。第二位證人也提到同一道疤痕，證據便更有力。但梅仍拒絕在查明意願前稱那名糧吏是叛徒。他也可能是自己的孩子遭威脅，被迫傳送消息。",
+        "englishSha256": "b5919bfeffa9aa3334c0d34597c50c287c6231137bb279af4c868ba1b7297442",
+        "chineseSha256": "ef3464301d3621e941654fdec396784d2b4b43fa7176ecda1f8695742314c211"
+      },
+      {
+        "number": 5,
+        "en": "Among the children, one had crossed the continental mountains from a distant eastern province. His accent differed from those of Nanhe, and he became shy whenever others asked him to repeat a word. Mei told the teachers to invite questions without turning the boy into entertainment. During the next shadow play, the performer asked each viewer to describe a different detail of the same scene. One child remembered a red lantern; another noticed a broken bridge; the boy from the mountains saw a bird above the roof. Their answers produced a sensation of surprise among the adults. People could watch the same event and truthfully remember different things. Mei carried that lesson back to the investigation of the missing clerk, determined to compare accounts rather than force them into identical sentences.",
+        "zh": "孩子之中，一人越過大陸山脈，從遙遠東省而來，口音與南河不同，每逢被要求重複某個字就害羞。梅請教師容許提問，卻不要把男孩當笑料。下次皮影戲，表演者請每位觀眾說出同一場景的一個細節：有人記得紅燈籠，有人看到斷橋，山裡來的男孩注意到屋頂飛鳥。大人們一陣驚訝。同一事件，旁觀者可以真誠記住不同東西。梅把這教訓帶回糧吏調查，決定交叉比對證詞，而非逼人說得一模一樣。",
+        "englishSha256": "5e99f7a6da5adcffe810df3b7cd19c112f49ff7389fdc088cb515987f2429687",
+        "chineseSha256": "86a6c03d9e8d5b0071545c4000f45725de0d3b60f91f0e9457b94a3b909a42e5"
+      },
+      {
+        "number": 6,
+        "en": "The captured messages later confirmed that the clerk was under coercion. Rescuing him seemed barely viable, yet the woman who had escaped offered a route through a drainage tunnel. Mei chose to try. At midnight a small team slipped beyond the wall and returned before dawn with the clerk and his family. The children who had arrived terrified now helped carry blankets for the new arrivals. An old soldier watching them wiped his eyes. The siege had not ended, and the kingdom was still divided. But within the city, strangers had begun to learn a different script: one in which survival did not require surrendering compassion.",
+        "zh": "截獲的信件後來證實，糧吏受人脅迫。救他似乎幾乎不可行，逃來的婦人卻提出一條排水密道。梅決定冒險。午夜，小隊潛出城外，天明前帶回糧吏及其家人。原本驚恐的孩子，如今幫忙替新來者搬毯。旁觀的老兵悄悄抹淚。圍城未結束，王國依舊分裂，但城內的陌生人正學會另一齣劇本：活下去，不必以放棄同情心為代價。",
+        "englishSha256": "cbe675b7665feeb5e44cca2747603e52d1ed63791c2f9b257dd4b5032161c958",
+        "chineseSha256": "dc6e8495a3fabe447425a3d3730e83f9fd9f60894c8806efa7b4650f040a143d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 632,
+    "targets": [
+      {
+        "word": "abnormal",
+        "meaning": "不正常的",
+        "appearsInSource": true
+      },
+      {
+        "word": "acquaint",
+        "meaning": "使熟悉；認識",
+        "appearsInSource": true
+      },
+      {
+        "word": "bolt",
+        "meaning": "螺栓；弩栓",
+        "appearsInSource": true
+      },
+      {
+        "word": "compatible",
+        "meaning": "相容的；符合的",
+        "appearsInSource": true
+      },
+      {
+        "word": "confronted",
+        "meaning": "面對；對質",
+        "appearsInSource": true
+      },
+      {
+        "word": "continental",
+        "meaning": "大陸的",
+        "appearsInSource": true
+      },
+      {
+        "word": "discrimination",
+        "meaning": "歧視",
+        "appearsInSource": true
+      },
+      {
+        "word": "hostages",
+        "meaning": "人質",
+        "appearsInSource": true
+      },
+      {
+        "word": "kidnapped",
+        "meaning": "綁架",
+        "appearsInSource": true
+      },
+      {
+        "word": "missionary",
+        "meaning": "傳教士；傳教者",
+        "appearsInSource": true
+      },
+      {
+        "word": "mumbled",
+        "meaning": "含糊低語",
+        "appearsInSource": true
+      },
+      {
+        "word": "norm",
+        "meaning": "常態",
+        "appearsInSource": true
+      },
+      {
+        "word": "observer",
+        "meaning": "觀察員",
+        "appearsInSource": true
+      },
+      {
+        "word": "script",
+        "meaning": "劇本",
+        "appearsInSource": true
+      },
+      {
+        "word": "sensation",
+        "meaning": "感覺；轟動",
+        "appearsInSource": true
+      },
+      {
+        "word": "slavery",
+        "meaning": "奴隸制度",
+        "appearsInSource": true
+      },
+      {
+        "word": "stock",
+        "meaning": "存貨；儲備",
+        "appearsInSource": true
+      },
+      {
+        "word": "traitor",
+        "meaning": "叛徒",
+        "appearsInSource": true
+      },
+      {
+        "word": "viable",
+        "meaning": "可行的",
+        "appearsInSource": true
+      },
+      {
+        "word": "viewer",
+        "meaning": "觀眾",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Children Behind the Wall〉第 1 段的事件，哪個選項能正確補完整句？\nShe brought ____ inside, gave them warm food, and asked an observer to record their words before memories faded.",
+      "options": [
+        "the three",
+        "the problem",
+        "the road"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the three",
+      "existingAnswerExplanation": "原文證據：She brought the three inside, gave them warm food, and asked an observer to record their words before memories faded.\n本段對照：圍城第一夜，一名士兵帶著兩個孩子和一位手腕留有繩痕的婦人抵達南門。他們逃離擄人當人質的軍隊。婦人是遠方宗教團體的傳教者，被邊境軍指控傳播危險思想。梅在意的不是信仰，而是她的傷。她帶三人入城、給熱食，請觀察員趁記憶未模糊前記下證詞。孩子幾乎說不出話，其中一人緊抓著一份巡迴戲班的劇本。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The first night of the siege, a soldier arrived at the southern gate with two children and a woman whose wrists bore rope marks. They had escaped men who kidnapped villagers to use as hostages. The woman was a missionary from a distant faith community, accused by the frontier army of spreading dangerous ideas. Mei cared less about her religion than about her injuries. She brought the three inside, gave them warm food, and asked an observer to record their words before memories faded. The children could scarcely speak, but one clutched a folded script from a traveling play.",
+          "chinese": "圍城第一夜，一名士兵帶著兩個孩子和一位手腕留有繩痕的婦人抵達南門。他們逃離擄人當人質的軍隊。婦人是遠方宗教團體的傳教者，被邊境軍指控傳播危險思想。梅在意的不是信仰，而是她的傷。她帶三人入城、給熱食，請觀察員趁記憶未模糊前記下證詞。孩子幾乎說不出話，其中一人緊抓著一份巡迴戲班的劇本。",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 3,
+          "english": "As the attack intensified, an iron bolt struck the wooden door above them. The children screamed, and Mei led them deeper into a storage tunnel. It was not compatible with ordinary shelter plans; the passage was narrow and its air stale. But from there she could reach a stock of blankets and grain without crossing the open yard. The younger child mumbled that he had seen a man from the council inside the enemy camp. Mei stopped. “Which man?” she asked gently. He described a scar above the left eye—the same scar worn by a grain clerk who had recently vanished.",
+          "chinese": "敵襲加劇，鐵製弩栓撞上頭頂木門。孩子尖叫，梅帶他們深入儲藏地道。這條通道不符合一般避難設施標準，狹窄而空氣混濁，卻能不用穿過露天院子就抵達毯子和穀物倉。小男孩含糊說，他曾在敵營看見一名議會的人。梅停住腳步，輕聲問：「哪一個？」孩子描述左眼上方有疤——與最近失蹤的一名糧吏相同。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Children Behind the Wall〉第 6 段的事件，哪個選項能正確補完整句？\nRescuing him seemed barely viable, yet the woman who had escaped offered ____.",
+      "options": [
+        "a second sample",
+        "a written form",
+        "a route through a drainage tunnel"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a route through a drainage tunnel",
+      "existingAnswerExplanation": "原文證據：Rescuing him seemed barely viable, yet the woman who had escaped offered a route through a drainage tunnel.\n本段對照：截獲的信件後來證實，糧吏受人脅迫。救他似乎幾乎不可行，逃來的婦人卻提出一條排水密道。梅決定冒險。午夜，小隊潛出城外，天明前帶回糧吏及其家人。原本驚恐的孩子，如今幫忙替新來者搬毯。旁觀的老兵悄悄抹淚。圍城未結束，王國依舊分裂，但城內的陌生人正學會另一齣劇本：活下去，不必以放棄同情心為代價。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The captured messages later confirmed that the clerk was under coercion. Rescuing him seemed barely viable, yet the woman who had escaped offered a route through a drainage tunnel. Mei chose to try. At midnight a small team slipped beyond the wall and returned before dawn with the clerk and his family. The children who had arrived terrified now helped carry blankets for the new arrivals. An old soldier watching them wiped his eyes. The siege had not ended, and the kingdom was still divided. But within the city, strangers had begun to learn a different script: one in which survival did not require surrendering compassion.",
+          "chinese": "截獲的信件後來證實，糧吏受人脅迫。救他似乎幾乎不可行，逃來的婦人卻提出一條排水密道。梅決定冒險。午夜，小隊潛出城外，天明前帶回糧吏及其家人。原本驚恐的孩子，如今幫忙替新來者搬毯。旁觀的老兵悄悄抹淚。圍城未結束，王國依舊分裂，但城內的陌生人正學會另一齣劇本：活下去，不必以放棄同情心為代價。",
+          "matchedQueryTerms": 27
+        },
+        {
+          "paragraph": 1,
+          "english": "The first night of the siege, a soldier arrived at the southern gate with two children and a woman whose wrists bore rope marks. They had escaped men who kidnapped villagers to use as hostages. The woman was a missionary from a distant faith community, accused by the frontier army of spreading dangerous ideas. Mei cared less about her religion than about her injuries. She brought the three inside, gave them warm food, and asked an observer to record their words before memories faded. The children could scarcely speak, but one clutched a folded script from a traveling play.",
+          "chinese": "圍城第一夜，一名士兵帶著兩個孩子和一位手腕留有繩痕的婦人抵達南門。他們逃離擄人當人質的軍隊。婦人是遠方宗教團體的傳教者，被邊境軍指控傳播危險思想。梅在意的不是信仰，而是她的傷。她帶三人入城、給熱食，請觀察員趁記憶未模糊前記下證詞。孩子幾乎說不出話，其中一人緊抓著一份巡迴戲班的劇本。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

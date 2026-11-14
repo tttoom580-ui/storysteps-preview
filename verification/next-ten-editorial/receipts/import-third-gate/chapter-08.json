@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 8,
+  "chapterId": "import-third-gate-8",
+  "sourceChapterSha256": "09026df70121c823bdf4a6b917a202085e5c04ca270ca33225679df88ec476ae",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "王都送來水車專利宣稱河力獨佔，學院學生陶設計另一水車並公開失敗紀錄，議會訂公平磨粉勞務費，朝廷讓步。",
+    "previousChapterEndingEnglish": "At the hearing, three boatmen testified that their employers had ordered the attacks. The league's director admitted the scheme when shown the payment records. Shen was released. Instead of demanding revenge, he proposed a tournament of river skills where village guides could teach the city's apprentices. Mei supported the plan as a worthwhile beginning, but she did not mistake celebration for justice. The contracts were rewritten, the dock officers replaced, and the lake opened to shared use. The next time its bell rang, even people in the poorest streets knew what the sound meant: the road by water belonged to more than one family.",
+    "nextChapterOpeningEnglish": "When Nanhe's soldiers returned from an expedition along the northern ridge, they brought news of a hidden mint. Its workers had struck copper coins bearing the old governor's mark. A bid to buy the mint's tools had come from someone calling himself a servant of the premier minister. Mei doubted the name, but she saw a danger: false money might weaken public trust even faster than a broken gate. She sent Rui, now an experienced ally, to inspect the place without announcing the council's purpose. Behind the bright exterior of the mint, they found a room that stank of burned oil."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A delegation from the royal capital arrived carrying a patent granting exclusive use of a new waterwheel. The document bore gold thread and an impressive seal, but Mei wondered why a machine powered by a public river should benefit a single household. An undergraduate from the academy, visiting to learn about local engineering, offered to translate its most difficult clauses. He spoke with unusual fluency for a student of old technical language. Together they discovered that the patent claimed not only the wheel but also any improvement derived from it. That would have made nearly every future invention a debt to the court.",
+        "zh": "王都派來代表團，帶著一紙專利，聲稱新式水車只能由特許家族使用。公文綴著金線與大印，梅卻不解：由公河推動的機械，為何只能讓一戶得利？來研習地方工程的學院大學生主動協助翻譯艱深條款。他雖年輕，古老技術語言卻說得流利。兩人發現專利不只涵蓋水車，還要求未來所有改良都算在宮廷名下。如此一來，之後幾乎每項發明都得欠朝廷人情。",
+        "englishSha256": "21504840842997e3324d03b892494490d5e3bb089fbf16ec186159fa38125a2c",
+        "chineseSha256": "eee98f1cc80a0e82d6ae52cd697c84f70c1963c9a924a2028d48711e8b769efa"
+      },
+      {
+        "number": 2,
+        "en": "The young man was called Tao. His exploration of old machines had begun as a chore assigned by a strict teacher, yet he had grown to love the work. He sketched the wheel's interior with careful clarity and explained that the river did not care whose name stood on a scroll. An elder scolded him for ignoring superstition, claiming that turning the wheel against the royal order would anger water spirits. Tao answered respectfully that caution belonged in engineering, not in fear of invisible punishment. Mei smiled at his patience, though she feared he underestimated the palace's power.",
+        "zh": "青年叫陶。他探索古機械原只是嚴師交給他的苦差，如今卻已熱愛其事。他清晰而仔細地畫出水車內部，說河水不在乎誰的名字寫在卷軸上。一名長者斥責他不顧迷信，說違反皇命轉動水車會激怒水神。陶恭敬答道，工程當然需要謹慎，但不必畏懼看不見的懲罰。梅欣賞他的耐性，也擔心他低估了王宮的權力。",
+        "englishSha256": "ce4a95887300f6d7ed07b382b6b514997d44fa68baae484425f23a99db2bc6c8",
+        "chineseSha256": "afda5c1d83ded4218493fc5cc173a53677b6858adb70e6388af9b020d0489e68"
+      },
+      {
+        "number": 3,
+        "en": "The council chose a public venue beside the southern channel to demonstrate a different design. Tao dedicated three days to building it, using spare wood and a single iron pin. His sole aim was to steer more water toward farms that had lost their wells. A wealthy landowner offered a premium price if Tao would work only for him. Tao refused and shed his fine outer robe before climbing into the muddy channel. As the wheel turned, it generated enough force to raise buckets of water to a dry field. The farmers cheered while the delegates stared at their sealed document.",
+        "zh": "議會選擇南水道旁的公共場地，展示另一種設計。陶花了三天，僅用剩木和一根鐵銷建造新水車。他唯一的目的，是把更多水引到失去水井的農田。一名地主開高價，想買下陶的獨家服務。陶拒絕，脫下精美外袍，踏進泥水。水輪轉動，產生足夠力量把一桶桶河水送進乾田。農民歡呼，代表們卻只盯著手裡那卷蓋印公文。",
+        "englishSha256": "30d9738bd69d8d847ea7ddbec4b450c214712fa2c510c948ecc3868355196c89",
+        "chineseSha256": "d50ce0e2fcb107882e3efc98c32290fec5b9f579c7c239ba56315a6874224542"
+      },
+      {
+        "number": 4,
+        "en": "One delegate, an experienced official, admitted that the patent might have served a useful purpose if it rewarded inventors without stopping others from solving problems. Yet the current order was dreadful: it turned public need into private property. Mei asked whether the court would consider an ethical compromise. The delegation promised to carry her proposed revision to the capital. That evening the undergraduate wrote a letter describing the experiment in exact terms. He included every failure, not just the success, so that builders elsewhere could learn from it without needing permission.",
+        "zh": "一名資深使者承認，若專利獎勵發明者而不阻止他人解決問題，或許仍有價值；但眼前規定實在糟糕，把公共需求變成私人財產。梅問，朝廷是否願意考慮合乎倫理的折衷方案。代表團答應把修訂建議帶回京城。當晚，陶用精確的文字寫下實驗，包括每一次失敗，而不只記成功，好讓其他地方的工匠不必求許可，也能學到經驗。",
+        "englishSha256": "5476ee6ea3211ef9fe8af24a1887b4e36ea7ef8908b1a255fc90e328bc131871",
+        "chineseSha256": "bedd2f2a02974335f8653c096a02bfbccf94a4bbf8a951e7ba4b2935b015b2de"
+      },
+      {
+        "number": 5,
+        "en": "The argument about invention was followed by a harder question about grain, the valley's most important commodity. A mill owner wanted to charge farmers for using the new wheel to grind flour, while poorer households said the river's strength was not his to sell. Tao drew a line between paying for upkeep and demanding tribute for the water itself. Repairing wooden teeth, replacing rope, and feeding the worker who operated the mill all required effort. The river's current did not. The council established a posted fee for work, with exemptions during famine. Some villagers still disliked paying anything, and Tao understood their concern. But he was learning that fair rules needed to account for labor as well as rights. He copied the fee schedule in large characters and nailed it outside the mill where anyone could challenge an error.",
+        "zh": "發明爭議之後，是更難的穀物問題；穀物是河谷最重要的商品。磨坊主人想向使用新水輪磨麵的農民收費，窮戶則說河力不是他的私產。陶區分維修工資和對河水收貢：木齒、繩索與操作員的餐食都需要勞動，水流本身卻不需要。他提議公開工資，饑荒時免收。仍有村民不喜歡付錢，陶明白他們的顧慮，也學到公平規則必須兼顧勞動與權利。他把收費表抄成大字釘在磨坊外，讓任何人都能指出錯誤。",
+        "englishSha256": "da38152b3a4b48c0a290b2f253251758227accbb8a6461447927227f8f3d7ea1",
+        "chineseSha256": "804c9fe803a2f4aeeb00c4baf68982f61db6879996093fe6b2eb843f25124dae"
+      },
+      {
+        "number": 6,
+        "en": "Weeks passed before a new order arrived. The crown kept its ceremonial rights but allowed open construction of waterwheels throughout the valley. Mei called it a small victory for public learning, not a defeat of the throne. Tao remained in Nanhe to teach, and his plans were copied in the temple workshop. Long afterward, students would point to this case as proof that knowledge grows when people share it. For Mei, the important memory was simpler: a muddy student had stood before decorated officials, explained his work honestly, and made a river turn for those who most needed it.",
+        "zh": "數週後，新令終於送達。王室保留象徵性的權利，卻允許谷地各處自由建水車。梅說這是公共學習的小小勝利，不是王位的失敗。陶留在南河教學，設計圖也在廟坊大量抄錄。多年後，學生把此事當作共享知識能使技術進步的證明。對梅而言，更難忘的景象卻很簡單：一個滿身泥巴的學生，在華服官員面前誠實說明自己的作品，讓河水替最需要它的人轉動。",
+        "englishSha256": "85413ba4d5656ba9b7e1be1fbd8e26d1980713e7834fd1de08a3d60b4f6c1cfa",
+        "chineseSha256": "9d5ef21299b7b6f6496bff52a93e35f3702995c2242588e67bfd1c4dc3087c6d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 631,
+    "targets": [
+      {
+        "word": "caution",
+        "meaning": "謹慎；警告",
+        "appearsInSource": true
+      },
+      {
+        "word": "chore",
+        "meaning": "苦差事",
+        "appearsInSource": true
+      },
+      {
+        "word": "clarity",
+        "meaning": "清楚；明晰",
+        "appearsInSource": true
+      },
+      {
+        "word": "commodity",
+        "meaning": "商品；貨物",
+        "appearsInSource": true
+      },
+      {
+        "word": "dedicated",
+        "meaning": "致力於",
+        "appearsInSource": true
+      },
+      {
+        "word": "delegation",
+        "meaning": "代表團",
+        "appearsInSource": true
+      },
+      {
+        "word": "dreadful",
+        "meaning": "糟糕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "ethical",
+        "meaning": "合乎倫理的",
+        "appearsInSource": true
+      },
+      {
+        "word": "exploration",
+        "meaning": "探索；探究",
+        "appearsInSource": true
+      },
+      {
+        "word": "fluency",
+        "meaning": "流利程度",
+        "appearsInSource": true
+      },
+      {
+        "word": "generated",
+        "meaning": "產生；生成",
+        "appearsInSource": true
+      },
+      {
+        "word": "interior",
+        "meaning": "內部",
+        "appearsInSource": true
+      },
+      {
+        "word": "patent",
+        "meaning": "專利",
+        "appearsInSource": true
+      },
+      {
+        "word": "premium",
+        "meaning": "溢價；高價",
+        "appearsInSource": true
+      },
+      {
+        "word": "shed",
+        "meaning": "脫去；脫落",
+        "appearsInSource": true
+      },
+      {
+        "word": "sole",
+        "meaning": "唯一的",
+        "appearsInSource": true
+      },
+      {
+        "word": "steer",
+        "meaning": "引導；駕駛",
+        "appearsInSource": true
+      },
+      {
+        "word": "superstition",
+        "meaning": "迷信",
+        "appearsInSource": true
+      },
+      {
+        "word": "undergraduate",
+        "meaning": "大學生",
+        "appearsInSource": true
+      },
+      {
+        "word": "venue",
+        "meaning": "場地",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Royal Patent〉第 4 段的事件，哪個選項能正確補完整句？\nThat evening the undergraduate wrote ____ in exact terms.",
+      "options": [
+        "a letter describing the experiment",
+        "a vertical scan",
+        "a baby whose diaper had soaked through"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a letter describing the experiment",
+      "existingAnswerExplanation": "原文證據：That evening the undergraduate wrote a letter describing the experiment in exact terms.\n本段對照：一名資深使者承認，若專利獎勵發明者而不阻止他人解決問題，或許仍有價值；但眼前規定實在糟糕，把公共需求變成私人財產。梅問，朝廷是否願意考慮合乎倫理的折衷方案。代表團答應把修訂建議帶回京城。當晚，陶用精確的文字寫下實驗，包括每一次失敗，而不只記成功，好讓其他地方的工匠不必求許可，也能學到經驗。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "One delegate, an experienced official, admitted that the patent might have served a useful purpose if it rewarded inventors without stopping others from solving problems. Yet the current order was dreadful: it turned public need into private property. Mei asked whether the court would consider an ethical compromise. The delegation promised to carry her proposed revision to the capital. That evening the undergraduate wrote a letter describing the experiment in exact terms. He included every failure, not just the success, so that builders elsewhere could learn from it without needing permission.",
+          "chinese": "一名資深使者承認，若專利獎勵發明者而不阻止他人解決問題，或許仍有價值；但眼前規定實在糟糕，把公共需求變成私人財產。梅問，朝廷是否願意考慮合乎倫理的折衷方案。代表團答應把修訂建議帶回京城。當晚，陶用精確的文字寫下實驗，包括每一次失敗，而不只記成功，好讓其他地方的工匠不必求許可，也能學到經驗。",
+          "matchedQueryTerms": 17
+        },
+        {
+          "paragraph": 1,
+          "english": "A delegation from the royal capital arrived carrying a patent granting exclusive use of a new waterwheel. The document bore gold thread and an impressive seal, but Mei wondered why a machine powered by a public river should benefit a single household. An undergraduate from the academy, visiting to learn about local engineering, offered to translate its most difficult clauses. He spoke with unusual fluency for a student of old technical language. Together they discovered that the patent claimed not only the wheel but also any improvement derived from it. That would have made nearly every future invention a debt to the court.",
+          "chinese": "王都派來代表團，帶著一紙專利，聲稱新式水車只能由特許家族使用。公文綴著金線與大印，梅卻不解：由公河推動的機械，為何只能讓一戶得利？來研習地方工程的學院大學生主動協助翻譯艱深條款。他雖年輕，古老技術語言卻說得流利。兩人發現專利不只涵蓋水車，還要求未來所有改良都算在宮廷名下。如此一來，之後幾乎每項發明都得欠朝廷人情。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Royal Patent〉第 6 段的事件，哪個選項能正確補完整句？\nThe crown kept ____ but allowed open construction of waterwheels throughout the valley.",
+      "options": [
+        "its purpose",
+        "its ceremonial rights",
+        "its canals"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "its ceremonial rights",
+      "existingAnswerExplanation": "原文證據：The crown kept its ceremonial rights but allowed open construction of waterwheels throughout the valley.\n本段對照：數週後，新令終於送達。王室保留象徵性的權利，卻允許谷地各處自由建水車。梅說這是公共學習的小小勝利，不是王位的失敗。陶留在南河教學，設計圖也在廟坊大量抄錄。多年後，學生把此事當作共享知識能使技術進步的證明。對梅而言，更難忘的景象卻很簡單：一個滿身泥巴的學生，在華服官員面前誠實說明自己的作品，讓河水替最需要它的人轉動。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Weeks passed before a new order arrived. The crown kept its ceremonial rights but allowed open construction of waterwheels throughout the valley. Mei called it a small victory for public learning, not a defeat of the throne. Tao remained in Nanhe to teach, and his plans were copied in the temple workshop. Long afterward, students would point to this case as proof that knowledge grows when people share it. For Mei, the important memory was simpler: a muddy student had stood before decorated officials, explained his work honestly, and made a river turn for those who most needed it.",
+          "chinese": "數週後，新令終於送達。王室保留象徵性的權利，卻允許谷地各處自由建水車。梅說這是公共學習的小小勝利，不是王位的失敗。陶留在南河教學，設計圖也在廟坊大量抄錄。多年後，學生把此事當作共享知識能使技術進步的證明。對梅而言，更難忘的景象卻很簡單：一個滿身泥巴的學生，在華服官員面前誠實說明自己的作品，讓河水替最需要它的人轉動。",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 1,
+          "english": "A delegation from the royal capital arrived carrying a patent granting exclusive use of a new waterwheel. The document bore gold thread and an impressive seal, but Mei wondered why a machine powered by a public river should benefit a single household. An undergraduate from the academy, visiting to learn about local engineering, offered to translate its most difficult clauses. He spoke with unusual fluency for a student of old technical language. Together they discovered that the patent claimed not only the wheel but also any improvement derived from it. That would have made nearly every future invention a debt to the court.",
+          "chinese": "王都派來代表團，帶著一紙專利，聲稱新式水車只能由特許家族使用。公文綴著金線與大印，梅卻不解：由公河推動的機械，為何只能讓一戶得利？來研習地方工程的學院大學生主動協助翻譯艱深條款。他雖年輕，古老技術語言卻說得流利。兩人發現專利不只涵蓋水車，還要求未來所有改良都算在宮廷名下。如此一來，之後幾乎每項發明都得欠朝廷人情。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

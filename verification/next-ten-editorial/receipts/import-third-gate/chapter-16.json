@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 16,
+  "chapterId": "import-third-gate-16",
+  "sourceChapterSha256": "bb8389acaf6a3a115b6943ccd546f83785c0d53f4e2236d6d29569eb77375304",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "現代博物館伺服器受漏水損壞，安查管線施工、河民神聖地基及展期壓力，把酒會經費轉為保護裝備與志工住宿。",
+    "previousChapterEndingEnglish": "At the end of the meeting, an elderly woman placed her belongings beside the door and asked to join the work crew. She had come from a ruined village and owned almost nothing. “If the city chooses surrender, I will live with it,” she said. “But please do not decide while imagining that people like me have no voice.” Her words earned applause, not because they solved the problem but because they revealed what the problem truly was. The vote would come at dawn. Until then, Mei kept the maps open beneath the lantern and listened to the river.",
+    "nextChapterOpeningEnglish": "While the repaired system processed new scans, An noticed a tiny sparkle beneath the ink of a royal letter. The writing appeared authentic, but its seal contained a modern adhesive. Someone had tried to forge a document and place it among the ancient files. The suspect's whereabouts were unknown. Museum personnel insisted that the letter must have entered the archive years earlier, presumably as part of an outside donation. An was wary of accusations made without proof. She wrote down every assumption the team had made and marked which ones could be tested."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "An arrived at the museum on a rainy Monday to discover that its archive server had failed. Thousands of images, including the newly scanned peace letters, were temporarily unavailable. A technician suspected contamination in a storage room after a pipe burst, while the museum's administrative office blamed a contractor. The explanations contradicted each other. An demanded that no one exclude the staff who had discovered the leak from the investigation. Their observations might be exceptional precisely because they had been closest to the problem when it began.",
+        "zh": "雨天的星期一，安抵達博物館，發現檔案伺服器故障。數千張影像，包括新掃描的和議書，一時無法讀取。技師懷疑管線破裂，造成儲藏間污染；行政辦公室卻怪罪承包商。兩種說法互相矛盾。安要求調查不得排除最先發現漏水的員工，因為他們恰好站在事件起點，觀察可能最珍貴。",
+        "englishSha256": "f0b04625e7bf71944073c2f5099a97b68a5c531f8ebf58eb1fad591883b860b7",
+        "chineseSha256": "b1f4200c19fe03cc1ee596fcd2b7501aa50d812b25435790d0c7c81428272dcc"
+      },
+      {
+        "number": 2,
+        "en": "The archive formed the core of an installation called “Water and Memory.” It combined ancient manuscripts with interviews from modern canal workers, an ambitious integration of evidence across centuries. Its commercial partner owned a museum franchise and wanted the exhibit to open before the holiday. The director insisted that delay would be insane. An replied that a display built on damaged records could trigger an even worse scandal. She asked each participant to state what they knew, what they guessed, and what they still needed to check.",
+        "zh": "那座檔案系統是「水與記憶」展覽裝置的核心，將古手稿與現代水道工訪談整合，企圖呈現跨世紀證據。商業夥伴擁有博物館連鎖經營權，希望趕在假期前開展。館長說延期簡直瘋狂。安回答，建立在壞資料上的展覽可能引發更大風波。她要求每名參與者清楚說出自己知道什麼、猜測什麼、還需要查什麼。",
+        "englishSha256": "b77a2ddc44d5a92fda5e472acde833ff0997130c949a6b994cf648e744850ca4",
+        "chineseSha256": "ca3bed63a7fae63e2845b702a8afe6cae6bdaaa1d97a673eb8da019aa56b648e"
+      },
+      {
+        "number": 3,
+        "en": "In a conference room, the contractor explained that a new water valve had been installed contrary to the drawings. He pledged to pay for repairs if his team's work had caused the leak. The technician found debris inside the valve and argued that recent construction had disturbed an old pipe. An was moved by the technician's compassion toward younger workers who feared losing their jobs. He insisted that an error did not justify treating anyone as an enemy. “We can identify the cause,” he said, “without making the investigation vicious.”",
+        "zh": "會議室裡，承包商說新水閥的位置與圖紙不符，若確認是他們施工造成漏水，願賠償修理。技師在閥內找到碎屑，認為最近工程擾動了老管。安感受到技師對年輕工人的同情；那些人正怕丟工作。技師堅持，犯錯不代表該被視為敵人。「我們可以找出原因，」他說，「而不必把調查變成惡毒的獵巫。」",
+        "englishSha256": "df9da927887a1357f6c81bdcab6ac4f908367d10ad9c68f3ac75976c1d414333",
+        "chineseSha256": "f0d7208f08b38e2b70847dadc05251ebcef617283c332e0eb6db4c0a3736e1a3"
+      },
+      {
+        "number": 4,
+        "en": "Later An discovered that the old pipe ran through a foundation regarded as sacred by the local river community. The plans had omitted it because the builders considered the structure inconvenient. The omission had damaged more than a pipe: it had broken trust. An met community elders and asked them to help redesign the exhibition so that their history would not appear only as a footnote. One elder agreed, but said that consultation must be ongoing rather than a ceremonial photograph. An accepted this demand without bargaining.",
+        "zh": "後來安發現，舊管穿過河民視為神聖的地基。工程圖刻意省略，因建商嫌它礙事。這疏漏傷的不只水管，也傷了信任。安拜訪社群長者，請他們協助改展覽，讓河民歷史不只被放在註腳。一名長者同意，但要求諮詢必須持續，不能拍張儀式性照片就結束。安毫不討價還價地接受。",
+        "englishSha256": "de63572ecd535adfcc16073ff5fd562ad9fe6e8c14a7ef822d5e199545381e76",
+        "chineseSha256": "a813726abef94a53cb87731f33c3556109731c3b5c5da176209c960a8e7cf58c"
+      },
+      {
+        "number": 5,
+        "en": "As the reopening date approached, the director received a nomination for a national museum award. He celebrated before the repairs were complete, angering workers who had spent nights drying paper and cleaning mud. An asked him to acknowledge their labor in his speech. She also proposed temporary accommodation for volunteers coming from distant villages, since many could not afford city hotels. The director objected that the museum had no budget. An showed him a contradictory expense report: money had been reserved for a lavish reception while basic protective gloves were running out. The contradiction was impossible to ignore. They also agreed that another leak must not be allowed to contaminate the archive. He canceled part of the reception and used the funds for supplies and lodging. The volunteers asked that the new policy be written down, so nobody would have to beg for basic needs during the next emergency. The director accepted, and the facilities team promised to review it after the exhibition opened. An knew this was not a cure for every problem, but it was a better reason to celebrate than an award nobody had yet won.",
+        "zh": "重新開展日將近，館長收到國家級博物館獎項的提名，修復還沒完成就先慶祝，惹惱連夜烘乾紙張、清理泥土的員工。安請他在演說中承認大家的勞動，也提議替遠村志工安排臨時住宿，因很多人住不起市區旅館。館長說沒有預算，安卻拿出互相矛盾的支出表：盛大酒會有錢，基本防護手套卻快用完。矛盾無法忽視。眾人也同意，不能再讓管線漏水污染檔案。館長刪減酒會，改買物資和安排住宿。志工要求把新政策寫成正式規定，免得下次緊急事件又得為基本需要低聲求助。館長同意，設施團隊也承諾開展後檢討。安知道這解決不了所有問題，但比為尚未得獎的獎項歡呼更有意義。",
+        "englishSha256": "59709e9cf294a5bb6b795bcd710104a9e1e1ba9b67f6d14915d3144b5da11d2a",
+        "chineseSha256": "1bc864fa30ac7f51d6f100d1747846fea77c87636efe3e5dc0c1de60b1a4be6f"
+      },
+      {
+        "number": 6,
+        "en": "The records were restored from a backup two days later. By then the exhibition schedule had changed, yet An felt the delay had served a purpose. The investigation revealed weaknesses in both the building and the institution that owned it. She wrote a report in transparent language and posted it at the entrance, thereby inviting visitors to judge the museum's decisions for themselves. On her desk lay an image of Mei's ancient charter. It seemed to speak directly across the centuries: a city did not become fair by never making mistakes, but by refusing to hide them.",
+        "zh": "兩天後，備份檔救回資料。展期雖延後，安卻認為延誤有其價值。調查揭露建物與管理機構雙重弱點。她以透明易懂的文字寫報告，貼在入口，讓訪客自行判斷館方作為。桌上放著梅的古章程影像，彷彿穿過世紀向她說話：城市不是因為從不犯錯而公正，而是因為不肯把錯誤藏起來。",
+        "englishSha256": "36643b727eb92d883e757fb67ce4b2501beb1221b95aad5c6276eae92abb5d84",
+        "chineseSha256": "5b3c5cfa384011cfd03c34be1fcc3f0b76861b428380de9f798c9fddda718891"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 637,
+    "targets": [
+      {
+        "word": "accommodation",
+        "meaning": "住處；住宿安排",
+        "appearsInSource": true
+      },
+      {
+        "word": "compassion",
+        "meaning": "同情；憐憫",
+        "appearsInSource": true
+      },
+      {
+        "word": "contaminate",
+        "meaning": "污染",
+        "appearsInSource": true
+      },
+      {
+        "word": "contradiction",
+        "meaning": "矛盾",
+        "appearsInSource": true
+      },
+      {
+        "word": "debris",
+        "meaning": "碎屑；殘骸",
+        "appearsInSource": true
+      },
+      {
+        "word": "exceptional",
+        "meaning": "不尋常的；優異的",
+        "appearsInSource": true
+      },
+      {
+        "word": "exclude",
+        "meaning": "排除",
+        "appearsInSource": true
+      },
+      {
+        "word": "franchise",
+        "meaning": "特許經營",
+        "appearsInSource": true
+      },
+      {
+        "word": "insane",
+        "meaning": "瘋狂的",
+        "appearsInSource": true
+      },
+      {
+        "word": "installation",
+        "meaning": "裝置；安裝",
+        "appearsInSource": true
+      },
+      {
+        "word": "integration",
+        "meaning": "整合",
+        "appearsInSource": true
+      },
+      {
+        "word": "justify",
+        "meaning": "使合理化；正當化",
+        "appearsInSource": true
+      },
+      {
+        "word": "nomination",
+        "meaning": "提名",
+        "appearsInSource": true
+      },
+      {
+        "word": "participant",
+        "meaning": "參與者",
+        "appearsInSource": true
+      },
+      {
+        "word": "pledged",
+        "meaning": "保證；承諾",
+        "appearsInSource": true
+      },
+      {
+        "word": "sacred",
+        "meaning": "神聖的",
+        "appearsInSource": true
+      },
+      {
+        "word": "server",
+        "meaning": "伺服器",
+        "appearsInSource": true
+      },
+      {
+        "word": "thereby",
+        "meaning": "因此；藉此",
+        "appearsInSource": true
+      },
+      {
+        "word": "trigger",
+        "meaning": "引發；觸發",
+        "appearsInSource": true
+      },
+      {
+        "word": "vicious",
+        "meaning": "惡毒的；凶狠的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Broken Server〉第 1 段的事件，哪個選項能正確補完整句？\nAn demanded that no one exclude the staff who had discovered ____ from the investigation.",
+      "options": [
+        "the tunnel's entrance",
+        "the leak",
+        "the salt road"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the leak",
+      "existingAnswerExplanation": "原文證據：An demanded that no one exclude the staff who had discovered the leak from the investigation.\n本段對照：雨天的星期一，安抵達博物館，發現檔案伺服器故障。數千張影像，包括新掃描的和議書，一時無法讀取。技師懷疑管線破裂，造成儲藏間污染；行政辦公室卻怪罪承包商。兩種說法互相矛盾。安要求調查不得排除最先發現漏水的員工，因為他們恰好站在事件起點，觀察可能最珍貴。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "An arrived at the museum on a rainy Monday to discover that its archive server had failed. Thousands of images, including the newly scanned peace letters, were temporarily unavailable. A technician suspected contamination in a storage room after a pipe burst, while the museum's administrative office blamed a contractor. The explanations contradicted each other. An demanded that no one exclude the staff who had discovered the leak from the investigation. Their observations might be exceptional precisely because they had been closest to the problem when it began.",
+          "chinese": "雨天的星期一，安抵達博物館，發現檔案伺服器故障。數千張影像，包括新掃描的和議書，一時無法讀取。技師懷疑管線破裂，造成儲藏間污染；行政辦公室卻怪罪承包商。兩種說法互相矛盾。安要求調查不得排除最先發現漏水的員工，因為他們恰好站在事件起點，觀察可能最珍貴。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 3,
+          "english": "In a conference room, the contractor explained that a new water valve had been installed contrary to the drawings. He pledged to pay for repairs if his team's work had caused the leak. The technician found debris inside the valve and argued that recent construction had disturbed an old pipe. An was moved by the technician's compassion toward younger workers who feared losing their jobs. He insisted that an error did not justify treating anyone as an enemy. “We can identify the cause,” he said, “without making the investigation vicious.”",
+          "chinese": "會議室裡，承包商說新水閥的位置與圖紙不符，若確認是他們施工造成漏水，願賠償修理。技師在閥內找到碎屑，認為最近工程擾動了老管。安感受到技師對年輕工人的同情；那些人正怕丟工作。技師堅持，犯錯不代表該被視為敵人。「我們可以找出原因，」他說，「而不必把調查變成惡毒的獵巫。」",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Broken Server〉第 6 段的事件，哪個選項能正確補完整句？\nShe wrote ____ in transparent language and posted it at the entrance, thereby inviting visitors to judge the museum's decisions for themselves.",
+      "options": [
+        "a report",
+        "a new burden",
+        "a note"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a report",
+      "existingAnswerExplanation": "原文證據：She wrote a report in transparent language and posted it at the entrance, thereby inviting visitors to judge the museum's decisions for themselves.\n本段對照：兩天後，備份檔救回資料。展期雖延後，安卻認為延誤有其價值。調查揭露建物與管理機構雙重弱點。她以透明易懂的文字寫報告，貼在入口，讓訪客自行判斷館方作為。桌上放著梅的古章程影像，彷彿穿過世紀向她說話：城市不是因為從不犯錯而公正，而是因為不肯把錯誤藏起來。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The records were restored from a backup two days later. By then the exhibition schedule had changed, yet An felt the delay had served a purpose. The investigation revealed weaknesses in both the building and the institution that owned it. She wrote a report in transparent language and posted it at the entrance, thereby inviting visitors to judge the museum's decisions for themselves. On her desk lay an image of Mei's ancient charter. It seemed to speak directly across the centuries: a city did not become fair by never making mistakes, but by refusing to hide them.",
+          "chinese": "兩天後，備份檔救回資料。展期雖延後，安卻認為延誤有其價值。調查揭露建物與管理機構雙重弱點。她以透明易懂的文字寫報告，貼在入口，讓訪客自行判斷館方作為。桌上放著梅的古章程影像，彷彿穿過世紀向她說話：城市不是因為從不犯錯而公正，而是因為不肯把錯誤藏起來。",
+          "matchedQueryTerms": 31
+        },
+        {
+          "paragraph": 1,
+          "english": "An arrived at the museum on a rainy Monday to discover that its archive server had failed. Thousands of images, including the newly scanned peace letters, were temporarily unavailable. A technician suspected contamination in a storage room after a pipe burst, while the museum's administrative office blamed a contractor. The explanations contradicted each other. An demanded that no one exclude the staff who had discovered the leak from the investigation. Their observations might be exceptional precisely because they had been closest to the problem when it began.",
+          "chinese": "雨天的星期一，安抵達博物館，發現檔案伺服器故障。數千張影像，包括新掃描的和議書，一時無法讀取。技師懷疑管線破裂，造成儲藏間污染；行政辦公室卻怪罪承包商。兩種說法互相矛盾。安要求調查不得排除最先發現漏水的員工，因為他們恰好站在事件起點，觀察可能最珍貴。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

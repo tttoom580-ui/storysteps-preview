@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 6,
+  "chapterId": "import-third-gate-6",
+  "sourceChapterSha256": "12bef89c97e01b9dbab45ff637dc5d39994e563c8739d71b09268a662a079560",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "秋收後朝廷要求南河出兵邊境，梅與年輕信使睿聽難民與流亡教師證言，議會先派糧醫、等查核再決定軍事支援。",
+    "previousChapterEndingEnglish": "By evening the charter passed, though not unanimously. Mei was pleased by the overall result, but she kept a page listing objections. A resident who had opposed her approached and asked whether the new council would truly welcome criticism. “Especially criticism,” she answered. “Otherwise this is only the old court wearing a different robe.” The town hired new canal workers the next day and opened its meetings to public observation. Years later, people remembered neither the heat nor the shouting as clearly as the sight of that suggestion box: a small object that made room for a larger future.",
+    "nextChapterOpeningEnglish": "Spring brought an unexpected controversy to the riverside council. A league of boat owners wanted exclusive rights to the reed lake, claiming that pirates had made ordinary transport impossible. Their evidence was a row of damaged vessels, each with a sturdy plank torn from its side. Mei entered the old corridor beneath the eastern tower to examine the boats' records and noticed that the reported attacks all occurred on moonless nights. More strangely, the company had withdrawn its own guards immediately before each incident. The pattern suggested corruption, not simply bad luck."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The royal court sent an abrupt order at the end of harvest: Nanhe was to provide troops for a campaign on the frontier. The message accused the new council of encouraging disobedience. Mei opened the envelope and found a second paper hidden behind the first. It was a plea from an exiled teacher who had once worked with her father. He wrote that the former governor now served a hostile commander beyond the border. His warning was simple: the campaign's purpose was not defense but an attempt to disrupt the city's fragile freedom.",
+        "zh": "秋收將盡，朝廷忽然發下命令：南河必須派兵參加邊境戰事。文書指責新議會煽動不服從。梅打開信封，又在正式公文後面發現一張藏起的紙條，是一名流放教師的求救信。那教師曾與父親共事，如今透露前太守正在邊境替敵意深重的將領效力。他警告，這場戰役目的並非防衛，而是破壞南河脆弱的自由。",
+        "englishSha256": "06003deb39751b5e1847d08529049fe041d03bdcf89238d5f1d62704c5fcf281",
+        "chineseSha256": "dccd015d50b3452c72d0a556d74c1ca4c00ea4cd5b10f15e72454d9de7f4e84c"
+      },
+      {
+        "number": 2,
+        "en": "Mei met with a young activist named Rui, who organized walking messengers between villages. He carried his records in a leather briefcase and spoke with surprising calm. Some elders dismissed him as naive because he believed laws could bind princes as well as farmers. Others mistrusted him because he had no family title. Rui asked only that the council contemplate its obligation to protect both the city and the soldiers sent away from it. “A ruler,” he said, “is an entity made of people. It is not a god standing above them.”",
+        "zh": "梅和年輕的行動者睿見面。睿組織徒步信使，往返各村，資料都收在皮製公事包裡，說話出奇冷靜。有些長者嫌他天真，因為他相信法律也能約束王公；另一些則因他沒有家世而不信任。他只請議會思考：保護城市，也保護被派往遠方的士兵，是否都是共同義務。「統治者是由人組成的政治實體，」他說，「不是高高在上的神。」",
+        "englishSha256": "3b5d68878bf34f7cfb33d959a7a930e3c0fa7c0183b9f91207038b4573021340",
+        "chineseSha256": "5f8c3e4ecd0b970833f78d9ca741a521fd03241f0b15b8e54ca014c6fb57fbfa"
+      },
+      {
+        "number": 3,
+        "en": "At the western outlet of the river, a refugee caravan arrived. One man limped after an old injury to his thigh; another had received an injection of herbal liquid from a traveling healer and feared the wound was infected. They described burned fields, ruined houses, and frightened pedestrians fleeing across roads built for military carts. Their stories made it impossible to treat the campaign as distant politics. Mei used surplus grain to feed the group and ordered the storehouse workers to record every sack. She knew that giving aid now might mean hunger in winter.",
+        "zh": "河流西側出口出現一隊難民。一名男人大腿舊傷未癒，走路跛著；另一名接受行腳醫者以針筒注入草藥液，擔心傷口感染。他們描述被燒掉的農田、毀壞的房屋，以及在軍車道路上驚慌奔逃的行人。這些證詞使人無法再把戰爭當成遠方政治。梅動用剩餘穀糧餵養難民，並命倉工逐袋記錄。她知道此時施援，可能換來冬季的飢餓。",
+        "englishSha256": "22cb25b51bc42228b283900976df82c11082fd591fa1411a4e45b4aaf04989ec",
+        "chineseSha256": "dbcd22ffabdefcb9366a0c2a5b05c14865da2eaebfb95b135712bae41f4f47fd"
+      },
+      {
+        "number": 4,
+        "en": "To prevent panic, Rui held a public seminar in the temple courtyard. He explained the roads, the troop numbers, and the limits of what they knew. Older soldiers tried to supervise the gathering, but Rui asked them to sit among the listeners rather than above them. A merchant protested that the city owed the throne unquestioning obedience. Master Wen answered that loyalty was not measured by masculine displays of anger. True courage meant admitting fear and choosing a duty one could defend before one's neighbors. Several young soldiers quietly lowered their spears.",
+        "zh": "為避免恐慌，睿在廟院舉辦公開講座，解釋道路、兵數，以及目前資訊的限制。老兵想監督集會，睿卻請他們坐在聽眾當中，而不是居高臨下。一名商人抗議，認為城市欠王室無條件服從。文師傅回答，忠誠不是靠陽剛的怒吼證明；真正的勇氣，是承認恐懼，並選擇能在鄰人面前說得出口的責任。幾名年輕士兵悄悄放低長槍。",
+        "englishSha256": "364500e16045ace4023cbc428373f6c3bdb664db6fc2e340eeb65dbf8ab26238",
+        "chineseSha256": "92d8e3db4592973da5b7537177764ef567aa7c92d23b4c19152e8903725fcc39"
+      },
+      {
+        "number": 5,
+        "en": "The refugee children drew pictures as the adults discussed their fate. One pictured a house with smoke rising from the roof; another drew the mountain pass covered with black marks for soldiers. A third child drew nothing at all. Rui sat beside her without asking questions until she pointed toward the hills and said she had left a younger brother behind. The council had no reliable way to send someone for him. Mei promised only to record his name and ask every returning traveler. She hated how small that promise sounded. Master Wen reminded her that an honest promise was better than a grand falsehood. They added a place for missing families to the temple register, and volunteers began comparing names across villages. For many refugees, the register became the first proof that somebody still expected their loved ones to return.",
+        "zh": "大人商量難民去留時，孩子們在畫畫。有人畫屋頂冒煙的家，有人在山口畫下代表士兵的黑點，還有一名女孩什麼也沒畫。睿默默坐在她旁邊，直到她指向群山，說弟弟還留在那裡。議會沒有可靠的方法去救人。梅只能答應記下名字，詢問每個歸來的旅人。這承諾小得令她難受，文師傅卻提醒，誠實的小承諾勝過漂亮的謊話。他們在廟冊增設失散家人欄，志工開始跨村核對姓名。對許多難民而言，這冊子是第一份證明：仍有人期待親人歸來。",
+        "englishSha256": "45abf64a792c85a5da234c54fe2e3aedd858a95390de2e12e268ac48a2f4eebd",
+        "chineseSha256": "e61b03a3913827efb452778f04dbe9f29d064873da78799ce521ea2cd57ea808"
+      },
+      {
+        "number": 6,
+        "en": "The council voted to send food and doctors to the border, but no troops until an independent inquiry could confirm the danger. Mei signed the letter with a shaking hand. For the first time she understood why her father had kept duplicate maps: evidence could repay courage long after the person who collected it was gone. At dawn, Rui departed with the sealed decision. His route crossed wild hills where thieves watched the road, yet he smiled as he set out. “If the border is where orders become violence,” he told Mei, “it is also where they can become questions.”",
+        "zh": "議會表決，先派糧食與醫者支援邊境，在獨立調查確認危險前不出兵。梅簽字時手微微發抖。她第一次明白父親為何留下複本地圖：收集證據的人即使不在了，證據仍能回報他的勇氣。黎明，睿帶著封好的決議出發。路線跨過盜匪出沒的野山，他卻微笑上路。「如果邊境是命令化成暴力的地方，」他對梅說，「那也可以成為命令接受質疑的地方。」",
+        "englishSha256": "bb966f7f31babd165aced97c2b0a02d45590aca274c3c2bb4d881667e0ba7607",
+        "chineseSha256": "52a26c507dbb296a052f6565c62e3356284c9ac5a4ec4ead37f0e5ee1b4a5437"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 613,
+    "targets": [
+      {
+        "word": "abrupt",
+        "meaning": "突然的",
+        "appearsInSource": true
+      },
+      {
+        "word": "activist",
+        "meaning": "行動者；倡議者",
+        "appearsInSource": true
+      },
+      {
+        "word": "briefcase",
+        "meaning": "公事包",
+        "appearsInSource": true
+      },
+      {
+        "word": "contemplate",
+        "meaning": "仔細思考",
+        "appearsInSource": true
+      },
+      {
+        "word": "disrupt",
+        "meaning": "擾亂；破壞",
+        "appearsInSource": true
+      },
+      {
+        "word": "entity",
+        "meaning": "實體；組織",
+        "appearsInSource": true
+      },
+      {
+        "word": "exiled",
+        "meaning": "流放",
+        "appearsInSource": true
+      },
+      {
+        "word": "frontier",
+        "meaning": "邊境",
+        "appearsInSource": true
+      },
+      {
+        "word": "hostile",
+        "meaning": "敵意的",
+        "appearsInSource": true
+      },
+      {
+        "word": "injection",
+        "meaning": "注射",
+        "appearsInSource": true
+      },
+      {
+        "word": "masculine",
+        "meaning": "陽剛的；男性化的",
+        "appearsInSource": true
+      },
+      {
+        "word": "naive",
+        "meaning": "天真的",
+        "appearsInSource": true
+      },
+      {
+        "word": "obligation",
+        "meaning": "義務",
+        "appearsInSource": true
+      },
+      {
+        "word": "outlet",
+        "meaning": "出口",
+        "appearsInSource": true
+      },
+      {
+        "word": "pedestrians",
+        "meaning": "行人",
+        "appearsInSource": true
+      },
+      {
+        "word": "repay",
+        "meaning": "回報；償還",
+        "appearsInSource": true
+      },
+      {
+        "word": "seminar",
+        "meaning": "研討會；講座",
+        "appearsInSource": true
+      },
+      {
+        "word": "supervise",
+        "meaning": "監督",
+        "appearsInSource": true
+      },
+      {
+        "word": "surplus",
+        "meaning": "剩餘的；餘糧",
+        "appearsInSource": true
+      },
+      {
+        "word": "thigh",
+        "meaning": "大腿",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈Letters Beyond the Border〉第 1 段的事件，哪個選項能正確補完整句？\nThe royal court sent ____ at the end of harvest: Nanhe was to provide troops for a campaign on the frontier.",
+      "options": [
+        "an empty bowl",
+        "an abrupt order",
+        "an excited commentary arguing"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "an abrupt order",
+      "existingAnswerExplanation": "原文證據：The royal court sent an abrupt order at the end of harvest: Nanhe was to provide troops for a campaign on the frontier.\n本段對照：秋收將盡，朝廷忽然發下命令：南河必須派兵參加邊境戰事。文書指責新議會煽動不服從。梅打開信封，又在正式公文後面發現一張藏起的紙條，是一名流放教師的求救信。那教師曾與父親共事，如今透露前太守正在邊境替敵意深重的將領效力。他警告，這場戰役目的並非防衛，而是破壞南河脆弱的自由。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The royal court sent an abrupt order at the end of harvest: Nanhe was to provide troops for a campaign on the frontier. The message accused the new council of encouraging disobedience. Mei opened the envelope and found a second paper hidden behind the first. It was a plea from an exiled teacher who had once worked with her father. He wrote that the former governor now served a hostile commander beyond the border. His warning was simple: the campaign's purpose was not defense but an attempt to disrupt the city's fragile freedom.",
+          "chinese": "秋收將盡，朝廷忽然發下命令：南河必須派兵參加邊境戰事。文書指責新議會煽動不服從。梅打開信封，又在正式公文後面發現一張藏起的紙條，是一名流放教師的求救信。那教師曾與父親共事，如今透露前太守正在邊境替敵意深重的將領效力。他警告，這場戰役目的並非防衛，而是破壞南河脆弱的自由。",
+          "matchedQueryTerms": 22
+        },
+        {
+          "paragraph": 3,
+          "english": "At the western outlet of the river, a refugee caravan arrived. One man limped after an old injury to his thigh; another had received an injection of herbal liquid from a traveling healer and feared the wound was infected. They described burned fields, ruined houses, and frightened pedestrians fleeing across roads built for military carts. Their stories made it impossible to treat the campaign as distant politics. Mei used surplus grain to feed the group and ordered the storehouse workers to record every sack. She knew that giving aid now might mean hunger in winter.",
+          "chinese": "河流西側出口出現一隊難民。一名男人大腿舊傷未癒，走路跛著；另一名接受行腳醫者以針筒注入草藥液，擔心傷口感染。他們描述被燒掉的農田、毀壞的房屋，以及在軍車道路上驚慌奔逃的行人。這些證詞使人無法再把戰爭當成遠方政治。梅動用剩餘穀糧餵養難民，並命倉工逐袋記錄。她知道此時施援，可能換來冬季的飢餓。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈Letters Beyond the Border〉第 6 段的事件，哪個選項能正確補完整句？\nHis route crossed wild hills where thieves watched ____, yet he smiled as he set out.",
+      "options": [
+        "the new well",
+        "the small acts",
+        "the road"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the road",
+      "existingAnswerExplanation": "原文證據：His route crossed wild hills where thieves watched the road, yet he smiled as he set out.\n本段對照：議會表決，先派糧食與醫者支援邊境，在獨立調查確認危險前不出兵。梅簽字時手微微發抖。她第一次明白父親為何留下複本地圖：收集證據的人即使不在了，證據仍能回報他的勇氣。黎明，睿帶著封好的決議出發。路線跨過盜匪出沒的野山，他卻微笑上路。「如果邊境是命令化成暴力的地方，」他對梅說，「那也可以成為命令接受質疑的地方。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The council voted to send food and doctors to the border, but no troops until an independent inquiry could confirm the danger. Mei signed the letter with a shaking hand. For the first time she understood why her father had kept duplicate maps: evidence could repay courage long after the person who collected it was gone. At dawn, Rui departed with the sealed decision. His route crossed wild hills where thieves watched the road, yet he smiled as he set out. “If the border is where orders become violence,” he told Mei, “it is also where they can become questions.”",
+          "chinese": "議會表決，先派糧食與醫者支援邊境，在獨立調查確認危險前不出兵。梅簽字時手微微發抖。她第一次明白父親為何留下複本地圖：收集證據的人即使不在了，證據仍能回報他的勇氣。黎明，睿帶著封好的決議出發。路線跨過盜匪出沒的野山，他卻微笑上路。「如果邊境是命令化成暴力的地方，」他對梅說，「那也可以成為命令接受質疑的地方。」",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 1,
+          "english": "The royal court sent an abrupt order at the end of harvest: Nanhe was to provide troops for a campaign on the frontier. The message accused the new council of encouraging disobedience. Mei opened the envelope and found a second paper hidden behind the first. It was a plea from an exiled teacher who had once worked with her father. He wrote that the former governor now served a hostile commander beyond the border. His warning was simple: the campaign's purpose was not defense but an attempt to disrupt the city's fragile freedom.",
+          "chinese": "秋收將盡，朝廷忽然發下命令：南河必須派兵參加邊境戰事。文書指責新議會煽動不服從。梅打開信封，又在正式公文後面發現一張藏起的紙條，是一名流放教師的求救信。那教師曾與父親共事，如今透露前太守正在邊境替敵意深重的將領效力。他警告，這場戰役目的並非防衛，而是破壞南河脆弱的自由。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

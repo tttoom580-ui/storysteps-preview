@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 11,
+  "chapterId": "import-third-gate-11",
+  "sourceChapterSha256": "5fe3e27c3ddc67f6d5453c42ff1d4ef9873f0b98e029919ffdec347dcca807f4",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "現代新譯卷軸重回古南河戰事，老兵霍與梅試驗土壤及水閘防騎兵，以糧食守南村，斥候逼近而危閘仍需加固。",
+    "previousChapterEndingEnglish": "That evening the museum lost its promised donation, but gained something less visible. A retired teacher arrived with a photograph of an unpublished family letter. The writer had witnessed the ancient siege and described a bronze dome above the old council chamber. An looked up at the museum's modern dome, which had been inspired by that very description. History, she thought, was neither a trophy nor a weapon to wield carelessly. It was a conversation across time, full of human mistakes. She opened a new research file and titled it, “Who Closed the Third Gate After Mei Opened It?”",
+    "nextChapterOpeningEnglish": "The first night of the siege, a soldier arrived at the southern gate with two children and a woman whose wrists bore rope marks. They had escaped men who kidnapped villagers to use as hostages. The woman was a missionary from a distant faith community, accused by the frontier army of spreading dangerous ideas. Mei cared less about her religion than about her injuries. She brought the three inside, gave them warm food, and asked an observer to record their words before memories faded. The children could scarcely speak, but one clutched a folded script from a traveling play."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The newly translated scroll began with a grim description of Nanhe under threat. Veteran soldiers gathered in the northern institution once used to train horses, and each carried a petition demanding that the council deploy every available fighter. They spoke from experience, but fatigue made their voices sharp. Mei listened until the oldest veteran, Huo, held out a broken arrow. He said that the frontier commander planned to accelerate the attack before harvest. If the city's grain stores were destroyed, no recommendation from the capital could save the families trapped inside the walls.",
+        "zh": "新譯出的卷軸開頭，以陰沉筆觸描寫受威脅的南河。老兵聚集在北方原本訓馬的機構，人人帶著請願書，要求議會部署全部戰士。他們有實戰經驗，疲倦卻讓語氣尖銳。梅聽到最老的士兵霍拿出一支斷箭。他說邊境將領打算在收穫前加速攻擊，若糧倉被燒，朝廷再多建議都救不了困在城內的家人。",
+        "englishSha256": "0310b2c05aea7f4a4b1435e1c435b8f10208dfc4afd5e65d1f309722bdb913ad",
+        "chineseSha256": "44b0cc7ef4223072ebd14f82345a3d5ac2ff251ab293e11c8eed3f15e1b7fdd9"
+      },
+      {
+        "number": 2,
+        "en": "Huo was no fool, yet his plan would leave the southern villages undefended. Mei asked the veterans to examine the components of the old flood system. A damaged channel could become a barrier against advancing cavalry with minimal harm to nearby farms. Some officers dismissed the idea as trivial, but Master Wen explained how water might undermine a wooden bridge without drowning homes. In the meeting hall, a lantern made the map quiver as evening wind passed through the shutters. Everyone stared at its moving lines, knowing the fate of the realm might depend on choices made in that small room.",
+        "zh": "霍不是愚人，但他的計畫會讓南方村落毫無防守。梅請老兵檢查古水道各個組件。一條受損水渠或許能成為抵抗騎兵的屏障，又不至於嚴重傷害周邊農地。部分軍官覺得這是小事，文師傅卻解釋如何用水沖垮木橋而不淹民宅。晚風穿過窗縫，燈火使地圖微微顫動。所有人盯著移動的線條，明白王國命運或許繫於這間小屋的決定。",
+        "englishSha256": "919bdc7c6cee5a9e55a4bf63776f58d1f0b511ff5c5dcd68344017cafb75d0a4",
+        "chineseSha256": "ac22527d621e8d6300616d08173844b4b92acb609ce145160f8331a32928fd84"
+      },
+      {
+        "number": 3,
+        "en": "Before agreeing, Mei demanded that the city remain neutral toward villages whose leaders had sided with the crown. “We defend lives, not the pride of any faction,” she said. Huo smiled and paid her a compliment: she sounded more like an experienced general than a young mapmaker. Mei refused the praise. She had seen people undergo suffering because officials treated war as a contest of honor. Her specialty was measuring distances and flow, not deciding who deserved protection. Nevertheless, she accepted a stake in the defense, because refusing responsibility would not prevent the battle.",
+        "zh": "同意前，梅堅持南河必須中立對待那些領袖支持王室的村子。「我們守護生命，不是任何派系的面子。」她說。霍微笑稱讚她，說她比起年輕製圖師，更像歷戰將軍。梅不接受恭維。她看過人們因官員把戰爭當榮譽比賽而受苦。她擅長的是測量距離與水流，不是決定誰值得保護。儘管如此，她仍承擔城防責任，因為逃避責任也無法阻止戰鬥。",
+        "englishSha256": "c1b4bf9ccd7881f65ee6fe5f338cb419643297f156a5f45a93f597a517dfe3ff",
+        "chineseSha256": "dcc225d390a3ca8ac18ee66f7c217c0943606a5b61b344ead5fd3086fe0fe491"
+      },
+      {
+        "number": 4,
+        "en": "Work began at dawn. Farmers drove stakes into the ground to mark safe routes; carpenters repaired the sluice; soldiers carried food rather than weapons to families still living outside the wall. Under the new plan, each institution contributed according to its knowledge. The kitchens fed workers, the academy tested materials, and boatmen watched the upstream current. To Mei's surprise, the city continued to thrive in the midst of preparation. Children attended lessons, traders opened stalls, and the waterwheels kept turning. These ordinary routines reminded her what the defense was truly for.",
+        "zh": "拂曉開工。農民將木樁打進地裡標示安全路線，木匠修閘，士兵則把糧食而非武器送給城外家庭。新計畫要求每個機構依所長貢獻：公廚餵養工人，學院測試材料，船夫觀察上游流速。梅驚訝地發現，城市一邊備戰，一邊仍維持活力。孩子上課，商販開攤，水車轉動。這些平凡日常提醒她，防禦真正要保護的是什麼。",
+        "englishSha256": "632acffdecda94c406adc87c5d525d65358863c19514f8dd742794ef931f1473",
+        "chineseSha256": "b2b9d6318e7f3341a6bfe12928dbb23cebb08736d0e920abf5c53274e1cb7926"
+      },
+      {
+        "number": 5,
+        "en": "The veteran Huo carried one more piece of evidence to the council: a specimen of clay taken from the enemy road. It was darker and softer than the soil on the city side of the river. Mei pressed it between her fingers and asked for a second sample from the southern field. The difference confirmed that water would sink into one bank faster than the other. That finding required a change in the planned timing of the gate. Huo admitted that he had once considered maps a luxury for men who feared battle. “I used to think a good soldier needed a strong arm and a clear order,” he said. “Now I see that a bad order can waste the strongest arm.” Mei thanked him for bringing the sample, then asked the boatmen to repeat the test before they relied on it with lives at stake.",
+        "zh": "老兵霍帶來另一件證據：從敵軍道路採集的黏土樣本，顏色比城內岸土更深、更軟。梅用手指捏了捏，又請人取南田土來比。差異證實，一側河岸吸水速度較快，必須調整放閘時間。霍承認以前認為地圖只是怕戰者的奢侈玩具。「我曾以為好兵只要手臂強、命令清楚，」他說，「如今才懂壞命令能白白浪費最強的手臂。」梅謝謝他採樣，仍請船夫再驗一次，因為結果攸關人命。",
+        "englishSha256": "21a4bf606fcfc5ebdd3ed7b90a6588f803f6683437097febf2e6cbdc37effe4c",
+        "chineseSha256": "860d56e88cc55fd977cd9b3bdd4dc4d9e58823873bd2a7bc3dcd12081b52314f"
+      },
+      {
+        "number": 6,
+        "en": "The first enemy scouts appeared at sunset. Huo watched them from the tower, then sent a messenger down to Mei. “The water plan may work,” he said, “but only if the last gate survives.” She inspected its hinges one more time and felt the cold metal beneath her fingers. All their preparations could fail because of a single weak pin. She wondered how historians would judge them: as rebels, defenders, or merely frightened citizens doing their best. Then she heard children singing in the shelter and stopped wondering. The gate, like history, could only be opened by hands willing to act.",
+        "zh": "敵軍斥候在夕陽下現身。霍從塔上望見，派信使向梅傳話：「水防計畫或許可行，但前提是最後一道閘撐得住。」她再次檢查鉸鏈，手指摸到冰冷金屬。所有準備都可能被一根脆弱鐵銷毀掉。她想，後世會怎麼評價他們？叛民、守城者，還是只是一群盡力而為的害怕百姓？接著，她聽見避難所裡孩子唱歌，便不再想了。水門和歷史一樣，都只能由願意行動的人親手打開。",
+        "englishSha256": "06ec8069420031a89d12ec7240220ca10a8825ad128668c257661ddfacbf804a",
+        "chineseSha256": "5c1078f3f987da4c45ca2bc08a531ec5292528102186e068a18632d18358b0e9"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 626,
+    "targets": [
+      {
+        "word": "accelerate",
+        "meaning": "加速",
+        "appearsInSource": true
+      },
+      {
+        "word": "compliment",
+        "meaning": "稱讚",
+        "appearsInSource": true
+      },
+      {
+        "word": "components",
+        "meaning": "組件；零件",
+        "appearsInSource": true
+      },
+      {
+        "word": "deploy",
+        "meaning": "部署",
+        "appearsInSource": true
+      },
+      {
+        "word": "fatigue",
+        "meaning": "疲勞",
+        "appearsInSource": true
+      },
+      {
+        "word": "grim",
+        "meaning": "嚴峻的；陰沉的",
+        "appearsInSource": true
+      },
+      {
+        "word": "institution",
+        "meaning": "機構；制度",
+        "appearsInSource": true
+      },
+      {
+        "word": "minimal",
+        "meaning": "極小的；最低限度的",
+        "appearsInSource": true
+      },
+      {
+        "word": "neutral",
+        "meaning": "中立的",
+        "appearsInSource": true
+      },
+      {
+        "word": "petition",
+        "meaning": "請願書",
+        "appearsInSource": true
+      },
+      {
+        "word": "quiver",
+        "meaning": "顫動",
+        "appearsInSource": true
+      },
+      {
+        "word": "realm",
+        "meaning": "國土；領域",
+        "appearsInSource": true
+      },
+      {
+        "word": "recommendation",
+        "meaning": "建議",
+        "appearsInSource": true
+      },
+      {
+        "word": "specialty",
+        "meaning": "專長",
+        "appearsInSource": true
+      },
+      {
+        "word": "specimen",
+        "meaning": "樣本",
+        "appearsInSource": true
+      },
+      {
+        "word": "stake",
+        "meaning": "樁；風險中的利害",
+        "appearsInSource": true
+      },
+      {
+        "word": "thrive",
+        "meaning": "蓬勃發展",
+        "appearsInSource": true
+      },
+      {
+        "word": "trivial",
+        "meaning": "微不足道的",
+        "appearsInSource": true
+      },
+      {
+        "word": "undergo",
+        "meaning": "經歷；承受",
+        "appearsInSource": true
+      },
+      {
+        "word": "veteran",
+        "meaning": "退伍軍人",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Last Veteran's Petition〉第 1 段的事件，哪個選項能正確補完整句？\nVeteran soldiers gathered in the northern institution once used to train horses, and each carried ____ that the council deploy every available fighter.",
+      "options": [
+        "a report",
+        "a petition demanding",
+        "a display"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a petition demanding",
+      "existingAnswerExplanation": "原文證據：Veteran soldiers gathered in the northern institution once used to train horses, and each carried a petition demanding that the council deploy every available fighter.\n本段對照：新譯出的卷軸開頭，以陰沉筆觸描寫受威脅的南河。老兵聚集在北方原本訓馬的機構，人人帶著請願書，要求議會部署全部戰士。他們有實戰經驗，疲倦卻讓語氣尖銳。梅聽到最老的士兵霍拿出一支斷箭。他說邊境將領打算在收穫前加速攻擊，若糧倉被燒，朝廷再多建議都救不了困在城內的家人。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The newly translated scroll began with a grim description of Nanhe under threat. Veteran soldiers gathered in the northern institution once used to train horses, and each carried a petition demanding that the council deploy every available fighter. They spoke from experience, but fatigue made their voices sharp. Mei listened until the oldest veteran, Huo, held out a broken arrow. He said that the frontier commander planned to accelerate the attack before harvest. If the city's grain stores were destroyed, no recommendation from the capital could save the families trapped inside the walls.",
+          "chinese": "新譯出的卷軸開頭，以陰沉筆觸描寫受威脅的南河。老兵聚集在北方原本訓馬的機構，人人帶著請願書，要求議會部署全部戰士。他們有實戰經驗，疲倦卻讓語氣尖銳。梅聽到最老的士兵霍拿出一支斷箭。他說邊境將領打算在收穫前加速攻擊，若糧倉被燒，朝廷再多建議都救不了困在城內的家人。",
+          "matchedQueryTerms": 38
+        },
+        {
+          "paragraph": 5,
+          "english": "The veteran Huo carried one more piece of evidence to the council: a specimen of clay taken from the enemy road. It was darker and softer than the soil on the city side of the river. Mei pressed it between her fingers and asked for a second sample from the southern field. The difference confirmed that water would sink into one bank faster than the other. That finding required a change in the planned timing of the gate. Huo admitted that he had once considered maps a luxury for men who feared battle. “I used to think a good soldier needed a strong arm and a clear order,” he said. “Now I see that a bad order can waste the strongest arm.” Mei thanked him for bringing the sample, then asked the boatmen to repeat the test before they relied on it with lives at stake.",
+          "chinese": "老兵霍帶來另一件證據：從敵軍道路採集的黏土樣本，顏色比城內岸土更深、更軟。梅用手指捏了捏，又請人取南田土來比。差異證實，一側河岸吸水速度較快，必須調整放閘時間。霍承認以前認為地圖只是怕戰者的奢侈玩具。「我曾以為好兵只要手臂強、命令清楚，」他說，「如今才懂壞命令能白白浪費最強的手臂。」梅謝謝他採樣，仍請船夫再驗一次，因為結果攸關人命。",
+          "matchedQueryTerms": 11
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Last Veteran's Petition〉第 6 段的事件，哪個選項能正確補完整句？\nHuo watched them from the tower, then sent ____ to Mei.",
+      "options": [
+        "a messenger down",
+        "a room",
+        "a commitment"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a messenger down",
+      "existingAnswerExplanation": "原文證據：Huo watched them from the tower, then sent a messenger down to Mei.\n本段對照：敵軍斥候在夕陽下現身。霍從塔上望見，派信使向梅傳話：「水防計畫或許可行，但前提是最後一道閘撐得住。」她再次檢查鉸鏈，手指摸到冰冷金屬。所有準備都可能被一根脆弱鐵銷毀掉。她想，後世會怎麼評價他們？叛民、守城者，還是只是一群盡力而為的害怕百姓？接著，她聽見避難所裡孩子唱歌，便不再想了。水門和歷史一樣，都只能由願意行動的人親手打開。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The first enemy scouts appeared at sunset. Huo watched them from the tower, then sent a messenger down to Mei. “The water plan may work,” he said, “but only if the last gate survives.” She inspected its hinges one more time and felt the cold metal beneath her fingers. All their preparations could fail because of a single weak pin. She wondered how historians would judge them: as rebels, defenders, or merely frightened citizens doing their best. Then she heard children singing in the shelter and stopped wondering. The gate, like history, could only be opened by hands willing to act.",
+          "chinese": "敵軍斥候在夕陽下現身。霍從塔上望見，派信使向梅傳話：「水防計畫或許可行，但前提是最後一道閘撐得住。」她再次檢查鉸鏈，手指摸到冰冷金屬。所有準備都可能被一根脆弱鐵銷毀掉。她想，後世會怎麼評價他們？叛民、守城者，還是只是一群盡力而為的害怕百姓？接著，她聽見避難所裡孩子唱歌，便不再想了。水門和歷史一樣，都只能由願意行動的人親手打開。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 1,
+          "english": "The newly translated scroll began with a grim description of Nanhe under threat. Veteran soldiers gathered in the northern institution once used to train horses, and each carried a petition demanding that the council deploy every available fighter. They spoke from experience, but fatigue made their voices sharp. Mei listened until the oldest veteran, Huo, held out a broken arrow. He said that the frontier commander planned to accelerate the attack before harvest. If the city's grain stores were destroyed, no recommendation from the capital could save the families trapped inside the walls.",
+          "chinese": "新譯出的卷軸開頭，以陰沉筆觸描寫受威脅的南河。老兵聚集在北方原本訓馬的機構，人人帶著請願書，要求議會部署全部戰士。他們有實戰經驗，疲倦卻讓語氣尖銳。梅聽到最老的士兵霍拿出一支斷箭。他說邊境將領打算在收穫前加速攻擊，若糧倉被燒，朝廷再多建議都救不了困在城內的家人。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

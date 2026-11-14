@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 15,
+  "chapterId": "import-third-gate-15",
+  "sourceChapterSha256": "948fc8d4ea595a2fde8c14c2d2dd80a4f3ed4879a0255b6cd9684de65c9f5ba8",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "三夜限期第一晚，議會辯論主權、糧價及新水渠民間監督，梅堅持把公開收支和居民知情納入投票規則。",
+    "previousChapterEndingEnglish": "Before leaving, An picked up a model of an old supply wagon. The carved wooden pickup bed at its rear was unlike a modern truck, yet its purpose was familiar: move what people needed across difficult ground. She thought about the centuries between Mei's hands and her own, about new machines and old temptations. Power could change its costume without changing its demands. Back at the scanner, An found another line at the end of the peace offer: “A reply must arrive before the moon is full.” She checked the ancient calendar. Mei had been given only three nights.",
+    "nextChapterOpeningEnglish": "An arrived at the museum on a rainy Monday to discover that its archive server had failed. Thousands of images, including the newly scanned peace letters, were temporarily unavailable. A technician suspected contamination in a storage room after a pipe burst, while the museum's administrative office blamed a contractor. The explanations contradicted each other. An demanded that no one exclude the staff who had discovered the leak from the investigation. Their observations might be exceptional precisely because they had been closest to the problem when it began."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On the first of those nights, Nanhe's council faced a choice more complex than any ordinary vote. The commander promised food if the city surrendered its independence. Several farmers supported the offer because a consecutive series of poor harvests had already crippled their households. Others refused on grounds of sovereignty. Mei listened while the temple chef brought bowls of thin soup to the meeting. It was difficult to debate ideals when hunger made people moan softly between sentences. She asked the council to examine the ecology of the river as carefully as the language of the ultimatum.",
+        "zh": "三夜之中的第一夜，南河議會面對比平常投票更複雜的選擇。將領承諾，只要城市交出自治權便給食物。連續多年歉收已使許多農家癱瘓，因此部分農民支持。另一些人堅持主權不可交出。廟裡主廚送來稀湯，梅聽著眾人說話。飢餓使人講話間不斷低聲呻吟，討論理念格外困難。她請議會像研究最後通牒一樣，仔細研究河川生態。",
+        "englishSha256": "de7b146eb4517332fe365f5da4c6a998ea179651caa64633d5b4b5eb14c57051",
+        "chineseSha256": "b58e8395542b4d881e0968dee543349f68f813661c9189c33a4aee1b6fe0fa83"
+      },
+      {
+        "number": 2,
+        "en": "A fisherman explained that the river's western strand separated two kinds of soil. If they opened the small autumn channel, fresh silt would reach fields behind the hills. A wealthy landowner offered sponsorship for the work, provided his family received the new land as a private resort after the war. Most council members reacted with indifference, but Mei asked whether a public rescue could fairly produce a private playground. The fisherman called the proposal foul. His sentiment was shared by farmers who had lost homes upstream. They needed land for food, not pleasure boats.",
+        "zh": "漁夫解釋，西側分出的水道隔開兩種土壤。若開啟小型秋渠，新淤泥就會被帶進山後農地。一名地主願出資工程，但要求戰後把新地封作家族度假勝地。多數議員反應冷淡，梅卻問：公共救援為何該變成私人遊樂場？漁夫直斥提案骯髒。上游失去家園的農民也抱持相同感受。他們要的是種糧土地，不是遊船。",
+        "englishSha256": "49ee6ae4b72cf06e5b14d1ab24e6b798da909b6d23ec76d4bc36ff802aacb19e",
+        "chineseSha256": "302f198386eb594f72a3aa69d04c4e0e1db1c9aeb82cfc83ec25e91dfaecfa7e"
+      },
+      {
+        "number": 3,
+        "en": "Master Wen, whose injury had left him unable to lift heavy beams, could still diagnose weak points in the canal system. He proposed an elegant but risky plan: divert a fraction of the river to nourish the hills, then open the deeper channel at the moment enemy wagons crossed the causeway. This might save the harvest and break the siege. The council debated the proportion of water needed, knowing too much would destroy homes while too little would achieve nothing. Mei asked for straightforward figures. The river, she said, did not listen to speeches.",
+        "zh": "文師傅肩傷使他無法再扛重樑，卻仍能診斷水道弱點。他提出巧妙但冒險的計畫：先引出部分河水滋養山地，待敵軍補給車通過堤道時，再打開深渠。如此既可能救收成，也能破圍。議會討論水量比例：太多會毀民房，太少則毫無效果。梅要大家提供直截了當的數字，因為河流不聽演說。",
+        "englishSha256": "8958c2c326bb9bebfaa38426725207d47661947164923529581da776109aa0d8",
+        "chineseSha256": "7cfe61e423e27fa55326ea25a754f152c69e00fe223a26847f10945d415e3222"
+      },
+      {
+        "number": 4,
+        "en": "Meanwhile Yan prepared a new edition of the city chronicle. He refused to turn every disagreement into a scandal. Instead, he recorded how the discussions changed over the night: fear became anger, anger gave way to careful questions, and finally people began suggesting work they could personally perform. A wounded soldier offered to carry messages; a widow volunteered to watch water levels; an apprentice promised to repair broken gauges. Each modest act made the plan feel less like a fantasy. Mei had never seen courage appear so quietly or spread so quickly.",
+        "zh": "同時，言準備新版城史，不願把每場分歧都寫成醜聞。他記下討論如何隨夜色變化：恐懼變憤怒，憤怒又轉成細緻提問，最後人們開始主動提出自己能做什麼。一名傷兵願傳信，寡婦自告奮勇看守水位，學徒承諾修復壞掉的水尺。每一項小行動都讓計畫少一點幻想、多一點真實。梅從未見過勇氣如此安靜地出現，又如此迅速地擴散。",
+        "englishSha256": "dfe695751ab8de4dc0e81d2166d9a9e721ef7b04bfec21074511def0ff94172a",
+        "chineseSha256": "c935d15e4741b35daf7dd7f4c2761ddb246ed6d02636d6d1c35aa98f68750214"
+      },
+      {
+        "number": 5,
+        "en": "When the ballot was passed from hand to hand, Mei noticed how complex a simple choice could become. A woman who had sounded indifferent during debate now refused to vote until she knew who would supervise the new channel. A farmer answered that supervision would rotate among districts, while another asked whether the boom in private grain prices would leave poor families helpless. The discussion revealed a complexity that no two-column choice could capture. Mei proposed a short delay so the rules could be attached to the plan itself. Likewise, she insisted that any official who controlled supplies must publish records each morning. Several council members groaned at the extra work, but the woman nodded and finally marked her vote. To Mei, that small act mattered more than an easy unanimous result. Consent was meaningful only when people understood what their marks authorized.",
+        "zh": "投票紙在人群間傳遞時，梅發現看似簡單的選擇竟有多重複雜性。原本對辯論無動於衷的婦人拒絕投票，除非先知道新水渠由誰監督。農夫說各區輪流負責，另一人則問，私人糧價暴漲時窮人怎麼活。這場討論揭露兩格選票放不下的難題。梅提議短暫延後，把執行規則直接附在方案後；同樣地，凡管理補給的官員每天早上都要公布帳目。有議員抱怨工作增加，婦人卻終於點頭投票。對梅而言，這一小票比輕易全體一致更有價值。真正的同意必須建立在明白授權內容之上。",
+        "englishSha256": "721b5e09c7098e8b3209855b192a8c67ce31280d04b9613c83fcdf2f76bf6c86",
+        "chineseSha256": "ece32e3f21e924532e736c5a13a437b5afd9c94ade213bcf0052adfaf0644adc"
+      },
+      {
+        "number": 6,
+        "en": "At the end of the meeting, an elderly woman placed her belongings beside the door and asked to join the work crew. She had come from a ruined village and owned almost nothing. “If the city chooses surrender, I will live with it,” she said. “But please do not decide while imagining that people like me have no voice.” Her words earned applause, not because they solved the problem but because they revealed what the problem truly was. The vote would come at dawn. Until then, Mei kept the maps open beneath the lantern and listened to the river.",
+        "zh": "會議最後，一名老婦把全部家當放在門旁，要求加入工作隊。她來自毀壞的村子，幾乎一無所有。「若城市選擇投降，我會接受，」她說，「但請別在認定像我這樣的人沒有聲音時，替我們作決定。」這番話得到掌聲，不是因為它解決問題，而是揭露問題真正的樣貌。黎明才會投票。那之前，梅一直讓地圖攤在燈下，聽河水說話。",
+        "englishSha256": "762e0bb10fcc5f4dd19ce33ed2bde6c094027f10fa30ce2c7d34a90f57a2db51",
+        "chineseSha256": "90d861d1ea40a427daee8e309449234c157cf91c769d6dca19c5595b379d9165"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 619,
+    "targets": [
+      {
+        "word": "ballot",
+        "meaning": "選票；投票",
+        "appearsInSource": true
+      },
+      {
+        "word": "belongings",
+        "meaning": "家當；財物",
+        "appearsInSource": true
+      },
+      {
+        "word": "boom",
+        "meaning": "激增；繁榮",
+        "appearsInSource": true
+      },
+      {
+        "word": "chef",
+        "meaning": "廚師",
+        "appearsInSource": true
+      },
+      {
+        "word": "complexity",
+        "meaning": "複雜性",
+        "appearsInSource": true
+      },
+      {
+        "word": "consecutive",
+        "meaning": "連續的",
+        "appearsInSource": true
+      },
+      {
+        "word": "crippled",
+        "meaning": "使殘廢；嚴重削弱",
+        "appearsInSource": true
+      },
+      {
+        "word": "diagnose",
+        "meaning": "診斷；判斷",
+        "appearsInSource": true
+      },
+      {
+        "word": "ecology",
+        "meaning": "生態",
+        "appearsInSource": true
+      },
+      {
+        "word": "foul",
+        "meaning": "骯髒的；令人厭惡的",
+        "appearsInSource": true
+      },
+      {
+        "word": "indifferent",
+        "meaning": "冷淡的",
+        "appearsInSource": true
+      },
+      {
+        "word": "likewise",
+        "meaning": "同樣地",
+        "appearsInSource": true
+      },
+      {
+        "word": "moan",
+        "meaning": "呻吟",
+        "appearsInSource": true
+      },
+      {
+        "word": "resort",
+        "meaning": "度假勝地",
+        "appearsInSource": true
+      },
+      {
+        "word": "sentiment",
+        "meaning": "情緒；看法",
+        "appearsInSource": true
+      },
+      {
+        "word": "sovereignty",
+        "meaning": "主權",
+        "appearsInSource": true
+      },
+      {
+        "word": "sponsorship",
+        "meaning": "贊助；資助",
+        "appearsInSource": true
+      },
+      {
+        "word": "straightforward",
+        "meaning": "直截了當的",
+        "appearsInSource": true
+      },
+      {
+        "word": "strand",
+        "meaning": "一股；一縷",
+        "appearsInSource": true
+      },
+      {
+        "word": "supervision",
+        "meaning": "監督",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈Three Nights to Decide〉第 2 段的事件，哪個選項能正確補完整句？\nIf they opened ____, fresh silt would reach fields behind the hills.",
+      "options": [
+        "the envelope",
+        "the same loads every day knew",
+        "the small autumn channel"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the small autumn channel",
+      "existingAnswerExplanation": "原文證據：If they opened the small autumn channel, fresh silt would reach fields behind the hills.\n本段對照：漁夫解釋，西側分出的水道隔開兩種土壤。若開啟小型秋渠，新淤泥就會被帶進山後農地。一名地主願出資工程，但要求戰後把新地封作家族度假勝地。多數議員反應冷淡，梅卻問：公共救援為何該變成私人遊樂場？漁夫直斥提案骯髒。上游失去家園的農民也抱持相同感受。他們要的是種糧土地，不是遊船。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "A fisherman explained that the river's western strand separated two kinds of soil. If they opened the small autumn channel, fresh silt would reach fields behind the hills. A wealthy landowner offered sponsorship for the work, provided his family received the new land as a private resort after the war. Most council members reacted with indifference, but Mei asked whether a public rescue could fairly produce a private playground. The fisherman called the proposal foul. His sentiment was shared by farmers who had lost homes upstream. They needed land for food, not pleasure boats.",
+          "chinese": "漁夫解釋，西側分出的水道隔開兩種土壤。若開啟小型秋渠，新淤泥就會被帶進山後農地。一名地主願出資工程，但要求戰後把新地封作家族度假勝地。多數議員反應冷淡，梅卻問：公共救援為何該變成私人遊樂場？漁夫直斥提案骯髒。上游失去家園的農民也抱持相同感受。他們要的是種糧土地，不是遊船。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 3,
+          "english": "Master Wen, whose injury had left him unable to lift heavy beams, could still diagnose weak points in the canal system. He proposed an elegant but risky plan: divert a fraction of the river to nourish the hills, then open the deeper channel at the moment enemy wagons crossed the causeway. This might save the harvest and break the siege. The council debated the proportion of water needed, knowing too much would destroy homes while too little would achieve nothing. Mei asked for straightforward figures. The river, she said, did not listen to speeches.",
+          "chinese": "文師傅肩傷使他無法再扛重樑，卻仍能診斷水道弱點。他提出巧妙但冒險的計畫：先引出部分河水滋養山地，待敵軍補給車通過堤道時，再打開深渠。如此既可能救收成，也能破圍。議會討論水量比例：太多會毀民房，太少則毫無效果。梅要大家提供直截了當的數字，因為河流不聽演說。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈Three Nights to Decide〉第 6 段的事件，哪個選項能正確補完整句？\nUntil then, Mei kept ____ and listened to the river.",
+      "options": [
+        "the salt road",
+        "the maps open beneath the lantern",
+        "the map quiver"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the maps open beneath the lantern",
+      "existingAnswerExplanation": "原文證據：Until then, Mei kept the maps open beneath the lantern and listened to the river.\n本段對照：會議最後，一名老婦把全部家當放在門旁，要求加入工作隊。她來自毀壞的村子，幾乎一無所有。「若城市選擇投降，我會接受，」她說，「但請別在認定像我這樣的人沒有聲音時，替我們作決定。」這番話得到掌聲，不是因為它解決問題，而是揭露問題真正的樣貌。黎明才會投票。那之前，梅一直讓地圖攤在燈下，聽河水說話。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "At the end of the meeting, an elderly woman placed her belongings beside the door and asked to join the work crew. She had come from a ruined village and owned almost nothing. “If the city chooses surrender, I will live with it,” she said. “But please do not decide while imagining that people like me have no voice.” Her words earned applause, not because they solved the problem but because they revealed what the problem truly was. The vote would come at dawn. Until then, Mei kept the maps open beneath the lantern and listened to the river.",
+          "chinese": "會議最後，一名老婦把全部家當放在門旁，要求加入工作隊。她來自毀壞的村子，幾乎一無所有。「若城市選擇投降，我會接受，」她說，「但請別在認定像我這樣的人沒有聲音時，替我們作決定。」這番話得到掌聲，不是因為它解決問題，而是揭露問題真正的樣貌。黎明才會投票。那之前，梅一直讓地圖攤在燈下，聽河水說話。",
+          "matchedQueryTerms": 17
+        },
+        {
+          "paragraph": 1,
+          "english": "On the first of those nights, Nanhe's council faced a choice more complex than any ordinary vote. The commander promised food if the city surrendered its independence. Several farmers supported the offer because a consecutive series of poor harvests had already crippled their households. Others refused on grounds of sovereignty. Mei listened while the temple chef brought bowls of thin soup to the meeting. It was difficult to debate ideals when hunger made people moan softly between sentences. She asked the council to examine the ecology of the river as carefully as the language of the ultimatum.",
+          "chinese": "三夜之中的第一夜，南河議會面對比平常投票更複雜的選擇。將領承諾，只要城市交出自治權便給食物。連續多年歉收已使許多農家癱瘓，因此部分農民支持。另一些人堅持主權不可交出。廟裡主廚送來稀湯，梅聽著眾人說話。飢餓使人講話間不斷低聲呻吟，討論理念格外困難。她請議會像研究最後通牒一樣，仔細研究河川生態。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

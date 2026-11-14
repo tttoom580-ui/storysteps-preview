@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 9,
+  "chapterId": "import-third-gate-9",
+  "sourceChapterSha256": "276f105b077ce5ea8fbed1d70808eb36f3d4aad6c436acdf1e1b0081e7c8acfb",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "北嶺秘密鑄幣場扣留少年工資，睿與記者言順墓園隧道、假首相名義與魚桶運貨痕跡追至邊境軍官，警覺圍城將臨。",
+    "previousChapterEndingEnglish": "Weeks passed before a new order arrived. The crown kept its ceremonial rights but allowed open construction of waterwheels throughout the valley. Mei called it a small victory for public learning, not a defeat of the throne. Tao remained in Nanhe to teach, and his plans were copied in the temple workshop. Long afterward, students would point to this case as proof that knowledge grows when people share it. For Mei, the important memory was simpler: a muddy student had stood before decorated officials, explained his work honestly, and made a river turn for those who most needed it.",
+    "nextChapterOpeningEnglish": "Many centuries after Mei's death, archaeologist An entered an excavation office beneath a bronze dome at the new Nanhe museum. The city had become a crowded modern metropolis, but the river still followed the lines recorded in the old maps. An was studying genetics and the chemistry of ancient burial sites; a colleague explained how a single molecule trapped in soil could reveal traces of long-vanished food. Their discovery had drawn an entrepreneur willing to fund research, though his family owned large property beside the river. He offered generous equipment, then quietly asked that the museum avoid questions about the old governor's descendants."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "When Nanhe's soldiers returned from an expedition along the northern ridge, they brought news of a hidden mint. Its workers had struck copper coins bearing the old governor's mark. A bid to buy the mint's tools had come from someone calling himself a servant of the premier minister. Mei doubted the name, but she saw a danger: false money might weaken public trust even faster than a broken gate. She sent Rui, now an experienced ally, to inspect the place without announcing the council's purpose. Behind the bright exterior of the mint, they found a room that stank of burned oil.",
+        "zh": "南河士兵從北嶺遠征歸來，帶回一座秘密鑄幣所的消息。工人鑄造的銅錢竟刻著前太守印記。有個自稱首相僕役的人開價收購鑄幣工具。梅懷疑他的身分，卻看見另一種危險：假錢可能比壞水閘更快摧毀信任。她派如今已是老練盟友的睿秘密查看。鑄幣所外觀光鮮，內室卻散發焦油惡臭。",
+        "englishSha256": "ee3c21123af06911d46c352ba108e0be71bf8538f66f2e59936d6e9211026ce8",
+        "chineseSha256": "a8ca8660dd7f0b74383a65e6f7a41111320aedeaaad35ba1579a6f5867ef0471"
+      },
+      {
+        "number": 2,
+        "en": "Inside, two teenagers squatted beside a furnace, too tired to stand. Their master had made work compulsory and withheld the wages that would have bought them citizenship documents. One boy tried to snatch a purse from Rui, thinking he was an official who had come to punish them. Rui caught his wrist, then released it. “I am not here to assault a hungry child,” he said. The boys showed him how the mint's rear wall opened onto a narrow tunnel leading to a cemetery. There, carts could move at night without attracting attention.",
+        "zh": "屋內，兩名少年疲憊得站不起來，只能蹲在爐旁。主人強迫他們勞動，扣住原本可購買戶籍文件的工錢。一名男孩想從睿身上搶走錢袋，以為他是來處罰人的官員。睿握住他的手腕又放開。「我不是來毆打飢餓孩子的。」兩人於是指出，鑄幣所後牆有一條通往墓園的窄道，貨車能在夜裡神不知鬼不覺地通行。",
+        "englishSha256": "ecf17bcffa96701fb25943939b34675815bc0abe0c1311e4277dbf05881f916c",
+        "chineseSha256": "fe1851e8e21af94449d11b68f4fcd0fe88b070919e4a8daed81e1e7198b4bb6d"
+      },
+      {
+        "number": 3,
+        "en": "Yan joined them after dark. He usually liked to lounge at the inn with a book, but this night he crouched among old stones and counted wagons. Above him the galaxy stretched across a clear sky. Below, the moving lanterns made a pattern: three carts entered the tunnel, and four came out. The difference was a manifest of cargo being altered. Yan copied the symbols painted on each cart and sent a runner to the council. He warned Rui not to let anger distract them from finding out who received the finished coins.",
+        "zh": "言入夜後趕來。他平常喜歡在客棧悠閒讀書，這夜卻伏在墓石間數車。銀河橫跨晴空，地上的燈火則排出另一種圖案：三輛車進洞，四輛車出洞。差額顯示貨物清單有人動過手腳。言抄下每車符號，派人送回議會，提醒睿別讓怒氣分散注意，必須先查出假錢的最終收受者。",
+        "englishSha256": "db3d97adf03cc32a0dee408f1a254c117658ea7915b651bdade28ae9c1c1a05d",
+        "chineseSha256": "2d37fde5dec112449090520f354a2d8d881820d762007f9f7ae4dcec57d02b86"
+      },
+      {
+        "number": 4,
+        "en": "The answer came from an unexpected source. A woman whose family maintained the cemetery embraced Mei when they met, then led her to a grave covered with fresh soil. Her husband had discovered the tunnel and been killed for refusing to keep silent. Under a stone near his grave lay a packet of receipts. The premier's name was indeed forged; the buyer was an officer serving the frontier commander. The case linked the false coins to the army gathering beyond the hills. Mei felt the first cold certainty that Nanhe might soon face a siege.",
+        "zh": "答案來自意外的地方。一名替家族看守墓園的婦人見到梅，先擁抱她，再領她走向一座新墳。丈夫發現密道，因不肯沉默而遇害。墳旁石頭下藏著一包收據。首相之名果然遭冒用，真正買主是一名服侍邊境將領的軍官。假錢案就這樣連上山外集結的軍隊。梅第一次冰冷地確信，南河可能即將面對圍城。",
+        "englishSha256": "9c456bf88df06682c07a41528d377e41a1b503be8bc0b9f2736e3eaae5cbed40",
+        "chineseSha256": "36a213d16aa4cae7dc0ef10bcc544d94d2e7b907794ace52cd6f9db20c2952f8"
+      },
+      {
+        "number": 5,
+        "en": "At the mint, the furnace stink had covered another smell: dried tuna packed in barrels beside the counterfeit coins. The fish had come from distant traders who used the salt road, and their shipment marks supplied a clue. The same merchant company had transported military grain three weeks earlier. Yan persuaded a porter to describe the deliveries by promising that his name would not be printed until he was safe. The porter insisted on showing them his own records first. He had drawn little pictures of every cart because he could not write well enough to keep a normal ledger. Those pictures proved surprisingly accurate. Mei thanked him for noticing what educated officers had missed. The porter answered that a person who carried the same loads every day knew when a cart sounded wrong, even without understanding the politics behind it.",
+        "zh": "鑄幣所的爐煙惡臭掩蓋了另一種氣味：偽幣旁幾桶風乾鮪魚。魚來自走鹽道的遠方商販，運輸標記提供線索。同一家商號三週前還運過軍糧。言答應先保護搬運工身分，才請他描述貨運。搬運工堅持先給他們看自己的紀錄：因字寫不好，他畫下每輛車的簡圖，竟出奇精準。梅感謝他發現識字軍官忽略的細節。他說，天天扛相同貨物的人，即使不懂背後政治，也聽得出哪輛車的聲音不對。",
+        "englishSha256": "4e162b64381999f44fb4d238b56d4cecf91698434f25a8a8e98a97a0fa79a0e2",
+        "chineseSha256": "20d22829d78584583f76c95030e528852583e3c96685871f5a9767ef9d5a5092"
+      },
+      {
+        "number": 6,
+        "en": "Rather than hide the discovery, the council displayed the receipts in the square. The rescued teenagers received lawful papers, and their testimony helped identify the coin makers. Yet Mei refused to call the matter finished. She ordered fresh maps of the walls and asked the grain kitchens to store more supplies. Citizens came to ask whether war was certain. “No,” she answered. “But preparation is not surrender.” That night she climbed the south tower and watched the stars. The river was quiet. For the first time in many months, its silence troubled her more than its roar.",
+        "zh": "議會沒有藏起發現，而是將收據張貼廣場。兩名獲救少年拿到合法戶籍，證詞也協助找出鑄幣人。但梅不認為案件就此結束。她命人重繪城牆地圖，請公廚多存糧。百姓問戰爭是否必然到來。「不是，」她答，「但準備不等於投降。」那晚她登上南塔仰望繁星。河流安靜，幾個月來第一次，它的沉默比咆哮更使她不安。",
+        "englishSha256": "768e7ca9799fc90257016f1b5e7eac65f578f4c4fb24089d04487d40aed77c79",
+        "chineseSha256": "38d4ea84872fcd98b0d7cf5ce8dd7cd7fa5a38d385121c4db5546f34ab83322d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 620,
+    "targets": [
+      {
+        "word": "ally",
+        "meaning": "盟友",
+        "appearsInSource": true
+      },
+      {
+        "word": "assault",
+        "meaning": "攻擊；毆打",
+        "appearsInSource": true
+      },
+      {
+        "word": "bid",
+        "meaning": "出價；競標",
+        "appearsInSource": true
+      },
+      {
+        "word": "cemetery",
+        "meaning": "墓園",
+        "appearsInSource": true
+      },
+      {
+        "word": "citizenship",
+        "meaning": "公民身分",
+        "appearsInSource": true
+      },
+      {
+        "word": "compulsory",
+        "meaning": "強制的",
+        "appearsInSource": true
+      },
+      {
+        "word": "distract",
+        "meaning": "分散注意",
+        "appearsInSource": true
+      },
+      {
+        "word": "embraced",
+        "meaning": "擁抱",
+        "appearsInSource": true
+      },
+      {
+        "word": "expedition",
+        "meaning": "遠征；遠行",
+        "appearsInSource": true
+      },
+      {
+        "word": "exterior",
+        "meaning": "外表；外側",
+        "appearsInSource": true
+      },
+      {
+        "word": "galaxy",
+        "meaning": "銀河",
+        "appearsInSource": true
+      },
+      {
+        "word": "lounge",
+        "meaning": "閒坐；放鬆",
+        "appearsInSource": true
+      },
+      {
+        "word": "manifest",
+        "meaning": "貨物清單",
+        "appearsInSource": true
+      },
+      {
+        "word": "mint",
+        "meaning": "鑄幣廠",
+        "appearsInSource": true
+      },
+      {
+        "word": "premier",
+        "meaning": "首相的；首要的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rear",
+        "meaning": "後方",
+        "appearsInSource": true
+      },
+      {
+        "word": "snatch",
+        "meaning": "奪走；搶走",
+        "appearsInSource": true
+      },
+      {
+        "word": "squatted",
+        "meaning": "蹲下",
+        "appearsInSource": true
+      },
+      {
+        "word": "stink",
+        "meaning": "散發惡臭",
+        "appearsInSource": true
+      },
+      {
+        "word": "tuna",
+        "meaning": "鮪魚",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Mint Beneath the Stars〉第 1 段的事件，哪個選項能正確補完整句？\nMei doubted the name, but she saw ____: false money might weaken public trust even faster than a broken gate.",
+      "options": [
+        "a bruise",
+        "a petition demanding",
+        "a danger"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a danger",
+      "existingAnswerExplanation": "原文證據：Mei doubted the name, but she saw a danger: false money might weaken public trust even faster than a broken gate.\n本段對照：南河士兵從北嶺遠征歸來，帶回一座秘密鑄幣所的消息。工人鑄造的銅錢竟刻著前太守印記。有個自稱首相僕役的人開價收購鑄幣工具。梅懷疑他的身分，卻看見另一種危險：假錢可能比壞水閘更快摧毀信任。她派如今已是老練盟友的睿秘密查看。鑄幣所外觀光鮮，內室卻散發焦油惡臭。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "When Nanhe's soldiers returned from an expedition along the northern ridge, they brought news of a hidden mint. Its workers had struck copper coins bearing the old governor's mark. A bid to buy the mint's tools had come from someone calling himself a servant of the premier minister. Mei doubted the name, but she saw a danger: false money might weaken public trust even faster than a broken gate. She sent Rui, now an experienced ally, to inspect the place without announcing the council's purpose. Behind the bright exterior of the mint, they found a room that stank of burned oil.",
+          "chinese": "南河士兵從北嶺遠征歸來，帶回一座秘密鑄幣所的消息。工人鑄造的銅錢竟刻著前太守印記。有個自稱首相僕役的人開價收購鑄幣工具。梅懷疑他的身分，卻看見另一種危險：假錢可能比壞水閘更快摧毀信任。她派如今已是老練盟友的睿秘密查看。鑄幣所外觀光鮮，內室卻散發焦油惡臭。",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 4,
+          "english": "The answer came from an unexpected source. A woman whose family maintained the cemetery embraced Mei when they met, then led her to a grave covered with fresh soil. Her husband had discovered the tunnel and been killed for refusing to keep silent. Under a stone near his grave lay a packet of receipts. The premier's name was indeed forged; the buyer was an officer serving the frontier commander. The case linked the false coins to the army gathering beyond the hills. Mei felt the first cold certainty that Nanhe might soon face a siege.",
+          "chinese": "答案來自意外的地方。一名替家族看守墓園的婦人見到梅，先擁抱她，再領她走向一座新墳。丈夫發現密道，因不肯沉默而遇害。墳旁石頭下藏著一包收據。首相之名果然遭冒用，真正買主是一名服侍邊境將領的軍官。假錢案就這樣連上山外集結的軍隊。梅第一次冰冷地確信，南河可能即將面對圍城。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Mint Beneath the Stars〉第 6 段的事件，哪個選項能正確補完整句？\n“But preparation is not surrender.” That night she climbed the south tower and watched ____.",
+      "options": [
+        "the stars",
+        "the children waiting",
+        "the official museum archive"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the stars",
+      "existingAnswerExplanation": "原文證據：“But preparation is not surrender.” That night she climbed the south tower and watched the stars.\n本段對照：議會沒有藏起發現，而是將收據張貼廣場。兩名獲救少年拿到合法戶籍，證詞也協助找出鑄幣人。但梅不認為案件就此結束。她命人重繪城牆地圖，請公廚多存糧。百姓問戰爭是否必然到來。「不是，」她答，「但準備不等於投降。」那晚她登上南塔仰望繁星。河流安靜，幾個月來第一次，它的沉默比咆哮更使她不安。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Rather than hide the discovery, the council displayed the receipts in the square. The rescued teenagers received lawful papers, and their testimony helped identify the coin makers. Yet Mei refused to call the matter finished. She ordered fresh maps of the walls and asked the grain kitchens to store more supplies. Citizens came to ask whether war was certain. “No,” she answered. “But preparation is not surrender.” That night she climbed the south tower and watched the stars. The river was quiet. For the first time in many months, its silence troubled her more than its roar.",
+          "chinese": "議會沒有藏起發現，而是將收據張貼廣場。兩名獲救少年拿到合法戶籍，證詞也協助找出鑄幣人。但梅不認為案件就此結束。她命人重繪城牆地圖，請公廚多存糧。百姓問戰爭是否必然到來。「不是，」她答，「但準備不等於投降。」那晚她登上南塔仰望繁星。河流安靜，幾個月來第一次，它的沉默比咆哮更使她不安。",
+          "matchedQueryTerms": 16
+        },
+        {
+          "paragraph": 1,
+          "english": "When Nanhe's soldiers returned from an expedition along the northern ridge, they brought news of a hidden mint. Its workers had struck copper coins bearing the old governor's mark. A bid to buy the mint's tools had come from someone calling himself a servant of the premier minister. Mei doubted the name, but she saw a danger: false money might weaken public trust even faster than a broken gate. She sent Rui, now an experienced ally, to inspect the place without announcing the council's purpose. Behind the bright exterior of the mint, they found a room that stank of burned oil.",
+          "chinese": "南河士兵從北嶺遠征歸來，帶回一座秘密鑄幣所的消息。工人鑄造的銅錢竟刻著前太守印記。有個自稱首相僕役的人開價收購鑄幣工具。梅懷疑他的身分，卻看見另一種危險：假錢可能比壞水閘更快摧毀信任。她派如今已是老練盟友的睿秘密查看。鑄幣所外觀光鮮，內室卻散發焦油惡臭。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 4,
+  "chapterId": "import-third-gate-4",
+  "sourceChapterSha256": "815671e171d82e31bd41ac33156451784905a74424bc49f98a43465c412c7d0e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "首雪商隊病患入城，梅訂病弱者及糧優先、醫者改良排煙，劃分病例不歸罪腕上紅線風俗，病疫使城成立永久避難所。",
+    "previousChapterEndingEnglish": "Bo did not promise a quick answer. He sealed both maps in a cedar case and requested witnesses from three villages. His attorney read the orders aloud at the market so nobody could change their meaning behind closed doors. Mei finally began to trust him. The next morning, she climbed the wall with Master Wen. Below them the repaired gate turned smoothly, but beyond the hills a new road was being cleared for soldiers. Someone in the capital was preparing to defend more than one governor. The maps, Mei realized, were not merely records of the past. They might become evidence in the next struggle over the kingdom's future.",
+    "nextChapterOpeningEnglish": "At the start of summer, a bell called Nanhe's residents to the first open assembly in living memory. Its attendance surprised even Mei: fishermen, potters, traders, soldiers, and widows filled the square. Several wore their finest outfit, while others arrived straight from work with dust on their sleeves. At the center stood a wooden box for written suggestions. A contemporary chronicler later called it the beginning of a new political transition. To the people standing in the heat, it was simply the first time officials had agreed to listen without demanding payment."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The first snow came early, and with it a line of freight carts entering Nanhe. Their drivers asked for housing because the mountain passes had closed. The city had little room to spare. Families who had survived the flood still lived in temporary sheds, and many had lost the boredom of ordinary days: every morning began with the urgent question of food and firewood. A merchant offered silver to move his cargo first, yet the new civic guideline said that children, sick people, and grain took priority. Mei enforced it even when the merchant called her heartless.",
+        "zh": "初雪提早落下，一列載貨馬車隨之進入南河。山口已封，車夫們要求住宿。城裡其實沒有多少餘地。倖免於洪水的家庭仍住在臨時棚屋，日常那種無聊早已消失；每天早晨第一件急事都是找食物與柴火。一名商人用銀子想讓自己的貨先過，但新的公共指引規定，孩童、病人與糧食優先。即使商人罵她無情，梅也照規定執行。",
+        "englishSha256": "2308b69ccdf9c03b6ed513cac94300ef33ef44998757af67714b66781809230b",
+        "chineseSha256": "328186b6110457c8809127311f54321c19f46b646af0b4dc45c5b1e38dd12697"
+      },
+      {
+        "number": 2,
+        "en": "Near the northern driveway, a driver collapsed beside his cart. His face was gray; minutes later he began to vomit. The healer suspected winter fever and asked for medication carried with the caravan. The merchant said the jars were his private property. A woman stepped forward and pleaded for her son, who had developed the same symptoms. Her quiet voice was more eloquent than any formal speech. “What use is your wealth,” she asked, “if you need the living to buy your goods?” The merchant looked away, but the other drivers opened their medicine chests.",
+        "zh": "北門車道旁，一名車夫突然倒在車旁，臉色灰白，片刻後開始嘔吐。醫者懷疑是冬季熱病，請求商隊提供隨車藥品。商人卻說那些藥罐是私人財產。一名婦人走出來，替染上相同病徵的兒子懇求。她平靜的聲音比正式演說更有說服力。「若沒有人活著買你的貨，財富有何用？」商人避開目光，其他車夫卻打開藥箱。",
+        "englishSha256": "0a984583266e824de47e97610356244eef69effda5d06a57a1f807040328aef6",
+        "chineseSha256": "64142bc3d244f5e8cf70cc151da028f144f0522238b7937b2d6e0ecd622b02a9"
+      },
+      {
+        "number": 3,
+        "en": "Mei moved the patients to an empty tin workshop where charcoal fires could warm the walls. The building had a broad doorway, but smoke might intensify the illness, so Master Wen devised an innovative system of vents. The first improvement was noticeable by dusk: the patients breathed more easily, and the room no longer burned their eyes. A young carpenter proposed additional sleeping platforms, while cooks brought water in covered pots. Working side by side did not end every argument. It did, however, stimulate new ideas about how the city could face emergencies without waiting for noble permission.",
+        "zh": "梅把病患送往一間空置的馬口鐵器作坊，讓炭火暖起牆壁。屋門寬敞，但煙可能加重病情，文師傅便設計新式通風道。到了黃昏，改善已很明顯：病患呼吸較順，也不再被煙燻得眼睛刺痛。年輕木匠建議加設床架，廚房送來加蓋的水鍋。並肩合作沒有消除所有爭執，卻激發了新想法：城市不該等貴族許可，才有能力應付危機。",
+        "englishSha256": "ef10ac6f482074ac82063c028a3c62101ac364d80ff9095a455f5250d38c35f6",
+        "chineseSha256": "b7f7c97845f924ec592daa48164f532e8233f526307299e01dd51ec15a8320a7"
+      },
+      {
+        "number": 4,
+        "en": "For three days the fever spread. Mei slept scarcely at all. Each death threatened to pull her into despair, and each new patient forced her to choose between competing needs. A council elder argued that morality required them to shelter everyone. The healer replied that crowding could prolong the outbreak. Their debate ended when a child suggested marking healthy households with white paper and sick ones with red. The system was imperfect, but it helped helpers deliver meals without carrying illness from door to door.",
+        "zh": "熱病連續蔓延三天，梅幾乎沒睡。每一次死亡都讓她瀕臨絕望，每一位新病人又迫使她在不同需求間做選擇。議會長者說，道德要求城市收留所有人；醫者則指出過度擁擠會延長疫情。最後，一名孩子建議用白紙標記健康住家、紅紙標記病家。制度雖不完美，至少能讓送餐者減少挨家挨戶傳播疾病。",
+        "englishSha256": "6651b74835b3d55b8dfe28d719f8a89ee6f479fa67e0c01be89b43bcfb0d71a9",
+        "chineseSha256": "41395e294901d12d7cbf4d30944693f7ec9322e4dbe56bae57d1a177da960aa0"
+      },
+      {
+        "number": 5,
+        "en": "The first driver who fell ill had carried a strange carriage cover made from wooden ribs and stretched oilcloth. He called the clear panel at its front a windshield because it protected his eyes from icy wind. Mei had never heard the expression, but she kept the cover for the shelter, where it shielded sick children from drafts. While cleaning it, she noticed a trait shared by several drivers: each had wrapped a red thread around the wrist after crossing the mountain pass. The healer explained that the thread was a sign of a roadside blessing, not a cause of sickness. Mei wrote this distinction on the wall so nobody would blame travelers for their customs. When fear is high, she thought, people often confuse a visible sign with an invisible cause. She wanted the city's records to remember the difference.",
+        "zh": "第一名病倒的車夫帶來一頂奇特車篷，以木肋撐住油布，前方還有透明擋風板。他稱那面板是 windshield，因為可替眼睛擋住寒風。梅雖從未聽過這個說法，仍把車篷留在收容所，替病童遮擋冷氣。擦洗時，她注意到多名車夫有共同特徵：越過山口後，手腕都繫著紅線。醫者說，那是路旁祈福的標記，不是致病原因。梅把區別寫在牆上，避免有人責怪旅人的風俗。恐懼升高時，人很容易把看得見的記號誤認為看不見的病因。她要城裡的紀錄記住這一點。",
+        "englishSha256": "286f0fbb89ad0bd9b1d16f724a7385b23d319bedb04a70ff951481af087ed1db",
+        "chineseSha256": "8823b171a4273cb1eaa6b898af838001d05637bea6970b603e2b103a0b60131c"
+      },
+      {
+        "number": 6,
+        "en": "When the passes reopened, the merchant asked why Mei had not confiscated all his wares. “Because rules must protect even people who displease us,” she answered. He stood silently before leaving a cart of grain at the kitchen. Yan the journalist wrote about the winter fever but refused to name its survivors as heroes without their permission. Nanhe buried twelve people. It also established a permanent shelter and appointed two healers to advise its council. Mei knew no guideline could remove suffering altogether. Yet she believed careful planning could keep suffering from becoming the price of someone's pride.",
+        "zh": "山路重新開放後，那名商人問梅，為何不把他的貨全數沒收。「因為規則也必須保護我們不喜歡的人。」她回答。他沉默良久，離開前留下整車糧食。記者言寫下冬疫，卻拒絕在未經允許時擅自把生還者稱為英雄。南河埋葬了十二人，也成立永久避難所，並任命兩名醫者擔任議會顧問。梅明白，任何指引都無法消除所有苦難，但好的規劃，至少不該讓苦難成為某個人驕傲的代價。",
+        "englishSha256": "5ed31edff93d22c5a633c96a724d8dc79907671a17744ea44ed3bec385193525",
+        "chineseSha256": "045488b0d3a31013df42f873dd12951f737f0051e6885d4787d320aa70941bc3"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 614,
+    "targets": [
+      {
+        "word": "boredom",
+        "meaning": "無聊；乏味",
+        "appearsInSource": true
+      },
+      {
+        "word": "civic",
+        "meaning": "公民的；公共的",
+        "appearsInSource": true
+      },
+      {
+        "word": "despair",
+        "meaning": "絕望",
+        "appearsInSource": true
+      },
+      {
+        "word": "driveway",
+        "meaning": "車道",
+        "appearsInSource": true
+      },
+      {
+        "word": "eloquent",
+        "meaning": "雄辯的；有說服力的",
+        "appearsInSource": true
+      },
+      {
+        "word": "freight",
+        "meaning": "貨運；貨物",
+        "appearsInSource": true
+      },
+      {
+        "word": "guideline",
+        "meaning": "指引；準則",
+        "appearsInSource": true
+      },
+      {
+        "word": "housing",
+        "meaning": "住房；住所",
+        "appearsInSource": true
+      },
+      {
+        "word": "innovative",
+        "meaning": "創新的",
+        "appearsInSource": true
+      },
+      {
+        "word": "intensify",
+        "meaning": "加劇；增強",
+        "appearsInSource": true
+      },
+      {
+        "word": "medication",
+        "meaning": "藥品",
+        "appearsInSource": true
+      },
+      {
+        "word": "morality",
+        "meaning": "道德",
+        "appearsInSource": true
+      },
+      {
+        "word": "noticeable",
+        "meaning": "明顯可見的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pleaded",
+        "meaning": "懇求",
+        "appearsInSource": true
+      },
+      {
+        "word": "prolong",
+        "meaning": "延長",
+        "appearsInSource": true
+      },
+      {
+        "word": "stimulate",
+        "meaning": "激發；促進",
+        "appearsInSource": true
+      },
+      {
+        "word": "tin",
+        "meaning": "馬口鐵",
+        "appearsInSource": true
+      },
+      {
+        "word": "trait",
+        "meaning": "特徵",
+        "appearsInSource": true
+      },
+      {
+        "word": "vomit",
+        "meaning": "嘔吐",
+        "appearsInSource": true
+      },
+      {
+        "word": "windshield",
+        "meaning": "擋風板",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Caravan of Winter Fever〉第 2 段的事件，哪個選項能正確補完整句？\n“What use is your wealth,” she asked, “if you need the living to buy your goods?” The merchant looked away, but the other drivers opened ____.",
+      "options": [
+        "their medicine chests",
+        "their voices sharp",
+        "their names"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "their medicine chests",
+      "existingAnswerExplanation": "原文證據：“What use is your wealth,” she asked, “if you need the living to buy your goods?” The merchant looked away, but the other drivers opened their medicine chests.\n本段對照：北門車道旁，一名車夫突然倒在車旁，臉色灰白，片刻後開始嘔吐。醫者懷疑是冬季熱病，請求商隊提供隨車藥品。商人卻說那些藥罐是私人財產。一名婦人走出來，替染上相同病徵的兒子懇求。她平靜的聲音比正式演說更有說服力。「若沒有人活著買你的貨，財富有何用？」商人避開目光，其他車夫卻打開藥箱。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Near the northern driveway, a driver collapsed beside his cart. His face was gray; minutes later he began to vomit. The healer suspected winter fever and asked for medication carried with the caravan. The merchant said the jars were his private property. A woman stepped forward and pleaded for her son, who had developed the same symptoms. Her quiet voice was more eloquent than any formal speech. “What use is your wealth,” she asked, “if you need the living to buy your goods?” The merchant looked away, but the other drivers opened their medicine chests.",
+          "chinese": "北門車道旁，一名車夫突然倒在車旁，臉色灰白，片刻後開始嘔吐。醫者懷疑是冬季熱病，請求商隊提供隨車藥品。商人卻說那些藥罐是私人財產。一名婦人走出來，替染上相同病徵的兒子懇求。她平靜的聲音比正式演說更有說服力。「若沒有人活著買你的貨，財富有何用？」商人避開目光，其他車夫卻打開藥箱。",
+          "matchedQueryTerms": 27
+        },
+        {
+          "paragraph": 1,
+          "english": "The first snow came early, and with it a line of freight carts entering Nanhe. Their drivers asked for housing because the mountain passes had closed. The city had little room to spare. Families who had survived the flood still lived in temporary sheds, and many had lost the boredom of ordinary days: every morning began with the urgent question of food and firewood. A merchant offered silver to move his cargo first, yet the new civic guideline said that children, sick people, and grain took priority. Mei enforced it even when the merchant called her heartless.",
+          "chinese": "初雪提早落下，一列載貨馬車隨之進入南河。山口已封，車夫們要求住宿。城裡其實沒有多少餘地。倖免於洪水的家庭仍住在臨時棚屋，日常那種無聊早已消失；每天早晨第一件急事都是找食物與柴火。一名商人用銀子想讓自己的貨先過，但新的公共指引規定，孩童、病人與糧食優先。即使商人罵她無情，梅也照規定執行。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Caravan of Winter Fever〉第 5 段的事件，哪個選項能正確補完整句？\nShe wanted ____ to remember the difference.",
+      "options": [
+        "the sluice",
+        "the center of the next exhibit",
+        "the city's records"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the city's records",
+      "existingAnswerExplanation": "原文證據：She wanted the city's records to remember the difference.\n本段對照：第一名病倒的車夫帶來一頂奇特車篷，以木肋撐住油布，前方還有透明擋風板。他稱那面板是 windshield，因為可替眼睛擋住寒風。梅雖從未聽過這個說法，仍把車篷留在收容所，替病童遮擋冷氣。擦洗時，她注意到多名車夫有共同特徵：越過山口後，手腕都繫著紅線。醫者說，那是路旁祈福的標記，不是致病原因。梅把區別寫在牆上，避免有人責怪旅人的風俗。恐懼升高時，人很容易把看得見的記號誤認為看不見的病因。她要城裡的紀錄記住這一點。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "The first driver who fell ill had carried a strange carriage cover made from wooden ribs and stretched oilcloth. He called the clear panel at its front a windshield because it protected his eyes from icy wind. Mei had never heard the expression, but she kept the cover for the shelter, where it shielded sick children from drafts. While cleaning it, she noticed a trait shared by several drivers: each had wrapped a red thread around the wrist after crossing the mountain pass. The healer explained that the thread was a sign of a roadside blessing, not a cause of sickness. Mei wrote this distinction on the wall so nobody would blame travelers for their customs. When fear is high, she thought, people often confuse a visible sign with an invisible cause. She wanted the city's records to remember the difference.",
+          "chinese": "第一名病倒的車夫帶來一頂奇特車篷，以木肋撐住油布，前方還有透明擋風板。他稱那面板是 windshield，因為可替眼睛擋住寒風。梅雖從未聽過這個說法，仍把車篷留在收容所，替病童遮擋冷氣。擦洗時，她注意到多名車夫有共同特徵：越過山口後，手腕都繫著紅線。醫者說，那是路旁祈福的標記，不是致病原因。梅把區別寫在牆上，避免有人責怪旅人的風俗。恐懼升高時，人很容易把看得見的記號誤認為看不見的病因。她要城裡的紀錄記住這一點。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 2,
+          "english": "Near the northern driveway, a driver collapsed beside his cart. His face was gray; minutes later he began to vomit. The healer suspected winter fever and asked for medication carried with the caravan. The merchant said the jars were his private property. A woman stepped forward and pleaded for her son, who had developed the same symptoms. Her quiet voice was more eloquent than any formal speech. “What use is your wealth,” she asked, “if you need the living to buy your goods?” The merchant looked away, but the other drivers opened their medicine chests.",
+          "chinese": "北門車道旁，一名車夫突然倒在車旁，臉色灰白，片刻後開始嘔吐。醫者懷疑是冬季熱病，請求商隊提供隨車藥品。商人卻說那些藥罐是私人財產。一名婦人走出來，替染上相同病徵的兒子懇求。她平靜的聲音比正式演說更有說服力。「若沒有人活著買你的貨，財富有何用？」商人避開目光，其他車夫卻打開藥箱。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

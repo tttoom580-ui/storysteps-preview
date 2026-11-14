@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 3,
+  "chapterId": "import-third-gate-3",
+  "sourceChapterSha256": "679a1eda8bd22811b2aba8b5baef951daf5008644c1cfa4be2642f73b845991d",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "春初王都調查官伯帶法律代理人檢查河圖與河渡，梅父親第二張未實施水道圖拓寬疑案，調查需多村證言。",
+    "previousChapterEndingEnglish": "In the weeks that followed, investigators compared the tags with marks preserved on the old floodgate. The evidence told a clear story: officials knew the danger and concealed it. The fisherman returned home; the boy began learning to write; and the public kitchens received grain without paying a tax. Yan published the testimony on the market wall, where anyone could read it. Mei knew the former governor might still have allies in the capital. She also knew that truth could persist after powerful men had disappeared. When she looked toward the river, she saw neither an enemy nor a miracle, but a neighbor whose warnings could finally be heard.",
+    "nextChapterOpeningEnglish": "The first snow came early, and with it a line of freight carts entering Nanhe. Their drivers asked for housing because the mountain passes had closed. The city had little room to spare. Families who had survived the flood still lived in temporary sheds, and many had lost the boredom of ordinary days: every morning began with the urgent question of food and firewood. A merchant offered silver to move his cargo first, yet the new civic guideline said that children, sick people, and grain took priority. Mei enforced it even when the merchant called her heartless."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "In early spring, a royal executive arrived to investigate Nanhe. The title sounded grand, but Lord Bo carried no sword and traveled with only one cart. At his side stood an attorney trained to speak for families who could not read legal orders. Their task was to determine the scope of the former governor's thefts. Mei watched them unload a layered map, each thin sheet showing a different year of the river's course. No single viewpoint told the whole history. She was cautious: the capital had sent investigators before, and every previous inquiry had ended when the officials received gifts.",
+        "zh": "初春時，一位掌管朝廷事務的高級官員抵達南河。伯大人的頭銜響亮，卻不佩刀，只帶一輛車。他身旁的法律代理人專為不識官文的家庭發言。他們要查明前太守侵吞財物的範圍。梅看著他們展開疊層地圖，每張薄紙記著不同年份的河道。單一觀點無法說完歷史。她仍很謹慎：京城以前也派過調查者，卻每次都在官員收下禮物後不了了之。",
+        "englishSha256": "1d2c2428ae247801aea43631ba28aa5142813d4c747b2da73d2d9e4aac44486a",
+        "chineseSha256": "ba82d902a2495f18c02a4c3f09add4dbce1fc251b2d3ad14b4b9aa7a6db8d666"
+      },
+      {
+        "number": 2,
+        "en": "To test Bo's honesty, Mei took him to the ferry landing. Here boatmen shuttled villagers across the current, and a leather strap held each cargo chest to the deck. Every tick of the water clock meant one more crossing completed before nightfall. A child straightened a crooked measuring pole and pointed to marks scratched below the present level. “My beloved grandfather carved those,” she said. “He warned that the river would find its old channel again.” Bo knelt to examine the marks rather than order her aside. It was a small gesture, but Mei noticed it.",
+        "zh": "為了試探伯大人的誠意，梅帶他去渡口。船夫不停接送村民過河，船上以皮帶固定貨箱。水鐘每滴答一回，就意味著天黑前又完成一次渡運。一名孩子扶正歪斜的測量木桿，指向目前水位下方的刻痕。「那是我最愛的祖父刻的，」她說，「他說河總會找回原本的路。」伯大人沒有命她退下，反而蹲下細看。動作雖小，梅卻看在眼裡。",
+        "englishSha256": "5dd2bddb74126ac09b6bf950ed9463ce1cfb6d7daa5b17a7251d9ffe2f683039",
+        "chineseSha256": "094fe6c1c3b8faffbf7056281d53655716d264c9e0531aa54c36fd0c7b11fb32"
+      },
+      {
+        "number": 3,
+        "en": "They then visited a hillside where wildcats hunted field mice as prey. The soldiers wanted to clear the forest, claiming that roots weakened the wall. Master Wen, whose shoulder had not fully healed, showed them a biological explanation: roots held soil together, while bare slopes shed mud into the water. Aggression against the forest would diminish the city's safety. Bo gave a shrug at the soldiers' suggestion and listened. He had expected an argument about taxes, not a lesson in living systems. “I specialize in law,” he admitted. “It seems the river does not.”",
+        "zh": "一行人接著走到山坡，那裡野貓以田鼠為獵物。士兵想砍掉林木，聲稱樹根會削弱城牆。肩傷尚未痊癒的文師傅用生物學道理解釋：樹根能抓住土壤，裸坡才會把泥沙沖進河裡。粗暴對待森林，只會降低城市的安全。伯大人聽完，對士兵的主張聳聳肩。他本以為要爭的是稅法，沒想到得先學活生生的自然規律。「我專精法律，」他承認，「看來河水可不是。」",
+        "englishSha256": "4659f39fc3a43d68151c71ea0e20ac96985dc88904650c95bdeb65a13c135dbd",
+        "chineseSha256": "1346c4ef200352385e559a3e447699a207428979d811864c2ec8e53603d5d56e"
+      },
+      {
+        "number": 4,
+        "en": "That evening Mei found a second map folded inside the first. It showed a virtual city: not an imaginary one, but the city as planners hoped it might exist after repairs. It included bridges never built, farms never protected, and a second channel that officials had rejected as too expensive. The drawing was bound with cord and marked in her father's hand. The discovery widened the inquiry. Had her father died in an accident, or had someone silenced him because his plans threatened private interests? Mei held the paper against the lantern and saw a faint signature beneath the ink.",
+        "zh": "那晚，梅在第一張地圖中找到第二張折紙。畫上是一座虛擬規劃中的城市：並非幻想之城，而是工程完成後理想中的南河。圖裡有未曾建成的橋、未被保護的農田，還有一條因太昂貴而遭官員否決的水道。圖紙用細繩束起，留有父親的筆跡。這發現使調查範圍擴大。父親當年究竟死於意外，還是因計畫危及私利而被滅口？梅把紙對著燈火，看到墨層下方一個模糊的簽名。",
+        "englishSha256": "a8b9c7bc97d0f640833e8d14f4d5889689e6fad484e4835f11df3749518dc14a",
+        "chineseSha256": "12e211f5ff4f17132dfe107b3a81f9227936aa46c51caf211c125f1968cb4e25"
+      },
+      {
+        "number": 5,
+        "en": "On the ride home, Mei argued with Master Wen about realism in public plans. She wanted the next map to show every repaired house in bright red ink, but he warned that optimistic drawings could mislead as easily as pessimistic ones. “A plan is not a promise,” he said. “It is a claim that must be tested against mud, timber, weather, and people.” They stopped beside a field where farmers were rebuilding fences damaged by the flood. One woman asked whether the council could mark the safest paths to school before the spring rains returned. Mei realized that a useful map did not need to predict the whole future. It needed to help someone make the next difficult journey. That night she added a plain legend to the map, distinguishing what had been measured, what had been estimated, and what remained unknown. Master Wen looked at it and nodded.",
+        "zh": "返城路上，梅與文師傅爭論公共規劃需要多少寫實精神。她想用鮮紅墨色把所有修好的房屋標上去，師傅卻警告，過度樂觀的圖與悲觀的圖同樣可能誤導。「計畫不是承諾，」他說，「而是必須經過泥土、木材、天氣與人的考驗的主張。」他們經過正在修洪災柵欄的農田，一位婦人問，春雨再來前能否先畫出孩子上學最安全的路。梅忽然明白，實用地圖不必預測整個未來，只需幫人走過下一段難路。當晚她在地圖加上圖例，區別已測量、僅估算與仍未知的部分。師傅看後點了頭。",
+        "englishSha256": "11e5f759b75f4bb4948d46f012d73043e91f895956d8a11803a7f0099effcd64",
+        "chineseSha256": "c3c9e10e76b1b604998b8f06e171e6762941ede8cadb00266321f404eeb90cdb"
+      },
+      {
+        "number": 6,
+        "en": "Bo did not promise a quick answer. He sealed both maps in a cedar case and requested witnesses from three villages. His attorney read the orders aloud at the market so nobody could change their meaning behind closed doors. Mei finally began to trust him. The next morning, she climbed the wall with Master Wen. Below them the repaired gate turned smoothly, but beyond the hills a new road was being cleared for soldiers. Someone in the capital was preparing to defend more than one governor. The maps, Mei realized, were not merely records of the past. They might become evidence in the next struggle over the kingdom's future.",
+        "zh": "伯大人沒有承諾迅速結案。他把兩張地圖封進杉木箱，向三個村子徵召證人。他的法律代理人在市集當眾宣讀命令，以免有人在密室裡偷改字義。梅終於逐漸信任他。翌晨，她和文師傅登上城牆。腳下修復的水閘順暢運轉，但山外卻有人正替軍隊拓路。京城裡有人準備保護的不只一名太守。梅忽然懂了：地圖不只是過去的紀錄，也可能是未來王國爭鬥的證據。",
+        "englishSha256": "1e8d24692bff03fce5ade7322375087fd85dc59046c557158778de1b7efbc0c0",
+        "chineseSha256": "374f21a4886daf44a83dc7124d6b686e7d8e6757fa085023ef6f9d58b316f013"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 648,
+    "targets": [
+      {
+        "word": "aggression",
+        "meaning": "攻擊性；侵略行為",
+        "appearsInSource": true
+      },
+      {
+        "word": "attorney",
+        "meaning": "法律代理人",
+        "appearsInSource": true
+      },
+      {
+        "word": "beloved",
+        "meaning": "心愛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "biological",
+        "meaning": "生物學的",
+        "appearsInSource": true
+      },
+      {
+        "word": "bound",
+        "meaning": "綁著；束縛",
+        "appearsInSource": true
+      },
+      {
+        "word": "cautious",
+        "meaning": "謹慎的",
+        "appearsInSource": true
+      },
+      {
+        "word": "diminish",
+        "meaning": "減少；削弱",
+        "appearsInSource": true
+      },
+      {
+        "word": "executive",
+        "meaning": "高級行政官員",
+        "appearsInSource": true
+      },
+      {
+        "word": "layered",
+        "meaning": "層；薄片",
+        "appearsInSource": true
+      },
+      {
+        "word": "prey",
+        "meaning": "獵物",
+        "appearsInSource": true
+      },
+      {
+        "word": "realism",
+        "meaning": "寫實；務實態度",
+        "appearsInSource": true
+      },
+      {
+        "word": "scope",
+        "meaning": "範圍",
+        "appearsInSource": true
+      },
+      {
+        "word": "shrug",
+        "meaning": "聳肩",
+        "appearsInSource": true
+      },
+      {
+        "word": "shuttled",
+        "meaning": "往返載運",
+        "appearsInSource": true
+      },
+      {
+        "word": "specialize",
+        "meaning": "專精於",
+        "appearsInSource": true
+      },
+      {
+        "word": "straightened",
+        "meaning": "扶正；弄直",
+        "appearsInSource": true
+      },
+      {
+        "word": "strap",
+        "meaning": "皮帶；束帶",
+        "appearsInSource": true
+      },
+      {
+        "word": "tick",
+        "meaning": "滴答聲",
+        "appearsInSource": true
+      },
+      {
+        "word": "viewpoint",
+        "meaning": "觀點",
+        "appearsInSource": true
+      },
+      {
+        "word": "virtual",
+        "meaning": "虛擬規劃的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Horseman's Two Maps〉第 3 段的事件，哪個選項能正確補完整句？\nBo gave ____ at the soldiers' suggestion and listened.",
+      "options": [
+        "a familiar figure",
+        "a shrug",
+        "a generous donation instead"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a shrug",
+      "existingAnswerExplanation": "原文證據：Bo gave a shrug at the soldiers' suggestion and listened.\n本段對照：一行人接著走到山坡，那裡野貓以田鼠為獵物。士兵想砍掉林木，聲稱樹根會削弱城牆。肩傷尚未痊癒的文師傅用生物學道理解釋：樹根能抓住土壤，裸坡才會把泥沙沖進河裡。粗暴對待森林，只會降低城市的安全。伯大人聽完，對士兵的主張聳聳肩。他本以為要爭的是稅法，沒想到得先學活生生的自然規律。「我專精法律，」他承認，「看來河水可不是。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "They then visited a hillside where wildcats hunted field mice as prey. The soldiers wanted to clear the forest, claiming that roots weakened the wall. Master Wen, whose shoulder had not fully healed, showed them a biological explanation: roots held soil together, while bare slopes shed mud into the water. Aggression against the forest would diminish the city's safety. Bo gave a shrug at the soldiers' suggestion and listened. He had expected an argument about taxes, not a lesson in living systems. “I specialize in law,” he admitted. “It seems the river does not.”",
+          "chinese": "一行人接著走到山坡，那裡野貓以田鼠為獵物。士兵想砍掉林木，聲稱樹根會削弱城牆。肩傷尚未痊癒的文師傅用生物學道理解釋：樹根能抓住土壤，裸坡才會把泥沙沖進河裡。粗暴對待森林，只會降低城市的安全。伯大人聽完，對士兵的主張聳聳肩。他本以為要爭的是稅法，沒想到得先學活生生的自然規律。「我專精法律，」他承認，「看來河水可不是。」",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 6,
+          "english": "Bo did not promise a quick answer. He sealed both maps in a cedar case and requested witnesses from three villages. His attorney read the orders aloud at the market so nobody could change their meaning behind closed doors. Mei finally began to trust him. The next morning, she climbed the wall with Master Wen. Below them the repaired gate turned smoothly, but beyond the hills a new road was being cleared for soldiers. Someone in the capital was preparing to defend more than one governor. The maps, Mei realized, were not merely records of the past. They might become evidence in the next struggle over the kingdom's future.",
+          "chinese": "伯大人沒有承諾迅速結案。他把兩張地圖封進杉木箱，向三個村子徵召證人。他的法律代理人在市集當眾宣讀命令，以免有人在密室裡偷改字義。梅終於逐漸信任他。翌晨，她和文師傅登上城牆。腳下修復的水閘順暢運轉，但山外卻有人正替軍隊拓路。京城裡有人準備保護的不只一名太守。梅忽然懂了：地圖不只是過去的紀錄，也可能是未來王國爭鬥的證據。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Horseman's Two Maps〉第 6 段的事件，哪個選項能正確補完整句？\nHis attorney read ____ at the market so nobody could change their meaning behind closed doors.",
+      "options": [
+        "the orders aloud",
+        "the first proof",
+        "the tunnel"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the orders aloud",
+      "existingAnswerExplanation": "原文證據：His attorney read the orders aloud at the market so nobody could change their meaning behind closed doors.\n本段對照：伯大人沒有承諾迅速結案。他把兩張地圖封進杉木箱，向三個村子徵召證人。他的法律代理人在市集當眾宣讀命令，以免有人在密室裡偷改字義。梅終於逐漸信任他。翌晨，她和文師傅登上城牆。腳下修復的水閘順暢運轉，但山外卻有人正替軍隊拓路。京城裡有人準備保護的不只一名太守。梅忽然懂了：地圖不只是過去的紀錄，也可能是未來王國爭鬥的證據。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Bo did not promise a quick answer. He sealed both maps in a cedar case and requested witnesses from three villages. His attorney read the orders aloud at the market so nobody could change their meaning behind closed doors. Mei finally began to trust him. The next morning, she climbed the wall with Master Wen. Below them the repaired gate turned smoothly, but beyond the hills a new road was being cleared for soldiers. Someone in the capital was preparing to defend more than one governor. The maps, Mei realized, were not merely records of the past. They might become evidence in the next struggle over the kingdom's future.",
+          "chinese": "伯大人沒有承諾迅速結案。他把兩張地圖封進杉木箱，向三個村子徵召證人。他的法律代理人在市集當眾宣讀命令，以免有人在密室裡偷改字義。梅終於逐漸信任他。翌晨，她和文師傅登上城牆。腳下修復的水閘順暢運轉，但山外卻有人正替軍隊拓路。京城裡有人準備保護的不只一名太守。梅忽然懂了：地圖不只是過去的紀錄，也可能是未來王國爭鬥的證據。",
+          "matchedQueryTerms": 17
+        },
+        {
+          "paragraph": 1,
+          "english": "In early spring, a royal executive arrived to investigate Nanhe. The title sounded grand, but Lord Bo carried no sword and traveled with only one cart. At his side stood an attorney trained to speak for families who could not read legal orders. Their task was to determine the scope of the former governor's thefts. Mei watched them unload a layered map, each thin sheet showing a different year of the river's course. No single viewpoint told the whole history. She was cautious: the capital had sent investigators before, and every previous inquiry had ended when the officials received gifts.",
+          "chinese": "初春時，一位掌管朝廷事務的高級官員抵達南河。伯大人的頭銜響亮，卻不佩刀，只帶一輛車。他身旁的法律代理人專為不識官文的家庭發言。他們要查明前太守侵吞財物的範圍。梅看著他們展開疊層地圖，每張薄紙記著不同年份的河道。單一觀點無法說完歷史。她仍很謹慎：京城以前也派過調查者，卻每次都在官員收下禮物後不了了之。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

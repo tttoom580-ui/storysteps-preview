@@ -3,7 +3,7 @@
   "summary": {
     "books": 88,
     "chapters": 2200,
-    "englishWords": 1417056,
+    "englishWords": 1416966,
     "questions": 4400,
     "targetEntries": 44084,
     "bilingualParagraphs": 13135,
@@ -3860,8 +3860,8 @@
       "id": "import-third-gate",
       "title": "南河雙時錄",
       "chapters": 25,
-      "englishWords": 15891,
-      "minimumChapterWords": 605,
+      "englishWords": 15801,
+      "minimumChapterWords": 600,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
@@ -9651,7 +9651,7 @@
     {
       "book": "import-third-gate",
       "chapter": "import-third-gate-2",
-      "englishWords": 678,
+      "englishWords": 672,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -9660,7 +9660,7 @@
     {
       "book": "import-third-gate",
       "chapter": "import-third-gate-3",
-      "englishWords": 652,
+      "englishWords": 648,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -9669,7 +9669,7 @@
     {
       "book": "import-third-gate",
       "chapter": "import-third-gate-4",
-      "englishWords": 619,
+      "englishWords": 614,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -9678,141 +9678,6 @@
     {
       "book": "import-third-gate",
       "chapter": "import-third-gate-5",
-      "englishWords": 609,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-6",
-      "englishWords": 617,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-7",
-      "englishWords": 650,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-8",
-      "englishWords": 634,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-9",
-      "englishWords": 625,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-10",
-      "englishWords": 637,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-11",
-      "englishWords": 630,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-12",
-      "englishWords": 637,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-13",
-      "englishWords": 608,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-14",
-      "englishWords": 623,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-15",
-      "englishWords": 623,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-16",
-      "englishWords": 640,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-17",
-      "englishWords": 627,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-18",
-      "englishWords": 619,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-19",
-      "englishWords": 626,
-      "targetWords": 20,
-      "questions": 2,
-      "bilingualParagraphs": 6,
-      "errors": []
-    },
-    {
-      "book": "import-third-gate",
-      "chapter": "import-third-gate-20",
       "englishWords": 605,
       "targetWords": 20,
       "questions": 2,
@@ -9821,7 +9686,34 @@
     },
     {
       "book": "import-third-gate",
-      "chapter": "import-third-gate-21",
+      "chapter": "import-third-gate-6",
+      "englishWords": 613,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-7",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-8",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-9",
       "englishWords": 620,
       "targetWords": 20,
       "questions": 2,
@@ -9830,8 +9722,116 @@
     },
     {
       "book": "import-third-gate",
+      "chapter": "import-third-gate-10",
+      "englishWords": 634,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-11",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-12",
+      "englishWords": 632,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-13",
+      "englishWords": 605,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-14",
+      "englishWords": 618,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-15",
+      "englishWords": 619,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-16",
+      "englishWords": 637,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-17",
+      "englishWords": 624,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-18",
+      "englishWords": 614,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-19",
+      "englishWords": 621,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-20",
+      "englishWords": 600,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": "import-third-gate-21",
+      "englishWords": 617,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "import-third-gate",
       "chapter": "import-third-gate-22",
-      "englishWords": 612,
+      "englishWords": 607,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -9840,7 +9840,7 @@
     {
       "book": "import-third-gate",
       "chapter": "import-third-gate-23",
-      "englishWords": 611,
+      "englishWords": 608,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -9849,7 +9849,7 @@
     {
       "book": "import-third-gate",
       "chapter": "import-third-gate-24",
-      "englishWords": 643,
+      "englishWords": 638,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -9858,7 +9858,7 @@
     {
       "book": "import-third-gate",
       "chapter": "import-third-gate-25",
-      "englishWords": 630,
+      "englishWords": 637,
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 6,

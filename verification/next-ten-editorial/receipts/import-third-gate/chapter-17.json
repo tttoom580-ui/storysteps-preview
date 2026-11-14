@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 17,
+  "chapterId": "import-third-gate-17",
+  "sourceChapterSha256": "d7bfa7e97605455e4b70b378156645c12f6ed170b154b3e6ab98e267318cf1ea",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "現代安發現所謂古王室認降信封有現代黏膠、印表機痕跡和不合年代的遊輪，公開更正不影射河民，避免非法迫遷。",
+    "previousChapterEndingEnglish": "The records were restored from a backup two days later. By then the exhibition schedule had changed, yet An felt the delay had served a purpose. The investigation revealed weaknesses in both the building and the institution that owned it. She wrote a report in transparent language and posted it at the entrance, thereby inviting visitors to judge the museum's decisions for themselves. On her desk lay an image of Mei's ancient charter. It seemed to speak directly across the centuries: a city did not become fair by never making mistakes, but by refusing to hide them.",
+    "nextChapterOpeningEnglish": "An received a document from a retired lawmaker who had spent years collecting testimony about Nanhe's waterfront. The file contained a directory of families displaced by past construction and an old certificate issued to workers who had maintained the Third Gate. Its most startling entry identified a collective of women as the owners of the original flood maps. The discovery altered the familiar narrative again. Mei had become the public face of the defense, but many people had undertaken the work of preserving knowledge. An decided that her next exhibition would give those people their names back."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "While the repaired system processed new scans, An noticed a tiny sparkle beneath the ink of a royal letter. The writing appeared authentic, but its seal contained a modern adhesive. Someone had tried to forge a document and place it among the ancient files. The suspect's whereabouts were unknown. Museum personnel insisted that the letter must have entered the archive years earlier, presumably as part of an outside donation. An was wary of accusations made without proof. She wrote down every assumption the team had made and marked which ones could be tested.",
+        "zh": "修好的系統處理新掃描時，安注意到皇家書信墨層下有微小閃光。字跡看來古老，印封卻含現代黏著劑。有人偽造公文，把它混進古檔。嫌疑人下落不明。館員堅稱信可能多年前就隨外界捐贈進館。安提防沒有證據的指控，寫下團隊作出的每項假設，再標明哪些可以查驗。",
+        "englishSha256": "e4049a8d68458b279c55c581be89197a72a008baefb0cbf51c92b43a294326cc",
+        "chineseSha256": "7cbff0f0437046288ab449d841b219cc418eae5f40598d7e0f2279be040b7247"
+      },
+      {
+        "number": 2,
+        "en": "The letter claimed that the ancient council had voluntarily accepted the frontier commander's authority. If believed, it would shatter the familiar story of Nanhe's resistance. A columnist had already published an excited commentary arguing that the museum needed to rewrite its entire history. The claim spread like a blast through social media. An called the columnist and explained that one document, especially one still under examination, could not establish a consensus among historians. He sounded disappointed, but agreed to publish a correction after the laboratory results arrived.",
+        "zh": "信件宣稱古議會自願接受邊境將領統治。若當真，南河抵抗史就得改寫。一名專欄作家已發表興奮評論，要求博物館全面重寫歷史；說法在社群媒體如爆炸般傳開。安致電作家，說明一份尚在鑑定的文件無法代表史學共識。對方聽來失望，仍答應待檢驗結果出來後刊正。",
+        "englishSha256": "c1438ddd4a39987a9ac20f2706b7d237a63142f5755fd51af9e95f0c10dff184",
+        "chineseSha256": "e7b3a10925d59e284cbabefb80f00a429b1bfe3f6ed6cb6fcd3731729e70c3f1"
+      },
+      {
+        "number": 3,
+        "en": "The lab traced the adhesive to an external conservation workshop. Its owner admitted that a client had commissioned a replica but refused to name the buyer. An did not assume the owner was guilty of the attempted deception; making replicas was a legitimate business. In the meantime, she asked the archive team to compare the forged letter's words with records of the ancient siege. The letter described a large cruise boat on the river, a vessel far too modern for the era. Whoever wrote it knew the city's legend but not the technology of its time.",
+        "zh": "實驗室把黏著劑追到一家外部修復工坊。老闆承認有客戶委託仿件，卻不肯透露買主。安沒有直接認定他參與欺騙，因為製作複製品本是合法生意。同時，她請檔案小組拿信中內容和圍城紀錄逐一對照。假信描寫河上有大型遊輪，顯然不屬於那個年代。寫信人知道傳說，卻不了解當時技術。",
+        "englishSha256": "8e43fead6c567675b22644728370b86e5588f67cfe5c6103357747ce3057a436",
+        "chineseSha256": "95b81a211e4b98d060e12cd0abf2b1031bbf7aa56ca28f80d2672d53214393e1"
+      },
+      {
+        "number": 4,
+        "en": "An met a retired teacher who had researched racism in the old valley. He warned that the false letter was being used to blame the river communities for ancient military defeat. That accusation harmed living families, many of whom were already prone to being treated as outsiders. An remembered Mei's vow that people would not lose protection because of who their ancestors had been. She asked the museum to issue a public statement distinguishing verified history from manufactured suspicion. Several donors objected, fearing controversy, but the staff voted to support it.",
+        "zh": "安拜訪一位研究河谷種族歧視的退休教師。教師提醒她，假信正被拿來責怪古代河民造成敗戰。這種指控傷害了今日仍常被當外人的家庭。安想起梅的誓言：不得因祖先身分剝奪任何人的保護。她請博物館公開區分經證實的歷史與人造猜疑。部分捐助者怕爭議而反對，館員仍表決支持。",
+        "englishSha256": "6713d13b700da6819ac5f198661678ac5c5138f078e650a48dc9a928a36cc170",
+        "chineseSha256": "6af32123b3cc3fb23e790e698c059933e698ddbfc27514a7bac590bca2589199"
+      },
+      {
+        "number": 5,
+        "en": "A second examination of the forged letter strengthened the case against it. The ink was packed at a density impossible for the brushwork claimed in the museum catalog, and a modern printer had created the illusion of uneven strokes. The retired historian laughed sadly at how convincing the false surface appeared. He remembered a former university presidency that had tried to prescribe the conclusions scholars should reach before research even began. “An institution can own a building,” he told An, “but it cannot own the truth.” She placed his warning beside the technical findings. Neither memory nor laboratory evidence was enough alone; the argument became strongest where the two could be tested against each other. The museum issued a second notice explaining the difference, and the public debate gradually became less angry and more informed. An asked that the notice remain on display long after the news cycle moved on, because corrections mattered most when they outlived the excitement of the mistake.",
+        "zh": "第二次鑑定使偽信問題更清楚。墨點密度不符合館藏所稱的筆法，現代印表機卻做出筆畫不均的假象。退休史家苦笑，那表面真足以騙人。他想起自己曾見過的大學校長任期，當時有人想在研究開始前就規定學者應得到什麼結論。「機構可以擁有建物，卻不能擁有真相。」他對安說。安把這提醒放在技術結果旁。光靠記憶或實驗都不夠，兩者能互相檢驗時論證才最強。博物館公布第二份說明，輿論漸漸從憤怒轉向理解。安請館方將公告長期保留，因為更正的價值，正在於它應比犯錯當下的喧嘩活得更久。",
+        "englishSha256": "615bd7b3ffd18f19a24cc8525ef04c7d2fc35bac04bbde2a2075c8ce077b8a1d",
+        "chineseSha256": "a23bf722a6e2d2f7bb5decf78bce927d45d99bee15d1b681f52f032ed1c8b68f"
+      },
+      {
+        "number": 6,
+        "en": "The final report showed the letter was a recent invention. It had been inserted into the archive shortly before a valuable waterfront property was to be sold. The false claim might have weakened the community's legal case for preserving an old cemetery. An delivered the evidence to investigators rather than guessing who stood behind it. That night she read the genuine records again. In one, Mei had warned the council against premature certainty. An smiled at the sentence. Centuries had altered the machines and the language, but the discipline of asking careful questions had survived.",
+        "zh": "最後報告證明信是近期偽作，且在一筆高價河岸土地出售前不久混入檔案。假敘事可能削弱河民保護古墓園的法律主張。安把證據交給調查者，不自行猜測幕後黑手。當晚她重讀真史料，發現其中一段是梅警告議會別過早下定論。安微笑了。機器和語言經數百年改變，謹慎提問的紀律卻留了下來。",
+        "englishSha256": "eead38dd50b085d4fea659b2130cef114472cc9ff6d5800b363a443aeb6a5747",
+        "chineseSha256": "0ee52a5f81308900ed6be062c06112fddb8fcce2497118bcf6da6ca59f60dc26"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 624,
+    "targets": [
+      {
+        "word": "assumption",
+        "meaning": "假設",
+        "appearsInSource": true
+      },
+      {
+        "word": "blast",
+        "meaning": "爆炸；猛烈衝擊",
+        "appearsInSource": true
+      },
+      {
+        "word": "consensus",
+        "meaning": "共識",
+        "appearsInSource": true
+      },
+      {
+        "word": "cruise",
+        "meaning": "遊輪旅行；巡航",
+        "appearsInSource": true
+      },
+      {
+        "word": "density",
+        "meaning": "密度",
+        "appearsInSource": true
+      },
+      {
+        "word": "external",
+        "meaning": "外部的",
+        "appearsInSource": true
+      },
+      {
+        "word": "forge",
+        "meaning": "偽造",
+        "appearsInSource": true
+      },
+      {
+        "word": "illusion",
+        "meaning": "假象；錯覺",
+        "appearsInSource": true
+      },
+      {
+        "word": "meantime",
+        "meaning": "同時；其間",
+        "appearsInSource": true
+      },
+      {
+        "word": "personnel",
+        "meaning": "人員",
+        "appearsInSource": true
+      },
+      {
+        "word": "premature",
+        "meaning": "過早的",
+        "appearsInSource": true
+      },
+      {
+        "word": "prescribe",
+        "meaning": "規定；開立",
+        "appearsInSource": true
+      },
+      {
+        "word": "presidency",
+        "meaning": "主席任期；校長任期",
+        "appearsInSource": true
+      },
+      {
+        "word": "presumably",
+        "meaning": "想必；據推測",
+        "appearsInSource": true
+      },
+      {
+        "word": "prone",
+        "meaning": "容易陷入的",
+        "appearsInSource": true
+      },
+      {
+        "word": "racism",
+        "meaning": "種族歧視",
+        "appearsInSource": true
+      },
+      {
+        "word": "sparkle",
+        "meaning": "閃光",
+        "appearsInSource": true
+      },
+      {
+        "word": "vow",
+        "meaning": "誓言",
+        "appearsInSource": true
+      },
+      {
+        "word": "wary",
+        "meaning": "警覺的",
+        "appearsInSource": true
+      },
+      {
+        "word": "whereabouts",
+        "meaning": "下落；行蹤",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Forged Letter〉第 1 段的事件，哪個選項能正確補完整句？\nThe writing appeared authentic, but its seal contained ____.",
+      "options": [
+        "a shrug",
+        "a page listing objections",
+        "a modern adhesive"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a modern adhesive",
+      "existingAnswerExplanation": "原文證據：The writing appeared authentic, but its seal contained a modern adhesive.\n本段對照：修好的系統處理新掃描時，安注意到皇家書信墨層下有微小閃光。字跡看來古老，印封卻含現代黏著劑。有人偽造公文，把它混進古檔。嫌疑人下落不明。館員堅稱信可能多年前就隨外界捐贈進館。安提防沒有證據的指控，寫下團隊作出的每項假設，再標明哪些可以查驗。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "While the repaired system processed new scans, An noticed a tiny sparkle beneath the ink of a royal letter. The writing appeared authentic, but its seal contained a modern adhesive. Someone had tried to forge a document and place it among the ancient files. The suspect's whereabouts were unknown. Museum personnel insisted that the letter must have entered the archive years earlier, presumably as part of an outside donation. An was wary of accusations made without proof. She wrote down every assumption the team had made and marked which ones could be tested.",
+          "chinese": "修好的系統處理新掃描時，安注意到皇家書信墨層下有微小閃光。字跡看來古老，印封卻含現代黏著劑。有人偽造公文，把它混進古檔。嫌疑人下落不明。館員堅稱信可能多年前就隨外界捐贈進館。安提防沒有證據的指控，寫下團隊作出的每項假設，再標明哪些可以查驗。",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 3,
+          "english": "The lab traced the adhesive to an external conservation workshop. Its owner admitted that a client had commissioned a replica but refused to name the buyer. An did not assume the owner was guilty of the attempted deception; making replicas was a legitimate business. In the meantime, she asked the archive team to compare the forged letter's words with records of the ancient siege. The letter described a large cruise boat on the river, a vessel far too modern for the era. Whoever wrote it knew the city's legend but not the technology of its time.",
+          "chinese": "實驗室把黏著劑追到一家外部修復工坊。老闆承認有客戶委託仿件，卻不肯透露買主。安沒有直接認定他參與欺騙，因為製作複製品本是合法生意。同時，她請檔案小組拿信中內容和圍城紀錄逐一對照。假信描寫河上有大型遊輪，顯然不屬於那個年代。寫信人知道傳說，卻不了解當時技術。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Forged Letter〉第 6 段的事件，哪個選項能正確補完整句？\nThe final report showed ____.",
+      "options": [
+        "the letter was a recent invention",
+        "the next map",
+        "the final weight into place"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the letter was a recent invention",
+      "existingAnswerExplanation": "原文證據：The final report showed the letter was a recent invention.\n本段對照：最後報告證明信是近期偽作，且在一筆高價河岸土地出售前不久混入檔案。假敘事可能削弱河民保護古墓園的法律主張。安把證據交給調查者，不自行猜測幕後黑手。當晚她重讀真史料，發現其中一段是梅警告議會別過早下定論。安微笑了。機器和語言經數百年改變，謹慎提問的紀律卻留了下來。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The final report showed the letter was a recent invention. It had been inserted into the archive shortly before a valuable waterfront property was to be sold. The false claim might have weakened the community's legal case for preserving an old cemetery. An delivered the evidence to investigators rather than guessing who stood behind it. That night she read the genuine records again. In one, Mei had warned the council against premature certainty. An smiled at the sentence. Centuries had altered the machines and the language, but the discipline of asking careful questions had survived.",
+          "chinese": "最後報告證明信是近期偽作，且在一筆高價河岸土地出售前不久混入檔案。假敘事可能削弱河民保護古墓園的法律主張。安把證據交給調查者，不自行猜測幕後黑手。當晚她重讀真史料，發現其中一段是梅警告議會別過早下定論。安微笑了。機器和語言經數百年改變，謹慎提問的紀律卻留了下來。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 3,
+          "english": "The lab traced the adhesive to an external conservation workshop. Its owner admitted that a client had commissioned a replica but refused to name the buyer. An did not assume the owner was guilty of the attempted deception; making replicas was a legitimate business. In the meantime, she asked the archive team to compare the forged letter's words with records of the ancient siege. The letter described a large cruise boat on the river, a vessel far too modern for the era. Whoever wrote it knew the city's legend but not the technology of its time.",
+          "chinese": "實驗室把黏著劑追到一家外部修復工坊。老闆承認有客戶委託仿件，卻不肯透露買主。安沒有直接認定他參與欺騙，因為製作複製品本是合法生意。同時，她請檔案小組拿信中內容和圍城紀錄逐一對照。假信描寫河上有大型遊輪，顯然不屬於那個年代。寫信人知道傳說，卻不了解當時技術。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

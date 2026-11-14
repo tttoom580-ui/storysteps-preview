@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 2,
+  "chapterId": "import-third-gate-2",
+  "sourceChapterSha256": "7d33cbb5f2793aa98fdda1b4452cc1be30a857fc438ea2dfb7fd6fa83b5ccda9",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "洪災後記者言與梅在鹽道查私倉、稅收及警告旗遭撤，河民和老船婦交出木牌與書信，查到太守早知洪患。",
+    "previousChapterEndingEnglish": "That winter, the city repaired its canals before rebuilding the governor's house. Mei trained young mapmakers, asking each to question orders that endangered lives. On the temple wall she placed her father's old tablet beneath a simple inscription: A city is not saved by high walls alone, but by those willing to open the right gate. Whenever rain fell, Mei remembered the night Nanhe had chosen its people over its ruler.",
+    "nextChapterOpeningEnglish": "In early spring, a royal executive arrived to investigate Nanhe. The title sounded grand, but Lord Bo carried no sword and traveled with only one cart. At his side stood an attorney trained to speak for families who could not read legal orders. Their task was to determine the scope of the former governor's thefts. Mei watched them unload a layered map, each thin sheet showing a different year of the river's course. No single viewpoint told the whole history. She was cautious: the capital had sent investigators before, and every previous inquiry had ended when the officials received gifts."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The morning after the flood, Nanhe smelled of mud, wet grain, and smoke from cooking fires. Mei walked through streets where strangers shared dry blankets with families they had never met. The governor had fled, but his collectors had left behind records showing an absurd tax on boats that carried food. When adverse winds delayed the next convoy, the kitchens would have nothing to cook. The old architecture of the grain office revealed another secret: a blocked staircase led to a room above the store, where someone had been keeping private accounts. Mei asked why the official seal appeared on sacks delivered to the governor's relatives rather than the public kitchens.",
+        "zh": "洪水過後的清晨，南河城瀰漫著泥土、濕穀與炊煙的氣味。梅走過街道，看見陌生人將乾毛毯分給素不相識的家庭。太守逃了，但稅吏留下的帳本卻記著一項荒謬的船運糧稅。若逆風耽誤下一批船隊，施粥廚房便無米可炊。糧署古老的建築結構還藏著祕密：封住的樓梯通往糧倉上方的一間密室，裡頭有人另記私帳。梅不明白，為何蓋著官印的米袋送往太守親族，卻沒送到公廚。",
+        "englishSha256": "f52f61a1aab7c0b3eca71eb30d99a2f055e1dc4592a9d00be12408417409bbd2",
+        "chineseSha256": "3bf0cab05bfd213c14dd2e6219c8fef5c615190881d661b91dad6ecb9db5a501"
+      },
+      {
+        "number": 2,
+        "en": "A traveling journalist named Yan arrived from the northern capital. In Lan, journalism was not called by that name; people spoke of scribes who carried news between towns. Yan preferred the newer word because he believed writing belonged to everyone, not only to ministers. He had come on a quest to record how the city survived. The donors who supported his travels were merchants tired of excessive demands for money. Yan promised to highlight the kitchens' courage, but Mei insisted that a heroic tale alone would render the disaster too simple. They also needed names, dates, and evidence of who had made the flood worse.",
+        "zh": "一位名叫言的行旅記者從北都而來。在蘭國，人們不說「新聞業」，只稱那些在城鎮間傳遞消息的人為記錄吏。言偏愛「新聞業」這個較新的說法，因為他相信文字屬於每個人，不只屬於大臣。支持他旅費的捐助者，是受夠苛捐雜稅的商人。他答應凸顯公廚的勇氣，但梅堅持，只寫英雄故事會把災難說得太簡單。他們還需要姓名、日期，以及證明究竟是誰加重水患的證據。",
+        "englishSha256": "fe4483baad600dda7306e3c42d6a3313beb1cca8693827764249b55c449532f1",
+        "chineseSha256": "780a6e22bd851ddaebd6e818a60824ac49acd1f950f366362bdaacc12cc314cb"
+      },
+      {
+        "number": 3,
+        "en": "Their search led to the salt road, where indigenous river communities had guided boats for generations. A fisherman offered them smoked salmon, a prized fish brought from colder northern waters, and explained the variation in river currents at each bend. He had seen the governor's men rip a warning banner from the eastern watchtower before the flood. “I am an outsider whenever I enter the governor's court,” he said. “Yet my people know this river better than its judges.” Yan rubbed his tired shoulder, and the fisherman showed him how to massage the muscle with warmed stones while they waited for a witness.",
+        "zh": "線索將他們帶到鹽道。當地原住河民世世代代替船隊領航。一名漁夫請兩人吃從北方寒水運來的煙燻鮭魚，並解釋河道每處彎曲如何改變流速。他親眼看見洪水前，太守的手下撕掉東瞭望塔的警告旗。「我進太守衙門時，永遠被當外人，」他說，「可我們比那些法官更了解河。」言的肩膀疲憊痠痛，漁夫一邊教他用溫石按摩，一邊等待證人前來。",
+        "englishSha256": "17d2dfa744c60ab62827d82d2904f4cdbde22ce5a1041353355c73f34db7a2c6",
+        "chineseSha256": "683676c2fdbe0adfd4017dc2d910aa28184b10eed5886d53347b5a3022c0e824"
+      },
+      {
+        "number": 4,
+        "en": "At sunset a boy emerged with a series of small wooden tags, each bearing the date a warning had been ignored. He feared prosecution for taking them from the office, although he had only copied public notices. Mei reminded him that the former governor had ruled by an ideology of obedience: citizens were taught to fear a seal more than a rising river. “That ends when someone refuses silence,” she said. The boy hesitated, then handed over the tags. His hands shook so badly that Yan put down his writing brush and waited without pressing him.",
+        "zh": "日落時，一個男孩帶著一串小木牌出現，牌上刻著每次警訊遭忽略的日期。他擔心因拿走衙署木牌而遭起訴，儘管他只是抄錄公開告示。梅提醒他，前太守信奉的是服從至上的統治思想：百姓被教導要怕官印，勝過怕暴漲的河水。「只要有人不再沉默，那一套就會結束。」男孩猶豫後交出木牌。他的手抖得太厲害，言便放下筆，不催促他。",
+        "englishSha256": "5296d20bb0628d2213ea86b24214c7bdde8e1356750b18e6682e37111fda0e97",
+        "chineseSha256": "f3f65e329780eb6003f14d9231c265096bcea6910230467d23bd33965b0193de"
+      },
+      {
+        "number": 5,
+        "en": "Before they left the salt road, an old boatwoman brought Mei a reed basket full of damp letters. She had rescued them from a customs house abandoned during the flood. The paper smelled of river mud, and several pages had lost their ink, but the handwriting on the surviving sheets matched the private accounts from the grain store. Mei spread them on clean cloth while Yan copied the words one by one. The boatwoman would accept no payment. “My children crossed this river because your workers opened the gate,” she said. “I am not a donor to the city. I am part of it.” Her quiet refusal changed how Yan planned to write his report. He began with the boatwoman's name, not the governor's, and included the small acts that had saved people long before officials admitted there was a problem. The evidence now had a human voice.",
+        "zh": "離開鹽道前，一名老船婦拿來一籃潮濕書信，是她從洪水後廢棄的關卡救出的。紙上有河泥氣味，幾頁墨字已散，留下的筆跡卻和糧署私帳相同。梅把信攤在乾布上，言逐字抄錄。船婦不收報酬。「我的孩子得以渡河，是你們打開了水門。我不是這座城的捐助者，我本來就是城的一部分。」她平靜的拒絕改變了言的報導方式。他不再從太守寫起，而是從老船婦的名字寫起，記下官員承認危機之前那些挽救人命的小事。證據終於有了人的聲音。",
+        "englishSha256": "b4706cda96b4252d6de76705c7db17a6873cbd5e2e581b31f3538e6be8e88758",
+        "chineseSha256": "04556bc835f01aa65728a35f0daad6338d8209e726eb67d25b76b5db35cb7059"
+      },
+      {
+        "number": 6,
+        "en": "In the weeks that followed, investigators compared the tags with marks preserved on the old floodgate. The evidence told a clear story: officials knew the danger and concealed it. The fisherman returned home; the boy began learning to write; and the public kitchens received grain without paying a tax. Yan published the testimony on the market wall, where anyone could read it. Mei knew the former governor might still have allies in the capital. She also knew that truth could persist after powerful men had disappeared. When she looked toward the river, she saw neither an enemy nor a miracle, but a neighbor whose warnings could finally be heard.",
+        "zh": "接下來幾週，調查者將木牌與古水門上的刻痕對照。證據清楚顯示：官員早知險情，卻蓄意隱瞞。漁夫返鄉，男孩開始習字，公廚也終於能免稅領糧。言把證詞張貼在市集牆上，讓人人可讀。梅知道前太守在京城可能仍有同黨，也知道真相能在權勢者消失後持續存在。她望向河面，不再把它視為敵人或奇蹟，而是終於有人願意傾聽警告的鄰居。",
+        "englishSha256": "1b3c8dce755c29561f9a57c0cfe3fec4c664dffdf0081bb52410daf1f2be9aaa",
+        "chineseSha256": "2a65194c3fc09336f202017aa0f9acd65b6eacfe4c50cb7ce0c374499335718a"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 672,
+    "targets": [
+      {
+        "word": "absurd",
+        "meaning": "荒謬的",
+        "appearsInSource": true
+      },
+      {
+        "word": "adverse",
+        "meaning": "不利的；逆向的",
+        "appearsInSource": true
+      },
+      {
+        "word": "architecture",
+        "meaning": "建築結構",
+        "appearsInSource": true
+      },
+      {
+        "word": "donor",
+        "meaning": "捐助者",
+        "appearsInSource": true
+      },
+      {
+        "word": "excessive",
+        "meaning": "過度的",
+        "appearsInSource": true
+      },
+      {
+        "word": "highlight",
+        "meaning": "凸顯；強調",
+        "appearsInSource": true
+      },
+      {
+        "word": "ideology",
+        "meaning": "統治思想；意識形態",
+        "appearsInSource": true
+      },
+      {
+        "word": "indigenous",
+        "meaning": "原住的；本土的",
+        "appearsInSource": true
+      },
+      {
+        "word": "journalism",
+        "meaning": "新聞工作；新聞業",
+        "appearsInSource": true
+      },
+      {
+        "word": "journalist",
+        "meaning": "記者",
+        "appearsInSource": true
+      },
+      {
+        "word": "massage",
+        "meaning": "按摩",
+        "appearsInSource": true
+      },
+      {
+        "word": "outsider",
+        "meaning": "外來者",
+        "appearsInSource": true
+      },
+      {
+        "word": "persist",
+        "meaning": "持續；堅持",
+        "appearsInSource": true
+      },
+      {
+        "word": "prosecution",
+        "meaning": "起訴；控告程序",
+        "appearsInSource": true
+      },
+      {
+        "word": "quest",
+        "meaning": "追尋；使命",
+        "appearsInSource": true
+      },
+      {
+        "word": "render",
+        "meaning": "使呈現；描繪",
+        "appearsInSource": true
+      },
+      {
+        "word": "rip",
+        "meaning": "撕下；扯裂",
+        "appearsInSource": true
+      },
+      {
+        "word": "salmon",
+        "meaning": "鮭魚",
+        "appearsInSource": true
+      },
+      {
+        "word": "series",
+        "meaning": "一連串；系列",
+        "appearsInSource": true
+      },
+      {
+        "word": "variation",
+        "meaning": "變化；差異",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Witness at the Salt Road〉第 3 段的事件，哪個選項能正確補完整句？\nA fisherman offered them smoked salmon, a prized fish brought from colder northern waters, and explained ____ in river currents at each bend.",
+      "options": [
+        "the expression",
+        "the variation",
+        "the river"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the variation",
+      "existingAnswerExplanation": "原文證據：A fisherman offered them smoked salmon, a prized fish brought from colder northern waters, and explained the variation in river currents at each bend.\n本段對照：線索將他們帶到鹽道。當地原住河民世世代代替船隊領航。一名漁夫請兩人吃從北方寒水運來的煙燻鮭魚，並解釋河道每處彎曲如何改變流速。他親眼看見洪水前，太守的手下撕掉東瞭望塔的警告旗。「我進太守衙門時，永遠被當外人，」他說，「可我們比那些法官更了解河。」言的肩膀疲憊痠痛，漁夫一邊教他用溫石按摩，一邊等待證人前來。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Their search led to the salt road, where indigenous river communities had guided boats for generations. A fisherman offered them smoked salmon, a prized fish brought from colder northern waters, and explained the variation in river currents at each bend. He had seen the governor's men rip a warning banner from the eastern watchtower before the flood. “I am an outsider whenever I enter the governor's court,” he said. “Yet my people know this river better than its judges.” Yan rubbed his tired shoulder, and the fisherman showed him how to massage the muscle with warmed stones while they waited for a witness.",
+          "chinese": "線索將他們帶到鹽道。當地原住河民世世代代替船隊領航。一名漁夫請兩人吃從北方寒水運來的煙燻鮭魚，並解釋河道每處彎曲如何改變流速。他親眼看見洪水前，太守的手下撕掉東瞭望塔的警告旗。「我進太守衙門時，永遠被當外人，」他說，「可我們比那些法官更了解河。」言的肩膀疲憊痠痛，漁夫一邊教他用溫石按摩，一邊等待證人前來。",
+          "matchedQueryTerms": 34
+        },
+        {
+          "paragraph": 5,
+          "english": "Before they left the salt road, an old boatwoman brought Mei a reed basket full of damp letters. She had rescued them from a customs house abandoned during the flood. The paper smelled of river mud, and several pages had lost their ink, but the handwriting on the surviving sheets matched the private accounts from the grain store. Mei spread them on clean cloth while Yan copied the words one by one. The boatwoman would accept no payment. “My children crossed this river because your workers opened the gate,” she said. “I am not a donor to the city. I am part of it.” Her quiet refusal changed how Yan planned to write his report. He began with the boatwoman's name, not the governor's, and included the small acts that had saved people long before officials admitted there was a problem. The evidence now had a human voice.",
+          "chinese": "離開鹽道前，一名老船婦拿來一籃潮濕書信，是她從洪水後廢棄的關卡救出的。紙上有河泥氣味，幾頁墨字已散，留下的筆跡卻和糧署私帳相同。梅把信攤在乾布上，言逐字抄錄。船婦不收報酬。「我的孩子得以渡河，是你們打開了水門。我不是這座城的捐助者，我本來就是城的一部分。」她平靜的拒絕改變了言的報導方式。他不再從太守寫起，而是從老船婦的名字寫起，記下官員承認危機之前那些挽救人命的小事。證據終於有了人的聲音。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Witness at the Salt Road〉第 6 段的事件，哪個選項能正確補完整句？\nYan published ____ on the market wall, where anyone could read it.",
+      "options": [
+        "the testimony",
+        "the small autumn channel",
+        "the finished coins"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the testimony",
+      "existingAnswerExplanation": "原文證據：Yan published the testimony on the market wall, where anyone could read it.\n本段對照：接下來幾週，調查者將木牌與古水門上的刻痕對照。證據清楚顯示：官員早知險情，卻蓄意隱瞞。漁夫返鄉，男孩開始習字，公廚也終於能免稅領糧。言把證詞張貼在市集牆上，讓人人可讀。梅知道前太守在京城可能仍有同黨，也知道真相能在權勢者消失後持續存在。她望向河面，不再把它視為敵人或奇蹟，而是終於有人願意傾聽警告的鄰居。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "In the weeks that followed, investigators compared the tags with marks preserved on the old floodgate. The evidence told a clear story: officials knew the danger and concealed it. The fisherman returned home; the boy began learning to write; and the public kitchens received grain without paying a tax. Yan published the testimony on the market wall, where anyone could read it. Mei knew the former governor might still have allies in the capital. She also knew that truth could persist after powerful men had disappeared. When she looked toward the river, she saw neither an enemy nor a miracle, but a neighbor whose warnings could finally be heard.",
+          "chinese": "接下來幾週，調查者將木牌與古水門上的刻痕對照。證據清楚顯示：官員早知險情，卻蓄意隱瞞。漁夫返鄉，男孩開始習字，公廚也終於能免稅領糧。言把證詞張貼在市集牆上，讓人人可讀。梅知道前太守在京城可能仍有同黨，也知道真相能在權勢者消失後持續存在。她望向河面，不再把它視為敵人或奇蹟，而是終於有人願意傾聽警告的鄰居。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 3,
+          "english": "Their search led to the salt road, where indigenous river communities had guided boats for generations. A fisherman offered them smoked salmon, a prized fish brought from colder northern waters, and explained the variation in river currents at each bend. He had seen the governor's men rip a warning banner from the eastern watchtower before the flood. “I am an outsider whenever I enter the governor's court,” he said. “Yet my people know this river better than its judges.” Yan rubbed his tired shoulder, and the fisherman showed him how to massage the muscle with warmed stones while they waited for a witness.",
+          "chinese": "線索將他們帶到鹽道。當地原住河民世世代代替船隊領航。一名漁夫請兩人吃從北方寒水運來的煙燻鮭魚，並解釋河道每處彎曲如何改變流速。他親眼看見洪水前，太守的手下撕掉東瞭望塔的警告旗。「我進太守衙門時，永遠被當外人，」他說，「可我們比那些法官更了解河。」言的肩膀疲憊痠痛，漁夫一邊教他用溫石按摩，一邊等待證人前來。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 14,
+  "chapterId": "import-third-gate-14",
+  "sourceChapterSha256": "939995f32b7f01e3238f5c393ba27f563a8db5c5138937f4f78c00c032e53e68",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "現代安用雷射讀出王軍和議書的隱藏勒索條件，考證軍糧供應並區分古代用水觀念與當代政治概念，發現滿月前答覆的期限。",
+    "previousChapterEndingEnglish": "The water was moving toward the city, not away from it. Someone had sealed the old spring from the far side. Mei understood that the enemy was trying to make thirst accomplish what swords could not. Rather than conceal the discovery, she asked the healer to explain the risks publicly in a format everyone could understand. The council voted to protect the spring and continue treating prisoners who arrived ill. “We cannot choose which lives deserve water,” Mei said. Her statement was brief, but it became the moral center of the city's defense.",
+    "nextChapterOpeningEnglish": "On the first of those nights, Nanhe's council faced a choice more complex than any ordinary vote. The commander promised food if the city surrendered its independence. Several farmers supported the offer because a consecutive series of poor harvests had already crippled their households. Others refused on grounds of sovereignty. Mei listened while the temple chef brought bowls of thin soup to the meeting. It was difficult to debate ideals when hunger made people moan softly between sentences. She asked the council to examine the ecology of the river as carefully as the language of the ultimatum."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "In the modern museum, An used a laser scanner to read writing hidden beneath a damaged scroll. The machine revealed a clause erased from a peace offer: the frontier commander had promised to spare Nanhe if its council surrendered the maps and the healer's records. A historian beside her called the language a masterpiece of empty rhetoric. It spoke of endless prosperity while permitting the commander to exploit prisoners for labor. An glared at the polished words. She could almost imagine Mei, centuries earlier, refusing to indulge a man who treated people as bargaining pieces.",
+        "zh": "現代博物館裡，安用雷射掃描器閱讀一卷殘損古信底下的字。機器顯示和平條件中遭刪去的一條：邊境將領願放過南河，但議會必須交出地圖與醫療紀錄。旁邊史學家稱那些文字是空洞修辭的傑作：一面宣稱無盡繁榮，一面允許將領剝削俘虜勞動。安怒視華美文字，幾乎能想像數百年前的梅如何拒絕縱容把人當籌碼的將領。",
+        "englishSha256": "34b840bc3b426765b04c27aa35cc090956fca8e83b68ab78980ff5e04a1181a4",
+        "chineseSha256": "be24418e6d14afb752b1d211180ff626ea7004384b55a855e493a53fc1eabbd0"
+      },
+      {
+        "number": 2,
+        "en": "A visiting lecturer argued that the siege represented an early form of conflict over communal property. He mentioned the later communist movements that historians used for comparison, then warned students against treating ancient farmers as if they had read modern political theory. Historical evolution, he said, did not follow a straight road. Different societies could advocate shared canals for very different reasons. An appreciated the distinction. Her job was not to attach a modern label to Mei but to discover exactly what she and her neighbors had believed, feared, and attempted.",
+        "zh": "一位客座講師認為，圍城反映早期對共同資源的爭奪。他提及後世共產主義運動作為比較，隨即提醒學生：不能當古代農民讀過現代政治理論。歷史演變不是筆直道路。不同社會提倡公有水渠，理由可能截然不同。安認同這區別。她的工作不是替梅貼上現代標籤，而是查出梅與鄰人當時真正相信、恐懼、嘗試的是什麼。",
+        "englishSha256": "c5920f43169c2613f877838a96b2f3cda64bc731ccbdd47cce9c2a4d545d46f2",
+        "chineseSha256": "9fdf1f50a06efe95f4d1e6d019fac3c4b062db910f2659312cb9cb6bf69ad5fb"
+      },
+      {
+        "number": 3,
+        "en": "The scan also exposed a customs record: carts entering the besieging camp had carried far more grain than the declared limit. A merchant had gained a monopoly on this supply and used the profits to maintain the frontier army. An compared the letters with maintenance accounts for ancient bridges. The quantities seemed infinite on the court's boastful reports, but the bridge records showed that stores would be exhausted within a month. She concluded that the commander's threats were partly theater. He could not sustain a long siege unless the city helped supply him.",
+        "zh": "掃描也顯示一份海關式的貨物查驗紀錄：進入圍城軍營的車載糧遠超申報上限。一名商人壟斷補給，用利潤供養邊境軍。安把書信與古橋維護帳本相較。朝廷報告誇稱軍糧幾近無限，但橋運資料顯示庫存一個月內就會耗盡。安推斷，將領的威脅有部分是演戲。除非南河反過來供應他，否則他無法長期圍城。",
+        "englishSha256": "12f1887f2985d9a94e3b2cfff69924312a2fe6f2d7a7be8e4ae5f36a405cd26e",
+        "chineseSha256": "a762679232a20e5d8d7e136b99bd42431fdb2991e2130f54551760ab1fd4d683"
+      },
+      {
+        "number": 4,
+        "en": "A museum sponsor asked An to shorten the explanation for a public display. He suggested replacing the complex evidence with a sentimental story about a brave girl defeating a cruel army. An proposed a compromise: the main panel would tell Mei's story clearly, while visitors could open digital records for the full evidence. She added that the museum would not conceal the pathetic condition of soldiers forced to fight without sufficient food. To understand the siege, the public needed to see why both the defenders and attackers had suffered. The sponsor agreed after reading a soldier's letter to his family.",
+        "zh": "一名博物館贊助者請安縮短展覽解說，想把複雜證據改成勇敢少女擊敗殘酷大軍的感人故事。安提出折衷：主要展板清楚敘事，詳細證據則讓觀眾透過數位紀錄查閱。她也堅持不能隱瞞敵方士兵食物不足、處境悲慘的事實。要理解圍城，觀眾必須看見守者與攻者如何同時受苦。贊助者讀完一封士兵家書後，終於點頭。",
+        "englishSha256": "664cd2fef99a01a5610632f28e7bea6b36e54fe7f9f7e14e780f8c4efb014fb8",
+        "chineseSha256": "5d389bdc42ffc694d4146ac0568bbedc18f40ff9cfe2f5bf0167acfda674e1b3"
+      },
+      {
+        "number": 5,
+        "en": "On the museum lawn, a group of university students from the athletics club ran a charity relay to support the conservation project. An watched from the steps while studying the supply records on her tablet. The runners were collecting small donations from classmates, none large enough to influence what the museum published. She liked the distinction. At noon a student came to ask why the ancient royal order had been ignored. An showed him the numbers: the demand would have caused grain deliveries to exceed the storage capacity of the river ports. “The commander promised what his own transport system could not carry,” she explained. The student laughed, then grew quiet when he understood that a false promise had cost real lives. An returned to the scan with renewed determination to make the figures understandable without turning them into slogans.",
+        "zh": "博物館草地上，大學田徑社辦慈善接力，募款支持古物修復。安一邊在階梯旁看跑者，一邊用平板查運糧紀錄。學生只向同學收小額捐款，沒有人出得多到能干預研究，她欣賞這個界線。中午有學生問，古代為何不理王命。安展示數據：命令要求的糧運量會超過河港可負擔的容量。「將領承諾了自己的運輸系統根本辦不到的事。」學生先笑，明白假承諾害死真實的人後又沉默。安更下決心，要把數字解釋清楚，而不是把它們變口號。",
+        "englishSha256": "2545138fa6db65e2682aebb8ac5c6568f9dcc4bc6436993e6a3789c51c54fa4b",
+        "chineseSha256": "44e5994f983bfc9e56c9b9725da47a3ef1195b9b042dafd531f454dcc029a644"
+      },
+      {
+        "number": 6,
+        "en": "Before leaving, An picked up a model of an old supply wagon. The carved wooden pickup bed at its rear was unlike a modern truck, yet its purpose was familiar: move what people needed across difficult ground. She thought about the centuries between Mei's hands and her own, about new machines and old temptations. Power could change its costume without changing its demands. Back at the scanner, An found another line at the end of the peace offer: “A reply must arrive before the moon is full.” She checked the ancient calendar. Mei had been given only three nights.",
+        "zh": "離開前，安拿起一輛古代補給車模型。車後可裝載貨物的貨斗與現代小貨車不同，目的卻相同：把人們需要的東西送過難走的地面。她想著梅的雙手與自己相隔數百年，新機器出現了，舊誘惑卻不曾消失。權力能換裝，要求卻可能一模一樣。回到掃描器旁，安在和議書末尾找到一行字：「滿月之前，必須答覆。」她查對古曆。梅只剩三個夜晚。",
+        "englishSha256": "20c7736af1cc87fc1bc25da77800bc3d99fd001494788695f712cfd786f7268d",
+        "chineseSha256": "d5ef859e9da0f4f5473dc852b01fac3b2f1e9a449c03c0d37c3e4ed72c19bf4a"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 618,
+    "targets": [
+      {
+        "word": "advocate",
+        "meaning": "提倡；主張",
+        "appearsInSource": true
+      },
+      {
+        "word": "athletics",
+        "meaning": "田徑運動",
+        "appearsInSource": true
+      },
+      {
+        "word": "clause",
+        "meaning": "條款",
+        "appearsInSource": true
+      },
+      {
+        "word": "communist",
+        "meaning": "共產主義的；共產主義者",
+        "appearsInSource": true
+      },
+      {
+        "word": "compromise",
+        "meaning": "妥協；折衷",
+        "appearsInSource": true
+      },
+      {
+        "word": "customs",
+        "meaning": "海關；查驗",
+        "appearsInSource": true
+      },
+      {
+        "word": "evolution",
+        "meaning": "演變",
+        "appearsInSource": true
+      },
+      {
+        "word": "exceed",
+        "meaning": "超過",
+        "appearsInSource": true
+      },
+      {
+        "word": "exploit",
+        "meaning": "剝削",
+        "appearsInSource": true
+      },
+      {
+        "word": "glared",
+        "meaning": "怒視",
+        "appearsInSource": true
+      },
+      {
+        "word": "indulge",
+        "meaning": "縱容；沉溺",
+        "appearsInSource": true
+      },
+      {
+        "word": "infinite",
+        "meaning": "無限的",
+        "appearsInSource": true
+      },
+      {
+        "word": "laser",
+        "meaning": "雷射",
+        "appearsInSource": true
+      },
+      {
+        "word": "maintenance",
+        "meaning": "維護",
+        "appearsInSource": true
+      },
+      {
+        "word": "monopoly",
+        "meaning": "壟斷",
+        "appearsInSource": true
+      },
+      {
+        "word": "partly",
+        "meaning": "部分地",
+        "appearsInSource": true
+      },
+      {
+        "word": "pathetic",
+        "meaning": "可憐的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pickup",
+        "meaning": "小貨車；貨斗",
+        "appearsInSource": true
+      },
+      {
+        "word": "rhetoric",
+        "meaning": "修辭",
+        "appearsInSource": true
+      },
+      {
+        "word": "sentimental",
+        "meaning": "感傷的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Laser and the Letter〉第 1 段的事件，哪個選項能正確補完整句？\nIn the modern museum, An used ____ to read writing hidden beneath a damaged scroll.",
+      "options": [
+        "a laser scanner",
+        "a kingdom where slavery was accepted",
+        "a generous donation instead"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a laser scanner",
+      "existingAnswerExplanation": "原文證據：In the modern museum, An used a laser scanner to read writing hidden beneath a damaged scroll.\n本段對照：現代博物館裡，安用雷射掃描器閱讀一卷殘損古信底下的字。機器顯示和平條件中遭刪去的一條：邊境將領願放過南河，但議會必須交出地圖與醫療紀錄。旁邊史學家稱那些文字是空洞修辭的傑作：一面宣稱無盡繁榮，一面允許將領剝削俘虜勞動。安怒視華美文字，幾乎能想像數百年前的梅如何拒絕縱容把人當籌碼的將領。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "In the modern museum, An used a laser scanner to read writing hidden beneath a damaged scroll. The machine revealed a clause erased from a peace offer: the frontier commander had promised to spare Nanhe if its council surrendered the maps and the healer's records. A historian beside her called the language a masterpiece of empty rhetoric. It spoke of endless prosperity while permitting the commander to exploit prisoners for labor. An glared at the polished words. She could almost imagine Mei, centuries earlier, refusing to indulge a man who treated people as bargaining pieces.",
+          "chinese": "現代博物館裡，安用雷射掃描器閱讀一卷殘損古信底下的字。機器顯示和平條件中遭刪去的一條：邊境將領願放過南河，但議會必須交出地圖與醫療紀錄。旁邊史學家稱那些文字是空洞修辭的傑作：一面宣稱無盡繁榮，一面允許將領剝削俘虜勞動。安怒視華美文字，幾乎能想像數百年前的梅如何拒絕縱容把人當籌碼的將領。",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 6,
+          "english": "Before leaving, An picked up a model of an old supply wagon. The carved wooden pickup bed at its rear was unlike a modern truck, yet its purpose was familiar: move what people needed across difficult ground. She thought about the centuries between Mei's hands and her own, about new machines and old temptations. Power could change its costume without changing its demands. Back at the scanner, An found another line at the end of the peace offer: “A reply must arrive before the moon is full.” She checked the ancient calendar. Mei had been given only three nights.",
+          "chinese": "離開前，安拿起一輛古代補給車模型。車後可裝載貨物的貨斗與現代小貨車不同，目的卻相同：把人們需要的東西送過難走的地面。她想著梅的雙手與自己相隔數百年，新機器出現了，舊誘惑卻不曾消失。權力能換裝，要求卻可能一模一樣。回到掃描器旁，安在和議書末尾找到一行字：「滿月之前，必須答覆。」她查對古曆。梅只剩三個夜晚。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Laser and the Letter〉第 6 段的事件，哪個選項能正確補完整句？\nBack at the scanner, An found another line at the end of the peace offer: “A reply must arrive before the moon is full.” She checked ____.",
+      "options": [
+        "the symptoms of cold exposure",
+        "the ancient calendar",
+        "the tunnel"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the ancient calendar",
+      "existingAnswerExplanation": "原文證據：Back at the scanner, An found another line at the end of the peace offer: “A reply must arrive before the moon is full.” She checked the ancient calendar.\n本段對照：離開前，安拿起一輛古代補給車模型。車後可裝載貨物的貨斗與現代小貨車不同，目的卻相同：把人們需要的東西送過難走的地面。她想著梅的雙手與自己相隔數百年，新機器出現了，舊誘惑卻不曾消失。權力能換裝，要求卻可能一模一樣。回到掃描器旁，安在和議書末尾找到一行字：「滿月之前，必須答覆。」她查對古曆。梅只剩三個夜晚。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Before leaving, An picked up a model of an old supply wagon. The carved wooden pickup bed at its rear was unlike a modern truck, yet its purpose was familiar: move what people needed across difficult ground. She thought about the centuries between Mei's hands and her own, about new machines and old temptations. Power could change its costume without changing its demands. Back at the scanner, An found another line at the end of the peace offer: “A reply must arrive before the moon is full.” She checked the ancient calendar. Mei had been given only three nights.",
+          "chinese": "離開前，安拿起一輛古代補給車模型。車後可裝載貨物的貨斗與現代小貨車不同，目的卻相同：把人們需要的東西送過難走的地面。她想著梅的雙手與自己相隔數百年，新機器出現了，舊誘惑卻不曾消失。權力能換裝，要求卻可能一模一樣。回到掃描器旁，安在和議書末尾找到一行字：「滿月之前，必須答覆。」她查對古曆。梅只剩三個夜晚。",
+          "matchedQueryTerms": 26
+        },
+        {
+          "paragraph": 1,
+          "english": "In the modern museum, An used a laser scanner to read writing hidden beneath a damaged scroll. The machine revealed a clause erased from a peace offer: the frontier commander had promised to spare Nanhe if its council surrendered the maps and the healer's records. A historian beside her called the language a masterpiece of empty rhetoric. It spoke of endless prosperity while permitting the commander to exploit prisoners for labor. An glared at the polished words. She could almost imagine Mei, centuries earlier, refusing to indulge a man who treated people as bargaining pieces.",
+          "chinese": "現代博物館裡，安用雷射掃描器閱讀一卷殘損古信底下的字。機器顯示和平條件中遭刪去的一條：邊境將領願放過南河，但議會必須交出地圖與醫療紀錄。旁邊史學家稱那些文字是空洞修辭的傑作：一面宣稱無盡繁榮，一面允許將領剝削俘虜勞動。安怒視華美文字，幾乎能想像數百年前的梅如何拒絕縱容把人當籌碼的將領。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

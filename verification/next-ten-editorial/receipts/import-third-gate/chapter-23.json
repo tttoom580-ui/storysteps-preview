@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 23,
+  "chapterId": "import-third-gate-23",
+  "sourceChapterSha256": "72b61231630f208c862f9b21c8d1398aa63d6bb5a5db74df4df482b0736c26d0",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "新建築師檢查古水門與戰地骨骸，安請社群參與尊重處理，建保護步道及礦物痕跡窗口，局部修復獲准。",
+    "previousChapterEndingEnglish": "At sunset the recordings were copied into the archive. A young visitor listened to her grandfather's voice and said she had never realized how his childhood differed from hers, whereas both had grown up beside the same river. An looked across the market and thought of Mei's ancient assembly. The people had changed, as had their tools, but the need to be heard was familiar. She promised to keep the booth open on future weekends. The museum, she realized, did not have to confine history within its walls. History was already speaking all around it.",
+    "nextChapterOpeningEnglish": "On the day the restoration contract was signed, An saw a familiar figure near the museum escalator: the developer's chief adviser, speaking with a man who had bullied workers at earlier meetings. They were trying to substitute a private security company for the public team assigned to protect the ruins. An remained courteous and asked for a written explanation. The adviser claimed that the change was necessary to improve the project's capability. Yet the new company had no profile of archaeological work, and its previous clients included a suburban warehouse investigated for illegal cocaine trafficking. An refused to approve the substitution without review."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The city hired a new architect to examine the old gate before any construction began. Her task was not simply to make the ruins attractive but to ensure that modern foundations would comply with the environmental mandate. An joined the inspection with an agricultural specialist who studied how river deposits affected farms. The specialist warned that a major flood was inevitable at some point; no wall could promise absolute safety. The architect asserted that good design could still boost protection and public access without hiding the ancient structure behind concrete.",
+        "zh": "市府聘來新建築師，在工程動工前檢查古水門。她的任務不是把遺跡做漂亮，而是確保新地基符合環境法定要求。安陪同農業專家檢查河泥如何影響農田。專家警告，未來某次大洪水不可避免，任何牆都不可能保證絕對安全。建築師主張，好的設計仍能提升防護與公共通行，不必把古構造埋在水泥後面。",
+        "englishSha256": "20097d11615f386568593b71574bfd7a0c8346d440e0a1705551ebd6322b8251",
+        "chineseSha256": "c19ca27114f26bcb8618ebd33765a6de18082ed07ecc7f2f5dab0fcff822e4ed"
+      },
+      {
+        "number": 2,
+        "en": "One morning the inspection uncovered bones near a buried passage. A medical specialist examined them and offered a preliminary diagnosis of injuries caused by heavy stone. Further tests suggested a genetic relationship among several people buried nearby, but the team warned that kinship did not reveal their identities or motives. The ruins stood in the midst of an old battlefield, and rushed conclusions would dishonor the dead. An ordered the area protected and asked the community's representatives to advise on respectful treatment. The findings would be documented carefully before any public claim was made.",
+        "zh": "某晨，檢查人員在埋住的通道旁發現骨骸。醫學專家初步診斷有重石造成的傷痕。後續檢驗顯示附近幾名死者可能有遺傳親緣，但團隊提醒，血緣不能告訴我們姓名或動機。遺跡位於古戰場中央，草率推論會對死者不敬。安命人保護區域，請社群代表協助討論妥當處置，所有發現須先詳實記錄才能公開。",
+        "englishSha256": "e2ba71e34886d2b3eba65319e50d5d0e4938249046b4f987e83c3a9b50bbca63",
+        "chineseSha256": "11a7ad8e752446f93ebc9de9a41500c25f40c7d447d3c98aa3480af3ab7af201"
+      },
+      {
+        "number": 3,
+        "en": "The bones lay beside a carved slab showing a figure standing before a throne. Early visitors called the image a king receiving homage, but An noticed that the figure held a measuring rod rather than a sword. Above the carving was a line praising someone as a saint for saving the city. The historian Bo cautioned that titles of holiness were often granted long after a person's death. The inscription might honor Mei, or it might record a different leader whose story had been forgotten. The distinction mattered: the team was rebuilding evidence, not choosing a favorite legend.",
+        "zh": "骨骸旁有塊刻石，畫著一人站在王座前。早期觀眾稱它是國王受朝拜，安卻看見那人拿的是測量尺，不是劍。上方銘文讚頌某人救城如聖者。史學家伯提醒，「聖」的稱號往往在人死後很久才加上。它可能紀念梅，也可能屬於另一位被遺忘的領袖。這差別很重要：團隊是在重建證據，不是在挑選喜愛的傳說。",
+        "englishSha256": "aca99a15d8ca1ae55fccfef7522b847483bc97f12ebc6d1cc09c4c874d5b9e2b",
+        "chineseSha256": "2205ddb4f8a0d35432db50cc9a637f7767f91541617142099ef13c5ee40b10a8"
+      },
+      {
+        "number": 4,
+        "en": "In a workshop, the architect began to mount a model of the new embankment. An watched her adjust each support while a technician checked the pressure on old stones. The result was a practical masterpiece: a narrow walkway would let visitors see the ancient water mechanism while reinforcing the flood defenses. The design also allowed water to follow its historic route under controlled conditions. When officials visited, the architect refused to exaggerate its benefits. “Progressive design,” she said, “means admitting limits and planning for them, not pretending nature has obeyed us.”",
+        "zh": "工作坊裡，建築師開始組裝新堤模型。安看她調整每根支撐，技師檢測舊石壓力。成果堪稱實用傑作：窄步道讓訪客看見古水機構，同時強化防洪；設計也使河水能在受控情況下循歷史水路流動。官員來訪時，建築師拒絕誇大利益。「進步設計，」她說，「是承認限制並為它們準備，不是假裝大自然已經服從我們。」",
+        "englishSha256": "c089232b1d49427592a9752889d0a78cc59c8067e2d29314b33c434a420b8cdf",
+        "chineseSha256": "badcbae5408d892deae298336916d6b4254edca5113b899ba06b86cb40eef50b"
+      },
+      {
+        "number": 5,
+        "en": "During the final inspection, a worker stumbled on a loose stone and heard it slam against the wall. Beneath the stone was a dark stain of mineral deposits, showing where water had once flowed unnoticed. The architect stopped the team and asked them to photograph the mark before cleaning it. It was tempting to cover the damage for the opening ceremony, but An argued that such traces could reveal how the gate had changed over time. The workers added a small protected window to the design so visitors could see the evidence rather than a perfect imitation of new stone. The decision delayed the opening by a day, yet it strengthened the team's confidence that restoration meant understanding a building, not disguising its age. The worker who had stumbled was invited to explain the discovery to visitors, and he proudly accepted.",
+        "zh": "最後檢查時，一名工人踢到鬆石，石頭重重撞上牆。石下有深色礦物污漬，顯示水曾悄悄流過。建築師立即停工，要求先拍照再清理。為開幕儀式遮掩損傷很容易，安卻認為這些痕跡能揭示水門如何隨時間改變。工人便在設計加一個保護視窗，讓訪客看到證據，而不是完美仿造的新石。開幕延後一天，團隊卻更有信心：修復是理解建築，不是掩飾年歲。那名絆到石頭的工人還獲邀向觀眾解說發現，他驕傲地答應了。",
+        "englishSha256": "638f9ede138e71e8b3804b5d948d1b27d865101839eb6af3f6b5e83b5e1e93f7",
+        "chineseSha256": "fab571d3129c28f7859da815a73a7273b5b06dc5bb984516054e2ddc8a98bba4"
+      },
+      {
+        "number": 6,
+        "en": "The bureau approved a limited restoration rather than a complete commercial redevelopment. An signed the report and watched workers carry timber to the gate via the southern path. She felt relief, but she knew the project still depended on funding and future oversight. On the last page she added a sentence from an ancient charter: a city that saves its walls while abandoning its people has saved nothing. She did not know whether Mei had written the line herself. What mattered was that the words had survived because someone had thought them worth keeping.",
+        "zh": "主管局處批准局部修復，而不是全面商業開發。安簽署報告，看工人沿南路把木料運往水門。她鬆了口氣，也知道工程仍取決於經費與後續監督。報告末頁，她加上一句古章程的話：「只保住城牆而拋棄百姓的城，什麼也沒有保住。」她不確定這是否梅親筆寫的。但有人曾認為這話值得留下，才讓它活到今天。",
+        "englishSha256": "505fb0850605c352a5c028e337ea5b16eecfc3efcd1d3bb69fe1c30249048a1f",
+        "chineseSha256": "5a3018989360a78e09e2629416d0af57cfc567d7deb1dfb479a9ce2c63e52bce"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 608,
+    "targets": [
+      {
+        "word": "agricultural",
+        "meaning": "農業的",
+        "appearsInSource": true
+      },
+      {
+        "word": "architect",
+        "meaning": "建築師",
+        "appearsInSource": true
+      },
+      {
+        "word": "asserted",
+        "meaning": "斷言；主張",
+        "appearsInSource": true
+      },
+      {
+        "word": "boost",
+        "meaning": "提升；增加",
+        "appearsInSource": true
+      },
+      {
+        "word": "bureau",
+        "meaning": "局處；辦公室",
+        "appearsInSource": true
+      },
+      {
+        "word": "comply",
+        "meaning": "遵守",
+        "appearsInSource": true
+      },
+      {
+        "word": "diagnosis",
+        "meaning": "診斷",
+        "appearsInSource": true
+      },
+      {
+        "word": "genetic",
+        "meaning": "遺傳的",
+        "appearsInSource": true
+      },
+      {
+        "word": "inevitable",
+        "meaning": "無法避免的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mandate",
+        "meaning": "命令；強制規定",
+        "appearsInSource": true
+      },
+      {
+        "word": "masterpiece",
+        "meaning": "傑作",
+        "appearsInSource": true
+      },
+      {
+        "word": "midst",
+        "meaning": "中央；之中",
+        "appearsInSource": true
+      },
+      {
+        "word": "mount",
+        "meaning": "安裝；架起",
+        "appearsInSource": true
+      },
+      {
+        "word": "progressive",
+        "meaning": "進步的",
+        "appearsInSource": true
+      },
+      {
+        "word": "saint",
+        "meaning": "聖人",
+        "appearsInSource": true
+      },
+      {
+        "word": "slam",
+        "meaning": "重重撞擊",
+        "appearsInSource": true
+      },
+      {
+        "word": "specialist",
+        "meaning": "專家",
+        "appearsInSource": true
+      },
+      {
+        "word": "stain",
+        "meaning": "污漬；痕跡",
+        "appearsInSource": true
+      },
+      {
+        "word": "throne",
+        "meaning": "王座",
+        "appearsInSource": true
+      },
+      {
+        "word": "via",
+        "meaning": "經由；透過",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Architect's Mandate〉第 3 段的事件，哪個選項能正確補完整句？\nEarly visitors called the image a king receiving homage, but An noticed that the figure held ____.",
+      "options": [
+        "a second map folded",
+        "a model of an old supply wagon",
+        "a measuring rod rather than a sword"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a measuring rod rather than a sword",
+      "existingAnswerExplanation": "原文證據：Early visitors called the image a king receiving homage, but An noticed that the figure held a measuring rod rather than a sword.\n本段對照：骨骸旁有塊刻石，畫著一人站在王座前。早期觀眾稱它是國王受朝拜，安卻看見那人拿的是測量尺，不是劍。上方銘文讚頌某人救城如聖者。史學家伯提醒，「聖」的稱號往往在人死後很久才加上。它可能紀念梅，也可能屬於另一位被遺忘的領袖。這差別很重要：團隊是在重建證據，不是在挑選喜愛的傳說。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The bones lay beside a carved slab showing a figure standing before a throne. Early visitors called the image a king receiving homage, but An noticed that the figure held a measuring rod rather than a sword. Above the carving was a line praising someone as a saint for saving the city. The historian Bo cautioned that titles of holiness were often granted long after a person's death. The inscription might honor Mei, or it might record a different leader whose story had been forgotten. The distinction mattered: the team was rebuilding evidence, not choosing a favorite legend.",
+          "chinese": "骨骸旁有塊刻石，畫著一人站在王座前。早期觀眾稱它是國王受朝拜，安卻看見那人拿的是測量尺，不是劍。上方銘文讚頌某人救城如聖者。史學家伯提醒，「聖」的稱號往往在人死後很久才加上。它可能紀念梅，也可能屬於另一位被遺忘的領袖。這差別很重要：團隊是在重建證據，不是在挑選喜愛的傳說。",
+          "matchedQueryTerms": 22
+        },
+        {
+          "paragraph": 5,
+          "english": "During the final inspection, a worker stumbled on a loose stone and heard it slam against the wall. Beneath the stone was a dark stain of mineral deposits, showing where water had once flowed unnoticed. The architect stopped the team and asked them to photograph the mark before cleaning it. It was tempting to cover the damage for the opening ceremony, but An argued that such traces could reveal how the gate had changed over time. The workers added a small protected window to the design so visitors could see the evidence rather than a perfect imitation of new stone. The decision delayed the opening by a day, yet it strengthened the team's confidence that restoration meant understanding a building, not disguising its age. The worker who had stumbled was invited to explain the discovery to visitors, and he proudly accepted.",
+          "chinese": "最後檢查時，一名工人踢到鬆石，石頭重重撞上牆。石下有深色礦物污漬，顯示水曾悄悄流過。建築師立即停工，要求先拍照再清理。為開幕儀式遮掩損傷很容易，安卻認為這些痕跡能揭示水門如何隨時間改變。工人便在設計加一個保護視窗，讓訪客看到證據，而不是完美仿造的新石。開幕延後一天，團隊卻更有信心：修復是理解建築，不是掩飾年歲。那名絆到石頭的工人還獲邀向觀眾解說發現，他驕傲地答應了。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Architect's Mandate〉第 6 段的事件，哪個選項能正確補完整句？\nAn signed ____ and watched workers carry timber to the gate via the southern path.",
+      "options": [
+        "the report",
+        "the proposal",
+        "the river"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the report",
+      "existingAnswerExplanation": "原文證據：An signed the report and watched workers carry timber to the gate via the southern path.\n本段對照：主管局處批准局部修復，而不是全面商業開發。安簽署報告，看工人沿南路把木料運往水門。她鬆了口氣，也知道工程仍取決於經費與後續監督。報告末頁，她加上一句古章程的話：「只保住城牆而拋棄百姓的城，什麼也沒有保住。」她不確定這是否梅親筆寫的。但有人曾認為這話值得留下，才讓它活到今天。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The bureau approved a limited restoration rather than a complete commercial redevelopment. An signed the report and watched workers carry timber to the gate via the southern path. She felt relief, but she knew the project still depended on funding and future oversight. On the last page she added a sentence from an ancient charter: a city that saves its walls while abandoning its people has saved nothing. She did not know whether Mei had written the line herself. What mattered was that the words had survived because someone had thought them worth keeping.",
+          "chinese": "主管局處批准局部修復，而不是全面商業開發。安簽署報告，看工人沿南路把木料運往水門。她鬆了口氣，也知道工程仍取決於經費與後續監督。報告末頁，她加上一句古章程的話：「只保住城牆而拋棄百姓的城，什麼也沒有保住。」她不確定這是否梅親筆寫的。但有人曾認為這話值得留下，才讓它活到今天。",
+          "matchedQueryTerms": 16
+        },
+        {
+          "paragraph": 1,
+          "english": "The city hired a new architect to examine the old gate before any construction began. Her task was not simply to make the ruins attractive but to ensure that modern foundations would comply with the environmental mandate. An joined the inspection with an agricultural specialist who studied how river deposits affected farms. The specialist warned that a major flood was inevitable at some point; no wall could promise absolute safety. The architect asserted that good design could still boost protection and public access without hiding the ancient structure behind concrete.",
+          "chinese": "市府聘來新建築師，在工程動工前檢查古水門。她的任務不是把遺跡做漂亮，而是確保新地基符合環境法定要求。安陪同農業專家檢查河泥如何影響農田。專家警告，未來某次大洪水不可避免，任何牆都不可能保證絕對安全。建築師主張，好的設計仍能提升防護與公共通行，不必把古構造埋在水泥後面。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-third-gate",
+  "title": "南河雙時錄",
+  "chapter": 10,
+  "chapterId": "import-third-gate-10",
+  "sourceChapterSha256": "2387541a8a86899c0dbffef77945d4aa2ea81be6eda694e4cf972d91c4ecf3a1",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "故事切入數百年後博物館考古學者安，掃出偽幣購地與河渠史料，拒絕富商以贊助限制研究，退休老師交未刊家書與古青銅穹頂記述。",
+    "previousChapterEndingEnglish": "Rather than hide the discovery, the council displayed the receipts in the square. The rescued teenagers received lawful papers, and their testimony helped identify the coin makers. Yet Mei refused to call the matter finished. She ordered fresh maps of the walls and asked the grain kitchens to store more supplies. Citizens came to ask whether war was certain. “No,” she answered. “But preparation is not surrender.” That night she climbed the south tower and watched the stars. The river was quiet. For the first time in many months, its silence troubled her more than its roar.",
+    "nextChapterOpeningEnglish": "The newly translated scroll began with a grim description of Nanhe under threat. Veteran soldiers gathered in the northern institution once used to train horses, and each carried a petition demanding that the council deploy every available fighter. They spoke from experience, but fatigue made their voices sharp. Mei listened until the oldest veteran, Huo, held out a broken arrow. He said that the frontier commander planned to accelerate the attack before harvest. If the city's grain stores were destroyed, no recommendation from the capital could save the families trapped inside the walls."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Many centuries after Mei's death, archaeologist An entered an excavation office beneath a bronze dome at the new Nanhe museum. The city had become a crowded modern metropolis, but the river still followed the lines recorded in the old maps. An was studying genetics and the chemistry of ancient burial sites; a colleague explained how a single molecule trapped in soil could reveal traces of long-vanished food. Their discovery had drawn an entrepreneur willing to fund research, though his family owned large property beside the river. He offered generous equipment, then quietly asked that the museum avoid questions about the old governor's descendants.",
+        "zh": "梅逝世數百年後，考古研究者安走進新南河博物館青銅穹頂下的發掘辦公室。這座城已成為擁擠的現代都市，但河流仍沿著古地圖的路線流動。安研究古墓的遺傳學與土壤化學；同事解釋，一個留在土裡的分子也可能揭示失落已久的食物痕跡。某位企業家願資助研究，他家卻在河邊擁有大片土地。他慷慨提供設備，隨後私下要求博物館不要追問前太守後裔的事。",
+        "englishSha256": "4a3697477e944a79ddc69d2e3c5bc492558af00a40812297a7397463c5e5d388",
+        "chineseSha256": "86a98990b6792204c18dbaac921ee6d8fe47dbb5115fa47f234d054cfc483fa6"
+      },
+      {
+        "number": 2,
+        "en": "An thought the request ridiculous. Her team's credibility depended on publishing evidence, not protecting anyone's reputation. She had taken the initiative to integrate historical manuscripts with laboratory results. One scroll described an anonymous butcher who had smuggled food to Nanhe during the threatened siege. Another recorded the fate of a pregnant refugee who had sought an abortion because she feared captivity. An read the account carefully, knowing that ancient medical choices could not be judged through a single modern slogan. The records described real people struggling to survive, not convenient examples for an argument.",
+        "zh": "安覺得要求荒謬。研究團隊的可信度來自公開證據，而非維護特定家族名聲。她主動把古文獻與實驗結果整合。一卷手稿記著一名匿名屠夫，在圍城威脅下偷偷送糧入城；另一卷寫著一位懷孕難民因害怕被俘而尋求終止妊娠。安仔細閱讀，明白不能用單一現代口號評斷古人的醫療選擇。紀錄中的人是真實掙扎求生的人，不是辯論時可隨手取用的例子。",
+        "englishSha256": "be38db0f10c355652432e168205a8c0eab8d8e86a29e4062fb067a3a4c1c35d0",
+        "chineseSha256": "901ff5794d1cd071e5d92ebf640881ed329315909de5846a0cb210a02a77f349"
+      },
+      {
+        "number": 3,
+        "en": "A historian named Bo, unrelated to the ancient investigator, showed An the bronze seal recovered near the wall. It carried the mark of a sector of the royal treasury that had handled debt and mortgages on farmland. Suddenly the old coin scandal made sense: false money had financed purchases of land stolen during the floods. An used a vertical scan to examine scratches inside the seal and found a second name almost erased. She suspected someone had betrayed the city from within its own council. The possibility unsettled her, because the ancient story had always portrayed the citizens as united.",
+        "zh": "史學家伯——與古代調查官無親屬關係——拿出城牆附近出土的青銅印。它屬於王室財政部門的一支，負責土地債務與抵押。古代假錢案突然清楚起來：偽幣資助了洪災期間掠奪農地的收購。安以垂直掃描檢查印章內側刻痕，找到幾乎被刮去的第二個名字。她懷疑古城議會內有人背叛南河。這令她不安，因為流傳的故事總把當年市民說成團結無間。",
+        "englishSha256": "5cf4627fbdae290513895b829456da1ae6c6b7f4428b663008ce1f70f21f0252",
+        "chineseSha256": "95daf932a7fb1b81f7feed576dc1561266ae32c62ad8558c249bf45deb03ae1f"
+      },
+      {
+        "number": 4,
+        "en": "The entrepreneur returned with a warning. If the museum accused his ancestors, he would withdraw support and call in a mortgage on the laboratory building. An asked him to testify instead about what his family actually knew. He grew arrogant and insisted that private funds gave him control of the work. “Money may keep lights on,” An answered, “but it cannot purchase the past.” She invited a wildlife specialist to examine animal remains recovered from the riverbank, because ecological clues might confirm the manuscripts independently of the land records.",
+        "zh": "企業家回來提出警告：若博物館指控他的祖先，他就撤資，並要求償還實驗室建物的抵押貸款。安反請他作證，說明家族真正知道什麼。他態度傲慢，堅稱私人資金賦予他控制研究的權力。「錢能維持燈亮，」安答，「卻買不到過去。」她另請野生動物專家檢查河岸出土獸骨，盼能以生態線索獨立驗證手稿，而非只依賴土地文件。",
+        "englishSha256": "23d67dba6497654b933d4dc1fd00b211d7c36a3cfd55381ab8ade0c92f00b51b",
+        "chineseSha256": "71502d6b3484c065241638841790da923e4a93201cf30e15743254e1ca6a3da4"
+      },
+      {
+        "number": 5,
+        "en": "Before returning to the excavation, An took the retired teacher to the river. He told her that the old canals could still sustain neighborhoods during heavy rain, provided the city did not seal them for convenience. They passed a school where children had painted a mural of Mei with a map in one hand and a lantern in the other. An wondered whether the mural should be revised as new evidence emerged. “It can remain,” the teacher said, “as long as children know it represents one version of her story.” He then showed her a worn notebook containing interviews with families who maintained the gate during the previous century. None of the voices had entered the official museum archive. An offered to digitize them and return copies to the families. The work would be slow, but she no longer expected the past to yield its meaning all at once.",
+        "zh": "返發掘地前，安陪退休教師走到河邊。他說，只要城市不為方便封死古渠，它們在暴雨時仍能支撐社區。兩人經過學校，看見孩子畫的梅：一手地圖，一手燈籠。安想，新證據出現後是否該修改壁畫。「可以留著，」教師說，「只要孩子知道那是一種版本。」他取出舊筆記，裡面是上一世紀維護水門家庭的訪談，從未收入正式館藏。安答應數位化後還給各家。工作會慢，但她已不再期待過去一次就交出全部意義。",
+        "englishSha256": "1f725e1a9e4e8a172b6f5a66e76dad3062ab0d031ca176f77e0ffa462028aa60",
+        "chineseSha256": "468c8e309e53580e4c890c1b7120efb91c200fae2f41cb8eb6d66aeec9ba522f"
+      },
+      {
+        "number": 6,
+        "en": "That evening the museum lost its promised donation, but gained something less visible. A retired teacher arrived with a photograph of an unpublished family letter. The writer had witnessed the ancient siege and described a bronze dome above the old council chamber. An looked up at the museum's modern dome, which had been inspired by that very description. History, she thought, was neither a trophy nor a weapon to wield carelessly. It was a conversation across time, full of human mistakes. She opened a new research file and titled it, “Who Closed the Third Gate After Mei Opened It?”",
+        "zh": "那晚，博物館失去捐款，卻得到另一樣看不見的東西。一位退休教師帶來未刊家書的照片。寫信人曾見證古代圍城，還描述議事廳上方的青銅穹頂。安抬頭望向博物館現代穹頂——它正是依那段敘述設計。歷史不是獎盃，也不是可隨意揮舞的武器；它是一場跨越時代、充滿人性錯誤的對話。她開啟新檔，標題寫道：「梅打開第三道水門之後，究竟又是誰把它關上？」",
+        "englishSha256": "2732b546229f330deba92ced5e74e4426366639481ccb8db0e4a40bc8c9d48a8",
+        "chineseSha256": "f890424483c6b5b5b74f7cbb1d1a3ecad9627dabdadb18324da00490a8b4c390"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 634,
+    "targets": [
+      {
+        "word": "abortion",
+        "meaning": "墮胎；終止妊娠",
+        "appearsInSource": true
+      },
+      {
+        "word": "anonymous",
+        "meaning": "匿名的",
+        "appearsInSource": true
+      },
+      {
+        "word": "arrogant",
+        "meaning": "傲慢的",
+        "appearsInSource": true
+      },
+      {
+        "word": "betrayed",
+        "meaning": "背叛",
+        "appearsInSource": true
+      },
+      {
+        "word": "bronze",
+        "meaning": "青銅",
+        "appearsInSource": true
+      },
+      {
+        "word": "butcher",
+        "meaning": "屠夫",
+        "appearsInSource": true
+      },
+      {
+        "word": "credibility",
+        "meaning": "可信度",
+        "appearsInSource": true
+      },
+      {
+        "word": "dome",
+        "meaning": "圓頂；穹頂",
+        "appearsInSource": true
+      },
+      {
+        "word": "entrepreneur",
+        "meaning": "企業家",
+        "appearsInSource": true
+      },
+      {
+        "word": "genetics",
+        "meaning": "遺傳學",
+        "appearsInSource": true
+      },
+      {
+        "word": "initiative",
+        "meaning": "倡議；主動措施",
+        "appearsInSource": true
+      },
+      {
+        "word": "integrate",
+        "meaning": "整合",
+        "appearsInSource": true
+      },
+      {
+        "word": "molecule",
+        "meaning": "分子",
+        "appearsInSource": true
+      },
+      {
+        "word": "mortgage",
+        "meaning": "抵押貸款",
+        "appearsInSource": true
+      },
+      {
+        "word": "ridiculous",
+        "meaning": "荒謬的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sector",
+        "meaning": "部門；領域",
+        "appearsInSource": true
+      },
+      {
+        "word": "sustain",
+        "meaning": "維持；支撐",
+        "appearsInSource": true
+      },
+      {
+        "word": "testify",
+        "meaning": "作證",
+        "appearsInSource": true
+      },
+      {
+        "word": "vertical",
+        "meaning": "垂直的",
+        "appearsInSource": true
+      },
+      {
+        "word": "wildlife",
+        "meaning": "野生動物",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Bronze Dome〉第 1 段的事件，哪個選項能正確補完整句？\nMany centuries after Mei's death, archaeologist An entered ____ at the new Nanhe museum.",
+      "options": [
+        "an urgent discussion of safety",
+        "An an old metal rail embedded",
+        "an excavation office beneath a bronze dome"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "an excavation office beneath a bronze dome",
+      "existingAnswerExplanation": "原文證據：Many centuries after Mei's death, archaeologist An entered an excavation office beneath a bronze dome at the new Nanhe museum.\n本段對照：梅逝世數百年後，考古研究者安走進新南河博物館青銅穹頂下的發掘辦公室。這座城已成為擁擠的現代都市，但河流仍沿著古地圖的路線流動。安研究古墓的遺傳學與土壤化學；同事解釋，一個留在土裡的分子也可能揭示失落已久的食物痕跡。某位企業家願資助研究，他家卻在河邊擁有大片土地。他慷慨提供設備，隨後私下要求博物館不要追問前太守後裔的事。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Many centuries after Mei's death, archaeologist An entered an excavation office beneath a bronze dome at the new Nanhe museum. The city had become a crowded modern metropolis, but the river still followed the lines recorded in the old maps. An was studying genetics and the chemistry of ancient burial sites; a colleague explained how a single molecule trapped in soil could reveal traces of long-vanished food. Their discovery had drawn an entrepreneur willing to fund research, though his family owned large property beside the river. He offered generous equipment, then quietly asked that the museum avoid questions about the old governor's descendants.",
+          "chinese": "梅逝世數百年後，考古研究者安走進新南河博物館青銅穹頂下的發掘辦公室。這座城已成為擁擠的現代都市，但河流仍沿著古地圖的路線流動。安研究古墓的遺傳學與土壤化學；同事解釋，一個留在土裡的分子也可能揭示失落已久的食物痕跡。某位企業家願資助研究，他家卻在河邊擁有大片土地。他慷慨提供設備，隨後私下要求博物館不要追問前太守後裔的事。",
+          "matchedQueryTerms": 23
+        },
+        {
+          "paragraph": 5,
+          "english": "Before returning to the excavation, An took the retired teacher to the river. He told her that the old canals could still sustain neighborhoods during heavy rain, provided the city did not seal them for convenience. They passed a school where children had painted a mural of Mei with a map in one hand and a lantern in the other. An wondered whether the mural should be revised as new evidence emerged. “It can remain,” the teacher said, “as long as children know it represents one version of her story.” He then showed her a worn notebook containing interviews with families who maintained the gate during the previous century. None of the voices had entered the official museum archive. An offered to digitize them and return copies to the families. The work would be slow, but she no longer expected the past to yield its meaning all at once.",
+          "chinese": "返發掘地前，安陪退休教師走到河邊。他說，只要城市不為方便封死古渠，它們在暴雨時仍能支撐社區。兩人經過學校，看見孩子畫的梅：一手地圖，一手燈籠。安想，新證據出現後是否該修改壁畫。「可以留著，」教師說，「只要孩子知道那是一種版本。」他取出舊筆記，裡面是上一世紀維護水門家庭的訪談，從未收入正式館藏。安答應數位化後還給各家。工作會慢，但她已不再期待過去一次就交出全部意義。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Bronze Dome〉第 6 段的事件，哪個選項能正確補完整句？\nShe opened a new research file and titled it, “Who Closed ____?”",
+      "options": [
+        "the old corridor beneath the eastern tower",
+        "the current beneath floating leaves",
+        "the Third Gate After Mei Opened It"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the Third Gate After Mei Opened It",
+      "existingAnswerExplanation": "原文證據：She opened a new research file and titled it, “Who Closed the Third Gate After Mei Opened It?”\n本段對照：那晚，博物館失去捐款，卻得到另一樣看不見的東西。一位退休教師帶來未刊家書的照片。寫信人曾見證古代圍城，還描述議事廳上方的青銅穹頂。安抬頭望向博物館現代穹頂——它正是依那段敘述設計。歷史不是獎盃，也不是可隨意揮舞的武器；它是一場跨越時代、充滿人性錯誤的對話。她開啟新檔，標題寫道：「梅打開第三道水門之後，究竟又是誰把它關上？」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That evening the museum lost its promised donation, but gained something less visible. A retired teacher arrived with a photograph of an unpublished family letter. The writer had witnessed the ancient siege and described a bronze dome above the old council chamber. An looked up at the museum's modern dome, which had been inspired by that very description. History, she thought, was neither a trophy nor a weapon to wield carelessly. It was a conversation across time, full of human mistakes. She opened a new research file and titled it, “Who Closed the Third Gate After Mei Opened It?”",
+          "chinese": "那晚，博物館失去捐款，卻得到另一樣看不見的東西。一位退休教師帶來未刊家書的照片。寫信人曾見證古代圍城，還描述議事廳上方的青銅穹頂。安抬頭望向博物館現代穹頂——它正是依那段敘述設計。歷史不是獎盃，也不是可隨意揮舞的武器；它是一場跨越時代、充滿人性錯誤的對話。她開啟新檔，標題寫道：「梅打開第三道水門之後，究竟又是誰把它關上？」",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "Many centuries after Mei's death, archaeologist An entered an excavation office beneath a bronze dome at the new Nanhe museum. The city had become a crowded modern metropolis, but the river still followed the lines recorded in the old maps. An was studying genetics and the chemistry of ancient burial sites; a colleague explained how a single molecule trapped in soil could reveal traces of long-vanished food. Their discovery had drawn an entrepreneur willing to fund research, though his family owned large property beside the river. He offered generous equipment, then quietly asked that the museum avoid questions about the old governor's descendants.",
+          "chinese": "梅逝世數百年後，考古研究者安走進新南河博物館青銅穹頂下的發掘辦公室。這座城已成為擁擠的現代都市，但河流仍沿著古地圖的路線流動。安研究古墓的遺傳學與土壤化學；同事解釋，一個留在土裡的分子也可能揭示失落已久的食物痕跡。某位企業家願資助研究，他家卻在河邊擁有大片土地。他慷慨提供設備，隨後私下要求博物館不要追問前太守後裔的事。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}
