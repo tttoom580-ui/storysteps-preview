@@ -280,6 +280,60 @@
           "九道記號。韓祈曾聽到八聲鐘響，沈雨則聽到九聲；這個像計分板的訊息，彷彿呼應了城市地底的怪聲。"
         ]
       ]
+    },
+    {
+      "book": "import-last-garden",
+      "chapter": 7,
+      "paragraph": 2,
+      "reason": "Microwave does not normally have enough battery power to run large pumps; distinguish shipboard backup cell and voltage check",
+      "english": [
+        [
+          "He found a microwave unit still working and used its battery to power the main pump.",
+          "He found a charged backup battery in the ship's microwave service unit. After checking the required voltage, he connected it to the main pump."
+        ]
+      ],
+      "chinese": [
+        [
+          "他找到仍能使用的微波加熱裝置，拆下電池替主水泵供電。",
+          "他在船上的微波設備維修單元找到一顆仍有電的備用電池，核對主水泵所需電壓後才接上電源。"
+        ]
+      ]
+    },
+    {
+      "book": "import-last-garden",
+      "chapter": 8,
+      "paragraph": 5,
+      "reason": "An untrained teenager should not perform an unsterile implant extraction; involve automatic medical robot and preserve tracking plot",
+      "english": [
+        [
+          "Noah disabled the transmitter with careful movements, then sealed the wound.",
+          "Noah asked the depot's medical robot to disable the transmitter. The robot removed the tiny device under sterile conditions and sealed the wound while he watched its safety readings."
+        ]
+      ],
+      "chinese": [
+        [
+          "諾亞小心關閉裝置，再封住傷口。",
+          "諾亞請倉庫裡的醫療機器人關閉發報器。機器人在無菌環境下取出小裝置、處理傷口，他則在旁查看安全數據。"
+        ]
+      ]
+    },
+    {
+      "book": "import-last-garden",
+      "chapter": 15,
+      "paragraph": 4,
+      "reason": "Avoid showing a teenager crawling alone into burning oxygen-linked structure and turning unknown pressure valve by hand",
+      "english": [
+        [
+          "Lena crawled through the narrow space, feeling the ship vibrate around her. At the end she found a valve marked with the symbol of a palm tree. She turned it with both hands until water burst through the ceiling sprinklers. The flame above the chimney slowly weakened. When she returned, Noah gave a joyful shout and wrapped his arms around her. For a moment even the exhausted workers smiled.",
+          "The fire chief stopped Lena from crawling into the smoke-filled maintenance space. Using the old drawing, Lena found a valve marked with the symbol of a palm tree and showed its position on the inspection camera. With ventilation isolated and the route cleared, a trained engineer opened the valve by remote control. Water burst through the ceiling sprinklers, and the flames above the chimney weakened. Noah gave a joyful shout and hugged Lena, but everyone remained behind the safety line until the crew confirmed it was safe."
+        ]
+      ],
+      "chinese": [
+        [
+          "莉娜爬過狹窄空間，感覺整艘船都在周圍震動。盡頭有個標著棕櫚樹符號的閥門。她雙手用力轉動，水終於從天花板灑水器噴出。煙囪上的火勢逐漸減弱。她回來時，諾亞歡呼一聲抱住她。那一刻，連筋疲力盡的工人都露出笑容。",
+          "消防主管阻止莉娜獨自爬進充滿濃煙的維修空間。莉娜參照舊圖，在檢查攝影機畫面上找到棕櫚樹符號的閥門，並指出確切位置。隔離通風系統、確認通道淨空後，受過訓練的工程師才以遠端操作打開閥門。水從天花板灑水器噴出，煙囪上方火勢逐漸減弱。諾亞歡呼著抱住莉娜，但所有人都留在安全線後，直到消防隊確認可以通行。"
+        ]
+      ]
     }
   ],
   "quizPatches": [
