@@ -997,6 +997,7 @@ The club moved a table to the center of the room and shared an apple after their
 **繁中**
 
 散步後，社團把桌子移到教室中央，一起分吃蘋果。天氣暖和，俊在水裡加了一點冰。凱說他聽得見冰塊在杯中移動。艾薇問他最喜歡花園的哪一點。「我愛下雨後葉子的味道，」他說，「也喜歡知道那裡有個地方，可以坐著和朋友聊天。」艾薇環顧四周。花園不只能用來學科學，也能是交朋友和安靜休息的地方。
+
 **EN**
 
 Jun brought a pencil and drew the garden on a simple page. Kai asked him to explain the drawing with his voice. “The main way is here,” Jun said, “but a net for the sports field is too close.” Kai said he did not need his brother to answer every question for him. He wanted people to speak to him directly. Ivy agreed that he was right. They spent half an hour walking around the garden together and asking which places felt easy and which felt hard to use.
@@ -1997,6 +1998,7 @@ Later a class counted the dry seed packets. There were enough for two more garde
 At home Ivy drew a picture of the bee above the flowers. She did not draw a monster with giant teeth. She drew a small animal doing what it normally did. Under the picture she wrote that people and bees needed space. Her father looked at it and smiled. “You have had many new problems this year,” he said. Ivy answered that she had also met many people ready to help. She was learning to count both the problems and the good things around them.
 
 **繁中**
+
 回到家，艾薇畫了一幅蜜蜂飛在花朵上方的圖。她沒有畫出長著巨大牙齒的怪物，只畫了一隻做著平常事情的小動物。她在圖下寫：人和蜜蜂都需要空間。爸爸看了微笑說：「今年你遇到好多新問題。」艾薇回答，她也認識了好多願意幫忙的人。她正在學習同時看見問題，以及問題周圍的好事。
 
 ### 本章新目標詞

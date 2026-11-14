@@ -997,7 +997,8 @@
 | L3-0104 | `bud` | n./v. | `bud` | 嫩芽 | A small bud grew in a pot near the inspection desk, a quiet charm against the cold metal. |
 | L3-0135 | `charm` | n./v. | `charm` | 護身符般的魅力 | A small bud grew in a pot near the inspection desk, a quiet charm against the cold metal. |
 | L3-0191 | `cotton` | n. | `cotton` | 棉花 | The crew wrapped the camera cable in cotton cloth to protect it from the rough edge of the tube. |
-| L3-0209 | `crown` | n./v. | `crown` | 皇冠 | A paper crown from a school visit lay beside a dairy drink in the supply room. || L3-0212 | `dairy` | n. | `dairy` | 乳製品的 | A paper crown from a school visit lay beside a dairy drink in the supply room. |
+| L3-0209 | `crown` | n./v. | `crown` | 皇冠 | A paper crown from a school visit lay beside a dairy drink in the supply room. |
+| L3-0212 | `dairy` | n. | `dairy` | 乳製品的 | A paper crown from a school visit lay beside a dairy drink in the supply room. |
 | L3-0283 | `element` | n. | `element` | 要素 | The important element was not whether the camera scene looked hopeful; it was whether the team could repeat the observation without harming the chamber. |
 | L3-0372 | `grocery` | n. | `grocery` | 雜貨補給 | The grocery delivery arrived late, leaving a mess of boxes beside an old oak cupboard. |
 | L3-0405 | `holy` | adj. | `holy` | 神聖的 | A teacher called the rescue a holy duty, but Shan reminded everyone that even noble work required evidence. |

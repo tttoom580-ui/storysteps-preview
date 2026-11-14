@@ -998,6 +998,7 @@ The next morning the guard found the missing weather instrument under a collapse
 **EN**
 
 The next city had built an arena for cloud-beast racing, although the animals had not entered it willingly for years. A proposed ban on the races had attracted a celebrity athlete who hoped to rebuild his reputation by supporting animal care. He wore a crystal pendant shaped like a flying beast and smiled for every camera. Ye worried that the event would depress the calf after its long journey, but the athlete's assistant invited him to speak without displaying any animal. The stadium manager had advertised an encounter with a real cloud beast. Ye demanded that the misleading promise be removed before he entered. An told him he would stand beside him but would not take over the speech. The decision belonged to the keeper who knew the animal best.
+
 **繁中**
 
 下一座城市建了一座雲獸競速競技場，雖然多年來動物都不願自發進場。一項禁賽提案吸引一名名人運動員參與，他希望藉支持動物照護挽回名聲。他戴著雲獸飛行造型的水晶墜飾，對每臺攝影機微笑。葉青擔心長途跋涉的幼獸會因活動而沮喪，但運動員助理邀他發言，不必展示任何動物。場館經理早已宣傳可與真正雲獸近距離接觸。葉青要求先撤掉這項誤導承諾，才願意入場。安知說自己會站在旁邊，卻不代替他演說。這項決定屬於最了解幼獸的照護員。
@@ -1996,6 +1997,7 @@ The first construction team wanted to inject water deep into dry soil through na
 **繁中**
 
 第一組施工隊想用細管把水注入乾燥土層。安知說方法可能可行，但工人必須在老樹根附近修改設計。麵包店老闆帶熱酥點給工人，問灰塵會不會傷害顧客。團隊沒有忽視她的顧慮，而是蓋好工具，僅在市場打烊後的安靜時段施工。一名富有贊助人願意支付一座裝飾雲獸雕像的噴泉，葉青卻建議，能運作的雨水渠道比昂貴象徵更有用。贊助人參觀花園後，同意資助排水工程。傍晚，小型試驗花床吸收了水，沒有淹到附近商店入口。工人洗了手，回家休息，便是當天的慶祝。
+
 **EN**
 
 The weather office scheduled a rehearsal for the next storm, using a scenario in which intense rain arrived while the cloud herd crossed the city. Its new computer was sophisticated, but the villagers insisted that any plan must make sense without a screen. An described how temporary gates should be opened, how ambulances could pass, and where animals could find wet ground. The exercise revealed a problem: the southern market still had high smog levels because trucks waited there with engines running. Shopkeepers agreed to change delivery times, and the city offered electric carts for the busiest hours. Ye reminded the officials that the exercise was not a real storm. Successful rehearsal meant they had found weaknesses early, not that they had made danger disappear.

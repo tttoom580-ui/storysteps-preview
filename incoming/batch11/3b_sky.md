@@ -997,7 +997,8 @@ The next set of four prompts was "aside", "bubble", "canyon", and "capable". Jon
 **繁中**
 下一組四個提示是aside（在一旁）、bubble（氣泡）、canyon（峽谷）、capable（有能力的）。喬森把燈調低一些，讓大家不必站起來也能讀清楚卡片。一名訪客用「在一旁」說明事件的先後。一位聽眾想起日常生活裡的「氣泡」。一張關於「峽谷」的卡片連起兩段不同回憶。一名訪客說「有能力的」對每個家庭不一定相同。有些訪客想把這些詞寫成單一的快樂故事，其他人卻覺得同樣的卡片很難面對。
 
-**EN**Four more words arrived from the visitors' notebooks: "captain", "client", "edit", and "elderly". Rui listened for what the speakers wanted to keep, rather than for a line that would sound clever in an advertisement. A listener remembered captain from an ordinary day. One card about client brought two different memories together. One speaker asked how to edit in a fair and careful way. A speaker asked whether the word elderly described their memory fairly. An older neighbor explained one card through a small object that could be passed from hand to hand. A younger person offered a different scene, and the two were allowed to disagree.
+**EN**
+Four more words arrived from the visitors' notebooks: "captain", "client", "edit", and "elderly". Rui listened for what the speakers wanted to keep, rather than for a line that would sound clever in an advertisement. A listener remembered captain from an ordinary day. One card about client brought two different memories together. One speaker asked how to edit in a fair and careful way. A speaker asked whether the word elderly described their memory fairly. An older neighbor explained one card through a small object that could be passed from hand to hand. A younger person offered a different scene, and the two were allowed to disagree.
 
 **繁中**
 訪客筆記裡又出現四個詞：captain（船長）、client（委託人）、edit（編輯）、elderly（年長的）。芮安在意的是講述者想保留什麼，而不是能否摘出適合廣告的漂亮台詞。一位聽眾想起日常生活裡的「船長」。一張關於「委託人」的卡片連起兩段不同回憶。有位講述者說人應該學著自己「編輯」。有人稱某段回憶是「年長的」，並說明原因。一位年長鄰居用能在手中傳遞的小物件解釋其中一張卡，年輕人則提出不同的場景；兩人被允許保留分歧。
@@ -1996,6 +1997,7 @@ The schoolyard felt smaller than Rui remembered, but the students made the new d
 
 **EN**
 The next set of four prompts was "ray", "scary", "sensible", and "trace". Jonas moved the lamp a little lower so that the cards could be read without forcing people to stand. A volunteer discussed ray through a concrete detail, not a guess. A speaker asked whether the word scary described their memory fairly. Someone wondered whether the situation was truly sensible. One card about trace brought two different memories together. An older neighbor explained one card through a small object that could be passed from hand to hand. A younger person offered a different scene, and the two were allowed to disagree.
+
 **繁中**
 下一組四個提示是ray（光線）、scary（可怕的）、sensible（明智的）、trace（痕跡）。喬森把燈調低一些，讓大家不必站起來也能讀清楚卡片。志工把「光線」和具體細節連結，而不是靠猜測。有人稱某段回憶是「可怕的」，並說明原因。有人思考當時的情況是否真的「明智的」。一張關於「痕跡」的卡片連起兩段不同回憶。一位年長鄰居用能在手中傳遞的小物件解釋其中一張卡，年輕人則提出不同的場景；兩人被允許保留分歧。
 

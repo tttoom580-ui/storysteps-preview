@@ -998,6 +998,7 @@
 
 
 **EN** That evening Mo returned to the pool alone. The lanes were empty after the flood response, and repair tape still marked the forbidden corner. She placed the council decision beside the inspection log and counted the things that remained unfinished. Financial oversight. Drainage. User representation. A fair labor roster. The list was longer than the celebratory posts online suggested. Yet she no longer felt she had to carry every item personally. She locked the office, walked past the old trophies, and imagined the building filled with people who would never know her name. That was not a loss. It was the future she hoped to build. Mo refused to seduce voters with promises that could not be funded. A regional food-safety poster discussed humane alternatives to livestock slaughter. The nutrition program focused on preventing food insecurity rather than romanticizing starvation. A retired statesman attended as a resident, not as someone entitled to special treatment. The tedious work of checking contracts mattered more than the applause after the vote.
+
 **繁中** 當晚，沐禾獨自回到泳池。暴雨應變後的水道空蕩，封鎖膠帶仍標著不能進入的角落。她把議會決議放在檢查日誌旁，數著尚未完成的事項：財務監督、排水改善、使用者代表、合理排班。清單比網路慶祝貼文所呈現的長得多。但她已不覺得每一件都要自己背負。她鎖上辦公室，走過老獎盃，想像未來建築裡滿是根本不認識她的人。那不是失去，而是她想建造的未來。 沐禾拒絕用沒有經費支撐的承諾誘惑選民。 地區食安海報討論家畜屠宰的人道替代措施。 營養方案著重預防食物不安全，而非美化飢餓。 一名退休政治家以居民身分旁聽，沒有要求特權。 查核契約的繁瑣工作，比表決後的掌聲更重要。
 
 
@@ -1747,3 +1748,4 @@
 - **正式配詞附件：** 已使用《L6_B本_25章配詞.md》，原始 ID 共 501 個，依指定章節各出現一次於詞表，並在該章英文正文檢查到目標詞形。
 - **理解測驗：** 50 題；每章 2 題，每題 3 個選項，附正解與繁中解析。
 - **未能由程式充分驗證：** 長篇文學品質、語境詞義細微差異、英中完整語義等值，以及閱讀難度的人工評分。正式出版前應進行母語編輯與校對。
+

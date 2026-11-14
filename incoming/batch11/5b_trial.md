@@ -997,6 +997,7 @@ Before leaving, Jiang noticed that a workshop invoice listed an upgrade to the m
 ### 正文與翻譯
 
 **EN**
+
 The second hearing took place in a former training arena after the bureau agreed to lift its temporary ban on independent observers. A celebrity ascension champion arrived wearing a clear crystal pendant and declared that anyone who entered the trial had accepted its costs. Jiang asked him to identify the precise form on which that consent was recorded. The champion could not, and a survivor quietly requested permission to answer instead. They checked the wording aloud, because a rule that sounded harmless in a whisper could become cruel when enforced. Before leaving, they repeated the safety condition and confirmed that every participant understood where the exit stood. The next door remained closed, and for once that delay felt like a choice rather than another punishment.
 
 **繁中**
@@ -1997,6 +1998,7 @@ At the first student rehearsal, a patron arrived with a box of pastry and offere
 **繁中**
 
 第一次學生排練時，一名贊助者帶來糕點，出錢要求更精彩的故事。全班拒絕。他們改為練習說明一張假同意書如何與三份獨立紀錄核對。羅衍看見學生遇到答不出的問題就停下。江沐說，這種停頓比漂亮的編造更可貴，因為他們知道有說服力的故事不等於經驗證的敘述。他們也想著紀錄漏掉的部分：幫助者的姓名、拖延的代價，以及訴說另一種故事的權利。聽眾聽見兩種可能解釋，兩人也說明要用哪項觀察來區分。江沐是自己選擇留下，羅衍接受這個選擇，沒有要求他承諾明天的事。
+
 **EN**
 
 The city still faced a smog problem, and one newspaper proposed a sophisticated scenario in which reopening the trial would produce clean power. An engineer explained that the sealed mechanism had never been tested for public supply. Jiang refused to squash the debate, but he asked the paper to distinguish a hypothesis from a working design. Luo offered the old school's empty workshops for safer experiments. The students chose ordinary tools rather than a miraculous promise. The archive had survived for years; the challenge was to make its contents useful without turning them into another weapon. Luo Yan put the seal away instead of using it immediately, and Jiang Mu noticed the restraint without thanking him. They signed below the witnesses, not above them, because the people who bore the cost had to remain visible.

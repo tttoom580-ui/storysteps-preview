@@ -997,6 +997,7 @@ The next morning the cultural center offered a dry room for the recorded notices
 
 **繁中**
 隔天早晨，文化中心願意借出乾燥空間播放預錄公告。在那裡工作的一位在地小說家聽說了計畫，問學生們要不要把舊信件改寫成小說。怡思說，在沒有作者與家屬同意前不行。小說家尊重她的回答，提出另一個點子：只使用當事人同意公開的材料，展示夜間服務規則與歷史。「故事可以小心，也可以有趣，」她說。怡思把這句話記下來。這正是她需要學習的事。
+
 **EN**
 When Noah returned from checking the roof, Iris was writing a description of the new hall. He leaned upon the door frame and asked if she wanted tea. She did, but she could see he was tired. “You do not have to be protective of everybody every minute,” she told him. He laughed softly. “Somebody needs to be protective of you too.” The words stayed in the air. Iris looked at him, uncertain whether to change the subject. Instead she said, “I like working with you. I also like sitting beside you when nothing needs fixing.” Noah's face turned red, and for once he had no quick answer.
 
@@ -1996,7 +1997,8 @@ In the evening, they returned to the empty hall and saw a new sign: “Night Des
 **1. What new fact is learned about the old bus symbol?**
 
 - A. It was copied from a restaurant.
-- B. It was made by a computer program.- C. A former night worker's mother painted it.
+- B. It was made by a computer program.
+- C. A former night worker's mother painted it.
 
 **答案：C。** 舊工作者的女兒說，藍色公車圖案出自她母親的手。
 
