@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "updated": "2026-11-14",
+  "currency": "TWD",
+  "phase": "prelaunch",
+  "freeBookIds": [
+    "tomorrow",
+    "ss-r10-l1-a",
+    "ss-r11-l1-a",
+    "ss-r2-l1-b",
+    "ss-r10-l2-b",
+    "ss-r2-l2-a",
+    "ss-r10-l3-b",
+    "ss-r10-l4-a",
+    "ss-r10-l5-b",
+    "ss-r10-l6-a"
+  ],
+  "freeAccess": {
+    "scope": "all_25_chapters",
+    "requiresAccount": false,
+    "priceTwd": 0
+  },
+  "premium": {
+    "label": "全站閱讀通行證",
+    "priceTwd": 100,
+    "billing": "one_time",
+    "advertising": "none_for_paid_account",
+    "scope": "all_published_books_at_purchase",
+    "futureBooks": "not_promised",
+    "checkoutEnabled": false,
+    "serverEntitlementsEnabled": false,
+    "privateBookStorageEnabled": false
+  },
+  "transitionalAccess": {
+    "legacyFreeUnlock": true,
+    "description": "支付、私有書稿與伺服器驗證完成前，維持現有免費章節及免費四章解鎖，不提供模擬購買、虛構已付款或不可使用的購買按鈕。"
+  },
+  "cautions": [
+    "尚未提供付款或訂單服務。",
+    "此設定是公開商品規格草案，不等於金流上線。",
+    "靜態公開書稿不能靠前端鎖定達成付費保護。"
+  ]
+}
