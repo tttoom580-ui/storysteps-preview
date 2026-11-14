@@ -17,6 +17,7 @@ REPORT_PATH=ROOT/'verification/level1/ch01-editorial-completion-20261114.json'
 CAT_PATH=PUB/'catalog.js'
 MAN_PATH=PUB/'content-manifest.json'
 PLAN=json.loads(PLAN_PATH.read_text(encoding='utf-8'))
+PREVIOUS=json.loads(REPORT_PATH.read_text(encoding='utf-8')).get('books',{}) if REPORT_PATH.exists() else {}
 CAT=json.loads(CAT_PATH.read_text(encoding='utf-8').split('=',1)[1].rstrip(';\n'))
 MAN=json.loads(MAN_PATH.read_text(encoding='utf-8'))
 level1=[b for b in CAT if b['level']=='1000以下']
@@ -43,6 +44,9 @@ for b in level1:
     assert chapter['id']==b['chapters'][0]['id']
     source_count=len(chapter['paragraphs'])
     old_words=len(wordlist(' '.join(p['en'] for p in chapter['paragraphs'])))
+    if bid in PREVIOUS:
+        changes[bid]=list(PREVIOUS[bid].get('changes',[]))
+        old_words=PREVIOUS[bid].get('englishWordsBefore',old_words)
     for patch in (p for p in PLAN['patches'] if p['book']==bid):
         pi=patch['paragraph']-1
         assert 0<=pi<len(chapter['paragraphs']),(bid,pi)
