@@ -78,7 +78,7 @@ for bid in ids:
         # an exact verified source match; reruns must not erase its record.
         touched.add(number)
         applied.append({'book':bid,'chapter':number,'paragraph':section+1,
-                        'reason':p['problem'],'appliedNow':english_changed,
+                        'reason':p['reason'],'appliedNow':english_changed,
                         'englishBefore':p['oldEn'],'englishAfter':p['newEn'],
                         'chineseBefore':p['oldZh'],'chineseAfter':p['newZh']})
     for q in quiz_for_book:
