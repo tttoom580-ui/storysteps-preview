@@ -1,0 +1,50 @@
+name: "Last Garden 25-chapter AI editorial certification"
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/certify_last_garden_20261114.py'
+      - 'verification/next-ten-editorial/last-garden-full-readthrough-notes-20261114.json'
+      - '.github/workflows/certify-last-garden.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-last-garden-certification
+  cancel-in-progress: false
+jobs:
+  certify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.13.1'
+      - name: Verify source-locked complete bilingual AI review
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/certify_last_garden_20261114.py
+          python3 scripts/check_editorial_certification.py
+          python3 scripts/audit_story_release.py
+      - name: Publish approved Last Garden only if every gate passes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          npm install --no-audit --no-fund
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/certify_last_garden_20261114.py
+            python3 scripts/check_editorial_certification.py
+            npm run build
+            node verification/ad-policy-smoke.mjs
+            node verification/offer-smoke.mjs
+            git add verification/editorial-approvals.json verification/next-ten-editorial/receipts verification/next-ten-editorial/last-garden-certification-summary.json public/catalog.js docs
+            git commit -m 'editorial: certify Last Garden 25 chapters with complete bilingual evidence [skip ci]'
+            if git push origin HEAD:main; then exit 0; fi
+          done
+          exit 1
