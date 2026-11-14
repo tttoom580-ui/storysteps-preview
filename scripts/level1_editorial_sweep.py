@@ -48,7 +48,7 @@ old_zh="一隻小蟲爬過窗戶。她打開窗戶聽，卻聽不見鳥叫聲。
 new_zh="一隻小蟲沿著冰冷的窗戶緩緩爬行。塔薇不明白牠為何這麼早就出現。她打開窗戶，想聽聽通常在春天前回來的鳥兒，卻一聲鳥鳴也沒聽見。"),
 dict(book="ss-r10-l1-a",chapter=1,paragraph=1,reason="Resolve location/time jump from walking down the street back to breakfast outside the apartment",
 old_en="At 7 a.m., Nia walked along Red Brick Street with a heavy bag on her shoulder. She was early for her new job.",
-new_en="At 7 a.m., Nia stood outside her apartment on Red Brick Street, her heavy teaching bag resting beside the breakfast table. She had left plenty of time before her first class.",
+new_en="At 7 a.m., Nia stood outside her apartment on Red Brick Street, her heavy teaching bag resting beside the breakfast table. She was early for her first class and had plenty of time to prepare.",
 old_zh="早上七點，妮雅背著沉重的袋子走過紅磚街。她提早出門，準備迎接新工作。",
 new_zh="早上七點，妮雅站在紅磚街的公寓外，沉重的教學袋放在早餐桌旁。距離第一堂課還有充裕的時間。"),
 dict(book="ss-r10-l1-a",chapter=1,paragraph=1,reason="Continue the same breakfast scene before she departs",
