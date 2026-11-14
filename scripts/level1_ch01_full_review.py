@@ -60,7 +60,15 @@ for b in level1:
     if order:
         if sorted(order)!=list(range(1,source_count+1)):
             raise ValueError(f'Invalid paragraph order: {bid}')
-        chapter['paragraphs']=[chapter['paragraphs'][i-1] for i in order]
+        # The first successful publication has already applied these two
+        # chapter-specific chronology repairs. Keep reruns idempotent.
+        already_reordered=(
+          (bid=='ss-r3-l1-a' and chapter['paragraphs'][3]['en'].startswith('At lunch'))
+          or
+          (bid=='ss-r4-l1-b' and chapter['paragraphs'][3]['en'].startswith('Luma the rabbit'))
+        )
+        if not already_reordered:
+            chapter['paragraphs']=[chapter['paragraphs'][i-1] for i in order]
     if len(chapter['paragraphs'])!=source_count:
         raise ValueError(f'Lost a bilingual paragraph: {bid}')
     question_evidence=[]
