@@ -3,8 +3,9 @@
   "summary": {
     "scopeBooks": 10,
     "patchGroupsRecorded": 10,
+    "quizPatchesRecorded": 2,
     "patchGroupsAppliedThisRun": 2,
-    "chaptersWithDocumentedRepairs": 8,
+    "chaptersWithDocumentedRepairs": 10,
     "wholeBooksCertifiedByScript": 0
   },
   "changes": [
@@ -173,7 +174,7 @@
       "chapter": 13,
       "paragraph": 3,
       "reason": "Conference was established in outdoor school garden, then chapter unexpectedly mentions a warm indoor hall: add clear relocation before the student's medical emergency",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "The conference paused when a student fainted in the warm hall.",
@@ -192,7 +193,7 @@
       "chapter": 23,
       "paragraph": 2,
       "reason": "Clarify nursery is childcare site that also keeps plant seedlings; avoid readers thinking a plant nursery housed evacuated children",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "muddy water entered a nursery near the southern monument. Workers lifted small plants off the floor, but the children had already been moved to an upper shelter.",
@@ -205,6 +206,26 @@
           "泥水流進南方紀念碑旁的托兒所。工人先把孩子們室內小花圃的幼苗抬離地面；孩子們早已轉往樓上的避難所。"
         ]
       ]
+    },
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 3,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Fix wrong protagonist name in Chinese quiz explanation (雷鋒 is not character; Lei is 雷川)",
+      "changesAppliedNow": true,
+      "old": "雷鋒把怒氣轉成守護現場及協助調查。",
+      "new": "雷川把怒氣轉成守護現場及協助調查。"
+    },
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 25,
+      "question": 1,
+      "field": "question",
+      "reason": "Financial review is planned, no completed financing; question shouldn't imply funds already secured",
+      "changesAppliedNow": true,
+      "old": "How did the city finance the future network?",
+      "new": "What financing approach did the council consider for the future network?"
     }
   ],
   "notice": "This ledger records actual precise bilingual corrections. It is NOT 25-chapter signoff."
