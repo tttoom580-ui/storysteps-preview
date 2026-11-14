@@ -154,6 +154,62 @@
           "羅恩原定出發外地合約工作的那天，航空公司延誤迫使他改搭下午晚些時候的火車。黎安早上先陪他到車站確認改票，一位開朗志工正在協助旅客找正確月台。"
         ]
       ]
+    },
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 13,
+      "paragraph": 3,
+      "reason": "Conference was established in outdoor school garden, then chapter unexpectedly mentions a warm indoor hall: add clear relocation before the student's medical emergency",
+      "english": [
+        [
+          "The conference paused when a student fainted in the warm hall.",
+          "When the afternoon sun grew too strong, organizers moved the conference from the school garden into the nearby hall. The discussion paused when a student fainted in the warm room."
+        ]
+      ],
+      "chinese": [
+        [
+          "會議期間，一名學生在溫暖的大廳昏倒。",
+          "午後陽光愈來愈強，主辦者將會議從學校花園移到旁邊的室內大廳。討論暫停時，一名學生在悶熱的室內昏倒。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 23,
+      "paragraph": 2,
+      "reason": "Clarify nursery is childcare site that also keeps plant seedlings; avoid readers thinking a plant nursery housed evacuated children",
+      "english": [
+        [
+          "muddy water entered a nursery near the southern monument. Workers lifted small plants off the floor, but the children had already been moved to an upper shelter.",
+          "muddy water entered a childcare nursery near the southern monument. Workers lifted seedlings from the children's indoor garden off the floor, while the children had already been moved to an upper shelter."
+        ]
+      ],
+      "chinese": [
+        [
+          "泥水流進南方紀念碑旁的托兒所。工人把盆栽抬離地面，孩子們則已轉到上層避難所。",
+          "泥水流進南方紀念碑旁的托兒所。工人先把孩子們室內小花圃的幼苗抬離地面；孩子們早已轉往樓上的避難所。"
+        ]
+      ]
+    }
+  ],
+  "quizPatches": [
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 3,
+      "question": 2,
+      "reason": "Fix wrong protagonist name in Chinese quiz explanation (雷鋒 is not character; Lei is 雷川)",
+      "field": "explanation",
+      "old": "雷鋒把怒氣轉成守護現場及協助調查。",
+      "new": "雷川把怒氣轉成守護現場及協助調查。"
+    },
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 25,
+      "question": 1,
+      "reason": "Financial review is planned, no completed financing; question shouldn't imply funds already secured",
+      "field": "question",
+      "old": "How did the city finance the future network?",
+      "new": "What financing approach did the council consider for the future network?"
     }
   ]
 }
