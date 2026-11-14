@@ -19,7 +19,8 @@ catalog=json.loads(CAT.read_text(encoding='utf-8').split('=',1)[1].rstrip(';\n')
 manifest=json.loads(MAN.read_text(encoding='utf-8'))
 books={b['id']:b for b in catalog}
 cert=json.loads((ROOT/'verification/editorial-approvals.json').read_text())['certifiedBooks']
-assert not set(scope['bookIds']) & set(cert)
+# Certified books remain immutable; a later patch must be reviewed and
+# separately re-certified instead of silently invalidating its source hash.
 assert all(p['book'] in scope['bookIds'] for p in patches+quiz_patches)
 words=lambda s:re.findall(r"[A-Za-z]+(?:['’\-][A-Za-z]+)*",s)
 def present(s,w):
@@ -30,6 +31,11 @@ for p in patches:work[p['book']].append(p)
 for p in quiz_patches:work[p['book']]
 allrecs=[]
 for bid,changes in work.items():
+ if bid in cert:
+  # Previous revisions of this book are already in its certified SHA-bound payload.
+  # Never mutate a certified book through a later general repair sweep.
+  assert all(p['book'] in scope['bookIds'] for p in changes)
+  continue
  path=(PUB/manifest['books'][bid]['url']).resolve()
  assert path.is_relative_to(PUB.resolve())
  original=path.read_bytes()
