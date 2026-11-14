@@ -1,0 +1,52 @@
+name: StorySteps import eight uploaded novels
+on:
+  push:
+    paths:
+      - 'scripts/import_batch11.py'
+      - '.github/workflows/import-batch11.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-batch11-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 13
+    steps:
+      - uses: actions/checkout@v4
+      - name: Parse eight manuscripts and validate full catalog
+        run: |
+          python3 scripts/import_batch11.py
+          python3 scripts/audit_story_release.py
+          python3 scripts/audit_launch.py
+          python3 scripts/audit_editorial_depth.py > /tmp/editorial-depth.log
+          python3 scripts/build_editorial_progress.py
+      - name: Publish latest validated books without overwriting concurrent changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/import_batch11.py
+            python3 scripts/audit_story_release.py
+            python3 scripts/audit_launch.py
+            python3 scripts/audit_editorial_depth.py > /tmp/editorial-depth.log
+            python3 scripts/build_editorial_progress.py
+            git add public/books public/catalog.js public/content-manifest.json public/vocabulary-audit.json public/editorial-progress.html public/story-review.json app/story-previews.json app/reading-guide.json app/reading-guide-samples.json verification/import-batch11.json verification/editorial-triage-20261114.json verification/launch-audit-20261109.json verification/story-review-20261110.json STORY_REVIEW.md
+            if git diff --cached --quiet; then
+              echo 'Books already imported'
+              exit 0
+            fi
+            git commit -m 'content: add six books, update two, retain candid editorial status [skip import]'
+            if git push origin HEAD:main; then
+              echo 'BATCH11_VALIDATED_PUBLISHED'
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
