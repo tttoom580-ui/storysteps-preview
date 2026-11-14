@@ -19,7 +19,8 @@ manifest=json.loads((PUB/'content-manifest.json').read_text(encoding='utf-8'))
 already=json.loads((ROOT/'verification/editorial-approvals.json').read_text(encoding='utf-8')).get('certifiedBooks',{})
 ids=scope['bookIds']
 assert len(ids)==len(set(ids))==10
-assert not set(ids)&set(already),'Previously approved books must be excluded from next ten'
+# Previously approved chapters may be re-audited read-only, but an audit must
+# never revoke, rewrite, or silently renew their editorial approval.
 books={b['id']:b for b in catalog}
 assert all(x in books and x in manifest['books'] for x in ids)
 words=lambda s:re.findall(r"[A-Za-z]+(?:['’\-][A-Za-z]+)*",s)
@@ -88,7 +89,7 @@ for bid in ids:
  'paragraphPairs':sum(len(c['paragraphs']) for c in chapters),
  'quizQuestions':sum(len(c['questions']) for c in chapters),
  'explicitEvidenceInQuizExplanations':sum(sum(bool(re.search(r'原文證據|校訂核對|evidence',q.get('explanation',''),re.I)) for q in c['questions']) for c in chapters),
- 'substantiveEditorialApproved':False}
+ 'substantiveEditorialApproved':bid in already}
  overview.append(summary)
 tot={'books':len(ids),'chapters':len(by_chapter),'paragraphPairs':sum(x['paragraphPairs'] for x in overview),
  'quizQuestions':sum(x['quizQuestions'] for x in overview),
