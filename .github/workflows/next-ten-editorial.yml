@@ -1,4 +1,4 @@
-name: Next ten: 250-chapter editorial triage
+name: "Next ten: 250-chapter editorial triage"
 on:
   push:
     branches: [main]
