@@ -6,12 +6,12 @@
   "summary": {
     "booksInScope": 10,
     "chaptersStructurallyChecked": 250,
-    "bilingualEditsAppliedNow": 12,
+    "bilingualEditsAppliedNow": 0,
     "bilingualPatchGroupsDocumented": 12,
-    "quizzesRevisedNow": 2,
+    "quizzesRevisedNow": 0,
     "totalTargetWordsChecked": 5009,
     "totalQuizzesStructurallyChecked": 500,
-    "chaptersManuallyTouchedThisPass": 7,
+    "chaptersManuallyTouchedThisPass": 0,
     "booksWithCrossChapterReuseCandidates": 1,
     "wholeBooksFullyEdited": 0
   },
@@ -84,10 +84,8 @@
       "id": "ss-r10-l2-b",
       "title": "把市場的聲音，留到明天",
       "chapters": 25,
-      "chaptersModifiedThisPass": [
-        1
-      ],
-      "sourceBeforeSha256": "e0245fa950386faa6e22161cbe33ba944190a57d5016c8e97b9ad5a3f01eb150",
+      "chaptersModifiedThisPass": [],
+      "sourceBeforeSha256": "968c5e73ef729486c98185cbac95105f13a58d481f25ca7346e2f71b1704c5b4",
       "sourceAfterSha256": "968c5e73ef729486c98185cbac95105f13a58d481f25ca7346e2f71b1704c5b4",
       "bilingualPatchGroups": 0,
       "quizzesCorrected": 1,
@@ -102,10 +100,8 @@
       "id": "ss-r2-l2-a",
       "title": "我的修仙天賦，是看懂使用說明",
       "chapters": 25,
-      "chaptersModifiedThisPass": [
-        2
-      ],
-      "sourceBeforeSha256": "9f441d2104474d36bcf62eb1c0b6ea6441c5dd01a4ac2123939b59305779ce05",
+      "chaptersModifiedThisPass": [],
+      "sourceBeforeSha256": "c34c816129361b72458b3601f2ea067f78f5a4e4f75878645a58e0ddaf92025d",
       "sourceAfterSha256": "c34c816129361b72458b3601f2ea067f78f5a4e4f75878645a58e0ddaf92025d",
       "bilingualPatchGroups": 1,
       "quizzesCorrected": 0,
@@ -121,7 +117,7 @@
       "title": "把地板留給每一種舞步",
       "chapters": 25,
       "chaptersModifiedThisPass": [],
-      "sourceBeforeSha256": "3caa7ab327964ad8ecaef7730f8bf7ed1996faee874d86da8cdc0a1f11709ca4",
+      "sourceBeforeSha256": "8002e93160dcd1b908e3808639c72e2068570419639a51689d28025f3632e7c7",
       "sourceAfterSha256": "8002e93160dcd1b908e3808639c72e2068570419639a51689d28025f3632e7c7",
       "bilingualPatchGroups": 0,
       "quizzesCorrected": 0,
@@ -136,10 +132,8 @@
       "id": "ss-r10-l4-a",
       "title": "都市高武：我替弱者校準屏障",
       "chapters": 25,
-      "chaptersModifiedThisPass": [
-        1
-      ],
-      "sourceBeforeSha256": "68e48bdee6223d9d278c2f7ef753e420c512a6056ddcd641cd90c0a41aa3c9d7",
+      "chaptersModifiedThisPass": [],
+      "sourceBeforeSha256": "7627690dc3c07db51b1ca9c6316b64fcaaab08ee31369d8c4d09d8fe5fa75bb5",
       "sourceAfterSha256": "7627690dc3c07db51b1ca9c6316b64fcaaab08ee31369d8c4d09d8fe5fa75bb5",
       "bilingualPatchGroups": 1,
       "quizzesCorrected": 0,
@@ -154,11 +148,8 @@
       "id": "ss-r10-l5-b",
       "title": "萬味渡口：與你煮一碗回家的湯",
       "chapters": 25,
-      "chaptersModifiedThisPass": [
-        1,
-        2
-      ],
-      "sourceBeforeSha256": "6979f3003913a8530f489ceb63c5a0e7516d9c8644170e958ae581a450c8593e",
+      "chaptersModifiedThisPass": [],
+      "sourceBeforeSha256": "cb513625d1ebe38783c8ffaea44f3035e2ba4038391f3e1934f17023868a3cd4",
       "sourceAfterSha256": "cb513625d1ebe38783c8ffaea44f3035e2ba4038391f3e1934f17023868a3cd4",
       "bilingualPatchGroups": 2,
       "quizzesCorrected": 1,
@@ -932,11 +923,8 @@
       "id": "ss-r10-l6-a",
       "title": "星曆失落的十七分鐘",
       "chapters": 25,
-      "chaptersModifiedThisPass": [
-        1,
-        2
-      ],
-      "sourceBeforeSha256": "e3bfab4bdfc0795456357947df8d824766adcd2e1c81617e20f67ebb13650de2",
+      "chaptersModifiedThisPass": [],
+      "sourceBeforeSha256": "528f1688784a05310b47144f0913440bb67c9fe5b6598b7a8275d1ba9c43d46d",
       "sourceAfterSha256": "528f1688784a05310b47144f0913440bb67c9fe5b6598b7a8275d1ba9c43d46d",
       "bilingualPatchGroups": 8,
       "quizzesCorrected": 0,
@@ -954,7 +942,7 @@
       "chapter": 2,
       "paragraph": 1,
       "reason": "Connect subway term to abandoned mining route.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "a map of the old subway.",
       "englishAfter": "a map of the disused mining subway route.",
       "chineseBefore": "一張舊地下鐵地圖",
@@ -965,7 +953,7 @@
       "chapter": 1,
       "paragraph": 1,
       "reason": "Clarify competition vs safety technology.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "a ministry official described the shield as entertainment that could save lives.",
       "englishAfter": "a ministry official presented the match as entertainment while insisting that the shield it showcased could save lives.",
       "chineseBefore": "一名主管部門官員則說防護屏障是一種能救人的娛樂。",
@@ -976,7 +964,7 @@
       "chapter": 1,
       "paragraph": 1,
       "reason": "Introduce second protagonist before plural 'they'.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "At the Lantern Quay, they faced a problem that the market announcements had described too simply:",
       "englishAfter": "At the Lantern Quay, Gu Wen met Lin Zhou, a quiet herbalist who had been tracing the same complaint. Together they faced a problem that the market announcements had described too simply:",
       "chineseBefore": "在燈籠碼頭，兩人面對一件市場公告說得過於簡單的難題：",
@@ -987,7 +975,7 @@
       "chapter": 2,
       "paragraph": 6,
       "reason": "Salt Ridge lacks waterfront; remove recycled quay ending.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "After the tables were cleaned, the two men sat where they could see the last boats on the water. Their silence was easier than it had been at the start of the road. Neither needed to perform certainty for the other.",
       "englishAfter": "After the injured driver had been taken to shelter, Gu Wen and Lin Zhou rested beside the ridge path and watched the last spice wagons move toward the villages. The narrow road left little room to sit, but neither felt obliged to fill the silence with confident promises.",
       "chineseBefore": "餐桌收拾乾淨後，兩人坐在能望見最後幾艘船的地方。他們之間的沉默比旅程開始時自然，誰也不必在對方面前假裝篤定。",
@@ -998,7 +986,7 @@
       "chapter": 1,
       "paragraph": 1,
       "reason": "Disconnected target-vocabulary sentences and archival scene continuity.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "The junior clerk tried to abbreviate a woman's surname into a number. Anwen said the survey boat's anchor had held through three violent winters. Veyra asked whether the new order was applicable to children without papers. The oldest archive held registers copied before the coast had been divided. The grandmother pressed the rejected ticket against her bosom.",
       "englishAfter": "At the harbor desk, a junior clerk tried to abbreviate a grandmother's surname in the passenger record. Veyra asked him to keep her full name so the family could search for it in the archive. Anwen pointed out that the survey boat's anchor had held through three violent winters, but no one had checked the boat's clock against the observatory. Veyra also asked whether the new sailing order was applicable to children without papers. The grandmother pressed her rejected ticket against her bosom and waited for an answer.",
       "chineseBefore": "年輕書記想把一名婦人的姓氏縮寫成數字。 安溫說測量船的錨已撐過三個猛烈的冬天。 薇拉詢問新命令是否適用於沒有文件的孩子。 最舊的檔案庫保存著海岸劃分以前抄錄的航海紀錄。 祖母把遭拒的票緊緊按在胸前。",
@@ -1009,7 +997,7 @@
       "chapter": 1,
       "paragraph": 2,
       "reason": "Keep Anwen's movements continuous after harbor scene.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Veyra called her young apprentice Anwen and asked her to bring the unbound observation sheets, not another polished summary.",
       "englishAfter": "Back at the observatory, Veyra asked her young apprentice Anwen to bring the unbound observation sheets, not another polished summary.",
       "chineseBefore": "薇拉叫來年輕學徒安溫，要求拿未裝訂的原始觀測紙，不要另一份光鮮摘要。",
@@ -1020,7 +1008,7 @@
       "chapter": 1,
       "paragraph": 2,
       "reason": "Link five vocabulary words through a single quay inquiry.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "A bra and children's socks remained in an abandoned travel bag. Silas refused a bribe offered by an unknown visitor that afternoon. The kitchen planned to broil fish rather than waste its remaining fuel. Jory proposed a comparative count of receipts and crew cards. One frightened child rubbed an eyelid while listening to the argument.",
       "englishAfter": "An orderly brought in a travel bag abandoned near the quay. Inside were a bra, children's socks, and a ticket with no passenger name. A frightened child rubbed an eyelid while trying to remember who had left it there. Silas, the harbor supervisor, refused a bribe from a stranger who wanted the bag removed from the register. Jory, a local clockmaker, proposed a comparative count of tickets and crew cards before anyone was blamed. The kitchen would broil its remaining fish so families could eat while the inquiry continued.",
       "chineseBefore": "一件胸罩與孩子的襪子留在被遺棄的旅行袋裡。 賽拉斯拒絕了陌生訪客下午提出的賄賂。 廚房打算炙烤魚，以免浪費所剩的燃料。 喬里提議把收據與船員戶籍卡進行比較統計。 一個受驚的孩子聽著爭執，不斷揉著眼皮。",
@@ -1031,7 +1019,7 @@
       "chapter": 1,
       "paragraph": 3,
       "reason": "Jory has already appeared in earlier paragraph.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "invited a clockmaker named Jory to examine the bell mechanism.",
       "englishAfter": "invited Jory, the clockmaker, to examine the bell mechanism.",
       "chineseBefore": "再請鐘匠喬里檢查鐘聲機構。",
@@ -1042,7 +1030,7 @@
       "chapter": 1,
       "paragraph": 3,
       "reason": "Correct 'missing crews' continuity and make junction/finite/flourish/gangster/limp relevant.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "The town had finite stores, which made honest counting more urgent. Veyra wanted the coast villages to flourish without sacrificing their residents. A local gangster offered to silence the survey boat witnesses for a fee. The missing ship crews clustered near the junction of two old roads. Jory walked with a limp but carried the original receipts himself.",
       "englishAfter": "At the junction of two old roads, relatives of the missing ship crews crowded around a volunteer desk. Their food supplies were finite, but Veyra hoped the coastal villages could flourish once safe crossings resumed. A local gangster offered to silence the survey-boat witnesses for a fee. Veyra ordered his words recorded; she would not call an accusation proof without further investigation. Jory walked with a limp, yet carried the original receipts to the desk himself so the families could compare them.",
       "chineseBefore": "城鎮的物資有限，因此誠實清點更為迫切。 薇拉希望海岸村落繁榮，而不是犧牲居民。 一名地方幫派分子提出收錢便讓測量船證人閉嘴。 失蹤戶集中在兩條舊路的交叉處附近。 喬里走路跛行，仍親自帶來原始收據。",
@@ -1053,7 +1041,7 @@
       "chapter": 1,
       "paragraph": 4,
       "reason": "Turn disconnected closing vocabulary into a single document review.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Anwen agreed to narrate each crossing before a neutral recorder. An orderly guided the waiting families into a room with seats. The observatory quay ticket teller remembered several passengers by their names. The seal lay on virgin paper that had never held an earlier entry. A narrow warrant permitted inspection of the disputed logbook, not private homes.",
       "englishAfter": "Anwen offered to narrate the sequence of recorded crossings to an independent clerk. An orderly guided the families to a waiting room, while the ticket teller at the observatory quay identified several passengers from the handwritten register. Veyra placed the seal beside a sheet of virgin paper—unused, with no earlier entries to conceal. She would approve only a narrow warrant for the disputed logbook, never a search of private homes. The list of passengers remained available for relatives to check before the final notice was issued.",
       "chineseBefore": "安溫同意在中立記錄員面前敘述每一次渡河。 一名勤務員引導等候的家庭進入有座位的房間。 港口售票員記得好幾位乘客的姓名。 印章蓋在從未寫過舊紀錄的全新紙張上。 一張範圍有限的搜索令准許查驗有爭議的航海紀錄，而非民宅。",
@@ -1064,7 +1052,7 @@
       "chapter": 2,
       "paragraph": 1,
       "reason": "Fix disconnected chapter-two vocabulary and give historical term context.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "The aboriginal families requested recognition of their own land records. Wild grasses abound on the slopes even in a harsh season. The surveyor tried to align his grid with an ancient footpath. At this altitude, the river sounded distant and strangely thin. Silas's annoyance showed when the official refused to explain his method.",
       "englishAfter": "Hera showed Veyra the land records of families labeled aboriginal in older government registers, and explained that the families had long asked officials to recognize their footpaths. Wild grasses abound on the slopes, so the surveyor struggled to align his neat grid with one ancient trail. At this altitude, even the river sounded distant. Silas's annoyance grew when the visiting official refused to explain why the path had been left off the new map.",
       "chineseBefore": "原住民族家庭要求承認他們自己的土地紀錄。 即使季節嚴酷，坡地上仍長滿野草。 測量員試圖讓方格對齊一條古老步道。 在這樣的海拔，河聲聽來遙遠而微弱。 官員拒絕解釋方法時，賽拉斯露出了不悅。",
@@ -1075,29 +1063,14 @@
       "chapter": 2,
       "paragraph": 4,
       "reason": "Keep minister/veto/widow conflict causal and bilingual.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "The navigation minister feared an uprising more than he feared an inaccurate census. A station town teacher volunteered to usher visitors into the meeting hall. Anwen was versatile enough to read maps and repair a boat engine. The minister threatened to veto the proposed independent review. A widow described how camp fees had swallowed her husband's wages.",
       "englishAfter": "The navigation minister warned that the hearing could spark an uprising, yet he refused to discuss the inaccurate census that had erased several families from the official list. A teacher volunteered to usher visitors into the meeting hall. Anwen, versatile enough to interpret maps and repair a boat engine, laid out the records where everyone could see them. When the minister threatened to veto the independent review, a widow stood and described how camp fees had swallowed her husband's wages. Veyra recorded her testimony alongside the evidence instead of allowing the argument to end there.",
       "chineseBefore": "航務大臣害怕起義，勝過害怕錯誤的人口統計。 一名村教師自願引導訪客進入會堂。 安溫既能看地圖又會修船引擎，十分多才多藝。 部長威脅否決獨立複查的提案。 一名寡婦描述營地費用如何吞掉丈夫的工資。",
       "chineseAfter": "航務大臣警告聽證會可能引發起義，卻不肯討論錯誤的人口統計如何讓幾戶人家從官方名冊消失。一名村教師自願引導訪客進入會堂。安溫既能解讀地圖又會修船引擎，於是把紀錄攤開，讓所有人都看得見。大臣威脅否決獨立複查時，一位寡婦起身說明營地費用如何吃掉她丈夫的工資。薇拉把她的證詞與其他證據一併記下，沒有讓爭論草草結束。"
     }
   ],
-  "quizChanges": [
-    {
-      "book": "ss-r10-l2-b",
-      "chapter": 1,
-      "question": 1,
-      "before": "Where was the missing recording box found?",
-      "after": "What clue do May and Evan notice outside the locked classroom?"
-    },
-    {
-      "book": "ss-r10-l5-b",
-      "chapter": 1,
-      "question": 1,
-      "before": "What problem brought the two travelers to the Lantern Quay?",
-      "after": "What problem brought Gu Wen and Lin Zhou to the Lantern Quay?"
-    }
-  ],
+  "quizChanges": [],
   "chapterStructuralChecks": [
     {
       "book": "tomorrow",
@@ -2107,7 +2080,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": true
+      "modifiedThisPass": false
     },
     {
       "book": "ss-r10-l2-b",
@@ -2367,7 +2340,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": true
+      "modifiedThisPass": false
     },
     {
       "book": "ss-r2-l2-a",
@@ -2857,7 +2830,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 5,
       "semanticGatesApproved": false,
-      "modifiedThisPass": true
+      "modifiedThisPass": false
     },
     {
       "book": "ss-r10-l4-a",
@@ -3107,7 +3080,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": true
+      "modifiedThisPass": false
     },
     {
       "book": "ss-r10-l5-b",
@@ -3117,7 +3090,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": true
+      "modifiedThisPass": false
     },
     {
       "book": "ss-r10-l5-b",
@@ -3357,7 +3330,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 4,
       "semanticGatesApproved": false,
-      "modifiedThisPass": true
+      "modifiedThisPass": false
     },
     {
       "book": "ss-r10-l6-a",
@@ -3367,7 +3340,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 4,
       "semanticGatesApproved": false,
-      "modifiedThisPass": true
+      "modifiedThisPass": false
     },
     {
       "book": "ss-r10-l6-a",
