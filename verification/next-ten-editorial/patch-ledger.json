@@ -2,147 +2,69 @@
   "schemaVersion": 1,
   "summary": {
     "scopeBooks": 10,
-    "patchGroupsRecorded": 15,
+    "patchGroupsRecorded": 18,
     "quizPatchesRecorded": 6,
-    "patchGroupsAppliedThisRun": 7,
-    "chaptersWithDocumentedRepairs": 5,
+    "patchGroupsAppliedThisRun": 3,
+    "chaptersWithDocumentedRepairs": 3,
     "wholeBooksCertifiedByScript": 0
   },
   "changes": [
     {
-      "book": "import-rain-bell",
+      "book": "import-last-garden",
       "chapter": 7,
-      "paragraph": 5,
-      "reason": "Make earlier school demonstration a clear flashback after dinner scene in preceding paragraph",
-      "changesAppliedNow": false,
+      "paragraph": 2,
+      "reason": "Microwave does not normally have enough battery power to run large pumps; distinguish shipboard backup cell and voltage check",
+      "changesAppliedNow": true,
       "englishBeforeAfter": [
         [
-          "That afternoon Leo showed his model to a younger class.",
-          "Earlier that afternoon, before Mia spoke with her father, Leo had shown his model to a younger class."
+          "He found a microwave unit still working and used its battery to power the main pump.",
+          "He found a charged backup battery in the ship's microwave service unit. After checking the required voltage, he connected it to the main pump."
         ]
       ],
       "chineseBeforeAfter": [
         [
-          "當天下午，李奧把模型拿給低年級學生看。",
-          "那天下午較早時，米婭還沒與父親談話，李奧就已把模型展示給低年級學生看。"
+          "他找到仍能使用的微波加熱裝置，拆下電池替主水泵供電。",
+          "他在船上的微波設備維修單元找到一顆仍有電的備用電池，核對主水泵所需電壓後才接上電源。"
         ]
       ]
     },
     {
-      "book": "import-rain-bell",
+      "book": "import-last-garden",
       "chapter": 8,
       "paragraph": 5,
-      "reason": "Chronology conflict: Ruby posted corrective video in paragraph 4, so grandmother's scene cannot say she has yet to make it",
-      "changesAppliedNow": false,
+      "reason": "An untrained teenager should not perform an unsterile implant extraction; involve automatic medical robot and preserve tracking plot",
+      "changesAppliedNow": true,
       "englishBeforeAfter": [
         [
-          "She simply stayed until Ruby was ready to pick up the phone and make the correction.",
-          "She simply sat beside Ruby while the girl reviewed the correction she had already posted and read the replies without trying to erase her mistake."
+          "Noah disabled the transmitter with careful movements, then sealed the wound.",
+          "Noah asked the depot's medical robot to disable the transmitter. The robot removed the tiny device under sterile conditions and sealed the wound while he watched its safety readings."
         ]
       ],
       "chineseBeforeAfter": [
         [
-          "只是一直陪著，直到露比願意拿起手機製作更正影片。",
-          "只是陪露比坐著，直到女孩願意重新看自己已上傳的更正影片，讀過那些回覆，而不急著抹掉曾經犯下的錯。"
+          "諾亞小心關閉裝置，再封住傷口。",
+          "諾亞請倉庫裡的醫療機器人關閉發報器。機器人在無菌環境下取出小裝置、處理傷口，他則在旁查看安全數據。"
         ]
       ]
     },
     {
-      "book": "import-two-rivers",
-      "chapter": 7,
-      "paragraph": 7,
-      "reason": "The prior half-circle was on the copper mechanism found at the port, not the score-marked broken board by the mine bridge",
+      "book": "import-last-garden",
+      "chapter": 15,
+      "paragraph": 4,
+      "reason": "Avoid showing a teenager crawling alone into burning oxygen-linked structure and turning unknown pressure valve by hand",
       "changesAppliedNow": true,
       "englishBeforeAfter": [
         [
-          "It was a metal plate carrying the same half-circle design as the broken board from the river port.",
-          "It was a metal plate carrying the same half-circle design as the copper machine part found at the river port."
+          "Lena crawled through the narrow space, feeling the ship vibrate around her. At the end she found a valve marked with the symbol of a palm tree. She turned it with both hands until water burst through the ceiling sprinklers. The flame above the chimney slowly weakened. When she returned, Noah gave a joyful shout and wrapped his arms around her. For a moment even the exhausted workers smiled.",
+          "The fire chief stopped Lena from crawling into the smoke-filled maintenance space. Using the old drawing, Lena found a valve marked with the symbol of a palm tree and showed its position on the inspection camera. With ventilation isolated and the route cleared, a trained engineer opened the valve by remote control. Water burst through the ceiling sprinklers, and the flames above the chimney weakened. Noah gave a joyful shout and hugged Lena, but everyone remained behind the safety line until the crew confirmed it was safe."
         ]
       ],
       "chineseBeforeAfter": [
         [
-          "那是一塊金屬牌，刻著和河港碎木板相同的半圓圖案。",
-          "那是一塊金屬牌，刻著與河港銅盒內那件機械零件相同的半圓圖案。"
+          "莉娜爬過狹窄空間，感覺整艘船都在周圍震動。盡頭有個標著棕櫚樹符號的閥門。她雙手用力轉動，水終於從天花板灑水器噴出。煙囪上的火勢逐漸減弱。她回來時，諾亞歡呼一聲抱住她。那一刻，連筋疲力盡的工人都露出笑容。",
+          "消防主管阻止莉娜獨自爬進充滿濃煙的維修空間。莉娜參照舊圖，在檢查攝影機畫面上找到棕櫚樹符號的閥門，並指出確切位置。隔離通風系統、確認通道淨空後，受過訓練的工程師才以遠端操作打開閥門。水從天花板灑水器噴出，煙囪上方火勢逐漸減弱。諾亞歡呼著抱住莉娜，但所有人都留在安全線後，直到消防隊確認可以通行。"
         ]
       ]
-    },
-    {
-      "book": "import-two-rivers",
-      "chapter": 25,
-      "paragraph": 1,
-      "reason": "Three months after a spring festival is not necessarily spring; keep the ending's seasonal continuity accurate",
-      "changesAppliedNow": true,
-      "englishBeforeAfter": [
-        [
-          "Three months later, spring had returned to the valley.",
-          "Three months later, fresh green growth covered the valley."
-        ]
-      ],
-      "chineseBeforeAfter": [
-        [
-          "三個月後，春天回到山谷。",
-          "三個月後，山谷又披上了新綠。"
-        ]
-      ]
-    },
-    {
-      "book": "import-two-rivers",
-      "chapter": 4,
-      "paragraph": 6,
-      "reason": "Clarify score board had 9 marks and the protagonists hear 8 and 9 bells respectively, not sum to 9",
-      "changesAppliedNow": true,
-      "englishBeforeAfter": [
-        [
-          "Nine marks. Eight bells for Qi and nine for him. Someone had left them a message that matched the strange sounds under the city.",
-          "Nine marks. Qi had heard eight bells, while Yu had heard nine. Someone had left them a score-like message that echoed the strange sounds under the city."
-        ]
-      ],
-      "chineseBeforeAfter": [
-        [
-          "九道記號，正好是韓祈聽到的八聲，加上自己聽到的九聲。有人留下了與城市地底怪聲相符的訊息。",
-          "九道記號。韓祈曾聽到八聲鐘響，沈雨則聽到九聲；這個像計分板的訊息，彷彿呼應了城市地底的怪聲。"
-        ]
-      ]
-    },
-    {
-      "book": "import-two-rivers",
-      "chapter": 7,
-      "question": 2,
-      "field": "question",
-      "reason": "Correct source cross-reference to port copper machine part",
-      "changesAppliedNow": true,
-      "old": "as the broken board from the river port.",
-      "new": "as the copper machine part found at the river port."
-    },
-    {
-      "book": "import-two-rivers",
-      "chapter": 7,
-      "question": 2,
-      "field": "explanation",
-      "reason": "Correct cited English and Chinese source text after editing",
-      "changesAppliedNow": true,
-      "old": "It was a metal plate carrying the same half-circle design as the broken board from the river port.\n本段對照：傍晚，沈雨看見兩塊岩石間有東西發亮。那是一塊金屬牌，刻著和河港碎木板相同的半圓圖案。",
-      "new": "It was a metal plate carrying the same half-circle design as the copper machine part found at the river port.\n本段對照：傍晚，沈雨看見兩塊岩石間有東西發亮。那是一塊金屬牌，刻著與河港銅盒內那件機械零件相同的半圓圖案。"
-    },
-    {
-      "book": "import-two-rivers",
-      "chapter": 25,
-      "question": 1,
-      "field": "question",
-      "reason": "Question source remains in paragraph after seasonal continuity correction",
-      "changesAppliedNow": true,
-      "old": "Three months later, spring had returned to ____.",
-      "new": "Three months later, fresh green growth covered ____."
-    },
-    {
-      "book": "import-two-rivers",
-      "chapter": 25,
-      "question": 1,
-      "field": "explanation",
-      "reason": "Update source quote and translation after ending season fix",
-      "changesAppliedNow": true,
-      "old": "Three months later, spring had returned to the valley.\n本段對照：三個月後，春天回到山谷。",
-      "new": "Three months later, fresh green growth covered the valley.\n本段對照：三個月後，山谷又披上了新綠。"
     }
   ],
   "notice": "This ledger records actual precise bilingual corrections. It is NOT 25-chapter signoff."
