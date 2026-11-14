@@ -226,6 +226,60 @@
           "只是陪露比坐著，直到女孩願意重新看自己已上傳的更正影片，讀過那些回覆，而不急著抹掉曾經犯下的錯。"
         ]
       ]
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 7,
+      "paragraph": 7,
+      "reason": "The prior half-circle was on the copper mechanism found at the port, not the score-marked broken board by the mine bridge",
+      "english": [
+        [
+          "It was a metal plate carrying the same half-circle design as the broken board from the river port.",
+          "It was a metal plate carrying the same half-circle design as the copper machine part found at the river port."
+        ]
+      ],
+      "chinese": [
+        [
+          "那是一塊金屬牌，刻著和河港碎木板相同的半圓圖案。",
+          "那是一塊金屬牌，刻著與河港銅盒內那件機械零件相同的半圓圖案。"
+        ]
+      ]
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 25,
+      "paragraph": 1,
+      "reason": "Three months after a spring festival is not necessarily spring; keep the ending's seasonal continuity accurate",
+      "english": [
+        [
+          "Three months later, spring had returned to the valley.",
+          "Three months later, fresh green growth covered the valley."
+        ]
+      ],
+      "chinese": [
+        [
+          "三個月後，春天回到山谷。",
+          "三個月後，山谷又披上了新綠。"
+        ]
+      ]
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 4,
+      "paragraph": 6,
+      "reason": "Clarify score board had 9 marks and the protagonists hear 8 and 9 bells respectively, not sum to 9",
+      "english": [
+        [
+          "Nine marks. Eight bells for Qi and nine for him. Someone had left them a message that matched the strange sounds under the city.",
+          "Nine marks. Qi had heard eight bells, while Yu had heard nine. Someone had left them a score-like message that echoed the strange sounds under the city."
+        ]
+      ],
+      "chinese": [
+        [
+          "九道記號，正好是韓祈聽到的八聲，加上自己聽到的九聲。有人留下了與城市地底怪聲相符的訊息。",
+          "九道記號。韓祈曾聽到八聲鐘響，沈雨則聽到九聲；這個像計分板的訊息，彷彿呼應了城市地底的怪聲。"
+        ]
+      ]
     }
   ],
   "quizPatches": [
