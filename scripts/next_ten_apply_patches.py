@@ -91,13 +91,13 @@ for bid,changes in work.items():
    first=c['paragraphs'][0]['en']
    marker='｜英文正文 '
    if marker in first and first.startswith(c['title']+marker):
-    line,separator,body=first.partition('\\n\\n')
+    line,separator,body=first.partition(chr(10)*2)
     if not separator or '｜目標新詞 ' not in line:
      raise ValueError('Unrecognised header leakage in '+bid+' ch '+str(ci+1))
     c['paragraphs'][0]['en']=body
     for q in c['questions']:
-     q['question']=q['question'].replace(line+'\\n\\n','')
-     q['explanation']=q['explanation'].replace(line+'\\n\\n','')
+     q['question']=q['question'].replace(line+chr(10)*2,'')
+     q['explanation']=q['explanation'].replace(line+chr(10)*2,'')
     edited.add(ci)
     changed=True
     allrecs.append({'book':bid,'chapter':ci+1,'kind':'remove_export_metadata','changesAppliedNow':True,'before':line,
