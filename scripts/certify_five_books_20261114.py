@@ -181,4 +181,28 @@ summary={
   'targetVocabularyItemsChecked':count_target,'method':'GPT-6 AI editor, not independent human proofreader',
   'receiptRoot':'verification/five-book-editorial/receipts'}
 (EVIDENCE_ROOT/'five-book-certification-summary.json').write_text(json.dumps({'reviewDate':at,'summary':summary,'books':list(signature)},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+# A public evidence landing page explicitly distinguishes AI from independent human review.
+import html
+git_url='https://github.com/tttoom580-ui/storysteps-preview/blob/main/'
+rows=[]
+for bid in ids:
+    b=books[bid]
+    evidence=git_url+'verification/five-book-editorial/receipts/'+bid+'/chapter-01.json'
+    rows.append('<tr><th>'+html.escape(b['zh'])+'</th><td>25 / 25</td><td>50 題</td><td>GPT-6 AI 編輯</td><td><a href="'+evidence+'">逐章證據</a></td></tr>')
+page='''<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>五本小說 125 章 AI 校訂驗收｜StorySteps</title><style>body{font-family:system-ui,"Noto Sans TC",sans-serif;background:#f9f7fc;color:#2d2540;margin:0}main{max-width:860px;margin:40px auto;padding:20px}a{color:#6140a3}h1{line-height:1.35}table{width:100%;border-collapse:collapse}th,td{padding:11px;border-bottom:1px solid #c9c3d3;text-align:left}@media(max-width:600px){table{font-size:12px}}</style></head>
+<body><main><p><a href="./">← 拾頁 StorySteps</a></p><h1>五本小說 · 125 章完整 AI 校訂</h1>
+<p><strong>完成範圍：五本書每本 25 章，全部英中段落，250 題閱讀測驗與對應原文，以及目標詞核對。</strong></p>
+<p>GPT-6 AI 編輯逐章審閱並修正發現的問題，依來源 SHA-256 與逐章證據驗收。<strong>並非獨立真人校對、出版社或官方認證。</strong>若內容更新，原校訂驗收會因來源雜湊改變而失效。</p>
+<table><thead><tr><th>作品</th><th>章節</th><th>測驗</th><th>審閱者</th><th>證據</th></tr></thead><tbody>'''+''.join(rows)+'''</tbody></table>
+<p>完整資料：<a href="'''+git_url+'''verification/five-book-editorial/ai-readthrough-notes-20261114.json">125 章劇情筆記</a> · <a href="'''+git_url+'''verification/five-book-editorial/five-book-certification-summary.json">驗收摘要</a> · <a href="'''+git_url+'''verification/editorial-approvals.json">逐章內容雜湊及批准資料</a></p>
+</main></body></html>'''
+(PUBLIC/'five-book-ai-certification.html').write_text(page,encoding='utf-8')
+historic=EVIDENCE_ROOT/'README.md'
+previous=historic.read_text(encoding='utf-8')
+marker='## 正式 AI 五關驗收（後續完成）'
+if marker not in previous:
+    previous+='\n'+marker+'\n\n前述 0 本為第一輪階段性修稿報告的當時狀態。之後已完成五本全部 125 章的英中逐章閱讀、250 題測驗比對及最終 GPT-6 AI 校訂簽核。這不是獨立真人、出版社或官方認證。\n\n'
+    previous+='逐章證據在 verification/five-book-editorial/receipts/ 目錄，最終批准資料為 verification/editorial-approvals.json，摘要為 verification/five-book-editorial/five-book-certification-summary.json。\n'
+    historic.write_text(previous,encoding='utf-8')
 print('FIVE_BOOK_AI_EDITORIAL_CERTIFICATION',json.dumps(summary,ensure_ascii=False))
