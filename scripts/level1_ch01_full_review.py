@@ -45,9 +45,18 @@ for b in level1:
     source_count=len(chapter['paragraphs'])
     old_words=len(wordlist(' '.join(p['en'] for p in chapter['paragraphs'])))
     if bid in PREVIOUS:
-        changes[bid]=list(PREVIOUS[bid].get('changes',[]))
+        history=PREVIOUS[bid].get('changes',[])
+        unique={}
+        for prior in history:
+            unique.setdefault((prior['language'],prior['old'],prior['new']),prior)
+        changes[bid]=list(unique.values())
         old_words=PREVIOUS[bid].get('englishWordsBefore',old_words)
     for patch in (p for p in PLAN['patches'] if p['book']==bid):
+        # A patch already present in the published, SHA-bound editorial receipt
+        # must not run twice, even if its new text still contains its old fragment.
+        if any(v['language']==patch['lang'] and v['old']==patch['old'] and v['new']==patch['new']
+               for v in changes[bid]):
+            continue
         pi=patch['paragraph']-1
         assert 0<=pi<len(chapter['paragraphs']),(bid,pi)
         field=patch['lang']
