@@ -5,12 +5,14 @@ import json
 ROOT=Path(__file__).resolve().parents[1]
 src=ROOT/'verification/editorial-triage-20261114.json'
 d=json.loads(src.read_text());s=d['summary']
+approvals=json.loads((ROOT/'verification/editorial-approvals.json').read_text())['certifiedBooks']
 rows=[]
 for b in d['books']:
     issue='跨章重複長句：'+str(b['enCrossChapterSentenceReuse'])+' 組' if b['enCrossChapterSentenceReuse'] else '未檢出跨章相同長句'
+    approval='全文已校訂' if b['id'] in approvals else '逐段英中、情節、角色與答案審閱未完成'
     rows.append(f'''<tr><td><a href="./stories/{e(b['id'])}/">{e(b['name'])}</a></td>
     <td>{e(b['level'])}</td><td>{b['minWords']}</td><td>{b['minTargetWords']}</td>
-    <td>{e(issue)}</td><td>逐段英中、情節、角色與答案審閱未完成</td></tr>''')
+    <td>{e(issue)}</td><td>{approval}</td></tr>''')
 html=f'''<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{s['totalBooks']} 本小說校訂進度｜StorySteps 拾頁</title><meta name="description" content="校訂進度：分辨自動完整性檢查與人工語意審閱">
 <link rel="canonical" href="https://tttoom580-ui.github.io/storysteps-preview/editorial-progress.html">
@@ -21,7 +23,8 @@ td,th{{padding:.65em;text-align:left;border-bottom:1px solid #827a9366;vertical-
 .notice{{border-left:4px solid #9f82c5;padding:15px 18px;background:#7660bd16;border-radius:8px}}
 </style></head><body><header><a href="./">← StorySteps 首頁</a><nav><a href="./library.html">書城</a><a href="./story-review.html">原有檢查紀錄</a><a href="./privacy.html">隱私政策</a></nav></header><main>
 <h1>{s['totalBooks']} 本小說校訂進度</h1>
-<p class="notice"><strong>提醒：自動規格通過 ≠ 全文語意校訂完成。</strong>目前未有任何一本經完整逐段英中、角色、情節及測驗語意的獨立終稿核准。過去已局部修訂的作品，仍保留待複核狀態。</p>
+<p class="notice"><strong>提醒：自動規格通過 ≠ 全文語意校訂完成。</strong>目前只有完成全部 25 章五關審核且留下證據的作品，才能顯示「全文已校訂」；未獲核准者維持校訂中。過去已局部修訂的作品，仍保留待複核狀態。</p>
+<p>五關全數通過：<strong>{len(approvals)}</strong> 本；仍待完整核准：<strong>{s['totalBooks']-len(approvals)}</strong> 本。</p>
 <p>已掃描 <strong>{s['totalBooks']}</strong> 本、<strong>{s['totalChapters']}</strong> 章；不足 500 英文詞：{s['chaptersUnder500']} 章；不足 20 目標詞：{s['chaptersUnder20Targets']} 章；不足兩題：{s['chaptersUnder2Quizzes']} 章。</p>
 <p>尚須補充原文證據並人工核對的測驗：<strong>{s['quizzesWithoutExplicitSourceEvidence']}</strong> 題。仍有跨章重用 12 詞以上英文長句的作品：<strong>{s['booksWithRepeatedEnglishLongSentence']}</strong> 本。</p>
 <p>本檢查只指出可能問題：短中文譯文未必錯誤、字數夠也未必自然、沒有完全相同的長句不代表情節沒有雷同。以下「沒有檢出」絕非原創性認證。</p>

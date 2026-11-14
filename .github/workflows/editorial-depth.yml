@@ -4,6 +4,10 @@ on:
     paths:
       - 'scripts/audit_editorial_depth.py'
       - 'scripts/build_editorial_progress.py'
+      - 'public/catalog.js'
+      - 'public/content-manifest.json'
+      - 'public/books/**'
+      - 'verification/editorial-approvals.json'
       - '.github/workflows/editorial-depth.yml'
   workflow_dispatch:
 permissions:
@@ -36,7 +40,7 @@ jobs:
               echo 'Editorial report already current'
               exit 0
             fi
-            git commit -m 'audit: publish 82-book machine editorial triage [skip ci]'
+            git commit -m 'audit: publish current whole-library editorial triage [skip ci]'
             if git push origin HEAD:main; then
               cat /tmp/editorial-summary.txt | grep EDITORIAL_TRIAGE_SUMMARY
               exit 0
