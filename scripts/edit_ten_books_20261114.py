@@ -73,8 +73,9 @@ for bid in ids:
         if english_changed!=chinese_changed:
             raise ValueError(f'Language edits out of sync: {bid} chapter {number}')
         paragraph['en'],paragraph['zh']=eng,zh
-        if english_changed:
-            touched.add(number)
+        # A previously published revision still counts as editorial work with
+        # an exact verified source match; reruns must not erase its record.
+        touched.add(number)
         applied.append({'book':bid,'chapter':number,'paragraph':section+1,
                         'reason':p['problem'],'appliedNow':english_changed,
                         'englishBefore':p['oldEn'],'englishAfter':p['newEn'],
@@ -85,6 +86,9 @@ for bid in ids:
         question=chapter['questions'][q['question']-1]
         if question['question']==q['newQuestion']:
             assert question['options']==q['newOptions']
+            assert question['explanation']==q['newExplanation']
+            touched.add(number)
+            quiz_edits.append({'book':bid,'chapter':number,'question':q['question'],'before':q['oldQuestion'],'after':q['newQuestion'],'alreadyApplied':True})
             continue
         assert question['question']==q['oldQuestion'],(bid,number,'question modified unexpectedly')
         assert question['options']==q['oldOptions'],(bid,number,'question choices modified unexpectedly')
@@ -152,17 +156,17 @@ CAT_PATH.write_text('window.__STORYSTEPS_CATALOG='+json.dumps(catalog,ensure_asc
 MANIFEST_PATH.write_text(json.dumps(new_manifest,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8')
 summary={'booksInScope':10,'chaptersStructurallyChecked':len(chapters_scanned),
          'bilingualEditsAppliedNow':sum(int(x['appliedNow']) for x in applied),
-         'bilingualPatchGroupsDocumented':len(applied),'quizzesRevisedNow':len(quiz_edits),
+         'bilingualPatchGroupsDocumented':len(applied),'quizzesVerified':len(quiz_edits),'quizzesRevisedNow':sum(not q.get('alreadyApplied',False) for q in quiz_edits),
          'totalTargetWordsChecked':sum(c['targetWords'] for c in chapters_scanned),
          'totalQuizzesStructurallyChecked':sum(c['quizCount'] for c in chapters_scanned),
-         'chaptersManuallyTouchedThisPass':sum(len(b['chaptersModifiedThisPass']) for b in reports),
+         'chaptersWithDocumentedRepairs':sum(len(b['chaptersModifiedThisPass']) for b in reports),
          'booksWithCrossChapterReuseCandidates':sum(b['crossChapterRepeatedLongSentences']>0 for b in reports),
          'wholeBooksFullyEdited':0}
 audit={'date':plan['reviewDate'],'editor':plan['reviewer'],'scope':'10 selected books, all 250 chapters mechanically screened; targeted AI-edited passages and two quizzes revised and source-bound.',
        'warning':'No whole book has passed the five complete editorial gates. Mechanical word/target/quiz checks are not proof of English fluency, plot continuity, bilingual correctness, or answer truth.',
        'summary':summary,'books':reports,'changes':applied,'quizChanges':quiz_edits,'chapterStructuralChecks':chapters_scanned}
 RESULT.write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-md=['# StorySteps 十本免費作品校訂進度','','本輪工作：十本共 250 章執行結構與跨章長句掃描；針對讀過的具體問題進行英中對照修訂與測驗修正。**這不是十本全文校訂完成。**','','## 五關完成標準','','1. 各章情節與跨章雷同人工審核','2. 全文自然英文、角色與時間線逐段修正','3. 全文英中語意逐段核對','4. 各章至少 500 詞、20 目標詞；所有測驗答案核實','5. 25 章全部通過，並保留可檢驗證據後才更新「全文已校訂」','','## 本輪檢查','','- 結構掃描：250 章','- 已執行英中片段改寫：'+str(summary['bilingualEditsAppliedNow'])+' 組','- 已修正測驗題：'+str(summary['quizzesRevisedNow'])+' 題','- 完整通過五關的書籍：0 本','','| 書名 | 英文最短章詞數 | 重用長句待審 | 本輪修改章節 | 整本五關 |','|---|---:|---:|---|---|']
+md=['# StorySteps 十本免費作品校訂進度','','本輪工作：十本共 250 章執行結構與跨章長句掃描；針對讀過的具體問題進行英中對照修訂與測驗修正。**這不是十本全文校訂完成。**','','## 五關完成標準','','1. 各章情節與跨章雷同人工審核','2. 全文自然英文、角色與時間線逐段修正','3. 全文英中語意逐段核對','4. 各章至少 500 詞、20 目標詞；所有測驗答案核實','5. 25 章全部通過，並保留可檢驗證據後才更新「全文已校訂」','','## 本輪檢查','','- 結構掃描：250 章','- 已執行英中片段改寫：'+str(summary['bilingualPatchGroupsDocumented'])+' 組（已驗證）','- 已修正測驗題：'+str(summary['quizzesVerified'])+' 題（已驗證）','- 完整通過五關的書籍：0 本','','| 書名 | 英文最短章詞數 | 重用長句待審 | 本輪修改章節 | 整本五關 |','|---|---:|---:|---|---|']
 for b in reports:
     md.append(f"| {b['title']} | {b['minimumEnglishWords']} | {b['crossChapterRepeatedLongSentences']} | {', '.join(map(str,b['chaptersModifiedThisPass'])) or '—'} | 未完成 |")
 md.extend(['','完整稽核與每處修訂證據：[ten-book-progress-20261114.json](ten-book-progress-20261114.json)','', '請勿將「結構檢查通過」當作完整文學校訂認證。'])
