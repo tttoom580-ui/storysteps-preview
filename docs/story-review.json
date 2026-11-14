@@ -3,7 +3,7 @@
   "summary": {
     "books": 88,
     "chapters": 2200,
-    "englishWords": 1417007,
+    "englishWords": 1417012,
     "questions": 4400,
     "targetEntries": 44084,
     "bilingualParagraphs": 13135,
@@ -3815,8 +3815,8 @@
       "id": "import-two-rivers",
       "title": "雙河，同心",
       "chapters": 25,
-      "englishWords": 16537,
-      "minimumChapterWords": 606,
+      "englishWords": 16542,
+      "minimumChapterWords": 609,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
@@ -8994,7 +8994,7 @@
     {
       "book": "import-two-rivers",
       "chapter": "import-two-rivers-4",
-      "englishWords": 606,
+      "englishWords": 609,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -9021,7 +9021,7 @@
     {
       "book": "import-two-rivers",
       "chapter": "import-two-rivers-7",
-      "englishWords": 662,
+      "englishWords": 664,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
