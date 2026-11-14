@@ -98,7 +98,7 @@ for bid in ids:
     evidence_base.mkdir(parents=True,exist_ok=True)
     for idx,chapter in enumerate(chapters):
         chapter_num=idx+1
-        assert chapter['number']==chapter_num
+        assert book['chapters'][idx]['number']==chapter_num
         cid=chapter['id']
         assert cid==book['chapters'][idx]['id']
         paras=chapter['paragraphs']
