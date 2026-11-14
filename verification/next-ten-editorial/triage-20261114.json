@@ -36,7 +36,7 @@
       "paragraphPairs": 175,
       "quizQuestions": 50,
       "explicitEvidenceInQuizExplanations": 0,
-      "substantiveEditorialApproved": false
+      "substantiveEditorialApproved": true
     },
     {
       "id": "ss-r10-l3-b",
@@ -49,7 +49,7 @@
       "paragraphPairs": 150,
       "quizQuestions": 50,
       "explicitEvidenceInQuizExplanations": 0,
-      "substantiveEditorialApproved": false
+      "substantiveEditorialApproved": true
     },
     {
       "id": "ss-r10-l4-a",
@@ -62,7 +62,7 @@
       "paragraphPairs": 145,
       "quizQuestions": 50,
       "explicitEvidenceInQuizExplanations": 0,
-      "substantiveEditorialApproved": false
+      "substantiveEditorialApproved": true
     },
     {
       "id": "ss-r10-l5-b",
@@ -94,7 +94,7 @@
       "id": "import-rain-bell",
       "title": "雨來之前的鐘聲",
       "chapters": 25,
-      "sourceBookSha256": "105a53ff7fe679ab9f82607032d1e5765eb54ae11932237fad265e9d7caf9f67",
+      "sourceBookSha256": "a0819b0247d046914f368eaf75957c8723ec64e81808a8dcca70c0be07b4ffee",
       "chapterMinimumEnglishWords": 637,
       "chaptersWithStructuralFailures": 0,
       "crossChapterRepeatedLongSentenceTypes": 0,
@@ -2913,15 +2913,15 @@
       "chapter": 7,
       "title": "The Clock That Stopped",
       "id": "import-rain-bell-7",
-      "sourceSha256": "8a44c515dd7d3c5f837acc0748c6b2d17a467086da04f068cf25e31061cb87cd",
-      "englishWords": 655,
+      "sourceSha256": "dfd834d58b38852986f18891b776869ea0bfb823fd9a3a23a418951a81593d45",
+      "englishWords": 663,
       "targetWords": 20,
       "missingTargets": [],
       "bilingualParagraphs": 6,
       "quizCount": 2,
       "quizWithExplicitEvidence": 2,
-      "translationChars": 1036,
-      "englishChars": 3370,
+      "translationChars": 1052,
+      "englishChars": 3416,
       "translationToEnglishCharRatio": 0.31,
       "mechanicalGatePassed": true,
       "plotGateApproved": false,
@@ -2934,16 +2934,16 @@
       "chapter": 8,
       "title": "The Ghost in the Video",
       "id": "import-rain-bell-8",
-      "sourceSha256": "ef2fde9a06a6146ed710918dfd4500ebd90f77d8e83221dd2a17ee8c70b3e9e3",
-      "englishWords": 676,
+      "sourceSha256": "63676494a591fbaa78b87a782ca5ce3aa93f356ae97c4e7ad699a5c821280a0f",
+      "englishWords": 685,
       "targetWords": 20,
       "missingTargets": [],
       "bilingualParagraphs": 6,
       "quizCount": 2,
       "quizWithExplicitEvidence": 2,
-      "translationChars": 1073,
-      "englishChars": 3643,
-      "translationToEnglishCharRatio": 0.29,
+      "translationChars": 1097,
+      "englishChars": 3705,
+      "translationToEnglishCharRatio": 0.3,
       "mechanicalGatePassed": true,
       "plotGateApproved": false,
       "englishStyleGateApproved": false,
