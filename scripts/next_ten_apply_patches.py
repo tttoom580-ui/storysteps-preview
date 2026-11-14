@@ -12,19 +12,22 @@ ROOT=Path(__file__).resolve().parents[1];PUB=ROOT/'public'
 PATCHES=ROOT/'verification/next-ten-editorial/pending-patches.json'
 MAN=PUB/'content-manifest.json';CAT=PUB/'catalog.js'
 scope=json.loads((ROOT/'verification/next-ten-editorial/scope-20261114.json').read_text())
-patches=json.loads(PATCHES.read_text(encoding='utf-8'))['patches']
+plan=json.loads(PATCHES.read_text(encoding='utf-8'))
+patches=plan['patches']
+quiz_patches=plan.get('quizPatches',[])
 catalog=json.loads(CAT.read_text(encoding='utf-8').split('=',1)[1].rstrip(';\n'))
 manifest=json.loads(MAN.read_text(encoding='utf-8'))
 books={b['id']:b for b in catalog}
 cert=json.loads((ROOT/'verification/editorial-approvals.json').read_text())['certifiedBooks']
 assert not set(scope['bookIds']) & set(cert)
-assert all(p['book'] in scope['bookIds'] for p in patches)
+assert all(p['book'] in scope['bookIds'] for p in patches+quiz_patches)
 words=lambda s:re.findall(r"[A-Za-z]+(?:['’\-][A-Za-z]+)*",s)
 def present(s,w):
  s=s.lower().replace('’',"'");w=w.lower().replace('’',"'")
  return bool(re.search(r'(?<![a-z])'+re.escape(w)+r'(?![a-z])',s))
 work=defaultdict(list)
 for p in patches:work[p['book']].append(p)
+for p in quiz_patches:work[p['book']]
 allrecs=[]
 for bid,changes in work.items():
  path=(PUB/manifest['books'][bid]['url']).resolve()
@@ -58,6 +61,23 @@ for bid,changes in work.items():
   allrecs.append({'book':bid,'chapter':ci+1,'paragraph':pi+1,
      'reason':p['reason'],'changesAppliedNow':any(applied),
      'englishBeforeAfter':p['english'],'chineseBeforeAfter':p['chinese']})
+ for qedit in (p for p in quiz_patches if p['book']==bid):
+  ci=qedit['chapter']-1;qi=qedit['question']-1
+  assert 0<=ci<25 and 0<=qi<len(chapters[ci]['questions'])
+  q=chapters[ci]['questions'][qi]
+  field=qedit['field']
+  assert field in ('question','explanation')
+  old,new=qedit['old'],qedit['new']
+  if q[field].count(old)==1:
+   q[field]=q[field].replace(old,new,1)
+   changed=True;quiz_changed=True
+  elif new in q[field] and old not in q[field]:
+   quiz_changed=False
+  else:
+   raise ValueError(f"Quiz patch source mismatch: {bid} c{ci+1} q{qi+1} {old[:80]}")
+  edited.add(ci)
+  allrecs.append({'book':bid,'chapter':ci+1,'question':qi+1,'field':field,'reason':qedit['reason'],
+                  'changesAppliedNow':quiz_changed,'old':old,'new':new})
  for ci in edited:
   ch=chapters[ci]
   english=' '.join(p['en'] for p in ch['paragraphs'])
@@ -76,7 +96,7 @@ for bid,changes in work.items():
   manifest['books'][bid]['url']='./books/'+filename
 CAT.write_text('window.__STORYSTEPS_CATALOG='+json.dumps(catalog,ensure_ascii=False,separators=(',',':'))+';\n',encoding='utf-8')
 MAN.write_text(json.dumps(manifest,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8')
-summary={'scopeBooks':len(scope['bookIds']),'patchGroupsRecorded':len(patches),
+summary={'scopeBooks':len(scope['bookIds']),'patchGroupsRecorded':len(patches),'quizPatchesRecorded':len(quiz_patches),
  'patchGroupsAppliedThisRun':sum(r['changesAppliedNow'] for r in allrecs),
  'chaptersWithDocumentedRepairs':len({(r['book'],r['chapter']) for r in allrecs}),
  'wholeBooksCertifiedByScript':0}
