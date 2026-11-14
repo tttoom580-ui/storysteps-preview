@@ -1,0 +1,1551 @@
+{
+  "date": "2026-11-14",
+  "editor": "GPT-6 AI editor",
+  "scope": "5 selected books, 125 chapters structurally audited; documented EN/ZH passage and quiz repairs.",
+  "warning": "No whole book has passed the five complete editorial gates. Mechanical word/target/quiz checks are not proof of English fluency, plot continuity, bilingual correctness, or answer truth.",
+  "summary": {
+    "booksInScope": 5,
+    "chaptersStructurallyChecked": 125,
+    "bilingualEditsAppliedNow": 14,
+    "bilingualPatchGroupsDocumented": 14,
+    "quizzesVerified": 2,
+    "quizzesRevisedNow": 2,
+    "totalTargetWordsChecked": 2504,
+    "totalQuizzesStructurallyChecked": 250,
+    "quizzesMissingExplicitTextEvidence": 240,
+    "chaptersWithDocumentedRepairs": 10,
+    "booksWithCrossChapterReuseCandidates": 0,
+    "wholeBooksFullyEdited": 0
+  },
+  "books": [
+    {
+      "id": "tomorrow",
+      "title": "明天，別來學校",
+      "chapters": 25,
+      "chaptersModifiedThisPass": [
+        1,
+        21
+      ],
+      "sourceBeforeSha256": "2a47a88e3402f6d9b4195250d11a3542b2bf966e953a70f432e64bf121fc4d24",
+      "sourceAfterSha256": "1b7489c30e2757b13bc8037dbb4f44e5f9396b9b43e22946cdd61f45e7deccad",
+      "bilingualPatchGroups": 2,
+      "quizzesCorrected": 0,
+      "minimumEnglishWords": 516,
+      "minimumTargetWords": 20,
+      "quizzesWithExplicitTextEvidence": 2,
+      "quizzesMissingExplicitTextEvidence": 48,
+      "crossChapterRepeatedLongSentences": 0,
+      "reuseCandidates": [],
+      "wholeBookFiveGateApproved": false,
+      "remainingWork": "逐章劇情與跨章差異、逐段英文與英中語意、全部測驗答案人工語意核對"
+    },
+    {
+      "id": "ss-r10-l1-a",
+      "title": "紅磚街的星星課",
+      "chapters": 25,
+      "chaptersModifiedThisPass": [
+        1,
+        11,
+        13,
+        19
+      ],
+      "sourceBeforeSha256": "111f09eaa8596a20523bffe91eb8b8ea74d14ab49fc87928bb6742c6d15f7a5f",
+      "sourceAfterSha256": "e9f5c7882208dd533d7f7ce51df678e05a584fb7b20960896f234bb6926c8734",
+      "bilingualPatchGroups": 7,
+      "quizzesCorrected": 1,
+      "minimumEnglishWords": 651,
+      "minimumTargetWords": 20,
+      "quizzesWithExplicitTextEvidence": 3,
+      "quizzesMissingExplicitTextEvidence": 47,
+      "crossChapterRepeatedLongSentences": 0,
+      "reuseCandidates": [],
+      "wholeBookFiveGateApproved": false,
+      "remainingWork": "逐章劇情與跨章差異、逐段英文與英中語意、全部測驗答案人工語意核對"
+    },
+    {
+      "id": "ss-r11-l1-a",
+      "title": "雨後的綠色箱子",
+      "chapters": 25,
+      "chaptersModifiedThisPass": [
+        1
+      ],
+      "sourceBeforeSha256": "90444006a838171d0ce285383f30e0d33f6d5af98e60217c2502d1db92792115",
+      "sourceAfterSha256": "c0dd74eea1fe0ee6f675161c57b04e2d808fad0b51c5125c81a8300c71bee195",
+      "bilingualPatchGroups": 2,
+      "quizzesCorrected": 0,
+      "minimumEnglishWords": 622,
+      "minimumTargetWords": 20,
+      "quizzesWithExplicitTextEvidence": 2,
+      "quizzesMissingExplicitTextEvidence": 48,
+      "crossChapterRepeatedLongSentences": 0,
+      "reuseCandidates": [],
+      "wholeBookFiveGateApproved": false,
+      "remainingWork": "逐章劇情與跨章差異、逐段英文與英中語意、全部測驗答案人工語意核對"
+    },
+    {
+      "id": "ss-r2-l1-b",
+      "title": "獸人村的第一間早餐店",
+      "chapters": 25,
+      "chaptersModifiedThisPass": [
+        4
+      ],
+      "sourceBeforeSha256": "8bbfe5fc597e2c0d7d399c7e838baa94625765a7211831ca92d6e5fccb1f7a6f",
+      "sourceAfterSha256": "4ecf43bd1a82b79498d15d7d95b5a71986f3aadc386e61165afe3ed5f11a5ccc",
+      "bilingualPatchGroups": 2,
+      "quizzesCorrected": 0,
+      "minimumEnglishWords": 601,
+      "minimumTargetWords": 20,
+      "quizzesWithExplicitTextEvidence": 2,
+      "quizzesMissingExplicitTextEvidence": 48,
+      "crossChapterRepeatedLongSentences": 0,
+      "reuseCandidates": [],
+      "wholeBookFiveGateApproved": false,
+      "remainingWork": "逐章劇情與跨章差異、逐段英文與英中語意、全部測驗答案人工語意核對"
+    },
+    {
+      "id": "ss-r10-l2-b",
+      "title": "把市場的聲音，留到明天",
+      "chapters": 25,
+      "chaptersModifiedThisPass": [
+        1,
+        9
+      ],
+      "sourceBeforeSha256": "968c5e73ef729486c98185cbac95105f13a58d481f25ca7346e2f71b1704c5b4",
+      "sourceAfterSha256": "14923702c11fa33bd2a1535d26c4e6cb745db04c5385d4332abd43dd1a82b514",
+      "bilingualPatchGroups": 1,
+      "quizzesCorrected": 1,
+      "minimumEnglishWords": 620,
+      "minimumTargetWords": 20,
+      "quizzesWithExplicitTextEvidence": 1,
+      "quizzesMissingExplicitTextEvidence": 49,
+      "crossChapterRepeatedLongSentences": 0,
+      "reuseCandidates": [],
+      "wholeBookFiveGateApproved": false,
+      "remainingWork": "逐章劇情與跨章差異、逐段英文與英中語意、全部測驗答案人工語意核對"
+    }
+  ],
+  "changes": [
+    {
+      "book": "tomorrow",
+      "chapter": 1,
+      "paragraph": 2,
+      "reason": "Correct Chinese measure word for six English words, keep word count.",
+      "appliedNow": true,
+      "englishBefore": "Below that were six words. Don't come to school tomorrow. Please.",
+      "englishAfter": "Below that were six English words. Don't come to school tomorrow. Please.",
+      "chineseBefore": "下面是六個字的英文句子：明天，別來學校。拜託。",
+      "chineseAfter": "下面是一句由六個英文單字組成的話：「明天，別來學校。拜託。」"
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 21,
+      "paragraph": 8,
+      "reason": "Count English words correctly (Thank you for stopping there = five).",
+      "appliedNow": true,
+      "englishBefore": "Inside, in June's small handwriting, were four words. Thank you for stopping there.",
+      "englishAfter": "Inside, in June's small handwriting, were five words. Thank you for stopping there.",
+      "chineseBefore": "裡面是 June 小字寫的四個英文單字：謝謝妳到此為止。",
+      "chineseAfter": "裡面是 June 用小字寫下的五個英文單字：「謝謝妳到此為止。」"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "reason": "Repair inconsistent location of indoor breakfast table.",
+      "appliedNow": true,
+      "englishBefore": "At 7 a.m., Nia stood outside her apartment on Red Brick Street, her heavy teaching bag resting beside the breakfast table.",
+      "englishAfter": "At 7 a.m., Nia sat at the breakfast table in her apartment on Red Brick Street, with her heavy teaching bag resting beside her chair.",
+      "chineseBefore": "早上七點，妮雅站在紅磚街的公寓外，沉重的教學袋放在早餐桌旁。",
+      "chineseAfter": "早上七點，妮雅坐在紅磚街公寓裡的早餐桌前，沉重的教學袋放在椅子旁。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "reason": "Avoid sitting down for a second time after changing opening scene.",
+      "appliedNow": true,
+      "englishBefore": "Before leaving, she sat down to finish her breakfast.",
+      "englishAfter": "Before leaving, she finished her breakfast.",
+      "chineseBefore": "出發前，她坐下來吃完早餐",
+      "chineseAfter": "出發前，她吃完早餐"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 11,
+      "paragraph": 1,
+      "reason": "Clarify weekday group does not contradict six Saturday core lessons.",
+      "appliedNow": true,
+      "englishBefore": "The room would be safe later, but it was too cold for the morning group.",
+      "englishAfter": "The room would be safe later, but it was too cold for the optional Tuesday reading group Nia had arranged between the six Saturday lessons.",
+      "chineseBefore": "房間稍後會恢復安全，早上的小組卻不能在這麼冷的地方上課。",
+      "chineseAfter": "房間稍後會恢復安全，但妮雅在六堂星期六正式課之間加開的週二晨間閱讀小組，當下不能在這麼冷的地方活動。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 11,
+      "paragraph": 2,
+      "reason": "Respect that Tomas is blind; large print does not allow him to read.",
+      "appliedNow": true,
+      "englishBefore": "Tomas asked for the names of planets in large print. Nia could make the letters big, but she was not sure how to explain every word.",
+      "englishAfter": "Tomas asked Nia to read the planet names aloud and let him trace the raised labels on the models. She could point to the labels as she read, but she was not sure how to explain every word clearly.",
+      "chineseBefore": "托馬斯請妮雅用大字寫出行星名稱。妮雅能把字寫大，卻不確定每個詞該怎麼解釋，便把難字另記一頁，準備查證。",
+      "chineseAfter": "托馬斯請妮雅念出行星名稱，並讓他觸摸模型上的凸起標籤。妮雅一邊指著標籤一邊朗讀，卻不確定如何清楚解釋每個詞，便把難字另記一頁，準備查證。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 11,
+      "paragraph": 5,
+      "reason": "Replace inaccessible large print with accessible tactile label.",
+      "appliedNow": true,
+      "englishBefore": "Tomas sat near the table and ran a finger along the large letters in his new book.",
+      "englishAfter": "Tomas sat near the table and ran a finger over the raised labels Ada had attached to the cover of his new book.",
+      "chineseBefore": "托馬斯坐在桌旁，用手指沿著新書的大字慢慢讀。",
+      "chineseAfter": "托馬斯坐在桌旁，用手指慢慢摸過艾達貼在新書封面上的凸起標籤。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 13,
+      "paragraph": 3,
+      "reason": "Require accessible consent for blind participant.",
+      "appliedNow": true,
+      "englishBefore": "Tomas said he did not mind having his name on the touch-map page, but he wanted to read the sentence first. Nia showed him the large-print version and asked for his approval.",
+      "englishAfter": "Tomas said he did not mind having his name on the touch-map page, but he wanted to hear the sentence first. Nia read it aloud to him and asked for his approval.",
+      "chineseBefore": "托馬斯不介意名字出現在觸摸地圖那一頁，但希望先讀過句子。妮雅拿給他大字版本，詢問是否同意。",
+      "chineseAfter": "托馬斯不介意名字出現在觸摸地圖那一頁，但希望先聽過句子。妮雅為他朗讀內容，接著詢問是否同意。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 19,
+      "paragraph": 2,
+      "reason": "Ensure interview question accessibility and consent.",
+      "appliedNow": true,
+      "englishBefore": "Tomas was interested in joining the talk, but asked to read the questions first. The writer agreed.",
+      "englishAfter": "Tomas was interested in joining the talk, but asked the writer to read the questions aloud beforehand. The writer agreed.",
+      "chineseBefore": "托馬斯也有興趣受訪，但希望先讀過問題。作者同意，",
+      "chineseAfter": "托馬斯也有興趣受訪，但希望記者先把問題念給他聽。記者同意，"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "reason": "Allow later planting with substitute classroom seeds without plot inconsistency.",
+      "appliedNow": true,
+      "englishBefore": "Without the box, they could not begin.",
+      "englishAfter": "Without the box, they could not begin the garden-day preparations as planned.",
+      "chineseBefore": "沒有箱子，大家便無法開始。",
+      "chineseAfter": "沒有箱子，大家就無法按照原訂計畫準備花園開放日。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 3,
+      "reason": "Make original identifying picture consistent with chapter 6 and recovery chapter 17.",
+      "appliedNow": true,
+      "englishBefore": "He had once painted a monkey with one large tooth on the side of the missing box,",
+      "englishAfter": "He had once painted a monkey with orange ears and one large white tooth on the side of the missing box,",
+      "chineseBefore": "失蹤箱子的側面原本畫著一隻露出大牙齒的猴子，",
+      "chineseAfter": "失蹤箱子的側面原本畫著一隻橘色耳朵、露出一顆白色大牙齒的猴子，"
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 4,
+      "paragraph": 6,
+      "reason": "Premature new doorstep before repairs and false closing time before grand opening.",
+      "appliedNow": true,
+      "englishBefore": "At closing time, Fia put a small sign on the new door step.",
+      "englishAfter": "At the end of the workday, Fia put a small sign beside the worn doorstep.",
+      "chineseBefore": "收工時，菲雅在新門階放上小牌子",
+      "chineseAfter": "收工時，菲雅在尚未修好的舊門階旁放上小牌子"
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 4,
+      "paragraph": 6,
+      "reason": "Remove double crossing and awkward phrase, preserve target 'cross'.",
+      "appliedNow": true,
+      "englishBefore": "As the sky became dark, the three friends crossed the road and went home together. At the cross in the road, Moss lifted his head and checked for a coming cart before the friends went over.",
+      "englishAfter": "As the sky became dark, the three friends set off for home. At the place where two roads cross, Moss lifted his head to look for a coming cart before they walked safely to the other side.",
+      "chineseBefore": "天色漸暗，三個朋友一起過馬路回家。 在道路的交會處，莫斯抬起頭查看有沒有車來，再帶著朋友過去。",
+      "chineseAfter": "天色漸暗，三個朋友一起踏上回家的路。到了兩條路交會的地方，莫斯抬起頭查看有沒有推車過來，再與朋友安全走到對面。"
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 9,
+      "paragraph": 1,
+      "reason": "Avoid ungrounded definitive legal claim; retain level target 'legal'.",
+      "appliedNow": true,
+      "englishBefore": "That was not legal or fair, and it was not what anyone had agreed.",
+      "englishAfter": "The claim did not match the signed permissions, and May wanted its legal basis checked before anyone presented it as fact.",
+      "chineseBefore": "那既不符合約定，也不應被當作合法又公平的事。",
+      "chineseAfter": "這種說法與簽署的授權不符；慧希望先核對其法律依據，不要把未經證實的權利主張寫成事實。"
+    }
+  ],
+  "quizChanges": [
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 19,
+      "question": 2,
+      "before": "Why does Tomas read the interview questions first?",
+      "after": "Why does Tomas ask to hear the interview questions before answering?"
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 1,
+      "question": 1,
+      "before": "What clue do May and Evan notice outside the locked classroom?",
+      "after": "What clue do May and Evan notice outside the locked classroom?"
+    }
+  ],
+  "chapterStructuralChecks": [
+    {
+      "book": "tomorrow",
+      "chapter": 1,
+      "englishWords": 538,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 2,
+      "englishWords": 516,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 3,
+      "englishWords": 535,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 4,
+      "englishWords": 538,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 5,
+      "englishWords": 531,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 6,
+      "englishWords": 536,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 7,
+      "englishWords": 547,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 8,
+      "englishWords": 533,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 9,
+      "englishWords": 531,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 10,
+      "englishWords": 546,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 11,
+      "englishWords": 535,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 12,
+      "englishWords": 555,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 13,
+      "englishWords": 545,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 14,
+      "englishWords": 548,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 15,
+      "englishWords": 559,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 16,
+      "englishWords": 550,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 17,
+      "englishWords": 547,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 18,
+      "englishWords": 556,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 19,
+      "englishWords": 553,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 20,
+      "englishWords": 556,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 21,
+      "englishWords": 547,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 22,
+      "englishWords": 557,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 23,
+      "englishWords": 572,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 24,
+      "englishWords": 576,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 25,
+      "englishWords": 568,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 1,
+      "englishWords": 694,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 2,
+      "englishWords": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 3,
+      "englishWords": 688,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 4,
+      "englishWords": 695,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 5,
+      "englishWords": 674,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 6,
+      "englishWords": 695,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 7,
+      "englishWords": 678,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 8,
+      "englishWords": 674,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 9,
+      "englishWords": 665,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 10,
+      "englishWords": 667,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 11,
+      "englishWords": 711,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 12,
+      "englishWords": 688,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 13,
+      "englishWords": 678,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 14,
+      "englishWords": 677,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 15,
+      "englishWords": 699,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 16,
+      "englishWords": 681,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 17,
+      "englishWords": 668,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 18,
+      "englishWords": 680,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 19,
+      "englishWords": 680,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 20,
+      "englishWords": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 21,
+      "englishWords": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 22,
+      "englishWords": 671,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 23,
+      "englishWords": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 24,
+      "englishWords": 705,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 25,
+      "englishWords": 703,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "englishWords": 661,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 2,
+      "englishWords": 645,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 3,
+      "englishWords": 627,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 4,
+      "englishWords": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 5,
+      "englishWords": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 6,
+      "englishWords": 668,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 7,
+      "englishWords": 638,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 8,
+      "englishWords": 638,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 9,
+      "englishWords": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 10,
+      "englishWords": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 11,
+      "englishWords": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 12,
+      "englishWords": 629,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 13,
+      "englishWords": 638,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 14,
+      "englishWords": 638,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 15,
+      "englishWords": 654,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 16,
+      "englishWords": 637,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 17,
+      "englishWords": 655,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 18,
+      "englishWords": 634,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 19,
+      "englishWords": 630,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 20,
+      "englishWords": 653,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 21,
+      "englishWords": 663,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 22,
+      "englishWords": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 23,
+      "englishWords": 653,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 24,
+      "englishWords": 629,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 25,
+      "englishWords": 690,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 1,
+      "englishWords": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 2,
+      "englishWords": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 3,
+      "englishWords": 619,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 4,
+      "englishWords": 639,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 5,
+      "englishWords": 601,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 6,
+      "englishWords": 658,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 7,
+      "englishWords": 617,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 8,
+      "englishWords": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 9,
+      "englishWords": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 10,
+      "englishWords": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 11,
+      "englishWords": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 12,
+      "englishWords": 629,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 13,
+      "englishWords": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 14,
+      "englishWords": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 15,
+      "englishWords": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 16,
+      "englishWords": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 17,
+      "englishWords": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 18,
+      "englishWords": 609,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 19,
+      "englishWords": 615,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 20,
+      "englishWords": 644,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 21,
+      "englishWords": 627,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 22,
+      "englishWords": 625,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 23,
+      "englishWords": 634,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 24,
+      "englishWords": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 25,
+      "englishWords": 638,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 1,
+      "englishWords": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 2,
+      "englishWords": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 3,
+      "englishWords": 650,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 4,
+      "englishWords": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 5,
+      "englishWords": 659,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 6,
+      "englishWords": 630,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 7,
+      "englishWords": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 8,
+      "englishWords": 623,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 9,
+      "englishWords": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 10,
+      "englishWords": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 11,
+      "englishWords": 636,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 12,
+      "englishWords": 620,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 13,
+      "englishWords": 624,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 14,
+      "englishWords": 632,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 15,
+      "englishWords": 644,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 16,
+      "englishWords": 630,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 17,
+      "englishWords": 627,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 18,
+      "englishWords": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 19,
+      "englishWords": 646,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 20,
+      "englishWords": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 21,
+      "englishWords": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 22,
+      "englishWords": 634,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 23,
+      "englishWords": 624,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 24,
+      "englishWords": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 25,
+      "englishWords": 737,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": false
+    }
+  ]
+}
