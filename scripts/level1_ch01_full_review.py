@@ -53,6 +53,13 @@ for b in level1:
         field=patch['lang']
         assert field in ('en','zh')
         p=chapter['paragraphs'][pi]
+        if patch['old'] not in p[field] and patch['new'] not in p[field]:
+            # The paragraph may have moved in a previously published chronology repair.
+            candidates=[(i,p0) for i,p0 in enumerate(chapter['paragraphs'])
+                        if patch['old'] in p0[field] or patch['new'] in p0[field]]
+            if len(candidates)!=1:
+                raise ValueError(f'Missing/ambiguous moved paragraph {bid}: {patch["old"][:90]}')
+            pi,p=candidates[0]
         if patch['new'] in p[field] and patch['old'] not in p[field]:
             # Idempotent if run twice after a first successful publish.
             continue
