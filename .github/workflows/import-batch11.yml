@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'scripts/import_batch11.py'
+      - 'incoming/batch11/**'
       - '.github/workflows/import-batch11.yml'
   workflow_dispatch:
 permissions:
