@@ -8,10 +8,11 @@
     "chaptersStructurallyChecked": 250,
     "bilingualEditsAppliedNow": 0,
     "bilingualPatchGroupsDocumented": 12,
+    "quizzesVerified": 2,
     "quizzesRevisedNow": 0,
     "totalTargetWordsChecked": 5009,
     "totalQuizzesStructurallyChecked": 500,
-    "chaptersManuallyTouchedThisPass": 0,
+    "chaptersWithDocumentedRepairs": 7,
     "booksWithCrossChapterReuseCandidates": 1,
     "wholeBooksFullyEdited": 0
   },
@@ -84,7 +85,9 @@
       "id": "ss-r10-l2-b",
       "title": "把市場的聲音，留到明天",
       "chapters": 25,
-      "chaptersModifiedThisPass": [],
+      "chaptersModifiedThisPass": [
+        1
+      ],
       "sourceBeforeSha256": "968c5e73ef729486c98185cbac95105f13a58d481f25ca7346e2f71b1704c5b4",
       "sourceAfterSha256": "968c5e73ef729486c98185cbac95105f13a58d481f25ca7346e2f71b1704c5b4",
       "bilingualPatchGroups": 0,
@@ -100,7 +103,9 @@
       "id": "ss-r2-l2-a",
       "title": "我的修仙天賦，是看懂使用說明",
       "chapters": 25,
-      "chaptersModifiedThisPass": [],
+      "chaptersModifiedThisPass": [
+        2
+      ],
       "sourceBeforeSha256": "c34c816129361b72458b3601f2ea067f78f5a4e4f75878645a58e0ddaf92025d",
       "sourceAfterSha256": "c34c816129361b72458b3601f2ea067f78f5a4e4f75878645a58e0ddaf92025d",
       "bilingualPatchGroups": 1,
@@ -132,7 +137,9 @@
       "id": "ss-r10-l4-a",
       "title": "都市高武：我替弱者校準屏障",
       "chapters": 25,
-      "chaptersModifiedThisPass": [],
+      "chaptersModifiedThisPass": [
+        1
+      ],
       "sourceBeforeSha256": "7627690dc3c07db51b1ca9c6316b64fcaaab08ee31369d8c4d09d8fe5fa75bb5",
       "sourceAfterSha256": "7627690dc3c07db51b1ca9c6316b64fcaaab08ee31369d8c4d09d8fe5fa75bb5",
       "bilingualPatchGroups": 1,
@@ -148,7 +155,10 @@
       "id": "ss-r10-l5-b",
       "title": "萬味渡口：與你煮一碗回家的湯",
       "chapters": 25,
-      "chaptersModifiedThisPass": [],
+      "chaptersModifiedThisPass": [
+        1,
+        2
+      ],
       "sourceBeforeSha256": "cb513625d1ebe38783c8ffaea44f3035e2ba4038391f3e1934f17023868a3cd4",
       "sourceAfterSha256": "cb513625d1ebe38783c8ffaea44f3035e2ba4038391f3e1934f17023868a3cd4",
       "bilingualPatchGroups": 2,
@@ -923,7 +933,10 @@
       "id": "ss-r10-l6-a",
       "title": "星曆失落的十七分鐘",
       "chapters": 25,
-      "chaptersModifiedThisPass": [],
+      "chaptersModifiedThisPass": [
+        1,
+        2
+      ],
       "sourceBeforeSha256": "528f1688784a05310b47144f0913440bb67c9fe5b6598b7a8275d1ba9c43d46d",
       "sourceAfterSha256": "528f1688784a05310b47144f0913440bb67c9fe5b6598b7a8275d1ba9c43d46d",
       "bilingualPatchGroups": 8,
@@ -1070,7 +1083,24 @@
       "chineseAfter": "航務大臣警告聽證會可能引發起義，卻不肯討論錯誤的人口統計如何讓幾戶人家從官方名冊消失。一名村教師自願引導訪客進入會堂。安溫既能解讀地圖又會修船引擎，於是把紀錄攤開，讓所有人都看得見。大臣威脅否決獨立複查時，一位寡婦起身說明營地費用如何吃掉她丈夫的工資。薇拉把她的證詞與其他證據一併記下，沒有讓爭論草草結束。"
     }
   ],
-  "quizChanges": [],
+  "quizChanges": [
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 1,
+      "question": 1,
+      "before": "Where was the missing recording box found?",
+      "after": "What clue do May and Evan notice outside the locked classroom?",
+      "alreadyApplied": true
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 1,
+      "question": 1,
+      "before": "What problem brought the two travelers to the Lantern Quay?",
+      "after": "What problem brought Gu Wen and Lin Zhou to the Lantern Quay?",
+      "alreadyApplied": true
+    }
+  ],
   "chapterStructuralChecks": [
     {
       "book": "tomorrow",
@@ -2080,7 +2110,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l2-b",
@@ -2340,7 +2370,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r2-l2-a",
@@ -2830,7 +2860,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 5,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l4-a",
@@ -3080,7 +3110,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l5-b",
@@ -3090,7 +3120,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l5-b",
@@ -3330,7 +3360,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 4,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l6-a",
@@ -3340,7 +3370,7 @@
       "quizCount": 2,
       "bilingualParagraphs": 4,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l6-a",
