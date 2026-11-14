@@ -97,11 +97,16 @@ async function run(label,options){
   // Stage 2 editorial transparency: every book is shown, none falsely certified.
   await page.goto(base+'editorial-progress.html',{waitUntil:'domcontentloaded'});
   const editorialRows=page.locator('#books tbody tr');
-  if(await editorialRows.count()!==82)throw Error('Editorial tracker must list all 82 published books');
+  if(await editorialRows.count()!==88)throw Error('Editorial tracker must list all 88 published books');
   await page.locator('#search').fill('萬味渡口');
   if(await editorialRows.filter({visible:true}).count()!==1)throw Error('Editorial filter did not isolate one book');
   const auditContent=await editorialRows.filter({visible:true}).first().innerText();
   if(!auditContent.includes('逐段英中、情節、角色與答案審閱未完成'))throw Error('Editorial review is incorrectly marked complete');
+  // New batch: open a genuinely imported first chapter, not merely catalog metadata.
+  await page.goto(base+'?book=ss-r11-l1-a&chapter=ss-r11-l1-a-1',{waitUntil:'domcontentloaded'});
+  await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
+  const newBookHeading=await page.locator('body').innerText();
+  if(!newBookHeading.includes('雨後的綠色箱子'))throw Error('Newly imported story not readable');
   if(errors.length)throw Error(label+' JS errors: '+errors.join('; '));
   console.log(JSON.stringify({device:label,ok:true,sync:true,theme:true}));
  }finally{await context.close()}
