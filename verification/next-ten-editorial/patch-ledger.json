@@ -2,12 +2,243 @@
   "schemaVersion": 1,
   "summary": {
     "scopeBooks": 10,
-    "patchGroupsRecorded": 22,
+    "patchGroupsRecorded": 24,
     "quizPatchesRecorded": 6,
-    "patchGroupsAppliedThisRun": 0,
-    "chaptersWithDocumentedRepairs": 0,
+    "patchGroupsAppliedThisRun": 26,
+    "chaptersWithDocumentedRepairs": 24,
     "wholeBooksCertifiedByScript": 0
   },
-  "changes": [],
+  "changes": [
+    {
+      "book": "import-third-gate",
+      "chapter": 24,
+      "paragraph": 2,
+      "reason": "Replace grammatically incorrect use of lest while preserving required target vocabulary and site protection",
+      "changesAppliedNow": true,
+      "englishBeforeAfter": [
+        [
+          "An asked for receipts, because even innocent work needed to be documented near a protected site. She worried that careless choices might destroy evidence lest anyone notice until too late.",
+          "An demanded signed receipts lest undocumented earthworks destroy evidence at the protected site before anyone noticed. Even harmless work needed a traceable record near the ancient drainage opening."
+        ]
+      ],
+      "chineseBeforeAfter": [
+        [
+          "安要求單據，因為受保護遺址旁，即使無害施工也須記錄。她擔心漫不經心的決定毀掉證據，直到太遲才有人發現。",
+          "安要求具名簽收單據，免得未經記錄的土方工程破壞受保護遺址的證據，直到太晚才被發現。古排水口附近即使是無害的施工，也必須留下可追查的紀錄。"
+        ]
+      ]
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 25,
+      "paragraph": 6,
+      "reason": "Chapter 25 places after-storm classroom tour in paragraph 5 before a 'By morning' flood report; explicitly make final paragraph a remembered flood morning",
+      "changesAppliedNow": true,
+      "englishBeforeAfter": [
+        [
+          "By morning the river had risen, but the Third Gate diverted the worst of the flood toward the open plain.",
+          "An remembered the storm's last morning, before she had brought students to the gate. The river had risen, but the Third Gate diverted the worst of the flood toward the open plain."
+        ]
+      ],
+      "chineseBeforeAfter": [
+        [
+          "清晨河水上漲，第三道水門卻把最凶猛的洪流引往空曠平原。",
+          "安想起暴雨最後一個清晨，那時她尚未帶學生前來。河水雖已暴漲，第三道水門仍把最凶猛的洪流導往空曠平原。"
+        ]
+      ]
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 2,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Witness at the Salt Road｜英文正文 672 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 3,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Horseman's Two Maps｜英文正文 648 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 4,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Caravan of Winter Fever｜英文正文 614 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 5,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Hundred Voices Assembly｜英文正文 605 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 6,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "Letters Beyond the Border｜英文正文 613 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 7,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Pirates of Reed Lake｜英文正文 645 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 8,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Royal Patent｜英文正文 631 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 9,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Mint Beneath the Stars｜英文正文 620 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 10,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Bronze Dome｜英文正文 634 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 11,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Last Veteran's Petition｜英文正文 626 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 12,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Children Behind the Wall｜英文正文 632 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 13,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Healer's Consent｜英文正文 605 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 14,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Laser and the Letter｜英文正文 618 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 15,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "Three Nights to Decide｜英文正文 619 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 16,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Broken Server｜英文正文 637 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 17,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Forged Letter｜英文正文 624 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 18,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Directory of Forgotten Names｜英文正文 614 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 19,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Wheel in the Dark｜英文正文 621 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 20,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The House on the Embankment｜英文正文 600 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 21,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Warehouse Ledger｜英文正文 617 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 22,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "Voices from the River Market｜英文正文 607 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 23,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Architect's Mandate｜英文正文 608 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 24,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Escalator Meeting｜英文正文 640 詞｜目標新詞 20 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 25,
+      "kind": "remove_export_metadata",
+      "changesAppliedNow": true,
+      "before": "The Gate That Stayed Open｜英文正文 625 詞｜目標新詞 21 個",
+      "after": "removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence"
+    }
+  ],
   "notice": "This ledger records actual precise bilingual corrections. It is NOT 25-chapter signoff."
 }
