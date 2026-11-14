@@ -300,6 +300,42 @@
       "field": "question",
       "old": "How did the city finance the future network?",
       "new": "What financing approach did the council consider for the future network?"
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 7,
+      "question": 2,
+      "field": "question",
+      "reason": "Correct source cross-reference to port copper machine part",
+      "old": "as the broken board from the river port.",
+      "new": "as the copper machine part found at the river port."
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 7,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Correct cited English and Chinese source text after editing",
+      "old": "It was a metal plate carrying the same half-circle design as the broken board from the river port.\n本段對照：傍晚，沈雨看見兩塊岩石間有東西發亮。那是一塊金屬牌，刻著和河港碎木板相同的半圓圖案。",
+      "new": "It was a metal plate carrying the same half-circle design as the copper machine part found at the river port.\n本段對照：傍晚，沈雨看見兩塊岩石間有東西發亮。那是一塊金屬牌，刻著與河港銅盒內那件機械零件相同的半圓圖案。"
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 25,
+      "question": 1,
+      "field": "question",
+      "reason": "Question source remains in paragraph after seasonal continuity correction",
+      "old": "Three months later, spring had returned to ____.",
+      "new": "Three months later, fresh green growth covered ____."
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 25,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Update source quote and translation after ending season fix",
+      "old": "Three months later, spring had returned to the valley.\n本段對照：三個月後，春天回到山谷。",
+      "new": "Three months later, fresh green growth covered the valley.\n本段對照：三個月後，山谷又披上了新綠。"
     }
   ]
 }
