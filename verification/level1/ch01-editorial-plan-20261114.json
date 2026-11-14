@@ -1,0 +1,583 @@
+{
+  "version": 1,
+  "scope": "All 15 Level-1 published first chapters (375 chapters in corpus, only chapter 1 of each in this editorial pass)",
+  "reviewer": "GPT-6 AI editorial review; not a human copyeditor",
+  "patches": [
+    {
+      "book": "tomorrow",
+      "chapter": 1,
+      "paragraph": 7,
+      "lang": "en",
+      "old": "the two little Chinese marks lost their shape",
+      "new": "the two Chinese characters stopped looking like words"
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 1,
+      "paragraph": 7,
+      "lang": "zh",
+      "old": "直到那兩個中文字看起來不再像字",
+      "new": "直到那兩個中文字在我眼前變得陌生，幾乎看不出原來的意思"
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 1,
+      "paragraph": 6,
+      "lang": "en",
+      "old": "People said she had run away because everyone knew.",
+      "new": "People said she had run away because everyone at school believed the story about her."
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 1,
+      "paragraph": 6,
+      "lang": "zh",
+      "old": "說她因為被揭穿而逃走",
+      "new": "說她因為全校都相信那些傳言而離開"
+    },
+    {
+      "book": "import-rain-bell",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "en",
+      "old": "“Everyone heard that,” Mia said. But no one came to the windows.",
+      "new": "“It was loud enough for everyone to hear,” Mia said. Still, no one appeared at the windows."
+    },
+    {
+      "book": "import-rain-bell",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "zh",
+      "old": "「大家都聽見了吧。」米婭說。可是，沒有一個人來到窗邊。",
+      "new": "「那麼大聲，大家應該都聽得見。」米婭說。然而，窗邊始終沒有人出現。"
+    },
+    {
+      "book": "ceo-1",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "en",
+      "old": "\"Your meeting was at nine,\" he said.",
+      "new": "\"We agreed to meet at nine,\" he said."
+    },
+    {
+      "book": "ceo-1",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "zh",
+      "old": "「妳的會議是九點。」",
+      "new": "「我們約好九點見面。」"
+    },
+    {
+      "book": "ceo-1",
+      "chapter": 1,
+      "paragraph": 4,
+      "lang": "en",
+      "old": "Outside his window, the city looked small and dry.",
+      "new": "Beyond his window, rain blurred the city into pale shapes."
+    },
+    {
+      "book": "ceo-1",
+      "chapter": 1,
+      "paragraph": 4,
+      "lang": "zh",
+      "old": "窗外的城市看起來又小又乾燥。",
+      "new": "窗外，雨水把城市的輪廓暈成一片淡淡的影子。"
+    },
+    {
+      "book": "ss-r5-l1-b",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "en",
+      "old": "They took a short break and shared water. A hard job felt easier when everyone could say what they needed. After the break, they went back with a clearer plan.",
+      "new": "Sela asked the child whether a quiet corner would make the fair easier to enjoy. He nodded and pointed away from the speakers. She offered him water and wrote down his suggestion. Her first plan came from listening, not guessing."
+    },
+    {
+      "book": "ss-r5-l1-b",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "zh",
+      "old": "大家短暫休息，一起喝水。當每個人都能說出自己的需要時，辛苦的工作也變得比較容易。休息後，他們帶著更清楚的計畫回去做事。",
+      "new": "塞拉問那個孩子，如果有個安靜角落，他會不會更願意留下來看節慶。孩子點點頭，指向遠離喇叭的地方。她遞給他水，把建議記下來。她的第一個計畫來自傾聽，而不是憑空猜想。"
+    },
+    {
+      "book": "ss-r5-l1-b",
+      "chapter": 1,
+      "paragraph": 2,
+      "lang": "en",
+      "old": "Daro said they should never lie about whether a test really worked.",
+      "new": "Her friend Daro, a hedgehog who made toys, arrived to help. He said they should never lie about whether a test really worked."
+    },
+    {
+      "book": "ss-r5-l1-b",
+      "chapter": 1,
+      "paragraph": 2,
+      "lang": "zh",
+      "old": "達洛說，他們絕不該謊稱測試成功。",
+      "new": "會做玩具的刺蝟朋友達洛也來幫忙。他說，他們絕不該謊稱測試成功。"
+    },
+    {
+      "book": "ss-r5-l1-b",
+      "chapter": 1,
+      "paragraph": 3,
+      "lang": "en",
+      "old": "Daro, a hedgehog who made toys, came to look. He showed Sela how a piece of card could become a fish on the cloth.",
+      "new": "Daro showed Sela how a piece of card could become the shadow of a fish on the cloth."
+    },
+    {
+      "book": "ss-r5-l1-b",
+      "chapter": 1,
+      "paragraph": 3,
+      "lang": "zh",
+      "old": "會做玩具的刺蝟達洛走來看看。他示範如何把一片卡紙變成布上的魚影。",
+      "new": "達洛示範如何用一片卡紙，在白布上投出魚的影子。"
+    },
+    {
+      "book": "ss-r4-l1-a",
+      "chapter": 1,
+      "paragraph": 4,
+      "lang": "en",
+      "old": "The boy gave Ada a drawing for his grandfather. Ada checked the name before she took it.",
+      "new": "The boy gave Ada a drawing in a sealed envelope addressed to his grandfather. Ada checked the name and address before accepting it as mail."
+    },
+    {
+      "book": "ss-r4-l1-a",
+      "chapter": 1,
+      "paragraph": 4,
+      "lang": "zh",
+      "old": "男孩交給艾達一張要給祖父的畫。艾達先確認姓名才收下。",
+      "new": "男孩把畫裝進寫著祖父姓名的封好信封，交給艾達。艾達先確認收件姓名和地址，才把它收作郵件。"
+    },
+    {
+      "book": "ss-r4-l1-b",
+      "chapter": 1,
+      "paragraph": 2,
+      "lang": "en",
+      "old": "They closed both ends of the bridge.",
+      "new": "They marked the near end of the bridge and agreed to block the far end as well."
+    },
+    {
+      "book": "ss-r4-l1-b",
+      "chapter": 1,
+      "paragraph": 2,
+      "lang": "zh",
+      "old": "兩人封住橋的兩端。",
+      "new": "兩人在橋的這一端做好警示，也約定要封住另一端。"
+    },
+    {
+      "book": "ss-r4-l1-b",
+      "chapter": 1,
+      "paragraph": 5,
+      "lang": "en",
+      "old": "She wrote a short notice and put it where every traveler could see it.",
+      "new": "She drafted a short notice in her book, ready to show the village leader."
+    },
+    {
+      "book": "ss-r4-l1-b",
+      "chapter": 1,
+      "paragraph": 5,
+      "lang": "zh",
+      "old": "她寫了簡短公告，放在每個旅人都看得見的地方。",
+      "new": "她先在本子裡草擬簡短公告，準備拿給村長看。"
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 1,
+      "paragraph": 6,
+      "lang": "en",
+      "old": "She held a key in one wing.",
+      "new": "She held a key carefully in one claw."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 1,
+      "paragraph": 6,
+      "lang": "zh",
+      "old": "她的翅膀裡握著一把鑰匙。",
+      "new": "她用一隻爪子小心地握著鑰匙。"
+    },
+    {
+      "book": "ss-r3-l1-a",
+      "chapter": 1,
+      "paragraph": 2,
+      "lang": "en",
+      "old": "Mia moved an old couch away from the wall. Ben did the same on the other side.",
+      "new": "Mia and Ben moved an old couch away from the wall together, each holding one end."
+    },
+    {
+      "book": "ss-r3-l1-a",
+      "chapter": 1,
+      "paragraph": 2,
+      "lang": "zh",
+      "old": "米雅把一張舊沙發移離牆邊，班也從另一側幫忙。",
+      "new": "米雅與班各扶住沙發的一端，一起把舊沙發移離牆邊。"
+    },
+    {
+      "book": "ss-r2-l1-a",
+      "chapter": 1,
+      "paragraph": 3,
+      "lang": "en",
+      "old": "Her friend Ben arrived with a picture of a monkey. Drawing animals was his hobby. Ben also had a foreign student in his art class, and he wanted to teach the student some easy words. \"This is a monkey,\" he said, showing the paper. \"And this is a tooth.\" He pointed at the monkey's big smile.",
+      "new": "Her friend Ben arrived with a new drawing for the shop menu. Drawing animals was his hobby, and he had made a smiling monkey with one large tooth to welcome children. A foreign student in his art class was helping him write simple English labels. \"This is a monkey,\" he said, showing Rina the paper. \"And this is a tooth.\" He pointed to the animal's wide smile."
+    },
+    {
+      "book": "ss-r2-l1-a",
+      "chapter": 1,
+      "paragraph": 3,
+      "lang": "zh",
+      "old": "她的朋友班帶著一張猴子的畫來了。畫動物是他的興趣。班的美術班有一位外國學生，他想教對方一些簡單單字。「這是猴子。」他拿著畫說。「這是牙齒。」他指著猴子的大笑容。",
+      "new": "她的朋友班帶來一張準備放在店裡菜單上的新圖畫。畫動物是他的興趣；他畫了一隻露出一顆大牙齒的笑臉猴子，希望孩子們看了會開心。美術班的一位外國同學正幫他替圖畫寫簡單的英文標籤。「這是猴子，」他拿著畫對莉娜說，「這是牙齒。」他指向猴子大大的笑容。"
+    },
+    {
+      "book": "ss-r2-l1-a",
+      "chapter": 1,
+      "paragraph": 7,
+      "lang": "en",
+      "old": "Tomorrow she would begin with facts, not fear.",
+      "new": "Tomorrow she would compare her notes with the shop records again. Facts, not fear, would guide her next step."
+    },
+    {
+      "book": "ss-r2-l1-a",
+      "chapter": 1,
+      "paragraph": 7,
+      "lang": "zh",
+      "old": "明天，她要從事實開始，而不是恐懼。",
+      "new": "明天，她會再把筆記和店裡的帳目逐一比對。她接下來要依靠的是事實，不是恐懼。"
+    },
+    {
+      "book": "ss-r6-l1-a",
+      "chapter": 1,
+      "paragraph": 7,
+      "lang": "en",
+      "old": "Tess had arrived with only her own name on the list. Now Ben had written the next meeting time, and June was still smiling by the door. They did not have seven players yet, but she no longer had to make the plan alone.",
+      "new": "The page still held only two confirmed names, but June had promised to ask about the practice field. Tess knew the team was not ready for a match. For the first time, though, it had a next meeting and people willing to help."
+    },
+    {
+      "book": "ss-r6-l1-a",
+      "chapter": 1,
+      "paragraph": 7,
+      "lang": "zh",
+      "old": "泰絲來時，名單上只有她自己的名字。如今班已寫下下次集合時間，瓊還在門邊微笑。他們還湊不滿七位球員，但她終於不必獨自籌畫了。",
+      "new": "名單上仍只有兩個確認加入的名字，但瓊答應去詢問練習場地。泰絲知道球隊還不能上場比賽；不過，現在終於有了下一次集合時間，也有了願意幫忙的人。"
+    },
+    {
+      "book": "ss-r7-l1-b",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "en",
+      "old": "She opened the window and listened for the birds that usually returned before spring, but heard none.",
+      "new": "She opened the window and listened for the birds whose calls usually signaled the coming of spring, but heard none."
+    },
+    {
+      "book": "ss-r7-l1-b",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "zh",
+      "old": "她打開窗戶，想聽聽通常在春天前回來的鳥兒，卻一聲鳥鳴也沒聽見。",
+      "new": "她打開窗戶，想聽聽那些通常會用叫聲宣告春天將近的鳥兒，卻一聲也沒聽見。"
+    },
+    {
+      "book": "ss-r9-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "en",
+      "old": "It was her first day in the village, and she did not want to be late.",
+      "new": "It was her first full day in the village, and she did not want to waste the morning."
+    },
+    {
+      "book": "ss-r9-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "zh",
+      "old": "這是她來到村子的第一天，她不想遲到。",
+      "new": "這是她在村子裡度過的第一個完整日子，她不想浪費早晨的時間。"
+    },
+    {
+      "book": "ss-r9-l1-b",
+      "chapter": 1,
+      "paragraph": 5,
+      "lang": "en",
+      "old": "Ressa had gone home, but a child and his father stood there, waiting for nothing.",
+      "new": "Ressa had gone home, but a child and his father stood there, looking down the empty road."
+    },
+    {
+      "book": "ss-r9-l1-b",
+      "chapter": 1,
+      "paragraph": 5,
+      "lang": "zh",
+      "old": "瑞莎已回家，卻有一對父子站在那裡，像是在等一輛根本不存在的車。",
+      "new": "瑞莎已回家，卻有一對父子站在那裡，望著空蕩蕩的道路。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "lang": "zh",
+      "old": "距離第一堂課還有充裕的時間。",
+      "new": "她提早到達，距離第一堂課還有充裕的時間。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 1,
+      "paragraph": 5,
+      "lang": "en",
+      "old": "He told Nia that he had lost a tooth the week before and that speaking sometimes felt funny now. Mrs. Sol laughed kindly and said he could speak slowly.",
+      "new": "He told Nia that he had lost a tooth the week before and felt shy about speaking in front of others. Mrs. Sol smiled and reminded him that he could write down his question first. Finn liked that idea."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 1,
+      "paragraph": 5,
+      "lang": "zh",
+      "old": "他告訴妮雅，上星期自己掉了一顆牙，現在說話有時覺得怪怪的。索爾奶奶親切地笑了，說可以慢慢說。",
+      "new": "他告訴妮雅，上星期自己掉了一顆牙，現在有點害羞，不敢在眾人面前說話。索爾奶奶微笑著提醒他，可以先把問題寫下來。芬恩很喜歡這個主意。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 3,
+      "lang": "en",
+      "old": "A drawing of a monkey with one large tooth was on the side of the box. He had made that funny picture himself, so everyone could know which box belonged to them.",
+      "new": "He had once painted a monkey with one large tooth on the side of the missing box, so everyone could tell which box belonged to the club. He still kept a small copy of his funny drawing in his notebook."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 3,
+      "lang": "zh",
+      "old": "箱子側面畫著一隻露出一顆大牙齒的猴子。那張有趣的圖是俊親手畫的，好讓大家認出自己的箱子。",
+      "new": "失蹤箱子的側面原本畫著一隻露出大牙齒的猴子，那是俊親手畫的，好讓大家認出園藝社的箱子。他的筆記本裡還留著一張這幅逗趣圖畫的小副本。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 5,
+      "lang": "en",
+      "old": "When the first class came in, several students added pictures of seeds and small leaves.",
+      "new": "When another class passed through the hall, several students stopped to add pictures of seeds and small leaves."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 5,
+      "lang": "zh",
+      "old": "第一個班級進來時，好幾位學生畫了種子和小葉子。",
+      "new": "後來另一個班級經過走廊時，好幾位學生停下來，畫了種子和小葉子。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 6,
+      "lang": "en",
+      "old": "Jun showed him the monkey picture.",
+      "new": "Jun showed him the copy of his monkey drawing."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 6,
+      "lang": "zh",
+      "old": "俊則把猴子圖畫給他看。",
+      "new": "俊則拿出筆記本裡那張猴子圖畫的副本給他看。"
+    }
+  ],
+  "paragraphOrders": {
+    "ss-r3-l1-a": [
+      1,
+      2,
+      3,
+      5,
+      4
+    ],
+    "ss-r4-l1-b": [
+      1,
+      2,
+      3,
+      5,
+      4,
+      6,
+      7
+    ]
+  },
+  "quizEvidence": {
+    "tomorrow": [
+      [
+        5,
+        "My own voice came out, thin and quick.",
+        0
+      ],
+      [
+        8,
+        "Then I erased it.",
+        1
+      ]
+    ],
+    "import-rain-bell": [
+      [
+        1,
+        "Beside Mia, Ruby Chen held a cake in one hand and a bag of fruit in the other.",
+        0
+      ],
+      [
+        7,
+        "Instead, Mia wrote the date, the time, and what each friend had noticed.",
+        1
+      ]
+    ],
+    "ceo-1": [
+      [
+        3,
+        "The company may use all designs forever.",
+        1
+      ],
+      [
+        1,
+        "I took twenty floors of stairs.",
+        0
+      ]
+    ],
+    "ss-r5-l1-b": [
+      [
+        1,
+        "some neighbors went home when the music became too loud",
+        1
+      ],
+      [
+        2,
+        "Sela held a small lamp behind it.",
+        0
+      ]
+    ],
+    "ss-r4-l1-a": [
+      [
+        1,
+        "Mr. Lee, the old postman, was ready to teach her the roads.",
+        0
+      ],
+      [
+        2,
+        "She had come from a foreign country and wanted to find a house from an old letter.",
+        1
+      ]
+    ],
+    "ss-r4-l1-b": [
+      [
+        1,
+        "In the middle of the bridge, she noticed a red mark on one board.",
+        0
+      ],
+      [
+        2,
+        "We can use this as a warning",
+        0
+      ]
+    ],
+    "ss-r2-l1-b": [
+      [
+        1,
+        "Fia wanted to use the house for the village's first breakfast shop.",
+        0
+      ],
+      [
+        3,
+        "We must know what it holds.",
+        1
+      ]
+    ],
+    "ss-r3-l1-a": [
+      [
+        1,
+        "This morning the wall was empty.",
+        0
+      ],
+      [
+        4,
+        "After lunch they placed the yellow paper in a clear bag.",
+        1
+      ]
+    ],
+    "ss-r2-l1-a": [
+      [
+        1,
+        "The bell above the shop door rang at seven a.m.",
+        0
+      ],
+      [
+        5,
+        "Rina wrote every sale in her book.",
+        1
+      ]
+    ],
+    "ss-r6-l1-a": [
+      [
+        1,
+        "She had only one name: her own.",
+        1
+      ],
+      [
+        4,
+        "We need people who can listen, not only people who can run.",
+        0
+      ]
+    ],
+    "ss-r7-l1-b": [
+      [
+        2,
+        "No song came from the woods.",
+        0
+      ],
+      [
+        3,
+        "the snow there was still deep.",
+        1
+      ]
+    ],
+    "ss-r9-l1-a": [
+      [
+        4,
+        "The door may not be safe",
+        1
+      ],
+      [
+        5,
+        "Why did the blue windmill stop?",
+        0
+      ]
+    ],
+    "ss-r9-l1-b": [
+      [
+        1,
+        "her legs hurt when she walked far.",
+        0
+      ],
+      [
+        4,
+        "We need to look at both roads before we choose",
+        0
+      ]
+    ],
+    "ss-r10-l1-a": [
+      [
+        2,
+        "she needed a dark cover for the window.",
+        0
+      ],
+      [
+        3,
+        "Finn asked whether the sun was a star.",
+        1
+      ]
+    ],
+    "ss-r11-l1-a": [
+      [
+        1,
+        "a heavy green box had stood there.",
+        0
+      ],
+      [
+        4,
+        "She did not write that anyone had stolen it.",
+        1
+      ]
+    ]
+  }
+}
