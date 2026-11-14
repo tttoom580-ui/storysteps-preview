@@ -3,9 +3,9 @@
   "summary": {
     "scopeBooks": 10,
     "patchGroupsRecorded": 29,
-    "quizPatchesRecorded": 6,
-    "patchGroupsAppliedThisRun": 0,
-    "chaptersWithDocumentedRepairs": 5,
+    "quizPatchesRecorded": 103,
+    "patchGroupsAppliedThisRun": 97,
+    "chaptersWithDocumentedRepairs": 25,
     "wholeBooksCertifiedByScript": 0
   },
   "changes": [
@@ -103,6 +103,976 @@
           "供餐團隊設置適合怕吵賓客的安靜隊伍，並向重新設計動線的麵包師提供有薪訓練。"
         ]
       ]
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 2,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the narrow Salt Ridge?",
+      "new": "What accident threatened the shared well at Salt Ridge?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 2,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating a spice cart overturned beside a well used by three villages.",
+      "new": "A spice cart overturned beside the well used by three villages."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 2,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：一輛香料車翻倒在三村共用的水井旁。",
+      "new": "原文證據（第 1 段）：a spice cart overturned beside a well used by three villages.\n中譯對照：一輛香料車翻倒在三村共用的水井旁。\n正確選項：A spice cart overturned beside the well used by three villages."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 3,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to Willow Creek Pier?",
+      "new": "What happened to fish near Willow Creek Pier?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 3,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating fish stopped gathering where cooks had once washed their bowls.",
+      "new": "Fish stopped gathering in the shallows where cooks used to wash their bowls."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 3,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：魚群不再聚集於廚師洗碗的淺灘。",
+      "new": "原文證據（第 1 段）：fish stopped gathering where cooks had once washed their bowls.\n中譯對照：魚群不再聚集於廚師洗碗的淺灘。\n正確選項：Fish stopped gathering in the shallows where cooks used to wash their bowls."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 4,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the provincial measurement hall?",
+      "new": "Why was the inspectors' claim that gray salt was safe inadequate?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 4,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating inspectors announced that the gray salt was harmless because its weight was normal.",
+      "new": "They relied on its normal weight without testing its effects."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 4,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：稽查員宣布灰鹽無害，理由只是重量正常。",
+      "new": "原文證據（第 1 段）：inspectors announced that the gray salt was harmless because its weight was normal.\n中譯對照：稽查員宣布灰鹽無害，理由只是重量正常。\n正確選項：They relied on its normal weight without testing its effects."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 5,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Reed Ferry Commons?",
+      "new": "What did the three villages need to arrange before the evening rain?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 5,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating three villages met to share a single safe shipment before the evening rain.",
+      "new": "They needed to share one shipment of safe supplies."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 5,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：三座村莊在晚雨前協商共享唯一安全的貨運。",
+      "new": "原文證據（第 1 段）：three villages met to share a single safe shipment before the evening rain.\n中譯對照：三座村莊在晚雨前協商共享唯一安全的貨運。\n正確選項：They needed to share one shipment of safe supplies."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 6,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to Copper Island?",
+      "new": "What happened at the vinegar shed on Copper Island?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 6,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating a famous vinegar shed had lost half its workers after an alarming taste trial.",
+      "new": "The shed lost half its workers after an alarming taste trial."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 6,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：一家知名醋坊在可疑試味後失去了半數工人。",
+      "new": "原文證據（第 1 段）：a famous vinegar shed had lost half its workers after an alarming taste trial.\n中譯對照：一家知名醋坊在可疑試味後失去了半數工人。\n正確選項：The shed lost half its workers after an alarming taste trial."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 7,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the abandoned Blue Quarry?",
+      "new": "What had stonecutters noticed about the mineral at Blue Quarry?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 7,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating stonecutters remembered a mineral that crackled when salt and heat were mixed.",
+      "new": "It crackled when heated and mixed with salt."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 7,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：石匠記得一種遇鹽受熱便劈啪作響的礦石。",
+      "new": "原文證據（第 1 段）：stonecutters remembered a mineral that crackled when salt and heat were mixed.\n中譯對照：石匠記得一種遇鹽受熱便劈啪作響的礦石。\n正確選項：It crackled when heated and mixed with salt."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 8,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Night Salon?",
+      "new": "Why did cooks gather at the Night Salon?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 8,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating cooks who communicated by gestures held a gathering about the missing aromas.",
+      "new": "They were discussing the disappearance of aromas using gestures and other forms of communication."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 8,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：習慣用手勢交流的廚師聚會討論消失的香氣。",
+      "new": "原文證據（第 1 段）：cooks who communicated by gestures held a gathering about the missing aromas.\n中譯對照：習慣用手勢交流的廚師聚會討論消失的香氣。\n正確選項：They were discussing the disappearance of aromas using gestures and other forms of communication."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 9,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Old Salt Pyramid?",
+      "new": "What was wrong with the sealed warehouse's salt sacks?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 9,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating a sealed warehouse held sacks labeled as medicinal salt although the contents were industrial waste.",
+      "new": "They were labeled as medicinal salt but contained industrial waste."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 9,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：封閉倉庫裡的麻袋標成藥用鹽，內裝卻是工業廢料。",
+      "new": "原文證據（第 1 段）：a sealed warehouse held sacks labeled as medicinal salt although the contents were industrial waste.\n中譯對照：封閉倉庫裡的麻袋標成藥用鹽，內裝卻是工業廢料。\n正確選項：They were labeled as medicinal salt but contained industrial waste."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 10,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Riverside Clinic?",
+      "new": "What did some families blame for the new illness?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 10,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating families blamed a new illness on a river spirit after several people became sick.",
+      "new": "They believed a river spirit had caused it."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 10,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：幾戶人家病倒後，居民把新疾病怪罪給河靈。",
+      "new": "原文證據（第 1 段）：families blamed a new illness on a river spirit after several people became sick.\n中譯對照：幾戶人家病倒後，居民把新疾病怪罪給河靈。\n正確選項：They believed a river spirit had caused it."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 11,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Cliffside Refuge?",
+      "new": "Why had the elderly storekeeper hidden invoices?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 11,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating an elderly storekeeper confessed to hiding invoices after being threatened with losing his home.",
+      "new": "Someone had threatened to take away his home."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 11,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：年邁的倉管坦承曾藏起發票，因為有人威脅要收回他的住所。",
+      "new": "原文證據（第 1 段）：an elderly storekeeper confessed to hiding invoices after being threatened with losing his home.\n中譯對照：年邁的倉管坦承曾藏起發票，因為有人威脅要收回他的住所。\n正確選項：Someone had threatened to take away his home."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 12,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Great Tasting Arena?",
+      "new": "What was the sponsor offering at the Great Tasting Arena?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 12,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating the sponsor offered a prize to anyone who could cook a fragrant feast with the gray salt.",
+      "new": "A prize for cooking a fragrant feast with gray salt."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 12,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：贊助者懸賞誰能用灰鹽煮出香氣四溢的宴席。",
+      "new": "原文證據（第 1 段）：the sponsor offered a prize to anyone who could cook a fragrant feast with the gray salt.\n中譯對照：贊助者懸賞誰能用灰鹽煮出香氣四溢的宴席。\n正確選項：A prize for cooking a fragrant feast with gray salt."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 13,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Upper Reservoir?",
+      "new": "Where else did a water laboratory find the unusual mineral?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 13,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating a water laboratory found that the same mineral appeared in the filter beds.",
+      "new": "In the reservoir's filter beds."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 13,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：水質實驗室發現過濾層裡也有相同礦物。",
+      "new": "原文證據（第 1 段）：a water laboratory found that the same mineral appeared in the filter beds.\n中譯對照：水質實驗室發現過濾層裡也有相同礦物。\n正確選項：In the reservoir's filter beds."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 14,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Hall of Open Tables?",
+      "new": "What ownership proposal worried cooks at the charter council?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 14,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating the merchants proposed a law that would give one family ownership of every public cooking method.",
+      "new": "Merchants wanted one family to own every public cooking method."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 14,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：商人提案讓單一家族取得所有公共烹法的所有權。",
+      "new": "原文證據（第 1 段）：the merchants proposed a law that would give one family ownership of every public cooking method.\n中譯對照：商人提案讓單一家族取得所有公共烹法的所有權。\n正確選項：Merchants wanted one family to own every public cooking method."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 15,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Reed Harvest Festival?",
+      "new": "What did five villages bring to the Reed Harvest Festival?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 15,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating five villages carried their own ingredients to a great open hearth.",
+      "new": "Their own ingredients for a feast at the shared hearth."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 15,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：五座村莊把各自食材帶到巨大的公共灶。",
+      "new": "原文證據（第 1 段）：five villages carried their own ingredients to a great open hearth.\n中譯對照：五座村莊把各自食材帶到巨大的公共灶。\n正確選項：Their own ingredients for a feast at the shared hearth."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 16,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Merchant's Pavilion?",
+      "new": "What did the wealthy buyer want to purchase?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 16,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating a wealthy buyer tried to purchase the common hearth and all future festival meals.",
+      "new": "The common hearth and all future festival meals."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 16,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：一名富商試圖買下公共灶和未來所有節慶餐點。",
+      "new": "原文證據（第 1 段）：a wealthy buyer tried to purchase the common hearth and all future festival meals.\n中譯對照：一名富商試圖買下公共灶和未來所有節慶餐點。\n正確選項：The common hearth and all future festival meals."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 17,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Lantern Guesthouse?",
+      "new": "What did Gu Wen find in the Lantern Guesthouse attic?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 17,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating Gu Wen found a notebook left by his mother, full of substitutions made during the last famine.",
+      "new": "His mother's notebook containing famine-era ingredient substitutions."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 17,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：顧聞找到母親留下的筆記，裡面滿是上次飢荒時採用的替代食材。",
+      "new": "原文證據（第 1 段）：Gu Wen found a notebook left by his mother, full of substitutions made during the last famine.\n中譯對照：顧聞找到母親留下的筆記，裡面滿是上次飢荒時採用的替代食材。\n正確選項：His mother's notebook containing famine-era ingredient substitutions."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 18,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Stone Orchard?",
+      "new": "What did the supplier's former assistant reveal?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 18,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating the former supplier's assistant revealed how the gray mineral had entered legal shipments.",
+      "new": "How gray mineral had entered shipments that otherwise appeared legitimate."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 18,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：供應商的前助手揭露灰色礦物如何混進合法貨運。",
+      "new": "原文證據（第 1 段）：the former supplier's assistant revealed how the gray mineral had entered legal shipments.\n中譯對照：供應商的前助手揭露灰色礦物如何混進合法貨運。\n正確選項：How gray mineral had entered shipments that otherwise appeared legitimate."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 19,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Central Exchange Port?",
+      "new": "Why had families traveled to the Central Exchange Port?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 19,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating families displaced by bad water arrived carrying recipes from distant valleys.",
+      "new": "Polluted water had displaced them from their home valleys."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 19,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：受污染飲水迫遷的家庭帶著遠方山谷食譜抵達。",
+      "new": "原文證據（第 1 段）：families displaced by bad water arrived carrying recipes from distant valleys.\n中譯對照：受污染飲水迫遷的家庭帶著遠方山谷食譜抵達。\n正確選項：Polluted water had displaced them from their home valleys."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 20,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Seven-Port Kitchens?",
+      "new": "What threatened the shared kitchens during the heat wave?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 20,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating extreme heat weakened food stores while the merchant demanded immediate repayment.",
+      "new": "Heat damaged food stores while a merchant demanded immediate repayment."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 20,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：極端高溫破壞糧食儲藏，商人卻要求立即還款。",
+      "new": "原文證據（第 1 段）：extreme heat weakened food stores while the merchant demanded immediate repayment.\n中譯對照：極端高溫破壞糧食儲藏，商人卻要求立即還款。\n正確選項：Heat damaged food stores while a merchant demanded immediate repayment."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 21,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Quiet Burial Garden?",
+      "new": "Why did the retired miner testify at the burial garden?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 21,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating a retired miner gave testimony beside the grave of his brother, who had warned about hollow salt years ago.",
+      "new": "His brother had warned about hollow salt years before his death."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 21,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：退休礦工在兄長墓前作證，兄長多年前曾警告空鹽危險。",
+      "new": "原文證據（第 1 段）：a retired miner gave testimony beside the grave of his brother, who had warned about hollow salt years ago.\n中譯對照：退休礦工在兄長墓前作證，兄長多年前曾警告空鹽危險。\n正確選項：His brother had warned about hollow salt years before his death."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 22,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the River Council Hall?",
+      "new": "What evidence did the River Council compare during its hearing?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 22,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating the final hearing compared invoices, samples, medical records, and firsthand testimony.",
+      "new": "Invoices, samples, medical records, and firsthand testimony."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 22,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：最終聽證比對發票、樣本、醫療紀錄與第一手證詞。",
+      "new": "原文證據（第 1 段）：the final hearing compared invoices, samples, medical records, and firsthand testimony.\n中譯對照：最終聽證比對發票、樣本、醫療紀錄與第一手證詞。\n正確選項：Invoices, samples, medical records, and firsthand testimony."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 23,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Hundred-Bowl Square?",
+      "new": "What was the Hundred-Bowl Square rehearsal intended to test?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 23,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating cooks rehearsed serving a hundred people with allergies, mobility needs, and different food traditions.",
+      "new": "Serving people with allergies, mobility needs, and different food traditions."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 23,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：廚師們演練如何服務上百位有過敏、行動需求與不同飲食傳統的人。",
+      "new": "原文證據（第 1 段）：cooks rehearsed serving a hundred people with allergies, mobility needs, and different food traditions.\n中譯對照：廚師們演練如何服務上百位有過敏、行動需求與不同飲食傳統的人。\n正確選項：Serving people with allergies, mobility needs, and different food traditions."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 24,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the Lower Salt Vault?",
+      "new": "What happened at the Lower Salt Vault?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 24,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating an old support beam broke and black salt began spilling toward the canal.",
+      "new": "A broken support beam allowed black salt to spill toward the canal."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 24,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：舊支撐樑斷裂，黑鹽開始往運河流去。",
+      "new": "原文證據（第 1 段）：an old support beam broke and black salt began spilling toward the canal.\n中譯對照：舊支撐樑斷裂，黑鹽開始往運河流去。\n正確選項：A broken support beam allowed black salt to spill toward the canal."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 25,
+      "question": 1,
+      "field": "question",
+      "reason": "Rewrite chapter-specific comprehension question for natural English and accurate scene intent",
+      "changesAppliedNow": true,
+      "old": "What problem brought the two travelers to the reopened Lantern Quay?",
+      "new": "Why did seven ports gather at the reopened Lantern Quay?"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 25,
+      "question": 1,
+      "field": "correctOption",
+      "reason": "Replace ungrammatical correct answer; verify episode-specific details against the first bilingual paragraph",
+      "changesAppliedNow": true,
+      "old": "They were investigating seven ports brought clean ingredients to a feast after the repaired canal passed inspection.",
+      "new": "They brought clean ingredients for a feast after the repaired canal passed inspection."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 25,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Verify first quiz with source-quoted English and matched Chinese story evidence",
+      "changesAppliedNow": true,
+      "old": "因為他們在這裡調查：修復運河通過檢查後，七港帶著乾淨食材共赴宴席。",
+      "new": "原文證據（第 1 段）：seven ports brought clean ingredients to a feast after the repaired canal passed inspection.\n中譯對照：修復運河通過檢查後，七港帶著乾淨食材共赴宴席。\n正確選項：They brought clean ingredients for a feast after the repaired canal passed inspection."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 1,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：端出味道平淡的真實餐點並承認失敗，而不是兜售法術幻象。",
+      "new": "顧聞主張：端出味道平淡的真實餐點並承認失敗，而不是兜售法術幻象。\n原文證據（第 4 段）：Gu Wen proposed that they serve a plain meal and admit the failure instead of selling an enchanted illusion.\n中譯對照：顧聞提出：端出味道平淡的真實餐點並承認失敗，而不是兜售法術幻象。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 2,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：先把乾淨飲水送給受傷車夫，再詢問他的雇主。",
+      "new": "顧聞主張：先把乾淨飲水送給受傷車夫，再詢問他的雇主。\n原文證據（第 4 段）：Gu Wen proposed that they carry clean water to the injured driver before questioning his employer.\n中譯對照：顧聞提出：先把乾淨飲水送給受傷車夫，再詢問他的雇主。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 3,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：上游樣本尚未比對前，先不指控鹽倉主人。",
+      "new": "顧聞主張：上游樣本尚未比對前，先不指控鹽倉主人。\n原文證據（第 4 段）：Gu Wen proposed that they avoid accusing the storekeeper until the upstream samples could be compared.\n中譯對照：顧聞提出：上游樣本尚未比對前，先不指控鹽倉主人。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 4,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：公開失敗測試，但不羞辱只是遵照指示的年輕書記。",
+      "new": "顧聞主張：公開失敗測試，但不羞辱只是遵照指示的年輕書記。\n原文證據（第 4 段）：Gu Wen proposed that they show the failed public test without shaming the young clerk who had followed instructions.\n中譯對照：顧聞提出：公開失敗測試，但不羞辱只是遵照指示的年輕書記。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 5,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：優先讓孩童和長者吃飯，同時拒絕商人買斷供餐權。",
+      "new": "顧聞主張：優先讓孩童和長者吃飯，同時拒絕商人買斷供餐權。\n原文證據（第 4 段）：Gu Wen proposed that they feed children and elders first without allowing the merchant to purchase exclusive service.\n中譯對照：顧聞提出：優先讓孩童和長者吃飯，同時拒絕商人買斷供餐權。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 6,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：保護學徒的證詞，不拿它交換一場戲劇化指控。",
+      "new": "顧聞主張：保護學徒的證詞，不拿它交換一場戲劇化指控。\n原文證據（第 4 段）：Gu Wen proposed that they protect an apprentice's testimony rather than trade it for a dramatic accusation.\n中譯對照：顧聞提出：保護學徒的證詞，不拿它交換一場戲劇化指控。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 7,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：不因憤怒而摧毀機器，而要把它留作證據。",
+      "new": "顧聞主張：不因憤怒而摧毀機器，而要把它留作證據。\n原文證據（第 4 段）：Gu Wen proposed that they preserve the machine instead of destroying it in anger.\n中譯對照：顧聞提出：不因憤怒而摧毀機器，而要把它留作證據。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 8,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：讓每位工人用自己習慣的方式描述症狀。",
+      "new": "顧聞主張：讓每位工人用自己習慣的方式描述症狀。\n原文證據（第 4 段）：Gu Wen proposed that they let each worker describe the symptoms in a form they actually used.\n中譯對照：顧聞提出：讓每位工人用自己習慣的方式描述症狀。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 9,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：公開抄錄紀錄，不暗中偷走原件。",
+      "new": "顧聞主張：公開抄錄紀錄，不暗中偷走原件。\n原文證據（第 4 段）：Gu Wen proposed that they copy the record openly rather than sneak the original away.\n中譯對照：顧聞提出：公開抄錄紀錄，不暗中偷走原件。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 10,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：讓病患遠離暴露來源，卻不把他們隔離在照護之外。",
+      "new": "顧聞主張：讓病患遠離暴露來源，卻不把他們隔離在照護之外。\n原文證據（第 4 段）：Gu Wen proposed that they separate the ill from the source of exposure without isolating them from care.\n中譯對照：顧聞提出：讓病患遠離暴露來源，卻不把他們隔離在照護之外。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 11,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：聽取供詞，但不把恐懼直接當成有罪或無罪的證明。",
+      "new": "顧聞主張：聽取供詞，但不把恐懼直接當成有罪或無罪的證明。\n原文證據（第 4 段）：Gu Wen proposed that they hear the confession without treating fear as proof of innocence or guilt.\n中譯對照：顧聞提出：聽取供詞，但不把恐懼直接當成有罪或無罪的證明。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 12,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：帶著普通的湯參賽，解釋風險，不表演誤導人的奇蹟。",
+      "new": "顧聞主張：帶著普通的湯參賽，解釋風險，不表演誤導人的奇蹟。\n原文證據（第 4 段）：Gu Wen proposed that they enter with an ordinary soup and explain the risk instead of performing a misleading miracle.\n中譯對照：顧聞提出：帶著普通的湯參賽，解釋風險，不表演誤導人的奇蹟。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 13,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：只關閉受影響的排氣口，仍維持居民飲水。",
+      "new": "顧聞主張：只關閉受影響的排氣口，仍維持居民飲水。\n原文證據（第 4 段）：Gu Wen proposed that they close only the affected vents while keeping drinking water available.\n中譯對照：顧聞提出：只關閉受影響的排氣口，仍維持居民飲水。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 14,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：作證但不要求所有家庭公開私傳食譜。",
+      "new": "顧聞主張：作證但不要求所有家庭公開私傳食譜。\n原文證據（第 4 段）：Gu Wen proposed that they offer testimony without demanding that every household reveal its private recipes.\n中譯對照：顧聞提出：作證但不要求所有家庭公開私傳食譜。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 15,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：共享基本烹法，也讓每戶保有獨特調味。",
+      "new": "顧聞主張：共享基本烹法，也讓每戶保有獨特調味。\n原文證據（第 4 段）：Gu Wen proposed that they share a recipe while allowing each family to keep its unique seasoning.\n中譯對照：顧聞提出：共享基本烹法，也讓每戶保有獨特調味。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 16,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：拒絕收購，但不否定工人應得的勞動報酬。",
+      "new": "顧聞主張：拒絕收購，但不否定工人應得的勞動報酬。\n原文證據（第 4 段）：Gu Wen proposed that they reject the offer without denying workers their wages for real labor.\n中譯對照：顧聞提出：拒絕收購，但不否定工人應得的勞動報酬。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 17,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：讀出未完成的食譜，卻不公開私人姓名。",
+      "new": "顧聞主張：讀出未完成的食譜，卻不公開私人姓名。\n原文證據（第 4 段）：Gu Wen proposed that they read the unfinished pages aloud but keep the private names from public circulation.\n中譯對照：顧聞提出：讀出未完成的食譜，卻不公開私人姓名。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 18,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：先保護助手，但必須有紀錄才能談原諒。",
+      "new": "顧聞主張：先保護助手，但必須有紀錄才能談原諒。\n原文證據（第 4 段）：Gu Wen proposed that they offer the assistant protection but require records before offering forgiveness.\n中譯對照：顧聞提出：先保護助手，但必須有紀錄才能談原諒。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 19,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：讓新來者參與規劃，而不是只能安靜排隊。",
+      "new": "顧聞主張：讓新來者參與規劃，而不是只能安靜排隊。\n原文證據（第 4 段）：Gu Wen proposed that they let newcomers participate in planning rather than assign them a silent place in the queue.\n中譯對照：顧聞提出：讓新來者參與規劃，而不是只能安靜排隊。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 20,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：維持降溫站運作，即使公開試味必須延後。",
+      "new": "顧聞主張：維持降溫站運作，即使公開試味必須延後。\n原文證據（第 4 段）：Gu Wen proposed that they keep cooling stations running even if the public tasting had to be postponed.\n中譯對照：顧聞提出：維持降溫站運作，即使公開試味必須延後。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 21,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：留下兄長的貢獻，不把他的死亡當作戲劇性勝利的工具。",
+      "new": "顧聞主張：留下兄長的貢獻，不把他的死亡當作戲劇性勝利的工具。\n原文證據（第 4 段）：Gu Wen proposed that they record the brother's contribution without making his death a tool for dramatic victory.\n中譯對照：顧聞提出：留下兄長的貢獻，不把他的死亡當作戲劇性勝利的工具。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 22,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：要求修復經費，但將刑責認定交給獨立法院。",
+      "new": "顧聞主張：要求修復經費，但將刑責認定交給獨立法院。\n原文證據（第 4 段）：Gu Wen proposed that they demand repair funds while leaving criminal findings to a separate court.\n中譯對照：顧聞提出：要求修復經費，但將刑責認定交給獨立法院。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 23,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：改變供餐流程，而不是移除安全檢查。",
+      "new": "顧聞主張：改變供餐流程，而不是移除安全檢查。\n原文證據（第 4 段）：Gu Wen proposed that they change the serving system without removing the safety checks.\n中譯對照：顧聞提出：改變供餐流程，而不是移除安全檢查。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 24,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：先警告攤販撤離市橋，再嘗試艱難修復。",
+      "new": "顧聞主張：先警告攤販撤離市橋，再嘗試艱難修復。\n原文證據（第 4 段）：Gu Wen proposed that they warn the traders and evacuate the bridge before attempting a difficult repair.\n中譯對照：顧聞提出：先警告攤販撤離市橋，再嘗試艱難修復。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 25,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Add source-exact primary paragraph citation for correct decision in second comprehension question",
+      "changesAppliedNow": true,
+      "old": "顧聞主張：讓公共廚房由地方自治，拒絕新的獨占貿易。",
+      "new": "顧聞主張：讓公共廚房由地方自治，拒絕新的獨占貿易。\n原文證據（第 4 段）：Gu Wen proposed that they keep the open kitchens locally governed and refuse another exclusive trade monopoly.\n中譯對照：顧聞提出：讓公共廚房由地方自治，拒絕新的獨占貿易。"
     }
   ],
   "notice": "This ledger records actual precise bilingual corrections. It is NOT 25-chapter signoff."
