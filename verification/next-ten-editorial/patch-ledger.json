@@ -4,7 +4,7 @@
     "scopeBooks": 10,
     "patchGroupsRecorded": 33,
     "quizPatchesRecorded": 103,
-    "patchGroupsAppliedThisRun": 29,
+    "patchGroupsAppliedThisRun": 25,
     "chaptersWithDocumentedRepairs": 29,
     "wholeBooksCertifiedByScript": 0
   },
@@ -1079,7 +1079,7 @@
       "chapter": 3,
       "paragraph": 4,
       "reason": "Turn appended unrelated target-word sentences into one waterfront safety scene involving vaccinations, apprentice ribbons, and guards",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "The children used slang words to describe guards without revealing names. An accurate investigation had to surpass the director's convenient version. Elsi said the blue thread could symbolize a river crossing. The ribbon was made of rough textile woven by the older apprentices. A delayed vaccine delivery had left the infirmary dangerously unprepared.",
@@ -1098,7 +1098,7 @@
       "chapter": 4,
       "paragraph": 4,
       "reason": "Connect courthouse findings to storm-stranded neighbors and thermometer check rather than a five-sentence vocabulary dump",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "The superintendent promised to explain the missing approval signatures. A distant symphony drifted from a tavern where stranded musicians waited. The nurse read a thermometer before allowing the child downstairs. Floodwater added fresh turmoil to an already frightened neighborhood. Iona served wholesome soup to families who had missed two meals.",
@@ -1117,7 +1117,7 @@
       "chapter": 5,
       "paragraph": 4,
       "reason": "Make tenants, religious sermon, worker identity list and resentment grounded in same public hearing",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "Others could not hide resentment toward officials who had ignored them. The observatory quay looked serene while the court struggled with contradictory files. A traveling minister delivered a sermon about duty, then avoided questions. Workers refused to shuffle names between lists to satisfy quotas. A tenant showed Veyra a receipt proving that the land was occupied.",
@@ -1136,7 +1136,7 @@
       "chapter": 6,
       "paragraph": 4,
       "reason": "Integrate quarry marker, brutal supervisor and double-booked survey boats into falsified shipping ledger instead of vocabulary fragments",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "The guards followed a ruthless supervisor who punished questions. A sculptor had carved the quarry's boundary stone years ago. The plan's simplicity made it easier for residents to monitor. Two simultaneous survey boat trips appeared on a ledger showing only one vessel. Company revenue began to slump after the false amendment was exposed.",
