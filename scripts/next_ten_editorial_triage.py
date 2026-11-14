@@ -96,6 +96,7 @@ tot={'books':len(ids),'chapters':len(by_chapter),'paragraphPairs':sum(x['paragra
  'missingQuizEvidenceLabels':sum(x['quizQuestions']-x['explicitEvidenceInQuizExplanations'] for x in overview),
  'repeatedLongSentenceTypes':sum(x['crossChapterRepeatedLongSentenceTypes'] for x in overview),
  'booksFullyApprovedThisTriage':0,
+ 'booksWithValidExistingAIApprovals':sum(bid in already for bid in ids),
  'chaptersBelow500':sum(c['englishWords']<500 for c in by_chapter),
  'chaptersMissingTargetWords':sum(bool(c['missingTargets']) for c in by_chapter)}
 output={'schemaVersion':1,'scope':ids,'reviewType':'mechanical triage, NOT full bilingual reading','summary':tot,
@@ -104,11 +105,11 @@ outpath=ROOT/'verification/next-ten-editorial/triage-20261114.json'
 outpath.write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 md=['# StorySteps 第二批十本：250 章編輯驗收前問題清單','','**此報告為規格與重複檢查，不能替代英文全文、中文翻譯、劇情及測驗的 AI 編輯審閱。**',
  f"選定 {tot['books']} 本，掃描 {tot['chapters']} 章、{tot['paragraphPairs']} 組英中段落、{tot['quizQuestions']} 題。",
- f"缺明確原文依據標記 {tot['missingQuizEvidenceLabels']} 題（不表示答案必然錯）；跨章重複長句 {tot['repeatedLongSentenceTypes']} 類。",
+ f"缺明確原文依據標記 {tot['missingQuizEvidenceLabels']} 題（不表示答案必然錯）；跨章重複長句 {tot['repeatedLongSentenceTypes']} 類。",f"另有 {tot['booksWithValidExistingAIApprovals']} 本持有已核准且由另外的五關檢查程序驗證的 AI 全文校訂證明；本掃描不產生或取代這些核准。",
  '','| 書名 | 最少英文詞 | 跨章相同長句種類 | 英中段落 | 測驗有原文依據標記 | 全文簽核 |',
  '|---|---:|---:|---:|---:|---|']
 for b in overview:
- md.append(f"| {b['title']} | {b['chapterMinimumEnglishWords']} | {b['crossChapterRepeatedLongSentenceTypes']} | {b['paragraphPairs']} | {b['explicitEvidenceInQuizExplanations']}/{b['quizQuestions']} | 待完成 |")
-md.extend(['','沒有整本小說因為通過自動規格檢查而被授予全文校訂認證。','檢視逐章錯誤與來源 Hash：[triage-20261114.json](triage-20261114.json)'])
+ md.append(f"| {b['title']} | {b['chapterMinimumEnglishWords']} | {b['crossChapterRepeatedLongSentenceTypes']} | {b['paragraphPairs']} | {b['explicitEvidenceInQuizExplanations']}/{b['quizQuestions']} | {'GPT-6 AI 全文五關已簽核（非真人）' if b['id'] in already else '仍待全文校訂'} |")
+md.extend(['','沒有整本小說因為本次自動規格檢查而取得全文校訂認證；既有證明由獨立的逐章 AI 校訂紀錄與 SHA 驗證產生。','檢視逐章錯誤與來源 Hash：[triage-20261114.json](triage-20261114.json)'])
 (ROOT/'verification/next-ten-editorial/README.md').write_text('\n'.join(md)+'\n',encoding='utf-8')
 print('NEXT_TEN_TRIAGE',json.dumps(tot,ensure_ascii=False))
