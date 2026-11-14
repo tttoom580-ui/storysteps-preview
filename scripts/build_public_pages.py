@@ -1,7 +1,9 @@
 """Build public, crawlable book pages and the first five free bilingual chapters."""
 from pathlib import Path
 import json,gzip,re,html,posixpath,xml.etree.ElementTree as ET
-R=Path(__file__).resolve().parents[1];P=R/'public';BASE='https://tttoom580-ui.github.io/storysteps-preview/';PUB='ca-pub-9154967510584289';ADS_ENABLED=False # No automatic Google ads.\nRUM_TOKEN='39932ea1057a4fb79b7e707e0b028e6b' # non-secret Cloudflare Web Analytics site token\nRUM_BEACON='<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=\'{"token":"'+RUM_TOKEN+'"}\'></script>'
+R=Path(__file__).resolve().parents[1];P=R/'public';BASE='https://tttoom580-ui.github.io/storysteps-preview/';PUB='ca-pub-9154967510584289';ADS_ENABLED=False # No automatic Google ads.
+RUM_TOKEN='39932ea1057a4fb79b7e707e0b028e6b' # non-secret Cloudflare Web Analytics site token
+RUM_BEACON='<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=\'{"token":"'+RUM_TOKEN+'"}\'></script>'
 cat=json.loads((P/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'));cat=[b for b in cat if b.get('readable',True)];manifest=json.loads((P/'content-manifest.json').read_text());urls=[]
 esc=lambda s:html.escape(str(s),quote=True)
 def href(path):return BASE+path
@@ -18,7 +20,8 @@ def page(path,title,body,description='',advertising=False,schema=None):
   if book and book.get('series'):
    body+='<section class="note"><h2>系列進度</h2><p>目前已上架第一卷，共 25 章。第 2 卷尚未公告日期；本站不把規劃中的卷數計入可讀內容。</p></section>'
  if ADS_ENABLED and advertising:extra=f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={PUB}" crossorigin="anonymous"></script>'
- extra+=RUM_BEACON\n if schema:extra+='<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'</script>'
+ extra+=RUM_BEACON
+ if schema:extra+='<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'</script>'
  out=f'<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}｜拾頁 StorySteps</title><meta name="description" content="{esc(description or title)}"><meta name="google-adsense-account" content="{PUB}"><link rel="canonical" href="{canonical}"><link rel="stylesheet" href="{posixpath.relpath("public-reading.css",str(Path(path).parent))}">{extra}</head><body><header>{link("", "拾頁 StorySteps")}{nav}</header><main>{body}</main><footer><p>依自己的步調閱讀。前 5 章可直接閱讀；互動版提供查詞、收藏、朗讀與後續免費解鎖。</p>{nav}<p>© 2026 StorySteps · AI 輔助創作與翻譯 · 校訂狀態請見各書說明</p></footer></body></html>'
  p=P/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(out)
 chapters={b['id']:json.loads(gzip.decompress((P/manifest['books'][b['id']]['url']).read_bytes())) for b in cat}
@@ -80,7 +83,9 @@ privacy=privacy.replace('<main>','<main><section class="note"><h2>2026 年 11 �
 
 # The app replaces this ordinary, visible fallback after loading. The same book URLs remain linked in the app.
 fallback=f'<section class="crawl-home"><h1>拾頁 StorySteps：讀故事學英文</h1><p>{len(cat)} 本分級英文故事，前 5 章英中對照免費閱讀。</p>'+nav+'<ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat)+'</ul></section>'
-p=R/'index.html';s=p.read_text();s=re.sub(r'拾頁 StorySteps — \d+ 本分級英文小說',f'拾頁 StorySteps — {len(cat)} 本分級英文小說',s);s=re.sub(r'<div id="root">.*?</div>(?=<script src=)',lambda m:'<div id="root">'+fallback+'</div>',s,flags=re.S);s=s.replace('</head>','<link rel="canonical" href="'+BASE+'"></head>') if 'rel="canonical"' not in s else s;s=s.replace('</head>',RUM_BEACON+'</head>') if RUM_TOKEN not in s else s\np.write_text(s)\nnamespace='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',namespace);sm=ET.Element('{'+namespace+'}urlset')
+p=R/'index.html';s=p.read_text();s=re.sub(r'拾頁 StorySteps — \d+ 本分級英文小說',f'拾頁 StorySteps — {len(cat)} 本分級英文小說',s);s=re.sub(r'<div id="root">.*?</div>(?=<script src=)',lambda m:'<div id="root">'+fallback+'</div>',s,flags=re.S);s=s.replace('</head>','<link rel="canonical" href="'+BASE+'"></head>') if 'rel="canonical"' not in s else s;s=s.replace('</head>',RUM_BEACON+'</head>') if RUM_TOKEN not in s else s
+p.write_text(s)
+namespace='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',namespace);sm=ET.Element('{'+namespace+'}urlset')
 for path in ['']+urls:
  u=ET.SubElement(sm,'{'+namespace+'}url');ET.SubElement(u,'{'+namespace+'}loc').text=href(path)
 (P/'sitemap.xml').write_bytes(ET.tostring(sm,encoding='utf-8',xml_declaration=True))
