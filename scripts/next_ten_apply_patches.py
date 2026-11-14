@@ -84,6 +84,24 @@ for bid,changes in work.items():
   edited.add(ci)
   allrecs.append({'book':bid,'chapter':ci+1,'question':qi+1,'field':field,'reason':qedit['reason'],
                   'changesAppliedNow':quiz_changed,'old':old,'new':new})
+ if bid=='import-third-gate':
+  for ci,c in enumerate(chapters):
+   # Remove leaked manuscript export metadata from the actual English prose,
+   # including the quiz question and explanation when they copied it.
+   first=c['paragraphs'][0]['en']
+   marker='｜英文正文 '
+   if marker in first and first.startswith(c['title']+marker):
+    line,separator,body=first.partition('\\n\\n')
+    if not separator or '｜目標新詞 ' not in line:
+     raise ValueError('Unrecognised header leakage in '+bid+' ch '+str(ci+1))
+    c['paragraphs'][0]['en']=body
+    for q in c['questions']:
+     q['question']=q['question'].replace(line+'\\n\\n','')
+     q['explanation']=q['explanation'].replace(line+'\\n\\n','')
+    edited.add(ci)
+    changed=True
+    allrecs.append({'book':bid,'chapter':ci+1,'kind':'remove_export_metadata','changesAppliedNow':True,'before':line,
+       'after':'removed leaked internal chapter title, word count and vocabulary count from readable prose/quiz evidence'})
  for ci in edited:
   ch=chapters[ci]
   english=' '.join(p['en'] for p in ch['paragraphs'])
