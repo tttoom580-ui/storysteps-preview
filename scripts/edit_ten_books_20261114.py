@@ -61,6 +61,7 @@ for bid in ids:
     edits_for_book=[p for p in plan['changes'] if p['book']==bid]
     quiz_for_book=[p for p in plan['quizChanges'] if p['book']==bid]
     touched=set()
+    evidence_count=0
     for p in edits_for_book:
         number=p['chapter']
         assert 1<=number<=25
@@ -114,6 +115,8 @@ for bid in ids:
         if missing:raise ValueError(f'{bid} chapter {i+1}: missing target words {missing}')
         if len(c['questions'])<2:raise ValueError(f'{bid} chapter {i+1}: too few quizzes')
         for q in c['questions']:
+            if '原文證據' in q.get('explanation','') or '校訂核對' in q.get('explanation',''):
+                evidence_count+=1
             if not 0<=q['answer']<len(q['options']) or len(q['options'])!=3 or len(set(o.strip().casefold() for o in q['options']))!=3:
                 raise ValueError(f'{bid} chapter {i+1}: invalid quiz')
         if any(not p['en'].strip() or not p['zh'].strip() for p in c['paragraphs']):
@@ -149,6 +152,8 @@ for bid in ids:
         'bilingualPatchGroups':len(edits_for_book),'quizzesCorrected':len(quiz_for_book),
         'minimumEnglishWords':min(len(words(' '.join(p['en'] for p in c['paragraphs']))) for c in ch),
         'minimumTargetWords':min(len(c['words']) for c in ch),
+        'quizzesWithExplicitTextEvidence':evidence_count,
+        'quizzesMissingExplicitTextEvidence':sum(len(c['questions']) for c in ch)-evidence_count,
         'crossChapterRepeatedLongSentences':len(cross),
         'reuseCandidates':cross[:50], 'wholeBookFiveGateApproved':False,
         'remainingWork':'逐章劇情與跨章差異、逐段英文與英中語意、全部測驗答案人工語意核對'})
@@ -159,6 +164,7 @@ summary={'booksInScope':10,'chaptersStructurallyChecked':len(chapters_scanned),
          'bilingualPatchGroupsDocumented':len(applied),'quizzesVerified':len(quiz_edits),'quizzesRevisedNow':sum(not q.get('alreadyApplied',False) for q in quiz_edits),
          'totalTargetWordsChecked':sum(c['targetWords'] for c in chapters_scanned),
          'totalQuizzesStructurallyChecked':sum(c['quizCount'] for c in chapters_scanned),
+         'quizzesMissingExplicitTextEvidence':sum(b['quizzesMissingExplicitTextEvidence'] for b in reports),
          'chaptersWithDocumentedRepairs':sum(len(b['chaptersModifiedThisPass']) for b in reports),
          'booksWithCrossChapterReuseCandidates':sum(b['crossChapterRepeatedLongSentences']>0 for b in reports),
          'wholeBooksFullyEdited':0}
@@ -166,7 +172,7 @@ audit={'date':plan['reviewDate'],'editor':plan['reviewer'],'scope':'10 selected 
        'warning':'No whole book has passed the five complete editorial gates. Mechanical word/target/quiz checks are not proof of English fluency, plot continuity, bilingual correctness, or answer truth.',
        'summary':summary,'books':reports,'changes':applied,'quizChanges':quiz_edits,'chapterStructuralChecks':chapters_scanned}
 RESULT.write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-md=['# StorySteps 十本免費作品校訂進度','','本輪工作：十本共 250 章執行結構與跨章長句掃描；針對讀過的具體問題進行英中對照修訂與測驗修正。**這不是十本全文校訂完成。**','','## 五關完成標準','','1. 各章情節與跨章雷同人工審核','2. 全文自然英文、角色與時間線逐段修正','3. 全文英中語意逐段核對','4. 各章至少 500 詞、20 目標詞；所有測驗答案核實','5. 25 章全部通過，並保留可檢驗證據後才更新「全文已校訂」','','## 本輪檢查','','- 結構掃描：250 章','- 已執行英中片段改寫：'+str(summary['bilingualPatchGroupsDocumented'])+' 組（已驗證）','- 已修正測驗題：'+str(summary['quizzesVerified'])+' 題（已驗證）','- 完整通過五關的書籍：0 本','','| 書名 | 英文最短章詞數 | 重用長句待審 | 本輪修改章節 | 整本五關 |','|---|---:|---:|---|---|']
+md=['# StorySteps 十本免費作品校訂進度','','本輪工作：十本共 250 章執行結構與跨章長句掃描；針對讀過的具體問題進行英中對照修訂與測驗修正。**這不是十本全文校訂完成。**','','## 五關完成標準','','1. 各章情節與跨章雷同人工審核','2. 全文自然英文、角色與時間線逐段修正','3. 全文英中語意逐段核對','4. 各章至少 500 詞、20 目標詞；所有測驗答案核實','5. 25 章全部通過，並保留可檢驗證據後才更新「全文已校訂」','','## 本輪檢查','','- 結構掃描：250 章','- 已執行英中片段改寫：'+str(summary['bilingualPatchGroupsDocumented'])+' 組（已驗證）','- 已修正測驗題：'+str(summary['quizzesVerified'])+' 題（已驗證）','- 尚缺逐題明確原文證據標記：'+str(summary['quizzesMissingExplicitTextEvidence'])+' 題（此數字不等於答案一定錯誤）','- 完整通過五關的書籍：0 本','','| 書名 | 英文最短章詞數 | 重用長句待審 | 本輪修改章節 | 整本五關 |','|---|---:|---:|---|---|']
 for b in reports:
     md.append(f"| {b['title']} | {b['minimumEnglishWords']} | {b['crossChapterRepeatedLongSentences']} | {', '.join(map(str,b['chaptersModifiedThisPass'])) or '—'} | 未完成 |")
 md.extend(['','完整稽核與每處修訂證據：[ten-book-progress-20261114.json](ten-book-progress-20261114.json)','', '請勿將「結構檢查通過」當作完整文學校訂認證。'])
