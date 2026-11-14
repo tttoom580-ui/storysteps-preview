@@ -51,7 +51,7 @@
         ],
         [
           "Yan put an empty metal cell on the table.",
-          "Yan put a charged battery cell on the table."
+          "Yan put an empty battery holder and a charged cell on the table."
         ]
       ],
       "chinese": [
@@ -61,7 +61,7 @@
         ],
         [
           "嚴把一個空的金屬電池槽放在桌上。",
-          "嚴把一顆已有電力的電池放在桌上。"
+          "嚴把一個空電池座與一顆有電的電池放在桌上。"
         ]
       ]
     },
@@ -98,6 +98,42 @@
         [
           "下午，法院的最終裁定送到了。它確認公開用水協議與共同安全委員會，也要求山門保留遭修改的紀錄供查閱。",
           "下午，法院正式送達書面判決，確認先前聽證會已宣告的決定。判決維持公開用水協議與共同安全委員會，也要求山門保留遭修改的紀錄供查閱。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r2-l2-a",
+      "chapter": 10,
+      "paragraph": 1,
+      "reason": "Mei counts everyone in audit group, including herself and the clerk",
+      "english": [
+        [
+          "There were two council members, Director Lin, Captain Su, Han, Rui, and three village witnesses.",
+          "There were two council members, Director Lin, Captain Su, Han, Rui, Mei, the clerk, and three village witnesses."
+        ]
+      ],
+      "chinese": [
+        [
+          "來的有兩名議員、林主任、蘇隊長、韓、睿，以及三名村民證人。",
+          "來的有兩名議員、林主任、蘇隊長、韓、睿、梅、書記，以及三名村民證人。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r2-l2-a",
+      "chapter": 25,
+      "paragraph": 1,
+      "reason": "Resolve return of spring in chapter 24 and first summer after repairs in chapter 25",
+      "english": [
+        [
+          "The first summer after the repairs began with a soft rain.",
+          "The summer after Rui received his repair certificate began with a soft rain."
+        ]
+      ],
+      "chinese": [
+        [
+          "修復後的第一個夏天，以柔和的雨開始。",
+          "睿取得維修證書後的那個夏天，以柔和的雨開始。"
         ]
       ]
     }
