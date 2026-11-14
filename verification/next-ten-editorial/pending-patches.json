@@ -334,6 +334,86 @@
           "消防主管阻止莉娜獨自爬進充滿濃煙的維修空間。莉娜參照舊圖，在檢查攝影機畫面上找到棕櫚樹符號的閥門，並指出確切位置。隔離通風系統、確認通道淨空後，受過訓練的工程師才以遠端操作打開閥門。水從天花板灑水器噴出，煙囪上方火勢逐漸減弱。諾亞歡呼著抱住莉娜，但所有人都留在安全線後，直到消防隊確認可以通行。"
         ]
       ]
+    },
+    {
+      "book": "import-two-histories",
+      "chapter": 18,
+      "paragraph": 4,
+      "reason": "Flashback is inserted after the confrontation starts; mark explicitly as earlier father advice rather than misleading present tense",
+      "english": [
+        [
+          "Before the confrontation, Yicheng's father gave him a lesson in the grammar of honest disagreement.",
+          "Yicheng remembered his father's advice from earlier that evening, before he and Zhaoyue had entered the theatre: a lesson in the grammar of honest disagreement."
+        ]
+      ],
+      "chinese": [
+        [
+          "對峙前，以誠父親教他「誠實爭論的文法」：",
+          "以誠想起今晚稍早、他與昭月進入戲院前，父親曾教他的「誠實爭論的文法」："
+        ]
+      ]
+    },
+    {
+      "book": "import-two-histories",
+      "chapter": 22,
+      "paragraph": 4,
+      "reason": "Remove paragraph chronology reversal: quiet theater capacity conversation happens before sabotage in paragraph 1, not after saboteur is captured",
+      "english": [
+        [
+          "As the intruder crossed the arch, Zhaoyue was speaking with an old woman about the theatre's capacity.",
+          "A few minutes before the intrusion, Zhaoyue had been speaking with an old woman about the theatre's capacity."
+        ],
+        [
+          "For a moment the room seemed peaceful, and neither noticed the shadow creep across the floor until Wenbo called out.",
+          "For a moment the room had seemed peaceful, and neither had noticed the shadow creeping across the floor. Only when Wenbo called out did Zhaoyue understand that someone had slipped beneath the arch."
+        ]
+      ],
+      "chinese": [
+        [
+          "闖入者穿過拱門時，昭月正和老婦人討論戲院容納人數，擔心想來的人太多。",
+          "闖入者出現前幾分鐘，昭月正和老婦人討論戲院容納人數，擔心想來的人太多。"
+        ],
+        [
+          "室內一度很平靜，直到文博大喊，才發現有影子正慢慢爬過地板。",
+          "室內原本十分平靜，兩人都沒留意到影子正慢慢爬過地板；直到文博大喊，昭月才明白有人從拱門下溜了進來。"
+        ]
+      ]
+    },
+    {
+      "book": "import-two-histories",
+      "chapter": 22,
+      "paragraph": 5,
+      "reason": "Clarify Yicheng repairing time-bridge radio is prior overnight flashback, not after the evening sabotage",
+      "english": [
+        [
+          "Yicheng had worked overnight repairing the radio connection between the two stages.",
+          "Earlier that morning, Yicheng had finished a night of repairing the radio connection between the two stages."
+        ]
+      ],
+      "chinese": [
+        [
+          "以誠熬夜修兩座舞臺之間的無線電連線，雙手痠痛，想睡卻被鐘聲節奏裡的細微差異困擾。",
+          "那天清晨，以誠才結束整夜修復兩座舞臺之間的無線電連線，雙手痠痛，想睡卻被鐘聲節奏裡的細微差異困擾。"
+        ]
+      ]
+    },
+    {
+      "book": "import-two-histories",
+      "chapter": 24,
+      "paragraph": 1,
+      "reason": "Earlier chapters describe immediate final simultaneous performance, not annual anniversary; remove unintroduced one-year temporal jump",
+      "english": [
+        [
+          "The annual gathering filled both theatres.",
+          "The long-planned public gathering filled both theatres."
+        ]
+      ],
+      "chinese": [
+        [
+          "一年一度的聚會同時充滿兩座戲院。",
+          "經過長久籌備的公開聚會，同時在兩個年代的戲院展開。"
+        ]
+      ]
     }
   ],
   "quizPatches": [
