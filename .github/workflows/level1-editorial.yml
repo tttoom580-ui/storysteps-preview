@@ -1,0 +1,55 @@
+name: Level 1 novels editorial sweep
+on:
+  push:
+    paths:
+      - 'scripts/level1_editorial_sweep.py'
+      - '.github/workflows/level1-editorial.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-level1-editorial
+  cancel-in-progress: false
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.13.1'
+      - name: Review all 375 chapters, apply reviewed bilingual corrections, verify release
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/level1_editorial_sweep.py
+          python3 scripts/check_editorial_certification.py
+          python3 scripts/audit_story_release.py
+          python3 scripts/audit_launch.py
+      - name: Publish reviewed changes and regenerate public pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          npm install --no-audit --no-fund
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/level1_editorial_sweep.py
+            python3 scripts/check_editorial_certification.py
+            npm run build
+            git add -A public/books public/catalog.js public/content-manifest.json public/level1-editorial-progress.html verification/level1 docs
+            if git diff --cached --quiet; then
+              echo "Level 1 review already current."
+              exit 0
+            fi
+            git commit -m 'editorial: level 1 bilingual repairs and 375-chapter QA [skip ci]'
+            if git push origin HEAD:main; then
+              echo "Published Level 1 revisions after build checks."
+              exit 0
+            fi
+            echo "Remote advanced; retrying from latest main."
+          done
+          exit 1
