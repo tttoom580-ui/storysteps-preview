@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "summary": {
     "scopeBooks": 10,
-    "patchGroupsRecorded": 8,
-    "patchGroupsAppliedThisRun": 1,
-    "chaptersWithDocumentedRepairs": 6,
+    "patchGroupsRecorded": 10,
+    "patchGroupsAppliedThisRun": 2,
+    "chaptersWithDocumentedRepairs": 8,
     "wholeBooksCertifiedByScript": 0
   },
   "changes": [
@@ -154,7 +154,7 @@
       "chapter": 24,
       "paragraph": 1,
       "reason": "Explain that Ron's replacement train departs late enough for same-day station visit and subsequent town errands",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "On the day Ron left for his contract, an airline delay changed his travel plan, so he took the train instead. Lian met him at the station to check the changed booking, where a cheerful volunteer helped visitors find the correct platform.",
@@ -165,6 +165,44 @@
         [
           "羅恩出發做外地合約那天，航空公司延誤改變了行程，他最後改搭火車。黎安先到車站陪他確認改票，一位開朗志工正在協助旅客找月台。",
           "羅恩原定出發外地合約工作的那天，航空公司延誤迫使他改搭下午晚些時候的火車。黎安早上先陪他到車站確認改票，一位開朗志工正在協助旅客找正確月台。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 13,
+      "paragraph": 3,
+      "reason": "Conference was established in outdoor school garden, then chapter unexpectedly mentions a warm indoor hall: add clear relocation before the student's medical emergency",
+      "changesAppliedNow": true,
+      "englishBeforeAfter": [
+        [
+          "The conference paused when a student fainted in the warm hall.",
+          "When the afternoon sun grew too strong, organizers moved the conference from the school garden into the nearby hall. The discussion paused when a student fainted in the warm room."
+        ]
+      ],
+      "chineseBeforeAfter": [
+        [
+          "會議期間，一名學生在溫暖的大廳昏倒。",
+          "午後陽光愈來愈強，主辦者將會議從學校花園移到旁邊的室內大廳。討論暫停時，一名學生在悶熱的室內昏倒。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 23,
+      "paragraph": 2,
+      "reason": "Clarify nursery is childcare site that also keeps plant seedlings; avoid readers thinking a plant nursery housed evacuated children",
+      "changesAppliedNow": true,
+      "englishBeforeAfter": [
+        [
+          "muddy water entered a nursery near the southern monument. Workers lifted small plants off the floor, but the children had already been moved to an upper shelter.",
+          "muddy water entered a childcare nursery near the southern monument. Workers lifted seedlings from the children's indoor garden off the floor, while the children had already been moved to an upper shelter."
+        ]
+      ],
+      "chineseBeforeAfter": [
+        [
+          "泥水流進南方紀念碑旁的托兒所。工人把盆栽抬離地面，孩子們則已轉到上層避難所。",
+          "泥水流進南方紀念碑旁的托兒所。工人先把孩子們室內小花圃的幼苗抬離地面；孩子們早已轉往樓上的避難所。"
         ]
       ]
     }
