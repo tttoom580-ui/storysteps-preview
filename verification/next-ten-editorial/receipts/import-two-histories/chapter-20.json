@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 20,
+  "chapterId": "import-two-histories-20",
+  "sourceChapterSha256": "1a654dd8a26d0b5fc239000977e7b90316c89500d789967b76a8fafd6ee723da",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "偵探帶來雙尾鳥信差遺留書信，家屬與志工補足路線和失蹤排序，揭開黃家強奪鐘匠工作坊並造謠的歷史。",
+    "previousChapterEndingEnglish": "At the first meeting, some witnesses could not recall the details they had once known. Others remembered different versions of the same event. Instead of forcing agreement, the investigators recorded the differences. Yicheng had learned that resemblance was not identity, and memory was not perfect evidence by itself. Zhaoyue wrote these principles on the wall in plain language. She had traveled fifty years and returned with a philosophy smaller but firmer than any grand theory: ask carefully, record honestly, and leave room for another person's voice. Even Xu, watching under guard, could not deny that the meeting had begun.",
+    "nextChapterOpeningEnglish": "The final performance would take place simultaneously in both years. Zhaoyue prepared the 1895 stage while Yicheng organized the 1945 hall. Their plan consisted of three parts: a reading of verified names, a chorus based on the clockmaker's tune, and a public explanation of how the records had been altered. The project required concentration and creativity, not weapons or arms. Some volunteers were disgusted by Huang's lies and wanted to exaggerate his crimes. Zhaoyue refused. “Our objective is to prove what happened,” she said. “If we invent one detail, we give people a reason to doubt the rest.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A private detective arrived at the school hall carrying a battered suitcase. He had been hired by a carrier whose father disappeared while delivering letters between towns. The detective's license was valid, but he insisted that paper authority meant little without careful listening. He wore a ridiculous costume from an amateur play, explaining that it had helped him enter the theatre unnoticed. Zhaoyue found the disguise funny until he opened his case and produced a greasy notebook full of testimony. It contained the same bird symbol, drawn beside dozens of names. The missing carrier had been one of the clock's earliest messengers.",
+        "zh": "一名私家偵探提著破舊手提箱來到學校禮堂。 雇用他的是位運送貨物的人，其父親多年以前在城鎮間遞信時失蹤。偵探有合法執照，卻說紙上權威若缺少傾聽，便沒有意義。他穿著業餘劇團的滑稽戲服，說這樣才得以不被注意地進戲院。昭月本覺得好笑，直到他打開箱子，拿出一本油膩膩、寫滿證詞的筆記。數十個名字旁都有雙尾鳥符號，失蹤信差正是銅鐘最早的一批傳訊者。",
+        "englishSha256": "3b4e4173bee39e2671014c55a0a2d2b9064ef0212a829aa21a05fed31ad20a94",
+        "chineseSha256": "336630cbbc81ed96529998afb7eff36e50e479bca131654b75fff44f708f42b1"
+      },
+      {
+        "number": 2,
+        "en": "The notebook contained diverse voices: a beggar who had sheltered children during a flood, a pioneer who had opened a clinic, and a literary teacher who copied letters for people unable to write. Their popularity varied, but their loyalty to neighbors was clear. Some entries expressed frustration with authorities; others defended officials who had acted bravely. There was no single simple story. Furthermore, several witnesses refused to make their names public. The group had to respect their privacy. Zhaoyue kept those accounts in a sealed folder, understanding that telling the truth did not require violating every personal boundary.",
+        "zh": "筆記收錄多種聲音：一名洪水時收留孩子的乞丐、一位創辦診所的先驅，以及替不識字者抄信的文學老師。 這些人的名氣不同，對鄰人的忠誠卻很清楚。有些紀錄表達對官員的挫折感，另一些則替勇敢做事的官員說話。歷史不是單一說法。另外，有些見證者拒絕公開姓名，眾人必須尊重隱私。昭月把這些資料封存，明白說真話不代表可以侵犯每一個人的界線。",
+        "englishSha256": "abf795bdf248055c6315668264e799cb46428c2f641f2299e3dcc644db9f6a61",
+        "chineseSha256": "20d35d142a3a948293f7adb4fa05e8df5b6979946a767a5ee552eba624198138"
+      },
+      {
+        "number": 3,
+        "en": "Yicheng used the radio to communicate with the detective's contacts. They composed a short announcement inviting anyone with relevant letters to come forward. At first the room remained tense. People feared retaliation, and the memory of earlier refusals made them cautious. Then an elderly woman arrived with a bundle of correspondence she had obtained from her mother's belongings. She placed the letters on the table and asked for nothing in return. Other visitors followed. By evening, the investigators had enough material to identify the first generation of messengers and the order in which they vanished.",
+        "zh": "以誠用無線電與偵探的聯絡人溝通。 大家寫了一段簡短公告，邀請持有相關信件的人提供資料。起初氣氛很緊張，居民怕遭報復，也記得以往求助受拒。接著一位老婦人帶著從母親遺物裡找到的書信而來，放下文件，什麼也不求。更多人接著出現。傍晚，調查者已有足夠材料，辨認第一代傳訊者，以及他們先後消失的順序。",
+        "englishSha256": "069040b072b7044322468122985b1f23abaf6c1f98c36ad1b56301acbb0352d5",
+        "chineseSha256": "1b1b9fc2a8885f3038480d99f33d0a7d3ac491d9e251e7af10e0f7a39eb3d68d"
+      },
+      {
+        "number": 4,
+        "en": "The detective had practiced communication by listening to people who did not speak easily. Some witnesses were angry and hurried; others needed long silences before they could recall a detail. He never treated pauses as proof of dishonesty. During the investigation, he asked the carrier's family to describe an ordinary afternoon with the missing father rather than the day of his disappearance. The result was unexpected. They remembered his favorite song, the sound of his cough, and the way he tied parcels. Those memories supplied clues about the routes he traveled and the people he trusted.",
+        "zh": "偵探長年練習溝通，特別擅長聽不容易說話的人。有的證人生氣、語速快，有的需要沉默很久才想起細節；他從不把停頓當成說謊的證明。調查時，他要信差家人描述父親還在家的一個普通下午，而非失蹤那天。結果出人意料：大家想起他最喜歡的歌、咳嗽聲和綁包裹方式。這些回憶反而提供他走過的路線與信任之人的線索。",
+        "englishSha256": "d307278b4d06f99bf0b9a7fdb48855e284dc21b29363947fd47dfac151c2f08f",
+        "chineseSha256": "3647e5f4d14abfd06318103cc12aeb2dc0dbb33be7612c7e42ae99c13a79c649"
+      },
+      {
+        "number": 5,
+        "en": "Zhaoyue watched the detective arrange the evidence on the floor. No single letter was dramatic, but together they formed a path from the market to the theatre. She recognized the route Wenbo had drawn weeks earlier, before either had understood the clock. History was beginning to look less like a collection of grand speeches and more like the ordinary movement of people carrying food, medicine, and news. She wished she could thank every person whose quiet work had kept someone else alive. The detective smiled at her serious expression. “You don't have to find them all today,” he said. “Just don't stop looking.”",
+        "zh": "昭月看偵探在地板排列證據。單封信都不戲劇化，拼起來卻形成從市場到戲院的路，正是數週前文博畫過的路線，當時他們還不懂銅鐘。歷史看起來不再是宏大的演說，而是人們搬運食物、藥品與消息的平凡移動。她很想向所有默默使別人活下來的人道謝。偵探看她認真，微笑說：「不必今天全找到，只要別停止找。」",
+        "englishSha256": "ecdcce407652b59bf286e59304b01a15d1ca02e250c6d4ee9c34681a2d17bf01",
+        "chineseSha256": "ba6c2f2c3ee08324ed5dae68754b72635729443dd03552c478a1c16a6a1eff89"
+      },
+      {
+        "number": 6,
+        "en": "At the door, the detective asked them to preserve the order of the letters exactly as they had been found. A later reader might notice a pattern everyone present had missed. That possibility was worth the extra effort.",
+        "zh": "門口偵探請大家保留信件原本的排列順序。後來的讀者也許會察覺在場所有人都漏掉的規律，多費一點功夫值得。",
+        "englishSha256": "04e71632a56e949037fe99461f5e96167fa6568117a36245c23ed73a24bad8e8",
+        "chineseSha256": "a7d31996a4cd389ea552dfedc129f20955c1282bd844fb1b33014f913094f6d7"
+      },
+      {
+        "number": 7,
+        "en": "The detective revealed one final clue. In 1895, Huang's family had planned to withdraw support from the clockmaker unless given exclusive control of the device. When the clockmaker refused, the family seized his workshop and declared the messengers dishonest. The conspiracy had lasted fifty years because each new official inherited only part of the truth. “You cannot arrest an entire century,” the detective said. “But you can stop repeating its lie.” Outside the hall, the theatre's copper bell sounded once, clear and distant. For the first time, nobody looked afraid of the sound.",
+        "zh": "偵探最後說出一條關鍵線索。 1895年，黃家計畫撤回對鐘匠的支持，除非他交出裝置獨家控制權。鐘匠拒絕，黃家便奪走工作坊，宣稱傳訊者都是騙子。陰謀持續五十年，因為每任新官員都只接到部分真相。「你不能逮捕一整個世紀，」偵探說，「但可以停止重複它的謊。」禮堂外，銅鐘遠遠傳來一聲清亮的響。第一次，沒有人害怕那個聲音。",
+        "englishSha256": "8e73f7608ff6303df86a6ceb0654061f6707e589b8ba4f2f6efb3362ede1347d",
+        "chineseSha256": "5b5a7b289fc2853cfe78ff2de3d11b2612ce3e3762da3a25de3932acab4361c5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 624,
+    "targets": [
+      {
+        "word": "beggar",
+        "meaning": "乞丐",
+        "appearsInSource": true
+      },
+      {
+        "word": "carrier",
+        "meaning": "運送者",
+        "appearsInSource": true
+      },
+      {
+        "word": "communication",
+        "meaning": "溝通",
+        "appearsInSource": true
+      },
+      {
+        "word": "composed",
+        "meaning": "撰寫",
+        "appearsInSource": true
+      },
+      {
+        "word": "costume",
+        "meaning": "戲服",
+        "appearsInSource": true
+      },
+      {
+        "word": "detective",
+        "meaning": "偵探",
+        "appearsInSource": true
+      },
+      {
+        "word": "diverse",
+        "meaning": "多元的",
+        "appearsInSource": true
+      },
+      {
+        "word": "frustration",
+        "meaning": "挫折",
+        "appearsInSource": true
+      },
+      {
+        "word": "furthermore",
+        "meaning": "此外",
+        "appearsInSource": true
+      },
+      {
+        "word": "greasy",
+        "meaning": "油膩的",
+        "appearsInSource": true
+      },
+      {
+        "word": "license",
+        "meaning": "執照",
+        "appearsInSource": true
+      },
+      {
+        "word": "literary",
+        "meaning": "文學的",
+        "appearsInSource": true
+      },
+      {
+        "word": "loyalty",
+        "meaning": "忠誠",
+        "appearsInSource": true
+      },
+      {
+        "word": "obtained",
+        "meaning": "取得",
+        "appearsInSource": true
+      },
+      {
+        "word": "pioneer",
+        "meaning": "先驅",
+        "appearsInSource": true
+      },
+      {
+        "word": "popularity",
+        "meaning": "知名度",
+        "appearsInSource": true
+      },
+      {
+        "word": "privacy",
+        "meaning": "隱私",
+        "appearsInSource": true
+      },
+      {
+        "word": "refusals",
+        "meaning": "拒絕",
+        "appearsInSource": true
+      },
+      {
+        "word": "tense",
+        "meaning": "緊繃的",
+        "appearsInSource": true
+      },
+      {
+        "word": "withdraw",
+        "meaning": "撤回",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Detective and the Costume〉第 1 段的事件，哪個選項能正確補完整句？\nA private detective arrived at the school hall carrying ____.",
+      "options": [
+        "a reservation",
+        "a battered suitcase",
+        "a person disappear"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a battered suitcase",
+      "existingAnswerExplanation": "原文證據：A private detective arrived at the school hall carrying a battered suitcase.\n本段對照：一名私家偵探提著破舊手提箱來到學校禮堂。 雇用他的是位運送貨物的人，其父親多年以前在城鎮間遞信時失蹤。偵探有合法執照，卻說紙上權威若缺少傾聽，便沒有意義。他穿著業餘劇團的滑稽戲服，說這樣才得以不被注意地進戲院。昭月本覺得好笑，直到他打開箱子，拿出一本油膩膩、寫滿證詞的筆記。數十個名字旁都有雙尾鳥符號，失蹤信差正是銅鐘最早的一批傳訊者。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A private detective arrived at the school hall carrying a battered suitcase. He had been hired by a carrier whose father disappeared while delivering letters between towns. The detective's license was valid, but he insisted that paper authority meant little without careful listening. He wore a ridiculous costume from an amateur play, explaining that it had helped him enter the theatre unnoticed. Zhaoyue found the disguise funny until he opened his case and produced a greasy notebook full of testimony. It contained the same bird symbol, drawn beside dozens of names. The missing carrier had been one of the clock's earliest messengers.",
+          "chinese": "一名私家偵探提著破舊手提箱來到學校禮堂。 雇用他的是位運送貨物的人，其父親多年以前在城鎮間遞信時失蹤。偵探有合法執照，卻說紙上權威若缺少傾聽，便沒有意義。他穿著業餘劇團的滑稽戲服，說這樣才得以不被注意地進戲院。昭月本覺得好笑，直到他打開箱子，拿出一本油膩膩、寫滿證詞的筆記。數十個名字旁都有雙尾鳥符號，失蹤信差正是銅鐘最早的一批傳訊者。",
+          "matchedQueryTerms": 23
+        },
+        {
+          "paragraph": 5,
+          "english": "Zhaoyue watched the detective arrange the evidence on the floor. No single letter was dramatic, but together they formed a path from the market to the theatre. She recognized the route Wenbo had drawn weeks earlier, before either had understood the clock. History was beginning to look less like a collection of grand speeches and more like the ordinary movement of people carrying food, medicine, and news. She wished she could thank every person whose quiet work had kept someone else alive. The detective smiled at her serious expression. “You don't have to find them all today,” he said. “Just don't stop looking.”",
+          "chinese": "昭月看偵探在地板排列證據。單封信都不戲劇化，拼起來卻形成從市場到戲院的路，正是數週前文博畫過的路線，當時他們還不懂銅鐘。歷史看起來不再是宏大的演說，而是人們搬運食物、藥品與消息的平凡移動。她很想向所有默默使別人活下來的人道謝。偵探看她認真，微笑說：「不必今天全找到，只要別停止找。」",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Detective and the Costume〉第 5 段的事件，哪個選項能正確補完整句？\nShe recognized ____, before either had understood the clock.",
+      "options": [
+        "the people the photographer had nearly excluded",
+        "the things adults treated",
+        "the route Wenbo had drawn weeks earlier"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the route Wenbo had drawn weeks earlier",
+      "existingAnswerExplanation": "原文證據：She recognized the route Wenbo had drawn weeks earlier, before either had understood the clock.\n本段對照：昭月看偵探在地板排列證據。單封信都不戲劇化，拼起來卻形成從市場到戲院的路，正是數週前文博畫過的路線，當時他們還不懂銅鐘。歷史看起來不再是宏大的演說，而是人們搬運食物、藥品與消息的平凡移動。她很想向所有默默使別人活下來的人道謝。偵探看她認真，微笑說：「不必今天全找到，只要別停止找。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Zhaoyue watched the detective arrange the evidence on the floor. No single letter was dramatic, but together they formed a path from the market to the theatre. She recognized the route Wenbo had drawn weeks earlier, before either had understood the clock. History was beginning to look less like a collection of grand speeches and more like the ordinary movement of people carrying food, medicine, and news. She wished she could thank every person whose quiet work had kept someone else alive. The detective smiled at her serious expression. “You don't have to find them all today,” he said. “Just don't stop looking.”",
+          "chinese": "昭月看偵探在地板排列證據。單封信都不戲劇化，拼起來卻形成從市場到戲院的路，正是數週前文博畫過的路線，當時他們還不懂銅鐘。歷史看起來不再是宏大的演說，而是人們搬運食物、藥品與消息的平凡移動。她很想向所有默默使別人活下來的人道謝。偵探看她認真，微笑說：「不必今天全找到，只要別停止找。」",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 1,
+          "english": "A private detective arrived at the school hall carrying a battered suitcase. He had been hired by a carrier whose father disappeared while delivering letters between towns. The detective's license was valid, but he insisted that paper authority meant little without careful listening. He wore a ridiculous costume from an amateur play, explaining that it had helped him enter the theatre unnoticed. Zhaoyue found the disguise funny until he opened his case and produced a greasy notebook full of testimony. It contained the same bird symbol, drawn beside dozens of names. The missing carrier had been one of the clock's earliest messengers.",
+          "chinese": "一名私家偵探提著破舊手提箱來到學校禮堂。 雇用他的是位運送貨物的人，其父親多年以前在城鎮間遞信時失蹤。偵探有合法執照，卻說紙上權威若缺少傾聽，便沒有意義。他穿著業餘劇團的滑稽戲服，說這樣才得以不被注意地進戲院。昭月本覺得好笑，直到他打開箱子，拿出一本油膩膩、寫滿證詞的筆記。數十個名字旁都有雙尾鳥符號，失蹤信差正是銅鐘最早的一批傳訊者。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 2,
+  "chapterId": "import-two-histories-2",
+  "sourceChapterSha256": "0e5a522cd3f02fb678ebeba089944f95e6902f95b06e96f0103ff719ae114fe6",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "1945陳以誠在收音機店與昭月相遇，靠實物報紙辨識年代差；銅鐘送她回1895，留下異常的市政建築影像。",
+    "previousChapterEndingEnglish": "That evening she studied the clock's usage instructions, written on the back of an opera poster. The final line made no sense: When two endings share one hour, turn the minute hand against the light. At eleven fifty-nine, music began although no musicians were present. The stage lights flashed. The clock gave a single deep note, and the floor beneath Zhaoyue disappeared. For one breath she saw a different theatre with broken windows, strange electric lamps, and a boy in a white shirt reaching toward the very same clock. He seemed equally surprised. The poster in her hand became warm. Then her shoes touched a new floor, and the year outside was no longer 1895.",
+    "nextChapterOpeningEnglish": "Zhaoyue returned to 1895 just as the lamps in the theatre went dark. Wenbo was waiting behind a barrier of wooden chairs. “You were gone for one minute,” he said. “Where did you go?” She could only blink. The answer sounded impossible, even to herself. Then she noticed the notebook Yicheng had placed in her pocket. It smelled of mild soap and carried a page of unfamiliar handwriting. She wanted to evaluate it carefully, yet the urgent need in Wenbo's face made her stop. A family from the mountainous outskirts had arrived with news of another missing relative. There would be no time for private mysteries."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Taipei, 1945. Chen Yicheng repaired radios in a shop where every shelf leaned slightly to one side. His father had taught him to carve tiny initials into spare wooden parts, so customers could identify their property. A famous singer once left an autograph above the workbench, but war had reduced the ink to a ghostly stain. There was little convenience in their daily lives: paper was scarce, electricity unreliable, and the shop's timetable depended on whenever the street was safe. Yet Yicheng loved the sounds hidden inside broken machines. They gave him a way to imagine tomorrow.",
+        "zh": "臺北，1945年。 陳以誠在一間架子總是歪斜的店裡修理收音機。父親教他在備用木零件上刻下細小的名字縮寫，讓客人認得自己的東西。一位知名歌手曾在工作桌上留下簽名，然而戰爭歲月已把墨跡磨得模糊。日常生活談不上便利：紙張缺乏、供電不穩，店家的時間表只能隨街上安全與否調整。然而以誠熱愛故障機器裡的聲音，因為那些聲音讓他還能想像明天。",
+        "englishSha256": "2db19b66296023405499ccc76741b9973572baee4d23a87410e98788dc76fa97",
+        "chineseSha256": "9c1f4bf779086d7c55500e337019fa5878a6598cc394ede02b717c8802a0b416"
+      },
+      {
+        "number": 2,
+        "en": "A girl appeared in the abandoned theatre at midnight, wearing clothes that belonged in his grandmother's photographs. Her disguise was so poor that it could not have fooled a child. She looked at his shoes, the wires, and the light switch with open alarm. “Where is Wenbo?” she demanded. Yicheng made an initial remark about a costume performance, but stopped when she showed him a newspaper dated fifty years earlier. Its paper was fresh. Its ink stained his thumb. Outside, a distant explosive sound made her duck under a bench, although it was only a truck striking a damaged gate. He had seen enough cruelty during the war to recognize real terror, even when its cause was harmless.",
+        "zh": "午夜，一個女孩出現在廢棄戲院裡，身穿只會在祖母舊照片中見到的衣服。 她的偽裝實在太差，連小孩也騙不過。她驚慌地看著以誠的鞋子、電線與開關，開口就問：「文博在哪裡？」以誠本想說她是不是來演戲的，卻在看見那張日期早了五十年的報紙時住口。紙竟然還很新，墨水還會沾上他的拇指。外頭卡車撞上破門，傳來一聲像爆炸的巨響，女孩立刻縮到長椅下。歷經戰爭後，以誠認得真正的恐懼，即使造成恐懼的聲音其實無害。",
+        "englishSha256": "27406cddf62d6dc54181af8a16acc89e1049c467c2cd4a26bcba1cb8412b5323",
+        "chineseSha256": "db880631eaaba584b02c09992d2d34b5344f0c0561e570f628e41770f262fb74"
+      },
+      {
+        "number": 3,
+        "en": "A stray cat slipped through the doorway and placed one muddy paw on the paper. Zhaoyue laughed despite herself. The sound shifted something between them. Yicheng explained that he was the son of an immigrant family who had moved to Taipei long before his birth. She asked whether a prominent businessman named Huang still controlled the theatre. He did not know. She asked whether the city had prospered. “Sometimes,” he replied. “Not in every way.” He realized that knowledge of the future was a privilege, not a gift that could be used carelessly. He described the war only in broad terms, leaving out details that might ruin her ability to choose freely.",
+        "zh": "一隻流浪貓從門口溜進來，用沾滿泥的爪子踩在報紙上。 昭月忍不住笑了，兩人之間的氣氛也跟著改變。以誠說，自己的家族在他出生很久以前就移居臺北。昭月問戲院是否仍由黃姓富商控制，以誠不知道。她再問這座城後來繁榮了嗎？「有時候吧，」他說，「但不是每方面都好。」以誠突然明白，知道未來是一種特權，不能胡亂使用。他只概略談起戰爭，避開可能剝奪她自主選擇的細節。",
+        "englishSha256": "e819a8007d512549bae4405129aec0f7e6851b6652e8f22f9a162caf5735ee0f",
+        "chineseSha256": "4f844b2031186676c531cd38075ffd2439f5c5585808dfce4d0d7c76299400df"
+      },
+      {
+        "number": 4,
+        "en": "Yicheng's mother had once told him that fear did not arrive in the same shape for everyone. During the war, she feared the empty food jar; he feared the sound of aircraft; his father feared that a repair promised to a neighbor would remain unfinished. On ordinary days Yicheng dismissed these worries as the habits of exhausted adults. Seeing Zhaoyue panic at a harmless crash changed his understanding. He stopped judging how people expressed fear and began looking for what might help them feel safe. A cup of water, a clear explanation, and an open doorway were sometimes more useful than a speech about bravery.",
+        "zh": "以誠的母親曾說，每個人害怕的東西形狀不同。戰爭期間，母親怕米缸空了；他怕飛機聲；父親怕答應鄰居的修理永遠做不完。平常他把那些擔憂當成疲倦大人的習慣。看見昭月被無害撞擊嚇到，他才改變理解：與其評斷別人的恐懼如何表現，不如想什麼能讓對方安全。一杯水、清楚的解釋、沒有鎖住的門，有時比一篇鼓勵勇敢的演說更有用。",
+        "englishSha256": "b1609d51d66663a0f423b7d1b0d3f807482827ffe703f7c53e1d805681f936db",
+        "chineseSha256": "da2f30e93f01116d8f701c466fed8ecec6d9c4730d7924326a08770e40307064"
+      },
+      {
+        "number": 5,
+        "en": "He also understood that a machine could be repaired without fully explaining the reason it had failed. That was the difference between a mechanic and a person who pretended to know everything. The best mechanics described their guesses, tested them, and admitted when a result surprised them. Yicheng put a blank column in his notebook titled QUESTIONS. He filled it with strange details about Zhaoyue: her confidence with printing plates, her unfamiliarity with electric light, and the way she examined every newspaper headline as if the paper itself were a witness. He resolved not to erase a single question merely because the answer might be inconvenient.",
+        "zh": "他也明白，修好機器不代表完全知道故障原因。這正是真工匠和假裝無所不知者的不同。好工匠會說出推測、親自測試，結果出乎意料也願意承認。以誠在筆記本裡新開一欄，寫上「問題」。他記下昭月懂印刷版、卻不熟悉電燈，以及她讀每個報紙標題時彷彿把紙本身當證人的樣子。他決定不因答案可能麻煩，就擦掉任何一個問題。",
+        "englishSha256": "73d9ef59bab836b64971ab5438df815f356a82203628c0fe51d597df398a3df1",
+        "chineseSha256": "19ff9f8830c2c71303e357b861f3e2333064b3b4feee8130c3fed64b4ff3b824"
+      },
+      {
+        "number": 6,
+        "en": "The clock struck once more. A strip of elastic cloth stretched between two gears, although neither had touched it. On its surface appeared the words PREVENTION REQUIRES WITNESSES. Beneath them, another sentence warned that mischief with the clock could destroy two histories at once. Yicheng took the message seriously. He asked Zhaoyue for feedback on every symbol she recognized. She pointed to a mark shaped like a bird and said it belonged to the vanished clockmaker. When he tried to return her to her own time, both saw a flash of light and a second image: a ruined city hall, fifty years older than it should have been. Their first experiment had already changed something.",
+        "zh": "銅鐘再次敲響。 一條有彈性的布帶竟在沒有碰觸的情況下，拉伸於兩枚齒輪之間。上面浮出一行字：「預防災難，需要見證者。」下一句警告，若拿銅鐘胡鬧，兩段歷史都可能被毀滅。以誠認真看待這則訊息，請昭月辨認每一個符號。昭月指著一個鳥形記號，說那是失蹤鐘匠留下的標誌。當他試著送她回去時，兩人同時看到一道亮光，以及第二幅影像：一座比原本應有的樣貌老了五十年的市政建築。他們的第一次實驗，似乎已改變了什麼。",
+        "englishSha256": "10a23cfab58a460dd660c21a482733f790da230f40a86f403a7bb418f03e789e",
+        "chineseSha256": "98ffdddd90772faba506fd25e71aaefba6d2d0f71753c11f1eedc6cf6f50f2c5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 652,
+    "targets": [
+      {
+        "word": "autograph",
+        "meaning": "親筆簽名",
+        "appearsInSource": true
+      },
+      {
+        "word": "carve",
+        "meaning": "雕刻",
+        "appearsInSource": true
+      },
+      {
+        "word": "convenience",
+        "meaning": "便利",
+        "appearsInSource": true
+      },
+      {
+        "word": "cruelty",
+        "meaning": "殘酷",
+        "appearsInSource": true
+      },
+      {
+        "word": "disguise",
+        "meaning": "偽裝",
+        "appearsInSource": true
+      },
+      {
+        "word": "elastic",
+        "meaning": "有彈性的",
+        "appearsInSource": true
+      },
+      {
+        "word": "explosive",
+        "meaning": "爆炸性的",
+        "appearsInSource": true
+      },
+      {
+        "word": "feedback",
+        "meaning": "意見回饋",
+        "appearsInSource": true
+      },
+      {
+        "word": "immigrant",
+        "meaning": "移民",
+        "appearsInSource": true
+      },
+      {
+        "word": "initials",
+        "meaning": "最初的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mischief",
+        "meaning": "惡作劇",
+        "appearsInSource": true
+      },
+      {
+        "word": "paw",
+        "meaning": "爪子",
+        "appearsInSource": true
+      },
+      {
+        "word": "prevention",
+        "meaning": "預防",
+        "appearsInSource": true
+      },
+      {
+        "word": "privilege",
+        "meaning": "特權",
+        "appearsInSource": true
+      },
+      {
+        "word": "prominent",
+        "meaning": "知名的",
+        "appearsInSource": true
+      },
+      {
+        "word": "prospered",
+        "meaning": "繁榮",
+        "appearsInSource": true
+      },
+      {
+        "word": "remark",
+        "meaning": "言論",
+        "appearsInSource": true
+      },
+      {
+        "word": "ruin",
+        "meaning": "毀壞",
+        "appearsInSource": true
+      },
+      {
+        "word": "shifted",
+        "meaning": "轉變",
+        "appearsInSource": true
+      },
+      {
+        "word": "timetable",
+        "meaning": "時間表",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Boy from 1945〉第 2 段的事件，哪個選項能正確補完整句？\nShe looked at ____, the wires, and the light switch with open alarm.",
+      "options": [
+        "his signature",
+        "his book",
+        "his shoes"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "his shoes",
+      "existingAnswerExplanation": "原文證據：She looked at his shoes, the wires, and the light switch with open alarm.\n本段對照：午夜，一個女孩出現在廢棄戲院裡，身穿只會在祖母舊照片中見到的衣服。 她的偽裝實在太差，連小孩也騙不過。她驚慌地看著以誠的鞋子、電線與開關，開口就問：「文博在哪裡？」以誠本想說她是不是來演戲的，卻在看見那張日期早了五十年的報紙時住口。紙竟然還很新，墨水還會沾上他的拇指。外頭卡車撞上破門，傳來一聲像爆炸的巨響，女孩立刻縮到長椅下。歷經戰爭後，以誠認得真正的恐懼，即使造成恐懼的聲音其實無害。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "A girl appeared in the abandoned theatre at midnight, wearing clothes that belonged in his grandmother's photographs. Her disguise was so poor that it could not have fooled a child. She looked at his shoes, the wires, and the light switch with open alarm. “Where is Wenbo?” she demanded. Yicheng made an initial remark about a costume performance, but stopped when she showed him a newspaper dated fifty years earlier. Its paper was fresh. Its ink stained his thumb. Outside, a distant explosive sound made her duck under a bench, although it was only a truck striking a damaged gate. He had seen enough cruelty during the war to recognize real terror, even when its cause was harmless.",
+          "chinese": "午夜，一個女孩出現在廢棄戲院裡，身穿只會在祖母舊照片中見到的衣服。 她的偽裝實在太差，連小孩也騙不過。她驚慌地看著以誠的鞋子、電線與開關，開口就問：「文博在哪裡？」以誠本想說她是不是來演戲的，卻在看見那張日期早了五十年的報紙時住口。紙竟然還很新，墨水還會沾上他的拇指。外頭卡車撞上破門，傳來一聲像爆炸的巨響，女孩立刻縮到長椅下。歷經戰爭後，以誠認得真正的恐懼，即使造成恐懼的聲音其實無害。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 4,
+          "english": "Yicheng's mother had once told him that fear did not arrive in the same shape for everyone. During the war, she feared the empty food jar; he feared the sound of aircraft; his father feared that a repair promised to a neighbor would remain unfinished. On ordinary days Yicheng dismissed these worries as the habits of exhausted adults. Seeing Zhaoyue panic at a harmless crash changed his understanding. He stopped judging how people expressed fear and began looking for what might help them feel safe. A cup of water, a clear explanation, and an open doorway were sometimes more useful than a speech about bravery.",
+          "chinese": "以誠的母親曾說，每個人害怕的東西形狀不同。戰爭期間，母親怕米缸空了；他怕飛機聲；父親怕答應鄰居的修理永遠做不完。平常他把那些擔憂當成疲倦大人的習慣。看見昭月被無害撞擊嚇到，他才改變理解：與其評斷別人的恐懼如何表現，不如想什麼能讓對方安全。一杯水、清楚的解釋、沒有鎖住的門，有時比一篇鼓勵勇敢的演說更有用。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Boy from 1945〉第 6 段的事件，哪個選項能正確補完整句？\nWhen he tried to return her to her own time, both saw ____ and a second image: a ruined city hall, fifty years older than it should have been.",
+      "options": [
+        "a short explanation of the clock's mechanism",
+        "a practical remedy",
+        "a flash of light"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a flash of light",
+      "existingAnswerExplanation": "原文證據：When he tried to return her to her own time, both saw a flash of light and a second image: a ruined city hall, fifty years older than it should have been.\n本段對照：銅鐘再次敲響。 一條有彈性的布帶竟在沒有碰觸的情況下，拉伸於兩枚齒輪之間。上面浮出一行字：「預防災難，需要見證者。」下一句警告，若拿銅鐘胡鬧，兩段歷史都可能被毀滅。以誠認真看待這則訊息，請昭月辨認每一個符號。昭月指著一個鳥形記號，說那是失蹤鐘匠留下的標誌。當他試著送她回去時，兩人同時看到一道亮光，以及第二幅影像：一座比原本應有的樣貌老了五十年的市政建築。他們的第一次實驗，似乎已改變了什麼。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The clock struck once more. A strip of elastic cloth stretched between two gears, although neither had touched it. On its surface appeared the words PREVENTION REQUIRES WITNESSES. Beneath them, another sentence warned that mischief with the clock could destroy two histories at once. Yicheng took the message seriously. He asked Zhaoyue for feedback on every symbol she recognized. She pointed to a mark shaped like a bird and said it belonged to the vanished clockmaker. When he tried to return her to her own time, both saw a flash of light and a second image: a ruined city hall, fifty years older than it should have been. Their first experiment had already changed something.",
+          "chinese": "銅鐘再次敲響。 一條有彈性的布帶竟在沒有碰觸的情況下，拉伸於兩枚齒輪之間。上面浮出一行字：「預防災難，需要見證者。」下一句警告，若拿銅鐘胡鬧，兩段歷史都可能被毀滅。以誠認真看待這則訊息，請昭月辨認每一個符號。昭月指著一個鳥形記號，說那是失蹤鐘匠留下的標誌。當他試著送她回去時，兩人同時看到一道亮光，以及第二幅影像：一座比原本應有的樣貌老了五十年的市政建築。他們的第一次實驗，似乎已改變了什麼。",
+          "matchedQueryTerms": 17
+        },
+        {
+          "paragraph": 2,
+          "english": "A girl appeared in the abandoned theatre at midnight, wearing clothes that belonged in his grandmother's photographs. Her disguise was so poor that it could not have fooled a child. She looked at his shoes, the wires, and the light switch with open alarm. “Where is Wenbo?” she demanded. Yicheng made an initial remark about a costume performance, but stopped when she showed him a newspaper dated fifty years earlier. Its paper was fresh. Its ink stained his thumb. Outside, a distant explosive sound made her duck under a bench, although it was only a truck striking a damaged gate. He had seen enough cruelty during the war to recognize real terror, even when its cause was harmless.",
+          "chinese": "午夜，一個女孩出現在廢棄戲院裡，身穿只會在祖母舊照片中見到的衣服。 她的偽裝實在太差，連小孩也騙不過。她驚慌地看著以誠的鞋子、電線與開關，開口就問：「文博在哪裡？」以誠本想說她是不是來演戲的，卻在看見那張日期早了五十年的報紙時住口。紙竟然還很新，墨水還會沾上他的拇指。外頭卡車撞上破門，傳來一聲像爆炸的巨響，女孩立刻縮到長椅下。歷經戰爭後，以誠認得真正的恐懼，即使造成恐懼的聲音其實無害。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

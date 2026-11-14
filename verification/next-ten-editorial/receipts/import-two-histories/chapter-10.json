@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 10,
+  "chapterId": "import-two-histories-10",
+  "sourceChapterSha256": "dbc6de803295477b1bf046fa814f3df53fb2f0e7faa4237edbd03ec345dc706b",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "昭月在1945收容所協助兒童，老婦人證實沈仲救過戲院大火孩子；照片上的疤痕逐漸在昭月手腕顯現。",
+    "previousChapterEndingEnglish": "His admission changed everything. They were not discovering random accidents but following a route someone had prepared. Yet Shen warned that the association had begun to violate its own founding principle. Some members wished to use knowledge of future disasters to become rich. Others believed they could control wars by removing a few individuals from the past. “History is not a machine you repair by taking out the part you dislike,” he told them. Outside, footsteps echoed through the passage. Shen closed his book and pointed to a narrow stairway. “If you wish to restore names, start with the person whose life all of us agreed to forget.”",
+    "nextChapterOpeningEnglish": "Yicheng returned to his father's shop to discover a notice accusing the family of hiding stolen government records. His father offered an assurance that the accusation was false, but customers had already stopped coming. In the crowded market, rumors moved faster than goods. Merchants who once praised the shop's honest commerce now avoided its door. Yicheng recognized a consistent pattern: someone was using public fear to isolate anyone connected to the clock. The silver-ringed Huang could interfere in 1895, but he could not personally direct every event in 1945. Someone in this era had chosen to cooperate with him."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The stairway led to the theatre in 1945. Zhaoyue stepped through first and felt a different atmosphere settle around her: dust, coal smoke, and the distant sound of a city rebuilding itself. She examined the photograph from Mei's room and noticed that the girl in it was wearing stockings from the modern era. The image was authentic; its paper and date matched a collection kept by the city's publisher. Yet the girl had a scar Zhaoyue did not possess. Yicheng offered two options: the photograph might show a relative, or it might show a future version of Zhaoyue. Neither explanation was comfortable.",
+        "zh": "階梯通往1945年的戲院。 昭月先跨過去，感到另一種氣氛籠罩全身：灰塵、煤煙，以及一座城市重新站起來的聲響。她檢查阿梅房裡找到的照片，注意到女孩穿著現代絲襪。這張照片是真的，紙質和日期都符合出版社保存的收藏，但照片裡女孩身上有一道昭月並沒有的疤。以誠提出兩種可能：那是親戚，或是未來的昭月。兩種解釋都不令人安心。",
+        "englishSha256": "c0d32c9337564c6f44249dde88fd09aec8808742ca7740c05e64f9efe0711f26",
+        "chineseSha256": "20c7b6e6550b9821d486020a309d720903c5b19eabe84036f58d675af4815920"
+      },
+      {
+        "number": 2,
+        "en": "A refugee shelter occupied the nearby school. Its workers had little food but treated everyone with dignity. Zhaoyue volunteered to help rescue several children trapped in a damaged building. An ambitious young nurse welcomed her, then grew embarrassed when Zhaoyue asked questions about medicines she had never seen. The nurse explained them patiently, and soon Zhaoyue was carrying water and blankets without hesitation. She had imagined the future as a paradise of clever machines. Instead, she found both advanced facilities and painfully ordinary suffering. The discovery did not make her pessimistic; it made her wish to learn faster.",
+        "zh": "附近的學校被改成難民收容所。 工作人員食物不多，卻盡力維持每個人的尊嚴。昭月主動協助救出幾名困在損壞建築裡的孩子。一名有抱負的年輕護士歡迎她加入，當昭月問起從沒見過的藥物時，又略顯尷尬。護士耐心解釋，昭月很快便能幫忙搬水和毯子。她曾把未來想成聰明機器遍地的天堂，現在卻同時看見先進設施與最普通的苦難。這沒有使她灰心，反而讓她更想快些學會新事物。",
+        "englishSha256": "c639839ab72b0d0deb736fa0bdf56f947e1fde6139fd6ad334659a2896f557dc",
+        "chineseSha256": "8712772fdaae1b800a9c88b4099360275022e21e673d46e85d99b78a8541fbda"
+      },
+      {
+        "number": 3,
+        "en": "At the shelter she met a genuine witness: an elderly woman whose childhood memory differed from the official story of the theatre fire. The woman described a man carrying children out of the flames. His name was absent from every printed account. Later, authorities had promoted another person as the hero, and the witness had been pressured into acceptance. She still kept a bottle of perfume left by the rescuer. The fragrance made Zhaoyue think of her grandmother's dressing table. When she asked the man's name, the woman looked startled. “Shen Zhong,” she whispered. “But I was told to forget him.”",
+        "zh": "在收容所，昭月遇到一名真正的目擊者：一位老婦人。 她童年的記憶與戲院火災的官方說法不同。當年有個男子把孩子一個個抱出火場，印刷紀錄卻沒有他的名字。後來官方宣傳另一人是英雄，老婦人也被迫接受那套說法。她仍保留救命恩人遺下的一瓶香水。味道讓昭月想起祖母的梳妝臺。她問起那人姓名，老婦人驚訝地低聲回答：「沈仲，但大家要我忘記他。」",
+        "englishSha256": "8f922de75680d83c703d09dd67e8c0c5d28e9820142e3e5bc4fa501ab7d81d0a",
+        "chineseSha256": "91c0d648acbe40f0f8f1748f42d03b498086acf157737eda064c8efe6eca4a9c"
+      },
+      {
+        "number": 4,
+        "en": "The shelter's main facility was a former classroom, crowded with beds and jars of boiled water. A young worker told Zhaoyue that the promotion of sanitation mattered as much as any modern invention. The girl asked why people continued to become ill if knowledge had improved. The worker answered with a tired smile: better knowledge needed clean water, supplies, and fair distribution before it could protect everyone. Zhaoyue helped wash cups and record who needed extra blankets. She felt foolish for arriving in the future expecting every problem to be solved, but she was grateful to be given practical work rather than a lecture about her ignorance.",
+        "zh": "收容所的主要設施原本是教室，如今擺滿床與煮沸的水。年輕工作人員告訴昭月，推廣衛生和現代發明一樣重要。昭月問，知識變多了，為何人還會生病？對方疲倦地笑：更好的知識還需要乾淨水、用品和公平分配，才能保護所有人。昭月幫忙洗杯子、記錄誰需要毛毯。她覺得自己原先期待未來解決一切很傻，也感謝大家交給她實際工作，而不是責備她無知。",
+        "englishSha256": "afba679bedea48995ba9a6e8a420c380b025d4974cc68ad2fc641382a12ac4b8",
+        "chineseSha256": "53631326e045975b07238c0c4e7947b99b624229fd5baadfd2a6cb498635359c"
+      },
+      {
+        "number": 5,
+        "en": "That afternoon she met a child named Lian who would not release a small cloth bag. The bag contained a photograph, a button, and a spoon. They were all that remained of a home destroyed during the war. Zhaoyue did not ask the child to describe the loss. She told Lian about a similar bag used by a neighbor in 1895, filling it with sewing needles and little pieces of colored thread. Their conversation crossed fifty years without needing the copper clock. When Lian finally smiled, Zhaoyue understood that a future was not only machinery or politics. It was also the possibility that someone different from you might understand your sadness.",
+        "zh": "那天下午，她遇到一名叫小蓮的孩子，緊抓布袋不放。袋裡有照片、鈕扣和湯匙，是戰爭毀掉家園後的所有餘物。昭月沒有追問她失去什麼，只說1895年有鄰居也用類似的袋子裝針線和彩色線頭。兩人的談話跨越五十年，卻不需要銅鐘。小蓮終於微笑時，昭月明白未來不只是機器或政治，也是一個和你不同的人仍可能懂你的悲傷。",
+        "englishSha256": "98789bef8fd0de92a681124e497f031f503541f143a8fb505048f26ab0a43cfb",
+        "chineseSha256": "e3933815f36724765c61bdc2180d190a8507d926d5f8dde01184bcac3cf49d23"
+      },
+      {
+        "number": 6,
+        "en": "Yicheng wanted to tell his father, but a notice had just announced the resignation of a respected archivist. The man's departure was linked to an offensive accusation about stolen documents. If the archives were about to be closed, they had little time to act. Zhaoyue suggested that they classify the testimonies by family, place, and date, then transform them into a copy small enough to hide inside the clock. As she spoke, a mark appeared on her wrist, exactly where the photographed girl's scar lay. It was not painful. It was shaped like the bird with two tails. Yicheng stared. The clock had begun marking its witnesses.",
+        "zh": "以誠想把發現告訴父親，卻看見告示說一名備受尊敬的檔案員已辭職，原因牽涉偷竊文件的冒犯性指控。 若檔案室即將關閉，他們沒多少時間。昭月提議依家庭、地點和日期整理證詞，再縮成能藏進鐘裡的副本。她說話時，手腕突然浮出一個記號，位置正好是照片裡的疤痕所在。記號不痛，形狀正是雙尾鳥。以誠盯著她的手腕；銅鐘開始在見證者身上留下標記。",
+        "englishSha256": "cb0b2dcf786045c370aba369208b61f4ff5b9db07778abfce37b9cabef8eb3f5",
+        "chineseSha256": "2d49caef8d1be542603a29999c5035dc01be5f94ae6dd1af91d8b546c74ed242"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 624,
+    "targets": [
+      {
+        "word": "acceptance",
+        "meaning": "接受",
+        "appearsInSource": true
+      },
+      {
+        "word": "ambitious",
+        "meaning": "有抱負的",
+        "appearsInSource": true
+      },
+      {
+        "word": "atmosphere",
+        "meaning": "氣氛",
+        "appearsInSource": true
+      },
+      {
+        "word": "authentic",
+        "meaning": "真實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "classify",
+        "meaning": "分類",
+        "appearsInSource": true
+      },
+      {
+        "word": "differed",
+        "meaning": "不同",
+        "appearsInSource": true
+      },
+      {
+        "word": "dignity",
+        "meaning": "尊嚴",
+        "appearsInSource": true
+      },
+      {
+        "word": "embarrassed",
+        "meaning": "使尷尬",
+        "appearsInSource": true
+      },
+      {
+        "word": "facilities",
+        "meaning": "設施",
+        "appearsInSource": true
+      },
+      {
+        "word": "genuine",
+        "meaning": "真正的",
+        "appearsInSource": true
+      },
+      {
+        "word": "offensive",
+        "meaning": "冒犯的",
+        "appearsInSource": true
+      },
+      {
+        "word": "options",
+        "meaning": "選項",
+        "appearsInSource": true
+      },
+      {
+        "word": "perfume",
+        "meaning": "香水",
+        "appearsInSource": true
+      },
+      {
+        "word": "promotion",
+        "meaning": "推廣",
+        "appearsInSource": true
+      },
+      {
+        "word": "publisher",
+        "meaning": "出版商",
+        "appearsInSource": true
+      },
+      {
+        "word": "refugee",
+        "meaning": "難民",
+        "appearsInSource": true
+      },
+      {
+        "word": "rescue",
+        "meaning": "救援",
+        "appearsInSource": true
+      },
+      {
+        "word": "resignation",
+        "meaning": "辭職",
+        "appearsInSource": true
+      },
+      {
+        "word": "stockings",
+        "meaning": "絲襪",
+        "appearsInSource": true
+      },
+      {
+        "word": "transform",
+        "meaning": "轉變",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Girl in the Photograph〉第 1 段的事件，哪個選項能正確補完整句？\nShe examined ____ from Mei's room and noticed that the girl in it was wearing stockings from the modern era.",
+      "options": [
+        "the copied ledger",
+        "the photograph",
+        "the 1895 stage"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the photograph",
+      "existingAnswerExplanation": "原文證據：She examined the photograph from Mei's room and noticed that the girl in it was wearing stockings from the modern era.\n本段對照：階梯通往1945年的戲院。 昭月先跨過去，感到另一種氣氛籠罩全身：灰塵、煤煙，以及一座城市重新站起來的聲響。她檢查阿梅房裡找到的照片，注意到女孩穿著現代絲襪。這張照片是真的，紙質和日期都符合出版社保存的收藏，但照片裡女孩身上有一道昭月並沒有的疤。以誠提出兩種可能：那是親戚，或是未來的昭月。兩種解釋都不令人安心。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The stairway led to the theatre in 1945. Zhaoyue stepped through first and felt a different atmosphere settle around her: dust, coal smoke, and the distant sound of a city rebuilding itself. She examined the photograph from Mei's room and noticed that the girl in it was wearing stockings from the modern era. The image was authentic; its paper and date matched a collection kept by the city's publisher. Yet the girl had a scar Zhaoyue did not possess. Yicheng offered two options: the photograph might show a relative, or it might show a future version of Zhaoyue. Neither explanation was comfortable.",
+          "chinese": "階梯通往1945年的戲院。 昭月先跨過去，感到另一種氣氛籠罩全身：灰塵、煤煙，以及一座城市重新站起來的聲響。她檢查阿梅房裡找到的照片，注意到女孩穿著現代絲襪。這張照片是真的，紙質和日期都符合出版社保存的收藏，但照片裡女孩身上有一道昭月並沒有的疤。以誠提出兩種可能：那是親戚，或是未來的昭月。兩種解釋都不令人安心。",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 5,
+          "english": "That afternoon she met a child named Lian who would not release a small cloth bag. The bag contained a photograph, a button, and a spoon. They were all that remained of a home destroyed during the war. Zhaoyue did not ask the child to describe the loss. She told Lian about a similar bag used by a neighbor in 1895, filling it with sewing needles and little pieces of colored thread. Their conversation crossed fifty years without needing the copper clock. When Lian finally smiled, Zhaoyue understood that a future was not only machinery or politics. It was also the possibility that someone different from you might understand your sadness.",
+          "chinese": "那天下午，她遇到一名叫小蓮的孩子，緊抓布袋不放。袋裡有照片、鈕扣和湯匙，是戰爭毀掉家園後的所有餘物。昭月沒有追問她失去什麼，只說1895年有鄰居也用類似的袋子裝針線和彩色線頭。兩人的談話跨越五十年，卻不需要銅鐘。小蓮終於微笑時，昭月明白未來不只是機器或政治，也是一個和你不同的人仍可能懂你的悲傷。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Girl in the Photograph〉第 6 段的事件，哪個選項能正確補完整句？\nYicheng wanted to tell his father, but a notice had just announced ____.",
+      "options": [
+        "the resignation of a respected archivist",
+        "the man Xu had tried",
+        "the archivist's office"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the resignation of a respected archivist",
+      "existingAnswerExplanation": "原文證據：Yicheng wanted to tell his father, but a notice had just announced the resignation of a respected archivist.\n本段對照：以誠想把發現告訴父親，卻看見告示說一名備受尊敬的檔案員已辭職，原因牽涉偷竊文件的冒犯性指控。 若檔案室即將關閉，他們沒多少時間。昭月提議依家庭、地點和日期整理證詞，再縮成能藏進鐘裡的副本。她說話時，手腕突然浮出一個記號，位置正好是照片裡的疤痕所在。記號不痛，形狀正是雙尾鳥。以誠盯著她的手腕；銅鐘開始在見證者身上留下標記。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Yicheng wanted to tell his father, but a notice had just announced the resignation of a respected archivist. The man's departure was linked to an offensive accusation about stolen documents. If the archives were about to be closed, they had little time to act. Zhaoyue suggested that they classify the testimonies by family, place, and date, then transform them into a copy small enough to hide inside the clock. As she spoke, a mark appeared on her wrist, exactly where the photographed girl's scar lay. It was not painful. It was shaped like the bird with two tails. Yicheng stared. The clock had begun marking its witnesses.",
+          "chinese": "以誠想把發現告訴父親，卻看見告示說一名備受尊敬的檔案員已辭職，原因牽涉偷竊文件的冒犯性指控。 若檔案室即將關閉，他們沒多少時間。昭月提議依家庭、地點和日期整理證詞，再縮成能藏進鐘裡的副本。她說話時，手腕突然浮出一個記號，位置正好是照片裡的疤痕所在。記號不痛，形狀正是雙尾鳥。以誠盯著她的手腕；銅鐘開始在見證者身上留下標記。",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 1,
+          "english": "The stairway led to the theatre in 1945. Zhaoyue stepped through first and felt a different atmosphere settle around her: dust, coal smoke, and the distant sound of a city rebuilding itself. She examined the photograph from Mei's room and noticed that the girl in it was wearing stockings from the modern era. The image was authentic; its paper and date matched a collection kept by the city's publisher. Yet the girl had a scar Zhaoyue did not possess. Yicheng offered two options: the photograph might show a relative, or it might show a future version of Zhaoyue. Neither explanation was comfortable.",
+          "chinese": "階梯通往1945年的戲院。 昭月先跨過去，感到另一種氣氛籠罩全身：灰塵、煤煙，以及一座城市重新站起來的聲響。她檢查阿梅房裡找到的照片，注意到女孩穿著現代絲襪。這張照片是真的，紙質和日期都符合出版社保存的收藏，但照片裡女孩身上有一道昭月並沒有的疤。以誠提出兩種可能：那是親戚，或是未來的昭月。兩種解釋都不令人安心。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

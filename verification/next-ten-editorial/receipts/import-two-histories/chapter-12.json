@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 12,
+  "chapterId": "import-two-histories-12",
+  "sourceChapterSha256": "ad57e7f8b447b0aa2e95d1dac8b7f87dc9e0410c61bdac82c2444202373d01a1",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "暴風雨損壞海邊倉庫，昭月與以誠優先救人並保全難以復原的紙本；鐘面出現第三條未知年代通道。",
+    "previousChapterEndingEnglish": "Zhaoyue waited in the theatre, listening to a broadcast meant to be informative but filled with confident half-truths. “How many people can hear this?” she asked. “Thousands,” Yicheng replied. “Then perhaps it can help us.” She proposed using the radio to share a story the archives would otherwise erase. Yicheng hesitated because resistance could endanger his father. Yet doing nothing had already brought misfortune to the family. He tuned the machine, and a voice emerged through the static—not the announcer's, but Shen Zhong's: “Do not trust the man who claims to remember everything.”",
+    "nextChapterOpeningEnglish": "The third path did not open onto a street. It led to a foundation stone beneath the theatre, where three names had been carved long before Zhaoyue was born. A local legend said the stone could fulfill a wish if three generations sang together. Shen Zhong dismissed the magical explanation but admitted that a choir had once been appointed to test the clock. Their voices produced a steady chorus, and the copper responded. The experiment succeeded only because the singers were separated by fifty-year intervals. The discovery had become a memorable triumph for the clockmaker and a miserable burden for the families involved."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Shen's warning arrived with a drawing of an oval vessel and instructions to fasten its lid against water. A storm had damaged the coastal warehouse where copies of old records were stored. The distribution of supplies had broken down, and officials demanded greater efficiency before allowing volunteers to enter. Zhaoyue argued that the absolute priority was to protect people, then papers. Yicheng agreed, but he knew the papers represented people who could no longer speak. They needed a plan realistic enough to save both. A fisherman offered his small boat, warning that they would have only one safe tide.",
+        "zh": "沈仲的警告附著一張橢圓形小容器的圖，以及用扣帶把蓋子固定、防止進水的說明。 風暴損壞了沿海存放舊紀錄的倉庫，物資配送中斷，官員要求志工先提出更有效率的辦法，才准進入。昭月主張人命絕對優先，其次才是紙張。以誠同意，卻知道那些紙張代表已無法發聲的人。他們必須找到同時救人的可行方法。漁夫願意借出小船，提醒他們只剩一次安全潮汐。",
+        "englishSha256": "544ae236ee4c061bebfe4a7368223c7df132871a0edc4bc210a79869274ceff3",
+        "chineseSha256": "994a2b2079465db6c310a6d67f965c0f33254c9ea39d876caf7ed8c998e39cc6"
+      },
+      {
+        "number": 2,
+        "en": "At the pier, a hawk circled above stacked crates. A retired miner who worked as a night watchman showed them the building's hardware: hinges, locks, and an old pulley. His illustration of the drainage channels revealed a passage beneath the floor. They inserted a metal rod into the lock and opened it without breaking the door. Zhaoyue felt a sudden dread as they entered; grief seemed to cling to the place. Hundreds of letters lay soaked in seawater. Some described marriages and births, others the quiet disappointment of people who had waited decades for recognition. Their lives deserved more than a perfect inventory.",
+        "zh": "碼頭上，一隻鷹在貨箱上方盤旋。 退休礦工兼夜間守衛的老人向他們介紹倉庫的五金裝置：鉸鏈、鎖和老滑輪。他畫出的排水道示意圖顯示地板下有條通路。兩人把金屬桿插進鎖裡，沒有弄壞門便打開了。昭月進門時突然感到不祥，彷彿悲傷附著在整間屋子。數百封信被海水浸濕，裡面寫著婚禮、出生，也有等了幾十年仍不獲承認的人。那些生命值得的絕不只是整齊漂亮的清單。",
+        "englishSha256": "f8355295a1a9a0240b13513d1f9682ecde0791ee5bd074737848c99404cab11a",
+        "chineseSha256": "bcc8482493be737020f98b24e4f58737ce1f59285d0db6f7c644d6def8db0458"
+      },
+      {
+        "number": 3,
+        "en": "The fisherman and miner joined them. Their gracious help made the task less lonely. Together they renewed the ropes and carried boxes toward the boat. Yicheng wanted to preserve everything, but the vessel could not bear the weight. Zhaoyue resolved to choose documents that proved names, relationships, and places, while making brief copies of the rest. A sudden wave struck the pier. The boat rolled, and the miner fell into the water. Yicheng threw him a line; Zhaoyue steadied the cargo. When they pulled the man aboard, the paper box was almost lost, but not one person had drowned.",
+        "zh": "漁夫與礦工也加入，熱心的幫忙讓任務不再孤單。 大家換好繩索，把箱子抬向船。以誠想保留一切，但船載不下。昭月決定優先帶走能證明姓名、親屬關係和地點的文件，其餘先抄錄摘要。巨浪打來，船身傾斜，礦工掉入水中。以誠扔繩救人，昭月穩住貨物。等把老人拉回船上，紙箱差點掉光，但至少沒有人溺水。",
+        "englishSha256": "d6bbe6e6a9406e116eb3171b7c341cc59297dcf032a66997189d2ca89c174f77",
+        "chineseSha256": "22827aa4a6fd780ec74d8db385b8b1ee7eed15003579cc4c9b29549697e52ca7"
+      },
+      {
+        "number": 4,
+        "en": "The fisherman had worked since childhood, and his sense of discipline was never loud. He checked a knot twice, watched the tide without boasting, and asked volunteers to rest before their hands grew too weak to hold a rope. When Yicheng praised him for his courage, he shrugged. “I have made foolish choices too,” the man said. “The sea punished me for them. I learned to keep a record, not because I enjoy rules, but because someone else may depend on what I remember.” He showed them a small journal where each trip, storm, and damaged plank had been written down.",
+        "zh": "漁夫自小工作，他的紀律從不張揚。他打結會檢查兩次，觀潮不自誇，也會叫志工在手軟前休息。以誠稱讚他的勇氣，他卻聳肩：「我也做過蠢決定，海已教訓過我。我記錄不是因為愛規定，而是別人可能靠我的記憶活命。」他給兩人看一本小日誌，上面寫著每趟航程、風浪及損壞的木板。",
+        "englishSha256": "8b32346e22baa3b04f9ddf23979c3d9ef3002e97ee84a0569b059270a22d8316",
+        "chineseSha256": "5c71beb61d062e912c46a3bc54a6ff6b8815f32ac326d32c481a58525770d8ed"
+      },
+      {
+        "number": 5,
+        "en": "Zhaoyue copied the journal's method into her own notebook. She made separate columns for what they saw, what someone told them, and what remained uncertain. At first the empty spaces embarrassed her. A complete page looked so much more impressive than a hesitant one. Then she remembered the lost letters in the flooded warehouse. A beautiful story that could not be checked would be of little use to those families. She decided that blanks were honest when marked openly. Later, sitting beside the rescued miner, she asked him to read her summary. He corrected the direction of the wave and thanked her for allowing him to disagree.",
+        "zh": "昭月把日誌的方法學進自己的筆記，分開記錄親眼所見、聽人轉述和仍不確定的事。起初空白欄讓她覺得難看，寫滿的紙似乎比較厲害。但她想起被淹的信，無法核對的漂亮故事對家屬幫助很小。於是她決定只要明確標出，不確定的空白就是誠實。後來她坐在救出的礦工旁，請他讀摘要。礦工糾正浪打來的方向，並感謝她容許自己提出不同說法。",
+        "englishSha256": "cfd53b3d6088ccd8ecd0c7f98b0ba5f05cd4125a5abec602265d6c9da26bbbf3",
+        "chineseSha256": "128c3219bfa415a1e121ca36059636d6d6593f1fee3cf2835cfb83378d855b47"
+      },
+      {
+        "number": 6,
+        "en": "That evening a small newspaper published an account of the rescue. Its author made no claim of perfection, only an appeal to remember the overlooked. In the theatre, the clock sounded once and displayed the miner's face beside an unfamiliar child. The first set of erased names had begun to return. Zhaoyue was relieved, but Yicheng pointed out a troubling detail: the clock now showed three glowing paths, not two. Someone had opened a passage to an era that neither of them had visited. “We have saved a few records,” he said. “Perhaps we have also awakened the person who wanted them destroyed.”",
+        "zh": "當晚，小報刊出救援經過。 作者沒有宣稱自己完美，只呼籲大眾記得被忽略的人。戲院裡，銅鐘響了一聲，浮現出礦工的臉與一名陌生孩子。第一批被抹去的姓名開始恢復。昭月鬆了口氣，以誠卻指出令人不安的細節：銅鐘現在亮著三條路，而不是兩條。有人打開了通往第三個年代的通道。「我們救回一些文件，」他說，「但可能也喚醒了想毀掉它們的人。」",
+        "englishSha256": "87f2b5d805ba3da6792304e03918020c4a852df6e5ffe8d86e4053d492e175fe",
+        "chineseSha256": "d0c9a5272c0b5748de0e5c5fa987dabf7a23c23edc91fca28861b71e72697612"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 612,
+    "targets": [
+      {
+        "word": "absolute",
+        "meaning": "絕對的",
+        "appearsInSource": true
+      },
+      {
+        "word": "discipline",
+        "meaning": "紀律",
+        "appearsInSource": true
+      },
+      {
+        "word": "distribution",
+        "meaning": "配送",
+        "appearsInSource": true
+      },
+      {
+        "word": "dread",
+        "meaning": "不祥的恐懼",
+        "appearsInSource": true
+      },
+      {
+        "word": "efficiency",
+        "meaning": "效率",
+        "appearsInSource": true
+      },
+      {
+        "word": "fasten",
+        "meaning": "固定",
+        "appearsInSource": true
+      },
+      {
+        "word": "gracious",
+        "meaning": "親切的",
+        "appearsInSource": true
+      },
+      {
+        "word": "grief",
+        "meaning": "悲痛",
+        "appearsInSource": true
+      },
+      {
+        "word": "hardware",
+        "meaning": "五金裝置",
+        "appearsInSource": true
+      },
+      {
+        "word": "hawk",
+        "meaning": "鷹",
+        "appearsInSource": true
+      },
+      {
+        "word": "illustration",
+        "meaning": "圖解",
+        "appearsInSource": true
+      },
+      {
+        "word": "inserted",
+        "meaning": "插入",
+        "appearsInSource": true
+      },
+      {
+        "word": "miner",
+        "meaning": "礦工",
+        "appearsInSource": true
+      },
+      {
+        "word": "oval",
+        "meaning": "橢圓的",
+        "appearsInSource": true
+      },
+      {
+        "word": "perfection",
+        "meaning": "完美",
+        "appearsInSource": true
+      },
+      {
+        "word": "realistic",
+        "meaning": "務實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "recognition",
+        "meaning": "承認表揚",
+        "appearsInSource": true
+      },
+      {
+        "word": "renewed",
+        "meaning": "更新",
+        "appearsInSource": true
+      },
+      {
+        "word": "resolved",
+        "meaning": "下定決心",
+        "appearsInSource": true
+      },
+      {
+        "word": "vessel",
+        "meaning": "船隻",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Vessel of Names〉第 1 段的事件，哪個選項能正確補完整句？\nA fisherman offered ____, warning that they would have only one safe tide.",
+      "options": [
+        "his signature",
+        "his small boat",
+        "his failures"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "his small boat",
+      "existingAnswerExplanation": "原文證據：A fisherman offered his small boat, warning that they would have only one safe tide.\n本段對照：沈仲的警告附著一張橢圓形小容器的圖，以及用扣帶把蓋子固定、防止進水的說明。 風暴損壞了沿海存放舊紀錄的倉庫，物資配送中斷，官員要求志工先提出更有效率的辦法，才准進入。昭月主張人命絕對優先，其次才是紙張。以誠同意，卻知道那些紙張代表已無法發聲的人。他們必須找到同時救人的可行方法。漁夫願意借出小船，提醒他們只剩一次安全潮汐。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Shen's warning arrived with a drawing of an oval vessel and instructions to fasten its lid against water. A storm had damaged the coastal warehouse where copies of old records were stored. The distribution of supplies had broken down, and officials demanded greater efficiency before allowing volunteers to enter. Zhaoyue argued that the absolute priority was to protect people, then papers. Yicheng agreed, but he knew the papers represented people who could no longer speak. They needed a plan realistic enough to save both. A fisherman offered his small boat, warning that they would have only one safe tide.",
+          "chinese": "沈仲的警告附著一張橢圓形小容器的圖，以及用扣帶把蓋子固定、防止進水的說明。 風暴損壞了沿海存放舊紀錄的倉庫，物資配送中斷，官員要求志工先提出更有效率的辦法，才准進入。昭月主張人命絕對優先，其次才是紙張。以誠同意，卻知道那些紙張代表已無法發聲的人。他們必須找到同時救人的可行方法。漁夫願意借出小船，提醒他們只剩一次安全潮汐。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 3,
+          "english": "The fisherman and miner joined them. Their gracious help made the task less lonely. Together they renewed the ropes and carried boxes toward the boat. Yicheng wanted to preserve everything, but the vessel could not bear the weight. Zhaoyue resolved to choose documents that proved names, relationships, and places, while making brief copies of the rest. A sudden wave struck the pier. The boat rolled, and the miner fell into the water. Yicheng threw him a line; Zhaoyue steadied the cargo. When they pulled the man aboard, the paper box was almost lost, but not one person had drowned.",
+          "chinese": "漁夫與礦工也加入，熱心的幫忙讓任務不再孤單。 大家換好繩索，把箱子抬向船。以誠想保留一切，但船載不下。昭月決定優先帶走能證明姓名、親屬關係和地點的文件，其餘先抄錄摘要。巨浪打來，船身傾斜，礦工掉入水中。以誠扔繩救人，昭月穩住貨物。等把老人拉回船上，紙箱差點掉光，但至少沒有人溺水。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Vessel of Names〉第 6 段的事件，哪個選項能正確補完整句？\n“We have saved ____,” he said.",
+      "options": [
+        "a newspaper clipping",
+        "a few records",
+        "a photograph"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a few records",
+      "existingAnswerExplanation": "原文證據：“We have saved a few records,” he said.\n本段對照：當晚，小報刊出救援經過。 作者沒有宣稱自己完美，只呼籲大眾記得被忽略的人。戲院裡，銅鐘響了一聲，浮現出礦工的臉與一名陌生孩子。第一批被抹去的姓名開始恢復。昭月鬆了口氣，以誠卻指出令人不安的細節：銅鐘現在亮著三條路，而不是兩條。有人打開了通往第三個年代的通道。「我們救回一些文件，」他說，「但可能也喚醒了想毀掉它們的人。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That evening a small newspaper published an account of the rescue. Its author made no claim of perfection, only an appeal to remember the overlooked. In the theatre, the clock sounded once and displayed the miner's face beside an unfamiliar child. The first set of erased names had begun to return. Zhaoyue was relieved, but Yicheng pointed out a troubling detail: the clock now showed three glowing paths, not two. Someone had opened a passage to an era that neither of them had visited. “We have saved a few records,” he said. “Perhaps we have also awakened the person who wanted them destroyed.”",
+          "chinese": "當晚，小報刊出救援經過。 作者沒有宣稱自己完美，只呼籲大眾記得被忽略的人。戲院裡，銅鐘響了一聲，浮現出礦工的臉與一名陌生孩子。第一批被抹去的姓名開始恢復。昭月鬆了口氣，以誠卻指出令人不安的細節：銅鐘現在亮著三條路，而不是兩條。有人打開了通往第三個年代的通道。「我們救回一些文件，」他說，「但可能也喚醒了想毀掉它們的人。」",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "Shen's warning arrived with a drawing of an oval vessel and instructions to fasten its lid against water. A storm had damaged the coastal warehouse where copies of old records were stored. The distribution of supplies had broken down, and officials demanded greater efficiency before allowing volunteers to enter. Zhaoyue argued that the absolute priority was to protect people, then papers. Yicheng agreed, but he knew the papers represented people who could no longer speak. They needed a plan realistic enough to save both. A fisherman offered his small boat, warning that they would have only one safe tide.",
+          "chinese": "沈仲的警告附著一張橢圓形小容器的圖，以及用扣帶把蓋子固定、防止進水的說明。 風暴損壞了沿海存放舊紀錄的倉庫，物資配送中斷，官員要求志工先提出更有效率的辦法，才准進入。昭月主張人命絕對優先，其次才是紙張。以誠同意，卻知道那些紙張代表已無法發聲的人。他們必須找到同時救人的可行方法。漁夫願意借出小船，提醒他們只剩一次安全潮汐。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 4,
+  "chapterId": "import-two-histories-4",
+  "sourceChapterSha256": "a15bc0e903250db134605bf0a42f864805d4d1d424fd2a1c3efc7dcda04379ec",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "1945羅館員准許以誠查檔案，發現年代互相衝突的鐘匠記錄及銅片；第二聲鐘會抹去被歷史遺忘的見證人。",
+    "previousChapterEndingEnglish": "At the foot of the hill, the granddaughter bowed with sincere gratitude. Zhaoyue felt unworthy of it. She had brought back papers, not people. Wenbo asked whether she believed the papers would offend powerful officials. “Yes,” she replied. “And their tendency to silence questions is exactly why we must keep asking them.” Still, she urged him not to publish the names until they could protect the families involved. She had learned one lesson from the boy of 1945: information might be true and still be dangerous in the wrong hands. When she opened his notebook that night, she found a sentence he had not written: The first witness has been found. The second is already among the forgotten.",
+    "nextChapterOpeningEnglish": "Zhaoyue's grandmother had adopted an orphan years before Zhaoyue was born. The boy grew into a travelling actor, and eventually vanished while working for a government agency that collected records from local communities. Her grandmother cherished his memory, but avoided discussing his unusual behavior before he disappeared. He had spoken to empty rooms, hidden a primitive pocket device beneath his pillow, and claimed that an influential group wished to control what future generations remembered. As a child, Zhaoyue believed he was a wizard. Now she suspected he had understood the clock long before she did."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "In 1945, Yicheng sought approval to examine the theatre's sealed archives. A weary librarian named Madam Luo let him into the basement, though she insisted that his possession of a strange key did not prove ownership of anything. The old books smelled of damp paper. Whenever he moved a volume, dust seemed to orbit the lamp before settling again. He had never thought of himself as a researcher, yet he found an earnest pleasure in following small details: a printer's fingerprint, a torn label, a number written in the margin. Each clue suggested a human being who had once believed tomorrow mattered.",
+        "zh": "1945年，以誠設法獲得許可，查閱戲院封存的檔案。 疲憊的羅館員讓他進地下室，卻提醒他持有怪鑰匙不代表擁有任何東西。舊書散發潮濕紙味，每搬動一冊，灰塵就繞著燈光旋轉。他從沒想過自己會成為研究者，卻發現追尋細節有一種認真的快樂：印刷工人的指紋、撕破的標籤、寫在頁邊的數字。每個線索都像在說，曾有人相信明天是值得努力的。",
+        "englishSha256": "f4dbaf1813a9a8ae3e4204bde88a058873f632d8a5185b802e0ee715d7d676c1",
+        "chineseSha256": "714df66d5919724faf8742abe3acc68887c473596083b5ec0fd8c58ae5431ec8"
+      },
+      {
+        "number": 2,
+        "en": "One document concerned an embassy official who had visited the theatre decades ago. Another described a missing translator, accused of helping a murderer escape. Yicheng disliked how passive the official record sounded; it treated fear as nonsense and loyalty as guilt. He discovered a poem whose end words formed a simple rhyme, but the first letters of its lines spelled a warning: DO NOT TRUST THE SECOND BELL. The continual repetition of that phrase suggested deliberate emphasis, not a writer's habit. Madam Luo read the lines twice and admitted that she had never noticed the pattern. Her surprise bounced between amusement and alarm.",
+        "zh": "一份文件記錄了數十年前造訪戲院的使館官員。 另一份提到一名失蹤譯者，他被指控協助殺人犯逃跑。以誠不喜歡官方紀錄那種被動、冷冰冰的語氣；恐懼被寫成無稽之談，忠誠卻成了罪證。他找到一首押韻的小詩，逐行取首字母後，竟拼成警告：「不要相信第二聲鐘。」這句話反覆出現，顯然不是作者的口頭習慣，而是刻意強調。羅館員讀了兩遍，承認從未注意到這個規律，既覺好笑又感到不安。",
+        "englishSha256": "0ae44b72aa04fe79d6b1812a4aa7fc86f553d0e444f215d5c200f4453c9494c3",
+        "chineseSha256": "680a406e7741026d7a5d83b452ed637420a0d5c7c144cee26ee0ab64582c95e0"
+      },
+      {
+        "number": 3,
+        "en": "He hoped to accomplish one practical thing before midnight: identify who had made the clock. But every discovery produced a new disappointment. A notice claimed the clockmaker had died in 1893. Another said he was seen in 1902. A third carried an urgent message from 1895, addressed to a person not born until 1928. “This cannot be an ordinary historical mistake,” Yicheng said. Madam Luo did not disagree. She unlocked a drawer containing a copper disc. “My father gave me this when I was small,” she said. “He told me to return it if a young man ever asked about two bells.”",
+        "zh": "以誠希望在午夜前至少完成一件實際的事：查出誰製造了那座鐘。 可是每一項發現都帶來新的失望。一張公告說鐘匠1893年已死；另一張說有人1902年還見過他；第三張竟是1895年的緊急紙條，收件人要到1928年才出生。「這不可能只是普通的史料錯誤，」以誠說。羅館員沒有反對，反而打開抽屜，取出一枚銅片。「我小時候，父親把它交給我，」她說，「他要我在一個年輕人問起兩次鐘聲時，把它還給他。」",
+        "englishSha256": "a1621abb8d8883811be644c181727944acdcea95ca3623301813b20c07a158fb",
+        "chineseSha256": "7f2b3d77891d91620000c544f453fc52e93f789aa690d5ce25a57d35a6922686"
+      },
+      {
+        "number": 4,
+        "en": "Madam Luo had lost her younger brother in the confusion of earlier years. She possessed only one letter from him, and its envelope had no return address. She never knew whether he had died, changed his name, or simply chosen not to come home. The official index described him as absent, a single word that flattened all the possible explanations. She showed Yicheng the letter without asking for sympathy. “Do not promise to find him,” she said. “Promise that you will never write a guess as a fact.” It was a stricter request than the boy expected, and he accepted it without argument.",
+        "zh": "羅館員在多年以前的混亂裡失去弟弟，只留下一封沒有回信地址的信。她不知道弟弟死了、改名了，或只是決定不再回家。官方索引只寫「不在」，一個詞便壓扁所有可能解釋。她把信給以誠看，沒有索取同情。「別保證找到他，」她說，「只要保證不把猜測寫成事實。」這要求比以誠預料的更嚴格，他卻毫不爭辯地接受。",
+        "englishSha256": "4db6ed766da31faaae5ee88c5d886d210bf516d251d1315b5c98b10fd2734a8b",
+        "chineseSha256": "3e91f525e63b728c3cf2fff436bdfeceb902b702da9392ca099f1067bd8a953b"
+      },
+      {
+        "number": 5,
+        "en": "While they worked, the basement windows admitted thin strips of late sunlight. Yicheng was reminded of the radio shop, where the same hour made every screw appear as a dark dot against the table. He arranged the documents by date, then set doubtful items aside instead of forcing them into a tidy sequence. Madam Luo approved his method. She brought tea, and for a few minutes they spoke about ordinary things: noisy children in the library, the price of paper, and whether an old poem should have been translated differently. It comforted him to discover that people who guarded painful memories could still enjoy the small humor of daily life.",
+        "zh": "他們工作時，夕陽從地下室高窗照進一道道細光。以誠想起收音機店在同樣時辰裡，每枚螺絲都像桌上的黑點。他依日期整理文件，把有疑問的先放旁邊，不硬湊成整齊順序。羅館員贊同這個方法，還端茶來。幾分鐘裡，他們只談日常：圖書館吵鬧的孩子、紙價，以及一首舊詩是否該有另一種譯法。以誠得到安慰：守著痛苦回憶的人，仍能享受生活裡微小的幽默。",
+        "englishSha256": "670286ad120f70a668e729bf1c38a035dc8fc67ee1630f36595fbeeaf8cfe162",
+        "chineseSha256": "f89f9256d4a02b1133a3dc94e8116a276b3697bec33e72d2dc4540ac7699eb38"
+      },
+      {
+        "number": 6,
+        "en": "The disc fit inside Yicheng's key. The clock began to ring, but he held the mechanism still before the second note. Nothing happened. He felt foolish and oddly relieved. Then Zhaoyue's voice came from inside the wall: “Don't let it ring again. The second sound does not send us home.” Madam Luo covered her mouth. In the quiet that followed, another handwriting appeared on the back of the poem, as if ink were emerging from a deep pool. The second bell collects what the first bell cannot carry: the people history has failed to name.",
+        "zh": "銅片正好能嵌進以誠的鑰匙。 鐘開始響，他趕在第二聲前握住機關，什麼也沒發生。他覺得自己傻氣，卻又莫名鬆了口氣。下一刻，牆裡傳出昭月的聲音：「別讓它再響，第二聲不是送我們回家的。」羅館員驚訝地摀住嘴。寂靜中，詩的背面竟浮現出另一段筆跡，像墨水從深池裡慢慢升起：「第二聲鐘會收走第一聲帶不走的東西——那些歷史未曾留下姓名的人。」",
+        "englishSha256": "24578dd44dcd41ffa1e1b0ff8882adea068596fe423620a11ff927d42f73d5a0",
+        "chineseSha256": "114253ef79b562e4a6a12c345bc5be25eed9be6c0f0506e43c29f36db893c460"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 610,
+    "targets": [
+      {
+        "word": "accomplish",
+        "meaning": "完成",
+        "appearsInSource": true
+      },
+      {
+        "word": "amusement",
+        "meaning": "逗樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "approval",
+        "meaning": "批准",
+        "appearsInSource": true
+      },
+      {
+        "word": "bounced",
+        "meaning": "跳動",
+        "appearsInSource": true
+      },
+      {
+        "word": "continual",
+        "meaning": "持續不斷的",
+        "appearsInSource": true
+      },
+      {
+        "word": "disappointment",
+        "meaning": "失望",
+        "appearsInSource": true
+      },
+      {
+        "word": "earnest",
+        "meaning": "認真的",
+        "appearsInSource": true
+      },
+      {
+        "word": "embassy",
+        "meaning": "使館",
+        "appearsInSource": true
+      },
+      {
+        "word": "emphasis",
+        "meaning": "強調",
+        "appearsInSource": true
+      },
+      {
+        "word": "librarian",
+        "meaning": "圖書館員",
+        "appearsInSource": true
+      },
+      {
+        "word": "margin",
+        "meaning": "頁邊",
+        "appearsInSource": true
+      },
+      {
+        "word": "murderer",
+        "meaning": "殺人犯",
+        "appearsInSource": true
+      },
+      {
+        "word": "nonsense",
+        "meaning": "無稽之談",
+        "appearsInSource": true
+      },
+      {
+        "word": "orbit",
+        "meaning": "繞行",
+        "appearsInSource": true
+      },
+      {
+        "word": "passive",
+        "meaning": "被動的",
+        "appearsInSource": true
+      },
+      {
+        "word": "possession",
+        "meaning": "持有",
+        "appearsInSource": true
+      },
+      {
+        "word": "researcher",
+        "meaning": "研究者",
+        "appearsInSource": true
+      },
+      {
+        "word": "rhyme",
+        "meaning": "押韻",
+        "appearsInSource": true
+      },
+      {
+        "word": "translator",
+        "meaning": "譯者",
+        "appearsInSource": true
+      },
+      {
+        "word": "urgent",
+        "meaning": "緊急的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Librarian's Margin〉第 1 段的事件，哪個選項能正確補完整句？\nHe had never thought of himself as a researcher, yet he found ____ in following small details: a printer's fingerprint, a torn label, a number written in the margin.",
+      "options": [
+        "an image of the same theatre",
+        "an exhibit of earlier city plans",
+        "an earnest pleasure"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "an earnest pleasure",
+      "existingAnswerExplanation": "原文證據：He had never thought of himself as a researcher, yet he found an earnest pleasure in following small details: a printer's fingerprint, a torn label, a number written in the margin.\n本段對照：1945年，以誠設法獲得許可，查閱戲院封存的檔案。 疲憊的羅館員讓他進地下室，卻提醒他持有怪鑰匙不代表擁有任何東西。舊書散發潮濕紙味，每搬動一冊，灰塵就繞著燈光旋轉。他從沒想過自己會成為研究者，卻發現追尋細節有一種認真的快樂：印刷工人的指紋、撕破的標籤、寫在頁邊的數字。每個線索都像在說，曾有人相信明天是值得努力的。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "In 1945, Yicheng sought approval to examine the theatre's sealed archives. A weary librarian named Madam Luo let him into the basement, though she insisted that his possession of a strange key did not prove ownership of anything. The old books smelled of damp paper. Whenever he moved a volume, dust seemed to orbit the lamp before settling again. He had never thought of himself as a researcher, yet he found an earnest pleasure in following small details: a printer's fingerprint, a torn label, a number written in the margin. Each clue suggested a human being who had once believed tomorrow mattered.",
+          "chinese": "1945年，以誠設法獲得許可，查閱戲院封存的檔案。 疲憊的羅館員讓他進地下室，卻提醒他持有怪鑰匙不代表擁有任何東西。舊書散發潮濕紙味，每搬動一冊，灰塵就繞著燈光旋轉。他從沒想過自己會成為研究者，卻發現追尋細節有一種認真的快樂：印刷工人的指紋、撕破的標籤、寫在頁邊的數字。每個線索都像在說，曾有人相信明天是值得努力的。",
+          "matchedQueryTerms": 38
+        },
+        {
+          "paragraph": 2,
+          "english": "One document concerned an embassy official who had visited the theatre decades ago. Another described a missing translator, accused of helping a murderer escape. Yicheng disliked how passive the official record sounded; it treated fear as nonsense and loyalty as guilt. He discovered a poem whose end words formed a simple rhyme, but the first letters of its lines spelled a warning: DO NOT TRUST THE SECOND BELL. The continual repetition of that phrase suggested deliberate emphasis, not a writer's habit. Madam Luo read the lines twice and admitted that she had never noticed the pattern. Her surprise bounced between amusement and alarm.",
+          "chinese": "一份文件記錄了數十年前造訪戲院的使館官員。 另一份提到一名失蹤譯者，他被指控協助殺人犯逃跑。以誠不喜歡官方紀錄那種被動、冷冰冰的語氣；恐懼被寫成無稽之談，忠誠卻成了罪證。他找到一首押韻的小詩，逐行取首字母後，竟拼成警告：「不要相信第二聲鐘。」這句話反覆出現，顯然不是作者的口頭習慣，而是刻意強調。羅館員讀了兩遍，承認從未注意到這個規律，既覺好笑又感到不安。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Librarian's Margin〉第 5 段的事件，哪個選項能正確補完整句？\nHe arranged ____, then set doubtful items aside instead of forcing them into a tidy sequence.",
+      "options": [
+        "the clockmaker's mark",
+        "the documents by date",
+        "the same technique"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the documents by date",
+      "existingAnswerExplanation": "原文證據：He arranged the documents by date, then set doubtful items aside instead of forcing them into a tidy sequence.\n本段對照：他們工作時，夕陽從地下室高窗照進一道道細光。以誠想起收音機店在同樣時辰裡，每枚螺絲都像桌上的黑點。他依日期整理文件，把有疑問的先放旁邊，不硬湊成整齊順序。羅館員贊同這個方法，還端茶來。幾分鐘裡，他們只談日常：圖書館吵鬧的孩子、紙價，以及一首舊詩是否該有另一種譯法。以誠得到安慰：守著痛苦回憶的人，仍能享受生活裡微小的幽默。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "While they worked, the basement windows admitted thin strips of late sunlight. Yicheng was reminded of the radio shop, where the same hour made every screw appear as a dark dot against the table. He arranged the documents by date, then set doubtful items aside instead of forcing them into a tidy sequence. Madam Luo approved his method. She brought tea, and for a few minutes they spoke about ordinary things: noisy children in the library, the price of paper, and whether an old poem should have been translated differently. It comforted him to discover that people who guarded painful memories could still enjoy the small humor of daily life.",
+          "chinese": "他們工作時，夕陽從地下室高窗照進一道道細光。以誠想起收音機店在同樣時辰裡，每枚螺絲都像桌上的黑點。他依日期整理文件，把有疑問的先放旁邊，不硬湊成整齊順序。羅館員贊同這個方法，還端茶來。幾分鐘裡，他們只談日常：圖書館吵鬧的孩子、紙價，以及一首舊詩是否該有另一種譯法。以誠得到安慰：守著痛苦回憶的人，仍能享受生活裡微小的幽默。",
+          "matchedQueryTerms": 24
+        },
+        {
+          "paragraph": 1,
+          "english": "In 1945, Yicheng sought approval to examine the theatre's sealed archives. A weary librarian named Madam Luo let him into the basement, though she insisted that his possession of a strange key did not prove ownership of anything. The old books smelled of damp paper. Whenever he moved a volume, dust seemed to orbit the lamp before settling again. He had never thought of himself as a researcher, yet he found an earnest pleasure in following small details: a printer's fingerprint, a torn label, a number written in the margin. Each clue suggested a human being who had once believed tomorrow mattered.",
+          "chinese": "1945年，以誠設法獲得許可，查閱戲院封存的檔案。 疲憊的羅館員讓他進地下室，卻提醒他持有怪鑰匙不代表擁有任何東西。舊書散發潮濕紙味，每搬動一冊，灰塵就繞著燈光旋轉。他從沒想過自己會成為研究者，卻發現追尋細節有一種認真的快樂：印刷工人的指紋、撕破的標籤、寫在頁邊的數字。每個線索都像在說，曾有人相信明天是值得努力的。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

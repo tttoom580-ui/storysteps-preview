@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 1,
+  "chapterId": "import-two-histories-1",
+  "sourceChapterSha256": "133441e9d130dffe37a4d9b8d1f7da7c745d06f4a9e35855ac41799d172f1886",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "1895臺北印刷工林昭月在戲院發現不合常理的銅鐘，與文博擬保存失蹤人名單，午夜穿越到陌生的電燈戲院。",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "Taipei, 1945. Chen Yicheng repaired radios in a shop where every shelf leaned slightly to one side. His father had taught him to carve tiny initials into spare wooden parts, so customers could identify their property. A famous singer once left an autograph above the workbench, but war had reduced the ink to a ghostly stain. There was little convenience in their daily lives: paper was scarce, electricity unreliable, and the shop's timetable depended on whenever the street was safe. Yet Yicheng loved the sounds hidden inside broken machines. They gave him a way to imagine tomorrow."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Taipei, 1895. The old opera house stood beside a shady street where tea merchants argued over prices. Lin Zhaoyue, seventeen, arrived before sunrise with a broom and a jar of acid used to clean printing plates. Her employer had asked her to sweep the stage, but she preferred the machinery behind it. Above the curtain hung a copper clock, built from gears that did not match. The clockmaker had died before he could explain its unusual design. Some people called it a miracle; others called it a dangerous phenomenon. Zhaoyue called it a question waiting for a better answer.",
+        "zh": "臺北，1895年。 老戲院坐落在一條陰暗的街旁，茶商每天在那裡爭論價格。十七歲的林昭月天未亮就帶著掃帚，以及清潔印刷版用的酸液來上工。老闆要她掃舞臺，她卻更喜歡研究後臺的機械。布幕上方掛著一座由不同齒輪拼成的銅鐘。造鐘師傅過世前來不及解釋它奇特的設計。有人稱它是奇蹟，有人說那是危險的異象；昭月認為它只是尚未解答的問題。",
+        "englishSha256": "80d6abf31aea0cfdea59bb6a911fd07437f01aefb34afb33dbee3e9247108d08",
+        "chineseSha256": "e9acd1ff6301b29e00b5045d3d7b99772c94c5344b8bc2cf01f8e8bb3fe4e1d7"
+      },
+      {
+        "number": 2,
+        "en": "The theatre had become a place for secret meetings. With political power changing hands, an assembly of neighbors gathered there to discuss which route was safest for families leaving the city. A visiting official carried papers stamped by a distant ministry. His persuasive speech promised stability, yet he could not answer how ordinary people would be protected. Beside the ticket counter, a youthful actor repeated a slogan about courage. Zhaoyue watched the official's facial expression rather than his fine clothing. Fear, she had learned, often spoke more clearly through a tightened mouth than through elegant words.",
+        "zh": "戲院也成了祕密集會的場所。 政局更替之際，鄰居聚在這裡商量家人離城最安全的路線。一名官員帶著遠方部門蓋章的文件前來。他口才極好，承諾一切會安定，卻答不出一般百姓能得到什麼保護。售票櫃檯旁，一名年輕演員不斷練習關於勇氣的口號。昭月觀察的不是官員的華服，而是他的面部表情。她早已明白，緊繃的嘴角往往比漂亮話更能洩漏恐懼。",
+        "englishSha256": "c42f7a54012f6c8490b6d5378fd2ead170abc016d8047f2dcbb8dd0592ace14b",
+        "chineseSha256": "e9bc11741ccea83f69f0c299f8c4a91efe6e55cc321b86b458115fd84408452c"
+      },
+      {
+        "number": 3,
+        "en": "Her friend Wenbo wanted to construct a hidden box for the names of missing people. He needed her to cooperate, because she knew how to print several copies without making a mistake. The owner refused. “I provide entertainment,” he said. “I will not interfere in affairs that can close my theatre.” Wenbo called him a coward. Zhaoyue disagreed. A frightened man was not necessarily a bad man, she thought; what mattered was what he did after he admitted his fear. She offered to hide the names inside the clock, where even a careful search might miss them.",
+        "zh": "昭月的朋友文博想做一個暗箱，保存失蹤者的名單。 他需要昭月合作，因為她懂得如何印出多份沒有錯誤的副本。戲院老闆拒絕了：「我這裡是提供娛樂的，不會插手可能讓戲院關門的事。」文博罵他是膽小鬼。昭月卻不完全同意。害怕不代表人壞，重要的是承認害怕之後會做什麼。她主動提議把名單藏進鐘裡，讓再仔細的搜索也未必能找到。",
+        "englishSha256": "1c0c3a2f56fc7d0fe1695e6825db04361a9da2390c079bf6359e99cbd6cd9be6",
+        "chineseSha256": "97603867abc3750f1623972ee32eedc9615b43f5d72ba96e4dca6123a0846bd5"
+      },
+      {
+        "number": 4,
+        "en": "Zhaoyue had always noticed the things adults treated as unimportant. The market's loudest traders might be absent for an afternoon, yet a quiet woman would remember which family needed rice and which child had lost a shoe. Her mother said such observations were a waste of talent. Printing, after all, rewarded speed, straight lines, and obedience to exact measurements. But her father had taught her that a crooked letter could change a person's name on an official form. Before he died, he made her promise never to correct a document without asking whose life the correction would touch. She had kept that promise even when it annoyed her employer.",
+        "zh": "昭月總會注意大人認為不重要的事。市場上最大聲的商人可能半天不見人影，但安靜的婦人卻記得哪戶缺米、哪個孩子掉了鞋。母親說這樣太浪費天分；印刷講究速度、筆直的線條與精確尺寸。可是父親曾教她，歪掉的一個字就可能讓公文裡的人名變錯。他過世前要她答應，每次修改文件，都要先問這個修改影響誰的生活。即使老闆嫌麻煩，她也一直遵守。",
+        "englishSha256": "c3fadb14b8cc6830762ecd327c5384ad458d19d7902e0534a15f1291d9b52185",
+        "chineseSha256": "2f3c7555eada473d9a30d1fe31dde743a5d15ec6f1303f1c57744f2167dab63d"
+      },
+      {
+        "number": 5,
+        "en": "At the back of the theatre she had built a tiny shelf for rescued scraps of paper. Receipts, poems, and letters to people who had moved away rested there in separate bundles. Wenbo teased her for saving rubbish, but sometimes a missing address could be recovered from a torn corner. Zhaoyue had never imagined that her habit would become part of a much larger struggle. On the night of the copper clock, she placed her father's old measuring rule beside the machine. It did not tell her how time worked. It reminded her, instead, that if she made a mistake she should be willing to measure again.",
+        "zh": "她在戲院後方做了一小層架，專放撿回的紙片。收據、詩和寄給搬家者的信分門別類綁好。文博笑她撿垃圾，但有時一張撕破的紙角能找回遺失地址。昭月從沒想過，這習慣有一天會變成更大抗爭的一部分。銅鐘響起那晚，她把父親留下的舊尺放在機器旁。尺不能告訴她時間怎麼運作，卻提醒她：若量錯了，就應願意再量一次。",
+        "englishSha256": "c77fb7e33f0d9caf4f33032ac9ee832e4e837aecc269604d7e099d01c819bdef",
+        "chineseSha256": "23847f6f2ea4fe42ed04575b48096958439822a9989f1c60e592333f1e17c7c1"
+      },
+      {
+        "number": 6,
+        "en": "That evening she studied the clock's usage instructions, written on the back of an opera poster. The final line made no sense: When two endings share one hour, turn the minute hand against the light. At eleven fifty-nine, music began although no musicians were present. The stage lights flashed. The clock gave a single deep note, and the floor beneath Zhaoyue disappeared. For one breath she saw a different theatre with broken windows, strange electric lamps, and a boy in a white shirt reaching toward the very same clock. He seemed equally surprised. The poster in her hand became warm. Then her shoes touched a new floor, and the year outside was no longer 1895.",
+        "zh": "傍晚，她在一張歌劇海報背面讀到銅鐘的使用說明。 最後一行令人費解：「當兩個終點共用同一時辰，逆著光轉動分針。」十一點五十九分，沒有人演奏，音樂卻自行響起。舞臺燈光一閃，銅鐘發出低沉的一聲，昭月腳下的地板消失了。她看見另一間窗戶破碎、裝著奇異電燈的戲院；一名穿白襯衫的少年正向同一座鐘伸手。他看起來也同樣驚訝。手中的海報漸漸發燙。再度踩到地板時，門外已不再是1895年。",
+        "englishSha256": "3f34fec33401cd9461ab1852edf3c26c5c9b9cf5f124047b96f8ece4de899a39",
+        "chineseSha256": "8b8bc249ee630618aed746c01bcac7235ee30e38ec3270e0ef472b8ab644020e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 621,
+    "targets": [
+      {
+        "word": "acid",
+        "meaning": "酸液",
+        "appearsInSource": true
+      },
+      {
+        "word": "assembly",
+        "meaning": "集會",
+        "appearsInSource": true
+      },
+      {
+        "word": "broom",
+        "meaning": "掃帚",
+        "appearsInSource": true
+      },
+      {
+        "word": "construct",
+        "meaning": "建造",
+        "appearsInSource": true
+      },
+      {
+        "word": "cooperate",
+        "meaning": "合作",
+        "appearsInSource": true
+      },
+      {
+        "word": "copper",
+        "meaning": "銅",
+        "appearsInSource": true
+      },
+      {
+        "word": "counter",
+        "meaning": "櫃檯",
+        "appearsInSource": true
+      },
+      {
+        "word": "coward",
+        "meaning": "膽小鬼",
+        "appearsInSource": true
+      },
+      {
+        "word": "entertainment",
+        "meaning": "娛樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "facial",
+        "meaning": "臉部的",
+        "appearsInSource": true
+      },
+      {
+        "word": "interfere",
+        "meaning": "干涉",
+        "appearsInSource": true
+      },
+      {
+        "word": "ministry",
+        "meaning": "政府部會",
+        "appearsInSource": true
+      },
+      {
+        "word": "opera",
+        "meaning": "歌劇",
+        "appearsInSource": true
+      },
+      {
+        "word": "persuasive",
+        "meaning": "有說服力的",
+        "appearsInSource": true
+      },
+      {
+        "word": "phenomenon",
+        "meaning": "現象",
+        "appearsInSource": true
+      },
+      {
+        "word": "route",
+        "meaning": "路線",
+        "appearsInSource": true
+      },
+      {
+        "word": "shady",
+        "meaning": "陰暗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "slogan",
+        "meaning": "口號",
+        "appearsInSource": true
+      },
+      {
+        "word": "usage",
+        "meaning": "使用方式",
+        "appearsInSource": true
+      },
+      {
+        "word": "youthful",
+        "meaning": "年輕的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Copper Clock〉第 1 段的事件，哪個選項能正確補完整句？\nThe old opera house stood beside ____ over prices.",
+      "options": [
+        "a shady street where tea merchants argued",
+        "a narrow view of what had happened",
+        "a narrow desk beneath the final window"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a shady street where tea merchants argued",
+      "existingAnswerExplanation": "原文證據：The old opera house stood beside a shady street where tea merchants argued over prices.\n本段對照：臺北，1895年。 老戲院坐落在一條陰暗的街旁，茶商每天在那裡爭論價格。十七歲的林昭月天未亮就帶著掃帚，以及清潔印刷版用的酸液來上工。老闆要她掃舞臺，她卻更喜歡研究後臺的機械。布幕上方掛著一座由不同齒輪拼成的銅鐘。造鐘師傅過世前來不及解釋它奇特的設計。有人稱它是奇蹟，有人說那是危險的異象；昭月認為它只是尚未解答的問題。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Taipei, 1895. The old opera house stood beside a shady street where tea merchants argued over prices. Lin Zhaoyue, seventeen, arrived before sunrise with a broom and a jar of acid used to clean printing plates. Her employer had asked her to sweep the stage, but she preferred the machinery behind it. Above the curtain hung a copper clock, built from gears that did not match. The clockmaker had died before he could explain its unusual design. Some people called it a miracle; others called it a dangerous phenomenon. Zhaoyue called it a question waiting for a better answer.",
+          "chinese": "臺北，1895年。 老戲院坐落在一條陰暗的街旁，茶商每天在那裡爭論價格。十七歲的林昭月天未亮就帶著掃帚，以及清潔印刷版用的酸液來上工。老闆要她掃舞臺，她卻更喜歡研究後臺的機械。布幕上方掛著一座由不同齒輪拼成的銅鐘。造鐘師傅過世前來不及解釋它奇特的設計。有人稱它是奇蹟，有人說那是危險的異象；昭月認為它只是尚未解答的問題。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 5,
+          "english": "At the back of the theatre she had built a tiny shelf for rescued scraps of paper. Receipts, poems, and letters to people who had moved away rested there in separate bundles. Wenbo teased her for saving rubbish, but sometimes a missing address could be recovered from a torn corner. Zhaoyue had never imagined that her habit would become part of a much larger struggle. On the night of the copper clock, she placed her father's old measuring rule beside the machine. It did not tell her how time worked. It reminded her, instead, that if she made a mistake she should be willing to measure again.",
+          "chinese": "她在戲院後方做了一小層架，專放撿回的紙片。收據、詩和寄給搬家者的信分門別類綁好。文博笑她撿垃圾，但有時一張撕破的紙角能找回遺失地址。昭月從沒想過，這習慣有一天會變成更大抗爭的一部分。銅鐘響起那晚，她把父親留下的舊尺放在機器旁。尺不能告訴她時間怎麼運作，卻提醒她：若量錯了，就應願意再量一次。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Copper Clock〉第 6 段的事件，哪個選項能正確補完整句？\nThen her shoes touched ____, and the year outside was no longer 1895.",
+      "options": [
+        "a cord attached",
+        "a battered suitcase",
+        "a new floor"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a new floor",
+      "existingAnswerExplanation": "原文證據：Then her shoes touched a new floor, and the year outside was no longer 1895.\n本段對照：傍晚，她在一張歌劇海報背面讀到銅鐘的使用說明。 最後一行令人費解：「當兩個終點共用同一時辰，逆著光轉動分針。」十一點五十九分，沒有人演奏，音樂卻自行響起。舞臺燈光一閃，銅鐘發出低沉的一聲，昭月腳下的地板消失了。她看見另一間窗戶破碎、裝著奇異電燈的戲院；一名穿白襯衫的少年正向同一座鐘伸手。他看起來也同樣驚訝。手中的海報漸漸發燙。再度踩到地板時，門外已不再是1895年。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That evening she studied the clock's usage instructions, written on the back of an opera poster. The final line made no sense: When two endings share one hour, turn the minute hand against the light. At eleven fifty-nine, music began although no musicians were present. The stage lights flashed. The clock gave a single deep note, and the floor beneath Zhaoyue disappeared. For one breath she saw a different theatre with broken windows, strange electric lamps, and a boy in a white shirt reaching toward the very same clock. He seemed equally surprised. The poster in her hand became warm. Then her shoes touched a new floor, and the year outside was no longer 1895.",
+          "chinese": "傍晚，她在一張歌劇海報背面讀到銅鐘的使用說明。 最後一行令人費解：「當兩個終點共用同一時辰，逆著光轉動分針。」十一點五十九分，沒有人演奏，音樂卻自行響起。舞臺燈光一閃，銅鐘發出低沉的一聲，昭月腳下的地板消失了。她看見另一間窗戶破碎、裝著奇異電燈的戲院；一名穿白襯衫的少年正向同一座鐘伸手。他看起來也同樣驚訝。手中的海報漸漸發燙。再度踩到地板時，門外已不再是1895年。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "Taipei, 1895. The old opera house stood beside a shady street where tea merchants argued over prices. Lin Zhaoyue, seventeen, arrived before sunrise with a broom and a jar of acid used to clean printing plates. Her employer had asked her to sweep the stage, but she preferred the machinery behind it. Above the curtain hung a copper clock, built from gears that did not match. The clockmaker had died before he could explain its unusual design. Some people called it a miracle; others called it a dangerous phenomenon. Zhaoyue called it a question waiting for a better answer.",
+          "chinese": "臺北，1895年。 老戲院坐落在一條陰暗的街旁，茶商每天在那裡爭論價格。十七歲的林昭月天未亮就帶著掃帚，以及清潔印刷版用的酸液來上工。老闆要她掃舞臺，她卻更喜歡研究後臺的機械。布幕上方掛著一座由不同齒輪拼成的銅鐘。造鐘師傅過世前來不及解釋它奇特的設計。有人稱它是奇蹟，有人說那是危險的異象；昭月認為它只是尚未解答的問題。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

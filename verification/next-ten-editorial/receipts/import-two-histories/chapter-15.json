@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 15,
+  "chapterId": "import-two-histories-15",
+  "sourceChapterSha256": "e7cf39e7050b85a15c50a72cd8d73e00bac355a06352ccfa21d42e8b5c9cd075",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "戲院地下纜軌將檔案送過河，黃姓男子啟動第二聲鐘，鐵軌崩裂而二人被困河邊安全岩臺。",
+    "previousChapterEndingEnglish": "Outside, the councilor asked whether the clock could predict another disaster. Yicheng thought of the dates in his newspapers and of everything he knew would happen before Zhaoyue grew old. He could make a convincing forecast and earn a powerful ally. But a false sense of certainty might also tempt the councilor to punish innocent people. Yicheng chose to tell him only what their evidence could support. They hurried back to the theatre carrying the copied ledger. Behind them, the clerk locked the room. Neither noticed the stranger who had been watching from across the street, smiling as though their honesty had just made his task easier.",
+    "nextChapterOpeningEnglish": "The broken rail dropped them onto a hidden gallery that seemed to exist outside both years. Photographs covered the walls, and every frame held an image of the same theatre at a different moment. A distant celebration rang out from one picture, while another showed soldiers carrying a wounded man. At the room's center stood a glass container full of copper keys. A swarm of tiny insects moved around it like a hive without bees. “Don't touch the glass,” Liang warned. “The keeper of this place was an addict of power. He learned to make people surrender their memories in exchange for a glimpse of the future.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The hidden chamber was reached through a circular staircase carved into the earth beneath the stage. An artistic mural covered its walls, blending images of boats, mountains, and clocks. A theatre instructor had once used the place to teach pronunciation and movement to actors; now dusty costumes and jars of old makeup lay scattered everywhere. Yicheng found a socket connected to copper wires and recognized a primitive version of the technological system he had learned to repair. Zhaoyue looked at the device with a mixture of awe and suspicion. A blessing, she thought, could become a trap if someone decided only certain people deserved it.",
+        "zh": "舞臺下的密室要沿著圓形樓梯往下走。 牆上的藝術壁畫把船、山和鐘融成同一幅景象。從前有位戲劇教師在此教演員發音與動作，如今只剩落灰的戲服和化妝品罐。以誠找到一個連著銅線的插座，認出那是他學過的技術系統的早期樣貌。昭月又敬畏又懷疑：即使原本是祝福，只要有人決定誰配得到，它也能變成陷阱。",
+        "englishSha256": "222f6e0efa466bb00b31808607e62a2eb1d25473d5c098c4b91d5deb57c80890",
+        "chineseSha256": "12e3a26390b8c8863115e668d754b5072268586c4fade8c8f6cdcd7a0733cf79"
+      },
+      {
+        "number": 2,
+        "en": "Liang guided them to a narrow tunnel ending at a cliff over the river. A bell-shaped container hung from a metal rail. It had once been used to transport paper between the theatre and a secret riverside storehouse. The mechanism required diligence: one careless movement could send the container into the water. Yicheng proposed an alternative route along the bank, but it would take too long. They could hear men searching the building overhead. Rather than retreat, Zhaoyue tied the records to the rail and asked him to follow her instructions. They moved the container slowly, careful not to disturb the rusted supports.",
+        "zh": "阿良帶他們走到狹窄隧道，盡頭是河上的一處斷崖。 一個鐘形容器吊在金屬軌道上，曾用來把紙件送往河邊祕密倉庫。操作需要耐心和勤勉，稍有不慎，容器就會落水。以誠提議改走河岸，但時間不夠；樓上的搜查聲已經逼近。他們沒有撤退，昭月把文件綁上軌道，請以誠照她指示慢慢移動，避免碰壞鏽蝕支架。",
+        "englishSha256": "2bbbedbc9fd0d474e751eb26fc44f21c3b8041cd4dc36a3a5bbdec53bdab93e0",
+        "chineseSha256": "2176e9c7189af3e789d81134e5d0bcd56f42805602489c0082941307de11d543"
+      },
+      {
+        "number": 3,
+        "en": "The tunnel walls carried newspaper advertisements from different decades. One celebrated modern transportation. Another showed a submarine at sea, a reminder of how warfare had changed by 1945. Shen had pasted them there as a private history of inventions, but Liang explained that the pictures also hid timing signals. The year printed beneath each advertisement regulated the clock's direction. “Nowadays,” Yicheng said, “people expect a machine to come with a manual.” Liang laughed softly. “And in every age, people refuse to read the warnings.” He scratched a line beside the next date, revealing a sequence of numbers.",
+        "zh": "隧道牆上貼滿不同年代的報紙廣告。 有一張宣傳現代交通，另一張畫著海上的潛水艇，提醒人1945年的戰爭技術已與從前不同。沈仲把它們貼成自己的發明史，阿良卻說圖片也暗藏計時訊號。每張廣告下的年份控制銅鐘通道的方向。「現在的人，」以誠說，「拿到機器就以為應有說明書。」阿良輕笑：「但每個年代的人都不愛看警告。」他在下一個日期旁刮出一道線，露出一串數字。",
+        "englishSha256": "34dae2c734cec43ae8dcdc0fc85adf606e09232828ca3e827d4e19618d836740",
+        "chineseSha256": "091750b0e6ab19d69db18545409a867f0c140eadf7df2b9b3ce8cc12077979a6"
+      },
+      {
+        "number": 4,
+        "en": "The theatre instructor had kept a scrapbook full of publicity for performances staged before the political upheavals. Its advertisements promised laughter, romance, and exotic wonders from distant countries. Between those pages, however, were notes on unpaid wages and repairs that audiences never saw. “A beautiful poster tells you what somebody wants you to believe,” Zhaoyue said. “The notes tell you what they needed to do.” She showed Yicheng how to read the faded marks without tearing the paper. Each discovery strengthened their sense that public display and private experience could be very different histories.",
+        "zh": "戲劇老師留下的剪貼簿收著政局變動以前演出的宣傳廣告，海報承諾歡笑、浪漫和異國奇觀；頁縫卻藏著欠薪與觀眾看不見的修理紀錄。「漂亮海報告訴你別人希望你相信什麼，」昭月說，「筆記才告訴你他們真正做了什麼。」她教以誠在不撕壞紙張的前提下讀退色記號。每項發現都加深兩人的理解：公開展示和私人經驗可能是極不相同的兩部歷史。",
+        "englishSha256": "f7a475a5feed099d2c65f254c97d635876cdaafc026877454795fc9eda90206d",
+        "chineseSha256": "6dab6f0b86f36e614c9dc948a4311a5b668d41d2e1d0654684877c841c1d3381"
+      },
+      {
+        "number": 5,
+        "en": "When their passage grew dangerous, Yicheng remembered the practical advice of the village plumber. He tested every support rather than assuming its age made it strong or weak. Zhaoyue kept a hand on the record box and counted the movements aloud. Their words were plain and steady. It occurred to her that the clockmaker's greatest invention might not have been the machine, but the habit of making strangers work together carefully. She wondered if that habit would survive when the last passage closed. The thought saddened her, yet she kept counting until the container reached the far bank.",
+        "zh": "通道愈危險，以誠就愈想起山村水管匠的實務建議。他逐個測試支架，不因年齡新舊就假設堅固或脆弱。昭月手扶文件箱，大聲數每次移動，語氣簡單穩定。她忽然想，鐘匠最偉大的發明也許不是機器，而是讓陌生人謹慎合作的習慣。若最後通道關閉，這種習慣會留下嗎？念頭使她難過，但她仍持續數到容器抵達對岸。",
+        "englishSha256": "6f63bced6b4bb4ee534e7f26fe22912c053b1afda2f45f66fe87b53890b0c5f0",
+        "chineseSha256": "016db9509455ccdf152cad5481fd29ab9474ca9c9733c44e42e2852fe3031dfb"
+      },
+      {
+        "number": 6,
+        "en": "For an instant, Yicheng wished they were ordinary travelers concerned only with the weather and the next meal. Then he felt the weight of the box and remembered the people waiting to be named. He tightened the final knot.",
+        "zh": "那一刻以誠希望兩人只是普通旅人，只需煩惱天氣和下一頓飯。但他摸到箱子的重量，想起等著被記住的人，便把最後一道繩結綁緊。",
+        "englishSha256": "7178d57f65beed4f46c7cf15d5f7a8f42cca6fb812f963f464fcff7eb09c1dc1",
+        "chineseSha256": "79e3790f2579550962e4b8cc299167a94aa15c2df9f2a20404fe3068579f27ed"
+      },
+      {
+        "number": 7,
+        "en": "The container reached the far side. For a moment everyone smiled; then a sharp noise came from above. The man with the silver ring had opened the second bell. Light poured into the tunnel, and the rail shook. Zhaoyue pushed Yicheng toward the safe ledge as the metal snapped behind them. Their hands caught the stone edge together. The papers were safe, but the path back was gone. Beyond the river, they could see the roof of the theatre in both 1895 and 1945, superimposed like two paintings that no longer fit their frames.",
+        "zh": "容器終於抵達對岸。 眾人剛露出笑容，頭頂忽然傳來尖銳聲響。戴銀戒指的男人啟動了第二聲鐘。光灌進隧道，軌道劇烈震動。昭月把以誠推向安全岩臺，身後金屬斷裂，兩人同時抓住石緣。文件保住了，回去的路卻沒了。河對岸的戲院屋頂竟同時呈現1895年與1945年的模樣，像兩幅重疊卻無法對齊畫框的畫。",
+        "englishSha256": "d665cddfa16787ccefeefbe1399ff22ead43572986bf4a343bdad77c6338c2a7",
+        "chineseSha256": "a5270e078dac06242e6eb2150c1a4b3acfc20eb0a735ce1e350813267a51ea73"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 627,
+    "targets": [
+      {
+        "word": "alternative",
+        "meaning": "替代選擇",
+        "appearsInSource": true
+      },
+      {
+        "word": "artistic",
+        "meaning": "藝術性的",
+        "appearsInSource": true
+      },
+      {
+        "word": "blending",
+        "meaning": "融合",
+        "appearsInSource": true
+      },
+      {
+        "word": "blessing",
+        "meaning": "祝福",
+        "appearsInSource": true
+      },
+      {
+        "word": "circular",
+        "meaning": "圓形的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cliff",
+        "meaning": "懸崖",
+        "appearsInSource": true
+      },
+      {
+        "word": "diligence",
+        "meaning": "勤勉",
+        "appearsInSource": true
+      },
+      {
+        "word": "disturb",
+        "meaning": "打擾",
+        "appearsInSource": true
+      },
+      {
+        "word": "instructor",
+        "meaning": "教師",
+        "appearsInSource": true
+      },
+      {
+        "word": "makeup",
+        "meaning": "化妝品",
+        "appearsInSource": true
+      },
+      {
+        "word": "nowadays",
+        "meaning": "如今",
+        "appearsInSource": true
+      },
+      {
+        "word": "pronunciation",
+        "meaning": "發音",
+        "appearsInSource": true
+      },
+      {
+        "word": "publicity",
+        "meaning": "宣傳",
+        "appearsInSource": true
+      },
+      {
+        "word": "regulated",
+        "meaning": "控制",
+        "appearsInSource": true
+      },
+      {
+        "word": "retreat",
+        "meaning": "撤退",
+        "appearsInSource": true
+      },
+      {
+        "word": "scratched",
+        "meaning": "刮擦",
+        "appearsInSource": true
+      },
+      {
+        "word": "socket",
+        "meaning": "插座",
+        "appearsInSource": true
+      },
+      {
+        "word": "submarine",
+        "meaning": "潛水艇",
+        "appearsInSource": true
+      },
+      {
+        "word": "technological",
+        "meaning": "科技的",
+        "appearsInSource": true
+      },
+      {
+        "word": "transportation",
+        "meaning": "運輸",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Cliff Beneath the Stage〉第 1 段的事件，哪個選項能正確補完整句？\nA theatre instructor had once used ____ to teach pronunciation and movement to actors; now dusty costumes and jars of old makeup lay scattered everywhere.",
+      "options": [
+        "the names",
+        "the autobiography",
+        "the place"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the place",
+      "existingAnswerExplanation": "原文證據：A theatre instructor had once used the place to teach pronunciation and movement to actors; now dusty costumes and jars of old makeup lay scattered everywhere.\n本段對照：舞臺下的密室要沿著圓形樓梯往下走。 牆上的藝術壁畫把船、山和鐘融成同一幅景象。從前有位戲劇教師在此教演員發音與動作，如今只剩落灰的戲服和化妝品罐。以誠找到一個連著銅線的插座，認出那是他學過的技術系統的早期樣貌。昭月又敬畏又懷疑：即使原本是祝福，只要有人決定誰配得到，它也能變成陷阱。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The hidden chamber was reached through a circular staircase carved into the earth beneath the stage. An artistic mural covered its walls, blending images of boats, mountains, and clocks. A theatre instructor had once used the place to teach pronunciation and movement to actors; now dusty costumes and jars of old makeup lay scattered everywhere. Yicheng found a socket connected to copper wires and recognized a primitive version of the technological system he had learned to repair. Zhaoyue looked at the device with a mixture of awe and suspicion. A blessing, she thought, could become a trap if someone decided only certain people deserved it.",
+          "chinese": "舞臺下的密室要沿著圓形樓梯往下走。 牆上的藝術壁畫把船、山和鐘融成同一幅景象。從前有位戲劇教師在此教演員發音與動作，如今只剩落灰的戲服和化妝品罐。以誠找到一個連著銅線的插座，認出那是他學過的技術系統的早期樣貌。昭月又敬畏又懷疑：即使原本是祝福，只要有人決定誰配得到，它也能變成陷阱。",
+          "matchedQueryTerms": 36
+        },
+        {
+          "paragraph": 2,
+          "english": "Liang guided them to a narrow tunnel ending at a cliff over the river. A bell-shaped container hung from a metal rail. It had once been used to transport paper between the theatre and a secret riverside storehouse. The mechanism required diligence: one careless movement could send the container into the water. Yicheng proposed an alternative route along the bank, but it would take too long. They could hear men searching the building overhead. Rather than retreat, Zhaoyue tied the records to the rail and asked him to follow her instructions. They moved the container slowly, careful not to disturb the rusted supports.",
+          "chinese": "阿良帶他們走到狹窄隧道，盡頭是河上的一處斷崖。 一個鐘形容器吊在金屬軌道上，曾用來把紙件送往河邊祕密倉庫。操作需要耐心和勤勉，稍有不慎，容器就會落水。以誠提議改走河岸，但時間不夠；樓上的搜查聲已經逼近。他們沒有撤退，昭月把文件綁上軌道，請以誠照她指示慢慢移動，避免碰壞鏽蝕支架。",
+          "matchedQueryTerms": 9
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Cliff Beneath the Stage〉第 7 段的事件，哪個選項能正確補完整句？\nThe man with the silver ring had opened ____.",
+      "options": [
+        "the portraits",
+        "the second bell",
+        "the machine's weakness"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the second bell",
+      "existingAnswerExplanation": "原文證據：The man with the silver ring had opened the second bell.\n本段對照：容器終於抵達對岸。 眾人剛露出笑容，頭頂忽然傳來尖銳聲響。戴銀戒指的男人啟動了第二聲鐘。光灌進隧道，軌道劇烈震動。昭月把以誠推向安全岩臺，身後金屬斷裂，兩人同時抓住石緣。文件保住了，回去的路卻沒了。河對岸的戲院屋頂竟同時呈現1895年與1945年的模樣，像兩幅重疊卻無法對齊畫框的畫。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "The container reached the far side. For a moment everyone smiled; then a sharp noise came from above. The man with the silver ring had opened the second bell. Light poured into the tunnel, and the rail shook. Zhaoyue pushed Yicheng toward the safe ledge as the metal snapped behind them. Their hands caught the stone edge together. The papers were safe, but the path back was gone. Beyond the river, they could see the roof of the theatre in both 1895 and 1945, superimposed like two paintings that no longer fit their frames.",
+          "chinese": "容器終於抵達對岸。 眾人剛露出笑容，頭頂忽然傳來尖銳聲響。戴銀戒指的男人啟動了第二聲鐘。光灌進隧道，軌道劇烈震動。昭月把以誠推向安全岩臺，身後金屬斷裂，兩人同時抓住石緣。文件保住了，回去的路卻沒了。河對岸的戲院屋頂竟同時呈現1895年與1945年的模樣，像兩幅重疊卻無法對齊畫框的畫。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "The hidden chamber was reached through a circular staircase carved into the earth beneath the stage. An artistic mural covered its walls, blending images of boats, mountains, and clocks. A theatre instructor had once used the place to teach pronunciation and movement to actors; now dusty costumes and jars of old makeup lay scattered everywhere. Yicheng found a socket connected to copper wires and recognized a primitive version of the technological system he had learned to repair. Zhaoyue looked at the device with a mixture of awe and suspicion. A blessing, she thought, could become a trap if someone decided only certain people deserved it.",
+          "chinese": "舞臺下的密室要沿著圓形樓梯往下走。 牆上的藝術壁畫把船、山和鐘融成同一幅景象。從前有位戲劇教師在此教演員發音與動作，如今只剩落灰的戲服和化妝品罐。以誠找到一個連著銅線的插座，認出那是他學過的技術系統的早期樣貌。昭月又敬畏又懷疑：即使原本是祝福，只要有人決定誰配得到，它也能變成陷阱。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

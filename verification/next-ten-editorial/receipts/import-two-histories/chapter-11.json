@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 11,
+  "chapterId": "import-two-histories-11",
+  "sourceChapterSha256": "82d46a760cc60d434f3ddddf0ae39bf8f665cfc78b68d33beab2bbb4eb215df7",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "以誠父親店遭偽造官方紀錄誣陷，藏在收音機裡的錄音器與檔案標籤連到一名收錢改裝的學生和檔案員。",
+    "previousChapterEndingEnglish": "Yicheng wanted to tell his father, but a notice had just announced the resignation of a respected archivist. The man's departure was linked to an offensive accusation about stolen documents. If the archives were about to be closed, they had little time to act. Zhaoyue suggested that they classify the testimonies by family, place, and date, then transform them into a copy small enough to hide inside the clock. As she spoke, a mark appeared on her wrist, exactly where the photographed girl's scar lay. It was not painful. It was shaped like the bird with two tails. Yicheng stared. The clock had begun marking its witnesses.",
+    "nextChapterOpeningEnglish": "Shen's warning arrived with a drawing of an oval vessel and instructions to fasten its lid against water. A storm had damaged the coastal warehouse where copies of old records were stored. The distribution of supplies had broken down, and officials demanded greater efficiency before allowing volunteers to enter. Zhaoyue argued that the absolute priority was to protect people, then papers. Yicheng agreed, but he knew the papers represented people who could no longer speak. They needed a plan realistic enough to save both. A fisherman offered his small boat, warning that they would have only one safe tide."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Yicheng returned to his father's shop to discover a notice accusing the family of hiding stolen government records. His father offered an assurance that the accusation was false, but customers had already stopped coming. In the crowded market, rumors moved faster than goods. Merchants who once praised the shop's honest commerce now avoided its door. Yicheng recognized a consistent pattern: someone was using public fear to isolate anyone connected to the clock. The silver-ringed Huang could interfere in 1895, but he could not personally direct every event in 1945. Someone in this era had chosen to cooperate with him.",
+        "zh": "以誠回到父親的店，發現門口貼著告示，指控陳家藏匿被偷的官方紀錄。 父親保證指控不實，可顧客已不敢上門。市場裡謠言傳得比貨物快，從前稱讚店家誠實經營的商人，如今都繞道走。以誠察覺一個一致的模式：有人利用恐懼孤立與銅鐘有關的人。1895年的黃某雖能干預過去，卻無法親自在1945年操縱每件事；必定有人在這個年代自願與他合作。",
+        "englishSha256": "20d0cc6cea46abbd5735d4abbd49ea8dd96d3fd4e49b7839e003ff3917fd6580",
+        "chineseSha256": "2cd967258bd239fca87cdae4a72e2e5a3ce6308ebc8aa2f68f4b8ad8a10d3578"
+      },
+      {
+        "number": 2,
+        "en": "A troublesome customer arrived with an expensive radio and boasted that its manufacturer could build anything, even machines tall as skyscrapers. Yicheng saw through the display. Hidden inside the case was a recorder designed to expose private conversations. He removed it and found a label from the very archive Zhaoyue had visited. Beneath the label lay a small container marked HYDROGEN, apparently taken from a school experiment. The contents had long escaped, but the unfamiliar chemical word helped Yicheng identify a student who had modified the device. The boy confessed that an archivist had paid him to plant it.",
+        "zh": "一個難纏顧客帶著昂貴收音機上門，吹噓製造商無所不能，連摩天大樓般高的機器也造得出來。 以誠看出那是在作秀。機殼裡藏著能揭露私人談話的錄音裝置。他拆掉它，找到與昭月去過的檔案室相同的標籤。標籤底下還有一只寫著「氫」的小容器，似乎出自學校實驗。雖然裡面早已空了，這個化學字卻讓以誠找到改裝裝置的學生。少年承認有位檔案員付錢要他把機器放進來。",
+        "englishSha256": "c395bdc6f2c65c5dd361dadc4376700e292896ca4f2a7b57aad15298a2205ca1",
+        "chineseSha256": "6e5e16972b82142619ab6e7f8dfc5239d7e4b7252b59a58d2e3ba86160434036"
+      },
+      {
+        "number": 3,
+        "en": "The student was frightened of punishment. Yicheng could have exposed him publicly, but the boy reminded him of himself during the war: young, loyal to his family, and ignorant of how adults used him. Instead he offered him a chance to contribute to the investigation. The student agreed and described the archivist's office near the river. A map on the office wall showed a hurricane forecast for a distant coast and notes about emergency recovery. Nothing linked those subjects to local records. Yicheng guessed they served as a cover for messages traveling through a different kind of storm: the unstable passage between years.",
+        "zh": "學生怕受罰。 以誠原可公開揭發他，卻想起戰時的自己：年輕、忠於家人，對大人如何利用自己毫不知情。於是他給少年一次參與調查的機會。學生答應合作，說出了河邊檔案員辦公室的位置。牆上掛著遠方沿海颶風預報與災後復原筆記，乍看與本地檔案毫不相關。以誠猜想那只是掩護，真正的風暴是兩個年代間日益不穩的通道。",
+        "englishSha256": "26e43a135277a6099d600c1768aa8f31052af7a60f7eed4e69aaff02da688fcd",
+        "chineseSha256": "efbf27cb00073a42ae75aaa941262f67873f0248b7b2b29acf2632454e5b8b23"
+      },
+      {
+        "number": 4,
+        "en": "Yicheng's father had belonged to a convention of repair workers who shared spare parts during shortages. Each member was supposed to help others when a machine was too difficult to fix alone. Recently a rumor had made their neighbors accuse the shop of manufacturing forbidden listening devices. The accusation ignored everything the family had done to support the community. His father could not understand why years of service vanished from public memory so quickly. Yicheng answered that ignorance was sometimes easier to spread than evidence, especially when frightened people were told that asking questions would place them in danger.",
+        "zh": "以誠父親曾參加修理工交流會，物資短缺時大家交換零件。遇到難修的機器，成員應互相幫忙。最近謠言卻讓鄰居指控店家製造違禁監聽裝置，完全忽視陳家多年來對社區的付出。父親想不通，為何累積多年的服務如此輕易從公眾記憶消失。以誠說，當人們害怕提問惹禍時，無知往往比證據更容易傳播。",
+        "englishSha256": "6af24454b250eac9735f3451c72d0536ad7d9e6c201ea77aed49ee879f2ac4f3",
+        "chineseSha256": "b2c586761bb9850c214c5f2d0db87ff8a530a7941907d6538a9ed75b0533f743"
+      },
+      {
+        "number": 5,
+        "en": "That evening they closed the shop early and prepared a plain meal. For once Yicheng's father asked him to put down his tools. “Even a watch needs a moment of rest,” he said. They sat quietly while rain tapped the shutters, allowing themselves the unfamiliar luxury of relaxation. Yicheng considered telling him every detail about the clock, but he could not find words that would make an impossible journey sound safe. Instead, he spoke about Zhaoyue's courage and admitted that he was frightened of losing her. His father listened without interruption. When they finished eating, he pushed a small wooden box across the table. Inside lay a spare copper gear.",
+        "zh": "那天傍晚他們提早關店，吃一頓簡單晚飯。父親難得叫以誠放下工具：「連手錶也需要休息。」他們靜靜坐著聽雨敲窗板，享受不熟悉的放鬆。以誠想把銅鐘的一切說出來，卻找不到能讓不可能的旅程聽起來安全的詞。他改為談昭月的勇氣，坦承害怕失去她。父親始終沒有打斷。飯後，他推來一個小木盒，裡面是備用銅齒輪。",
+        "englishSha256": "0ec8182ec3d218b43e49dfd36468fcd31cba866aa33413150c31b84fead8745a",
+        "chineseSha256": "3a33e9ba4d45fb4d41eb40779091dec3d497584d3f43f4f256ab31614e176362"
+      },
+      {
+        "number": 6,
+        "en": "Zhaoyue waited in the theatre, listening to a broadcast meant to be informative but filled with confident half-truths. “How many people can hear this?” she asked. “Thousands,” Yicheng replied. “Then perhaps it can help us.” She proposed using the radio to share a story the archives would otherwise erase. Yicheng hesitated because resistance could endanger his father. Yet doing nothing had already brought misfortune to the family. He tuned the machine, and a voice emerged through the static—not the announcer's, but Shen Zhong's: “Do not trust the man who claims to remember everything.”",
+        "zh": "昭月在戲院等候，聽著本應傳遞資訊、卻充滿自信半真話的廣播。 「多少人聽得到？」她問。「幾千人吧。」以誠回答。「那也許能幫我們。」昭月提議用廣播說出將被檔案抹掉的故事。以誠猶豫，怕反抗會危及父親。但什麼也不做，家裡早已遭遇不幸。他調整頻率，雜音中浮出沈仲的聲音：「不要相信那個自稱什麼都記得的人。」",
+        "englishSha256": "a63a761fe8e7fc101992f6a1f10820846a9532411667134cf133e1e2d1020262",
+        "chineseSha256": "fe3711739128d9fec60667d3bba363b3d717174d4bb8cd24ba67eeb088c29399"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 602,
+    "targets": [
+      {
+        "word": "accusing",
+        "meaning": "指控",
+        "appearsInSource": true
+      },
+      {
+        "word": "assurance",
+        "meaning": "保證",
+        "appearsInSource": true
+      },
+      {
+        "word": "boasted",
+        "meaning": "吹噓",
+        "appearsInSource": true
+      },
+      {
+        "word": "commerce",
+        "meaning": "商業貿易",
+        "appearsInSource": true
+      },
+      {
+        "word": "consistent",
+        "meaning": "一致的",
+        "appearsInSource": true
+      },
+      {
+        "word": "contribute",
+        "meaning": "貢獻",
+        "appearsInSource": true
+      },
+      {
+        "word": "convention",
+        "meaning": "慣例會議",
+        "appearsInSource": true
+      },
+      {
+        "word": "expose",
+        "meaning": "揭露",
+        "appearsInSource": true
+      },
+      {
+        "word": "hurricane",
+        "meaning": "颶風",
+        "appearsInSource": true
+      },
+      {
+        "word": "hydrogen",
+        "meaning": "氫",
+        "appearsInSource": true
+      },
+      {
+        "word": "ignorance",
+        "meaning": "無知",
+        "appearsInSource": true
+      },
+      {
+        "word": "informative",
+        "meaning": "提供資訊的",
+        "appearsInSource": true
+      },
+      {
+        "word": "loyal",
+        "meaning": "忠誠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "manufacturing",
+        "meaning": "製造",
+        "appearsInSource": true
+      },
+      {
+        "word": "misfortune",
+        "meaning": "不幸",
+        "appearsInSource": true
+      },
+      {
+        "word": "recovery",
+        "meaning": "復原",
+        "appearsInSource": true
+      },
+      {
+        "word": "relaxation",
+        "meaning": "放鬆",
+        "appearsInSource": true
+      },
+      {
+        "word": "resistance",
+        "meaning": "抵抗",
+        "appearsInSource": true
+      },
+      {
+        "word": "skyscrapers",
+        "meaning": "摩天大樓",
+        "appearsInSource": true
+      },
+      {
+        "word": "troublesome",
+        "meaning": "難纏的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Radio That Accused a Man〉第 1 段的事件，哪個選項能正確補完整句？\nYicheng returned to ____ to discover a notice accusing the family of hiding stolen government records.",
+      "options": [
+        "his father's shop",
+        "his head down",
+        "his book"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "his father's shop",
+      "existingAnswerExplanation": "原文證據：Yicheng returned to his father's shop to discover a notice accusing the family of hiding stolen government records.\n本段對照：以誠回到父親的店，發現門口貼著告示，指控陳家藏匿被偷的官方紀錄。 父親保證指控不實，可顧客已不敢上門。市場裡謠言傳得比貨物快，從前稱讚店家誠實經營的商人，如今都繞道走。以誠察覺一個一致的模式：有人利用恐懼孤立與銅鐘有關的人。1895年的黃某雖能干預過去，卻無法親自在1945年操縱每件事；必定有人在這個年代自願與他合作。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Yicheng returned to his father's shop to discover a notice accusing the family of hiding stolen government records. His father offered an assurance that the accusation was false, but customers had already stopped coming. In the crowded market, rumors moved faster than goods. Merchants who once praised the shop's honest commerce now avoided its door. Yicheng recognized a consistent pattern: someone was using public fear to isolate anyone connected to the clock. The silver-ringed Huang could interfere in 1895, but he could not personally direct every event in 1945. Someone in this era had chosen to cooperate with him.",
+          "chinese": "以誠回到父親的店，發現門口貼著告示，指控陳家藏匿被偷的官方紀錄。 父親保證指控不實，可顧客已不敢上門。市場裡謠言傳得比貨物快，從前稱讚店家誠實經營的商人，如今都繞道走。以誠察覺一個一致的模式：有人利用恐懼孤立與銅鐘有關的人。1895年的黃某雖能干預過去，卻無法親自在1945年操縱每件事；必定有人在這個年代自願與他合作。",
+          "matchedQueryTerms": 26
+        },
+        {
+          "paragraph": 3,
+          "english": "The student was frightened of punishment. Yicheng could have exposed him publicly, but the boy reminded him of himself during the war: young, loyal to his family, and ignorant of how adults used him. Instead he offered him a chance to contribute to the investigation. The student agreed and described the archivist's office near the river. A map on the office wall showed a hurricane forecast for a distant coast and notes about emergency recovery. Nothing linked those subjects to local records. Yicheng guessed they served as a cover for messages traveling through a different kind of storm: the unstable passage between years.",
+          "chinese": "學生怕受罰。 以誠原可公開揭發他，卻想起戰時的自己：年輕、忠於家人，對大人如何利用自己毫不知情。於是他給少年一次參與調查的機會。學生答應合作，說出了河邊檔案員辦公室的位置。牆上掛著遠方沿海颶風預報與災後復原筆記，乍看與本地檔案毫不相關。以誠猜想那只是掩護，真正的風暴是兩個年代間日益不穩的通道。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Radio That Accused a Man〉第 6 段的事件，哪個選項能正確補完整句？\n“Then perhaps it can help us.” She proposed using ____ to share a story the archives would otherwise erase.",
+      "options": [
+        "the frame",
+        "the radio",
+        "the lost letters"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the radio",
+      "existingAnswerExplanation": "原文證據：“Then perhaps it can help us.” She proposed using the radio to share a story the archives would otherwise erase.\n本段對照：昭月在戲院等候，聽著本應傳遞資訊、卻充滿自信半真話的廣播。 「多少人聽得到？」她問。「幾千人吧。」以誠回答。「那也許能幫我們。」昭月提議用廣播說出將被檔案抹掉的故事。以誠猶豫，怕反抗會危及父親。但什麼也不做，家裡早已遭遇不幸。他調整頻率，雜音中浮出沈仲的聲音：「不要相信那個自稱什麼都記得的人。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Zhaoyue waited in the theatre, listening to a broadcast meant to be informative but filled with confident half-truths. “How many people can hear this?” she asked. “Thousands,” Yicheng replied. “Then perhaps it can help us.” She proposed using the radio to share a story the archives would otherwise erase. Yicheng hesitated because resistance could endanger his father. Yet doing nothing had already brought misfortune to the family. He tuned the machine, and a voice emerged through the static—not the announcer's, but Shen Zhong's: “Do not trust the man who claims to remember everything.”",
+          "chinese": "昭月在戲院等候，聽著本應傳遞資訊、卻充滿自信半真話的廣播。 「多少人聽得到？」她問。「幾千人吧。」以誠回答。「那也許能幫我們。」昭月提議用廣播說出將被檔案抹掉的故事。以誠猶豫，怕反抗會危及父親。但什麼也不做，家裡早已遭遇不幸。他調整頻率，雜音中浮出沈仲的聲音：「不要相信那個自稱什麼都記得的人。」",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 1,
+          "english": "Yicheng returned to his father's shop to discover a notice accusing the family of hiding stolen government records. His father offered an assurance that the accusation was false, but customers had already stopped coming. In the crowded market, rumors moved faster than goods. Merchants who once praised the shop's honest commerce now avoided its door. Yicheng recognized a consistent pattern: someone was using public fear to isolate anyone connected to the clock. The silver-ringed Huang could interfere in 1895, but he could not personally direct every event in 1945. Someone in this era had chosen to cooperate with him.",
+          "chinese": "以誠回到父親的店，發現門口貼著告示，指控陳家藏匿被偷的官方紀錄。 父親保證指控不實，可顧客已不敢上門。市場裡謠言傳得比貨物快，從前稱讚店家誠實經營的商人，如今都繞道走。以誠察覺一個一致的模式：有人利用恐懼孤立與銅鐘有關的人。1895年的黃某雖能干預過去，卻無法親自在1945年操縱每件事；必定有人在這個年代自願與他合作。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

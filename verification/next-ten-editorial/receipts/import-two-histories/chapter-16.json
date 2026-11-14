@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 16,
+  "chapterId": "import-two-histories-16",
+  "sourceChapterSha256": "a9769fee41ae596221724985fb2476190e841c1f762cc5e67d3ea29ce07d0c5e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "兩人進入年代之外的照片藝廊，發現黃兆明改裝第二聲鐘、讓有權限者能抹去證人；兩人要求公開決策。",
+    "previousChapterEndingEnglish": "The container reached the far side. For a moment everyone smiled; then a sharp noise came from above. The man with the silver ring had opened the second bell. Light poured into the tunnel, and the rail shook. Zhaoyue pushed Yicheng toward the safe ledge as the metal snapped behind them. Their hands caught the stone edge together. The papers were safe, but the path back was gone. Beyond the river, they could see the roof of the theatre in both 1895 and 1945, superimposed like two paintings that no longer fit their frames.",
+    "nextChapterOpeningEnglish": "Returning to 1945, they called a small reunion in the radio shop. Wenbo had remained in 1895, but his voice came through the clock whenever the note was repeated. Madam Luo, Mei, Shen, and Liang joined the conversation. The group had adequate evidence to demonstrate the mechanism's danger; what they lacked was an agreeable solution. Closing it would protect the present but prevent anyone from giving future assistance to those still trapped. Keeping it open might preserve more records, yet also expose people to further tragedy. Zhaoyue listened carefully, reluctant to choose between harms that felt equally real."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The broken rail dropped them onto a hidden gallery that seemed to exist outside both years. Photographs covered the walls, and every frame held an image of the same theatre at a different moment. A distant celebration rang out from one picture, while another showed soldiers carrying a wounded man. At the room's center stood a glass container full of copper keys. A swarm of tiny insects moved around it like a hive without bees. “Don't touch the glass,” Liang warned. “The keeper of this place was an addict of power. He learned to make people surrender their memories in exchange for a glimpse of the future.”",
+        "zh": "斷掉的軌道把他們送進一條祕密藝廊，它似乎不屬於任何年份。 牆上都是戲院在不同時刻的照片。有一幅傳出遠方慶典的聲音，另一幅畫裡士兵正抬著傷者。中央的玻璃容器裝滿銅鑰匙，微小昆蟲繞著它飛舞，彷彿沒有蜜蜂的蜂巢。「別碰玻璃，」阿良警告，「這地方的看守者沉迷權力。他學會用窺視未來的機會，換取別人的記憶。」",
+        "englishSha256": "cb46e1b1ff0a78769cd8e81737ad7d14c6066375e42e5b4246c075e8fa3d9275",
+        "chineseSha256": "ecf2ab09b88766c911602a5aab82fb8d896995453a135b3e066deb554e5f9932"
+      },
+      {
+        "number": 2,
+        "en": "Zhaoyue examined the wall to distinguish photographs from living windows. In one frame she could see herself kneeling beside a child. In another, Yicheng's father was tightening a radio knob. A flea jumped across a cracked photograph, reminding her that even a mysterious room could contain ordinary life. Liang told them that this chamber preserved only a partial record of events. People often mistook the images for fate, when they were merely possibilities. A lecturer had once used a telescope here to teach students about distant stars. His lesson had been simple: seeing far away did not mean understanding what one saw.",
+        "zh": "昭月靠近牆面，試著分辨照片與活生生的窗口。 一個畫框裡，她正跪在小孩旁邊；另一個裡，以誠父親正在轉收音機旋鈕。一隻跳蚤跳過破照片，提醒她即使神祕房間也有普通生命。阿良解釋這裡只保存事件的部分紀錄，人們常把影像誤認成命運，其實只是可能性。曾有一位講師用望遠鏡在這裡教學生看遙遠的星星；他最重要的課是：看得遠不表示看得懂。",
+        "englishSha256": "14db48d90af23f0f02caec1a1f981e13fd2d579b928782e3feca9d8de69e8f8c",
+        "chineseSha256": "54ff8b371573efc55ce48ea2c24ee020c67359203d04884d835b0f51d9d5cc55"
+      },
+      {
+        "number": 3,
+        "en": "They found a promising account of the clockmaker's intention. He had wished to create a place for preservation, namely a refuge for testimony when a regime destroyed its own records. An intensive series of experiments revealed the machine's weakness: it could not judge whether a witness told the truth. Only human beings could compare accounts, question motives, and remain respectful toward those who disagreed. The clockmaker had been satisfied when the first small archive survived a fire. His successor, however, wanted more. He changed the system so that an authorized keeper could erase a witness by turning the second bell.",
+        "zh": "他們找到一份有希望解開謎團的紀錄。 鐘匠最初只想創建保存空間，也就是當政權毀掉自身紀錄時，讓證詞有地方避難。密集實驗也揭露機器弱點：它無法判斷證人說的是真話；人必須自行比對、追問動機，並尊重不同意見者。第一間小檔案室在火災中倖存時，鐘匠已心滿意足。然而繼任者野心更大，改成持有權限者只要轉動第二聲鐘，就能抹去一名見證者。",
+        "englishSha256": "e6de8e6f3985eb04877f6921e52f385d1cc96e54820d9ede5cb16f13d1e7bc52",
+        "chineseSha256": "97080807634252b17c7329ff6206e328eb8af978a2b535fa55b97f675fd4189d"
+      },
+      {
+        "number": 4,
+        "en": "One aspect of the strange gallery troubled Yicheng more than the impossible pictures. A wall showed people celebrating their own success while those who had helped them stood just outside the frame. The images were not necessarily false, but they offered a narrow view of what had happened. He wondered whether satisfaction could make a person careless. When he repaired a radio, he sometimes forgot the customer who had carried it through heavy rain because he was proud of finding the broken wire. The gallery seemed to accuse him of the same habit in a larger form. He stepped closer and looked at the people the photographer had nearly excluded.",
+        "zh": "藝廊有個面向比不可能的照片更讓以誠不安。某面牆上，人們慶祝自己的成功，幫忙者卻被擠出畫框。照片不一定假，卻只呈現狹窄視角。他想，滿足感是否會使人粗心？修好收音機時，他偶爾只得意自己找出斷線，忘了客人冒雨把機器送來。藝廊像在放大他的同樣習慣，於是他走近，仔細看那些差點被攝影者排除的人。",
+        "englishSha256": "d5056107d1d878f64dca2d87d3ae4f94b29570b2a381f6b4e74d64416ce05053",
+        "chineseSha256": "65e15bfd4c288bb77d146917c76e15d3a124b06f37d5af9ae245aeeb9fba37af"
+      },
+      {
+        "number": 5,
+        "en": "Zhaoyue found a narrow desk beneath the final window. A child's notebook lay open there, filled with attempts to draw the bird with two tails. Each drawing was different. Some birds were too large for the page; others looked like ordinary swallows. At the bottom, the child had written: “If I can draw it badly, I can learn to draw it better.” Zhaoyue smiled. It was the most useful lesson she had found in the entire impossible room. She placed the notebook back without copying its owner's name, preserving the little privacy of someone she might never meet.",
+        "zh": "昭月在最後一扇窗下找到窄書桌，上面有孩子的筆記本，畫滿雙尾鳥。每幅都不同：有的鳥大得超出紙頁，有的像普通燕子。頁底寫著：「畫得不好，才有機會學畫得更好。」昭月笑了，這或許是整間不可能房間最有用的一課。她把筆記本放回去，沒有抄下孩子姓名，替未必能相見的人保留一點隱私。",
+        "englishSha256": "0c00c0d4b42e10fa7d513af07b339eb591d356307437a5aae0b4bd40b8ab0bc4",
+        "chineseSha256": "8397bab8ef1402a055f4c7867521483f2dbf92cb204cce8214853b5193d706a0"
+      },
+      {
+        "number": 6,
+        "en": "At the end of the gallery a copper plaque bore the successor's name: Huang Zhaoming. It was the silver-ringed visitor's father. Beneath the name, someone had sprinkled sand across a drawing of two doors. Zhaoyue brushed the grains aside. The inscription offered them a choice. They could destroy the second-bell mechanism and lose all ability to cross between years, or keep the doors open and risk further erasures. Yicheng took her hand and said they should not decide alone. Those whose lives were at stake deserved a voice. Together they turned toward the exit, carrying the truth instead of another key.",
+        "zh": "藝廊盡頭的銅牌刻著繼任者姓名：黃兆明，正是戴銀戒指訪客的父親。 名字下方，有人把沙撒在兩扇門的圖上。昭月撥開沙粒，看見銘文給出的選擇：毀掉第二聲鐘的機制，同時失去穿越能力；或繼續開門，承受更多人被抹去的風險。以誠握住她的手，說這件事不能只由他們決定。受到影響的人，也應該有發言權。他們一同走向出口，帶走的是真相，不是另一把鑰匙。",
+        "englishSha256": "6ca742082ace806cf8f9283c908bc0fb15a9201a3106132e316da3078f79533b",
+        "chineseSha256": "629c2c6216ba145197473e3369800244f47dab1b5d6954b441d4f690eabb7fa2"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 618,
+    "targets": [
+      {
+        "word": "addict",
+        "meaning": "沉迷者",
+        "appearsInSource": true
+      },
+      {
+        "word": "aspect",
+        "meaning": "面向",
+        "appearsInSource": true
+      },
+      {
+        "word": "celebration",
+        "meaning": "慶祝",
+        "appearsInSource": true
+      },
+      {
+        "word": "container",
+        "meaning": "容器",
+        "appearsInSource": true
+      },
+      {
+        "word": "distinguish",
+        "meaning": "區分",
+        "appearsInSource": true
+      },
+      {
+        "word": "flea",
+        "meaning": "跳蚤",
+        "appearsInSource": true
+      },
+      {
+        "word": "gallery",
+        "meaning": "藝廊",
+        "appearsInSource": true
+      },
+      {
+        "word": "hive",
+        "meaning": "蜂巢",
+        "appearsInSource": true
+      },
+      {
+        "word": "intensive",
+        "meaning": "密集的",
+        "appearsInSource": true
+      },
+      {
+        "word": "kneeling",
+        "meaning": "跪下",
+        "appearsInSource": true
+      },
+      {
+        "word": "knob",
+        "meaning": "旋鈕",
+        "appearsInSource": true
+      },
+      {
+        "word": "lecturer",
+        "meaning": "講師",
+        "appearsInSource": true
+      },
+      {
+        "word": "namely",
+        "meaning": "也就是",
+        "appearsInSource": true
+      },
+      {
+        "word": "partial",
+        "meaning": "部分的",
+        "appearsInSource": true
+      },
+      {
+        "word": "preservation",
+        "meaning": "保存",
+        "appearsInSource": true
+      },
+      {
+        "word": "promising",
+        "meaning": "有希望的",
+        "appearsInSource": true
+      },
+      {
+        "word": "respectful",
+        "meaning": "尊重的",
+        "appearsInSource": true
+      },
+      {
+        "word": "satisfaction",
+        "meaning": "滿足",
+        "appearsInSource": true
+      },
+      {
+        "word": "sprinkled",
+        "meaning": "灑下",
+        "appearsInSource": true
+      },
+      {
+        "word": "telescope",
+        "meaning": "望遠鏡",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Room Outside Years〉第 1 段的事件，哪個選項能正確補完整句？\nPhotographs covered the walls, and every frame held ____ at a different moment.",
+      "options": [
+        "an earnest pleasure",
+        "an image of the same theatre",
+        "an account of the rescue"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "an image of the same theatre",
+      "existingAnswerExplanation": "原文證據：Photographs covered the walls, and every frame held an image of the same theatre at a different moment.\n本段對照：斷掉的軌道把他們送進一條祕密藝廊，它似乎不屬於任何年份。 牆上都是戲院在不同時刻的照片。有一幅傳出遠方慶典的聲音，另一幅畫裡士兵正抬著傷者。中央的玻璃容器裝滿銅鑰匙，微小昆蟲繞著它飛舞，彷彿沒有蜜蜂的蜂巢。「別碰玻璃，」阿良警告，「這地方的看守者沉迷權力。他學會用窺視未來的機會，換取別人的記憶。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The broken rail dropped them onto a hidden gallery that seemed to exist outside both years. Photographs covered the walls, and every frame held an image of the same theatre at a different moment. A distant celebration rang out from one picture, while another showed soldiers carrying a wounded man. At the room's center stood a glass container full of copper keys. A swarm of tiny insects moved around it like a hive without bees. “Don't touch the glass,” Liang warned. “The keeper of this place was an addict of power. He learned to make people surrender their memories in exchange for a glimpse of the future.”",
+          "chinese": "斷掉的軌道把他們送進一條祕密藝廊，它似乎不屬於任何年份。 牆上都是戲院在不同時刻的照片。有一幅傳出遠方慶典的聲音，另一幅畫裡士兵正抬著傷者。中央的玻璃容器裝滿銅鑰匙，微小昆蟲繞著它飛舞，彷彿沒有蜜蜂的蜂巢。「別碰玻璃，」阿良警告，「這地方的看守者沉迷權力。他學會用窺視未來的機會，換取別人的記憶。」",
+          "matchedQueryTerms": 22
+        },
+        {
+          "paragraph": 2,
+          "english": "Zhaoyue examined the wall to distinguish photographs from living windows. In one frame she could see herself kneeling beside a child. In another, Yicheng's father was tightening a radio knob. A flea jumped across a cracked photograph, reminding her that even a mysterious room could contain ordinary life. Liang told them that this chamber preserved only a partial record of events. People often mistook the images for fate, when they were merely possibilities. A lecturer had once used a telescope here to teach students about distant stars. His lesson had been simple: seeing far away did not mean understanding what one saw.",
+          "chinese": "昭月靠近牆面，試著分辨照片與活生生的窗口。 一個畫框裡，她正跪在小孩旁邊；另一個裡，以誠父親正在轉收音機旋鈕。一隻跳蚤跳過破照片，提醒她即使神祕房間也有普通生命。阿良解釋這裡只保存事件的部分紀錄，人們常把影像誤認成命運，其實只是可能性。曾有一位講師用望遠鏡在這裡教學生看遙遠的星星；他最重要的課是：看得遠不表示看得懂。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Room Outside Years〉第 6 段的事件，哪個選項能正確補完整句？\nTogether they turned toward the exit, carrying ____.",
+      "options": [
+        "the documents by date",
+        "the truth instead of another key",
+        "the records of those"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the truth instead of another key",
+      "existingAnswerExplanation": "原文證據：Together they turned toward the exit, carrying the truth instead of another key.\n本段對照：藝廊盡頭的銅牌刻著繼任者姓名：黃兆明，正是戴銀戒指訪客的父親。 名字下方，有人把沙撒在兩扇門的圖上。昭月撥開沙粒，看見銘文給出的選擇：毀掉第二聲鐘的機制，同時失去穿越能力；或繼續開門，承受更多人被抹去的風險。以誠握住她的手，說這件事不能只由他們決定。受到影響的人，也應該有發言權。他們一同走向出口，帶走的是真相，不是另一把鑰匙。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "At the end of the gallery a copper plaque bore the successor's name: Huang Zhaoming. It was the silver-ringed visitor's father. Beneath the name, someone had sprinkled sand across a drawing of two doors. Zhaoyue brushed the grains aside. The inscription offered them a choice. They could destroy the second-bell mechanism and lose all ability to cross between years, or keep the doors open and risk further erasures. Yicheng took her hand and said they should not decide alone. Those whose lives were at stake deserved a voice. Together they turned toward the exit, carrying the truth instead of another key.",
+          "chinese": "藝廊盡頭的銅牌刻著繼任者姓名：黃兆明，正是戴銀戒指訪客的父親。 名字下方，有人把沙撒在兩扇門的圖上。昭月撥開沙粒，看見銘文給出的選擇：毀掉第二聲鐘的機制，同時失去穿越能力；或繼續開門，承受更多人被抹去的風險。以誠握住她的手，說這件事不能只由他們決定。受到影響的人，也應該有發言權。他們一同走向出口，帶走的是真相，不是另一把鑰匙。",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 1,
+          "english": "The broken rail dropped them onto a hidden gallery that seemed to exist outside both years. Photographs covered the walls, and every frame held an image of the same theatre at a different moment. A distant celebration rang out from one picture, while another showed soldiers carrying a wounded man. At the room's center stood a glass container full of copper keys. A swarm of tiny insects moved around it like a hive without bees. “Don't touch the glass,” Liang warned. “The keeper of this place was an addict of power. He learned to make people surrender their memories in exchange for a glimpse of the future.”",
+          "chinese": "斷掉的軌道把他們送進一條祕密藝廊，它似乎不屬於任何年份。 牆上都是戲院在不同時刻的照片。有一幅傳出遠方慶典的聲音，另一幅畫裡士兵正抬著傷者。中央的玻璃容器裝滿銅鑰匙，微小昆蟲繞著它飛舞，彷彿沒有蜜蜂的蜂巢。「別碰玻璃，」阿良警告，「這地方的看守者沉迷權力。他學會用窺視未來的機會，換取別人的記憶。」",
+          "matchedQueryTerms": 10
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

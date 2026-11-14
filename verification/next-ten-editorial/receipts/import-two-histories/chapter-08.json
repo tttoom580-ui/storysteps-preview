@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 8,
+  "chapterId": "import-two-histories-8",
+  "sourceChapterSha256": "c3f338659e93d553e0f9ca2890aea1b1b526e0025a66fff3ae1e5e5d54b0b354",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "校舍地下室助產士阿梅保存錯漏完整標記的出生紀錄，展示昭月1945的未來照片和雙尾鳥疤痕。",
+    "previousChapterEndingEnglish": "In the village school they found a newspaper clipping from 1945, carefully hidden among drawings of a helicopter and other machines unknown to the children of 1895. The clipping described the same mountain path, but its village name had changed. Zhaoyue looked again at the map. The empty circles had multiplied, as though the clock were losing its accuracy with every journey. “How do we restore it?” she asked. Yicheng answered with growing certainty: “We must stop treating the missing names as numbers. Each circle needs a story.” From somewhere beneath the school floor, a human voice whispered the name of Zhaoyue's uncle.",
+    "nextChapterOpeningEnglish": "The passage beneath the school opened into a rusty workshop. Old machinery filled the room, and a bald man sat before a fireplace, writing an autobiography by hand. He was Shen Zhong, Zhaoyue's missing uncle. The sight of him made her halt so suddenly that Yicheng nearly collided with her. Shen was older than she remembered, although fewer years had passed in her own life. His first reaction was not joy but anger. “You should never have followed the clock,” he declared. Then he embraced her so fiercely that his notebook slipped from his knees."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Beneath the floorboards lay a room equipped with shelves, a water hose, and a small emergency lamp. A distinguished older woman sat there, surrounded by boxes of identical photographs. Her handwriting covered every available surface. She introduced herself as Mei, a midwife whose involvement in local relief work had made her a target. “People think the clock is a riddle,” she said, “but it is a craft. It requires patience and hands that do not tremble.” She recognized Zhaoyue's uncle in the photograph and placed it face down, as if one memory could still crush her.",
+        "zh": "校舍地板下是一間密室，裝著架子、水管和一盞應急燈。 一位氣質出眾的年長婦人坐在許多一模一樣的照片之間，四周寫滿她的字跡。她自稱阿梅，是一名助產士，因參與地方救援而遭盯上。「大家把銅鐘當成謎語，」她說，「但那是一門工藝，需要耐心和穩定的手。」她認出照片裡的昭月養叔叔，立刻將照片翻扣，彷彿那段記憶仍能壓垮她。",
+        "englishSha256": "3da28e7795436e0a0a634a2df9e2f053734fc9b1ee03801704c597cf2d4a5d96",
+        "chineseSha256": "acc240c1357cb00a354a6be158c025fdff2b20e6696bb6557d8a21724bb8ff9d"
+      },
+      {
+        "number": 2,
+        "en": "Mei explained that the clockmaker had used time travel to preserve testimonies from people with no defensible means of resisting official power. He never claimed that every judgment he made was right. On the contrary, guilt troubled him constantly. Once he had misunderstood a warning and sent a young messenger to the wrong year. That messenger never returned. Mei believed Zhaoyue's uncle had gone looking for him. The machine was not a weapon to launch against enemies; it was a fragile bridge. Each crossing left a trace like a stroke of ink upon both eras, and too many careless crossings could tear the bridge apart.",
+        "zh": "阿梅說，鐘匠設計穿越，是為保存那些無法合理抵抗權力者的證詞。 他從不說自己的判斷全對，恰恰相反，罪惡感一直折磨著他。有一次他誤解警告，把年輕信差送錯年代，那人再也沒回來。昭月的養叔叔很可能就是去找他。機器不是用來攻擊敵人的武器，而是一座脆弱的橋。每次通行都像在兩段時代上畫下一筆，太多粗心的往返就會把橋撕裂。",
+        "englishSha256": "860ecde695288dd5a65a4c09d92b515d4c3b6560a709d9b8a473cea174630a25",
+        "chineseSha256": "e0c87126b2732db5d0fab0b6798fad8b53e464aab64d5e842e069aa555d7fea9"
+      },
+      {
+        "number": 3,
+        "en": "A young mother rested behind a curtain, her late pregnancy made more difficult by hunger and fear. Mei would not abandon her. She gave Zhaoyue a practical suggestion: hide the names inside ordinary household accounts, where soldiers were less likely to search. Yicheng proposed using the same technique in his own time. They could create two archives, one on either side of history, and compare them without moving whole groups of people. Mei nodded, but reminded them that the records might expose families if found. “Courage without care,” she said, “is not kindness.” Her words stayed with them.",
+        "zh": "布簾後，一名即將臨盆的年輕母親正休息，飢餓和恐懼讓她格外虛弱。 阿梅絕不丟下她。她給昭月一個建議：把名字藏進普通家庭帳簿，士兵較不會去翻。以誠想在1945年也照做；兩個時代分別建立檔案，彼此核對，而不必把整群人送來送去。阿梅點頭，卻提醒若帳本被找到，家屬可能受害。「沒有小心的勇氣，」她說，「不能算是善良。」這句話讓兩人牢牢記住。",
+        "englishSha256": "d10ca1df85b0be6d283b26281b212e0315e3d8e2459d408cdc51cfbe0f375512",
+        "chineseSha256": "8c899c9c02d889c65ce4a96e160062fbec7d4f3c692f886090374b47281aa9d5"
+      },
+      {
+        "number": 4,
+        "en": "Mei told them that her ancestor had been a healer who kept a notebook of births and deaths. The book was old, poorly bound, and missing several pages. Some officials had dismissed it as a lousy source because the woman who wrote it lacked formal schooling. But Mei knew the entries had saved families from being divided when property changed hands. She spread the remaining sheets across the table and asked Yicheng to equip the room with a lamp bright enough to reveal faded marks. He adjusted the light and saw that several erased names were still visible beneath the ink.",
+        "zh": "阿梅說，祖上有位醫者曾把出生和死亡記在筆記本裡。書很舊、裝訂很差，也缺了幾頁。有官員說沒有受過正規教育的婦人寫的東西是劣質資料，但阿梅知道，那些紀錄曾使家庭在土地轉手時免於被拆散。她把殘頁攤開，請以誠裝好燈，好看清退色筆跡。他調整光線，發現被擦掉的名字仍隱約留在墨層下。",
+        "englishSha256": "88839a02797b6f782e7a5fb6bd32894bfdd8bf86fa3df143cdc9e8508daad708",
+        "chineseSha256": "4f970a3a2ec623e849f8d03dc4dc702b10bf139928b9f4aa83193e2c248bc4e7"
+      },
+      {
+        "number": 5,
+        "en": "A technician from a nearby mill had once tried to photograph the pages, but he misunderstood which side of the glass should face the paper. The resulting images were blurred. Rather than throw them away, Mei compared them with handwritten copies and marked every uncertainty. She showed Zhaoyue the mistakes without embarrassment. “A record is not made trustworthy by pretending its maker is flawless,” she said. “It becomes trustworthy when other people can understand how it was made.” Zhaoyue promised that if they ever built a new archive, they would keep a history of its corrections as carefully as the names themselves.",
+        "zh": "附近磨坊曾有技師試著替文件拍照，卻誤解玻璃哪一面應朝紙，影像因此模糊。阿梅沒有丟掉，而是拿來和手抄本比對，標出所有不確定之處。她毫不羞愧地讓昭月看錯誤：「紀錄可信，不是因為製作者沒有缺點，而是別人能懂它怎麼做出來。」昭月答應，若有一天建立新檔案室，一定把修改歷程記得和姓名一樣仔細。",
+        "englishSha256": "36529169607c39849d2c00869b5c3a7db4e387d6379262abe4ab9fd51b6ee6c8",
+        "chineseSha256": "26f2ced41a58992b75d9cd83c407d8568d30af353b1e114626ff1734452e76d1"
+      },
+      {
+        "number": 6,
+        "en": "As they prepared to leave, the room began to shake. The floor above creaked and a wooden beam fell, striking the shelf. Several photographs scattered. Zhaoyue bent to pick up the nearest one, then stopped. It showed a teenage girl who looked exactly like her, standing in front of the theatre in 1945. Below the picture was a date from the following month. Yicheng stared at the image. “Either someone is wearing your face,” he said, “or you haven't finished travelling yet.” Mei's answer was quiet: “Both histories have already begun to involve you. The question is what you are willing to carry from one into the other.”",
+        "zh": "離開前，密室突然搖晃，樓上的地板吱嘎作響，木梁落下撞倒架子，照片撒了一地。 昭月撿起最近的一張，卻僵住了：照片是一個與她一模一樣的少女，站在1945年的戲院前，日期竟是下個月。以誠盯著照片說：「不是有人長得和妳一樣，就是妳的旅程還沒結束。」阿梅平靜回答：「兩段歷史都已經把妳捲進去。真正的問題，是妳願意從一個年代帶什麼到另一個年代。」",
+        "englishSha256": "e936a1601dd072a0f120f06cf62d01c9404916948b4ed2c233e1c2ffa4538049",
+        "chineseSha256": "aab8521f66f913eb9b302b5851da27ccf7a1541b30ec7efb996a981c503162b9"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 609,
+    "targets": [
+      {
+        "word": "ancestor",
+        "meaning": "祖先",
+        "appearsInSource": true
+      },
+      {
+        "word": "contrary",
+        "meaning": "相反地",
+        "appearsInSource": true
+      },
+      {
+        "word": "craft",
+        "meaning": "工藝",
+        "appearsInSource": true
+      },
+      {
+        "word": "crush",
+        "meaning": "壓垮",
+        "appearsInSource": true
+      },
+      {
+        "word": "defensible",
+        "meaning": "可辯護的",
+        "appearsInSource": true
+      },
+      {
+        "word": "distinguished",
+        "meaning": "出色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "equipped",
+        "meaning": "裝備",
+        "appearsInSource": true
+      },
+      {
+        "word": "guilt",
+        "meaning": "罪惡感",
+        "appearsInSource": true
+      },
+      {
+        "word": "handwriting",
+        "meaning": "筆跡",
+        "appearsInSource": true
+      },
+      {
+        "word": "hose",
+        "meaning": "水管",
+        "appearsInSource": true
+      },
+      {
+        "word": "identical",
+        "meaning": "相同的",
+        "appearsInSource": true
+      },
+      {
+        "word": "involvement",
+        "meaning": "參與",
+        "appearsInSource": true
+      },
+      {
+        "word": "launch",
+        "meaning": "發動",
+        "appearsInSource": true
+      },
+      {
+        "word": "lousy",
+        "meaning": "差勁的",
+        "appearsInSource": true
+      },
+      {
+        "word": "misunderstood",
+        "meaning": "誤解",
+        "appearsInSource": true
+      },
+      {
+        "word": "pregnancy",
+        "meaning": "懷孕",
+        "appearsInSource": true
+      },
+      {
+        "word": "riddle",
+        "meaning": "謎語",
+        "appearsInSource": true
+      },
+      {
+        "word": "stroke",
+        "meaning": "一筆",
+        "appearsInSource": true
+      },
+      {
+        "word": "suggestion",
+        "meaning": "建議",
+        "appearsInSource": true
+      },
+      {
+        "word": "technician",
+        "meaning": "技師",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Woman Beneath the School〉第 1 段的事件，哪個選項能正確補完整句？\nShe introduced herself as Mei, a midwife whose involvement in local relief work had made ____.",
+      "options": [
+        "her a target",
+        "her summary",
+        "her wish"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "her a target",
+      "existingAnswerExplanation": "原文證據：She introduced herself as Mei, a midwife whose involvement in local relief work had made her a target.\n本段對照：校舍地板下是一間密室，裝著架子、水管和一盞應急燈。 一位氣質出眾的年長婦人坐在許多一模一樣的照片之間，四周寫滿她的字跡。她自稱阿梅，是一名助產士，因參與地方救援而遭盯上。「大家把銅鐘當成謎語，」她說，「但那是一門工藝，需要耐心和穩定的手。」她認出照片裡的昭月養叔叔，立刻將照片翻扣，彷彿那段記憶仍能壓垮她。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Beneath the floorboards lay a room equipped with shelves, a water hose, and a small emergency lamp. A distinguished older woman sat there, surrounded by boxes of identical photographs. Her handwriting covered every available surface. She introduced herself as Mei, a midwife whose involvement in local relief work had made her a target. “People think the clock is a riddle,” she said, “but it is a craft. It requires patience and hands that do not tremble.” She recognized Zhaoyue's uncle in the photograph and placed it face down, as if one memory could still crush her.",
+          "chinese": "校舍地板下是一間密室，裝著架子、水管和一盞應急燈。 一位氣質出眾的年長婦人坐在許多一模一樣的照片之間，四周寫滿她的字跡。她自稱阿梅，是一名助產士，因參與地方救援而遭盯上。「大家把銅鐘當成謎語，」她說，「但那是一門工藝，需要耐心和穩定的手。」她認出照片裡的昭月養叔叔，立刻將照片翻扣，彷彿那段記憶仍能壓垮她。",
+          "matchedQueryTerms": 23
+        },
+        {
+          "paragraph": 4,
+          "english": "Mei told them that her ancestor had been a healer who kept a notebook of births and deaths. The book was old, poorly bound, and missing several pages. Some officials had dismissed it as a lousy source because the woman who wrote it lacked formal schooling. But Mei knew the entries had saved families from being divided when property changed hands. She spread the remaining sheets across the table and asked Yicheng to equip the room with a lamp bright enough to reveal faded marks. He adjusted the light and saw that several erased names were still visible beneath the ink.",
+          "chinese": "阿梅說，祖上有位醫者曾把出生和死亡記在筆記本裡。書很舊、裝訂很差，也缺了幾頁。有官員說沒有受過正規教育的婦人寫的東西是劣質資料，但阿梅知道，那些紀錄曾使家庭在土地轉手時免於被拆散。她把殘頁攤開，請以誠裝好燈，好看清退色筆跡。他調整光線，發現被擦掉的名字仍隱約留在墨層下。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Woman Beneath the School〉第 6 段的事件，哪個選項能正確補完整句？\nIt showed ____ who looked exactly like her, standing in front of the theatre in 1945.",
+      "options": [
+        "a gigantic stack of forged documents",
+        "a passage",
+        "a teenage girl"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a teenage girl",
+      "existingAnswerExplanation": "原文證據：It showed a teenage girl who looked exactly like her, standing in front of the theatre in 1945.\n本段對照：離開前，密室突然搖晃，樓上的地板吱嘎作響，木梁落下撞倒架子，照片撒了一地。 昭月撿起最近的一張，卻僵住了：照片是一個與她一模一樣的少女，站在1945年的戲院前，日期竟是下個月。以誠盯著照片說：「不是有人長得和妳一樣，就是妳的旅程還沒結束。」阿梅平靜回答：「兩段歷史都已經把妳捲進去。真正的問題，是妳願意從一個年代帶什麼到另一個年代。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "As they prepared to leave, the room began to shake. The floor above creaked and a wooden beam fell, striking the shelf. Several photographs scattered. Zhaoyue bent to pick up the nearest one, then stopped. It showed a teenage girl who looked exactly like her, standing in front of the theatre in 1945. Below the picture was a date from the following month. Yicheng stared at the image. “Either someone is wearing your face,” he said, “or you haven't finished travelling yet.” Mei's answer was quiet: “Both histories have already begun to involve you. The question is what you are willing to carry from one into the other.”",
+          "chinese": "離開前，密室突然搖晃，樓上的地板吱嘎作響，木梁落下撞倒架子，照片撒了一地。 昭月撿起最近的一張，卻僵住了：照片是一個與她一模一樣的少女，站在1945年的戲院前，日期竟是下個月。以誠盯著照片說：「不是有人長得和妳一樣，就是妳的旅程還沒結束。」阿梅平靜回答：「兩段歷史都已經把妳捲進去。真正的問題，是妳願意從一個年代帶什麼到另一個年代。」",
+          "matchedQueryTerms": 17
+        },
+        {
+          "paragraph": 1,
+          "english": "Beneath the floorboards lay a room equipped with shelves, a water hose, and a small emergency lamp. A distinguished older woman sat there, surrounded by boxes of identical photographs. Her handwriting covered every available surface. She introduced herself as Mei, a midwife whose involvement in local relief work had made her a target. “People think the clock is a riddle,” she said, “but it is a craft. It requires patience and hands that do not tremble.” She recognized Zhaoyue's uncle in the photograph and placed it face down, as if one memory could still crush her.",
+          "chinese": "校舍地板下是一間密室，裝著架子、水管和一盞應急燈。 一位氣質出眾的年長婦人坐在許多一模一樣的照片之間，四周寫滿她的字跡。她自稱阿梅，是一名助產士，因參與地方救援而遭盯上。「大家把銅鐘當成謎語，」她說，「但那是一門工藝，需要耐心和穩定的手。」她認出照片裡的昭月養叔叔，立刻將照片翻扣，彷彿那段記憶仍能壓垮她。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

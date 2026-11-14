@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 25,
+  "chapterId": "import-two-histories-25",
+  "sourceChapterSha256": "5d1ac0d1c7b89756a3841508bdd56b69a66b2b6d3ee2993aa0bb07937f781457",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "第二聲鐘停止，兩年代檔案室繼續保存有保護措施的姓名，昭月在1895與以誠在1945分開生活，仍用同一句保存真相的信念收尾。",
+    "previousChapterEndingEnglish": "Yicheng gave a short explanation of the clock's mechanism so the audience could digest the concept. He intended to disable the second bell while leaving the archives intact. The decision did not mean every wound had healed. Some families remained angry; some records were permanently lost; some people could not bear to attend. Yet a quiet triumph came when the audience began reading names together without waiting for permission. Across the passage, Zhaoyue heard Wenbo's voice merge with Yicheng's. Then the repaired spring caught the second bell, and the sound that would have erased them never came.",
+    "nextChapterOpeningEnglish": null
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Morning dew covered the theatre steps in 1895. The copper clock had stopped, but the names it guarded remained. Zhaoyue woke to find Wenbo waiting with breakfast and a letter from Yicheng. It had traveled through the final open passage during the night. The paper was creased, and the ink had spread into an enormous blue stain, yet she recognized his signature. He wrote that his father's shop was no longer threatened by bankruptcy, and that the new public archive had welcomed volunteers, including people with disabilities whose careful work was too often overlooked. Nothing in the letter suggested that the future had become perfect.",
+        "zh": "1895年的早晨，露珠覆滿戲院階梯。 銅鐘已停，但它守護的姓名仍在。昭月醒來，看到文博帶早餐和一封以誠的信在等她。信在夜裡經最後一道開啟的通道送來，紙有摺痕，藍色墨水暈開很大一片，但她認得簽名。他寫道，父親的店不再面臨破產，新的公共檔案室接納許多志工，包括那些細心工作卻常被忽略的身心障礙者。信裡沒有說未來已經完美。",
+        "englishSha256": "06e0cfa9573725da089e8cfd7e22f191878a9cef21d786931b2e9b6bdb77ede9",
+        "chineseSha256": "77e1054e66a916dadee1ffdde41e1060453bbcce456dea0eecf30bdf0fcd16d2"
+      },
+      {
+        "number": 2,
+        "en": "Yicheng had enclosed a graph showing how the archive had grown. Its lines rose unevenly, with sudden gaps where evidence was missing. He had learned not to hide those gaps. He also sent a paragraph about his own intention: to keep repairing radios and help ordinary families preserve their stories. He would not rush into another dangerous crossing simply because his instinct missed Zhaoyue. The final passage had closed. Any attempt to force it open might endanger people in both eras. Instead, he wanted to lengthen the work they had begun through letters, books, and patient teaching.",
+        "zh": "以誠附了一張圖表，顯示檔案室如何成長。 線條高低不平，缺乏證據處留下空白，他如今不再掩飾那些空白。他也寫了一段自己的心願：繼續修收音機，幫普通家庭保存故事。他不會只因本能地思念昭月，就倉促再做危險穿越。最後通道已關閉，強行打開可能危及兩個年代的人。他更想透過信件、書本與耐心教學，延長他們開始的工作。",
+        "englishSha256": "6fcc841ebb9d6e497fea7faf1a0336fd77ef13e791c9d0473ee4b1a363abe2cf",
+        "chineseSha256": "335013a76b92aa9bd5496bbf010be8b0912d7400b0a43c20b6cbd1642a1abfa4"
+      },
+      {
+        "number": 3,
+        "en": "Zhaoyue read the letter twice before turning to her own plans. She would visit rural villages to collect stories that the city scarcely noticed. She would not pretend that every witness was truthful, nor call every official a liar. The former empire and the changing government had both left marks on people's lives, but no single authority would be allowed to own their memories. She had a vast amount to learn about recording evidence, protecting those who spoke, and admitting mistakes. The thought no longer frightened her. She remembered what Shen Zhong had said: the fundamental problem was never travel. It was choice.",
+        "zh": "昭月把信讀了兩遍，才開始想自己的事。 她要走訪鄉村，收集城市常忽略的故事。她不會假裝每位證人都誠實，也不會說所有官員都是騙子。舊帝國與變動中的政府都在人們生命裡留下痕跡，但任何單一權力都不該獨占他們的記憶。她還得學習大量技能：如何記錄證據、保護說話者、承認錯誤。這想法不再使她害怕。沈仲說過，根本問題從不在旅行，而在選擇。",
+        "englishSha256": "78c87e53e0dc5b663bf4049e44d7792785c640075904abfeba3675112ac077a1",
+        "chineseSha256": "9125a35e8796ec232403e5178793b93d5ddc0e5b57df6d177171b4df385afd11"
+      },
+      {
+        "number": 4,
+        "en": "At the theatre, the owner offered Zhaoyue a formal position as keeper of the records. She accepted only after insisting that the archive remain voluntary and open to public examination. Wenbo laughed at the conditions, but helped write them down. Their haste of earlier days had given way to a slower purpose. The clockmaker's bird was carved above the entrance, not as the symbol of a master but as a reminder to listen. People came carrying names, drawings, recipes, and the smallest impressions of lives otherwise lost. No one promised that the collection would prevent every tragedy. It was enough that the doors stayed open to honest questions.",
+        "zh": "戲院老闆請昭月正式擔任紀錄保管人。 她先要求檔案室維持自願參與，並接受公開檢驗，才答應。文博笑她條件多，卻幫忙記下來。往日的倉促變成長久的目標。鐘匠的雙尾鳥刻在入口，不再象徵主人，而是提醒人們傾聽。人們帶著名字、圖畫、食譜，以及生命裡細微卻可能失落的印象而來。沒有人承諾收藏可以阻止所有悲劇；只要大門繼續向誠實的問題敞開，就已足夠。",
+        "englishSha256": "2f080b2b7d60fe83f1d5d442eb55deb04be1180adaa6acdeca57d81891255ca6",
+        "chineseSha256": "ff71de259bc9bbb984428090b2d1ceca47f1891a2582dc761461983b4cec10c4"
+      },
+      {
+        "number": 5,
+        "en": "In 1945, the archive created a simple insurance fund so that families who lent fragile documents could receive help if those documents were damaged. The organizers refused to promise what they could not afford, and every rule was written in plain language. Yicheng often met people who had nearly become bankrupt through events beyond their control. He learned that preserving a memory sometimes required practical support: a safe box, travel money, a warm place to speak. A printed notice invited people of every age and ability to participate. Its final line offered a gentle prompt: “What is one thing you wish the next generation to know?”",
+        "zh": "1945年的檔案室設立簡單的保險基金，若借來的脆弱文件受損，可給家庭一些協助。主辦者不作無力承擔的承諾，每條規則都寫得清楚。以誠常遇到因無法控制的事故差點破產的人，理解保存記憶有時需要實際支援：安全的盒子、交通費、可安心說話的溫暖地方。公告邀請不同年齡與能力的人參加，最後溫和地問：「有哪件事，是你希望下一代知道的？」",
+        "englishSha256": "4a4d385beeb9cd2d86577df3c0f762b3476a94329d8817e5a721fb7225232cb3",
+        "chineseSha256": "057a4620a8cbf755b61aaaae226261befc95b949900656d38d133d36e82a1fb0"
+      },
+      {
+        "number": 6,
+        "en": "Zhaoyue kept a copy of that question in her notebook although she could not send an answer to Yicheng. Her own answer changed over time. At first she wanted people to know that the clock had truly existed. Later she hoped they would remember the brave messengers who had carried letters between years. Finally she wrote that listening was a form of work, and that no person's whole life could fit into a single official line. She looked up from the page as Wenbo called her to greet the next visitor. There would always be another account to hear, another detail to check, another name to write carefully.",
+        "zh": "昭月也把問題抄在筆記裡，雖然不能再寄答案給以誠。她的答案隨時間改變。起初她想讓後人知道銅鐘真實存在；後來希望他們記得在年代之間遞信的勇敢信差；最後她寫道：傾聽是一種工作，而任何人的一生都塞不進一行官方文字。文博叫她去接待下一位訪客，她抬起頭。總會有下一段需要傾聽的故事、下一個待查的細節、下一個要小心寫下的名字。",
+        "englishSha256": "54d39c6f9a3e9037e6076c6108cfd2b276c311c19f02b12807f13b9d0605f0af",
+        "chineseSha256": "4f81a4e2622e6c0e9579f3bb0cb2f787a083ba445a1b589795eeaa7c37514a76"
+      },
+      {
+        "number": 7,
+        "en": "Fifty years away, Yicheng placed a blank book beneath the silent copper clock. On its cover he wrote: A History That Leaves Room. He opened to the first page and copied Zhaoyue's favorite sentence: “A person is more than the record made of them.” Beneath it, he placed his signature, leaving space for hers though he knew she would never stand beside him in that room again. Outside, morning light touched a city still healing. In another year, the same light fell across the hands of a girl preparing to write. Two histories continued, separate and unfinished, connected by the people who had chosen to remember.",
+        "zh": "五十年後，以誠把一本空白書放在安靜的銅鐘下，封面寫著《容得下更多人的歷史》。 他在第一頁抄上昭月最喜歡的句子：「一個人，比別人替他做的紀錄更豐富。」下方簽上自己的名字，也為她留空，儘管知道她不會再站在這間房裡。窗外，晨光照著尚未痊癒的城市。另一個年份裡，同樣的光落在正準備寫字的少女手上。兩段歷史繼續向前，分離且尚未寫完，卻被選擇記住的人們連在一起。",
+        "englishSha256": "8a6396f4f3a52a229c6fedc2f0cebe25013272b730f31236a8657bbffcc2cb36",
+        "chineseSha256": "e9afedcf409b7c75578cdeec7efa2590d0ef4dd5b4607edee80e37fe214c24b8"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 731,
+    "targets": [
+      {
+        "word": "bankrupt",
+        "meaning": "破產的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dew",
+        "meaning": "露珠",
+        "appearsInSource": true
+      },
+      {
+        "word": "disabilities",
+        "meaning": "身心障礙",
+        "appearsInSource": true
+      },
+      {
+        "word": "empire",
+        "meaning": "帝國",
+        "appearsInSource": true
+      },
+      {
+        "word": "endanger",
+        "meaning": "危及",
+        "appearsInSource": true
+      },
+      {
+        "word": "enormous",
+        "meaning": "巨大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "graph",
+        "meaning": "圖表",
+        "appearsInSource": true
+      },
+      {
+        "word": "haste",
+        "meaning": "匆忙",
+        "appearsInSource": true
+      },
+      {
+        "word": "impressions",
+        "meaning": "印象",
+        "appearsInSource": true
+      },
+      {
+        "word": "including",
+        "meaning": "包括",
+        "appearsInSource": true
+      },
+      {
+        "word": "instinct",
+        "meaning": "本能",
+        "appearsInSource": true
+      },
+      {
+        "word": "insurance",
+        "meaning": "保險",
+        "appearsInSource": true
+      },
+      {
+        "word": "intention",
+        "meaning": "意圖",
+        "appearsInSource": true
+      },
+      {
+        "word": "lengthen",
+        "meaning": "延長",
+        "appearsInSource": true
+      },
+      {
+        "word": "liar",
+        "meaning": "說謊者",
+        "appearsInSource": true
+      },
+      {
+        "word": "paragraph",
+        "meaning": "段落",
+        "appearsInSource": true
+      },
+      {
+        "word": "prompt",
+        "meaning": "提示",
+        "appearsInSource": true
+      },
+      {
+        "word": "rural",
+        "meaning": "鄉村的",
+        "appearsInSource": true
+      },
+      {
+        "word": "signature",
+        "meaning": "簽名",
+        "appearsInSource": true
+      },
+      {
+        "word": "vast",
+        "meaning": "廣闊的",
+        "appearsInSource": true
+      },
+      {
+        "word": "voluntary",
+        "meaning": "自願的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Signature on the Last Page〉第 1 段的事件，哪個選項能正確補完整句？\nThe paper was creased, and the ink had spread into an enormous blue stain, yet she recognized ____.",
+      "options": [
+        "his head down",
+        "his signature",
+        "his small boat"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "his signature",
+      "existingAnswerExplanation": "原文證據：The paper was creased, and the ink had spread into an enormous blue stain, yet she recognized his signature.\n本段對照：1895年的早晨，露珠覆滿戲院階梯。 銅鐘已停，但它守護的姓名仍在。昭月醒來，看到文博帶早餐和一封以誠的信在等她。信在夜裡經最後一道開啟的通道送來，紙有摺痕，藍色墨水暈開很大一片，但她認得簽名。他寫道，父親的店不再面臨破產，新的公共檔案室接納許多志工，包括那些細心工作卻常被忽略的身心障礙者。信裡沒有說未來已經完美。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Morning dew covered the theatre steps in 1895. The copper clock had stopped, but the names it guarded remained. Zhaoyue woke to find Wenbo waiting with breakfast and a letter from Yicheng. It had traveled through the final open passage during the night. The paper was creased, and the ink had spread into an enormous blue stain, yet she recognized his signature. He wrote that his father's shop was no longer threatened by bankruptcy, and that the new public archive had welcomed volunteers, including people with disabilities whose careful work was too often overlooked. Nothing in the letter suggested that the future had become perfect.",
+          "chinese": "1895年的早晨，露珠覆滿戲院階梯。 銅鐘已停，但它守護的姓名仍在。昭月醒來，看到文博帶早餐和一封以誠的信在等她。信在夜裡經最後一道開啟的通道送來，紙有摺痕，藍色墨水暈開很大一片，但她認得簽名。他寫道，父親的店不再面臨破產，新的公共檔案室接納許多志工，包括那些細心工作卻常被忽略的身心障礙者。信裡沒有說未來已經完美。",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 7,
+          "english": "Fifty years away, Yicheng placed a blank book beneath the silent copper clock. On its cover he wrote: A History That Leaves Room. He opened to the first page and copied Zhaoyue's favorite sentence: “A person is more than the record made of them.” Beneath it, he placed his signature, leaving space for hers though he knew she would never stand beside him in that room again. Outside, morning light touched a city still healing. In another year, the same light fell across the hands of a girl preparing to write. Two histories continued, separate and unfinished, connected by the people who had chosen to remember.",
+          "chinese": "五十年後，以誠把一本空白書放在安靜的銅鐘下，封面寫著《容得下更多人的歷史》。 他在第一頁抄上昭月最喜歡的句子：「一個人，比別人替他做的紀錄更豐富。」下方簽上自己的名字，也為她留空，儘管知道她不會再站在這間房裡。窗外，晨光照著尚未痊癒的城市。另一個年份裡，同樣的光落在正準備寫字的少女手上。兩段歷史繼續向前，分離且尚未寫完，卻被選擇記住的人們連在一起。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Signature on the Last Page〉第 7 段的事件，哪個選項能正確補完整句？\nOutside, morning light touched ____.",
+      "options": [
+        "a notebook of births",
+        "a city still healing",
+        "a hand"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a city still healing",
+      "existingAnswerExplanation": "原文證據：Outside, morning light touched a city still healing.\n本段對照：五十年後，以誠把一本空白書放在安靜的銅鐘下，封面寫著《容得下更多人的歷史》。 他在第一頁抄上昭月最喜歡的句子：「一個人，比別人替他做的紀錄更豐富。」下方簽上自己的名字，也為她留空，儘管知道她不會再站在這間房裡。窗外，晨光照著尚未痊癒的城市。另一個年份裡，同樣的光落在正準備寫字的少女手上。兩段歷史繼續向前，分離且尚未寫完，卻被選擇記住的人們連在一起。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "Fifty years away, Yicheng placed a blank book beneath the silent copper clock. On its cover he wrote: A History That Leaves Room. He opened to the first page and copied Zhaoyue's favorite sentence: “A person is more than the record made of them.” Beneath it, he placed his signature, leaving space for hers though he knew she would never stand beside him in that room again. Outside, morning light touched a city still healing. In another year, the same light fell across the hands of a girl preparing to write. Two histories continued, separate and unfinished, connected by the people who had chosen to remember.",
+          "chinese": "五十年後，以誠把一本空白書放在安靜的銅鐘下，封面寫著《容得下更多人的歷史》。 他在第一頁抄上昭月最喜歡的句子：「一個人，比別人替他做的紀錄更豐富。」下方簽上自己的名字，也為她留空，儘管知道她不會再站在這間房裡。窗外，晨光照著尚未痊癒的城市。另一個年份裡，同樣的光落在正準備寫字的少女手上。兩段歷史繼續向前，分離且尚未寫完，卻被選擇記住的人們連在一起。",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 1,
+          "english": "Morning dew covered the theatre steps in 1895. The copper clock had stopped, but the names it guarded remained. Zhaoyue woke to find Wenbo waiting with breakfast and a letter from Yicheng. It had traveled through the final open passage during the night. The paper was creased, and the ink had spread into an enormous blue stain, yet she recognized his signature. He wrote that his father's shop was no longer threatened by bankruptcy, and that the new public archive had welcomed volunteers, including people with disabilities whose careful work was too often overlooked. Nothing in the letter suggested that the future had become perfect.",
+          "chinese": "1895年的早晨，露珠覆滿戲院階梯。 銅鐘已停，但它守護的姓名仍在。昭月醒來，看到文博帶早餐和一封以誠的信在等她。信在夜裡經最後一道開啟的通道送來，紙有摺痕，藍色墨水暈開很大一片，但她認得簽名。他寫道，父親的店不再面臨破產，新的公共檔案室接納許多志工，包括那些細心工作卻常被忽略的身心障礙者。信裡沒有說未來已經完美。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

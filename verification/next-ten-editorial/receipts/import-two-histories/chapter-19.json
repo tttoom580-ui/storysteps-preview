@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 19,
+  "chapterId": "import-two-histories-19",
+  "sourceChapterSha256": "aed8ed8d90ad6a037211399387e2186246aa02241f8a29a347909e9c335f9378",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "公開審查確立同名者需按日期、住址與關係確認，許某有陳述機會；證人矛盾紀錄不可硬逼一致。",
+    "previousChapterEndingEnglish": "Xu pressed the bell's switch. Instead of a second note, the theatre filled with a reflection of hundreds of voices. Faces appeared around the walls, asking to be remembered, not worshipped. For one instant Xu looked like a man waking from a nightmare. Nevertheless, he reached for the lever again. Yicheng struck the repaired tuning fork; Zhaoyue matched its note with her own voice. The clock hesitated. The portraits trembled but stayed visible. In the silence afterward, Xu whispered, “How can a machine choose against its master?” Yicheng answered, “It didn't. We chose not to obey you.”",
+    "nextChapterOpeningEnglish": "A private detective arrived at the school hall carrying a battered suitcase. He had been hired by a carrier whose father disappeared while delivering letters between towns. The detective's license was valid, but he insisted that paper authority meant little without careful listening. He wore a ridiculous costume from an amateur play, explaining that it had helped him enter the theatre unnoticed. Zhaoyue found the disguise funny until he opened his case and produced a greasy notebook full of testimony. It contained the same bird symbol, drawn beside dozens of names. The missing carrier had been one of the clock's earliest messengers."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "After the confrontation, Yicheng submitted an application to examine Xu's papers under public supervision. Other applicants included teachers, shopkeepers, and one gifted student who had helped repair the radio. Each person brought a different skill. A physician checked the witnesses' health, while a legal clerk explained the classification system for records. A critic of the old government warned that an investigation could become a kind of revenge if the group failed to distinguish evidence from accusation. Zhaoyue agreed. She wanted people to remember what had happened, not invent fiction about enemies they disliked.",
+        "zh": "對峙之後，以誠正式申請，在公開監督下檢查許某的文件。 其他申請人有老師、店主，以及曾幫忙修收音機的天才學生。每個人都提供不同本領。醫師替證人檢查健康，法律書記解釋檔案分類制度。一名批評舊政府的人警告：若分不清證據與控訴，調查也會變成另一種復仇。昭月贊成，她要大家記得發生過什麼，而不是對討厭的人編造故事。",
+        "englishSha256": "a5006c4e5cce55f7e611f10e51a97bf76e056666429613ffe24c3a28b72331b2",
+        "chineseSha256": "766f1947349b095c4b0e6363fd4a469964ad8817bc211d8c4eb58707b09bce4a"
+      },
+      {
+        "number": 2,
+        "en": "Madam Luo gave a lecture on how false records were made. Xu had used occasional gaps in wartime communication to replace pages, then instructed a manufacturer to stamp the copies with convincing seals. The process was logical but dishonest. Yicheng demonstrated it with a mock document; a simple flush of ink across a repaired line could disguise an altered date. A comic actor watching the demonstration called the method a tragic comedy: everyone trusted the official stamp, and almost nobody read the sentence beneath it. The laughter that followed was uneasy, but it helped people recognize their own habits.",
+        "zh": "羅館員講解假紀錄如何製造。 許某利用戰時通訊偶爾中斷的空檔換掉頁面，再請製造商蓋上逼真的印章。方法有邏輯，目的卻不誠實。以誠拿樣本示範：墨水沖過修改過的一行字，就能藏住日期的變動。旁觀的一名喜劇演員說，這真是一齣悲喜劇——人人相信官方印章，卻很少讀印章下的句子。大家笑得不自在，卻也因此看見自己的習慣。",
+        "englishSha256": "59c289837f61a88a13e57f6a391bd1e1e012a9413bfd824ea82f395a29d6acc5",
+        "chineseSha256": "68a78119138806156ec176cda541bfc6ee7db0ae28583847d91286551e16bd44"
+      },
+      {
+        "number": 3,
+        "en": "A reporter asked whether the group planned to build a digital archive. Yicheng explained that a system using numbered pulses might someday make copying easier, though their present tools were still paper, ink, and film. The reporter wanted a dramatic answer about the future. Zhaoyue refused to provide one. “Otherwise,” she said, “you may make the future sound more certain than it is.” She remembered Xu's obsession with controlling possible outcomes. The inquiry was about this world, these people, and what could actually be proved. She made a reservation at the school hall for a public reading of names, not a grand announcement about time travel.",
+        "zh": "記者問他們是否打算建立數位檔案。 以誠說，使用數字符號脈衝的系統或許有一天能使複製更容易，但目前能用的仍是紙、墨和底片。記者想要一個戲劇化的未來預言，昭月拒絕了。「否則，」她說，「你會把未來說得太確定。」她記得許某多想控制各種可能結果。調查應聚焦眼前世界、眼前的人，以及能真正證明的事。她預訂學校禮堂，準備公開朗讀姓名，而不是大肆宣布穿越時空。",
+        "englishSha256": "04efa16fd1dfeb0cd579cb2143e4ed118af5d354eca18da99cc933ea1be9ed36",
+        "chineseSha256": "7c28d8d23a3ff6cfcaec45b2b91e55ef70738f3011cf83f08bda613287d767e6"
+      },
+      {
+        "number": 4,
+        "en": "The physician described a patient whose records made him resemble another man with the same name. Both were alive, but only one had received treatment after an accident. Because the registry confused them, the other man's family had spent years seeking a payment they could not prove was owed. The account showed why identification required more than a name. Yicheng added dates, addresses, and witness relationships to the form. Zhaoyue suggested including a space for correction, so a later worker could explain any change. A small improvement in a form seemed ordinary, yet it might spare someone decades of unnecessary trouble.",
+        "zh": "醫師說起一名病人，紀錄讓他看起來像另一名同名男子。兩人都活著，但事故後只有一人得到治療。登記處把兩人混淆，另一人的家屬多年來都追討無法證明的款項。這讓大家知道身分辨認不只是姓名。以誠在表格加上日期、地址和證人關係，昭月建議再留修改欄，讓後人解釋更動。表格的小改善看似平凡，卻可能替某人省下數十年的麻煩。",
+        "englishSha256": "4f35f4d6e68131dc260a29560c7c0dd577b11b24cb410fd7ec9e3fc191688470",
+        "chineseSha256": "33bf9edd6babe2e429c969f872182277abca7d19ed04a03b4ddb523d929a553e"
+      },
+      {
+        "number": 5,
+        "en": "A teacher from the audience asked why they had not brought the accused archivist onto the stage immediately. Zhaoyue replied that an honest inquiry must protect even an unpopular person's chance to answer. The room grew uncomfortable. Several people had lost relatives to the false records, and they did not wish to hear Xu speak. She did not demand that they forgive him or sit beside him. Instead, she explained that fair rules prevented powerful people from silencing others and should also restrain those who had gained power through a just cause. The teacher nodded slowly. Justice, Zhaoyue realized, could not be built from exceptions made only for friends.",
+        "zh": "一名老師問，為何不立即把被控的檔案員帶上臺。昭月說，誠實調查必須讓不受歡迎的人也有回答機會。現場不太舒服，許多人因假紀錄失去親人，不想聽許某說話。昭月沒有要求原諒或坐在他旁邊，只解釋公平規則能阻止掌權者封口，也應約束因正義而取得權力的人。老師緩緩點頭。昭月明白，公義不能靠只給朋友的例外來建立。",
+        "englishSha256": "61d3b8432124da6360720386d6794129979ff1b34d2df25b645e93a81e8c31c2",
+        "chineseSha256": "20917984572dba4aae3b870d91007e85838673ce3838e8338e424f6931226cf5"
+      },
+      {
+        "number": 6,
+        "en": "At the first meeting, some witnesses could not recall the details they had once known. Others remembered different versions of the same event. Instead of forcing agreement, the investigators recorded the differences. Yicheng had learned that resemblance was not identity, and memory was not perfect evidence by itself. Zhaoyue wrote these principles on the wall in plain language. She had traveled fifty years and returned with a philosophy smaller but firmer than any grand theory: ask carefully, record honestly, and leave room for another person's voice. Even Xu, watching under guard, could not deny that the meeting had begun.",
+        "zh": "第一次公開集會裡，有些證人已想不起從前知道的細節，也有人對同一件事記得不同版本。 調查者沒有硬逼大家說法一致，而是把差異也記下來。以誠明白，相似不等於同一，記憶也不能單獨算作完美證據。昭月用白話把原則寫在牆上。穿過五十年的她，帶回的哲學反而比任何宏大理論都小，卻更堅定：謹慎發問、誠實記錄，並留位置讓別人說話。連被看守的許某也無法否認，這場集會真的開始了。",
+        "englishSha256": "3c1647c397506c0fc2007147564a9eaf204a7c5300cfde28817df77fb726a920",
+        "chineseSha256": "6f37ea886259e6712f0809fe92b760f3e47ac92d73c05ad38fd3f84d21d2f781"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 607,
+    "targets": [
+      {
+        "word": "applicants",
+        "meaning": "申請人",
+        "appearsInSource": true
+      },
+      {
+        "word": "application",
+        "meaning": "申請",
+        "appearsInSource": true
+      },
+      {
+        "word": "classification",
+        "meaning": "分類",
+        "appearsInSource": true
+      },
+      {
+        "word": "comedy",
+        "meaning": "喜劇",
+        "appearsInSource": true
+      },
+      {
+        "word": "critic",
+        "meaning": "評論者",
+        "appearsInSource": true
+      },
+      {
+        "word": "digital",
+        "meaning": "數位的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fiction",
+        "meaning": "虛構",
+        "appearsInSource": true
+      },
+      {
+        "word": "flush",
+        "meaning": "沖刷",
+        "appearsInSource": true
+      },
+      {
+        "word": "gifted",
+        "meaning": "有天賦的",
+        "appearsInSource": true
+      },
+      {
+        "word": "investigation",
+        "meaning": "調查",
+        "appearsInSource": true
+      },
+      {
+        "word": "lecture",
+        "meaning": "講座",
+        "appearsInSource": true
+      },
+      {
+        "word": "logical",
+        "meaning": "合乎邏輯的",
+        "appearsInSource": true
+      },
+      {
+        "word": "manufacturer",
+        "meaning": "製造商",
+        "appearsInSource": true
+      },
+      {
+        "word": "occasional",
+        "meaning": "偶爾的",
+        "appearsInSource": true
+      },
+      {
+        "word": "otherwise",
+        "meaning": "否則",
+        "appearsInSource": true
+      },
+      {
+        "word": "philosophy",
+        "meaning": "哲學",
+        "appearsInSource": true
+      },
+      {
+        "word": "physician",
+        "meaning": "醫師",
+        "appearsInSource": true
+      },
+      {
+        "word": "recall",
+        "meaning": "記得",
+        "appearsInSource": true
+      },
+      {
+        "word": "resemble",
+        "meaning": "相似",
+        "appearsInSource": true
+      },
+      {
+        "word": "reservation",
+        "meaning": "預約",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Trial of the Unwritten〉第 1 段的事件，哪個選項能正確補完整句？\nEach person brought ____.",
+      "options": [
+        "a few records",
+        "a paragraph about his own intention",
+        "a different skill"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a different skill",
+      "existingAnswerExplanation": "原文證據：Each person brought a different skill.\n本段對照：對峙之後，以誠正式申請，在公開監督下檢查許某的文件。 其他申請人有老師、店主，以及曾幫忙修收音機的天才學生。每個人都提供不同本領。醫師替證人檢查健康，法律書記解釋檔案分類制度。一名批評舊政府的人警告：若分不清證據與控訴，調查也會變成另一種復仇。昭月贊成，她要大家記得發生過什麼，而不是對討厭的人編造故事。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "After the confrontation, Yicheng submitted an application to examine Xu's papers under public supervision. Other applicants included teachers, shopkeepers, and one gifted student who had helped repair the radio. Each person brought a different skill. A physician checked the witnesses' health, while a legal clerk explained the classification system for records. A critic of the old government warned that an investigation could become a kind of revenge if the group failed to distinguish evidence from accusation. Zhaoyue agreed. She wanted people to remember what had happened, not invent fiction about enemies they disliked.",
+          "chinese": "對峙之後，以誠正式申請，在公開監督下檢查許某的文件。 其他申請人有老師、店主，以及曾幫忙修收音機的天才學生。每個人都提供不同本領。醫師替證人檢查健康，法律書記解釋檔案分類制度。一名批評舊政府的人警告：若分不清證據與控訴，調查也會變成另一種復仇。昭月贊成，她要大家記得發生過什麼，而不是對討厭的人編造故事。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 5,
+          "english": "A teacher from the audience asked why they had not brought the accused archivist onto the stage immediately. Zhaoyue replied that an honest inquiry must protect even an unpopular person's chance to answer. The room grew uncomfortable. Several people had lost relatives to the false records, and they did not wish to hear Xu speak. She did not demand that they forgive him or sit beside him. Instead, she explained that fair rules prevented powerful people from silencing others and should also restrain those who had gained power through a just cause. The teacher nodded slowly. Justice, Zhaoyue realized, could not be built from exceptions made only for friends.",
+          "chinese": "一名老師問，為何不立即把被控的檔案員帶上臺。昭月說，誠實調查必須讓不受歡迎的人也有回答機會。現場不太舒服，許多人因假紀錄失去親人，不想聽許某說話。昭月沒有要求原諒或坐在他旁邊，只解釋公平規則能阻止掌權者封口，也應約束因正義而取得權力的人。老師緩緩點頭。昭月明白，公義不能靠只給朋友的例外來建立。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Trial of the Unwritten〉第 3 段的事件，哪個選項能正確補完整句？\nShe made ____ at the school hall for a public reading of names, not a grand announcement about time travel.",
+      "options": [
+        "a blank column",
+        "a note",
+        "a reservation"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a reservation",
+      "existingAnswerExplanation": "原文證據：She made a reservation at the school hall for a public reading of names, not a grand announcement about time travel.\n本段對照：記者問他們是否打算建立數位檔案。 以誠說，使用數字符號脈衝的系統或許有一天能使複製更容易，但目前能用的仍是紙、墨和底片。記者想要一個戲劇化的未來預言，昭月拒絕了。「否則，」她說，「你會把未來說得太確定。」她記得許某多想控制各種可能結果。調查應聚焦眼前世界、眼前的人，以及能真正證明的事。她預訂學校禮堂，準備公開朗讀姓名，而不是大肆宣布穿越時空。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "A reporter asked whether the group planned to build a digital archive. Yicheng explained that a system using numbered pulses might someday make copying easier, though their present tools were still paper, ink, and film. The reporter wanted a dramatic answer about the future. Zhaoyue refused to provide one. “Otherwise,” she said, “you may make the future sound more certain than it is.” She remembered Xu's obsession with controlling possible outcomes. The inquiry was about this world, these people, and what could actually be proved. She made a reservation at the school hall for a public reading of names, not a grand announcement about time travel.",
+          "chinese": "記者問他們是否打算建立數位檔案。 以誠說，使用數字符號脈衝的系統或許有一天能使複製更容易，但目前能用的仍是紙、墨和底片。記者想要一個戲劇化的未來預言，昭月拒絕了。「否則，」她說，「你會把未來說得太確定。」她記得許某多想控制各種可能結果。調查應聚焦眼前世界、眼前的人，以及能真正證明的事。她預訂學校禮堂，準備公開朗讀姓名，而不是大肆宣布穿越時空。",
+          "matchedQueryTerms": 17
+        },
+        {
+          "paragraph": 1,
+          "english": "After the confrontation, Yicheng submitted an application to examine Xu's papers under public supervision. Other applicants included teachers, shopkeepers, and one gifted student who had helped repair the radio. Each person brought a different skill. A physician checked the witnesses' health, while a legal clerk explained the classification system for records. A critic of the old government warned that an investigation could become a kind of revenge if the group failed to distinguish evidence from accusation. Zhaoyue agreed. She wanted people to remember what had happened, not invent fiction about enemies they disliked.",
+          "chinese": "對峙之後，以誠正式申請，在公開監督下檢查許某的文件。 其他申請人有老師、店主，以及曾幫忙修收音機的天才學生。每個人都提供不同本領。醫師替證人檢查健康，法律書記解釋檔案分類制度。一名批評舊政府的人警告：若分不清證據與控訴，調查也會變成另一種復仇。昭月贊成，她要大家記得發生過什麼，而不是對討厭的人編造故事。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

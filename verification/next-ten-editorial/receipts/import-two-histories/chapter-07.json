@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 7,
+  "chapterId": "import-two-histories-7",
+  "sourceChapterSha256": "c8033b2bb81cf6c94e4019917141ef42b3a196b69a0fdef7d9b91fd2ac21b118",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "霜圖顯示遭官方抹去的村民，退休水管匠以騾子帶路；村校藏1945剪報，雙尾鳥名字與失蹤的養叔叔連上。",
+    "previousChapterEndingEnglish": "That night, Zhaoyue and Yicheng compared what each era expected from them. She was supposed to obey family rules; he was supposed to find steady labor and say little about the war. Neither wish was unreasonable, yet both felt small beside the mystery. “Psychology can explain fear,” Yicheng said, “but it does not always tell us what we should do with fear.” The conductor returned and placed two tuning forks on the table. One was marked 1895, the other 1945. When struck together, they made a note that seemed to hang in the air long after the room fell silent.",
+    "nextChapterOpeningEnglish": "Beneath the floorboards lay a room equipped with shelves, a water hose, and a small emergency lamp. A distinguished older woman sat there, surrounded by boxes of identical photographs. Her handwriting covered every available surface. She introduced herself as Mei, a midwife whose involvement in local relief work had made her a target. “People think the clock is a riddle,” she said, “but it is a craft. It requires patience and hands that do not tremble.” She recognized Zhaoyue's uncle in the photograph and placed it face down, as if one memory could still crush her."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next morning, a slight frost appeared on the copper clock despite the summer heat. Within it, Yicheng found a remarkably accurate map of a mountainous village. He tried to analyze the pattern, then realized the pale lines represented people rather than roads. Each bright point was a family still remembered; each empty circle marked someone who had vanished from official records. Zhaoyue wanted to travel there at once. The conductor opposed the idea because the surroundings had grown dangerous. Several herds of animals had been driven from the hills, and soldiers were searching the paths.",
+        "zh": "隔天清晨，明明是夏天，銅鐘上卻結了一層薄霜。 以誠在霜裡看見一張極精確的山村地圖。他試著分析，才發現白線代表的不是道路，而是人。亮點是還被記得的家庭，空圈是已從官方紀錄消失的人。昭月立刻想出發。老指揮反對，因為周遭很危險：好幾群牲畜被趕離山丘，士兵正在搜查道路。",
+        "englishSha256": "8540ca0c736ec10cd951dcfca537ae045c5be17b76039154e66bfae9aab477a0",
+        "chineseSha256": "5e71e4ca4b176a8ab0e4524ab6b6be88679be19ff23f46c0c9404fc5e23956c4"
+      },
+      {
+        "number": 2,
+        "en": "A retired plumber who repaired village wells offered them guidance. He brought a mule, a sack of tools, and a diploma from a technical school he was proud to show. The journey required adaptation from Yicheng, who was accustomed to bicycles and modern street signs. He learned to judge the slope by the mule's ears and to stop when loose stones began rolling. The plumber told him that a good worker did not measure progress only by percent completed. “The last part of a job can carry the greatest risk,” he said. “A small reduction in speed may save a life.” Yicheng did not forget it.",
+        "zh": "一位退休水管匠願意帶路。 他帶來一頭騾子、一袋工具，以及一張珍藏的技術學校文憑。習慣腳踏車與現代路標的以誠，必須學會適應這趟旅程。他看騾子的耳朵判斷坡度，碎石滾動時就停下來。水管匠說，好工匠不會只看完成百分比。「最後那一小段最容易出事，」他說，「稍微減速可能就能救命。」以誠記住了。",
+        "englishSha256": "0110982ebd9aa67885b3db3cd4af49f09d42d35a27b344a617dcdda3abc4630a",
+        "chineseSha256": "24790d909e2d54f34e24232afa93b2a05c888a0b6900e6e8f05038176fc1bc9a"
+      },
+      {
+        "number": 3,
+        "en": "At a narrow pass they met a competitor of the silver-ringed man: a merchant who wanted the clock for profit rather than control. He promised better welfare for the village if they handed him the map. Zhaoyue sensed the offer was dishonest. She and Yicheng exchanged a look of mutual agreement and refused. The merchant's guards moved forward. In the intense struggle, Yicheng fell and injured his shoulder, but the plumber threw down his toolbox, creating enough noise to frighten the mule into charging between them. The merchant retreated, swearing that they would regret the encounter.",
+        "zh": "山口處，他們遇到戴銀戒指男子的競爭者：一名想靠銅鐘賺錢的商人。 他承諾只要交出地圖，就改善村民福利。昭月立刻察覺不對。兩人交換眼神，默契十足地拒絕。護衛走近，混亂中以誠跌倒，肩膀受傷。水管匠把工具箱摔在地上，聲響驚動騾子，牠衝入雙方之間，迫使商人撤退，臨走還發誓要讓他們後悔。",
+        "englishSha256": "a2f80aa39ea48e8e8a3bf78bfbc3766203f6b4f223ae83e188bfe845182a7873",
+        "chineseSha256": "efd34a553a83f2fd3186ec8f6e06676d220125a7a14eafd675aaffde2939d6ca"
+      },
+      {
+        "number": 4,
+        "en": "They rested beside a stream, where the plumber showed Yicheng how to adapt an old tool for a new problem. A bent wire could become a hook, a broken handle a support. “People like shiny inventions,” he said, “but the real skill is understanding what the thing must do.” The lesson was remarkable to a boy who had always measured progress by newer machines. As he worked, Yicheng realized that older methods were not automatically foolish, just as newer ones were not automatically wise. The two eras had different tools, but both depended on careful judgment and help from neighbors.",
+        "zh": "他們在溪邊休息，水管匠教以誠如何把舊工具改用在新問題上：彎鐵絲成了鉤子，壞掉的握把成了支架。「大家愛亮晶晶的新發明，」他說，「但真正的本領，是知道工具要做什麼。」對總用新機器衡量進步的以誠而言，這課格外不凡。他慢慢理解，舊方法不一定愚蠢，新方法也不一定聰明。兩個年代用的工具不同，都仍仰賴判斷與鄰里互助。",
+        "englishSha256": "cb7d206bab10cf508c386edfa5ef4def02fc8f99d2e9ca62a1919dc617734f07",
+        "chineseSha256": "8ecf6efb3d2da751b355fcf073ff939abbdbe6fef535836b648d743308568c1b"
+      },
+      {
+        "number": 5,
+        "en": "Zhaoyue sat with a child who had drawn her home on a scrap of cloth. The drawing showed a doorway, a cooking fire, and three figures holding hands. A fourth figure stood outside the frame, labeled with a name that had been crossed out. The child asked whether crossing out a name made a person disappear. Zhaoyue wanted to answer no, but remembered the records they had seen. “Not at once,” she said. “But it can make it harder for others to find that person.” She helped the child copy the name onto a fresh page. It was a small act, yet the child's relieved expression told her why the journey mattered.",
+        "zh": "昭月坐在一名孩子旁，看他在布片上畫家：門、灶火和三個牽手的人。第四個人被畫在邊框外，名字遭人劃掉。孩子問，畫掉名字人就會不見嗎？昭月想說不會，卻想起看過的紀錄。「不會立刻不見，」她說，「但別人會更難找到他。」她陪孩子把名字重新抄在乾淨紙上。事情很小，但孩子安心的表情讓她更明白這趟旅程的意義。",
+        "englishSha256": "ad14a6421b8c5aa574a39deec94be79e4c8ce49ba0bf16def0068ad1bb4b6ae1",
+        "chineseSha256": "160bcd6b11e085209375a5b9f8175ed4644c6481f1ffee965ef3a39dd61da064"
+      },
+      {
+        "number": 6,
+        "en": "In the village school they found a newspaper clipping from 1945, carefully hidden among drawings of a helicopter and other machines unknown to the children of 1895. The clipping described the same mountain path, but its village name had changed. Zhaoyue looked again at the map. The empty circles had multiplied, as though the clock were losing its accuracy with every journey. “How do we restore it?” she asked. Yicheng answered with growing certainty: “We must stop treating the missing names as numbers. Each circle needs a story.” From somewhere beneath the school floor, a human voice whispered the name of Zhaoyue's uncle.",
+        "zh": "村中學校裡，他們找到一張1945年的報紙剪頁，藏在直升機及其他當時孩子不認識的機器圖畫中。 剪頁提到同一條山路，村名卻變了。昭月再看霜地圖，空圈竟又增加，彷彿每次穿越都使銅鐘失去一些精確度。「怎麼修復它？」她問。以誠越來越確定：「不能把失蹤的人名只當數字，每個空圈都需要一個故事。」學校地板下，這時傳來人聲，低低喚著昭月養叔叔的名字。",
+        "englishSha256": "a2479450d6024aead9cb5a46e72423d38c52afc19e467cf4674fb5ed850f0e64",
+        "chineseSha256": "e094b299402b25d4a1a9989bc1a479d43017622720218c62bfdd2ca56dde16b5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 611,
+    "targets": [
+      {
+        "word": "accuracy",
+        "meaning": "精確度",
+        "appearsInSource": true
+      },
+      {
+        "word": "adapt",
+        "meaning": "適應",
+        "appearsInSource": true
+      },
+      {
+        "word": "analyze",
+        "meaning": "分析",
+        "appearsInSource": true
+      },
+      {
+        "word": "competitor",
+        "meaning": "競爭對手",
+        "appearsInSource": true
+      },
+      {
+        "word": "diploma",
+        "meaning": "文憑",
+        "appearsInSource": true
+      },
+      {
+        "word": "frost",
+        "meaning": "霜",
+        "appearsInSource": true
+      },
+      {
+        "word": "helicopter",
+        "meaning": "直升機",
+        "appearsInSource": true
+      },
+      {
+        "word": "herds",
+        "meaning": "牲畜群",
+        "appearsInSource": true
+      },
+      {
+        "word": "injured",
+        "meaning": "使受傷",
+        "appearsInSource": true
+      },
+      {
+        "word": "intense",
+        "meaning": "激烈的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mule",
+        "meaning": "騾子",
+        "appearsInSource": true
+      },
+      {
+        "word": "mutual",
+        "meaning": "相互的",
+        "appearsInSource": true
+      },
+      {
+        "word": "opposed",
+        "meaning": "反對",
+        "appearsInSource": true
+      },
+      {
+        "word": "percent",
+        "meaning": "百分比",
+        "appearsInSource": true
+      },
+      {
+        "word": "plumber",
+        "meaning": "水管匠",
+        "appearsInSource": true
+      },
+      {
+        "word": "reduction",
+        "meaning": "減少",
+        "appearsInSource": true
+      },
+      {
+        "word": "remarkable",
+        "meaning": "不凡的",
+        "appearsInSource": true
+      },
+      {
+        "word": "slight",
+        "meaning": "輕微的",
+        "appearsInSource": true
+      },
+      {
+        "word": "surroundings",
+        "meaning": "周遭環境",
+        "appearsInSource": true
+      },
+      {
+        "word": "welfare",
+        "meaning": "福利",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈A Map Written in Frost〉第 1 段的事件，哪個選項能正確補完整句？\nWithin it, Yicheng found ____.",
+      "options": [
+        "a remarkably accurate map of a mountainous village",
+        "a narrow desk beneath the final window",
+        "a public admission of guilt"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a remarkably accurate map of a mountainous village",
+      "existingAnswerExplanation": "原文證據：Within it, Yicheng found a remarkably accurate map of a mountainous village.\n本段對照：隔天清晨，明明是夏天，銅鐘上卻結了一層薄霜。 以誠在霜裡看見一張極精確的山村地圖。他試著分析，才發現白線代表的不是道路，而是人。亮點是還被記得的家庭，空圈是已從官方紀錄消失的人。昭月立刻想出發。老指揮反對，因為周遭很危險：好幾群牲畜被趕離山丘，士兵正在搜查道路。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The next morning, a slight frost appeared on the copper clock despite the summer heat. Within it, Yicheng found a remarkably accurate map of a mountainous village. He tried to analyze the pattern, then realized the pale lines represented people rather than roads. Each bright point was a family still remembered; each empty circle marked someone who had vanished from official records. Zhaoyue wanted to travel there at once. The conductor opposed the idea because the surroundings had grown dangerous. Several herds of animals had been driven from the hills, and soldiers were searching the paths.",
+          "chinese": "隔天清晨，明明是夏天，銅鐘上卻結了一層薄霜。 以誠在霜裡看見一張極精確的山村地圖。他試著分析，才發現白線代表的不是道路，而是人。亮點是還被記得的家庭，空圈是已從官方紀錄消失的人。昭月立刻想出發。老指揮反對，因為周遭很危險：好幾群牲畜被趕離山丘，士兵正在搜查道路。",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 6,
+          "english": "In the village school they found a newspaper clipping from 1945, carefully hidden among drawings of a helicopter and other machines unknown to the children of 1895. The clipping described the same mountain path, but its village name had changed. Zhaoyue looked again at the map. The empty circles had multiplied, as though the clock were losing its accuracy with every journey. “How do we restore it?” she asked. Yicheng answered with growing certainty: “We must stop treating the missing names as numbers. Each circle needs a story.” From somewhere beneath the school floor, a human voice whispered the name of Zhaoyue's uncle.",
+          "chinese": "村中學校裡，他們找到一張1945年的報紙剪頁，藏在直升機及其他當時孩子不認識的機器圖畫中。 剪頁提到同一條山路，村名卻變了。昭月再看霜地圖，空圈竟又增加，彷彿每次穿越都使銅鐘失去一些精確度。「怎麼修復它？」她問。以誠越來越確定：「不能把失蹤的人名只當數字，每個空圈都需要一個故事。」學校地板下，這時傳來人聲，低低喚著昭月養叔叔的名字。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈A Map Written in Frost〉第 6 段的事件，哪個選項能正確補完整句？\nThe clipping described ____, but its village name had changed.",
+      "options": [
+        "the photograph",
+        "the same mountain path",
+        "the wall"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the same mountain path",
+      "existingAnswerExplanation": "原文證據：The clipping described the same mountain path, but its village name had changed.\n本段對照：村中學校裡，他們找到一張1945年的報紙剪頁，藏在直升機及其他當時孩子不認識的機器圖畫中。 剪頁提到同一條山路，村名卻變了。昭月再看霜地圖，空圈竟又增加，彷彿每次穿越都使銅鐘失去一些精確度。「怎麼修復它？」她問。以誠越來越確定：「不能把失蹤的人名只當數字，每個空圈都需要一個故事。」學校地板下，這時傳來人聲，低低喚著昭月養叔叔的名字。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "In the village school they found a newspaper clipping from 1945, carefully hidden among drawings of a helicopter and other machines unknown to the children of 1895. The clipping described the same mountain path, but its village name had changed. Zhaoyue looked again at the map. The empty circles had multiplied, as though the clock were losing its accuracy with every journey. “How do we restore it?” she asked. Yicheng answered with growing certainty: “We must stop treating the missing names as numbers. Each circle needs a story.” From somewhere beneath the school floor, a human voice whispered the name of Zhaoyue's uncle.",
+          "chinese": "村中學校裡，他們找到一張1945年的報紙剪頁，藏在直升機及其他當時孩子不認識的機器圖畫中。 剪頁提到同一條山路，村名卻變了。昭月再看霜地圖，空圈竟又增加，彷彿每次穿越都使銅鐘失去一些精確度。「怎麼修復它？」她問。以誠越來越確定：「不能把失蹤的人名只當數字，每個空圈都需要一個故事。」學校地板下，這時傳來人聲，低低喚著昭月養叔叔的名字。",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 1,
+          "english": "The next morning, a slight frost appeared on the copper clock despite the summer heat. Within it, Yicheng found a remarkably accurate map of a mountainous village. He tried to analyze the pattern, then realized the pale lines represented people rather than roads. Each bright point was a family still remembered; each empty circle marked someone who had vanished from official records. Zhaoyue wanted to travel there at once. The conductor opposed the idea because the surroundings had grown dangerous. Several herds of animals had been driven from the hills, and soldiers were searching the paths.",
+          "chinese": "隔天清晨，明明是夏天，銅鐘上卻結了一層薄霜。 以誠在霜裡看見一張極精確的山村地圖。他試著分析，才發現白線代表的不是道路，而是人。亮點是還被記得的家庭，空圈是已從官方紀錄消失的人。昭月立刻想出發。老指揮反對，因為周遭很危險：好幾群牲畜被趕離山丘，士兵正在搜查道路。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

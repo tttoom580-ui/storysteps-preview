@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-histories",
+  "title": "雙時代之鐘",
+  "chapter": 9,
+  "chapterId": "import-two-histories-9",
+  "sourceChapterSha256": "09eec8986075a5a3d23ccb3fc801341fb82019d0daf5962ef84aa3e36d6c586e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "失蹤養叔叔沈仲在地下工坊現身，承認鐘匠協會利用未來預測犯錯，黃姓勢力跨年代抹去名字與來源。",
+    "previousChapterEndingEnglish": "As they prepared to leave, the room began to shake. The floor above creaked and a wooden beam fell, striking the shelf. Several photographs scattered. Zhaoyue bent to pick up the nearest one, then stopped. It showed a teenage girl who looked exactly like her, standing in front of the theatre in 1945. Below the picture was a date from the following month. Yicheng stared at the image. “Either someone is wearing your face,” he said, “or you haven't finished travelling yet.” Mei's answer was quiet: “Both histories have already begun to involve you. The question is what you are willing to carry from one into the other.”",
+    "nextChapterOpeningEnglish": "The stairway led to the theatre in 1945. Zhaoyue stepped through first and felt a different atmosphere settle around her: dust, coal smoke, and the distant sound of a city rebuilding itself. She examined the photograph from Mei's room and noticed that the girl in it was wearing stockings from the modern era. The image was authentic; its paper and date matched a collection kept by the city's publisher. Yet the girl had a scar Zhaoyue did not possess. Yicheng offered two options: the photograph might show a relative, or it might show a future version of Zhaoyue. Neither explanation was comfortable."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The passage beneath the school opened into a rusty workshop. Old machinery filled the room, and a bald man sat before a fireplace, writing an autobiography by hand. He was Shen Zhong, Zhaoyue's missing uncle. The sight of him made her halt so suddenly that Yicheng nearly collided with her. Shen was older than she remembered, although fewer years had passed in her own life. His first reaction was not joy but anger. “You should never have followed the clock,” he declared. Then he embraced her so fiercely that his notebook slipped from his knees.",
+        "zh": "校舍底下的通道通往一間生鏽的工作室。 老機械堆滿房間，一名禿頭男子坐在火爐旁，親手寫著自傳。他就是昭月失蹤的養叔叔沈仲。昭月猛然停步，以誠差點撞上她。沈仲比記憶裡老了許多，但昭月的人生明明沒有過這麼多年。他第一反應不是喜悅而是生氣：「妳根本不該跟著銅鐘來！」隨後卻緊緊抱住她，筆記本從膝上滑落。",
+        "englishSha256": "2bc64cc1b57fc400ed934f1831dae96e4da72d4614e81f22790e0a778c23728b",
+        "chineseSha256": "f844f967f99a984ab2bbafdabb1c59217d0bd076e6d92f5803f0d1f2cfa4ba34"
+      },
+      {
+        "number": 2,
+        "en": "Shen belonged to a secret association formed by people who had witnessed unexplained crossings. His curiosity had led him into the group, and a consequent series of mistakes had trapped him between years. The silver-ringed man, Huang, had persuaded a minister to classify certain witnesses as nonexistent. A clerk then copied the false records, and the lie spread through official files. Shen believed that if the clock were destroyed before those documents could be restored, the disappearance would become permanent. “A name erased in one era can sometimes be rescued in the other,” he said. “But not if both copies are gone.”",
+        "zh": "沈仲加入過一個由穿越見證者組成的祕密協會。 好奇心讓他入會，接踵而來的失誤卻把他困在年份之間。戴銀戒指的黃某說服一位部長，把一些見證者列為不存在。書記員照抄錯誤紀錄，謊言就這樣傳遍官方檔案。沈仲認為，若文件還沒恢復就毀掉銅鐘，消失的人會被永遠抹去。「一個年代被擦掉的名字，有時還能從另一個年代救回來，」他說，「但兩份紀錄都不見就沒辦法了。」",
+        "englishSha256": "9f7606f620c0119fcaa6d6e43245d30c87d71c12a2913aba0e6e2eae6bc5042e",
+        "chineseSha256": "9bd9696bb72e12425e292b8e4896a00355388dbd361e5b21ca8d75a7372fd271"
+      },
+      {
+        "number": 3,
+        "en": "Yicheng asked why a newspaper dated 1945 had been hidden in the village school. Shen opened a cupboard containing books, a quotation collection, and a menu listing lobster and pasta from a restaurant Yicheng knew. He had visited 1945 many times in disguise, searching for the clockmaker's descendants. An odd vacancy in the city's housing records had led him to an empty apartment above Yicheng's father's radio shop. There he discovered a boy who could repair the copper mechanism by ear. “You,” Shen said to Yicheng, “were the person I hoped would come. I simply didn't expect Zhaoyue to bring you.”",
+        "zh": "以誠問，為何1945年的剪報會出現在山村學校。 沈仲打開櫃子，裡面有書、引文集，甚至有張菜單寫著以誠認識的一間餐廳供應龍蝦與義大利麵。他曾多次偽裝潛入1945年，尋找鐘匠後人。城市住房紀錄裡一處奇怪的空白，引他找到以誠父親收音機店樓上的空屋；他在那裡發現一個能靠耳朵修好銅機關的男孩。「我一直希望來的人是你，」沈仲對以誠說，「沒想到是昭月把你帶來。」",
+        "englishSha256": "543b055329d194b7d211956e184cf718e6d41e212b3411346887f8a1363f179a",
+        "chineseSha256": "4a20ce7d604dcbcd3a73918d6903a0d0f79a11c31f51cb596b15a0710573dc84"
+      },
+      {
+        "number": 4,
+        "en": "As questions continued, disputes began to arise among the group. Some wanted to rescue every traveler before touching the archives. Others argued that without the archives they could not even identify those travelers. Shen listened, exhausted but patient. He explained that the clock's early supporters had become dependent on predictions. Every time the device showed an uncertain future, they treated it as a forecast certain to occur and made costly decisions. When the future failed to match their expectations, they blamed the witnesses instead of reconsidering the method. “Our first great mistake,” Shen said, “was believing that seeing a possibility made us its owners.”",
+        "zh": "談話愈深，眾人之間開始出現爭論。有人想先救出每個旅人，再碰檔案；有人認為沒有檔案就根本不知道該救誰。沈仲雖疲憊仍耐心聽，然後說早期支持銅鐘的人太依賴預言。每次機器顯示不確定的未來，他們都把它當成一定實現的預報，做出高成本決定。未來不如預期時，他們怪罪見證者，而不是重新檢驗方法。「我們第一個大錯，」沈仲說，「是以為看見某種可能，就擁有了它。」",
+        "englishSha256": "f526ccd105c5afa0a07d96ace73a98a431594d085039fb659a665289881cfd1e",
+        "chineseSha256": "5da7b7da4d6b0e4bf39cf5fcb501f8d9349b0055b74516101ccdbcce38f0ad09"
+      },
+      {
+        "number": 5,
+        "en": "Zhaoyue studied his hands as he spoke. They had the roughness of a worker's hands, with small cuts around the nails and dark marks from years of ink. She wondered how many impossible choices those hands had made. It would be easy to forgive him everything because she had missed him, or condemn him for every danger his silence created. Neither judgment would be fair. She asked instead for the names of people he had failed to protect. Shen lowered his eyes, opened the autobiography to its unfinished pages, and began to read. Yicheng did not interrupt, even when the room became painfully quiet.",
+        "zh": "沈仲說話時，昭月看著他的手。那雙手粗糙，指甲旁有細傷口，也有多年墨跡。她想，那雙手做過多少不可能的選擇。因為想念他，就原諒一切很容易；因他沉默帶來危險，就全盤譴責也很容易，但都不公平。她只是請他說出那些沒能保護的人名。沈仲低頭，翻開尚未寫完的自傳，開始朗讀。即使房間安靜得難受，以誠也沒有打斷。",
+        "englishSha256": "06c40744a1af44e7bf65abb1cd2180dedba64171ca9d280e18ba411be40decdc",
+        "chineseSha256": "6693cc97a42a9d5db2cdb091a2910b8c9492ee380289313b769f9f095bf7c1d8"
+      },
+      {
+        "number": 6,
+        "en": "His admission changed everything. They were not discovering random accidents but following a route someone had prepared. Yet Shen warned that the association had begun to violate its own founding principle. Some members wished to use knowledge of future disasters to become rich. Others believed they could control wars by removing a few individuals from the past. “History is not a machine you repair by taking out the part you dislike,” he told them. Outside, footsteps echoed through the passage. Shen closed his book and pointed to a narrow stairway. “If you wish to restore names, start with the person whose life all of us agreed to forget.”",
+        "zh": "沈仲的坦白改變了一切。 他們並不是在偶然冒險，而是走上一條有人預先安排的路。但沈仲警告，協會早已背離初衷。有些成員想靠預知災難致富；另一些人相信從過去移除幾個人就能控制戰爭。「歷史不是你看哪個零件不順眼，就能拆下來的機器。」他說。外頭腳步聲逼近，沈仲合上書，指向狹窄階梯。「若想救回名字，從我們所有人都同意忘掉的那個人開始。」",
+        "englishSha256": "9242091bd3068d3a1914a21c4f75ad02bb0bc4966925cb84cd9e8df2f042854b",
+        "chineseSha256": "b8889630715de0cfc56cfff61f2fbc37469da0360b62f5ee57d710c983f2b2b5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 612,
+    "targets": [
+      {
+        "word": "arise",
+        "meaning": "出現",
+        "appearsInSource": true
+      },
+      {
+        "word": "association",
+        "meaning": "協會",
+        "appearsInSource": true
+      },
+      {
+        "word": "autobiography",
+        "meaning": "自傳",
+        "appearsInSource": true
+      },
+      {
+        "word": "bald",
+        "meaning": "禿頭的",
+        "appearsInSource": true
+      },
+      {
+        "word": "consequent",
+        "meaning": "隨之而來的",
+        "appearsInSource": true
+      },
+      {
+        "word": "curiosity",
+        "meaning": "好奇心",
+        "appearsInSource": true
+      },
+      {
+        "word": "declared",
+        "meaning": "宣告",
+        "appearsInSource": true
+      },
+      {
+        "word": "dependent",
+        "meaning": "依賴的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fireplace",
+        "meaning": "壁爐",
+        "appearsInSource": true
+      },
+      {
+        "word": "forecast",
+        "meaning": "預報",
+        "appearsInSource": true
+      },
+      {
+        "word": "halt",
+        "meaning": "停止",
+        "appearsInSource": true
+      },
+      {
+        "word": "lobster",
+        "meaning": "龍蝦",
+        "appearsInSource": true
+      },
+      {
+        "word": "machinery",
+        "meaning": "機械",
+        "appearsInSource": true
+      },
+      {
+        "word": "minister",
+        "meaning": "部長",
+        "appearsInSource": true
+      },
+      {
+        "word": "pasta",
+        "meaning": "義大利麵",
+        "appearsInSource": true
+      },
+      {
+        "word": "quotation",
+        "meaning": "引文",
+        "appearsInSource": true
+      },
+      {
+        "word": "restored",
+        "meaning": "恢復",
+        "appearsInSource": true
+      },
+      {
+        "word": "rusty",
+        "meaning": "生鏽的",
+        "appearsInSource": true
+      },
+      {
+        "word": "vacancy",
+        "meaning": "空缺",
+        "appearsInSource": true
+      },
+      {
+        "word": "violate",
+        "meaning": "違反",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Autobiography of a Stranger〉第 1 段的事件，哪個選項能正確補完整句？\nThe sight of him made ____ so suddenly that Yicheng nearly collided with her.",
+      "options": [
+        "her stop",
+        "her halt",
+        "her hand"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "her halt",
+      "existingAnswerExplanation": "原文證據：The sight of him made her halt so suddenly that Yicheng nearly collided with her.\n本段對照：校舍底下的通道通往一間生鏽的工作室。 老機械堆滿房間，一名禿頭男子坐在火爐旁，親手寫著自傳。他就是昭月失蹤的養叔叔沈仲。昭月猛然停步，以誠差點撞上她。沈仲比記憶裡老了許多，但昭月的人生明明沒有過這麼多年。他第一反應不是喜悅而是生氣：「妳根本不該跟著銅鐘來！」隨後卻緊緊抱住她，筆記本從膝上滑落。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The passage beneath the school opened into a rusty workshop. Old machinery filled the room, and a bald man sat before a fireplace, writing an autobiography by hand. He was Shen Zhong, Zhaoyue's missing uncle. The sight of him made her halt so suddenly that Yicheng nearly collided with her. Shen was older than she remembered, although fewer years had passed in her own life. His first reaction was not joy but anger. “You should never have followed the clock,” he declared. Then he embraced her so fiercely that his notebook slipped from his knees.",
+          "chinese": "校舍底下的通道通往一間生鏽的工作室。 老機械堆滿房間，一名禿頭男子坐在火爐旁，親手寫著自傳。他就是昭月失蹤的養叔叔沈仲。昭月猛然停步，以誠差點撞上她。沈仲比記憶裡老了許多，但昭月的人生明明沒有過這麼多年。他第一反應不是喜悅而是生氣：「妳根本不該跟著銅鐘來！」隨後卻緊緊抱住她，筆記本從膝上滑落。",
+          "matchedQueryTerms": 17
+        },
+        {
+          "paragraph": 5,
+          "english": "Zhaoyue studied his hands as he spoke. They had the roughness of a worker's hands, with small cuts around the nails and dark marks from years of ink. She wondered how many impossible choices those hands had made. It would be easy to forgive him everything because she had missed him, or condemn him for every danger his silence created. Neither judgment would be fair. She asked instead for the names of people he had failed to protect. Shen lowered his eyes, opened the autobiography to its unfinished pages, and began to read. Yicheng did not interrupt, even when the room became painfully quiet.",
+          "chinese": "沈仲說話時，昭月看著他的手。那雙手粗糙，指甲旁有細傷口，也有多年墨跡。她想，那雙手做過多少不可能的選擇。因為想念他，就原諒一切很容易；因他沉默帶來危險，就全盤譴責也很容易，但都不公平。她只是請他說出那些沒能保護的人名。沈仲低頭，翻開尚未寫完的自傳，開始朗讀。即使房間安靜得難受，以誠也沒有打斷。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Autobiography of a Stranger〉第 6 段的事件，哪個選項能正確補完整句？\nShen closed ____ and pointed to a narrow stairway.",
+      "options": [
+        "his book",
+        "his head down",
+        "his shoes"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "his book",
+      "existingAnswerExplanation": "原文證據：Shen closed his book and pointed to a narrow stairway.\n本段對照：沈仲的坦白改變了一切。 他們並不是在偶然冒險，而是走上一條有人預先安排的路。但沈仲警告，協會早已背離初衷。有些成員想靠預知災難致富；另一些人相信從過去移除幾個人就能控制戰爭。「歷史不是你看哪個零件不順眼，就能拆下來的機器。」他說。外頭腳步聲逼近，沈仲合上書，指向狹窄階梯。「若想救回名字，從我們所有人都同意忘掉的那個人開始。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "His admission changed everything. They were not discovering random accidents but following a route someone had prepared. Yet Shen warned that the association had begun to violate its own founding principle. Some members wished to use knowledge of future disasters to become rich. Others believed they could control wars by removing a few individuals from the past. “History is not a machine you repair by taking out the part you dislike,” he told them. Outside, footsteps echoed through the passage. Shen closed his book and pointed to a narrow stairway. “If you wish to restore names, start with the person whose life all of us agreed to forget.”",
+          "chinese": "沈仲的坦白改變了一切。 他們並不是在偶然冒險，而是走上一條有人預先安排的路。但沈仲警告，協會早已背離初衷。有些成員想靠預知災難致富；另一些人相信從過去移除幾個人就能控制戰爭。「歷史不是你看哪個零件不順眼，就能拆下來的機器。」他說。外頭腳步聲逼近，沈仲合上書，指向狹窄階梯。「若想救回名字，從我們所有人都同意忘掉的那個人開始。」",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 1,
+          "english": "The passage beneath the school opened into a rusty workshop. Old machinery filled the room, and a bald man sat before a fireplace, writing an autobiography by hand. He was Shen Zhong, Zhaoyue's missing uncle. The sight of him made her halt so suddenly that Yicheng nearly collided with her. Shen was older than she remembered, although fewer years had passed in her own life. His first reaction was not joy but anger. “You should never have followed the clock,” he declared. Then he embraced her so fiercely that his notebook slipped from his knees.",
+          "chinese": "校舍底下的通道通往一間生鏽的工作室。 老機械堆滿房間，一名禿頭男子坐在火爐旁，親手寫著自傳。他就是昭月失蹤的養叔叔沈仲。昭月猛然停步，以誠差點撞上她。沈仲比記憶裡老了許多，但昭月的人生明明沒有過這麼多年。他第一反應不是喜悅而是生氣：「妳根本不該跟著銅鐘來！」隨後卻緊緊抱住她，筆記本從膝上滑落。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}
