@@ -134,4 +134,11 @@ report={
  'note':'First chapters only. Other 24 chapters in each book remain editorial-pending. A machine audit does not imply human verification.',
  'books':receipts,'chapterChecks':checks}
 REPORT_PATH.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+from html import escape as esc
+rows=[]
+for b in level1:
+    r=receipts[b['id']]
+    rows.append('<tr><td><a href="./stories/'+esc(b['id'])+'/chapter-1.html">'+esc(b['zh'])+'</a></td><td>'+str(r['englishWordsAfter'])+'</td><td>'+str(r['targetWords'])+'</td><td>'+str(r['quizAnswersReviewed'])+'</td><td>第一章 AI 校訂完成；第 2–25 章待校訂</td></tr>')
+public_report='''<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第 1 級第一章校訂｜StorySteps</title><link rel="stylesheet" href="./public-reading.css"><style>table{width:100%;border-collapse:collapse}td,th{padding:.65rem;text-align:left;border-bottom:1px solid #8885}.scroll{overflow:auto}</style></head><body><header><a href="./">← StorySteps</a><nav><a href="./level1-editorial-progress.html">第 1 級全書進度</a><a href="./editorial-progress.html">全站進度</a></nav></header><main><h1>第 1 級第一章完整校訂結果</h1><p>本輪已逐篇閱讀並校訂 15 本第一章的全部英中段落，確認章節開頭與第二章的銜接，重新核對 30 題測驗及原文依據；每章均有至少 500 個英文詞、20 個目標詞。</p><p><strong>只有第一章完成 AI 校訂，並非 15 本小說全文校訂。</strong>各書第 2–25 章仍保留待校訂；沒有任何一本因此取得「全文已校訂」認證。本次沒有聲稱獨立真人編輯審閱。</p><div class="scroll"><table><thead><tr><th>小說</th><th>第一章英文詞</th><th>目標詞</th><th>核對題數</th><th>狀態</th></tr></thead><tbody>'''+''.join(rows)+'''</tbody></table></div><p><a href="https://github.com/tttoom580-ui/storysteps-preview/blob/main/verification/level1/ch01-editorial-completion-20261114.json">逐段編輯證據與測驗核對紀錄</a></p></main></body></html>'''
+(PUB/'level1-first-chapter-editorial.html').write_text(public_report,encoding='utf-8')
 print('CH01_FULL_EDITORIAL_RESULT',json.dumps(report['summary'],ensure_ascii=False))
