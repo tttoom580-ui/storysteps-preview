@@ -6,6 +6,7 @@ on:
       - 'app/**'
       - 'scripts/**'
       - 'public/**'
+      - 'incoming/batch11/**'
       - 'index.html'
       - 'main.tsx'
       - 'package.json'
