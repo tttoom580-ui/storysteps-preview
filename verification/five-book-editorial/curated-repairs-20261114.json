@@ -150,6 +150,106 @@
       "oldZh": "那既不符合約定，也不應被當作合法又公平的事。",
       "newZh": "這種說法與簽署的授權不符；慧希望先核對其法律依據，不要把未經證實的權利主張寫成事實。",
       "reason": "Avoid ungrounded definitive legal claim; retain level target 'legal'."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 6,
+      "paragraph": 2,
+      "oldEn": "When he turned the ball, the bright shape seemed to change.",
+      "newEn": "When Finn moved the ball slowly around Nia while the lamp remained still, the bright shape she could see changed.",
+      "oldZh": "他轉動球時，亮起來的形狀好像變了。",
+      "newZh": "芬恩讓球繞著妮雅慢慢移動，燈的位置保持不變；妮雅從自己的位置看到的亮面形狀也跟著改變。",
+      "reason": "Moon phases depend on illumination angle and the observer's perspective, not simply the ball spinning."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 7,
+      "paragraph": 5,
+      "oldEn": "That morning, Finn had rushed out of his bedroom without checking the clock in the kitchen.",
+      "newEn": "Earlier that same morning, Finn had rushed out of his bedroom without checking the clock in the kitchen.",
+      "oldZh": "那天早上，芬恩沒檢查廚房的鐘，就急忙離開臥室。",
+      "newZh": "當天稍早，芬恩沒檢查廚房的鐘，就急忙離開臥室。",
+      "reason": "Clearly mark flashback after noon timeline."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 8,
+      "paragraph": 5,
+      "oldEn": "During the break, Rae gave her little sister a paper star and asked her to hold it near her heart. The girl liked the shape and said it reminded her of a cookie. The two sisters had brought a small piece of fruit from home, and they sat down to taste it together before the evening visit. Nia watched them and remembered that the children had come after a long school day. She offered a short rest before the group walked to the park. Finn helped carry the clean paper cards, while Ada checked the list of families again. No one was left behind for moving slowly. When everyone was ready, Nia asked Ada to give one last reminder about staying near the bench. Then the group walked out in pairs.",
+      "newEn": "During the break beside the park bench, Rae gave her little sister a paper star and asked her to hold it near her heart. The girl liked its shape and said it reminded her of a cookie. The sisters had brought a small piece of fruit from home, and they sat down to taste it together. Nia remembered that the children had come after a long school day and offered a short rest before they walked to the park gate. Finn kept the paper cards dry, while Ada checked the list of families again. Nobody was left behind for moving slowly. When everyone was ready, Nia asked Ada to remind the group about staying on the path. Then they walked back to the center in pairs.",
+      "oldZh": "休息時，芮送妹妹一顆紙星星，請她把它拿在心口附近。妹妹喜歡那個形狀，說讓她想到餅乾。姊妹倆從家裡帶了一小塊水果，趁晚間活動前坐下來一起嚐。妮雅看著她們，想起孩子們都上了一整天學，因此在走去公園前安排短暫休息。芬恩幫忙拿乾淨的紙星卡，艾達再次核對家庭名單。沒有人因為走得慢就被留下。等大家都準備好，妮雅請艾達最後提醒一次大家要待在長椅附近，然後讓隊伍兩兩出發。",
+      "newZh": "在公園長椅旁休息時，芮送妹妹一顆紙星星，請她放在心口附近。妹妹喜歡那個形狀，說讓她想到餅乾。姊妹倆帶了少量水果，便坐下來一起嚐。妮雅想起孩子們都上了一整天學，於是讓大家休息片刻，再沿著小路往公園大門走。芬恩把紙星卡收好，艾達再次核對家庭名單。沒有人因為走得慢而被留下。準備好後，妮雅請艾達提醒大家沿著小路走，隊伍再兩兩結伴返回中心。",
+      "reason": "Original fifth paragraph transported pupils to park after chapter had already placed them at park at 7pm."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 18,
+      "paragraph": 5,
+      "oldEn": "Before the evening test, Finn's father showed Nia the paper he had filled in yesterday.",
+      "newEn": "Before the indoor evening safety briefing, Finn's father showed Nia the paper he had filled in yesterday.",
+      "oldZh": "晚間測試前，芬恩爸爸拿出昨天填寫的紙給妮雅看。",
+      "newZh": "晚上的室內安全說明開始前，芬恩爸爸拿出昨天填寫的紙給妮雅看。",
+      "reason": "Distinguish daytime field demonstration from evening indoor briefing."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 18,
+      "paragraph": 6,
+      "oldEn": "That night, the class stayed indoors.",
+      "newEn": "That night, the class stayed indoors because the field's barrier and lighting were not ready for a larger group.",
+      "oldZh": "那晚，班上仍留在室內。",
+      "newZh": "那晚，由於草地的隔離設施和照明還不足以接待大隊人馬，全班留在室內。",
+      "reason": "Explain why evening session indoors after daytime equipment test."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 22,
+      "paragraph": 3,
+      "oldEn": "Then he asked whether the class could spell the name of the moon in large letters beside the dots. Finn wrote M-O-O-N, slowly. They checked the word together. Nia explained that a clear label could help one person read with eyes and another person read with fingers.",
+      "newEn": "Then he asked whether the class could spell the name of the moon beside the dots, making a large-print label and a separate raised-letter strip. Finn wrote M-O-O-N slowly, while Ada formed the same letters in thick paper for Tomas to feel. They checked the word together. Nia explained that a large clear label helped sighted people read with their eyes, while raised letters gave Tomas a way to read with his fingers.",
+      "oldZh": "接著，他問能不能在點旁用大字拼出月亮的英文。芬恩慢慢寫下 M-O-O-N，大家一起核對。妮雅解釋，清楚的標籤能讓一些人用眼睛閱讀，也讓另一些人用手指閱讀。",
+      "newZh": "接著，托馬斯問能不能在凸點旁拼出月亮的英文，分別做一張大字標籤和一條凸字標籤。芬恩慢慢寫下 M-O-O-N，艾達則用厚紙做出同樣的字母，讓托馬斯可以摸讀。大家一起核對拼字。妮雅解釋，大而清楚的字可以讓看得見的學員閱讀，凸起的字母則讓托馬斯能用手指辨識。",
+      "reason": "Fix inaccessible plain letters falsely described as finger-readable."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 24,
+      "paragraph": 5,
+      "oldEn": "Before the evening group went outside, Nia asked families to meet inside the center and read the safety notice together. There was not much time between sunset and the end of the visit, so she kept the plan short. Ada checked the number of lamps and the route markers. One parent asked why the center needed to keep a written record of such a simple event. Nia explained that the next group would need to know where the equipment was stored and whether any part of the field needed work. They did not want to begin from nothing each time. The parent nodded and helped write the final check. By the time the group reached the gate, everyone knew where to stand and where to go if they needed help.",
+      "newEn": "While the group observed the stars, Nia pointed out that they had checked the safety notice together before leaving the center. The visit was short because dusk gave them only a little time under a clear sky. Ada checked the number of lamps again and confirmed that every route marker was still in place. One parent asked why the center needed a written record for such a simple event. Nia explained that the next group would need to know where the equipment was stored and whether any part of the field needed work. They did not want to begin from nothing each time. The parent nodded and offered to write down the final check after the visit. Everyone knew where to stand and where to go if they needed help.",
+      "oldZh": "晚間小組出門前，妮雅請家庭先在中心集合，一起閱讀安全公告。日落到參觀結束之間的時間不多，所以她把計畫安排得很短。艾達檢查燈具數量和路線標記。一位家長問，這麼簡單的活動為什麼要留書面紀錄。妮雅解釋，下一個使用場地的小組得知道器材收在哪裡，以及草地有哪些部分需要維護。大家不想每次都從零開始。家長點點頭，幫忙寫好最後檢查。隊伍抵達大門時，每個人都知道該站哪裡、需要幫助時該往哪裡走。",
+      "newZh": "觀星時，妮雅提醒大家：離開中心前，他們已一起核對過安全公告。黃昏後適合觀測的時間不多，所以行程安排得很短。艾達再次清點燈具，確認每個路線標記都在原位。一位家長問，這麼簡單的活動為什麼要留書面紀錄。妮雅解釋，下一組使用場地的人需要知道器材收在哪裡，以及草地是否仍有待修之處；大家不想每次都從零開始。家長點頭，主動提出活動結束後幫忙記下最後檢查結果。每個人都知道該站哪裡，以及需要協助時應往哪裡走。",
+      "reason": "Original narrative returns to center departure after group is already outdoors observing stars."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 5,
+      "paragraph": 2,
+      "oldEn": "That afternoon the club put the bean cups in three places and watched how the light changed. One place was under a tree, another was beside the window, and the last was near the garden wall. Ivy did not say that one place was best before they had tried them. She asked each child to look at the leaves and write one simple note. A boy said the leaves looked like tiny hands. A girl said they looked like green boats. The children could see the same plant and still find different words for it.",
+      "newEn": "That afternoon the club put the newly planted bean cups in three places and watched how the light changed. One place was under a tree, another was beside the window, and the last was near the garden wall. Ivy did not say that one place was best before they had tried them. Since the beans had been planted only that morning, there were no leaves to look at yet. She asked each child to draw what they expected to see after the seeds began to grow. A boy imagined tiny hands for leaves; a girl drew green boats. They were different guesses about the same future plant, not observations of leaves that were already there.",
+      "oldZh": "那天下午，社團把豆子杯放在三個位置，觀察光線如何變化。一個位置在樹下，一個在窗邊，最後一個在花園牆旁。還沒嘗試以前，艾薇不說哪個位置最好。她請每個孩子看看葉片，寫一句簡單的觀察。一個男孩說葉片像小手，一個女孩說像綠色小船。大家看著同一株植物，卻能用不同的字形容它。",
+      "newZh": "那天下午，社團把早上剛種好的豆子杯放在三個位置，觀察光線如何變化：樹下、窗邊和花園牆旁。還沒實際測試以前，艾薇不說哪個位置最好。豆子才種下幾個小時，還沒有葉子可以觀察，所以她請大家畫出自己想像種子發芽後的樣子。一個男孩想像葉片像小手，另一個女孩畫成綠色小船。那都是對未來植物的不同猜測，而不是已經長出葉子的觀察紀錄。",
+      "reason": "Correct biologically impossible mature leaves hours after planting."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 5,
+      "paragraph": 5,
+      "oldEn": "At the end of the lesson Ms. Wen reminded everyone to wash their hands after working with soil. The group carried the cups back inside and left the table clean.",
+      "newEn": "Near the end of the lesson Ms. Wen reminded everyone to wash their hands after working with soil. The group put the tools away and left the work table clean.",
+      "oldZh": "課程結束時，溫老師提醒大家碰過泥土後要洗手。社團把杯子搬回室內，讓桌面保持乾淨。",
+      "newZh": "活動接近尾聲時，溫老師提醒大家碰過泥土後要洗手。社團收好工具，讓工作桌保持乾淨。",
+      "reason": "Avoid carrying seedlings twice (also moved indoors in paragraph 7)."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 7,
+      "paragraph": 2,
+      "oldEn": "That night Ivy sat in her bedroom and looked at the drawing of the green box.",
+      "newEn": "The night before, Ivy had sat in her bedroom and looked at the drawing of the green box.",
+      "oldZh": "那晚，艾薇坐在臥室裡，看著綠箱子的圖。",
+      "newZh": "前一晚，艾薇曾坐在臥室裡，看著綠箱子的圖。",
+      "reason": "Move bedroom recollection to explicit previous-night flashback after office morning."
     }
   ],
   "quizzes": [
