@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths:
       - 'scripts/next_ten_editorial_triage.py'
+      - 'scripts/next_ten_apply_patches.py'
+      - 'verification/next-ten-editorial/pending-patches.json'
       - 'verification/next-ten-editorial/scope-20261114.json'
       - '.github/workflows/next-ten-editorial.yml'
   workflow_dispatch:
@@ -21,6 +23,7 @@ jobs:
       - name: Audit all 250 chapters without certifying prose
         run: |
           set -euo pipefail
+          python3 scripts/next_ten_apply_patches.py
           python3 scripts/next_ten_editorial_triage.py
           python3 scripts/check_editorial_certification.py
       - name: Commit issue list with source hashes
@@ -31,11 +34,13 @@ jobs:
           for i in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
+            python3 scripts/next_ten_apply_patches.py
             python3 scripts/next_ten_editorial_triage.py
             python3 scripts/check_editorial_certification.py
-            git add verification/next-ten-editorial/triage-20261114.json verification/next-ten-editorial/README.md
+            python3 scripts/audit_story_release.py
+            git add -A public/books public/content-manifest.json public/catalog.js verification/next-ten-editorial/patch-ledger.json verification/next-ten-editorial/triage-20261114.json verification/next-ten-editorial/README.md
             if git diff --cached --quiet; then exit 0; fi
-            git commit -m 'audit: record issues in next ten full novels, no false editorial signoff [skip ci]'
+            git commit -m 'editorial: publish verified bilingual revisions and precise next-ten QA records [skip ci]'
             if git push origin HEAD:main; then exit 0; fi
           done
           exit 1
