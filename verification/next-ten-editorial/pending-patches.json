@@ -190,6 +190,42 @@
           "泥水流進南方紀念碑旁的托兒所。工人先把孩子們室內小花圃的幼苗抬離地面；孩子們早已轉往樓上的避難所。"
         ]
       ]
+    },
+    {
+      "book": "import-rain-bell",
+      "chapter": 7,
+      "paragraph": 5,
+      "reason": "Make earlier school demonstration a clear flashback after dinner scene in preceding paragraph",
+      "english": [
+        [
+          "That afternoon Leo showed his model to a younger class.",
+          "Earlier that afternoon, before Mia spoke with her father, Leo had shown his model to a younger class."
+        ]
+      ],
+      "chinese": [
+        [
+          "當天下午，李奧把模型拿給低年級學生看。",
+          "那天下午較早時，米婭還沒與父親談話，李奧就已把模型展示給低年級學生看。"
+        ]
+      ]
+    },
+    {
+      "book": "import-rain-bell",
+      "chapter": 8,
+      "paragraph": 5,
+      "reason": "Chronology conflict: Ruby posted corrective video in paragraph 4, so grandmother's scene cannot say she has yet to make it",
+      "english": [
+        [
+          "She simply stayed until Ruby was ready to pick up the phone and make the correction.",
+          "She simply sat beside Ruby while the girl reviewed the correction she had already posted and read the replies without trying to erase her mistake."
+        ]
+      ],
+      "chinese": [
+        [
+          "只是一直陪著，直到露比願意拿起手機製作更正影片。",
+          "只是陪露比坐著，直到女孩願意重新看自己已上傳的更正影片，讀過那些回覆，而不急著抹掉曾經犯下的錯。"
+        ]
+      ]
     }
   ],
   "quizPatches": [
