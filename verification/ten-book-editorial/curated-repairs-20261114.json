@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "reviewDate": "2026-11-14",
+  "reviewer": "GPT-6 AI editorial review",
+  "scope": "Ten selected books / 250 chapters; targeted, manually reviewed changes only",
+  "bookIds": [
+    "tomorrow",
+    "ss-r10-l1-a",
+    "ss-r11-l1-a",
+    "ss-r2-l1-b",
+    "ss-r10-l2-b",
+    "ss-r2-l2-a",
+    "ss-r10-l3-b",
+    "ss-r10-l4-a",
+    "ss-r10-l5-b",
+    "ss-r10-l6-a"
+  ],
+  "changes": [
+    {
+      "book": "ss-r10-l6-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "problem": "Disconnected target-vocabulary sentences and archival scene continuity.",
+      "oldEn": "The junior clerk tried to abbreviate a woman's surname into a number. Anwen said the survey boat's anchor had held through three violent winters. Veyra asked whether the new order was applicable to children without papers. The oldest archive held registers copied before the coast had been divided. The grandmother pressed the rejected ticket against her bosom.",
+      "newEn": "At the harbor desk, a junior clerk tried to abbreviate a grandmother's surname in the passenger record. Veyra asked him to keep her full name so the family could search for it in the archive. Anwen pointed out that the survey boat's anchor had held through three violent winters, but no one had checked the boat's clock against the observatory. Veyra also asked whether the new sailing order was applicable to children without papers. The grandmother pressed her rejected ticket against her bosom and waited for an answer.",
+      "oldZh": "年輕書記想把一名婦人的姓氏縮寫成數字。 安溫說測量船的錨已撐過三個猛烈的冬天。 薇拉詢問新命令是否適用於沒有文件的孩子。 最舊的檔案庫保存著海岸劃分以前抄錄的航海紀錄。 祖母把遭拒的票緊緊按在胸前。",
+      "newZh": "港口櫃檯的年輕書記想縮寫一位祖母的姓氏。薇拉請他保留全名，好讓家屬日後能在檔案庫裡查到。安溫指出，測量船的船錨雖然撐過三個猛烈的冬天，卻從沒有人核對船鐘與天文台時鐘是否一致。薇拉又問，新航行命令是否適用於沒有證件的孩子。祖母把遭退回的船票緊按在胸前，等待答覆。"
+    },
+    {
+      "book": "ss-r10-l6-a",
+      "chapter": 1,
+      "paragraph": 2,
+      "problem": "Keep Anwen's movements continuous after harbor scene.",
+      "oldEn": "Veyra called her young apprentice Anwen and asked her to bring the unbound observation sheets, not another polished summary.",
+      "newEn": "Back at the observatory, Veyra asked her young apprentice Anwen to bring the unbound observation sheets, not another polished summary.",
+      "oldZh": "薇拉叫來年輕學徒安溫，要求拿未裝訂的原始觀測紙，不要另一份光鮮摘要。",
+      "newZh": "回到天文台後，薇拉請年輕學徒安溫拿出尚未裝訂的原始觀測紙，而不是另一份修飾過的摘要。"
+    },
+    {
+      "book": "ss-r10-l6-a",
+      "chapter": 1,
+      "paragraph": 2,
+      "problem": "Link five vocabulary words through a single quay inquiry.",
+      "oldEn": "A bra and children's socks remained in an abandoned travel bag. Silas refused a bribe offered by an unknown visitor that afternoon. The kitchen planned to broil fish rather than waste its remaining fuel. Jory proposed a comparative count of receipts and crew cards. One frightened child rubbed an eyelid while listening to the argument.",
+      "newEn": "An orderly brought in a travel bag abandoned near the quay. Inside were a bra, children's socks, and a ticket with no passenger name. A frightened child rubbed an eyelid while trying to remember who had left it there. Silas, the harbor supervisor, refused a bribe from a stranger who wanted the bag removed from the register. Jory, a local clockmaker, proposed a comparative count of tickets and crew cards before anyone was blamed. The kitchen would broil its remaining fish so families could eat while the inquiry continued.",
+      "oldZh": "一件胸罩與孩子的襪子留在被遺棄的旅行袋裡。 賽拉斯拒絕了陌生訪客下午提出的賄賂。 廚房打算炙烤魚，以免浪費所剩的燃料。 喬里提議把收據與船員戶籍卡進行比較統計。 一個受驚的孩子聽著爭執，不斷揉著眼皮。",
+      "newZh": "一名勤務員帶來在碼頭附近發現的旅行袋。袋裡有一件胸罩、幾雙童襪和一張沒有乘客姓名的船票。一個受驚的孩子揉著眼皮，努力回想是誰把袋子留下。港口主管賽拉斯拒絕陌生人提出的賄賂；對方想讓他把旅行袋從紀錄中刪除。當地鐘匠喬里建議先比較船票和船員卡的數量，再決定是否指責任何人。廚房則準備炙烤剩下的魚，讓等候調查的家屬先吃上飯。"
+    },
+    {
+      "book": "ss-r10-l6-a",
+      "chapter": 1,
+      "paragraph": 3,
+      "problem": "Jory has already appeared in earlier paragraph.",
+      "oldEn": "invited a clockmaker named Jory to examine the bell mechanism.",
+      "newEn": "invited Jory, the clockmaker, to examine the bell mechanism.",
+      "oldZh": "再請鐘匠喬里檢查鐘聲機構。",
+      "newZh": "再請剛才提出比對建議的鐘匠喬里檢查報時鐘機構。"
+    },
+    {
+      "book": "ss-r10-l6-a",
+      "chapter": 1,
+      "paragraph": 3,
+      "problem": "Correct 'missing crews' continuity and make junction/finite/flourish/gangster/limp relevant.",
+      "oldEn": "The town had finite stores, which made honest counting more urgent. Veyra wanted the coast villages to flourish without sacrificing their residents. A local gangster offered to silence the survey boat witnesses for a fee. The missing ship crews clustered near the junction of two old roads. Jory walked with a limp but carried the original receipts himself.",
+      "newEn": "At the junction of two old roads, relatives of the missing ship crews crowded around a volunteer desk. Their food supplies were finite, but Veyra hoped the coastal villages could flourish once safe crossings resumed. A local gangster offered to silence the survey-boat witnesses for a fee. Veyra ordered his words recorded; she would not call an accusation proof without further investigation. Jory walked with a limp, yet carried the original receipts to the desk himself so the families could compare them.",
+      "oldZh": "城鎮的物資有限，因此誠實清點更為迫切。 薇拉希望海岸村落繁榮，而不是犧牲居民。 一名地方幫派分子提出收錢便讓測量船證人閉嘴。 失蹤戶集中在兩條舊路的交叉處附近。 喬里走路跛行，仍親自帶來原始收據。",
+      "newZh": "在兩條舊路的交叉口，失蹤船員的家屬擠在志工服務桌前。大家的食物有限，但薇拉仍希望沿海村莊能在安全通航後恢復繁榮。一名地方幫派分子提議收錢封住測量船證人的嘴。薇拉命人把他的話記下；在進一步調查前，指控不等於證據。喬里走路雖然跛行，仍親自把原始收據送到服務桌，讓家屬能逐一比對。"
+    },
+    {
+      "book": "ss-r10-l6-a",
+      "chapter": 1,
+      "paragraph": 4,
+      "problem": "Turn disconnected closing vocabulary into a single document review.",
+      "oldEn": "Anwen agreed to narrate each crossing before a neutral recorder. An orderly guided the waiting families into a room with seats. The observatory quay ticket teller remembered several passengers by their names. The seal lay on virgin paper that had never held an earlier entry. A narrow warrant permitted inspection of the disputed logbook, not private homes.",
+      "newEn": "Anwen offered to narrate the sequence of recorded crossings to an independent clerk. An orderly guided the families to a waiting room, while the ticket teller at the observatory quay identified several passengers from the handwritten register. Veyra placed the seal beside a sheet of virgin paper—unused, with no earlier entries to conceal. She would approve only a narrow warrant for the disputed logbook, never a search of private homes. The list of passengers remained available for relatives to check before the final notice was issued.",
+      "oldZh": "安溫同意在中立記錄員面前敘述每一次渡河。 一名勤務員引導等候的家庭進入有座位的房間。 港口售票員記得好幾位乘客的姓名。 印章蓋在從未寫過舊紀錄的全新紙張上。 一張範圍有限的搜索令准許查驗有爭議的航海紀錄，而非民宅。",
+      "newZh": "安溫願意向獨立書記敘述紀錄中的各次船隻通行。一名勤務員引導家屬前往候客室；天文台碼頭的售票員則根據手寫名冊認出幾位乘客。薇拉把印章放在一張全新、尚未留下任何紀錄的白紙旁。她只會核准範圍有限的調閱令，准許查驗有爭議的航海紀錄，不會允許搜查民宅。正式公告發布前，家屬仍可查閱名單，核對乘客姓名。"
+    },
+    {
+      "book": "ss-r10-l6-a",
+      "chapter": 2,
+      "paragraph": 1,
+      "problem": "Fix disconnected chapter-two vocabulary and give historical term context.",
+      "oldEn": "The aboriginal families requested recognition of their own land records. Wild grasses abound on the slopes even in a harsh season. The surveyor tried to align his grid with an ancient footpath. At this altitude, the river sounded distant and strangely thin. Silas's annoyance showed when the official refused to explain his method.",
+      "newEn": "Hera showed Veyra the land records of families labeled aboriginal in older government registers, and explained that the families had long asked officials to recognize their footpaths. Wild grasses abound on the slopes, so the surveyor struggled to align his neat grid with one ancient trail. At this altitude, even the river sounded distant. Silas's annoyance grew when the visiting official refused to explain why the path had been left off the new map.",
+      "oldZh": "原住民族家庭要求承認他們自己的土地紀錄。 即使季節嚴酷，坡地上仍長滿野草。 測量員試圖讓方格對齊一條古老步道。 在這樣的海拔，河聲聽來遙遠而微弱。 官員拒絕解釋方法時，賽拉斯露出了不悅。",
+      "newZh": "赫拉拿出舊政府檔案中標為「原住民族」（aboriginal）的家庭土地紀錄，說明這些家族多年來一直要求官方承認傳統步道。坡地上野草茂盛，測量員很難把整齊的方格對上那條古道。在這樣的海拔，連河聲都聽來遙遠。來訪的官員不肯解釋為何在新地圖上刪掉這條路，讓賽拉斯愈發不悅。"
+    },
+    {
+      "book": "ss-r10-l6-a",
+      "chapter": 2,
+      "paragraph": 4,
+      "problem": "Keep minister/veto/widow conflict causal and bilingual.",
+      "oldEn": "The navigation minister feared an uprising more than he feared an inaccurate census. A station town teacher volunteered to usher visitors into the meeting hall. Anwen was versatile enough to read maps and repair a boat engine. The minister threatened to veto the proposed independent review. A widow described how camp fees had swallowed her husband's wages.",
+      "newEn": "The navigation minister warned that the hearing could spark an uprising, yet he refused to discuss the inaccurate census that had erased several families from the official list. A teacher volunteered to usher visitors into the meeting hall. Anwen, versatile enough to interpret maps and repair a boat engine, laid out the records where everyone could see them. When the minister threatened to veto the independent review, a widow stood and described how camp fees had swallowed her husband's wages. Veyra recorded her testimony alongside the evidence instead of allowing the argument to end there.",
+      "oldZh": "航務大臣害怕起義，勝過害怕錯誤的人口統計。 一名村教師自願引導訪客進入會堂。 安溫既能看地圖又會修船引擎，十分多才多藝。 部長威脅否決獨立複查的提案。 一名寡婦描述營地費用如何吞掉丈夫的工資。",
+      "newZh": "航務大臣警告聽證會可能引發起義，卻不肯討論錯誤的人口統計如何讓幾戶人家從官方名冊消失。一名村教師自願引導訪客進入會堂。安溫既能解讀地圖又會修船引擎，於是把紀錄攤開，讓所有人都看得見。大臣威脅否決獨立複查時，一位寡婦起身說明營地費用如何吃掉她丈夫的工資。薇拉把她的證詞與其他證據一併記下，沒有讓爭論草草結束。"
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 1,
+      "paragraph": 1,
+      "problem": "Introduce second protagonist before plural 'they'.",
+      "oldEn": "At the Lantern Quay, they faced a problem that the market announcements had described too simply:",
+      "newEn": "At the Lantern Quay, Gu Wen met Lin Zhou, a quiet herbalist who had been tracing the same complaint. Together they faced a problem that the market announcements had described too simply:",
+      "oldZh": "在燈籠碼頭，兩人面對一件市場公告說得過於簡單的難題：",
+      "newZh": "在燈籠碼頭，顧聞遇見同樣追查這起事件的寡言草藥師林舟。兩人一起面對一件市場公告說得過於簡單的難題："
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 2,
+      "paragraph": 6,
+      "problem": "Salt Ridge lacks waterfront; remove recycled quay ending.",
+      "oldEn": "After the tables were cleaned, the two men sat where they could see the last boats on the water. Their silence was easier than it had been at the start of the road. Neither needed to perform certainty for the other.",
+      "newEn": "After the injured driver had been taken to shelter, Gu Wen and Lin Zhou rested beside the ridge path and watched the last spice wagons move toward the villages. The narrow road left little room to sit, but neither felt obliged to fill the silence with confident promises.",
+      "oldZh": "餐桌收拾乾淨後，兩人坐在能望見最後幾艘船的地方。他們之間的沉默比旅程開始時自然，誰也不必在對方面前假裝篤定。",
+      "newZh": "受傷的車夫送往避風處後，顧聞和林舟在山脊小路旁歇腳，目送最後幾輛香料貨車往村子駛去。狹窄的道路沒多少地方可坐，但誰也不必用假裝篤定的承諾填滿沉默。"
+    },
+    {
+      "book": "ss-r10-l4-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "problem": "Clarify competition vs safety technology.",
+      "oldEn": "a ministry official described the shield as entertainment that could save lives.",
+      "newEn": "a ministry official presented the match as entertainment while insisting that the shield it showcased could save lives.",
+      "oldZh": "一名主管部門官員則說防護屏障是一種能救人的娛樂。",
+      "newZh": "主管部門官員把比賽包裝成娛樂，卻又堅稱比賽展示的屏障技術能保護市民。"
+    },
+    {
+      "book": "ss-r2-l2-a",
+      "chapter": 2,
+      "paragraph": 1,
+      "problem": "Connect subway term to abandoned mining route.",
+      "oldEn": "a map of the old subway.",
+      "newEn": "a map of the disused mining subway route.",
+      "oldZh": "一張舊地下鐵地圖",
+      "newZh": "一張廢棄礦區地下鐵路的路線圖"
+    }
+  ],
+  "quizChanges": [
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 1,
+      "question": 1,
+      "oldQuestion": "Where was the missing recording box found?",
+      "oldOptions": [
+        "In a locked classroom",
+        "Under the café counter",
+        "On a bus"
+      ],
+      "oldExplanation": "錄音箱被移往漏水時使用的舊教室，並不是遭人偷走。",
+      "newQuestion": "What clue do May and Evan notice outside the locked classroom?",
+      "newOptions": [
+        "Light beneath the door and a faint click.",
+        "The box standing in the doorway.",
+        "A worker carrying a new microphone."
+      ],
+      "newExplanation": "答案：A。第一章結尾只發現鎖著的教室門縫下有燈光，裡面傳來微弱的喀噠聲。此時還不知道錄音箱是否在裡面，不能把第二章才揭曉的結果放進第一章測驗。原文證據（第 6 段）：The classroom door was locked, but there was light beneath it."
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 1,
+      "question": 1,
+      "oldQuestion": "What problem brought the two travelers to the Lantern Quay?",
+      "oldOptions": [
+        "They were choosing a royal heir through a sword duel.",
+        "They were investigating an entire pot of fish broth lost its smell while every ingredient remained fresh.",
+        "They were searching for a new place to build a palace."
+      ],
+      "newQuestion": "What problem brought Gu Wen and Lin Zhou to the Lantern Quay?",
+      "newOptions": [
+        "They were choosing a royal heir in a sword duel.",
+        "An entire pot of fish broth had lost its smell although its ingredients were fresh.",
+        "They were searching for land to build a palace."
+      ],
+      "newExplanation": "答案：B。第一章說明魚湯的食材仍然新鮮，整鍋湯卻突然沒有香氣，因此兩人開始調查。原文證據（第 1 段）：an entire pot of fish broth lost its smell while every ingredient remained fresh."
+    }
+  ],
+  "editorialDisclaimer": "These corrections do not certify any whole book. Automatic 250-chapter audit screens structure and repetition only; remaining paragraphs, plot and 500 quiz answers require reading and editing."
+}
