@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "reviewDate": "2026-11-14",
+  "reviewer": "GPT-6 AI editorial review",
+  "scope": "Next 10 books × 25 chapters excluding previously approved five",
+  "bookIds": [
+    "ss-r2-l2-a",
+    "ss-r10-l3-b",
+    "ss-r10-l4-a",
+    "ss-r10-l5-b",
+    "ss-r10-l6-a",
+    "import-rain-bell",
+    "import-two-rivers",
+    "import-last-garden",
+    "import-two-histories",
+    "import-third-gate"
+  ],
+  "acceptance": "Do not change learningReviewRequired or create certificates until complete 25-chapter, full English/Chinese textual and quiz evidence is reviewed.",
+  "status": "in_progress"
+}
