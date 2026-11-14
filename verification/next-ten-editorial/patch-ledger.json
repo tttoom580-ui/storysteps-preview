@@ -4,7 +4,7 @@
     "scopeBooks": 10,
     "patchGroupsRecorded": 29,
     "quizPatchesRecorded": 6,
-    "patchGroupsAppliedThisRun": 5,
+    "patchGroupsAppliedThisRun": 0,
     "chaptersWithDocumentedRepairs": 5,
     "wholeBooksCertifiedByScript": 0
   },
@@ -14,7 +14,7 @@
       "chapter": 2,
       "paragraph": 6,
       "reason": "Fix injured driver's treatment order within ridge scene.",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "Gu Wen tore his spare cloak into strips for the injured driver.",
@@ -33,7 +33,7 @@
       "chapter": 11,
       "paragraph": 5,
       "reason": "Remove duplicated 'first spoke about mother' action repeated in next paragraph.",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "Gu Wen spoke about his mother's closed restaurant for the first time.",
@@ -52,7 +52,7 @@
       "chapter": 19,
       "paragraph": 5,
       "reason": "Remove apology duplicated in paragraph six and focus on incoming families.",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "Lin Zhou apologized for hiding his teacher's early involvement, and Gu Wen chose to listen rather than punish.",
@@ -71,7 +71,7 @@
       "chapter": 21,
       "paragraph": 5,
       "reason": "Remove duplicate handholding and future proposal appearing again in chapter 21 paragraph six.",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "Lin Zhou took Gu Wen's hand in public for the first time and asked whether he wished to walk together after the case.",
@@ -90,7 +90,7 @@
       "chapter": 23,
       "paragraph": 5,
       "reason": "Remove first-bowl action repeated in paragraph six and strengthen accessibility arc.",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "Gu Wen asked Lin Zhou to taste the first finished bowl, and Lin Zhou asked to share the work, not receive praise.",
