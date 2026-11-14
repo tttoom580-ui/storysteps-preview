@@ -1,0 +1,1970 @@
+{
+  "version": 1,
+  "reviewedOn": "2026-11-14",
+  "editorialReviewerType": "AI, not independent human editorial sign-off",
+  "scope": "Level 1, chapter 1 of every currently published book",
+  "summary": {
+    "booksInScope": 15,
+    "firstChaptersReviewedAndApproved": 15,
+    "entireBooksFullyCertified": 0,
+    "bilingualParagraphsReviewed": 96,
+    "quizzesReviewed": 30,
+    "individualBilingualTextEdits": 47,
+    "chaptersBelow500": 0,
+    "chaptersBelow20Targets": 0
+  },
+  "note": "First chapters only. Other 24 chapters in each book remain editorial-pending. A machine audit does not imply human verification.",
+  "books": {
+    "tomorrow": {
+      "book": "tomorrow",
+      "title": "明天，別來學校",
+      "chapter": "tomorrow-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 529,
+      "englishWordsAfter": 537,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 8,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 73,
+          "englishExcerpt": "At ten past ten on Monday night, my phone showed me a new message. The name above it was Mia Chen. My name. The small picture was also mine: me at the beach, with one eye closed against the sun. I had",
+          "chineseExcerpt": "星期一晚上十點十分，手機跳出一則新訊息。上面的名字是 Mia Chen——我的名字。小照片也是我：海邊的我，因為陽光而閉著一隻眼睛。我沒有傳東西給自己。就在剛才，我還在試著背十二個英文單字，只會其中三個，無聊得要命。現在，我的目光卻離不開螢"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 63,
+          "englishExcerpt": "The message came through Later, a little website our school had made. Last year, our class used it to write letters to our future selves. Mine said, Dear Future Mia, please stop losing your keys. This",
+          "chineseExcerpt": "訊息來自 Later，一個學校做的小網站。去年，我們班用它寫信給未來的自己。我的信寫著：親愛的未來 Mia，拜託別再弄丟鑰匙。這封新信卻不同。頂端有人寫著：星期二，晚上十點十分。比現在晚一天。下面是六個字的英文句子：明天，別來學校。拜託。"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 65,
+          "englishExcerpt": "I laughed once, without really finding it funny. Leo loved bad jokes. He had helped build Later, and he knew that I checked my phone far too often. I sent him a picture of the message. He answered wit",
+          "chineseExcerpt": "我笑了一聲，卻不是真的覺得好笑。Leo 最愛爛笑話。他幫忙做過 Later，也知道我太常看手機。我把訊息截圖傳給他。他回了一張數學課本的照片，寫道：如果我能跟明天說話，我會問這題的答案。接著他打電話來。"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 62,
+          "englishExcerpt": "“Did you click anything?” he asked. “Just the message.” “Don't delete it. I will look in the morning.” His voice sounded tired, not excited. If this was a joke, it was not one he enjoyed. Behind him, ",
+          "chineseExcerpt": "「妳有按什麼嗎？」他問。「只有訊息。」「先別刪。我早上看看。」他的聲音很疲倦，不像興奮。如果這是玩笑，他並不享受。背景傳來弟弟問好剪刀在哪裡。Leo 遮住手機，我聽到櫥櫃關上的聲音。有一瞬間，一切又很正常。"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 65,
+          "englishExcerpt": "Then a second message arrived. Tomorrow, at the first bell, look at the red scarf by the front gate. Don't follow the others. Under those words was a voice file, only four seconds long. I pressed play",
+          "chineseExcerpt": "接著第二則訊息到了。明天第一聲鐘響時，看看前門旁的紅圍巾。別跟著其他人。文字下有一段四秒的語音。我按下播放。自己的聲音傳出來，又細又急：「June，等等。把手機給我。」我一時忘了呼吸。六週前，我說過這些話。"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 71,
+          "englishExcerpt": "That was the last afternoon June came to school. People said she had taken money from the student room. People said there was a video. People said she had run away because everyone at school believed ",
+          "chineseExcerpt": "那是 June 最後一次到學校的下午。大家說她拿了學生會辦公室的錢，說有影片，說她因為全校都相信那些傳言而離開。我看過那段影片的十二秒，也按過底下寫著「我相信」的按鈕。我告訴自己，那只是投票。"
+        },
+        {
+          "paragraph": 7,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 67,
+          "englishExcerpt": "“Mia?” Leo was still on the call. “What happened?” I wanted to tell him about the voice. Instead, I said my mother was calling. I put the phone face down beside my book. The twelve English words waite",
+          "chineseExcerpt": "「Mia？」Leo 還在線上。「怎麼了？」我想告訴他語音的事，卻說媽媽在叫我。我把手機翻面，放到課本旁。十二個單字等在燈光下，其中一個是 return。我在旁邊寫了「回來」。我盯著它，直到那兩個中文字彷彿失去了熟悉的形狀。"
+        },
+        {
+          "paragraph": 8,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 71,
+          "englishExcerpt": "My mother knocked and came in with warm milk. She asked if I had finished studying. I said almost. When she left, I opened June's old chat. My last message was still there: Is it true? She had never a",
+          "chineseExcerpt": "媽媽敲門，端著熱牛奶進來，問我讀完了沒。我說快了。她離開後，我打開與 June 的舊對話。最後一則訊息還在：是真的嗎？她從來沒回。我打下「妳還好嗎」，又刪掉。窗外雨滴輕敲玻璃。手機再次亮起，這次只有三個英文單字：妳也投了票。"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 7,
+          "language": "en",
+          "old": "the two little Chinese marks lost their shape",
+          "new": "the two Chinese characters seemed to lose their familiar shape"
+        },
+        {
+          "paragraph": 7,
+          "language": "zh",
+          "old": "直到那兩個中文字看起來不再像字",
+          "new": "直到那兩個中文字彷彿失去了熟悉的形狀"
+        },
+        {
+          "paragraph": 6,
+          "language": "en",
+          "old": "People said she had run away because everyone knew.",
+          "new": "People said she had run away because everyone at school believed the story about her."
+        },
+        {
+          "paragraph": 6,
+          "language": "zh",
+          "old": "說她因為被揭穿而逃走",
+          "new": "說她因為全校都相信那些傳言而離開"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "What makes Mia take the message seriously?",
+          "correctOptionIndex": 0,
+          "correctOption": "It contains her voice from the day June left.",
+          "evidenceParagraph": 5,
+          "sourceExcerpt": "My own voice came out, thin and quick.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "It contains her voice from the day June left.\n校訂核對（第 5 段）：My own voice came out, thin and quick."
+        },
+        {
+          "number": 2,
+          "question": "What does Mia do with the message she starts writing to June?",
+          "correctOptionIndex": 1,
+          "correctOption": "She erases it before sending.",
+          "evidenceParagraph": 8,
+          "sourceExcerpt": "Then I erased it.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "章末，米雅輸入 Are you okay? 後又刪掉，沒有送出。\n校訂核對（第 8 段）：Then I erased it."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "b68d156bf835cb3a29b71e967b333260bc03d3083516bad48c90261cfc3d39e7",
+      "bookSourceSha256": "2a47a88e3402f6d9b4195250d11a3542b2bf966e953a70f432e64bf121fc4d24",
+      "newPayload": "./books/tomorrow-2a47a88e3402.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "import-rain-bell": {
+      "book": "import-rain-bell",
+      "title": "雨來之前的鐘聲",
+      "chapter": "import-rain-bell-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 788,
+      "englishWordsAfter": 793,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 7,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 114,
+          "englishExcerpt": "At 6:10 a.m., the old warning bell rang above the locked River House. Mia Lin stopped so quickly that a box of breakfast food almost fell from her arms. There had been no rain for days. Why did the be",
+          "chineseExcerpt": "上午六點十分，已上鎖的河屋上方響起老舊的警鐘。米婭·林猛然停步，手裡的一盒早餐差點掉下來。好幾天都沒有下雨。為什麼警鐘卻像河水正在上漲般響著？街上空無一人。身旁的露比·陳一手拿著蛋糕，另一手提著水果。「妳聽見了嗎？」露比問。「那麼大聲，大家"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 118,
+          "englishExcerpt": "The girls had come to help Grandma Chen prepare food for a school event. She was waiting inside the small room next to the River House, where an old couch sat under a white cover. Bowls of salad fille",
+          "chineseExcerpt": "兩個女孩是來幫陳奶奶準備學校活動餐點的。奶奶在河屋旁的小房間等候，房內有一張蓋著白布的舊沙發。桌上放滿一碗碗沙拉。學校星期五將迎接外國訪客，學生準備介紹河灣鎮居民如何照顧河流。「這可不是好日子的正常開頭。」陳奶奶開門時說。她的笑容很快消失，"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 111,
+          "englishExcerpt": "Mia had a hobby: she liked to write down things that other people passed without seeing. Her father used to teach her to keep three lists in a little book: what she saw, what she heard, and what she o",
+          "chineseExcerpt": "米婭有個嗜好：她喜歡記下別人走過時沒注意到的小事。父親以前教她在小筆記本裡分成三欄：看見的、聽見的，以及純粹猜測的。今天她翻到空白的一頁。露比指著一扇沉重的木門，門底橫著一條深色痕跡。米婭起初以為是泥土，摸了旁邊的地面才發現是濕的。「這一側"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 111,
+          "englishExcerpt": "A boy ran up the street, carrying a school bag as large as himself. It was Jay, Mia's younger cousin, with a paper monkey from the school show. One white tooth had fallen out of the monkey's open mout",
+          "chineseExcerpt": "一個男孩沿街跑來，背著幾乎和自己一樣大的書包。他是米婭年紀較小的表弟杰，手裡拿著學校表演要用的紙猴子。猴子張開的嘴裡掉了一顆白牙。「我剛才在做晨間運動！」杰得意地說。露比笑了：「帶著紙猴子跑來這裡，也算運動？」杰讓猴子鞠躬。但米婭正看著他肩"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 117,
+          "englishExcerpt": "Grandma Chen came outside with a paper from the town office. Someone had put it on her door during the night. The paper said the River House would be sold in twenty days. The room where families met, ",
+          "chineseExcerpt": "陳奶奶拿著一張公所通知走出來。有人昨夜把它貼在門上。通知說河屋將在二十天後出售。這個讓居民聚會、演奏音樂、分享食物的地方，將成為新計畫的一部分。露比盯著通知：「那我們只剩二十天可以救它。」杰努力裝出大人的口氣說：「我們去問鎮公所為什麼，好嗎"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 109,
+          "englishExcerpt": "At school Mia could not listen to the first lesson. A drawing of the River House filled half her page. During lunch she found Leo Wu by the bicycle stand and showed him the drawing. Leo knew old machi",
+          "chineseExcerpt": "到了學校，米婭完全聽不進第一堂課。她在筆記本半頁畫滿河屋。午餐時間，她在腳踏車停放處找到李奧·吳，把圖給他看。李奧比米婭認識的任何人都更懂老機械。他看著記號，摸摸下巴。「不一定要有人碰鐘，它才會響，」他說，「水能推木頭，木頭能拉繩子。但我還"
+        },
+        {
+          "paragraph": 7,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 113,
+          "englishExcerpt": "The house stood silent in the warm afternoon. Jay wanted to play a joke by shouting “Ghost!” through the window, but Ruby stopped him. “I don't want Grandma to worry.” Leo pointed to a thin line under",
+          "chineseExcerpt": "午後溫暖，河屋靜悄悄地站著。杰想對著窗戶喊「有鬼！」開個玩笑，卻被露比阻止。「我不想讓奶奶擔心。」李奧指著門下的一條細線。米婭早上看到的深色痕跡還在，一小滴水正慢慢流過地面。「最近這裡真的有水，」他說，「這點可以確定。」他們沒有碰門，而是由"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 1,
+          "language": "en",
+          "old": "“Everyone heard that,” Mia said. But no one came to the windows.",
+          "new": "“It was loud enough for everyone to hear,” Mia said. Still, no one appeared at the windows."
+        },
+        {
+          "paragraph": 1,
+          "language": "zh",
+          "old": "「大家都聽見了吧。」米婭說。可是，沒有一個人來到窗邊。",
+          "new": "「那麼大聲，大家應該都聽得見。」米婭說。然而，窗邊始終沒有人出現。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "依據〈The Bell at Six Ten〉第 1 段的事件，哪個選項能正確補完整句？\nBeside Mia, Ruby Chen held ____ in one hand and a bag of fruit in the other.",
+          "correctOptionIndex": 0,
+          "correctOption": "a cake",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "Beside Mia, Ruby Chen held a cake in one hand and a bag of fruit in the other.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "原文證據：Beside Mia, Ruby Chen held a cake in one hand and a bag of fruit in the other.\n本段對照：上午六點十分，已上鎖的河屋上方響起老舊的警鐘。米婭·林猛然停步，手裡的一盒早餐差點掉下來。好幾天都沒有下雨。為什麼警鐘卻像河水正在上漲般響著？街上空無一人。身旁的露比·陳一手拿著蛋糕，另一手提著水果。「妳聽見了嗎？」露比問。「大家都聽見了吧。」米婭說。可是，沒有一個人來到窗邊。鐘聲再次響起：緩慢的三下。接著停住。清晨的陽光照亮屋頂，整間屋子恢復安靜。\n校訂核對（第 1 段）：Beside Mia, Ruby Chen held a cake in one hand and a bag of fruit in the other."
+        },
+        {
+          "number": 2,
+          "question": "依據〈The Bell at Six Ten〉第 7 段的事件，哪個選項能正確補完整句？\nInstead, Mia wrote ____, the time, and what each friend had noticed.",
+          "correctOptionIndex": 1,
+          "correctOption": "the date",
+          "evidenceParagraph": 7,
+          "sourceExcerpt": "Instead, Mia wrote the date, the time, and what each friend had noticed.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "原文證據：Instead, Mia wrote the date, the time, and what each friend had noticed.\n本段對照：午後溫暖，河屋靜悄悄地站著。杰想對著窗戶喊「有鬼！」開個玩笑，卻被露比阻止。「我不想讓奶奶擔心。」李奧指著門下的一條細線。米婭早上看到的深色痕跡還在，一小滴水正慢慢流過地面。「最近這裡真的有水，」他說，「這點可以確定。」他們沒有碰門，而是由米婭記下日期、時間和每個朋友看到的事。轉身準備離開時，空屋裡忽然傳出一下敲擊聲。那不是鐘聲，而是從地板下傳來的。\n校訂核對（第 7 段）：Instead, Mia wrote the date, the time, and what each friend had noticed."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "fd07ba6eee434a8d462fb344d9bcb8c2dccda8a38d3c43d31074fb2914d74183",
+      "bookSourceSha256": "105a53ff7fe679ab9f82607032d1e5765eb54ae11932237fad265e9d7caf9f67",
+      "newPayload": "./books/import-rain-bell-105a53ff7fe6.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ceo-1": {
+      "book": "ceo-1",
+      "title": "總裁，這份合約我改了｜第一卷：她刪掉的那一條",
+      "chapter": "ceo-1-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 611,
+      "englishWordsAfter": 624,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 8,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 80,
+          "englishExcerpt": "The man behind the long desk did not look up when I came in. He was talking on the phone, wearing a dark coat that probably cost more than my mother's whole store. I put my wet bag on the floor. Water",
+          "chineseExcerpt": "長桌後的男人在我進門時沒有抬頭。他穿著可能比媽媽整間店還貴的深色外套講電話。我把濕袋子放在地上，水流到他乾淨的鞋面。他低頭看鞋，再看我。「我們約好九點見面。」「你的電梯八點五十就停了，」我說，「我爬了二十層樓。不客氣。」"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 76,
+          "englishExcerpt": "His name was Adrian Shen. At thirty-one, he ran Bright Harbor, a company that owned shops all over the city. I was Maya Lin, twenty-six, a designer with one broken computer and a mother who believed e",
+          "chineseExcerpt": "他叫沈予川，三十一歲，管理著全城都有店面的晴港集團。我叫林蔓，二十六歲，是個只有一台壞電腦的設計師，還有一位相信有錢客人都會準時付款的母親。上個月，晴港買下我們那條街。今天，沈予川要我們的小店替新飯店做袋子。如果拒絕，我們可能會失去唯一的大"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 78,
+          "englishExcerpt": "He pushed a contract across the desk. \"Read it. My next meeting starts in ten minutes.\" I opened it. The first pages were full of numbers. The last page had one short line: The company may use all des",
+          "chineseExcerpt": "他把合約推過桌面。「讀吧。我十分鐘後有下一場會議。」前幾頁滿是數字。最後一頁有句短話：公司得永久使用所有設計。我讀了兩遍，從包包拿出紅筆劃掉。沈予川第一次放下手機。「沒有人改那份合約。」「那今天是新的一天。」"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 86,
+          "englishExcerpt": "\"You need this order,\" he said. I hated that he knew. \"Yes. You need a design people will remember. We can both need something without one of us owning the other.\" Beyond his window, rain blurred the ",
+          "chineseExcerpt": "「妳需要這張訂單。」我討厭他知道。「對，你需要讓人記住的設計。我們可以各有所需，不必有一方擁有另一方。」窗外，雨水把城市暈成一片淡淡的影子；玻璃上只有一小塊乾燥處，仍看得見下方狹窄的街道。我的手還被雨凍得冰冷，我握緊筆，不讓他看見發抖。他按"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 75,
+          "englishExcerpt": "A woman with silver glasses came in. \"Nina, can we change this line?\" he asked. She read my red mark and smiled. \"We should have changed it years ago.\" I almost laughed. Adrian did not. Nina sat besid",
+          "chineseExcerpt": "戴銀框眼鏡的女人走進來。「妮娜，這條能改嗎？」她讀了我的紅筆記號，笑了。「我們幾年前就該改了。」我差點笑出來，沈予川沒有。妮娜坐在我旁邊，而不是他身後，問我想怎麼改。我說設計屬於小店，晴港可以使用其中一款一年；若要更多，就得再問。"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 73,
+          "englishExcerpt": "\"And your name?\" Adrian asked. \"It goes on the bag,\" I said. \"The same size as yours.\" Nina stopped writing. The room grew quiet enough for me to hear water falling from my coat. Then Adrian pulled a ",
+          "chineseExcerpt": "「還有妳的名字？」他問。「要放在袋子上，大小跟你的一樣。」妮娜停筆。房間安靜得能聽見外套滴水。沈予川從箱子取出樣品袋，上面沒有製作者的名字。他慢慢翻過來，好像從沒注意到那塊空白。「加上去，」他告訴妮娜，「一樣大。」"
+        },
+        {
+          "paragraph": 7,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 76,
+          "englishExcerpt": "I should have felt pleased. Instead, I saw the little blue mark inside the bag. My father used to draw that mark beside every order he checked. He had died five years ago, after losing his job at a co",
+          "chineseExcerpt": "我本來該高興，卻看見袋子裡的小藍色記號。爸爸以前會在每張檢查過的訂單旁畫那個記號。五年前，他失去晴港供應商的工作後去世。大家說他賣了壞布，還隱瞞真相。我摸著藍記號。沈予川看見我臉色變了，伸手拿袋子，我卻沒有放開。"
+        },
+        {
+          "paragraph": 8,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 80,
+          "englishExcerpt": "\"Where did you get this?\" I asked. He looked at the open contract, then at my name on the first page. Something in his face closed. \"Your father was Daniel Lin?\" Outside the office, someone called his",
+          "chineseExcerpt": "「這是哪裡來的？」我問。他看著攤開的合約，再看首頁的名字，表情忽然收起來。「妳父親是林立安？」門外有人提醒下一場會議，我們都沒動。我爬二十層樓是為了救店，如今眼前最有錢的男人握著父親最後一個錯誤的另一端——或者，證明那從來不是他的錯誤的第一"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 1,
+          "language": "en",
+          "old": "\"Your meeting was at nine,\" he said.",
+          "new": "\"We agreed to meet at nine,\" he said."
+        },
+        {
+          "paragraph": 1,
+          "language": "zh",
+          "old": "「妳的會議是九點。」",
+          "new": "「我們約好九點見面。」"
+        },
+        {
+          "paragraph": 4,
+          "language": "en",
+          "old": "Outside his window, the city looked small and dry.",
+          "new": "Beyond his window, rain blurred the city into pale shapes; a dry patch of glass still showed the narrow street below."
+        },
+        {
+          "paragraph": 4,
+          "language": "zh",
+          "old": "窗外的城市看起來又小又乾燥。",
+          "new": "窗外，雨水把城市暈成一片淡淡的影子；玻璃上只有一小塊乾燥處，仍看得見下方狹窄的街道。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "Why does Maya refuse to sign the original contract?",
+          "correctOptionIndex": 1,
+          "correctOption": "It would give the company permanent use of all her designs.",
+          "evidenceParagraph": 3,
+          "sourceExcerpt": "The company may use all designs forever.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "原條款讓公司永久使用她所有設計；她要求保留自己的權利。\n校訂核對（第 3 段）：The company may use all designs forever."
+        },
+        {
+          "number": 2,
+          "question": "Why is Maya late for the meeting?",
+          "correctOptionIndex": 0,
+          "correctOption": "The lift stops working, so she climbs twenty floors.",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "I took twenty floors of stairs.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "開頭她說電梯在八點五十分停止運作，自己爬了二十層樓梯。\n校訂核對（第 1 段）：I took twenty floors of stairs."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "1cfe5af828dffce6a7e27e9c7d51127f181180ee347f3dd48b916d8caf29e420",
+      "bookSourceSha256": "5d1b3742f8a2e5f641349eb2397ca2802981fc26e0dbc2f66b7df5224626edae",
+      "newPayload": "./books/ceo-1-5d1b3742f8a2.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r5-l1-b": {
+      "book": "ss-r5-l1-b",
+      "title": "貝殼灣的影子節",
+      "chapter": "ss-r5-l1-b-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 566,
+      "englishWordsAfter": 581,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 5,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 162,
+          "englishExcerpt": "In Shell Bay, the summer fair was always loud. Sela, a young capybara who liked drawing, saw her small neighbor cover his ears near the music. She asked why everyone had to enjoy the fair in the same ",
+          "chineseExcerpt": "在貝殼灣，夏季節慶總是很吵。喜歡畫畫的年輕水豚塞拉，看見小鄰居在音樂旁摀住耳朵。她心想：為什麼每個人都得用同一種方式享受節日？她想做點溫柔的事，卻不知道從何開始。一隻小蟲沿著廳堂空白的牆面慢慢爬行。塞拉想，也許這個角落能成為需要休息的鄰居暫"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 108,
+          "englishExcerpt": "At the edge of town stood a plain hall by the sea. Inside was a white cloth left from an old dance. Sela held a small lamp behind it. Her hand made a large shape on the other side. The shape moved whe",
+          "chineseExcerpt": "鎮邊有一座臨海的樸素廳堂。裡面留著一塊從前跳舞時用的白布。塞拉拿著小燈站在布後，另一邊立刻出現大大的手影。她一動，影子也動。塞拉驚喜地笑了。她想像未來那個孩子也能享受節慶。 舊廳堂的桌上有一小杯果汁。 會做玩具的刺蝟朋友達洛也來幫忙。他說，"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 93,
+          "englishExcerpt": "Daro showed Sela how a piece of card could become the shadow of a fish on the cloth. Uma, a patient turtle, watched them from the open door. She said that a story made of light and shade might be good",
+          "chineseExcerpt": "達洛示範如何用一片卡紙，在白布上投出魚的影子。很有耐心的烏龜烏瑪站在門口看著他們。她說，用光與影子說故事，或許很適合喜歡安靜的人。北邊的窗戶在早晨透進柔和的光。 烏瑪第一個注意到白布上的影子變大。 另外兩個朋友靠近，想看看達洛做了什麼。 鄰"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 101,
+          "englishExcerpt": "The three friends did not plan a large party. They planned one short shadow show for neighbors who wanted a calm evening. Sela drew the hall and a little stage. Daro said he could make moving figures.",
+          "chineseExcerpt": "三個朋友沒有打算辦盛大的派對。他們想為喜歡安靜夜晚的鄰居，準備一場短短的影子戲。塞拉畫下廳堂和小舞台；達洛說能製作會動的角色；烏瑪則願意確認時間與場地使用規定。有個家庭打算在節慶後去野餐，遠離吵雜的音樂。 塞拉不用跨過達洛的工具，就能輕鬆拿"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 117,
+          "englishExcerpt": "Before they left, an older woman stopped at the open door. She had heard Sela talking about a quiet show. Would she need to join a game or sing, she asked. Sela said she could simply sit and watch. Th",
+          "chineseExcerpt": "離開前，一位年長婦人在開著的門邊停下。她聽到塞拉談安靜表演，便問是否得參加遊戲或唱歌。塞拉說，她可以只坐著看。婦人笑了，問什麼時候能再來。塞拉還無法給日期，烏瑪便答應，計畫確定後會通知她。接著，達洛把紙魚平放進箱。他們會再用它，但得先問清廳"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 1,
+          "language": "en",
+          "old": "They took a short break and shared water. A hard job felt easier when everyone could say what they needed. After the break, they went back with a clearer plan.",
+          "new": "Sela asked the child whether a quiet corner would make the fair easier to enjoy. He nodded and pointed away from the speakers. She offered him water and wrote down his suggestion. Her first plan came from listening, not guessing."
+        },
+        {
+          "paragraph": 1,
+          "language": "zh",
+          "old": "大家短暫休息，一起喝水。當每個人都能說出自己的需要時，辛苦的工作也變得比較容易。休息後，他們帶著更清楚的計畫回去做事。",
+          "new": "塞拉問那個孩子，如果有個安靜角落，他會不會更願意留下來看節慶。孩子點點頭，指向遠離喇叭的地方。她遞給他水，把建議記下來。她的第一個計畫來自傾聽，而不是憑空猜想。"
+        },
+        {
+          "paragraph": 2,
+          "language": "en",
+          "old": "Daro said they should never lie about whether a test really worked.",
+          "new": "Her friend Daro, a hedgehog who made toys, arrived to help. He said they should never lie about whether a test really worked."
+        },
+        {
+          "paragraph": 2,
+          "language": "zh",
+          "old": "達洛說，他們絕不該謊稱測試成功。",
+          "new": "會做玩具的刺蝟朋友達洛也來幫忙。他說，他們絕不該謊稱測試成功。"
+        },
+        {
+          "paragraph": 3,
+          "language": "en",
+          "old": "Daro, a hedgehog who made toys, came to look. He showed Sela how a piece of card could become a fish on the cloth.",
+          "new": "Daro showed Sela how a piece of card could become the shadow of a fish on the cloth."
+        },
+        {
+          "paragraph": 3,
+          "language": "zh",
+          "old": "會做玩具的刺蝟達洛走來看看。他示範如何把一片卡紙變成布上的魚影。",
+          "new": "達洛示範如何用一片卡紙，在白布上投出魚的影子。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "Why did Sela want a quiet show?",
+          "correctOptionIndex": 1,
+          "correctOption": "Some neighbors found the fair too loud.",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "some neighbors went home when the music became too loud",
+          "originalExplanationValidated": true,
+          "editedExplanation": "有些鄰居覺得節慶太吵，因此塞拉想提供另一種活動。\n校訂核對（第 1 段）：some neighbors went home when the music became too loud"
+        },
+        {
+          "number": 2,
+          "question": "What did Sela use to make the first shadow?",
+          "correctOptionIndex": 0,
+          "correctOption": "A small lamp and white cloth.",
+          "evidenceParagraph": 2,
+          "sourceExcerpt": "Sela held a small lamp behind it.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "她用小燈照向白布，做出了第一個影子。\n校訂核對（第 2 段）：Sela held a small lamp behind it."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "48547f921a6c55faab915a60df4e2f2023a4381cb8f2a090d65c238b487b2dde",
+      "bookSourceSha256": "38d74c20ac6a4b16101316c3092ddba85071967174b2e14959cd0731000b92d9",
+      "newPayload": "./books/ss-r5-l1-b-38d74c20ac6a.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r4-l1-a": {
+      "book": "ss-r4-l1-a",
+      "title": "鈴聲過後的每一封信",
+      "chapter": "ss-r4-l1-a-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 685,
+      "englishWordsAfter": 693,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 7,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 99,
+          "englishExcerpt": "At six thirty a.m., the bell above the post office door made a soft sound. Ada was early for her first day as the town's new mail worker. The morning sun was warm, but the bag of letters was heavy. Mr",
+          "chineseExcerpt": "上午六點半，郵局門上的鈴鐺輕輕響了。艾達提早到班，今天是她擔任小鎮新郵務員的第一天。早晨的陽光很暖，但信袋很重。老郵差李先生準備教她認識路線。他替窗邊的一個箱子蓋上罩布。「這箱是給需要查新地址的信。」他說。艾達把這件事寫進藍色小本子。旁邊沙"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 100,
+          "englishExcerpt": "The woman said her name was Mara. She had come from a foreign country and wanted to find a house from an old letter. “My mother told me about this town,” she said, “but she did not leave a street numb",
+          "chineseExcerpt": "女子說自己叫瑪拉。她從國外來，想找一封舊信中提到的房子。「媽媽跟我說過這個鎮，」她說，「但沒有留下門牌號碼。」艾達看到信封上畫著一隻有一顆大牙齒的猴子。圖畫看來好笑，瑪拉卻沒有笑。「畫動物是媽媽的興趣。」瑪拉說。李先生提醒她們，不可以打開屬"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 97,
+          "englishExcerpt": "For breakfast, Mr. Lee brought fruit, bread, and a little cake. Ada made a salad for lunch and put it in the back room. “I shall take the river road first,” she said. “Not alone,” said Mr. Lee. “Today",
+          "chineseExcerpt": "早餐時，李先生帶來水果、麵包和一小塊蛋糕。艾達準備了午餐沙拉，放進後面的房間。「我先走河邊那條路。」她說。「不能一個人，」李先生回答，「今天我們一起走。路尾有座小山，背信袋也很像運動。」瑪拉問能否跟他們走到舊學校。艾達同意，只要求瑪拉不要碰"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 107,
+          "englishExcerpt": "At the first house, a boy waited by the gate for a postcard. He asked Mara if she was a movie star. “No,” she said with a smile, “I am looking for someone who knew my mother.” The boy gave Ada a drawi",
+          "chineseExcerpt": "第一間屋子的門口，一個男孩正在等明信片。他問瑪拉是不是電影明星。「不是，」瑪拉微笑說，「我在找認識我媽媽的人。」男孩把畫裝進寫著祖父姓名的封好信封，交給艾達。艾達先確認收件姓名和地址，才把它收作郵件。她明白信不只是紙張，也可以裝著心願、問題"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 100,
+          "englishExcerpt": "At noon they came back to the office. Ada's arms hurt, and she wanted to sit on the couch. Mara thanked them and said she would stay at the small inn. “Can we look for the old house tomorrow?” she ask",
+          "chineseExcerpt": "中午，他們回到郵局。艾達的手臂痠了，很想坐在沙發上。瑪拉向兩人道謝，說會住在小旅店。「明天可以找那間舊房子嗎？」她問。「我們能看公開的鎮上地圖，」艾達回答，「但不能利用別人的信查地址。」瑪拉點頭。李先生在桌上放了張白紙，請艾達列出已知的事情"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 97,
+          "englishExcerpt": "Mr. Lee gave Ada one more small job before they left. “Please write the names of the roads on this clean page,” he said. She did not copy the names from memory. She looked at the public map and checke",
+          "chineseExcerpt": "出門前，李先生又給艾達一件小工作。「請把道路名稱寫在這張乾淨紙上。」他說。艾達沒有憑記憶抄寫，而是看公開地圖，逐字核對。瑪拉看著她，問街名為何那麼重要。艾達回答：「一個錯字就可能把信送到錯的家。」瑪拉點頭，再看一次紅信封上的舊字，仔細收進袋"
+        },
+        {
+          "paragraph": 7,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 93,
+          "englishExcerpt": "Before going home, Ada went over her notes. There was a name, an old picture, and a road to learn. The letters for today were all in the right hands. Mara still had her red envelope and the choice to ",
+          "chineseExcerpt": "下班前，艾達重看筆記。上面有一個姓名、一張舊圖畫，以及一條有待熟悉的路。今天的信都交到了正確的人手中。瑪拉仍握著紅信封，也保有不打開它的選擇。艾達疲倦卻快樂。她不知道舊房子是否仍在，但知道明天可以多認一條路、多送一封信、多聽一個人的故事。窗"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 4,
+          "language": "en",
+          "old": "The boy gave Ada a drawing for his grandfather. Ada checked the name before she took it.",
+          "new": "The boy gave Ada a drawing in a sealed envelope addressed to his grandfather. Ada checked the name and address before accepting it as mail."
+        },
+        {
+          "paragraph": 4,
+          "language": "zh",
+          "old": "男孩交給艾達一張要給祖父的畫。艾達先確認姓名才收下。",
+          "new": "男孩把畫裝進寫著祖父姓名的封好信封，交給艾達。艾達先確認收件姓名和地址，才把它收作郵件。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "Who teaches Ada the town routes?",
+          "correctOptionIndex": 0,
+          "correctOption": "Mr. Lee",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "Mr. Lee, the old postman, was ready to teach her the roads.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "李先生是退休前協助艾達學習送信路線的老郵差。\n校訂核對（第 1 段）：Mr. Lee, the old postman, was ready to teach her the roads."
+        },
+        {
+          "number": 2,
+          "question": "Why does Mara come to town?",
+          "correctOptionIndex": 1,
+          "correctOption": "To find a place from an old letter",
+          "evidenceParagraph": 2,
+          "sourceExcerpt": "She had come from a foreign country and wanted to find a house from an old letter.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "瑪拉想尋找母親舊信中提到的地方。\n校訂核對（第 2 段）：She had come from a foreign country and wanted to find a house from an old letter."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "e3f448120b60c8b3f26d87ab67007ae2001420fadc884cceea7cc49def99b850",
+      "bookSourceSha256": "e9cd5d634b4203cc309ecbb9566576248e74cb058c513f111e9c36918e739d6a",
+      "newPayload": "./books/ss-r4-l1-a-e9cd5d634b42.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r4-l1-b": {
+      "book": "ss-r4-l1-b",
+      "title": "河流兩岸的紅繩",
+      "chapter": "ss-r4-l1-b-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 677,
+      "englishWordsAfter": 687,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 7,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 111,
+          "englishExcerpt": "A small village stood beside a river, north of the hills. Nia, a young otter woman, wanted to cross the old wooden bridge with her pet bird, Dot. In the middle of the bridge, she noticed a red mark on",
+          "chineseExcerpt": "山丘北邊的河旁有一個小村子。年輕的水獺女子妮亞帶著寵物小鳥點點，想走過舊木橋。她注意到橋中央一塊木板上有紅色的記號。一隻小蟲鑽進裂縫。妮亞蹲下來仔細查看，發現裂縫比想像中更寬。她擔心木板正在裂開，便從袋子裡拿出相機，拍下損壞的地方。那不只是"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 106,
+          "englishExcerpt": "Bo the beaver reached the river first. He was friendly and very strong, but he did not step onto the bridge. “Tell me the fact, not a guess,” he said. Nia showed him the picture. “I will not lie,” she",
+          "chineseExcerpt": "河狸波波第一個來到河邊。他很友善，也很強壯，卻沒有踩上橋。「告訴我事實，不要只猜。」他說。妮亞拿照片給他看。「我不會說謊，」她回答，「我先聽到聲音，然後看見木板移動。」波波把一片紅布星星掛在柱上。「我們可以用它提醒大家。」他說。兩人在橋的這"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 90,
+          "englishExcerpt": "Before they left, Nia asked Bo how they could reach the houses across the river without the bridge. Bo pointed to the hill road. It was longer, but it was open. They took a second picture from the gra",
+          "chineseExcerpt": "離開前，妮亞問波波，大家不用橋要怎麼抵達對岸的住家。波波指向山丘道路。那條路比較長，但可以通行。他們從草地上拍了第二張照片，不必踩上脆弱木板。妮亞很替旅人難過，卻知道一條安全道路勝過兩條路中有一條可能斷掉。她的小鳥點點從樹上飛回家，朋友們則"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 96,
+          "englishExcerpt": "Luma the rabbit came with a basket of food. She stopped at the rope and looked across the water. “In the future we need a good bridge,” she said. “But today we need a safe way home.” Nia agreed. She d",
+          "chineseExcerpt": "兔子露瑪提著食物籃子走來。她停在繩子前，看向河的另一岸。「未來我們需要一座好橋，」她說，「但今天先要安全回家。」妮亞同意。她先在本子裡草擬簡短公告，準備拿給村長看。朋友們去找村長貓頭鷹芬，說明事情經過。芬沒有承諾立刻修好，只請妮亞明天帶相機"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 80,
+          "englishExcerpt": "Fern also asked them to draw the warning sign with large letters. The sign had to be clear to an old animal and to a young child. Bo wanted to write a long message about wood and water. Nia said, “We ",
+          "chineseExcerpt": "芬也請他們用大字寫警告牌，讓年老的動物和小孩都看得懂。波波想寫長長一段有關木頭和河水的說明。妮亞說：「完整故事明天可以再說。現在大家只需要知道必須停下。」於是他們寫了三個短字，把牌子放在小路轉彎處。那天傍晚，再也沒有人靠近鬆動的木板。"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 94,
+          "englishExcerpt": "That night Nia looked at the photograph again. In it, the crack was small and the river looked calm. She understood why someone might say there was no problem. But a calm river could become strong aft",
+          "chineseExcerpt": "當晚妮亞又看了一次照片。照片裡裂縫很小，河水看起來也平靜。她明白為什麼有人可能說沒有問題。但平靜的河在雨後會變急，小裂縫在重腳踩踏下也會擴大。她把照片放在紅布星星旁。明天要把兩樣東西都給村民看。她不必成為最強壯、最吵鬧的動物。她需要做的是注"
+        },
+        {
+          "paragraph": 7,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 110,
+          "englishExcerpt": "In the morning the old bridge was still there, but it no longer looked like an easy way across. Nia saw the red rope first. She was glad that it had stayed in place. A child came with a small bag and ",
+          "chineseExcerpt": "隔天早上舊橋還在，卻不再像一條容易通過的路。妮亞先看見紅繩，很高興它仍在原處。一個孩子背著小袋子走來，在標誌前停下。「我能去河邊嗎？」他問。「可以從高路上看，」妮亞回答，「但不能上橋。」孩子慢慢讀完牌子，走了回去。妮亞感到有希望。紅繩已經完"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": [
+        1,
+        2,
+        3,
+        5,
+        4,
+        6,
+        7
+      ],
+      "changes": [
+        {
+          "paragraph": 2,
+          "language": "en",
+          "old": "They closed both ends of the bridge.",
+          "new": "They marked the near end of the bridge and agreed to block the far end as well."
+        },
+        {
+          "paragraph": 2,
+          "language": "zh",
+          "old": "兩人封住橋的兩端。",
+          "new": "兩人在橋的這一端做好警示，也約定要封住另一端。"
+        },
+        {
+          "paragraph": 5,
+          "language": "en",
+          "old": "She wrote a short notice and put it where every traveler could see it.",
+          "new": "She drafted a short notice in her book, ready to show the village leader."
+        },
+        {
+          "paragraph": 5,
+          "language": "zh",
+          "old": "她寫了簡短公告，放在每個旅人都看得見的地方。",
+          "new": "她先在本子裡草擬簡短公告，準備拿給村長看。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "What does Nia see in the middle of the bridge?",
+          "correctOptionIndex": 0,
+          "correctOption": "A loose board with a red mark",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "In the middle of the bridge, she noticed a red mark on one board.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "妮亞在橋中央看到有紅色記號、會移動的鬆動木板。\n校訂核對（第 1 段）：In the middle of the bridge, she noticed a red mark on one board."
+        },
+        {
+          "number": 2,
+          "question": "Why do the friends put up a red rope?",
+          "correctOptionIndex": 0,
+          "correctOption": "To stop people from using the weak bridge",
+          "evidenceParagraph": 2,
+          "sourceExcerpt": "We can use this as a warning",
+          "originalExplanationValidated": true,
+          "editedExplanation": "紅繩是暫時封橋的警示，避免人們踩上不安全的舊橋。\n校訂核對（第 2 段）：We can use this as a warning"
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "682d06a18812537917acbdbb7c68608dfa04368a1d8e20556a0366d4436474b8",
+      "bookSourceSha256": "72df2cf93326a2c6d8ca493fcc1e385604c24de2dabb7ad5c1852617aa283b91",
+      "newPayload": "./books/ss-r4-l1-b-72df2cf93326.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r2-l1-b": {
+      "book": "ss-r2-l1-b",
+      "title": "獸人村的第一間早餐店",
+      "chapter": "ss-r2-l1-b-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 648,
+      "englishWordsAfter": 649,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 6,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 104,
+          "englishExcerpt": "On the north side of Little Leaf Village, a small red house stood beside a path. Fia, a young fox woman, stopped there with her pet bird, Blue. She had carried a camera to take a picture of the empty ",
+          "chineseExcerpt": "在小葉村的北邊，一間紅色小屋立在小路旁。年輕的狐狸女子菲雅帶著她的寵物鳥小藍停在門前。她帶了相機，想替空屋拍照。門的正中央有一顆小木星星，是祖母多年前做的。菲雅想把這間屋子變成村裡第一間早餐店。她彷彿聞到窗邊麵包出爐的香氣，也聽見朋友們圍著"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 102,
+          "englishExcerpt": "Moss, a young bear, came down the path with a bag of flour. A little bug was sitting on his nose. Fia began to laugh, and Moss gently moved the bug to a leaf. \"I hear you want to open a shop,\" he said",
+          "chineseExcerpt": "年輕的熊莫斯提著一袋麵粉走下小路，一隻小蟲停在他的鼻子上。菲雅笑了起來，莫斯則輕輕把蟲放回葉子上。「我聽說妳想開店，是真的嗎？」他問。菲雅點頭。「我會做麵包，可是不能一個人做完所有工作。」莫斯望著舊屋頂。「我們可能需要更多幫手。」他說。他雖"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 101,
+          "englishExcerpt": "They went behind the house and found a small table under a tree. Last spring, the neighbors had a picnic here. Fia remembered cups of apple juice and children running in the grass. She could almost he",
+          "chineseExcerpt": "他們走到屋後，發現樹下有張小桌。去年春天，鄰居們曾在這裡野餐。菲雅記得蘋果汁的杯子，還有在草地上奔跑的孩子。她幾乎又聽見那時的笑聲。「天氣暖時，我們可以在戶外吃早餐。」她說。莫斯伸手想拉一塊鬆動的木板，菲雅卻請他先停下。「還不要拉，我們得知"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 104,
+          "englishExcerpt": "Pip, a small rabbit, joined them with another idea. He knew which gardens had extra fruit in summer. \"I could bring berries,\" he offered. \"And I could grow herbs near the wall.\" Fia thanked him, but s",
+          "chineseExcerpt": "小兔子皮普帶著另一個想法加入。他知道哪些花園在夏天有多餘的水果。「我可以帶莓果，還能在牆邊種香草。」他說。菲雅謝謝他，但提醒必須先徵得每個花園主人的同意。皮普點頭。早餐店不該靠未經允許拿來的東西開始。莫斯指著門上的老星星。「妳祖母做它，是為"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 134,
+          "englishExcerpt": "Fia did not want to lie to her friends. She told them that she had little money and no idea how long the work would take. \"I do not know if this will be easy,\" she said. \"I only know why I want to try",
+          "chineseExcerpt": "菲雅不想對朋友說謊。她坦白說自己錢不多，也不知道整理工作要花多久。「我不知道這會不會容易，」她說，「我只知道為何想試試。」祖母曾為一名又冷又餓的旅人煮飯，那頓簡單的餐食成了村裡快樂的故事。菲雅希望未來也有這樣的故事，而不是開一家只讓某個人致"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 104,
+          "englishExcerpt": "Then Edda, the old owl who cared for the village houses, came down the road. She held a key carefully in one claw. \"I heard you were looking at this place,\" she said. \"You may open the door tomorrow, ",
+          "chineseExcerpt": "接著，照管村中房屋的老貓頭鷹艾達走來。她用一隻爪子小心地握著鑰匙。「我聽說你們在看這間屋子。」她說，「明天可以開門，但得寫下需要修理的地方。」菲雅把相機裡的照片給她看。艾達看了屋頂、窗戶和小星星。「很好，」她說，「照片能幫我們記得屋子原來的"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 6,
+          "language": "en",
+          "old": "She held a key in one wing.",
+          "new": "She held a key carefully in one claw."
+        },
+        {
+          "paragraph": 6,
+          "language": "zh",
+          "old": "她的翅膀裡握著一把鑰匙。",
+          "new": "她用一隻爪子小心地握著鑰匙。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "What does Fia want to open?",
+          "correctOptionIndex": 0,
+          "correctOption": "A breakfast shop",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "Fia wanted to use the house for the village's first breakfast shop.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "菲雅希望將紅色小屋變成早餐店。\n校訂核對（第 1 段）：Fia wanted to use the house for the village's first breakfast shop."
+        },
+        {
+          "number": 2,
+          "question": "Why does Fia ask Moss not to pull the board?",
+          "correctOptionIndex": 1,
+          "correctOption": "They do not know what it holds",
+          "evidenceParagraph": 3,
+          "sourceExcerpt": "We must know what it holds.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "菲雅希望先確認木板支撐的部分，避免造成損壞。\n校訂核對（第 3 段）：We must know what it holds."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "934f835938dac600afd0eb976523fd54bd11898dbb2b70c7023b1be13241335b",
+      "bookSourceSha256": "8bbfe5fc597e2c0d7d399c7e838baa94625765a7211831ca92d6e5fccb1f7a6f",
+      "newPayload": "./books/ss-r2-l1-b-8bbfe5fc597e.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r3-l1-a": {
+      "book": "ss-r3-l1-a",
+      "title": "星星不見的那一天",
+      "chapter": "ss-r3-l1-a-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 613,
+      "englishWordsAfter": 612,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 5,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 116,
+          "englishExcerpt": "At seven a.m., the school bell rang across the yard. Mia came early because the art club had a big job. The spring fair was still several weeks away. In the main hall, a silver wooden star usually hun",
+          "chineseExcerpt": "早上七點，學校的鐘聲傳遍庭院。米雅提早到校，因為美術社有一件重要工作。春季園遊會還有好幾週才開始。大廳的門上平常掛著一顆銀色木星星。那是學校歷史最久的獎品，由多年前的學生製作。今天早上，牆上卻空空的。米雅拿著早餐停下腳步。她帶了水果、小蛋糕"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 120,
+          "englishExcerpt": "Their teacher, Ms. Lin, came from the art room with a heavy box. Inside were paper flowers, a cover for a table, and a picture of a monkey with one large tooth. The picture was for a play. A foreign s",
+          "chineseExcerpt": "林老師抱著一個沉重的箱子，從美術教室走出來。箱裡有紙花、桌子的罩布，還有一張猴子露出一顆大牙齒的圖畫。那張畫是舞台劇要用的。一名外國學生畫了它，美術社原本要教小朋友做動物面具。「不要碰牆上空的掛鉤，」林老師說，「我們要先查清楚發生什麼事。」"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 109,
+          "englishExcerpt": "Mia liked drawing; it was her hobby. She took out her club book to write what they knew. The star had been there on Friday, and it was gone on Monday. The hooks were not broken. The yellow paper had a",
+          "chineseExcerpt": "米雅喜歡畫畫，那是她的興趣。她拿出社團筆記本，把目前知道的事寫下來。星星星期五還在，星期一卻不見了。掛鉤沒有壞。黃色紙片上有一個黑色的數字七。「我們要告訴大家有人把它拿走了嗎？」班問。米雅搖頭。「不行。我們知道它不見了，卻不知道原因。」太陽"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 130,
+          "englishExcerpt": "At lunch, the club sat around a table with bread and salad. Jo wanted to look in every room at once. Ana wanted to ask the school office for help. Ben wanted to draw a map of the hall. Mia listened to",
+          "chineseExcerpt": "午餐時，社團成員圍坐在桌旁，吃著麵包和沙拉。喬想立刻搜尋每一間教室；安娜想請學校辦公室幫忙；班則想畫一張大廳地圖。米雅聽完每個人的意見。她知道好的搜尋不是比速度。朋友們訂下三條規則：進房間前先詢問、沒有老師陪同就不移動物品、所有線索都要記在"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 137,
+          "englishExcerpt": "That evening Mia asked her father why the school kept such an old prize. He said that a prize can hold a memory, even when it is made from simple wood. When Mia was younger, she had looked up at the s",
+          "chineseExcerpt": "那天晚上，米雅問爸爸，學校為什麼要保存那麼舊的獎品。爸爸說，獎品即使只是簡單的木頭做的，也能保存回憶。米雅小時候曾仰望銀色星星，希望有一天能親手做出好東西。現在她又想起那個願望。回家後，她把筆記攤在廚房桌上，憑記憶畫出星星。其中一個尖角比其"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": [
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "changes": [
+        {
+          "paragraph": 2,
+          "language": "en",
+          "old": "Mia moved an old couch away from the wall. Ben did the same on the other side.",
+          "new": "Mia and Ben moved an old couch away from the wall together, each holding one end."
+        },
+        {
+          "paragraph": 2,
+          "language": "zh",
+          "old": "米雅把一張舊沙發移離牆邊，班也從另一側幫忙。",
+          "new": "米雅與班各扶住沙發的一端，一起把舊沙發移離牆邊。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "What is missing from the main hall?",
+          "correctOptionIndex": 0,
+          "correctOption": "A silver wooden star.",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "This morning the wall was empty.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "大廳原本掛著的銀色木星星不見了。\n校訂核對（第 1 段）：This morning the wall was empty."
+        },
+        {
+          "number": 2,
+          "question": "What do the club members put in a bag?",
+          "correctOptionIndex": 1,
+          "correctOption": "A piece of yellow paper.",
+          "evidenceParagraph": 4,
+          "sourceExcerpt": "After lunch they placed the yellow paper in a clear bag.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "他們找到印有七號的黃色紙片，放入透明袋。\n校訂核對（第 4 段）：After lunch they placed the yellow paper in a clear bag."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "375fbd1f1a3d0ffb16db7ae1e1db8eb36ff35d4f5135485d1e0fa35ab12c7a57",
+      "bookSourceSha256": "f08ec1309b9050544285a4fbf2ddd5e29af7828fb288b21d9602e0ecc2a9950d",
+      "newPayload": "./books/ss-r3-l1-a-f08ec1309b90.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r2-l1-a": {
+      "book": "ss-r2-l1-a",
+      "title": "打烊後，這間店由我作主",
+      "chapter": "ss-r2-l1-a-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 672,
+      "englishWordsAfter": 696,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 7,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 102,
+          "englishExcerpt": "The bell above the shop door rang at seven a.m. Rina was early again. The sun was still low, and the street was quiet. She worked at a small food shop called Morning Corner. She liked to make breakfas",
+          "chineseExcerpt": "早上七點，店門上的鈴響了。莉娜又提早到了。太陽還很低，街道十分安靜。她在一間叫「晨光角落」的小食物店工作。她喜歡替沒時間煮飯的人準備早餐。她把水果放在窗邊，把新鮮蛋糕放在桌上。舊沙發上的一名男子抱著袋子坐著。他是店主朴先生。他微笑著，臉色卻"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 99,
+          "englishExcerpt": "The new manager, Mark, came in with a heavy box. He put it down with a loud sound. \"We shall have more customers today,\" he said. \"Put a cover over that salad. And move the cake. You can exercise late",
+          "chineseExcerpt": "新經理馬克帶著一個沉重的箱子進門，把它重重放下。「我們今天應該會有更多客人。」他說。「把那份沙拉蓋起來，蛋糕也移開。運動可以晚點再做。」莉娜其實不是在運動，而是在移動椅子，好讓一位年長客人安全走過。她沒有爭辯。馬克是新來的，她想公平對待他。"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 107,
+          "englishExcerpt": "Her friend Ben arrived with a new drawing for the shop menu. Drawing animals was his hobby, and he had made a smiling monkey with one large tooth to welcome children. He wanted to teach a foreign clas",
+          "chineseExcerpt": "她的朋友班帶來一張準備放在店裡菜單上的新圖畫。畫動物是他的興趣；他畫了一隻露出一顆大牙齒的笑臉猴子，希望孩子們看了會開心。他想教美術班的一位外國同學幾個簡單英文詞，替菜單上的圖畫加上標籤。「這是猴子，」他拿著畫對莉娜說，「這是牙齒。」他指向"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 95,
+          "englishExcerpt": "At nine, Mark counted the money and spoke in a hard voice. \"The shop has less money than it should. Someone made a mistake.\" Rina felt cold, although the morning was warm. \"May I see the numbers?\" she",
+          "chineseExcerpt": "九點時，馬克數完錢，語氣強硬地說：「店裡的錢比應有的少，有人犯了錯。」早晨其實溫暖，莉娜卻感到一陣寒意。「我可以看看數字嗎？」她問。馬克關上錢箱。「我會處理。」朴先生沒說話。他多年來一直信任員工，現在卻看著大家的臉。莉娜想幫他，也知道善良的"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 99,
+          "englishExcerpt": "At lunch, Rina wrote every sale in her book. She wrote the time, the food, and the money. It was a simple plan, but it was her plan. Ben asked if she wanted him to speak to Mark. \"Not yet,\" she said. ",
+          "chineseExcerpt": "午餐時，莉娜在本子裡寫下每筆交易，記下時間、食物和金額。計畫很簡單，卻是她自己的計畫。班問要不要由他去找馬克談。「先不要。」她說。「我得先知道真相。」兩人在窗邊吃沙拉。人們在陽光下走過。每有人進來，鈴聲就響一次。莉娜聽著那小小的聲音，想起很"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 87,
+          "englishExcerpt": "The next morning, Rina decided to keep one rule for herself. She would not change a number just because somebody spoke loudly. She would check it first, and she would write down what she found. She co",
+          "chineseExcerpt": "隔天早上，莉娜替自己訂了一條規則。她不會因有人大聲說話就改動數字，而是先核對、再記下發現。她可以友善對待馬克，也可以向他提問；她可以關心朴先生，也可以在有錯時告訴他。這個小小選擇是她真正的第一步。它沒有讓她成為經理，而是讓她成為能信任自己謹"
+        },
+        {
+          "paragraph": 7,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 107,
+          "englishExcerpt": "Before closing, Mark told the other workers that Rina might have lost the paper. She wanted to cry, but she kept her voice calm. \"You may look at my book,\" she told him. \"I will write everything again",
+          "chineseExcerpt": "打烊前，馬克告訴其他員工，那張紙可能是莉娜弄丟的。她很想哭，卻仍平靜地說：「你可以看我的本子。我明天也會重新記下每件事。」馬克短促地笑了一聲便走開。朴先生留了下來。「妳真的找得到答案嗎？」他問。「我不知道，」莉娜說，「但我可以試試。」她把本"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 3,
+          "language": "en",
+          "old": "Her friend Ben arrived with a picture of a monkey. Drawing animals was his hobby. Ben also had a foreign student in his art class, and he wanted to teach the student some easy words. \"This is a monkey,\" he said, showing the paper. \"And this is a tooth.\" He pointed at the monkey's big smile.",
+          "new": "Her friend Ben arrived with a new drawing for the shop menu. Drawing animals was his hobby, and he had made a smiling monkey with one large tooth to welcome children. He wanted to teach a foreign classmate some simple English words to write on the menu. \"This is a monkey,\" he said, showing Rina the paper. \"And this is a tooth.\" He pointed to the animal's wide smile."
+        },
+        {
+          "paragraph": 3,
+          "language": "zh",
+          "old": "她的朋友班帶著一張猴子的畫來了。畫動物是他的興趣。班的美術班有一位外國學生，他想教對方一些簡單單字。「這是猴子。」他拿著畫說。「這是牙齒。」他指著猴子的大笑容。",
+          "new": "她的朋友班帶來一張準備放在店裡菜單上的新圖畫。畫動物是他的興趣；他畫了一隻露出一顆大牙齒的笑臉猴子，希望孩子們看了會開心。他想教美術班的一位外國同學幾個簡單英文詞，替菜單上的圖畫加上標籤。「這是猴子，」他拿著畫對莉娜說，「這是牙齒。」他指向猴子大大的笑容。"
+        },
+        {
+          "paragraph": 7,
+          "language": "en",
+          "old": "Tomorrow she would begin with facts, not fear.",
+          "new": "Tomorrow she would compare her notes with the shop records again. Facts, not fear, would guide her next step."
+        },
+        {
+          "paragraph": 7,
+          "language": "zh",
+          "old": "明天，她要從事實開始，而不是恐懼。",
+          "new": "明天，她會再把筆記和店裡的帳目逐一比對。她接下來要依靠的是事實，不是恐懼。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "What time does the shop bell ring?",
+          "correctOptionIndex": 0,
+          "correctOption": "At seven a.m.",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "The bell above the shop door rang at seven a.m.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "正文開頭說店鈴在早上七點響起。\n校訂核對（第 1 段）：The bell above the shop door rang at seven a.m."
+        },
+        {
+          "number": 2,
+          "question": "What does Rina put in her book?",
+          "correctOptionIndex": 1,
+          "correctOption": "Every sale, time, food, and money.",
+          "evidenceParagraph": 5,
+          "sourceExcerpt": "Rina wrote every sale in her book.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "莉娜記下每筆交易的時間、食物與金額。\n校訂核對（第 5 段）：Rina wrote every sale in her book."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "90984d8a8e5a8800cce3e4c3ec4aeabd12d96f2b9d4b08dd532ad443523abbb5",
+      "bookSourceSha256": "28fae622c0286ce4ea152ddf125fa8e7683412949ec2876242c997ef79262c6e",
+      "newPayload": "./books/ss-r2-l1-a-28fae622c028.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r6-l1-a": {
+      "book": "ss-r6-l1-a",
+      "title": "第七個位置",
+      "chapter": "ss-r6-l1-a-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 655,
+      "englishWordsAfter": 654,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 7,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 84,
+          "englishExcerpt": "At seven a.m., Tess heard a bell from the town hall. She was early, but the field was empty. She had a heavy bag with two balls, a notebook, and a cover for the wet grass. The morning sun was bright. ",
+          "chineseExcerpt": "上午七點，泰絲聽見市民會堂傳來鈴聲。她提早到了，球場卻空無一人。她帶著一個沉重的袋子，裡面有兩顆球、一本筆記本，以及一塊可以蓋住濕草的布。早晨的太陽很明亮。二十三歲的泰絲想成立一支七人制足球隊。公告說，小鎮一個月後要舉辦比賽，但每隊必須有七"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 85,
+          "englishExcerpt": "A man named Ben came along the path after breakfast. He was not a great player, and he said so at once. \"Soccer is my hobby,\" he told Tess. \"I like to exercise, but I am not sure I can play in a real ",
+          "chineseExcerpt": "一個名叫班的男子吃過早餐，沿著小路走來。他不是出色的球員，自己也立刻承認了。「足球是我的興趣，」他告訴泰絲，「我喜歡運動，可是不確定能不能參加真正的比賽。」泰絲說會教他自己知道的規則。班笑了，因為第一堂課竟然是站著不動、看看四周。她請他在踢"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 79,
+          "englishExcerpt": "At the edge of the field, Tess put her bag on an old couch left by the sports room door. A monkey picture was on its back, and a little wooden tooth hung from the picture. The town used the couch for ",
+          "chineseExcerpt": "球場邊，泰絲把袋子放在體育室門口的一張舊沙發上。沙發背面畫著一隻猴子，畫旁還掛了一顆小木牙齒。去年春天，小鎮曾把這張沙發拿來當兒童戲劇的道具。泰絲並不在意這件有趣的家具。她拿出筆，把班的名字寫在自己的名字下面。兩個名字還不是七個，但空白的紙"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 85,
+          "englishExcerpt": "At noon a woman from the town hall came out with fruit and a small cake. Her name was June. She had studied in a foreign country, where she had watched people play soccer in a park after work. She lik",
+          "chineseExcerpt": "中午，一名市民會堂的女子拿著水果和一小塊蛋糕走出來。她叫瓊，曾在國外讀書，看過人們下班後在公園踢球。她喜歡不需要花錢就能參加的球隊。她給兩人一份沙拉，並問了一個清楚的問題：「跑得慢的人也能加入嗎？」泰絲回答：「可以。我們需要會傾聽的人，不只"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 82,
+          "englishExcerpt": "June had one worry. \"What shall we do if the other teams are much better?\" she asked. Tess took the two balls from the bag and placed them in the grass. \"We shall learn,\" she said. \"A team is not read",
+          "chineseExcerpt": "瓊有個擔心。「如果其他隊伍比我們強很多，該怎麼辦？」她問。泰絲從袋子拿出兩顆球，放到草地上。「我們就學，」她說，「一支球隊不會在第一天就準備好。」班指著球場空著的地方，提議每來一個新隊員，就做一個小記號。瓊還沒有答應參加，卻問他們下次什麼時"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 136,
+          "englishExcerpt": "Before June went inside, she asked Tess what the team would do if more people wanted to join. Tess had not thought about that. She sat beside Ben and opened her notebook to a clean page. They could ad",
+          "chineseExcerpt": "瓊進屋前，問泰絲如果還有更多人想加入，該怎麼辦。泰絲還沒有想過。她坐到班旁邊，翻開筆記本的空白頁。之後可以增加候補名單，但人們應先知道這是一支怎樣的球隊，再決定要不要加入。班建議辦一場沒有球的簡短聚會，只回答問題。泰絲喜歡這個主意，也想向市"
+        },
+        {
+          "paragraph": 7,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 103,
+          "englishExcerpt": "Before leaving, Tess set one simple rule. No one had to be the best player, but everyone had to speak when something felt unsafe. She covered the balls, took the bag off the couch, and looked at the n",
+          "chineseExcerpt": "離開前，泰絲訂下一個簡單的規則：沒有人一定要是最好的球員，但只要覺得不安全，任何人都必須說出來。她把球蓋好，從沙發上拿起袋子，再看一次名單。班把下次集合時間寫在紙張最上方。瓊站在門口微笑。名單上仍只有兩個確認加入的名字，但瓊答應去詢問練習場"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 7,
+          "language": "en",
+          "old": "Tess had arrived with only her own name on the list. Now Ben had written the next meeting time, and June was still smiling by the door. They did not have seven players yet, but she no longer had to make the plan alone.",
+          "new": "The page still held only two confirmed names, but June had promised to ask about the practice field. Tess knew the team was not ready for a match. For the first time, though, it had a next meeting and people willing to help."
+        },
+        {
+          "paragraph": 7,
+          "language": "zh",
+          "old": "泰絲來時，名單上只有她自己的名字。如今班已寫下下次集合時間，瓊還在門邊微笑。他們還湊不滿七位球員，但她終於不必獨自籌畫了。",
+          "new": "名單上仍只有兩個確認加入的名字，但瓊答應去詢問練習場地。泰絲知道球隊還不能上場比賽；不過，現在終於有了下一次集合時間，也有了願意幫忙的人。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "How many names were on Tess's list at first?",
+          "correctOptionIndex": 1,
+          "correctOption": "One",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "She had only one name: her own.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "故事開始時，泰絲的名單上只有自己的名字。\n校訂核對（第 1 段）：She had only one name: her own."
+        },
+        {
+          "number": 2,
+          "question": "What did Tess say the new team needed most?",
+          "correctOptionIndex": 0,
+          "correctOption": "People who listen",
+          "evidenceParagraph": 4,
+          "sourceExcerpt": "We need people who can listen, not only people who can run.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "泰絲明確表示需要會傾聽的人，而不只要跑得快的球員。\n校訂核對（第 4 段）：We need people who can listen, not only people who can run."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "aaaa4e3ed8bdf3c3298657996f469d67e78add8c3448b5691f1e5f6edbe56eca",
+      "bookSourceSha256": "b174bdcb61dc18549efcf028199b1475312dfb2ae35935cba586add3c056ee42",
+      "newPayload": "./books/ss-r6-l1-a-b174bdcb61dc.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r7-l1-b": {
+      "book": "ss-r7-l1-b",
+      "title": "雪谷的七種聲音",
+      "chapter": "ss-r7-l1-b-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 693,
+      "englishWordsAfter": 696,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 6,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 127,
+          "englishExcerpt": "In Cloudpine Valley, winter did not end on the same day every year. Tavi, a young red panda, woke before the sun. A small bug crept along the cold window. Tavi wondered why it had appeared so early. S",
+          "chineseExcerpt": "雲松谷的冬天並不是每年都在同一天結束。年輕的小熊貓塔薇在日出前醒來。一隻小蟲沿著冰冷的窗戶緩緩爬行。塔薇不明白牠為何這麼早就出現。她打開窗戶，想聽聽那些通常會用叫聲宣告春天將近的鳥兒，卻一聲也沒聽見。相機掛在門邊，她拍下白色山丘，但照片無法"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 117,
+          "englishExcerpt": "Her friend Ivo, a mountain goat, came from the north path. He had a red hat and a pet mouse in a warm little box. “I will not lie to you,” he said kindly. “I heard no birds on the north path either. B",
+          "chineseExcerpt": "她的朋友、山羊伊沃從北邊小路走來。他戴著紅帽子，還帶著一隻住在溫暖小盒裡的寵物老鼠。「我不會騙妳，」他溫和地說，「北邊小路上我也沒聽到鳥鳴。不過山丘另一邊可能還有鳥。」塔薇站在院子中央，努力注意每一個小聲音。她聽到腳步、落葉，以及伊沃的老鼠"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 108,
+          "englishExcerpt": "A picnic was planned for the first warm day. Other families wanted to walk up the high hill then, but the snow there was still deep. Tavi could not reach the old lookout safely. She would not use a da",
+          "chineseExcerpt": "大家原本計畫在第一個溫暖的日子野餐。其他家庭想走上高丘，但那裡的雪仍然很深。塔薇無法安全抵達舊瞭望台。她不願為了快速找到答案就使用危險的路。於是她畫了一張山谷低地的簡單地圖。年輕與年長的鄰居都能一起走這段路。清晨淡淡的天空仍掛著一顆明亮星星"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 98,
+          "englishExcerpt": "Tavi wanted the future spring walk to be safe for everyone. She asked Ivo to help, but she also wanted someone who knew the ground under the snow. They went to see Nell, a marmot who lived near the wa",
+          "chineseExcerpt": "塔薇希望未來的春季散步對每個人都安全。她請伊沃幫忙，也想找一位懂得雪下土地情況的朋友。他們去見住在溫暖岩石旁的土撥鼠奈兒。奈兒知道小溪流向，也知道哪些地方的冰很薄。她答應加入，但條件是道路一旦不對勁就立刻折返。「我們找的是聲音，不是獎品，」"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 99,
+          "englishExcerpt": "By noon, the three friends had a plan, a pencil, and three warm coats. They would listen near the homes first, move farther only with care, and share what they learned with the valley. Nobody promised",
+          "chineseExcerpt": "中午前，三位朋友已備好計畫、鉛筆與三件暖外套。他們會先在住家附近聆聽，確認安全後才走遠，並把發現告訴山谷居民。沒有人承諾把春天帶回來，因為春天不是能裝進袋子的東西。不過，他們可以了解今天的早晨為何如此不同。塔薇合起筆記本，對朋友笑了。她再也"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 147,
+          "englishExcerpt": "That afternoon, Tavi went back to the same window and compared what she heard at dawn with what she heard now. A cart passed outside. A family laughed on the road. The quiet in the woods was still the",
+          "chineseExcerpt": "當天下午，塔薇回到同一扇窗邊，比較黎明與此刻聽見的聲音。外面有推車經過，路上有家庭在笑。樹林仍安靜，但整座山谷從未完全無聲。她在本子分成兩欄：鄰居製造的聲音，以及土地傳來的聲音。這不是完美的分類方法，卻幫她提出更好的問題。伊沃回來確認她吃過"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 1,
+          "language": "en",
+          "old": "She opened the window and listened for the birds that usually returned before spring, but heard none.",
+          "new": "She opened the window and listened for the birds whose calls usually signaled the coming of spring, but heard none."
+        },
+        {
+          "paragraph": 1,
+          "language": "zh",
+          "old": "她打開窗戶，想聽聽通常在春天前回來的鳥兒，卻一聲鳥鳴也沒聽見。",
+          "new": "她打開窗戶，想聽聽那些通常會用叫聲宣告春天將近的鳥兒，卻一聲也沒聽見。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "What was missing from the woods that morning?",
+          "correctOptionIndex": 0,
+          "correctOption": "Bird calls.",
+          "evidenceParagraph": 2,
+          "sourceExcerpt": "No song came from the woods.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "第一、二段明確寫出沒有鳥叫聲；塔薇仍看到小蟲，也聽到其他聲響，因此並非所有生命都消失。\n校訂核對（第 2 段）：No song came from the woods."
+        },
+        {
+          "number": 2,
+          "question": "Why did the friends choose a low path?",
+          "correctOptionIndex": 1,
+          "correctOption": "The high hill was still snowy and unsafe.",
+          "evidenceParagraph": 3,
+          "sourceExcerpt": "the snow there was still deep.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "高處山丘仍有深雪，低地路線較安全。\n校訂核對（第 3 段）：the snow there was still deep."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "5c4de942ea2bb71cd1b997c8307570339b52438e29113919d63dae3c0ce20b61",
+      "bookSourceSha256": "f268baee46709226f6cde92dd9aa59519d16d7f45a465c14ff4ef3b306f66ea1",
+      "newPayload": "./books/ss-r7-l1-b-f268baee4670.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r9-l1-a": {
+      "book": "ss-r9-l1-a",
+      "title": "山頂上的藍色風車",
+      "chapter": "ss-r9-l1-a-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 814,
+      "englishWordsAfter": 816,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 5,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 153,
+          "englishExcerpt": "At six a.m., Erin opened her eyes. She was twenty-four and had come to Hill Village only yesterday. The sun was not high yet, but a little bell rang outside her window. She got up early because she wa",
+          "chineseExcerpt": "早上六點，艾琳睜開眼睛。她二十四歲，昨天才來到山村。太陽還沒有升得很高，但窗外響起一陣小鈴聲。她很早就起床，因為她想看看山上的舊藍色風車。這是她在村子裡度過的第一個完整日子，她不想浪費早晨的時間。她的房間很小，裡面有一張床、一張桌子和一張綠"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 161,
+          "englishExcerpt": "Mrs. May was in the kitchen. She made a small salad for herself and asked Erin to sit down. “You are here to look at the windmill?” she asked. Erin said yes. “My father could make many things from woo",
+          "chineseExcerpt": "梅太太正在廚房。她為自己做了一小盤沙拉，請艾琳坐下。「妳是來看風車的嗎？」她問。艾琳點頭。「我父親會用木頭做很多東西。他教我用雙手工作。現在我想學更多。」梅太太指著牆上的一張照片。照片裡，風車正在轉動，孩子們在下面玩耍。「那是很多年前的事了"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 157,
+          "englishExcerpt": "On the road, Erin met a boy named Ben. He was carrying a heavy box. Erin asked if she could help, but Ben shook his head. “It is full of books,” he said. “I can carry it. I do this for exercise.” Then",
+          "chineseExcerpt": "在路上，艾琳遇見一個叫班的男孩。他正搬著一個很重的箱子。艾琳問需不需要幫忙，但班搖了搖頭。「裡面都是書，」他說。「我搬得動。這也是我的運動。」接著他停下來，把箱子放在矮牆上。「好吧，也許我需要休息一下。」艾琳笑了，班也笑了。他說自己正要把書"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 171,
+          "englishExcerpt": "They walked together for a while. At the foot of the hill, they saw a wooden sign. It said, “Please do not go inside the windmill.” Below the words was a drawing of a door with a red line across it. E",
+          "chineseExcerpt": "兩人一起走了一段路。到了山腳下，他們看見一塊木製告示牌，上面寫著：「請勿進入風車內部。」文字下面畫著一扇門，門上有一道紅線。艾琳拿出一本小筆記本。她喜歡把看到的事情寫下來。「門可能不安全，」她說。「今天我會待在外面。」班點點頭。「我祖父可以"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 174,
+          "englishExcerpt": "At last, Erin stood near the windmill. Its blue paint was old, and one part of the roof had no cover. She could see a little rainwater on the ground below it. The wind was strong, but the great wooden",
+          "chineseExcerpt": "最後，艾琳站在風車附近。風車的藍色油漆已經老舊，屋頂有一部分失去了遮蓋。她看見下面的地面上有一點積水。風很強，但巨大的木製葉片沒有轉動。一隻小鳥停在葉片上唱歌。艾琳抬頭看了看，接著往後退。今天她不會碰風車。安全的計畫必須擺在第一位。班的祖父"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 1,
+          "language": "en",
+          "old": "It was her first day in the village, and she did not want to be late.",
+          "new": "It was her first full day in the village, and she did not want to waste the morning."
+        },
+        {
+          "paragraph": 1,
+          "language": "zh",
+          "old": "這是她來到村子的第一天，她不想遲到。",
+          "new": "這是她在村子裡度過的第一個完整日子，她不想浪費早晨的時間。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "Why does Erin stay outside the windmill?",
+          "correctOptionIndex": 1,
+          "correctOption": "The windmill may not be safe.",
+          "evidenceParagraph": 4,
+          "sourceExcerpt": "The door may not be safe",
+          "originalExplanationValidated": true,
+          "editedExplanation": "艾琳看到禁止進入的告示，決定先確保安全。\n校訂核對（第 4 段）：The door may not be safe"
+        },
+        {
+          "number": 2,
+          "question": "What does Erin write in her book?",
+          "correctOptionIndex": 0,
+          "correctOption": "A question about why the windmill stopped.",
+          "evidenceParagraph": 5,
+          "sourceExcerpt": "Why did the blue windmill stop?",
+          "originalExplanationValidated": true,
+          "editedExplanation": "她在筆記本中寫下風車為什麼停了，作為調查起點。\n校訂核對（第 5 段）：Why did the blue windmill stop?"
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "4a6c15d1c1195158f6fa0584794c3dd2576e04a7a8b854579752fb20d3c2e55b",
+      "bookSourceSha256": "287361891817acc67d3ed625e75613752254764cfb0271d7c346c4e5478741a4",
+      "newPayload": "./books/ss-r9-l1-a-287361891817.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r9-l1-b": {
+      "book": "ss-r9-l1-b",
+      "title": "蒲公英鎮的慢慢巴士",
+      "chapter": "ss-r9-l1-b-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 602,
+      "englishWordsAfter": 604,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 5,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 121,
+          "englishExcerpt": "At the north end of Dandelion Town, a red star was painted on an old wooden post. Nobody knew why the star was there. One morning, Koi, a young raccoon, saw a friendly woman standing beside it. The wo",
+          "chineseExcerpt": "蒲公英鎮的北端，有根舊木柱上畫著一顆紅星。沒有人知道那顆星為何在那裡。一天早晨，年輕的浣熊柯伊看到一位友善的女士站在柱旁。她提著籃子、相機，以及裝著寵物小蟲的小盒子。她想到公園參加家庭野餐，卻不適合走太遠，因為雙腿會痛。公園明明只在鎮子的另"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 126,
+          "englishExcerpt": "Koi lived in the middle of town and worked with maps at the town hall. Her work was to notice small things other people missed: a broken path, a hard corner, or a sign hidden by leaves. On this mornin",
+          "chineseExcerpt": "柯伊住在鎮中心，工作是在鎮公所繪製地圖。她專門注意別人可能忽略的小事：破損的小路、難走的轉角，或被樹葉遮住的標誌。這天早上，她發現了一個從未記錄的事實：道路短，不代表旅程輕鬆。女士說她能走到商店，卻走不到公園。「我不想要別人抱著我走，」她說"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 115,
+          "englishExcerpt": "Koi sat beside the post and drew a line from the north road to the picnic field. She drew the school, the pond, and three small homes along the way. A bus might join these places in the future, she th",
+          "chineseExcerpt": "柯伊坐在木柱旁，畫出一條從北路通往野餐草地的線。她把學校、池塘和沿途三間小屋也標上去。她想，也許未來會有一輛巴士，把這些地方連在一起。巴士不必很快，只需要在人們需要時到達。女士告訴她，自己叫瑞莎，願意指出哪些地方難以抵達。兩人一起走過一個街"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 116,
+          "englishExcerpt": "In the afternoon, Koi showed the map to Dano, a pelican who had driven a delivery van for many years. He did not say yes at once. “A bus is not a toy,” he told her. “A driver needs a safe road, enough",
+          "chineseExcerpt": "下午，柯伊把地圖拿給鵜鶘丹洛看。丹洛開送貨車多年，卻沒有立刻答應。「巴士不是玩具，」他說，「司機需要安全的路、足夠的時間，也要讓每位乘客都上得了車。」他用兩隻寬腳掌壓在地圖上，示意車子的大小。柯伊把他的腳移開，畫出兩條可能的路線。一條較短，"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 126,
+          "englishExcerpt": "Before evening, Koi returned to the red star. Ressa had gone home, but a child and his father stood there, looking down the empty road. The child asked if a real bus would come tomorrow. “Not tomorrow",
+          "chineseExcerpt": "傍晚前，柯伊回到紅星木柱旁。瑞莎已回家，卻有一對父子站在那裡，望著空蕩蕩的道路。孩子問明天會不會真的有巴士。「明天還不會，」柯伊說，「我們得先知道鎮上需要什麼。」她記下孩子想與爺爺一起去公園的願望，又問父親平日上班的行程及通往農場的路。每一"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 5,
+          "language": "en",
+          "old": "Ressa had gone home, but a child and his father stood there, waiting for nothing.",
+          "new": "Ressa had gone home, but a child and his father stood there, looking down the empty road."
+        },
+        {
+          "paragraph": 5,
+          "language": "zh",
+          "old": "瑞莎已回家，卻有一對父子站在那裡，像是在等一輛根本不存在的車。",
+          "new": "瑞莎已回家，卻有一對父子站在那裡，望著空蕩蕩的道路。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "What first made Koi think the town needed a bus?",
+          "correctOptionIndex": 0,
+          "correctOption": "She saw Ressa unable to walk far to a picnic.",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "her legs hurt when she walked far.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "瑞莎想去野餐卻不方便遠走，讓柯伊開始思考巴士的需要。\n校訂核對（第 1 段）：her legs hurt when she walked far."
+        },
+        {
+          "number": 2,
+          "question": "Why did Dano refuse to choose a route immediately?",
+          "correctOptionIndex": 0,
+          "correctOption": "He needed to check whether the roads were safe.",
+          "evidenceParagraph": 4,
+          "sourceExcerpt": "We need to look at both roads before we choose",
+          "originalExplanationValidated": true,
+          "editedExplanation": "丹洛認為應先實地檢查道路安全，才能選定路線。\n校訂核對（第 4 段）：We need to look at both roads before we choose"
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "b4ab83113af5a41e17ba6ac0996a134b29810bda08a87dcbfed799d2ef445c1f",
+      "bookSourceSha256": "b13e8501239d04a32f0d408598cffe1c0fe77a2605b6939b0488942c0f9bc76f",
+      "newPayload": "./books/ss-r9-l1-b-b13e8501239d.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r10-l1-a": {
+      "book": "ss-r10-l1-a",
+      "title": "紅磚街的星星課",
+      "chapter": "ss-r10-l1-a-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 681,
+      "englishWordsAfter": 691,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 6,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 112,
+          "englishExcerpt": "At 7 a.m., Nia stood outside her apartment on Red Brick Street, her heavy teaching bag resting beside the breakfast table. She was early for her first class and had plenty of time to prepare. The city",
+          "chineseExcerpt": "早上七點，妮雅站在紅磚街的公寓外，沉重的教學袋放在早餐桌旁。她提早到達，距離第一堂課還有充裕的時間。市民中心借給她一間教室，讓她連續六個星期六教大家認識夜空。妮雅喜歡星星，卻從來沒有獨自教過課。出發前，她坐下來吃完早餐，有水果、麵包和昨天剩"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 109,
+          "englishExcerpt": "The room was above the community kitchen. A bell hung beside the door, and an old couch stood under the window. The morning sun made the white wall bright. Nia wanted to show the class tiny points of ",
+          "chineseExcerpt": "教室在社區廚房樓上。門邊掛著一只鈴，窗下擺著一張舊沙發。早晨的陽光把白牆照得很亮。妮雅想在牆上展示小小的光點，所以需要一塊遮窗布。中心的幫手亞倫從乾淨的箱子裡找出兩塊布，其中一塊印著滑稽的猴子。「一個外國家庭在學校園遊會後送來這塊布，」他說"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 110,
+          "englishExcerpt": "At noon, three people came to look at the room. One was a grandmother called Mrs. Sol. Another was a young boy named Finn, who held a drawing of the moon. The third was Mara, a cook from downstairs. M",
+          "chineseExcerpt": "中午，三個人來參觀教室。一位是索爾奶奶，一位是拿著月亮畫作的男孩芬恩，還有一位是樓下廚師瑪拉。瑪拉帶來一碗沙拉，請大家一起吃。芬恩問太陽是不是星星。妮雅說是，他又問月亮是不是星星。妮雅沒有笑他。「月亮離地球比較近，而且不會自己發光，」她說，"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 107,
+          "englishExcerpt": "Nia put chairs around the room and tested the door. A small child could reach the bell, but the shelf was too high for Mrs. Sol. Arun moved the books down. He said that his father used to teach music ",
+          "chineseExcerpt": "妮雅在房間裡排好椅子，試著開關門。小孩子搆得到鈴，索爾奶奶卻拿不到高架上的書。亞倫把書移到低處。他說，這裡還沒放沙發的年代，他父親曾在此教音樂。妮雅喜歡聽這個空間的往事。她在筆記本開了一頁，標題是「我們可以改變的事」，寫下太亮的窗戶、太高的"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 146,
+          "englishExcerpt": "While they were putting the chairs in place, Finn asked to write his name on the question board. His pencil was very short, but he held it carefully and made each letter large. He told Nia that he had",
+          "chineseExcerpt": "大家排椅子時，芬恩問能不能把自己的名字寫到問題板上。他的鉛筆很短，卻拿得很仔細，每個字母都寫得很大。他告訴妮雅，上星期自己掉了一顆牙，現在有點害羞，不敢在眾人面前說話。索爾奶奶微笑著提醒他，可以先把問題寫下來。芬恩很喜歡這個主意。妮雅在他的"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 107,
+          "englishExcerpt": "In the evening, Nia put one little lamp on the floor and covered it with a paper cup. She made three small holes in the cup. Three stars appeared on the wall. They were only dots from a lamp, but they",
+          "chineseExcerpt": "傍晚，妮雅把一盞小燈放在地上，用紙杯罩住，在杯上戳出三個小孔。牆上出現三顆小星星。那只是燈投出的光點，卻讓房間有了不同的感覺。芬恩和媽媽再度走進來，看見光點時驚喜地叫出聲。「我們能做更多嗎？」他問。「可以，」妮雅回答，「不過要先學會安全操作"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 1,
+          "language": "zh",
+          "old": "距離第一堂課還有充裕的時間。",
+          "new": "她提早到達，距離第一堂課還有充裕的時間。"
+        },
+        {
+          "paragraph": 5,
+          "language": "en",
+          "old": "He told Nia that he had lost a tooth the week before and that speaking sometimes felt funny now. Mrs. Sol laughed kindly and said he could speak slowly.",
+          "new": "He told Nia that he had lost a tooth the week before and felt shy about speaking in front of others. Mrs. Sol smiled and reminded him that he could write down his question first. Finn liked that idea."
+        },
+        {
+          "paragraph": 5,
+          "language": "zh",
+          "old": "他告訴妮雅，上星期自己掉了一顆牙，現在說話有時覺得怪怪的。索爾奶奶親切地笑了，說可以慢慢說。",
+          "new": "他告訴妮雅，上星期自己掉了一顆牙，現在有點害羞，不敢在眾人面前說話。索爾奶奶微笑著提醒他，可以先把問題寫下來。芬恩很喜歡這個主意。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "Why does Nia need a cover for the window?",
+          "correctOptionIndex": 0,
+          "correctOption": "To make the room darker for light models.",
+          "evidenceParagraph": 2,
+          "sourceExcerpt": "she needed a dark cover for the window.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "妮雅需要讓牆面變暗，才能展示燈光形成的星點。\n校訂核對（第 2 段）：she needed a dark cover for the window."
+        },
+        {
+          "number": 2,
+          "question": "Who asks whether the sun is a star?",
+          "correctOptionIndex": 1,
+          "correctOption": "Finn.",
+          "evidenceParagraph": 3,
+          "sourceExcerpt": "Finn asked whether the sun was a star.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "芬恩先問太陽是不是星星，接著也問了月亮。\n校訂核對（第 3 段）：Finn asked whether the sun was a star."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "b1f6707887c3aacdc0f99adbe0819911721c65f909904db9804bedd5c7701ea5",
+      "bookSourceSha256": "c28a52e240f86efcaef6390af31dc1f5a3baab030683fe2f3bb4bd657841263e",
+      "newPayload": "./books/ss-r10-l1-a-c28a52e240f8.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    },
+    "ss-r11-l1-a": {
+      "book": "ss-r11-l1-a",
+      "title": "雨後的綠色箱子",
+      "chapter": "ss-r11-l1-a-1",
+      "chapterNumber": 1,
+      "reviewer": "GPT-6 AI editorial review",
+      "reviewDate": "2026-11-14",
+      "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
+      "englishWordsBefore": 638,
+      "englishWordsAfter": 652,
+      "targetWords": 20,
+      "missingTargetWords": [],
+      "bilingualParagraphsReadAndReviewed": 7,
+      "bilingualParagraphReviews": [
+        {
+          "paragraph": 1,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 88,
+          "englishExcerpt": "At seven a.m., Ivy came early to the school garden. The sun was just above the roof. She ate fruit and a small cake for breakfast, then looked at the green shelf near the door. Yesterday, a heavy gree",
+          "chineseExcerpt": "上午七點，艾薇提早來到學校花園。太陽剛升到屋頂上方。她早餐吃了水果和一塊小蛋糕，接著望向門邊的綠色架子。昨天，一個沉重的綠箱子還放在上面。裡頭有種子、標示牌和園藝社的小本子。如今架子空了。第一堂課的鐘響了，艾薇卻沒有移動。距離花園開放日只剩"
+        },
+        {
+          "paragraph": 2,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 100,
+          "englishExcerpt": "There was one more reason Ivy cared about the box. Each student in the club had written one small message about a plant. A boy wanted to grow beans for his grandmother. A girl wanted flowers that woul",
+          "chineseExcerpt": "艾薇在意那個箱子，還有另一個原因。園藝社每位學生都寫過一段關於植物的小心願。一個男孩想替奶奶種豆子，一個女孩想種能吸引蜜蜂的花。艾薇寫的是：希望有個地方，讓安靜的學生能發問，而不會被取笑。所有訊息都在箱子裡的筆記本上。失去箱子，也像失去了大"
+        },
+        {
+          "paragraph": 3,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 95,
+          "englishExcerpt": "Jun arrived with a cover for the garden table. He was Ivy's friend, and fixing small things was his hobby. He had once painted a monkey with one large tooth on the side of the missing box, so everyone",
+          "chineseExcerpt": "俊帶著花園桌子的罩布來了。他是艾薇的朋友，修理小東西是他的興趣。失蹤箱子的側面原本畫著一隻露出大牙齒的猴子，那是俊親手畫的，好讓大家認出園藝社的箱子。他的筆記本裡還留著一張這幅逗趣圖畫的小副本。「我們要不要看看社團教室的沙發後面？」他問。他"
+        },
+        {
+          "paragraph": 4,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 88,
+          "englishExcerpt": "Ms. Wen, their teacher, met them in the hall. She wanted to teach the club how to care for plants and how to care for people. “Searching is not a race,” she said. “First, write down what you know.” Iv",
+          "chineseExcerpt": "社團老師溫老師在走廊遇見他們。她想教社團成員照顧植物，也學習照顧人。「找東西不是比賽，」她說，「先寫下你們確定的事。」艾薇拿出筆記本，寫上：綠箱子、種子卡、猴子圖畫、昨天最後一次看見的位置。她沒有寫任何人偷走了箱子。俊點點頭，說列出公平的清"
+        },
+        {
+          "paragraph": 5,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 100,
+          "englishExcerpt": "That day Ivy made a promise to herself as well. She would tell the truth about what she saw, and she would not make a person feel bad just because a thing was missing. The teacher helped her put a lar",
+          "chineseExcerpt": "那天艾薇也對自己許下承諾。她會誠實說出看見的事，不會只因東西不見，就讓某個人難受。老師幫她在牆上貼一張大紙。孩子可以畫出記得的箱子模樣，但不能把猜測對象的名字寫上去。後來另一個班級經過走廊時，好幾位學生停下來，畫了種子和小葉子。真正的花園還"
+        },
+        {
+          "paragraph": 6,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 94,
+          "englishExcerpt": "At lunch the club shared salad under a tree. One new student came from a foreign country and asked what the green box looked like. Ivy explained slowly, and Jun showed him the copy of his monkey drawi",
+          "chineseExcerpt": "午餐時，社團成員在樹下分吃沙拉。一位來自國外的新同學問綠箱子長什麼樣。艾薇慢慢說明，俊則拿出筆記本裡那張猴子圖畫的副本給他看。新同學說，下雨時曾在校門附近看見一個綠色的東西，但不確定是不是他們的箱子。艾薇向他道謝。她想，猜測也許有用，但不能"
+        },
+        {
+          "paragraph": 7,
+          "englishReviewed": true,
+          "chineseMeaningReviewed": true,
+          "englishWords": 87,
+          "englishExcerpt": "In the afternoon they found a wet piece of paper under the shelf. Only the words “keep dry” could be read. Ivy put the paper between two clean pages without trying to pull it apart. Jun wanted to ask ",
+          "chineseExcerpt": "下午，他們在架子底下找到一小片濕紙。上面只看得清「保持乾燥」幾個字。艾薇把紙片夾在兩張乾淨的紙中間，沒有硬把它攤開。俊想詢問全校每一個學生，溫老師卻建議先從小範圍開始。他們要先問昨天使用花園的人。艾薇闔上筆記本。她仍想找回綠箱子，但也希望每"
+        }
+      ],
+      "timelineAndPlotChecked": true,
+      "chapter2OpeningContinuityChecked": true,
+      "newParagraphOrder": null,
+      "changes": [
+        {
+          "paragraph": 3,
+          "language": "en",
+          "old": "A drawing of a monkey with one large tooth was on the side of the box. He had made that funny picture himself, so everyone could know which box belonged to them.",
+          "new": "He had once painted a monkey with one large tooth on the side of the missing box, so everyone could tell which box belonged to the club. He still kept a small copy of his funny drawing in his notebook."
+        },
+        {
+          "paragraph": 3,
+          "language": "zh",
+          "old": "箱子側面畫著一隻露出一顆大牙齒的猴子。那張有趣的圖是俊親手畫的，好讓大家認出自己的箱子。",
+          "new": "失蹤箱子的側面原本畫著一隻露出大牙齒的猴子，那是俊親手畫的，好讓大家認出園藝社的箱子。他的筆記本裡還留著一張這幅逗趣圖畫的小副本。"
+        },
+        {
+          "paragraph": 5,
+          "language": "en",
+          "old": "When the first class came in, several students added pictures of seeds and small leaves.",
+          "new": "When another class passed through the hall, several students stopped to add pictures of seeds and small leaves."
+        },
+        {
+          "paragraph": 5,
+          "language": "zh",
+          "old": "第一個班級進來時，好幾位學生畫了種子和小葉子。",
+          "new": "後來另一個班級經過走廊時，好幾位學生停下來，畫了種子和小葉子。"
+        },
+        {
+          "paragraph": 6,
+          "language": "en",
+          "old": "Jun showed him the monkey picture.",
+          "new": "Jun showed him the copy of his monkey drawing."
+        },
+        {
+          "paragraph": 6,
+          "language": "zh",
+          "old": "俊則把猴子圖畫給他看。",
+          "new": "俊則拿出筆記本裡那張猴子圖畫的副本給他看。"
+        }
+      ],
+      "quizzesChecked": [
+        {
+          "number": 1,
+          "question": "What was missing from the green shelf?",
+          "correctOptionIndex": 0,
+          "correctOption": "A green box with seeds and notes.",
+          "evidenceParagraph": 1,
+          "sourceExcerpt": "a heavy green box had stood there.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "失蹤的是裝有種子和園藝筆記的綠色箱子\n校訂核對（第 1 段）：a heavy green box had stood there."
+        },
+        {
+          "number": 2,
+          "question": "Why did Ivy write only facts in her notebook?",
+          "correctOptionIndex": 1,
+          "correctOption": "She did not want to blame someone without proof.",
+          "evidenceParagraph": 4,
+          "sourceExcerpt": "She did not write that anyone had stolen it.",
+          "originalExplanationValidated": true,
+          "editedExplanation": "艾薇不想在沒有證據前就指責任何人\n校訂核對（第 4 段）：She did not write that anyone had stolen it."
+        }
+      ],
+      "quizAnswersReviewed": 2,
+      "chapterSourceSha256": "3efd65e4b21dd78c0e09c7f12ec01fa5157492c388354baf5188443676d89d2e",
+      "bookSourceSha256": "90444006a838171d0ce285383f30e0d33f6d5af98e60217c2502d1db92792115",
+      "newPayload": "./books/ss-r11-l1-a-90444006a838.bin",
+      "allFirstChapterGatesApproved": true,
+      "fullBook25ChapterCertification": false
+    }
+  },
+  "chapterChecks": [
+    {
+      "book": "tomorrow",
+      "wordsBefore": 529,
+      "wordsAfter": 537,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 8,
+      "individualTextPatches": 4,
+      "passed": true
+    },
+    {
+      "book": "import-rain-bell",
+      "wordsBefore": 788,
+      "wordsAfter": 793,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 7,
+      "individualTextPatches": 2,
+      "passed": true
+    },
+    {
+      "book": "ceo-1",
+      "wordsBefore": 611,
+      "wordsAfter": 624,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 8,
+      "individualTextPatches": 4,
+      "passed": true
+    },
+    {
+      "book": "ss-r5-l1-b",
+      "wordsBefore": 566,
+      "wordsAfter": 581,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 5,
+      "individualTextPatches": 6,
+      "passed": true
+    },
+    {
+      "book": "ss-r4-l1-a",
+      "wordsBefore": 685,
+      "wordsAfter": 693,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 7,
+      "individualTextPatches": 2,
+      "passed": true
+    },
+    {
+      "book": "ss-r4-l1-b",
+      "wordsBefore": 677,
+      "wordsAfter": 687,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 7,
+      "individualTextPatches": 4,
+      "passed": true
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "wordsBefore": 648,
+      "wordsAfter": 649,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 6,
+      "individualTextPatches": 2,
+      "passed": true
+    },
+    {
+      "book": "ss-r3-l1-a",
+      "wordsBefore": 613,
+      "wordsAfter": 612,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 5,
+      "individualTextPatches": 2,
+      "passed": true
+    },
+    {
+      "book": "ss-r2-l1-a",
+      "wordsBefore": 672,
+      "wordsAfter": 696,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 7,
+      "individualTextPatches": 4,
+      "passed": true
+    },
+    {
+      "book": "ss-r6-l1-a",
+      "wordsBefore": 655,
+      "wordsAfter": 654,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 7,
+      "individualTextPatches": 2,
+      "passed": true
+    },
+    {
+      "book": "ss-r7-l1-b",
+      "wordsBefore": 693,
+      "wordsAfter": 696,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 6,
+      "individualTextPatches": 2,
+      "passed": true
+    },
+    {
+      "book": "ss-r9-l1-a",
+      "wordsBefore": 814,
+      "wordsAfter": 816,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 5,
+      "individualTextPatches": 2,
+      "passed": true
+    },
+    {
+      "book": "ss-r9-l1-b",
+      "wordsBefore": 602,
+      "wordsAfter": 604,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 5,
+      "individualTextPatches": 2,
+      "passed": true
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "wordsBefore": 681,
+      "wordsAfter": 691,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 6,
+      "individualTextPatches": 3,
+      "passed": true
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "wordsBefore": 638,
+      "wordsAfter": 652,
+      "targets": 20,
+      "quizzes": 2,
+      "paragraphs": 7,
+      "individualTextPatches": 6,
+      "passed": true
+    }
+  ]
+}
