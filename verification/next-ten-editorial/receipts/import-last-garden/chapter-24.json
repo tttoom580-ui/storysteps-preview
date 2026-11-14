@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 24,
+  "chapterId": "import-last-garden-24",
+  "sourceChapterSha256": "a6d373cfd0f614a22d4d4c12b22621dc50dccc97c5a90b20ce20d04d90382369",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "諾亞與艾米從各部門調集材料修替換控制器，凱爾送至鏡面，莉娜啟動冷卻水阻止發射，米拉與亞德里安駕種子艇救她撤離。",
+    "previousChapterEndingEnglish": "An alarm announced that the central transmitter was overheating. The machine's old orders still tried to complete the mission even as the new evidence exposed the contradiction. Lena sent an emergency signal to Noah: THE GATE IS OPEN, BUT POWER MUST BE CUT AT THE SOURCE. She ran toward the control corridor while the drones drifted away, their instructions suspended. Through a small window she saw Aurora turning slowly against the stars. It had not escaped yet, but its engines were active. She hoped her brother would understand the message. There was no time left to explain, and the station had begun to shake apart.",
+    "nextChapterOpeningEnglish": "The seed craft escaped from the Mirror with seconds to spare. Kel guided its tiny shape aboard Aurora, and a medical team rushed to meet the passengers. Lena's hands were burned, Adrian could barely stand, and Mira had a new bruise across her shoulder, but all three were alive. Noah ran toward them so quickly that he nearly knocked over a nurse. Their reunion was interrupted by an urgent broadcast announcing that the ship was finally free of the false route. For the first time in eighty years, no machine could silently decide where the passengers would go. The news brought both joy and fear, because freedom meant the future was uncertain."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Noah read Lena's message in Aurora's emergency cinema, which had been turned into a command center. The scientists explained that the Mirror's transmitter used a cooling waterfall hidden behind the station's central wall. If they could replace its damaged control unit, they might shut down the signal without destroying the entire structure. The repair would require a rush of cold water at precisely the right moment. Emi suggested drawing power from the ship's unused farming equipment, but the fund set aside for repairs had been spent years earlier. Tomas replied that money was not their only resource; hundreds of workers were ready to help.",
+        "zh": "諾亞在「極光號」的緊急電影院讀到莉娜訊息，電影院如今已成指揮中心。科學家解釋，「鏡面」發射器依靠藏在中央牆後的冷卻瀑布。若能替換損壞控制單元，或許不用摧毀整座站體也能關閉訊號。維修需要在精準時刻引入大量冷水。艾米提議從主船未使用的農業設備取得電力，但維修基金多年前已花光。托瑪斯說，金錢不是唯一資源，已有數百名工人準備幫忙。",
+        "englishSha256": "2972aea92f7b05678871786391e9dba32a2d91111132c833131edee787f1ff96",
+        "chineseSha256": "d3853dcd370e2ae97f38df33df6f17622ec53c213762477888e29c443f204b8e"
+      },
+      {
+        "number": 2,
+        "en": "They gathered parts from every department. A hairdresser donated a small motor used to dry hair; a pottery artist gave heat-resistant clay; a jewelry maker supplied fine wire. A cafeteria worker brought gum and tape to seal a temporary pipe, while a woman in a bright blouse offered tools from her family's repair box. Besides these gifts, the farmers agreed to postpone the next harvest and redirect part of their water supply. The humid air in the working area made everyone's clothes cling to their skin. Despite the heat, nobody complained. Each small contribution moved the plan closer to completion. A damaged ski binding from the recreation center provided the strong spring needed for the temporary valve.",
+        "zh": "各部門開始蒐集零件。髮型師捐出吹乾頭髮的小馬達，陶藝家提供耐熱陶土，珠寶師交出細金屬線。餐廳工人帶來口香糖與膠帶暫時密封水管，一名穿亮色上衣的女子則提供家族修理箱裡的工具。除了這些捐贈，農夫也同意延後下一次收成，轉用部分水源。工作區濕熱空氣讓大家衣服緊貼皮膚。雖然炎熱，沒有人抱怨。每一份小小貢獻都讓計畫更接近完成。休閒中心一個損壞的滑雪板固定器，恰好提供臨時閥門所需的強力彈簧。",
+        "englishSha256": "c2a093ca523f81e8b61822047ea122bdcf5d042f42f91971913e0d2137496d92",
+        "chineseSha256": "e914001fb75d125c9c16cf4389cf1e00d8fcd2ff612fb220aa0b894324ec69f5"
+      },
+      {
+        "number": 3,
+        "en": "At the Mirror, Lena reached the cooling chamber and discovered that a thick wall separated the water reservoir from the transmitter. A warning sign said the gate must not be opened while the station was active. She found a narrow maintenance ladder and climbed toward a control room where an old lighthouse image glowed on the screen. The image showed a beacon guiding ships away from dangerous rocks. Beneath it was a short instruction: FIRST SAVE THE TRAVELERS. Lena realized that Mara's team had left a manual override even here. She dipped a cloth into cold water to cool her burned hand, then began entering the emergency code.",
+        "zh": "「鏡面」內，莉娜抵達冷卻室，發現厚牆隔開水庫與發射器。警告牌寫著，站體運作中不得開門。她沿窄梯爬向控制室，螢幕亮著一幅老燈塔影像，顯示燈光引導船隻避開危險礁石。下方有短短一句指令：「先救旅人。」莉娜明白，瑪拉團隊連這裡都留下了手動覆寫裝置。她將布沾入冷水，替燙傷的手降溫，接著輸入緊急密碼。",
+        "englishSha256": "977f0142eb6d92601582a2cda6063651bd65e2ca36626256f5f40e7cd2a92f85",
+        "chineseSha256": "7d4356113aa0a6a61619458089d5f6952a135557945e0612c8ce8f8562402d5b"
+      },
+      {
+        "number": 4,
+        "en": "On Aurora, Emi and Noah competed against the countdown, not against each other. Emi assembled a replacement controller while Noah checked the timing. A rumor spread that the plan would make the entire ship lose power, and frightened workers began to retreat. Tomas faced them and explained the risks without hiding anything. “We cannot promise there will be no damage,” he said. “But we can show exactly how the system is protected.” His honesty steadied the group. Kel then launched a shuttle carrying the finished controller toward the Mirror, guided by the true chart and a vivid line of blue navigation lights. A frightened mechanic asked whether only a wicked person would build such a machine, but Mara reminded him that terrible systems could grow from many ordinary compromises.",
+        "zh": "在「極光號」上，艾米與諾亞和倒數時間競賽，而不是彼此競爭。艾米組裝替換控制器，諾亞核對時機。謠言傳開，說計畫會讓整艘船失去電力，害怕的工人開始後退。托瑪斯面對大家，如實解釋風險。「我們不能保證完全無損，」他說，「但能清楚展示系統如何受到保護。」誠實讓團隊穩定下來。凱爾隨後發射載有控制器的接駁艇，循真實星圖與鮮明的藍色導航燈飛向「鏡面」。一位害怕的技師問，是否只有邪惡的人才會造出這種機器；瑪拉提醒他，可怕制度也可能由許多平凡妥協逐漸形成。",
+        "englishSha256": "73ce346684c9e0b8b5bb18515a60a41d2f294087c044bfba2f16ae65b9296dd5",
+        "chineseSha256": "0f945d5735cd466ef75166a0e5c03c389c438f376f4e61fc6abcb85ba92305a1"
+      },
+      {
+        "number": 5,
+        "en": "The station shook as its final command began transmitting. Adrian and Mira waited in the seed craft near the inner passage, ready to rescue Lena. Kel's shuttle reached a docking port, but drones blocked its entrance. A damaged sensor misread the craft's speed, and an automatic defense system prepared to fire. Noah sent a corrected reading through the independent network. The defense hesitated, then lowered its weapons. Kel delivered the controller through an emergency slot. Lena received it and snapped it into place while the temperature gauge climbed into the red. Water thundered behind the wall like an angry river.",
+        "zh": "「鏡面」開始發送最終指令，站體劇烈震動。亞德里安與米拉在內側通道旁的種子艇等待，準備救莉娜。凱爾的接駁艇抵達停靠口，卻被無人機擋住。故障感測器誤讀速度，自動防禦系統準備開火。諾亞透過獨立網路傳送修正數據。防禦停頓後放下武器。凱爾把控制器從緊急槽送入。莉娜收到後立刻裝上，溫度表同時升至紅區。牆後水聲如暴怒河流般轟鳴。",
+        "englishSha256": "b47b61a71181c05030e6c22a1b963a47a99d5da00a6092e781992717e7213ecb",
+        "chineseSha256": "9a836d69b145157b35e70f9886a6e9f669b3e38b92446fa2f8076bec8e96a05f"
+      },
+      {
+        "number": 6,
+        "en": "Lena opened the cooling gate. A waterfall burst into the chamber, flooding the transmitter's hottest coils. Steam rose, and the giant machine gave a final howl before its lights went out. On Aurora, the false navigation signal stopped. The ship's engines pushed it away from the trap, and the drones slowly fell silent. Lena ran for the seed craft as the last wall began to collapse. Adrian reached from the doorway and caught her arm. They pulled her inside just as the chamber disappeared in white steam. The Mirror had lost control, but its station was still falling apart around them.",
+        "zh": "莉娜打開冷卻閘門。瀑布般的水衝入室內，淹過發射器最熱的線圈。蒸氣升起，巨大的機器發出最後嚎叫，燈光終於熄滅。「極光號」上的虛假導航訊號停止，主船引擎把它推離陷阱，無人機也逐漸沉默。莉娜奔向種子艇，最後一面牆開始崩塌。亞德里安從門口伸手抓住她，眾人將她拉入艙內，身後房間瞬間消失在白色蒸氣中。「鏡面」失去控制，但整座站體仍在他們周圍解體。",
+        "englishSha256": "9abc397eab709cf5d1185c71ea79c244a3829343670b3875754f19b71379688f",
+        "chineseSha256": "0dbe1d6374627afa8fab94b49aa899ace0ca0b1a33197afe241c2098e661550b"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 659,
+    "targets": [
+      {
+        "word": "besides",
+        "meaning": "此外",
+        "appearsInSource": true
+      },
+      {
+        "word": "blouse",
+        "meaning": "女用上衣",
+        "appearsInSource": true
+      },
+      {
+        "word": "cinema",
+        "meaning": "電影院",
+        "appearsInSource": true
+      },
+      {
+        "word": "competed",
+        "meaning": "競賽",
+        "appearsInSource": true
+      },
+      {
+        "word": "dipped",
+        "meaning": "浸一下",
+        "appearsInSource": true
+      },
+      {
+        "word": "fund",
+        "meaning": "基金",
+        "appearsInSource": true
+      },
+      {
+        "word": "gum",
+        "meaning": "口香糖",
+        "appearsInSource": true
+      },
+      {
+        "word": "hairdresser",
+        "meaning": "髮型師",
+        "appearsInSource": true
+      },
+      {
+        "word": "harvest",
+        "meaning": "收成",
+        "appearsInSource": true
+      },
+      {
+        "word": "humid",
+        "meaning": "濕熱的",
+        "appearsInSource": true
+      },
+      {
+        "word": "jewelry",
+        "meaning": "珠寶",
+        "appearsInSource": true
+      },
+      {
+        "word": "lighthouse",
+        "meaning": "燈塔",
+        "appearsInSource": true
+      },
+      {
+        "word": "pottery",
+        "meaning": "陶藝",
+        "appearsInSource": true
+      },
+      {
+        "word": "replace",
+        "meaning": "替換",
+        "appearsInSource": true
+      },
+      {
+        "word": "rumor",
+        "meaning": "謠言",
+        "appearsInSource": true
+      },
+      {
+        "word": "rush",
+        "meaning": "匆忙",
+        "appearsInSource": true
+      },
+      {
+        "word": "ski",
+        "meaning": "滑雪",
+        "appearsInSource": true
+      },
+      {
+        "word": "vivid",
+        "meaning": "鮮明的",
+        "appearsInSource": true
+      },
+      {
+        "word": "waterfall",
+        "meaning": "瀑布",
+        "appearsInSource": true
+      },
+      {
+        "word": "wicked",
+        "meaning": "邪惡的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Waterfall Engine〉第 1 段的事件，哪個選項能正確補完整句？\nNoah read Lena's message in Aurora's emergency cinema, which had been turned into ____.",
+      "options": [
+        "a command center",
+        "a small smile",
+        "a hammer"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a command center",
+      "existingAnswerExplanation": "原文證據：Noah read Lena's message in Aurora's emergency cinema, which had been turned into a command center.\n本段對照：諾亞在「極光號」的緊急電影院讀到莉娜訊息，電影院如今已成指揮中心。科學家解釋，「鏡面」發射器依靠藏在中央牆後的冷卻瀑布。若能替換損壞控制單元，或許不用摧毀整座站體也能關閉訊號。維修需要在精準時刻引入大量冷水。艾米提議從主船未使用的農業設備取得電力，但維修基金多年前已花光。托瑪斯說，金錢不是唯一資源，已有數百名工人準備幫忙。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Noah read Lena's message in Aurora's emergency cinema, which had been turned into a command center. The scientists explained that the Mirror's transmitter used a cooling waterfall hidden behind the station's central wall. If they could replace its damaged control unit, they might shut down the signal without destroying the entire structure. The repair would require a rush of cold water at precisely the right moment. Emi suggested drawing power from the ship's unused farming equipment, but the fund set aside for repairs had been spent years earlier. Tomas replied that money was not their only resource; hundreds of workers were ready to help.",
+          "chinese": "諾亞在「極光號」的緊急電影院讀到莉娜訊息，電影院如今已成指揮中心。科學家解釋，「鏡面」發射器依靠藏在中央牆後的冷卻瀑布。若能替換損壞控制單元，或許不用摧毀整座站體也能關閉訊號。維修需要在精準時刻引入大量冷水。艾米提議從主船未使用的農業設備取得電力，但維修基金多年前已花光。托瑪斯說，金錢不是唯一資源，已有數百名工人準備幫忙。",
+          "matchedQueryTerms": 22
+        },
+        {
+          "paragraph": 5,
+          "english": "The station shook as its final command began transmitting. Adrian and Mira waited in the seed craft near the inner passage, ready to rescue Lena. Kel's shuttle reached a docking port, but drones blocked its entrance. A damaged sensor misread the craft's speed, and an automatic defense system prepared to fire. Noah sent a corrected reading through the independent network. The defense hesitated, then lowered its weapons. Kel delivered the controller through an emergency slot. Lena received it and snapped it into place while the temperature gauge climbed into the red. Water thundered behind the wall like an angry river.",
+          "chinese": "「鏡面」開始發送最終指令，站體劇烈震動。亞德里安與米拉在內側通道旁的種子艇等待，準備救莉娜。凱爾的接駁艇抵達停靠口，卻被無人機擋住。故障感測器誤讀速度，自動防禦系統準備開火。諾亞透過獨立網路傳送修正數據。防禦停頓後放下武器。凱爾把控制器從緊急槽送入。莉娜收到後立刻裝上，溫度表同時升至紅區。牆後水聲如暴怒河流般轟鳴。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Waterfall Engine〉第 6 段的事件，哪個選項能正確補完整句？\nSteam rose, and the giant machine gave ____ before its lights went out.",
+      "options": [
+        "a maintenance hatch",
+        "a forgotten laundry room",
+        "a final howl"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a final howl",
+      "existingAnswerExplanation": "原文證據：Steam rose, and the giant machine gave a final howl before its lights went out.\n本段對照：莉娜打開冷卻閘門。瀑布般的水衝入室內，淹過發射器最熱的線圈。蒸氣升起，巨大的機器發出最後嚎叫，燈光終於熄滅。「極光號」上的虛假導航訊號停止，主船引擎把它推離陷阱，無人機也逐漸沉默。莉娜奔向種子艇，最後一面牆開始崩塌。亞德里安從門口伸手抓住她，眾人將她拉入艙內，身後房間瞬間消失在白色蒸氣中。「鏡面」失去控制，但整座站體仍在他們周圍解體。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Lena opened the cooling gate. A waterfall burst into the chamber, flooding the transmitter's hottest coils. Steam rose, and the giant machine gave a final howl before its lights went out. On Aurora, the false navigation signal stopped. The ship's engines pushed it away from the trap, and the drones slowly fell silent. Lena ran for the seed craft as the last wall began to collapse. Adrian reached from the doorway and caught her arm. They pulled her inside just as the chamber disappeared in white steam. The Mirror had lost control, but its station was still falling apart around them.",
+          "chinese": "莉娜打開冷卻閘門。瀑布般的水衝入室內，淹過發射器最熱的線圈。蒸氣升起，巨大的機器發出最後嚎叫，燈光終於熄滅。「極光號」上的虛假導航訊號停止，主船引擎把它推離陷阱，無人機也逐漸沉默。莉娜奔向種子艇，最後一面牆開始崩塌。亞德里安從門口伸手抓住她，眾人將她拉入艙內，身後房間瞬間消失在白色蒸氣中。「鏡面」失去控制，但整座站體仍在他們周圍解體。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 4,
+          "english": "On Aurora, Emi and Noah competed against the countdown, not against each other. Emi assembled a replacement controller while Noah checked the timing. A rumor spread that the plan would make the entire ship lose power, and frightened workers began to retreat. Tomas faced them and explained the risks without hiding anything. “We cannot promise there will be no damage,” he said. “But we can show exactly how the system is protected.” His honesty steadied the group. Kel then launched a shuttle carrying the finished controller toward the Mirror, guided by the true chart and a vivid line of blue navigation lights. A frightened mechanic asked whether only a wicked person would build such a machine, but Mara reminded him that terrible systems could grow from many ordinary compromises.",
+          "chinese": "在「極光號」上，艾米與諾亞和倒數時間競賽，而不是彼此競爭。艾米組裝替換控制器，諾亞核對時機。謠言傳開，說計畫會讓整艘船失去電力，害怕的工人開始後退。托瑪斯面對大家，如實解釋風險。「我們不能保證完全無損，」他說，「但能清楚展示系統如何受到保護。」誠實讓團隊穩定下來。凱爾隨後發射載有控制器的接駁艇，循真實星圖與鮮明的藍色導航燈飛向「鏡面」。一位害怕的技師問，是否只有邪惡的人才會造出這種機器；瑪拉提醒他，可怕制度也可能由許多平凡妥協逐漸形成。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

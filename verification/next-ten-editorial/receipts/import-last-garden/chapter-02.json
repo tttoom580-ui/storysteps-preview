@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 2,
+  "chapterId": "import-last-garden-2",
+  "sourceChapterSha256": "819f91350d2a984c2d9a12ba918803861e697772271ffda4542185a68199a33f",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "記憶展覽館展示舊地球、乘客對舒適謊言的偏好問卷、港灣星大氣下的不明威脅；母親瑪拉的緞帶引出地下秘密根系溫室。",
+    "previousChapterEndingEnglish": "That evening Lena returned alone to thank the garden, though she felt foolish speaking to trees. Under the coconut trunk lay a metal box that had not been there that morning. The whistle sounded again, but this time it came directly from the box. Its screen showed four words: MESSAGE FROM PLANET EARTH. According to the date below, the message had been sent just twelve minutes earlier. Earth was eighty years behind them, much too distant for ordinary radio. Before Lena could call Noah, another line appeared: DO NOT TRUST THE DESTINATION. The box opened by itself, revealing a small blue ribbon and a recording of a woman's voice.",
+    "nextChapterOpeningEnglish": "Security robots raced along the hidden corridor, forcing the twins into the underground forest. The trees grew inside a greenhouse bigger than Garden Seven, their branches lit by pale lamps. An energetic old woman in a stained apron stepped from behind a row of tomatoes and ordered the robots to stop. She called herself Inspector Sera, a senior officer responsible for checking the ship's original life-support systems. She showed them a badge and a dented bucket of nutrient water. “If you cannot afford to lose the gardens,” she told Lena, “you cannot afford to lose the truth either.” The robots withdrew after scanning her authority code."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The recorded woman said her name was Mara Vale, the engineer who had designed Aurora's gardens. Lena recognized the surname: Mara was their mother, whom they had believed dead for thirteen years. Noah ran a finger over the blue ribbon, remembering how their mother used to decorate their cradle with ribbons on birthdays. The message ordered them to visit the Memory Exhibition on Deck Twelve. There, beyond the main avenue of sleeping cabins, an ancient elevator still connected the public rooms with the forbidden headquarters. The twins left before the night shift began, carrying the box beneath Noah's coat.",
+        "zh": "錄音中的女人自稱瑪拉・維爾，是設計「極光號」花園的工程師。莉娜認出姓氏：瑪拉正是他們以為十三年前已死的母親。諾亞摸著藍色緞帶，想起母親以前總會用緞帶裝飾他們的小搖籃，替他們過生日。訊息要他們前往十二號甲板的「記憶展覽館」。那裡位於沉睡艙主要大道之後，一台古老電梯仍連結公共區域與禁止進入的總部。兩人在夜班開始前帶著金屬盒出發，把它藏在諾亞的外套裡。",
+        "englishSha256": "de84d4ca4c26e3a62deacfffef4e3e60c2d97222d14d6a84fd73ca4d3c08c0ba",
+        "chineseSha256": "e555427e836c1e2462b33f7392a9f7a396c9050e27fa1dd5dcab59202c792bb1"
+      },
+      {
+        "number": 2,
+        "en": "Inside the exhibition, holograms showed the lost Earth: a leopard running through tall grass, organic farms near crowded cities, and a firework festival reflected in a river. Visitors had once wandered these rooms like tourists, using their imagination to pretend they were home. Now dust coated the displays. At one station Noah found an odd survey asking passengers whether they would rather live under an honest but difficult government or a comfortable lie. Nearly everyone had selected comfort. “Perhaps that is why the computer hides things,” he said. Lena reminded him that a survey could record fear as easily as preference.",
+        "zh": "展覽館裡的全像影像呈現失去的地球：豹在高草間奔跑、有機農場緊鄰擁擠都市、煙火節映照在河面上。過去，參觀者像觀光客一樣漫步其中，憑著想像力假裝回到了家。如今，展示台上積滿灰塵。諾亞找到一份奇怪的問卷，詢問乘客比較想住在誠實卻艱難的政府下，還是在舒適的謊言裡。幾乎所有人都選了舒適。「也許電腦因此隱瞞事情。」他說。莉娜提醒他，問卷記錄到的可能只是恐懼，而非真正的偏好。",
+        "englishSha256": "18d12c17c046336af668b152734cb520038541461f5a9723d3ec01546061d3da",
+        "chineseSha256": "0aff6be7159e85c6390359f95d2af969c46419db342a9eaee4238f3ddaaa2c82"
+      },
+      {
+        "number": 3,
+        "en": "They followed a steep staircase to an equipment chamber. Along the wall stood tanks marked ONE GALLON PER CHILD PER DAY, part of an old lesson about water. At the far end, a mechanical bird suddenly spat sparks and raised its wings. It was only a broken attraction, but it sent Noah stumbling into a locked cabinet. A ribbon of blue light came from the box and traced a keyhole across the cabinet door. Lena wiped the dust from a plaque and read a warning: THE GARDENS WERE BUILT TO PROTECT LIFE FROM THE DESTINATION, NOT MERELY TO FEED THE CREW. The damaged bird had been programmed to spit harmless sparks during festival demonstrations.",
+        "zh": "他們沿著陡峭樓梯走向設備室。牆邊立著標示「每名兒童每日一加侖」的水槽，原本用於教導節水。盡頭一隻機械鳥突然噴出火花、張開翅膀。它只是故障的展品，卻嚇得諾亞撞上鎖住的櫃子。金屬盒射出藍光，沿櫃門畫出鑰匙孔。莉娜抹掉銘牌上的灰塵，讀到一句警告：「花園的建造目的，是為了保護生命免受目的地傷害，不只是供應船員食物。」那隻損壞的鳥原本設定在節慶展示時噴出無害火花。",
+        "englishSha256": "4bcf4bb4598a3e42a8b978861cada95f627ec9bd85c190dc73912cf2bc3771d7",
+        "chineseSha256": "db2c3166a26f12053ba31b4f5c47d2a0f6157fb894a99a00b9152a271a8e800e"
+      },
+      {
+        "number": 4,
+        "en": "Behind the cabinet was a model of their destination, the planet Haven. Its oceans shone with a magical silver light, but a red mark pulsed beneath the surface. Noah enlarged the map. The red area spread across every continent in branching lines, like roots under soil. The display called it an unidentified threat. In the next room, a film of the original launch played silently. Mara stood at the edge of the stage, not smiling with the other engineers. She was staring at a man in a dark uniform who covered the ship's official seal with his hand.",
+        "zh": "櫃子後方藏著目的地「港灣星」的模型。星球的海洋散發魔幻般的銀光，表面之下卻有一道紅色標記不停跳動。諾亞放大地圖，紅色區域像土壤下的根系，延伸到每一塊大陸。畫面稱之為「不明威脅」。隔壁房間無聲播放啟航影片。瑪拉站在舞台邊緣，沒有像其他工程師一樣微笑；她正盯著一名黑制服男子，那人用手遮住了太空船的官方徽章。",
+        "englishSha256": "958fd1ef55275083abf2f354483f741f118abb5af19e43c4126a67e96ac8af7b",
+        "chineseSha256": "c992515655da9e569646530e6b4dcb7823168e10e4f96a599ed61788ffdbc266"
+      },
+      {
+        "number": 5,
+        "en": "A security drone entered, accusing the twins of damaging museum property. Lena showed it the blue ribbon. For a second its camera turned green, and Mara's voice came from its speaker: “The past is not a prison. Look beneath the exhibition.” The drone then returned to normal and announced that the museum would close in five minutes. The twins climbed into the old elevator and pressed the lowest button. Instead of going down one floor, it descended through the ship's outer shell into a secret level that did not exist on public maps. From far below came the steady thump of a giant heart.",
+        "zh": "一架保全無人機進門，指控兩人破壞博物館財物。莉娜讓它看藍色緞帶。攝影鏡頭瞬間變綠，傳出瑪拉的聲音：「過去不是監獄。去展覽館下方看看。」接著無人機恢復正常，宣布博物館五分鐘後關閉。雙胞胎進入舊電梯，按下最底層的按鈕。電梯卻不只下降一層，而是穿過船體外殼，進入公共地圖沒有標示的祕密樓層。遙遠的下方傳來巨大的規律跳動聲，彷彿一顆心臟。",
+        "englishSha256": "5955fe5d8ed759dc12769edb6516c481879d4c4b70d2e5ff8e927fb5663e046c",
+        "chineseSha256": "ce97c8156fdf2f5b4252d09ed73f07ee7b3212841a7c50936d8423e279db4e54"
+      },
+      {
+        "number": 6,
+        "en": "They emerged into a corridor lined with living roots. Each root carried a drop of water toward a vast chamber, where an artificial forest grew without sunlight. In its center stood a machine as tall as a tower, pulsing in time with the thumps. “It's a second garden,” Noah whispered, “and it has been hidden from us.” The machine's display showed one more message from Mara: WHEN THE ROOTS TOUCH THE STARS, CHOOSE THE PEOPLE OVER THE PLAN. Somewhere overhead an alarm woke. A new announcement rang through Aurora: UNAUTHORIZED TOURISTS HAVE ENTERED A RESTRICTED ZONE. SECURITY RESPONSE AUTHORIZED.",
+        "zh": "兩人走進一條布滿活根的長廊。每條根鬚都運送著水滴，通往一座不見陽光卻生長著人工森林的大廳。中央機器高如塔樓，與那心跳聲同步閃動。「這是第二座花園，」諾亞低語，「而且一直被瞞著。」機器螢幕顯示瑪拉留下的另一句話：「當根系觸及星辰，選擇人民，不要選擇計畫。」頭頂某處警報響起。全船廣播宣布：「未授權的參觀者進入限制區，保全可立即採取行動。」",
+        "englishSha256": "77aaa76c571cd71017b3852baf050788f50c9f32f61f11c6255da1001a115b6a",
+        "chineseSha256": "dc8ecc17b51c7bf1ace05f1697caf4f76bf5da3d1b75da7a84fd17b91befd104"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 615,
+    "targets": [
+      {
+        "word": "avenue",
+        "meaning": "大道",
+        "appearsInSource": true
+      },
+      {
+        "word": "cradle",
+        "meaning": "搖籃",
+        "appearsInSource": true
+      },
+      {
+        "word": "decorate",
+        "meaning": "裝飾",
+        "appearsInSource": true
+      },
+      {
+        "word": "elevator",
+        "meaning": "電梯",
+        "appearsInSource": true
+      },
+      {
+        "word": "exhibition",
+        "meaning": "展覽",
+        "appearsInSource": true
+      },
+      {
+        "word": "firework",
+        "meaning": "煙火",
+        "appearsInSource": true
+      },
+      {
+        "word": "gallon",
+        "meaning": "加侖",
+        "appearsInSource": true
+      },
+      {
+        "word": "headquarters",
+        "meaning": "總部",
+        "appearsInSource": true
+      },
+      {
+        "word": "imagination",
+        "meaning": "想像力",
+        "appearsInSource": true
+      },
+      {
+        "word": "leopard",
+        "meaning": "豹",
+        "appearsInSource": true
+      },
+      {
+        "word": "magical",
+        "meaning": "像魔法般的",
+        "appearsInSource": true
+      },
+      {
+        "word": "odd",
+        "meaning": "奇怪的",
+        "appearsInSource": true
+      },
+      {
+        "word": "organic",
+        "meaning": "有機的",
+        "appearsInSource": true
+      },
+      {
+        "word": "ribbon",
+        "meaning": "緞帶",
+        "appearsInSource": true
+      },
+      {
+        "word": "spit",
+        "meaning": "噴出",
+        "appearsInSource": true
+      },
+      {
+        "word": "steep",
+        "meaning": "陡峭的",
+        "appearsInSource": true
+      },
+      {
+        "word": "survey",
+        "meaning": "問卷調查",
+        "appearsInSource": true
+      },
+      {
+        "word": "threat",
+        "meaning": "威脅",
+        "appearsInSource": true
+      },
+      {
+        "word": "tourists",
+        "meaning": "觀光客",
+        "appearsInSource": true
+      },
+      {
+        "word": "wiped",
+        "meaning": "擦去",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Museum That Remembered〉第 1 段的事件，哪個選項能正確補完整句？\nLena recognized ____: Mara was their mother, whom they had believed dead for thirteen years.",
+      "options": [
+        "the officer's description",
+        "the trail",
+        "the surname"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the surname",
+      "existingAnswerExplanation": "原文證據：Lena recognized the surname: Mara was their mother, whom they had believed dead for thirteen years.\n本段對照：錄音中的女人自稱瑪拉・維爾，是設計「極光號」花園的工程師。莉娜認出姓氏：瑪拉正是他們以為十三年前已死的母親。諾亞摸著藍色緞帶，想起母親以前總會用緞帶裝飾他們的小搖籃，替他們過生日。訊息要他們前往十二號甲板的「記憶展覽館」。那裡位於沉睡艙主要大道之後，一台古老電梯仍連結公共區域與禁止進入的總部。兩人在夜班開始前帶著金屬盒出發，把它藏在諾亞的外套裡。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The recorded woman said her name was Mara Vale, the engineer who had designed Aurora's gardens. Lena recognized the surname: Mara was their mother, whom they had believed dead for thirteen years. Noah ran a finger over the blue ribbon, remembering how their mother used to decorate their cradle with ribbons on birthdays. The message ordered them to visit the Memory Exhibition on Deck Twelve. There, beyond the main avenue of sleeping cabins, an ancient elevator still connected the public rooms with the forbidden headquarters. The twins left before the night shift began, carrying the box beneath Noah's coat.",
+          "chinese": "錄音中的女人自稱瑪拉・維爾，是設計「極光號」花園的工程師。莉娜認出姓氏：瑪拉正是他們以為十三年前已死的母親。諾亞摸著藍色緞帶，想起母親以前總會用緞帶裝飾他們的小搖籃，替他們過生日。訊息要他們前往十二號甲板的「記憶展覽館」。那裡位於沉睡艙主要大道之後，一台古老電梯仍連結公共區域與禁止進入的總部。兩人在夜班開始前帶著金屬盒出發，把它藏在諾亞的外套裡。",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 5,
+          "english": "A security drone entered, accusing the twins of damaging museum property. Lena showed it the blue ribbon. For a second its camera turned green, and Mara's voice came from its speaker: “The past is not a prison. Look beneath the exhibition.” The drone then returned to normal and announced that the museum would close in five minutes. The twins climbed into the old elevator and pressed the lowest button. Instead of going down one floor, it descended through the ship's outer shell into a secret level that did not exist on public maps. From far below came the steady thump of a giant heart.",
+          "chinese": "一架保全無人機進門，指控兩人破壞博物館財物。莉娜讓它看藍色緞帶。攝影鏡頭瞬間變綠，傳出瑪拉的聲音：「過去不是監獄。去展覽館下方看看。」接著無人機恢復正常，宣布博物館五分鐘後關閉。雙胞胎進入舊電梯，按下最底層的按鈕。電梯卻不只下降一層，而是穿過船體外殼，進入公共地圖沒有標示的祕密樓層。遙遠的下方傳來巨大的規律跳動聲，彷彿一顆心臟。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Museum That Remembered〉第 6 段的事件，哪個選項能正確補完整句？\nA new announcement rang through Aurora: UNAUTHORIZED TOURISTS HAVE ENTERED ____.",
+      "options": [
+        "a poster showing Mara",
+        "A RESTRICTED ZONE",
+        "a trail of relays"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "A RESTRICTED ZONE",
+      "existingAnswerExplanation": "原文證據：A new announcement rang through Aurora: UNAUTHORIZED TOURISTS HAVE ENTERED A RESTRICTED ZONE.\n本段對照：兩人走進一條布滿活根的長廊。每條根鬚都運送著水滴，通往一座不見陽光卻生長著人工森林的大廳。中央機器高如塔樓，與那心跳聲同步閃動。「這是第二座花園，」諾亞低語，「而且一直被瞞著。」機器螢幕顯示瑪拉留下的另一句話：「當根系觸及星辰，選擇人民，不要選擇計畫。」頭頂某處警報響起。全船廣播宣布：「未授權的參觀者進入限制區，保全可立即採取行動。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "They emerged into a corridor lined with living roots. Each root carried a drop of water toward a vast chamber, where an artificial forest grew without sunlight. In its center stood a machine as tall as a tower, pulsing in time with the thumps. “It's a second garden,” Noah whispered, “and it has been hidden from us.” The machine's display showed one more message from Mara: WHEN THE ROOTS TOUCH THE STARS, CHOOSE THE PEOPLE OVER THE PLAN. Somewhere overhead an alarm woke. A new announcement rang through Aurora: UNAUTHORIZED TOURISTS HAVE ENTERED A RESTRICTED ZONE. SECURITY RESPONSE AUTHORIZED.",
+          "chinese": "兩人走進一條布滿活根的長廊。每條根鬚都運送著水滴，通往一座不見陽光卻生長著人工森林的大廳。中央機器高如塔樓，與那心跳聲同步閃動。「這是第二座花園，」諾亞低語，「而且一直被瞞著。」機器螢幕顯示瑪拉留下的另一句話：「當根系觸及星辰，選擇人民，不要選擇計畫。」頭頂某處警報響起。全船廣播宣布：「未授權的參觀者進入限制區，保全可立即採取行動。」",
+          "matchedQueryTerms": 21
+        },
+        {
+          "paragraph": 5,
+          "english": "A security drone entered, accusing the twins of damaging museum property. Lena showed it the blue ribbon. For a second its camera turned green, and Mara's voice came from its speaker: “The past is not a prison. Look beneath the exhibition.” The drone then returned to normal and announced that the museum would close in five minutes. The twins climbed into the old elevator and pressed the lowest button. Instead of going down one floor, it descended through the ship's outer shell into a secret level that did not exist on public maps. From far below came the steady thump of a giant heart.",
+          "chinese": "一架保全無人機進門，指控兩人破壞博物館財物。莉娜讓它看藍色緞帶。攝影鏡頭瞬間變綠，傳出瑪拉的聲音：「過去不是監獄。去展覽館下方看看。」接著無人機恢復正常，宣布博物館五分鐘後關閉。雙胞胎進入舊電梯，按下最底層的按鈕。電梯卻不只下降一層，而是穿過船體外殼，進入公共地圖沒有標示的祕密樓層。遙遠的下方傳來巨大的規律跳動聲，彷彿一顆心臟。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

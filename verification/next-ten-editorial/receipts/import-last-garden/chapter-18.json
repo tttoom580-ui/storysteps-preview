@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 18,
+  "chapterId": "import-last-garden-18",
+  "sourceChapterSha256": "0b970fa25ac81df54a8be6b35c3c56ac114bcf339e121311ea6b20d589b670e9",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "陳妮雅博士借出小型種子艙，雙胞胎與米拉因能力及傷勢討論試航，重配電池修正失衡，莉娜擔任駕駛前往鏡面。",
+    "previousChapterEndingEnglish": "On the return journey, Moss gave Lena a small packet of seeds and asked her to plant them somewhere that would never be locked away from children. It also transmitted the Mirror's command schedule through the old relay chain. By the time they reached Aurora, Mara had organized workers to prepare for the signal. Lena told her mother about Adrian. Mara leaned against a wall, unable to speak. Her children had brought back proof that the person she loved might still be waiting. The hope was painful, but it gave their dangerous plan a new purpose: save the ship, then bring him home.",
+    "nextChapterOpeningEnglish": "Lena stayed awake as the seed craft entered the Mirror's outer tunnel. Its walls were lined with clay-colored panels and strange carvings made by the station's first carpenter. Mira studied the internal map while Lena steered around a broken golf training room and a closet filled with old protective suits. Somewhere in the vents a recorded flute played a melody from Earth. The sound made Mira homesick for a place she had never seen. “My father used to play that tune,” she said. They followed the notes until they reached a maintenance chamber where an owl-shaped robot watched them without moving."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "To enter the Mirror without attracting its security system, they needed a vehicle too small to appear on its standard radar. Emi suggested adapting a rescue wagon that had once transported medicine between clinics. Its original inventor was an elderly woman named Dr. Nia Chen, who lived beside a tiny indoor lawn on Deck Five. A shepherd robot followed her everywhere, guiding mechanical sheep across the grass. Nia welcomed the group in a loose robe and offered roasted almonds. When she heard their plan, she smiled at the challenge. “A probable way to fail,” she said, “is still more useful than waiting for certain disaster.”",
+        "zh": "要在不引起「鏡面」保全系統注意的情況下潛入，他們需要比標準雷達可辨識尺寸還小的載具。艾米提議改裝過去在診所間運送藥物的救援推車。原始發明者是年長的陳妮雅博士，住在五號甲板的一塊小室內草坪旁。牧羊機器人總跟著她，引導機械羊穿過草地。妮雅穿著寬鬆長袍迎客，端出烤杏仁。聽完計畫，她對挑戰露出笑容。「有可能失敗的方法，」她說，「仍比等待確定的災難有用。」",
+        "englishSha256": "8b3ad205a6dec4df002a7870caa9ef464828622aad5a8c84f0b92c626fb6b9de",
+        "chineseSha256": "7d14311ad9ff49adf8fd4d64cd9bf6c59d43b9dd70b5fb599e16078a8186eb8f"
+      },
+      {
+        "number": 2,
+        "en": "Nia opened an old storage tank and showed them a device shaped like a shining seed. It had been built to float through damaged pipes and inspect places humans could not reach. Its surface was covered with a thin, shiny strip of metal that confused ordinary scanners. A repair receipt confirmed that only two such devices had ever been manufactured. One had disappeared during Mara's investigation; the other was still in Nia's care. “You may borrow it,” she said, “but it was designed for one person no larger than a child.” Noah looked at Lena, already knowing she would volunteer. Nia described it as the most useful product of her long career, not because it earned money but because it could save lives.",
+        "zh": "妮雅打開舊儲槽，拿出一個閃亮種子形裝置。它原本設計來漂浮穿過損壞水管，檢查人類到不了的地方。表面覆有細薄發亮的金屬條，可干擾一般掃描器。維修收據證明這種裝置只造過兩台，其中一台在瑪拉調查期間失蹤，另一台仍由妮雅保管。「可以借你們，」她說，「但只容得下身材不大的單人。」諾亞看向莉娜，早知道她會主動請纓。妮雅說，那是她漫長生涯中最有用的產品，不是因為它賺錢，而是可能拯救生命。",
+        "englishSha256": "c6c26c047d9e646e9141b66d6edeb3348b0ab787c307f1063873ed947a5803d2",
+        "chineseSha256": "e41f705e9b01555c334f02afbd4debd450878cdb50704e241931dced38555925"
+      },
+      {
+        "number": 3,
+        "en": "Before Lena could speak, Mira stepped forward. She said her father's notes contained information about the Mirror's internal layout, and she might be better able to guide the craft. Lena objected that Mira was still recovering from her injury. Nia listened to both, then reminded them that good security required more than one decision maker. They should test the craft and choose its pilot based on ability, not guilt or emotion. She invited Emi to mend a damaged control wire while Noah checked the balance. The adults watched without interrupting, giving the young engineers time to solve the problem themselves.",
+        "zh": "莉娜還沒開口，米拉先站出來。她說父親的筆記有「鏡面」內部構造資訊，自己可能更適合導航。莉娜反對，因為米拉的傷還沒痊癒。妮雅聽完雙方說法，提醒良好安全決策不能只靠一個人。他們應測試載具，再依能力而非愧疚或情緒決定駕駛。她請艾米修復控制線、讓諾亞檢查平衡。大人們沒有插手，讓年輕工程師自行解決問題。",
+        "englishSha256": "6c9a22c122c2b6052045f77b05a48b5ecb9b11dec2f223e3a7ddac2b649c69c7",
+        "chineseSha256": "fc6e3b62c3282ef1bdb43c1be6c734aae891f684f4e68e1354edb85c0ba5659b"
+      },
+      {
+        "number": 4,
+        "en": "The test began inside an empty water tunnel. The seed craft slipped through a series of narrow openings, then suddenly rolled to one side. Lena caught the control lever before it struck the wall. The problem came from a heavier battery installed on the right. Nia changed the placement, and the next test went smoothly. A cluster of children had gathered behind the safety glass, attracted by the unusual machine. One young follower of Nia's lessons asked whether it was a toy. “No,” Nia replied, “but the best inventions often begin with the same question children ask: what if?”",
+        "zh": "測試在空水道裡開始。種子艇滑過一連串狹窄通口，卻突然向一側翻滾。莉娜在撞牆前抓住控制桿，發現右邊電池太重。妮雅重新安排位置，第二次測試就順利了。一群孩子被不尋常的機器吸引，聚集在安全玻璃後觀看。其中一位常上妮雅課程的小追隨者問那是不是玩具。「不是，」妮雅說，「但最好的發明常從孩子會問的同一句話開始：如果……會怎麼樣？」",
+        "englishSha256": "5853c861943aa63d8565e3368486098c008502e8bfa88b8816a66b4ec867af8d",
+        "chineseSha256": "79b10eade1e5c3603458c90305124240dde4703325c9b50d9b82857dd07b6d62"
+      },
+      {
+        "number": 5,
+        "en": "Mara arrived with the final data from the relay network. The Mirror would soon send a signal that could unite all of Aurora's navigation systems under one command, making independent escape impossible. They needed to enter the Mirror first and cut its transmission. Nia asked the group to be tender with the living passengers, who had spent most of their lives asleep and might wake frightened. “Your battle is not against the people who believed the wrong story,” she said. “It is against the system that prevented them from hearing another one.” Lena kept those words close while preparing for departure.",
+        "zh": "瑪拉帶來中繼網路最後的資料。「鏡面」很快會發送指令，讓「極光號」所有導航系統統一受控，獨立逃脫將不可能。他們必須先潛入，切斷傳輸。妮雅請大家溫柔對待沉睡乘客，他們一生多數時間都在睡眠，醒來恐怕十分害怕。「你們的戰鬥不是對抗相信錯誤故事的人，」她說，「而是對抗阻止他們聽見另一個故事的制度。」莉娜準備出發時，牢記這些話。",
+        "englishSha256": "3a7c5958acb9ab31ca080f147d408280e2d96aa237bf63ecd02260466299aad9",
+        "chineseSha256": "d1bbf20da51012d59dc3413322bc5b0ba059d1fa568aa37bcd12f1831af641e1"
+      },
+      {
+        "number": 6,
+        "en": "After reviewing the tests, the team chose Lena as pilot and Mira as navigation adviser. Noah would guide them remotely with Emi, while Kel handled the larger shuttle in reserve. Nia placed a small blue light inside the cockpit and gave Lena a final instruction: return, even if she could not finish every task. The seed craft launched through a maintenance hatch, smaller than any ship Lena had flown. Ahead, the Mirror's plates turned slowly around their dark center. Under its vast shadow the craft looked like a speck of dust, yet it carried years of hidden evidence and a family's hope.",
+        "zh": "檢視測試後，團隊決定由莉娜駕駛，米拉擔任導航顧問，諾亞與艾米遠端指揮，凱爾則駕駛較大接駁艇待命。妮雅在駕駛艙裝上一盞小藍燈，最後叮囑莉娜：無論能否完成所有任務，都要回來。種子艇從維修艙口發射，比莉娜駕駛過的任何船都小。前方「鏡面」金屬板緩緩圍著黑暗中心旋轉。它龐大的陰影下，小艇像一粒灰塵，卻載著多年隱藏的證據，以及一個家庭的希望。",
+        "englishSha256": "ff89fac917b5e9a3e243a4d8317190c75ee9e1af1c23716b7d181448478ac9c9",
+        "chineseSha256": "b2c6710616039c7aa5e0b2b0adb20ed533f3509ad1b3220be69bf76d6b930cad"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 630,
+    "targets": [
+      {
+        "word": "almonds",
+        "meaning": "杏仁",
+        "appearsInSource": true
+      },
+      {
+        "word": "attracting",
+        "meaning": "吸引",
+        "appearsInSource": true
+      },
+      {
+        "word": "clinics",
+        "meaning": "診所",
+        "appearsInSource": true
+      },
+      {
+        "word": "float",
+        "meaning": "漂浮",
+        "appearsInSource": true
+      },
+      {
+        "word": "follower",
+        "meaning": "追隨者",
+        "appearsInSource": true
+      },
+      {
+        "word": "inventor",
+        "meaning": "發明家",
+        "appearsInSource": true
+      },
+      {
+        "word": "lawn",
+        "meaning": "草坪",
+        "appearsInSource": true
+      },
+      {
+        "word": "mend",
+        "meaning": "修補",
+        "appearsInSource": true
+      },
+      {
+        "word": "probable",
+        "meaning": "可能的",
+        "appearsInSource": true
+      },
+      {
+        "word": "product",
+        "meaning": "產品",
+        "appearsInSource": true
+      },
+      {
+        "word": "receipt",
+        "meaning": "收據",
+        "appearsInSource": true
+      },
+      {
+        "word": "robe",
+        "meaning": "長袍",
+        "appearsInSource": true
+      },
+      {
+        "word": "security",
+        "meaning": "安全",
+        "appearsInSource": true
+      },
+      {
+        "word": "shepherd",
+        "meaning": "牧羊者",
+        "appearsInSource": true
+      },
+      {
+        "word": "shiny",
+        "meaning": "閃亮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "strip",
+        "meaning": "細條",
+        "appearsInSource": true
+      },
+      {
+        "word": "tank",
+        "meaning": "槽",
+        "appearsInSource": true
+      },
+      {
+        "word": "tender",
+        "meaning": "溫柔的",
+        "appearsInSource": true
+      },
+      {
+        "word": "unite",
+        "meaning": "團結",
+        "appearsInSource": true
+      },
+      {
+        "word": "wagon",
+        "meaning": "推車",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Inventor's Receipt〉第 1 段的事件，哪個選項能正確補完整句？\nTo enter the Mirror without attracting its security system, they needed ____ to appear on its standard radar.",
+      "options": [
+        "a signature",
+        "a vehicle too small",
+        "a wooden spoon"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a vehicle too small",
+      "existingAnswerExplanation": "原文證據：To enter the Mirror without attracting its security system, they needed a vehicle too small to appear on its standard radar.\n本段對照：要在不引起「鏡面」保全系統注意的情況下潛入，他們需要比標準雷達可辨識尺寸還小的載具。艾米提議改裝過去在診所間運送藥物的救援推車。原始發明者是年長的陳妮雅博士，住在五號甲板的一塊小室內草坪旁。牧羊機器人總跟著她，引導機械羊穿過草地。妮雅穿著寬鬆長袍迎客，端出烤杏仁。聽完計畫，她對挑戰露出笑容。「有可能失敗的方法，」她說，「仍比等待確定的災難有用。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "To enter the Mirror without attracting its security system, they needed a vehicle too small to appear on its standard radar. Emi suggested adapting a rescue wagon that had once transported medicine between clinics. Its original inventor was an elderly woman named Dr. Nia Chen, who lived beside a tiny indoor lawn on Deck Five. A shepherd robot followed her everywhere, guiding mechanical sheep across the grass. Nia welcomed the group in a loose robe and offered roasted almonds. When she heard their plan, she smiled at the challenge. “A probable way to fail,” she said, “is still more useful than waiting for certain disaster.”",
+          "chinese": "要在不引起「鏡面」保全系統注意的情況下潛入，他們需要比標準雷達可辨識尺寸還小的載具。艾米提議改裝過去在診所間運送藥物的救援推車。原始發明者是年長的陳妮雅博士，住在五號甲板的一塊小室內草坪旁。牧羊機器人總跟著她，引導機械羊穿過草地。妮雅穿著寬鬆長袍迎客，端出烤杏仁。聽完計畫，她對挑戰露出笑容。「有可能失敗的方法，」她說，「仍比等待確定的災難有用。」",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 5,
+          "english": "Mara arrived with the final data from the relay network. The Mirror would soon send a signal that could unite all of Aurora's navigation systems under one command, making independent escape impossible. They needed to enter the Mirror first and cut its transmission. Nia asked the group to be tender with the living passengers, who had spent most of their lives asleep and might wake frightened. “Your battle is not against the people who believed the wrong story,” she said. “It is against the system that prevented them from hearing another one.” Lena kept those words close while preparing for departure.",
+          "chinese": "瑪拉帶來中繼網路最後的資料。「鏡面」很快會發送指令，讓「極光號」所有導航系統統一受控，獨立逃脫將不可能。他們必須先潛入，切斷傳輸。妮雅請大家溫柔對待沉睡乘客，他們一生多數時間都在睡眠，醒來恐怕十分害怕。「你們的戰鬥不是對抗相信錯誤故事的人，」她說，「而是對抗阻止他們聽見另一個故事的制度。」莉娜準備出發時，牢記這些話。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Inventor's Receipt〉第 6 段的事件，哪個選項能正確補完整句？\nNia placed ____ inside the cockpit and gave Lena a final instruction: return, even if she could not finish every task.",
+      "options": [
+        "a small blue light",
+        "a simple message",
+        "a sequence of numbers"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a small blue light",
+      "existingAnswerExplanation": "原文證據：Nia placed a small blue light inside the cockpit and gave Lena a final instruction: return, even if she could not finish every task.\n本段對照：檢視測試後，團隊決定由莉娜駕駛，米拉擔任導航顧問，諾亞與艾米遠端指揮，凱爾則駕駛較大接駁艇待命。妮雅在駕駛艙裝上一盞小藍燈，最後叮囑莉娜：無論能否完成所有任務，都要回來。種子艇從維修艙口發射，比莉娜駕駛過的任何船都小。前方「鏡面」金屬板緩緩圍著黑暗中心旋轉。它龐大的陰影下，小艇像一粒灰塵，卻載著多年隱藏的證據，以及一個家庭的希望。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "After reviewing the tests, the team chose Lena as pilot and Mira as navigation adviser. Noah would guide them remotely with Emi, while Kel handled the larger shuttle in reserve. Nia placed a small blue light inside the cockpit and gave Lena a final instruction: return, even if she could not finish every task. The seed craft launched through a maintenance hatch, smaller than any ship Lena had flown. Ahead, the Mirror's plates turned slowly around their dark center. Under its vast shadow the craft looked like a speck of dust, yet it carried years of hidden evidence and a family's hope.",
+          "chinese": "檢視測試後，團隊決定由莉娜駕駛，米拉擔任導航顧問，諾亞與艾米遠端指揮，凱爾則駕駛較大接駁艇待命。妮雅在駕駛艙裝上一盞小藍燈，最後叮囑莉娜：無論能否完成所有任務，都要回來。種子艇從維修艙口發射，比莉娜駕駛過的任何船都小。前方「鏡面」金屬板緩緩圍著黑暗中心旋轉。它龐大的陰影下，小艇像一粒灰塵，卻載著多年隱藏的證據，以及一個家庭的希望。",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 2,
+          "english": "Nia opened an old storage tank and showed them a device shaped like a shining seed. It had been built to float through damaged pipes and inspect places humans could not reach. Its surface was covered with a thin, shiny strip of metal that confused ordinary scanners. A repair receipt confirmed that only two such devices had ever been manufactured. One had disappeared during Mara's investigation; the other was still in Nia's care. “You may borrow it,” she said, “but it was designed for one person no larger than a child.” Noah looked at Lena, already knowing she would volunteer. Nia described it as the most useful product of her long career, not because it earned money but because it could save lives.",
+          "chinese": "妮雅打開舊儲槽，拿出一個閃亮種子形裝置。它原本設計來漂浮穿過損壞水管，檢查人類到不了的地方。表面覆有細薄發亮的金屬條，可干擾一般掃描器。維修收據證明這種裝置只造過兩台，其中一台在瑪拉調查期間失蹤，另一台仍由妮雅保管。「可以借你們，」她說，「但只容得下身材不大的單人。」諾亞看向莉娜，早知道她會主動請纓。妮雅說，那是她漫長生涯中最有用的產品，不是因為它賺錢，而是可能拯救生命。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

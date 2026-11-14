@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 10,
+  "chapterId": "import-last-garden-10",
+  "sourceChapterSha256": "a43257d29d6c4481cdaf086a78d15796dd02c5c368ba49be7941c8b1a05bae12",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "太空宮殿的第二接收器被清潔員藏起，目的是保護而非牟利；獨立星圖證實極光號正被導向無安全星球的空域，數據經中繼網返送。",
+    "previousChapterEndingEnglish": "They reached the shuttle, but its door refused to close. A strip of ice had formed around the hinge. Noah scraped it away with a metal tool while Lena held the emergency switch. At last the hatch sealed and the engines lifted them into the black sky. From above, the observatory looked like a small candle on a dark stone. Mira replayed Mara's warning and found a hidden sentence beneath the noise: THE MIRROR IS A LIE WITH A MACHINE FOR A FACE. The message did not say who had built it. Far ahead, its enormous plates turned toward their fleeing shuttle as if the structure had noticed them.",
+    "nextChapterOpeningEnglish": "They entered Aurora through a forgotten supply hatch and reached a district where mechanics worked without rest. A warm breeze carried the smell of pepper and fresh bread from a tiny bakery. A slender worker named Tomas stood on a platform, trying to speak to a crowd about missing food supplies. His sleeve was torn, and a bloody mark stained his wrist. He said several workers had been arrested for asking for more credit to repair their machines. The government called them criminals, although their only demand was safe equipment. When Tomas noticed the children watching, he stepped down and asked why security had placed their faces on every public screen."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The Mirror sent a narrow beam toward their shuttle, and the navigation system began repeating the same false destination. Kel steered into a shadowed bay beside an abandoned space palace, once used for celebrations honoring the first explorers. The building's historic entrance displayed portraits of famous champions, scholars, and inventors. They entered through a service tunnel while the ship's receiver continued to echo an incorrect command: RETURN TO HAVEN. Noah had designed a creative way to block the beam, but he needed a device from the old palace to make it work. Lena watched their oxygen level decrease and wondered how long they could remain hidden. A tiny air leak near the engine added urgency to their search for spare parts.",
+        "zh": "「鏡面」射出窄光束，接駁艇導航開始不斷重複錯誤目的地。凱爾把船駛入一座廢棄太空宮殿旁的陰暗海灣，宮殿過去用來慶祝第一批探險家。歷史悠久的入口掛著冠軍、學者與發明家的肖像。他們從維修隧道進入，船上的接收器仍回響錯誤指令：「返回港灣星」。諾亞想出富創意的阻擋光束方法，但需要宮殿裡的裝置才能實行。莉娜看著氧氣量下降，不知還能藏多久。引擎旁細小的漏氣問題使尋找備用零件更顯迫切。",
+        "englishSha256": "646e9e548121d1c07c7d725911a23969355867a43ebedf02beffdd260ebd5a26",
+        "chineseSha256": "7402d9e3e27dfe91d09a3aab62b31d44757d7c0670c12a604f723c0baced3b1d"
+      },
+      {
+        "number": 2,
+        "en": "The palace's central hall looked normal until they saw the floor: every tile carried a different message about the mission. One promised comfort; another described sacrifice; a third offered a scholarship to the brightest child born in space. Mira called it a museum of promises. Near the stage, a metal holder contained a letter signed by an old banker who had funded the voyage. The letter said that the first captain had been paid one penny for a ceremonial journey, while the true organizers controlled a fortune in supplies and equipment. “They sold a dream,” Mira said, “and then kept the tools needed to question it.”",
+        "zh": "宮殿中央大廳起初看似正常，直到他們注意到地板：每塊磁磚都有不同的任務宣言，有的承諾舒適，有的談論犧牲，還有一塊宣稱要替在太空出生的最聰明孩子提供獎學金。米拉稱它為「承諾博物館」。舞台旁一個金屬支架裡有封信，由資助航程的老銀行家簽名。信上說，第一任艦長只為象徵性的旅程領取一便士，真正的主辦者卻掌控價值連城的補給與設備。「他們賣的是夢，」米拉說，「然後自己保留了質疑夢所需的工具。」",
+        "englishSha256": "839e67647cc7963a7100c71e4fd7c8a47c1ffbef7053f6529ed44aa66565e032",
+        "chineseSha256": "a3333356b0fcd07f1eeef6637fccaed7fe002066cca2a6dcaa1a6f9294a35ccf"
+      },
+      {
+        "number": 3,
+        "en": "Kel discovered that a security mob had already entered the lower level, searching for a receiver stolen from the palace laboratory. Noah found the lab behind a pair of locked doors. Its chief scientist had left a note explaining that the Mirror could steal any navigation signal unless it was compared against independent observations. A simple device could protect the shuttle: a second receiver listening to a different star. Unfortunately, the device itself was missing. Mira noticed scratches around a cabinet and a broken zipper caught in the metal. Whoever had taken it had torn a jacket while escaping.",
+        "zh": "凱爾發現一群保全人員已進入下層，正在搜尋從宮殿實驗室被偷走的接收器。諾亞在雙重上鎖的門後找到實驗室。首席科學家留下紙條說明：「鏡面」能竊取任何導航訊號，除非拿獨立觀測資料比對。只要有第二台接收不同恆星訊號的接收器，就能保護接駁艇。可惜裝置不見了。米拉注意到櫃子周圍的刮痕，還有卡在金屬邊緣的斷裂拉鍊。偷走裝置的人顯然在逃跑時扯壞了外套。",
+        "englishSha256": "74c4cad8534dc396f45029699f4c5ecdcc6e562a5505529fe3c5c71d353fe0cc",
+        "chineseSha256": "a09e82218d070981180992a23cd3a8b2692de3e6aff5c35b9fccfb21925e27e9"
+      },
+      {
+        "number": 4,
+        "en": "Lena followed the trail to a small kitchen where a fearful cleaner hid beneath a table. He admitted taking the receiver because he believed the governor would punish anyone who allowed the children to use it. “I did not steal it for money,” he said. “I thought I could keep it safe.” Noah asked why he had not destroyed it. The cleaner pulled a cloth bundle from the stove. He had read Mara's messages too, and he wanted her work to survive. Lena thanked him and promised that his name would not appear in their public evidence without his permission.",
+        "zh": "莉娜循著痕跡走到小廚房，發現一名害怕的清潔員躲在桌下。他承認拿走接收器，因為相信總督會處罰任何讓孩子使用它的人。「我不是為了錢而偷，」他說，「只是想保管起來。」諾亞問他為何沒有毀掉。清潔員從爐子裡取出布包。他也讀過瑪拉的訊息，希望她的工作能存續。莉娜感謝他，承諾未經同意不會在公開證據中提及他的名字。",
+        "englishSha256": "27ba0827643924f85e7c4a159eea8d8484a20357d704f9f45a14811cc3d6525c",
+        "chineseSha256": "3d2813ecba676f6befe74b2d52631089bee47bcaa9e32f3fdc3d906e28001237"
+      },
+      {
+        "number": 5,
+        "en": "When they reached the shuttle, Kel reported that the patrol had postponed its attack, perhaps waiting for reinforcements. Noah connected the recovered receiver and adjusted the signal. For the first time since leaving the observatory, a true star chart appeared. The real Haven lay far from the route shown by the Mirror. More alarming, the structure had redirected Aurora toward an unmarked region of space with no safe planet at all. Lena studied the lines in silence. Their mission was no longer simply to save passengers from a dangerous world. Somebody was trying to make sure the passengers never reached any world.",
+        "zh": "回到接駁艇時，凱爾說巡邏隊已延後攻擊，可能在等援軍。諾亞接好找回的接收器，調整訊號。自離開觀測站以來，真正的星圖首次出現。真實的港灣星遠離「鏡面」所顯示的航線。更驚人的是，那個結構已將「極光號」導向沒有安全行星的未知空域。莉娜沉默地研究線條。他們的任務不再只是拯救乘客免受危險世界傷害，而是有人正試圖確保乘客永遠抵達不了任何世界。",
+        "englishSha256": "13caaf55fca9e75a40cb61cd0b59ca57426e4d0629552daa75878bd454284182",
+        "chineseSha256": "176212f95e243742aba679843810fa49d83f0c88d396abd91d19de8b7531f550"
+      },
+      {
+        "number": 6,
+        "en": "Mira wanted to return immediately, but Noah argued that they needed more evidence before confronting the governor. Kel suggested seeking the first captain's surviving crew, whose names were stored in a protected registry. Lena looked at the distant silver shape of Aurora and imagined hundreds of sleeping people moving toward an invisible trap. “We go back,” she decided, “but not empty-handed.” They recorded the true star chart and sent it through Mara's relay network. Each station repeated the evidence, building a chain of signals toward the ship. Then they set course for the old workers' district, where someone still remembered the first captain's orders.",
+        "zh": "米拉想立刻返回，諾亞卻認為對抗總督前還需要更多證據。凱爾建議尋找第一任艦長尚存的船員，他們的名字保存在受保護名冊裡。莉娜望著遙遠的銀色「極光號」，想像數百名沉睡者正朝無形陷阱前進。「我們回去，」她決定，「但不能空手。」他們錄下真實星圖，透過瑪拉的中繼網路傳送。每個站點都接力重播證據，形成通向主船的訊號鏈。接著，他們飛向老工人區，那裡仍有人記得第一任艦長的命令。",
+        "englishSha256": "d0c3f861d2a6ff5b21a361b2e9a86ca3d24d4011ad87d577edbd7c53da4c9387",
+        "chineseSha256": "687f58eac9dc4e29400a21363e1869fde83e76dd16ca9716b0b6d6dd02c2b178"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 632,
+    "targets": [
+      {
+        "word": "banker",
+        "meaning": "銀行家",
+        "appearsInSource": true
+      },
+      {
+        "word": "bay",
+        "meaning": "海灣",
+        "appearsInSource": true
+      },
+      {
+        "word": "beam",
+        "meaning": "光束",
+        "appearsInSource": true
+      },
+      {
+        "word": "champions",
+        "meaning": "冠軍",
+        "appearsInSource": true
+      },
+      {
+        "word": "creative",
+        "meaning": "富創意的",
+        "appearsInSource": true
+      },
+      {
+        "word": "decrease",
+        "meaning": "下降",
+        "appearsInSource": true
+      },
+      {
+        "word": "echo",
+        "meaning": "回響",
+        "appearsInSource": true
+      },
+      {
+        "word": "fearful",
+        "meaning": "害怕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "historic",
+        "meaning": "歷史性的",
+        "appearsInSource": true
+      },
+      {
+        "word": "holder",
+        "meaning": "支架",
+        "appearsInSource": true
+      },
+      {
+        "word": "leak",
+        "meaning": "漏氣",
+        "appearsInSource": true
+      },
+      {
+        "word": "mob",
+        "meaning": "群眾",
+        "appearsInSource": true
+      },
+      {
+        "word": "normal",
+        "meaning": "正常的",
+        "appearsInSource": true
+      },
+      {
+        "word": "palace",
+        "meaning": "宮殿",
+        "appearsInSource": true
+      },
+      {
+        "word": "penny",
+        "meaning": "一便士",
+        "appearsInSource": true
+      },
+      {
+        "word": "postponed",
+        "meaning": "延後",
+        "appearsInSource": true
+      },
+      {
+        "word": "receiver",
+        "meaning": "接收器",
+        "appearsInSource": true
+      },
+      {
+        "word": "scholarship",
+        "meaning": "獎學金",
+        "appearsInSource": true
+      },
+      {
+        "word": "steal",
+        "meaning": "偷走",
+        "appearsInSource": true
+      },
+      {
+        "word": "zipper",
+        "meaning": "拉鍊",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Stolen Receiver〉第 1 段的事件，哪個選項能正確補完整句？\nThe Mirror sent ____, and the navigation system began repeating the same false destination.",
+      "options": [
+        "a sealed compartment marked PROTECTION PROJECT",
+        "A RESTRICTED ZONE",
+        "a narrow beam toward their shuttle"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a narrow beam toward their shuttle",
+      "existingAnswerExplanation": "原文證據：The Mirror sent a narrow beam toward their shuttle, and the navigation system began repeating the same false destination.\n本段對照：「鏡面」射出窄光束，接駁艇導航開始不斷重複錯誤目的地。凱爾把船駛入一座廢棄太空宮殿旁的陰暗海灣，宮殿過去用來慶祝第一批探險家。歷史悠久的入口掛著冠軍、學者與發明家的肖像。他們從維修隧道進入，船上的接收器仍回響錯誤指令：「返回港灣星」。諾亞想出富創意的阻擋光束方法，但需要宮殿裡的裝置才能實行。莉娜看著氧氣量下降，不知還能藏多久。引擎旁細小的漏氣問題使尋找備用零件更顯迫切。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The Mirror sent a narrow beam toward their shuttle, and the navigation system began repeating the same false destination. Kel steered into a shadowed bay beside an abandoned space palace, once used for celebrations honoring the first explorers. The building's historic entrance displayed portraits of famous champions, scholars, and inventors. They entered through a service tunnel while the ship's receiver continued to echo an incorrect command: RETURN TO HAVEN. Noah had designed a creative way to block the beam, but he needed a device from the old palace to make it work. Lena watched their oxygen level decrease and wondered how long they could remain hidden. A tiny air leak near the engine added urgency to their search for spare parts.",
+          "chinese": "「鏡面」射出窄光束，接駁艇導航開始不斷重複錯誤目的地。凱爾把船駛入一座廢棄太空宮殿旁的陰暗海灣，宮殿過去用來慶祝第一批探險家。歷史悠久的入口掛著冠軍、學者與發明家的肖像。他們從維修隧道進入，船上的接收器仍回響錯誤指令：「返回港灣星」。諾亞想出富創意的阻擋光束方法，但需要宮殿裡的裝置才能實行。莉娜看著氧氣量下降，不知還能藏多久。引擎旁細小的漏氣問題使尋找備用零件更顯迫切。",
+          "matchedQueryTerms": 24
+        },
+        {
+          "paragraph": 3,
+          "english": "Kel discovered that a security mob had already entered the lower level, searching for a receiver stolen from the palace laboratory. Noah found the lab behind a pair of locked doors. Its chief scientist had left a note explaining that the Mirror could steal any navigation signal unless it was compared against independent observations. A simple device could protect the shuttle: a second receiver listening to a different star. Unfortunately, the device itself was missing. Mira noticed scratches around a cabinet and a broken zipper caught in the metal. Whoever had taken it had torn a jacket while escaping.",
+          "chinese": "凱爾發現一群保全人員已進入下層，正在搜尋從宮殿實驗室被偷走的接收器。諾亞在雙重上鎖的門後找到實驗室。首席科學家留下紙條說明：「鏡面」能竊取任何導航訊號，除非拿獨立觀測資料比對。只要有第二台接收不同恆星訊號的接收器，就能保護接駁艇。可惜裝置不見了。米拉注意到櫃子周圍的刮痕，還有卡在金屬邊緣的斷裂拉鍊。偷走裝置的人顯然在逃跑時扯壞了外套。",
+          "matchedQueryTerms": 11
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Stolen Receiver〉第 6 段的事件，哪個選項能正確補完整句？\nThen they set course for the old workers' district, where someone still remembered ____.",
+      "options": [
+        "the first captain's orders",
+        "the crisis",
+        "the test results"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the first captain's orders",
+      "existingAnswerExplanation": "原文證據：Then they set course for the old workers' district, where someone still remembered the first captain's orders.\n本段對照：米拉想立刻返回，諾亞卻認為對抗總督前還需要更多證據。凱爾建議尋找第一任艦長尚存的船員，他們的名字保存在受保護名冊裡。莉娜望著遙遠的銀色「極光號」，想像數百名沉睡者正朝無形陷阱前進。「我們回去，」她決定，「但不能空手。」他們錄下真實星圖，透過瑪拉的中繼網路傳送。每個站點都接力重播證據，形成通向主船的訊號鏈。接著，他們飛向老工人區，那裡仍有人記得第一任艦長的命令。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Mira wanted to return immediately, but Noah argued that they needed more evidence before confronting the governor. Kel suggested seeking the first captain's surviving crew, whose names were stored in a protected registry. Lena looked at the distant silver shape of Aurora and imagined hundreds of sleeping people moving toward an invisible trap. “We go back,” she decided, “but not empty-handed.” They recorded the true star chart and sent it through Mara's relay network. Each station repeated the evidence, building a chain of signals toward the ship. Then they set course for the old workers' district, where someone still remembered the first captain's orders.",
+          "chinese": "米拉想立刻返回，諾亞卻認為對抗總督前還需要更多證據。凱爾建議尋找第一任艦長尚存的船員，他們的名字保存在受保護名冊裡。莉娜望著遙遠的銀色「極光號」，想像數百名沉睡者正朝無形陷阱前進。「我們回去，」她決定，「但不能空手。」他們錄下真實星圖，透過瑪拉的中繼網路傳送。每個站點都接力重播證據，形成通向主船的訊號鏈。接著，他們飛向老工人區，那裡仍有人記得第一任艦長的命令。",
+          "matchedQueryTerms": 21
+        },
+        {
+          "paragraph": 1,
+          "english": "The Mirror sent a narrow beam toward their shuttle, and the navigation system began repeating the same false destination. Kel steered into a shadowed bay beside an abandoned space palace, once used for celebrations honoring the first explorers. The building's historic entrance displayed portraits of famous champions, scholars, and inventors. They entered through a service tunnel while the ship's receiver continued to echo an incorrect command: RETURN TO HAVEN. Noah had designed a creative way to block the beam, but he needed a device from the old palace to make it work. Lena watched their oxygen level decrease and wondered how long they could remain hidden. A tiny air leak near the engine added urgency to their search for spare parts.",
+          "chinese": "「鏡面」射出窄光束，接駁艇導航開始不斷重複錯誤目的地。凱爾把船駛入一座廢棄太空宮殿旁的陰暗海灣，宮殿過去用來慶祝第一批探險家。歷史悠久的入口掛著冠軍、學者與發明家的肖像。他們從維修隧道進入，船上的接收器仍回響錯誤指令：「返回港灣星」。諾亞想出富創意的阻擋光束方法，但需要宮殿裡的裝置才能實行。莉娜看著氧氣量下降，不知還能藏多久。引擎旁細小的漏氣問題使尋找備用零件更顯迫切。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

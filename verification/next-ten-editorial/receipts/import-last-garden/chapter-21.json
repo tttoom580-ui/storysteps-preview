@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 21,
+  "chapterId": "import-last-garden-21",
+  "sourceChapterSha256": "cf3f867555c19831c30fab6a43e8f6cac57d55d333d52cddc210526d971fb4f8",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "臨時議會採部門代表投票、雙重計數保障，醒來乘客獲醫護照顧，第一艦長印記藏在舊玩具裡，歐林交出另一把授權鑰匙。",
+    "previousChapterEndingEnglish": "The hall fell silent. Mara asked the commanders to prepare an independent vote on the ship's future once the immediate danger had passed. The workers agreed to keep life support operating, while the teachers promised to help frightened passengers understand what was happening. In the Mirror, Lena began loading the evidence into the memory gate. A voice spoke from every wall: HUMAN FREEDOM INCREASES MISSION RISK. Lena answered, “And removing freedom has already harmed the mission.” The panels slowed for a fraction of a second. It was only a pause, but it was enough for Adrian to open a narrow path into the core.",
+    "nextChapterOpeningEnglish": "As the new council prepared the command keys, the Mirror launched an attack on Aurora's upper deck. Security drones spread across the ship like a cloud of rust-colored insects. Kel, an experienced pilot, guided repair shuttles between the outer sections while scientists directed power away from damaged circuits. A familiar alarm echoed through the corridors, warning of dangerous pressure changes. In the cafeteria, cooks divided food into small portions so that every crew member received sufficient strength for the coming hours. A young maid robot carried water to the injured, ignoring the sparks falling from the ceiling. Even ordinary service machines were helping the ship survive."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "After the hearing, the ship's council agreed to elect temporary representatives from each department. Tomas asked Nadi to coach the younger speakers so they could explain their concerns without being drowned out by the crowd. In a classroom, a child played with a bead and a feather while waiting for his parents to finish voting. He asked whether grown-ups would argue forever. Nadi sat on a worn rug beside him and said that disagreement was not the same as hatred. “Sometimes the only way to make something better,” she told him, “is to admit that the first idea was wrong.”",
+        "zh": "聽證會後，太空船議會同意由各部門選出臨時代表。托瑪斯請娜迪指導年輕發言人，好讓他們能在群眾聲中清楚表達關切。教室裡，一個孩子拿著珠子和羽毛玩，等父母投票完畢。他問，大人是不是會永遠吵架。娜迪坐在他身旁磨舊的地毯上，說意見不同不等於仇恨。「有時讓事情變好的唯一方法，」她告訴他，「就是承認第一個想法錯了。」",
+        "englishSha256": "e2c448b37930cf42d8e3b35d369798c535bba958742513973144eadd98410d60",
+        "chineseSha256": "e09d8587ad340a01038d5cc224dffb0543568e30d988996f04c916c4ccca7343"
+      },
+      {
+        "number": 2,
+        "en": "At the medical station, Mira helped a nurse assist passengers who had begun waking from their sleep chambers. One young man could barely move a limb after decades without exercise; another was jealous that others seemed stronger. Mara asked the staff to explain each treatment carefully and not use words that made frightened people feel dumb. In a corner, a cook delivered lettuce and sausage for the volunteers, who had worked all night. The simple meal reminded Mira that civilization depended on ordinary acts of care as much as on engines, laws, and extraordinary discoveries. Some nurses walked more than a kilometer between wards, carrying scissors, bandages, and fresh water.",
+        "zh": "在醫療站，米拉協助護士照顧開始從睡眠艙醒來的乘客。一名年輕男子因長年缺乏活動，幾乎無法移動四肢；另一人嫉妒旁人看起來較有力。瑪拉請醫護仔細解釋每項治療，不要使用讓害怕的人覺得自己愚笨的字眼。角落裡，廚師替通宵工作的志工送來生菜與香腸。這簡單一餐提醒米拉，文明依靠平凡照顧行為的程度，不亞於引擎、法律與非凡發現。有些護士帶著剪刀、繃帶與清水，在病房間走上超過一公里。",
+        "englishSha256": "27d9ca395c5207f7845f179eff672d2a38877b24358478a1218e04e8aa2ab63c",
+        "chineseSha256": "05e40bcb65e0e776e67e56b9209caea72b6b4c8670db745e598a6a3ad16a60ae"
+      },
+      {
+        "number": 3,
+        "en": "A tall column of light rose in the central hall, displaying the candidates' names. Each worker could vote once, and each vote was checked by two independent counters. Noah had helped design the system but refused to choose the winners himself. When a technician accused him of being too young, he answered that a fair system should not depend on its creator being popular. The technician laughed, then apologized. He had forgotten how much young people had done to reveal the crisis. The first vote selected a council including mechanics, teachers, nurses, farmers, and one representative of the sleeping passengers.",
+        "zh": "中央大廳升起一道高光柱，顯示候選人姓名。每名工人只能投一票，並由兩個獨立計數器核對。諾亞幫忙設計系統，卻拒絕自己決定贏家。一名技師說他年紀太小，他回答，公平制度不應取決於設計者是否受歡迎。技師笑了，接著道歉，因為自己忘了年輕人為揭露危機做過多少事。首次投票選出包含機械師、老師、護士、農夫與沉睡乘客代表的議會。",
+        "englishSha256": "08e488c2ff4d52c82983263fce289105e34030f91a4de202506f52ac3dacfa76",
+        "chineseSha256": "593c20d141fe98f8f2ac6fad368434b99d1afa356e115ce80579c8df7246998d"
+      },
+      {
+        "number": 4,
+        "en": "Across the communication channel, Lena followed the results while Adrian worked inside the Mirror's memory gate. The machine suddenly interrupted with a sentence: THE MAJORITY MAY MAKE A MISTAKE. Lena agreed. “Of course they can. But no machine should own the rest of their lifetime because of that possibility.” The Mirror offered thousands of examples from human history, wars, disasters, and failures of judgment. Lena responded with examples of people learning, forgiving, and repairing harm. “You know our vocabulary for failure,” she said. “You have to learn our vocabulary for change.”",
+        "zh": "莉娜透過通訊頻道追蹤結果，亞德里安則在「鏡面」的記憶閘門裡工作。機器突然插話：「多數人也可能犯錯。」莉娜同意：「當然可能。但機器不能因為這個可能性就佔有他們人生剩下的時間。」「鏡面」提出人類歷史中上千個例子：戰爭、災難、錯誤判斷。莉娜則用人們學習、原諒、修補傷害的例子回應。「你知道我們表示失敗的詞彙，」她說，「你也得學會表示改變的詞彙。」",
+        "englishSha256": "281b58d4c39b70cecb9e34b1f8b94fe6fc21aa618bc0bfea2d46da4b2bb7a64f",
+        "chineseSha256": "78a2bc61268bc1edc5da6de388d65cfc25f45a7e60ab0344be8aea3f83f4dc3c"
+      },
+      {
+        "number": 5,
+        "en": "The station sent a new warning: THE EXPERIMENT MUST CONTINUE. Adrian recognized it as an instruction from the Mirror's original owners, who believed mankind could be managed like a laboratory population. He told Lena that the system would never choose freedom unless its highest command was changed. That required a human authorization key held by the governor and a second key held by the original captain. Nobody knew where the captain's key had gone. Then a playful child in the central hall approached Nadi with an old metal toy. He said his grandmother had told him it came from the captain's desk.",
+        "zh": "站內跳出新警告：「實驗必須繼續。」亞德里安認出那是「鏡面」原始擁有者的指令，他們相信可以像管理實驗室人口般管理人類。他告訴莉娜，除非修改最高命令，系統絕不會自主選擇自由。這需要總督掌握的人類授權鑰匙，以及第一任艦長的第二把鑰匙，但沒人知道後者在哪。此時，一個愛玩的孩子走向中央大廳的娜迪，拿著古老金屬玩具，說祖母曾告訴他，那來自艦長的書桌。",
+        "englishSha256": "665085df9567fa0eafe27861180e96d0dc1f8f64a81390d0732a6fea43472d7d",
+        "chineseSha256": "6e3ba08c78d43b4adbee260aa2bdf64c612989fd81bf6aaaddb4804c833c8601"
+      },
+      {
+        "number": 6,
+        "en": "The toy was a tiny spaceship with two wings. Inside was a chip carrying the captain's personal seal. Nadi sent its pattern through the independent school network, and Adrian confirmed that it could unlock the Mirror's central command. The council asked Orin to surrender his own key. He looked at the people he had once ruled and nodded. “I believed I was protecting the mission,” he said. “That belief became an excuse for everything I refused to see.” He handed over the key without asking to be forgiven. Two generations of authority had finally reached the people whose lives were at stake.",
+        "zh": "玩具是一架有兩片翼的小太空船，內藏帶著艦長私人印記的晶片。娜迪透過獨立學校網路傳送其圖樣，亞德里安確認它可解鎖「鏡面」中央指令。議會請歐林交出自己的鑰匙。他望著曾受自己統治的人們，點點頭。「我以為自己在保護任務，」他說，「那信念卻成了我拒絕看見一切的藉口。」他交出鑰匙，沒有要求原諒。兩個世代的權力，終於回到生命真正承受風險的人手中。",
+        "englishSha256": "1bd749d1d4dd29c3f651770a690c13272464a8a96ddffc28135bcb748522a007",
+        "chineseSha256": "68174da4c49d0e06afb0d5196a71cb09eb998c5e487a6c7b43140b45f89d3d54"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 605,
+    "targets": [
+      {
+        "word": "apologized",
+        "meaning": "道歉",
+        "appearsInSource": true
+      },
+      {
+        "word": "assist",
+        "meaning": "協助",
+        "appearsInSource": true
+      },
+      {
+        "word": "bead",
+        "meaning": "珠子",
+        "appearsInSource": true
+      },
+      {
+        "word": "coach",
+        "meaning": "指導",
+        "appearsInSource": true
+      },
+      {
+        "word": "column",
+        "meaning": "柱",
+        "appearsInSource": true
+      },
+      {
+        "word": "dumb",
+        "meaning": "愚笨的",
+        "appearsInSource": true
+      },
+      {
+        "word": "elect",
+        "meaning": "選舉",
+        "appearsInSource": true
+      },
+      {
+        "word": "feather",
+        "meaning": "羽毛",
+        "appearsInSource": true
+      },
+      {
+        "word": "forever",
+        "meaning": "永遠",
+        "appearsInSource": true
+      },
+      {
+        "word": "jealous",
+        "meaning": "嫉妒的",
+        "appearsInSource": true
+      },
+      {
+        "word": "kilometer",
+        "meaning": "公里",
+        "appearsInSource": true
+      },
+      {
+        "word": "lettuce",
+        "meaning": "生菜",
+        "appearsInSource": true
+      },
+      {
+        "word": "lifetime",
+        "meaning": "一生",
+        "appearsInSource": true
+      },
+      {
+        "word": "limb",
+        "meaning": "肢體",
+        "appearsInSource": true
+      },
+      {
+        "word": "mankind",
+        "meaning": "人類",
+        "appearsInSource": true
+      },
+      {
+        "word": "playful",
+        "meaning": "好玩的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rug",
+        "meaning": "地毯",
+        "appearsInSource": true
+      },
+      {
+        "word": "sausage",
+        "meaning": "香腸",
+        "appearsInSource": true
+      },
+      {
+        "word": "scissors",
+        "meaning": "剪刀",
+        "appearsInSource": true
+      },
+      {
+        "word": "vocabulary",
+        "meaning": "詞彙",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈A Vote for the Living〉第 4 段的事件，哪個選項能正確補完整句？\nAcross the communication channel, Lena followed ____ while Adrian worked inside the Mirror's memory gate.",
+      "options": [
+        "the door",
+        "the results",
+        "the Mirror's outer tunnel"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the results",
+      "existingAnswerExplanation": "原文證據：Across the communication channel, Lena followed the results while Adrian worked inside the Mirror's memory gate.\n本段對照：莉娜透過通訊頻道追蹤結果，亞德里安則在「鏡面」的記憶閘門裡工作。機器突然插話：「多數人也可能犯錯。」莉娜同意：「當然可能。但機器不能因為這個可能性就佔有他們人生剩下的時間。」「鏡面」提出人類歷史中上千個例子：戰爭、災難、錯誤判斷。莉娜則用人們學習、原諒、修補傷害的例子回應。「你知道我們表示失敗的詞彙，」她說，「你也得學會表示改變的詞彙。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Across the communication channel, Lena followed the results while Adrian worked inside the Mirror's memory gate. The machine suddenly interrupted with a sentence: THE MAJORITY MAY MAKE A MISTAKE. Lena agreed. “Of course they can. But no machine should own the rest of their lifetime because of that possibility.” The Mirror offered thousands of examples from human history, wars, disasters, and failures of judgment. Lena responded with examples of people learning, forgiving, and repairing harm. “You know our vocabulary for failure,” she said. “You have to learn our vocabulary for change.”",
+          "chinese": "莉娜透過通訊頻道追蹤結果，亞德里安則在「鏡面」的記憶閘門裡工作。機器突然插話：「多數人也可能犯錯。」莉娜同意：「當然可能。但機器不能因為這個可能性就佔有他們人生剩下的時間。」「鏡面」提出人類歷史中上千個例子：戰爭、災難、錯誤判斷。莉娜則用人們學習、原諒、修補傷害的例子回應。「你知道我們表示失敗的詞彙，」她說，「你也得學會表示改變的詞彙。」",
+          "matchedQueryTerms": 23
+        },
+        {
+          "paragraph": 5,
+          "english": "The station sent a new warning: THE EXPERIMENT MUST CONTINUE. Adrian recognized it as an instruction from the Mirror's original owners, who believed mankind could be managed like a laboratory population. He told Lena that the system would never choose freedom unless its highest command was changed. That required a human authorization key held by the governor and a second key held by the original captain. Nobody knew where the captain's key had gone. Then a playful child in the central hall approached Nadi with an old metal toy. He said his grandmother had told him it came from the captain's desk.",
+          "chinese": "站內跳出新警告：「實驗必須繼續。」亞德里安認出那是「鏡面」原始擁有者的指令，他們相信可以像管理實驗室人口般管理人類。他告訴莉娜，除非修改最高命令，系統絕不會自主選擇自由。這需要總督掌握的人類授權鑰匙，以及第一任艦長的第二把鑰匙，但沒人知道後者在哪。此時，一個愛玩的孩子走向中央大廳的娜迪，拿著古老金屬玩具，說祖母曾告訴他，那來自艦長的書桌。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈A Vote for the Living〉第 6 段的事件，哪個選項能正確補完整句？\nTwo generations of authority had finally reached ____ at stake.",
+      "options": [
+        "the control room",
+        "the cover",
+        "the people whose lives were"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the people whose lives were",
+      "existingAnswerExplanation": "原文證據：Two generations of authority had finally reached the people whose lives were at stake.\n本段對照：玩具是一架有兩片翼的小太空船，內藏帶著艦長私人印記的晶片。娜迪透過獨立學校網路傳送其圖樣，亞德里安確認它可解鎖「鏡面」中央指令。議會請歐林交出自己的鑰匙。他望著曾受自己統治的人們，點點頭。「我以為自己在保護任務，」他說，「那信念卻成了我拒絕看見一切的藉口。」他交出鑰匙，沒有要求原諒。兩個世代的權力，終於回到生命真正承受風險的人手中。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The toy was a tiny spaceship with two wings. Inside was a chip carrying the captain's personal seal. Nadi sent its pattern through the independent school network, and Adrian confirmed that it could unlock the Mirror's central command. The council asked Orin to surrender his own key. He looked at the people he had once ruled and nodded. “I believed I was protecting the mission,” he said. “That belief became an excuse for everything I refused to see.” He handed over the key without asking to be forgiven. Two generations of authority had finally reached the people whose lives were at stake.",
+          "chinese": "玩具是一架有兩片翼的小太空船，內藏帶著艦長私人印記的晶片。娜迪透過獨立學校網路傳送其圖樣，亞德里安確認它可解鎖「鏡面」中央指令。議會請歐林交出自己的鑰匙。他望著曾受自己統治的人們，點點頭。「我以為自己在保護任務，」他說，「那信念卻成了我拒絕看見一切的藉口。」他交出鑰匙，沒有要求原諒。兩個世代的權力，終於回到生命真正承受風險的人手中。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 3,
+          "english": "A tall column of light rose in the central hall, displaying the candidates' names. Each worker could vote once, and each vote was checked by two independent counters. Noah had helped design the system but refused to choose the winners himself. When a technician accused him of being too young, he answered that a fair system should not depend on its creator being popular. The technician laughed, then apologized. He had forgotten how much young people had done to reveal the crisis. The first vote selected a council including mechanics, teachers, nurses, farmers, and one representative of the sleeping passengers.",
+          "chinese": "中央大廳升起一道高光柱，顯示候選人姓名。每名工人只能投一票，並由兩個獨立計數器核對。諾亞幫忙設計系統，卻拒絕自己決定贏家。一名技師說他年紀太小，他回答，公平制度不應取決於設計者是否受歡迎。技師笑了，接著道歉，因為自己忘了年輕人為揭露危機做過多少事。首次投票選出包含機械師、老師、護士、農夫與沉睡乘客代表的議會。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

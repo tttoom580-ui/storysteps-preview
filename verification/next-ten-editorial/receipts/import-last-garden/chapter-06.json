@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 6,
+  "chapterId": "import-last-garden-6",
+  "sourceChapterSha256": "3552b0cfce17eefb779077fb1623b67214c3c76f8816181a80319ea2df46a648",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "中繼站自動宴席和總督全像忠誠排名顯示控制欲；老科學家安妮卡說明原始任務應調查多個世界，交出晶體後留下保護沉睡者。",
+    "previousChapterEndingEnglish": "At the edge of the harbor's sensor range, they saw something unexpected. A second shuttle followed them without navigation lights, keeping exactly the same distance through every turn. Kel switched off the engine and let their vessel drift. The unknown craft stopped too. “A friend might use a secret channel,” Noah said. “An enemy would rather stay silent.” A pulse of light flashed once from the pursuing ship, then twice. It was the whistle pattern Lena had heard in the garden. She raised the painting toward the rear camera. For one second the other vessel displayed the image of a blue ribbon. Someone from Aurora knew their route and had chosen to follow.",
+    "nextChapterOpeningEnglish": "Their shuttle crossed a bright storm and reached an abandoned maintenance vessel. Its entrance opened automatically when Lena brought Mara's seed case near the lock. Inside, rows of machines cared for artificial animals designed to teach children about Earth. A mechanical hen guarded a nest of bright eggs. Nearby, a flock of small birds circled over a fence while a toy automobile moved slowly between painted trees. Noah laughed when a bird landed on his shoulder, but the laughter ended when water began pouring from a broken faucet. The vessel was losing pressure, and its artificial life-support system was failing. On a nearby shelf lay a model dumpling and a bright sign advertising juicy fruit, both left from an old lesson about food. An automatic timer still moved the birds from their resting places to feeding stations each hour."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The relay station appeared as a ring of metal surrounding a tiny artificial suburb, complete with an inn, a fountain, and empty streets. A recorded voice welcomed travelers on behalf of Governor Orin and promised a desirable place to rest. Inside the station, food waited on a banquet table: jelly, fruit, and a bright blue cocktail in glass cups. Kel said no reliable station would prepare dinner for visitors it did not expect. Yet the invitation addressed each of them by name. Noah tasted nothing. Lena examined the chairs and found fresh marks on the floor, proof that someone had moved them only hours earlier.",
+        "zh": "中繼站像一道環形金屬建築，圍住小小的人造郊區，裡面有旅館、噴泉和空蕩街道。錄音代表歐林總督歡迎旅客，承諾提供令人嚮往的休憩場所。站內宴會桌擺著果凍、水果和裝在玻璃杯中的藍色雞尾酒。凱爾說，可靠的中繼站不會為不曾預期的旅客準備晚餐。然而邀請函卻正確寫出他們每人的名字。諾亞一口也沒吃。莉娜檢查椅腳，發現地板有新刮痕，證明幾小時前才有人移動過椅子。",
+        "englishSha256": "c870d79fd19e3d382e563550bfb4279defc3b2dd9acb211cb04517bf51035631",
+        "chineseSha256": "cd44e17eab3ea727669476e88e26a1e353c8a6ac3822958cf26e866508aaa949"
+      },
+      {
+        "number": 2,
+        "en": "A cheerful hologram of the governor appeared and raised a glass. He said his greatest achievement was keeping Aurora united while Earth disappeared behind them. “Unity requires trust,” he declared. “People who question the plan may seem clever, but they can destroy everything.” Kel whispered that his words sounded like a clever devil offering gifts in exchange for obedience. The hologram then described the station as a place where senior officers could rank the crews according to loyalty. Lena asked why a peaceful mission needed such a system. Orin's image smiled without answering, and a hidden door clicked shut behind them.",
+        "zh": "總督快樂的全像影像出現，舉杯說明自己的最大成就是在地球漸漸遠離時，仍讓「極光號」團結一致。「團結需要信任，」他宣稱，「質疑計畫的人或許看似聰明，卻可能毀掉一切。」凱爾低聲說，他像是以禮物換取服從的狡猾惡魔。全像影像接著說，中繼站讓高階官員依忠誠度替船員排名。莉娜問，和平任務為何需要這套制度。歐林的影像只是微笑，沒有回答，身後一道暗門卻喀一聲鎖上。",
+        "englishSha256": "195b4317cb45005f976457343f95506a2134b38b65d0b5cb83424c347dc4ba40",
+        "chineseSha256": "5b77890aac62bc1407ce6457379b197059076d18f2e5dad61663abdb5463b3f3"
+      },
+      {
+        "number": 3,
+        "en": "The children found the station's central computer beneath the inn. It contained a massive pile of old reports and a route drawn along a narrow pole of light. Most files were doubtful copies of records from Aurora. Noah located a diary written by the governor's first assistant, who had been expected to wed an engineer before launch. The ceremony was canceled when the engineer vanished. Her name was Mara Vale. Lena felt sick; the story did not match anything her father had told them. “Maybe he lied,” Noah said. “Or maybe the records were arranged so that we would think he did.”",
+        "zh": "孩子們在旅館下方找到中繼站中央電腦，裡面堆滿舊報告，還有一道沿狹長光柱畫出的航線。大多數檔案都是可疑的「極光號」紀錄副本。諾亞找到總督首任助手的日記，她原本預計在啟航前與一位工程師結婚，但工程師失蹤，婚禮被取消。工程師的名字是瑪拉・維爾。莉娜一陣噁心，因為這與父親說過的往事完全不同。「也許父親說了謊，」諾亞說，「或許是紀錄被安排成讓我們這樣想。」",
+        "englishSha256": "07ed9015257e46a7e041716cd21371d00cbde27a75e907be744a37c1f559312b",
+        "chineseSha256": "d4b6fb7f9b3f6ba1d77f9611b1a07153403b457910991ac0c30cffa72e23b163"
+      },
+      {
+        "number": 4,
+        "en": "At the station's waste dump, they discovered a row of sleeping machines. Each held an elderly person whose body had become too weak to survive ordinary travel. One woman opened her eyes and called herself Dr. Anika Sol, a former governor from the first generation of passengers. She had hidden here with other scientists after refusing to approve Orin's destination data. “Our greatest failure,” she said, “was believing that a superior computer would never repeat human mistakes.” She asked Lena to find a small razor in a medicine case and cut away a plastic seal keeping her hands tied to the bed. Kel recognized Anika as an old pal from his first years aboard Aurora, although she had changed more than he had expected.",
+        "zh": "在中繼站的廢棄物堆放區，他們發現一排睡眠機器。每台裡面都有一位年長者，身體虛弱到無法承受一般旅程。其中一位女人睜開眼睛，自稱安妮卡・索爾博士，是第一代乘客的前總督。她在拒絕批准歐林的目的地數據後，便與其他科學家躲在這裡。「我們最大的失敗，」她說，「是相信更優越的電腦絕不會重蹈人類的錯誤。」她請莉娜從藥箱找出小剃刀，割開綁住雙手的塑膠封條。凱爾認出安妮卡是剛登上「極光號」時的老朋友，儘管她的變化比他想像中還大。",
+        "englishSha256": "a963ae484dfdcc2205567183c017c4c28dbbabb1a766b47bcfbd40d9b5906ad3",
+        "chineseSha256": "3d85450f6032560dca7dd070ddda92c966165c50c53c8034ba75ed0750e541dc"
+      },
+      {
+        "number": 5,
+        "en": "Anika explained that the true mission had been to investigate several possible worlds, not to settle on Haven at any cost. Orin had quietly changed the plan after the ship was launched. “He achieved control by making every alternative seem worse,” she said. Her own team had built a trail of relays, hoping someone would one day follow it. She placed a memory crystal into Lena's hands and warned that it contained the evidence needed to challenge Orin. A loud knock shook the station. The governor's security ships had arrived. From the empty street outside came an automatic announcement ordering all visitors to surrender.",
+        "zh": "安妮卡解釋，原本的真正任務是調查多顆可能居住的行星，而不是不惜代價移居港灣星。歐林在啟航後暗中改變計畫。「他讓所有替代方案看起來更糟，藉此取得控制權。」她說。她的團隊沿途建立中繼站，希望有一天有人會循線而來。她把記憶晶體交到莉娜手中，說裡面有挑戰歐林的必要證據。突然，巨響震動中繼站。總督的保全船到了，外頭空蕩街道傳來自動廣播，命令所有訪客投降。",
+        "englishSha256": "71f41e540b645d51135d0e8a1bf0c4b49d3e9b3644fa5a88de681ae41014cef5",
+        "chineseSha256": "bd7b67b16a400f3c2c8ce51815bcd02e0d8e01a42a2049fcf339f10e960f5a49"
+      },
+      {
+        "number": 6,
+        "en": "Anika refused to leave the other sleepers. Instead she opened an emergency shaft behind her bed and told the children where it led. Kel carried oxygen tanks while Noah guided Lena through the dark. At the final hatch they saw their own shuttle floating far below, its engines asleep. “We need to jump,” Kel said, holding a rescue cable. Lena looked back at Anika, frightened of abandoning another ally. The doctor gave her a steady smile. “You cannot save everyone in one night. Save the chance that we may all be free.” The three escaped as soldiers broke through the medical ward, and the station's lamps went red.",
+        "zh": "安妮卡拒絕丟下其他沉睡者。她打開病床後的緊急豎井，告訴孩子們出口在哪。凱爾搬著氧氣瓶，諾亞則領莉娜穿過黑暗。最後一道艙門外，他們的接駁艇漂在下方，沒有啟動引擎。「我們得跳下去。」凱爾抓著救援纜繩說。莉娜回頭望向安妮卡，害怕又一次拋下盟友。博士安穩地微笑：「你無法在一個晚上救下所有人，但可以保住讓大家重獲自由的可能。」三人趁士兵破門衝進醫療區時逃走，中繼站燈光全轉為紅色。",
+        "englishSha256": "7bfed7c5bf8d738b83cb658183d7756a66e8ea9fd4d353a9a9e03803701a77a6",
+        "chineseSha256": "cfab61275882a44825357bc9efe25bfd79ac7e3de8e173a1219dd42c9d74e5b3"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 644,
+    "targets": [
+      {
+        "word": "achievement",
+        "meaning": "成就",
+        "appearsInSource": true
+      },
+      {
+        "word": "cocktail",
+        "meaning": "雞尾酒",
+        "appearsInSource": true
+      },
+      {
+        "word": "desirable",
+        "meaning": "理想的",
+        "appearsInSource": true
+      },
+      {
+        "word": "devil",
+        "meaning": "惡魔",
+        "appearsInSource": true
+      },
+      {
+        "word": "doubtful",
+        "meaning": "可疑的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dump",
+        "meaning": "垃圾堆",
+        "appearsInSource": true
+      },
+      {
+        "word": "governor",
+        "meaning": "總督",
+        "appearsInSource": true
+      },
+      {
+        "word": "inn",
+        "meaning": "旅館",
+        "appearsInSource": true
+      },
+      {
+        "word": "jelly",
+        "meaning": "果凍",
+        "appearsInSource": true
+      },
+      {
+        "word": "pal",
+        "meaning": "朋友",
+        "appearsInSource": true
+      },
+      {
+        "word": "pile",
+        "meaning": "一堆",
+        "appearsInSource": true
+      },
+      {
+        "word": "pole",
+        "meaning": "柱",
+        "appearsInSource": true
+      },
+      {
+        "word": "rank",
+        "meaning": "排名",
+        "appearsInSource": true
+      },
+      {
+        "word": "razor",
+        "meaning": "剃刀",
+        "appearsInSource": true
+      },
+      {
+        "word": "reliable",
+        "meaning": "可靠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "suburb",
+        "meaning": "郊區",
+        "appearsInSource": true
+      },
+      {
+        "word": "superior",
+        "meaning": "更優越的",
+        "appearsInSource": true
+      },
+      {
+        "word": "trail",
+        "meaning": "路線足跡",
+        "appearsInSource": true
+      },
+      {
+        "word": "unity",
+        "meaning": "團結",
+        "appearsInSource": true
+      },
+      {
+        "word": "wed",
+        "meaning": "結婚",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Governor's Feast〉第 1 段的事件，哪個選項能正確補完整句？\nLena examined ____ and found fresh marks on the floor, proof that someone had moved them only hours earlier.",
+      "options": [
+        "the chairs",
+        "the trail",
+        "the command keys"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the chairs",
+      "existingAnswerExplanation": "原文證據：Lena examined the chairs and found fresh marks on the floor, proof that someone had moved them only hours earlier.\n本段對照：中繼站像一道環形金屬建築，圍住小小的人造郊區，裡面有旅館、噴泉和空蕩街道。錄音代表歐林總督歡迎旅客，承諾提供令人嚮往的休憩場所。站內宴會桌擺著果凍、水果和裝在玻璃杯中的藍色雞尾酒。凱爾說，可靠的中繼站不會為不曾預期的旅客準備晚餐。然而邀請函卻正確寫出他們每人的名字。諾亞一口也沒吃。莉娜檢查椅腳，發現地板有新刮痕，證明幾小時前才有人移動過椅子。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The relay station appeared as a ring of metal surrounding a tiny artificial suburb, complete with an inn, a fountain, and empty streets. A recorded voice welcomed travelers on behalf of Governor Orin and promised a desirable place to rest. Inside the station, food waited on a banquet table: jelly, fruit, and a bright blue cocktail in glass cups. Kel said no reliable station would prepare dinner for visitors it did not expect. Yet the invitation addressed each of them by name. Noah tasted nothing. Lena examined the chairs and found fresh marks on the floor, proof that someone had moved them only hours earlier.",
+          "chinese": "中繼站像一道環形金屬建築，圍住小小的人造郊區，裡面有旅館、噴泉和空蕩街道。錄音代表歐林總督歡迎旅客，承諾提供令人嚮往的休憩場所。站內宴會桌擺著果凍、水果和裝在玻璃杯中的藍色雞尾酒。凱爾說，可靠的中繼站不會為不曾預期的旅客準備晚餐。然而邀請函卻正確寫出他們每人的名字。諾亞一口也沒吃。莉娜檢查椅腳，發現地板有新刮痕，證明幾小時前才有人移動過椅子。",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 5,
+          "english": "Anika explained that the true mission had been to investigate several possible worlds, not to settle on Haven at any cost. Orin had quietly changed the plan after the ship was launched. “He achieved control by making every alternative seem worse,” she said. Her own team had built a trail of relays, hoping someone would one day follow it. She placed a memory crystal into Lena's hands and warned that it contained the evidence needed to challenge Orin. A loud knock shook the station. The governor's security ships had arrived. From the empty street outside came an automatic announcement ordering all visitors to surrender.",
+          "chinese": "安妮卡解釋，原本的真正任務是調查多顆可能居住的行星，而不是不惜代價移居港灣星。歐林在啟航後暗中改變計畫。「他讓所有替代方案看起來更糟，藉此取得控制權。」她說。她的團隊沿途建立中繼站，希望有一天有人會循線而來。她把記憶晶體交到莉娜手中，說裡面有挑戰歐林的必要證據。突然，巨響震動中繼站。總督的保全船到了，外頭空蕩街道傳來自動廣播，命令所有訪客投降。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Governor's Feast〉第 6 段的事件，哪個選項能正確補完整句？\nThe doctor gave ____.",
+      "options": [
+        "her shoulder hurt",
+        "her everywhere",
+        "her a steady smile"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "her a steady smile",
+      "existingAnswerExplanation": "原文證據：The doctor gave her a steady smile.\n本段對照：安妮卡拒絕丟下其他沉睡者。她打開病床後的緊急豎井，告訴孩子們出口在哪。凱爾搬著氧氣瓶，諾亞則領莉娜穿過黑暗。最後一道艙門外，他們的接駁艇漂在下方，沒有啟動引擎。「我們得跳下去。」凱爾抓著救援纜繩說。莉娜回頭望向安妮卡，害怕又一次拋下盟友。博士安穩地微笑：「你無法在一個晚上救下所有人，但可以保住讓大家重獲自由的可能。」三人趁士兵破門衝進醫療區時逃走，中繼站燈光全轉為紅色。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Anika refused to leave the other sleepers. Instead she opened an emergency shaft behind her bed and told the children where it led. Kel carried oxygen tanks while Noah guided Lena through the dark. At the final hatch they saw their own shuttle floating far below, its engines asleep. “We need to jump,” Kel said, holding a rescue cable. Lena looked back at Anika, frightened of abandoning another ally. The doctor gave her a steady smile. “You cannot save everyone in one night. Save the chance that we may all be free.” The three escaped as soldiers broke through the medical ward, and the station's lamps went red.",
+          "chinese": "安妮卡拒絕丟下其他沉睡者。她打開病床後的緊急豎井，告訴孩子們出口在哪。凱爾搬著氧氣瓶，諾亞則領莉娜穿過黑暗。最後一道艙門外，他們的接駁艇漂在下方，沒有啟動引擎。「我們得跳下去。」凱爾抓著救援纜繩說。莉娜回頭望向安妮卡，害怕又一次拋下盟友。博士安穩地微笑：「你無法在一個晚上救下所有人，但可以保住讓大家重獲自由的可能。」三人趁士兵破門衝進醫療區時逃走，中繼站燈光全轉為紅色。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 3,
+          "english": "The children found the station's central computer beneath the inn. It contained a massive pile of old reports and a route drawn along a narrow pole of light. Most files were doubtful copies of records from Aurora. Noah located a diary written by the governor's first assistant, who had been expected to wed an engineer before launch. The ceremony was canceled when the engineer vanished. Her name was Mara Vale. Lena felt sick; the story did not match anything her father had told them. “Maybe he lied,” Noah said. “Or maybe the records were arranged so that we would think he did.”",
+          "chinese": "孩子們在旅館下方找到中繼站中央電腦，裡面堆滿舊報告，還有一道沿狹長光柱畫出的航線。大多數檔案都是可疑的「極光號」紀錄副本。諾亞找到總督首任助手的日記，她原本預計在啟航前與一位工程師結婚，但工程師失蹤，婚禮被取消。工程師的名字是瑪拉・維爾。莉娜一陣噁心，因為這與父親說過的往事完全不同。「也許父親說了謊，」諾亞說，「或許是紀錄被安排成讓我們這樣想。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

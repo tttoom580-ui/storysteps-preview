@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 13,
+  "chapterId": "import-last-garden-13",
+  "sourceChapterSha256": "34b12301843c986473080d54369b6ab721577843587321e2cb9cfdb0e38c24f0",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "雙胞胎在自由室與瑪拉重逢，得知父親亞德里安在鏡面內曾嘗試關閉假訊號，米拉傷口與睡眠艙跟蹤裝置都是極光號製造。",
+    "previousChapterEndingEnglish": "They escaped through a passage hidden beneath the kindergarten floor. As Wen closed it behind them, she gave Lena a small book printed on real paper. It told the story of a girl who carried a light through a foggy city until other people began sharing their lamps. Lena tucked the book beside her mother's journal. The words made her think of the workers who had joined Tomas. Perhaps courage was not something a hero possessed alone. Perhaps it was something people learned together, one decision at a time. At the end of the passage, the Liberty Room's door glowed blue and asked for Mara's voice.",
+    "nextChapterOpeningEnglish": "At dawn the group entered Aurora's central campus, a collection of classrooms built around an indoor playground. Student luggage was stacked beside a wall, ready for a field trip that had been canceled long ago. A large electronic headline above the entrance announced that the governor had ordered a temporary closure for safety. Mara knew another route through the old shopping mall, where most stores now held textbooks and emergency supplies. The children passed a dry fountain and a recreation room with a broken volleyball net. “I used to play here,” Lena said. She had not realized how small her world had become. At the corner, a bunch of students practiced how to breathe slowly during a pressure alarm, beside a painted tree trunk."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Lena held the blue box against the Liberty Room scanner. A recording of Mara's voice played, and the door opened. Inside grew a tiny oak tree, its first bud opening under a warm lamp. Cotton curtains hung along the walls, and a table held dairy products, canned pineapple, and vegetables from a hidden grocery supply. An anxious woman stood beside the tree, a gray scarf wrapped around her shoulders. Her face was older than the holograms, but Lena knew her immediately. “Mom?” she whispered. The woman covered her mouth, then stepped forward and embraced both children without saying a word.",
+        "zh": "莉娜把藍色金屬盒貼上自由室掃描器，播放瑪拉的錄音，門便開了。室內長著一棵小橡樹，第一顆嫩芽在暖燈下展開。棉布簾沿牆垂掛，桌上放著乳製品、鳳梨罐頭，以及祕密雜貨供應處送來的蔬菜。一名焦慮的女子站在樹旁，肩上披著灰圍巾。她的臉比全像影像蒼老，但莉娜立刻認出。「媽媽？」她低聲問。女人摀住嘴，走上前，一句話也沒說就緊緊抱住兩個孩子。",
+        "englishSha256": "deb9a7c5a49655ed23e340fd9e6eb2a6512ac0e0962745aa400be2db742b6912",
+        "chineseSha256": "6862953f367db3ed1cd778b91f81ef48eb312b14a7c608a5bf29faf3761c9914"
+      },
+      {
+        "number": 2,
+        "en": "When they finally sat down, Mara offered them water and took a small sip herself. She explained that she had hidden for years because Orin had ordered her arrest after she refused to approve Haven's atmosphere. She had been able to communicate only through old systems, sending a signal no more than once every few hours. “The messages seemed magical,” Noah said. Mara gave a sad smile. “There was no magic. Only science, patience, and people who kept the equipment alive.” She pointed to a handwritten tag on the seed case. It carried the name of the person who had repaired the relay network: their father.",
+        "zh": "終於坐下後，瑪拉倒水給孩子們，自己也小啜一口。她解釋，當年拒絕批准港灣星大氣數據後，歐林下令逮捕她，所以她多年來一直躲藏，只能透過舊系統聯絡外界，每隔數小時才能發一次訊號。「那些訊息像魔法一樣。」諾亞說。瑪拉苦笑：「沒有魔法，只有科學、耐心，以及持續維修設備的人。」她指向種子盒上手寫的標籤，上面記著修復中繼網路的人名：他們的父親。",
+        "englishSha256": "7c099e800fcf230a9ec518adb6de4e848b152c2d85fe86685cc714fa7b0d7d77",
+        "chineseSha256": "1f96e1b7b5dea1c19cc01cf18fe3e0f595d289cba4720ff0c1500bed629d9d5c"
+      },
+      {
+        "number": 3,
+        "en": "The twins were amazed. Their father had died in an accident, or so they had been told. Mara explained that he had sacrificed his place aboard the ship to remain on the Mirror station and secretly disable its false transmissions. He was still alive when she last heard from him three years earlier. “I cannot swear that he is alive now,” she said. “But I know he did not abandon you.” Lena struggled with anger. For years she had believed both parents gone, and now everything she knew about her family seemed uncertain. Mara did not ask for forgiveness. She simply waited, holding their hands.",
+        "zh": "雙胞胎震驚不已。他們一直以為父親死於意外。瑪拉說，父親放棄在主船上的位置，留下來試圖從「鏡面」站內祕密關閉虛假傳輸。她最後一次收到他的消息是三年前，那時他仍活著。「我不敢保證他現在還活著，」她說，「但我知道他並沒有拋棄你們。」莉娜竭力壓住怒氣。多年來，她以為雙親都已不在，如今對家庭所知的一切彷彿都不確定。瑪拉沒有要求原諒，只是握著孩子們的手等待。",
+        "englishSha256": "70b7b67e89a17452a75ca90e7b3226c39aeefabcdc3171dc563e1c944ca57024",
+        "chineseSha256": "bdd8ca51eda3d83f9204d38803ceb68dfa3a7e165d0b0a6aac322f706eaa5043"
+      },
+      {
+        "number": 4,
+        "en": "Mara spread an old map across the table. A ring drawn around Haven looked like a crown. She explained that the planet's atmosphere contained an unusual chemical element that could change living cells. The Mirror amplified the effect, and its creators hoped to gain ownership of the changes. Orin had been promised control of the future colony in exchange for directing Aurora toward the planet. A representative from the project's founders had signed the secret agreement. “They spoke about building a holy new world,” Mara said. “But they were really discussing who would own its people.”",
+        "zh": "瑪拉把舊地圖鋪在桌上。港灣星周圍畫著像王冠的圓環。她解釋，行星大氣含有特殊化學元素，可能改變活細胞。「鏡面」會放大這個效果，建造者則希望掌握改變後的生命。歐林被允諾取得未來殖民地的控制權，交換條件是將「極光號」導向該星球。計畫創辦者的一名代表簽署了祕密協議。「他們說要建造神聖新世界，」瑪拉說，「實際上卻在討論誰能擁有那裡的人。」",
+        "englishSha256": "f4a2f90c51eaf15ccb342d9ef92ba3d08beba23c7d7e6a5752e5d29870d67565",
+        "chineseSha256": "f2511074d72806ee9163fc3f2ac6473953d6ab71be286cbe83f1709c9f989670"
+      },
+      {
+        "number": 5,
+        "en": "Mira placed her father's notes beside the agreement. Mara recognized his name and spoke warmly of his charm and kindness. He had tried to warn her that passenger sleep chambers were being modified to accept the planet's strange signals. “That explains the tracking device in my shoulder,” Mira said. Mara checked the wound and confirmed that Mira was recovering. She also recognized a technician's mark on the damaged implant. “These were built on Aurora, not at the depot.” The discovery changed their understanding of Orin's plan: the danger was not waiting only at Haven. Part of it had already traveled with them for eighty years.",
+        "zh": "米拉把父親的筆記放在協議旁。瑪拉認出他的名字，溫柔談起他的魅力和善良。他曾警告瑪拉，有人在改裝乘客睡眠艙，讓它們接受行星異常訊號。「這能解釋我肩膀裡的追蹤裝置。」米拉說。瑪拉檢查傷口，確認她恢復良好，也認出壞植入物上的技師記號。「這是在『極光號』製造的，不是在倉庫。」此發現改變了他們對歐林計畫的理解：危險不只等待於港灣星，其中一部分早已伴他們航行八十年。",
+        "englishSha256": "5b81360cbae8b3024e748263879b72ef536bc69ab11a186be3d852a7b02079ff",
+        "chineseSha256": "1d818fc2d52c79ec32b32843598c3439b1b37084dc2554e92df520998f0dbd54"
+      },
+      {
+        "number": 6,
+        "en": "As an hourly alarm sounded, Mara closed the room's outer shutters. A security search was spreading through the ship, and even this safe place might soon become a mess of broken equipment. She gave Lena a key shaped like a leaf and instructed them to meet the leaders of Aurora's schools. “They can speak for the children,” she said. “And the future belongs to children more than to governors.” Noah reached for his mother's sleeve, afraid she would vanish again. Mara touched his cheek. “I'm coming with you this time.” Outside, heavy boots struck the corridor, and the small oak tree trembled in their passing wind.",
+        "zh": "每小時警報響起，瑪拉關上外窗板。保全搜索正擴大到全船，這處安全地點恐怕很快也會被破壞得一片混亂。她給莉娜一把葉子形的鑰匙，吩咐孩子們去見太空船學校的領袖。「他們能替孩子發聲，」她說，「未來屬於孩子的程度，遠大於總督。」諾亞抓著母親的袖子，害怕她再次消失。瑪拉摸摸他的臉：「這次我會跟你們一起走。」外頭傳來沉重軍靴聲，小橡樹被掠過的風震得輕顫。",
+        "englishSha256": "91b04063467c878e4a7970542dc22db4de0d61f4903a642fece68c71acd782f3",
+        "chineseSha256": "b4f814b24023a675a08f5ded14d76d15a38ce247d12ca294888daab8f9f3f2d4"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 618,
+    "targets": [
+      {
+        "word": "amazed",
+        "meaning": "使驚訝",
+        "appearsInSource": true
+      },
+      {
+        "word": "anxious",
+        "meaning": "焦慮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "bud",
+        "meaning": "嫩芽",
+        "appearsInSource": true
+      },
+      {
+        "word": "charm",
+        "meaning": "魅力",
+        "appearsInSource": true
+      },
+      {
+        "word": "cotton",
+        "meaning": "棉",
+        "appearsInSource": true
+      },
+      {
+        "word": "crown",
+        "meaning": "王冠",
+        "appearsInSource": true
+      },
+      {
+        "word": "dairy",
+        "meaning": "乳製品",
+        "appearsInSource": true
+      },
+      {
+        "word": "element",
+        "meaning": "化學元素",
+        "appearsInSource": true
+      },
+      {
+        "word": "grocery",
+        "meaning": "雜貨",
+        "appearsInSource": true
+      },
+      {
+        "word": "holy",
+        "meaning": "神聖的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hourly",
+        "meaning": "每小時的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mess",
+        "meaning": "混亂",
+        "appearsInSource": true
+      },
+      {
+        "word": "oak",
+        "meaning": "橡樹",
+        "appearsInSource": true
+      },
+      {
+        "word": "ownership",
+        "meaning": "所有權",
+        "appearsInSource": true
+      },
+      {
+        "word": "pineapple",
+        "meaning": "鳳梨",
+        "appearsInSource": true
+      },
+      {
+        "word": "representative",
+        "meaning": "代表",
+        "appearsInSource": true
+      },
+      {
+        "word": "scarf",
+        "meaning": "圍巾",
+        "appearsInSource": true
+      },
+      {
+        "word": "sip",
+        "meaning": "啜飲",
+        "appearsInSource": true
+      },
+      {
+        "word": "swear",
+        "meaning": "發誓保證",
+        "appearsInSource": true
+      },
+      {
+        "word": "tag",
+        "meaning": "標籤",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Woman Behind the Door〉第 1 段的事件，哪個選項能正確補完整句？\nLena held ____.",
+      "options": [
+        "the blue box against the Liberty Room scanner",
+        "the hearing through a small screen",
+        "the people whose lives were"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the blue box against the Liberty Room scanner",
+      "existingAnswerExplanation": "原文證據：Lena held the blue box against the Liberty Room scanner.\n本段對照：莉娜把藍色金屬盒貼上自由室掃描器，播放瑪拉的錄音，門便開了。室內長著一棵小橡樹，第一顆嫩芽在暖燈下展開。棉布簾沿牆垂掛，桌上放著乳製品、鳳梨罐頭，以及祕密雜貨供應處送來的蔬菜。一名焦慮的女子站在樹旁，肩上披著灰圍巾。她的臉比全像影像蒼老，但莉娜立刻認出。「媽媽？」她低聲問。女人摀住嘴，走上前，一句話也沒說就緊緊抱住兩個孩子。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Lena held the blue box against the Liberty Room scanner. A recording of Mara's voice played, and the door opened. Inside grew a tiny oak tree, its first bud opening under a warm lamp. Cotton curtains hung along the walls, and a table held dairy products, canned pineapple, and vegetables from a hidden grocery supply. An anxious woman stood beside the tree, a gray scarf wrapped around her shoulders. Her face was older than the holograms, but Lena knew her immediately. “Mom?” she whispered. The woman covered her mouth, then stepped forward and embraced both children without saying a word.",
+          "chinese": "莉娜把藍色金屬盒貼上自由室掃描器，播放瑪拉的錄音，門便開了。室內長著一棵小橡樹，第一顆嫩芽在暖燈下展開。棉布簾沿牆垂掛，桌上放著乳製品、鳳梨罐頭，以及祕密雜貨供應處送來的蔬菜。一名焦慮的女子站在樹旁，肩上披著灰圍巾。她的臉比全像影像蒼老，但莉娜立刻認出。「媽媽？」她低聲問。女人摀住嘴，走上前，一句話也沒說就緊緊抱住兩個孩子。",
+          "matchedQueryTerms": 16
+        },
+        {
+          "paragraph": 3,
+          "english": "The twins were amazed. Their father had died in an accident, or so they had been told. Mara explained that he had sacrificed his place aboard the ship to remain on the Mirror station and secretly disable its false transmissions. He was still alive when she last heard from him three years earlier. “I cannot swear that he is alive now,” she said. “But I know he did not abandon you.” Lena struggled with anger. For years she had believed both parents gone, and now everything she knew about her family seemed uncertain. Mara did not ask for forgiveness. She simply waited, holding their hands.",
+          "chinese": "雙胞胎震驚不已。他們一直以為父親死於意外。瑪拉說，父親放棄在主船上的位置，留下來試圖從「鏡面」站內祕密關閉虛假傳輸。她最後一次收到他的消息是三年前，那時他仍活著。「我不敢保證他現在還活著，」她說，「但我知道他並沒有拋棄你們。」莉娜竭力壓住怒氣。多年來，她以為雙親都已不在，如今對家庭所知的一切彷彿都不確定。瑪拉沒有要求原諒，只是握著孩子們的手等待。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Woman Behind the Door〉第 6 段的事件，哪個選項能正確補完整句？\nAs an hourly alarm sounded, Mara closed ____.",
+      "options": [
+        "the hatch just",
+        "the observatory's old telescope",
+        "the room's outer shutters"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the room's outer shutters",
+      "existingAnswerExplanation": "原文證據：As an hourly alarm sounded, Mara closed the room's outer shutters.\n本段對照：每小時警報響起，瑪拉關上外窗板。保全搜索正擴大到全船，這處安全地點恐怕很快也會被破壞得一片混亂。她給莉娜一把葉子形的鑰匙，吩咐孩子們去見太空船學校的領袖。「他們能替孩子發聲，」她說，「未來屬於孩子的程度，遠大於總督。」諾亞抓著母親的袖子，害怕她再次消失。瑪拉摸摸他的臉：「這次我會跟你們一起走。」外頭傳來沉重軍靴聲，小橡樹被掠過的風震得輕顫。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "As an hourly alarm sounded, Mara closed the room's outer shutters. A security search was spreading through the ship, and even this safe place might soon become a mess of broken equipment. She gave Lena a key shaped like a leaf and instructed them to meet the leaders of Aurora's schools. “They can speak for the children,” she said. “And the future belongs to children more than to governors.” Noah reached for his mother's sleeve, afraid she would vanish again. Mara touched his cheek. “I'm coming with you this time.” Outside, heavy boots struck the corridor, and the small oak tree trembled in their passing wind.",
+          "chinese": "每小時警報響起，瑪拉關上外窗板。保全搜索正擴大到全船，這處安全地點恐怕很快也會被破壞得一片混亂。她給莉娜一把葉子形的鑰匙，吩咐孩子們去見太空船學校的領袖。「他們能替孩子發聲，」她說，「未來屬於孩子的程度，遠大於總督。」諾亞抓著母親的袖子，害怕她再次消失。瑪拉摸摸他的臉：「這次我會跟你們一起走。」外頭傳來沉重軍靴聲，小橡樹被掠過的風震得輕顫。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "Lena held the blue box against the Liberty Room scanner. A recording of Mara's voice played, and the door opened. Inside grew a tiny oak tree, its first bud opening under a warm lamp. Cotton curtains hung along the walls, and a table held dairy products, canned pineapple, and vegetables from a hidden grocery supply. An anxious woman stood beside the tree, a gray scarf wrapped around her shoulders. Her face was older than the holograms, but Lena knew her immediately. “Mom?” she whispered. The woman covered her mouth, then stepped forward and embraced both children without saying a word.",
+          "chinese": "莉娜把藍色金屬盒貼上自由室掃描器，播放瑪拉的錄音，門便開了。室內長著一棵小橡樹，第一顆嫩芽在暖燈下展開。棉布簾沿牆垂掛，桌上放著乳製品、鳳梨罐頭，以及祕密雜貨供應處送來的蔬菜。一名焦慮的女子站在樹旁，肩上披著灰圍巾。她的臉比全像影像蒼老，但莉娜立刻認出。「媽媽？」她低聲問。女人摀住嘴，走上前，一句話也沒說就緊緊抱住兩個孩子。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

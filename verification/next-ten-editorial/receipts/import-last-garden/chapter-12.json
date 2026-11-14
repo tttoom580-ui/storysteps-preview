@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 12,
+  "chapterId": "import-last-garden-12",
+  "sourceChapterSha256": "d8b4916d53133ec3b34b0f93ad976c9e8c64f3af508223e06d574f18377099ba",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "幼兒園下的語言檔案庫保留獨立教育網，溫老師借字首藏訊與織機日記找到自由室，黑制服左手傷痕指向刪除通信者。",
+    "previousChapterEndingEnglish": "By dawn the repair network had reached half the ship. In the lower decks, an exhausted worker licked dry lips and asked whether the protest could end. Tomas broke his own bread and handed her a piece. The union agreed to reopen the kitchens, but it also demanded that representatives be allowed to examine the bridge. Lena felt a strange mixture of hope and fear. She had imagined truth spreading like light, yet she saw that every person received it differently. Before the meeting ended, a secret message reached Noah's tablet: YOUR MOTHER IS ALIVE. REPORT TO THE LANGUAGE ARCHIVE. The sender was unknown.",
+    "nextChapterOpeningEnglish": "Lena held the blue box against the Liberty Room scanner. A recording of Mara's voice played, and the door opened. Inside grew a tiny oak tree, its first bud opening under a warm lamp. Cotton curtains hung along the walls, and a table held dairy products, canned pineapple, and vegetables from a hidden grocery supply. An anxious woman stood beside the tree, a gray scarf wrapped around her shoulders. Her face was older than the holograms, but Lena knew her immediately. “Mom?” she whispered. The woman covered her mouth, then stepped forward and embraced both children without saying a word."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The language archive occupied a basement below Aurora's oldest kindergarten. Its walls were painted with an alphabet, and a wooden cock stood beside a tiny classroom bell. Every child on the ship had once learned to read there, but now the room was locked and silent. An old teacher named Wen opened the door after Lena repeated the whistle signal. Wen had a collection of forgotten books, labels, and drawings from Earth. A queer smell of cigarette smoke lingered in the hall, although smoking had been forbidden aboard Aurora for decades. “Someone was here recently,” Wen said. “And they did not come to read.”",
+        "zh": "語言檔案庫位於「極光號」最老幼兒園下的地下室。牆上畫滿字母，一隻木製公雞站在小教室鈴旁。全船孩子曾在這裡學習閱讀，如今卻上鎖寂靜。年老教師溫在莉娜重複哨聲訊號後開門。溫收藏著地球的舊書、標籤與圖畫。走廊仍有一股奇怪的香菸味，雖然「極光號」數十年來禁止吸菸。「最近有人來過，」溫說，「而且不是為了讀書。」",
+        "englishSha256": "4fe7abb23691abd2a81f7e316537efbbe60205705c19dd8fefcd42e2da44de96",
+        "chineseSha256": "190a83b54771fc9bab9ce5736ca793d0d7c937c5b584a6aa76a599b7bd4e69ed"
+      },
+      {
+        "number": 2,
+        "en": "Wen explained that Mara had hidden a message in a children's learning program. The program taught honesty, liberty, and wisdom through simple stories. But a previous update had replaced the final chapter with meaningless letters. Lena examined the screen and found a small metal clip caught near the keyboard. Behind it was a handwritten note: READ THE FIRST LETTER OF EACH SENTENCE. Noah entered the old version of the lesson and began copying the lines. A story about a child washing hair with shampoo concealed instructions about the ship's secret communication system. The sentences were ordinary, but their initials formed a clear order.",
+        "zh": "溫解釋，瑪拉曾把訊息藏在兒童學習程式裡。課程藉簡單故事教導誠實、自由與智慧，但上次更新把最後一章換成毫無意義的字母。莉娜檢查螢幕，發現鍵盤旁卡著一個小金屬夾，後面有張手寫字條：「閱讀每句話的第一個字母。」諾亞打開舊版課文，開始抄錄句子。一則孩子用洗髮精洗頭的故事，竟藏著太空船祕密通訊系統的使用說明。句子看似平凡，首字母卻組成清楚的指令。",
+        "englishSha256": "bf2d41e7bb32f5288557c444144a1ffe4b713bbdc404e650eb5604175c1c5174",
+        "chineseSha256": "bd70d160707cf53b0e6135cc30b56df7581f92308bc09bcaa1242267e37b6597"
+      },
+      {
+        "number": 3,
+        "en": "The instructions led them to a weaving machine in the archive's storage room. It had once woven colorful blankets for newborn passengers. A small box of white powder sat beside it, used to mark threads that should not break. When Noah entered the code, the machine moved and revealed a narrow compartment. Inside lay Mara's personal journal, filled with meaningful observations about the gardens and warnings about the governor. One page showed a map of an isolated chamber labeled THE LIBERTY ROOM. The next page contained a sketch of the twins as babies, with a note in Mara's handwriting: I WILL COME BACK.",
+        "zh": "指令引他們走向檔案庫儲藏室的織布機，過去用來替新生乘客編織彩色毯子。機旁放著白色粉末，用來標記不能斷裂的線。諾亞輸入密碼，織機轉動並露出狹窄暗格，裡面是瑪拉的私人日記，記滿對花園的觀察與對總督的警告。一頁畫著孤立艙室的地圖，標示「自由室」。下一頁則是雙胞胎嬰兒時期的素描，旁邊有瑪拉親筆寫的：「我會回來。」",
+        "englishSha256": "2a365064b4d68661b8c9051569db331dd7e32bbbc52d3a41a007d24aeda57bc0",
+        "chineseSha256": "d4c1a707f1677f45e37f0b17d274a01af2a6d3a569b7ce85d107998ea5798a59"
+      },
+      {
+        "number": 4,
+        "en": "Before they could leave, Wen revealed why the archive had remained protected. The school system still ran on an independent network, one that the governor had never fully controlled. “Education is not just a collection of facts,” she said. “It is learning to ask what a fact means.” Mara had used that freedom to store evidence safely. Wen's husband had helped her, then vanished during the investigation. Wen had waited years for someone to return. Her face showed no dramatic anger, only the tired patience of a person who had held a promise longer than she had expected.",
+        "zh": "離開前，溫說明檔案庫得以保存的原因。學校系統仍運作在獨立網路上，總督從未完全控制。「教育不只是蒐集事實，」她說，「更要學會問事實代表什麼。」瑪拉利用這份自由安全保存證據。溫的丈夫曾協助她，之後在調查期間失蹤。溫多年來都等待有人回來。她的臉上沒有戲劇性的怒氣，只有守著承諾比預期更久的人那份疲憊與耐心。",
+        "englishSha256": "b22b23d743c12f017b7320b1b5c556d020e434890b8aca4c80c575f1c74d5407",
+        "chineseSha256": "0ddac6d1d745c9b1c45873f39cedd96eb44963993935209646d06f6993a3f9fd"
+      },
+      {
+        "number": 5,
+        "en": "A heavy door slammed above them. The guard captain demanded entry and said the twins would be treated as criminals if they did not surrender. Wen calmly removed a clip from the archive register and handed it to Mira. The document revealed that a government officer had hired people to delete the governor's correspondence. Lena recognized the officer's description: a dark uniform, a covered badge, and a damaged left hand. The same figure had appeared in the launch film. “We can reveal this,” Noah whispered. Wen shook her head. “Not yet. You need to know whose hand it is and what orders it followed.”",
+        "zh": "上方重門砰然關閉。保全隊長要求開門，威脅若雙胞胎不投降便以罪犯處置。溫平靜地從檔案登記簿取下一個夾子，交給米拉。文件顯示，某名政府官員雇人刪除總督通信。莉娜認出其描述：黑制服、被遮住的徽章，以及受傷的左手。那正是啟航影片裡出現的人。「我們可以公開這個。」諾亞低語。溫搖頭：「還不能。你們得知道那隻手屬於誰，以及它遵從誰的命令。」",
+        "englishSha256": "80b8c865f06c7d3ce2fd5a3e646057fa953c742de34e3ee4d4d142d274c0b7d2",
+        "chineseSha256": "adc424da92a255a2f9eb2d1f7d5a1dd2a69b01547568688395ada43b43eaef93"
+      },
+      {
+        "number": 6,
+        "en": "They escaped through a passage hidden beneath the kindergarten floor. As Wen closed it behind them, she gave Lena a small book printed on real paper. It told the story of a girl who carried a light through a foggy city until other people began sharing their lamps. Lena tucked the book beside her mother's journal. The words made her think of the workers who had joined Tomas. Perhaps courage was not something a hero possessed alone. Perhaps it was something people learned together, one decision at a time. At the end of the passage, the Liberty Room's door glowed blue and asked for Mara's voice.",
+        "zh": "他們從幼兒園地板下的通道逃走。溫替他們關門時，送給莉娜一本真正的紙本書。故事描寫女孩在濃霧城市裡提著光前進，直到其他人也開始分享燈火。莉娜把書放進母親的日記旁。文字讓她想到加入托瑪斯的工人。也許勇氣不是英雄獨自擁有的東西，而是人們一起學會的能力，一次一個決定。通道盡頭，「自由室」門口亮起藍光，要求輸入瑪拉的聲音。",
+        "englishSha256": "88553ecd5c5db2bfccec6ac00136d11c21397bc252761fec3a3a5096f46574dc",
+        "chineseSha256": "d7b37cfc668505b5c6f528f1de639f0aeee340322c85b0f8c01ccbb522fab24c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 618,
+    "targets": [
+      {
+        "word": "alphabet",
+        "meaning": "字母表",
+        "appearsInSource": true
+      },
+      {
+        "word": "basement",
+        "meaning": "地下室",
+        "appearsInSource": true
+      },
+      {
+        "word": "cigarette",
+        "meaning": "香菸",
+        "appearsInSource": true
+      },
+      {
+        "word": "clip",
+        "meaning": "夾子",
+        "appearsInSource": true
+      },
+      {
+        "word": "cock",
+        "meaning": "公雞",
+        "appearsInSource": true
+      },
+      {
+        "word": "collection",
+        "meaning": "收藏品",
+        "appearsInSource": true
+      },
+      {
+        "word": "foggy",
+        "meaning": "起霧的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hired",
+        "meaning": "雇用",
+        "appearsInSource": true
+      },
+      {
+        "word": "honesty",
+        "meaning": "誠實",
+        "appearsInSource": true
+      },
+      {
+        "word": "kindergarten",
+        "meaning": "幼兒園",
+        "appearsInSource": true
+      },
+      {
+        "word": "learning",
+        "meaning": "學習",
+        "appearsInSource": true
+      },
+      {
+        "word": "liberty",
+        "meaning": "自由",
+        "appearsInSource": true
+      },
+      {
+        "word": "meaningful",
+        "meaning": "有意義的",
+        "appearsInSource": true
+      },
+      {
+        "word": "powder",
+        "meaning": "粉末",
+        "appearsInSource": true
+      },
+      {
+        "word": "previous",
+        "meaning": "先前的",
+        "appearsInSource": true
+      },
+      {
+        "word": "queer",
+        "meaning": "奇怪的",
+        "appearsInSource": true
+      },
+      {
+        "word": "reveal",
+        "meaning": "揭露",
+        "appearsInSource": true
+      },
+      {
+        "word": "shampoo",
+        "meaning": "洗髮精",
+        "appearsInSource": true
+      },
+      {
+        "word": "weaving",
+        "meaning": "編織",
+        "appearsInSource": true
+      },
+      {
+        "word": "wisdom",
+        "meaning": "智慧",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Alphabet Archive〉第 1 段的事件，哪個選項能正確補完整句？\nIts walls were painted with an alphabet, and a wooden cock stood beside ____.",
+      "options": [
+        "a simple message",
+        "a tiny classroom bell",
+        "a lollipop"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a tiny classroom bell",
+      "existingAnswerExplanation": "原文證據：Its walls were painted with an alphabet, and a wooden cock stood beside a tiny classroom bell.\n本段對照：語言檔案庫位於「極光號」最老幼兒園下的地下室。牆上畫滿字母，一隻木製公雞站在小教室鈴旁。全船孩子曾在這裡學習閱讀，如今卻上鎖寂靜。年老教師溫在莉娜重複哨聲訊號後開門。溫收藏著地球的舊書、標籤與圖畫。走廊仍有一股奇怪的香菸味，雖然「極光號」數十年來禁止吸菸。「最近有人來過，」溫說，「而且不是為了讀書。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The language archive occupied a basement below Aurora's oldest kindergarten. Its walls were painted with an alphabet, and a wooden cock stood beside a tiny classroom bell. Every child on the ship had once learned to read there, but now the room was locked and silent. An old teacher named Wen opened the door after Lena repeated the whistle signal. Wen had a collection of forgotten books, labels, and drawings from Earth. A queer smell of cigarette smoke lingered in the hall, although smoking had been forbidden aboard Aurora for decades. “Someone was here recently,” Wen said. “And they did not come to read.”",
+          "chinese": "語言檔案庫位於「極光號」最老幼兒園下的地下室。牆上畫滿字母，一隻木製公雞站在小教室鈴旁。全船孩子曾在這裡學習閱讀，如今卻上鎖寂靜。年老教師溫在莉娜重複哨聲訊號後開門。溫收藏著地球的舊書、標籤與圖畫。走廊仍有一股奇怪的香菸味，雖然「極光號」數十年來禁止吸菸。「最近有人來過，」溫說，「而且不是為了讀書。」",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 4,
+          "english": "Before they could leave, Wen revealed why the archive had remained protected. The school system still ran on an independent network, one that the governor had never fully controlled. “Education is not just a collection of facts,” she said. “It is learning to ask what a fact means.” Mara had used that freedom to store evidence safely. Wen's husband had helped her, then vanished during the investigation. Wen had waited years for someone to return. Her face showed no dramatic anger, only the tired patience of a person who had held a promise longer than she had expected.",
+          "chinese": "離開前，溫說明檔案庫得以保存的原因。學校系統仍運作在獨立網路上，總督從未完全控制。「教育不只是蒐集事實，」她說，「更要學會問事實代表什麼。」瑪拉利用這份自由安全保存證據。溫的丈夫曾協助她，之後在調查期間失蹤。溫多年來都等待有人回來。她的臉上沒有戲劇性的怒氣，只有守著承諾比預期更久的人那份疲憊與耐心。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Alphabet Archive〉第 6 段的事件，哪個選項能正確補完整句？\nThe words made ____ who had joined Tomas.",
+      "options": [
+        "her think of the workers",
+        "her own name",
+        "her a steady smile"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "her think of the workers",
+      "existingAnswerExplanation": "原文證據：The words made her think of the workers who had joined Tomas.\n本段對照：他們從幼兒園地板下的通道逃走。溫替他們關門時，送給莉娜一本真正的紙本書。故事描寫女孩在濃霧城市裡提著光前進，直到其他人也開始分享燈火。莉娜把書放進母親的日記旁。文字讓她想到加入托瑪斯的工人。也許勇氣不是英雄獨自擁有的東西，而是人們一起學會的能力，一次一個決定。通道盡頭，「自由室」門口亮起藍光，要求輸入瑪拉的聲音。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "They escaped through a passage hidden beneath the kindergarten floor. As Wen closed it behind them, she gave Lena a small book printed on real paper. It told the story of a girl who carried a light through a foggy city until other people began sharing their lamps. Lena tucked the book beside her mother's journal. The words made her think of the workers who had joined Tomas. Perhaps courage was not something a hero possessed alone. Perhaps it was something people learned together, one decision at a time. At the end of the passage, the Liberty Room's door glowed blue and asked for Mara's voice.",
+          "chinese": "他們從幼兒園地板下的通道逃走。溫替他們關門時，送給莉娜一本真正的紙本書。故事描寫女孩在濃霧城市裡提著光前進，直到其他人也開始分享燈火。莉娜把書放進母親的日記旁。文字讓她想到加入托瑪斯的工人。也許勇氣不是英雄獨自擁有的東西，而是人們一起學會的能力，一次一個決定。通道盡頭，「自由室」門口亮起藍光，要求輸入瑪拉的聲音。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The language archive occupied a basement below Aurora's oldest kindergarten. Its walls were painted with an alphabet, and a wooden cock stood beside a tiny classroom bell. Every child on the ship had once learned to read there, but now the room was locked and silent. An old teacher named Wen opened the door after Lena repeated the whistle signal. Wen had a collection of forgotten books, labels, and drawings from Earth. A queer smell of cigarette smoke lingered in the hall, although smoking had been forbidden aboard Aurora for decades. “Someone was here recently,” Wen said. “And they did not come to read.”",
+          "chinese": "語言檔案庫位於「極光號」最老幼兒園下的地下室。牆上畫滿字母，一隻木製公雞站在小教室鈴旁。全船孩子曾在這裡學習閱讀，如今卻上鎖寂靜。年老教師溫在莉娜重複哨聲訊號後開門。溫收藏著地球的舊書、標籤與圖畫。走廊仍有一股奇怪的香菸味，雖然「極光號」數十年來禁止吸菸。「最近有人來過，」溫說，「而且不是為了讀書。」",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

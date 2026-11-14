@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 3,
+  "chapterId": "import-last-garden-3",
+  "sourceChapterSha256": "35f31fcdb046d2dcbceaaefa6f0d40f7000853b437ea112a2e33662eb8123292",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "瑟拉稽查員以原始系統授權停止機器人追捕，揭露港灣星大氣讀數遭改、母親未見遺體；歐林總督用學校照片誣陷雙胞胎。",
+    "previousChapterEndingEnglish": "They emerged into a corridor lined with living roots. Each root carried a drop of water toward a vast chamber, where an artificial forest grew without sunlight. In its center stood a machine as tall as a tower, pulsing in time with the thumps. “It's a second garden,” Noah whispered, “and it has been hidden from us.” The machine's display showed one more message from Mara: WHEN THE ROOTS TOUCH THE STARS, CHOOSE THE PEOPLE OVER THE PLAN. Somewhere overhead an alarm woke. A new announcement rang through Aurora: UNAUTHORIZED TOURISTS HAVE ENTERED A RESTRICTED ZONE. SECURITY RESPONSE AUTHORIZED.",
+    "nextChapterOpeningEnglish": "The twins hid in the ship's oldest recreation quarter, where retired workers kept a tiny barn of mechanical animals for children. A robot squirrel chased a toy nut across the floor, while a painter repaired a faded mural of Earth's night sky. The painter, an elderly traveler named Ivo, recognized Mara's seed case. He said he had once shared her ambition: to build a place where children could see a real forest. “She had a vision far larger than this ship,” he told them. When Lena asked where Mara had gone, Ivo pointed toward the music hall. “Tonight's concert contains her final message.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Security robots raced along the hidden corridor, forcing the twins into the underground forest. The trees grew inside a greenhouse bigger than Garden Seven, their branches lit by pale lamps. An energetic old woman in a stained apron stepped from behind a row of tomatoes and ordered the robots to stop. She called herself Inspector Sera, a senior officer responsible for checking the ship's original life-support systems. She showed them a badge and a dented bucket of nutrient water. “If you cannot afford to lose the gardens,” she told Lena, “you cannot afford to lose the truth either.” The robots withdrew after scanning her authority code.",
+        "zh": "保全機器人沿著祕密長廊衝來，逼得雙胞胎跑進地下森林。樹木生長在一座比七號花園還大的溫室，枝條被蒼白燈光照亮。一名精力充沛的老婦穿著沾汙的圍裙，從番茄田後走出，命令機器人停下。她自稱瑟拉稽查員，負責檢查太空船原始生命維持系統。她亮出證件與一桶凹陷的營養液。「如果你們承受不起失去花園，」她對莉娜說，「那也承受不起失去真相。」機器人掃描她的授權碼後撤離。",
+        "englishSha256": "da824c2928ff2f3e5635fead54ca1c1cdf98ff38a86d336d5e960aeeedcaef65",
+        "chineseSha256": "bc0b91c67456cc0e5e769bb300b778342c1ca6446281ba6dcdff2d599160cf29"
+      },
+      {
+        "number": 2,
+        "en": "Sera led them past a machine that cast moving shadows of Earth animals on the walls: a penguin sliding over ice, an ox walking across a field, and a child holding a lollipop. The images belonged to an education program that had never been opened to the passengers. “Your mother installed these,” Sera said. She explained that Mara had discovered an ongoing error in Haven's atmospheric readings before launch. Official records showed a dramatic improvement overnight, but the original data had begun to fade from the archives. Mara suspected that someone had replaced the measurements rather than repaired the sensors.",
+        "zh": "瑟拉領他們經過一台機器，牆上投射著地球動物的動態影子：滑過冰面的企鵝、走過田野的牛，以及拿著棒棒糖的小孩。這套教育程式從未對乘客開放。「是你們母親裝的。」瑟拉說。她解釋，瑪拉在啟航前發現港灣星的大氣讀數持續出錯。官方紀錄卻顯示數據一夜之間大幅改善，而原始資料逐漸從檔案庫消失。瑪拉懷疑有人替換了測量結果，並非真正修好了感測器。",
+        "englishSha256": "3b25a0a06ea1a48bbf62c08d92e2aed673768a40f3808a58048a86a35e81b536",
+        "chineseSha256": "6ffb9854e3f98be7b3d7164ceef79349b42f4fb08cf6ab2987e57aa456181225"
+      },
+      {
+        "number": 3,
+        "en": "They inspected the hidden garden's floor. Under the dirt lay thick cables leading into a deep pit. At the bottom, a machine maintained the ship's artificial heart. Noah found an empty entry in its maintenance record, followed by the name of a security spy. Sera's face tightened. The spy was supposed to have died years earlier, yet someone had used that identity to enter the chamber only yesterday. Lena climbed a narrow ladder and reached for a loose plug. When she restored the connection, the machine played a recording of an argument between Mara and the ship's governor.",
+        "zh": "他們檢查地下花園的地板。泥土下的粗電纜通向深坑，底部機器維持著船上的人工心臟。諾亞在維修紀錄中找到一筆空白登錄，下一行則出現某名保全間諜的姓名。瑟拉臉色一沉。那名間諜理應多年前就已死亡，卻有人昨天使用其身分進入了這裡。莉娜沿著窄梯爬上去，重新接妥鬆脫的插頭。機器立刻播放瑪拉與太空船總督爭執的錄音。",
+        "englishSha256": "435d34a7822f0f7775cbfcdecb7bac6f4a0ff37d11931be1f64f23b53f400090",
+        "chineseSha256": "1fcde144cfc4d331149e060424e538dc1767bcfececc500f9b79d5864c3e4367"
+      },
+      {
+        "number": 4,
+        "en": "“You cannot send sleeping families into an unknown world,” Mara said. “The atmosphere may change their bodies.” The governor replied that abandoning the destination would destroy the entire mission. A door slammed, and the recording ended. Noah looked at Sera. “Did my mother die because she disagreed?” Sera did not answer immediately. Instead she gave each twin a small dessert made from the hidden greenhouse's berries, then spoke with a sadness that frightened them more than anger. “I never saw a body,” she admitted. “Only a report. And reports can be written by people who lie.”",
+        "zh": "「你不能把沉睡的家庭送進未知世界，」瑪拉說，「那裡的大氣可能改變他們的身體。」總督回答，放棄目的地將摧毀整個任務。接著門猛然關上，錄音中斷。諾亞望向瑟拉：「我母親是因為反對而死的嗎？」瑟拉沒有立刻回答。她先給兩人各一份用地下溫室莓果製作的小甜點，再以比憤怒更令人害怕的悲傷語氣說：「我從沒看見遺體，只有一份報告。但報告可以由說謊的人寫成。」",
+        "englishSha256": "77a455f8de33cf548014602fcdfc90044b551eab931dd9aed4e43193d49354b1",
+        "chineseSha256": "cd2ce21d920abdebf6fa255d97c2c5186d707032fd81ceaadd0913ff5469cecb"
+      },
+      {
+        "number": 5,
+        "en": "The old woman told them to hide the recording before the governor's agents found it. A distant engine roared through the walls. The robots had returned with heavier tools, and their metal feet beat against the corridor. Sera handed Lena a seed case and pointed to a drainage tunnel. “There is an exit under the water tanks. Follow the blue light.” Noah asked whether she would come. “Someone must remain here to protect the roots,” Sera said. She smiled, but the skin beneath her eyes showed fear. “Your mother did not build this place so that we could spend our lives hiding.”",
+        "zh": "老婦要他們在總督手下找到錄音前先藏好。牆內傳來遠方引擎的轟鳴。機器人帶著更重的工具回來了，金屬腳步敲打著長廊。瑟拉交給莉娜一盒種子，指向排水隧道。「水槽下有出口，跟著藍光走。」諾亞問她是否同行。「總得有人留下來守護根系。」瑟拉說。她雖然微笑，眼底卻藏著恐懼。「你們母親不是為了讓我們終生躲藏，才建造這個地方。」",
+        "englishSha256": "80b3c84565eb97e412c32c56cab02e1aa0c654ff4ae3469a16ba84562fe3ce58",
+        "chineseSha256": "bb1e540c3c4319466d942ed195a1c96833c733e4e3a59dcfb79abdb7042c7958"
+      },
+      {
+        "number": 6,
+        "en": "The twins crawled through the tunnel until their clothes were covered with mud. When they reached a small service balcony, they saw the passenger decks spread above them. Suddenly a face appeared on every screen. It belonged to Governor Orin, whose voice was calm and warm. He announced that two young workers had stolen dangerous information and asked all citizens to report them. The picture showed Lena and Noah smiling during a school celebration. “He has made us look like criminals,” Noah said. Lena closed the seed case in her fist. “Then our next job,” she replied, “is to prove what really happened.”",
+        "zh": "雙胞胎爬過隧道，弄得滿身泥濘。抵達小型維修陽台時，他們看見上方層層展開的乘客甲板。突然，每個螢幕都出現一張臉：歐林總督。他用溫和而沉穩的聲音宣布，兩名年輕工作人員偷走危險資料，請所有居民通報他們的行蹤。畫面竟使用莉娜與諾亞在學校慶典微笑的照片。「他把我們塑造成罪犯了。」諾亞說。莉娜在拳中握緊種子盒。「那我們下一步，」她回答，「就是證明真正發生過的事。」",
+        "englishSha256": "47059073782cf5870589f5163c3deb3999b1dd824bc1ca49ffaedd3780b7df8e",
+        "chineseSha256": "4e4ab50d19a56c5a78223d1c9414c1d27b76803b4768d9f743e6e6bd170b2eae"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 605,
+    "targets": [
+      {
+        "word": "afford",
+        "meaning": "承受得起",
+        "appearsInSource": true
+      },
+      {
+        "word": "apron",
+        "meaning": "圍裙",
+        "appearsInSource": true
+      },
+      {
+        "word": "bucket",
+        "meaning": "水桶",
+        "appearsInSource": true
+      },
+      {
+        "word": "cast",
+        "meaning": "投射",
+        "appearsInSource": true
+      },
+      {
+        "word": "dessert",
+        "meaning": "甜點",
+        "appearsInSource": true
+      },
+      {
+        "word": "dirt",
+        "meaning": "泥土",
+        "appearsInSource": true
+      },
+      {
+        "word": "dramatic",
+        "meaning": "戲劇性巨大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "energetic",
+        "meaning": "精力充沛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "entry",
+        "meaning": "登錄紀錄",
+        "appearsInSource": true
+      },
+      {
+        "word": "fade",
+        "meaning": "褪色",
+        "appearsInSource": true
+      },
+      {
+        "word": "greenhouse",
+        "meaning": "溫室",
+        "appearsInSource": true
+      },
+      {
+        "word": "inspector",
+        "meaning": "稽查員",
+        "appearsInSource": true
+      },
+      {
+        "word": "lollipop",
+        "meaning": "棒棒糖",
+        "appearsInSource": true
+      },
+      {
+        "word": "ongoing",
+        "meaning": "持續進行的",
+        "appearsInSource": true
+      },
+      {
+        "word": "ox",
+        "meaning": "牛",
+        "appearsInSource": true
+      },
+      {
+        "word": "penguin",
+        "meaning": "企鵝",
+        "appearsInSource": true
+      },
+      {
+        "word": "pit",
+        "meaning": "深坑",
+        "appearsInSource": true
+      },
+      {
+        "word": "plug",
+        "meaning": "插頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "senior",
+        "meaning": "資深的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spy",
+        "meaning": "間諜",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Inspector Below〉第 2 段的事件，哪個選項能正確補完整句？\nSera led them past a machine that cast moving shadows of Earth animals on the walls: a penguin sliding over ice, an ox walking across a field, and a child holding ____.",
+      "options": [
+        "a lollipop",
+        "a small smile",
+        "a childhood lesson"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a lollipop",
+      "existingAnswerExplanation": "原文證據：Sera led them past a machine that cast moving shadows of Earth animals on the walls: a penguin sliding over ice, an ox walking across a field, and a child holding a lollipop.\n本段對照：瑟拉領他們經過一台機器，牆上投射著地球動物的動態影子：滑過冰面的企鵝、走過田野的牛，以及拿著棒棒糖的小孩。這套教育程式從未對乘客開放。「是你們母親裝的。」瑟拉說。她解釋，瑪拉在啟航前發現港灣星的大氣讀數持續出錯。官方紀錄卻顯示數據一夜之間大幅改善，而原始資料逐漸從檔案庫消失。瑪拉懷疑有人替換了測量結果，並非真正修好了感測器。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Sera led them past a machine that cast moving shadows of Earth animals on the walls: a penguin sliding over ice, an ox walking across a field, and a child holding a lollipop. The images belonged to an education program that had never been opened to the passengers. “Your mother installed these,” Sera said. She explained that Mara had discovered an ongoing error in Haven's atmospheric readings before launch. Official records showed a dramatic improvement overnight, but the original data had begun to fade from the archives. Mara suspected that someone had replaced the measurements rather than repaired the sensors.",
+          "chinese": "瑟拉領他們經過一台機器，牆上投射著地球動物的動態影子：滑過冰面的企鵝、走過田野的牛，以及拿著棒棒糖的小孩。這套教育程式從未對乘客開放。「是你們母親裝的。」瑟拉說。她解釋，瑪拉在啟航前發現港灣星的大氣讀數持續出錯。官方紀錄卻顯示數據一夜之間大幅改善，而原始資料逐漸從檔案庫消失。瑪拉懷疑有人替換了測量結果，並非真正修好了感測器。",
+          "matchedQueryTerms": 35
+        },
+        {
+          "paragraph": 1,
+          "english": "Security robots raced along the hidden corridor, forcing the twins into the underground forest. The trees grew inside a greenhouse bigger than Garden Seven, their branches lit by pale lamps. An energetic old woman in a stained apron stepped from behind a row of tomatoes and ordered the robots to stop. She called herself Inspector Sera, a senior officer responsible for checking the ship's original life-support systems. She showed them a badge and a dented bucket of nutrient water. “If you cannot afford to lose the gardens,” she told Lena, “you cannot afford to lose the truth either.” The robots withdrew after scanning her authority code.",
+          "chinese": "保全機器人沿著祕密長廊衝來，逼得雙胞胎跑進地下森林。樹木生長在一座比七號花園還大的溫室，枝條被蒼白燈光照亮。一名精力充沛的老婦穿著沾汙的圍裙，從番茄田後走出，命令機器人停下。她自稱瑟拉稽查員，負責檢查太空船原始生命維持系統。她亮出證件與一桶凹陷的營養液。「如果你們承受不起失去花園，」她對莉娜說，「那也承受不起失去真相。」機器人掃描她的授權碼後撤離。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Inspector Below〉第 6 段的事件，哪個選項能正確補完整句？\nLena closed ____ in her fist.",
+      "options": [
+        "the evidence",
+        "the central control board",
+        "the seed case"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the seed case",
+      "existingAnswerExplanation": "原文證據：Lena closed the seed case in her fist.\n本段對照：雙胞胎爬過隧道，弄得滿身泥濘。抵達小型維修陽台時，他們看見上方層層展開的乘客甲板。突然，每個螢幕都出現一張臉：歐林總督。他用溫和而沉穩的聲音宣布，兩名年輕工作人員偷走危險資料，請所有居民通報他們的行蹤。畫面竟使用莉娜與諾亞在學校慶典微笑的照片。「他把我們塑造成罪犯了。」諾亞說。莉娜在拳中握緊種子盒。「那我們下一步，」她回答，「就是證明真正發生過的事。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The twins crawled through the tunnel until their clothes were covered with mud. When they reached a small service balcony, they saw the passenger decks spread above them. Suddenly a face appeared on every screen. It belonged to Governor Orin, whose voice was calm and warm. He announced that two young workers had stolen dangerous information and asked all citizens to report them. The picture showed Lena and Noah smiling during a school celebration. “He has made us look like criminals,” Noah said. Lena closed the seed case in her fist. “Then our next job,” she replied, “is to prove what really happened.”",
+          "chinese": "雙胞胎爬過隧道，弄得滿身泥濘。抵達小型維修陽台時，他們看見上方層層展開的乘客甲板。突然，每個螢幕都出現一張臉：歐林總督。他用溫和而沉穩的聲音宣布，兩名年輕工作人員偷走危險資料，請所有居民通報他們的行蹤。畫面竟使用莉娜與諾亞在學校慶典微笑的照片。「他把我們塑造成罪犯了。」諾亞說。莉娜在拳中握緊種子盒。「那我們下一步，」她回答，「就是證明真正發生過的事。」",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "Security robots raced along the hidden corridor, forcing the twins into the underground forest. The trees grew inside a greenhouse bigger than Garden Seven, their branches lit by pale lamps. An energetic old woman in a stained apron stepped from behind a row of tomatoes and ordered the robots to stop. She called herself Inspector Sera, a senior officer responsible for checking the ship's original life-support systems. She showed them a badge and a dented bucket of nutrient water. “If you cannot afford to lose the gardens,” she told Lena, “you cannot afford to lose the truth either.” The robots withdrew after scanning her authority code.",
+          "chinese": "保全機器人沿著祕密長廊衝來，逼得雙胞胎跑進地下森林。樹木生長在一座比七號花園還大的溫室，枝條被蒼白燈光照亮。一名精力充沛的老婦穿著沾汙的圍裙，從番茄田後走出，命令機器人停下。她自稱瑟拉稽查員，負責檢查太空船原始生命維持系統。她亮出證件與一桶凹陷的營養液。「如果你們承受不起失去花園，」她對莉娜說，「那也承受不起失去真相。」機器人掃描她的授權碼後撤離。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

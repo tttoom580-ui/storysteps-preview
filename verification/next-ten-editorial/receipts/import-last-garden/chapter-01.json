@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 1,
+  "chapterId": "import-last-garden-1",
+  "sourceChapterSha256": "04d51638e880e1da5552d1a9a1287b8274a581e8c28ff2e9b4317cd53801ee9d",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "極光號航行八十年，雙胞胎莉娜與諾亞維護七號花園；水槽異常、生命維持系統凍結與三短一長求救哨聲，引出十二分鐘前從地球傳來的母親警告。",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "The recorded woman said her name was Mara Vale, the engineer who had designed Aurora's gardens. Lena recognized the surname: Mara was their mother, whom they had believed dead for thirteen years. Noah ran a finger over the blue ribbon, remembering how their mother used to decorate their cradle with ribbons on birthdays. The message ordered them to visit the Memory Exhibition on Deck Twelve. There, beyond the main avenue of sleeping cabins, an ancient elevator still connected the public rooms with the forbidden headquarters. The twins left before the night shift began, carrying the box beneath Noah's coat."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "For eighty years the spaceship Aurora had crossed the darkness between stars. Five hundred passengers slept in silver chambers, trusting the ship to find them another home. Seventeen-year-old Lena and her twin brother Noah belonged to the small crew that stayed awake. Their duty was to care for Garden Seven, where vegetables grew under artificial sunlight and a coconut tree stood beside a patch of dry hay. The garden looked peaceful, but every leaf was part of the ship's breathing system. Without these plants, the sleeping passengers would eventually use the last of their clean air.",
+        "zh": "八十年來，太空船「極光號」一直穿越群星之間的黑暗。五百名乘客睡在銀色艙室裡，相信太空船能替他們找到新家。十七歲的莉娜與雙胞胎弟弟諾亞，屬於少數保持清醒的船員。他們負責照顧七號花園，那裡的蔬菜在人造陽光下生長，一棵椰子樹立在乾草旁。花園看似平靜，卻是全船呼吸系統的一部分。沒有這些植物，沉睡的乘客終將耗盡乾淨的空氣。",
+        "englishSha256": "de0b57304c7abde5b24fb6228c9e7dd1e7c1661ae0c5a2a4dab0a6d9eb122ed5",
+        "chineseSha256": "d12f40dbe17fbb3814dd7ae73c117538b7e6a7618f6132e370c9798e2178bce3"
+      },
+      {
+        "number": 2,
+        "en": "One morning a red warning appeared: WATER LEVEL CRITICAL. The ship's computer said that closing Garden Seven was an acceptable sacrifice to save the other gardens. Lena called the decision cruel. Noah rested his chin on his hand and studied the numbers. Every pipe showed normal pressure, yet the tank was nearly empty. He offered to advise the computer on a new test, but it refused to listen. Lena took a glance at the floor and noticed a single drip falling from an old pipe. From somewhere behind the wall came a thin whistle that rose and fell like a frightened bird.",
+        "zh": "某天早晨，螢幕亮起紅色警告：「水位危急」。電腦表示，關閉七號花園是為了保護其他花園而可以接受的犧牲。莉娜覺得這項決定很殘忍。諾亞用手托著下巴研究數據。所有水管壓力都正常，水槽卻幾乎見底。他想建議電腦再做一次測試，電腦卻拒絕聽取。莉娜瞥向地面，注意到一滴水從老舊水管落下。牆後還傳來細細的哨聲，像受驚的鳥兒一般忽高忽低。",
+        "englishSha256": "763212b431d7f48443c713deed8d7b021a1cb09ddecdc89268200bb560ba05bc",
+        "chineseSha256": "1eff135fa9fb271cfcb7852148acb311a14707b937aa2bcd4706af4dc8f6b864"
+      },
+      {
+        "number": 3,
+        "en": "The children opened a maintenance hatch to explore the passage behind the garden. Their lights revealed a forgotten laundry room, a broken stool, and a cardboard box labeled TOBACCO, left behind by people who had lived on Earth long before either child was born. A control panel showed that the washing machines once cleaned used water and sent it back to the roots. Now one valve had turned in the wrong direction. Lena reached to connect two loose wires, but an alarm slammed the hatch shut. Extreme cold swept into the room as the life-support system cut its heat. They had ten minutes before their hands became too stiff to work.",
+        "zh": "兩人打開維修蓋板，探索花園後方的通道。手電筒照出一間被遺忘的洗衣室、一張壞凳子，以及一個寫著「菸草」的紙箱，那是遠在兩人出生前就生活於地球的人留下的。控制面板顯示，洗衣機原本會淨化廢水，再送回植物根部。如今，一個閥門轉錯了方向。莉娜伸手要接上鬆脫的電線，警報卻突然響起，維修門砰然關閉。生命維持系統切斷供暖，極端寒氣湧進室內。他們只剩十分鐘，之後雙手就會凍僵。",
+        "englishSha256": "67ca7197226c0280d7f8180c9fa2d9a02b0c723bf719a2a7ed33eb601e78a347",
+        "chineseSha256": "93da95d918a2a663a6561a9cabcc29a92bb1110a7abed5788bf3859c1a3a8e09"
+      },
+      {
+        "number": 4,
+        "en": "An emergency battery could either open the door or restart the water system, not both. Noah said choosing the garden was a terrible gamble. For one shameful moment Lena felt envy toward the sleeping passengers, who never had to make such choices. Then she thought of their faces: an old woman with a blue blanket, a baby carried aboard in its mother's arms, and hundreds of people who might never see daylight. “Restart the water,” she said. The machines shook, a green light flashed, and water rushed toward the plants. Darkness returned immediately. Noah was trembling, and Lena offered a sincere apology for an argument they had had the night before.",
+        "zh": "緊急電池的電力只夠打開門，或者重啟水循環系統，無法兼顧。諾亞說，選擇花園是一場可怕的賭注。有一瞬間，莉娜甚至羨慕那些沉睡中的乘客，因為他們不用面對如此艱難的決定。但她隨即想到那些臉孔：蓋著藍毯的老婦、當年由母親抱上船的嬰兒，以及數百位可能永遠見不到日光的人。「重啟水循環。」她說。機器震動、綠燈閃爍，水再次流向植物，隨後室內陷入黑暗。諾亞冷得發抖，莉娜則為前一晚的爭吵真誠道歉。",
+        "englishSha256": "a54534ecab0ea692d441eb0f6ebbeb952aa69333c1129d05d1934ec585ee47a4",
+        "chineseSha256": "43f5beb189e412a939e29331310c073e4d38fc9899420a4c0702ecba65247191"
+      },
+      {
+        "number": 5,
+        "en": "Noah did not blame her. He listened to the whistle and recognized the rhythm: three short sounds followed by one long one. It was an old emergency signal. He removed the pipe cover and blew into it with all his strength. After a terrible silence, three answering notes arrived. A rescue robot opened the hatch just as Lena's vision began to blur. The robot carried them to the medical bay, where each received a small dose of medicine for the cold. When they returned, the computer announced that Garden Seven would survive. Even the coconut leaves had lifted toward the warm lamps.",
+        "zh": "諾亞沒有責怪她。他聽著哨聲，辨認出「三短一長」的節奏，那是古老的緊急求救訊號。他卸下通風管蓋，用盡力氣往裡面吹氣。在令人難受的沉默之後，終於傳來三聲回應。救援機器人打開維修門時，莉娜眼前已開始模糊。機器人把他們送到醫療艙，兩人各接受了一小劑治療寒冷傷害的藥物。回去之後，電腦宣布七號花園得以存活，連椰子葉都重新朝溫暖的燈光伸展。",
+        "englishSha256": "8d3dbdec594a87eb7509c84d4f1536eb6c5e22029329ab00bf9a0015cf31b064",
+        "chineseSha256": "214d8a9c428ef2afa470cfb46f4478ebf9b32d48ee0883ff97ea383369887c7d"
+      },
+      {
+        "number": 6,
+        "en": "That evening Lena returned alone to thank the garden, though she felt foolish speaking to trees. Under the coconut trunk lay a metal box that had not been there that morning. The whistle sounded again, but this time it came directly from the box. Its screen showed four words: MESSAGE FROM PLANET EARTH. According to the date below, the message had been sent just twelve minutes earlier. Earth was eighty years behind them, much too distant for ordinary radio. Before Lena could call Noah, another line appeared: DO NOT TRUST THE DESTINATION. The box opened by itself, revealing a small blue ribbon and a recording of a woman's voice.",
+        "zh": "當晚，莉娜獨自回花園道謝，雖然她也覺得對樹說話很傻。椰子樹幹下有一個早上還不存在的金屬盒。哨聲再次響起，這回直接來自盒子。螢幕上寫著：「來自地球的訊息」。日期顯示，訊息竟是十二分鐘前才發送的。地球早已在八十光年航程之外，普通無線電根本不可能這麼快抵達。還沒來得及叫諾亞，另一行字便跳出：「不要相信目的地。」盒子自行打開，裡面是一條藍色緞帶，以及一段女人的錄音。",
+        "englishSha256": "103d193b96e4a2a44b17f014052e8a2a9b53896b252cb398c0b71f3ce6ccdf0b",
+        "chineseSha256": "7af24112c526719ab33499cd293c3ceeeedb70a607eb87743a74d2811d8339e2"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 631,
+    "targets": [
+      {
+        "word": "acceptable",
+        "meaning": "可以接受的",
+        "appearsInSource": true
+      },
+      {
+        "word": "advise",
+        "meaning": "建議",
+        "appearsInSource": true
+      },
+      {
+        "word": "chin",
+        "meaning": "下巴",
+        "appearsInSource": true
+      },
+      {
+        "word": "coconut",
+        "meaning": "椰子",
+        "appearsInSource": true
+      },
+      {
+        "word": "connect",
+        "meaning": "連接",
+        "appearsInSource": true
+      },
+      {
+        "word": "cruel",
+        "meaning": "殘忍的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dose",
+        "meaning": "一劑藥",
+        "appearsInSource": true
+      },
+      {
+        "word": "drip",
+        "meaning": "水滴",
+        "appearsInSource": true
+      },
+      {
+        "word": "envy",
+        "meaning": "羨慕",
+        "appearsInSource": true
+      },
+      {
+        "word": "explore",
+        "meaning": "探索",
+        "appearsInSource": true
+      },
+      {
+        "word": "extreme",
+        "meaning": "極端的",
+        "appearsInSource": true
+      },
+      {
+        "word": "gamble",
+        "meaning": "冒險賭注",
+        "appearsInSource": true
+      },
+      {
+        "word": "glance",
+        "meaning": "一瞥",
+        "appearsInSource": true
+      },
+      {
+        "word": "hay",
+        "meaning": "乾草",
+        "appearsInSource": true
+      },
+      {
+        "word": "laundry",
+        "meaning": "洗衣",
+        "appearsInSource": true
+      },
+      {
+        "word": "sincere",
+        "meaning": "真誠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "stool",
+        "meaning": "凳子",
+        "appearsInSource": true
+      },
+      {
+        "word": "tobacco",
+        "meaning": "菸草",
+        "appearsInSource": true
+      },
+      {
+        "word": "twin",
+        "meaning": "雙胞胎之一",
+        "appearsInSource": true
+      },
+      {
+        "word": "whistle",
+        "meaning": "哨聲",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Strange Whistle〉第 1 段的事件，哪個選項能正確補完整句？\nTheir duty was to care for Garden Seven, where vegetables grew under artificial sunlight and a coconut tree stood beside ____.",
+      "options": [
+        "a simple message",
+        "a patch of dry hay",
+        "a tiny barn of mechanical animals"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a patch of dry hay",
+      "existingAnswerExplanation": "原文證據：Their duty was to care for Garden Seven, where vegetables grew under artificial sunlight and a coconut tree stood beside a patch of dry hay.\n本段對照：八十年來，太空船「極光號」一直穿越群星之間的黑暗。五百名乘客睡在銀色艙室裡，相信太空船能替他們找到新家。十七歲的莉娜與雙胞胎弟弟諾亞，屬於少數保持清醒的船員。他們負責照顧七號花園，那裡的蔬菜在人造陽光下生長，一棵椰子樹立在乾草旁。花園看似平靜，卻是全船呼吸系統的一部分。沒有這些植物，沉睡的乘客終將耗盡乾淨的空氣。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "For eighty years the spaceship Aurora had crossed the darkness between stars. Five hundred passengers slept in silver chambers, trusting the ship to find them another home. Seventeen-year-old Lena and her twin brother Noah belonged to the small crew that stayed awake. Their duty was to care for Garden Seven, where vegetables grew under artificial sunlight and a coconut tree stood beside a patch of dry hay. The garden looked peaceful, but every leaf was part of the ship's breathing system. Without these plants, the sleeping passengers would eventually use the last of their clean air.",
+          "chinese": "八十年來，太空船「極光號」一直穿越群星之間的黑暗。五百名乘客睡在銀色艙室裡，相信太空船能替他們找到新家。十七歲的莉娜與雙胞胎弟弟諾亞，屬於少數保持清醒的船員。他們負責照顧七號花園，那裡的蔬菜在人造陽光下生長，一棵椰子樹立在乾草旁。花園看似平靜，卻是全船呼吸系統的一部分。沒有這些植物，沉睡的乘客終將耗盡乾淨的空氣。",
+          "matchedQueryTerms": 23
+        },
+        {
+          "paragraph": 5,
+          "english": "Noah did not blame her. He listened to the whistle and recognized the rhythm: three short sounds followed by one long one. It was an old emergency signal. He removed the pipe cover and blew into it with all his strength. After a terrible silence, three answering notes arrived. A rescue robot opened the hatch just as Lena's vision began to blur. The robot carried them to the medical bay, where each received a small dose of medicine for the cold. When they returned, the computer announced that Garden Seven would survive. Even the coconut leaves had lifted toward the warm lamps.",
+          "chinese": "諾亞沒有責怪她。他聽著哨聲，辨認出「三短一長」的節奏，那是古老的緊急求救訊號。他卸下通風管蓋，用盡力氣往裡面吹氣。在令人難受的沉默之後，終於傳來三聲回應。救援機器人打開維修門時，莉娜眼前已開始模糊。機器人把他們送到醫療艙，兩人各接受了一小劑治療寒冷傷害的藥物。回去之後，電腦宣布七號花園得以存活，連椰子葉都重新朝溫暖的燈光伸展。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Strange Whistle〉第 6 段的事件，哪個選項能正確補完整句？\nIts screen showed ____: MESSAGE FROM PLANET EARTH.",
+      "options": [
+        "four words",
+        "seven words",
+        "two words"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "four words",
+      "existingAnswerExplanation": "原文證據：Its screen showed four words: MESSAGE FROM PLANET EARTH.\n本段對照：當晚，莉娜獨自回花園道謝，雖然她也覺得對樹說話很傻。椰子樹幹下有一個早上還不存在的金屬盒。哨聲再次響起，這回直接來自盒子。螢幕上寫著：「來自地球的訊息」。日期顯示，訊息竟是十二分鐘前才發送的。地球早已在八十光年航程之外，普通無線電根本不可能這麼快抵達。還沒來得及叫諾亞，另一行字便跳出：「不要相信目的地。」盒子自行打開，裡面是一條藍色緞帶，以及一段女人的錄音。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That evening Lena returned alone to thank the garden, though she felt foolish speaking to trees. Under the coconut trunk lay a metal box that had not been there that morning. The whistle sounded again, but this time it came directly from the box. Its screen showed four words: MESSAGE FROM PLANET EARTH. According to the date below, the message had been sent just twelve minutes earlier. Earth was eighty years behind them, much too distant for ordinary radio. Before Lena could call Noah, another line appeared: DO NOT TRUST THE DESTINATION. The box opened by itself, revealing a small blue ribbon and a recording of a woman's voice.",
+          "chinese": "當晚，莉娜獨自回花園道謝，雖然她也覺得對樹說話很傻。椰子樹幹下有一個早上還不存在的金屬盒。哨聲再次響起，這回直接來自盒子。螢幕上寫著：「來自地球的訊息」。日期顯示，訊息竟是十二分鐘前才發送的。地球早已在八十光年航程之外，普通無線電根本不可能這麼快抵達。還沒來得及叫諾亞，另一行字便跳出：「不要相信目的地。」盒子自行打開，裡面是一條藍色緞帶，以及一段女人的錄音。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 2,
+          "english": "One morning a red warning appeared: WATER LEVEL CRITICAL. The ship's computer said that closing Garden Seven was an acceptable sacrifice to save the other gardens. Lena called the decision cruel. Noah rested his chin on his hand and studied the numbers. Every pipe showed normal pressure, yet the tank was nearly empty. He offered to advise the computer on a new test, but it refused to listen. Lena took a glance at the floor and noticed a single drip falling from an old pipe. From somewhere behind the wall came a thin whistle that rose and fell like a frightened bird.",
+          "chinese": "某天早晨，螢幕亮起紅色警告：「水位危急」。電腦表示，關閉七號花園是為了保護其他花園而可以接受的犧牲。莉娜覺得這項決定很殘忍。諾亞用手托著下巴研究數據。所有水管壓力都正常，水槽卻幾乎見底。他想建議電腦再做一次測試，電腦卻拒絕聽取。莉娜瞥向地面，注意到一滴水從老舊水管落下。牆後還傳來細細的哨聲，像受驚的鳥兒一般忽高忽低。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

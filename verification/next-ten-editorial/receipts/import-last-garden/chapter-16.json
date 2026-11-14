@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 16,
+  "chapterId": "import-last-garden-16",
+  "sourceChapterSha256": "ba018b90b370469268e3554548febdc504173d62646148fec0910de7e72677cb",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "導航工作組重新核算備用燃料，艾米指出空油槽誤算，大家以小推力計畫改變航向，向工人坦承只是狹小生機而非絕對安全。",
+    "previousChapterEndingEnglish": "That night a memorial gathering honored the orchard's injured workers. Paz brought a small branch saved from the oldest fruit tree and placed it beside the grandmother's award. Nobody spoke about victory; they spoke instead about the patient work needed to rebuild. Lena watched a youngster place a drawing of the orchard on the table, a picture in which the trees had grown taller than the ship. Her eyes filled with tears. Then Mara received a message from the station they had visited: Anika was safe, but the Mirror had begun charging its main transmitter. The time remaining before Aurora's final course correction was less than three days.",
+    "nextChapterOpeningEnglish": "The asteroid cave contained the final remote transmitter that Mara's team had built. It was wide enough for a small shuttle and hidden beneath layers of dark stone. Lena, Noah, Emi, and Kel traveled there with additional oxygen and repair tools. A casual message on the entrance screen welcomed them as “darling visitors,” making Kel laugh despite their danger. Inside, water had begun to swell around an old pump, leaving a wet trail across the floor. A small troop of service robots stood motionless beside a broken elevator. The whole place seemed abandoned until a distant voice said, “Do not harm the roots.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The bridge committee met inside an advanced navigation classroom that had become the center of resistance. Someone had covered a wall with an advertisement promising that Haven would be paradise. Its smiling figures looked ridiculous beside the damaged equipment. Armed guards waited outside, though they had agreed not to enter without an emergency. Tomas drew a plan on the board, using commas to separate each stage of the operation. Aurora needed more fuel to escape the Mirror's pull, and the orchard fire had destroyed part of its supply network. Mara believed there was one remaining reserve, hidden behind a sealed greenhouse meadow.",
+        "zh": "艦橋委員會在先進導航教室開會，那裡已成為反抗行動的中心。有人在牆上貼了廣告，宣稱港灣星會是天堂。與受損設備相比，廣告上微笑的人顯得荒謬。武裝警衛在門外等待，雖已同意非緊急情況不闖入。托瑪斯在白板上寫計畫，用逗號分隔每個階段。「極光號」需要更多燃料才能逃離「鏡面」的引力，而果園火災已毀掉部分供應網路。瑪拉認為還有最後一份備用燃料，藏在密封的溫室草地後方。",
+        "englishSha256": "87eb4967cc5e0942ca3fa8441184e876eb763671c1034510da4334a71ea774f0",
+        "chineseSha256": "3e3d92ddb194035bef6a227ce0b2d540458be6b1f9c402f9038d278fd6fba879"
+      },
+      {
+        "number": 2,
+        "en": "The group crossed a passage where every bulb flickered. A moist smell rose from the damaged garden, and a worker was chopping rotten roots away from healthy plants. He apologized for the mess, but Lena thanked him for keeping the surviving seedlings alive. A young mechanic named Emi joined them, carrying a thread of copper wire wrapped around her wrist. Her passion was repairing old machines, and she had studied Mara's designs since childhood. She quoted a line from a maintenance handbook: “A system is strong only when its weakest part can be seen.” Noah liked her immediately, especially when she questioned his calculations without hesitation.",
+        "zh": "眾人走過燈泡不斷閃爍的通道。受損花園散發潮濕氣味，一名工人正在切掉腐爛根部，保護健康植物。他為混亂道歉，莉娜卻感謝他照顧存活的幼苗。年輕技師艾米加入隊伍，手腕纏著一段銅線。她熱愛修復舊機器，從小研究瑪拉的設計。她引用維修手冊的一句話：「系統唯有讓最弱的一環被看見，才稱得上強大。」諾亞立刻喜歡上她，尤其她毫不猶豫地質疑他的計算。",
+        "englishSha256": "0ddaf6a5ed70ee0431d4a02aa530c2e539c9eb18b1a01afb1569f2be0c13d50b",
+        "chineseSha256": "fa8fb8ac3fc23135bcb3ead6f5a0ed453c49aa67990487c8c1c9d242bfd27d3a"
+      },
+      {
+        "number": 3,
+        "en": "At the fuel chamber they found a control panel sealed beneath a metal floor. An old supply robot had spilled liquid across the keys, and the screen no longer responded. Emi removed the broken case and showed Noah how to bypass the damaged contacts. They worked side by side while Lena watched the door. The fuel gauge rose, then stopped at a level too low for their plan. “The sum is wrong,” Noah said. Emi pointed out that he had included a reserve tank that had been emptied years ago. Their argument grew sharp until Mara reminded them that a correct answer mattered more than being right first.",
+        "zh": "燃料室的控制面板藏在金屬地板下。舊補給機器人曾把液體灑滿按鍵，螢幕已失去反應。艾米拆下破殼，教諾亞如何繞過損壞接點。他們並肩工作，莉娜則守門。燃料數值上升後卻停在不足的水位。「總量算錯了。」諾亞說。艾米指出他計入了一座多年前就已用空的備用槽。兩人越爭越激烈，直到瑪拉提醒，得到正確答案比搶先證明自己對更重要。",
+        "englishSha256": "49d89f0fcee6a0ad200c186c653964f0c33560fa3462e0468112e3d64afb18b8",
+        "chineseSha256": "0bc0aa66bb599c66d5c05c8f6ef84701b31ec06884d7746dc013d6c9bbe91b2a"
+      },
+      {
+        "number": 4,
+        "en": "As the machines warmed, heat from a leaking pipe stung Lena's hand. Noah hurried to her side, and she almost laughed at how frightened he looked. She promised that the burn was small. In a nearby storeroom someone had left a bowl of cold spaghetti and a bottle of water. The crew had worked through the night without eating, and their thirst was becoming dangerous. Kel shared the water, then suggested that separation into smaller teams might help them move faster. Mara refused to split everyone before the route was secure, knowing that any missing person could be taken by security. The sting remained for several minutes, a reminder that even minor repairs could cause injuries.",
+        "zh": "機器升溫時，漏氣管的熱浪刺痛了莉娜的手。諾亞急忙跑來，她看見弟弟驚慌的模樣，幾乎忍不住笑。她保證只是小燙傷。附近儲藏室裡有人留下冷掉的義大利麵和一瓶水。大家通宵工作沒吃東西，口渴已開始危險。凱爾分配水，提議分成小隊或許能更快行動。瑪拉在路線安全前拒絕分散眾人，因為任何落單者都可能被保全帶走。那股刺痛持續了數分鐘，提醒大家即使小修理也可能造成傷害。",
+        "englishSha256": "5a34b5ba63925bb2f2c9e1ec51c35c7ae16def530244429c624fc1a21c2a9a95",
+        "chineseSha256": "bd758fdc9fcf63f526d3a225e01876bd152bd402c7909ff487aad6bd76622b53"
+      },
+      {
+        "number": 5,
+        "en": "Finally Emi found the hidden tank beneath the meadow's roots. It contained enough fuel for a short burst of acceleration, but not enough to outrun a full attack from the Mirror. The discovery made the team silent. Then Lena remembered a childhood lesson: in zero gravity, even a small push could redirect a moving object if applied at the correct moment. “We don't need to defeat the Mirror with power,” she said. “We need to change our direction before it realizes what we're doing.” Noah checked the timing and slowly smiled. It was possible, but only if they knew the Mirror's next move.",
+        "zh": "艾米終於在草地根部下找到隱藏油槽。燃料夠用於一次短暫加速，卻不足以甩開「鏡面」的全面攻擊。發現使大家沉默。莉娜想起童年課程：在零重力中，只要時機精準，小小推力也能改變移動物體方向。「我們不必靠力量打敗『鏡面』，」她說，「而是得在它察覺前先改變方向。」諾亞核對時間，慢慢露出笑容。這個方法可能成功，但前提是必須知道「鏡面」下一步會做什麼。",
+        "englishSha256": "4fba3fb31358c354525653ce239a48196e7614bc3e0f6c841529e0a6d082b273",
+        "chineseSha256": "7932e2fc75a3f90e9b7b2c3a28989f528b2af61449aef1bbe99aef425015f439"
+      },
+      {
+        "number": 6,
+        "en": "That evening the team tested a tiny guidance engine. Its first flame was weak, yet the instrument showed a measurable shift. Mara hugged Lena and Noah, praising their patience rather than their bravery. Emi sat beside Noah on a crate and offered him a piece of bread. Beyond the window, the distant Mirror flashed like a second moon. Lena knew they had found only a narrow opening, not safety. She wrote a message to the workers: WE HAVE A PLAN, BUT WE STILL NEED YOUR HELP. When she pressed send, the station answered with an unfamiliar image: a cave cut into a wandering asteroid.",
+        "zh": "當晚，團隊測試小型導引引擎。第一次火焰很微弱，儀表卻顯示出可測量的方向改變。瑪拉擁抱莉娜與諾亞，稱讚他們的耐心，而非勇敢。艾米坐在諾亞旁的木箱上，分給他一塊麵包。窗外遙遠的「鏡面」像第二個月亮閃爍。莉娜知道，他們只找到狹窄機會，還沒有真正安全。她傳給工人訊息：「我們有計畫，但仍需要大家幫忙。」按下發送後，中繼站回了一張陌生影像：漂流小行星上被挖出的洞穴。",
+        "englishSha256": "64ff9afd427303909830e1bac91a24421f8d8edb85fa4f9c88a020ee8b4a5a6c",
+        "chineseSha256": "8bd2d1d07184f69dad7996bb941ab017940790d55083c80398a3a3da73275d18"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 639,
+    "targets": [
+      {
+        "word": "advanced",
+        "meaning": "先進的",
+        "appearsInSource": true
+      },
+      {
+        "word": "advertisement",
+        "meaning": "廣告",
+        "appearsInSource": true
+      },
+      {
+        "word": "armed",
+        "meaning": "武裝的",
+        "appearsInSource": true
+      },
+      {
+        "word": "bulb",
+        "meaning": "燈泡",
+        "appearsInSource": true
+      },
+      {
+        "word": "chopping",
+        "meaning": "切碎",
+        "appearsInSource": true
+      },
+      {
+        "word": "commas",
+        "meaning": "逗號",
+        "appearsInSource": true
+      },
+      {
+        "word": "fuel",
+        "meaning": "燃料",
+        "appearsInSource": true
+      },
+      {
+        "word": "hugged",
+        "meaning": "擁抱",
+        "appearsInSource": true
+      },
+      {
+        "word": "meadow",
+        "meaning": "草地",
+        "appearsInSource": true
+      },
+      {
+        "word": "moist",
+        "meaning": "潮濕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "passion",
+        "meaning": "熱情",
+        "appearsInSource": true
+      },
+      {
+        "word": "quoted",
+        "meaning": "引用",
+        "appearsInSource": true
+      },
+      {
+        "word": "rotten",
+        "meaning": "腐爛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "separation",
+        "meaning": "分開",
+        "appearsInSource": true
+      },
+      {
+        "word": "spaghetti",
+        "meaning": "義大利麵",
+        "appearsInSource": true
+      },
+      {
+        "word": "spilled",
+        "meaning": "灑出",
+        "appearsInSource": true
+      },
+      {
+        "word": "sting",
+        "meaning": "刺痛",
+        "appearsInSource": true
+      },
+      {
+        "word": "sum",
+        "meaning": "總和",
+        "appearsInSource": true
+      },
+      {
+        "word": "thirst",
+        "meaning": "口渴",
+        "appearsInSource": true
+      },
+      {
+        "word": "thread",
+        "meaning": "線",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈Threads of Fire〉第 3 段的事件，哪個選項能正確補完整句？\nAt the fuel chamber they found ____.",
+      "options": [
+        "a control panel sealed beneath a metal floor",
+        "a microwave unit still working",
+        "a recording of a scholar"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a control panel sealed beneath a metal floor",
+      "existingAnswerExplanation": "原文證據：At the fuel chamber they found a control panel sealed beneath a metal floor.\n本段對照：燃料室的控制面板藏在金屬地板下。舊補給機器人曾把液體灑滿按鍵，螢幕已失去反應。艾米拆下破殼，教諾亞如何繞過損壞接點。他們並肩工作，莉娜則守門。燃料數值上升後卻停在不足的水位。「總量算錯了。」諾亞說。艾米指出他計入了一座多年前就已用空的備用槽。兩人越爭越激烈，直到瑪拉提醒，得到正確答案比搶先證明自己對更重要。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "At the fuel chamber they found a control panel sealed beneath a metal floor. An old supply robot had spilled liquid across the keys, and the screen no longer responded. Emi removed the broken case and showed Noah how to bypass the damaged contacts. They worked side by side while Lena watched the door. The fuel gauge rose, then stopped at a level too low for their plan. “The sum is wrong,” Noah said. Emi pointed out that he had included a reserve tank that had been emptied years ago. Their argument grew sharp until Mara reminded them that a correct answer mattered more than being right first.",
+          "chinese": "燃料室的控制面板藏在金屬地板下。舊補給機器人曾把液體灑滿按鍵，螢幕已失去反應。艾米拆下破殼，教諾亞如何繞過損壞接點。他們並肩工作，莉娜則守門。燃料數值上升後卻停在不足的水位。「總量算錯了。」諾亞說。艾米指出他計入了一座多年前就已用空的備用槽。兩人越爭越激烈，直到瑪拉提醒，得到正確答案比搶先證明自己對更重要。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 5,
+          "english": "Finally Emi found the hidden tank beneath the meadow's roots. It contained enough fuel for a short burst of acceleration, but not enough to outrun a full attack from the Mirror. The discovery made the team silent. Then Lena remembered a childhood lesson: in zero gravity, even a small push could redirect a moving object if applied at the correct moment. “We don't need to defeat the Mirror with power,” she said. “We need to change our direction before it realizes what we're doing.” Noah checked the timing and slowly smiled. It was possible, but only if they knew the Mirror's next move.",
+          "chinese": "艾米終於在草地根部下找到隱藏油槽。燃料夠用於一次短暫加速，卻不足以甩開「鏡面」的全面攻擊。發現使大家沉默。莉娜想起童年課程：在零重力中，只要時機精準，小小推力也能改變移動物體方向。「我們不必靠力量打敗『鏡面』，」她說，「而是得在它察覺前先改變方向。」諾亞核對時間，慢慢露出笑容。這個方法可能成功，但前提是必須知道「鏡面」下一步會做什麼。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈Threads of Fire〉第 6 段的事件，哪個選項能正確補完整句？\nShe wrote ____ to the workers: WE HAVE A PLAN, BUT WE STILL NEED YOUR HELP.",
+      "options": [
+        "a breath",
+        "a row of sleeping machines",
+        "a message"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a message",
+      "existingAnswerExplanation": "原文證據：She wrote a message to the workers: WE HAVE A PLAN, BUT WE STILL NEED YOUR HELP.\n本段對照：當晚，團隊測試小型導引引擎。第一次火焰很微弱，儀表卻顯示出可測量的方向改變。瑪拉擁抱莉娜與諾亞，稱讚他們的耐心，而非勇敢。艾米坐在諾亞旁的木箱上，分給他一塊麵包。窗外遙遠的「鏡面」像第二個月亮閃爍。莉娜知道，他們只找到狹窄機會，還沒有真正安全。她傳給工人訊息：「我們有計畫，但仍需要大家幫忙。」按下發送後，中繼站回了一張陌生影像：漂流小行星上被挖出的洞穴。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That evening the team tested a tiny guidance engine. Its first flame was weak, yet the instrument showed a measurable shift. Mara hugged Lena and Noah, praising their patience rather than their bravery. Emi sat beside Noah on a crate and offered him a piece of bread. Beyond the window, the distant Mirror flashed like a second moon. Lena knew they had found only a narrow opening, not safety. She wrote a message to the workers: WE HAVE A PLAN, BUT WE STILL NEED YOUR HELP. When she pressed send, the station answered with an unfamiliar image: a cave cut into a wandering asteroid.",
+          "chinese": "當晚，團隊測試小型導引引擎。第一次火焰很微弱，儀表卻顯示出可測量的方向改變。瑪拉擁抱莉娜與諾亞，稱讚他們的耐心，而非勇敢。艾米坐在諾亞旁的木箱上，分給他一塊麵包。窗外遙遠的「鏡面」像第二個月亮閃爍。莉娜知道，他們只找到狹窄機會，還沒有真正安全。她傳給工人訊息：「我們有計畫，但仍需要大家幫忙。」按下發送後，中繼站回了一張陌生影像：漂流小行星上被挖出的洞穴。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "The bridge committee met inside an advanced navigation classroom that had become the center of resistance. Someone had covered a wall with an advertisement promising that Haven would be paradise. Its smiling figures looked ridiculous beside the damaged equipment. Armed guards waited outside, though they had agreed not to enter without an emergency. Tomas drew a plan on the board, using commas to separate each stage of the operation. Aurora needed more fuel to escape the Mirror's pull, and the orchard fire had destroyed part of its supply network. Mara believed there was one remaining reserve, hidden behind a sealed greenhouse meadow.",
+          "chinese": "艦橋委員會在先進導航教室開會，那裡已成為反抗行動的中心。有人在牆上貼了廣告，宣稱港灣星會是天堂。與受損設備相比，廣告上微笑的人顯得荒謬。武裝警衛在門外等待，雖已同意非緊急情況不闖入。托瑪斯在白板上寫計畫，用逗號分隔每個階段。「極光號」需要更多燃料才能逃離「鏡面」的引力，而果園火災已毀掉部分供應網路。瑪拉認為還有最後一份備用燃料，藏在密封的溫室草地後方。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 8,
+  "chapterId": "import-last-garden-8",
+  "sourceChapterSha256": "5e937f2f5d4897cf899c5a9eb7c34ff8cf68783725ee45e747f31ff8a4f8e69e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "米拉在火箭倉庫出示父親通報睡眠艙缺陷的筆記；追蹤器植入肩內改由醫療機器人在無菌環境移除，四人帶著獨立證據逃離。",
+    "previousChapterEndingEnglish": "Before leaving, Lena repaired the nursery's water system and restored the lights above the birds. The mechanical hen returned to its nest, and the flock settled along the fence. Noah asked why she spent precious time saving machines when real people needed help. “Because this place tells us what our parents wanted,” she answered. “They made a world where children could learn without fear. That matters too.” Their shuttle departed just as the storm's lightning illuminated the empty vessel. Across its hull, a forgotten name became visible: THE FIRST HOME. Lena wondered how many homes had been planned, and how many had quietly failed.",
+    "nextChapterOpeningEnglish": "The route brought them to an icy observatory built on a small moon. A layer of mist drifted over its glass roof, hiding the great stadium where early explorers had once practiced walking in weak gravity. The front doors were made of polished brass, and a porcelain kangaroo stood beside the reception desk. Kel called the decoration humorous, but Lena noticed tiny marks beneath its feet. The marks formed the same symbols as those on Mara's seed case. In a room full of fallen furniture, a recorder suddenly switched on and played a technical message: THE SEAL MUST BE BROKEN BEFORE THE STAR CAN BE SEEN. The empty reception buffet and its delicate signs had been arranged by a celebrated designer whose name was still painted on the wall."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "They followed the relay signal toward a small rocket depot and found a young woman waiting alone at the airlock. She introduced herself as Mira, a passenger who had been awakened by mistake. Mira carried a battered bookcase drawer full of handwritten notes and had a deep ache in her left shoulder. She said she had tried to organize complaints about unsafe sleep chambers, but security had threatened to release her into space if she continued. Lena was conscious of how little they knew about her. Yet the woman held a poster showing Mara in a group of scientists, with a promise written below: EVERY LIFE IS UNIQUE.",
+        "zh": "他們沿中繼訊號抵達小型火箭倉庫，發現一名年輕女子獨自在氣閘等待。她自稱米拉，是意外甦醒的乘客。她帶著裝滿手寫筆記的破舊書櫃抽屜，左肩深處持續疼痛。她說自己曾試圖整理對不安全睡眠艙的申訴，保全卻威脅若再繼續，就把她丟進太空。莉娜清楚知道自己對她所知甚少，但這名女子持有一張海報，上頭瑪拉和科學家們站在一起，下面寫著：「每個生命都獨一無二。」",
+        "englishSha256": "e7a86ed9d7f7d8f6750a320c409bd1290c1358659975fcf3c44d451f81afbd17",
+        "chineseSha256": "4bd911eb5a215a8b93566d87616374d37a6989e5f9d5bca3ff0b5e10efa77fee"
+      },
+      {
+        "number": 2,
+        "en": "Mira guided them through a narrow corridor where portraits of famous astronauts hung beside dusty windows. One portrait had been cut away, leaving a shape like a monster in the wall. She explained that the missing image belonged to the first captain, who had protested when the governor changed the route. The official report blamed the captain for violence that had never been proved. Noah wanted to inform the public immediately. Mira warned him not to make a hasty announcement; the governor controlled the ship's screens, and any message could be edited before reaching the passengers.",
+        "zh": "米拉帶他們穿過狹窄長廊，著名太空人的肖像掛在積灰窗戶旁。其中一幅肖像被割走，牆上留下像怪物的空洞。她解釋，失去的畫屬於第一任艦長，他曾反對總督更改航線。官方報告指控艦長涉及暴力，卻從未提出證據。諾亞想立刻通知大眾。米拉警告他不要草率發表聲明，因為總督控制全船螢幕，任何訊息送達乘客前都可能遭到修改。",
+        "englishSha256": "1f6eab92454c11aa9757ad558a3810ba2cc6fa9504de4835916089facacf2c0e",
+        "chineseSha256": "ab280c267b8ab0fa835d8edf4861422a460727fb084cc907730c7c178d0549d2"
+      },
+      {
+        "number": 3,
+        "en": "During a short break they wandered into the depot's leisure room. A small mechanical grasshopper jumped between cups, and a white swan moved across a projected lake. It was almost beautiful. Mira showed them a hidden panel behind the bookcase. On it were names of technicians who had disappeared after reporting defects in the sleeping chambers. One name belonged to her father. “They called him a monster because he refused to stop asking questions,” she said. “Then they deleted his work.” Her voice shook, but she insisted on finishing the list from memory, even when speaking made her shoulder hurt.",
+        "zh": "稍作休息時，他們走進倉庫的休閒室。一隻機械蚱蜢在杯子間跳躍，一隻白天鵝滑過投影湖面，景象幾乎美麗。米拉給他們看書櫃後的暗板，上頭記錄許多技術員的名字，他們在通報睡眠艙缺陷後失蹤。其中一個名字屬於她父親。「只因他不肯停止提問，他們就說他是怪物，」她說，「然後刪掉他的工作。」她聲音顫抖，仍堅持把記得的名字寫完，即使說話令肩膀更痛。",
+        "englishSha256": "049ed6576da555c9ab82f65968fb5ec741f7ef0fc8d28858419c4ad72711653d",
+        "chineseSha256": "4eec212530d6a63e6dc96d46df4225c531de4e9bef0442c970fbf707750b510e"
+      },
+      {
+        "number": 4,
+        "en": "The depot's computer demanded an identification discount code for anyone buying fuel, an old rule that now served to track visitors. Kel tried a forgotten repair account, but the password had expired. Noah located a scratched plate under the terminal and discovered a sequence of numbers that matched the pattern of the blue ribbon. When he entered them, the computer offered a single free launch. Mira stared at the screen. “My father helped design this depot. He must have left that code for somebody.” A robot guard appeared at the entrance, forcing them to move before they could examine the remaining files.",
+        "zh": "倉庫電腦要求購買燃料者輸入識別折扣碼，這項舊規定如今卻成了追蹤訪客的工具。凱爾試著使用已被遺忘的維修帳號，密碼卻過期了。諾亞在終端機下找到刮花的金屬板，發現一串數字與藍緞帶上的模式相同。他輸入後，電腦竟提供一次免費發射。米拉盯著螢幕說：「我父親曾參與設計這座倉庫，一定是留給某個人的。」保全機器人出現在入口，逼得他們無法繼續查閱檔案。",
+        "englishSha256": "aaea7a63e3696f1b98b3e61e7d6a4b88960ab4de6a33e5fcdb0106ccbd9323ad",
+        "chineseSha256": "5c59211c954b3f06cf9dd2d69620777babc3adff3e8a8abb1a267abedb444619"
+      },
+      {
+        "number": 5,
+        "en": "They ran through tight service shafts and reached a rocket platform above a dark planet. Kel prepared the engines while Lena examined Mira's medical scan. Her shoulder pain came from a tiny device implanted beneath the skin. It was not a medical monitor; it was a tracking transmitter. Mira stared in horror. “I've carried their eyes inside me since I woke up.” Noah asked the depot's medical robot to disable the transmitter. The robot removed the tiny device under sterile conditions and sealed the wound while he watched its safety readings. The depot alarms grew louder. A security team had located them, but the signal vanished as soon as the device was removed.",
+        "zh": "他們跑過狹窄的維修豎井，抵達一顆黑暗行星上方的火箭平台。凱爾準備引擎，莉娜替米拉檢查醫療掃描結果。她肩膀疼痛，是因為皮下植入了一個小裝置。那並非醫療監測器，而是追蹤發報器。米拉驚恐地看著它：「從我醒來開始，他們的眼睛就一直藏在我身體裡。」諾亞請倉庫裡的醫療機器人關閉發報器。機器人在無菌環境下取出小裝置、處理傷口，他則在旁查看安全數據。倉庫警報越來越響，但發報器移除的瞬間，追蹤訊號就消失了。",
+        "englishSha256": "95fa885da19ebb7905fde9783eae4a5696af08743b93acfbb8b466dbde8fc249",
+        "chineseSha256": "e8df043bdb7fbf3318e1bda97e4206bbf3e7fdea30c47c3f1e5a2509f81fd1d7"
+      },
+      {
+        "number": 6,
+        "en": "The rocket fired and carried them away from the depot. Mira sat beside the window as stars raced past. She asked whether their journey could really change anything. Lena admitted that she could not promise victory. “What I know,” she said, “is that people disappeared for telling the truth, and we are still able to speak.” Mira gave a small smile and placed her father's notes beside Mara's seed case. Their evidence now belonged to more than one family. Behind them the depot closed its gates, and a final automated complaint appeared on the shuttle screen: PROPERTY REMOVED WITHOUT AUTHORIZATION. Noah laughed for the first time in days.",
+        "zh": "火箭啟動，載著他們離開倉庫。米拉坐在窗邊，看著星星快速掠過，問這趟旅程真的能改變什麼嗎。莉娜承認自己無法保證勝利。「我只知道，」她說，「有人因說真話而消失，但我們還能說話。」米拉微微一笑，把父親的筆記放在瑪拉的種子盒旁。證據不再只屬於某一個家庭。身後倉庫關上閘門，接駁艇螢幕跳出最後一則自動申訴：「財產遭未經授權移走。」諾亞幾天來第一次笑了。",
+        "englishSha256": "0331a0be0e7d925f538ebe655d2e531705197188e7aaaf7afa8c3f0c94a4e5df",
+        "chineseSha256": "71ba8edfdfe2b2e3b6f3e80ea8ab6bf5626f6cd09d4ea8f1a7699f0a203626a3"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 627,
+    "targets": [
+      {
+        "word": "ache",
+        "meaning": "疼痛",
+        "appearsInSource": true
+      },
+      {
+        "word": "bookcase",
+        "meaning": "書櫃",
+        "appearsInSource": true
+      },
+      {
+        "word": "complaint",
+        "meaning": "申訴",
+        "appearsInSource": true
+      },
+      {
+        "word": "conscious",
+        "meaning": "清醒意識到的",
+        "appearsInSource": true
+      },
+      {
+        "word": "discount",
+        "meaning": "折扣",
+        "appearsInSource": true
+      },
+      {
+        "word": "grasshopper",
+        "meaning": "蚱蜢",
+        "appearsInSource": true
+      },
+      {
+        "word": "hasty",
+        "meaning": "草率的",
+        "appearsInSource": true
+      },
+      {
+        "word": "inform",
+        "meaning": "通知",
+        "appearsInSource": true
+      },
+      {
+        "word": "leisure",
+        "meaning": "休閒",
+        "appearsInSource": true
+      },
+      {
+        "word": "located",
+        "meaning": "找到位置",
+        "appearsInSource": true
+      },
+      {
+        "word": "monster",
+        "meaning": "怪物",
+        "appearsInSource": true
+      },
+      {
+        "word": "organize",
+        "meaning": "整理組織",
+        "appearsInSource": true
+      },
+      {
+        "word": "portrait",
+        "meaning": "肖像",
+        "appearsInSource": true
+      },
+      {
+        "word": "poster",
+        "meaning": "海報",
+        "appearsInSource": true
+      },
+      {
+        "word": "release",
+        "meaning": "釋放",
+        "appearsInSource": true
+      },
+      {
+        "word": "rocket",
+        "meaning": "火箭",
+        "appearsInSource": true
+      },
+      {
+        "word": "swan",
+        "meaning": "天鵝",
+        "appearsInSource": true
+      },
+      {
+        "word": "tight",
+        "meaning": "狹窄緊的",
+        "appearsInSource": true
+      },
+      {
+        "word": "unique",
+        "meaning": "獨一無二的",
+        "appearsInSource": true
+      },
+      {
+        "word": "violence",
+        "meaning": "暴力",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Sleepless Passenger〉第 1 段的事件，哪個選項能正確補完整句？\nThey followed ____ and found a young woman waiting alone at the airlock.",
+      "options": [
+        "the familiar warmth of his embrace",
+        "the relay signal toward a small rocket depot",
+        "the box beneath Noah's coat"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the relay signal toward a small rocket depot",
+      "existingAnswerExplanation": "原文證據：They followed the relay signal toward a small rocket depot and found a young woman waiting alone at the airlock.\n本段對照：他們沿中繼訊號抵達小型火箭倉庫，發現一名年輕女子獨自在氣閘等待。她自稱米拉，是意外甦醒的乘客。她帶著裝滿手寫筆記的破舊書櫃抽屜，左肩深處持續疼痛。她說自己曾試圖整理對不安全睡眠艙的申訴，保全卻威脅若再繼續，就把她丟進太空。莉娜清楚知道自己對她所知甚少，但這名女子持有一張海報，上頭瑪拉和科學家們站在一起，下面寫著：「每個生命都獨一無二。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "They followed the relay signal toward a small rocket depot and found a young woman waiting alone at the airlock. She introduced herself as Mira, a passenger who had been awakened by mistake. Mira carried a battered bookcase drawer full of handwritten notes and had a deep ache in her left shoulder. She said she had tried to organize complaints about unsafe sleep chambers, but security had threatened to release her into space if she continued. Lena was conscious of how little they knew about her. Yet the woman held a poster showing Mara in a group of scientists, with a promise written below: EVERY LIFE IS UNIQUE.",
+          "chinese": "他們沿中繼訊號抵達小型火箭倉庫，發現一名年輕女子獨自在氣閘等待。她自稱米拉，是意外甦醒的乘客。她帶著裝滿手寫筆記的破舊書櫃抽屜，左肩深處持續疼痛。她說自己曾試圖整理對不安全睡眠艙的申訴，保全卻威脅若再繼續，就把她丟進太空。莉娜清楚知道自己對她所知甚少，但這名女子持有一張海報，上頭瑪拉和科學家們站在一起，下面寫著：「每個生命都獨一無二。」",
+          "matchedQueryTerms": 22
+        },
+        {
+          "paragraph": 5,
+          "english": "They ran through tight service shafts and reached a rocket platform above a dark planet. Kel prepared the engines while Lena examined Mira's medical scan. Her shoulder pain came from a tiny device implanted beneath the skin. It was not a medical monitor; it was a tracking transmitter. Mira stared in horror. “I've carried their eyes inside me since I woke up.” Noah asked the depot's medical robot to disable the transmitter. The robot removed the tiny device under sterile conditions and sealed the wound while he watched its safety readings. The depot alarms grew louder. A security team had located them, but the signal vanished as soon as the device was removed.",
+          "chinese": "他們跑過狹窄的維修豎井，抵達一顆黑暗行星上方的火箭平台。凱爾準備引擎，莉娜替米拉檢查醫療掃描結果。她肩膀疼痛，是因為皮下植入了一個小裝置。那並非醫療監測器，而是追蹤發報器。米拉驚恐地看著它：「從我醒來開始，他們的眼睛就一直藏在我身體裡。」諾亞請倉庫裡的醫療機器人關閉發報器。機器人在無菌環境下取出小裝置、處理傷口，他則在旁查看安全數據。倉庫警報越來越響，但發報器移除的瞬間，追蹤訊號就消失了。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Sleepless Passenger〉第 6 段的事件，哪個選項能正確補完整句？\nBehind them the depot closed ____, and a final automated complaint appeared on the shuttle screen: PROPERTY REMOVED WITHOUT AUTHORIZATION.",
+      "options": [
+        "its dusty box",
+        "its highest volume",
+        "its gates"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "its gates",
+      "existingAnswerExplanation": "原文證據：Behind them the depot closed its gates, and a final automated complaint appeared on the shuttle screen: PROPERTY REMOVED WITHOUT AUTHORIZATION.\n本段對照：火箭啟動，載著他們離開倉庫。米拉坐在窗邊，看著星星快速掠過，問這趟旅程真的能改變什麼嗎。莉娜承認自己無法保證勝利。「我只知道，」她說，「有人因說真話而消失，但我們還能說話。」米拉微微一笑，把父親的筆記放在瑪拉的種子盒旁。證據不再只屬於某一個家庭。身後倉庫關上閘門，接駁艇螢幕跳出最後一則自動申訴：「財產遭未經授權移走。」諾亞幾天來第一次笑了。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The rocket fired and carried them away from the depot. Mira sat beside the window as stars raced past. She asked whether their journey could really change anything. Lena admitted that she could not promise victory. “What I know,” she said, “is that people disappeared for telling the truth, and we are still able to speak.” Mira gave a small smile and placed her father's notes beside Mara's seed case. Their evidence now belonged to more than one family. Behind them the depot closed its gates, and a final automated complaint appeared on the shuttle screen: PROPERTY REMOVED WITHOUT AUTHORIZATION. Noah laughed for the first time in days.",
+          "chinese": "火箭啟動，載著他們離開倉庫。米拉坐在窗邊，看著星星快速掠過，問這趟旅程真的能改變什麼嗎。莉娜承認自己無法保證勝利。「我只知道，」她說，「有人因說真話而消失，但我們還能說話。」米拉微微一笑，把父親的筆記放在瑪拉的種子盒旁。證據不再只屬於某一個家庭。身後倉庫關上閘門，接駁艇螢幕跳出最後一則自動申訴：「財產遭未經授權移走。」諾亞幾天來第一次笑了。",
+          "matchedQueryTerms": 27
+        },
+        {
+          "paragraph": 4,
+          "english": "The depot's computer demanded an identification discount code for anyone buying fuel, an old rule that now served to track visitors. Kel tried a forgotten repair account, but the password had expired. Noah located a scratched plate under the terminal and discovered a sequence of numbers that matched the pattern of the blue ribbon. When he entered them, the computer offered a single free launch. Mira stared at the screen. “My father helped design this depot. He must have left that code for somebody.” A robot guard appeared at the entrance, forcing them to move before they could examine the remaining files.",
+          "chinese": "倉庫電腦要求購買燃料者輸入識別折扣碼，這項舊規定如今卻成了追蹤訪客的工具。凱爾試著使用已被遺忘的維修帳號，密碼卻過期了。諾亞在終端機下找到刮花的金屬板，發現一串數字與藍緞帶上的模式相同。他輸入後，電腦竟提供一次免費發射。米拉盯著螢幕說：「我父親曾參與設計這座倉庫，一定是留給某個人的。」保全機器人出現在入口，逼得他們無法繼續查閱檔案。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

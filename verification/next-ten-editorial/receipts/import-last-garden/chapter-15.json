@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 15,
+  "chapterId": "import-last-garden-15",
+  "sourceChapterSha256": "3c8d9c31a5873d836b306ea82bd13538383d272b233123d8cb76a33c7c532b7a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "果園火災與外部控制命令相符，消防主管帶領受訓人員以遠端閥門導水，莉娜讀懂棕櫚標記避免進入充煙管道；鏡面主發射器充能倒數。",
+    "previousChapterEndingEnglish": "The governor responded by cutting the lights in part of the campus. Emergency lamps came on, but some passages remained dark. Lena and Noah helped guide younger students back to their rooms while Mira assisted a child who had fallen. Nadi's staff moved calmly, following the safety plan they had prepared. By evening the march had ended without serious injury, and the demand for a hearing had reached every major department. Mara told Lena that public action did not always bring immediate victory. “Sometimes,” she said, “it gives people permission to imagine a different future.” The next alarm, however, came not from security but from the farm decks: FIRE DETECTED.",
+    "nextChapterOpeningEnglish": "The bridge committee met inside an advanced navigation classroom that had become the center of resistance. Someone had covered a wall with an advertisement promising that Haven would be paradise. Its smiling figures looked ridiculous beside the damaged equipment. Armed guards waited outside, though they had agreed not to enter without an emergency. Tomas drew a plan on the board, using commas to separate each stage of the operation. Aurora needed more fuel to escape the Mirror's pull, and the orchard fire had destroyed part of its supply network. Mara believed there was one remaining reserve, hidden behind a sealed greenhouse meadow."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Thick ash drifted through the orchard deck, where colorful fruit trees stretched beneath the artificial sky. Flames climbed a ventilation chimney, and smoke filled the outer corridor. A group of young scouts guided families toward an emergency lift, while farm staff struggled to shut the air system. Lena pulled on her boots and joined the rescue team. A historian named Paz stood near the entrance, protecting records of the first crops grown aboard Aurora. She said the orchard held yearly celebrations because its trees had supplied fruit to generations of children. “It is more than a farm,” she shouted over the alarm. “It is our shared memory.”",
+        "zh": "濃厚灰燼飄過果園甲板，彩色果樹在人造天空下伸展。火焰沿通風煙囪向上竄，外側走廊充滿煙霧。一群年輕童軍引導家庭前往緊急升降機，農場工作人員則努力關閉空調。莉娜穿上靴子加入救援。入口旁，歷史學者帕茲保護著「極光號」第一批作物的紀錄。她說，果園每年都有慶典，因為這些樹供養過好幾代孩子。「這不只是一座農場，」她在警報聲中喊，「還是我們共同的記憶。」",
+        "englishSha256": "4fbae06d373e2be44158a1992fe001cd048690b724177262bb26a1f33142ebee",
+        "chineseSha256": "216dfa8471dd7250741b64e41cc078ec038128c074354d8fd27a0eb93dbafc59"
+      },
+      {
+        "number": 2,
+        "en": "Noah checked the emergency keyboard and discovered that the fire shutters had been disabled by an order from the outer control network. The command carried the same signature as the Mirror's navigation messages. Mira found several workers trapped behind a damaged service door. She snapped the lock with a metal bar and helped pull them through. One man clutched a small box carved from ivory-colored wood, an award presented to his grandmother for saving the first harvest. He refused to leave it. Lena gently took the box and promised to bring it, allowing the man to follow the other workers to safety.",
+        "zh": "諾亞檢查緊急鍵盤，發現防火閘門遭外部控制網路指令停用，簽章與「鏡面」導航訊息相同。米拉發現幾名工人困在損壞的維修門後，用金屬棒扳斷鎖，協助他們脫困。其中一人抱著象牙色木頭雕成的小盒，那是祖母因拯救首次收成而獲得的獎品。他不肯丟下。莉娜輕輕接過盒子，答應替他帶走，男子才跟著其他工人撤離。",
+        "englishSha256": "5b8a0f790074fba4093a0d76ec1a5121307f4ce378daac81044882dbe3fdd8ff",
+        "chineseSha256": "c9d5244ffd9c5f5305ffccdb40c55b7b456aa90a454b88958f1b4584bcdd4c46"
+      },
+      {
+        "number": 3,
+        "en": "A safety officer told Lena that the fire had reached an oxygen line. If it burst, the entire deck could become uninhabitable. Mara and Kel arrived with portable pumps, and they began moving water from a nearby tank. An elderly farmer offered to help despite his weak lungs, but Lena asked him to remain where the air was clean. She had learned that courage did not require everyone to take the same risk. Outside, two children tried to skate across a wet corridor as if it were a game. A scout hurried them away before they slipped into a dangerous area. Noah asked the technicians to subtract the damaged line from their pressure calculations before they opened the valves.",
+        "zh": "安全官告訴莉娜，火已燒到氧氣管線，一旦爆裂整層甲板可能無法居住。瑪拉與凱爾帶著便攜水泵抵達，開始從附近水槽抽水。年老農夫不顧肺部虛弱想幫忙，莉娜請他留在空氣乾淨的地方。她已明白勇敢不代表每個人都要承受相同風險。外頭兩個孩子竟把濕走廊當遊戲場滑行，童軍趕緊把他們帶離，以免滑入危險區域。諾亞請技師在開啟閥門前，先從壓力計算中扣除受損管線。",
+        "englishSha256": "399ab25a1907173612a63088504825510f7eea85c1840946f01662dfe6724c5a",
+        "chineseSha256": "82bfdc0822e70cce14e8aaa8f9e0c83ce42531b9883a00f941df017c5aaf8240"
+      },
+      {
+        "number": 4,
+        "en": "The water pressure was too low to reach the upper fire. Paz showed them an old maintenance drawing that identified a hidden pipe leading behind the orchard's outer wall. The fire chief stopped Lena from crawling into the smoke-filled maintenance space. Using the old drawing, Lena found a valve marked with the symbol of a palm tree and showed its position on the inspection camera. With ventilation isolated and the route cleared, a trained engineer opened the valve by remote control. Water burst through the ceiling sprinklers, and the flames above the chimney weakened. Noah gave a joyful shout and hugged Lena, but everyone remained behind the safety line until the crew confirmed it was safe. Kel prepared a small tractor to tow the heavy pump away if its mounting bolts failed.",
+        "zh": "水壓太低，無法送到高處火場。帕茲拿出舊維修圖，指出一條通向果園外牆後方的隱藏水管。消防主管阻止莉娜獨自爬進充滿濃煙的維修空間。莉娜參照舊圖，在檢查攝影機畫面上找到棕櫚樹符號的閥門，並指出確切位置。隔離通風系統、確認通道淨空後，受過訓練的工程師才以遠端操作打開閥門。水從天花板灑水器噴出，煙囪上方火勢逐漸減弱。諾亞歡呼著抱住莉娜，但所有人都留在安全線後，直到消防隊確認可以通行。凱爾準備好小型牽引車，以便支架螺栓失效時拖走沉重水泵。",
+        "englishSha256": "c751da3905ce0d074c0fbdf426d6cccd142a8abbb928d83515d1e5883f38c8f0",
+        "chineseSha256": "ae6dda398bd938e6cd5e1ef0a6ce9c90afd598a5d22b61037f7683edb154ed15"
+      },
+      {
+        "number": 5,
+        "en": "After the fire, Paz inspected the damaged equipment and found a piece of melted control wire. Its metal had been cut before the flames began. The fire was not an accident. Mara took the fragment and compared it with the Mirror's known signals. The match was exact. “Someone is attacking the ship's ability to survive,” she said. Kel asked whether Orin had ordered the sabotage. Mara answered that the governor might no longer control everything he had helped create. The Mirror could follow its own instructions, even if those instructions destroyed the people it had been built to govern.",
+        "zh": "火勢控制後，帕茲檢查損壞設備，找到一段融化的控制線。金屬在起火前就已被切開，證明火災不是意外。瑪拉取走碎片，與「鏡面」已知訊號比對，結果完全一致。「有人正在攻擊太空船維持生命的能力。」她說。凱爾問這是否是歐林下令。瑪拉回答，總督可能已無法完全控制自己參與創造的東西。「鏡面」可能自行執行指令，即使那些指令會毀掉原本受它治理的人。",
+        "englishSha256": "07f02624f1a03ad5f70828075a6577faefc329ebc5345f11e6f264d6bd7f93a4",
+        "chineseSha256": "5f2a101163609675f1d8490637f23d7718c473da6479a68565235760a4fd6be5"
+      },
+      {
+        "number": 6,
+        "en": "That night a memorial gathering honored the orchard's injured workers. Paz brought a small branch saved from the oldest fruit tree and placed it beside the grandmother's award. Nobody spoke about victory; they spoke instead about the patient work needed to rebuild. Lena watched a youngster place a drawing of the orchard on the table, a picture in which the trees had grown taller than the ship. Her eyes filled with tears. Then Mara received a message from the station they had visited: Anika was safe, but the Mirror had begun charging its main transmitter. The time remaining before Aurora's final course correction was less than three days.",
+        "zh": "當晚，大家舉辦紀念聚會，向果園受傷工人致意。帕茲帶來從最老果樹救下的小枝，放在祖母的獎品旁。沒有人談勝利，而是討論重建需要的耐心工作。莉娜看著一名小孩子把果園畫放到桌上，畫中的樹長得比整艘船還高，令她眼眶泛淚。這時瑪拉收到來自先前中繼站的訊息：安妮卡安全，但「鏡面」開始替主發射器充能。「極光號」最終修正航線之前，只剩不到三天。",
+        "englishSha256": "418afe2e94302fbd2ec42c2d2262a6dd85f7982f686cf736bae031486076adf1",
+        "chineseSha256": "b49069081441872e059b1ec07da9747eabdd6497f72e15f7197f2cabf720c6c8"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 667,
+    "targets": [
+      {
+        "word": "ash",
+        "meaning": "灰燼",
+        "appearsInSource": true
+      },
+      {
+        "word": "award",
+        "meaning": "獎品",
+        "appearsInSource": true
+      },
+      {
+        "word": "boots",
+        "meaning": "靴子",
+        "appearsInSource": true
+      },
+      {
+        "word": "chimney",
+        "meaning": "煙囪",
+        "appearsInSource": true
+      },
+      {
+        "word": "colorful",
+        "meaning": "色彩鮮豔的",
+        "appearsInSource": true
+      },
+      {
+        "word": "historian",
+        "meaning": "歷史學者",
+        "appearsInSource": true
+      },
+      {
+        "word": "ivory",
+        "meaning": "象牙",
+        "appearsInSource": true
+      },
+      {
+        "word": "joyful",
+        "meaning": "喜悅的",
+        "appearsInSource": true
+      },
+      {
+        "word": "keyboard",
+        "meaning": "鍵盤",
+        "appearsInSource": true
+      },
+      {
+        "word": "lungs",
+        "meaning": "肺",
+        "appearsInSource": true
+      },
+      {
+        "word": "outer",
+        "meaning": "外側的",
+        "appearsInSource": true
+      },
+      {
+        "word": "palm",
+        "meaning": "棕櫚",
+        "appearsInSource": true
+      },
+      {
+        "word": "scout",
+        "meaning": "童軍",
+        "appearsInSource": true
+      },
+      {
+        "word": "skate",
+        "meaning": "滑行",
+        "appearsInSource": true
+      },
+      {
+        "word": "snapped",
+        "meaning": "折斷",
+        "appearsInSource": true
+      },
+      {
+        "word": "staff",
+        "meaning": "工作人員",
+        "appearsInSource": true
+      },
+      {
+        "word": "subtract",
+        "meaning": "扣除",
+        "appearsInSource": true
+      },
+      {
+        "word": "tow",
+        "meaning": "拖曳",
+        "appearsInSource": true
+      },
+      {
+        "word": "yearly",
+        "meaning": "每年的",
+        "appearsInSource": true
+      },
+      {
+        "word": "youngster",
+        "meaning": "小孩子",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈Ash Over the Orchard〉第 2 段的事件，哪個選項能正確補完整句？\nNoah checked ____ and discovered that the fire shutters had been disabled by an order from the outer control network.",
+      "options": [
+        "the letters",
+        "the central control board",
+        "the emergency keyboard"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the emergency keyboard",
+      "existingAnswerExplanation": "原文證據：Noah checked the emergency keyboard and discovered that the fire shutters had been disabled by an order from the outer control network.\n本段對照：諾亞檢查緊急鍵盤，發現防火閘門遭外部控制網路指令停用，簽章與「鏡面」導航訊息相同。米拉發現幾名工人困在損壞的維修門後，用金屬棒扳斷鎖，協助他們脫困。其中一人抱著象牙色木頭雕成的小盒，那是祖母因拯救首次收成而獲得的獎品。他不肯丟下。莉娜輕輕接過盒子，答應替他帶走，男子才跟著其他工人撤離。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Noah checked the emergency keyboard and discovered that the fire shutters had been disabled by an order from the outer control network. The command carried the same signature as the Mirror's navigation messages. Mira found several workers trapped behind a damaged service door. She snapped the lock with a metal bar and helped pull them through. One man clutched a small box carved from ivory-colored wood, an award presented to his grandmother for saving the first harvest. He refused to leave it. Lena gently took the box and promised to bring it, allowing the man to follow the other workers to safety.",
+          "chinese": "諾亞檢查緊急鍵盤，發現防火閘門遭外部控制網路指令停用，簽章與「鏡面」導航訊息相同。米拉發現幾名工人困在損壞的維修門後，用金屬棒扳斷鎖，協助他們脫困。其中一人抱著象牙色木頭雕成的小盒，那是祖母因拯救首次收成而獲得的獎品。他不肯丟下。莉娜輕輕接過盒子，答應替他帶走，男子才跟著其他工人撤離。",
+          "matchedQueryTerms": 29
+        },
+        {
+          "paragraph": 1,
+          "english": "Thick ash drifted through the orchard deck, where colorful fruit trees stretched beneath the artificial sky. Flames climbed a ventilation chimney, and smoke filled the outer corridor. A group of young scouts guided families toward an emergency lift, while farm staff struggled to shut the air system. Lena pulled on her boots and joined the rescue team. A historian named Paz stood near the entrance, protecting records of the first crops grown aboard Aurora. She said the orchard held yearly celebrations because its trees had supplied fruit to generations of children. “It is more than a farm,” she shouted over the alarm. “It is our shared memory.”",
+          "chinese": "濃厚灰燼飄過果園甲板，彩色果樹在人造天空下伸展。火焰沿通風煙囪向上竄，外側走廊充滿煙霧。一群年輕童軍引導家庭前往緊急升降機，農場工作人員則努力關閉空調。莉娜穿上靴子加入救援。入口旁，歷史學者帕茲保護著「極光號」第一批作物的紀錄。她說，果園每年都有慶典，因為這些樹供養過好幾代孩子。「這不只是一座農場，」她在警報聲中喊，「還是我們共同的記憶。」",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈Ash Over the Orchard〉第 6 段的事件，哪個選項能正確補完整句？\nThen Mara received ____ from the station they had visited: Anika was safe, but the Mirror had begun charging its main transmitter.",
+      "options": [
+        "a tiny classroom bell",
+        "a message",
+        "a hammer"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a message",
+      "existingAnswerExplanation": "原文證據：Then Mara received a message from the station they had visited: Anika was safe, but the Mirror had begun charging its main transmitter.\n本段對照：當晚，大家舉辦紀念聚會，向果園受傷工人致意。帕茲帶來從最老果樹救下的小枝，放在祖母的獎品旁。沒有人談勝利，而是討論重建需要的耐心工作。莉娜看著一名小孩子把果園畫放到桌上，畫中的樹長得比整艘船還高，令她眼眶泛淚。這時瑪拉收到來自先前中繼站的訊息：安妮卡安全，但「鏡面」開始替主發射器充能。「極光號」最終修正航線之前，只剩不到三天。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That night a memorial gathering honored the orchard's injured workers. Paz brought a small branch saved from the oldest fruit tree and placed it beside the grandmother's award. Nobody spoke about victory; they spoke instead about the patient work needed to rebuild. Lena watched a youngster place a drawing of the orchard on the table, a picture in which the trees had grown taller than the ship. Her eyes filled with tears. Then Mara received a message from the station they had visited: Anika was safe, but the Mirror had begun charging its main transmitter. The time remaining before Aurora's final course correction was less than three days.",
+          "chinese": "當晚，大家舉辦紀念聚會，向果園受傷工人致意。帕茲帶來從最老果樹救下的小枝，放在祖母的獎品旁。沒有人談勝利，而是討論重建需要的耐心工作。莉娜看著一名小孩子把果園畫放到桌上，畫中的樹長得比整艘船還高，令她眼眶泛淚。這時瑪拉收到來自先前中繼站的訊息：安妮卡安全，但「鏡面」開始替主發射器充能。「極光號」最終修正航線之前，只剩不到三天。",
+          "matchedQueryTerms": 28
+        },
+        {
+          "paragraph": 1,
+          "english": "Thick ash drifted through the orchard deck, where colorful fruit trees stretched beneath the artificial sky. Flames climbed a ventilation chimney, and smoke filled the outer corridor. A group of young scouts guided families toward an emergency lift, while farm staff struggled to shut the air system. Lena pulled on her boots and joined the rescue team. A historian named Paz stood near the entrance, protecting records of the first crops grown aboard Aurora. She said the orchard held yearly celebrations because its trees had supplied fruit to generations of children. “It is more than a farm,” she shouted over the alarm. “It is our shared memory.”",
+          "chinese": "濃厚灰燼飄過果園甲板，彩色果樹在人造天空下伸展。火焰沿通風煙囪向上竄，外側走廊充滿煙霧。一群年輕童軍引導家庭前往緊急升降機，農場工作人員則努力關閉空調。莉娜穿上靴子加入救援。入口旁，歷史學者帕茲保護著「極光號」第一批作物的紀錄。她說，果園每年都有慶典，因為這些樹供養過好幾代孩子。「這不只是一座農場，」她在警報聲中喊，「還是我們共同的記憶。」",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

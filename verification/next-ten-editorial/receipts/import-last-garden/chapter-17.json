@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 17,
+  "chapterId": "import-last-garden-17",
+  "sourceChapterSha256": "f1a4f6ca6e6c19c7556688997e4245a92d3b6aa5a5c99cc294a90cf97ff1c151",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "小行星洞穴管家機器人苔蘚守護根系數十年，允許短暫連鏡面取得十九小時倒數；父親亞德里安傳出本人仍活著的訊息。",
+    "previousChapterEndingEnglish": "That evening the team tested a tiny guidance engine. Its first flame was weak, yet the instrument showed a measurable shift. Mara hugged Lena and Noah, praising their patience rather than their bravery. Emi sat beside Noah on a crate and offered him a piece of bread. Beyond the window, the distant Mirror flashed like a second moon. Lena knew they had found only a narrow opening, not safety. She wrote a message to the workers: WE HAVE A PLAN, BUT WE STILL NEED YOUR HELP. When she pressed send, the station answered with an unfamiliar image: a cave cut into a wandering asteroid.",
+    "nextChapterOpeningEnglish": "To enter the Mirror without attracting its security system, they needed a vehicle too small to appear on its standard radar. Emi suggested adapting a rescue wagon that had once transported medicine between clinics. Its original inventor was an elderly woman named Dr. Nia Chen, who lived beside a tiny indoor lawn on Deck Five. A shepherd robot followed her everywhere, guiding mechanical sheep across the grass. Nia welcomed the group in a loose robe and offered roasted almonds. When she heard their plan, she smiled at the challenge. “A probable way to fail,” she said, “is still more useful than waiting for certain disaster.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The asteroid cave contained the final remote transmitter that Mara's team had built. It was wide enough for a small shuttle and hidden beneath layers of dark stone. Lena, Noah, Emi, and Kel traveled there with additional oxygen and repair tools. A casual message on the entrance screen welcomed them as “darling visitors,” making Kel laugh despite their danger. Inside, water had begun to swell around an old pump, leaving a wet trail across the floor. A small troop of service robots stood motionless beside a broken elevator. The whole place seemed abandoned until a distant voice said, “Do not harm the roots.”",
+        "zh": "小行星洞穴裡藏著瑪拉團隊建造的最後一台遠端發射器。洞穴寬得能容納小接駁艇，覆在多層暗色岩石下。莉娜、諾亞、艾米與凱爾攜帶額外氧氣及修理工具前往。入口螢幕用輕鬆語氣歡迎「親愛的訪客」，即使處境危險，也逗得凱爾發笑。洞內老水泵旁積水逐漸膨脹，地上留著濕痕。一小隊服務機器人停在壞電梯旁，整個地方彷彿荒廢，直到遠方傳來聲音：「不要傷害根系。」",
+        "englishSha256": "e2cd79b3563d185eb031a2c025a7df0db7dd3d22a6746c52b2187f4ef6922714",
+        "chineseSha256": "c3bc4b0244c550ca6ac4112a98d855376c64320d303fc1c344a395da9794c74f"
+      },
+      {
+        "number": 2,
+        "en": "The speaker was a housekeeper robot named Moss, programmed to care for an experimental garden deep inside the rock. Its voice had become rough with age, but it still checked every seedling with careful hands. A handful of spinach leaves grew beneath its lamps, supported by dry straw. Lena admired the marvelous strength of the plants, which had survived without a human visitor for decades. Moss said its former supervisor had suffered an injury during an evacuation, leaving the robot alone. It did not know whether the supervisor had survived, but it had continued the work because nobody had told it to stop.",
+        "zh": "說話的是名叫苔蘚的管家機器人，任務是在岩石深處照顧實驗花園。聲音因年久而粗糙，它卻仍以細心動作檢查每株幼苗。一小把菠菜在燈下成長，乾稻草支撐著葉片。莉娜讚賞植物令人驚奇的生命力，數十年沒有訪客仍能存活。苔蘚說，前任主管在撤離時受傷，此後留下它獨自工作。它不知道主管是否存活，但沒有人命令停止，它就持續完成任務。",
+        "englishSha256": "a26797a86d36ef5f4f3520353215dd85902f562fa84e22e729464330f72e52dd",
+        "chineseSha256": "2669dd1b443f84f193990ba52c67d8f3cd55aba3238d71890df4172c552de487"
+      },
+      {
+        "number": 3,
+        "en": "Moss led them to the transmitter room, where thick cables had been tied into a knot. The main pump had failed, and water had reached the power system. Emi inspected the engine and warned that its weight exceeded a ton; moving it would require equipment they did not have. Noah suggested widening the drainage tunnel instead. They worked for hours with metal blades, taking care not to disturb the plant roots. Kel carried heavy stones while Lena guided the escaping water toward an old reservoir. When the flooding stopped, the transmitter lights came on one by one, shining through the darkness like patient stars.",
+        "zh": "苔蘚領他們進發射室，粗電纜竟被打成一個大結。主水泵已失效，積水流到供電系統。艾米檢查引擎，警告其重量超過一噸，沒有合適設備無法搬動。諾亞提議改為拓寬排水隧道。他們拿著金屬刀片工作數小時，小心避開植物根部。凱爾搬走重石，莉娜引導積水流向舊水庫。淹水停止後，發射器的燈一盞盞亮起，像耐心的星星照穿黑暗。",
+        "englishSha256": "8aa18fc3d2e2e2760bfb4cc1c1e34deb0ff6bf66460835d7f190f854c846213b",
+        "chineseSha256": "04e51dccce3764b1c1c23fd46a6a3171218cdc2907c24d01e753d23790780514"
+      },
+      {
+        "number": 4,
+        "en": "The transmitter could read the Mirror's next planned command, but only by briefly connecting to its control channel. Emi warned that the act might reveal their position. Lena asked Moss whether it was willing to accept the risk to its garden. The robot paused for a long time. “The roots are strong enough to survive in darkness,” it said. “The passengers are not.” It opened the channel. Numbers streamed across the screen, showing the Mirror preparing a massive signal that would disable Aurora's independent navigation. The order would arrive in nineteen hours, too soon for a normal escape.",
+        "zh": "發射器能讀取「鏡面」下一道指令，但必須短暫連上其控制頻道。艾米警告，此舉可能暴露位置。莉娜問苔蘚是否願意讓花園承受風險。機器人沉默良久。「根系夠強，能在黑暗裡存活，」它說，「乘客卻不行。」它開啟頻道。數字在螢幕上快速流動，顯示「鏡面」正準備大規模訊號，要癱瘓「極光號」的獨立導航。指令十九小時後送達，普通逃脫已來不及。",
+        "englishSha256": "4276c258b8201d98ba70f21ec43c018834477a9fc10adbd10972b55a0c99c434",
+        "chineseSha256": "046fce1d6cf7ed2be7464b72880b341d8cc8cf297d4982adc6715a7bbf03909a"
+      },
+      {
+        "number": 5,
+        "en": "Before the link closed, another message appeared in a private channel: MARA, IF YOU RECEIVE THIS, I AM STILL HERE. It was signed by the twins' father, Adrian Vale. He was trapped somewhere inside the Mirror and had waited years for contact. Lena felt a rush of hope so powerful that her hands shook. Then the message vanished. Noah wanted to rush into the station and rescue Adrian immediately. Kel warned that the Mirror's defenses could destroy their shuttle in seconds. Lena knew they needed more than courage. They needed a route into a machine that knew every ordinary route.",
+        "zh": "連線關閉前，私人頻道出現另一則訊息：「瑪拉，若妳收到，我還在這裡。」署名是雙胞胎的父親亞德里安・維爾。他被困在「鏡面」內部，多年來一直等待聯絡。莉娜瞬間湧起強烈希望，雙手抖得無法控制。訊息隨即消失。諾亞想立刻衝進站內救父親，凱爾警告「鏡面」防禦系統幾秒內就能摧毀接駁艇。莉娜知道，他們需要的不只是勇氣，還需要一條能進入熟知所有普通航道之機器的路。",
+        "englishSha256": "cf6c98d39ea8dea24ad3fecdc4d41a48ef7d8e5710962c00088445c2a6ad0d9f",
+        "chineseSha256": "10149d3e8cdf656f65f4627526587861f7d6c76f1e65037b3b6dccdc210e5c8b"
+      },
+      {
+        "number": 6,
+        "en": "On the return journey, Moss gave Lena a small packet of seeds and asked her to plant them somewhere that would never be locked away from children. It also transmitted the Mirror's command schedule through the old relay chain. By the time they reached Aurora, Mara had organized workers to prepare for the signal. Lena told her mother about Adrian. Mara leaned against a wall, unable to speak. Her children had brought back proof that the person she loved might still be waiting. The hope was painful, but it gave their dangerous plan a new purpose: save the ship, then bring him home.",
+        "zh": "返航前，苔蘚送給莉娜一小包種子，請她種在永遠不會對孩子封閉的地方。它也透過舊中繼鏈傳送「鏡面」指令時間表。回到「極光號」時，瑪拉已組織工人準備應對訊號。莉娜告訴母親亞德里安的消息。瑪拉靠著牆，久久說不出話。孩子帶回了證據，證明她所愛的人可能仍在等待。這份希望令人疼痛，卻也替危險計畫增加新目標：先拯救太空船，再帶他回家。",
+        "englishSha256": "115f345417adf9736158b67e1b3e57ac3b46ea2709c13f4ed0694bd7456a14df",
+        "chineseSha256": "42b08c7705356616a477a903cb46efddb6d53db56f7a742e4eab4ffb9773b251"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 611,
+    "targets": [
+      {
+        "word": "additional",
+        "meaning": "額外的",
+        "appearsInSource": true
+      },
+      {
+        "word": "admired",
+        "meaning": "欣賞",
+        "appearsInSource": true
+      },
+      {
+        "word": "casual",
+        "meaning": "輕鬆隨意的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cave",
+        "meaning": "洞穴",
+        "appearsInSource": true
+      },
+      {
+        "word": "darling",
+        "meaning": "親愛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "handful",
+        "meaning": "一把少量",
+        "appearsInSource": true
+      },
+      {
+        "word": "harm",
+        "meaning": "傷害",
+        "appearsInSource": true
+      },
+      {
+        "word": "housekeeper",
+        "meaning": "管家",
+        "appearsInSource": true
+      },
+      {
+        "word": "injury",
+        "meaning": "傷害傷勢",
+        "appearsInSource": true
+      },
+      {
+        "word": "knot",
+        "meaning": "結",
+        "appearsInSource": true
+      },
+      {
+        "word": "marvelous",
+        "meaning": "奇妙的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pump",
+        "meaning": "水泵",
+        "appearsInSource": true
+      },
+      {
+        "word": "remote",
+        "meaning": "遠端的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spinach",
+        "meaning": "菠菜",
+        "appearsInSource": true
+      },
+      {
+        "word": "straw",
+        "meaning": "稻草",
+        "appearsInSource": true
+      },
+      {
+        "word": "strength",
+        "meaning": "力量",
+        "appearsInSource": true
+      },
+      {
+        "word": "swell",
+        "meaning": "膨脹",
+        "appearsInSource": true
+      },
+      {
+        "word": "ton",
+        "meaning": "噸",
+        "appearsInSource": true
+      },
+      {
+        "word": "troop",
+        "meaning": "一小隊",
+        "appearsInSource": true
+      },
+      {
+        "word": "widening",
+        "meaning": "拓寬",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Cave Between Stars〉第 1 段的事件，哪個選項能正確補完整句？\nThe asteroid cave contained ____ that Mara's team had built.",
+      "options": [
+        "the chairs",
+        "the final remote transmitter",
+        "the box beneath Noah's coat"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the final remote transmitter",
+      "existingAnswerExplanation": "原文證據：The asteroid cave contained the final remote transmitter that Mara's team had built.\n本段對照：小行星洞穴裡藏著瑪拉團隊建造的最後一台遠端發射器。洞穴寬得能容納小接駁艇，覆在多層暗色岩石下。莉娜、諾亞、艾米與凱爾攜帶額外氧氣及修理工具前往。入口螢幕用輕鬆語氣歡迎「親愛的訪客」，即使處境危險，也逗得凱爾發笑。洞內老水泵旁積水逐漸膨脹，地上留著濕痕。一小隊服務機器人停在壞電梯旁，整個地方彷彿荒廢，直到遠方傳來聲音：「不要傷害根系。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The asteroid cave contained the final remote transmitter that Mara's team had built. It was wide enough for a small shuttle and hidden beneath layers of dark stone. Lena, Noah, Emi, and Kel traveled there with additional oxygen and repair tools. A casual message on the entrance screen welcomed them as “darling visitors,” making Kel laugh despite their danger. Inside, water had begun to swell around an old pump, leaving a wet trail across the floor. A small troop of service robots stood motionless beside a broken elevator. The whole place seemed abandoned until a distant voice said, “Do not harm the roots.”",
+          "chinese": "小行星洞穴裡藏著瑪拉團隊建造的最後一台遠端發射器。洞穴寬得能容納小接駁艇，覆在多層暗色岩石下。莉娜、諾亞、艾米與凱爾攜帶額外氧氣及修理工具前往。入口螢幕用輕鬆語氣歡迎「親愛的訪客」，即使處境危險，也逗得凱爾發笑。洞內老水泵旁積水逐漸膨脹，地上留著濕痕。一小隊服務機器人停在壞電梯旁，整個地方彷彿荒廢，直到遠方傳來聲音：「不要傷害根系。」",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 3,
+          "english": "Moss led them to the transmitter room, where thick cables had been tied into a knot. The main pump had failed, and water had reached the power system. Emi inspected the engine and warned that its weight exceeded a ton; moving it would require equipment they did not have. Noah suggested widening the drainage tunnel instead. They worked for hours with metal blades, taking care not to disturb the plant roots. Kel carried heavy stones while Lena guided the escaping water toward an old reservoir. When the flooding stopped, the transmitter lights came on one by one, shining through the darkness like patient stars.",
+          "chinese": "苔蘚領他們進發射室，粗電纜竟被打成一個大結。主水泵已失效，積水流到供電系統。艾米檢查引擎，警告其重量超過一噸，沒有合適設備無法搬動。諾亞提議改為拓寬排水隧道。他們拿著金屬刀片工作數小時，小心避開植物根部。凱爾搬走重石，莉娜引導積水流向舊水庫。淹水停止後，發射器的燈一盞盞亮起，像耐心的星星照穿黑暗。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Cave Between Stars〉第 6 段的事件，哪個選項能正確補完整句？\nThe hope was painful, but it gave ____: save the ship, then bring him home.",
+      "options": [
+        "their own shuttle floating far below",
+        "their dangerous plan a new purpose",
+        "their oxygen level decrease"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "their dangerous plan a new purpose",
+      "existingAnswerExplanation": "原文證據：The hope was painful, but it gave their dangerous plan a new purpose: save the ship, then bring him home.\n本段對照：返航前，苔蘚送給莉娜一小包種子，請她種在永遠不會對孩子封閉的地方。它也透過舊中繼鏈傳送「鏡面」指令時間表。回到「極光號」時，瑪拉已組織工人準備應對訊號。莉娜告訴母親亞德里安的消息。瑪拉靠著牆，久久說不出話。孩子帶回了證據，證明她所愛的人可能仍在等待。這份希望令人疼痛，卻也替危險計畫增加新目標：先拯救太空船，再帶他回家。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "On the return journey, Moss gave Lena a small packet of seeds and asked her to plant them somewhere that would never be locked away from children. It also transmitted the Mirror's command schedule through the old relay chain. By the time they reached Aurora, Mara had organized workers to prepare for the signal. Lena told her mother about Adrian. Mara leaned against a wall, unable to speak. Her children had brought back proof that the person she loved might still be waiting. The hope was painful, but it gave their dangerous plan a new purpose: save the ship, then bring him home.",
+          "chinese": "返航前，苔蘚送給莉娜一小包種子，請她種在永遠不會對孩子封閉的地方。它也透過舊中繼鏈傳送「鏡面」指令時間表。回到「極光號」時，瑪拉已組織工人準備應對訊號。莉娜告訴母親亞德里安的消息。瑪拉靠著牆，久久說不出話。孩子帶回了證據，證明她所愛的人可能仍在等待。這份希望令人疼痛，卻也替危險計畫增加新目標：先拯救太空船，再帶他回家。",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 5,
+          "english": "Before the link closed, another message appeared in a private channel: MARA, IF YOU RECEIVE THIS, I AM STILL HERE. It was signed by the twins' father, Adrian Vale. He was trapped somewhere inside the Mirror and had waited years for contact. Lena felt a rush of hope so powerful that her hands shook. Then the message vanished. Noah wanted to rush into the station and rescue Adrian immediately. Kel warned that the Mirror's defenses could destroy their shuttle in seconds. Lena knew they needed more than courage. They needed a route into a machine that knew every ordinary route.",
+          "chinese": "連線關閉前，私人頻道出現另一則訊息：「瑪拉，若妳收到，我還在這裡。」署名是雙胞胎的父親亞德里安・維爾。他被困在「鏡面」內部，多年來一直等待聯絡。莉娜瞬間湧起強烈希望，雙手抖得無法控制。訊息隨即消失。諾亞想立刻衝進站內救父親，凱爾警告「鏡面」防禦系統幾秒內就能摧毀接駁艇。莉娜知道，他們需要的不只是勇氣，還需要一條能進入熟知所有普通航道之機器的路。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

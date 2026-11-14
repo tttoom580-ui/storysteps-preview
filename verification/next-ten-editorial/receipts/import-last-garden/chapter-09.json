@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 9,
+  "chapterId": "import-last-garden-9",
+  "sourceChapterSha256": "d58cd5ddaf4e7d2ba2d415a287853fdcb94e88b9082ca6ede0f8bc1bffbe6ead",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "黃銅觀測站的望遠鏡需先清除封條才能看到人工巨型反射結構鏡面；瑪拉警告證明它可偽造星圖並操控航向。",
+    "previousChapterEndingEnglish": "The rocket fired and carried them away from the depot. Mira sat beside the window as stars raced past. She asked whether their journey could really change anything. Lena admitted that she could not promise victory. “What I know,” she said, “is that people disappeared for telling the truth, and we are still able to speak.” Mira gave a small smile and placed her father's notes beside Mara's seed case. Their evidence now belonged to more than one family. Behind them the depot closed its gates, and a final automated complaint appeared on the shuttle screen: PROPERTY REMOVED WITHOUT AUTHORIZATION. Noah laughed for the first time in days.",
+    "nextChapterOpeningEnglish": "The Mirror sent a narrow beam toward their shuttle, and the navigation system began repeating the same false destination. Kel steered into a shadowed bay beside an abandoned space palace, once used for celebrations honoring the first explorers. The building's historic entrance displayed portraits of famous champions, scholars, and inventors. They entered through a service tunnel while the ship's receiver continued to echo an incorrect command: RETURN TO HAVEN. Noah had designed a creative way to block the beam, but he needed a device from the old palace to make it work. Lena watched their oxygen level decrease and wondered how long they could remain hidden. A tiny air leak near the engine added urgency to their search for spare parts."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The route brought them to an icy observatory built on a small moon. A layer of mist drifted over its glass roof, hiding the great stadium where early explorers had once practiced walking in weak gravity. The front doors were made of polished brass, and a porcelain kangaroo stood beside the reception desk. Kel called the decoration humorous, but Lena noticed tiny marks beneath its feet. The marks formed the same symbols as those on Mara's seed case. In a room full of fallen furniture, a recorder suddenly switched on and played a technical message: THE SEAL MUST BE BROKEN BEFORE THE STAR CAN BE SEEN. The empty reception buffet and its delicate signs had been arranged by a celebrated designer whose name was still painted on the wall.",
+        "zh": "航線把他們帶到一座建在小型衛星上的冰冷觀測站。薄霧飄過玻璃屋頂，遮住早期探險家曾練習低重力行走的巨大體育場。正門以打磨過的黃銅製成，接待桌旁還擺著瓷製袋鼠。凱爾覺得裝飾很幽默，莉娜卻注意到袋鼠腳下刻著細小痕跡，符號與瑪拉種子盒上的相同。擺滿倒塌家具的房間裡，錄音器突然自行開啟，播放技術訊息：「必須先打破封印，才能看見那顆星。」空蕩接待自助餐台與精緻標示出自一名知名設計師之手，牆上還留著他的名字。",
+        "englishSha256": "5bf98f26034d4860716a1c4c95f6c0559ec87ca2c8f9ee3f6219f74d42497930",
+        "chineseSha256": "8eb6c4f88b776d0962e13c2a933952a7c3159b66add3b066927d30b04d07eeab"
+      },
+      {
+        "number": 2,
+        "en": "Noah examined the observatory's old telescope. Its lens was covered with a protective seal, and the adjustment rings were so tight that ordinary force could not turn them. Mira found a hammer in a maintenance drawer, but Lena refused to smash the delicate instrument. Instead she scrubbed away the dirt and discovered an invisible release screw near the edge. Kel helped tighten a loose support while Noah carefully removed the cover. Outside, the mist began to clear. A bright field of stars appeared, along with a dark shadow moving across the distant sun. It was no ordinary planet.",
+        "zh": "諾亞檢查觀測站的老望遠鏡。鏡片有保護封條，調整環緊得一般力量無法轉動。米拉從維修抽屜找到鐵鎚，莉娜卻不肯砸壞精密儀器。她刷掉汙垢，發現邊緣有隱藏式釋放螺絲。凱爾幫忙鎖緊鬆動的支架，諾亞小心卸下外罩。外頭薄霧逐漸散去，明亮星野浮現，遠處恆星前還有一道暗影緩緩移動。那不是一般行星。",
+        "englishSha256": "bb0556180358915c32e72ced679e546a51b957f03057123867282c77a2f1d993",
+        "chineseSha256": "dd6bb51e8282cb50156a5145932ab803985476d4c57e79d9bbc50f1363fede49"
+      },
+      {
+        "number": 3,
+        "en": "Magnified through the telescope, the shadow revealed thousands of metallic plates arranged around a hollow center. The structure was enormous, costly, and clearly artificial. A narrow beam of light reached toward Haven, sending information at regular intervals. “Someone is still operating it,” Mira said. At the control desk they found a schedule ordering the structure to scan incoming ships and adjust their navigation. It could threaten Aurora by changing what the ship believed its destination looked like. Noah understood with sudden horror that the altered maps might not be mistakes at all. The route itself could be under somebody else's control. “What the hell are we looking at?” Kel asked, then apologized for frightening the children with his sudden shout.",
+        "zh": "望遠鏡放大後，暗影顯現出上千片金屬板，圍繞著中空中心排列。這個結構龐大、造價高昂，顯然是人造物。一道細光束定時射向港灣星，傳送資訊。「還有人在操作它。」米拉說。他們在控制台找到排程，命令結構掃描接近的飛船並調整導航。它可以改變「極光號」所看見的目的地資訊，藉此威脅主船。諾亞忽然驚覺，那些錯誤地圖也許根本不是錯誤，連航線都可能被他人操控。「我們看到的到底是什麼鬼東西？」凱爾喊完，又為突然的大聲叫喊嚇到孩子道歉。",
+        "englishSha256": "1bce8de06855dfd5eeb3a123b1a5b55a85a70b3d502884f16ccc037337e87dbe",
+        "chineseSha256": "a471bf593e8d81877bc21a42d0486dc101c50a4cc847467c6f95f984b22c6710"
+      },
+      {
+        "number": 4,
+        "en": "When they tried to copy the coordinates, the console demanded a phrase from a forgotten children's poem. Kel suggested that they skip the puzzle and leave, but Lena remembered the museum's old lessons. She recited lines about a tangerine rolling down a hill and a bell ringing in the morning. The computer accepted the answer and opened a protected directory. Inside were messages from people who had refused Orin's rule, including a detailed warning sent by Mara shortly before her reported death. Its last line named the artificial structure: THE MIRROR. The sender field was blank, but the time stamp matched the blue box.",
+        "zh": "他們想複製座標時，控制台要求輸入一首舊童詩的句子。凱爾建議跳過謎題直接離開，莉娜卻記得博物館的課程，唸出橘子滾下山坡、晨鐘響起的詩句。電腦接受答案，打開受保護資料夾。裡面有拒絕歐林統治的人留下的訊息，也有瑪拉在據稱死亡前不久發出的詳盡警告。最後一行寫出人工結構的名稱：「鏡面」。寄件者欄位空白，但時間戳與藍色金屬盒相同。",
+        "englishSha256": "4bb39a373eb17a00802ee5023e9221d56a41c0ae43438d218db759209c4c3adc",
+        "chineseSha256": "604d165d42d707240f400eaad1941d1895d0b0c9fe7d2c66926c525331f31abc"
+      },
+      {
+        "number": 5,
+        "en": "A sudden impact shook the observatory. Security craft had surrounded the moon, and their engines flashed beyond the glass roof. An officer ordered the group to surrender and threatened to destroy the telescope if they refused. Lena stood at the window and showed him the evidence of the Mirror, hoping he would listen. He shook his head. Mira grabbed the recorder and sent the files to the shuttle. Kel launched a signal flare toward the abandoned stadium, distracting the patrol long enough for the others to cross the courtyard. Snow cracked beneath their boots, and the cold struck through their clothing.",
+        "zh": "突然的撞擊震動觀測站。保全船包圍衛星，玻璃屋頂外引擎光芒閃爍。一名軍官命令他們投降，威脅若不照辦就摧毀望遠鏡。莉娜站在窗邊向他展示「鏡面」的證據，希望對方願意聽，軍官卻搖頭。米拉抓起錄音器，把檔案傳到接駁艇。凱爾朝廢棄體育場發射信號彈，趁巡邏隊分心，讓其他人穿過庭院。雪在靴下裂開，寒氣直透衣服。",
+        "englishSha256": "32848282d6c5d1aacf34cdc698858a75ece8d3ddd21f12e6d29c548912b6b542",
+        "chineseSha256": "e96419ada23456d4b600c976ab0e977ba44f611da2283a2c1f53a13e63dc10da"
+      },
+      {
+        "number": 6,
+        "en": "They reached the shuttle, but its door refused to close. A strip of ice had formed around the hinge. Noah scraped it away with a metal tool while Lena held the emergency switch. At last the hatch sealed and the engines lifted them into the black sky. From above, the observatory looked like a small candle on a dark stone. Mira replayed Mara's warning and found a hidden sentence beneath the noise: THE MIRROR IS A LIE WITH A MACHINE FOR A FACE. The message did not say who had built it. Far ahead, its enormous plates turned toward their fleeing shuttle as if the structure had noticed them.",
+        "zh": "他們趕回接駁艇，艙門卻關不起來，鉸鏈周圍結了一圈冰。諾亞用金屬工具刮除，莉娜按著緊急開關，門終於密合，引擎帶他們升入漆黑天空。從上方看，觀測站像黑石上的小小燭火。米拉重播瑪拉的警告，從雜訊下聽見一句隱藏的話：「鏡面是一個有著機器面孔的謊言。」訊息沒有說是誰建造了它。遙遠前方，那巨大結構的金屬板開始朝逃走的接駁艇轉動，彷彿已察覺他們。",
+        "englishSha256": "21fd42cce90c57f84bf281d30322412a5285edba40f94c7abf27b85625f58f9b",
+        "chineseSha256": "76b2e593d6a8547b54f4643a814122994bdba60412ba5dfecab4d190e16bc0f5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 661,
+    "targets": [
+      {
+        "word": "brass",
+        "meaning": "黃銅",
+        "appearsInSource": true
+      },
+      {
+        "word": "buffet",
+        "meaning": "自助餐台",
+        "appearsInSource": true
+      },
+      {
+        "word": "costly",
+        "meaning": "昂貴的",
+        "appearsInSource": true
+      },
+      {
+        "word": "designer",
+        "meaning": "設計師",
+        "appearsInSource": true
+      },
+      {
+        "word": "hammer",
+        "meaning": "鐵鎚",
+        "appearsInSource": true
+      },
+      {
+        "word": "hell",
+        "meaning": "地獄語氣詞",
+        "appearsInSource": true
+      },
+      {
+        "word": "humorous",
+        "meaning": "幽默的",
+        "appearsInSource": true
+      },
+      {
+        "word": "icy",
+        "meaning": "冰冷的",
+        "appearsInSource": true
+      },
+      {
+        "word": "kangaroo",
+        "meaning": "袋鼠",
+        "appearsInSource": true
+      },
+      {
+        "word": "mist",
+        "meaning": "薄霧",
+        "appearsInSource": true
+      },
+      {
+        "word": "porcelain",
+        "meaning": "瓷製的",
+        "appearsInSource": true
+      },
+      {
+        "word": "recorder",
+        "meaning": "錄音器",
+        "appearsInSource": true
+      },
+      {
+        "word": "scrubbed",
+        "meaning": "刷洗",
+        "appearsInSource": true
+      },
+      {
+        "word": "seal",
+        "meaning": "封條",
+        "appearsInSource": true
+      },
+      {
+        "word": "skip",
+        "meaning": "略過",
+        "appearsInSource": true
+      },
+      {
+        "word": "stadium",
+        "meaning": "體育場",
+        "appearsInSource": true
+      },
+      {
+        "word": "tangerine",
+        "meaning": "橘子",
+        "appearsInSource": true
+      },
+      {
+        "word": "technical",
+        "meaning": "技術的",
+        "appearsInSource": true
+      },
+      {
+        "word": "threaten",
+        "meaning": "威脅",
+        "appearsInSource": true
+      },
+      {
+        "word": "tighten",
+        "meaning": "鎖緊",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Brass Observatory〉第 1 段的事件，哪個選項能正確補完整句？\nThe front doors were made of polished brass, and a porcelain kangaroo stood beside ____.",
+      "options": [
+        "the reception desk",
+        "the command gate begin",
+        "the channel"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the reception desk",
+      "existingAnswerExplanation": "原文證據：The front doors were made of polished brass, and a porcelain kangaroo stood beside the reception desk.\n本段對照：航線把他們帶到一座建在小型衛星上的冰冷觀測站。薄霧飄過玻璃屋頂，遮住早期探險家曾練習低重力行走的巨大體育場。正門以打磨過的黃銅製成，接待桌旁還擺著瓷製袋鼠。凱爾覺得裝飾很幽默，莉娜卻注意到袋鼠腳下刻著細小痕跡，符號與瑪拉種子盒上的相同。擺滿倒塌家具的房間裡，錄音器突然自行開啟，播放技術訊息：「必須先打破封印，才能看見那顆星。」空蕩接待自助餐台與精緻標示出自一名知名設計師之手，牆上還留著他的名字。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The route brought them to an icy observatory built on a small moon. A layer of mist drifted over its glass roof, hiding the great stadium where early explorers had once practiced walking in weak gravity. The front doors were made of polished brass, and a porcelain kangaroo stood beside the reception desk. Kel called the decoration humorous, but Lena noticed tiny marks beneath its feet. The marks formed the same symbols as those on Mara's seed case. In a room full of fallen furniture, a recorder suddenly switched on and played a technical message: THE SEAL MUST BE BROKEN BEFORE THE STAR CAN BE SEEN. The empty reception buffet and its delicate signs had been arranged by a celebrated designer whose name was still painted on the wall.",
+          "chinese": "航線把他們帶到一座建在小型衛星上的冰冷觀測站。薄霧飄過玻璃屋頂，遮住早期探險家曾練習低重力行走的巨大體育場。正門以打磨過的黃銅製成，接待桌旁還擺著瓷製袋鼠。凱爾覺得裝飾很幽默，莉娜卻注意到袋鼠腳下刻著細小痕跡，符號與瑪拉種子盒上的相同。擺滿倒塌家具的房間裡，錄音器突然自行開啟，播放技術訊息：「必須先打破封印，才能看見那顆星。」空蕩接待自助餐台與精緻標示出自一名知名設計師之手，牆上還留著他的名字。",
+          "matchedQueryTerms": 22
+        },
+        {
+          "paragraph": 5,
+          "english": "A sudden impact shook the observatory. Security craft had surrounded the moon, and their engines flashed beyond the glass roof. An officer ordered the group to surrender and threatened to destroy the telescope if they refused. Lena stood at the window and showed him the evidence of the Mirror, hoping he would listen. He shook his head. Mira grabbed the recorder and sent the files to the shuttle. Kel launched a signal flare toward the abandoned stadium, distracting the patrol long enough for the others to cross the courtyard. Snow cracked beneath their boots, and the cold struck through their clothing.",
+          "chinese": "突然的撞擊震動觀測站。保全船包圍衛星，玻璃屋頂外引擎光芒閃爍。一名軍官命令他們投降，威脅若不照辦就摧毀望遠鏡。莉娜站在窗邊向他展示「鏡面」的證據，希望對方願意聽，軍官卻搖頭。米拉抓起錄音器，把檔案傳到接駁艇。凱爾朝廢棄體育場發射信號彈，趁巡邏隊分心，讓其他人穿過庭院。雪在靴下裂開，寒氣直透衣服。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Brass Observatory〉第 6 段的事件，哪個選項能正確補完整句？\nMira replayed Mara's warning and found ____: THE MIRROR IS A LIE WITH A MACHINE FOR A FACE.",
+      "options": [
+        "a hidden sentence beneath the noise",
+        "a single free launch",
+        "a thin leather strap"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a hidden sentence beneath the noise",
+      "existingAnswerExplanation": "原文證據：Mira replayed Mara's warning and found a hidden sentence beneath the noise: THE MIRROR IS A LIE WITH A MACHINE FOR A FACE.\n本段對照：他們趕回接駁艇，艙門卻關不起來，鉸鏈周圍結了一圈冰。諾亞用金屬工具刮除，莉娜按著緊急開關，門終於密合，引擎帶他們升入漆黑天空。從上方看，觀測站像黑石上的小小燭火。米拉重播瑪拉的警告，從雜訊下聽見一句隱藏的話：「鏡面是一個有著機器面孔的謊言。」訊息沒有說是誰建造了它。遙遠前方，那巨大結構的金屬板開始朝逃走的接駁艇轉動，彷彿已察覺他們。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "They reached the shuttle, but its door refused to close. A strip of ice had formed around the hinge. Noah scraped it away with a metal tool while Lena held the emergency switch. At last the hatch sealed and the engines lifted them into the black sky. From above, the observatory looked like a small candle on a dark stone. Mira replayed Mara's warning and found a hidden sentence beneath the noise: THE MIRROR IS A LIE WITH A MACHINE FOR A FACE. The message did not say who had built it. Far ahead, its enormous plates turned toward their fleeing shuttle as if the structure had noticed them.",
+          "chinese": "他們趕回接駁艇，艙門卻關不起來，鉸鏈周圍結了一圈冰。諾亞用金屬工具刮除，莉娜按著緊急開關，門終於密合，引擎帶他們升入漆黑天空。從上方看，觀測站像黑石上的小小燭火。米拉重播瑪拉的警告，從雜訊下聽見一句隱藏的話：「鏡面是一個有著機器面孔的謊言。」訊息沒有說是誰建造了它。遙遠前方，那巨大結構的金屬板開始朝逃走的接駁艇轉動，彷彿已察覺他們。",
+          "matchedQueryTerms": 26
+        },
+        {
+          "paragraph": 1,
+          "english": "The route brought them to an icy observatory built on a small moon. A layer of mist drifted over its glass roof, hiding the great stadium where early explorers had once practiced walking in weak gravity. The front doors were made of polished brass, and a porcelain kangaroo stood beside the reception desk. Kel called the decoration humorous, but Lena noticed tiny marks beneath its feet. The marks formed the same symbols as those on Mara's seed case. In a room full of fallen furniture, a recorder suddenly switched on and played a technical message: THE SEAL MUST BE BROKEN BEFORE THE STAR CAN BE SEEN. The empty reception buffet and its delicate signs had been arranged by a celebrated designer whose name was still painted on the wall.",
+          "chinese": "航線把他們帶到一座建在小型衛星上的冰冷觀測站。薄霧飄過玻璃屋頂，遮住早期探險家曾練習低重力行走的巨大體育場。正門以打磨過的黃銅製成，接待桌旁還擺著瓷製袋鼠。凱爾覺得裝飾很幽默，莉娜卻注意到袋鼠腳下刻著細小痕跡，符號與瑪拉種子盒上的相同。擺滿倒塌家具的房間裡，錄音器突然自行開啟，播放技術訊息：「必須先打破封印，才能看見那顆星。」空蕩接待自助餐台與精緻標示出自一名知名設計師之手，牆上還留著他的名字。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

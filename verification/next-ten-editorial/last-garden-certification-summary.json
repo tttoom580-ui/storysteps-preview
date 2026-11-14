@@ -1,0 +1,15 @@
+{
+  "reviewDate": "2026-11-14",
+  "summary": {
+    "booksApproved": 1,
+    "chaptersApproved": 25,
+    "bilingualParagraphsReviewed": 150,
+    "quizAnswersReviewed": 50,
+    "targetVocabularyItemsChecked": 501,
+    "method": "GPT-6 AI editor, not independent human proofreader",
+    "receiptRoot": "verification/next-ten-editorial/receipts"
+  },
+  "books": [
+    "import-last-garden"
+  ]
+}

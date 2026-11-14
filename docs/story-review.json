@@ -3,7 +3,7 @@
   "summary": {
     "books": 88,
     "chapters": 2200,
-    "englishWords": 1417012,
+    "englishWords": 1417056,
     "questions": 4400,
     "targetEntries": 44084,
     "bilingualParagraphs": 13135,
@@ -3830,7 +3830,7 @@
       "id": "import-last-garden",
       "title": "最後的花園",
       "chapters": 25,
-      "englishWords": 15801,
+      "englishWords": 15845,
       "minimumChapterWords": 601,
       "minimumTargetWords": 20,
       "questions": 50,
@@ -9246,7 +9246,7 @@
     {
       "book": "import-last-garden",
       "chapter": "import-last-garden-7",
-      "englishWords": 647,
+      "englishWords": 655,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -9255,7 +9255,7 @@
     {
       "book": "import-last-garden",
       "chapter": "import-last-garden-8",
-      "englishWords": 609,
+      "englishWords": 627,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -9318,7 +9318,7 @@
     {
       "book": "import-last-garden",
       "chapter": "import-last-garden-15",
-      "englishWords": 649,
+      "englishWords": 667,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 7,
+  "chapterId": "import-last-garden-7",
+  "sourceChapterSha256": "ce1b678786c2d39d587b920a9520dc3ec868e403d950198c47fc3f9f836617a6",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "廢棄維修船機械動物園積水、供電與育兒安全面臨威脅；諾亞核對備用電池電壓後重啟水泵，找到港灣星人體反應及幕後黑制服身影。",
+    "previousChapterEndingEnglish": "Anika refused to leave the other sleepers. Instead she opened an emergency shaft behind her bed and told the children where it led. Kel carried oxygen tanks while Noah guided Lena through the dark. At the final hatch they saw their own shuttle floating far below, its engines asleep. “We need to jump,” Kel said, holding a rescue cable. Lena looked back at Anika, frightened of abandoning another ally. The doctor gave her a steady smile. “You cannot save everyone in one night. Save the chance that we may all be free.” The three escaped as soldiers broke through the medical ward, and the station's lamps went red.",
+    "nextChapterOpeningEnglish": "They followed the relay signal toward a small rocket depot and found a young woman waiting alone at the airlock. She introduced herself as Mira, a passenger who had been awakened by mistake. Mira carried a battered bookcase drawer full of handwritten notes and had a deep ache in her left shoulder. She said she had tried to organize complaints about unsafe sleep chambers, but security had threatened to release her into space if she continued. Lena was conscious of how little they knew about her. Yet the woman held a poster showing Mara in a group of scientists, with a promise written below: EVERY LIFE IS UNIQUE."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Their shuttle crossed a bright storm and reached an abandoned maintenance vessel. Its entrance opened automatically when Lena brought Mara's seed case near the lock. Inside, rows of machines cared for artificial animals designed to teach children about Earth. A mechanical hen guarded a nest of bright eggs. Nearby, a flock of small birds circled over a fence while a toy automobile moved slowly between painted trees. Noah laughed when a bird landed on his shoulder, but the laughter ended when water began pouring from a broken faucet. The vessel was losing pressure, and its artificial life-support system was failing. On a nearby shelf lay a model dumpling and a bright sign advertising juicy fruit, both left from an old lesson about food. An automatic timer still moved the birds from their resting places to feeding stations each hour.",
+        "zh": "接駁艇穿過明亮的風暴，抵達一艘廢棄維修船。莉娜把瑪拉的種子盒靠近艙門，門就自動開啟。船內一排排機器照料著教孩子認識地球的機械動物。一隻機械母雞守著鮮豔的鳥巢蛋，旁邊一群小鳥在圍欄上方盤旋，一輛玩具汽車緩緩穿過畫出來的樹林。小鳥停在諾亞肩上時，他忍不住笑了；但當破損水龍頭開始大量漏水，笑聲就停止了。船艙正在失壓，人造生命維持系統即將故障。旁邊架上還有一顆餃子模型，以及宣傳多汁水果的鮮亮標牌，都是早期食物課程留下的。一個自動計時器仍每小時把機械鳥從休息處移往餵食站。",
+        "englishSha256": "ad237744843ca41ca3864d0adfed7edb52d15ae283bb72a03d7c8d09a8ba239d",
+        "chineseSha256": "ef54462701ea429071072c6643765a5c8ea337784ec78294798283e3d77a9a65"
+      },
+      {
+        "number": 2,
+        "en": "Lena entered the control room while Kel worked to protect the shuttle. The screens reported that toxic chemicals had begun to pollute the water. A repair robot moved too slowly to prevent the tanks from overflowing. Lena grabbed a shovel and cleared the drainage channel, but the floor was slippery. She nearly fell into a deep pool where the robot animals had gathered. “If the water rises another meter,” Noah warned, “the nursery will drown.” He found a charged backup battery in the ship's microwave service unit. After checking the required voltage, he connected it to the main pump. The old machine growled, then brought the first tank under control.",
+        "zh": "莉娜進入控制室，凱爾則設法保護接駁艇。螢幕顯示有毒化學物質開始汙染水源。維修機器人動作太慢，無法阻止水槽溢出。莉娜抓起鏟子清除排水溝，地板卻很滑，她差點跌進機械動物聚集的深池。「再漲一公尺，育兒區就會被淹沒。」諾亞警告。他在船上的微波設備維修單元找到一顆仍有電的備用電池，核對主水泵所需電壓後才接上電源。老機器發出低沉轟鳴，終於控制住第一個水槽。",
+        "englishSha256": "6a395d2269c94f39034f7313f7df00a70c414c572ed7af411a721415d585471a",
+        "chineseSha256": "28117226f597e0c28221d45139c29389bb0d929196094558d3809858bcdb23c4"
+      },
+      {
+        "number": 3,
+        "en": "On the far wall hung a diagram of a human body, from its outer skin to the brain's mental networks. A note explained that the vessel had once tested whether human infants could safely live under Haven's lightning storms. Beneath the diagram was a naked model of a child surrounded by sensors. Noah turned away, uncomfortable with the display. Lena read the test results and discovered the same strange pattern seen in the museum: the planet's atmosphere changed the body's protective systems. The computer claimed the effects were harmless. But someone had crossed out that conclusion and written SIN in angry red letters.",
+        "zh": "遠處牆上掛著人體示意圖，從外層皮膚到大腦神經網絡都清楚標示。註解說，這艘船曾測試人類嬰兒是否能安全生活在港灣星的閃電風暴下。圖下是一具沒有衣物的人體兒童模型，周圍佈滿感測器。諾亞不舒服地轉開視線。莉娜讀到測試結果，發現與博物館相同的怪異模式：行星大氣會改變人體的保護機制。電腦卻聲稱沒有危險。有人把這結論劃掉，並以憤怒的紅字寫上「罪」。",
+        "englishSha256": "111c30856d05f838a613c002df1364ecb528e630861d95ed4ed908c2569307e4",
+        "chineseSha256": "a275eac19883f702122b92a15990baf5f1227460d2ef0815566095c2bd93e95a"
+      },
+      {
+        "number": 4,
+        "en": "Another room contained emergency clothing and lessons about how to clothe children in protective suits. On a table stood a bowl with a painted yellow yolk, a training tool for explaining where food comes from. The ordinary objects made the danger feel worse. Someone had expected families to live here, yet every corridor carried evidence that the environment could injure them. Kel discovered a sealed compartment marked PROTECTION PROJECT and called the twins inside. A recording showed Mara addressing a committee of scientists. She insisted that the children should be told the truth before anyone voted on landing.",
+        "zh": "另一間房擺著緊急衣物，以及教導如何替孩子穿上防護服的教材。桌上有碗彩繪蛋黃模型，用來說明食物從哪來。這些平凡物品反而讓危險更真實。有人曾預期家庭會在這裡生活，但每條走廊都留下環境可能傷害他們的證據。凱爾發現一個標示「保護計畫」的密封艙，叫雙胞胎進去。錄影中，瑪拉對科學委員會發言，堅持必須在任何登陸表決之前，把真相告知孩子。",
+        "englishSha256": "2658089e0581fcaa5e68de46fab450137abfc182c2140d5e6682f98fb24f6713",
+        "chineseSha256": "1bcddee56299e7b9022d63d2074b4319977458263ef2337f58da1f7479b609e0"
+      },
+      {
+        "number": 5,
+        "en": "The record ended with a storm of shouting. One committee member accused Mara of trying to destroy the mission; another said she was protecting it. Noah watched the final frame and pointed at a tiny reflection in Mara's glasses. A figure stood behind the camera, wearing the same dark uniform seen in the launch film. The figure carried a case shaped like the one they had found in Garden Seven. “That person was there from the beginning,” Noah said. Lena saved the image. For the first time they had a face-shaped clue, though the picture remained too blurred to identify anyone.",
+        "zh": "錄影最後只剩眾人激烈爭吵。一名委員指控瑪拉想摧毀任務，另一人則說她是在保護任務。諾亞凝視最後一格，指著瑪拉眼鏡裡細小的反光：攝影機後方站著一名黑制服人物，衣服與啟航影片中的人相同，手裡還拿著與七號花園金屬盒相似的盒子。「那個人從一開始就在場。」諾亞說。莉娜存下影像。他們第一次得到近似人臉的線索，雖然畫面仍模糊得無法辨認。",
+        "englishSha256": "a92c516136bff934b759e27a8c7f55beeffc9ff6025027b3f39f01df902a8e97",
+        "chineseSha256": "6b826a928af1268eeaaa66a3b4a9e39a3918536678c81042629c926a6a81ac25"
+      },
+      {
+        "number": 6,
+        "en": "Before leaving, Lena repaired the nursery's water system and restored the lights above the birds. The mechanical hen returned to its nest, and the flock settled along the fence. Noah asked why she spent precious time saving machines when real people needed help. “Because this place tells us what our parents wanted,” she answered. “They made a world where children could learn without fear. That matters too.” Their shuttle departed just as the storm's lightning illuminated the empty vessel. Across its hull, a forgotten name became visible: THE FIRST HOME. Lena wondered how many homes had been planned, and how many had quietly failed.",
+        "zh": "離開前，莉娜修好了育兒區的水循環，也讓鳥群上方的燈重新亮起。機械母雞回巢，小鳥也停回圍欄。諾亞問她，真人正需要幫助，為何還花寶貴時間拯救機器。「因為這個地方讓我們知道父母想要什麼，」她回答，「他們造出讓孩子能不受恐懼地學習的世界，這也很重要。」接駁艇離開時，閃電照亮空蕩的維修船。船殼上浮現被遺忘的名字：「第一個家」。莉娜開始想，究竟規劃過多少個家，又有多少個悄悄失敗。",
+        "englishSha256": "7ab1fda00cc0175edec598655f41cefd15258cc9d0c6c63f7a1ddc0866237242",
+        "chineseSha256": "13fd4a7a7cc989db2a4bf81f275d28eb2b007bc67541fdac5a9329f624bef51c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 655,
+    "targets": [
+      {
+        "word": "automatic",
+        "meaning": "自動的",
+        "appearsInSource": true
+      },
+      {
+        "word": "automobile",
+        "meaning": "汽車",
+        "appearsInSource": true
+      },
+      {
+        "word": "clothe",
+        "meaning": "替……穿衣",
+        "appearsInSource": true
+      },
+      {
+        "word": "committee",
+        "meaning": "委員會",
+        "appearsInSource": true
+      },
+      {
+        "word": "drown",
+        "meaning": "溺斃",
+        "appearsInSource": true
+      },
+      {
+        "word": "dumpling",
+        "meaning": "餃子",
+        "appearsInSource": true
+      },
+      {
+        "word": "faucet",
+        "meaning": "水龍頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "fence",
+        "meaning": "圍欄",
+        "appearsInSource": true
+      },
+      {
+        "word": "flock",
+        "meaning": "鳥群",
+        "appearsInSource": true
+      },
+      {
+        "word": "juicy",
+        "meaning": "多汁的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lightning",
+        "meaning": "閃電",
+        "appearsInSource": true
+      },
+      {
+        "word": "mental",
+        "meaning": "心理神經的",
+        "appearsInSource": true
+      },
+      {
+        "word": "microwave",
+        "meaning": "微波裝置",
+        "appearsInSource": true
+      },
+      {
+        "word": "naked",
+        "meaning": "沒有衣物的",
+        "appearsInSource": true
+      },
+      {
+        "word": "nest",
+        "meaning": "巢",
+        "appearsInSource": true
+      },
+      {
+        "word": "pollute",
+        "meaning": "汙染",
+        "appearsInSource": true
+      },
+      {
+        "word": "protection",
+        "meaning": "保護",
+        "appearsInSource": true
+      },
+      {
+        "word": "shovel",
+        "meaning": "鏟子",
+        "appearsInSource": true
+      },
+      {
+        "word": "sin",
+        "meaning": "罪",
+        "appearsInSource": true
+      },
+      {
+        "word": "yolk",
+        "meaning": "蛋黃",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈A Nest of Machines〉第 1 段的事件，哪個選項能正確補完整句？\nTheir shuttle crossed a bright storm and reached ____.",
+      "options": [
+        "an abandoned maintenance vessel",
+        "an invitation",
+        "an unusual chemical element"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "an abandoned maintenance vessel",
+      "existingAnswerExplanation": "原文證據：Their shuttle crossed a bright storm and reached an abandoned maintenance vessel.\n本段對照：接駁艇穿過明亮的風暴，抵達一艘廢棄維修船。莉娜把瑪拉的種子盒靠近艙門，門就自動開啟。船內一排排機器照料著教孩子認識地球的機械動物。一隻機械母雞守著鮮豔的鳥巢蛋，旁邊一群小鳥在圍欄上方盤旋，一輛玩具汽車緩緩穿過畫出來的樹林。小鳥停在諾亞肩上時，他忍不住笑了；但當破損水龍頭開始大量漏水，笑聲就停止了。船艙正在失壓，人造生命維持系統即將故障。旁邊架上還有一顆餃子模型，以及宣傳多汁水果的鮮亮標牌，都是早期食物課程留下的。一個自動計時器仍每小時把機械鳥從休息處移往餵食站。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Their shuttle crossed a bright storm and reached an abandoned maintenance vessel. Its entrance opened automatically when Lena brought Mara's seed case near the lock. Inside, rows of machines cared for artificial animals designed to teach children about Earth. A mechanical hen guarded a nest of bright eggs. Nearby, a flock of small birds circled over a fence while a toy automobile moved slowly between painted trees. Noah laughed when a bird landed on his shoulder, but the laughter ended when water began pouring from a broken faucet. The vessel was losing pressure, and its artificial life-support system was failing. On a nearby shelf lay a model dumpling and a bright sign advertising juicy fruit, both left from an old lesson about food. An automatic timer still moved the birds from their resting places to feeding stations each hour.",
+          "chinese": "接駁艇穿過明亮的風暴，抵達一艘廢棄維修船。莉娜把瑪拉的種子盒靠近艙門，門就自動開啟。船內一排排機器照料著教孩子認識地球的機械動物。一隻機械母雞守著鮮豔的鳥巢蛋，旁邊一群小鳥在圍欄上方盤旋，一輛玩具汽車緩緩穿過畫出來的樹林。小鳥停在諾亞肩上時，他忍不住笑了；但當破損水龍頭開始大量漏水，笑聲就停止了。船艙正在失壓，人造生命維持系統即將故障。旁邊架上還有一顆餃子模型，以及宣傳多汁水果的鮮亮標牌，都是早期食物課程留下的。一個自動計時器仍每小時把機械鳥從休息處移往餵食站。",
+          "matchedQueryTerms": 22
+        },
+        {
+          "paragraph": 6,
+          "english": "Before leaving, Lena repaired the nursery's water system and restored the lights above the birds. The mechanical hen returned to its nest, and the flock settled along the fence. Noah asked why she spent precious time saving machines when real people needed help. “Because this place tells us what our parents wanted,” she answered. “They made a world where children could learn without fear. That matters too.” Their shuttle departed just as the storm's lightning illuminated the empty vessel. Across its hull, a forgotten name became visible: THE FIRST HOME. Lena wondered how many homes had been planned, and how many had quietly failed.",
+          "chinese": "離開前，莉娜修好了育兒區的水循環，也讓鳥群上方的燈重新亮起。機械母雞回巢，小鳥也停回圍欄。諾亞問她，真人正需要幫助，為何還花寶貴時間拯救機器。「因為這個地方讓我們知道父母想要什麼，」她回答，「他們造出讓孩子能不受恐懼地學習的世界，這也很重要。」接駁艇離開時，閃電照亮空蕩的維修船。船殼上浮現被遺忘的名字：「第一個家」。莉娜開始想，究竟規劃過多少個家，又有多少個悄悄失敗。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈A Nest of Machines〉第 6 段的事件，哪個選項能正確補完整句？\n“They made ____.",
+      "options": [
+        "a rocket platform above a dark planet",
+        "a world where children could learn without fear",
+        "a district where mechanics worked without rest"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a world where children could learn without fear",
+      "existingAnswerExplanation": "原文證據：“They made a world where children could learn without fear.\n本段對照：離開前，莉娜修好了育兒區的水循環，也讓鳥群上方的燈重新亮起。機械母雞回巢，小鳥也停回圍欄。諾亞問她，真人正需要幫助，為何還花寶貴時間拯救機器。「因為這個地方讓我們知道父母想要什麼，」她回答，「他們造出讓孩子能不受恐懼地學習的世界，這也很重要。」接駁艇離開時，閃電照亮空蕩的維修船。船殼上浮現被遺忘的名字：「第一個家」。莉娜開始想，究竟規劃過多少個家，又有多少個悄悄失敗。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Before leaving, Lena repaired the nursery's water system and restored the lights above the birds. The mechanical hen returned to its nest, and the flock settled along the fence. Noah asked why she spent precious time saving machines when real people needed help. “Because this place tells us what our parents wanted,” she answered. “They made a world where children could learn without fear. That matters too.” Their shuttle departed just as the storm's lightning illuminated the empty vessel. Across its hull, a forgotten name became visible: THE FIRST HOME. Lena wondered how many homes had been planned, and how many had quietly failed.",
+          "chinese": "離開前，莉娜修好了育兒區的水循環，也讓鳥群上方的燈重新亮起。機械母雞回巢，小鳥也停回圍欄。諾亞問她，真人正需要幫助，為何還花寶貴時間拯救機器。「因為這個地方讓我們知道父母想要什麼，」她回答，「他們造出讓孩子能不受恐懼地學習的世界，這也很重要。」接駁艇離開時，閃電照亮空蕩的維修船。船殼上浮現被遺忘的名字：「第一個家」。莉娜開始想，究竟規劃過多少個家，又有多少個悄悄失敗。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "Their shuttle crossed a bright storm and reached an abandoned maintenance vessel. Its entrance opened automatically when Lena brought Mara's seed case near the lock. Inside, rows of machines cared for artificial animals designed to teach children about Earth. A mechanical hen guarded a nest of bright eggs. Nearby, a flock of small birds circled over a fence while a toy automobile moved slowly between painted trees. Noah laughed when a bird landed on his shoulder, but the laughter ended when water began pouring from a broken faucet. The vessel was losing pressure, and its artificial life-support system was failing. On a nearby shelf lay a model dumpling and a bright sign advertising juicy fruit, both left from an old lesson about food. An automatic timer still moved the birds from their resting places to feeding stations each hour.",
+          "chinese": "接駁艇穿過明亮的風暴，抵達一艘廢棄維修船。莉娜把瑪拉的種子盒靠近艙門，門就自動開啟。船內一排排機器照料著教孩子認識地球的機械動物。一隻機械母雞守著鮮豔的鳥巢蛋，旁邊一群小鳥在圍欄上方盤旋，一輛玩具汽車緩緩穿過畫出來的樹林。小鳥停在諾亞肩上時，他忍不住笑了；但當破損水龍頭開始大量漏水，笑聲就停止了。船艙正在失壓，人造生命維持系統即將故障。旁邊架上還有一顆餃子模型，以及宣傳多汁水果的鮮亮標牌，都是早期食物課程留下的。一個自動計時器仍每小時把機械鳥從休息處移往餵食站。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

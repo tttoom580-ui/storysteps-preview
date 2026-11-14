@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 11,
+  "chapterId": "import-last-garden-11",
+  "sourceChapterSha256": "b510740834f9094878b3d99b9ef96d7525f6514f19cf17aab18b42aa549dc142",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "工會托瑪斯要求維修設備與糧食公開，展示瑪拉及安妮卡證據後經維修網廣播，拒絕要求工人盲信；諾亞收到母親尚活訊息。",
+    "previousChapterEndingEnglish": "Mira wanted to return immediately, but Noah argued that they needed more evidence before confronting the governor. Kel suggested seeking the first captain's surviving crew, whose names were stored in a protected registry. Lena looked at the distant silver shape of Aurora and imagined hundreds of sleeping people moving toward an invisible trap. “We go back,” she decided, “but not empty-handed.” They recorded the true star chart and sent it through Mara's relay network. Each station repeated the evidence, building a chain of signals toward the ship. Then they set course for the old workers' district, where someone still remembered the first captain's orders.",
+    "nextChapterOpeningEnglish": "The language archive occupied a basement below Aurora's oldest kindergarten. Its walls were painted with an alphabet, and a wooden cock stood beside a tiny classroom bell. Every child on the ship had once learned to read there, but now the room was locked and silent. An old teacher named Wen opened the door after Lena repeated the whistle signal. Wen had a collection of forgotten books, labels, and drawings from Earth. A queer smell of cigarette smoke lingered in the hall, although smoking had been forbidden aboard Aurora for decades. “Someone was here recently,” Wen said. “And they did not come to read.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "They entered Aurora through a forgotten supply hatch and reached a district where mechanics worked without rest. A warm breeze carried the smell of pepper and fresh bread from a tiny bakery. A slender worker named Tomas stood on a platform, trying to speak to a crowd about missing food supplies. His sleeve was torn, and a bloody mark stained his wrist. He said several workers had been arrested for asking for more credit to repair their machines. The government called them criminals, although their only demand was safe equipment. When Tomas noticed the children watching, he stepped down and asked why security had placed their faces on every public screen.",
+        "zh": "他們從被遺忘的補給艙口返回「極光號」，抵達機械工人不停工作的區域。暖風吹來胡椒與新鮮麵包的氣味。身形修長的工人托瑪斯站在平台上，試圖向群眾說明糧食失蹤的問題。他的袖子破了，手腕還有血痕。他說，數名工人要求更多維修經費，卻因此被捕。政府稱他們是罪犯，但他們唯一的要求只是安全設備。托瑪斯看見孩子們，走下台問，為什麼保全把他們的臉貼滿公眾螢幕。",
+        "englishSha256": "c2eddc9c0e3f4cdeb987f556c2a9ed72bf95af2cec54e627be7302a68dedae2f",
+        "chineseSha256": "5690c596bf134b5177f4e54c0d28406f5fd28bd402efa6b52953358145bbe400"
+      },
+      {
+        "number": 2,
+        "en": "Lena showed him the true star chart. Tomas studied it, then invited them into the union's meeting room. Workers sat around a wooden table dividing the last loaf of bread into small pieces. They had been on a hunger protest because the governor refused to explain the missing supplies. Mira offered to help distribute food, but Tomas said that accepting help from wanted fugitives might place everyone at risk. Noah replied that the risk already existed: the ship was traveling toward empty space. Tomas leaned forward and asked for proof. Lena placed Anika's crystal and Mara's recordings on the table. A former shipping investor had promised the union a fortune in supplies, but the promise had never been honored.",
+        "zh": "莉娜給他看真實星圖。托瑪斯研究後邀他們進工會會議室。工人們圍著木桌，將最後一條麵包切成小塊。他們正進行絕食抗議，因為總督拒絕解釋物資短缺。米拉主動幫忙分食，托瑪斯卻說接受通緝犯的協助可能危及眾人。諾亞回答，風險早已存在：太空船正在飛向空無一物的宇宙。托瑪斯身體前傾，要求證據。莉娜把安妮卡的晶體與瑪拉的錄音放到桌上。一名舊日航運投資者曾向工會承諾價值可觀的大批物資，卻從未履行。",
+        "englishSha256": "1c69cb63abd79401d99140c77cac24647210d7dbe435a243ac4763b234c96019",
+        "chineseSha256": "d04e2e3b8e7220d19683e6291fd995b743025adb978eaf7eaf3be36d4fcd4369"
+      },
+      {
+        "number": 3,
+        "en": "A mechanic played the files while an emotional silence filled the room. The images showed damaged sleeping chambers, false readings, and the Mirror turning the ship away from safe routes. One woman began to cry and hid her face. Another resisted the temptation to shout at Tomas for ever trusting the governor. “If we spend our strength blaming one another,” Tomas said, “Orin wins.” He proposed sending the files through the union's repair network. Each terminal had an independent speaker, and even a locked screen could not completely silence the announcements. The plan would require hundreds of workers acting together.",
+        "zh": "一名技師播放檔案，室內陷入激動的沉默。影像顯示受損睡眠艙、虛假讀數，以及「鏡面」如何將主船從安全航線引開。一名婦人哭了起來，掩住臉；另一人努力克制想責罵托瑪斯過去信任總督的衝動。「若我們把力氣用在彼此責怪，歐林就贏了。」托瑪斯說。他提議透過工會的維修網路傳送檔案。每台終端都有獨立喇叭，縱使螢幕被鎖，也無法完全阻止廣播。計畫需要數百名工人合作。",
+        "englishSha256": "d693e78f2ed95a7bcbfef8cb9e16402fc16e38bcb3d5b0f03ca90c7a43c6f873",
+        "chineseSha256": "2d3e4c142b908d37143c454506c25d9e9e0b342a32c530384e9ac1d89b879c25"
+      },
+      {
+        "number": 4,
+        "en": "A whistle from the hall interrupted them. Security officers approached, wearing badges shaped like twisted stars. Tomas told the children to pretend to be part of a cleaning team and handed them brooms. He pitched his voice low and explained that no worker must mention the evidence until the appointed hour. Kel moved the files into a metal parcel, while Mira hid the memory crystal beneath a strip of cloth. A young officer opened the door and asked why a group of mechanics needed so many visitors. Tomas answered that a broken pressure pipe required extra hands. The officer inspected their clothes, then walked away.",
+        "zh": "走廊傳來哨聲，打斷了會議。保全人員靠近，佩戴扭曲星形徽章。托瑪斯要孩子們假裝清潔隊，交給他們掃帚。他壓低音量說，指定時間之前任何工人都不能提證據。凱爾把資料裝入金屬包裹，米拉則把記憶晶體藏在布條下。一名年輕軍官開門，問機械師為何需要這麼多訪客。托瑪斯回答，壓力管故障，需要額外人手。軍官檢查他們的衣服後便離開。",
+        "englishSha256": "da40e780ebb235aab764bf8da5af73391ff3763d3e299d5d98bd185142a9a7e2",
+        "chineseSha256": "d94e9180caf1e88a3779259427006d037bf9668a0c8efcd5c8a227e6a2489e68"
+      },
+      {
+        "number": 5,
+        "en": "The broadcast began one hour later. It traveled through repair terminals, kitchen bells, and emergency speakers, across every slope and passage of the enormous ship. For the first time, many awake workers heard that Haven's position had been falsified. Some believed the message immediately; others thought it was an elaborate trick. The governor appeared on public screens and accused the union of inventing a terrible story to steal power. Tomas refused to pretend he had no doubts. “We are not asking you to believe us without question,” he told the workers. “We are asking for an independent investigation.”",
+        "zh": "一小時後，廣播開始。訊號穿過維修終端、廚房鈴與緊急喇叭，沿巨大太空船的每條坡道與走廊傳播。許多清醒工人第一次聽見港灣星座標遭竄改的消息。有些人立刻相信，有些則認為這是精心設計的騙局。總督出現在公眾螢幕，指控工會編造可怕故事以奪取權力。托瑪斯沒有假裝毫無懷疑。「我們不是要你們毫不質疑地相信我們，」他說，「我們要求的是獨立調查。」",
+        "englishSha256": "1135d7de19a172138442c603df7ba3826d5ab083a5384ed74c37c95c769f217c",
+        "chineseSha256": "878e318a0c8705d1d11087125f890d3d4eba050a22f41759f4f07bb20de74f21"
+      },
+      {
+        "number": 6,
+        "en": "By dawn the repair network had reached half the ship. In the lower decks, an exhausted worker licked dry lips and asked whether the protest could end. Tomas broke his own bread and handed her a piece. The union agreed to reopen the kitchens, but it also demanded that representatives be allowed to examine the bridge. Lena felt a strange mixture of hope and fear. She had imagined truth spreading like light, yet she saw that every person received it differently. Before the meeting ended, a secret message reached Noah's tablet: YOUR MOTHER IS ALIVE. REPORT TO THE LANGUAGE ARCHIVE. The sender was unknown.",
+        "zh": "黎明前，維修網路已覆蓋半艘船。下層甲板一位筋疲力盡的工人舔了舔乾裂嘴唇，問抗議能否結束。托瑪斯掰開自己的麵包遞給她。工會同意重開廚房，但要求派代表檢查艦橋。莉娜既希望又害怕。她原以為真相會像光一樣傳開，卻發現每個人接收到的都不相同。會議結束前，諾亞的平板收到祕密訊息：「你們的母親還活著。到語言檔案庫。」寄件者不明。",
+        "englishSha256": "7981f96dfd28d994f779ef597cd3e2c1c2856ad3115bf1589a108d49c8a26e5c",
+        "chineseSha256": "a0e8f688a15a00647f2120c3a807f12a028f440a984c0c62d77b30bcc654de48"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 637,
+    "targets": [
+      {
+        "word": "bloody",
+        "meaning": "流血的",
+        "appearsInSource": true
+      },
+      {
+        "word": "breeze",
+        "meaning": "微風",
+        "appearsInSource": true
+      },
+      {
+        "word": "credit",
+        "meaning": "經費信用額度",
+        "appearsInSource": true
+      },
+      {
+        "word": "criminals",
+        "meaning": "罪犯",
+        "appearsInSource": true
+      },
+      {
+        "word": "emotional",
+        "meaning": "情緒激動的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fortune",
+        "meaning": "財富",
+        "appearsInSource": true
+      },
+      {
+        "word": "hunger",
+        "meaning": "飢餓",
+        "appearsInSource": true
+      },
+      {
+        "word": "licked",
+        "meaning": "舔",
+        "appearsInSource": true
+      },
+      {
+        "word": "loaf",
+        "meaning": "條狀麵包",
+        "appearsInSource": true
+      },
+      {
+        "word": "parcel",
+        "meaning": "包裹",
+        "appearsInSource": true
+      },
+      {
+        "word": "pepper",
+        "meaning": "胡椒",
+        "appearsInSource": true
+      },
+      {
+        "word": "pitched",
+        "meaning": "音調",
+        "appearsInSource": true
+      },
+      {
+        "word": "pretend",
+        "meaning": "假裝",
+        "appearsInSource": true
+      },
+      {
+        "word": "resisted",
+        "meaning": "抵抗",
+        "appearsInSource": true
+      },
+      {
+        "word": "sleeve",
+        "meaning": "袖子",
+        "appearsInSource": true
+      },
+      {
+        "word": "slender",
+        "meaning": "修長的",
+        "appearsInSource": true
+      },
+      {
+        "word": "slope",
+        "meaning": "斜坡",
+        "appearsInSource": true
+      },
+      {
+        "word": "twisted",
+        "meaning": "扭曲",
+        "appearsInSource": true
+      },
+      {
+        "word": "union",
+        "meaning": "工會",
+        "appearsInSource": true
+      },
+      {
+        "word": "wrist",
+        "meaning": "手腕",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Workers' Union〉第 1 段的事件，哪個選項能正確補完整句？\nThey entered Aurora through a forgotten supply hatch and reached ____.",
+      "options": [
+        "a battered bookcase drawer full of handwritten notes",
+        "a control panel sealed beneath a metal floor",
+        "a district where mechanics worked without rest"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a district where mechanics worked without rest",
+      "existingAnswerExplanation": "原文證據：They entered Aurora through a forgotten supply hatch and reached a district where mechanics worked without rest.\n本段對照：他們從被遺忘的補給艙口返回「極光號」，抵達機械工人不停工作的區域。暖風吹來胡椒與新鮮麵包的氣味。身形修長的工人托瑪斯站在平台上，試圖向群眾說明糧食失蹤的問題。他的袖子破了，手腕還有血痕。他說，數名工人要求更多維修經費，卻因此被捕。政府稱他們是罪犯，但他們唯一的要求只是安全設備。托瑪斯看見孩子們，走下台問，為什麼保全把他們的臉貼滿公眾螢幕。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "They entered Aurora through a forgotten supply hatch and reached a district where mechanics worked without rest. A warm breeze carried the smell of pepper and fresh bread from a tiny bakery. A slender worker named Tomas stood on a platform, trying to speak to a crowd about missing food supplies. His sleeve was torn, and a bloody mark stained his wrist. He said several workers had been arrested for asking for more credit to repair their machines. The government called them criminals, although their only demand was safe equipment. When Tomas noticed the children watching, he stepped down and asked why security had placed their faces on every public screen.",
+          "chinese": "他們從被遺忘的補給艙口返回「極光號」，抵達機械工人不停工作的區域。暖風吹來胡椒與新鮮麵包的氣味。身形修長的工人托瑪斯站在平台上，試圖向群眾說明糧食失蹤的問題。他的袖子破了，手腕還有血痕。他說，數名工人要求更多維修經費，卻因此被捕。政府稱他們是罪犯，但他們唯一的要求只是安全設備。托瑪斯看見孩子們，走下台問，為什麼保全把他們的臉貼滿公眾螢幕。",
+          "matchedQueryTerms": 26
+        },
+        {
+          "paragraph": 5,
+          "english": "The broadcast began one hour later. It traveled through repair terminals, kitchen bells, and emergency speakers, across every slope and passage of the enormous ship. For the first time, many awake workers heard that Haven's position had been falsified. Some believed the message immediately; others thought it was an elaborate trick. The governor appeared on public screens and accused the union of inventing a terrible story to steal power. Tomas refused to pretend he had no doubts. “We are not asking you to believe us without question,” he told the workers. “We are asking for an independent investigation.”",
+          "chinese": "一小時後，廣播開始。訊號穿過維修終端、廚房鈴與緊急喇叭，沿巨大太空船的每條坡道與走廊傳播。許多清醒工人第一次聽見港灣星座標遭竄改的消息。有些人立刻相信，有些則認為這是精心設計的騙局。總督出現在公眾螢幕，指控工會編造可怕故事以奪取權力。托瑪斯沒有假裝毫無懷疑。「我們不是要你們毫不質疑地相信我們，」他說，「我們要求的是獨立調查。」",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Workers' Union〉第 4 段的事件，哪個選項能正確補完整句？\nA young officer opened ____ and asked why a group of mechanics needed so many visitors.",
+      "options": [
+        "the door",
+        "the equipment alive",
+        "the power system"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the door",
+      "existingAnswerExplanation": "原文證據：A young officer opened the door and asked why a group of mechanics needed so many visitors.\n本段對照：走廊傳來哨聲，打斷了會議。保全人員靠近，佩戴扭曲星形徽章。托瑪斯要孩子們假裝清潔隊，交給他們掃帚。他壓低音量說，指定時間之前任何工人都不能提證據。凱爾把資料裝入金屬包裹，米拉則把記憶晶體藏在布條下。一名年輕軍官開門，問機械師為何需要這麼多訪客。托瑪斯回答，壓力管故障，需要額外人手。軍官檢查他們的衣服後便離開。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "A whistle from the hall interrupted them. Security officers approached, wearing badges shaped like twisted stars. Tomas told the children to pretend to be part of a cleaning team and handed them brooms. He pitched his voice low and explained that no worker must mention the evidence until the appointed hour. Kel moved the files into a metal parcel, while Mira hid the memory crystal beneath a strip of cloth. A young officer opened the door and asked why a group of mechanics needed so many visitors. Tomas answered that a broken pressure pipe required extra hands. The officer inspected their clothes, then walked away.",
+          "chinese": "走廊傳來哨聲，打斷了會議。保全人員靠近，佩戴扭曲星形徽章。托瑪斯要孩子們假裝清潔隊，交給他們掃帚。他壓低音量說，指定時間之前任何工人都不能提證據。凱爾把資料裝入金屬包裹，米拉則把記憶晶體藏在布條下。一名年輕軍官開門，問機械師為何需要這麼多訪客。托瑪斯回答，壓力管故障，需要額外人手。軍官檢查他們的衣服後便離開。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 1,
+          "english": "They entered Aurora through a forgotten supply hatch and reached a district where mechanics worked without rest. A warm breeze carried the smell of pepper and fresh bread from a tiny bakery. A slender worker named Tomas stood on a platform, trying to speak to a crowd about missing food supplies. His sleeve was torn, and a bloody mark stained his wrist. He said several workers had been arrested for asking for more credit to repair their machines. The government called them criminals, although their only demand was safe equipment. When Tomas noticed the children watching, he stepped down and asked why security had placed their faces on every public screen.",
+          "chinese": "他們從被遺忘的補給艙口返回「極光號」，抵達機械工人不停工作的區域。暖風吹來胡椒與新鮮麵包的氣味。身形修長的工人托瑪斯站在平台上，試圖向群眾說明糧食失蹤的問題。他的袖子破了，手腕還有血痕。他說，數名工人要求更多維修經費，卻因此被捕。政府稱他們是罪犯，但他們唯一的要求只是安全設備。托瑪斯看見孩子們，走下台問，為什麼保全把他們的臉貼滿公眾螢幕。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

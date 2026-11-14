@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 25 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-last-garden",
+  "title": "最後的花園",
+  "chapter": 4,
+  "chapterId": "import-last-garden-4",
+  "sourceChapterSha256": "b23bc8fae9ca363738d9042880045580cbe286c40852e522e8fcb5c78606217b",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "伊沃在舊音樂廳用哨聲模式演出瑪拉留下的中繼站座標，守衛逮捕老人；雙胞胎帶走畫作與不空無一人的圓頂警告。",
+    "previousChapterEndingEnglish": "The twins crawled through the tunnel until their clothes were covered with mud. When they reached a small service balcony, they saw the passenger decks spread above them. Suddenly a face appeared on every screen. It belonged to Governor Orin, whose voice was calm and warm. He announced that two young workers had stolen dangerous information and asked all citizens to report them. The picture showed Lena and Noah smiling during a school celebration. “He has made us look like criminals,” Noah said. Lena closed the seed case in her fist. “Then our next job,” she replied, “is to prove what really happened.”",
+    "nextChapterOpeningEnglish": "The outer decks contained Aurora's old cargo harbor, a long chamber where small ships once carried materials between the main vessel and supply stations. Most docks were locked, but a trader named Kel still worked beside a rough loading ramp. He had a chest filled with broken tools and a medal earned during the launch ceremony. Lena asked whether he could help them reach the relay station. “I used to make a career of finding unusual routes,” Kel answered, “but I have never taken children into empty space.” Noah showed him the painted dome. Kel's face turned pale. “That station has no right to appear on this map.” An athlete from the old training crew had once used this harbor, and Kel said the shuttle route would benefit from the athlete’s precise flight notes."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The twins hid in the ship's oldest recreation quarter, where retired workers kept a tiny barn of mechanical animals for children. A robot squirrel chased a toy nut across the floor, while a painter repaired a faded mural of Earth's night sky. The painter, an elderly traveler named Ivo, recognized Mara's seed case. He said he had once shared her ambition: to build a place where children could see a real forest. “She had a vision far larger than this ship,” he told them. When Lena asked where Mara had gone, Ivo pointed toward the music hall. “Tonight's concert contains her final message.”",
+        "zh": "雙胞胎躲進太空船最老舊的休閒區，退休工作人員在那裡飼養一間小小「穀倉」的機械動物，供孩子玩耍。機械松鼠追逐玩具堅果，一名畫家則修補地球夜空的褪色壁畫。這位名叫伊沃的老旅人認出瑪拉的種子盒，說自己曾與她擁有相同的抱負：打造讓孩子看見真正森林的地方。「她的願景遠比這艘船宏大。」他說。莉娜問瑪拉去了哪裡，伊沃指向音樂廳：「今晚的音樂會藏著她最後的訊息。」",
+        "englishSha256": "9135f9a38a1925e2b79b5d7890ad9146546d70aab05193c6da53d57f067e8a88",
+        "chineseSha256": "d14e067dd0b3a5e85b4225a575f3506b5e21ab06e9cfb5a99f49094a12ce3156"
+      },
+      {
+        "number": 2,
+        "en": "The hall was dim, crowded with workers whose bright uniforms were covered by dark coats. A junior technician fitted the twins with visitor collars that changed their recorded identities. Lena worried that the disguise would confuse the guards, but Ivo replied with dry humor that guards were often confused without any help. Onstage, a violinist played a sad melody while a cooking machine prepared roast onions for the audience. The smells reminded Noah of their childhood kitchen. For several minutes the music made him forget the chase, and that brief peace felt almost as precious as fresh air.",
+        "zh": "音樂廳燈光昏暗，擠滿在鮮豔制服外披著深色外套的工作人員。一名初級技師替雙胞胎裝上能改變識別資料的訪客項圈。莉娜擔心這會混淆警衛，伊沃卻帶著乾冷幽默說，警衛不用幫忙也常常搞不清楚狀況。舞台上，小提琴手拉著悲傷的旋律，烹飪機器同時替觀眾烤洋蔥。味道使諾亞想起童年的廚房。有好幾分鐘，音樂讓他忘了追捕，而這短暫的平靜幾乎像新鮮空氣一樣珍貴。",
+        "englishSha256": "8687f22da0bec7e63bfab96b0c13d931e4840cc9363cef73d014fdb0f668b8c5",
+        "chineseSha256": "bbe2fcf69a4416ce3991a758f28df5303c4743c6a416d0b6ff17ec6b7d90d24c"
+      },
+      {
+        "number": 3,
+        "en": "At the third movement, a fine spray of mist fell from the ceiling, and the wall images began to shift. A set of colored lights formed a face. Mara appeared, younger than the children remembered, and tapped a rhythm on a glass surface. Lena recognized the pattern from the whistle in Garden Seven. The music stopped for one beat, then continued. Behind Mara appeared a strange constellation and three coordinates. “Those are not stars on our route,” Noah whispered. Ivo nodded. “They mark an old relay station where your mother planned to stop the ship.”",
+        "zh": "樂曲進入第三樂章時，天花板灑下細霧，牆上的影像開始變化。彩色光線構成一張臉。瑪拉出現在畫面裡，比孩子記憶中更年輕，並在玻璃上敲擊節奏。莉娜認出那是七號花園哨聲的模式。音樂短暫停頓一拍，又繼續演奏。瑪拉背後浮現奇異星座與三組座標。「那不是航線上的星星。」諾亞低語。伊沃點頭：「那是老舊中繼站的位置，你們母親原本計畫在那裡停船。」",
+        "englishSha256": "998698fa405c39f343859d4d061508dcc7ea26b8925368985ab9747477af9300",
+        "chineseSha256": "3a9ecc699cd65240a6af20f4e22dd05715b5d73869c708872a0e99bbd3c6f72b"
+      },
+      {
+        "number": 4,
+        "en": "Before they could copy the coordinates, security officers entered and ordered every person to freeze. The robot squirrel rushed under their boots and knocked a guard sideways. Ivo pulled Lena into a storage room, where dozens of novels filled shelves. He admitted that he had once been a novelist on Earth and had written stories about brave explorers. “In books,” he said, “heroes always know what to do. In life, they mostly guess.” Noah found a recorder beneath a stack of books and copied the coordinates while Lena held the door shut. A guard struck the wall, and dust showered onto them.",
+        "zh": "他們還沒抄下座標，保全人員便衝入，命令所有人站住。機械松鼠鑽到警衛靴子下，害一人跌向旁邊。伊沃拉著莉娜躲進儲藏室，裡頭書架擺滿小說。他承認自己以前在地球上是一名小說家，寫過勇敢探險家的故事。「書裡的英雄總知道該怎麼做，」他說，「現實中的人多半靠猜。」諾亞在書堆下找到錄音器，複製座標，莉娜則抵住門。警衛猛敲牆壁，灰塵簌簌落下。",
+        "englishSha256": "880b312c2f02f38b845da5899ddb06940a1db46ec24f4f8195e6a3c9d513928d",
+        "chineseSha256": "ab89b99d84f09e9f6934160a129e2d6d8d2648083d712827261c933c5dbfb705"
+      },
+      {
+        "number": 5,
+        "en": "The fire alarm rang, and cold air began to pour from the vents. A broken temperature unit threatened to freeze the crowded hall. Ivo opened an emergency passage leading behind the stage. His quick response saved the audience from being trapped, but one guard grabbed his shoulder. “Run,” Ivo shouted. Lena hesitated; she did not want to leave another friend behind. The old man pressed a folded painting into her hand. “Your mother trusted me with this. Protect it.” The guard dragged him away while the twins disappeared beneath the stage and followed a tunnel toward the ship's outer decks.",
+        "zh": "火警響起，冷空氣從通風口灌入。故障的溫控裝置威脅讓擁擠的音樂廳結冰。伊沃打開舞台後的緊急通道，迅速反應使觀眾不至受困，但一名警衛抓住了他的肩。「快跑！」伊沃喊。莉娜猶豫，不想再丟下一名朋友。老人把折疊的畫塞進她手裡：「你們母親把它交給我保管，保護好它。」警衛拖走了他，雙胞胎則從舞台下消失，沿隧道走向船體外層甲板。",
+        "englishSha256": "e2d235e75f8c2a30b2170d2c497f0fdfa3be7fcebc3e59f11257f2dd0b8376a7",
+        "chineseSha256": "e8917b6befad8eaec341a0f4ca62adc13428fd254a86521cf08f39dbda280ad6"
+      },
+      {
+        "number": 6,
+        "en": "In the safety of a cargo lift, they unfolded the painting. It showed a field of green plants growing inside a glass dome on a dead moon. In a corner were the words: THE RELAY STATION IS NOT EMPTY. A second message was hidden beneath the paint, visible only when Lena held it against the lift's lamp: SOMEONE IS WAITING FOR YOU. Noah asked whether they should trust another secret from their mother. Lena looked at the painted dome, where a single doorway shone. “We do not have to trust every message,” she said. “But we have to learn who sent this one.”",
+        "zh": "躲進貨運升降機後，他們攤開那幅畫。畫上是一顆荒涼衛星，玻璃圓頂裡長著綠色植物。角落寫著：「中繼站並非空無一人。」莉娜把畫靠近升降機燈光時，塗料下浮現第二則訊息：「有人在等你們。」諾亞問，他們是否還該相信母親留下的另一個祕密。莉娜望著畫裡發亮的圓頂門口說：「我們不必相信每一則訊息，但必須弄清楚是誰送來的。」",
+        "englishSha256": "cc1f20fde851c2b77a69cf2f458e557712021e1ec811f463d37a529749443ffe",
+        "chineseSha256": "925008fd8355e6d23029687fdb21e99f1a32d4b946391bf0cebaea60bc65df07"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 601,
+    "targets": [
+      {
+        "word": "ambition",
+        "meaning": "抱負",
+        "appearsInSource": true
+      },
+      {
+        "word": "barn",
+        "meaning": "穀倉",
+        "appearsInSource": true
+      },
+      {
+        "word": "collars",
+        "meaning": "識別項圈",
+        "appearsInSource": true
+      },
+      {
+        "word": "concert",
+        "meaning": "音樂會",
+        "appearsInSource": true
+      },
+      {
+        "word": "confuse",
+        "meaning": "使困惑",
+        "appearsInSource": true
+      },
+      {
+        "word": "dim",
+        "meaning": "昏暗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "freeze",
+        "meaning": "結冰",
+        "appearsInSource": true
+      },
+      {
+        "word": "humor",
+        "meaning": "幽默",
+        "appearsInSource": true
+      },
+      {
+        "word": "junior",
+        "meaning": "初級的",
+        "appearsInSource": true
+      },
+      {
+        "word": "novelist",
+        "meaning": "小說家",
+        "appearsInSource": true
+      },
+      {
+        "word": "onions",
+        "meaning": "洋蔥",
+        "appearsInSource": true
+      },
+      {
+        "word": "painter",
+        "meaning": "畫家",
+        "appearsInSource": true
+      },
+      {
+        "word": "precious",
+        "meaning": "珍貴的",
+        "appearsInSource": true
+      },
+      {
+        "word": "response",
+        "meaning": "反應",
+        "appearsInSource": true
+      },
+      {
+        "word": "roast",
+        "meaning": "烤的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spray",
+        "meaning": "水霧",
+        "appearsInSource": true
+      },
+      {
+        "word": "squirrel",
+        "meaning": "松鼠",
+        "appearsInSource": true
+      },
+      {
+        "word": "tapped",
+        "meaning": "輕敲",
+        "appearsInSource": true
+      },
+      {
+        "word": "traveler",
+        "meaning": "旅人",
+        "appearsInSource": true
+      },
+      {
+        "word": "vision",
+        "meaning": "願景",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Concert of Shadows〉第 1 段的事件，哪個選項能正確補完整句？\nThe twins hid in the ship's oldest recreation quarter, where retired workers kept ____ for children.",
+      "options": [
+        "a small sip herself",
+        "a tiny barn of mechanical animals",
+        "a docking port"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a tiny barn of mechanical animals",
+      "existingAnswerExplanation": "原文證據：The twins hid in the ship's oldest recreation quarter, where retired workers kept a tiny barn of mechanical animals for children.\n本段對照：雙胞胎躲進太空船最老舊的休閒區，退休工作人員在那裡飼養一間小小「穀倉」的機械動物，供孩子玩耍。機械松鼠追逐玩具堅果，一名畫家則修補地球夜空的褪色壁畫。這位名叫伊沃的老旅人認出瑪拉的種子盒，說自己曾與她擁有相同的抱負：打造讓孩子看見真正森林的地方。「她的願景遠比這艘船宏大。」他說。莉娜問瑪拉去了哪裡，伊沃指向音樂廳：「今晚的音樂會藏著她最後的訊息。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The twins hid in the ship's oldest recreation quarter, where retired workers kept a tiny barn of mechanical animals for children. A robot squirrel chased a toy nut across the floor, while a painter repaired a faded mural of Earth's night sky. The painter, an elderly traveler named Ivo, recognized Mara's seed case. He said he had once shared her ambition: to build a place where children could see a real forest. “She had a vision far larger than this ship,” he told them. When Lena asked where Mara had gone, Ivo pointed toward the music hall. “Tonight's concert contains her final message.”",
+          "chinese": "雙胞胎躲進太空船最老舊的休閒區，退休工作人員在那裡飼養一間小小「穀倉」的機械動物，供孩子玩耍。機械松鼠追逐玩具堅果，一名畫家則修補地球夜空的褪色壁畫。這位名叫伊沃的老旅人認出瑪拉的種子盒，說自己曾與她擁有相同的抱負：打造讓孩子看見真正森林的地方。「她的願景遠比這艘船宏大。」他說。莉娜問瑪拉去了哪裡，伊沃指向音樂廳：「今晚的音樂會藏著她最後的訊息。」",
+          "matchedQueryTerms": 31
+        },
+        {
+          "paragraph": 2,
+          "english": "The hall was dim, crowded with workers whose bright uniforms were covered by dark coats. A junior technician fitted the twins with visitor collars that changed their recorded identities. Lena worried that the disguise would confuse the guards, but Ivo replied with dry humor that guards were often confused without any help. Onstage, a violinist played a sad melody while a cooking machine prepared roast onions for the audience. The smells reminded Noah of their childhood kitchen. For several minutes the music made him forget the chase, and that brief peace felt almost as precious as fresh air.",
+          "chinese": "音樂廳燈光昏暗，擠滿在鮮豔制服外披著深色外套的工作人員。一名初級技師替雙胞胎裝上能改變識別資料的訪客項圈。莉娜擔心這會混淆警衛，伊沃卻帶著乾冷幽默說，警衛不用幫忙也常常搞不清楚狀況。舞台上，小提琴手拉著悲傷的旋律，烹飪機器同時替觀眾烤洋蔥。味道使諾亞想起童年的廚房。有好幾分鐘，音樂讓他忘了追捕，而這短暫的平靜幾乎像新鮮空氣一樣珍貴。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Concert of Shadows〉第 6 段的事件，哪個選項能正確補完整句？\nLena looked at ____, where a single doorway shone.",
+      "options": [
+        "the door",
+        "the power system",
+        "the painted dome"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the painted dome",
+      "existingAnswerExplanation": "原文證據：Lena looked at the painted dome, where a single doorway shone.\n本段對照：躲進貨運升降機後，他們攤開那幅畫。畫上是一顆荒涼衛星，玻璃圓頂裡長著綠色植物。角落寫著：「中繼站並非空無一人。」莉娜把畫靠近升降機燈光時，塗料下浮現第二則訊息：「有人在等你們。」諾亞問，他們是否還該相信母親留下的另一個祕密。莉娜望著畫裡發亮的圓頂門口說：「我們不必相信每一則訊息，但必須弄清楚是誰送來的。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "In the safety of a cargo lift, they unfolded the painting. It showed a field of green plants growing inside a glass dome on a dead moon. In a corner were the words: THE RELAY STATION IS NOT EMPTY. A second message was hidden beneath the paint, visible only when Lena held it against the lift's lamp: SOMEONE IS WAITING FOR YOU. Noah asked whether they should trust another secret from their mother. Lena looked at the painted dome, where a single doorway shone. “We do not have to trust every message,” she said. “But we have to learn who sent this one.”",
+          "chinese": "躲進貨運升降機後，他們攤開那幅畫。畫上是一顆荒涼衛星，玻璃圓頂裡長著綠色植物。角落寫著：「中繼站並非空無一人。」莉娜把畫靠近升降機燈光時，塗料下浮現第二則訊息：「有人在等你們。」諾亞問，他們是否還該相信母親留下的另一個祕密。莉娜望著畫裡發亮的圓頂門口說：「我們不必相信每一則訊息，但必須弄清楚是誰送來的。」",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 1,
+          "english": "The twins hid in the ship's oldest recreation quarter, where retired workers kept a tiny barn of mechanical animals for children. A robot squirrel chased a toy nut across the floor, while a painter repaired a faded mural of Earth's night sky. The painter, an elderly traveler named Ivo, recognized Mara's seed case. He said he had once shared her ambition: to build a place where children could see a real forest. “She had a vision far larger than this ship,” he told them. When Lena asked where Mara had gone, Ivo pointed toward the music hall. “Tonight's concert contains her final message.”",
+          "chinese": "雙胞胎躲進太空船最老舊的休閒區，退休工作人員在那裡飼養一間小小「穀倉」的機械動物，供孩子玩耍。機械松鼠追逐玩具堅果，一名畫家則修補地球夜空的褪色壁畫。這位名叫伊沃的老旅人認出瑪拉的種子盒，說自己曾與她擁有相同的抱負：打造讓孩子看見真正森林的地方。「她的願景遠比這艘船宏大。」他說。莉娜問瑪拉去了哪裡，伊沃指向音樂廳：「今晚的音樂會藏著她最後的訊息。」",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}
