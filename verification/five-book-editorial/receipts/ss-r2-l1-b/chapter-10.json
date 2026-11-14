@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 10,
+  "chapterId": "ss-r2-l1-b-10",
+  "sourceChapterSha256": "3db7fd9cb228f4e1c12ea30069d158c0680d0d7eb2df713e271aeeb2568e4b79",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "試吃馬鈴薯湯與麵包，基特從農場工作後來；菜單透明",
+    "previousChapterEndingEnglish": "In the evening, they heard a singer near the village gate. It was Rowan, singing a short thank-you song before taking the south path. His voice was not very strong, but it sounded happy. Fia stood with Moss and Pip and listened. The day had begun with a stranger beside a wall. It ended with a friend finding his way. Fia looked into the quiet house. Perhaps a good breakfast shop was not only a place where food was sold. Perhaps it could also be a place where people found courage to take the next step.",
+    "nextChapterOpeningEnglish": "On the day of their small test breakfast, Fia set a white basket beside the door. It held notes for visitors. \"Please tell us what was useful and what was not,\" she wrote. Moss checked the oven twice, and Pip put fruit into thin slices. Mrs. Fern arrived with her child. She wore a blue belt and carried a picture of a kite. \"My child wants to make one after breakfast,\" she said. Fia welcomed them, but first asked a question. \"Does anyone have food they cannot eat?\" Mrs. Fern pointed to a note in her bag. Her child could not have nuts. The kite in the picture had every color of the morning sky, and the child said those colors made her feel happy."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The first menu was ready by evening. Fia put it on the red door and stood back to read it. There were three foods: warm bread, sweet fruit, and potato soup. Moss had tested each one, and Pip had helped with the fruit. \"This is interesting,\" said Edda, looking at the board. \"But how will people know what you have left at the end of the morning?\" Fia had not thought of that. She added a small space where workers could write how many meals remained. \"We will usually make a little extra,\" she said, \"but we must not throw good food away.\"",
+        "zh": "傍晚，第一張菜單完成了。菲雅把它掛在紅門上，退後讀了一遍。餐點共有三種：溫麵包、甜水果和馬鈴薯湯。莫斯逐項試過，皮普也幫忙準備水果。「很有意思，」艾達看著木板說，「可是早上快結束時，客人怎麼知道還剩多少？」菲雅先前沒想到，便加了小空格供員工寫剩餘份數。「通常會多做一點，」她說，「但不能把好食物隨便丟掉。」",
+        "englishSha256": "d71e0f53ee6a2833864f75149a6e2cadadf9c5857d757fe9c48a419a0bed304a",
+        "chineseSha256": "c977d5e8b24562807b2e59e7caf96af2bca6a2b7313f594f73f424f4a15a6ad8"
+      },
+      {
+        "number": 2,
+        "en": "The next morning, Kit came to test the food after his early farm work. A button was missing from his coat, and he held it closed with one hand. Fia gave him a seat near the window. \"Do not worry about your coat,\" she said. \"We have a needle and thread if you want to fix it.\" Kit smiled. He tasted the potato soup, then the bread. \"The soup needs a little less salt,\" he said. Moss looked troubled, but he listened. The young bear knew that one person's taste was not the same as every person's taste. He asked two other visitors to try the soup, too. A student from the school helped watch the clock while Moss wrote down how long each bowl took.",
+        "zh": "隔天早上，基特做完清晨的農場工作後來試吃。他外套掉了一顆鈕扣，只好用手拉著衣襟。菲雅安排他坐在窗邊。「別擔心外套，」她說，「想修的話，我們有針線。」基特笑了。他先喝馬鈴薯湯，再吃麵包。「湯可以少一點鹽。」他說。莫斯看起來有些困擾，仍認真聽著。他知道一個人的口味不代表所有人，於是又請另外兩位客人試喝。 學校來的一名學生幫忙看時鐘，莫斯則記下每碗湯花了多少時間。",
+        "englishSha256": "939880330a25cf833f400787e7dc7893bd4486afcb492a559972bd20453c8688",
+        "chineseSha256": "0a3c68ae098251c3ded55d277063b4161f3ee2eb8b4ef76d1f0e6cc129ca82b6"
+      },
+      {
+        "number": 3,
+        "en": "At noon, the kitchen became very warm. A dark cloud came over the sky, and the sun seemed to fall behind the hill. Pip moved the fruit away from the open window. Fia checked the food and watched the time. \"We have to finish by one,\" she said. \"After that, everyone must rest.\" Moss wanted to bake one more loaf, but his arms were tired. Fia asked him to stay at the table instead. \"You can write notes for tomorrow,\" she told him. \"We need your mind as much as we need your hands.\" He sat down with a long smile.",
+        "zh": "中午時，廚房變得很暖。一片暗雲飄過，太陽彷彿落到山後。皮普把水果從開窗邊移走。菲雅檢查食物，也看著時間。「一點前得結束，」她說，「之後每人都要休息。」莫斯還想多烤一條，但雙手累了。菲雅請他留在桌邊。「你可以寫明天的筆記，」她說，「我們需要你的腦袋，也需要你的雙手。」莫斯終於坐下，露出長長的笑容。",
+        "englishSha256": "42a684515a003ed348163539a28dd776a35e1863ebaa00a72024d9fdd686eeab",
+        "chineseSha256": "3bbc6fae3969aa15ed85abe3a95a7d754afa9c11c43f9eb4a7d8a262ea2c198d"
+      },
+      {
+        "number": 4,
+        "en": "Outside, a child placed one red rose beside the door. Her mother had asked her to bring it as a good wish. Fia put it in a jar of water. The bell above the door made a soft sound in the wind. It was a happy sound, but it also reminded Fia of the trouble still ahead. They needed a safe oven, a good plan for rain, and enough food for the first day. She looked around the room. There were still empty shelves and a pile of old boards near the back wall. Yet every day the room had changed a little.",
+        "zh": "屋外，一個孩子把一朵紅玫瑰放在門邊。母親請她送花，祝大家順利。菲雅把花插進水罐。門上的鈴在風中輕輕作響，聽起來很快樂，也提醒菲雅前方仍有困難。他們需要安全的烤爐、下雨天的計畫，以及開幕日足夠的食物。她環顧屋子，架上仍有空位，後牆邊還堆著舊木板。但每天，房間都會改變一點。",
+        "englishSha256": "d3ec5226d7f435ecbb001522968f34038222de7d9cbc7c6e4b0817dccedce1c9",
+        "chineseSha256": "5b93bb7ccbca62ac2c367e35f1b73cfe02e8b05b966ed6983dbba9fdb1040b9b"
+      },
+      {
+        "number": 5,
+        "en": "Edda returned before closing and asked Fia one serious question. \"What will you do when there is trouble and you cannot make all three foods?\" Fia showed her the space on the menu. \"I will tell people what is ready,\" she answered. \"If we can make only bread, we will say so. I do not want a beautiful menu that makes a false promise.\" Edda nodded. \"Then I think you are getting ready for the right reason.\" Fia was glad. She had worried that the village would expect a perfect shop on the first day. Now she knew she could open with a clear and honest plan.",
+        "zh": "收工前，艾達再度來訪，問菲雅一個認真的問題：「如果出問題，三種餐點做不齊，妳怎麼辦？」菲雅指給她看菜單上的空格。「我會告訴大家有哪些已經做好，」她回答，「如果只能做麵包，就明白說。我不想用漂亮菜單作出不實承諾。」艾達點頭。「那我覺得妳已經知道為何要開店。」菲雅很高興。她曾擔心村民期待第一天就完美，如今知道自己能靠清楚而誠實的計畫開門。",
+        "englishSha256": "defea9aae6079d658d1f23bfba4d7946aed24e3aabceae2427a98b6b1b34e3ff",
+        "chineseSha256": "adebeb69f0b0b0b6ea7acf24154c89e4833149c50dab6cf2fd82a19045e99cd0"
+      },
+      {
+        "number": 6,
+        "en": "That night, Fia walked around the house once more. She listened to the soft sound of leaves and watched the last light disappear from the garden. The shop had become part of her days. She was tired, but the work no longer felt like a dream far away. There was a menu on the door, bread in the kitchen, plants by the step, and friends ready to help. She touched the wooden star, then went home. Tomorrow they would invite a few neighbors for their first small breakfast. It was not the grand opening yet, but it would be a real test.",
+        "zh": "當晚，菲雅又繞屋走了一圈。她聽著葉子的輕響，看花園的最後一點光消失。小店已成為她日子的一部分。她雖然疲倦，卻不再覺得工作是遙遠的夢。門上有菜單，廚房有麵包，階梯旁有植物，朋友也準備好了。她摸摸木星星，然後回家。明天他們會邀幾位鄰居試吃第一頓小早餐。那還不是正式開幕，卻會是真正的考驗。",
+        "englishSha256": "574518317b001838b464d65af6781b6d93988a715b3c202bdddd7c92ff0ed9b0",
+        "chineseSha256": "b79cd26dae3a02e69bd4678621bb128d95e338a9e3849a463fb9ea72a6b22c8f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 642,
+    "targets": [
+      {
+        "word": "around",
+        "meaning": "四處",
+        "appearsInSource": true
+      },
+      {
+        "word": "button",
+        "meaning": "鈕扣",
+        "appearsInSource": true
+      },
+      {
+        "word": "dark",
+        "meaning": "陰暗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "evening",
+        "meaning": "傍晚",
+        "appearsInSource": true
+      },
+      {
+        "word": "fall",
+        "meaning": "落下",
+        "appearsInSource": true
+      },
+      {
+        "word": "have",
+        "meaning": "有",
+        "appearsInSource": true
+      },
+      {
+        "word": "interesting",
+        "meaning": "有趣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "left",
+        "meaning": "剩下的",
+        "appearsInSource": true
+      },
+      {
+        "word": "menu",
+        "meaning": "菜單",
+        "appearsInSource": true
+      },
+      {
+        "word": "potato",
+        "meaning": "馬鈴薯",
+        "appearsInSource": true
+      },
+      {
+        "word": "rose",
+        "meaning": "玫瑰",
+        "appearsInSource": true
+      },
+      {
+        "word": "smile",
+        "meaning": "微笑",
+        "appearsInSource": true
+      },
+      {
+        "word": "sound",
+        "meaning": "聲音",
+        "appearsInSource": true
+      },
+      {
+        "word": "stay",
+        "meaning": "停留",
+        "appearsInSource": true
+      },
+      {
+        "word": "student",
+        "meaning": "學生",
+        "appearsInSource": true
+      },
+      {
+        "word": "sweet",
+        "meaning": "甜的",
+        "appearsInSource": true
+      },
+      {
+        "word": "trouble",
+        "meaning": "困難",
+        "appearsInSource": true
+      },
+      {
+        "word": "usually",
+        "meaning": "通常",
+        "appearsInSource": true
+      },
+      {
+        "word": "watch",
+        "meaning": "觀看",
+        "appearsInSource": true
+      },
+      {
+        "word": "worry",
+        "meaning": "擔心",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What are the three menu foods?",
+      "options": [
+        "Bread fruit and potato soup",
+        "Rice fish and cake",
+        "Milk meat and salad"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Bread fruit and potato soup",
+      "existingAnswerExplanation": "第一張菜單包含麵包、水果和馬鈴薯湯。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The first menu was ready by evening. Fia put it on the red door and stood back to read it. There were three foods: warm bread, sweet fruit, and potato soup. Moss had tested each one, and Pip had helped with the fruit. \"This is interesting,\" said Edda, looking at the board. \"But how will people know what you have left at the end of the morning?\" Fia had not thought of that. She added a small space where workers could write how many meals remained. \"We will usually make a little extra,\" she said, \"but we must not throw good food away.\"",
+          "chinese": "傍晚，第一張菜單完成了。菲雅把它掛在紅門上，退後讀了一遍。餐點共有三種：溫麵包、甜水果和馬鈴薯湯。莫斯逐項試過，皮普也幫忙準備水果。「很有意思，」艾達看著木板說，「可是早上快結束時，客人怎麼知道還剩多少？」菲雅先前沒想到，便加了小空格供員工寫剩餘份數。「通常會多做一點，」她說，「但不能把好食物隨便丟掉。」",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "The next morning, Kit came to test the food after his early farm work. A button was missing from his coat, and he held it closed with one hand. Fia gave him a seat near the window. \"Do not worry about your coat,\" she said. \"We have a needle and thread if you want to fix it.\" Kit smiled. He tasted the potato soup, then the bread. \"The soup needs a little less salt,\" he said. Moss looked troubled, but he listened. The young bear knew that one person's taste was not the same as every person's taste. He asked two other visitors to try the soup, too. A student from the school helped watch the clock while Moss wrote down how long each bowl took.",
+          "chinese": "隔天早上，基特做完清晨的農場工作後來試吃。他外套掉了一顆鈕扣，只好用手拉著衣襟。菲雅安排他坐在窗邊。「別擔心外套，」她說，「想修的話，我們有針線。」基特笑了。他先喝馬鈴薯湯，再吃麵包。「湯可以少一點鹽。」他說。莫斯看起來有些困擾，仍認真聽著。他知道一個人的口味不代表所有人，於是又請另外兩位客人試喝。 學校來的一名學生幫忙看時鐘，莫斯則記下每碗湯花了多少時間。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Fia promise about missing food?",
+      "options": [
+        "She will tell customers clearly",
+        "She will hide the menu",
+        "She will blame Pip"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "She will tell customers clearly",
+      "existingAnswerExplanation": "菲雅決定誠實告知當天能供應的餐點。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The next morning, Kit came to test the food after his early farm work. A button was missing from his coat, and he held it closed with one hand. Fia gave him a seat near the window. \"Do not worry about your coat,\" she said. \"We have a needle and thread if you want to fix it.\" Kit smiled. He tasted the potato soup, then the bread. \"The soup needs a little less salt,\" he said. Moss looked troubled, but he listened. The young bear knew that one person's taste was not the same as every person's taste. He asked two other visitors to try the soup, too. A student from the school helped watch the clock while Moss wrote down how long each bowl took.",
+          "chinese": "隔天早上，基特做完清晨的農場工作後來試吃。他外套掉了一顆鈕扣，只好用手拉著衣襟。菲雅安排他坐在窗邊。「別擔心外套，」她說，「想修的話，我們有針線。」基特笑了。他先喝馬鈴薯湯，再吃麵包。「湯可以少一點鹽。」他說。莫斯看起來有些困擾，仍認真聽著。他知道一個人的口味不代表所有人，於是又請另外兩位客人試喝。 學校來的一名學生幫忙看時鐘，莫斯則記下每碗湯花了多少時間。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 5,
+          "english": "Edda returned before closing and asked Fia one serious question. \"What will you do when there is trouble and you cannot make all three foods?\" Fia showed her the space on the menu. \"I will tell people what is ready,\" she answered. \"If we can make only bread, we will say so. I do not want a beautiful menu that makes a false promise.\" Edda nodded. \"Then I think you are getting ready for the right reason.\" Fia was glad. She had worried that the village would expect a perfect shop on the first day. Now she knew she could open with a clear and honest plan.",
+          "chinese": "收工前，艾達再度來訪，問菲雅一個認真的問題：「如果出問題，三種餐點做不齊，妳怎麼辦？」菲雅指給她看菜單上的空格。「我會告訴大家有哪些已經做好，」她回答，「如果只能做麵包，就明白說。我不想用漂亮菜單作出不實承諾。」艾達點頭。「那我覺得妳已經知道為何要開店。」菲雅很高興。她曾擔心村民期待第一天就完美，如今知道自己能靠清楚而誠實的計畫開門。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

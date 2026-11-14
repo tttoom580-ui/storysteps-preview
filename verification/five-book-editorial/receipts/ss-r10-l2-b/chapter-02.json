@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 2,
+  "chapterId": "ss-r10-l2-b-2",
+  "sourceChapterSha256": "8932db0aa63fa922c19c8c784617794b4207b3f4627adc7b955a7e803f75a11a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "錄音箱因漏水被工人搬走，修改未經查證的失竊公告與授權表",
+    "previousChapterEndingEnglish": "The classroom door was locked, but there was light beneath it. May did not try to force it open. She wrote down what they knew, then called the caretaker whose number Mrs. Fen had given them. Evan stood beside her without taking control of the call. He noticed that May remembered each person's exact words, while she noticed that he asked about small facts without making people feel foolish. “You are better at the people part,” he said. “And you are better at hearing what a room is hiding,” she answered. Neither called it friendship yet. Behind the door, something clicked softly, like a tape reaching its end.",
+    "nextChapterOpeningEnglish": "A cloudy morning brought the first complaint. A classmate told May that a recording near the entrance made an older seller sound foolish. The student had not heard the whole piece; someone had shared a short clip online. Evan made an attempt to find its source. He could link the clip to their test file, but the final words had been cut away. “The cause may be a careless edit,” he said, “not an attempt to cheat.” May nodded, then asked him to stop the public player until they knew what had happened. Keeping the show open would not be fair to the speaker."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The caretaker opened the classroom the next morning. The missing box sat under a table, still tied with a chain used to move furniture. No one had stolen it. A tired worker had carried it away from the leak and forgotten to report the new place. May felt the beauty of a simple answer, but she also understood the loss of trust that the notice had caused. She asked Mrs. Fen to cancel the accusation before anyone repeated it. Evan wrote a message describing exactly where the box had been found. They agreed that a correction should be as easy to see as the original claim.",
+        "zh": "隔天早晨，管理員打開教室。失蹤的箱子就在桌下，還綁著搬家具用的鏈條。沒有人偷它；一位疲倦的工人為了避開漏水把它搬走，卻忘了回報新位置。慧欣賞事情有個簡單的答案，但也明白那張公告已造成信任的流失。她請芬姨撤下指控，以免更多人重複。安澤寫了一則訊息，清楚交代箱子在哪裡找到。他們同意更正說明應該和原指控一樣容易被看見。",
+        "englishSha256": "ce540b9c5f7d2ff24cb4cc3fa3777594909d5eb52d26deafa834d5f82c250015",
+        "chineseSha256": "4e3d5344ab30c3a5ff514fe81725ccd36e1242aa3816ba96b20d4ca4a0912333"
+      },
+      {
+        "number": 2,
+        "en": "Their current plan was to make a listening display for the market's spring fair. Evan wanted a super speaker and bright lights. May showed him a chess board from a nearby shop and said, “A good move is not always the loudest move.” They needed a guide for visitors, a quiet corner, and clear permission from each person whose voice was played. Mrs. Fen offered a pear to a child who had helped search for the box. “If our membership only includes people with money,” she said, “this project will become selfish.” May wrote that sentence at the top of their shared notebook.",
+        "zh": "他們目前的計畫是在市場春季活動做一個聆聽展示。安澤想要超棒的喇叭和明亮燈光。慧指著附近店家的棋盤說：「好的一步不一定是聲音最大的一步。」他們需要訪客導覽、安靜角落，以及每位受訪者清楚的播放許可。芬姨拿一顆梨子給曾幫忙找箱子的孩子。「如果會員資格只留給有錢的人，」她說，「這個計畫就會變得自私。」慧把這句話寫在共用筆記本的最上方。",
+        "englishSha256": "efd411255191ba5c6e46362c3b14f668fb4ad34cce11f23347b0c9bdcdf19a21",
+        "chineseSha256": "dba53c54b90ecba200e4de036b3b07c87758daddc22147714016a9f71cfe9200"
+      },
+      {
+        "number": 3,
+        "en": "They began a trial with three volunteers. One played the sound of a vegetable seller calling prices; another played footsteps before the shop doors opened. The third volunteer preferred silence. When asked to respond, he said his own voice sounded strange through a machine. Evan did not argue. He helped the man listen through small headphones, then erased the test file when the man asked. May saw the difference between collecting a voice and respecting a self. A record could help future growth, but the person who made it mattered more than the project. That became their first rule.",
+        "zh": "他們請三位志工參加試播。第一人播放菜販喊價的聲音；第二人播放店門打開前的腳步聲；第三人寧可保持安靜。被問到感想時，他說自己的聲音透過機器聽起來很奇怪。安澤沒有爭辯，而是讓他用小耳機聽，當對方要求刪除時就刪掉測試檔。慧看見蒐集聲音與尊重一個人的差別。紀錄也許有助未來發展，但留下聲音的人比計畫更重要。這成了他們的第一條規則。",
+        "englishSha256": "5e556c7b6c022dc730a4610054dac5f7ef1ddce0991cf3590cf9939fe27dda99",
+        "chineseSha256": "ab63e0f8aed4b590b6e8497b2caa9991a30fee4b6c77244e41c9aa82e511ab4b"
+      },
+      {
+        "number": 4,
+        "en": "By evening, the worst problem was not the equipment but the printed form. It said that the university would own every recording forever. Mrs. Fen refused to sign. Evan looked embarrassed; his department had supplied the old form without checking it. May did not take pleasure in his mistake. “A trial is useful when it tells us what to change,” she said. Together they added a line that allowed people to withdraw permission at any time before public release. Their first display would be small, but it would belong to the people who helped make it.",
+        "zh": "傍晚時，最嚴重的問題不是器材，而是印好的表格。上面寫著大學將永久擁有所有錄音。芬姨拒絕簽名。安澤有些難堪；那是他的系所提供的舊表格，卻沒人仔細檢查。慧沒有因他的錯誤而得意。「試行的好處，就是讓我們知道該改什麼，」她說。兩人一起加上條款：正式公開前，受訪者可以隨時撤回同意。第一次展示規模雖小，卻應屬於共同完成它的人們。",
+        "englishSha256": "babede6a39250449b125b26896f603a3eb526bfa26e02368695068236400901c",
+        "chineseSha256": "68fe8800d3bb4399c0a39c45e563b29173034970e7d548b54ac762e32e8c1275"
+      },
+      {
+        "number": 5,
+        "en": "Before the next trial, a volunteer proposed a playful hunt around the market: visitors would follow clues to find recordings hidden in different stalls. May liked the idea of walking through the real place, but asked whether the sellers wanted strangers gathering at their doors. Two said yes, while one said no because she needed space for customers. Evan marked a different route. He also tested the volume beside the fruit stalls and discovered that the speaker disturbed a worker who was counting money. They moved it closer to the wall and asked the worker to listen again. “Better,” she said. May wrote the change in the log, not because it was impressive but because someone else might face the same question next week. Their work was slow, with little applause. She began to think that slow was exactly the speed trust required.",
+        "zh": "下次試行前，一位志工提出市場尋寶遊戲：讓訪客跟著線索去不同攤位找隱藏錄音。慧喜歡走進實際場所的想法，但先問攤商是否願意陌生人聚在門口。兩位願意，一位卻因需要做生意而拒絕。安澤改畫路線。他也在水果攤旁測音量，發現喇叭干擾一位正在點錢的工作者。兩人把喇叭靠牆移動，再請她試聽。「好多了，」她說。慧記下改動，不是因為它多厲害，而是下週別人也可能遇到同樣問題。他們的工作緩慢、掌聲不多。慧開始覺得，信任也許就需要這種速度。",
+        "englishSha256": "ed7f53e87e4da3e88b65ba0ef9541c7348d9e5f8b8b7e93be9846fe9446851fd",
+        "chineseSha256": "55164e456ca879c514ece47005e7832cbde16953fa63b8e697c5c0eb65be7c49"
+      },
+      {
+        "number": 6,
+        "en": "When they finished, Evan packed the speaker into its case and asked if May wanted dinner. She wondered if he meant a date. He answered before she could decide: “I mean food after a long workday. You can say no.” May laughed, partly because his careful words sounded like another permission form. She said yes to noodles at a small stall but no to discussing the project all evening. For the first time, they talked about home, books, and the kind of music each could never stand. The strange partnership began to feel less like a contest and more like a choice.",
+        "zh": "收工時，安澤把喇叭收回箱子，問慧要不要吃晚餐。慧一瞬間以為他是在邀約。她還沒想好，安澤就補充：「我是說忙完一起吃飯，妳可以拒絕。」慧笑了，因為他的謹慎聽起來簡直像另一張同意書。她答應去小攤吃麵，卻說不想整晚談工作。兩人第一次聊起家鄉、書籍，以及各自最受不了的音樂。這段奇怪的搭檔關係開始不像競賽，而更像一個自由的選擇。",
+        "englishSha256": "26667d07d89f6011ad3140cfcf3c5658182430c5722b496e4efcb651f2a6acc2",
+        "chineseSha256": "0d265edbeaf9fb150c0f14b7f3ce437b4842a3877cab884679f8fb7e583f3a4e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 649,
+    "targets": [
+      {
+        "word": "beauty",
+        "meaning": "美感",
+        "appearsInSource": true
+      },
+      {
+        "word": "cancel",
+        "meaning": "取消",
+        "appearsInSource": true
+      },
+      {
+        "word": "chain",
+        "meaning": "鏈條",
+        "appearsInSource": true
+      },
+      {
+        "word": "chess",
+        "meaning": "西洋棋",
+        "appearsInSource": true
+      },
+      {
+        "word": "current",
+        "meaning": "目前的",
+        "appearsInSource": true
+      },
+      {
+        "word": "display",
+        "meaning": "展示",
+        "appearsInSource": true
+      },
+      {
+        "word": "growth",
+        "meaning": "成長",
+        "appearsInSource": true
+      },
+      {
+        "word": "guide",
+        "meaning": "引導",
+        "appearsInSource": true
+      },
+      {
+        "word": "hunt",
+        "meaning": "尋找；尋寶",
+        "appearsInSource": true
+      },
+      {
+        "word": "loss",
+        "meaning": "遺失損失",
+        "appearsInSource": true
+      },
+      {
+        "word": "membership",
+        "meaning": "會員資格",
+        "appearsInSource": true
+      },
+      {
+        "word": "message",
+        "meaning": "訊息",
+        "appearsInSource": true
+      },
+      {
+        "word": "pear",
+        "meaning": "梨子",
+        "appearsInSource": true
+      },
+      {
+        "word": "respond",
+        "meaning": "回覆",
+        "appearsInSource": true
+      },
+      {
+        "word": "self",
+        "meaning": "自我認同",
+        "appearsInSource": true
+      },
+      {
+        "word": "selfish",
+        "meaning": "自私的",
+        "appearsInSource": true
+      },
+      {
+        "word": "speaker",
+        "meaning": "喇叭",
+        "appearsInSource": true
+      },
+      {
+        "word": "super",
+        "meaning": "很棒的",
+        "appearsInSource": true
+      },
+      {
+        "word": "trial",
+        "meaning": "試行",
+        "appearsInSource": true
+      },
+      {
+        "word": "worst",
+        "meaning": "最糟的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did Mrs. Fen refuse the first form?",
+      "options": [
+        "It gave the university permanent ownership",
+        "It was written in red ink",
+        "It had no date for the fair"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It gave the university permanent ownership",
+      "existingAnswerExplanation": "舊表格聲稱大學永久擁有錄音，因此芬姨拒簽。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "By evening, the worst problem was not the equipment but the printed form. It said that the university would own every recording forever. Mrs. Fen refused to sign. Evan looked embarrassed; his department had supplied the old form without checking it. May did not take pleasure in his mistake. “A trial is useful when it tells us what to change,” she said. Together they added a line that allowed people to withdraw permission at any time before public release. Their first display would be small, but it would belong to the people who helped make it.",
+          "chinese": "傍晚時，最嚴重的問題不是器材，而是印好的表格。上面寫著大學將永久擁有所有錄音。芬姨拒絕簽名。安澤有些難堪；那是他的系所提供的舊表格，卻沒人仔細檢查。慧沒有因他的錯誤而得意。「試行的好處，就是讓我們知道該改什麼，」她說。兩人一起加上條款：正式公開前，受訪者可以隨時撤回同意。第一次展示規模雖小，卻應屬於共同完成它的人們。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "The caretaker opened the classroom the next morning. The missing box sat under a table, still tied with a chain used to move furniture. No one had stolen it. A tired worker had carried it away from the leak and forgotten to report the new place. May felt the beauty of a simple answer, but she also understood the loss of trust that the notice had caused. She asked Mrs. Fen to cancel the accusation before anyone repeated it. Evan wrote a message describing exactly where the box had been found. They agreed that a correction should be as easy to see as the original claim.",
+          "chinese": "隔天早晨，管理員打開教室。失蹤的箱子就在桌下，還綁著搬家具用的鏈條。沒有人偷它；一位疲倦的工人為了避開漏水把它搬走，卻忘了回報新位置。慧欣賞事情有個簡單的答案，但也明白那張公告已造成信任的流失。她請芬姨撤下指控，以免更多人重複。安澤寫了一則訊息，清楚交代箱子在哪裡找到。他們同意更正說明應該和原指控一樣容易被看見。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What happened when a volunteer asked to erase a test file?",
+      "options": [
+        "Evan deleted it",
+        "The team sold it",
+        "May played it louder"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Evan deleted it",
+      "existingAnswerExplanation": "志工要求刪除測試檔，安澤尊重並照辦。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "They began a trial with three volunteers. One played the sound of a vegetable seller calling prices; another played footsteps before the shop doors opened. The third volunteer preferred silence. When asked to respond, he said his own voice sounded strange through a machine. Evan did not argue. He helped the man listen through small headphones, then erased the test file when the man asked. May saw the difference between collecting a voice and respecting a self. A record could help future growth, but the person who made it mattered more than the project. That became their first rule.",
+          "chinese": "他們請三位志工參加試播。第一人播放菜販喊價的聲音；第二人播放店門打開前的腳步聲；第三人寧可保持安靜。被問到感想時，他說自己的聲音透過機器聽起來很奇怪。安澤沒有爭辯，而是讓他用小耳機聽，當對方要求刪除時就刪掉測試檔。慧看見蒐集聲音與尊重一個人的差別。紀錄也許有助未來發展，但留下聲音的人比計畫更重要。這成了他們的第一條規則。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 5,
+          "english": "Before the next trial, a volunteer proposed a playful hunt around the market: visitors would follow clues to find recordings hidden in different stalls. May liked the idea of walking through the real place, but asked whether the sellers wanted strangers gathering at their doors. Two said yes, while one said no because she needed space for customers. Evan marked a different route. He also tested the volume beside the fruit stalls and discovered that the speaker disturbed a worker who was counting money. They moved it closer to the wall and asked the worker to listen again. “Better,” she said. May wrote the change in the log, not because it was impressive but because someone else might face the same question next week. Their work was slow, with little applause. She began to think that slow was exactly the speed trust required.",
+          "chinese": "下次試行前，一位志工提出市場尋寶遊戲：讓訪客跟著線索去不同攤位找隱藏錄音。慧喜歡走進實際場所的想法，但先問攤商是否願意陌生人聚在門口。兩位願意，一位卻因需要做生意而拒絕。安澤改畫路線。他也在水果攤旁測音量，發現喇叭干擾一位正在點錢的工作者。兩人把喇叭靠牆移動，再請她試聽。「好多了，」她說。慧記下改動，不是因為它多厲害，而是下週別人也可能遇到同樣問題。他們的工作緩慢、掌聲不多。慧開始覺得，信任也許就需要這種速度。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

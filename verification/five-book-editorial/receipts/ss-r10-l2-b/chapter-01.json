@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 1,
+  "chapterId": "ss-r10-l2-b-1",
+  "sourceChapterSha256": "474abd92f8156933c383d9240a11593dd4e45a62e6693f7d8cb40c8a6b2749f2",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "慧安澤在東市場尋找錄音箱，記錄授權與教室門後線索",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "The caretaker opened the classroom the next morning. The missing box sat under a table, still tied with a chain used to move furniture. No one had stolen it. A tired worker had carried it away from the leak and forgotten to report the new place. May felt the beauty of a simple answer, but she also understood the loss of trust that the notice had caused. She asked Mrs. Fen to cancel the accusation before anyone repeated it. Evan wrote a message describing exactly where the box had been found. They agreed that a correction should be as easy to see as the original claim."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "May had come to East Market to record its morning sounds, not to solve a crime. Yet a notice on the door said that someone had taken the market's old recording box. Across the lane, a man with a white beard was opening a small café. He told her the box was not worth much money, but people had kept their family voices inside it. The market gardener walked past with a basket of wet leaves. One yellow leaf fell beside May's shoes. She picked it up and wondered whether ordinary things could become precious when a place was about to change.",
+        "zh": "慧原本來東市場是要記錄清晨的聲音，並不是來查案。然而門上的公告寫著，有人拿走了市場的舊錄音箱。巷子對面，一位白鬍子男子正打開小咖啡店。他告訴她，箱子本身不值多少錢，但許多人把家人的聲音留在裡面。市場園丁提著一籃濕葉子經過，一片黃葉落在慧的鞋邊。她撿起葉子，想著當一個地方即將改變時，平凡事物是否也會變得珍貴。",
+        "englishSha256": "6baa3d9c4c30b28179a63bef9d7827b7d338fda01d3f97700d993c7506817e5b",
+        "chineseSha256": "c5ef60e0846630f22799ca42a8b2fcbfef8d1b99caf7e09658f0e8ac6aed7c39"
+      },
+      {
+        "number": 2,
+        "en": "Evan arrived carrying a plain bag and a rubber cover for his microphone. He was twenty-five, two years older than May, and his calm personality made her feel that he was judging everything. “Could you do me a favor?” she asked. “Do not record anyone before asking.” Evan stopped at once. He explained that his microphone was off; he had come to check the temperature and the noise of the empty room. He wanted to divide the task into listening, asking permission, and saving files. May admitted that this order made sense. Their first feeling of trust was tiny, but real.",
+        "zh": "安澤帶著一個素色袋子和麥克風的橡膠保護套來到現場。他二十五歲，比慧大兩歲，平靜的個性卻讓她覺得他在評判一切。「能幫我一個忙嗎？」她問。「請先徵求同意再錄任何人的聲音。」安澤立刻停下。他解釋麥克風沒有開，他只是要檢查空房間的溫度與噪音。他希望把工作分成聆聽、取得許可和保存檔案三步。慧承認這個順序有道理。兩人的第一點信任很微小，卻是真實的。",
+        "englishSha256": "d8ffa868326b55daea58f2a445da5e1cdd28114c76aeb92f2dfd94b3c4d30f7c",
+        "chineseSha256": "160c71f79f2667222812d5621eba3f37aa7ed916bf93a2d9795f03cc5c18782e"
+      },
+      {
+        "number": 3,
+        "en": "At the fruit stall, Mrs. Fen cut a watermelon and offered them each a piece. She said her grandson had once come to work in his pajamas and had made every seller laugh. “Those are the stories we want,” May said. Mrs. Fen's smile faded. A company had offered to buy the recordings for an advertisement, but the sellers had never agreed. Evan asked whether any chemical cleaner had damaged the tapes. Mrs. Fen shook her head. The box had simply disappeared during an inventory day. May began to see how stories about work, tax, and family might relate to one another without belonging to the same owner.",
+        "zh": "在水果攤，芬姨切開一顆西瓜，分給兩人各一片。她說孫子有一次穿著睡衣來幫忙，逗得所有攤商大笑。「這就是我們想留下的故事，」慧說。芬姨的笑容淡了下來。有家公司曾想買錄音作廣告，攤商卻從未同意。安澤問是否有化學清潔劑損壞磁帶。芬姨搖頭。箱子只是在盤點那天不見了。慧開始理解，工作、稅金和家人的故事雖然彼此相關，卻不代表可以被同一個人擁有。",
+        "englishSha256": "d1a9af090a0efbad77220764d53629e7c2585cb3816dfe2e918f76e014fb029f",
+        "chineseSha256": "2966ed3ae10ca7dce8fc21a9fffebf5a37414345b56b455c81d5a34cbc280746"
+      },
+      {
+        "number": 4,
+        "en": "They searched only the rooms that Mrs. Fen allowed them to enter. The gardener remembered moving a heavy shelf when the roof leaked. “We should weigh the box if we find it,” Evan said, because a large box might have been moved on a cart. May wanted to call every person involved, but Mrs. Fen told her not to spread an accusation without evidence. Such care mattered more than a fast answer. At noon, a student brought them a list of rooms used that day. One name had been written twice, and the second line pointed toward the old classroom behind the market.",
+        "zh": "他們只查看芬姨允許進入的房間。園丁記得屋頂漏水那天，他們搬動過一座很重的架子。「如果找到箱子，應該秤一下重量，」安澤說，因為大箱子可能是用推車移走的。慧想打電話給所有相關人士，但芬姨提醒她沒有證據就不要散播指控。這樣的謹慎比迅速得到答案更重要。中午，一名學生送來當天使用房間的名單。其中一個名字寫了兩次，而第二行指向市場後方的舊教室。",
+        "englishSha256": "4cd87dde941dd8332ab8357124b65a5fadd6a2e9285cf9e90e60564e1e4faffc",
+        "chineseSha256": "c4414edf8e9becc38bea05636b88b5b3c1c16419d5b51722a7b0ef4a0bdbb32b"
+      },
+      {
+        "number": 5,
+        "en": "May asked Evan whether they could begin with a written list rather than a recording. He agreed, and together they drew three columns on the back of an old shopping notice. One column held facts they had seen themselves, another held things people had told them, and the last held questions they could not yet answer. She liked the separation. Rumors often grew because someone moved a sentence from the second column to the first without checking. Evan suggested that they keep the sheet in a shared folder so both could correct errors. May asked him not to photograph the names of witnesses; he agreed and copied only the times and rooms. Mrs. Fen looked at the paper and said it was less exciting than a detective story. “Good,” May replied. “The people here should not have to become characters in someone else's mystery.”",
+        "zh": "慧問安澤能不能先列一張文字清單，而不是立刻錄音。他同意了，兩人在舊購物公告背面畫出三欄：親眼看見的事、別人告知的事，以及尚未回答的問題。慧喜歡這種區分。流言常在有人未經核查，就把第二欄內容移成第一欄事實時出現。安澤建議把清單放進共用資料夾，讓兩人都能更正錯誤。慧請他不要拍下證人姓名；他答應，只抄時間與房間。芬姨看著紙說，這比偵探故事無聊。「很好，」慧答，「這裡的人不應被迫成為別人謎團中的角色。」",
+        "englishSha256": "881192251e7d8094ffc092729c684616629a3cb1fb3871551796c9304e1522e5",
+        "chineseSha256": "3053130113491b95a82de0678eb68956df80cf3d2713a0428e57c64f044ced53"
+      },
+      {
+        "number": 6,
+        "en": "The classroom door was locked, but there was light beneath it. May did not try to force it open. She wrote down what they knew, then called the caretaker whose number Mrs. Fen had given them. Evan stood beside her without taking control of the call. He noticed that May remembered each person's exact words, while she noticed that he asked about small facts without making people feel foolish. “You are better at the people part,” he said. “And you are better at hearing what a room is hiding,” she answered. Neither called it friendship yet. Behind the door, something clicked softly, like a tape reaching its end.",
+        "zh": "教室門鎖著，門縫下卻透出燈光。慧沒有硬闖，而是寫下已知的事情，再打給芬姨提供聯絡方式的管理員。安澤站在旁邊，沒有搶過電話。他注意到慧記得每個人的原話；慧則發現，他能詢問細節而不讓人覺得愚笨。「妳比較懂得與人相處，」他說。「你比較聽得出房間藏了什麼，」她回答。他們還沒把這稱為友誼。門後忽然傳來細微的喀噠聲，像磁帶轉到了盡頭。",
+        "englishSha256": "61e2cf2a110aa6845c0e153f045b5706c3b6e336b411819768e20f05eb7cb1b8",
+        "chineseSha256": "fec71e6032b801770644cbf113710ac457c03abe744c7fe4b7325394c7d760fc"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 666,
+    "targets": [
+      {
+        "word": "beard",
+        "meaning": "鬍子",
+        "appearsInSource": true
+      },
+      {
+        "word": "café",
+        "meaning": "咖啡店",
+        "appearsInSource": true
+      },
+      {
+        "word": "chemical",
+        "meaning": "化學藥劑",
+        "appearsInSource": true
+      },
+      {
+        "word": "crime",
+        "meaning": "犯罪事件",
+        "appearsInSource": true
+      },
+      {
+        "word": "divide",
+        "meaning": "分成",
+        "appearsInSource": true
+      },
+      {
+        "word": "favor",
+        "meaning": "幫忙",
+        "appearsInSource": true
+      },
+      {
+        "word": "feeling",
+        "meaning": "感受",
+        "appearsInSource": true
+      },
+      {
+        "word": "gardener",
+        "meaning": "園丁",
+        "appearsInSource": true
+      },
+      {
+        "word": "leaf",
+        "meaning": "葉子",
+        "appearsInSource": true
+      },
+      {
+        "word": "pajamas",
+        "meaning": "睡衣",
+        "appearsInSource": true
+      },
+      {
+        "word": "personality",
+        "meaning": "個性",
+        "appearsInSource": true
+      },
+      {
+        "word": "plain",
+        "meaning": "簡單的",
+        "appearsInSource": true
+      },
+      {
+        "word": "relate",
+        "meaning": "關聯到",
+        "appearsInSource": true
+      },
+      {
+        "word": "rubber",
+        "meaning": "橡膠",
+        "appearsInSource": true
+      },
+      {
+        "word": "Such",
+        "meaning": "這樣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tax",
+        "meaning": "稅金",
+        "appearsInSource": true
+      },
+      {
+        "word": "temperature",
+        "meaning": "氣溫",
+        "appearsInSource": true
+      },
+      {
+        "word": "tiny",
+        "meaning": "小小的",
+        "appearsInSource": true
+      },
+      {
+        "word": "watermelon",
+        "meaning": "西瓜",
+        "appearsInSource": true
+      },
+      {
+        "word": "weigh",
+        "meaning": "秤重量",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What clue do May and Evan notice outside the locked classroom?",
+      "options": [
+        "Light beneath the door and a faint click.",
+        "The box standing in the doorway.",
+        "A worker carrying a new microphone."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Light beneath the door and a faint click.",
+      "existingAnswerExplanation": "第一章結尾，教室門雖鎖著，門縫下卻透出光線，還傳來微弱的喀噠聲。原文證據（第 6 段）：The classroom door was locked, but there was light beneath it.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The classroom door was locked, but there was light beneath it. May did not try to force it open. She wrote down what they knew, then called the caretaker whose number Mrs. Fen had given them. Evan stood beside her without taking control of the call. He noticed that May remembered each person's exact words, while she noticed that he asked about small facts without making people feel foolish. “You are better at the people part,” he said. “And you are better at hearing what a room is hiding,” she answered. Neither called it friendship yet. Behind the door, something clicked softly, like a tape reaching its end.",
+          "chinese": "教室門鎖著，門縫下卻透出燈光。慧沒有硬闖，而是寫下已知的事情，再打給芬姨提供聯絡方式的管理員。安澤站在旁邊，沒有搶過電話。他注意到慧記得每個人的原話；慧則發現，他能詢問細節而不讓人覺得愚笨。「妳比較懂得與人相處，」他說。「你比較聽得出房間藏了什麼，」她回答。他們還沒把這稱為友誼。門後忽然傳來細微的喀噠聲，像磁帶轉到了盡頭。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 4,
+          "english": "They searched only the rooms that Mrs. Fen allowed them to enter. The gardener remembered moving a heavy shelf when the roof leaked. “We should weigh the box if we find it,” Evan said, because a large box might have been moved on a cart. May wanted to call every person involved, but Mrs. Fen told her not to spread an accusation without evidence. Such care mattered more than a fast answer. At noon, a student brought them a list of rooms used that day. One name had been written twice, and the second line pointed toward the old classroom behind the market.",
+          "chinese": "他們只查看芬姨允許進入的房間。園丁記得屋頂漏水那天，他們搬動過一座很重的架子。「如果找到箱子，應該秤一下重量，」安澤說，因為大箱子可能是用推車移走的。慧想打電話給所有相關人士，但芬姨提醒她沒有證據就不要散播指控。這樣的謹慎比迅速得到答案更重要。中午，一名學生送來當天使用房間的名單。其中一個名字寫了兩次，而第二行指向市場後方的舊教室。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did May ask Evan to do before recording?",
+      "options": [
+        "Buy a new microphone",
+        "Ask people for permission",
+        "Call the police"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Ask people for permission",
+      "existingAnswerExplanation": "慧要求先得到當事人的錄音同意。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Evan arrived carrying a plain bag and a rubber cover for his microphone. He was twenty-five, two years older than May, and his calm personality made her feel that he was judging everything. “Could you do me a favor?” she asked. “Do not record anyone before asking.” Evan stopped at once. He explained that his microphone was off; he had come to check the temperature and the noise of the empty room. He wanted to divide the task into listening, asking permission, and saving files. May admitted that this order made sense. Their first feeling of trust was tiny, but real.",
+          "chinese": "安澤帶著一個素色袋子和麥克風的橡膠保護套來到現場。他二十五歲，比慧大兩歲，平靜的個性卻讓她覺得他在評判一切。「能幫我一個忙嗎？」她問。「請先徵求同意再錄任何人的聲音。」安澤立刻停下。他解釋麥克風沒有開，他只是要檢查空房間的溫度與噪音。他希望把工作分成聆聽、取得許可和保存檔案三步。慧承認這個順序有道理。兩人的第一點信任很微小，卻是真實的。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 5,
+          "english": "May asked Evan whether they could begin with a written list rather than a recording. He agreed, and together they drew three columns on the back of an old shopping notice. One column held facts they had seen themselves, another held things people had told them, and the last held questions they could not yet answer. She liked the separation. Rumors often grew because someone moved a sentence from the second column to the first without checking. Evan suggested that they keep the sheet in a shared folder so both could correct errors. May asked him not to photograph the names of witnesses; he agreed and copied only the times and rooms. Mrs. Fen looked at the paper and said it was less exciting than a detective story. “Good,” May replied. “The people here should not have to become characters in someone else's mystery.”",
+          "chinese": "慧問安澤能不能先列一張文字清單，而不是立刻錄音。他同意了，兩人在舊購物公告背面畫出三欄：親眼看見的事、別人告知的事，以及尚未回答的問題。慧喜歡這種區分。流言常在有人未經核查，就把第二欄內容移成第一欄事實時出現。安澤建議把清單放進共用資料夾，讓兩人都能更正錯誤。慧請他不要拍下證人姓名；他答應，只抄時間與房間。芬姨看著紙說，這比偵探故事無聊。「很好，」慧答，「這裡的人不應被迫成為別人謎團中的角色。」",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

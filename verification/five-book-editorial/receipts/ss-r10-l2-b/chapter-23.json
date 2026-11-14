@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 23,
+  "chapterId": "ss-r10-l2-b-23",
+  "sourceChapterSha256": "eb730f85c350410b45e5247bdeb84d0374b4aff2f9903e6bdbeaac560d2bcc9a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "委員會確立權限、申訴、參與責任；慧本地教學面試",
+    "previousChapterEndingEnglish": "After the cleanup, May found Evan sitting alone on a bench, holding his job offer. He had been afraid to tell her that he wanted to accept it. She said she hoped he would. They talked about travel, time, and what they each needed from a relationship. He did not ask her to follow him. She did not ask him to stay. It was harder than making a bright promise, but it felt more honest. When they stood to leave, he offered his hand, and she took it as the market lights came on again.",
+    "nextChapterOpeningEnglish": "A week before the last event, Mrs. Fen noticed the absence of a former seller's recording from the program. May checked the list and found that the man's daughter had requested its removal months earlier. Some volunteers called it a failure because the show would feel incomplete. May said that honoring the request was a success, not a loss. The recording would remain absent. Evan asked the new team to adjust the scene so visitors would understand that the empty chair had meaning. It was a space left by choice, not a mistake waiting to be repaired."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The committee met for a formal review of the archive rules. May made a drawing of a triangle: the speaker, the student team, and the market community. Each side needed to carry responsibility. An employer from a nearby shop asked whether employees could share work stories anytime. May said they could, provided they respected other people's privacy and their own work agreements. A young woman asked whether the story of her diet belonged to her alone if her sister had been mentioned. Evan answered that private details about another person required separate care. The room stayed silent as people considered the question.",
+        "zh": "委員會正式審查檔案規則。慧畫了一個三角形：說話者、學生團隊，以及市場社區。每一邊都需要承擔責任。附近店家的雇主問，員工是否可以隨時分享工作故事。慧說可以，但必須尊重他人隱私和自己的工作約定。一位年輕女士問，若談飲食控制時提到妹妹，那段故事是否只屬於自己。安澤回答，涉及另一個人的私密細節，就需要另外謹慎處理。大家沉默了一會兒，思考這個問題。",
+        "englishSha256": "92428162a9a8d5312ba8582d2bce69219521faf7334dc3cb55d1b4c9e72e9588",
+        "chineseSha256": "a59d210d93eacd7755ec7ff9897d0a1136d2bf2b4fc9f25d19ccd911a66958f8"
+      },
+      {
+        "number": 2,
+        "en": "A volunteer wore a shirt with a ladybug near the hip and nervously read a statement about friendship. She said the project had helped her feel less alone, but she did not want her words posted on social media. May thanked her in a gentle manner and said no one would share the statement. Another member wanted to offer her a public prize for her work. The volunteer declined. She had come to help, not to become a heroine on a poster. Evan realized that responsible praise also meant knowing when a person wanted to remain out of view.",
+        "zh": "一名志工穿著在臀部旁有瓢蟲圖案的上衣，緊張地念出一段關於友情的聲明。她說計畫讓自己比較不孤單，但不想把這些話貼上社群媒體。慧以溫和態度道謝，並說沒有人會分享這段聲明。另一名成員想公開頒獎表揚她。志工婉拒了。她是來幫忙，不是想成為海報上的女英雄。安澤明白，負責任的稱讚也包含尊重一個人不願被看見的選擇。",
+        "englishSha256": "93437947f53035fbe51258f1fd4fd48c29dd77020f479109c54b846e3989f9b1",
+        "chineseSha256": "7eb62a8fddb9295c9d0bdff8d4f57cab2aa2463c0f1d29bdfc3f590b1dc40daa"
+      },
+      {
+        "number": 3,
+        "en": "The group then discussed how to handle stress when complaints arrived. May suggested naming one person for each task but allowing that person to request help. Evan offered a simple tracking table that would never display the private reason for a withdrawal. A student asked about the width of the public door and whether a wheelchair could pass easily. The building manager promised a professional check. The meeting lasted longer than planned, yet each question helped make the final rules more useful than a short list of perfect-sounding promises.",
+        "zh": "接著團隊討論收到申訴時的壓力如何處理。慧建議每項工作指定負責人，但允許他提出求援。安澤提供簡單追蹤表，並保證不顯示撤回的私人理由。一位學生問公共入口寬度，輪椅是否能容易通過。大樓經理答應請專業人員檢查。會議比預定久，但每個問題都讓最後的規則比一串聽起來完美的承諾更實用。",
+        "englishSha256": "d810c524238a3b617f540e8afa6a2b18677d8763f6f5bdc6122aa0ce30b17eed",
+        "chineseSha256": "a7e526c6c5153be8603c23546c34d1242728766fdd75c2c8a428b6611bd7edb0"
+      },
+      {
+        "number": 4,
+        "en": "Afterward, May met with the teacher who would decide her application to the local program. She spoke about the archive but did not describe herself as its only hero. She mentioned Mrs. Fen, the sellers, the volunteers, and Evan, each with their own role. The teacher said that leading a group was not the same as standing in front of it. May was grateful for the observation. She had learned to take responsibility without taking every story for herself. When she left, she sent Evan a message: the interview had gone well, and she had told the truth.",
+        "zh": "會後，慧參加本地教學計畫的面試。她談到檔案計畫，卻沒有把自己說成唯一英雄。她提及芬姨、攤商、志工與安澤，各人都有不同角色。面試老師說，領導團隊不等於永遠站在最前面。慧很感謝這個觀察。她學會承擔責任，又不把所有故事據為己有。離開時她傳訊給安澤：面試很順利，她說的都是真話。",
+        "englishSha256": "7f9ecea694c41998c0d1e3f21940a92fa3c58397de9690e702b5ca50f4f49406",
+        "chineseSha256": "f1ab99f66d7977a8180f0a3d14ba1868044be6047d6fb60be56e652da5edc8f1"
+      },
+      {
+        "number": 5,
+        "en": "A student asked May to mention the new rules in her graduation talk. She agreed, but did not want the speech to become an advertisement for herself. During rehearsal, Evan noticed a steel cabinet had been left open near the entrance. He closed it and moved the key to the proper hook. A volunteer came in thirsty after carrying chairs and asked where the drinking water was kept. May showed her, then began to realize that the new team had not yet included rest breaks in its schedule. They added them at once. These were small details, but they were the basis of care. A person who felt safe could make good decisions. When May looked around the room, she saw people solving problems without waiting for her. That was not a loss of control; it was evidence that the work could continue.",
+        "zh": "一位學生請慧在畢業演說提到新規則。她答應了，卻不想讓演說成為自我廣告。彩排時，安澤注意到入口旁有座鋼製櫃子未關，便把它關好，鑰匙放回正確掛鉤。一位搬椅子後口渴的志工進來，詢問飲水在哪裡。慧帶她去拿水，這才發現新團隊尚未在班表安排休息，立刻補上。這些都是小事，卻是照顧人的基礎。覺得安全的人，才能做出好的決定。慧環顧房間，發現大家不必等她就能解決問題。這不是失去控制，而是工作能延續的證據。",
+        "englishSha256": "97022e5a6a0fea10fddb335255ec9b4c385eb884a06a20ce1489cc88dd8891a7",
+        "chineseSha256": "3edea52c39e46ce41223c59a56a7546c7badc3a07943860fefb4f753f920539f"
+      },
+      {
+        "number": 6,
+        "en": "That evening, Evan invited May to a quiet dinner. He had been offered the job and planned to accept it. May said she was proud of him. He asked whether they could keep dating and meet on weekends when travel allowed. She said she wanted to try, but they would need to speak openly when plans became difficult. He agreed. They did not make a grand speech about forever. They made a smaller agreement to keep choosing each other with care, and that felt more serious than anything written on a festival poster.",
+        "zh": "那晚安澤邀慧吃一頓安靜的晚餐。他已拿到工作，準備接受。慧說她為他驕傲。他問兩人能否繼續約會，在交通允許時週末見面。慧說她願意試試，但未來計畫困難時，需要誠實溝通。他同意。他們沒有對永遠做出盛大宣言，而是達成較小的約定：以謹慎與尊重繼續選擇彼此。這比節慶海報上的話都更鄭重。",
+        "englishSha256": "127e9dc1c4558ac0276a293e8c8af0f36ec55a89e741849b6d0b06b5e3ce5c4b",
+        "chineseSha256": "a8885746ba69f55bb5b4bb6c4f3088acdde91a2391ab36c03b37b5d8e9d149f5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 624,
+    "targets": [
+      {
+        "word": "anytime",
+        "meaning": "隨時",
+        "appearsInSource": true
+      },
+      {
+        "word": "diet",
+        "meaning": "飲食",
+        "appearsInSource": true
+      },
+      {
+        "word": "drawing",
+        "meaning": "圖畫",
+        "appearsInSource": true
+      },
+      {
+        "word": "employer",
+        "meaning": "雇主",
+        "appearsInSource": true
+      },
+      {
+        "word": "formal",
+        "meaning": "正式的",
+        "appearsInSource": true
+      },
+      {
+        "word": "friendship",
+        "meaning": "友誼",
+        "appearsInSource": true
+      },
+      {
+        "word": "heroine",
+        "meaning": "英雄",
+        "appearsInSource": true
+      },
+      {
+        "word": "hip",
+        "meaning": "髖側",
+        "appearsInSource": true
+      },
+      {
+        "word": "ladybug",
+        "meaning": "瓢蟲",
+        "appearsInSource": true
+      },
+      {
+        "word": "manner",
+        "meaning": "方式",
+        "appearsInSource": true
+      },
+      {
+        "word": "mention",
+        "meaning": "提及",
+        "appearsInSource": true
+      },
+      {
+        "word": "offer",
+        "meaning": "提議提供",
+        "appearsInSource": true
+      },
+      {
+        "word": "realize",
+        "meaning": "明白",
+        "appearsInSource": true
+      },
+      {
+        "word": "responsible",
+        "meaning": "負責任的",
+        "appearsInSource": true
+      },
+      {
+        "word": "silent",
+        "meaning": "安靜的",
+        "appearsInSource": true
+      },
+      {
+        "word": "steel",
+        "meaning": "鋼",
+        "appearsInSource": true
+      },
+      {
+        "word": "stress",
+        "meaning": "壓力",
+        "appearsInSource": true
+      },
+      {
+        "word": "thirsty",
+        "meaning": "口渴的",
+        "appearsInSource": true
+      },
+      {
+        "word": "triangle",
+        "meaning": "三角形",
+        "appearsInSource": true
+      },
+      {
+        "word": "width",
+        "meaning": "寬度",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the triangle in May's drawing stand for?",
+      "options": [
+        "Speakers, students, and the community",
+        "Three types of fruit",
+        "Three winning teams"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Speakers, students, and the community",
+      "existingAnswerExplanation": "三角形三邊代表說話者、學生團隊與市場社區的責任。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The committee met for a formal review of the archive rules. May made a drawing of a triangle: the speaker, the student team, and the market community. Each side needed to carry responsibility. An employer from a nearby shop asked whether employees could share work stories anytime. May said they could, provided they respected other people's privacy and their own work agreements. A young woman asked whether the story of her diet belonged to her alone if her sister had been mentioned. Evan answered that private details about another person required separate care. The room stayed silent as people considered the question.",
+          "chinese": "委員會正式審查檔案規則。慧畫了一個三角形：說話者、學生團隊，以及市場社區。每一邊都需要承擔責任。附近店家的雇主問，員工是否可以隨時分享工作故事。慧說可以，但必須尊重他人隱私和自己的工作約定。一位年輕女士問，若談飲食控制時提到妹妹，那段故事是否只屬於自己。安澤回答，涉及另一個人的私密細節，就需要另外謹慎處理。大家沉默了一會兒，思考這個問題。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 2,
+          "english": "A volunteer wore a shirt with a ladybug near the hip and nervously read a statement about friendship. She said the project had helped her feel less alone, but she did not want her words posted on social media. May thanked her in a gentle manner and said no one would share the statement. Another member wanted to offer her a public prize for her work. The volunteer declined. She had come to help, not to become a heroine on a poster. Evan realized that responsible praise also meant knowing when a person wanted to remain out of view.",
+          "chinese": "一名志工穿著在臀部旁有瓢蟲圖案的上衣，緊張地念出一段關於友情的聲明。她說計畫讓自己比較不孤單，但不想把這些話貼上社群媒體。慧以溫和態度道謝，並說沒有人會分享這段聲明。另一名成員想公開頒獎表揚她。志工婉拒了。她是來幫忙，不是想成為海報上的女英雄。安澤明白，負責任的稱讚也包含尊重一個人不願被看見的選擇。",
+          "matchedQueryTerms": 0
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did May and Evan decide about their relationship?",
+      "options": [
+        "To try dating while respecting separate careers",
+        "To work in the same city at any cost",
+        "To end the archive immediately"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To try dating while respecting separate careers",
+      "existingAnswerExplanation": "兩人決定在不同職涯安排下繼續交往，並保持坦白溝通。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The committee met for a formal review of the archive rules. May made a drawing of a triangle: the speaker, the student team, and the market community. Each side needed to carry responsibility. An employer from a nearby shop asked whether employees could share work stories anytime. May said they could, provided they respected other people's privacy and their own work agreements. A young woman asked whether the story of her diet belonged to her alone if her sister had been mentioned. Evan answered that private details about another person required separate care. The room stayed silent as people considered the question.",
+          "chinese": "委員會正式審查檔案規則。慧畫了一個三角形：說話者、學生團隊，以及市場社區。每一邊都需要承擔責任。附近店家的雇主問，員工是否可以隨時分享工作故事。慧說可以，但必須尊重他人隱私和自己的工作約定。一位年輕女士問，若談飲食控制時提到妹妹，那段故事是否只屬於自己。安澤回答，涉及另一個人的私密細節，就需要另外謹慎處理。大家沉默了一會兒，思考這個問題。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 6,
+          "english": "That evening, Evan invited May to a quiet dinner. He had been offered the job and planned to accept it. May said she was proud of him. He asked whether they could keep dating and meet on weekends when travel allowed. She said she wanted to try, but they would need to speak openly when plans became difficult. He agreed. They did not make a grand speech about forever. They made a smaller agreement to keep choosing each other with care, and that felt more serious than anything written on a festival poster.",
+          "chinese": "那晚安澤邀慧吃一頓安靜的晚餐。他已拿到工作，準備接受。慧說她為他驕傲。他問兩人能否繼續約會，在交通允許時週末見面。慧說她願意試試，但未來計畫困難時，需要誠實溝通。他同意。他們沒有對永遠做出盛大宣言，而是達成較小的約定：以謹慎與尊重繼續選擇彼此。這比節慶海報上的話都更鄭重。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

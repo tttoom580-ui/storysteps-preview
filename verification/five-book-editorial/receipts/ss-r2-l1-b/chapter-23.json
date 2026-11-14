@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 23,
+  "chapterId": "ss-r2-l1-b-23",
+  "sourceChapterSha256": "131a8d011ff2b429af29260e8379cecc1c40abeaa78a9f6d6a84dd572ab3a1a9",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "藝術日防蛇避險，兒童星星畫留在牆上",
+    "previousChapterEndingEnglish": "When the visitors left, Fia was tired but happy. She thought about the simple thing they had done: put the price where people could see it. Nothing great had happened, yet the room felt more open. Pip put the drawing of the dead flower in his garden book. \"I will try a new place later,\" he said. Fia nodded. She understood that work was not about never losing anything. It was about learning, making careful choices, and giving people clear information. She shut the window before the evening air became cold.",
+    "nextChapterOpeningEnglish": "The day before the harvest meal, Pip took Fia to a small hill behind the village. They walked carefully past a row of carrots. The ground was soft from the old rain, and Fia almost put one foot in a muddy hole. Pip held out a hand. \"Take this way,\" he said, pointing to a dry path. Fia was glad to follow. A small insect sat on her jacket, and she moved it onto a leaf. The day was hot, but the wind from the pond helped. On the pond was a tiny island where birds rested. Fia stopped to look at it before they went back to work."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "After the rain season, the village held a big art day beside the school. Fia wanted the shop to take part, but she did not expect the workers to stop making breakfast for a whole day. They chose one simple action: children could draw a star, and the shop would put the pictures on a wall. Pip wore a green cap and held the paper. Moss brought a thick book to keep the drawings flat. The first child came with bright hair ribbons and a shy smile. \"Can I make a very small star?\" she asked. \"Of course,\" Fia answered. \"Big or small, your art belongs here.\"",
+        "zh": "雨季過後，村子在學校旁辦了一場大型藝術日。菲雅希望小店參與，卻不想讓員工整天停下早餐工作。於是大家選了一個簡單活動：孩子可以畫星星，店裡會把圖貼在牆上。皮普戴著綠帽，拿著紙；莫斯帶了厚書，幫畫作壓平。第一個孩子綁著亮色髮帶，害羞地微笑。「我可以畫很小的星星嗎？」她問。「當然，」菲雅回答，「大小都好，妳的畫都屬於這裡。」",
+        "englishSha256": "be7f3e141d6db56fe8021774a8181578fb56917b3c4035a45323e85b56d60a62",
+        "chineseSha256": "67d21e4c22127fd1b2c3d7d96e6f18ca0f84e7121d65350e4027888f87d72c7e"
+      },
+      {
+        "number": 2,
+        "en": "Toma came from the garden with important news. He had seen a small snake under a warm stone near the path. Some children were afraid, and one wanted to kill it. Toma had asked everybody to stay back and had called a village animal helper. \"We should not go near it,\" he told Fia. \"The helper will know what to do.\" Fia nodded. She told the children the same thing and moved the art table away from the garden path. They could act carefully without hurting the animal. The children listened and went back to drawing while the helper checked the area.",
+        "zh": "托馬從花園帶來重要消息。他看見小路旁的暖石下有條小蛇，有些孩子害怕，一人甚至想殺掉牠。托馬已請大家退後，並聯絡村裡懂動物的幫手。「不要靠近，」他對菲雅說，「幫手會知道怎麼處理。」菲雅點頭，也這樣告訴孩子，並把藝術桌移離花園路。大家可以謹慎行動，不必傷害動物。孩子們回去畫畫，等幫手檢查區域。",
+        "englishSha256": "9e3e4a2eae26d0a6c394d51c7e9b13008d014d83aeee1096d534367d00f4f0fd",
+        "chineseSha256": "719152e235e4efc4c4619b8d82ce9bd73649efea9805b9be2b945457ebd10e54"
+      },
+      {
+        "number": 3,
+        "en": "A young artist came to teach a lesson about making clear marks. He showed how one small line could change the look of a face. A child pointed to his ear and asked why artists often drew ears so simply. The artist smiled. \"You can study the real shape, then choose what is important for your picture,\" he said. Fia listened while she served bread. She liked how the teacher encouraged children to think, not merely copy. A drawing could be simple and still say something true. It reminded her of the little wooden star, which had only five points but held many memories.",
+        "zh": "一名年輕藝術家來教大家如何畫清楚的線條。他示範一小條線就能改變臉的樣子。孩子指著自己的耳朵，問畫家為何常把耳朵畫得很簡單。藝術家笑著說：「先研究真正的形狀，再決定畫裡什麼最重要。」菲雅送麵包時聽著，喜歡老師鼓勵孩子思考，而不是只照抄。畫可以很簡單，仍能說出真實的事。這讓她想到小木星星：只有五個角，卻承載許多回憶。",
+        "englishSha256": "9c84c4162da011aedd899fe86464f7260e50153e579b91107170b2cc7da33ab5",
+        "chineseSha256": "5e3c27d67f63aa983c65eb29ee68dc5b8da2346118a559ad5666081643130962"
+      },
+      {
+        "number": 4,
+        "en": "At noon, Fia saw a large mark on the floor near the food table. Someone had spilled juice, and a child had almost stepped on it. Fia stopped serving for a moment and asked Pip to help clean the place. \"No running here,\" she told the children. \"The floor is wet.\" One child looked upset and said, \"I did it. I am sorry.\" Fia did not shout. \"Thank you for telling me,\" she said. \"Next time, please call us when something spills.\" The child nodded and helped move the empty cups. The room was safe again in a few minutes.",
+        "zh": "中午，菲雅發現食物桌旁地板有一大片痕跡。有人打翻果汁，一個孩子差點踩上去。菲雅暫停供餐，請皮普一起清潔。「這裡不能跑，」她告訴孩子，「地板濕了。」有個孩子不安地說：「是我弄的，對不起。」菲雅沒有吼他。「謝謝你告訴我，」她說，「下次打翻東西，請立刻叫我們。」孩子點頭，幫忙移空杯。幾分鐘後，房間又安全了。",
+        "englishSha256": "95938cb046ae2d87eadc62e7134b66cbde585d9709100bc35a96942820de87ff",
+        "chineseSha256": "560ad74c2e9d200132e8588c5a5d43b19ba7952efe6a5d099a1d81d200f53f2e"
+      },
+      {
+        "number": 5,
+        "en": "In the afternoon, the animal helper returned to say the garden path was clear. The snake had moved away from the busy area. Fia thanked her and told the children they could use the garden again, but still needed to look where they walked. She did not want the art day to be remembered for fear. There had been a problem, they had taken careful steps, and then the day had continued. On the wall, the stars filled a whole row of paper. Some were yellow, some blue, and some had many colors. Together they looked like a bright sky. Even the youngest visitors could help. Fia asked them to raise their hands before taking a paper, then place finished pictures over the long table.",
+        "zh": "下午，動物幫手回來說花園路已安全，小蛇已離開熱鬧區域。菲雅道謝，告訴孩子可以再使用花園，但走路仍要注意腳下。她不希望藝術日只留下恐懼。問題發生時，大家採取謹慎措施，之後活動便繼續。牆上，星星畫排滿了整列紙。有些黃色，有些藍色，也有很多顏色，合在一起像明亮的天空。 即使最年幼的訪客也能幫忙。菲雅請他們拿紙前先舉手，再把完成的畫放到長桌上方的展示區。",
+        "englishSha256": "6e165e785fba1af58e5d1b7905b67388e9d7866527970a3542cdad190ef779cb",
+        "chineseSha256": "d5cd66808c6cddd488ed9b09955fef109952bf359bb65faf1c53869567d527da"
+      },
+      {
+        "number": 6,
+        "en": "Before closing, Fia took one last look at the wall. A child had written three words under a star: \"We help together.\" The letters were not perfect, but the meaning was clear. Fia left the paper where everyone could see it. She thought about all the different things that had happened since she first opened the empty house. Some days had been easy, others hard. Each had taught a lesson. Tomorrow they would prepare for the harvest meal, and the stars would stay on the wall to welcome every visitor who came through the red door.",
+        "zh": "收工前，菲雅最後看了一眼那面牆。有個孩子在星星下寫了三個字：「我們一起幫忙。」字母不算完美，意思卻很清楚。菲雅讓那張紙留在大家看得見的地方。她想起開啟空屋以來各種日子：有些容易，有些艱難，每一天都教會她事情。明天他們要準備豐收餐，而牆上的星星會留下來，歡迎每個走進紅門的客人。",
+        "englishSha256": "f33d67060ace2f3ff69a94675874deb951502ba427b7c96b59d9edebe48377dc",
+        "chineseSha256": "158d2043fa7f28c69d19acdd4635c6754d28156ab5e5bbf65f1993d075789e3c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 634,
+    "targets": [
+      {
+        "word": "act",
+        "meaning": "行動",
+        "appearsInSource": true
+      },
+      {
+        "word": "action",
+        "meaning": "行為",
+        "appearsInSource": true
+      },
+      {
+        "word": "After",
+        "meaning": "在……之後",
+        "appearsInSource": true
+      },
+      {
+        "word": "art",
+        "meaning": "藝術",
+        "appearsInSource": true
+      },
+      {
+        "word": "big",
+        "meaning": "大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cap",
+        "meaning": "帽子",
+        "appearsInSource": true
+      },
+      {
+        "word": "ear",
+        "meaning": "耳朵",
+        "appearsInSource": true
+      },
+      {
+        "word": "Even",
+        "meaning": "即使",
+        "appearsInSource": true
+      },
+      {
+        "word": "expect",
+        "meaning": "期待",
+        "appearsInSource": true
+      },
+      {
+        "word": "hair",
+        "meaning": "頭髮",
+        "appearsInSource": true
+      },
+      {
+        "word": "important",
+        "meaning": "重要的",
+        "appearsInSource": true
+      },
+      {
+        "word": "kill",
+        "meaning": "殺死",
+        "appearsInSource": true
+      },
+      {
+        "word": "lesson",
+        "meaning": "課程",
+        "appearsInSource": true
+      },
+      {
+        "word": "mark",
+        "meaning": "記號",
+        "appearsInSource": true
+      },
+      {
+        "word": "No",
+        "meaning": "不要",
+        "appearsInSource": true
+      },
+      {
+        "word": "over",
+        "meaning": "在……上方",
+        "appearsInSource": true
+      },
+      {
+        "word": "raise",
+        "meaning": "舉起",
+        "appearsInSource": true
+      },
+      {
+        "word": "snake",
+        "meaning": "蛇",
+        "appearsInSource": true
+      },
+      {
+        "word": "study",
+        "meaning": "研究",
+        "appearsInSource": true
+      },
+      {
+        "word": "thick",
+        "meaning": "厚的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Fia move the art table?",
+      "options": [
+        "A snake is near the path",
+        "There is no paper",
+        "The sun is too bright"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A snake is near the path",
+      "existingAnswerExplanation": "花園路旁發現小蛇，團隊先將孩子的活動移開。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Toma came from the garden with important news. He had seen a small snake under a warm stone near the path. Some children were afraid, and one wanted to kill it. Toma had asked everybody to stay back and had called a village animal helper. \"We should not go near it,\" he told Fia. \"The helper will know what to do.\" Fia nodded. She told the children the same thing and moved the art table away from the garden path. They could act carefully without hurting the animal. The children listened and went back to drawing while the helper checked the area.",
+          "chinese": "托馬從花園帶來重要消息。他看見小路旁的暖石下有條小蛇，有些孩子害怕，一人甚至想殺掉牠。托馬已請大家退後，並聯絡村裡懂動物的幫手。「不要靠近，」他對菲雅說，「幫手會知道怎麼處理。」菲雅點頭，也這樣告訴孩子，並把藝術桌移離花園路。大家可以謹慎行動，不必傷害動物。孩子們回去畫畫，等幫手檢查區域。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 5,
+          "english": "In the afternoon, the animal helper returned to say the garden path was clear. The snake had moved away from the busy area. Fia thanked her and told the children they could use the garden again, but still needed to look where they walked. She did not want the art day to be remembered for fear. There had been a problem, they had taken careful steps, and then the day had continued. On the wall, the stars filled a whole row of paper. Some were yellow, some blue, and some had many colors. Together they looked like a bright sky. Even the youngest visitors could help. Fia asked them to raise their hands before taking a paper, then place finished pictures over the long table.",
+          "chinese": "下午，動物幫手回來說花園路已安全，小蛇已離開熱鬧區域。菲雅道謝，告訴孩子可以再使用花園，但走路仍要注意腳下。她不希望藝術日只留下恐懼。問題發生時，大家採取謹慎措施，之後活動便繼續。牆上，星星畫排滿了整列紙。有些黃色，有些藍色，也有很多顏色，合在一起像明亮的天空。 即使最年幼的訪客也能幫忙。菲雅請他們拿紙前先舉手，再把完成的畫放到長桌上方的展示區。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What do the children draw?",
+      "options": [
+        "Stars",
+        "Trains",
+        "Fish"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Stars",
+      "existingAnswerExplanation": "孩子們畫星星，並把畫作貼在牆上。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "After the rain season, the village held a big art day beside the school. Fia wanted the shop to take part, but she did not expect the workers to stop making breakfast for a whole day. They chose one simple action: children could draw a star, and the shop would put the pictures on a wall. Pip wore a green cap and held the paper. Moss brought a thick book to keep the drawings flat. The first child came with bright hair ribbons and a shy smile. \"Can I make a very small star?\" she asked. \"Of course,\" Fia answered. \"Big or small, your art belongs here.\"",
+          "chinese": "雨季過後，村子在學校旁辦了一場大型藝術日。菲雅希望小店參與，卻不想讓員工整天停下早餐工作。於是大家選了一個簡單活動：孩子可以畫星星，店裡會把圖貼在牆上。皮普戴著綠帽，拿著紙；莫斯帶了厚書，幫畫作壓平。第一個孩子綁著亮色髮帶，害羞地微笑。「我可以畫很小的星星嗎？」她問。「當然，」菲雅回答，「大小都好，妳的畫都屬於這裡。」",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "In the afternoon, the animal helper returned to say the garden path was clear. The snake had moved away from the busy area. Fia thanked her and told the children they could use the garden again, but still needed to look where they walked. She did not want the art day to be remembered for fear. There had been a problem, they had taken careful steps, and then the day had continued. On the wall, the stars filled a whole row of paper. Some were yellow, some blue, and some had many colors. Together they looked like a bright sky. Even the youngest visitors could help. Fia asked them to raise their hands before taking a paper, then place finished pictures over the long table.",
+          "chinese": "下午，動物幫手回來說花園路已安全，小蛇已離開熱鬧區域。菲雅道謝，告訴孩子可以再使用花園，但走路仍要注意腳下。她不希望藝術日只留下恐懼。問題發生時，大家採取謹慎措施，之後活動便繼續。牆上，星星畫排滿了整列紙。有些黃色，有些藍色，也有很多顏色，合在一起像明亮的天空。 即使最年幼的訪客也能幫忙。菲雅請他們拿紙前先舉手，再把完成的畫放到長桌上方的展示區。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

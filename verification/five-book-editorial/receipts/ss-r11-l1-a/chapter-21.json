@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 21,
+  "chapterId": "ss-r11-l1-a-21",
+  "sourceChapterSha256": "228643ab2cc730e476894e22f774784ddc943f226a4e78358db8cd7666c47bf0",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "凱試走新小徑；凸線觸摸標示和印刷字功能不同",
+    "previousChapterEndingEnglish": "Before leaving, Ms. Wen asked the children to think about anything else the garden needed. One student said a place to put shoes when they became muddy. Another said a small cover for the seed cards. Ivy wrote down their ideas. They would not do every job before the opening, and that was all right. She looked at the broken pipe below the path, then at the growing green leaves above it. The garden had problems, but it had people who knew how to ask for help.",
+    "nextChapterOpeningEnglish": "The club held a small test day for children from a younger grade. A baby plant stood in a dry pot near the gate. A bench gave visitors a place to rest. Ivy asked the children not to climb on the low garden wall, because the wet earth beside it could be soft. A boy carried a plate of small snacks, while a girl read plant names aloud. The teacher watched from near the path. They wanted to find any weak place before the whole school arrived for garden day."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The workers finished the main garden path while the children were in class. Ivy came out and saw a light gray surface from the gate to the first flower bed. Kai arrived with his cane and asked whether he could try it. Ms. Wen said yes. His brother stood near the door, but Kai wanted to walk the way on his own. He moved slowly and stopped at the first turn. “There is a little edge here,” he said. The workers listened and made a note. They did not say the path was finished until the people using it had a chance to try.",
+        "zh": "孩子們上課時，工人完成了花園的主要小徑。艾薇走出教室，看見從大門通往第一塊花圃的淺灰色路面。凱帶著手杖來，問能不能試走。溫老師說可以。哥哥站在門邊，但凱想自己走。他緩緩前進，在第一個轉彎處停下。「這裡有個小小的邊，」他說。工人認真聽並記下來。他們沒有在使用者試走前，就宣布小徑已經完成。",
+        "englishSha256": "436ab089ee78caf5cc78a226d5cdfeb107820b24093a8c867716cdb6be646ccf",
+        "chineseSha256": "1b08fb836f2b5438bdde418754a5b33609537b1e18796ba5ebe099c71ab55a45"
+      },
+      {
+        "number": 2,
+        "en": "Near the path a child had left a ball beside the plant signs. Ivy picked it up and asked the sports teacher where it should go. She did not want someone to fall over it. Jun showed three types of signs on the table: one with a picture, one with large words, and one with raised lines. Kai said that each type served a different reader: the pictures and large words would help other students, while the raised lines helped him recognize the signs by touch. The club decided to save a sample of every sign in the green box. Next year's students could look at them and make better ones instead of starting from nothing.",
+        "zh": "小徑旁，有孩子把一顆球留在植物標示旁。艾薇撿起來，問體育老師應該放去哪裡。她不希望有人被絆倒。俊在桌上展示三種類型的標示牌：有圖片的、有大字的，以及有凸線的。凱說，每一類標示都適合不同的讀者：圖片和大字能幫助其他學生，凸起的線條則讓他能用觸覺辨識標示。社團決定把每種標示的樣本保存在綠箱子裡。明年的學生可以參考、再改進，不必從頭開始。",
+        "englishSha256": "80840834fbc2b8af28f531558c3c690c29b5c79585cae4ce8ab0841f77774e61",
+        "chineseSha256": "a5021b3c8f6b6e001712241b109510499f9c2e285c2def60facf3462a9b93d66"
+      },
+      {
+        "number": 3,
+        "en": "Jun had an idea for the garden signs. He wanted to show the plant names with large letters and raised lines that could be felt by hand. A student from the music club offered to play piano at the opening, but Jun asked him first to help test the sign stand. They put the stand beside the path, not in the middle of it. Kai touched the edge and said it was easy to find. He explained that touch should be a choice, not the only way to learn about a plant.",
+        "zh": "俊想到植物標示牌的新做法。他想用大字和可以摸到的凸線寫植物名稱。音樂社的一位學生提議在開幕時彈鋼琴，俊卻先請他幫忙測試牌架。大家把牌架放在小徑旁，不放在路中央。凱摸到邊緣，說很容易找到。他解釋，觸摸應該是一種選擇，而不是認識植物的唯一方法。",
+        "englishSha256": "26c82dcbf761508074171c80cae291bbe425d3d0690d3c309c8ae693ca3d4c43",
+        "chineseSha256": "bbe42dcda811becf974cf400a2ec63f9ac2c5f74d43a4605fed2b53b6ed339f0"
+      },
+      {
+        "number": 4,
+        "en": "At lunch the club ate bread and cheese. A girl asked if Ivy was bored with garden work after so many busy days. Ivy said she was tired sometimes, but learning about the plants still gave her joy. She had experience with finding a missing box now, yet she did not want to lose another one. Jun laughed with his mouth full of bread and then covered his mouth politely. “We should get a better place for the labels,” he said after swallowing. The group agreed to put them in a dry drawer near the garden door.",
+        "zh": "午餐時，社團吃麵包和起司。一個女孩問艾薇，忙了這麼多天，她會不會已經對園藝工作感到無聊。艾薇說有時會累，但認識植物仍讓她快樂。她如今有找回失物的經驗，卻不想再弄丟另一箱。俊嘴裡還塞著麵包就笑了，隨即禮貌地遮住嘴巴。「我們應該替標示牌找一個更好的地方，」他吞下食物後說。大家同意把標示牌放到花園門邊的乾燥抽屜裡。",
+        "englishSha256": "46a58c6b6e344fe3ab8a77caabf40368dcb01f1cd2096950eca1676cbe8316a8",
+        "chineseSha256": "1afdf256343b2a6361f96f36992225b91b3538fddac6f7fe7c33380e75e9d64b"
+      },
+      {
+        "number": 5,
+        "en": "Later Ivy asked Kai to describe the turn in the path in his own words. He said he could feel the edge with his cane, but he wanted a little more space beside it. Ivy wrote his words without changing them into what she thought he meant. Ms. Wen thanked Kai for trying the path again. “People who use a place know things that people drawing it may miss,” she said. Ivy looked at the plan and saw that listening had made the lines on paper become a better path on the ground.",
+        "zh": "稍後，艾薇請凱用自己的話描述小徑的轉彎。他說手杖能感覺到路緣，但希望旁邊再有一點空間。艾薇照原意記下他的話，沒有擅自改成自己以為的意思。溫老師感謝凱再試走一次。「真正使用一個地方的人，會知道畫圖的人可能忽略的事，」她說。艾薇看著計畫，明白願意聆聽，已讓紙上的線變成地面上更好的路。",
+        "englishSha256": "412251b806e9554056c247a66792030a37cf66b99dd264445b995cb89072880a",
+        "chineseSha256": "b08f0278d885270fc08db70ccce356c988945b5e057e81c98cbf6016afa6df17"
+      },
+      {
+        "number": 6,
+        "en": "An older student showed a picture of an airplane on his tablet. He said his family had come from far away and that gardens could help a new place feel like home. Ivy liked that thought. The school garden was not only for children who had lived in town all their lives. It was for students who had arrived yesterday too. The club decided to show plant names in more than one language when they could check the words carefully. They would not guess at words they did not know.",
+        "zh": "一位高年級學生在平板上展示飛機照片，說他的家人從很遠的地方搬來，花園能讓新的地方更像家。艾薇很喜歡這個想法。學校花園不只屬於一直住在鎮上的孩子，也屬於昨天才到校的新同學。社團決定，在能確認翻譯正確的情況下，用多種語言標示植物名稱；對不認識的字，他們不會亂猜。",
+        "englishSha256": "4cc13bbb8bd4e750e9547d7f13f99346cc4dc5f6beedeb0862d921a2b6baebbd",
+        "chineseSha256": "25fe43e6dcfa95c350e4530af2da5a6bc0025c039959cb9f706bea0e69ec4362"
+      },
+      {
+        "number": 7,
+        "en": "Tonight Ivy helped her mother wash cups and clean the bathroom before bed. A pleasant smell from the kitchen made her hungry again. She told her mother how Kai had tried the new path. “Did it work?” her mother asked. “Mostly,” Ivy said. “There is still one edge to fix.” She was glad she could give an answer that was both hopeful and true. The garden would open soon, but being ready did not mean that nobody could find a problem. It meant that someone would listen when they did.",
+        "zh": "當晚，艾薇睡前幫媽媽洗杯子、打掃浴室。廚房傳來好聞的香味，讓她又有點餓。她告訴媽媽凱試走新小徑的事。「好走嗎？」媽媽問。「大致可以，」艾薇說，「但還有一處邊緣要修。」她很高興自己能給出既有希望又真實的回答。花園即將開放，但準備就緒不代表永遠沒有人發現問題，而是發現問題時有人願意聆聽。",
+        "englishSha256": "43044574d9e421680a145bce06635d6e017cef2b6a73940ff7a188a3dfddad1d",
+        "chineseSha256": "e33d5800f99a5a293219403140558bd00e0f7468bbec368142b71423fe0471a4"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 682,
+    "targets": [
+      {
+        "word": "airplane",
+        "meaning": "飛機",
+        "appearsInSource": true
+      },
+      {
+        "word": "ball",
+        "meaning": "球",
+        "appearsInSource": true
+      },
+      {
+        "word": "bathroom",
+        "meaning": "浴室",
+        "appearsInSource": true
+      },
+      {
+        "word": "bored",
+        "meaning": "無聊的",
+        "appearsInSource": true
+      },
+      {
+        "word": "busy",
+        "meaning": "忙碌的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cheese",
+        "meaning": "起司",
+        "appearsInSource": true
+      },
+      {
+        "word": "door",
+        "meaning": "門",
+        "appearsInSource": true
+      },
+      {
+        "word": "experience",
+        "meaning": "經驗",
+        "appearsInSource": true
+      },
+      {
+        "word": "from",
+        "meaning": "從",
+        "appearsInSource": true
+      },
+      {
+        "word": "get",
+        "meaning": "得到",
+        "appearsInSource": true
+      },
+      {
+        "word": "light",
+        "meaning": "淺色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "little",
+        "meaning": "小的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mouth",
+        "meaning": "嘴巴",
+        "appearsInSource": true
+      },
+      {
+        "word": "only",
+        "meaning": "只有",
+        "appearsInSource": true
+      },
+      {
+        "word": "piano",
+        "meaning": "鋼琴",
+        "appearsInSource": true
+      },
+      {
+        "word": "save",
+        "meaning": "保存",
+        "appearsInSource": true
+      },
+      {
+        "word": "show",
+        "meaning": "展示",
+        "appearsInSource": true
+      },
+      {
+        "word": "smell",
+        "meaning": "氣味",
+        "appearsInSource": true
+      },
+      {
+        "word": "Tonight",
+        "meaning": "今晚",
+        "appearsInSource": true
+      },
+      {
+        "word": "type",
+        "meaning": "種類",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Who tested the new garden path?",
+      "options": [
+        "Kai.",
+        "The market driver.",
+        "The park officer."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Kai.",
+      "existingAnswerExplanation": "凱親自試走新小徑並提出修改意見",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The workers finished the main garden path while the children were in class. Ivy came out and saw a light gray surface from the gate to the first flower bed. Kai arrived with his cane and asked whether he could try it. Ms. Wen said yes. His brother stood near the door, but Kai wanted to walk the way on his own. He moved slowly and stopped at the first turn. “There is a little edge here,” he said. The workers listened and made a note. They did not say the path was finished until the people using it had a chance to try.",
+          "chinese": "孩子們上課時，工人完成了花園的主要小徑。艾薇走出教室，看見從大門通往第一塊花圃的淺灰色路面。凱帶著手杖來，問能不能試走。溫老師說可以。哥哥站在門邊，但凱想自己走。他緩緩前進，在第一個轉彎處停下。「這裡有個小小的邊，」他說。工人認真聽並記下來。他們沒有在使用者試走前，就宣布小徑已經完成。",
+          "matchedQueryTerms": 3
+        },
+        {
+          "paragraph": 3,
+          "english": "Jun had an idea for the garden signs. He wanted to show the plant names with large letters and raised lines that could be felt by hand. A student from the music club offered to play piano at the opening, but Jun asked him first to help test the sign stand. They put the stand beside the path, not in the middle of it. Kai touched the edge and said it was easy to find. He explained that touch should be a choice, not the only way to learn about a plant.",
+          "chinese": "俊想到植物標示牌的新做法。他想用大字和可以摸到的凸線寫植物名稱。音樂社的一位學生提議在開幕時彈鋼琴，俊卻先請他幫忙測試牌架。大家把牌架放在小徑旁，不放在路中央。凱摸到邊緣，說很容易找到。他解釋，觸摸應該是一種選擇，而不是認識植物的唯一方法。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Where did the club plan to keep the labels?",
+      "options": [
+        "In a dry drawer near the garden door.",
+        "In the sports net.",
+        "Under a wet stone."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "In a dry drawer near the garden door.",
+      "existingAnswerExplanation": "標示牌將收在花園門邊的乾燥抽屜中",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "At lunch the club ate bread and cheese. A girl asked if Ivy was bored with garden work after so many busy days. Ivy said she was tired sometimes, but learning about the plants still gave her joy. She had experience with finding a missing box now, yet she did not want to lose another one. Jun laughed with his mouth full of bread and then covered his mouth politely. “We should get a better place for the labels,” he said after swallowing. The group agreed to put them in a dry drawer near the garden door.",
+          "chinese": "午餐時，社團吃麵包和起司。一個女孩問艾薇，忙了這麼多天，她會不會已經對園藝工作感到無聊。艾薇說有時會累，但認識植物仍讓她快樂。她如今有找回失物的經驗，卻不想再弄丟另一箱。俊嘴裡還塞著麵包就笑了，隨即禮貌地遮住嘴巴。「我們應該替標示牌找一個更好的地方，」他吞下食物後說。大家同意把標示牌放到花園門邊的乾燥抽屜裡。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "The workers finished the main garden path while the children were in class. Ivy came out and saw a light gray surface from the gate to the first flower bed. Kai arrived with his cane and asked whether he could try it. Ms. Wen said yes. His brother stood near the door, but Kai wanted to walk the way on his own. He moved slowly and stopped at the first turn. “There is a little edge here,” he said. The workers listened and made a note. They did not say the path was finished until the people using it had a chance to try.",
+          "chinese": "孩子們上課時，工人完成了花園的主要小徑。艾薇走出教室，看見從大門通往第一塊花圃的淺灰色路面。凱帶著手杖來，問能不能試走。溫老師說可以。哥哥站在門邊，但凱想自己走。他緩緩前進，在第一個轉彎處停下。「這裡有個小小的邊，」他說。工人認真聽並記下來。他們沒有在使用者試走前，就宣布小徑已經完成。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

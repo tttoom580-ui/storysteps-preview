@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 24,
+  "chapterId": "ss-r11-l1-a-24",
+  "sourceChapterSha256": "901856865411c94392f2193ba4e7cad4cca434cabb32ee4c47f8445428426110",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "雨備方案與紙本植物筆記；下午工人蓋罩布為回憶",
+    "previousChapterEndingEnglish": "Before leaving, Ivy watched rain from a short shower run down the outside window. The green box sat dry on its new shelf. She never wanted to find it lost again, but she also knew accidents could happen. The important part was having a way to notice, ask, and correct a mistake. She looked at Jun and said, “This is a better home for our box.” “Yes,” he answered. The monkey with orange ears smiled from the shelf, ready for the next group of gardeners.",
+    "nextChapterOpeningEnglish": "The rain stopped in the morning. Ivy could see the school garden from the gate, and the sight made her smile. Its new path was clean, the green box was safe, and small leaves had begun to grow in every bed. Jun had cut paper signs the night before, and they looked bright against the wet earth. A worker pushed a cart of chairs to the side, away from the path. “Now we are ready,” Ms. Wen said. Ivy felt lucky, but she knew the day had not come together by luck alone. Many people had made a plan and followed it."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On the day before the opening, rainy weather came across the town. Wind pushed water along the school road, and everyone moved away from the garden's low beds. Ivy checked the date on her cellphone. The garden day was tomorrow. She had hoped to finish every sign, yet the last one was still wet. Ms. Wen invited the club to meet in the school kitchen, where the tables were clean and dry. They would make a copy of the signs and decide which items could safely go outside when the weather changed.",
+        "zh": "花園開放日前一天，雨天橫掃小鎮。風吹著雨水沿學校道路流動，大家都離開花園的低矮花圃。艾薇看了手機上的日期。明天就是花園日。她原本希望把每塊標示牌都完成，卻還有最後一塊是濕的。溫老師邀請社團到學校廚房旁的活動空間集合，那裡的桌子乾淨又乾燥。大家要複製標示牌，並決定天氣好轉時哪些物品能安全搬到戶外。",
+        "englishSha256": "ed5f7d420bbeff3a8fd75eea33f6e9ad66f489dd82da5a18f9ac766a719e00e1",
+        "chineseSha256": "724239125993fed80e784b86bdd54977e2ba57a3d30c6c863380097a2e57cbcf"
+      },
+      {
+        "number": 2,
+        "en": "Ms. Wen asked Ivy to invite the families to look at the new indoor plan. Each item on the table had a place: seed cards on one side, clean cups in the middle, and a small box for pencils near the door. Nobody had to reach across a crowded table to get what they needed. A child asked whether the rain would stop for sure. Ivy said she did not know. She showed him both plans and asked which one he wanted to help with. The child chose the indoor signs and began working.",
+        "zh": "溫老師請艾薇邀請家長們看看新的室內方案。桌上每件物品都有位置：種子卡放一邊，乾淨的杯子放中央，門旁則放一個小鉛筆盒。任何人都不必伸手越過擁擠桌面拿東西。一個孩子問雨是不是一定會停。艾薇說不知道，接著展示兩種方案，問他想幫忙哪一種。孩子選了室內標示牌，便開始工作。",
+        "englishSha256": "e4fb70a56c3cc66133e0655dc3987eb113022caff5e4c1833d7c9e72dcfc6c0a",
+        "chineseSha256": "20eaa668c5e3cb9dfbe78f4e9a3f477d970e32b4b7900c30e41070832ace7d44"
+      },
+      {
+        "number": 3,
+        "en": "A younger kid asked if they could play a game while waiting. Jun made a simple guessing game about plants. He showed one card at a time, and the children gave its name. Someone said a horse when the picture showed a bean plant, and everyone laughed kindly. Ivy offered a small present to the group: copies of the plant notes they had worked so hard to save. The children could take them home and read them with their families. They did not need to buy anything at a store.",
+        "zh": "一個低年級孩子問等待時能不能玩遊戲。俊設計了簡單的猜植物遊戲，一次拿出一張卡，請孩子說名稱。有人看到豆苗卻猜成馬，大家善意地笑了。艾薇送給社團一份小禮物：大家努力找回的植物筆記影本。孩子可以帶回家，和家人一起閱讀，不必去商店買任何東西。",
+        "englishSha256": "4b7db68a9769d7ffa820be10e5fb5d69650e8b18fde03a0c58af4e2a39efe6b3",
+        "chineseSha256": "4d3eb26a99fac5cd85728e9c5b4e7aaea6fc7e35f30194bca7f663a890eaf2d5"
+      },
+      {
+        "number": 4,
+        "en": "The radio said the rain would probably stop by morning. Ivy knew a forecast was helpful but not a promise. Ms. Wen counted the number of tables they could use indoors if the rain continued. It was not much space, yet it was enough for the seed cards and two small pots. They would keep the path open even if visitors needed to move inside. Ivy wrote the indoor plan beside the outdoor plan. She no longer believed that changing a plan meant it had failed.",
+        "zh": "收音機說，雨大概會在早晨停下來。艾薇知道預報有用，卻不是保證。溫老師清點如果持續下雨，室內能使用的桌子數量。空間不大，但放種子卡和兩個小花盆已經足夠。即使訪客需要移到室內，他們也會保持通道暢通。艾薇把室內方案寫在戶外方案旁邊。她不再認為改變計畫就表示失敗。",
+        "englishSha256": "0f0c32289d8e76b2070afb8c84ae3c71ed4083f503a879cc932b72fc9911e7ef",
+        "chineseSha256": "05d79ea3bc371c4db07677f82f721a6fbfbf10f7abd79ca7c29d5027f3aa9040"
+      },
+      {
+        "number": 5,
+        "en": "As evening came, Jun stood beside the classroom window and watched the rain. He said the garden could not be opened by pushing the weather away. Ivy agreed. They could move tables, make copies, and tell visitors what to expect, but they could not order the sky to be clear. She wrote the time for the next morning on the group notice, checked it with Ms. Wen, and placed the paper where everyone could read it. That small, clear action made her feel ready for whatever the morning brought.",
+        "zh": "傍晚，俊站在教室窗邊看雨。他說，花園不可能靠把天氣推走就順利開放。艾薇同意。他們可以移桌子、做影本、告訴訪客可能發生什麼事，卻不能命令天空放晴。她把隔天集合的時間寫在社團公告上，先和溫老師核對，再貼到人人都看得到的地方。這個小小而清楚的動作，讓她覺得自己已準備好迎接早晨的一切。",
+        "englishSha256": "91b25a71d9dea4285bb492594b281b5a29429202b48f87035578a2ce1cfa6b10",
+        "chineseSha256": "647c96ee49fc9a80f2dd0a44fa15ac13f47d5089d803ae65d12c9526547848e1"
+      },
+      {
+        "number": 6,
+        "en": "Earlier that afternoon, the school workers had put a cover over the new path materials. A student said the garden did not look like a place ready for a party. Ivy said it looked like a place that was being cared for. She walked with Ms. Wen to the storage room, where the green box rested on its shelf. The monkey picture was still bright. The dry cards were still inside. They had found the box, learned what happened, and made a safer system. One rainy day could not take that work away.",
+        "zh": "當天下午稍早，校方工人就已替新小徑的材料蓋上罩布。一個學生說花園看起來一點都不像準備辦慶祝活動的地方。艾薇說，它看起來像有人正用心照顧的地方。她跟溫老師走到儲藏室，綠箱子安穩地放在架上。猴子的圖仍很鮮明，乾燥的卡片也仍在裡面。他們找回了箱子、釐清了經過，也建立了更安全的制度。一天雨不會抹去那些努力。",
+        "englishSha256": "0091d5c10eeb1a192ec07d313527d41a67d84cf4aa8d153cb44c43deca82c968",
+        "chineseSha256": "b18f2f9bc70cab36c9e4120f1049b072f817f8151f9af4c1bed177dd6ce0aa49"
+      },
+      {
+        "number": 7,
+        "en": "Before going home, Ivy sent a short message to the club. She thanked everyone and said they would meet at school in the morning, whatever the weather. She did not ask anyone to come early without permission or to carry heavy things. The garden could wait for safe hands. At home her mother showed her the small plant growing on the kitchen window. Its leaves were new and green. Ivy smiled. She had spent weeks learning that life could keep moving, even when plans had to change.",
+        "zh": "回家前，艾薇傳了一則簡短訊息給社團。她向所有人道謝，並說明無論天氣如何，明早都在學校集合。她沒有要求任何人未經許可提早到校，或搬運重物。花園值得等待安全的雙手。回到家，媽媽指著廚房窗邊正在長大的小植物。它的葉子又新又綠。艾薇笑了。她花了好幾星期學會：即使計畫需要改變，生命仍能繼續往前。",
+        "englishSha256": "ae8e61af9178f21e5cd06ef40a03fd636487b8fdaef97b3fac0fadcc9e223286",
+        "chineseSha256": "a9eee2c998b411c3956685333f43ec1e0fd0788a5f602b3d5488afcfab47b76c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 631,
+    "targets": [
+      {
+        "word": "across",
+        "meaning": "穿過",
+        "appearsInSource": true
+      },
+      {
+        "word": "away",
+        "meaning": "離開",
+        "appearsInSource": true
+      },
+      {
+        "word": "cellphone",
+        "meaning": "手機",
+        "appearsInSource": true
+      },
+      {
+        "word": "copy",
+        "meaning": "複本",
+        "appearsInSource": true
+      },
+      {
+        "word": "date",
+        "meaning": "日期",
+        "appearsInSource": true
+      },
+      {
+        "word": "finish",
+        "meaning": "完成",
+        "appearsInSource": true
+      },
+      {
+        "word": "game",
+        "meaning": "遊戲",
+        "appearsInSource": true
+      },
+      {
+        "word": "horse",
+        "meaning": "馬",
+        "appearsInSource": true
+      },
+      {
+        "word": "invite",
+        "meaning": "邀請",
+        "appearsInSource": true
+      },
+      {
+        "word": "item",
+        "meaning": "物品",
+        "appearsInSource": true
+      },
+      {
+        "word": "kid",
+        "meaning": "孩子",
+        "appearsInSource": true
+      },
+      {
+        "word": "kitchen",
+        "meaning": "廚房",
+        "appearsInSource": true
+      },
+      {
+        "word": "meet",
+        "meaning": "見面",
+        "appearsInSource": true
+      },
+      {
+        "word": "much",
+        "meaning": "許多",
+        "appearsInSource": true
+      },
+      {
+        "word": "number",
+        "meaning": "數量",
+        "appearsInSource": true
+      },
+      {
+        "word": "present",
+        "meaning": "禮物",
+        "appearsInSource": true
+      },
+      {
+        "word": "radio",
+        "meaning": "收音機",
+        "appearsInSource": true
+      },
+      {
+        "word": "rainy",
+        "meaning": "下雨的",
+        "appearsInSource": true
+      },
+      {
+        "word": "store",
+        "meaning": "商店",
+        "appearsInSource": true
+      },
+      {
+        "word": "yet",
+        "meaning": "尚未",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What was the club’s plan if rain continued?",
+      "options": [
+        "Use a small indoor space.",
+        "Cancel every garden lesson forever.",
+        "Carry wet signs into the road."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Use a small indoor space.",
+      "existingAnswerExplanation": "他們準備室內備案，可展示種子卡和小花盆",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "The radio said the rain would probably stop by morning. Ivy knew a forecast was helpful but not a promise. Ms. Wen counted the number of tables they could use indoors if the rain continued. It was not much space, yet it was enough for the seed cards and two small pots. They would keep the path open even if visitors needed to move inside. Ivy wrote the indoor plan beside the outdoor plan. She no longer believed that changing a plan meant it had failed.",
+          "chinese": "收音機說，雨大概會在早晨停下來。艾薇知道預報有用，卻不是保證。溫老師清點如果持續下雨，室內能使用的桌子數量。空間不大，但放種子卡和兩個小花盆已經足夠。即使訪客需要移到室內，他們也會保持通道暢通。艾薇把室內方案寫在戶外方案旁邊。她不再認為改變計畫就表示失敗。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 2,
+          "english": "Ms. Wen asked Ivy to invite the families to look at the new indoor plan. Each item on the table had a place: seed cards on one side, clean cups in the middle, and a small box for pencils near the door. Nobody had to reach across a crowded table to get what they needed. A child asked whether the rain would stop for sure. Ivy said she did not know. She showed him both plans and asked which one he wanted to help with. The child chose the indoor signs and began working.",
+          "chinese": "溫老師請艾薇邀請家長們看看新的室內方案。桌上每件物品都有位置：種子卡放一邊，乾淨的杯子放中央，門旁則放一個小鉛筆盒。任何人都不必伸手越過擁擠桌面拿東西。一個孩子問雨是不是一定會停。艾薇說不知道，接著展示兩種方案，問他想幫忙哪一種。孩子選了室內標示牌，便開始工作。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did Ivy share with the children?",
+      "options": [
+        "Copies of the saved plant notes.",
+        "A new toy car.",
+        "A box of old shoes."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Copies of the saved plant notes.",
+      "existingAnswerExplanation": "艾薇送給孩子們失而復得的植物筆記影本",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "A younger kid asked if they could play a game while waiting. Jun made a simple guessing game about plants. He showed one card at a time, and the children gave its name. Someone said a horse when the picture showed a bean plant, and everyone laughed kindly. Ivy offered a small present to the group: copies of the plant notes they had worked so hard to save. The children could take them home and read them with their families. They did not need to buy anything at a store.",
+          "chinese": "一個低年級孩子問等待時能不能玩遊戲。俊設計了簡單的猜植物遊戲，一次拿出一張卡，請孩子說名稱。有人看到豆苗卻猜成馬，大家善意地笑了。艾薇送給社團一份小禮物：大家努力找回的植物筆記影本。孩子可以帶回家，和家人一起閱讀，不必去商店買任何東西。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 5,
+          "english": "As evening came, Jun stood beside the classroom window and watched the rain. He said the garden could not be opened by pushing the weather away. Ivy agreed. They could move tables, make copies, and tell visitors what to expect, but they could not order the sky to be clear. She wrote the time for the next morning on the group notice, checked it with Ms. Wen, and placed the paper where everyone could read it. That small, clear action made her feel ready for whatever the morning brought.",
+          "chinese": "傍晚，俊站在教室窗邊看雨。他說，花園不可能靠把天氣推走就順利開放。艾薇同意。他們可以移桌子、做影本、告訴訪客可能發生什麼事，卻不能命令天空放晴。她把隔天集合的時間寫在社團公告上，先和溫老師核對，再貼到人人都看得到的地方。這個小小而清楚的動作，讓她覺得自己已準備好迎接早晨的一切。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

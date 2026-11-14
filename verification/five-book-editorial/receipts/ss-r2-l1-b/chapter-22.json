@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 22,
+  "chapterId": "ss-r2-l1-b-22",
+  "sourceChapterSha256": "0d459733219b428892272ff28b39c43bb7b647f252b02eb6e556ecf1e3de830d",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "公開食品成本與價格，增設低位置兒童價目表",
+    "previousChapterEndingEnglish": "That night, Fia read her notes and looked at the calendar. The shop would open again in the morning. The road work would begin later in the week, and the music day would come next month. She felt good because each plan had a place and a person to care for it. She no longer thought she must do every kind thing herself. A village could grow when people shared the work, and a small breakfast shop could be one warm part of that life. She closed her book, ready for the next morning.",
+    "nextChapterOpeningEnglish": "After the rain season, the village held a big art day beside the school. Fia wanted the shop to take part, but she did not expect the workers to stop making breakfast for a whole day. They chose one simple action: children could draw a star, and the shop would put the pictures on a wall. Pip wore a green cap and held the paper. Moss brought a thick book to keep the drawings flat. The first child came with bright hair ribbons and a shy smile. \"Can I make a very small star?\" she asked. \"Of course,\" Fia answered. \"Big or small, your art belongs here.\""
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Fia stood on the clean floor and looked at a new price board by the glass window. She wanted every customer to see the price before buying food. A young engineer from the road team had helped make the board stand straight. \"You have the ability to change the numbers when food costs change,\" he said. \"You do not need to make a new board each time.\" Fia thanked him. She was hungry after working all morning, but she waited until Moss was ready to take a break. They would sit down and eat together, just as they had promised during the storm. She asked the engineer to wait until all the workers could see the new board, so nobody would have to guess where the numbers were kept.",
+        "zh": "菲雅站在乾淨地板上，看著玻璃窗旁的新價格板。她希望每位客人在買食物前都能看到價格。修路團隊的年輕工程師幫她把板子裝穩。「食材成本變時，妳可以改數字，」他說，「不必每次重做一塊板。」菲雅謝謝他。她工作整個早上後很餓，但仍等莫斯準備休息才一起坐下吃飯，就像暴風雨時答應的那樣。 她請工程師等所有工作者都看到新板子後再離開，這樣大家便不必猜數字放在哪裡。",
+        "englishSha256": "95f9ff061beccdc19beab3dacdc656d9addb6a7e23b5511df10292d3df8b8e1e",
+        "chineseSha256": "b4d611833f6a16e3ec39b5a37330d95f72f9b898e7e2fa7a141350a4f23a56b5"
+      },
+      {
+        "number": 2,
+        "en": "Pip came from the garden with a dead flower in one hand and a bag of clean clothes in the other. The flower had not grown well near the wet wall. \"I am a little mad at myself,\" he said. \"I should have moved it before the rain.\" Fia did not tell him the loss was nothing. She knew he cared about every plant. \"We can learn from this one,\" she said. \"Draw where it stood, and write down how much water was there.\" Pip nodded. There were a lot of other plants still growing well. One loss could teach him how to care for them.",
+        "zh": "皮普從花園走來，一手拿著枯死的花，一手提著乾淨衣物。他說那株花在濕牆邊長得不好。「我有點生自己的氣，」他說，「雨前應該移走它。」菲雅沒有說這不算什麼，她知道皮普重視每株植物。「我們能從它身上學習，」她說，「畫下它原來的位置，再記錄那裡有多少水。」皮普點頭。花園還有很多植物長得好，一次損失也能教他更好地照顧其他植物。",
+        "englishSha256": "eda94eebee38a45905b0a27e3ff28370902354ee3a9d18d255bd4fdcdf9cef55",
+        "chineseSha256": "05130e2b9a3254d29c0623dabee3f7856adf9eb97ecf4d118fdf60818299dc00"
+      },
+      {
+        "number": 3,
+        "en": "In the afternoon, a public group of school children visited to study simple mathematics. Their teacher had asked for a real example of price and cost. Fia put three cups on the table and wrote numbers beside them. \"These are pretend meals,\" she said. \"This one costs two coins to make. We ask three coins for it.\" The children used math to see what was left for cleaning and other work. A boy raised his hand. \"Does the shop keep all the money?\" Fia shook her head. \"No. We must pay for food, tools, and the people who work here.\"",
+        "zh": "下午，一群學校孩子來學習簡單數學。老師想找價格和成本的真實例子。菲雅在桌上放了三只杯子，旁邊寫數字。「這些是假裝的餐點，」她說，「這份做出來要兩枚硬幣，售價三枚。」孩子們用數學看剩下多少錢能支付清潔和其他工作。一個男孩舉手：「店會把所有錢都留下嗎？」菲雅搖頭。「不，我們得付食材、工具，以及在這裡工作的人。」",
+        "englishSha256": "d2570d534ef395c308acb6f9c99df949ec7014f46038fe5b60b4389d3258545c",
+        "chineseSha256": "d6b0be54ba9d7b9010b8d215ab3d0ea12b32d7a567fbfaa838ad9cf29468d6d0"
+      },
+      {
+        "number": 4,
+        "en": "The children looked around the room. Near the door hung a little picture of a sun goddess from an old village story. The teacher explained that it was art, not a rule about the weather. \"People long ago drew many kinds of pictures,\" she said. Fia liked the painting because it made the room feel bright. She told the children that the real sun was outside, and the kitchen still needed windows and safe lights. The group laughed and went back to their work. They had learned something about numbers and something about how stories could live beside daily life.",
+        "zh": "孩子們看著房間。門旁掛著一張古老村莊故事裡的太陽女神畫像。老師說那是藝術，不是控制天氣的規則。「很久以前的人畫過各式各樣的圖。」她說。菲雅喜歡那幅畫，因為它讓房間顯得明亮。她告訴孩子，真正的太陽在外面，廚房仍需要窗戶與安全照明。大家笑了，繼續學習。他們既學到數字，也看見故事如何與日常生活並存。",
+        "englishSha256": "03e2e804d75747a55a999f17edea66092841337cac862ee5d8bb73e4064e3c2c",
+        "chineseSha256": "5f5afed200da5e5be473519104e59544a7123525f9026f842a2090ea54e45c53"
+      },
+      {
+        "number": 5,
+        "en": "Later, a visitor asked if the price board could be made lower for children to read. Fia looked at it. The numbers were clear for adults, but too high for small guests. She asked the engineer for help. He said they could put a second copy on the table without changing the large board. Pip made the copy on paper, and the teacher checked the numbers. Fia put it where people could sit and read. She wanted the shop to be easy to use for as many neighbors as possible, not just those who could reach the highest shelf.",
+        "zh": "稍晚，有訪客問能不能把價目板放低一點，讓孩子也看得見。菲雅一看，數字對成人清楚，對小客人卻太高。她請工程師幫忙。對方建議不用動大板，只要在桌上放第二份。皮普做了紙本，老師再核對數字。菲雅把它放在可以坐著看的地方。她想讓盡可能多的鄰居都能使用小店，而不是只有碰得到最高架子的人。",
+        "englishSha256": "e708b44d5a133b3e8bb7ecc17e0036ef3c2f680bbe27436db142870a5df07e4c",
+        "chineseSha256": "b272b5d38690818b31fdeacf0ab17c843d91e6eb78a576af0ab512a7b53c1393"
+      },
+      {
+        "number": 6,
+        "en": "When the visitors left, Fia was tired but happy. She thought about the simple thing they had done: put the price where people could see it. Nothing great had happened, yet the room felt more open. Pip put the drawing of the dead flower in his garden book. \"I will try a new place later,\" he said. Fia nodded. She understood that work was not about never losing anything. It was about learning, making careful choices, and giving people clear information. She shut the window before the evening air became cold.",
+        "zh": "訪客離開時，菲雅疲倦卻快樂。她想著今天做的一件簡單事情：把價格放在大家看得見的位置。沒有什麼驚天大事，房間卻顯得更開放。皮普把枯花的圖收進花園本子。「之後我要換個地方再種。」他說。菲雅點頭。她明白工作不是永遠不失去東西，而是持續學習、細心選擇，並提供清楚資訊。她在晚風轉冷前關上窗戶。",
+        "englishSha256": "a44241fe6171e036549a51c85025403aff682577fdb4d871a80891f342653388",
+        "chineseSha256": "ef8ef24088a2121de0ca41dce1fc5a5af0fb4166cce68f9711f245962b8ea819"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 625,
+    "targets": [
+      {
+        "word": "ability",
+        "meaning": "能力",
+        "appearsInSource": true
+      },
+      {
+        "word": "clothes",
+        "meaning": "衣服",
+        "appearsInSource": true
+      },
+      {
+        "word": "dead",
+        "meaning": "枯死的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Draw",
+        "meaning": "畫",
+        "appearsInSource": true
+      },
+      {
+        "word": "engineer",
+        "meaning": "工程師",
+        "appearsInSource": true
+      },
+      {
+        "word": "floor",
+        "meaning": "地板",
+        "appearsInSource": true
+      },
+      {
+        "word": "glass",
+        "meaning": "玻璃",
+        "appearsInSource": true
+      },
+      {
+        "word": "goddess",
+        "meaning": "女神",
+        "appearsInSource": true
+      },
+      {
+        "word": "hungry",
+        "meaning": "餓的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Later",
+        "meaning": "稍後",
+        "appearsInSource": true
+      },
+      {
+        "word": "lot",
+        "meaning": "許多",
+        "appearsInSource": true
+      },
+      {
+        "word": "mad",
+        "meaning": "生氣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mathematics",
+        "meaning": "數學",
+        "appearsInSource": true
+      },
+      {
+        "word": "on",
+        "meaning": "在……上",
+        "appearsInSource": true
+      },
+      {
+        "word": "price",
+        "meaning": "價格",
+        "appearsInSource": true
+      },
+      {
+        "word": "public",
+        "meaning": "公共的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sit",
+        "meaning": "坐下",
+        "appearsInSource": true
+      },
+      {
+        "word": "These",
+        "meaning": "這些",
+        "appearsInSource": true
+      },
+      {
+        "word": "thing",
+        "meaning": "事物",
+        "appearsInSource": true
+      },
+      {
+        "word": "wait",
+        "meaning": "等待",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why do the children visit the shop?",
+      "options": [
+        "To study costs and prices",
+        "To fix the roof",
+        "To swim in the pond"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To study costs and prices",
+      "existingAnswerExplanation": "老師用早餐店的價格與成本作為數學課例子。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "In the afternoon, a public group of school children visited to study simple mathematics. Their teacher had asked for a real example of price and cost. Fia put three cups on the table and wrote numbers beside them. \"These are pretend meals,\" she said. \"This one costs two coins to make. We ask three coins for it.\" The children used math to see what was left for cleaning and other work. A boy raised his hand. \"Does the shop keep all the money?\" Fia shook her head. \"No. We must pay for food, tools, and the people who work here.\"",
+          "chinese": "下午，一群學校孩子來學習簡單數學。老師想找價格和成本的真實例子。菲雅在桌上放了三只杯子，旁邊寫數字。「這些是假裝的餐點，」她說，「這份做出來要兩枚硬幣，售價三枚。」孩子們用數學看剩下多少錢能支付清潔和其他工作。一個男孩舉手：「店會把所有錢都留下嗎？」菲雅搖頭。「不，我們得付食材、工具，以及在這裡工作的人。」",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 5,
+          "english": "Later, a visitor asked if the price board could be made lower for children to read. Fia looked at it. The numbers were clear for adults, but too high for small guests. She asked the engineer for help. He said they could put a second copy on the table without changing the large board. Pip made the copy on paper, and the teacher checked the numbers. Fia put it where people could sit and read. She wanted the shop to be easy to use for as many neighbors as possible, not just those who could reach the highest shelf.",
+          "chinese": "稍晚，有訪客問能不能把價目板放低一點，讓孩子也看得見。菲雅一看，數字對成人清楚，對小客人卻太高。她請工程師幫忙。對方建議不用動大板，只要在桌上放第二份。皮普做了紙本，老師再核對數字。菲雅把它放在可以坐著看的地方。她想讓盡可能多的鄰居都能使用小店，而不是只有碰得到最高架子的人。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Fia add a second price board?",
+      "options": [
+        "Small children cannot see the high one well",
+        "The old one is red",
+        "The engineer needs a new job"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Small children cannot see the high one well",
+      "existingAnswerExplanation": "第二張放在較低處，讓兒童也能方便閱讀。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Later, a visitor asked if the price board could be made lower for children to read. Fia looked at it. The numbers were clear for adults, but too high for small guests. She asked the engineer for help. He said they could put a second copy on the table without changing the large board. Pip made the copy on paper, and the teacher checked the numbers. Fia put it where people could sit and read. She wanted the shop to be easy to use for as many neighbors as possible, not just those who could reach the highest shelf.",
+          "chinese": "稍晚，有訪客問能不能把價目板放低一點，讓孩子也看得見。菲雅一看，數字對成人清楚，對小客人卻太高。她請工程師幫忙。對方建議不用動大板，只要在桌上放第二份。皮普做了紙本，老師再核對數字。菲雅把它放在可以坐著看的地方。她想讓盡可能多的鄰居都能使用小店，而不是只有碰得到最高架子的人。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 3,
+          "english": "In the afternoon, a public group of school children visited to study simple mathematics. Their teacher had asked for a real example of price and cost. Fia put three cups on the table and wrote numbers beside them. \"These are pretend meals,\" she said. \"This one costs two coins to make. We ask three coins for it.\" The children used math to see what was left for cleaning and other work. A boy raised his hand. \"Does the shop keep all the money?\" Fia shook her head. \"No. We must pay for food, tools, and the people who work here.\"",
+          "chinese": "下午，一群學校孩子來學習簡單數學。老師想找價格和成本的真實例子。菲雅在桌上放了三只杯子，旁邊寫數字。「這些是假裝的餐點，」她說，「這份做出來要兩枚硬幣，售價三枚。」孩子們用數學看剩下多少錢能支付清潔和其他工作。一個男孩舉手：「店會把所有錢都留下嗎？」菲雅搖頭。「不，我們得付食材、工具，以及在這裡工作的人。」",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

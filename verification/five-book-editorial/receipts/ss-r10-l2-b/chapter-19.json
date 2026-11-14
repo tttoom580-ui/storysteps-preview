@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 19,
+  "chapterId": "ss-r10-l2-b-19",
+  "sourceChapterSha256": "4b772c0d7eda19f4a2ca9da1b2af3759375e3c9b2ec42464f2d1142f80a59ba3",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "前員工要求所有錄音遭拒，轉而錄自己找橘子的故事",
+    "previousChapterEndingEnglish": "Outside the gate, Evan said he had learned a painful lesson about control. May answered that wanting good work was not wrong; believing he had to control every result was the problem. He asked if she would still go for a walk with him after the weekend. She said yes, but this time she suggested the place: a path along the river where they could hear real water instead of a recording. He agreed without trying to improve the plan. She noticed the effort and reached for his hand first.",
+    "nextChapterOpeningEnglish": "The central committee received a new offer from a businessman who owned a large chain of shops. He spoke of a billion views as if every recording were a prize waiting to become famous. He promised to fix the hall and pay for major equipment, but wanted a secret right to use the files in future advertisements. May refused immediately. Evan asked the group to study the full contract before any decision. He had learned that a good offer could still cause pain when its conditions reached beyond the people who accepted it. The room grew quiet as the committee read the small print."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The latest difficulty began with an email from a former employee of the market. He asked to download every recording so he could make a private collection for his children. May explained that the project could not send files belonging to other speakers. The man replied that he had helped with many events and should be treated like a guest of honor. Evan joined the discussion and described the policy in plain words. Being part of the market did not give anyone automatic permission to copy another person's voice. The rule was necessary to protect everybody, including the man who was asking.",
+        "zh": "最新的難題來自市場前員工的電子郵件。他希望下載全部錄音，給孩子製作私人收藏。慧解釋，團隊不能寄出屬於其他說話者的檔案。男子回信說，他協助過許多活動，理應被當成貴賓。安澤加入討論，用簡明文字描述政策。參與過市場生活，不代表自動獲得複製別人聲音的許可。這條規則有必要保護每一個人，也包括提出要求的男子。",
+        "englishSha256": "2fc4132a5f2d53a9f88f914fa217ef452d6305fcb7c612f83cf3fb0b722b846d",
+        "chineseSha256": "74fa477aabac2c47353d2b49e2cc73228a2b9dc037f55f2b03d6c509c3569f8f"
+      },
+      {
+        "number": 2,
+        "en": "The man came to the office the next day carrying pizza and saying he had not meant to cause trouble. He had been alone since his wife moved to another city for work and missed the old sounds. May listened carefully. She offered to help him request copies from individual speakers who wished to share. He could also listen to approved recordings in the public room. It was an effective solution for some, but not all, of his wishes. Evan could see the struggle on the man's face. He was trying to hold on to a place that had changed without asking him.",
+        "zh": "隔天男子帶著披薩來到辦公室，說他並非有意惹麻煩。妻子到另一個城市工作後，他常常獨自一人，很想念從前的聲音。慧仔細聽。她願意協助他逐一向想分享的說話者申請副本；他也可以在公共聆聽室收聽已核准的內容。這能有效滿足部分願望，卻不是全部。安澤看出男子內心掙扎。他正努力留住一個沒有詢問他就改變了的地方。",
+        "englishSha256": "1ad24104391a49f875259d5c207afd68e214b926444942227388feec15b65f6e",
+        "chineseSha256": "28f3156c1d7059e830bd2b10abadbda2f20f9c2a04500163aa1b19f4a628b444"
+      },
+      {
+        "number": 3,
+        "en": "A delivery worker arrived with a box of new floor mats for the listening room. She complained of a toothache, so Mrs. Fen directed her to a nearby clinic instead of asking her to keep working. May helped sign the receipt and checked that the mats would not block the exit. The man watched as everyone stopped what they were doing to help someone who was hurting. Later, he said the market he remembered had been full of such small acts. He wanted that feeling more than the files themselves. May suggested recording his own story, if he wished.",
+        "zh": "一位送貨員送來聆聽室的新地墊。她說牙痛，芬姨便指引她到附近診所，沒有要求她繼續工作。慧幫忙簽收，確認地墊不會擋住出口。男子看見所有人暫停手邊工作，去幫助不舒服的人。稍後他說，記憶中的市場到處都有這些小事。他想留住那種感覺，甚至多過那些檔案。慧提議，若他願意，也可以錄下自己的故事。",
+        "englishSha256": "a53f97f98ff3bdbd260abadc3747388e58048f2ffa9eb5ffdc139edcf4d4fb66",
+        "chineseSha256": "c191b696073d2d692d00f5fc51c4e6712055301bad33fe9fb0d7ceee60c6d999"
+      },
+      {
+        "number": 4,
+        "en": "He spoke about a traditional morning prayer he used to hear from his neighbor, but said he would not record the prayer without asking the neighbor. Evan thanked him for understanding. The man then told a funny story about losing a basket of oranges and finding it in his own truck. May asked whether he wanted it shared. He agreed to one local playback and to a written version he could review. For the first time, he was the owner of a story in the project rather than a person asking to take other people's recordings.",
+        "zh": "他談起以前常聽見鄰居做傳統晨禱，卻說沒有詢問鄰居，就不會錄下那段禱詞。安澤謝謝他的理解。男子接著講了一個笑話：他曾以為弄丟一籃橘子，最後卻在自己的貨車裡找到。慧問是否願意分享。他同意只在本地播放一次，並先看過文字版本。這一次，他不再只是想索取他人錄音的人，而成為計畫中真正的故事主人。",
+        "englishSha256": "fe53c6c36e230c5fbb5263bea67eded14b06fdc416da8db3b162df543d540e3a",
+        "chineseSha256": "f3e803070ff55dac09c693056caeb1992c4a7eaa5eb4d118d2ddea3b9162151e"
+      },
+      {
+        "number": 5,
+        "en": "The former worker asked May to describe the process for getting a personal copy of his own recording. She showed him the request form and explained that the effect of approval would be limited to the file he had made. Evan placed a clean mat near the interview table so visitors could sit without stepping onto the damp floor. The man looked at the improved room and said he remembered the old market as a place where neighbors helped without counting favors. May asked whether that memory belonged in his new recording. He smiled and said yes. They recorded the story in one take, and he listened to it before signing anything. It was not a perfect performance. He paused twice, forgot a word, and laughed at himself. May kept the pauses because he asked her to, and because they were part of the man she had met.",
+        "zh": "前員工請慧描述取得自己錄音副本的流程。慧拿出申請表，解釋核准的效力只限他自己製作的檔案。安澤在訪談桌旁放一張乾淨地墊，讓訪客不必踩過潮濕地板。男子看著改善後的房間，說他記憶中的老市場，是鄰居相助而不計較人情的地方。慧問這段記憶能不能放進新錄音。他笑著答應。他們一次錄完，男子先聽過才簽任何東西。這不是完美演出：他停頓兩次、忘了一個字，還笑自己。慧依他的希望保留停頓，因為那也是她見到的這個人一部分。",
+        "englishSha256": "8ae4eedb0e6fce821f6b522d7146cec787903b26853bf421b90fb6c8374b12bf",
+        "chineseSha256": "72e0332e564aad3f6151c9756a2205a3d2e740b10ecd9be482278c51e37eb073"
+      },
+      {
+        "number": 6,
+        "en": "After he left, Evan told May that she had a remarkable way of finding a person's real need beneath a difficult request. She said she had learned from him to make the limits clear before offering help. They looked over the requests still waiting in their folder. Some were simple, some painful, and none would disappear because the festival ended. The committee needed a permanent contact system. May wrote the task for the next meeting. Then she closed the folder and asked Evan to tell her one thing about his day that had nothing to do with work.",
+        "zh": "男子離開後，安澤說慧很擅長找出困難要求背後真正的需要。慧說，她也從他身上學會先說清限制，再提供協助。兩人看著資料夾裡尚待處理的申請。有些簡單，有些難受，而這些問題不會隨節慶結束而消失。委員會需要永久聯絡制度。慧把它記成下次會議的任務，隨後闔上資料夾，請安澤說一件今天與工作完全無關的事。",
+        "englishSha256": "1177fc0dcb9b38a972b4d108b07d1ee7cfa92445c6d0d6dcba9487d2a5e17d25",
+        "chineseSha256": "fef012393cd437573d77a882afe9de0ab0fa695de53db450ec469e7f2ae2c29c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 646,
+    "targets": [
+      {
+        "word": "alone",
+        "meaning": "獨自地",
+        "appearsInSource": true
+      },
+      {
+        "word": "delivery",
+        "meaning": "運送",
+        "appearsInSource": true
+      },
+      {
+        "word": "describe",
+        "meaning": "描述",
+        "appearsInSource": true
+      },
+      {
+        "word": "difficulty",
+        "meaning": "困難",
+        "appearsInSource": true
+      },
+      {
+        "word": "discussion",
+        "meaning": "討論",
+        "appearsInSource": true
+      },
+      {
+        "word": "download",
+        "meaning": "下載",
+        "appearsInSource": true
+      },
+      {
+        "word": "effect",
+        "meaning": "影響",
+        "appearsInSource": true
+      },
+      {
+        "word": "effective",
+        "meaning": "有效的",
+        "appearsInSource": true
+      },
+      {
+        "word": "employee",
+        "meaning": "員工",
+        "appearsInSource": true
+      },
+      {
+        "word": "guest",
+        "meaning": "來賓",
+        "appearsInSource": true
+      },
+      {
+        "word": "latest",
+        "meaning": "最新的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mat",
+        "meaning": "地墊",
+        "appearsInSource": true
+      },
+      {
+        "word": "necessary",
+        "meaning": "必要的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pizza",
+        "meaning": "披薩",
+        "appearsInSource": true
+      },
+      {
+        "word": "policy",
+        "meaning": "政策",
+        "appearsInSource": true
+      },
+      {
+        "word": "prayer",
+        "meaning": "祈禱",
+        "appearsInSource": true
+      },
+      {
+        "word": "protect",
+        "meaning": "保護",
+        "appearsInSource": true
+      },
+      {
+        "word": "struggle",
+        "meaning": "掙扎",
+        "appearsInSource": true
+      },
+      {
+        "word": "toothache",
+        "meaning": "牙痛",
+        "appearsInSource": true
+      },
+      {
+        "word": "traditional",
+        "meaning": "傳統的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why could the former worker not download every file?",
+      "options": [
+        "Other speakers had not given that permission",
+        "The internet was broken",
+        "He lived too far away"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Other speakers had not given that permission",
+      "existingAnswerExplanation": "錄音的使用權屬個別說話者，不因他曾是員工就能全部複製。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The latest difficulty began with an email from a former employee of the market. He asked to download every recording so he could make a private collection for his children. May explained that the project could not send files belonging to other speakers. The man replied that he had helped with many events and should be treated like a guest of honor. Evan joined the discussion and described the policy in plain words. Being part of the market did not give anyone automatic permission to copy another person's voice. The rule was necessary to protect everybody, including the man who was asking.",
+          "chinese": "最新的難題來自市場前員工的電子郵件。他希望下載全部錄音，給孩子製作私人收藏。慧解釋，團隊不能寄出屬於其他說話者的檔案。男子回信說，他協助過許多活動，理應被當成貴賓。安澤加入討論，用簡明文字描述政策。參與過市場生活，不代表自動獲得複製別人聲音的許可。這條規則有必要保護每一個人，也包括提出要求的男子。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 2,
+          "english": "The man came to the office the next day carrying pizza and saying he had not meant to cause trouble. He had been alone since his wife moved to another city for work and missed the old sounds. May listened carefully. She offered to help him request copies from individual speakers who wished to share. He could also listen to approved recordings in the public room. It was an effective solution for some, but not all, of his wishes. Evan could see the struggle on the man's face. He was trying to hold on to a place that had changed without asking him.",
+          "chinese": "隔天男子帶著披薩來到辦公室，說他並非有意惹麻煩。妻子到另一個城市工作後，他常常獨自一人，很想念從前的聲音。慧仔細聽。她願意協助他逐一向想分享的說話者申請副本；他也可以在公共聆聽室收聽已核准的內容。這能有效滿足部分願望，卻不是全部。安澤看出男子內心掙扎。他正努力留住一個沒有詢問他就改變了的地方。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What story did the former worker later record?",
+      "options": [
+        "Finding lost oranges in his own truck",
+        "Winning a school race",
+        "Buying a new microphone"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Finding lost oranges in his own truck",
+      "existingAnswerExplanation": "他自願錄下以為橘子丟了，結果在自己貨車找到的趣事。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "He spoke about a traditional morning prayer he used to hear from his neighbor, but said he would not record the prayer without asking the neighbor. Evan thanked him for understanding. The man then told a funny story about losing a basket of oranges and finding it in his own truck. May asked whether he wanted it shared. He agreed to one local playback and to a written version he could review. For the first time, he was the owner of a story in the project rather than a person asking to take other people's recordings.",
+          "chinese": "他談起以前常聽見鄰居做傳統晨禱，卻說沒有詢問鄰居，就不會錄下那段禱詞。安澤謝謝他的理解。男子接著講了一個笑話：他曾以為弄丟一籃橘子，最後卻在自己的貨車裡找到。慧問是否願意分享。他同意只在本地播放一次，並先看過文字版本。這一次，他不再只是想索取他人錄音的人，而成為計畫中真正的故事主人。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 3,
+          "english": "A delivery worker arrived with a box of new floor mats for the listening room. She complained of a toothache, so Mrs. Fen directed her to a nearby clinic instead of asking her to keep working. May helped sign the receipt and checked that the mats would not block the exit. The man watched as everyone stopped what they were doing to help someone who was hurting. Later, he said the market he remembered had been full of such small acts. He wanted that feeling more than the files themselves. May suggested recording his own story, if he wished.",
+          "chinese": "一位送貨員送來聆聽室的新地墊。她說牙痛，芬姨便指引她到附近診所，沒有要求她繼續工作。慧幫忙簽收，確認地墊不會擋住出口。男子看見所有人暫停手邊工作，去幫助不舒服的人。稍後他說，記憶中的市場到處都有這些小事。他想留住那種感覺，甚至多過那些檔案。慧提議，若他願意，也可以錄下自己的故事。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

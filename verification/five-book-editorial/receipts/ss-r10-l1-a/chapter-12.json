@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 12,
+  "chapterId": "ss-r10-l1-a-12",
+  "sourceChapterSha256": "197793b4213d2c0064d6b685d6682cd23622473685eada667c2271286341f954",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "地球模型標城鎮，使用安全紙片代替鹽粒",
+    "previousChapterEndingEnglish": "In the late afternoon, Arun said the fan had been repaired and checked by the worker. Nia asked whether the room could be used the next day, not just whether the air felt warm now. Arun showed her the service note and the date of the check. \"Good,\" she said. She did not want to guess about safety. At home she made a simple plan for cold days: contact families, offer an indoor backup room, and write down the change. She had begun the six weeks thinking only about the stars. Now she understood that keeping a class open meant looking after much more than the lesson itself.",
+    "nextChapterOpeningEnglish": "On Monday, Mr. Hale told Nia that a city hotel had asked to use the center room on Saturdays. The hotel could pay more money than the star class. Nia felt worried. The room was small, but it had become important to everyone who came. \"Is there a rule about who gets the space?\" she asked. Mr. Hale said the city had a public-use rule: a new business could not simply take a room that people were already using. The center needed to review both requests. Nia asked what information the board would need. \"Your class record,\" he said. \"And a clear plan for the weeks ahead.\""
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The center reopened, and Nia set a large picture of the solar system on the wall. Ada rode her bicycle to the library to borrow a second book. When she returned, she found Finn and Tomas looking at a model of Earth. Tomas said, \"I can feel the raised land on this ball, but where does our town belong?\" Nia placed a small soft dot on the model and said it stood for their home. \"The planet is much bigger than this,\" she explained. \"The dot is not the real size of our town. It only helps us know where we are.\" Finn asked if he could pick a place for the moon as well.",
+        "zh": "中心重新開放，妮雅在牆上貼出一張大型太陽系圖。艾達騎腳踏車去圖書館借第二本書。回來時，她看見芬恩和托馬斯正在摸一個地球模型。托馬斯說：「我摸得到球上凸起的陸地，但我們的鎮在哪裡？」妮雅在模型上貼一個小軟點，代表大家的家。「真正的行星比這個大得多，」她解釋，「這個點不是城鎮的真實大小，只是幫我們知道位置。」芬恩問，他可不可以也替月亮選一個位置。",
+        "englishSha256": "1ee81c5ea16d0363a0dd474b0cc936f36e600d34c02f63c92c5723fb988599b8",
+        "chineseSha256": "fcd90c4df50705e828be116e8b672d4a09c475bc06f64665047926138d2cc781"
+      },
+      {
+        "number": 2,
+        "en": "Nia asked the class to make their own simple space maps from paper. She did not want every page to look the same. Some children drew circles; others made raised dots. Ada used a second lamp to show which side of Earth received light. Then a child wanted to use salt as tiny stars. Nia said salt could fall into the lamp and make a mess, so they would use small paper bits instead. \"That is a good answer,\" Tomas said. \"It tells me why, not only no.\" Nia smiled. She was learning a new language of teaching: say what people can do, and explain a limit clearly.",
+        "zh": "妮雅請大家用紙做自己的簡單太空地圖。她不希望每一頁都一模一樣。有些孩子畫圓，有些人貼上能摸到的小點。艾達用第二盞燈示範地球的哪一側會接收到光。一個孩子想用鹽粒當星星。妮雅說，鹽可能掉進燈裡弄得到處都是，所以改用小紙片。「這個回答很好，」托馬斯說，「妳告訴我原因，不是只說不行。」妮雅笑了。她正在學一種新的教學語言：說明大家能怎麼做，也清楚解釋限制。",
+        "englishSha256": "999a002abfe1848539ed50141e36fa3f50d5df678098c352a6686e65dbe5ccdc",
+        "chineseSha256": "99e12e6fcfb9b5264d31f3b95c9120d98a902af4f8ccd363feb52c73a31eed46"
+      },
+      {
+        "number": 3,
+        "en": "At the break, Nia asked Mrs. Sol what she wished to learn next. Mrs. Sol said she wanted to see how the sky changed from one season to another. \"In spring, I see one bright star near my window,\" she said. \"In winter, I notice a different one.\" Ada explained that the wind and weather could change what they saw on a certain night, and Earth's movement mattered over the year. Nia kept the explanation short. \"We will learn more soon,\" she said. \"For now, it is enough to know that one night cannot show us everything.\" Mrs. Sol nodded and added the question to the class board.",
+        "zh": "休息時，妮雅問索爾奶奶接下來最想學什麼。奶奶說，她想知道天空如何隨季節改變。「春天時，我在窗邊看見一顆亮星，」她說，「冬天則會注意到另一顆。」艾達解釋，風和天氣會影響某一夜能看到的東西，而地球一年裡的運動也很重要。妮雅讓說明保持簡短。「我們很快會再學，」她說，「現在只需要知道，一個晚上無法讓我們看見全部。」奶奶點頭，把這個問題加入課堂板上。",
+        "englishSha256": "b13b348b1cf2e6a86d9b627f192fd13c6db7fb35fd2d4f5710f5decc8d5cb452",
+        "chineseSha256": "a2ec4618130e54138571e1556034bbf3ae4ce95ff07a8e949ea0726ac0def131"
+      },
+      {
+        "number": 4,
+        "en": "A student asked why the center could not simply buy a large telescope. Nia said that they had only a little money and that they did not need a big machine to understand the shape of the moon. She held up the first week's paper cup. \"We began with this,\" she said. \"We can still ask big questions with small tools.\" Finn made a small bow, as if the cup were a great teacher. Everyone laughed. Tomas touched the holes in the cup and said he understood why three dots had appeared on the wall. The class was connecting an old lesson with a new one without needing a new prize or a costly object.",
+        "zh": "有學生問，中心為什麼不直接買一座大型望遠鏡。妮雅說，經費很少，而且要了解月亮的形狀，不需要那麼大的機器。她拿起第一週的紙杯。「我們是從這個開始的，」她說，「小工具也能用來問大問題。」芬恩像向偉大的老師致敬一樣，對紙杯鞠了一躬，大家都笑了。托馬斯摸摸杯上的小孔，說他現在懂了為什麼牆上會出現三個光點。班上不靠新獎品或昂貴器材，就把舊課和新課連接起來。",
+        "englishSha256": "fe90f388b1f85b9feb7f70a1b3d42438f086d566ff2138a6c6a9b853f9c67591",
+        "chineseSha256": "5c167ff4fa7e3809e56554e4dcd458f310fcd9a640c416d41770ff41183ffc0e"
+      },
+      {
+        "number": 5,
+        "en": "Ada had worn jeans because she planned to carry the heavy paper box. She pointed to her body and asked the children to name things they used when learning: eyes, hands, ears, and minds. Tomas said, \"My hands help me read this map, but the question is mine to ask.\" Nia agreed. The tools belonged to the group, but each learner owned the choice to ask or to pass. A quiet child said her wish was to see a real planet through a telescope someday. Nia said that was a fine wish, though they could not promise a telescope during this trial. They could begin with the model now and learn the words they would need later. The girl wrote her wish on a card and kept it in her own folder.",
+        "zh": "艾達今天穿牛仔褲，因為打算搬沉重的紙箱。她指著身體，請孩子說出學習時會用到哪些部分：眼睛、手、耳朵和頭腦。托馬斯說：「我的手幫我讀地圖，但提問題是我自己的事。」妮雅同意。工具屬於團體，每位學員卻有權選擇發問或暫時不答。一個安靜的女孩說，她的願望是有一天能從望遠鏡看見真正的行星。妮雅說那是很好的願望，雖然試辦期間無法保證有望遠鏡，現在可以先用模型、學未來會用到的詞。女孩把願望寫在卡片上，放進自己的資料夾。",
+        "englishSha256": "1f1a877c2706acfaee553c62b7cbb1ba475a9233afb37901a9ffb6b8e9d200fb",
+        "chineseSha256": "eb66e67fbe75f6def98c5120981aac9d7ea322b8a9944bfc8ed3f7e043711163"
+      },
+      {
+        "number": 6,
+        "en": "Before leaving, Nia gave each student two questions to think about. One was: What do we learn from a model? The other was: What can a model not show? She wanted honest answers, even if the children said they did not know. Ada packed the paper maps in a box and took the borrowed book back to the library. She told Nia that the class was growing more careful. \"At first, they wanted the biggest light,\" she said. \"Now they ask whether the light is right for the question.\" Nia was glad. Learning science was becoming less about being amazed and more about finding a way to ask and check.",
+        "zh": "離開前，妮雅給每位學生兩個思考問題：模型能教我們什麼？模型又有哪些事無法呈現？她希望得到誠實的答案，即使孩子們說不知道也沒關係。艾達把紙地圖放進箱子，將借來的書還回圖書館。她告訴妮雅，班上越來越仔細了。「一開始大家只想要最亮的燈，」她說，「現在會問這盞燈適不適合回答問題。」妮雅很高興。學科學逐漸不再只是驚嘆，而是尋找提問和查證的方法。",
+        "englishSha256": "d7d4bdd695502e06d4e50aada55f4c4e0e98fdcfb4a8407279b059d680eeca28",
+        "chineseSha256": "e71abb78e5ae4e2df2984b86b1a5c6122fbcd722b0b6e3407b04b1d786a783f6"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 688,
+    "targets": [
+      {
+        "word": "answer",
+        "meaning": "回答",
+        "appearsInSource": true
+      },
+      {
+        "word": "bicycle",
+        "meaning": "自行車",
+        "appearsInSource": true
+      },
+      {
+        "word": "body",
+        "meaning": "身體",
+        "appearsInSource": true
+      },
+      {
+        "word": "bow",
+        "meaning": "鞠躬",
+        "appearsInSource": true
+      },
+      {
+        "word": "jeans",
+        "meaning": "牛仔褲",
+        "appearsInSource": true
+      },
+      {
+        "word": "language",
+        "meaning": "語言",
+        "appearsInSource": true
+      },
+      {
+        "word": "mine",
+        "meaning": "我的",
+        "appearsInSource": true
+      },
+      {
+        "word": "of",
+        "meaning": "……的",
+        "appearsInSource": true
+      },
+      {
+        "word": "own",
+        "meaning": "自己的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pick",
+        "meaning": "拿起",
+        "appearsInSource": true
+      },
+      {
+        "word": "planet",
+        "meaning": "地球／行星",
+        "appearsInSource": true
+      },
+      {
+        "word": "salt",
+        "meaning": "鹽",
+        "appearsInSource": true
+      },
+      {
+        "word": "say",
+        "meaning": "說",
+        "appearsInSource": true
+      },
+      {
+        "word": "second",
+        "meaning": "第二次",
+        "appearsInSource": true
+      },
+      {
+        "word": "so",
+        "meaning": "所以",
+        "appearsInSource": true
+      },
+      {
+        "word": "Some",
+        "meaning": "一些",
+        "appearsInSource": true
+      },
+      {
+        "word": "soon",
+        "meaning": "很快",
+        "appearsInSource": true
+      },
+      {
+        "word": "spring",
+        "meaning": "春天",
+        "appearsInSource": true
+      },
+      {
+        "word": "wind",
+        "meaning": "風",
+        "appearsInSource": true
+      },
+      {
+        "word": "wish",
+        "meaning": "希望",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does the soft dot on the Earth model show?",
+      "options": [
+        "A new star.",
+        "The location of their town.",
+        "A hole in the ball."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The location of their town.",
+      "existingAnswerExplanation": "妮雅用小軟點在地球模型上標出他們城鎮的位置。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The center reopened, and Nia set a large picture of the solar system on the wall. Ada rode her bicycle to the library to borrow a second book. When she returned, she found Finn and Tomas looking at a model of Earth. Tomas said, \"I can feel the raised land on this ball, but where does our town belong?\" Nia placed a small soft dot on the model and said it stood for their home. \"The planet is much bigger than this,\" she explained. \"The dot is not the real size of our town. It only helps us know where we are.\" Finn asked if he could pick a place for the moon as well.",
+          "chinese": "中心重新開放，妮雅在牆上貼出一張大型太陽系圖。艾達騎腳踏車去圖書館借第二本書。回來時，她看見芬恩和托馬斯正在摸一個地球模型。托馬斯說：「我摸得到球上凸起的陸地，但我們的鎮在哪裡？」妮雅在模型上貼一個小軟點，代表大家的家。「真正的行星比這個大得多，」她解釋，「這個點不是城鎮的真實大小，只是幫我們知道位置。」芬恩問，他可不可以也替月亮選一個位置。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "Nia asked the class to make their own simple space maps from paper. She did not want every page to look the same. Some children drew circles; others made raised dots. Ada used a second lamp to show which side of Earth received light. Then a child wanted to use salt as tiny stars. Nia said salt could fall into the lamp and make a mess, so they would use small paper bits instead. \"That is a good answer,\" Tomas said. \"It tells me why, not only no.\" Nia smiled. She was learning a new language of teaching: say what people can do, and explain a limit clearly.",
+          "chinese": "妮雅請大家用紙做自己的簡單太空地圖。她不希望每一頁都一模一樣。有些孩子畫圓，有些人貼上能摸到的小點。艾達用第二盞燈示範地球的哪一側會接收到光。一個孩子想用鹽粒當星星。妮雅說，鹽可能掉進燈裡弄得到處都是，所以改用小紙片。「這個回答很好，」托馬斯說，「妳告訴我原因，不是只說不行。」妮雅笑了。她正在學一種新的教學語言：說明大家能怎麼做，也清楚解釋限制。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why do they use paper bits instead of salt?",
+      "options": [
+        "Salt may make a mess near the lamp.",
+        "Paper is a planet.",
+        "Salt is too expensive to taste."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Salt may make a mess near the lamp.",
+      "existingAnswerExplanation": "妮雅擔心鹽粒掉進燈具，所以改用紙片。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Nia asked the class to make their own simple space maps from paper. She did not want every page to look the same. Some children drew circles; others made raised dots. Ada used a second lamp to show which side of Earth received light. Then a child wanted to use salt as tiny stars. Nia said salt could fall into the lamp and make a mess, so they would use small paper bits instead. \"That is a good answer,\" Tomas said. \"It tells me why, not only no.\" Nia smiled. She was learning a new language of teaching: say what people can do, and explain a limit clearly.",
+          "chinese": "妮雅請大家用紙做自己的簡單太空地圖。她不希望每一頁都一模一樣。有些孩子畫圓，有些人貼上能摸到的小點。艾達用第二盞燈示範地球的哪一側會接收到光。一個孩子想用鹽粒當星星。妮雅說，鹽可能掉進燈裡弄得到處都是，所以改用小紙片。「這個回答很好，」托馬斯說，「妳告訴我原因，不是只說不行。」妮雅笑了。她正在學一種新的教學語言：說明大家能怎麼做，也清楚解釋限制。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 3,
+          "english": "At the break, Nia asked Mrs. Sol what she wished to learn next. Mrs. Sol said she wanted to see how the sky changed from one season to another. \"In spring, I see one bright star near my window,\" she said. \"In winter, I notice a different one.\" Ada explained that the wind and weather could change what they saw on a certain night, and Earth's movement mattered over the year. Nia kept the explanation short. \"We will learn more soon,\" she said. \"For now, it is enough to know that one night cannot show us everything.\" Mrs. Sol nodded and added the question to the class board.",
+          "chinese": "休息時，妮雅問索爾奶奶接下來最想學什麼。奶奶說，她想知道天空如何隨季節改變。「春天時，我在窗邊看見一顆亮星，」她說，「冬天則會注意到另一顆。」艾達解釋，風和天氣會影響某一夜能看到的東西，而地球一年裡的運動也很重要。妮雅讓說明保持簡短。「我們很快會再學，」她說，「現在只需要知道，一個晚上無法讓我們看見全部。」奶奶點頭，把這個問題加入課堂板上。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

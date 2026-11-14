@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 18,
+  "chapterId": "ss-r10-l1-a-18",
+  "sourceChapterSha256": "ff5c55f02cbef3a3a048364f477c4675ce95351366960be6ae06dce0a11e4bdd",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "草地出現洞須隔離；白天踏查與晚間室內講解分開",
+    "previousChapterEndingEnglish": "At home, Nia copied the cards into her lesson book. She left blank spaces beside questions that were not yet answered. She did not want the book to look more complete than the class really was. Ada sent her a note: You do not have to answer everything to have taught something. Nia read it twice. She had spent much of the week afraid of disappointing people. Now she saw that an honest \"not yet\" could be useful. On Saturday, the group had learned to organize questions, listen to each other, and choose a next step. That work was real, even without a dramatic view of the night sky.",
+    "nextChapterOpeningEnglish": "A young newspaper writer came to interview Nia about the star class. He had heard that another group might take over the room. Nia told him that the city had not decided yet. \"Please do not write that we have lost the room,\" she said. \"That would mean something different from what is true.\" The writer nodded. A black dog lay on the ground near the center door, looking at people with one bright eye. Its owner moved it aside so visitors could pass. Finn counted the people entering and saw that the class had more new faces than before. He wanted to shout the number, but Ada asked him to finish counting quietly."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On a clear morning, Mr. Hale offered the star class a chance to use a flat grass field behind the center for an evening lesson. Nia was certain it would be helpful if the weather stayed clear. She went there with Finn's father, Ada, and the center's safety leader. They checked the ground before inviting any child. One corner had a giant hole left by old garden work, so they set the observing area far from it. \"We need to mark the safe end of the field,\" the leader said. Nia chose a place near the open gate, where families could arrive without walking through the dark.",
+        "zh": "一個晴朗的早晨，海爾先生提議星星課可以在傍晚使用中心後方的平坦草地。妮雅相信，如果天氣晴朗，那會很有幫助。她和芬恩的爸爸、艾達以及中心安全負責人先到場地查看，再決定是否邀請孩子。草地一角有舊園藝工程留下的大洞，所以大家把觀測區設得很遠。「我們需要標出草地可安全使用的邊界，」負責人說。妮雅選了靠近開放大門的位置，家庭不用摸黑穿過草地就能抵達。",
+        "englishSha256": "3e6b476fdfe1ebe09f653e39f53ffd768e46d2d3046a41913ff25a8bf9391084",
+        "chineseSha256": "5e6d454d828508ef2be361a73ba6bbd8dc2807fdf4d5de0358353b98f4b220ed"
+      },
+      {
+        "number": 2,
+        "en": "The next afternoon, a child ran into the room and began to jump with excitement. \"Is tonight the big star party?\" she asked. Nia said no; the group was only testing the field today. She explained that preparation mattered because many people would use the space. A student suggested putting the lamps on the ground. Tomas asked that a towel be placed under each lamp so people could find the equipment by touch. Nia thanked him but checked with the leader first. The towels could mark the lamps, as long as the path remained clear and dry. The group set one lamp near the entrance and kept the rest of the field open.",
+        "zh": "隔天下午，一個孩子衝進教室，興奮地跳個不停。「今晚就是大型星星派對嗎？」她問。妮雅說不是，今天只是測試場地。她解釋，因為許多人會使用草地，事前準備很重要。一個學生建議把燈放在地上。托馬斯希望每盞燈下墊一條毛巾，讓人可以用觸覺找出設備位置。妮雅先謝謝他，再向安全負責人確認。只要通道保持乾燥、暢通，就可以用毛巾標示燈具。大家在入口放了一盞燈，草地其他地方維持開放。",
+        "englishSha256": "05ea66c78e66399bf328cb54e20d42f0c7d7856a34e2deb760bc1b8ca4a1c543",
+        "chineseSha256": "92aff3c3b38f390d6b0c0bbbc8e94b95e8a4fcbcf64ddedfa23bbc3318aa66ff"
+      },
+      {
+        "number": 3,
+        "en": "At the test, Finn wanted to touch the telescope from a local school. Its owner showed him how to look through it without moving the tube. Bo noticed the glass was getting wet from cool air. The owner wiped it carefully and said the telescope might not be useful tonight. Nia did not promise a clear view. She asked the group to use their paper cards first. A small child held his card upside down, and his father helped him turn it. They found the bright star above the trees, then tried to find a second one. Some people could see it; others could not. Nobody was called wrong for what their eyes could not see.",
+        "zh": "測試時，芬恩想摸一摸附近學校借來的望遠鏡。物主教他在不移動鏡筒的情況下如何觀看。波注意到鏡片因冷空氣而有些濕，物主小心擦拭，說今晚望遠鏡也許用處不大。妮雅沒有保證看得清楚，而是請大家先使用紙星卡。一個小孩子把卡片倒拿，爸爸幫他轉正。他們找到了樹上方的亮星，又試著找第二顆。有些人看得見，有些人看不見。沒有人因眼睛看不到而被說答錯。",
+        "englishSha256": "7d77a68aaeac5f95a8ce4977c1da9e7903335b671c1226886e140f62129f04b0",
+        "chineseSha256": "fe009ccb9cbea8e55fde4156ed03d26a5dc0f43852e93fc96e339b4fdc8e55b0"
+      },
+      {
+        "number": 4,
+        "en": "Before the group left, the safety leader asked Nia to name the work still needed. Nia said the grass near the entrance needed cutting, the hole needed a clear barrier, and the route to the bathroom needed a better light. \"That is correct,\" he said. \"Do not invite a big group until those things are done.\" Nia agreed. She had wanted the evening lesson to be open at once, but now she knew waiting was the better choice. Finn's father offered to join the center's team for the approved field work. Nia thanked him and made sure the offer went through the center, not through a private arrangement.",
+        "zh": "離開前，安全負責人請妮雅說出還有哪些工作要完成。妮雅說入口附近的草要修剪，大洞需要明確的圍欄，通往廁所的路也需要更好的照明。「完全正確，」負責人說，「這些沒做好以前，不要邀請大批人來。」妮雅同意。她原本希望戶外課立刻開放，現在知道等待比較好。芬恩的爸爸願意加入中心的核准工作團隊，協助處理草地。妮雅謝謝他，也確定這件事經由中心安排，而非私人約定。",
+        "englishSha256": "942314aaa1b727db51b514b463fc610133dbf508b86ec1ae1fed621a2bec642f",
+        "chineseSha256": "5e33288ab206cd52c703004e6840f8d2423cc820ace460a179d84ab600949618"
+      },
+      {
+        "number": 5,
+        "en": "Before the indoor evening safety briefing, Finn's father showed Nia the paper he had filled in yesterday. It listed the people allowed to help with the field work and the parts still waiting for approval. Nia read it and checked the date. A little child touched his nose with a cold hand and asked whether the group would dance under the stars. Nia smiled. \"Not tonight,\" she said. \"We are here to test the path and look quietly.\" The child nodded. Ada suggested a short movement break indoors before going outside, so young learners could stretch without running across the grass. The group stood beside their chairs, moved their arms gently, and sat down again. A quiet exercise was enough. It kept the evening about careful observation rather than excitement that made people forget the rules.",
+        "zh": "晚上的室內安全說明開始前，芬恩爸爸拿出昨天填寫的紙給妮雅看。上面列出核准參與草地工作的成員，以及尚待確認的部分。妮雅讀過並核對日期。一個小孩用冰涼的手摸摸鼻子，問今晚會不會在星星下跳舞。妮雅微笑說：「今晚不會。我們是來測試道路，也安靜觀察。」孩子點頭。艾達提議出門前先在室內做簡短伸展，讓年幼學員可以活動，不必在草地上奔跑。大家站在椅旁，輕輕動動手臂，再坐回去。這樣的安靜運動已經夠了，讓晚上仍以仔細觀察為主，而不是興奮到忘記規定。",
+        "englishSha256": "a117bbad3097fc2a030ae67fa901b7ee605c3ae4a6ec9de379a6b62fa377fa51",
+        "chineseSha256": "d11960452a118aa9cf01b1d2c09521fa5ee01151782c7f10eca5051d721ad083"
+      },
+      {
+        "number": 6,
+        "en": "That night, the class stayed indoors because the field's barrier and lighting were not ready for a larger group. Nia set a little field map on a table and asked everyone to show where people could safely stand. Tomas found the entrance by touch. Bo marked the hole with a big circle. Finn marked the light near the bathroom path. The map was not a picture of stars, yet everyone could see why it mattered. \"We want an open sky,\" Nia said, \"but first we need an open, safe place to stand.\" The children nodded. She placed the map beside the star cards. Both were now part of learning to look carefully at the world.",
+        "zh": "那晚，由於草地的隔離設施和照明還不足以接待大隊人馬，全班留在室內。妮雅把小小的草地地圖放在桌上，請每個人指出可以安全站立的位置。托馬斯用觸摸找到入口，波用大圓圈標出洞口，芬恩標出浴廁步道旁的燈。這不是星圖，大家卻都看得出它的重要。「我們想看開闊的天空，」妮雅說，「但首先要有一塊能安全站立的開闊地方。」孩子們點頭。妮雅把地圖放在星卡旁。兩種地圖都是學習仔細觀察世界的一部分。",
+        "englishSha256": "16bbabbb398f73a5eb2ce6e02f7c66266561c42c021d0eac5b766e7c7633aff9",
+        "chineseSha256": "5ad454a1fe32233e179498be98dfff24aafd84c9cea9f104c4fa849c1c18750c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 695,
+    "targets": [
+      {
+        "word": "certain",
+        "meaning": "確定的",
+        "appearsInSource": true
+      },
+      {
+        "word": "child",
+        "meaning": "孩子",
+        "appearsInSource": true
+      },
+      {
+        "word": "dance",
+        "meaning": "跳舞",
+        "appearsInSource": true
+      },
+      {
+        "word": "end",
+        "meaning": "結束",
+        "appearsInSource": true
+      },
+      {
+        "word": "father",
+        "meaning": "父親",
+        "appearsInSource": true
+      },
+      {
+        "word": "giant",
+        "meaning": "巨大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "grass",
+        "meaning": "草地",
+        "appearsInSource": true
+      },
+      {
+        "word": "jump",
+        "meaning": "跳躍",
+        "appearsInSource": true
+      },
+      {
+        "word": "leader",
+        "meaning": "安全負責人",
+        "appearsInSource": true
+      },
+      {
+        "word": "Mr.",
+        "meaning": "先生",
+        "appearsInSource": true
+      },
+      {
+        "word": "need",
+        "meaning": "需要",
+        "appearsInSource": true
+      },
+      {
+        "word": "nose",
+        "meaning": "鼻子",
+        "appearsInSource": true
+      },
+      {
+        "word": "open",
+        "meaning": "打開／開放",
+        "appearsInSource": true
+      },
+      {
+        "word": "set",
+        "meaning": "放置",
+        "appearsInSource": true
+      },
+      {
+        "word": "team",
+        "meaning": "團隊",
+        "appearsInSource": true
+      },
+      {
+        "word": "that",
+        "meaning": "那個",
+        "appearsInSource": true
+      },
+      {
+        "word": "today",
+        "meaning": "今天",
+        "appearsInSource": true
+      },
+      {
+        "word": "touch",
+        "meaning": "觸摸",
+        "appearsInSource": true
+      },
+      {
+        "word": "towel",
+        "meaning": "毛巾",
+        "appearsInSource": true
+      },
+      {
+        "word": "yesterday",
+        "meaning": "昨天",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What is found in one corner of the grass field?",
+      "options": [
+        "A lake.",
+        "A large hole.",
+        "A new car."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "A large hole.",
+      "existingAnswerExplanation": "安全檢查發現草地角落有洞，需要隔離。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On a clear morning, Mr. Hale offered the star class a chance to use a flat grass field behind the center for an evening lesson. Nia was certain it would be helpful if the weather stayed clear. She went there with Finn's father, Ada, and the center's safety leader. They checked the ground before inviting any child. One corner had a giant hole left by old garden work, so they set the observing area far from it. \"We need to mark the safe end of the field,\" the leader said. Nia chose a place near the open gate, where families could arrive without walking through the dark.",
+          "chinese": "一個晴朗的早晨，海爾先生提議星星課可以在傍晚使用中心後方的平坦草地。妮雅相信，如果天氣晴朗，那會很有幫助。她和芬恩的爸爸、艾達以及中心安全負責人先到場地查看，再決定是否邀請孩子。草地一角有舊園藝工程留下的大洞，所以大家把觀測區設得很遠。「我們需要標出草地可安全使用的邊界，」負責人說。妮雅選了靠近開放大門的位置，家庭不用摸黑穿過草地就能抵達。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 4,
+          "english": "Before the group left, the safety leader asked Nia to name the work still needed. Nia said the grass near the entrance needed cutting, the hole needed a clear barrier, and the route to the bathroom needed a better light. \"That is correct,\" he said. \"Do not invite a big group until those things are done.\" Nia agreed. She had wanted the evening lesson to be open at once, but now she knew waiting was the better choice. Finn's father offered to join the center's team for the approved field work. Nia thanked him and made sure the offer went through the center, not through a private arrangement.",
+          "chinese": "離開前，安全負責人請妮雅說出還有哪些工作要完成。妮雅說入口附近的草要修剪，大洞需要明確的圍欄，通往廁所的路也需要更好的照明。「完全正確，」負責人說，「這些沒做好以前，不要邀請大批人來。」妮雅同意。她原本希望戶外課立刻開放，現在知道等待比較好。芬恩的爸爸願意加入中心的核准工作團隊，協助處理草地。妮雅謝謝他，也確定這件事經由中心安排，而非私人約定。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What happens before a large group can use the field?",
+      "options": [
+        "The safety work must be completed.",
+        "The class buys expensive clothes.",
+        "The sky must stay blue all year."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The safety work must be completed.",
+      "existingAnswerExplanation": "安全負責人要求先完成草地與路線修正，才能開放大團體。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On a clear morning, Mr. Hale offered the star class a chance to use a flat grass field behind the center for an evening lesson. Nia was certain it would be helpful if the weather stayed clear. She went there with Finn's father, Ada, and the center's safety leader. They checked the ground before inviting any child. One corner had a giant hole left by old garden work, so they set the observing area far from it. \"We need to mark the safe end of the field,\" the leader said. Nia chose a place near the open gate, where families could arrive without walking through the dark.",
+          "chinese": "一個晴朗的早晨，海爾先生提議星星課可以在傍晚使用中心後方的平坦草地。妮雅相信，如果天氣晴朗，那會很有幫助。她和芬恩的爸爸、艾達以及中心安全負責人先到場地查看，再決定是否邀請孩子。草地一角有舊園藝工程留下的大洞，所以大家把觀測區設得很遠。「我們需要標出草地可安全使用的邊界，」負責人說。妮雅選了靠近開放大門的位置，家庭不用摸黑穿過草地就能抵達。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 4,
+          "english": "Before the group left, the safety leader asked Nia to name the work still needed. Nia said the grass near the entrance needed cutting, the hole needed a clear barrier, and the route to the bathroom needed a better light. \"That is correct,\" he said. \"Do not invite a big group until those things are done.\" Nia agreed. She had wanted the evening lesson to be open at once, but now she knew waiting was the better choice. Finn's father offered to join the center's team for the approved field work. Nia thanked him and made sure the offer went through the center, not through a private arrangement.",
+          "chinese": "離開前，安全負責人請妮雅說出還有哪些工作要完成。妮雅說入口附近的草要修剪，大洞需要明確的圍欄，通往廁所的路也需要更好的照明。「完全正確，」負責人說，「這些沒做好以前，不要邀請大批人來。」妮雅同意。她原本希望戶外課立刻開放，現在知道等待比較好。芬恩的爸爸願意加入中心的核准工作團隊，協助處理草地。妮雅謝謝他，也確定這件事經由中心安排，而非私人約定。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

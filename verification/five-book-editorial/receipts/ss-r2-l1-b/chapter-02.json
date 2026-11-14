@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 2,
+  "chapterId": "ss-r2-l1-b-2",
+  "sourceChapterSha256": "1d54507d5bf2fa8f1118c4c03788c8315159c871d002f66cfc061fde94e30148",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "托馬指出工人日出前需要早餐；媒體報導不應誤導已開幕",
+    "previousChapterEndingEnglish": "Then Edda, the old owl who cared for the village houses, came down the road. She held a key carefully in one claw. \"I heard you were looking at this place,\" she said. \"You may open the door tomorrow, but you must write down what needs fixing.\" Fia showed her the picture on the camera. Edda looked at the roof, the window, and the little star. \"Good,\" she said. \"A picture helps us remember what is here now.\" Fia put the key safely in her bag. They had not made any food yet, but the first breakfast shop had taken its first small step.",
+    "nextChapterOpeningEnglish": "Fia set a small lamp on the table and looked at her plans. She had marked all the work areas in the house. The kitchen needed space for bread, the front room needed tables, and the back garden needed water. Pip came with an orange plant pot and a drawing of the garden. \"Let us begin with the plants,\" he said. \"We have a few seeds, but we can grow more.\" Fia smiled. \"First we should define what we need: food plants near the door, flowers by the path, and a clear way for workers to walk.\" Pip nodded and moved the pot outside. The area near the back door was small, so Pip measured it before placing another pot."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next morning, Fia opened the old house. Dust lay on the floor, and a long sofa stood by the back wall. \"Can anybody help me move this?\" she called. Moss came in first. Pip arrived from his apartment above the little village church. He was late because he had stopped to help a child find a lost shoe. Fia did not mind. She asked them to look carefully before they moved anything. Behind the sofa they found an empty box, a broken cup, and a small pen. Moss held up the pen like a great treasure, and they all laughed.",
+        "zh": "隔天早上，菲雅打開老屋。地板積著灰，後牆旁放了一張長沙發。「有人能幫我搬這個嗎？」她喊道。莫斯最先進門。皮普從村裡小教堂樓上的公寓趕來。他遲到，是因為途中幫孩子找遺失的鞋子。菲雅不介意，只請大家在搬東西前仔細查看。沙發後面有空盒子、破杯子和一支小筆。莫斯把筆高高舉起，像找到寶物一般，大家都笑了。",
+        "englishSha256": "0647c775916d9ea4ce7ac63f55c56bff602dad5cd9e1605226d1dfe525c36ee3",
+        "chineseSha256": "40ea75d4c51e51ee20e57ff5f02e7885cb24c1e5c1f37e3681dc018ad4346420"
+      },
+      {
+        "number": 2,
+        "en": "The house was old, but its shape was good. The front room had clear windows, and the kitchen had a small door to the garden. Pip said that this country village had never had a breakfast shop before. People usually ate at home or took bread on the road. \"Do you think they will come here?\" he asked. Fia was serious. \"We should not guess. We can ask our neighbors what they need.\" She drew three lines on a piece of paper: food, price, and opening time. Then she put the paper beside the door for every visitor to see.",
+        "zh": "屋子雖舊，格局卻不錯。前房有明亮的窗，廚房也有通往花園的小門。皮普說這個鄉村以前從來沒有早餐店。大家通常在家吃，或帶著麵包上路。「妳覺得他們會來嗎？」他問。菲雅很認真。「我們不該用猜的，可以問鄰居需要什麼。」她在紙上畫了三條線：食物、價格、營業時間，然後把紙放在門旁，讓訪客都能看見。",
+        "englishSha256": "d7a2b4b09ba8cc886e750bffcd40410bdd14728a46f42fd339abdd4557a2c1ac",
+        "chineseSha256": "dec44b71a2b1a58cd785b0590d07153cce035b1d399ee29cb7359b454ba8ce7f"
+      },
+      {
+        "number": 3,
+        "en": "At lunch, they walked to the pond. Toma the beaver was fixing a wooden path along the water. He worked hard and often forgot to eat. Fia offered him bread. \"You must let me pay,\" he said. Fia answered, \"Today it is a gift. When the shop opens, the menu will show a price.\" Toma took a bite and looked across the water. \"Many workers are here before the sun comes up,\" he said. \"If you open early, we can eat before work.\" Fia wrote his words with the old pen. Their first useful answer had come from a hungry neighbor.",
+        "zh": "午餐時，他們走到池塘。海狸托馬正沿水邊修木道。他工作很努力，常常忘記吃飯。菲雅遞給他麵包。「妳一定要讓我付錢。」他說。菲雅回答：「今天是禮物。店開了之後，菜單會標明價格。」托馬咬了一口，望向水面另一邊。「很多工人在日出前就來這裡，」他說，「妳早點開，我們就能在工作前吃飯。」菲雅用那支舊筆記下他的話。他們第一個有用的答案，來自一位肚子餓的鄰居。",
+        "englishSha256": "066b6bd636c5b571e9de9232aa48edc35bb0ea89f3d20af1c7bdddbdf7623f98",
+        "chineseSha256": "9f14c6e06475e6deaf3ed7647e5928ae23b8aa6ebfea8bf0b435515e63acb5a4"
+      },
+      {
+        "number": 4,
+        "en": "A reporter named Lark came to the pond with a small telephone. She wrote stories for the village paper. \"I hear there will be a new shop,\" she said. \"May I call you for a short talk?\" Fia said yes, but asked Lark to wait until they had a real plan. \"There is no reason to tell the whole village that we are ready when we are not,\" she explained. Lark agreed. She asked a third question instead: \"What will you do if the first day is quiet?\" Fia thought for a moment. \"I will learn why,\" she said. \"Then I will try again.\"",
+        "zh": "記者雲雀拉克帶著小電話來到池邊。她替村報寫文章。「我聽說會有新店。」她說，「改天可以打電話和妳聊聊嗎？」菲雅說可以，但希望等到計畫真正成形。「我們還沒準備好，就不該告訴全村已經好了。」她解釋。拉克同意，接著問第三個問題：「如果第一天沒有客人呢？」菲雅想了一下。「我會先弄清原因，」她說，「然後再試一次。」",
+        "englishSha256": "ebab7acc09c0dc94d7ffffb588d92b737ef6a46d4d2917109d7c4f80264e8874",
+        "chineseSha256": "9119df8a10a1858fb128b12957b5e8bb923bf3b3b8e64607d39c7c23311b2b58"
+      },
+      {
+        "number": 5,
+        "en": "Back at the house, Pip found an old board with the words \"Welcome Here.\" He wanted to hang it up at once. Moss said they should clean the kitchen first. Fia agreed with Moss, but she liked Pip's joy. She gave each friend a job. Pip would wash the sign, Moss would check the oven, and Fia would make a list of tools. No one had to do everything. Before leaving, they sat on the sofa for a quiet rest. They could see the pond between two trees. Fia felt that the empty house was beginning to feel like a place for people.",
+        "zh": "回到屋裡，皮普找到一塊寫著「歡迎來這裡」的舊木牌。他想立刻掛上去。莫斯卻說應先把廚房清乾淨。菲雅同意莫斯，也喜歡皮普的熱情。她替每人分了工作：皮普洗招牌，莫斯檢查烤爐，她自己列工具清單。沒有人必須包辦所有事。離開前，他們在沙發上安靜休息，還能從兩棵樹間看見池塘。菲雅覺得空屋開始有了人情味。",
+        "englishSha256": "5780e5e21515ee3fe77fc5912e9f8d9ac4f15479c13b2b6b38232b3a2c7a328d",
+        "chineseSha256": "dcc3ce89acca95fa746f7462b44e4d90390d6b1ba9b3c8f724b893cf2be233b2"
+      },
+      {
+        "number": 6,
+        "en": "In the evening, Fia put the list under the door so Edda could read it. She almost forgot the key inside, but Pip reminded her. \"We should keep one key with you and another with Edda,\" he said. Fia nodded. A shop needed good food, but it also needed small, careful habits. She looked toward the pond once more. A light shone in Toma's little work house. He would be awake early tomorrow. Fia hoped that, before long, he could begin his hard days with a warm meal and a little time to rest. She did not forget the pen they had found behind the sofa. It now had a place beside the growing list of jobs.",
+        "zh": "傍晚，菲雅把清單放在門下，好讓艾達能看到。她差點把鑰匙忘在屋內，幸好皮普提醒。「一把由妳保管，另一把留給艾達。」他說。菲雅點頭。店需要好食物，也需要小小而細心的習慣。她再看了一眼池塘。托馬的工作屋裡亮著燈，他明天也會很早醒來。菲雅希望不久之後，他忙碌的一天能從熱騰騰的一餐和片刻休息開始。 她沒有忘記沙發後找到的筆。現在那支筆有了位置，就放在越寫越長的工作清單旁。",
+        "englishSha256": "765e500c18d631a66595bf3150ce4679d21997c5abb65419ca55a7dfc3fded22",
+        "chineseSha256": "f9c411358ca6e463a9d9f7fd3f1b0ea2285583f3b0ff7f466af7b7481784bd80"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 626,
+    "targets": [
+      {
+        "word": "anybody",
+        "meaning": "任何人",
+        "appearsInSource": true
+      },
+      {
+        "word": "apartment",
+        "meaning": "公寓",
+        "appearsInSource": true
+      },
+      {
+        "word": "ask",
+        "meaning": "詢問",
+        "appearsInSource": true
+      },
+      {
+        "word": "church",
+        "meaning": "教堂",
+        "appearsInSource": true
+      },
+      {
+        "word": "clear",
+        "meaning": "清楚的",
+        "appearsInSource": true
+      },
+      {
+        "word": "country",
+        "meaning": "鄉村",
+        "appearsInSource": true
+      },
+      {
+        "word": "forget",
+        "meaning": "忘記",
+        "appearsInSource": true
+      },
+      {
+        "word": "guess",
+        "meaning": "猜測",
+        "appearsInSource": true
+      },
+      {
+        "word": "here",
+        "meaning": "這裡",
+        "appearsInSource": true
+      },
+      {
+        "word": "late",
+        "meaning": "遲到的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lunch",
+        "meaning": "午餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "pay",
+        "meaning": "付款",
+        "appearsInSource": true
+      },
+      {
+        "word": "pen",
+        "meaning": "筆",
+        "appearsInSource": true
+      },
+      {
+        "word": "piece",
+        "meaning": "一塊",
+        "appearsInSource": true
+      },
+      {
+        "word": "pond",
+        "meaning": "池塘",
+        "appearsInSource": true
+      },
+      {
+        "word": "reporter",
+        "meaning": "記者",
+        "appearsInSource": true
+      },
+      {
+        "word": "serious",
+        "meaning": "認真的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sofa",
+        "meaning": "沙發",
+        "appearsInSource": true
+      },
+      {
+        "word": "telephone",
+        "meaning": "電話",
+        "appearsInSource": true
+      },
+      {
+        "word": "third",
+        "meaning": "第三個",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Who says workers need breakfast early?",
+      "options": [
+        "Toma",
+        "Lark",
+        "Edda"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Toma",
+      "existingAnswerExplanation": "托馬說工人日出前開始工作，需要早點吃早餐。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "At lunch, they walked to the pond. Toma the beaver was fixing a wooden path along the water. He worked hard and often forgot to eat. Fia offered him bread. \"You must let me pay,\" he said. Fia answered, \"Today it is a gift. When the shop opens, the menu will show a price.\" Toma took a bite and looked across the water. \"Many workers are here before the sun comes up,\" he said. \"If you open early, we can eat before work.\" Fia wrote his words with the old pen. Their first useful answer had come from a hungry neighbor.",
+          "chinese": "午餐時，他們走到池塘。海狸托馬正沿水邊修木道。他工作很努力，常常忘記吃飯。菲雅遞給他麵包。「妳一定要讓我付錢。」他說。菲雅回答：「今天是禮物。店開了之後，菜單會標明價格。」托馬咬了一口，望向水面另一邊。「很多工人在日出前就來這裡，」他說，「妳早點開，我們就能在工作前吃飯。」菲雅用那支舊筆記下他的話。他們第一個有用的答案，來自一位肚子餓的鄰居。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "The house was old, but its shape was good. The front room had clear windows, and the kitchen had a small door to the garden. Pip said that this country village had never had a breakfast shop before. People usually ate at home or took bread on the road. \"Do you think they will come here?\" he asked. Fia was serious. \"We should not guess. We can ask our neighbors what they need.\" She drew three lines on a piece of paper: food, price, and opening time. Then she put the paper beside the door for every visitor to see.",
+          "chinese": "屋子雖舊，格局卻不錯。前房有明亮的窗，廚房也有通往花園的小門。皮普說這個鄉村以前從來沒有早餐店。大家通常在家吃，或帶著麵包上路。「妳覺得他們會來嗎？」他問。菲雅很認真。「我們不該用猜的，可以問鄰居需要什麼。」她在紙上畫了三條線：食物、價格、營業時間，然後把紙放在門旁，讓訪客都能看見。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Fia ask Lark to wait before writing the story?",
+      "options": [
+        "She hates newspapers",
+        "The shop is not ready yet",
+        "The pond is too far away"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The shop is not ready yet",
+      "existingAnswerExplanation": "菲雅不想在店尚未準備好時讓村民誤以為已能營業。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "A reporter named Lark came to the pond with a small telephone. She wrote stories for the village paper. \"I hear there will be a new shop,\" she said. \"May I call you for a short talk?\" Fia said yes, but asked Lark to wait until they had a real plan. \"There is no reason to tell the whole village that we are ready when we are not,\" she explained. Lark agreed. She asked a third question instead: \"What will you do if the first day is quiet?\" Fia thought for a moment. \"I will learn why,\" she said. \"Then I will try again.\"",
+          "chinese": "記者雲雀拉克帶著小電話來到池邊。她替村報寫文章。「我聽說會有新店。」她說，「改天可以打電話和妳聊聊嗎？」菲雅說可以，但希望等到計畫真正成形。「我們還沒準備好，就不該告訴全村已經好了。」她解釋。拉克同意，接著問第三個問題：「如果第一天沒有客人呢？」菲雅想了一下。「我會先弄清原因，」她說，「然後再試一次。」",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "The house was old, but its shape was good. The front room had clear windows, and the kitchen had a small door to the garden. Pip said that this country village had never had a breakfast shop before. People usually ate at home or took bread on the road. \"Do you think they will come here?\" he asked. Fia was serious. \"We should not guess. We can ask our neighbors what they need.\" She drew three lines on a piece of paper: food, price, and opening time. Then she put the paper beside the door for every visitor to see.",
+          "chinese": "屋子雖舊，格局卻不錯。前房有明亮的窗，廚房也有通往花園的小門。皮普說這個鄉村以前從來沒有早餐店。大家通常在家吃，或帶著麵包上路。「妳覺得他們會來嗎？」他問。菲雅很認真。「我們不該用猜的，可以問鄰居需要什麼。」她在紙上畫了三條線：食物、價格、營業時間，然後把紙放在門旁，讓訪客都能看見。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

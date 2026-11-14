@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 15,
+  "chapterId": "ss-r10-l2-b-15",
+  "sourceChapterSha256": "560c9eb6422edd5d6f8298e95ab25e53d5e80df92464e1486c688a758b4c4b1e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "低噪音聆聽間開幕，私人健康資訊撤回，共用密碼風險",
+    "previousChapterEndingEnglish": "The meeting ended without a single perfect answer, but the committee voted to continue the project under clearer conditions. May packed her notes, surprised that she felt hopeful instead of tired. Evan asked whether she wanted to walk home together. She said yes. At the crossing he stopped, looked at her, and asked, “May I hold your hand?” She smiled at the careful question. “Yes, for the walk home,” she answered. He took her hand lightly. The answer did not need to last forever to be real tonight.",
+    "nextChapterOpeningEnglish": "The hall manager planned an earthquake exercise before the next public event. He put an arrow on each wall to show the safest exit and asked volunteers to learn the basics of moving people without pushing. May had never led a drill before. She was in a poor mood after a late night of schoolwork, but she knew the practice mattered. Evan helped check the upper floor and found a printer blocking a narrow passage. He moved it with a worker and measured the clear space. “Indeed,” the manager said, “one forgotten machine can become a serious problem when everyone needs to leave at once.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At the next fair, the team opened a small quiet room beside the main hall. Its ceiling had been checked, the lane outside was clear, and a nearby refrigerator held water and fruit for volunteers. Mrs. Fen brought mango slices, while another seller offered pork buns. The students cheered when the first visitors arrived, but May reminded them that the room's purpose was to give everyone an equal chance to choose what to hear. Some wanted lively calls from the market; others preferred a silent chair. Both choices were fair. Altogether, it was a better beginning than the larger room the sponsor had offered.",
+        "zh": "下一次活動時，團隊在主廳旁開放一間小小的安靜室。天花板已檢查，外面的走道保持暢通，附近冰箱放著志工飲水和水果。芬姨帶來芒果切片，另一位攤商提供豬肉包。第一批訪客抵達時，學生歡呼起來，但慧提醒大家，這間房的目的是讓每個人有平等機會選擇想聽什麼。有些人喜歡熱鬧叫賣聲，有些人寧願安靜坐著。兩種選擇都公平。整體而言，這比贊助商提供的大房間更像好的開始。",
+        "englishSha256": "e867c311c0b4b61975af78c398f5b4ceef124ac4c5b7dbccaa2149ccb92bee44",
+        "chineseSha256": "1418a149a3a1d0eab14cd3deb96bd94bfe00c47d4ac4948d35e86b2746d55a0f"
+      },
+      {
+        "number": 2,
+        "en": "An elderly visitor asked to speak privately about a recording concerning cancer treatment in her family. May did not ask for medical details. The woman wanted only a short phrase removed because her daughter had not agreed to share it. Evan found the file and suggested a safer edit, but the woman preferred the whole piece to be withdrawn. They accepted her decision. May wrote down the task in the workbook and gave her a receipt for the request, without adding any health information. The case taught the students that a discovery in a file was not a reason to keep it.",
+        "zh": "一位年長訪客想私下談談一份涉及家人癌症治療的錄音。慧沒有追問醫療細節。女士起初只想刪掉一句話，因為女兒沒有同意分享。安澤找到檔案並建議安全的剪輯方式，女士最後仍決定撤下整份內容。兩人接受決定。慧在工作簿記下處理任務，給她一張申請收據，沒有填入任何健康資訊。這件事讓學生明白，在檔案裡發現一段內容，並不代表就有保留它的理由。",
+        "englishSha256": "f962008ccd0bd53ee3cdee3e7746512e4ddd62fc78c418c2a81728d321f6c513",
+        "chineseSha256": "70f272917c7b06c2bf2dcc29de84da837c381848212b806c571d38d09562691e"
+      },
+      {
+        "number": 3,
+        "en": "A volunteer then reported a negative comment posted with the project's old password. Someone had used a shared account to answer a visitor rudely. Evan changed the password and suggested giving each worker their own limited access instead. May supported the plan, but insisted that the public response should admit what had happened. A committee member wanted to blame the newest student immediately. Mrs. Fen asked everyone to wait for the account log. “We once made a mistake with an empty box,” she said. “We can learn to be slower before we accuse someone again.”",
+        "zh": "接著有志工回報，有人用計畫的舊密碼登入，留下負面又粗魯的公開回覆。安澤更換密碼，建議改成每位工作者各自使用有限權限的帳號。慧支持，也堅持公開回覆必須承認出事。委員會一人想立刻責怪新加入的學生。芬姨請大家先等帳號紀錄。「我們以前因為一個空箱子犯過錯，」她說，「這次要學會慢一點，別再急著指控。」",
+        "englishSha256": "28425b40dc927dee7ae01eb22a8a0f658ba55f3241cc4ef5d1133780f95b209c",
+        "chineseSha256": "b1404ba2b961a71e26fd5f60c53ce134583a6858767d2c95a5f22d9e896e86aa"
+      },
+      {
+        "number": 4,
+        "en": "While they waited, May took a small saw to a damaged wooden sign, but a repair worker stopped her and offered to handle it safely. She agreed. Evan brought over a visitor who wanted to suggest a shorter route through the exhibit. They walked it together, then moved two chairs. The change was simple, and it helped people using walking sticks. May laughed that their most valuable ideas often arrived from people who were not on the planning team. Evan said the room was beginning to belong to its visitors rather than to the students who had built it.",
+        "zh": "等候調查時，慧拿起小鋸子想修壞掉的木標示，維修工人制止她，提出由受過訓練的人安全處理。慧同意了。安澤帶來一位建議縮短展覽路線的訪客。大家一起走了一遍，移開兩張椅子。改動很簡單，卻方便了使用手杖的人。慧笑說，最有價值的想法常常來自計畫團隊之外。安澤說，這間房開始真正屬於訪客，而不只是搭建它的學生。",
+        "englishSha256": "944181cf69885779304ed10357405b60455168f3f5c1178e454f6b220a82f641",
+        "chineseSha256": "a333c76bd0ef6a22489050bebfd46427dbe8eac339518d2f89bd7dc5c208dc6d"
+      },
+      {
+        "number": 5,
+        "en": "One child asked why the listening booth did not look like a castle from a storybook. Evan said he had once wanted that too, with tall lights and a grand door. May asked the child whether a high door would make it easier for her grandmother to enter. The child thought about it and shook her head. A volunteer invited everyone to cheer for the newly opened room, but Mrs. Fen asked them to keep the quiet corner peaceful. The celebration moved into the courtyard, where laughter would not interrupt anyone who wanted to listen alone. May watched the team move naturally without her giving every order. The room looked simple from the outside, and that was part of its strength. People could enter without feeling that they needed special clothes, money, or a reason grand enough to impress someone.",
+        "zh": "一個孩子問，聆聽間為什麼不像童話城堡。安澤說，他以前也想做成那樣，裝高高的燈和華麗的門。慧問，門做得很高，是否讓祖母更容易進出。孩子想了想，搖頭。一位志工邀大家為新開放的房間歡呼，芬姨卻請眾人讓安靜角落保持寧靜。慶祝移到庭院，笑聲就不會打擾想獨自聆聽的人。慧看著團隊自然行動，不需要她下每個指令。房間從外面看來很簡單，這正是它的力量之一。人們不必穿特別的衣服、帶很多錢，或找出很了不起的理由才能進來。",
+        "englishSha256": "6a76d162ef4be3356b2ce08bfaca2ea81c8b3315c14bb3eb26d1980910b59cdd",
+        "chineseSha256": "990fe470f41caea9c25f4fd87ef3b0a95270ebe5216fa02341cf239fd4df9517"
+      },
+      {
+        "number": 6,
+        "en": "At closing, May and Evan sat on the floor beside the door, too tired to stand for another minute. They had not seen a perfect show, and some complaints remained open. Yet the visitors had stayed, asked questions, changed their minds, and left without being forced to give anything. Evan leaned his head against the wall and said, “I think I like you.” May looked at him for a moment. “I think I like you too,” she replied, “but I want us to keep our work decisions separate.” He agreed immediately. They did not need an audience for the first honest words between them.",
+        "zh": "閉館時，慧與安澤累得坐在門邊地上，一分鐘也不想再站。他們沒有看到完美的展覽，還有一些申訴尚未結案。但訪客留下、發問、改變想法，最後離開時沒有被迫交出任何東西。安澤靠著牆說：「我想我喜歡妳。」慧看了他一下。「我想我也喜歡你，」她答，「但我希望我們繼續把工作決策和私人關係分開。」他立刻同意。他們之間第一次誠實說出的話，不需要觀眾。",
+        "englishSha256": "91448ee0326230ac8aefcb05a5402c853c275cf0ff72c2debe9ae68c51510918",
+        "chineseSha256": "60ad16ec2a6063543e64ee230ac4b54295e3d48b73c83f8bb67c5f9c2e862b67"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 644,
+    "targets": [
+      {
+        "word": "Altogether",
+        "meaning": "整體而言",
+        "appearsInSource": true
+      },
+      {
+        "word": "cancer",
+        "meaning": "癌症",
+        "appearsInSource": true
+      },
+      {
+        "word": "castle",
+        "meaning": "城堡",
+        "appearsInSource": true
+      },
+      {
+        "word": "ceiling",
+        "meaning": "天花板",
+        "appearsInSource": true
+      },
+      {
+        "word": "cheer",
+        "meaning": "歡呼",
+        "appearsInSource": true
+      },
+      {
+        "word": "discovery",
+        "meaning": "發現",
+        "appearsInSource": true
+      },
+      {
+        "word": "equal",
+        "meaning": "平等的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fair",
+        "meaning": "公平的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lane",
+        "meaning": "巷弄",
+        "appearsInSource": true
+      },
+      {
+        "word": "mango",
+        "meaning": "芒果",
+        "appearsInSource": true
+      },
+      {
+        "word": "nearby",
+        "meaning": "附近的",
+        "appearsInSource": true
+      },
+      {
+        "word": "negative",
+        "meaning": "負面的",
+        "appearsInSource": true
+      },
+      {
+        "word": "password",
+        "meaning": "密碼",
+        "appearsInSource": true
+      },
+      {
+        "word": "phrase",
+        "meaning": "一句話；短語",
+        "appearsInSource": true
+      },
+      {
+        "word": "pork",
+        "meaning": "豬肉",
+        "appearsInSource": true
+      },
+      {
+        "word": "refrigerator",
+        "meaning": "冰箱",
+        "appearsInSource": true
+      },
+      {
+        "word": "saw",
+        "meaning": "鋸子",
+        "appearsInSource": true
+      },
+      {
+        "word": "suggest",
+        "meaning": "建議",
+        "appearsInSource": true
+      },
+      {
+        "word": "task",
+        "meaning": "任務",
+        "appearsInSource": true
+      },
+      {
+        "word": "workbook",
+        "meaning": "工作簿",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What happened to the recording containing private health details?",
+      "options": [
+        "It was withdrawn at the family member's request",
+        "It was used in an ad",
+        "It was played twice"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It was withdrawn at the family member's request",
+      "existingAnswerExplanation": "當事人要求撤下整份內容，團隊尊重執行。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "An elderly visitor asked to speak privately about a recording concerning cancer treatment in her family. May did not ask for medical details. The woman wanted only a short phrase removed because her daughter had not agreed to share it. Evan found the file and suggested a safer edit, but the woman preferred the whole piece to be withdrawn. They accepted her decision. May wrote down the task in the workbook and gave her a receipt for the request, without adding any health information. The case taught the students that a discovery in a file was not a reason to keep it.",
+          "chinese": "一位年長訪客想私下談談一份涉及家人癌症治療的錄音。慧沒有追問醫療細節。女士起初只想刪掉一句話，因為女兒沒有同意分享。安澤找到檔案並建議安全的剪輯方式，女士最後仍決定撤下整份內容。兩人接受決定。慧在工作簿記下處理任務，給她一張申請收據，沒有填入任何健康資訊。這件事讓學生明白，在檔案裡發現一段內容，並不代表就有保留它的理由。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 3,
+          "english": "A volunteer then reported a negative comment posted with the project's old password. Someone had used a shared account to answer a visitor rudely. Evan changed the password and suggested giving each worker their own limited access instead. May supported the plan, but insisted that the public response should admit what had happened. A committee member wanted to blame the newest student immediately. Mrs. Fen asked everyone to wait for the account log. “We once made a mistake with an empty box,” she said. “We can learn to be slower before we accuse someone again.”",
+          "chinese": "接著有志工回報，有人用計畫的舊密碼登入，留下負面又粗魯的公開回覆。安澤更換密碼，建議改成每位工作者各自使用有限權限的帳號。慧支持，也堅持公開回覆必須承認出事。委員會一人想立刻責怪新加入的學生。芬姨請大家先等帳號紀錄。「我們以前因為一個空箱子犯過錯，」她說，「這次要學會慢一點，別再急著指控。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What problem led to changing account access?",
+      "options": [
+        "A rude reply was posted using a shared password",
+        "The lights were too bright",
+        "Someone lost a book"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A rude reply was posted using a shared password",
+      "existingAnswerExplanation": "舊共用密碼遭用來發布粗魯留言，團隊改進帳號權限。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "A volunteer then reported a negative comment posted with the project's old password. Someone had used a shared account to answer a visitor rudely. Evan changed the password and suggested giving each worker their own limited access instead. May supported the plan, but insisted that the public response should admit what had happened. A committee member wanted to blame the newest student immediately. Mrs. Fen asked everyone to wait for the account log. “We once made a mistake with an empty box,” she said. “We can learn to be slower before we accuse someone again.”",
+          "chinese": "接著有志工回報，有人用計畫的舊密碼登入，留下負面又粗魯的公開回覆。安澤更換密碼，建議改成每位工作者各自使用有限權限的帳號。慧支持，也堅持公開回覆必須承認出事。委員會一人想立刻責怪新加入的學生。芬姨請大家先等帳號紀錄。「我們以前因為一個空箱子犯過錯，」她說，「這次要學會慢一點，別再急著指控。」",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 4,
+          "english": "While they waited, May took a small saw to a damaged wooden sign, but a repair worker stopped her and offered to handle it safely. She agreed. Evan brought over a visitor who wanted to suggest a shorter route through the exhibit. They walked it together, then moved two chairs. The change was simple, and it helped people using walking sticks. May laughed that their most valuable ideas often arrived from people who were not on the planning team. Evan said the room was beginning to belong to its visitors rather than to the students who had built it.",
+          "chinese": "等候調查時，慧拿起小鋸子想修壞掉的木標示，維修工人制止她，提出由受過訓練的人安全處理。慧同意了。安澤帶來一位建議縮短展覽路線的訪客。大家一起走了一遍，移開兩張椅子。改動很簡單，卻方便了使用手杖的人。慧笑說，最有價值的想法常常來自計畫團隊之外。安澤說，這間房開始真正屬於訪客，而不只是搭建它的學生。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

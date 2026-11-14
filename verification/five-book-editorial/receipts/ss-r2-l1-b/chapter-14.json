@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 14,
+  "chapterId": "ss-r2-l1-b-14",
+  "sourceChapterSha256": "c9b700d318c37612f4bea21f530b0cb1739aa914fecea9be3674ff4dcc590d4d",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "蟻群侵入需安全處理；皮普病了提前休息",
+    "previousChapterEndingEnglish": "The rain finally stopped near sunset. Fia sat with Moss and Pip and talked about the day. They had sold less food than expected, but they had not lost the trust of their guests. People had seen a safe place to wait, an honest food board, and a team willing to help. \"That is enough for today,\" Fia said. She wrote the story in her book and closed it. The house was quiet now, but her thoughts were full. A long morning of rain had become a lesson in how a small shop could serve a whole village.",
+    "nextChapterOpeningEnglish": "On the first real opening morning, the sun came above the hill like a warm gift. Fia put a sign on the red door: \"Open for Breakfast.\" She felt a great pleasure when she saw Moss and Pip arrive on time. Pip had slept well and was ready to work again. Edda came with her daughter, who wanted to choose the first table. \"You may sit where you like,\" Fia told them. \"But please keep the path clear.\" The daughter picked a chair by the window. \"What a lovely place,\" she said. Fia smiled. The shop was finally open, and her hands shook a little. When the first guests were ready to enter, Fia tried to care for each one without forgetting that the workers also needed time to rest and sleep."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On a sunny morning, Fia found an ant near a bag of flour. Then she saw several more on the floor. She did not want insects near food. \"We must clean this room before we cook,\" she said. Moss put the flour into a closed box, and Pip checked every bottle on the shelf. Kit, who had come to help, wore shorts and carried a small brush. They worked carefully. Nobody tried to hurt the little ants. Instead, they moved the open food, cleaned the floor, and found the small opening under the door where the ants came in.",
+        "zh": "晴朗早晨，菲雅在一袋麵粉旁發現一隻螞蟻，接著又在地板上看到好幾隻。她不希望食物旁有昆蟲。「煮飯前得先把這裡清乾淨。」她說。莫斯把麵粉放進密封盒，皮普檢查架上的每個瓶子。來幫忙的基特穿著短褲，拿著小刷子。他們仔細打掃，沒有傷害螞蟻，只是移開開放食物、清潔地板，並找到門下供螞蟻進來的小縫。",
+        "englishSha256": "ac1aa66cd36f5c91cb2eaeb39eeee2d39e4faf75dffd3809e636e3a56cca2cfa",
+        "chineseSha256": "941589a0a897f232fcd2218f877138c4ff4463ce70db0fc0237d7c6de34c3369"
+      },
+      {
+        "number": 2,
+        "en": "Mrs. Fern arrived with a newspaper. It said a new clerk would help at the village health office. \"Perhaps the clerk can answer your food questions,\" she said. Fia thanked her and wrote down the office hours. She wanted to be honest about what the workers knew and what they did not know. \"We can clean and check the kitchen,\" she said, \"but we should ask trained people when we need more help.\" Moss agreed. He knew how to make bread, not how to answer every health question. The team decided to keep their food covered and to check the room each morning. The eggs had come from a chicken farm, and they did not want insects near those boxes, either. Pip asked where to hang a clean cloth after washing it.",
+        "zh": "芬恩太太帶著一份報紙來。報上說村裡的衛生辦公室有新職員。「也許可以回答你們的食物問題。」她說。菲雅道謝，記下辦公時間。她想誠實區分團隊知道與不知道的事。「我們能清潔、檢查廚房，」她說，「需要更多協助時，就該問受過訓練的人。」莫斯同意。他會烤麵包，卻不是每種健康問題都懂。大家決定以後都把食物蓋好，並每天早上檢查房間。 雞蛋來自養雞農場，他們也不希望昆蟲靠近那些箱子。皮普問清洗後的乾淨布要掛在哪裡。",
+        "englishSha256": "7696446217a600f15cd4e9fb7ba437b63f36b592509a0d37b7c1ca782917432e",
+        "chineseSha256": "8c7b6f82b662c57b2bbbee0696ddf01833b34ad29e7bead8f174d73e43767d29"
+      },
+      {
+        "number": 3,
+        "en": "Later, Toma brought a wooden strip to close the space below the door. He measured its size, cut it, and put it in place. \"This is better than trying to stop every ant one by one,\" he said. Fia helped hold the wood. The strip was small, but it made a useful change. A police officer passed on the road and stopped to see why the work was happening. Fia explained the problem. The officer said it was good to make the shop safe, but warned them not to block the path outside with tools. They moved the tools at once.",
+        "zh": "稍晚，托馬帶來一條木條，準備封住門下的空隙。他量好尺寸，切出木條，安裝到位。「這比逐隻攔螞蟻好多了。」他說。菲雅幫他扶著木材。小小一條，卻帶來實用的改變。一名警員經過，停下來看他們在做什麼。菲雅說明問題。警員稱讚店家注意安全，也提醒工具別擋住外頭的通道。他們立刻把工具移開。",
+        "englishSha256": "6ccdaf2d42891cf83a2b7106c451eca9c774d1cd63aee42b5eaa101953d9353c",
+        "chineseSha256": "fd38dd6bb3d4c7b135c2b0f25c187c1f6de51a63196ac34934f229b13bafe707"
+      },
+      {
+        "number": 4,
+        "en": "When the work was over, Pip said he felt a little sick. His nose was wet, and he was more tired than usual. Fia asked him to sit in the back room and rest. \"You do not have to prove anything today,\" she said. \"We can try the garden work tomorrow.\" Pip did not want to leave his friends with more work, but Fia told him that rest was part of caring for the team. She sent him home with water and asked him to tell someone if he became worse. The others finished the cleaning without him.",
+        "zh": "工作結束後，皮普說自己有點不舒服，鼻子濕濕的，也比平常累。菲雅請他到後房休息。「你今天不用證明任何事，」她說，「花園工作明天再做。」皮普不想把更多事留給朋友，但菲雅說休息也是照顧團隊的一部分。她給他水，請他如果情況變糟要告訴家人。其他人沒有他的幫忙，也完成了清掃。",
+        "englishSha256": "62a6f88f7ae2571a4f461e7781e3ff140fbac2e872eb1936b9093df31933181f",
+        "chineseSha256": "74a63fd10d286e2d4dc4122090764f979979134c67cc5e9ab2c47f67b4e74779"
+      },
+      {
+        "number": 5,
+        "en": "Fia checked the total amount of flour left. There was less than she had planned, but still enough for the next test. She wrote down the number and called Kit's mother. \"Can we buy a smaller bag next time?\" she asked. \"It is easier for us to keep fresh.\" The farmer said yes. Fia liked that the farmer could change the order without anger. A strong shop did not have to buy more than it could use. It had to make a plan it could keep. The day had shown her that every small part of the kitchen mattered.",
+        "zh": "菲雅檢查剩下的麵粉總量。雖然比預期少，仍足夠下一次試吃。她記下數量，打電話給基特的母親。「下次可以買小袋一點嗎？」她問，「這樣較容易保鮮。」農場主人答應了。菲雅喜歡對方能平和地調整訂單。穩定的小店不必買超過所需的食物，而是要維持做得到的計畫。今天讓她明白廚房每個小地方都重要。",
+        "englishSha256": "66e7b5dd6d32ed4177b4a5c2d57209debb522e88245d735238d31d48bdf785fe",
+        "chineseSha256": "251cc96a21ee823bce56454418b76fc0664b86bcc1812a112b43b7a80b154893"
+      },
+      {
+        "number": 6,
+        "en": "That evening, Fia hung a small note on the kitchen wall. It said: \"Cover food. Keep the floor clean. Ask for help when needed.\" Moss read it out loud. \"Only three lines?\" he asked. Fia nodded. \"They are easy to remember, and we can add more if we learn something new.\" Moss smiled and went home. The shop smelled clean, and the boards by the door were dry. Fia looked down. No ants were coming through the little space. She closed the door softly and went to see whether Pip was feeling better.",
+        "zh": "傍晚，菲雅在廚房牆上掛了小字條：「蓋好食物。保持地板乾淨。需要時求助。」莫斯念出來。「只有三行？」他問。菲雅點頭。「容易記住，之後學到新事再補充。」莫斯笑著回家。店裡乾淨清爽，門旁的木板也乾了。菲雅低頭看，沒有螞蟻從小縫進來。她輕輕關門，去看看皮普是否好些。",
+        "englishSha256": "536dc486cbd8bddb345a48fb5174e67dcbefa5df11b228a9004adba73e2fbcaa",
+        "chineseSha256": "7c680f066361a5466e594b9a4a9a9b0797571d86229fa787d9d3206cce91bfc6"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 622,
+    "targets": [
+      {
+        "word": "ant",
+        "meaning": "螞蟻",
+        "appearsInSource": true
+      },
+      {
+        "word": "bag",
+        "meaning": "袋子",
+        "appearsInSource": true
+      },
+      {
+        "word": "bottle",
+        "meaning": "瓶子",
+        "appearsInSource": true
+      },
+      {
+        "word": "chicken",
+        "meaning": "雞",
+        "appearsInSource": true
+      },
+      {
+        "word": "clerk",
+        "meaning": "職員",
+        "appearsInSource": true
+      },
+      {
+        "word": "either",
+        "meaning": "也不",
+        "appearsInSource": true
+      },
+      {
+        "word": "hang",
+        "meaning": "掛起",
+        "appearsInSource": true
+      },
+      {
+        "word": "honest",
+        "meaning": "誠實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hurt",
+        "meaning": "受傷",
+        "appearsInSource": true
+      },
+      {
+        "word": "newspaper",
+        "meaning": "報紙",
+        "appearsInSource": true
+      },
+      {
+        "word": "police",
+        "meaning": "警察",
+        "appearsInSource": true
+      },
+      {
+        "word": "room",
+        "meaning": "房間",
+        "appearsInSource": true
+      },
+      {
+        "word": "several",
+        "meaning": "幾個",
+        "appearsInSource": true
+      },
+      {
+        "word": "shorts",
+        "meaning": "短褲",
+        "appearsInSource": true
+      },
+      {
+        "word": "sick",
+        "meaning": "生病的",
+        "appearsInSource": true
+      },
+      {
+        "word": "size",
+        "meaning": "尺寸",
+        "appearsInSource": true
+      },
+      {
+        "word": "than",
+        "meaning": "比",
+        "appearsInSource": true
+      },
+      {
+        "word": "to",
+        "meaning": "向",
+        "appearsInSource": true
+      },
+      {
+        "word": "total",
+        "meaning": "總量",
+        "appearsInSource": true
+      },
+      {
+        "word": "try",
+        "meaning": "嘗試",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "How does Toma help stop the ants?",
+      "options": [
+        "He closes the gap below the door",
+        "He breaks the window",
+        "He paints the road"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He closes the gap below the door",
+      "existingAnswerExplanation": "托馬用木條封住門下的空隙。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Later, Toma brought a wooden strip to close the space below the door. He measured its size, cut it, and put it in place. \"This is better than trying to stop every ant one by one,\" he said. Fia helped hold the wood. The strip was small, but it made a useful change. A police officer passed on the road and stopped to see why the work was happening. Fia explained the problem. The officer said it was good to make the shop safe, but warned them not to block the path outside with tools. They moved the tools at once.",
+          "chinese": "稍晚，托馬帶來一條木條，準備封住門下的空隙。他量好尺寸，切出木條，安裝到位。「這比逐隻攔螞蟻好多了。」他說。菲雅幫他扶著木材。小小一條，卻帶來實用的改變。一名警員經過，停下來看他們在做什麼。菲雅說明問題。警員稱讚店家注意安全，也提醒工具別擋住外頭的通道。他們立刻把工具移開。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 1,
+          "english": "On a sunny morning, Fia found an ant near a bag of flour. Then she saw several more on the floor. She did not want insects near food. \"We must clean this room before we cook,\" she said. Moss put the flour into a closed box, and Pip checked every bottle on the shelf. Kit, who had come to help, wore shorts and carried a small brush. They worked carefully. Nobody tried to hurt the little ants. Instead, they moved the open food, cleaned the floor, and found the small opening under the door where the ants came in.",
+          "chinese": "晴朗早晨，菲雅在一袋麵粉旁發現一隻螞蟻，接著又在地板上看到好幾隻。她不希望食物旁有昆蟲。「煮飯前得先把這裡清乾淨。」她說。莫斯把麵粉放進密封盒，皮普檢查架上的每個瓶子。來幫忙的基特穿著短褲，拿著小刷子。他們仔細打掃，沒有傷害螞蟻，只是移開開放食物、清潔地板，並找到門下供螞蟻進來的小縫。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Pip go home early?",
+      "options": [
+        "He feels sick and needs rest",
+        "He has a train ticket",
+        "He hates the shop"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He feels sick and needs rest",
+      "existingAnswerExplanation": "皮普身體不舒服，菲雅請他休息。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "When the work was over, Pip said he felt a little sick. His nose was wet, and he was more tired than usual. Fia asked him to sit in the back room and rest. \"You do not have to prove anything today,\" she said. \"We can try the garden work tomorrow.\" Pip did not want to leave his friends with more work, but Fia told him that rest was part of caring for the team. She sent him home with water and asked him to tell someone if he became worse. The others finished the cleaning without him.",
+          "chinese": "工作結束後，皮普說自己有點不舒服，鼻子濕濕的，也比平常累。菲雅請他到後房休息。「你今天不用證明任何事，」她說，「花園工作明天再做。」皮普不想把更多事留給朋友，但菲雅說休息也是照顧團隊的一部分。她給他水，請他如果情況變糟要告訴家人。其他人沒有他的幫忙，也完成了清掃。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 6,
+          "english": "That evening, Fia hung a small note on the kitchen wall. It said: \"Cover food. Keep the floor clean. Ask for help when needed.\" Moss read it out loud. \"Only three lines?\" he asked. Fia nodded. \"They are easy to remember, and we can add more if we learn something new.\" Moss smiled and went home. The shop smelled clean, and the boards by the door were dry. Fia looked down. No ants were coming through the little space. She closed the door softly and went to see whether Pip was feeling better.",
+          "chinese": "傍晚，菲雅在廚房牆上掛了小字條：「蓋好食物。保持地板乾淨。需要時求助。」莫斯念出來。「只有三行？」他問。菲雅點頭。「容易記住，之後學到新事再補充。」莫斯笑著回家。店裡乾淨清爽，門旁的木板也乾了。菲雅低頭看，沒有螞蟻從小縫進來。她輕輕關門，去看看皮普是否好些。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 15,
+  "chapterId": "tomorrow-15",
+  "sourceChapterSha256": "9829079859cc71f86fb46682b38425786e2bd83dee0eed3150d34923faa6030b",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "學校通知證實六月未偷錢；保存對抗 Bell 恐嚇證據",
+    "previousChapterEndingEnglish": "Ms Lin said the school now had enough to make a clear correction about the money and to begin a full review of the page. She asked whether June wanted to attend Friday's show. June said she did not know. Then she opened one last file. It was not a video. It was a screenshot of Bell's latest message. If you give them the card, the next name is your mother's.",
+    "nextChapterOpeningEnglish": "By Thursday evening, ninety-nine percent of Zero wanted me to tell everyone what I had done. At least, that was what the page said. Under the number was a place to leave a comment. The first comment called me brave. The second called me a liar. The third asked for June's full video. I closed the page before I could read the rest."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "June's mother read the message without changing her face. Then she moved her chair close to June's. “We are not trading anyone's safety for silence,” she said. Ms Lin asked if the message included an address or a plan to approach them. It did not. They saved the original message and agreed on what to report and who would follow up. Nobody asked June to answer Bell.",
+        "zh": "June 媽媽讀訊息，表情沒變，接著把椅子移近女兒。「我們不拿任何人的安全交換沉默。」林老師問訊息有沒有地址或接近她們的計畫，沒有。她們保存原始訊息，討論通報內容與追蹤的人，沒有人叫 June 回覆 Bell。",
+        "englishSha256": "9a16925d37b1a0c64eaea4944aef71b20b3c1b603d01edf15a9b8cd3340bcd4a",
+        "chineseSha256": "dd906e774b3dc7f5d643e13ea42c336a0811b9c7bdc30f928866bcdb22397d0d"
+      },
+      {
+        "number": 2,
+        "en": "I felt useless sitting there. In stories, this was when the friends made a brave plan. We were making records and deciding who should call whom. It seemed painfully slow. Then June's hand began to shake around her empty water cup. Her mother took the cup and gave her both hands instead. I understood that being slow enough to notice a shaking hand could also be part of helping.",
+        "zh": "坐在那裡，我覺得沒用。故事裡，這時朋友該想出勇敢計畫；我們卻在做紀錄、決定誰打給誰，慢得難受。接著 June 握空水杯的手開始抖。媽媽拿走杯子，改用雙手握住她。我懂了：慢到看見一雙發抖的手，也是一種幫忙。",
+        "englishSha256": "111d692943f109b0be50ad44e09074a5ab91880bdafac028abeae1f0b401051a",
+        "chineseSha256": "92959bfdcf05f440cce988d648719b4393b4d7c3313cb0c32ac7f3551b6499d9"
+      },
+      {
+        "number": 3,
+        "en": "Ms Lin called Mr Reed from outside the reading room. When she returned, the Friday laptop had been placed in the office, and the show team's old shared account was closed. The computer teacher had found a full copy of June's video on it, matching her camera file. They had also found the draft slides for The Truth Game. The school would keep copies for the review, not for the show.",
+        "zh": "林老師到閱覽室外打給校長。回來時，星期五筆電已放進辦公室，表演團隊的舊共用帳號停用。資訊老師找到與 June 相機相符的完整副本，也找到真相遊戲投影片草稿。學校會保留作調查，不作表演。",
+        "englishSha256": "301295d7806a98635ca943230f47f6e31d91ef8fc88436b88b87a1ded43dfaa8",
+        "chineseSha256": "3224fa64edea880443bd5c78f0e1e6f8d99090f9aaeb70c0b21a9255536df759"
+      },
+      {
+        "number": 4,
+        "en": "“That doesn't tell us who sent Bell's message,” Leo said when we called him. He was right. Kai had access to Zero. That did not mean every blank account was his. Ms Lin asked us not to post guesses. June looked at me, and I looked back. We had both learned how quickly a guess could put on the clothes of a fact and walk into a classroom.",
+        "zh": "「這還不能確定 Bell 是誰。」我們打給 Leo 時，他說。沒錯，Kai 能操作 Zero，不代表每個空白帳號都是他。林老師叫我們別發布猜測。June 和我互看，我們都學會：猜測穿上事實的衣服，走進教室，可以有多快。",
+        "englishSha256": "51cbc43f7dc88fe20f990d359d71e7d56a255083227090aa73e8d3a5f83bd076",
+        "chineseSha256": "89f4515d48c3529488c05988a467a0314e33022d78f8f279f5b2189e8ccb905f"
+      },
+      {
+        "number": 5,
+        "en": "Outside the library, rain began again. June's mother went to bring the car closer. Ms Lin waited under the bright front light. June and I stood beside her, not quite touching. I asked if June wanted the yellow coat from school. She shook her head. “I gave it to the film room for anyone to use. It isn't a clue about where I am.” I laughed, then felt bad for laughing.",
+        "zh": "圖書館外又下雨。June 媽媽去開車，林老師站在明亮前燈下等。我和 June 站旁邊，差一點碰到。我問她要不要學校的黃雨衣，她搖頭。「那是捐給電影教室給大家用的，不是我的行蹤線索。」我笑了，又覺得不該笑。",
+        "englishSha256": "6fd0c06ae9fd765952e03d73e31126fff4d1035df8df637823c6c4b1218e3717",
+        "chineseSha256": "9c243ee30dcb3994606ced3835ea24cc94eb006bb531ecf6e29f510be5215018"
+      },
+      {
+        "number": 6,
+        "en": "June laughed too, just once. “You really thought I was walking around in windows?” “Maybe.” “I'm not a very good ghost. I get hungry.” The moment was small and warm. Then her face became serious. “I don't know if we can be friends the way we were.” I looked at the wet steps. “I know.” “I don't want you doing all this just to get me back.”",
+        "zh": "June 也笑了一聲。「妳真的以為我在窗戶裡走來走去？」「也許。」「我不是好鬼，我會餓。」那一刻小而溫暖，接著她嚴肅起來。「我不知道能不能像以前當朋友。」「我知道。」「我不希望妳做這些，只為了把我找回去。」",
+        "englishSha256": "9539c335f2f3d670c5a0f60876560475340eaf4f05c92237ba71efbb88452015",
+        "chineseSha256": "e94aaace21a2cc23ce16399495e7caeff5a7959d1e8e47bc2c94673400f35ffe"
+      },
+      {
+        "number": 7,
+        "en": "That hurt because a part of it was true. I wanted a clean ending: truth out, June back, everybody better. I wanted my old place beside her. “I will still say what I did,” I told her. “Even if you don't sit with me again.” She watched me for a long moment. Then she nodded. Her mother's car stopped by the curb. June left without giving me the answer I wanted.",
+        "zh": "這很痛，因為有一部分是真的。我想要乾淨的結局：真相公開、June 回來、大家變好。我想要回她旁邊原來的位置。「我還是會說自己做了什麼，就算妳不再跟我坐。」她看我很久，然後點頭。媽媽的車停到路邊。June 離開，沒給我想要的答案。",
+        "englishSha256": "c138965523603cdd3998813c98ac2c8c403ed348ad49cea40881612389ca93b9",
+        "chineseSha256": "d8b3e580a1c5ece11257c0f3762a5ab63b63cdba3cdb16ec1c8fe2aae341c901"
+      },
+      {
+        "number": 8,
+        "en": "On the way home, Mum drove while I read a new school notice. The first line said, There has been no theft of school show money by June Park. I read it aloud. For six weeks, that sentence had been missing. Now it existed. Under it was a link to a private reporting form. Above it, my phone showed a new alert. Zero was running one final vote. Should Mia tell everyone what she did?",
+        "zh": "回家路上，媽媽開車，我讀新的學校公告。第一句是：June Park 並未偷取校慶款項。我大聲讀出。這句話缺席六週，現在終於存在。下方有私人通報表單連結。上方手機跳出通知：Zero 開始最後一場投票——Mia 應不應該告訴大家，她做過什麼？",
+        "englishSha256": "47dd5f48e01a4c00eb009537e26f65235eb9c6e77140c9aa8203fdc6aa87e1a4",
+        "chineseSha256": "37539b3f589f1748d74aef2ecba9b55900888fc5a512c8a72e3888ba785c1c78"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 559,
+    "targets": [
+      {
+        "word": "clothes",
+        "meaning": "衣服",
+        "appearsInSource": true
+      },
+      {
+        "word": "cup",
+        "meaning": "杯子",
+        "appearsInSource": true
+      },
+      {
+        "word": "follow",
+        "meaning": "跟隨",
+        "appearsInSource": true
+      },
+      {
+        "word": "hungry",
+        "meaning": "餓的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mean",
+        "meaning": "意思是；刻薄的",
+        "appearsInSource": true
+      },
+      {
+        "word": "park",
+        "meaning": "公園；停車",
+        "appearsInSource": true
+      },
+      {
+        "word": "place",
+        "meaning": "地方；放置",
+        "appearsInSource": true
+      },
+      {
+        "word": "quite",
+        "meaning": "相當；頗",
+        "appearsInSource": true
+      },
+      {
+        "word": "rain",
+        "meaning": "雨；下雨",
+        "appearsInSource": true
+      },
+      {
+        "word": "really",
+        "meaning": "真的；非常",
+        "appearsInSource": true
+      },
+      {
+        "word": "report",
+        "meaning": "報告；通報",
+        "appearsInSource": true
+      },
+      {
+        "word": "right",
+        "meaning": "對的；右邊；權利",
+        "appearsInSource": true
+      },
+      {
+        "word": "say",
+        "meaning": "說",
+        "appearsInSource": true
+      },
+      {
+        "word": "sentence",
+        "meaning": "句子",
+        "appearsInSource": true
+      },
+      {
+        "word": "serious",
+        "meaning": "嚴重的；認真的",
+        "appearsInSource": true
+      },
+      {
+        "word": "shake",
+        "meaning": "搖動",
+        "appearsInSource": true
+      },
+      {
+        "word": "use",
+        "meaning": "使用",
+        "appearsInSource": true
+      },
+      {
+        "word": "very",
+        "meaning": "非常",
+        "appearsInSource": true
+      },
+      {
+        "word": "walk",
+        "meaning": "走路",
+        "appearsInSource": true
+      },
+      {
+        "word": "wet",
+        "meaning": "濕的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What is confirmed by the school’s new notice?",
+      "options": [
+        "Every Bell message was sent by Kai.",
+        "All online copies have disappeared.",
+        "June did not steal the school show money."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "June did not steal the school show money.",
+      "existingAnswerExplanation": "June did not steal the school show money.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "On the way home, Mum drove while I read a new school notice. The first line said, There has been no theft of school show money by June Park. I read it aloud. For six weeks, that sentence had been missing. Now it existed. Under it was a link to a private reporting form. Above it, my phone showed a new alert. Zero was running one final vote. Should Mia tell everyone what she did?",
+          "chinese": "回家路上，媽媽開車，我讀新的學校公告。第一句是：June Park 並未偷取校慶款項。我大聲讀出。這句話缺席六週，現在終於存在。下方有私人通報表單連結。上方手機跳出通知：Zero 開始最後一場投票——Mia 應不應該告訴大家，她做過什麼？",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 3,
+          "english": "Ms Lin called Mr Reed from outside the reading room. When she returned, the Friday laptop had been placed in the office, and the show team's old shared account was closed. The computer teacher had found a full copy of June's video on it, matching her camera file. They had also found the draft slides for The Truth Game. The school would keep copies for the review, not for the show.",
+          "chinese": "林老師到閱覽室外打給校長。回來時，星期五筆電已放進辦公室，表演團隊的舊共用帳號停用。資訊老師找到與 June 相機相符的完整副本，也找到真相遊戲投影片草稿。學校會保留作調查，不作表演。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How does June's mother respond to Bell's threat?",
+      "options": [
+        "She asks June to answer Bell alone.",
+        "She agrees to silence in exchange for safety.",
+        "She refuses to trade safety for silence and helps preserve the message."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "She refuses to trade safety for silence and helps preserve the message.",
+      "existingAnswerExplanation": "母親明說不拿任何人的安全交換沉默；眾人保存原始訊息並安排通報與追蹤。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "June's mother read the message without changing her face. Then she moved her chair close to June's. “We are not trading anyone's safety for silence,” she said. Ms Lin asked if the message included an address or a plan to approach them. It did not. They saved the original message and agreed on what to report and who would follow up. Nobody asked June to answer Bell.",
+          "chinese": "June 媽媽讀訊息，表情沒變，接著把椅子移近女兒。「我們不拿任何人的安全交換沉默。」林老師問訊息有沒有地址或接近她們的計畫，沒有。她們保存原始訊息，討論通報內容與追蹤的人，沒有人叫 June 回覆 Bell。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 4,
+          "english": "“That doesn't tell us who sent Bell's message,” Leo said when we called him. He was right. Kai had access to Zero. That did not mean every blank account was his. Ms Lin asked us not to post guesses. June looked at me, and I looked back. We had both learned how quickly a guess could put on the clothes of a fact and walk into a classroom.",
+          "chinese": "「這還不能確定 Bell 是誰。」我們打給 Leo 時，他說。沒錯，Kai 能操作 Zero，不代表每個空白帳號都是他。林老師叫我們別發布猜測。June 和我互看，我們都學會：猜測穿上事實的衣服，走進教室，可以有多快。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

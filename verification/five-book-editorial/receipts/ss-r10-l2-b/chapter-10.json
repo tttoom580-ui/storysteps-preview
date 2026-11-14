@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 10,
+  "chapterId": "ss-r10-l2-b-10",
+  "sourceChapterSha256": "a3143fee277a90f431c66203262ddc7b8ffb566031c6835b544e010a19eb4567",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "春季活動場地過窄，問匿名撤回申請的長期程序",
+    "previousChapterEndingEnglish": "Outside the office, Evan apologized for the sound club's reaction. May told him he did not have to take responsibility for every member, only for how he acted next. He said he wanted to stand beside her at the next meeting, not to speak for her. She accepted the offer. Their work had brought them close enough to disagree without fearing that everything would end. As they walked back to the market, he asked if she would like to visit the weekend book fair. She said yes, provided he promised not to call it a research trip.",
+    "nextChapterOpeningEnglish": "The note about removing recordings had been written by an author named Mr. Lin, who once worked at the market theater. He arrived at the fair with a narrow folder and a pale face. He said a student had played part of his wedding speech at a private test, even though he had permitted it only for a family event. May listened without trying to defend the team. Evan checked the file record and found that a volunteer had included the speech in a draft by mistake. “We disagree about many things,” May told Evan later, “but neither of us believes a mistake becomes harmless because it was small.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The spring fair was only one week away. A group of students came to gather the materials for the listening room, but the space they had been given was shorter than the plan. Evan measured its length with a tape and wrote the result in meters. They had room for two speakers, not three. May suggested a gradual opening with fewer visitors per group. A student wanted to ignore the problem because the event was supposed to be musical and fun. Evan said proper planning was not the enemy of style. It was the way to make the music safe for everyone.",
+        "zh": "距離春季活動只剩一週。學生們來收集聆聽室材料，卻發現分配到的空間比圖紙短。安澤用捲尺量長度，以公尺記錄結果。他們只能放兩個喇叭，不能放三個。慧建議逐步開放，每組訪客少一些。一名學生想忽略問題，因為活動應該是音樂性的、有趣的。安澤說，妥善規劃不是風格的敵人，而是讓所有人安全享受音樂的方法。",
+        "englishSha256": "6c6eab97a06e36bdb6be5e84c68f89149ad12e35b8f628c431e01db78546a456",
+        "chineseSha256": "608dfbce4dcbe7550baa7c465150cbe3c00f458be08a744b31eb40ef8d6354e9"
+      },
+      {
+        "number": 2,
+        "en": "Mrs. Fen brought biscuits and a small basket of yams for the workers. A child showed them a snail he had found near the door, and everyone stepped around it. The scene made May smile: even on a busy day, people could notice a small life. A goose from a nearby farm began to call, and a volunteer suggested using the sound in the show. May reminded him that they could record animals on public land when it was safe, but should never enter a private yard without permission. Evan wrote that rule beside the other safety notes.",
+        "zh": "芬姨帶來餅乾和一小籃番薯，送給工作的人。一個孩子指著門邊找到的蝸牛，大家都繞過牠。慧笑了：即使忙碌，也可以注意到一個小生命。附近農場的鵝忽然叫起來，志工提議把聲音放進展覽。慧提醒他，安全時可以在公共場地錄動物聲，但絕不能未經允許進入私人庭院。安澤把這條寫進其他安全提醒旁。",
+        "englishSha256": "2dcda771f19898c2d4f43bc3b310402a40bd8e93d91993bfbddcb298c0e9aa2a",
+        "chineseSha256": "5d9813b9e9d7514792c4121cd94878ad2d10c8dc89d9d75c90ac1455183cf5f5"
+      },
+      {
+        "number": 3,
+        "en": "The organizer sent congratulations before they had even finished. May thanked her but said the fair was not ready yet. The door needed a new unit for visitors who could not hear well: a written guide with simple pictures and an easy way to request help. Evan worked late to make the signs. A student asked whether he was using his vacation for the project, and he laughed. “It feels like a vacation from a different kind of work.” May knew he had an important music exam coming, so she offered to take the morning shift while he studied.",
+        "zh": "主辦人還沒等團隊完成就先送來祝賀。慧道謝，卻說展覽仍未準備好。入口需要增加一個給聽力不佳訪客使用的單元：簡單圖片配文字的導覽，以及容易求助的方法。安澤熬夜做標示。一位學生問他是不是把假期都花在計畫上，他笑道：「這感覺像從另一種工作中放假。」慧知道他快要考重要的音樂考試，便主動接下早班，讓他讀書。",
+        "englishSha256": "9f31ca92dabfc44d7f78da346908c669cd2ebfca19e1b8663e3a232caf2b5a1d",
+        "chineseSha256": "fa3543374779f2bce73dfc7b397dfe272c7acaba8d7943bb8063e294f2565185"
+      },
+      {
+        "number": 4,
+        "en": "Late that afternoon, a fox appeared at the edge of the empty parking field and vanished before anyone could take a picture. May wondered if they should add a line about the sounds that would never be caught. Evan said the best part of the market was sometimes what people did not chase. He asked her to walk through the room once more and tell him what felt wrong. She pointed to a sign too high for children and another hidden behind a chair. He lowered them without complaint. Every small change made the place feel more ready.",
+        "zh": "那天下午晚些時候，一隻狐狸出現在空停車場邊緣，還沒有人拍照就消失了。慧想，也許應該寫一行字談那些永遠錄不到的聲音。安澤說，市場最好的部分有時正是人們沒有追逐的東西。他請慧再走一次房間，指出任何不對勁的地方。她發現一張標示對孩子太高，另一張藏在椅子後面。他沒有抱怨，就把它們調低。每個微小改動都讓場地更接近準備完成。",
+        "englishSha256": "f917d9a5c8c94125f18422aad67e5759aa5f6ed016c0b6bbae8879c2c6c0fd08",
+        "chineseSha256": "bbe9bd99a15384cc1e14ac9cbedf21df43f2ea8c21ad4aa0d9575a3d52ea05f0"
+      },
+      {
+        "number": 5,
+        "en": "A volunteer asked whether extra seats were available, and Evan checked each row before answering. There was space for six more people if they moved the small table, but the clear path had to remain one meter wide. Mrs. Fen offered a biscuit to a tired worker and set a baked yam beside it for later. May admired the worker's quiet courage in admitting that she needed a break. “There is no prize for pretending not to be tired,” she said. The worker laughed and sat down. Evan watched May turn a room full of rushed people into a place where someone could ask for rest. He did not think she noticed how much she helped. Then she saw him checking the emergency light for the third time and asked him to take a break too. He agreed, surprised at how welcome the reminder felt.",
+        "zh": "志工問還有沒有可用座位，安澤逐排確認才回答。若移開小桌子，可以再坐六個人，但通道必須維持一公尺寬。芬姨給疲倦工人一片餅乾，也留了一條烤番薯讓她晚點吃。慧欣賞她有勇氣承認自己需要休息。「假裝不累不會得到獎品，」她說。工人笑了，坐下來。安澤看著慧讓忙亂的空間變成可以安心提出休息要求的地方，覺得她也許沒有發現自己幫了多少忙。接著慧看見他第三次檢查緊急照明，也請他去休息。他答應了，意外發現這提醒多麼令人感到被照顧。",
+        "englishSha256": "44dec306cf2d2665e8e0c15863412d846c039aba4752bb42db4c62a4819183e8",
+        "chineseSha256": "e3fd81f3b0436d82771cc9bf117306ce3ff46c5af9bd9e9211581c7ca6550c5b"
+      },
+      {
+        "number": 6,
+        "en": "When they closed the room, May found a note in the doorway. It had no name, only a question: “What will you do if someone asks you to remove their voice after the fair?” She read it to Evan, who stopped smiling. Their permission form covered the time before release, but its words about the years after were unclear. The new committee had not yet been chosen. They could not solve that problem with glue, paint, or another sign. Evan folded the note carefully. The fair would have to open with an honest answer, not a perfect-looking wall.",
+        "zh": "關門時，慧在門口發現一張沒有署名的紙條，上面只有一個問題：「如果有人在活動結束後要求移除自己的聲音，你們會怎麼辦？」她念給安澤聽，他不再微笑。同意書處理了公開前的時間，對多年後的處理卻寫得不清楚。新委員會也還沒選好。這不是靠膠水、油漆或另一張標示就能解決的問題。安澤小心折好紙條。活動必須帶著誠實的答案開幕，而不是只有完美的外牆。",
+        "englishSha256": "fd7c0d57416759d9f25b710d438bb5e67c37f974179f34a41e38f8e84de73630",
+        "chineseSha256": "c6e80476fa570eb6152a5ba3e75ec4c295e88d0d56de5d61f26ec2ff80d3a8d7"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 640,
+    "targets": [
+      {
+        "word": "available",
+        "meaning": "可用的",
+        "appearsInSource": true
+      },
+      {
+        "word": "biscuit",
+        "meaning": "餅乾",
+        "appearsInSource": true
+      },
+      {
+        "word": "congratulations",
+        "meaning": "祝賀",
+        "appearsInSource": true
+      },
+      {
+        "word": "courage",
+        "meaning": "勇氣",
+        "appearsInSource": true
+      },
+      {
+        "word": "fox",
+        "meaning": "狐狸",
+        "appearsInSource": true
+      },
+      {
+        "word": "gather",
+        "meaning": "收集",
+        "appearsInSource": true
+      },
+      {
+        "word": "glue",
+        "meaning": "膠水",
+        "appearsInSource": true
+      },
+      {
+        "word": "goose",
+        "meaning": "鵝",
+        "appearsInSource": true
+      },
+      {
+        "word": "gradual",
+        "meaning": "漸進的",
+        "appearsInSource": true
+      },
+      {
+        "word": "ignore",
+        "meaning": "忽略",
+        "appearsInSource": true
+      },
+      {
+        "word": "length",
+        "meaning": "長度",
+        "appearsInSource": true
+      },
+      {
+        "word": "meter",
+        "meaning": "公尺",
+        "appearsInSource": true
+      },
+      {
+        "word": "musical",
+        "meaning": "音樂的",
+        "appearsInSource": true
+      },
+      {
+        "word": "per",
+        "meaning": "每",
+        "appearsInSource": true
+      },
+      {
+        "word": "proper",
+        "meaning": "適當的",
+        "appearsInSource": true
+      },
+      {
+        "word": "snail",
+        "meaning": "蝸牛",
+        "appearsInSource": true
+      },
+      {
+        "word": "style",
+        "meaning": "風格",
+        "appearsInSource": true
+      },
+      {
+        "word": "unit",
+        "meaning": "單元",
+        "appearsInSource": true
+      },
+      {
+        "word": "vacation",
+        "meaning": "假期",
+        "appearsInSource": true
+      },
+      {
+        "word": "yam",
+        "meaning": "地瓜",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why could the room use only two speakers?",
+      "options": [
+        "The space was shorter than planned",
+        "The other speaker was stolen",
+        "Visitors disliked music"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The space was shorter than planned",
+      "existingAnswerExplanation": "重新測量發現場地長度不足，不能照原方案擺三台喇叭。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The spring fair was only one week away. A group of students came to gather the materials for the listening room, but the space they had been given was shorter than the plan. Evan measured its length with a tape and wrote the result in meters. They had room for two speakers, not three. May suggested a gradual opening with fewer visitors per group. A student wanted to ignore the problem because the event was supposed to be musical and fun. Evan said proper planning was not the enemy of style. It was the way to make the music safe for everyone.",
+          "chinese": "距離春季活動只剩一週。學生們來收集聆聽室材料，卻發現分配到的空間比圖紙短。安澤用捲尺量長度，以公尺記錄結果。他們只能放兩個喇叭，不能放三個。慧建議逐步開放，每組訪客少一些。一名學生想忽略問題，因為活動應該是音樂性的、有趣的。安澤說，妥善規劃不是風格的敵人，而是讓所有人安全享受音樂的方法。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 5,
+          "english": "A volunteer asked whether extra seats were available, and Evan checked each row before answering. There was space for six more people if they moved the small table, but the clear path had to remain one meter wide. Mrs. Fen offered a biscuit to a tired worker and set a baked yam beside it for later. May admired the worker's quiet courage in admitting that she needed a break. “There is no prize for pretending not to be tired,” she said. The worker laughed and sat down. Evan watched May turn a room full of rushed people into a place where someone could ask for rest. He did not think she noticed how much she helped. Then she saw him checking the emergency light for the third time and asked him to take a break too. He agreed, surprised at how welcome the reminder felt.",
+          "chinese": "志工問還有沒有可用座位，安澤逐排確認才回答。若移開小桌子，可以再坐六個人，但通道必須維持一公尺寬。芬姨給疲倦工人一片餅乾，也留了一條烤番薯讓她晚點吃。慧欣賞她有勇氣承認自己需要休息。「假裝不累不會得到獎品，」她說。工人笑了，坐下來。安澤看著慧讓忙亂的空間變成可以安心提出休息要求的地方，覺得她也許沒有發現自己幫了多少忙。接著慧看見他第三次檢查緊急照明，也請他去休息。他答應了，意外發現這提醒多麼令人感到被照顧。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What question did the unsigned note raise?",
+      "options": [
+        "How to remove a voice after the fair",
+        "How to buy more lights",
+        "Who would sing first"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "How to remove a voice after the fair",
+      "existingAnswerExplanation": "匿名紙條追問活動結束後的撤回程序。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "When they closed the room, May found a note in the doorway. It had no name, only a question: “What will you do if someone asks you to remove their voice after the fair?” She read it to Evan, who stopped smiling. Their permission form covered the time before release, but its words about the years after were unclear. The new committee had not yet been chosen. They could not solve that problem with glue, paint, or another sign. Evan folded the note carefully. The fair would have to open with an honest answer, not a perfect-looking wall.",
+          "chinese": "關門時，慧在門口發現一張沒有署名的紙條，上面只有一個問題：「如果有人在活動結束後要求移除自己的聲音，你們會怎麼辦？」她念給安澤聽，他不再微笑。同意書處理了公開前的時間，對多年後的處理卻寫得不清楚。新委員會也還沒選好。這不是靠膠水、油漆或另一張標示就能解決的問題。安澤小心折好紙條。活動必須帶著誠實的答案開幕，而不是只有完美的外牆。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "The spring fair was only one week away. A group of students came to gather the materials for the listening room, but the space they had been given was shorter than the plan. Evan measured its length with a tape and wrote the result in meters. They had room for two speakers, not three. May suggested a gradual opening with fewer visitors per group. A student wanted to ignore the problem because the event was supposed to be musical and fun. Evan said proper planning was not the enemy of style. It was the way to make the music safe for everyone.",
+          "chinese": "距離春季活動只剩一週。學生們來收集聆聽室材料，卻發現分配到的空間比圖紙短。安澤用捲尺量長度，以公尺記錄結果。他們只能放兩個喇叭，不能放三個。慧建議逐步開放，每組訪客少一些。一名學生想忽略問題，因為活動應該是音樂性的、有趣的。安澤說，妥善規劃不是風格的敵人，而是讓所有人安全享受音樂的方法。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

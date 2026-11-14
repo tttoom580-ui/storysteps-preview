@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 16,
+  "chapterId": "ss-r11-l1-a-16",
+  "sourceChapterSha256": "01b82a539d2bfd72944de0ba5a9e00bef3714b8cf8526e08b795fde4650abeeb",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "莎拉在市場架子後的棕布下發現一只綠箱，但架子必須由工作人員安全移動，孩子不得擅自進入儲藏室。",
+    "previousChapterEndingEnglish": "On the way back Ivy felt a sore place on her foot after walking all morning. She sat to rest while Ms. Wen counted the group. Jun said they had come close to an answer. Ivy said the green container might still be a different box. It would be wrong to tell the younger students that the seeds had been found. They waited for Sara to check its drawing. “I want us to be glad when we know, not only when we hope,” Ivy said. Jun agreed and offered to carry her water bottle.",
+    "nextChapterOpeningEnglish": "The next afternoon Sara called again. Two workers had moved the shelf, and she could finally see the green box. There was a monkey on its side, with orange ears and one white tooth. Ivy's face grew warm. “That really sounds like ours,” she said. Ms. Wen asked Sara to check the school name on the bottom before they made a final decision. Jun stood close enough to hear but did not shout. He was strong enough to carry a box, but he knew that workers at the market would bring it back safely."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next day was very hot. Air above the school garden felt still, and Ivy could see heat rise from the road. The children wore hats and worked slowly. Ms. Wen told them that the garden was part of the earth and needed care in different weather. A writer from the school paper came to ask about the missing green box. Ivy said she did not know where it was, but she knew people were helping. The writer smiled. “That is a correct answer,” she said. “It is smart not to claim more than you know.”",
+        "zh": "隔天很熱。學校花園上方的空氣似乎不再流動，艾薇甚至看見熱氣從道路升起。孩子們戴著帽子，放慢動作。溫老師告訴他們，花園是地球的一部分，不同天氣需要不同照顧方式。校刊的一位小記者來問失蹤綠箱子的事。艾薇說她還不知道箱子在哪裡，但知道許多人正在幫忙。小記者笑了。「這是正確的回答，」她說，「不把不知道的事說成知道，才是聰明的做法。」",
+        "englishSha256": "a489a4cca8ccc1567c29b62fb5acb25bf73180302ca67dda21a1cb79d145a9ea",
+        "chineseSha256": "6dc56fbff4b72ad2c5fe0003fd00e61da17a9be1b377107137af1cae178070dd"
+      },
+      {
+        "number": 2,
+        "en": "A boy became angry when the club said the small plants could not stay in the strong sun. “We worked on them all morning,” he said. Ivy asked him to look at the dry leaves. He took off his hat and moved the cups into shade. “The subject of today's lesson is care, not speed,” Ms. Wen said. The boy nodded. He had wanted to do well, and now he could see another way. They lifted the cups up only as far as the safe table, keeping them away from the hot path.",
+        "zh": "社團說小植物不能一直放在烈日下時，一個男孩生氣了。「我們整個早上都在做這些，」他說。艾薇請他看看乾燥的葉片。他摘下帽子，把杯子移進陰影。「今天的課程主題是照顧，不是速度，」溫老師說。男孩點點頭。他原本想把事情做好，現在也看見另一種做法。大家只把杯子抬到安全的桌面高度，遠離發燙的小徑。",
+        "englishSha256": "5408bf5b75093bc7765d4a99ab745e11ba11dc57a0b31616b7daa5bf476859e4",
+        "chineseSha256": "eca365609d601bfdade9ba60e4e28f25cedbfdaa67a8cbec541628b392954996"
+      },
+      {
+        "number": 3,
+        "en": "In science class they learned about fire and why dry grass could burn quickly. The teacher asked students not to make fire near plants or use a hot machine without an adult. Ivy touched the cool side of a water cup and thought about the small seeds. They would not grow just because the club wanted them to. The group made a simple order for their work: check the soil, give enough water, move the cups into shade, and then look at the paths. They did not try to do everything fast.",
+        "zh": "科學課上，他們學到火的知識，以及乾草為什麼容易燃燒。老師請學生不要在植物附近生火，也不要在沒有大人陪同下操作發熱機器。艾薇摸著水杯涼涼的杯身，想起小種子。植物不會只因社團希望，就立刻長大。大家為工作排出簡單順序：檢查土壤、給足水、把杯子移到陰影處、然後查看小徑。他們沒有急著一次完成所有事。",
+        "englishSha256": "73f9cbfb86f5791b024334e7288601e3a51bfdbb9eee91eeab91d378ee58c140",
+        "chineseSha256": "aff74f2a2adb222d4b856781f71ca8ac23e98e161b97f13136540114ee95fd2f"
+      },
+      {
+        "number": 4,
+        "en": "At lunch Jun had a cookie and tea. He had hurt his knee during a game and was wearing a soft bandage. Ivy asked how he felt. “Not bad,” he said. “I know I should not run today.” He helped with the plant signs while sitting at the table. A television in the hall was showing a program about the weather, but they turned it down so the club could talk. Their teacher wanted every student to have a useful job, whether they could run, sit, carry, or draw.",
+        "zh": "午餐時，俊吃了餅乾，喝了一杯茶。他玩遊戲時傷了膝蓋，正貼著柔軟的護帶。艾薇問他感覺如何。「還好，」他說，「我知道今天不該跑。」他坐在桌旁幫忙做植物標示牌。大廳的電視正在播天氣節目，但大家把聲音調小，好讓社團討論。老師希望每個學生都有合適的工作，不管他能跑、能坐著、能搬東西，還是能畫畫。",
+        "englishSha256": "581157e9551fe1736fadff1d6099738209f2e439b66c16e12ce9d1304bd5fa12",
+        "chineseSha256": "a90faf16398917f46cdec87080545a587bc3fab170075316d23a43e2dbeba4ed"
+      },
+      {
+        "number": 5,
+        "en": "In the afternoon the club counted the coins left from its last event. Jun held up a one-cent coin and asked whether such a small amount mattered. Ivy said even one cent belonged in a clear record. The school would not wear away its money by forgetting small things, and the club should show where every coin went. They made a small page with the money they had and the things they planned to buy. It was not exciting, but it helped them make fair choices together.",
+        "zh": "下午，社團清點上次活動留下的硬幣。俊舉起一枚一分錢硬幣，問這麼少的錢有沒有關係。艾薇說，即使一分錢也應記在清楚的帳上。學校不該因忽略小事而浪費經費，社團也應讓大家知道每枚硬幣的去向。他們做了一張小表，記下現有的錢和打算買的物品。這件事不刺激，卻幫大家一起做公平的選擇。",
+        "englishSha256": "d7ee6e2fc5aaa00d63ea49d2dbddea61a93e49c23457aeb1bf92f310a84cf603",
+        "chineseSha256": "1a8e000accc5a2f4bb0d45c1c53e2bd98d36a3d12469e598a0df3f0efd2bac79"
+      },
+      {
+        "number": 6,
+        "en": "After school Sara called the office. She had checked the second storage room in the market hall. A green box stood under a brown cloth, but she could not see its side. It was behind a large shelf, and moving the shelf would need two workers. Ivy wanted to go there at once. Ms. Wen asked her to wait until the staff could make the room safe. “We have come this far without anyone getting hurt,” she said. Ivy did not like waiting, but she knew that safety belonged to the story too.",
+        "zh": "放學後，莎拉打電話到學校辦公室。她已查看市場大廳的第二間儲藏室。棕色布下面確實有個綠箱子，但她看不到側面。箱子位在大架子後方，要兩位工人才能安全搬動架子。艾薇想立刻過去。溫老師請她等工作人員把房間整理安全。「我們一路走到這裡，都沒有讓任何人受傷，」老師說。艾薇不喜歡等待，卻知道安全也是這個故事的一部分。",
+        "englishSha256": "ea2aa971365016955081492b470569ef77bf1a14b3f2e31514e2f1349bc9954c",
+        "chineseSha256": "9a1abc2f66dbcaaced00a36509504b0d4a016644e006a9b6e416e494f601af57"
+      },
+      {
+        "number": 7,
+        "en": "That evening Ivy wore her old T-shirt and sat by the window with a book. She thought of the children who had made the seed labels. Some had written in English, others in the language they used at home. She wished each child could see the work again. She could not know what was under the cloth until someone checked. She made a cup of water for herself, put her book away, and went to bed. Tomorrow would come soon enough without her staying awake all night.",
+        "zh": "當晚，艾薇穿著舊 T 恤，坐在窗邊看書。她想起做種子標示牌的孩子，有些用英文寫，有些用家裡慣用的語言寫。她希望每個人都能再看到自己的作品。但在工作人員確認前，她不會知道布下究竟是什麼。她替自己倒了杯水，收好書，上床睡覺。就算不整夜醒著，明天也會如期到來。",
+        "englishSha256": "b74d0888f58faf4591a137469ea12ce43f6e5ac3f52afb5035ed2ad130bfc0eb",
+        "chineseSha256": "444d53f9dc94a93765d4e03c7559e1ef6f2f7240a9cc829079a32e811819b71d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 637,
+    "targets": [
+      {
+        "word": "angry",
+        "meaning": "生氣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cent",
+        "meaning": "一分錢",
+        "appearsInSource": true
+      },
+      {
+        "word": "cookie",
+        "meaning": "餅乾",
+        "appearsInSource": true
+      },
+      {
+        "word": "correct",
+        "meaning": "正確的",
+        "appearsInSource": true
+      },
+      {
+        "word": "earth",
+        "meaning": "地球",
+        "appearsInSource": true
+      },
+      {
+        "word": "fast",
+        "meaning": "快速的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fire",
+        "meaning": "火",
+        "appearsInSource": true
+      },
+      {
+        "word": "garden",
+        "meaning": "花園",
+        "appearsInSource": true
+      },
+      {
+        "word": "heat",
+        "meaning": "熱",
+        "appearsInSource": true
+      },
+      {
+        "word": "knee",
+        "meaning": "膝蓋",
+        "appearsInSource": true
+      },
+      {
+        "word": "know",
+        "meaning": "知道",
+        "appearsInSource": true
+      },
+      {
+        "word": "make",
+        "meaning": "製作",
+        "appearsInSource": true
+      },
+      {
+        "word": "smart",
+        "meaning": "聰明的",
+        "appearsInSource": true
+      },
+      {
+        "word": "subject",
+        "meaning": "主題",
+        "appearsInSource": true
+      },
+      {
+        "word": "tea",
+        "meaning": "茶",
+        "appearsInSource": true
+      },
+      {
+        "word": "television",
+        "meaning": "電視",
+        "appearsInSource": true
+      },
+      {
+        "word": "up",
+        "meaning": "向上",
+        "appearsInSource": true
+      },
+      {
+        "word": "wear",
+        "meaning": "穿戴",
+        "appearsInSource": true
+      },
+      {
+        "word": "with",
+        "meaning": "和……一起",
+        "appearsInSource": true
+      },
+      {
+        "word": "writer",
+        "meaning": "小記者",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Sara see under a brown cloth?",
+      "options": [
+        "A green box behind a shelf.",
+        "A red airplane.",
+        "A garden bridge."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A green box behind a shelf.",
+      "existingAnswerExplanation": "莎拉在大架子後的棕布下看見綠箱子",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "After school Sara called the office. She had checked the second storage room in the market hall. A green box stood under a brown cloth, but she could not see its side. It was behind a large shelf, and moving the shelf would need two workers. Ivy wanted to go there at once. Ms. Wen asked her to wait until the staff could make the room safe. “We have come this far without anyone getting hurt,” she said. Ivy did not like waiting, but she knew that safety belonged to the story too.",
+          "chinese": "放學後，莎拉打電話到學校辦公室。她已查看市場大廳的第二間儲藏室。棕色布下面確實有個綠箱子，但她看不到側面。箱子位在大架子後方，要兩位工人才能安全搬動架子。艾薇想立刻過去。溫老師請她等工作人員把房間整理安全。「我們一路走到這裡，都沒有讓任何人受傷，」老師說。艾薇不喜歡等待，卻知道安全也是這個故事的一部分。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The next day was very hot. Air above the school garden felt still, and Ivy could see heat rise from the road. The children wore hats and worked slowly. Ms. Wen told them that the garden was part of the earth and needed care in different weather. A writer from the school paper came to ask about the missing green box. Ivy said she did not know where it was, but she knew people were helping. The writer smiled. “That is a correct answer,” she said. “It is smart not to claim more than you know.”",
+          "chinese": "隔天很熱。學校花園上方的空氣似乎不再流動，艾薇甚至看見熱氣從道路升起。孩子們戴著帽子，放慢動作。溫老師告訴他們，花園是地球的一部分，不同天氣需要不同照顧方式。校刊的一位小記者來問失蹤綠箱子的事。艾薇說她還不知道箱子在哪裡，但知道許多人正在幫忙。小記者笑了。「這是正確的回答，」她說，「不把不知道的事說成知道，才是聰明的做法。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why could the children not enter the room?",
+      "options": [
+        "The staff needed to move the shelf safely.",
+        "The children were not in the club.",
+        "It was too sunny outside."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The staff needed to move the shelf safely.",
+      "existingAnswerExplanation": "儲藏室的架子需要工人安全搬動，孩子不可進入",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The next day was very hot. Air above the school garden felt still, and Ivy could see heat rise from the road. The children wore hats and worked slowly. Ms. Wen told them that the garden was part of the earth and needed care in different weather. A writer from the school paper came to ask about the missing green box. Ivy said she did not know where it was, but she knew people were helping. The writer smiled. “That is a correct answer,” she said. “It is smart not to claim more than you know.”",
+          "chinese": "隔天很熱。學校花園上方的空氣似乎不再流動，艾薇甚至看見熱氣從道路升起。孩子們戴著帽子，放慢動作。溫老師告訴他們，花園是地球的一部分，不同天氣需要不同照顧方式。校刊的一位小記者來問失蹤綠箱子的事。艾薇說她還不知道箱子在哪裡，但知道許多人正在幫忙。小記者笑了。「這是正確的回答，」她說，「不把不知道的事說成知道，才是聰明的做法。」",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 6,
+          "english": "After school Sara called the office. She had checked the second storage room in the market hall. A green box stood under a brown cloth, but she could not see its side. It was behind a large shelf, and moving the shelf would need two workers. Ivy wanted to go there at once. Ms. Wen asked her to wait until the staff could make the room safe. “We have come this far without anyone getting hurt,” she said. Ivy did not like waiting, but she knew that safety belonged to the story too.",
+          "chinese": "放學後，莎拉打電話到學校辦公室。她已查看市場大廳的第二間儲藏室。棕色布下面確實有個綠箱子，但她看不到側面。箱子位在大架子後方，要兩位工人才能安全搬動架子。艾薇想立刻過去。溫老師請她等工作人員把房間整理安全。「我們一路走到這裡，都沒有讓任何人受傷，」老師說。艾薇不喜歡等待，卻知道安全也是這個故事的一部分。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

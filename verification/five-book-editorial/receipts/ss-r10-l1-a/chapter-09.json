@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 9,
+  "chapterId": "ss-r10-l1-a-9",
+  "sourceChapterSha256": "94e5005e781a0939e27464b0a3e329f11f8d035a2939806acb8b822ca26d07af",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "學生用水盤反射燈光示範光線反射，努爾奶奶分享年輕時在湖邊和家人看月光的回憶；不能把回憶當物理證據。",
+    "previousChapterEndingEnglish": "Before going home, Nia asked each family for one short answer: what had they seen, and what had surprised them? Rae said she liked the single star more than the crowded card. Mrs. Sol said the bench had made the visit possible for her. Bo said the fence noise had frightened him. Ada wrote the answers without changing them. There was no prize for seeing the most stars. The group had gone outside, used their eyes, stayed together, and returned safely. That was enough for a first evening. Nia went home thinking that the best star lesson might be about the people standing under the sky as much as the sky itself.",
+    "nextChapterOpeningEnglish": "A new student came to the center with his brother. His name was Tomas, and he was blind. He knew the street well because he walked it with a white cane. He asked Nia if the star class was only for people who could see pictures. Nia was quiet for half a minute. She had made every activity with drawings. \"I don't know the best way yet,\" she said, \"but I want to work with you.\" Tomas smiled. \"Then ask me what helps. Please do not decide for me.\" His brother brought an apple and a pencil, and they sat at a table near the center of the room."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next Saturday was the town's spring festival, so the center room was busy. People carried rice, fruit, and hot dishes along Red Brick Street. A grandmother called Mrs. Noor visited the class with a card showing a lake under the moon. She said she had lived beside that lake when she was young. \"My family watched the moon there every year,\" she said. \"It was a small joy in a hard life.\" Nia asked if Mrs. Noor would tell the group more. The grandmother sat down and began a story about a quiet evening with her brother. No strange magic happened. They simply watched the light on the water.",
+        "zh": "下一個星期六是鎮上的春季節慶，市民中心很熱鬧。人們沿著紅磚街搬來米飯、水果和熱菜。一位叫努爾的奶奶來上課，帶了一張卡片，畫著月光下的湖。她說年輕時住在湖旁。「我們一家人每年都會在那裡看月亮，」她說，「在不容易的生活裡，那是一點小小的快樂。」妮雅問她是否願意多分享。奶奶坐下來，講起自己和哥哥在安靜傍晚一起看湖的故事。沒有神奇的事發生，他們只是看水上的光。",
+        "englishSha256": "ec33887414f00281965c328127d3cbeb18a3cd3d0c377bee116d0f966888b819",
+        "chineseSha256": "94b575f5310490a6d899a4fd5965426b2a3cf6f29b4659b7094f7baec41ee735"
+      },
+      {
+        "number": 2,
+        "en": "When the story ended, Finn raised his hand. \"Was the moon in the lake, or was it in the sky?\" Mrs. Noor smiled. \"I saw it in both places,\" she said. Nia placed a dish of water on the table and held a lamp above it. A little patch of light appeared on the water. \"This is a reflection,\" Nia said. \"The lamp is not in the dish, but we see its light there.\" Finn bent over the table and almost touched the water. Ada moved the lamp back. \"Okay, let us keep our hands dry,\" she said. They had learned something new without making a long trip.",
+        "zh": "故事結束後，芬恩舉手問：「月亮是在湖裡，還是在天空裡？」努爾奶奶微笑說：「兩個地方我都看見了。」妮雅在桌上放了一盤水，拿燈照在上方。水面出現一小片光。「這叫反射，」妮雅說，「燈沒有跑進盤子裡，但我們能在水上看見它的光。」芬恩彎下腰，差點摸到水。艾達把燈往後移。「好，手保持乾燥，」她說。大家不用出遠門，也學到了新事情。",
+        "englishSha256": "a9ef84523cf622dc648d1945a1dba35882db537e380457b1453d74da2bf73fcc",
+        "chineseSha256": "5fd04cef35322893ac67e26ec44b884b0b2500e601e98ed50fc193c829c8c206"
+      },
+      {
+        "number": 3,
+        "en": "Mara came upstairs with banana bread and asked if the class was ready to visit the festival tables. \"Not quite,\" Nia said. \"We need five more minutes.\" She wanted the children to write one sentence about what they had seen. Bo wrote, \"The light comes back from the water.\" Rae drew a small lamp beside her sentence. Mrs. Noor said that was close to what she remembered from the lake. She gave the class a tip: when a story seems wonderful, ask what you could check for yourself. Nia thanked her. Stories could make children curious, and simple tests could help them understand the world.",
+        "zh": "瑪拉帶著香蕉麵包上樓，問班上準備好去參觀節慶攤位了嗎。「還沒有完全好，」妮雅說，「再給我們五分鐘。」她希望孩子們寫一句話，描述剛才看見的事。波寫：「光從水上回來。」芮在句子旁畫了一盞小燈。努爾奶奶說，這和她記得的湖面很像。她給全班一個小建議：當故事聽起來很奇妙時，問問自己哪些部分能親自查證。妮雅謝謝她。故事能引起好奇，簡單實驗則能幫人理解世界。",
+        "englishSha256": "3d52bb3b7f3eae6e8e6da763a43a06351ceeb09cb5b55aab38d451a6ba8d49b5",
+        "chineseSha256": "f1e58608acc905397ba94169fb8cf5f3d4a8c13901a2e2ceb536f9f5d2b92e03"
+      },
+      {
+        "number": 4,
+        "en": "At the festival, a child shouted when a paper star fell from a tree. His father caught it and gave it back. Nia saw how easy it was for a crowded street to become confusing. She asked the group to walk on the same side and meet by the center door after the short visit. A volunteer was giving out cards about keeping public spaces clean. Another was offering a small bowl of rice to visitors. The class did not need to buy anything. They stood together, watched families share food, and noticed how many different people helped make the festival work.",
+        "zh": "節慶會場上，一顆紙星星從樹上掉下來，一個孩子大聲叫了起來。他爸爸接住紙星星，還給孩子。妮雅發現，擁擠的街道很容易讓人迷失方向。她請小組走在同一側，短暫參觀後在中心門口集合。一位志工發著維持公共空間清潔的卡片，另一位招待訪客吃小碗米飯。班上不必購買任何東西。他們站在一起，看著家庭分享食物，也看見許多不同的人如何一起讓節慶順利進行。",
+        "englishSha256": "acb13a8f83f74fc5aacd738930d1034a1fc82925a4df88d0a4a7b9f5b52c3afd",
+        "chineseSha256": "42e7a1deac46aaf465367be042b9cb231f832cb08a4b673e102dcdae37e1c6d3"
+      },
+      {
+        "number": 5,
+        "en": "A little boy began to shout when he saw a shining silver dish at the festival. He thought it was part of the star class. His grandmother asked him to speak more softly and find out who owned it. The dish belonged to the food table, where people were preparing a warm treat for visitors. Nia used the moment to teach a simple habit: ask before taking or moving something that belongs to another group. The child nodded and returned to the star cards. Mrs. Noor told him that caring for a shared place was one way of caring for the people in it. He helped put two chairs back where they belonged. It was a small action, but Nia wrote it down because it showed how the group was learning to work with others.",
+        "zh": "一個小男孩在節慶裡看見亮亮的銀盤，開始大聲喊叫，以為那是星星課的器材。奶奶請他放低聲音，先弄清楚盤子是誰的。原來銀盤屬於食物桌，工作人員正在準備招待訪客的熱點心。妮雅趁機教一個簡單習慣：拿取或移動其他小組的物品前，先詢問。孩子點頭，回到星卡旁。努爾奶奶告訴他，愛惜共用空間也是照顧其中的人。他幫忙把兩張椅子放回原位。這是個小動作，妮雅仍記下來，因為它顯示大家開始學會和別人共用場地。",
+        "englishSha256": "2aff88accd953835a243584453f18bfdf0ba6f55b47cc8d742ef65e2197d6aac",
+        "chineseSha256": "026055c81954d7265e40d368ca0d05443effac6179d7fd23463624b09fb403fa"
+      },
+      {
+        "number": 6,
+        "en": "Back upstairs, Nia placed the lake card beside the paper star from the first week. The two pictures were not scientific records, but they gave the class things to talk about. She asked Mrs. Noor for permission to keep the card on the wall for the six weeks. Mrs. Noor agreed. \"I'm sure other families have stories too,\" she said. Nia wrote a new idea: invite one visitor each week to share a memory, then choose one part to test or explain. It would be a gentle way to connect everyday life with science. She could already see a new kind of class taking shape.",
+        "zh": "回到樓上，妮雅把湖的卡片放在第一週做的紙星星旁。兩張圖片不是科學紀錄，卻為全班帶來討論的話題。她徵求努爾奶奶同意，把卡片掛在牆上六週。努爾奶奶答應了。「我相信別的家庭也有故事，」她說。妮雅記下一個新想法：每週請一位訪客分享回憶，再選其中一部分來測試或說明。這能溫柔地把日常生活和科學連在一起。她已經看見一種新的課堂模樣正在形成。",
+        "englishSha256": "057fcc6d0fb67b983cf386f0eaea0e8669fab3374c96db28c8cae3cb9852bcba",
+        "chineseSha256": "62abbfa61f581fc3869144258b0b13d1964a2a71c3e3ce37a63a918d3fa71d45"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 665,
+    "targets": [
+      {
+        "word": "and",
+        "meaning": "和",
+        "appearsInSource": true
+      },
+      {
+        "word": "back",
+        "meaning": "回去",
+        "appearsInSource": true
+      },
+      {
+        "word": "banana",
+        "meaning": "香蕉",
+        "appearsInSource": true
+      },
+      {
+        "word": "card",
+        "meaning": "卡片",
+        "appearsInSource": true
+      },
+      {
+        "word": "dish",
+        "meaning": "盤子",
+        "appearsInSource": true
+      },
+      {
+        "word": "festival",
+        "meaning": "節慶",
+        "appearsInSource": true
+      },
+      {
+        "word": "grandmother",
+        "meaning": "祖母",
+        "appearsInSource": true
+      },
+      {
+        "word": "joy",
+        "meaning": "快樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "lake",
+        "meaning": "湖",
+        "appearsInSource": true
+      },
+      {
+        "word": "life",
+        "meaning": "生活",
+        "appearsInSource": true
+      },
+      {
+        "word": "Okay",
+        "meaning": "好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "quite",
+        "meaning": "相當",
+        "appearsInSource": true
+      },
+      {
+        "word": "ready",
+        "meaning": "準備好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rice",
+        "meaning": "米飯",
+        "appearsInSource": true
+      },
+      {
+        "word": "shout",
+        "meaning": "大喊",
+        "appearsInSource": true
+      },
+      {
+        "word": "Street",
+        "meaning": "街道",
+        "appearsInSource": true
+      },
+      {
+        "word": "sure",
+        "meaning": "確定的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tip",
+        "meaning": "建議",
+        "appearsInSource": true
+      },
+      {
+        "word": "treat",
+        "meaning": "招待的點心",
+        "appearsInSource": true
+      },
+      {
+        "word": "visit",
+        "meaning": "參觀／來訪",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does the dish of water show?",
+      "options": [
+        "How to make a cake.",
+        "How light can reflect.",
+        "How to count rice."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "How light can reflect.",
+      "existingAnswerExplanation": "水盤上的燈光示範了反射，燈本身沒有進入水中。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "When the story ended, Finn raised his hand. \"Was the moon in the lake, or was it in the sky?\" Mrs. Noor smiled. \"I saw it in both places,\" she said. Nia placed a dish of water on the table and held a lamp above it. A little patch of light appeared on the water. \"This is a reflection,\" Nia said. \"The lamp is not in the dish, but we see its light there.\" Finn bent over the table and almost touched the water. Ada moved the lamp back. \"Okay, let us keep our hands dry,\" she said. They had learned something new without making a long trip.",
+          "chinese": "故事結束後，芬恩舉手問：「月亮是在湖裡，還是在天空裡？」努爾奶奶微笑說：「兩個地方我都看見了。」妮雅在桌上放了一盤水，拿燈照在上方。水面出現一小片光。「這叫反射，」妮雅說，「燈沒有跑進盤子裡，但我們能在水上看見它的光。」芬恩彎下腰，差點摸到水。艾達把燈往後移。「好，手保持乾燥，」她說。大家不用出遠門，也學到了新事情。",
+          "matchedQueryTerms": 3
+        },
+        {
+          "paragraph": 1,
+          "english": "The next Saturday was the town's spring festival, so the center room was busy. People carried rice, fruit, and hot dishes along Red Brick Street. A grandmother called Mrs. Noor visited the class with a card showing a lake under the moon. She said she had lived beside that lake when she was young. \"My family watched the moon there every year,\" she said. \"It was a small joy in a hard life.\" Nia asked if Mrs. Noor would tell the group more. The grandmother sat down and began a story about a quiet evening with her brother. No strange magic happened. They simply watched the light on the water.",
+          "chinese": "下一個星期六是鎮上的春季節慶，市民中心很熱鬧。人們沿著紅磚街搬來米飯、水果和熱菜。一位叫努爾的奶奶來上課，帶了一張卡片，畫著月光下的湖。她說年輕時住在湖旁。「我們一家人每年都會在那裡看月亮，」她說，「在不容易的生活裡，那是一點小小的快樂。」妮雅問她是否願意多分享。奶奶坐下來，講起自己和哥哥在安靜傍晚一起看湖的故事。沒有神奇的事發生，他們只是看水上的光。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Mrs. Noor share?",
+      "options": [
+        "A family memory beside a lake.",
+        "A plan for a hotel.",
+        "A map of the airport."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A family memory beside a lake.",
+      "existingAnswerExplanation": "努爾奶奶分享年輕時與家人在湖邊看月光的回憶。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Back upstairs, Nia placed the lake card beside the paper star from the first week. The two pictures were not scientific records, but they gave the class things to talk about. She asked Mrs. Noor for permission to keep the card on the wall for the six weeks. Mrs. Noor agreed. \"I'm sure other families have stories too,\" she said. Nia wrote a new idea: invite one visitor each week to share a memory, then choose one part to test or explain. It would be a gentle way to connect everyday life with science. She could already see a new kind of class taking shape.",
+          "chinese": "回到樓上，妮雅把湖的卡片放在第一週做的紙星星旁。兩張圖片不是科學紀錄，卻為全班帶來討論的話題。她徵求努爾奶奶同意，把卡片掛在牆上六週。努爾奶奶答應了。「我相信別的家庭也有故事，」她說。妮雅記下一個新想法：每週請一位訪客分享回憶，再選其中一部分來測試或說明。這能溫柔地把日常生活和科學連在一起。她已經看見一種新的課堂模樣正在形成。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "The next Saturday was the town's spring festival, so the center room was busy. People carried rice, fruit, and hot dishes along Red Brick Street. A grandmother called Mrs. Noor visited the class with a card showing a lake under the moon. She said she had lived beside that lake when she was young. \"My family watched the moon there every year,\" she said. \"It was a small joy in a hard life.\" Nia asked if Mrs. Noor would tell the group more. The grandmother sat down and began a story about a quiet evening with her brother. No strange magic happened. They simply watched the light on the water.",
+          "chinese": "下一個星期六是鎮上的春季節慶，市民中心很熱鬧。人們沿著紅磚街搬來米飯、水果和熱菜。一位叫努爾的奶奶來上課，帶了一張卡片，畫著月光下的湖。她說年輕時住在湖旁。「我們一家人每年都會在那裡看月亮，」她說，「在不容易的生活裡，那是一點小小的快樂。」妮雅問她是否願意多分享。奶奶坐下來，講起自己和哥哥在安靜傍晚一起看湖的故事。沒有神奇的事發生，他們只是看水上的光。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

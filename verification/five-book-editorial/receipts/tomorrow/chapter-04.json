@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 4,
+  "chapterId": "tomorrow-4",
+  "sourceChapterSha256": "d5f17aa50b4895b3dfa7f63961afba02e169002ba637ce3d7343ce744e8a7256",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "Sam 隱私影片與 Leo 協助；Kai 在幕後測試麥克風",
+    "previousChapterEndingEnglish": "Leo wanted to tell Ms Lin, our English teacher. I said we needed to understand first. It sounded reasonable. Really, I did not want a teacher asking why someone had sent me that old voice file. We left the notebook where we found it and stepped outside. My screen lit up. Mia: forty-nine percent. Then Sam's name vanished from the vote. In its place appeared a new name. Leo Wu.",
+    "nextChapterOpeningEnglish": "Kai saw us through the open stage door. “Come help,” he called. “I need two normal people to test the seats.” Leo looked at me. We went in, but we stayed near the door. The hall smelled of warm wood and dust. Paper stars hung above the stage. In three days, parents would sit here and clap while Kai told them what a happy school this was."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Leo stared at his name for a long time. Then he put his phone away and finished the cold bread from breakfast. He tore it into small, even pieces. I knew that habit. When Leo was angry, everything had to be straight. His pencils. His books. The little pieces of bread on his desk. “We need to find Sam,” he said. His voice was very quiet.",
+        "zh": "Leo 盯著自己的名字很久，然後收起手機，吃完早餐剩下的冷麵包。他把麵包撕成小而整齊的塊。我認得那個習慣：Leo 生氣時，什麼都得排整齊，鉛筆、課本、桌上的麵包屑。「我們得找 Sam。」他的聲音很輕。",
+        "englishSha256": "05925d0a8450d8ee0e69bb3c45bd635074e9ece0435dbfefedff6764f985337e",
+        "chineseSha256": "027a0070acc232f44feb053698b46b91c3f0d19cc4a9f97887a984207f02e84d"
+      },
+      {
+        "number": 2,
+        "en": "We found him behind the gym, washing blue paint from his hands. The water had turned the ground around his shoes into a small sky. “I didn't write your name,” he said before Leo spoke. “I only picked a number.” He looked at me, then at the tap. “The page said I could leave the list if I chose someone from my contacts. It didn't show the name until after.”",
+        "zh": "我們在體育館後面找到他，他正在洗手上的藍漆。鞋邊的地面被水染成小小的天空。「我沒寫你的名字，」Leo 還沒開口，他就說，「我只選了一個號碼。」他看我，再看水龍頭。「網頁說只要從聯絡人挑一個，我就能離開名單。選完才顯示名字。」",
+        "englishSha256": "185f99fd08e383000509d3b1fb5f1c34110bf63439d56733feec5f5cab76a4b4",
+        "chineseSha256": "48e32c58a9cc68dce259f4c1f36a9e4d0b8edbf6e5f641d3de5386424b564ca1"
+      },
+      {
+        "number": 3,
+        "en": "“You still pressed it,” Leo said. Sam nodded. He did not try to make that part smaller. “They said the next video would be mine.” “What video?” I asked. Sam covered the tap with his hand, sending water over his sleeve. “Something from last year. I don't want to tell you.” Leo turned the water off. “You don't have to show us to get help.”",
+        "zh": "「你還是按了。」Leo 說。Sam 點頭，沒試著減輕那件事。「他們說下一段影片會是我的。」「什麼影片？」我問。Sam 用手擋水，水流上袖子。「去年發生的事。我不想說。」Leo 關掉水。「你不用先給我們看，才有資格得到幫助。」",
+        "englishSha256": "47d500d4c1ffa40b01db9359e0eaeb7df1f99f48ea8af19744c3202d664710a5",
+        "chineseSha256": "c5293641eb1a625252d7185f64f1faec75acc0ebb895a4bb14bb80e91a9f999e"
+      },
+      {
+        "number": 4,
+        "en": "That surprised me. I had been ready to ask for proof. Hadn't I asked June the same thing? Is it true? As if she had to open every part of herself before I could stand beside her. Sam took a long breath. He said the message came from a blank account called Bell. Bell had sent him the scarf, the card, and a picture of the window to use.",
+        "zh": "這讓我意外。我原本正想要求證據。我不也對 June 問過「是真的嗎」？好像她得先攤開自己的每個部分，我才肯站在她旁邊。Sam 深呼吸，說訊息來自一個叫 Bell 的空白帳號。Bell 給他圍巾、卡片，還有指定窗口的照片。",
+        "englishSha256": "c8ed41a589a79000a25b5924d5a423d21d93b4321ab222be6564ffe1187789d1",
+        "chineseSha256": "9a5c9cf9ff4c719f9f0496356917c87e070ca1dc894da8aafe627a315834903d"
+      },
+      {
+        "number": 5,
+        "en": "“The yellow coat?” I asked. “From the film room. I didn't think anyone would notice.” He rubbed his hands together. There was still blue under one nail. “I only wanted one morning without people watching me.” The three of us stood quietly. Beyond the wall, students shouted over a ball game. Their voices sounded far away, as if the gym belonged to another school.",
+        "zh": "「黃色雨衣呢？」「電影教室拿的。我以為不會被注意。」他搓著手，一片指甲底下仍有藍色。「我只想要一個沒人盯著我的早上。」我們安靜站著。牆外學生為球賽喊叫，聲音很遠，彷彿體育館屬於另一所學校。",
+        "englishSha256": "f14d0e2e912f6bed023db2bbe8c324d79b313c4ef45c703f6f28a76fe84ee0fc",
+        "chineseSha256": "0f1d47f18250ebcc2e8879a8b187f9b2b01f8ea3e0f0246881c630d242f6220d"
+      },
+      {
+        "number": 6,
+        "en": "I asked Sam if he had seen the red notebook. He said Bell made him copy the list by hand, then leave it in the film room. “Why?” “Bell said a picture of handwriting looks more real.” Leo frowned. The list had been a plan, yes. But it had also been placed for us to find. Someone was moving us from clue to clue, and we were moving exactly as asked.",
+        "zh": "我問 Sam 有沒有看過紅本子。他說 Bell 叫他手抄名單，放在電影教室。「為什麼？」「Bell 說手寫拍照比較像真的。」Leo 皺眉。名單的確是計畫，卻也是刻意留給我們的線索。有人帶我們從一條線索走向另一條，我們完全照做了。",
+        "englishSha256": "08f4a3d0d610a5c51e46adf1dbe370977d042d0ae76f0a0908484e9f140723de",
+        "chineseSha256": "968ef184d07e08897d2f1975e64f459a0873558a866ffe958b98d7b42e476693"
+      },
+      {
+        "number": 7,
+        "en": "We went together to Ms Lin's room. Her next class had already started. On her desk, I left a note asking to talk after school, without writing anyone's private problem on it. Leo put Sam's wet card holder in a paper bag. He said we should keep the messages, not send them around. For once, Sam looked at him instead of the ground. “Thank you,” he said.",
+        "zh": "我們一起去林老師的教室。她下一堂課已開始。我在桌上留紙條，請她放學後談談，沒把任何人的隱私寫在上面。Leo 把 Sam 濕掉的證件套放進紙袋。他說要保留訊息，不要轉傳。Sam 終於抬頭看他，不再看地板。「謝謝。」",
+        "englishSha256": "190a0d05947dc68fde29855c9b9a4e2558edd353a79ebd7edcd3cdc7b190daeb",
+        "chineseSha256": "621760a17dd98c164c25140bc71071e27c58318e8a0758bbcf71df335227be75"
+      },
+      {
+        "number": 8,
+        "en": "When Sam left, Leo turned to me. “You haven't shown me everything.” I opened the voice file at last. My voice filled the empty hall. June, wait. Give me the phone. Leo listened twice. “That's from the school film folder,” he said. “Only three people had the link.” “You, June, and who?” He looked toward the stage doors. From inside came Kai's voice, testing a microphone.",
+        "zh": "Sam 離開後，Leo 轉向我。「妳沒把所有東西給我看。」我終於打開語音。空走廊充滿我的聲音：June，等等。把手機給我。Leo 聽了兩遍。「這是學校影片資料夾的東西，只有三個人拿過連結。」「你、June，還有誰？」他望向舞台門，裡面傳來 Kai 試麥克風的聲音。",
+        "englishSha256": "3010c46b86c3b33b8a373e6b56eb7f784f419ea430d48f0114dd2a6c239fd642",
+        "chineseSha256": "6ed47e03904b5793cecfb5164f92b8508095047cdbfd3aacdbce96ebee9dbcc1"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 538,
+    "targets": [
+      {
+        "word": "ball",
+        "meaning": "球",
+        "appearsInSource": true
+      },
+      {
+        "word": "bread",
+        "meaning": "麵包",
+        "appearsInSource": true
+      },
+      {
+        "word": "breakfast",
+        "meaning": "早餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "cold",
+        "meaning": "冷的；感冒",
+        "appearsInSource": true
+      },
+      {
+        "word": "copy",
+        "meaning": "副本；複製",
+        "appearsInSource": true
+      },
+      {
+        "word": "desk",
+        "meaning": "書桌；辦公桌",
+        "appearsInSource": true
+      },
+      {
+        "word": "far",
+        "meaning": "遠的；遠地",
+        "appearsInSource": true
+      },
+      {
+        "word": "find",
+        "meaning": "找到",
+        "appearsInSource": true
+      },
+      {
+        "word": "game",
+        "meaning": "遊戲；比賽",
+        "appearsInSource": true
+      },
+      {
+        "word": "get",
+        "meaning": "得到；變得",
+        "appearsInSource": true
+      },
+      {
+        "word": "give",
+        "meaning": "給",
+        "appearsInSource": true
+      },
+      {
+        "word": "ground",
+        "meaning": "地面",
+        "appearsInSource": true
+      },
+      {
+        "word": "habit",
+        "meaning": "習慣",
+        "appearsInSource": true
+      },
+      {
+        "word": "hand",
+        "meaning": "手；交給",
+        "appearsInSource": true
+      },
+      {
+        "word": "have",
+        "meaning": "有；已經",
+        "appearsInSource": true
+      },
+      {
+        "word": "help",
+        "meaning": "幫助",
+        "appearsInSource": true
+      },
+      {
+        "word": "in",
+        "meaning": "在……裡",
+        "appearsInSource": true
+      },
+      {
+        "word": "sky",
+        "meaning": "天空",
+        "appearsInSource": true
+      },
+      {
+        "word": "straight",
+        "meaning": "筆直的；直接地",
+        "appearsInSource": true
+      },
+      {
+        "word": "surprised",
+        "meaning": "驚訝的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Leo tell Sam?",
+      "options": [
+        "Sam can get help without showing his private video.",
+        "Sam must post his video online.",
+        "Sam should vote for another person."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Sam can get help without showing his private video.",
+      "existingAnswerExplanation": "Sam can get help without showing his private video.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "“You still pressed it,” Leo said. Sam nodded. He did not try to make that part smaller. “They said the next video would be mine.” “What video?” I asked. Sam covered the tap with his hand, sending water over his sleeve. “Something from last year. I don't want to tell you.” Leo turned the water off. “You don't have to show us to get help.”",
+          "chinese": "「你還是按了。」Leo 說。Sam 點頭，沒試著減輕那件事。「他們說下一段影片會是我的。」「什麼影片？」我問。Sam 用手擋水，水流上袖子。「去年發生的事。我不想說。」Leo 關掉水。「你不用先給我們看，才有資格得到幫助。」",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 7,
+          "english": "We went together to Ms Lin's room. Her next class had already started. On her desk, I left a note asking to talk after school, without writing anyone's private problem on it. Leo put Sam's wet card holder in a paper bag. He said we should keep the messages, not send them around. For once, Sam looked at him instead of the ground. “Thank you,” he said.",
+          "chinese": "我們一起去林老師的教室。她下一堂課已開始。我在桌上留紙條，請她放學後談談，沒把任何人的隱私寫在上面。Leo 把 Sam 濕掉的證件套放進紙袋。他說要保留訊息，不要轉傳。Sam 終於抬頭看他，不再看地板。「謝謝。」",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Who does Leo hear testing a microphone behind the stage doors?",
+      "options": [
+        "Principal Reed.",
+        "Kai.",
+        "June."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Kai.",
+      "existingAnswerExplanation": "章末舞台門內傳來 Kai 測試麥克風的聲音。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "When Sam left, Leo turned to me. “You haven't shown me everything.” I opened the voice file at last. My voice filled the empty hall. June, wait. Give me the phone. Leo listened twice. “That's from the school film folder,” he said. “Only three people had the link.” “You, June, and who?” He looked toward the stage doors. From inside came Kai's voice, testing a microphone.",
+          "chinese": "Sam 離開後，Leo 轉向我。「妳沒把所有東西給我看。」我終於打開語音。空走廊充滿我的聲音：June，等等。把手機給我。Leo 聽了兩遍。「這是學校影片資料夾的東西，只有三個人拿過連結。」「你、June，還有誰？」他望向舞台門，裡面傳來 Kai 試麥克風的聲音。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 2,
+          "english": "We found him behind the gym, washing blue paint from his hands. The water had turned the ground around his shoes into a small sky. “I didn't write your name,” he said before Leo spoke. “I only picked a number.” He looked at me, then at the tap. “The page said I could leave the list if I chose someone from my contacts. It didn't show the name until after.”",
+          "chinese": "我們在體育館後面找到他，他正在洗手上的藍漆。鞋邊的地面被水染成小小的天空。「我沒寫你的名字，」Leo 還沒開口，他就說，「我只選了一個號碼。」他看我，再看水龍頭。「網頁說只要從聯絡人挑一個，我就能離開名單。選完才顯示名字。」",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

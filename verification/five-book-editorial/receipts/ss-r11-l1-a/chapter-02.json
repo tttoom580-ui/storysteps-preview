@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 2,
+  "chapterId": "ss-r11-l1-a-2",
+  "sourceChapterSha256": "56bd9140a6edd0db114b58e66de50a4b5ca5fb3397e22d7847db94b184495889",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "校門口發現兩道寬輪痕，但科學室推車有四個較窄的輪子，因此暫時排除推車直接搬走失物的推測。",
+    "previousChapterEndingEnglish": "In the afternoon they found a wet piece of paper under the shelf. Only the words “keep dry” could be read. Ivy put the paper between two clean pages without trying to pull it apart. Jun wanted to ask every student in the school, but Ms. Wen suggested a smaller first step. They would speak to the people who used the garden yesterday. Ivy closed her book. She still wanted the green box back, yet she also wanted everyone to feel safe when they answered her questions.",
+    "nextChapterOpeningEnglish": "On Thursday the club walked with Ms. Wen and Mr. Reed to the water station. The road followed the river for a short way. Far away, beyond a low bridge, they could see the beach. A bird sat on the bridge rail. Jun wondered whether the wide wheel marks could still be found, but the rain had washed the road clean. Ivy asked everyone to stay on the safe side of the road. They were there to learn what had happened, not to take a risk for a box."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next morning was sunny. Ivy's cousin Leo came to school for a family visit and brought a small science tool that could measure the weather. He was also good at drawing maps. He saw two wheel marks in the soft earth near the gate. “A cart may have passed here,” he said. Jun wanted to follow the marks at once, but Ivy asked Ms. Wen first. The marks might belong to a cart carrying food, not to the green box. Leo drew them carefully before the sun made the ground dry.",
+        "zh": "隔天早上陽光很好。艾薇的表哥里歐因家庭參訪來到學校，帶了一個能測量天氣的小型科學工具。他也很會畫地圖。他看到校門附近的軟土上有兩道輪痕。「可能有推車經過，」他說。俊想立刻沿著痕跡去找，艾薇卻先詢問溫老師。那些痕跡可能屬於送食物的推車，不一定與綠箱子有關。里歐趁太陽還沒把地面曬乾，仔細畫下輪痕。",
+        "englishSha256": "ade7dba74e89850f41ccf8b4ba7e75c8a8cba7bce06d04e1d8f4373a8e1abe30",
+        "chineseSha256": "dfeede045ab33db1035c744e3a91b7a5dbe17d936a57d4770a6261e867482e92"
+      },
+      {
+        "number": 2,
+        "en": "Leo wanted to add one more mark to his map: the place where the two lines began. He walked back to the gate with Jun and Ms. Wen. The soft ground had a small hole beside the wall. Rainwater could fill it when the next storm came. They took a photograph for the school worker and did not step into the hole. Leo said a good map should show danger as well as possible routes. Ivy agreed. Their search had taught them something useful about the gate, even if the marks did not lead to the green box.",
+        "zh": "里歐想在地圖上加一個記號：兩道輪痕開始的位置。他和俊、溫老師一起回到校門。牆邊的軟土上有個小洞，下次暴雨時可能會積滿水。他們拍照交給學校工作人員，沒有踏進洞裡。里歐說，好地圖應該標出危險，也標出可能路線。艾薇同意。即使輪痕沒有帶他們找到綠箱子，這場搜尋仍幫他們發現了校門附近的一個問題。",
+        "englishSha256": "a9413b100e6cb2bfefd657f7caa0595e71fdc92a42409358cdb0511dd8527440",
+        "chineseSha256": "9aeb985083b47fa45aedcb6cd2c0aa4addbcec490b3d9d6ba6d1a68a23f66a13"
+      },
+      {
+        "number": 3,
+        "en": "The school's helpful garden worker was a tall guy named Mr. Reed. He said one cart had gone toward the river, where the town kept a water station. Another had gone south to the science room. Neither cart needed much power, since people pushed them by hand. A famous garden video showed the same kind of cart, but a video could not tell them which one had moved the box yesterday. Ivy filled her notebook with two possible routes. She left space for a third route they had not seen.",
+        "zh": "學校熱心的園藝工作人員是一位高個子男子，大家叫他里德先生。他說有一輛推車往河邊的鎮立供水站去，另一輛則往南方的科學教室去。兩輛車都不太需要動力，因為是用手推的。一部有名的園藝影片也出現過這種推車，但影片不能證明昨天是哪輛車搬走了箱子。艾薇在筆記本上畫出兩條可能的路線，還留了一塊空白，給他們尚未發現的第三條路。",
+        "englishSha256": "688c7f57b83fbc06c1fa60e390e9d652e3b32d8e12070b5fe02db142be56a707",
+        "chineseSha256": "939500a64c0a44ef3603ccb00ef6436575cf9e534e8582887e525f3e95dcaeaa"
+      },
+      {
+        "number": 4,
+        "en": "At lunch, a family brought food for a small school event. There was a sheep picture on a bag of bread. Leo smiled and said his younger brother loved sheep. While they ate, Jun noticed a little cut on Leo's lip and offered him water. They were not in a hurry. A careful search needed people who could think clearly, and hungry people often missed small things. Ivy asked Leo to bring his drawing the next day. He agreed, but said that he still had to ask his own teacher for permission.",
+        "zh": "午餐時，有一家人帶食物來參加校內的小活動。裝麵包的袋子上畫著綿羊。里歐笑著說他弟弟很喜歡羊。大家吃東西時，俊注意到里歐的嘴唇有一處小傷口，就遞水給他。他們沒有急著出發。仔細尋找需要清楚思考，肚子餓的人常常會忽略小事。艾薇請里歐明天再帶畫來。里歐答應了，但說仍須先徵求自己的老師同意。",
+        "englishSha256": "3cc96d8210085ff648e47ef35f15bac285c63bd172f390b3bf4f186127073d7b",
+        "chineseSha256": "d44dfa90d3fa4160d68dfd6bd242e308af73f19157746b18b7ef98bf53366ea4"
+      },
+      {
+        "number": 5,
+        "en": "Before they left, the three children sat near a window. Leo explained that science did not always give an answer on the first try. Sometimes a test showed that an idea was wrong. “That does not make the test a waste,” he said. Ivy thought of the picture of the two carts. It showed a difference they had not noticed at first. Jun folded the map and gave it back to Leo. “You helped us see more clearly,” he said. Leo smiled. Being useful felt better than pretending to know everything already.",
+        "zh": "離開前，三個孩子坐在窗邊。里歐解釋，科學並不一定在第一次嘗試時就給人答案。有時測試只是證明某個想法錯了。「那不代表測試白費，」他說。艾薇想起兩輛推車的圖，圖上顯示了他們一開始沒注意到的差異。俊把地圖摺好還給里歐。「你幫我們看得更清楚，」他說。里歐笑了。他覺得真正幫上忙，比假裝自己什麼都懂更好。",
+        "englishSha256": "1a09cacfe4f59cd45d00a31c04602f460bf1ecfc6eea1b2764baed2626a64f78",
+        "chineseSha256": "b1003b04df0d55028b3c66c4a093340e7ad219552e814403e2ed4882a4e10ca2"
+      },
+      {
+        "number": 6,
+        "en": "After class the group went to the science room with Ms. Wen. A shelf held clean jars, a small fan, and a metal cart. The cart had four narrow wheels, while the mark outside showed two wide wheels. “It is not the same,” Jun said. Ivy wrote down the difference. She felt glad that they had checked a simple answer before telling the whole school. At the door, Ms. Wen asked whether they had learned something useful. “Yes,” Ivy said. “We have one less guess, and we still have friends willing to help.”",
+        "zh": "下課後，大家在溫老師陪同下去了科學教室。架上有乾淨的罐子、小電扇與一輛金屬推車。那輛車有四個窄輪子，外頭的痕跡卻只有兩道寬輪痕。「不是同一輛，」俊說。艾薇記下差異。她慶幸自己在告訴全校之前，先查證了這個看似簡單的答案。到了門口，溫老師問他們有沒有學到有用的事。「有，」艾薇說，「我們少了一個猜測，而且還有願意幫忙的朋友。」",
+        "englishSha256": "f005c95f4421da82c63a2688fac075a81840ad19d0c99991f175ab0ae0ba8571",
+        "chineseSha256": "f88ed584a15433512d36f239fad8d13b3bfe0ec4e936544586ac2a5bce521aef"
+      },
+      {
+        "number": 7,
+        "en": "Before going home, Ivy looked at the two routes again. One line stopped at the science room. The other went toward the water station and the old park. She had never been there with the club. Mr. Reed offered to show the way on Thursday, when the station was open to school groups. “That will be safer,” Ivy said. Jun put away the map and helped carry the empty food bags. He was learning that being useful did not always mean being the first person to run somewhere.",
+        "zh": "回家前，艾薇又看了那兩條路線。一條線停在科學教室，另一條則通往供水站和舊公園。她從未和社團一起去過那裡。里德先生說，星期四供水站開放學校團體參觀時，可以帶他們去。「這樣比較安全，」艾薇說。俊收好地圖，幫忙搬空的食物袋。他正慢慢明白，有用不一定代表第一個跑到某個地方。",
+        "englishSha256": "22c2b814e9225c6efc9638e5d13442720b3ca00c51516cd49eecfb46d7a8f74f",
+        "chineseSha256": "01e6b3732d7b4b9f05866e8c274ee1406dbf4b58ddd7fc543f073a66d4a71d2e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 645,
+    "targets": [
+      {
+        "word": "add",
+        "meaning": "加入",
+        "appearsInSource": true
+      },
+      {
+        "word": "also",
+        "meaning": "也",
+        "appearsInSource": true
+      },
+      {
+        "word": "bring",
+        "meaning": "帶來",
+        "appearsInSource": true
+      },
+      {
+        "word": "but",
+        "meaning": "但是",
+        "appearsInSource": true
+      },
+      {
+        "word": "cousin",
+        "meaning": "表哥",
+        "appearsInSource": true
+      },
+      {
+        "word": "family",
+        "meaning": "家人",
+        "appearsInSource": true
+      },
+      {
+        "word": "famous",
+        "meaning": "著名的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fill",
+        "meaning": "積滿",
+        "appearsInSource": true
+      },
+      {
+        "word": "guy",
+        "meaning": "男子",
+        "appearsInSource": true
+      },
+      {
+        "word": "helpful",
+        "meaning": "樂於助人的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lip",
+        "meaning": "嘴唇",
+        "appearsInSource": true
+      },
+      {
+        "word": "power",
+        "meaning": "動力",
+        "appearsInSource": true
+      },
+      {
+        "word": "river",
+        "meaning": "河流",
+        "appearsInSource": true
+      },
+      {
+        "word": "science",
+        "meaning": "科學",
+        "appearsInSource": true
+      },
+      {
+        "word": "sheep",
+        "meaning": "綿羊",
+        "appearsInSource": true
+      },
+      {
+        "word": "south",
+        "meaning": "南方",
+        "appearsInSource": true
+      },
+      {
+        "word": "sunny",
+        "meaning": "晴朗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "them",
+        "meaning": "他們",
+        "appearsInSource": true
+      },
+      {
+        "word": "tool",
+        "meaning": "工具",
+        "appearsInSource": true
+      },
+      {
+        "word": "video",
+        "meaning": "影片",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Leo find near the gate?",
+      "options": [
+        "A broken chair.",
+        "Two wheel marks.",
+        "A yellow bird."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Two wheel marks.",
+      "existingAnswerExplanation": "里歐在校門附近發現兩道輪痕",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The next morning was sunny. Ivy's cousin Leo came to school for a family visit and brought a small science tool that could measure the weather. He was also good at drawing maps. He saw two wheel marks in the soft earth near the gate. “A cart may have passed here,” he said. Jun wanted to follow the marks at once, but Ivy asked Ms. Wen first. The marks might belong to a cart carrying food, not to the green box. Leo drew them carefully before the sun made the ground dry.",
+          "chinese": "隔天早上陽光很好。艾薇的表哥里歐因家庭參訪來到學校，帶了一個能測量天氣的小型科學工具。他也很會畫地圖。他看到校門附近的軟土上有兩道輪痕。「可能有推車經過，」他說。俊想立刻沿著痕跡去找，艾薇卻先詢問溫老師。那些痕跡可能屬於送食物的推車，不一定與綠箱子有關。里歐趁太陽還沒把地面曬乾，仔細畫下輪痕。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "Leo wanted to add one more mark to his map: the place where the two lines began. He walked back to the gate with Jun and Ms. Wen. The soft ground had a small hole beside the wall. Rainwater could fill it when the next storm came. They took a photograph for the school worker and did not step into the hole. Leo said a good map should show danger as well as possible routes. Ivy agreed. Their search had taught them something useful about the gate, even if the marks did not lead to the green box.",
+          "chinese": "里歐想在地圖上加一個記號：兩道輪痕開始的位置。他和俊、溫老師一起回到校門。牆邊的軟土上有個小洞，下次暴雨時可能會積滿水。他們拍照交給學校工作人員，沒有踏進洞裡。里歐說，好地圖應該標出危險，也標出可能路線。艾薇同意。即使輪痕沒有帶他們找到綠箱子，這場搜尋仍幫他們發現了校門附近的一個問題。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did the science-room cart not match the marks?",
+      "options": [
+        "Its wheels were narrow and there were four.",
+        "It was blue.",
+        "It was too old to move."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Its wheels were narrow and there were four.",
+      "existingAnswerExplanation": "科學教室的推車是四個窄輪子，外面卻是兩道寬輪痕",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "After class the group went to the science room with Ms. Wen. A shelf held clean jars, a small fan, and a metal cart. The cart had four narrow wheels, while the mark outside showed two wide wheels. “It is not the same,” Jun said. Ivy wrote down the difference. She felt glad that they had checked a simple answer before telling the whole school. At the door, Ms. Wen asked whether they had learned something useful. “Yes,” Ivy said. “We have one less guess, and we still have friends willing to help.”",
+          "chinese": "下課後，大家在溫老師陪同下去了科學教室。架上有乾淨的罐子、小電扇與一輛金屬推車。那輛車有四個窄輪子，外頭的痕跡卻只有兩道寬輪痕。「不是同一輛，」俊說。艾薇記下差異。她慶幸自己在告訴全校之前，先查證了這個看似簡單的答案。到了門口，溫老師問他們有沒有學到有用的事。「有，」艾薇說，「我們少了一個猜測，而且還有願意幫忙的朋友。」",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 1,
+          "english": "The next morning was sunny. Ivy's cousin Leo came to school for a family visit and brought a small science tool that could measure the weather. He was also good at drawing maps. He saw two wheel marks in the soft earth near the gate. “A cart may have passed here,” he said. Jun wanted to follow the marks at once, but Ivy asked Ms. Wen first. The marks might belong to a cart carrying food, not to the green box. Leo drew them carefully before the sun made the ground dry.",
+          "chinese": "隔天早上陽光很好。艾薇的表哥里歐因家庭參訪來到學校，帶了一個能測量天氣的小型科學工具。他也很會畫地圖。他看到校門附近的軟土上有兩道輪痕。「可能有推車經過，」他說。俊想立刻沿著痕跡去找，艾薇卻先詢問溫老師。那些痕跡可能屬於送食物的推車，不一定與綠箱子有關。里歐趁太陽還沒把地面曬乾，仔細畫下輪痕。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

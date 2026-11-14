@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 13,
+  "chapterId": "ss-r2-l1-b-13",
+  "sourceChapterSha256": "b678e3a93f726d9ad83033b7e2ff6f4fb3420c85b53ca4a2a41e99a8a0e3cb2b",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "大雨使橋邊水位上升，露營者暫時留在早餐店等候；熟悉橋梁結構的托馬負責檢查安全並通報。",
+    "previousChapterEndingEnglish": "At home that night, Fia put the last ticket in her book. It had a bright little star printed on it. Her grandmother's house was not a stage, and the team was not a band, but they were learning how to work together. Every person had a part to play. If one was too tired, another could help, or the work could wait. She looked at the ticket once more and set it by the yellow string. The red house now held more than old furniture. It held memories and promises, and soon it would hold breakfast, too.",
+    "nextChapterOpeningEnglish": "On a sunny morning, Fia found an ant near a bag of flour. Then she saw several more on the floor. She did not want insects near food. \"We must clean this room before we cook,\" she said. Moss put the flour into a closed box, and Pip checked every bottle on the shelf. Kit, who had come to help, wore shorts and carried a small brush. They worked carefully. Nobody tried to hurt the little ants. Instead, they moved the open food, cleaned the floor, and found the small opening under the door where the ants came in."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Rain began as the first morning visitors arrived. It fell in long lines across the wide bridge. Fia could see the road through the kitchen window. Two ducks were trying to cross, and Toma went out to lead them back to the pond. \"The water is high,\" he called. \"Please keep children away from the bridge.\" Fia put a clear note on the door. Their first job was to keep people safe, even if fewer visitors came for breakfast. Moss took the warm bread from the oven, and Pip moved the honey jars to a dry shelf. The kitchen stayed bright while the sky turned gray. A brown duck followed the first two birds. The beautiful feathers looked bright even in the rain.",
+        "zh": "第一批早晨客人抵達時，雨開始下了。雨線掠過寬橋，菲雅從廚房窗戶看得見道路。兩隻鴨子想過橋，托馬出門把牠們引回池塘。「水位很高，」他喊道，「請別讓孩子靠近橋。」菲雅在門上放了清楚的提醒。即使因此少了早餐客人，第一要務仍是安全。莫斯把熱麵包拿出爐，皮普把蜂蜜罐移到乾燥架上。天空變灰，廚房卻仍明亮。 一隻棕色的鴨子跟在前兩隻鳥後面。牠美麗的羽毛即使在雨裡也顯得明亮。",
+        "englishSha256": "4a5b4cbe8116566476bc1505d569194a8c8c494c3b6071f4bbc4494b7b77a958",
+        "chineseSha256": "ef12c883898afdf91e995cf3cb90aa55f0021f54b49a5122f3cb2c502d92de4f"
+      },
+      {
+        "number": 2,
+        "en": "A group of young campers stopped under the roof. They had come from a camp by the hill, where they had spent the night. One member wanted to walk across the bridge anyway. Another said it was too dangerous. Their words grew into a fight, but Fia asked them to speak one at a time. \"You can stay here until the rain is less strong,\" she offered. \"We have chairs and water, though the shop is not fully open.\" The campers agreed. They were glad to sit down and read the food board while the rain beat against the glass. One camper placed a small toy soldier on a chair. \"He can wait with us,\" the camper joked, and the children laughed together.",
+        "zh": "一群年輕露營者停在屋簷下。他們從山邊營地來，昨晚在那裡過夜。一人堅持要過橋，另一人說太危險。兩人的爭論越來越激烈，菲雅請他們輪流說話。「可以先待在這裡，等雨小一些，」她說，「我們有椅子和水，雖然還沒正式開店。」露營者同意了。他們很高興能坐下讀食物看板，聽雨敲打玻璃。 一名露營者把玩具士兵放在椅子上。「他可以跟我們一起等。」那人開玩笑，孩子們一起笑了。",
+        "englishSha256": "5d8a0542b5f7b78d2e7f3535c42a4ff83711eb0b6f87852965efa32b698d1355",
+        "chineseSha256": "aaaf17efac8ca61f7290c28392694b8ef710a1f2573efdb2a9b438078d34ba0a"
+      },
+      {
+        "number": 3,
+        "en": "Kit came to the back stair with a box of eggs. He had used a safe path along the higher land. Fia thanked him, then asked him to rest before going home. \"I did not ride across the bridge,\" he told her. \"My mother said I should take the hill path, even if it took longer.\" Fia thought that was wise. The eggs were dry, and Kit was safe. They put the eggs away and made breakfast for the campers who wanted it. Moss offered bread with a little honey. He also told everyone which food had eggs and which did not.",
+        "zh": "基特帶著一盒蛋從後階梯上來。他改走地勢較高的安全路線。菲雅道謝，請他回家前先休息。「我沒騎過橋，」他說，「媽媽要我走山路，即使比較遠。」菲雅認為那很明智。蛋是乾的，基特也平安。他們收好蛋，替想吃的露營者準備早餐。莫斯提供加一點蜂蜜的麵包，也向大家說明哪些食物有蛋、哪些沒有。",
+        "englishSha256": "8bdf56173e5877e66531e226ff11d83b99415ab6956f922ff44d5f631bf9406b",
+        "chineseSha256": "837d7212214d07edd61ec2f6683974a0d6185f6945402b2b2d712b5c4497d1fe"
+      },
+      {
+        "number": 4,
+        "en": "After breakfast, the campers helped carry their chairs to the right place. One child looked at the star over the door. \"Who made that?\" she asked. Fia told the story of her grandmother. \"She wanted people to find home when the road was hard to see,\" she said. The camper smiled. \"It helped us find a safe place today.\" Fia felt her face grow warm. She had worried that opening a shop would take her away from the old story. Instead, the work was giving that story a new life. She touched the window and watched the rain begin to slow.",
+        "zh": "早餐後，露營者幫忙把椅子放回原位。一個孩子看著門上的星星。「誰做的？」她問。菲雅講起祖母的故事。「她希望路難走時，大家也能找到家。」孩子笑著說：「今天它幫我們找到安全的地方。」菲雅覺得臉頰暖了起來。她曾擔心開店會讓自己離祖母的故事越來越遠，沒想到工作反而給了故事新生命。她碰著窗，望見雨勢漸漸變小。",
+        "englishSha256": "a885886da3c66e3858c829bded97532aacbc97c0a0280e29ef076be2ebb21ee7",
+        "chineseSha256": "6c1c09adc42516348d6d9e69d689fa0c5c8e37c12048cdde6156587352e9f98a"
+      },
+      {
+        "number": 5,
+        "en": "Toma returned when the river went down. The bridge was still wet, but the boards had not moved. He asked the campers to wait a little longer while he checked the path. Fia stood beside him and watched. She could not repair a bridge, but she could help by keeping people informed. She gave each waiting person a cup of water and told them what Toma was doing. Nobody needed to guess whether the road was ready. At last Toma said they could cross slowly in small groups. The campers thanked him before leaving.",
+        "zh": "水位下降後，托馬回來了。橋仍濕，但木板沒有移位。他請露營者再等一會兒，讓他檢查道路。菲雅站在旁邊看著。她不會修橋，卻能幫忙傳達消息。她給每位等候者一杯水，說明托馬正在做什麼。大家不必猜道路能不能走。最後托馬說可以分成小群，慢慢過橋。露營者離開前都向他道謝。",
+        "englishSha256": "8444903914c04e536ff0ad7e5ed4c5d379933ec0c71d45f2667184da93ccbee0",
+        "chineseSha256": "0e9d36f0850ee4b300ce78e2ba462e9829dcacceba60915643682fb3f05beada"
+      },
+      {
+        "number": 6,
+        "en": "The rain finally stopped near sunset. Fia sat with Moss and Pip and talked about the day. They had sold less food than expected, but they had not lost the trust of their guests. People had seen a safe place to wait, an honest food board, and a team willing to help. \"That is enough for today,\" Fia said. She wrote the story in her book and closed it. The house was quiet now, but her thoughts were full. A long morning of rain had become a lesson in how a small shop could serve a whole village.",
+        "zh": "接近日落時，雨終於停了。菲雅和莫斯、皮普坐下談今天的事。賣出的食物比預期少，但他們沒有失去客人的信任。大家看見一個能安心等待的地方、一張誠實的食物看板，以及願意幫忙的團隊。「今天這樣已足夠。」菲雅說。她把故事記進本子，合上封面。屋子安靜了，她心裡卻滿是想法。漫長雨晨成了一堂課，讓她明白小店也能服務整個村莊。",
+        "englishSha256": "77abb8ab80737e3783e9a8d496151797dd7ce5143921025dd64de31fede6662f",
+        "chineseSha256": "40a37f7c3dbe78a82cded166eca16b18d2b2c86462ab2c19fc983296afede606"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 641,
+    "targets": [
+      {
+        "word": "beautiful",
+        "meaning": "美麗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "brown",
+        "meaning": "棕色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "camp",
+        "meaning": "露營",
+        "appearsInSource": true
+      },
+      {
+        "word": "chair",
+        "meaning": "椅子",
+        "appearsInSource": true
+      },
+      {
+        "word": "duck",
+        "meaning": "鴨子",
+        "appearsInSource": true
+      },
+      {
+        "word": "fight",
+        "meaning": "爭吵",
+        "appearsInSource": true
+      },
+      {
+        "word": "high",
+        "meaning": "高的",
+        "appearsInSource": true
+      },
+      {
+        "word": "honey",
+        "meaning": "蜂蜜",
+        "appearsInSource": true
+      },
+      {
+        "word": "It",
+        "meaning": "它",
+        "appearsInSource": true
+      },
+      {
+        "word": "lead",
+        "meaning": "引導",
+        "appearsInSource": true
+      },
+      {
+        "word": "member",
+        "meaning": "成員",
+        "appearsInSource": true
+      },
+      {
+        "word": "Rain",
+        "meaning": "雨",
+        "appearsInSource": true
+      },
+      {
+        "word": "read",
+        "meaning": "閱讀",
+        "appearsInSource": true
+      },
+      {
+        "word": "ride",
+        "meaning": "騎行",
+        "appearsInSource": true
+      },
+      {
+        "word": "soldier",
+        "meaning": "士兵",
+        "appearsInSource": true
+      },
+      {
+        "word": "stair",
+        "meaning": "階梯",
+        "appearsInSource": true
+      },
+      {
+        "word": "though",
+        "meaning": "雖然",
+        "appearsInSource": true
+      },
+      {
+        "word": "together",
+        "meaning": "一起",
+        "appearsInSource": true
+      },
+      {
+        "word": "wide",
+        "meaning": "寬的",
+        "appearsInSource": true
+      },
+      {
+        "word": "window",
+        "meaning": "窗戶",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why do the campers wait at the shop?",
+      "options": [
+        "The bridge is unsafe in heavy rain",
+        "They want to see a movie",
+        "They lost their bus"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The bridge is unsafe in heavy rain",
+      "existingAnswerExplanation": "大雨時橋邊水位高，露營者暫時留在店裡。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "A group of young campers stopped under the roof. They had come from a camp by the hill, where they had spent the night. One member wanted to walk across the bridge anyway. Another said it was too dangerous. Their words grew into a fight, but Fia asked them to speak one at a time. \"You can stay here until the rain is less strong,\" she offered. \"We have chairs and water, though the shop is not fully open.\" The campers agreed. They were glad to sit down and read the food board while the rain beat against the glass. One camper placed a small toy soldier on a chair. \"He can wait with us,\" the camper joked, and the children laughed together.",
+          "chinese": "一群年輕露營者停在屋簷下。他們從山邊營地來，昨晚在那裡過夜。一人堅持要過橋，另一人說太危險。兩人的爭論越來越激烈，菲雅請他們輪流說話。「可以先待在這裡，等雨小一些，」她說，「我們有椅子和水，雖然還沒正式開店。」露營者同意了。他們很高興能坐下讀食物看板，聽雨敲打玻璃。 一名露營者把玩具士兵放在椅子上。「他可以跟我們一起等。」那人開玩笑，孩子們一起笑了。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 4,
+          "english": "After breakfast, the campers helped carry their chairs to the right place. One child looked at the star over the door. \"Who made that?\" she asked. Fia told the story of her grandmother. \"She wanted people to find home when the road was hard to see,\" she said. The camper smiled. \"It helped us find a safe place today.\" Fia felt her face grow warm. She had worried that opening a shop would take her away from the old story. Instead, the work was giving that story a new life. She touched the window and watched the rain begin to slow.",
+          "chinese": "早餐後，露營者幫忙把椅子放回原位。一個孩子看著門上的星星。「誰做的？」她問。菲雅講起祖母的故事。「她希望路難走時，大家也能找到家。」孩子笑著說：「今天它幫我們找到安全的地方。」菲雅覺得臉頰暖了起來。她曾擔心開店會讓自己離祖母的故事越來越遠，沒想到工作反而給了故事新生命。她碰著窗，望見雨勢漸漸變小。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Who checks the bridge?",
+      "options": [
+        "Toma",
+        "Moss",
+        "Rowan"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Toma",
+      "existingAnswerExplanation": "托馬是修建木道的海狸，由他檢查橋梁安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Rain began as the first morning visitors arrived. It fell in long lines across the wide bridge. Fia could see the road through the kitchen window. Two ducks were trying to cross, and Toma went out to lead them back to the pond. \"The water is high,\" he called. \"Please keep children away from the bridge.\" Fia put a clear note on the door. Their first job was to keep people safe, even if fewer visitors came for breakfast. Moss took the warm bread from the oven, and Pip moved the honey jars to a dry shelf. The kitchen stayed bright while the sky turned gray. A brown duck followed the first two birds. The beautiful feathers looked bright even in the rain.",
+          "chinese": "第一批早晨客人抵達時，雨開始下了。雨線掠過寬橋，菲雅從廚房窗戶看得見道路。兩隻鴨子想過橋，托馬出門把牠們引回池塘。「水位很高，」他喊道，「請別讓孩子靠近橋。」菲雅在門上放了清楚的提醒。即使因此少了早餐客人，第一要務仍是安全。莫斯把熱麵包拿出爐，皮普把蜂蜜罐移到乾燥架上。天空變灰，廚房卻仍明亮。 一隻棕色的鴨子跟在前兩隻鳥後面。牠美麗的羽毛即使在雨裡也顯得明亮。",
+          "matchedQueryTerms": 2
+        },
+        {
+          "paragraph": 5,
+          "english": "Toma returned when the river went down. The bridge was still wet, but the boards had not moved. He asked the campers to wait a little longer while he checked the path. Fia stood beside him and watched. She could not repair a bridge, but she could help by keeping people informed. She gave each waiting person a cup of water and told them what Toma was doing. Nobody needed to guess whether the road was ready. At last Toma said they could cross slowly in small groups. The campers thanked him before leaving.",
+          "chinese": "水位下降後，托馬回來了。橋仍濕，但木板沒有移位。他請露營者再等一會兒，讓他檢查道路。菲雅站在旁邊看著。她不會修橋，卻能幫忙傳達消息。她給每位等候者一杯水，說明托馬正在做什麼。大家不必猜道路能不能走。最後托馬說可以分成小群，慢慢過橋。露營者離開前都向他道謝。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 23,
+  "chapterId": "ss-r10-l1-a-23",
+  "sourceChapterSha256": "dd741b2f672136b561bc7f348c7e43563e879154c93afb1363715370f48f9bab",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "送審資料刪除未經同意照片，公用性成本安全同步考量",
+    "previousChapterEndingEnglish": "When the practice session ended, Nia asked the class for one word they wanted to remember. Finn said \"moon.\" Tomas said \"choice.\" Bo said \"try.\" Mrs. Sol said \"together.\" Nia wrote the four words on a board near the door. The class had not learned everything about space. No one could in six weeks. But they had learned how to look, ask, test, and listen. They were ready to show the center board what had happened in the little room. Nia asked everyone to check the floor for paper before leaving. They went home with their work safe and the room clean.",
+    "nextChapterOpeningEnglish": "The morning was rainy, and Nia thought the final outdoor visit might be lost. But the weather report showed a chance of clear sky after dinner. She called the center officer on her cellphone and asked whether the grass field had passed its safety check. He said the hole had been blocked, the path light fixed, and the work recorded. Nia asked for a copy of the check before inviting families. She also told everyone that the visit would end early if the ground became wet again. The date was the last Saturday of the six-week trial. She wanted to finish the class well, not rush to show a wonderful sight at any cost."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Friday, Nia went to the center office to finish the class report. Arun greeted her with a cheerful \"Hello!\" and offered her a chair. The report had pages of notes, but Nia wanted the board to understand what each page meant. She put the oldest work at the bottom of the pile and the newest on top. She did not want to hide the mistakes. \"This may look a little crazy,\" she said, \"but the changes are the story.\" Arun said the pages looked fine. They showed people learning, not a perfect class that had never needed help.",
+        "zh": "星期五，妮雅到中心辦公室完成課堂報告。亞倫笑著說「你好！」，還請她坐下。報告裡有很多筆記，但妮雅希望委員會知道每頁代表什麼。她把最早的作品放在最下面，最新的放上面，沒有藏起錯誤。「看起來可能有點亂，」她說，「但修改的過程就是故事。」亞倫說這些頁面很好。它們記錄了人如何學習，而不是一堂從來不需要幫忙的完美課。",
+        "englishSha256": "4e40ffffd58a5224da127f479f4d6795ee5c456c5abf5637a16fd1afe6391fbd",
+        "chineseSha256": "6c7e39444a78f854ca46f32040dd16ace59841e3de105632cbe10363e608ebb0"
+      },
+      {
+        "number": 2,
+        "en": "Mrs. Sol came with a little pot of flowers for the room. She had asked her wife to help carry it, and both women stayed to see the work. Nia explained that a pot on the floor could block the path. Mrs. Sol said they could keep it on the low windowsill instead. \"Yes,\" Nia answered, \"there is room there.\" The two women smiled at each other, and Mrs. Sol gave her wife a quick kiss on the cheek. Nia asked whether they wanted their names on the report. They said their comments could be included, but they preferred not to have a photo. Nia respected that choice.",
+        "zh": "索爾奶奶帶來一小盆花想留在教室。她請妻子一起搬來，兩人都留下來看作品。妮雅解釋，盆栽放在地板上可能擋路。索爾奶奶說，可以改放在低窗臺。「可以，」妮雅回答，「那裡有空間。」兩人相視而笑，索爾奶奶還輕吻妻子的臉頰。妮雅問，她們是否願意讓名字出現在報告中。她們同意引用意見，但不想放照片。妮雅尊重這個選擇。",
+        "englishSha256": "d5931742439e9eafe3934d3331d807661eaf66a399617737de94ff47566f5c14",
+        "chineseSha256": "293154bf57cc4c4064788ad79118d2a5cc2773fe11e4944fa6f29fc0ef7097f0"
+      },
+      {
+        "number": 3,
+        "en": "At lunch, Mara brought a small apple pie and shared it in the kitchen, not beside the paper models. Nia had a sore throat from talking so much the day before. Mara gave her warm water and told her to rest her voice. \"You do not have to explain every page aloud,\" she said. \"The board can read.\" Nia laughed softly. She was learning to let written work speak for itself. Ada checked the report for names, dates, and permission notes. She found one picture that had been added without a clear yes from its owner. Nia removed it until she could ask. A good report did not need every picture to be strong.",
+        "zh": "午餐時，瑪拉帶來一小塊蘋果派，大家在廚房分享，沒有把食物拿到紙模型旁。妮雅前一天講太多話，喉嚨有點痛。瑪拉給她溫水，提醒她休息嗓子。「妳不必把每一頁都念出來，」她說，「委員會會自己讀。」妮雅輕輕笑了。她正在學著讓書面成果自己說話。艾達檢查報告上的姓名、日期和同意註記，發現有張圖片沒有明確得到作者許可。妮雅便先移除，等問清楚再說。好的報告不需要所有照片才有力量。",
+        "englishSha256": "9ea46a59ce1c599c67f718c0eb73e9c090b00c3085c8930724e349d4ab94fa2f",
+        "chineseSha256": "9d0425e27e8ff68dcffc24cb059fd9b7639f815d9eab70ae7e716326467d4945"
+      },
+      {
+        "number": 4,
+        "en": "That afternoon, Mr. Hale explained the review again. The board would look at public use, costs, safety, and learning. It could choose to keep the room, share it with another program, or stop the class. Nia asked which choice would be best for the center as a whole. \"I cannot answer that for the board,\" he said politely. \"But I can tell you the rules.\" Nia was glad he was direct. She did not want a private promise that might turn out to be wrong. She made three small boxes at the end of her report, one for each possible decision, so the board could record the reason clearly.",
+        "zh": "下午，海爾先生再次解釋審查程序。委員會會看公共使用情況、費用、安全和學習成果。可以選擇保留課程、與其他活動共用房間，或停止課程。妮雅問，哪種決定最有利於整個中心。「我不能替委員會回答，」他有禮貌地說，「但我可以告訴妳規定。」妮雅很高興他說得直接。她不想得到一個最後可能不算數的私下承諾。她在報告最後畫了三個小框，對應三種可能決定，讓委員會可以清楚記下理由。",
+        "englishSha256": "bb22ddb96dfe5bf9f2be700319bf0d4df687eccbd6c3bc9f75b98bdfc28fb828",
+        "chineseSha256": "6584b38351e8edd960780c11e18440e72f850efcd1729086821a64872f0ef9b3"
+      },
+      {
+        "number": 5,
+        "en": "As the report came together, Nia asked Ada to check which pictures could belong in the public copy. Ada went through the list one name at a time. She found a question card without a name and decided not to guess who had written it. \"We can still use the question,\" Nia said, \"but we will not give it to someone who may not have written it.\" Arun had to come in to say the kitchen would soon close and that the workers needed space for cleaning. Nia thanked him and asked the helpers to be polite as they moved out. A visitor asked whether there was a shower in the center. Arun explained where the bathrooms were and said the building had no public shower. The group finished its work without blocking the hall.",
+        "zh": "整理報告時，妮雅請艾達核對哪些照片可以放進公開版本。艾達沿著名單逐一檢查，發現有張問題卡沒寫名字，便決定不猜是誰的。「我們仍可以使用問題，」妮雅說，「但不能把它算到可能沒寫的人頭上。」亞倫不得不進來說廚房快關閉了，工作人員需要空間清潔。妮雅向他道謝，請幫手們有禮貌地移開。訪客問中心有沒有淋浴間。亞倫說明洗手間位置，也說建築裡沒有公共淋浴設備。大家沒有擋住走廊，就把工作收好了。",
+        "englishSha256": "21bd43f544b73b420cd184f1f9419c74afea59f6cb17dbbf557a3d0841e788b6",
+        "chineseSha256": "0ac70c8bad815a7efefa5fbe89a12e299c591def78a49e8007a0e34ace05997e"
+      },
+      {
+        "number": 6,
+        "en": "At home, Nia read the report one more time. She understood which parts were her own work and which belonged to the students. She had never expected to care so much about a few sheets of paper. The report was not a prize. It was a way to tell the truth about six weeks. She closed the folder and put it near her door. On Monday she would bring it to the meeting. For the first time, she was not planning a long speech to make everyone like her. She was planning to answer questions about the work, with the students' choices still visible on the page.",
+        "zh": "回家後，妮雅又讀了一次報告。她清楚知道哪些部分是自己的工作，哪些屬於學生。她以前沒想過自己會這麼在乎幾張紙。報告不是獎品，而是說明六週真相的方法。她合上資料夾，把它放在門邊，準備星期一帶去會議。這是第一次，她沒有計畫用長篇演說讓所有人喜歡自己，而是準備回答有關工作的問題，讓學生的選擇清楚留在紙上。",
+        "englishSha256": "645f45f389443553a557ec3eb83eafcb692d70a815bd6373491b6fffda798c90",
+        "chineseSha256": "def4222204078857109624f243b8acc72bfe6e0235af3594857e123ea71db5af"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 672,
+    "targets": [
+      {
+        "word": "belong",
+        "meaning": "屬於",
+        "appearsInSource": true
+      },
+      {
+        "word": "bottom",
+        "meaning": "底部",
+        "appearsInSource": true
+      },
+      {
+        "word": "come",
+        "meaning": "來到",
+        "appearsInSource": true
+      },
+      {
+        "word": "crazy",
+        "meaning": "凌亂的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fine",
+        "meaning": "沒問題的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Hello",
+        "meaning": "你好",
+        "appearsInSource": true
+      },
+      {
+        "word": "kiss",
+        "meaning": "親吻",
+        "appearsInSource": true
+      },
+      {
+        "word": "name",
+        "meaning": "姓名",
+        "appearsInSource": true
+      },
+      {
+        "word": "never",
+        "meaning": "從不",
+        "appearsInSource": true
+      },
+      {
+        "word": "office",
+        "meaning": "辦公室",
+        "appearsInSource": true
+      },
+      {
+        "word": "pie",
+        "meaning": "派",
+        "appearsInSource": true
+      },
+      {
+        "word": "polite",
+        "meaning": "有禮貌的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pot",
+        "meaning": "花盆",
+        "appearsInSource": true
+      },
+      {
+        "word": "shower",
+        "meaning": "淋浴",
+        "appearsInSource": true
+      },
+      {
+        "word": "space",
+        "meaning": "空間",
+        "appearsInSource": true
+      },
+      {
+        "word": "throat",
+        "meaning": "喉嚨",
+        "appearsInSource": true
+      },
+      {
+        "word": "understand",
+        "meaning": "理解",
+        "appearsInSource": true
+      },
+      {
+        "word": "which",
+        "meaning": "哪一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "wife",
+        "meaning": "妻子",
+        "appearsInSource": true
+      },
+      {
+        "word": "Yes",
+        "meaning": "是的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Nia remove from the report?",
+      "options": [
+        "A picture without clear permission.",
+        "Every question card.",
+        "The class schedule."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A picture without clear permission.",
+      "existingAnswerExplanation": "有一張圖片沒有明確取得作者同意，所以先移除。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "At lunch, Mara brought a small apple pie and shared it in the kitchen, not beside the paper models. Nia had a sore throat from talking so much the day before. Mara gave her warm water and told her to rest her voice. \"You do not have to explain every page aloud,\" she said. \"The board can read.\" Nia laughed softly. She was learning to let written work speak for itself. Ada checked the report for names, dates, and permission notes. She found one picture that had been added without a clear yes from its owner. Nia removed it until she could ask. A good report did not need every picture to be strong.",
+          "chinese": "午餐時，瑪拉帶來一小塊蘋果派，大家在廚房分享，沒有把食物拿到紙模型旁。妮雅前一天講太多話，喉嚨有點痛。瑪拉給她溫水，提醒她休息嗓子。「妳不必把每一頁都念出來，」她說，「委員會會自己讀。」妮雅輕輕笑了。她正在學著讓書面成果自己說話。艾達檢查報告上的姓名、日期和同意註記，發現有張圖片沒有明確得到作者許可。妮雅便先移除，等問清楚再說。好的報告不需要所有照片才有力量。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 1,
+          "english": "On Friday, Nia went to the center office to finish the class report. Arun greeted her with a cheerful \"Hello!\" and offered her a chair. The report had pages of notes, but Nia wanted the board to understand what each page meant. She put the oldest work at the bottom of the pile and the newest on top. She did not want to hide the mistakes. \"This may look a little crazy,\" she said, \"but the changes are the story.\" Arun said the pages looked fine. They showed people learning, not a perfect class that had never needed help.",
+          "chinese": "星期五，妮雅到中心辦公室完成課堂報告。亞倫笑著說「你好！」，還請她坐下。報告裡有很多筆記，但妮雅希望委員會知道每頁代表什麼。她把最早的作品放在最下面，最新的放上面，沒有藏起錯誤。「看起來可能有點亂，」她說，「但修改的過程就是故事。」亞倫說這些頁面很好。它們記錄了人如何學習，而不是一堂從來不需要幫忙的完美課。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What will the board review?",
+      "options": [
+        "Only whether the class was fun.",
+        "Only whether the teacher smiled.",
+        "Public use, costs, safety, and learning."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "Public use, costs, safety, and learning.",
+      "existingAnswerExplanation": "委員會會審查公共用途、費用、安全與學習成果。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "That afternoon, Mr. Hale explained the review again. The board would look at public use, costs, safety, and learning. It could choose to keep the room, share it with another program, or stop the class. Nia asked which choice would be best for the center as a whole. \"I cannot answer that for the board,\" he said politely. \"But I can tell you the rules.\" Nia was glad he was direct. She did not want a private promise that might turn out to be wrong. She made three small boxes at the end of her report, one for each possible decision, so the board could record the reason clearly.",
+          "chinese": "下午，海爾先生再次解釋審查程序。委員會會看公共使用情況、費用、安全和學習成果。可以選擇保留課程、與其他活動共用房間，或停止課程。妮雅問，哪種決定最有利於整個中心。「我不能替委員會回答，」他有禮貌地說，「但我可以告訴妳規定。」妮雅很高興他說得直接。她不想得到一個最後可能不算數的私下承諾。她在報告最後畫了三個小框，對應三種可能決定，讓委員會可以清楚記下理由。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 1,
+          "english": "On Friday, Nia went to the center office to finish the class report. Arun greeted her with a cheerful \"Hello!\" and offered her a chair. The report had pages of notes, but Nia wanted the board to understand what each page meant. She put the oldest work at the bottom of the pile and the newest on top. She did not want to hide the mistakes. \"This may look a little crazy,\" she said, \"but the changes are the story.\" Arun said the pages looked fine. They showed people learning, not a perfect class that had never needed help.",
+          "chinese": "星期五，妮雅到中心辦公室完成課堂報告。亞倫笑著說「你好！」，還請她坐下。報告裡有很多筆記，但妮雅希望委員會知道每頁代表什麼。她把最早的作品放在最下面，最新的放上面，沒有藏起錯誤。「看起來可能有點亂，」她說，「但修改的過程就是故事。」亞倫說這些頁面很好。它們記錄了人如何學習，而不是一堂從來不需要幫忙的完美課。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 3,
+  "chapterId": "ss-r2-l1-b-3",
+  "sourceChapterSha256": "ba0283e0d78dd26a77d3d09ac40dfebbb2dcd1fa009ac7a0476e99e8450231da",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "向學校詢問二手椅子，四點前回信安排五點查看",
+    "previousChapterEndingEnglish": "In the evening, Fia put the list under the door so Edda could read it. She almost forgot the key inside, but Pip reminded her. \"We should keep one key with you and another with Edda,\" he said. Fia nodded. A shop needed good food, but it also needed small, careful habits. She looked toward the pond once more. A light shone in Toma's little work house. He would be awake early tomorrow. Fia hoped that, before long, he could begin his hard days with a warm meal and a little time to rest. She did not forget the pen they had found behind the sofa. It now had a place beside the growing list of jobs.",
+    "nextChapterOpeningEnglish": "Rain came from the east before breakfast time. It fell on the roof and made a small pool beside the door. Moss put a bowl under a wet place inside. \"We must fix this,\" he said. Fia saw that the water came from a little block of wood near the window. They could not simply move the bowl and forget the problem. Both friends put on dry coats and went to the back of the house. A green leaf was stuck in a water pipe. Moss carefully pulled it out, and the water ran away from the wall. The first problem of the day was small, but it mattered."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Fia set a small lamp on the table and looked at her plans. She had marked all the work areas in the house. The kitchen needed space for bread, the front room needed tables, and the back garden needed water. Pip came with an orange plant pot and a drawing of the garden. \"Let us begin with the plants,\" he said. \"We have a few seeds, but we can grow more.\" Fia smiled. \"First we should define what we need: food plants near the door, flowers by the path, and a clear way for workers to walk.\" Pip nodded and moved the pot outside. The area near the back door was small, so Pip measured it before placing another pot.",
+        "zh": "菲雅把一盞小燈放上桌，仔細看自己的計畫。她標出了屋內所有工作區域。廚房要有烤麵包的空間，前房要擺桌子，後花園則需要水。皮普帶著橘色花盆和花園圖來了。「先從植物開始吧，」他說，「我們只有幾顆種子，但還能種更多。」菲雅笑著說：「先定義需求：食用植物靠近門，花種在路旁，還得留一條讓大家走的通道。」皮普點頭，把花盆移到外面。 後門附近的區域很小，皮普在再放一盆植物前先量了位置。",
+        "englishSha256": "d07a9471bb1ba841d7947d7b86e6e85ce0f37d8413a3a35c06f803ed8bb48b1a",
+        "chineseSha256": "7e90d0ed727d1d3710b1dc150424e087c1d2cbdc873effb4b9046118d5cd971a"
+      },
+      {
+        "number": 2,
+        "en": "Across the village, children were playing basketball in the school yard. A ball came over the low wall and landed near Moss. He picked it up and called to the children. They ran to get it, but one child stopped at the house. \"Are you making a modern cafe?\" she asked. \"It will be a simple breakfast shop,\" Fia said. \"We hope you can come with your family.\" The child looked at the empty floor. \"You need more chairs,\" she said. Fia laughed. \"You are right. May we have your name for our list of people with good ideas?\" The child proudly agreed.",
+        "zh": "村子另一頭，孩子們正在學校操場打籃球。一顆球飛過矮牆，落在莫斯附近。他撿起球，叫孩子來拿。一個孩子停在屋前。「你們要開現代咖啡館嗎？」她問。「是簡單的早餐店，」菲雅說，「希望妳能和家人一起來。」孩子看著空地板。「你們還需要更多椅子。」她說。菲雅笑了。「妳說得對。可以把妳列進我們的好主意名單嗎？」孩子驕傲地答應了。",
+        "englishSha256": "e19df3ed1569df9ba68d86c8a26478fa28a08aa55c302df6f8485113e5da7f1d",
+        "chineseSha256": "3c1ef7811c468b0c2292293fa025f35096fcb3d8f194274126ed9160d8fa1e65"
+      },
+      {
+        "number": 3,
+        "en": "At a quarter past three, Fia sent an email to the village school. She asked if it had old chairs that people could fix and use again. The teacher answered before four. Some chairs were ready, but others had broken legs. \"Please come at five pm if the path is clear,\" the email said. Moss said he could look at them. Pip went to get an eraser because he had put the wrong number on the board. Fia did not feel bad about a changed plan. She had learned that a good list could change when a better answer came. It was less important to be perfect than to be clear.",
+        "zh": "三點十五分，菲雅寄了一封電子郵件給村校，詢問有沒有能修好再使用的舊椅子。老師在四點前回信，說有些椅子還能用，有些椅腳壞了。「如果道路暢通，請下午五點來。」信上寫著。莫斯說他可以檢查。皮普去拿橡皮擦，因為黑板上的數字寫錯了。菲雅不為改動計畫難過。她學會了：得到更好的答案時，好的清單也能跟著改。比起完美，清楚更重要。",
+        "englishSha256": "a10798d47fb45cf1445d456b415eb2a99b92388436279fbcd0464cc5f5a44c67",
+        "chineseSha256": "162a9106bbc6503c73210926f3193f62adc038c992ea9353af4ecd42075803a8"
+      },
+      {
+        "number": 4,
+        "en": "The path near the school had heavy traffic at that hour. It was not a road for cars alone. People carried boxes, children played, and old neighbors walked home. Fia decided the workers would leave the chairs at school until the path was quiet. \"We will come back after six,\" she said. Moss did not like waiting, but he understood. They walked to the post room to check the mail. There was a note from Edda: the village could lend them a table for one month. It was not much, but it was a good start.",
+        "zh": "那個時段，學校旁小路很擁擠。這不只是車走的路；有人搬箱子，有孩子玩耍，也有老人走回家。菲雅決定先讓椅子留在學校，等路安靜再搬。「六點後我們再來。」她說。莫斯不喜歡等待，但能理解。他們去郵件室查看信件，發現艾達留的字條：村子可以借他們一張桌子，借期一個月。這不算多，卻是很好的開始。",
+        "englishSha256": "848e2624721942ed0744c72733db07bbe7fd5d4d96152d7d6327f6e17d540259",
+        "chineseSha256": "63bb9ce099498114fb3ce831238b9cc33e43403fcd15bdf0c262e04272f418aa"
+      },
+      {
+        "number": 5,
+        "en": "That night, Fia and Pip worked in the garden while Moss repaired the first chair. A cool wind moved through the plants. The little lamp in the window let them see the tools. Pip put the orange pot beside the steps and poured a little water into it. \"The seeds cannot make breakfast for us tomorrow,\" he said. \"No,\" Fia answered, \"but in time they may help.\" Moss came outside with the chair. It stood well on its four legs. He sat on it carefully, then stood again with a proud smile. They had made something useful out of something old.",
+        "zh": "那天晚上，菲雅和皮普在花園忙，莫斯則修好第一張椅子。涼風吹過植物，窗邊小燈照亮了工具。皮普把橘色花盆放在階梯旁，倒了些水。「這些種子明天還做不了早餐。」他說。「是啊，」菲雅回答，「但以後說不定能幫上忙。」莫斯帶著椅子出來，四隻腳都站得穩穩的。他小心坐下又站起來，露出得意的笑。大家把舊東西變成了有用的東西。",
+        "englishSha256": "cc657cef238ea8602288ecec624d1213534bed5a28471f7db370fea35eb3cd76",
+        "chineseSha256": "0a84718a56607f8e84c6093aad4382a7614ff50b7be2bcbf488ff29454c018ce"
+      },
+      {
+        "number": 6,
+        "en": "Before going home, Fia drew a small line through three jobs on her list. They had chosen plant places, found a table, and fixed a chair. There were still many empty lines. She was tired, but she did not feel afraid of them. Each line was only a question that could have an answer. She put the list beside the door for the next morning. When she turned off the lamp, the old wooden star was still easy to see in the moonlight. A shop was beginning, one careful choice at a time.",
+        "zh": "回家前，菲雅在清單上劃掉三項工作：安排植物位置、找到桌子、修好椅子。仍有很多空白欄位。她很累，卻不再害怕那些欄位。每一行只是個有可能解決的問題。她把清單放在門旁，準備明早再用。關掉小燈時，老木星星仍在月光下清楚可見。早餐店正隨著一次又一次細心的選擇慢慢成形。",
+        "englishSha256": "c3e2600643011f7cc536791ed43f22e2acbaa2951e09a3f22539f3f11c5b1abc",
+        "chineseSha256": "8953581cffeb4e950a6b885640a7749ee4a7dc0400306976fd6c493210ea9ba5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 624,
+    "targets": [
+      {
+        "word": "all",
+        "meaning": "全部的",
+        "appearsInSource": true
+      },
+      {
+        "word": "area",
+        "meaning": "區域",
+        "appearsInSource": true
+      },
+      {
+        "word": "basketball",
+        "meaning": "籃球",
+        "appearsInSource": true
+      },
+      {
+        "word": "begin",
+        "meaning": "開始",
+        "appearsInSource": true
+      },
+      {
+        "word": "define",
+        "meaning": "定義",
+        "appearsInSource": true
+      },
+      {
+        "word": "email",
+        "meaning": "電子郵件",
+        "appearsInSource": true
+      },
+      {
+        "word": "eraser",
+        "meaning": "橡皮擦",
+        "appearsInSource": true
+      },
+      {
+        "word": "few",
+        "meaning": "幾個",
+        "appearsInSource": true
+      },
+      {
+        "word": "lamp",
+        "meaning": "燈",
+        "appearsInSource": true
+      },
+      {
+        "word": "leave",
+        "meaning": "離開",
+        "appearsInSource": true
+      },
+      {
+        "word": "less",
+        "meaning": "較少的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mail",
+        "meaning": "郵件",
+        "appearsInSource": true
+      },
+      {
+        "word": "modern",
+        "meaning": "現代的",
+        "appearsInSource": true
+      },
+      {
+        "word": "night",
+        "meaning": "夜晚",
+        "appearsInSource": true
+      },
+      {
+        "word": "orange",
+        "meaning": "橘色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "plant",
+        "meaning": "植物",
+        "appearsInSource": true
+      },
+      {
+        "word": "pm",
+        "meaning": "下午",
+        "appearsInSource": true
+      },
+      {
+        "word": "quarter",
+        "meaning": "一刻鐘",
+        "appearsInSource": true
+      },
+      {
+        "word": "traffic",
+        "meaning": "交通",
+        "appearsInSource": true
+      },
+      {
+        "word": "will",
+        "meaning": "將會",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why do they wait to carry the chairs?",
+      "options": [
+        "The road is busy",
+        "The chairs are red",
+        "The school is closed forever"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The road is busy",
+      "existingAnswerExplanation": "因學校附近道路擁擠，他們等人潮散去再搬椅子。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "The path near the school had heavy traffic at that hour. It was not a road for cars alone. People carried boxes, children played, and old neighbors walked home. Fia decided the workers would leave the chairs at school until the path was quiet. \"We will come back after six,\" she said. Moss did not like waiting, but he understood. They walked to the post room to check the mail. There was a note from Edda: the village could lend them a table for one month. It was not much, but it was a good start.",
+          "chinese": "那個時段，學校旁小路很擁擠。這不只是車走的路；有人搬箱子，有孩子玩耍，也有老人走回家。菲雅決定先讓椅子留在學校，等路安靜再搬。「六點後我們再來。」她說。莫斯不喜歡等待，但能理解。他們去郵件室查看信件，發現艾達留的字條：村子可以借他們一張桌子，借期一個月。這不算多，卻是很好的開始。",
+          "matchedQueryTerms": 2
+        },
+        {
+          "paragraph": 2,
+          "english": "Across the village, children were playing basketball in the school yard. A ball came over the low wall and landed near Moss. He picked it up and called to the children. They ran to get it, but one child stopped at the house. \"Are you making a modern cafe?\" she asked. \"It will be a simple breakfast shop,\" Fia said. \"We hope you can come with your family.\" The child looked at the empty floor. \"You need more chairs,\" she said. Fia laughed. \"You are right. May we have your name for our list of people with good ideas?\" The child proudly agreed.",
+          "chinese": "村子另一頭，孩子們正在學校操場打籃球。一顆球飛過矮牆，落在莫斯附近。他撿起球，叫孩子來拿。一個孩子停在屋前。「你們要開現代咖啡館嗎？」她問。「是簡單的早餐店，」菲雅說，「希望妳能和家人一起來。」孩子看著空地板。「你們還需要更多椅子。」她說。菲雅笑了。「妳說得對。可以把妳列進我們的好主意名單嗎？」孩子驕傲地答應了。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Moss repair?",
+      "options": [
+        "A lamp",
+        "A chair",
+        "A ball"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "A chair",
+      "existingAnswerExplanation": "莫斯修好了舊椅子。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "That night, Fia and Pip worked in the garden while Moss repaired the first chair. A cool wind moved through the plants. The little lamp in the window let them see the tools. Pip put the orange pot beside the steps and poured a little water into it. \"The seeds cannot make breakfast for us tomorrow,\" he said. \"No,\" Fia answered, \"but in time they may help.\" Moss came outside with the chair. It stood well on its four legs. He sat on it carefully, then stood again with a proud smile. They had made something useful out of something old.",
+          "chinese": "那天晚上，菲雅和皮普在花園忙，莫斯則修好第一張椅子。涼風吹過植物，窗邊小燈照亮了工具。皮普把橘色花盆放在階梯旁，倒了些水。「這些種子明天還做不了早餐。」他說。「是啊，」菲雅回答，「但以後說不定能幫上忙。」莫斯帶著椅子出來，四隻腳都站得穩穩的。他小心坐下又站起來，露出得意的笑。大家把舊東西變成了有用的東西。",
+          "matchedQueryTerms": 2
+        },
+        {
+          "paragraph": 2,
+          "english": "Across the village, children were playing basketball in the school yard. A ball came over the low wall and landed near Moss. He picked it up and called to the children. They ran to get it, but one child stopped at the house. \"Are you making a modern cafe?\" she asked. \"It will be a simple breakfast shop,\" Fia said. \"We hope you can come with your family.\" The child looked at the empty floor. \"You need more chairs,\" she said. Fia laughed. \"You are right. May we have your name for our list of people with good ideas?\" The child proudly agreed.",
+          "chinese": "村子另一頭，孩子們正在學校操場打籃球。一顆球飛過矮牆，落在莫斯附近。他撿起球，叫孩子來拿。一個孩子停在屋前。「你們要開現代咖啡館嗎？」她問。「是簡單的早餐店，」菲雅說，「希望妳能和家人一起來。」孩子看著空地板。「你們還需要更多椅子。」她說。菲雅笑了。「妳說得對。可以把妳列進我們的好主意名單嗎？」孩子驕傲地答應了。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

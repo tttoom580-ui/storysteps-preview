@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 18,
+  "chapterId": "ss-r11-l1-a-18",
+  "sourceChapterSha256": "3d73075e4bfe8e4a14370e4ef5e10edd27a1ba29c2cad7c8ca8c9e46b5433ef0",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "部分種子受潮需淘汰，多數標籤和種子可保留",
+    "previousChapterEndingEnglish": "Before bed Ivy opened her notebook at the first page. She read the question she had written on the day the box disappeared. Then she turned to the new page and wrote the answer in a careful sentence. She added the names of the people who had helped, from the garden worker to Sara at the market. She did not say that she alone had solved the problem. That would not be true. She knew the real story was made from many small pieces, held together by patient talk.",
+    "nextChapterOpeningEnglish": "Another problem appeared the next morning. A bee flew near the garden gate, and a child cried that it would attack everyone. A black dog behind the fence began to bark. The noise made more children run. Ivy did not move toward the bee. She asked the group to walk quietly to a clear space and find a teacher. A bee could bite or sting if it felt in danger, so they should not hit it or wave at it. Mr. Reed watched from a safe distance until it flew away."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The green box returned on Tuesday. Mr. Reed and another school worker opened it in a safe room, with Ivy's team watching from the door. The paper labels were dry, but one small bag of seeds had become wet. The workers placed it aside for a careful check. Yesterday the children had wanted to touch everything; today they waited. Ms. Wen said they did not need to open every bag at once. They could set out the safe cards, count the dry packets, and make a plan for the others.",
+        "zh": "綠箱子星期二回來了。里德先生和另一位學校工作人員在安全的房間裡打開，艾薇的隊伍從門口觀看。紙標示是乾的，但有一小袋種子受潮了。工人把它放到一旁，準備仔細檢查。昨天孩子們還想摸遍所有東西；今天他們安靜等待。溫老師說，不需要一次打開每個袋子。他們可以先整理安全的卡片，清點乾燥的種子包，並替其他物品訂計畫。",
+        "englishSha256": "b4ee3b6fa4c71a465aa0acfa62a35742161bfc9f5833bc6acad78b7f26c47ece",
+        "chineseSha256": "72d42e9a3fa955556abe64e791d994c7d1886910aa4bf6dc5cd2af361c36dae8"
+      },
+      {
+        "number": 2,
+        "en": "Ivy's father came to school to hear the good news. He was certain that the club had worked hard, but he asked about the wet seeds before saying everything was fine. A younger child wanted to jump with joy and nearly knocked over a pot. Ivy caught the pot while the teacher asked the child to slow down. Jun said he was glad to have a leader who did not shout. Ivy laughed and said a leader also needed friends willing to speak up. She rubbed her nose, which was tickled by a little dust on the table.",
+        "zh": "艾薇的爸爸來學校聽好消息。他確定社團付出了很多努力，但在宣布一切都好之前，仍先問了受潮種子的情況。一個低年級孩子開心得想跳起來，差點碰倒花盆。艾薇接住花盆，老師則請孩子慢一點。俊說他很高興有個不大喊大叫的帶領者。艾薇笑了，說帶領者也需要願意說話的朋友。她摸摸鼻子，因為桌面上的一點灰塵讓她鼻子癢。",
+        "englishSha256": "8ace5a7633dbccbcea84e265bb5a3ac30d0fb3f7493797fa06ef44366d59d7be",
+        "chineseSha256": "d0c0c8b206d32315b4d5988d44241fabc3e78a0c5b6408eb77f3337c60839df2"
+      },
+      {
+        "number": 3,
+        "en": "Mr. Reed made two small sets on a clean table. One set held seeds ready to plant. The other held packets that needed a second look. Ivy asked if the club would need more seeds. “Maybe,” he said, “but we can wait for the test.” The teacher called the group a team because every person had a part. Jun wrote names on new cards. Kai checked the path with his cane outside. A younger child counted paper cups. Nobody had to be a giant hero. Small work done well was enough.",
+        "zh": "里德先生在乾淨的桌上分出兩組東西。一組放可以種的種子，另一組放還需再次檢查的種子包。艾薇問社團是否需要更多種子。「也許，」他說，「但可以先等測試結果。」老師稱大家為一支隊伍，因為每個人都各有工作。俊在新卡片上寫名字；凱在戶外用手杖測試小徑；一個低年級孩子清點紙杯。沒有人必須當巨大英雄，把小工作做好就夠了。",
+        "englishSha256": "85e2445a479b923b13f29ed2e0a0a56b16a85154f78ce4e4850d0976cd65d636",
+        "chineseSha256": "be203964050d8ac4b96c5cf81c1d7063c8d334a9681cde9b285c0a4f207222d1"
+      },
+      {
+        "number": 4,
+        "en": "At lunch the club ate on the grass. A boy began to dance, and another student jumped over a small line on the ground. Ms. Wen reminded them to keep the path open. “That is important today and on garden day,” she said. A child asked what the wet seeds needed. “We need the gardener's answer,” Ivy said. “Some may still grow, and some may not.” She did not call a bad packet useless. It had already taught them why dry storage and clear labels mattered.",
+        "zh": "午餐時，社團在草地上吃東西。一個男孩開始跳舞，另一個學生跳過地上的小線。溫老師提醒大家保持小徑暢通。「今天重要，花園日也同樣重要，」她說。有孩子問受潮的種子該怎麼辦。「我們需要等園丁回答，」艾薇說，「有些可能還會長，有些可能不會。」她沒有把受損的種子包稱為沒用的東西。它已教會大家乾燥保存與清楚標示的重要性。",
+        "englishSha256": "ba71117d0a45387cabac2f84b8ab1db67a1e0b5b7f25baf449cdfb227cc2346d",
+        "chineseSha256": "38e6054083ed2cc9940493f953ed3dd9d8850954d609600e8485ed81ca280baf"
+      },
+      {
+        "number": 5,
+        "en": "The class made a large page for the garden wall. Each student wrote one thing the search had taught them. Some wrote about labels and safe rooms. Others wrote that a mistake was not always someone's fault. Ivy wrote that it was possible to ask many questions while still being kind. Ms. Wen put the page beside the first drawing of the lost green box. The two pictures told a story of learning, not only a story of finding a thing.",
+        "zh": "全班替花園牆面做了一張大紙。每個學生都寫下搜尋過程教會自己的一件事。有些人寫標示與安全的房間，另一些寫錯誤不一定代表有人故意做錯。艾薇寫道：即使問很多問題，也能保持友善。溫老師把紙貼在最初的失物綠箱子圖旁邊。兩張圖說的是學習的故事，不只是找回東西的故事。",
+        "englishSha256": "65acc2f16c3eaa36913fd0db602215564a0e54daefdae771f67ce9f80663f649",
+        "chineseSha256": "213cc9a173c36cc09416fccf7d187377c7f604b229c4a0ee1847310f92336d3f"
+      },
+      {
+        "number": 6,
+        "en": "In the afternoon Mr. Reed told them about the test. Most seeds were fine. A small number had become too wet to use in the class garden, so he would put them away safely. Ivy felt sad about those seeds. She had hoped to save every one. Ms. Wen said it was all right to feel sad at the end of a long search. Ivy looked at the dry packets. There were enough for a good start, and the new cups had already grown small leaves. Two good things could be true even beside one loss.",
+        "zh": "下午，里德先生告訴大家測試結果。大多數種子都沒問題，只有少數太潮濕，不適合用在班級花園，他會妥善處理。艾薇為那些種子難過。她原本希望每一顆都能留下。溫老師說，長時間尋找之後，感到難過也沒關係。艾薇看著乾燥的種子包，已經夠他們開始了，而且新杯子也長出小葉子。即使有一部分失去，另外兩件好事仍能同時存在。",
+        "englishSha256": "266737d79ac11f8b32d9be8f22cd648887aec0f06c249e71d4eb0a065a1f8087",
+        "chineseSha256": "ac1d59b3b69724772867b736bde4719a1cebeb154279b20176acd956e8b68f4c"
+      },
+      {
+        "number": 7,
+        "en": "Before leaving, Mr. Reed gave the children a clean towel to dry the table. Jun asked if a towel would help wet seeds. Mr. Reed said it would help clean the work area, but seeds needed a different kind of care. Kai asked when the firm path would be ready. The teacher said the workers had measured it today. Ivy felt that their garden was becoming more real. It was no longer only a picture on paper. The work was open for everyone to see, and the plan had room for questions.",
+        "zh": "離開前，里德先生給孩子一條乾淨毛巾擦桌子。俊問毛巾能不能救受潮的種子。里德先生說毛巾可以清理工作區，但種子需要不同的照顧方式。凱問穩固的小徑什麼時候會做好。老師說工人今天已測量尺寸。艾薇覺得花園正在變得真實，不再只是紙上的圖畫。工作進度讓每個人都看得到，計畫也保留了提問空間。",
+        "englishSha256": "d8a4e1712280625da8f9a3d9713e2cb212357d82d784af69976eb70c26781182",
+        "chineseSha256": "5173616e7e36c7ae605d37db273b9a959fbfd2a5f64af4b8786a0a5d8b695a39"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 634,
+    "targets": [
+      {
+        "word": "certain",
+        "meaning": "確定的",
+        "appearsInSource": true
+      },
+      {
+        "word": "child",
+        "meaning": "孩子",
+        "appearsInSource": true
+      },
+      {
+        "word": "dance",
+        "meaning": "跳舞",
+        "appearsInSource": true
+      },
+      {
+        "word": "end",
+        "meaning": "結束",
+        "appearsInSource": true
+      },
+      {
+        "word": "father",
+        "meaning": "父親",
+        "appearsInSource": true
+      },
+      {
+        "word": "giant",
+        "meaning": "巨大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "grass",
+        "meaning": "草地",
+        "appearsInSource": true
+      },
+      {
+        "word": "jump",
+        "meaning": "跳躍",
+        "appearsInSource": true
+      },
+      {
+        "word": "leader",
+        "meaning": "領袖",
+        "appearsInSource": true
+      },
+      {
+        "word": "Mr.",
+        "meaning": "先生",
+        "appearsInSource": true
+      },
+      {
+        "word": "need",
+        "meaning": "需要",
+        "appearsInSource": true
+      },
+      {
+        "word": "nose",
+        "meaning": "鼻子",
+        "appearsInSource": true
+      },
+      {
+        "word": "open",
+        "meaning": "打開／開放",
+        "appearsInSource": true
+      },
+      {
+        "word": "set",
+        "meaning": "放置",
+        "appearsInSource": true
+      },
+      {
+        "word": "team",
+        "meaning": "團隊",
+        "appearsInSource": true
+      },
+      {
+        "word": "that",
+        "meaning": "那個",
+        "appearsInSource": true
+      },
+      {
+        "word": "today",
+        "meaning": "今天",
+        "appearsInSource": true
+      },
+      {
+        "word": "touch",
+        "meaning": "觸摸",
+        "appearsInSource": true
+      },
+      {
+        "word": "towel",
+        "meaning": "毛巾",
+        "appearsInSource": true
+      },
+      {
+        "word": "Yesterday",
+        "meaning": "昨天",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What was wrong with one seed packet?",
+      "options": [
+        "It had become too wet.",
+        "It was made of stone.",
+        "It had no name at all."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It had become too wet.",
+      "existingAnswerExplanation": "一小部分種子包受潮太久，不能直接使用",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "In the afternoon Mr. Reed told them about the test. Most seeds were fine. A small number had become too wet to use in the class garden, so he would put them away safely. Ivy felt sad about those seeds. She had hoped to save every one. Ms. Wen said it was all right to feel sad at the end of a long search. Ivy looked at the dry packets. There were enough for a good start, and the new cups had already grown small leaves. Two good things could be true even beside one loss.",
+          "chinese": "下午，里德先生告訴大家測試結果。大多數種子都沒問題，只有少數太潮濕，不適合用在班級花園，他會妥善處理。艾薇為那些種子難過。她原本希望每一顆都能留下。溫老師說，長時間尋找之後，感到難過也沒關係。艾薇看著乾燥的種子包，已經夠他們開始了，而且新杯子也長出小葉子。即使有一部分失去，另外兩件好事仍能同時存在。",
+          "matchedQueryTerms": 3
+        },
+        {
+          "paragraph": 1,
+          "english": "The green box returned on Tuesday. Mr. Reed and another school worker opened it in a safe room, with Ivy's team watching from the door. The paper labels were dry, but one small bag of seeds had become wet. The workers placed it aside for a careful check. Yesterday the children had wanted to touch everything; today they waited. Ms. Wen said they did not need to open every bag at once. They could set out the safe cards, count the dry packets, and make a plan for the others.",
+          "chinese": "綠箱子星期二回來了。里德先生和另一位學校工作人員在安全的房間裡打開，艾薇的隊伍從門口觀看。紙標示是乾的，但有一小袋種子受潮了。工人把它放到一旁，準備仔細檢查。昨天孩子們還想摸遍所有東西；今天他們安靜等待。溫老師說，不需要一次打開每個袋子。他們可以先整理安全的卡片，清點乾燥的種子包，並替其他物品訂計畫。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What was still good after the box returned?",
+      "options": [
+        "Most seeds and the paper labels.",
+        "Only the box lid.",
+        "Only a toy robot."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Most seeds and the paper labels.",
+      "existingAnswerExplanation": "大多數種子與紙標示都保存完好",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The green box returned on Tuesday. Mr. Reed and another school worker opened it in a safe room, with Ivy's team watching from the door. The paper labels were dry, but one small bag of seeds had become wet. The workers placed it aside for a careful check. Yesterday the children had wanted to touch everything; today they waited. Ms. Wen said they did not need to open every bag at once. They could set out the safe cards, count the dry packets, and make a plan for the others.",
+          "chinese": "綠箱子星期二回來了。里德先生和另一位學校工作人員在安全的房間裡打開，艾薇的隊伍從門口觀看。紙標示是乾的，但有一小袋種子受潮了。工人把它放到一旁，準備仔細檢查。昨天孩子們還想摸遍所有東西；今天他們安靜等待。溫老師說，不需要一次打開每個袋子。他們可以先整理安全的卡片，清點乾燥的種子包，並替其他物品訂計畫。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 4,
+          "english": "At lunch the club ate on the grass. A boy began to dance, and another student jumped over a small line on the ground. Ms. Wen reminded them to keep the path open. “That is important today and on garden day,” she said. A child asked what the wet seeds needed. “We need the gardener's answer,” Ivy said. “Some may still grow, and some may not.” She did not call a bad packet useless. It had already taught them why dry storage and clear labels mattered.",
+          "chinese": "午餐時，社團在草地上吃東西。一個男孩開始跳舞，另一個學生跳過地上的小線。溫老師提醒大家保持小徑暢通。「今天重要，花園日也同樣重要，」她說。有孩子問受潮的種子該怎麼辦。「我們需要等園丁回答，」艾薇說，「有些可能還會長，有些可能不會。」她沒有把受損的種子包稱為沒用的東西。它已教會大家乾燥保存與清楚標示的重要性。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

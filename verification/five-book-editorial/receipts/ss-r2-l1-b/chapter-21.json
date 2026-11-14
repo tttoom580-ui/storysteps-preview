@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 21,
+  "chapterId": "ss-r2-l1-b-21",
+  "sourceChapterSha256": "0c87384ba5716391fbb3c7bb7875493c73c529693c9812b46c12892d12918314",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "村民分享修路成本和志工時段，不將責任壓在小店",
+    "previousChapterEndingEnglish": "At sunset, the rain finally ended. Fia opened the window a little and looked at the wet road. She could see the wooden star above the door in the last light. Some things had gone wrong, but the shop had stayed safe and useful. Moss washed the pot, Pip counted the dry food, and Fia wrote down what they had learned. \"Tomorrow we will ask about the bridge,\" she said. \"Tonight we will rest.\" Nobody argued. The hot soup was gone, but the room still held the warmth of people who had worked together on a hard day.",
+    "nextChapterOpeningEnglish": "Fia stood on the clean floor and looked at a new price board by the glass window. She wanted every customer to see the price before buying food. A young engineer from the road team had helped make the board stand straight. \"You have the ability to change the numbers when food costs change,\" he said. \"You do not need to make a new board each time.\" Fia thanked him. She was hungry after working all morning, but she waited until Moss was ready to take a break. They would sit down and eat together, just as they had promised during the storm. She asked the engineer to wait until all the workers could see the new board, so nobody would have to guess where the numbers were kept."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A week after the storm, the village held a meeting at the red house. Edda asked the helpers to sit around the long table. The shop was a good place for the meeting because everyone knew the way there. Fia brought bread and water, and Moss made a small pot of soup. A young mouse from the garden club came with a guitar. \"May I play after we talk?\" she asked. \"Yes,\" Edda said, \"but first we must work out what the village needs.\" The mouse put the guitar away and took a seat. Nobody had come for a show. They had come to make a plan.",
+        "zh": "暴風雨一週後，村裡在紅屋開會。艾達請幫手們圍著長桌坐下。店是很好的開會地點，因為每個人都認得路。菲雅準備麵包和水，莫斯煮了一小鍋湯。花園社團的一隻年輕老鼠帶著吉他來。「開完會我可以彈嗎？」她問。「可以，」艾達說，「但先弄清村子需要什麼。」老鼠把吉他收好坐下。大家不是來看表演，而是來訂計畫。",
+        "englishSha256": "ad8735504de023bc57910dbf44e08e5428da29f99854a5da90f815fbe9749677",
+        "chineseSha256": "387cad937a65b664bf885a04158313d50fe767bd9d439872515af18fdad708e0"
+      },
+      {
+        "number": 2,
+        "en": "Toma said the high road had stayed open, but the low path needed more work. The cost would be shared by the village, not put on the breakfast shop alone. Fia was glad to hear that. She wanted to help, yet she did not have enough money to fix every road. Edda asked if the shop could be a place for short daytime meetings when it was closed. Fia thought about the idea. \"Sometimes,\" she answered, \"if we make a plan in advance. Our workers need time off, too.\" Edda said that was fair and wrote down her answer.",
+        "zh": "托馬說高地道路保持暢通，但低地小路還需修理。費用由村子分擔，不會全落在早餐店身上。菲雅很高興。她願意幫忙，卻沒有足夠的錢修所有道路。艾達問休店時能否偶爾提供白天短會場地。菲雅想了想。「有時候可以，」她回答，「但要先安排，員工也需要休息。」艾達說這很公平，把答案記下。",
+        "englishSha256": "ac20300ea34f25d0d8f8170370334b706b35e11f58ee3bce80d9737f9de8ecec",
+        "chineseSha256": "2a57a4c4cc142fd1bbc5278fd3872d9230fccf258dd97cb8499955f28624c24f"
+      },
+      {
+        "number": 3,
+        "en": "Kit's mother offered to share some farm tools for the road work. Mrs. Fern said she could help watch small children during the meeting days, but not every day of the month. The young mouse promised to bring music for a village holiday, when there would be more time for joy. Each person spoke about what they could give and when they needed to stop. Fia liked the clear words. People were kind, but kindness did not mean saying yes to everything. A good plan made space for honest limits, so no one had to miss sleep or family time to help. They had always enjoyed the village holiday. This year Edda wanted to invite friends from other towns to a national food day, but only after the road was ready.",
+        "zh": "基特母親提出借用部分農具給修路的人。芬恩太太說能在開會日偶爾幫忙照看孩子，但無法整個月天天照顧。年輕老鼠答應村莊節日時帶音樂來，到時能有更多歡樂時間。每個人都說出能提供什麼，以及何時需要停止。菲雅喜歡這樣清楚的話。善良不代表每件事都答應。好的計畫能容納誠實的界線，不讓任何人為了幫忙而犧牲睡眠或家庭時間。 他們一向喜歡村莊節日。今年艾達想在全國飲食日邀請外鎮朋友，但前提是道路先準備好。",
+        "englishSha256": "1fa0e855c280dcb4ee4b9dd7b59353a6b23731fc3cae001094e97d5256179ef4",
+        "chineseSha256": "b345c155ef0216f3f435988106d570ff5853b0039b5e5016640e89ab6b19ea90"
+      },
+      {
+        "number": 4,
+        "en": "The village helper who drove the truck spoke next. He said he could bring wood from the safe road, but needed someone to tell him when and where to leave it. Toma offered to do that. Fia wrote the time and place in the meeting notes. She had learned that saying \"We will help\" was only the beginning. People also needed to know who would do the work and how it could be done safely. The meeting went slowly, but nobody seemed angry. They listened, asked questions, and changed the plan when new information came.",
+        "zh": "開貨車的村裡幫手接著發言。他能從安全道路運木材，但需要有人告訴他何時、何地卸貨。托馬願意負責。菲雅把時間和地點記進會議紀錄。她已學會，說「我們會幫忙」只是開頭，大家還得知道誰做、怎樣安全地做。會議進行得緩慢，卻沒人不耐煩。大家傾聽、提問，得到新資訊時就調整計畫。",
+        "englishSha256": "cb1d0b1d45b0cceb2c0b061dbe53f4d239bf257aba423a155ef44d8531eb70e3",
+        "chineseSha256": "9b03f2b7c7f6b78ecdb1ab73f0862f7b3d4458acb4a4b3d1bdbeee15da33c663"
+      },
+      {
+        "number": 5,
+        "en": "When the meeting ended, the young mouse took out her guitar and played a cheerful song. Fia went into the kitchen to bring more water. She saw the old wooden star through the open door. Its light was only sunlight on wood, but it had brought people to one table again. A neighbor asked if the shop belonged to everyone now. Fia smiled. \"The building belongs to the village,\" she said. \"Our team runs the breakfast shop. We can share this room for good work when we agree on a time.\" The neighbor nodded and thanked her for the clear answer.",
+        "zh": "會議結束，年輕老鼠拿出吉他，彈了一首快樂的曲子。菲雅進廚房拿水，從開著的門看見舊木星星。它發光只是因陽光照在木頭上，卻又一次把人們帶到同一張桌旁。一名鄰居問現在這家店是不是大家共有。菲雅微笑說：「房屋屬於村子，早餐店由我們團隊經營。大家同意時間後，這個房間也能分享給有益的工作。」鄰居點頭，謝謝她說得清楚。",
+        "englishSha256": "f42fe563a69185c4034f34f1e8814a0216e597301a6d9ae2bd05d9e67a43803b",
+        "chineseSha256": "f2a0f641a979ccbc7514a21500e26d36c1766e97a9db80d8e6d0b87b868f323b"
+      },
+      {
+        "number": 6,
+        "en": "That night, Fia read her notes and looked at the calendar. The shop would open again in the morning. The road work would begin later in the week, and the music day would come next month. She felt good because each plan had a place and a person to care for it. She no longer thought she must do every kind thing herself. A village could grow when people shared the work, and a small breakfast shop could be one warm part of that life. She closed her book, ready for the next morning.",
+        "zh": "當晚，菲雅讀著筆記與日曆。店明早照常開門，修路工作本週稍後開始，音樂日則在下個月。她感到安心，因為每項計畫都有時間、地方和負責的人。她不再覺得所有好事都得親手完成。當人們分擔工作，村子就能成長，而小早餐店可以是其中溫暖的一部分。她合上本子，準備迎接明早。",
+        "englishSha256": "e0779cf13301e2dc39eccacd7b418c772207400fb3f029d55f51c7c83f57a840",
+        "chineseSha256": "5b55020275dacbcd2206349d4ae3fe1e0d79a7642aeef83e301f0b36a166c2b4"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 627,
+    "targets": [
+      {
+        "word": "A",
+        "meaning": "一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "always",
+        "meaning": "總是",
+        "appearsInSource": true
+      },
+      {
+        "word": "club",
+        "meaning": "社團",
+        "appearsInSource": true
+      },
+      {
+        "word": "cost",
+        "meaning": "費用",
+        "appearsInSource": true
+      },
+      {
+        "word": "good",
+        "meaning": "好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "guitar",
+        "meaning": "吉他",
+        "appearsInSource": true
+      },
+      {
+        "word": "holiday",
+        "meaning": "節日",
+        "appearsInSource": true
+      },
+      {
+        "word": "kind",
+        "meaning": "友善的",
+        "appearsInSource": true
+      },
+      {
+        "word": "meeting",
+        "meaning": "會議",
+        "appearsInSource": true
+      },
+      {
+        "word": "miss",
+        "meaning": "錯過",
+        "appearsInSource": true
+      },
+      {
+        "word": "month",
+        "meaning": "月份",
+        "appearsInSource": true
+      },
+      {
+        "word": "mouse",
+        "meaning": "老鼠",
+        "appearsInSource": true
+      },
+      {
+        "word": "national",
+        "meaning": "全國性的",
+        "appearsInSource": true
+      },
+      {
+        "word": "place",
+        "meaning": "地方",
+        "appearsInSource": true
+      },
+      {
+        "word": "share",
+        "meaning": "分享",
+        "appearsInSource": true
+      },
+      {
+        "word": "stop",
+        "meaning": "停止",
+        "appearsInSource": true
+      },
+      {
+        "word": "the",
+        "meaning": "這個",
+        "appearsInSource": true
+      },
+      {
+        "word": "truck",
+        "meaning": "貨車",
+        "appearsInSource": true
+      },
+      {
+        "word": "work",
+        "meaning": "工作",
+        "appearsInSource": true
+      },
+      {
+        "word": "young",
+        "meaning": "年輕的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Who pays for the low path repair?",
+      "options": [
+        "The village shares the cost",
+        "Fia alone",
+        "The young mouse"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The village shares the cost",
+      "existingAnswerExplanation": "修路費用由村子共同負擔，不由早餐店獨力承擔。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Toma said the high road had stayed open, but the low path needed more work. The cost would be shared by the village, not put on the breakfast shop alone. Fia was glad to hear that. She wanted to help, yet she did not have enough money to fix every road. Edda asked if the shop could be a place for short daytime meetings when it was closed. Fia thought about the idea. \"Sometimes,\" she answered, \"if we make a plan in advance. Our workers need time off, too.\" Edda said that was fair and wrote down her answer.",
+          "chinese": "托馬說高地道路保持暢通，但低地小路還需修理。費用由村子分擔，不會全落在早餐店身上。菲雅很高興。她願意幫忙，卻沒有足夠的錢修所有道路。艾達問休店時能否偶爾提供白天短會場地。菲雅想了想。「有時候可以，」她回答，「但要先安排，員工也需要休息。」艾達說這很公平，把答案記下。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "A week after the storm, the village held a meeting at the red house. Edda asked the helpers to sit around the long table. The shop was a good place for the meeting because everyone knew the way there. Fia brought bread and water, and Moss made a small pot of soup. A young mouse from the garden club came with a guitar. \"May I play after we talk?\" she asked. \"Yes,\" Edda said, \"but first we must work out what the village needs.\" The mouse put the guitar away and took a seat. Nobody had come for a show. They had come to make a plan.",
+          "chinese": "暴風雨一週後，村裡在紅屋開會。艾達請幫手們圍著長桌坐下。店是很好的開會地點，因為每個人都認得路。菲雅準備麵包和水，莫斯煮了一小鍋湯。花園社團的一隻年輕老鼠帶著吉他來。「開完會我可以彈嗎？」她問。「可以，」艾達說，「但先弄清村子需要什麼。」老鼠把吉他收好坐下。大家不是來看表演，而是來訂計畫。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "When may the shop be used for meetings?",
+      "options": [
+        "On planned days when it is closed",
+        "Every night without asking",
+        "Only during rain"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "On planned days when it is closed",
+      "existingAnswerExplanation": "菲雅同意在事先安排、休店的時段提供場地。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Toma said the high road had stayed open, but the low path needed more work. The cost would be shared by the village, not put on the breakfast shop alone. Fia was glad to hear that. She wanted to help, yet she did not have enough money to fix every road. Edda asked if the shop could be a place for short daytime meetings when it was closed. Fia thought about the idea. \"Sometimes,\" she answered, \"if we make a plan in advance. Our workers need time off, too.\" Edda said that was fair and wrote down her answer.",
+          "chinese": "托馬說高地道路保持暢通，但低地小路還需修理。費用由村子分擔，不會全落在早餐店身上。菲雅很高興。她願意幫忙，卻沒有足夠的錢修所有道路。艾達問休店時能否偶爾提供白天短會場地。菲雅想了想。「有時候可以，」她回答，「但要先安排，員工也需要休息。」艾達說這很公平，把答案記下。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "A week after the storm, the village held a meeting at the red house. Edda asked the helpers to sit around the long table. The shop was a good place for the meeting because everyone knew the way there. Fia brought bread and water, and Moss made a small pot of soup. A young mouse from the garden club came with a guitar. \"May I play after we talk?\" she asked. \"Yes,\" Edda said, \"but first we must work out what the village needs.\" The mouse put the guitar away and took a seat. Nobody had come for a show. They had come to make a plan.",
+          "chinese": "暴風雨一週後，村裡在紅屋開會。艾達請幫手們圍著長桌坐下。店是很好的開會地點，因為每個人都認得路。菲雅準備麵包和水，莫斯煮了一小鍋湯。花園社團的一隻年輕老鼠帶著吉他來。「開完會我可以彈嗎？」她問。「可以，」艾達說，「但先弄清村子需要什麼。」老鼠把吉他收好坐下。大家不是來看表演，而是來訂計畫。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

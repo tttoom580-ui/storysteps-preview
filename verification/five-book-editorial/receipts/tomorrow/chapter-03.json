@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 3,
+  "chapterId": "tomorrow-3",
+  "sourceChapterSha256": "61e169cdb8356441af7015dadb00af3916d26696bdf1667e0d0e34ab1eb83744",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "紅筆記本與事先規劃的匿名投票；Leo 替代 Sam",
+    "previousChapterEndingEnglish": "My phone shook in my hand. Another Later message. See? Now you believe me. The next sentence was longer. At lunch, your name will reach fifty percent. Find the blue door before then. I looked up at the second floor. Every window was closed except one. Behind it, for half a second, I saw a sleeve the same yellow as June's old raincoat.",
+    "nextChapterOpeningEnglish": "Leo stared at his name for a long time. Then he put his phone away and finished the cold bread from breakfast. He tore it into small, even pieces. I knew that habit. When Leo was angry, everything had to be straight. His pencils. His books. The little pieces of bread on his desk. “We need to find Sam,” he said. His voice was very quiet."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "There were eleven blue doors in our school. I learned this by walking past ten wrong ones before lunch. The art room was blue. So was the nurse's room. Even the little cupboard where Mr Han kept the floor brushes had a blue door. Leo followed me with a paper map. “Maybe the message means any blue door,” he said. “That would be very bad writing.”",
+        "zh": "學校有十一扇藍門。午餐前，我找錯了十扇，才知道這件事。美術教室是藍的，保健室也是，連韓先生放刷具的小櫃子都有藍門。Leo 拿著紙地圖跟著我。「說不定訊息指的是任何一扇藍門。」「那文筆也太爛了。」",
+        "englishSha256": "83120a5ebb8957af3fd3725eb4e54f9f4c01781f52e74aac406c2a03ea9be244",
+        "chineseSha256": "ccb51c7786c66faa652ee38e10c4cb14cc93a0d653aabf07aceb9bd26c090b6c"
+      },
+      {
+        "number": 2,
+        "en": "At the stairs behind the library, we found a blue door with a silver mark shaped like a moon. June had drawn that mark. Last year, she used the room to make short films for the school show. I had been in one. My job was to open a box, look surprised, and not laugh. I had failed at all three. June kept the bad takes because they made her happy.",
+        "zh": "在圖書館後方的樓梯旁，我們找到一扇有銀色月亮記號的藍門。那是 June 畫的。去年她在這間房為學校表演拍短片，我也演過。我的工作是打開箱子、驚訝、不要笑。三件事我全失敗了。June 留下那些失敗鏡頭，因為看了會開心。",
+        "englishSha256": "b8611e485042b07af4bf268d31e3727164d6b4833c59af7b23620044b32ae3b4",
+        "chineseSha256": "8a38cae0e725bd299a86073ccd12eb68cd494735ab946a342a896489d44812f7"
+      },
+      {
+        "number": 3,
+        "en": "The door was not locked. Inside, old lights leaned against the wall like tired birds. Boxes covered most of the floor. On the table sat June's yellow raincoat. For one wild second, I thought she was under the table, waiting to shout my name. Then I saw the note on the coat. Read the red book. Don't take the coat. It belongs to someone else now.",
+        "zh": "門沒鎖。裡面舊燈具像疲倦的鳥靠牆站著，地板大多被紙箱佔滿。桌上放著 June 的黃色雨衣。有一秒我瘋狂地以為她躲在桌下，等著喊我名字。接著我看到雨衣上的紙條：讀紅色本子。別拿雨衣。它現在屬於別人。",
+        "englishSha256": "957b9f3e09ca314ee96425c8fc3aa730b1554d1abd85896e998603f89d71fc8e",
+        "chineseSha256": "85873a7f5d724cdcc7eb110a0898d2489865ab77b0e1af94076f3419d24c2584"
+      },
+      {
+        "number": 4,
+        "en": "The red book was a thin notebook. Every page held a date and a list of names. Some names had numbers beside them. On the last page, I found Tuesday's vote, written before Tuesday. June, Mia, Sam, Ada. The names were in the same order as the website. Leo took a photo. “This isn't the future,” he said. “It's a plan. Someone saw the plan.”",
+        "zh": "紅色本子很薄。每頁都有日期、名字名單，有些名字旁寫著數字。最後一頁是星期二的投票，卻早於星期二寫下。June、Mia、Sam、Ada，順序和網站一模一樣。Leo 拍照。「這不是未來，」他說，「是計畫。有人看過計畫。」",
+        "englishSha256": "3902812dffb6a310602ce75f005226ef1c69065d1b53841ce25e295d88acbc09",
+        "chineseSha256": "e0b945cbae7b3736997f90f174086ed927d6c64489252bfef39e038cad56fec0"
+      },
+      {
+        "number": 5,
+        "en": "A sound came from the hall. We both turned. Sam stood in the doorway with a paint tin. He was in our class, though he rarely spoke when more than two people could hear. His name was also on the vote. When he saw the notebook, his hand shook and paint ran down the tin. “Where did you get that?” he asked. Not what is that. Where.",
+        "zh": "走廊傳來聲音，我們一起轉頭。Sam 提著油漆罐站在門邊。他是同班同學，只要有超過兩個人聽著，就很少說話。他的名字也在投票上。看到本子，他的手抖了，油漆流下罐身。「你們從哪裡拿到的？」他問。不是「那是什麼」，而是「哪裡」。",
+        "englishSha256": "5b4916236f1b5bb30cc7ef690c1518717a7f6127400b68e6c759dfc86df1c647",
+        "chineseSha256": "fdcbe976f3c7195d7dcc70082891365b5a10c8eb0ef14a560a934c7c58da5d51"
+      },
+      {
+        "number": 6,
+        "en": "Before I could answer, his phone rang. He read the screen and went pale. “I have to go.” “Sam, wait.” He left so fast that his shoe caught the door. The tin struck the wall. A narrow line of blue paint ran over the moon mark. Leo stepped into the hall, but Sam was already gone. On the floor, something small and clear caught the light.",
+        "zh": "我還沒回答，他的手機就響了。他看一眼螢幕，臉色發白。「我得走了。」「Sam，等一下。」他離開得太快，鞋子勾到門，罐子撞牆，一條藍漆流過月亮記號。Leo 追到走廊，Sam 已不見。地上有個透明小東西閃著光。",
+        "englishSha256": "faf05296925e5c0575ac351e5e962df4846c2df44eb034c3f7a9197f3a67fbff",
+        "chineseSha256": "01ee3b729ca5e22a7d4ba2d9c2b3c39d17f2a22ad6be1e4d6a2a2943af37a5a0"
+      },
+      {
+        "number": 7,
+        "en": "It was a card holder without a card. Inside lay a folded piece of paper. I opened it carefully with my lunch spoon because the paint was still wet. Six words were written across the page. One name out. One name in. Under the words was a time: 12:30. I checked my phone. It was 12:22. Eight minutes until lunch ended. Eight minutes until something changed.",
+        "zh": "那是沒有卡片的證件套，裡面有一張摺起的紙。我用午餐湯匙小心打開，因為油漆還沒乾。紙上有六個英文單字：移除一個名字，換進一個名字。下方寫著時間，十二點半。我看手機，十二點二十二。距午餐結束八分鐘。距某件事改變，八分鐘。",
+        "englishSha256": "cf738beb65aff63dedb4872558e4563121b57c015df2ca494bea7fe851461b44",
+        "chineseSha256": "0f126c0d4f39683e52e985105941da5fe6472bf4173ac8412673c978b6ce8df0"
+      },
+      {
+        "number": 8,
+        "en": "Leo wanted to tell Ms Lin, our English teacher. I said we needed to understand first. It sounded reasonable. Really, I did not want a teacher asking why someone had sent me that old voice file. We left the notebook where we found it and stepped outside. My screen lit up. Mia: forty-nine percent. Then Sam's name vanished from the vote. In its place appeared a new name. Leo Wu.",
+        "zh": "Leo 想告訴英文老師林老師。我說得先搞懂。聽起來很合理，實際上我不想讓老師問起那段舊語音。我們把本子放回原位，走出房間。螢幕亮起：Mia，百分之四十九。接著 Sam 的名字從投票中消失，新名字出現：Leo Wu。",
+        "englishSha256": "f23746a522098cec3df0c9c1a25ee28f4a7cbd211e152e70229e7ab89452eb63",
+        "chineseSha256": "674651303c4326f39ca18b9392c73839b5252c8a0bdd9854c9e577ed42a1620f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 535,
+    "targets": [
+      {
+        "word": "blue",
+        "meaning": "藍色；藍色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "by",
+        "meaning": "在……旁邊；由；藉由",
+        "appearsInSource": true
+      },
+      {
+        "word": "clear",
+        "meaning": "清楚的；清除",
+        "appearsInSource": true
+      },
+      {
+        "word": "coat",
+        "meaning": "外套",
+        "appearsInSource": true
+      },
+      {
+        "word": "date",
+        "meaning": "日期；約會",
+        "appearsInSource": true
+      },
+      {
+        "word": "door",
+        "meaning": "門",
+        "appearsInSource": true
+      },
+      {
+        "word": "down",
+        "meaning": "向下；在下面",
+        "appearsInSource": true
+      },
+      {
+        "word": "else",
+        "meaning": "其他的",
+        "appearsInSource": true
+      },
+      {
+        "word": "even",
+        "meaning": "甚至；即使",
+        "appearsInSource": true
+      },
+      {
+        "word": "every",
+        "meaning": "每一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "fast",
+        "meaning": "快的；快速地",
+        "appearsInSource": true
+      },
+      {
+        "word": "file",
+        "meaning": "檔案",
+        "appearsInSource": true
+      },
+      {
+        "word": "first",
+        "meaning": "第一；首先",
+        "appearsInSource": true
+      },
+      {
+        "word": "floor",
+        "meaning": "地板；樓層",
+        "appearsInSource": true
+      },
+      {
+        "word": "future",
+        "meaning": "未來",
+        "appearsInSource": true
+      },
+      {
+        "word": "job",
+        "meaning": "工作；任務",
+        "appearsInSource": true
+      },
+      {
+        "word": "map",
+        "meaning": "地圖",
+        "appearsInSource": true
+      },
+      {
+        "word": "moon",
+        "meaning": "月亮",
+        "appearsInSource": true
+      },
+      {
+        "word": "most",
+        "meaning": "最多的；大部分",
+        "appearsInSource": true
+      },
+      {
+        "word": "shout",
+        "meaning": "大叫",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does the red notebook suggest?",
+      "options": [
+        "The school has only one blue door.",
+        "June has returned to class.",
+        "Someone knew the vote plan in advance."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "Someone knew the vote plan in advance.",
+      "existingAnswerExplanation": "Someone knew the vote plan in advance.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "The red book was a thin notebook. Every page held a date and a list of names. Some names had numbers beside them. On the last page, I found Tuesday's vote, written before Tuesday. June, Mia, Sam, Ada. The names were in the same order as the website. Leo took a photo. “This isn't the future,” he said. “It's a plan. Someone saw the plan.”",
+          "chinese": "紅色本子很薄。每頁都有日期、名字名單，有些名字旁寫著數字。最後一頁是星期二的投票，卻早於星期二寫下。June、Mia、Sam、Ada，順序和網站一模一樣。Leo 拍照。「這不是未來，」他說，「是計畫。有人看過計畫。」",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 8,
+          "english": "Leo wanted to tell Ms Lin, our English teacher. I said we needed to understand first. It sounded reasonable. Really, I did not want a teacher asking why someone had sent me that old voice file. We left the notebook where we found it and stepped outside. My screen lit up. Mia: forty-nine percent. Then Sam's name vanished from the vote. In its place appeared a new name. Leo Wu.",
+          "chinese": "Leo 想告訴英文老師林老師。我說得先搞懂。聽起來很合理，實際上我不想讓老師問起那段舊語音。我們把本子放回原位，走出房間。螢幕亮起：Mia，百分之四十九。接著 Sam 的名字從投票中消失，新名字出現：Leo Wu。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Whose name replaces Sam's on the vote page?",
+      "options": [
+        "Ms Lin's.",
+        "June Park's.",
+        "Leo Wu's."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "Leo Wu's.",
+      "existingAnswerExplanation": "章末 Sam 的名字消失，取而代之的是 Leo Wu。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "Leo wanted to tell Ms Lin, our English teacher. I said we needed to understand first. It sounded reasonable. Really, I did not want a teacher asking why someone had sent me that old voice file. We left the notebook where we found it and stepped outside. My screen lit up. Mia: forty-nine percent. Then Sam's name vanished from the vote. In its place appeared a new name. Leo Wu.",
+          "chinese": "Leo 想告訴英文老師林老師。我說得先搞懂。聽起來很合理，實際上我不想讓老師問起那段舊語音。我們把本子放回原位，走出房間。螢幕亮起：Mia，百分之四十九。接著 Sam 的名字從投票中消失，新名字出現：Leo Wu。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 4,
+          "english": "The red book was a thin notebook. Every page held a date and a list of names. Some names had numbers beside them. On the last page, I found Tuesday's vote, written before Tuesday. June, Mia, Sam, Ada. The names were in the same order as the website. Leo took a photo. “This isn't the future,” he said. “It's a plan. Someone saw the plan.”",
+          "chinese": "紅色本子很薄。每頁都有日期、名字名單，有些名字旁寫著數字。最後一頁是星期二的投票，卻早於星期二寫下。June、Mia、Sam、Ada，順序和網站一模一樣。Leo 拍照。「這不是未來，」他說，「是計畫。有人看過計畫。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

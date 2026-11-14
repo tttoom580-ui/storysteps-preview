@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 20,
+  "chapterId": "tomorrow-20",
+  "sourceChapterSha256": "3af5b060ab24cd511412bd5e16640979653f751d4d14c0925ffb213273a970b4",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "米雅不能代讀未獲六月同意的聲明；現場禁止未經同意錄影",
+    "previousChapterEndingEnglish": "Outside, Leo leaned against the wall. “I believed the number,” he said. “Even after I knew the code could be wrong.” I had too. We stood there until the first bell rang. This time nothing fell from a window. Then Ms Lin hurried toward us, holding her phone. The sound system had failed during practice. June's recording could not be played through the hall speakers. The show would start in twenty minutes.",
+    "nextChapterOpeningEnglish": "Mr Reed said June had not stolen the school show money. He explained the bill for the stage light and the date the office had checked it. He said the short video had left out important context. Then he said the sentence I had been waiting for. “We knew the money had been properly spent, and we failed to correct the public claim. That failure caused harm.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "For one terrible moment, I thought the school would use the broken speakers as a reason to skip the correction. Mr Reed looked at the silent hall, then at the printed program in his hand. “We can send another email,” he began. Ms Lin shook her head. “The notice and June's chosen statement are part of today's program. We need an accessible way to share them.”",
+        "zh": "有個可怕瞬間，我以為學校會拿音響壞當理由跳過更正。校長看安靜禮堂，再看流程表。「我們可以再發信……」林老師搖頭。「公告和 June 選擇的聲明是今天節目的一部分，需要可讓大家接收的方式。」",
+        "englishSha256": "f424fe20ee6bdf0261ef41051da2783116245ca5f7d87f1400463b1e19ba8786",
+        "chineseSha256": "d8dc7d5e6b5017b659b83c2942dcff4fd3d1473a0927019b363b84fc84b357e6"
+      },
+      {
+        "number": 2,
+        "en": "The small front microphone still worked through a separate speaker. Music and computer sound did not. The repair team needed time. A teacher suggested that I read June's statement for her. I almost said yes. Then I stopped. June had given permission for her recording, not for my voice to take its place. We called her mother. June was already in the car outside, waiting to decide whether to come in.",
+        "zh": "前方小麥克風透過獨立喇叭仍可用，音樂與電腦音訊不能，維修需要時間。有老師提議我代讀，我差點答應，才停住。June 同意的是她的錄音，不是用我的聲音取代。我們打給她媽媽，June 已在外面的車裡，還在決定進不進來。",
+        "englishSha256": "0ae41b164ba57c95ba81701f676c3d29ffc020510ccd690235da8cd439f9715c",
+        "chineseSha256": "b08b5f243713f55cc400f310e26da5682ef07a4c4b8c4ee9809310026efb3c17"
+      },
+      {
+        "number": 3,
+        "en": "She asked for ten minutes. We gave her ten. During that time, Leo and the computer teacher tested a text slide that showed only the words June had approved. Ada checked the size from the back row. Sam moved a chair near the side door, leaving a clear path. Nobody put June's name on it. Nobody took a photo of the empty seat. These were things we could do without choosing for her.",
+        "zh": "她要十分鐘，我們就給十分鐘。期間 Leo 和資訊老師測試只含核准文字的投影片，Ada 從後排檢查字體大小，Sam 在側門旁放椅子、留通道。沒人在椅子寫 June 名字，也沒人拍空位。這些是不用替她決定也能做的事。",
+        "englishSha256": "63281912b931d091e7d16d599fcaeeeb13ad9f8bb5d12238cdcae708cac5b9a9",
+        "chineseSha256": "53c0ff65fba3b966e9389361e17abc32523af75c7e1d16cbf523ff018a890ea4"
+      },
+      {
+        "number": 4,
+        "en": "At nine minutes, June called back. She wanted the statement shown as text and read by Ms Lin. “Not because I can't,” she said. “Because I don't want to spend my whole morning proving I can stand in front of them.” Ms Lin said she understood. June would come in with her mother, sit near the door, and leave whenever she wished. We changed the plan and checked the words again.",
+        "zh": "第九分鐘 June 回電。她要顯示文字，讓林老師讀。「不是我不行，是我不想整個早上都用來證明自己能站在他們面前。」老師說明白。June 會與媽媽進來，坐門邊，隨時能走。我們改計畫，再核對文字。",
+        "englishSha256": "7d8ec9bf0b8099ebbb65a975a641aa0956aa45e104f582e98174c0f934ce68c8",
+        "chineseSha256": "9677569b07b565445671eee290d4a70c80a4a5870f82dd8fa46337e8a6639741"
+      },
+      {
+        "number": 5,
+        "en": "I stood behind the curtain holding my own statement. It was damp where my thumb pressed the paper. I had imagined brave people feeling different inside. I felt like myself, only with a very fast heart. Ada came to ask if I needed water. I said yes. She brought a cup and put it on a box. We did not suddenly become easy friends. We worked well together for five minutes.",
+        "zh": "我在布幕後拿自己的聲明，拇指壓著處已濕。我以為勇敢的人內心感覺不同，結果只是自己加上很快的心跳。Ada 問需不需要水，我說要。她拿杯放箱子上。我們沒突然成為輕鬆的朋友，只是好好一起工作了五分鐘。",
+        "englishSha256": "d06ccc9d4ad46294e3cf4c27f1ac0cddb1c1d6920d6f5bec0129f3cf8ecd2cc1",
+        "chineseSha256": "2d276ba96552c737377b9df1f6a1acf81a581947a31e44f2592c8ded412422e5"
+      },
+      {
+        "number": 6,
+        "en": "Across the hall, Kai sat beside his father. He was not hidden away, but he was not holding a microphone. A few students pointed at him. I heard someone suggest making a new vote about his punishment. Sam, standing beside me, said loudly enough for them to hear, “No.” Just that. No speech. The students looked away. I watched Sam's hands. They shook, but he stayed where he was.",
+        "zh": "禮堂另一頭，Kai 坐爸爸旁，沒被藏起，也沒拿麥克風。有學生指他，我聽見有人提議投票決定懲罰。Sam 在旁邊大聲說「不要」，大到他們聽得見。只有兩字，沒演講。那些人移開眼睛。Sam 手在抖，卻站在原地。",
+        "englishSha256": "74330ed1aa9073536ab1acbed9aadfbe7c65262734f1cdf96678ff06226fddfa",
+        "chineseSha256": "4ed2f53eb3f26aa438b658713b15984642663e9bae5613992eb5463b69faf12f"
+      },
+      {
+        "number": 7,
+        "en": "Then June came through the side door. She wore a plain green sweater, not the yellow coat I had turned into a ghost. Her mother walked beside her. June looked toward the stage and found me behind the curtain. She did not smile. She lifted one hand, a small sign that she could see me. I lifted mine. That was all. It was enough to begin.",
+        "zh": "June 從側門進來，穿普通綠毛衣，不是被我想成鬼的黃雨衣。媽媽走旁邊。June 看向舞台，找到幕後的我。她沒笑，只抬一隻手，輕輕表示看見。我也抬手。就這樣，已足夠開始。",
+        "englishSha256": "327339473d238a12bfe7e20d95ad281cc13eca72434c36e708176ee130a70142",
+        "chineseSha256": "12b6215457ae4a0a9e7244235b442ab897919f705dfe23d6e07909d134fdab13"
+      },
+      {
+        "number": 8,
+        "en": "Mr Reed walked to the front microphone. The room settled. A few phones were still raised, and a teacher reminded everyone that students had not agreed to be filmed. The principal looked at his paper, then lowered it. “Before we begin the show,” he said, “we need to correct something our school should have corrected six weeks ago.” The hall became so quiet I could hear the curtain move.",
+        "zh": "校長走到前方麥克風，大家安靜。幾支手機仍舉著，老師提醒學生未同意被拍。校長看稿再放下。「節目開始前，我們需要更正一件六週前就該更正的事。」禮堂靜到我聽得見布幕移動。",
+        "englishSha256": "1f34b65f5e80da924b4eff2dd12ab881194750d2500f7e7a992e6d1e939416a0",
+        "chineseSha256": "a5b85beb1215709c52e1d781d00b5d16ecbdf71c409fa59e8102ae72a2107b73"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 556,
+    "targets": [
+      {
+        "word": "across",
+        "meaning": "穿過；在對面",
+        "appearsInSource": true
+      },
+      {
+        "word": "ago",
+        "meaning": "……以前",
+        "appearsInSource": true
+      },
+      {
+        "word": "ask",
+        "meaning": "問；請求",
+        "appearsInSource": true
+      },
+      {
+        "word": "away",
+        "meaning": "離開；在遠處",
+        "appearsInSource": true
+      },
+      {
+        "word": "brave",
+        "meaning": "勇敢的",
+        "appearsInSource": true
+      },
+      {
+        "word": "program",
+        "meaning": "程式；節目；計畫",
+        "appearsInSource": true
+      },
+      {
+        "word": "size",
+        "meaning": "大小",
+        "appearsInSource": true
+      },
+      {
+        "word": "smile",
+        "meaning": "微笑",
+        "appearsInSource": true
+      },
+      {
+        "word": "so",
+        "meaning": "所以；如此",
+        "appearsInSource": true
+      },
+      {
+        "word": "spend",
+        "meaning": "花費",
+        "appearsInSource": true
+      },
+      {
+        "word": "stand",
+        "meaning": "站立",
+        "appearsInSource": true
+      },
+      {
+        "word": "take",
+        "meaning": "拿；帶；花費",
+        "appearsInSource": true
+      },
+      {
+        "word": "terrible",
+        "meaning": "糟糕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "that",
+        "meaning": "那個；那件事；連接子句的詞",
+        "appearsInSource": true
+      },
+      {
+        "word": "then",
+        "meaning": "然後；當時",
+        "appearsInSource": true
+      },
+      {
+        "word": "these",
+        "meaning": "這些",
+        "appearsInSource": true
+      },
+      {
+        "word": "through",
+        "meaning": "穿過；透過",
+        "appearsInSource": true
+      },
+      {
+        "word": "time",
+        "meaning": "時間；次數",
+        "appearsInSource": true
+      },
+      {
+        "word": "together",
+        "meaning": "一起",
+        "appearsInSource": true
+      },
+      {
+        "word": "way",
+        "meaning": "方式；路",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Mia stop before agreeing to read June’s statement?",
+      "options": [
+        "The statement is about another school.",
+        "June had not agreed to Mia reading it.",
+        "Mia cannot read English."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "June had not agreed to Mia reading it.",
+      "existingAnswerExplanation": "June had not agreed to Mia reading it.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The small front microphone still worked through a separate speaker. Music and computer sound did not. The repair team needed time. A teacher suggested that I read June's statement for her. I almost said yes. Then I stopped. June had given permission for her recording, not for my voice to take its place. We called her mother. June was already in the car outside, waiting to decide whether to come in.",
+          "chinese": "前方小麥克風透過獨立喇叭仍可用，音樂與電腦音訊不能，維修需要時間。有老師提議我代讀，我差點答應，才停住。June 同意的是她的錄音，不是用我的聲音取代。我們打給她媽媽，June 已在外面的車裡，還在決定進不進來。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 4,
+          "english": "At nine minutes, June called back. She wanted the statement shown as text and read by Ms Lin. “Not because I can't,” she said. “Because I don't want to spend my whole morning proving I can stand in front of them.” Ms Lin said she understood. June would come in with her mother, sit near the door, and leave whenever she wished. We changed the plan and checked the words again.",
+          "chinese": "第九分鐘 June 回電。她要顯示文字，讓林老師讀。「不是我不行，是我不想整個早上都用來證明自己能站在他們面前。」老師說明白。June 會與媽媽進來，坐門邊，隨時能走。我們改計畫，再核對文字。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does a teacher ask people to lower their phones?",
+      "options": [
+        "The students have not agreed to be filmed.",
+        "The phones are controlling the curtain.",
+        "The audience must take a written exam."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The students have not agreed to be filmed.",
+      "existingAnswerExplanation": "校長開口前，老師提醒觀眾，學生並未同意被拍攝。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "Mr Reed walked to the front microphone. The room settled. A few phones were still raised, and a teacher reminded everyone that students had not agreed to be filmed. The principal looked at his paper, then lowered it. “Before we begin the show,” he said, “we need to correct something our school should have corrected six weeks ago.” The hall became so quiet I could hear the curtain move.",
+          "chinese": "校長走到前方麥克風，大家安靜。幾支手機仍舉著，老師提醒學生未同意被拍。校長看稿再放下。「節目開始前，我們需要更正一件六週前就該更正的事。」禮堂靜到我聽得見布幕移動。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 2,
+          "english": "The small front microphone still worked through a separate speaker. Music and computer sound did not. The repair team needed time. A teacher suggested that I read June's statement for her. I almost said yes. Then I stopped. June had given permission for her recording, not for my voice to take its place. We called her mother. June was already in the car outside, waiting to decide whether to come in.",
+          "chinese": "前方小麥克風透過獨立喇叭仍可用，音樂與電腦音訊不能，維修需要時間。有老師提議我代讀，我差點答應，才停住。June 同意的是她的錄音，不是用我的聲音取代。我們打給她媽媽，June 已在外面的車裡，還在決定進不進來。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 18,
+  "chapterId": "ss-r10-l2-b-18",
+  "sourceChapterSha256": "a7e4dfba42a615e2664495612bb75f45f09533a15617648bc6655ce1ac998215",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "大廳電線冒煙改戶外無擴音演唱，不使用未授權海歌",
+    "previousChapterEndingEnglish": "That night Evan sent May a message saying she had been wonderful with the children. She answered that he had done well too, especially when he put the expensive recorder away. He replied with a drawing of a tiny paper microphone. May smiled at her screen. She did not need the whole world to know they liked each other. For now, kindness could live in a private message, and the public project could continue to be judged on its own work. That balance felt both new and possible.",
+    "nextChapterOpeningEnglish": "The latest difficulty began with an email from a former employee of the market. He asked to download every recording so he could make a private collection for his children. May explained that the project could not send files belonging to other speakers. The man replied that he had helped with many events and should be treated like a guest of honor. Evan joined the discussion and described the policy in plain words. Being part of the market did not give anyone automatic permission to copy another person's voice. The rule was necessary to protect everybody, including the man who was asking."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A recent storm caused a power failure just before a guest artist's arrival. In the old hall, a light switch sparked and a little smoke rose from the wall. Evan shut down the system without trying to fix live wires. A guard asked everyone to move backward from the door, and May counted the volunteers outside. An empty candle box sat near the bar where snacks were usually sold, but nothing was burning there. The building officer said the fault needed a trained electrician. May wrote a short statement of what they had seen, including the time and the smell.",
+        "zh": "最近的暴風雨造成停電，正好發生在客座藝術家到場前。老大廳裡，一個電燈開關冒出火花，牆面升起一點煙。安澤關閉系統，沒有試圖維修帶電電線。警衛請大家從門口往後退，慧在室外清點志工。平日賣點心的吧台旁放著空蠟燭盒，但那裡並沒有燃燒。大樓管理員說，故障必須由受訓電工處理。慧寫下所見情況，包括時間與氣味。",
+        "englishSha256": "893f7b20a569ac6d2f055195e11671abe7bfdbe5b85d45a85a4d23a546903b7f",
+        "chineseSha256": "b7bf0bc485220282197b020c53c6f53454c2985026f1d2d76b534aebdd0346c0"
+      },
+      {
+        "number": 2,
+        "en": "The visiting artist was a mature folk singer who had traveled across the coast to perform. She did not claim that the team had ruined her day. Instead, she asked whether an outdoor performance without machines might be possible. May checked the weather and the safe meeting area. Evan said the small courtyard was suitable if the manager approved. They chose a short unamplified song. A cockroach appeared beside a drain, and a volunteer squealed, making everyone laugh after the scare. The singer smiled. “The world keeps making sounds even when your machines refuse to work,” she said.",
+        "zh": "客座藝術家是一位成熟的民歌歌手，從海岸另一端趕來演出。她沒有說團隊毀了她的一天，而是問是否可能在戶外不用機器表演。慧檢查天氣和安全集合區。安澤說，若經理同意，小庭院適合短演出。大家選了一首不擴音的歌曲。一隻蟑螂從排水孔旁跑出，志工嚇得尖叫，讓剛受驚的眾人忍不住笑。歌手微笑說：「就算機器不肯工作，世界仍會繼續發出聲音。」",
+        "englishSha256": "de20a39dc4698febf4ee5a6b49e7b25ea8d64d76c2f53f700909a52c91213dc1",
+        "chineseSha256": "05493c8af056e2c9d767c014c0c6e2b01295ffc3ce1ccdcf250da5057e4178e2"
+      },
+      {
+        "number": 3,
+        "en": "Evan was upset because he had promised to receive the artist with a perfect program. May told him that an independent artist did not need him to decide whether she had a good day. They could ask what she wanted instead. He did, and she requested a seat, some water, and ten minutes alone before singing. He respected each request. When the song began, May stood at the back to keep the path clear. She listened to the singer's breath, the soft wind, and the feet shifting on stone. It was a different show, but not a lesser one.",
+        "zh": "安澤很沮喪，因為他答應以完美節目迎接藝術家。慧提醒他，獨立藝術家不需要他替自己決定今天好不好。他們可以直接詢問她想要什麼。他照做了。歌手希望有張椅子、一杯水，以及表演前獨處十分鐘。他都尊重。歌曲開始時，慧站在後方保持走道暢通。她聽見歌者的呼吸、輕柔的風，以及鞋底在石地上的移動。演出不同了，卻不因此比較差。",
+        "englishSha256": "6325c49b20f6b62af0a43fea154f3538294e3a216421c069b230bcfad0f74614",
+        "chineseSha256": "5819117dac5824c298a2bd654667f5aa2514f601372b81960c902a543f9a8637"
+      },
+      {
+        "number": 4,
+        "en": "Afterward, a child held up a drawing of a whale, asking if the singer knew a sea song. She knew one but said its words belonged to her former teacher, whose permission she had not obtained. May thanked her for saying so. The team recorded no new file that evening. Instead, they made a sheet for future guest performers explaining who would check song rights and where to request support. The singer signed only the part that described the event that had already happened. She was pleased to leave without being asked to give more than she wanted.",
+        "zh": "演出後，一個孩子舉起鯨魚畫，問歌手知不知道海洋歌曲。她知道一首，卻說歌詞屬於以前的老師，自己還沒取得同意。慧謝謝她說清楚。當晚團隊沒有新增錄音，而是製作給未來客座表演者使用的表單，說明由誰查核歌曲權利、在哪裡申請協助。歌手只簽下已發生演出的那一部分。她很高興離開時，沒有人要求她付出超過意願的東西。",
+        "englishSha256": "b00de671a65dfdd28d767de7634bb975d9f54787bca888ac30665872d492c230",
+        "chineseSha256": "3b9098e8c227dabf2fcd5adce0d2aad9e9f7e8fe45f26a47c513c84f3d92c133"
+      },
+      {
+        "number": 5,
+        "en": "After the outdoor song, the guard checked the wall once more and confirmed that the old switch could burn if someone used it before repair. Evan wrote a warning sign and asked the manager to keep the room closed. A visitor offered a snack to the volunteers, but the team chose to eat in the courtyard rather than return inside for convenience. May said she would rather cancel the next show than pretend the problem had gone away. The singer thanked her for being clear. She had performed in many places, and she knew how often people were asked to ignore danger for a better photograph. Evan felt embarrassed that he had once thought the audience's happiness depended on his machines. The audience had been happiest when the artist could sing safely, on her own terms, with people willing to listen.",
+        "zh": "戶外歌曲結束後，警衛再次查看牆面，確認舊開關在修復前使用可能燒壞。安澤寫警告標示，請經理保持房間關閉。一位訪客拿點心給志工，團隊卻選擇在庭院吃，不為了方便回到室內。慧說，她寧願取消下一場，也不願假裝問題消失。歌手謝謝她說得清楚。她去過許多地方，知道人們常被要求為了好看照片而忽略危險。安澤有些難為情；他曾以為觀眾的快樂全靠機器。事實上，當藝術家能安全、自在地唱，而人們願意聽，觀眾才最開心。",
+        "englishSha256": "9d809bb6003e7d68abe1bba2627638eaf66b70dc3d8dc8c1fd46d110d1c2a26b",
+        "chineseSha256": "9e859bf0e070962900e64f5f7f064bb98727b557c4411830bad39dd66db38ead"
+      },
+      {
+        "number": 6,
+        "en": "Outside the gate, Evan said he had learned a painful lesson about control. May answered that wanting good work was not wrong; believing he had to control every result was the problem. He asked if she would still go for a walk with him after the weekend. She said yes, but this time she suggested the place: a path along the river where they could hear real water instead of a recording. He agreed without trying to improve the plan. She noticed the effort and reached for his hand first.",
+        "zh": "走到門外，安澤說自己學到一堂關於控制的難受課。慧回答，想把工作做好並沒有錯，以為必須控制每個結果才是問題。他問週末過後她還願不願意一起散步。她說願意，但這次由她選地點：沿河的步道，可以聽真實水聲，而不是錄音。他同意了，沒有試圖改良安排。慧看見他的努力，這回先主動牽住他的手。",
+        "englishSha256": "f2dba45b1fce62ca6aaeb31b4576a80095d2d391aeb57dd4e47ec963559bb771",
+        "chineseSha256": "cdd57a166c5726dda014e4315bbef46d92b0e077b2169309a307779687d48ebb"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 626,
+    "targets": [
+      {
+        "word": "arrival",
+        "meaning": "抵達",
+        "appearsInSource": true
+      },
+      {
+        "word": "artist",
+        "meaning": "藝術家",
+        "appearsInSource": true
+      },
+      {
+        "word": "backward",
+        "meaning": "向後",
+        "appearsInSource": true
+      },
+      {
+        "word": "bar",
+        "meaning": "吧台",
+        "appearsInSource": true
+      },
+      {
+        "word": "burn",
+        "meaning": "燒壞；燃燒",
+        "appearsInSource": true
+      },
+      {
+        "word": "candle",
+        "meaning": "蠟燭",
+        "appearsInSource": true
+      },
+      {
+        "word": "claim",
+        "meaning": "聲稱",
+        "appearsInSource": true
+      },
+      {
+        "word": "cockroach",
+        "meaning": "蟑螂",
+        "appearsInSource": true
+      },
+      {
+        "word": "fault",
+        "meaning": "故障",
+        "appearsInSource": true
+      },
+      {
+        "word": "folk",
+        "meaning": "民謠",
+        "appearsInSource": true
+      },
+      {
+        "word": "independent",
+        "meaning": "獨立的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mature",
+        "meaning": "成熟的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rather",
+        "meaning": "寧可",
+        "appearsInSource": true
+      },
+      {
+        "word": "receive",
+        "meaning": "收到",
+        "appearsInSource": true
+      },
+      {
+        "word": "recent",
+        "meaning": "最近的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sheet",
+        "meaning": "紙張",
+        "appearsInSource": true
+      },
+      {
+        "word": "snack",
+        "meaning": "點心",
+        "appearsInSource": true
+      },
+      {
+        "word": "statement",
+        "meaning": "聲明",
+        "appearsInSource": true
+      },
+      {
+        "word": "switch",
+        "meaning": "開關",
+        "appearsInSource": true
+      },
+      {
+        "word": "whale",
+        "meaning": "鯨魚",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did the team move the performance outside?",
+      "options": [
+        "A switch sparked and smoke appeared in the hall",
+        "The audience wanted sun",
+        "The singer brought a horse"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A switch sparked and smoke appeared in the hall",
+      "existingAnswerExplanation": "電燈開關冒火花並有煙，團隊安全停機改戶外演出。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A recent storm caused a power failure just before a guest artist's arrival. In the old hall, a light switch sparked and a little smoke rose from the wall. Evan shut down the system without trying to fix live wires. A guard asked everyone to move backward from the door, and May counted the volunteers outside. An empty candle box sat near the bar where snacks were usually sold, but nothing was burning there. The building officer said the fault needed a trained electrician. May wrote a short statement of what they had seen, including the time and the smell.",
+          "chinese": "最近的暴風雨造成停電，正好發生在客座藝術家到場前。老大廳裡，一個電燈開關冒出火花，牆面升起一點煙。安澤關閉系統，沒有試圖維修帶電電線。警衛請大家從門口往後退，慧在室外清點志工。平日賣點心的吧台旁放著空蠟燭盒，但那裡並沒有燃燒。大樓管理員說，故障必須由受訓電工處理。慧寫下所見情況，包括時間與氣味。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 2,
+          "english": "The visiting artist was a mature folk singer who had traveled across the coast to perform. She did not claim that the team had ruined her day. Instead, she asked whether an outdoor performance without machines might be possible. May checked the weather and the safe meeting area. Evan said the small courtyard was suitable if the manager approved. They chose a short unamplified song. A cockroach appeared beside a drain, and a volunteer squealed, making everyone laugh after the scare. The singer smiled. “The world keeps making sounds even when your machines refuse to work,” she said.",
+          "chinese": "客座藝術家是一位成熟的民歌歌手，從海岸另一端趕來演出。她沒有說團隊毀了她的一天，而是問是否可能在戶外不用機器表演。慧檢查天氣和安全集合區。安澤說，若經理同意，小庭院適合短演出。大家選了一首不擴音的歌曲。一隻蟑螂從排水孔旁跑出，志工嚇得尖叫，讓剛受驚的眾人忍不住笑。歌手微笑說：「就算機器不肯工作，世界仍會繼續發出聲音。」",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did the singer refuse to add the sea song?",
+      "options": [
+        "She did not have the original writer's permission",
+        "She had forgotten all music",
+        "It was too short"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "She did not have the original writer's permission",
+      "existingAnswerExplanation": "海歌的詞屬於前任老師，歌者尚未取得使用同意。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Afterward, a child held up a drawing of a whale, asking if the singer knew a sea song. She knew one but said its words belonged to her former teacher, whose permission she had not obtained. May thanked her for saying so. The team recorded no new file that evening. Instead, they made a sheet for future guest performers explaining who would check song rights and where to request support. The singer signed only the part that described the event that had already happened. She was pleased to leave without being asked to give more than she wanted.",
+          "chinese": "演出後，一個孩子舉起鯨魚畫，問歌手知不知道海洋歌曲。她知道一首，卻說歌詞屬於以前的老師，自己還沒取得同意。慧謝謝她說清楚。當晚團隊沒有新增錄音，而是製作給未來客座表演者使用的表單，說明由誰查核歌曲權利、在哪裡申請協助。歌手只簽下已發生演出的那一部分。她很高興離開時，沒有人要求她付出超過意願的東西。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "The visiting artist was a mature folk singer who had traveled across the coast to perform. She did not claim that the team had ruined her day. Instead, she asked whether an outdoor performance without machines might be possible. May checked the weather and the safe meeting area. Evan said the small courtyard was suitable if the manager approved. They chose a short unamplified song. A cockroach appeared beside a drain, and a volunteer squealed, making everyone laugh after the scare. The singer smiled. “The world keeps making sounds even when your machines refuse to work,” she said.",
+          "chinese": "客座藝術家是一位成熟的民歌歌手，從海岸另一端趕來演出。她沒有說團隊毀了她的一天，而是問是否可能在戶外不用機器表演。慧檢查天氣和安全集合區。安澤說，若經理同意，小庭院適合短演出。大家選了一首不擴音的歌曲。一隻蟑螂從排水孔旁跑出，志工嚇得尖叫，讓剛受驚的眾人忍不住笑。歌手微笑說：「就算機器不肯工作，世界仍會繼續發出聲音。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

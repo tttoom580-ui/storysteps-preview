@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 6,
+  "chapterId": "tomorrow-6",
+  "sourceChapterSha256": "c84bdefd703527dd72c5ea6b18927cc7df07051f7f56195fb11fb0e4e0273e4c",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "辦公室紀錄證明錢用於舞台燈；帳號改密碼後仍有手寫字跡照片",
+    "previousChapterEndingEnglish": "I opened it anyway. The letter was only one line: Ask what happened to the money before you trust the adults. Below it was a photo of an empty cash box. A little piece of white paper lay inside. It was a receipt. I made the picture larger. The date matched the day June left. The name at the bottom was not June's. It was Principal Reed's.",
+    "nextChapterOpeningEnglish": "The words in the photograph were mine, but they were not a vote. I pulled an old exercise book from my shelf and found the page. Six weeks ago, our class had written an opinion for a lesson about online news. I had written, I believe June took the money because the video shows her by the box. I remembered feeling proud of the clear sentence."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Ms Lin read the messages without once saying that we were being too sensitive. She placed her phone beside mine and asked before taking pictures. When she reached the old voice file, I looked at the clock. Its second hand seemed very loud. “Is that your voice?” she asked. I nodded. “Do you remember what happened around those words?” I remembered. I had worked hard not to.",
+        "zh": "林老師讀訊息，沒有說過一次我們太敏感。她把手機放在我的旁邊，拍照前先詢問。播到舊語音時，我看著時鐘，秒針似乎特別響。「那是妳的聲音嗎？」我點頭。「妳記得那句話前後發生什麼嗎？」我記得，我一直很努力不去記得。",
+        "englishSha256": "1e82ee554c10aed93f355a22429324a127ed2884fc4528a279d61d448b7798c0",
+        "chineseSha256": "1f9aea1011186477d3124690905493a9ecbf7fd884ed6ce91e65729368edbebb"
+      },
+      {
+        "number": 2,
+        "en": "June and I had gone to the student room to find a charger. The cash box for the school show was open on the table. June lifted a phone from beside it. Then Kai came in. June tried to leave, and I stood in her way. June, wait. Give me the phone. That was all the short video showed. It ended before she answered me.",
+        "zh": "June 和我去學生會辦公室找充電器。校慶的錢盒開著，放在桌上。June 從旁邊拿起一支手機，Kai 接著進來。June 想離開，我擋住她。June，等等。把手機給我。短片只拍到這些，在她回答之前就結束。",
+        "englishSha256": "cf5d846bbe8035de5251604db0dce0acbf2dd82df7119e6720978662682e315b",
+        "chineseSha256": "6adb3ad0288a4686826fcf5466fa7e446643e583d9898c5ae049878e45185fe6"
+      },
+      {
+        "number": 3,
+        "en": "“What did she say next?” Ms Lin asked. I stared at my hands. “She said the video was on it.” “Which video?” “I didn't ask.” There it was, the small ugly part. I had not asked. Kai said June was taking his phone, and I believed him because he sounded calm. June sounded angry. At sixteen, I had confused a calm voice with an honest one.",
+        "zh": "「她接著說什麼？」林老師問。我盯著雙手。「她說影片在裡面。」「哪段影片？」「我沒問。」那就是那塊又小又醜的部分：我沒問。Kai 說 June 拿他的手機，我相信他，因為他很平靜。June 聽起來很生氣。十六歲的我，把平靜的聲音當成了誠實。",
+        "englishSha256": "f31515764e57a162ea02d46555e29d0e741f3032038517516a3a70ff3190be09",
+        "chineseSha256": "c39b8e857ba7df03a15582b305a3d452bf38359b264bf28f70d0c6e4b5a6bb9c"
+      },
+      {
+        "number": 4,
+        "en": "Ms Lin looked at the receipt. “This alone doesn't tell us where the money went,” she said. “We need the record, not a guess.” She called the school office while we sat there. The money had paid for a broken stage light. Mr Reed had signed for it. The office had the bill. The cash was not missing. It had never been missing at all.",
+        "zh": "林老師看著收據。「光靠這張，不能知道錢去哪裡。我們需要紀錄，不是猜測。」她當著我們的面打給辦公室。錢用來支付壞掉的舞台燈，校長簽收，辦公室有帳單。錢沒有失蹤，從來沒有。",
+        "englishSha256": "5487b674c9d3efe17342bf14e875363d8d60c7df736a1e11cdef77003a26a40d",
+        "chineseSha256": "9da7d9e25bf3bfec9e2b69abddd44da4029abe40a81c7f312e197b9aab6ce2d9"
+      },
+      {
+        "number": 5,
+        "en": "Leo stood up so quickly that his chair hit the wall. “Then why didn't anyone tell us?” Ms Lin was quiet for a moment. “I don't know. I will ask.” That answer scared me more than an easy excuse. She wrote down the dates, the names of the pages, and what each person had actually seen. She put a question mark beside everything we only thought was true.",
+        "zh": "Leo 猛地站起來，椅子撞到牆。「那為什麼沒人告訴我們？」林老師沉默一下。「我不知道，我會問。」這答案比隨便找藉口還讓我害怕。她寫下日期、頁面名稱、每人親眼看見的事，並在所有只是我們猜測的地方打上問號。",
+        "englishSha256": "e073fbb0ba0d33fc7cf93e1158a1d7ec95a451bf3dfb9e29a94f8862a61ebae0",
+        "chineseSha256": "e566d49a39f6e1cf9d2593d3645ebcecbbd3c896f6eb624f59130b838ce97132"
+      },
+      {
+        "number": 6,
+        "en": "She said she would speak to June's mother through the school office, and to Sam with his permission. She also asked us not to meet Bell or anyone sending strange messages. “You can help without doing this alone,” she said. Before we left, she looked straight at me. “June is not missing from her family. She is staying with relatives. I can confirm that much.”",
+        "zh": "她說會透過辦公室聯絡 June 的母親，並在 Sam 同意後和他談。她也叫我們別去見 Bell 或傳奇怪訊息的人。「你們可以幫忙，但不必獨自處理。」離開前，她直視我。「June 對她的家人而言並未失蹤，她住在親戚家。這點我能確認。」",
+        "englishSha256": "27ddc58510ed0a8676c33b1c5776bfc82170fb1919e451e1b00a781c493217c9",
+        "chineseSha256": "26ce9bfa04077ba2c5a0ce53ba8c887e5bf0bd4c395ee0baab41926b0b656eb6"
+      },
+      {
+        "number": 7,
+        "en": "I had imagined June on a train, June in a dark room, June somewhere nobody could find her. She had only been missing from my life. The difference made my face burn. I asked Ms Lin to pass on a message: I am sorry I asked the wrong question. She wrote it down exactly. She did not add that I was a good person or that June had to forgive me.",
+        "zh": "我想像過 June 在火車上、黑房間裡、沒人找得到的地方。原來她只是從我的人生失蹤。這差異讓我臉頰發燙。我請林老師傳話：對不起，我問錯了問題。老師照原句寫下，沒有補上我是好人，也沒說 June 必須原諒我。",
+        "englishSha256": "14ee3201c43fb3d739e53eb331f36cf8fce07f38454b6302fc39994ecea73577",
+        "chineseSha256": "4b0cec2bf9a44c836b122e4b7105b6977b7e58ba351879046639cbe33376f3b3"
+      },
+      {
+        "number": 8,
+        "en": "At home, I changed my Later password with Leo talking me through the account settings. The future letters stopped. For twenty minutes, I felt in control. Then an email arrived at my school address. No false future date this time. Just a photo. It showed the red notebook open on a desk. On the next page, in my own handwriting, was the vote I had thought nobody could see.",
+        "zh": "回家後，我在 Leo 的電話指引下改了 Later 密碼。未來的信停止了。二十分鐘內，我覺得自己掌握了事情。接著學校信箱收到一封信，沒有假的未來日期，只有照片：紅本子攤在桌上。下一頁用我的筆跡，寫著我以為沒人看得到的那張票。",
+        "englishSha256": "a18650c3cab0c5fdbfaadba5d9605c21538880e9220284d9756e758c13d00e15",
+        "chineseSha256": "f7d9fe168703db9c0076b995f8a75b25db6a0574d37c44259eeba64ded02bc67"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 536,
+    "targets": [
+      {
+        "word": "clock",
+        "meaning": "時鐘",
+        "appearsInSource": true
+      },
+      {
+        "word": "dark",
+        "meaning": "黑暗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "do",
+        "meaning": "做；助動詞",
+        "appearsInSource": true
+      },
+      {
+        "word": "each",
+        "meaning": "每一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "easy",
+        "meaning": "容易的",
+        "appearsInSource": true
+      },
+      {
+        "word": "email",
+        "meaning": "電子郵件",
+        "appearsInSource": true
+      },
+      {
+        "word": "face",
+        "meaning": "臉；面對",
+        "appearsInSource": true
+      },
+      {
+        "word": "good",
+        "meaning": "好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "guess",
+        "meaning": "猜測",
+        "appearsInSource": true
+      },
+      {
+        "word": "hard",
+        "meaning": "困難的；努力地；硬的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hit",
+        "meaning": "打；擊中",
+        "appearsInSource": true
+      },
+      {
+        "word": "home",
+        "meaning": "家；回家",
+        "appearsInSource": true
+      },
+      {
+        "word": "honest",
+        "meaning": "誠實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "just",
+        "meaning": "只是；剛剛",
+        "appearsInSource": true
+      },
+      {
+        "word": "leave",
+        "meaning": "離開；留下",
+        "appearsInSource": true
+      },
+      {
+        "word": "left",
+        "meaning": "離開了；剩下的；左邊",
+        "appearsInSource": true
+      },
+      {
+        "word": "life",
+        "meaning": "生活；生命",
+        "appearsInSource": true
+      },
+      {
+        "word": "light",
+        "meaning": "光；輕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "remember",
+        "meaning": "記得",
+        "appearsInSource": true
+      },
+      {
+        "word": "train",
+        "meaning": "火車；訓練",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does the office record show?",
+      "options": [
+        "June took all the money.",
+        "The cash box never existed.",
+        "The money paid for a stage light."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "The money paid for a stage light.",
+      "existingAnswerExplanation": "The money paid for a stage light.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Ms Lin looked at the receipt. “This alone doesn't tell us where the money went,” she said. “We need the record, not a guess.” She called the school office while we sat there. The money had paid for a broken stage light. Mr Reed had signed for it. The office had the bill. The cash was not missing. It had never been missing at all.",
+          "chinese": "林老師看著收據。「光靠這張，不能知道錢去哪裡。我們需要紀錄，不是猜測。」她當著我們的面打給辦公室。錢用來支付壞掉的舞台燈，校長簽收，辦公室有帳單。錢沒有失蹤，從來沒有。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "June and I had gone to the student room to find a charger. The cash box for the school show was open on the table. June lifted a phone from beside it. Then Kai came in. June tried to leave, and I stood in her way. June, wait. Give me the phone. That was all the short video showed. It ended before she answered me.",
+          "chinese": "June 和我去學生會辦公室找充電器。校慶的錢盒開著，放在桌上。June 從旁邊拿起一支手機，Kai 接著進來。June 想離開，我擋住她。June，等等。把手機給我。短片只拍到這些，在她回答之前就結束。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What arrives after Mia changes her Later password?",
+      "options": [
+        "A public apology from Bell.",
+        "A new science test schedule.",
+        "An email with a photograph of her handwriting."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "An email with a photograph of her handwriting.",
+      "existingAnswerExplanation": "改密碼後，假未來訊息暫停，但她的學校信箱又收到拍有自己字跡的照片。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "At home, I changed my Later password with Leo talking me through the account settings. The future letters stopped. For twenty minutes, I felt in control. Then an email arrived at my school address. No false future date this time. Just a photo. It showed the red notebook open on a desk. On the next page, in my own handwriting, was the vote I had thought nobody could see.",
+          "chinese": "回家後，我在 Leo 的電話指引下改了 Later 密碼。未來的信停止了。二十分鐘內，我覺得自己掌握了事情。接著學校信箱收到一封信，沒有假的未來日期，只有照片：紅本子攤在桌上。下一頁用我的筆跡，寫著我以為沒人看得到的那張票。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "Ms Lin read the messages without once saying that we were being too sensitive. She placed her phone beside mine and asked before taking pictures. When she reached the old voice file, I looked at the clock. Its second hand seemed very loud. “Is that your voice?” she asked. I nodded. “Do you remember what happened around those words?” I remembered. I had worked hard not to.",
+          "chinese": "林老師讀訊息，沒有說過一次我們太敏感。她把手機放在我的旁邊，拍照前先詢問。播到舊語音時，我看著時鐘，秒針似乎特別響。「那是妳的聲音嗎？」我點頭。「妳記得那句話前後發生什麼嗎？」我記得，我一直很努力不去記得。",
+          "matchedQueryTerms": 0
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 8,
+  "chapterId": "ss-r2-l1-b-8",
+  "sourceChapterSha256": "3f3e097f3364e68ec391a4210185758d5bef3fe81f4e4ca7e6ed36008342bbc3",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "莫斯第一次麵包過硬，藉試烤調整溫度",
+    "previousChapterEndingEnglish": "That evening, the old wooden star above the door looked bright in the last light. Fia walked home with a tiny pot in her hand. There was a single seed inside. It was not ready to become food, just as the shop was not yet ready for its guests. But a seed could grow with time, light, and care. The small class had shown Fia what the shop might become: a place where people did more than buy and eat. They could teach one another, share what they knew, and take something good back home.",
+    "nextChapterOpeningEnglish": "A traveler came to Little Leaf Village on a cold morning. He was a bear from a far town, and he looked lonely beside the wall of the red house. Fia brought him a cup of warm milk. \"We are not open yet,\" she said, \"but you may sit here and rest.\" The bear looked sad. \"I have walked a long way and lost my map,\" he said. \"I do not know whose house I should visit.\" Fia asked his name. He said it was Rowan. He was looking for an old farmer who had once been a friend of his mother."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Moss kept a small book by his oven. Every time bread went wrong, he wrote down what had happened. It was not a boring book to him. It helped him remember heat, time, and the kind of flour he had used. One morning, a loaf came out hard as a stone. \"Another mistake,\" he said. Fia did not laugh. She listened while he told her about the fire. \"The oven was too hot,\" he said. \"I will try less heat next time.\" Fia wrote the idea on a new page. A wrong loaf could teach them something, as long as they kept good notes. He asked Fia to listen while he read the notes again, because sometimes saying a plan aloud made an error easier to see.",
+        "zh": "莫斯在烤爐旁放著一本小筆記。每次麵包失敗，他都寫下原因。對他而言那不是無聊的書，而是幫他記住溫度、時間和麵粉種類的工具。某個早晨，一條麵包硬得像石頭。「又失敗了。」他說。菲雅沒有笑，而是聽他說起爐火。「爐子太熱了，」他說，「下次降溫試試。」菲雅把想法記在新頁面。只要好好記錄，一條失敗的麵包也能教他們事情。 他請菲雅在他再讀一次筆記時仔細聽，因為有時把計畫念出來，更容易發現錯誤。",
+        "englishSha256": "84f0eb37f752fbed52b1e9a535c19c680835e34c9c3bcce2bec0e1a80360de10",
+        "chineseSha256": "0439ae55b4f60daa31fe3f317e2886f7a9c48ab8ca83665c9ae619b48029a5f3"
+      },
+      {
+        "number": 2,
+        "en": "Toma arrived from the old train museum with two boxes of forks. The museum had used them for a special day, but did not need them now. \"They were from a show about the village queen,\" he explained. \"People came in fine clothes and ate at long tables.\" Fia opened the boxes and checked each fork. Most were clean and safe. A few had sharp ends that bent in the wrong way. She put those aside. \"I would rather have ten good forks than twenty dangerous ones,\" she said. Toma agreed. They had no need for a royal meal, only a safe one.",
+        "zh": "托馬從舊火車博物館帶來兩箱叉子。博物館曾在特別活動中使用，如今已不需要。「那是村后展覽用的，」他解釋，「大家穿漂亮衣服，坐在長桌旁吃飯。」菲雅打開箱子，逐支檢查。大多乾淨安全，有幾支尖端彎了。她把那些挑出來。「十支安全的叉子，比二十支危險的更好。」她說。托馬同意。他們不需要皇室大餐，只需要安全的一餐。",
+        "englishSha256": "126b373be6125e36925a95e979a40980df7362ea28de25e64557f7661e3d98cf",
+        "chineseSha256": "c83bf8e99c5906829ab4c819fcf84c42e882a44aae81313aba4c62d537b14cd0"
+      },
+      {
+        "number": 3,
+        "en": "At noon, Pip brought a roll of paper and a file of garden notes. He wanted each worker to know which food was ready. \"What else should we write?\" he asked. Fia suggested putting a mark beside things they could make without eggs. Moss asked if they could also mark food with nuts. Some guests could not eat them safely. Fia agreed. She wanted the menu to tell people what they needed to know. \"You cannot see every problem by looking at a plate,\" she said. \"Sometimes we must ask and tell.\" Their notes grew, but the plan became clearer.",
+        "zh": "中午，皮普帶來一捲紙和一份花園檔案。他希望每位工作者都知道哪些食材已備好。「還要寫什麼？」他問。菲雅提議在不加蛋的餐點旁作記號。莫斯又問是否能標出堅果，有些客人不能安全食用。菲雅同意。她想讓菜單告訴大家必要的資訊。「只看一只盤子，無法知道每個問題，」她說，「有時得主動問，也得主動說。」紀錄變多，但計畫也更清楚。",
+        "englishSha256": "0bcda78216fcc5b835c1c5bbf5be6154e4f256e3c972ee1272cc51698b38e306",
+        "chineseSha256": "6f8889976642e66311f81d2926ec05f3e510d0ac35724fe27d25a3f83b77f71d"
+      },
+      {
+        "number": 4,
+        "en": "Fia gave Moss one dollar for a new oven brush, and he went to the shop across the road. She checked their money box again. Each coin had a place, and every cost was written down. She felt more successful when she knew the truth of their small numbers than when someone simply called their work great. At the door she saw a child looking at the hard loaf. \"Is that bread?\" the child asked. \"Yes,\" Moss answered when he returned, \"but not good bread. Would you like to see how I make a better one?\" The child nodded happily.",
+        "zh": "菲雅給莫斯一元，讓他去對街買新烤爐刷。她再次檢查錢盒。每枚硬幣都有位置，每筆費用都記了下來。比起別人單純稱讚，了解小小帳目的真實狀況更讓她感到成功。門邊一個孩子盯著硬麵包。「這是麵包嗎？」她問。莫斯回來後回答：「是，但不是好麵包。妳想看我怎麼做出比較好的嗎？」孩子高興地點頭。",
+        "englishSha256": "ac56e9a54bf1e74610e7d1748415bc72d41d2f20bb18c9001ef830cf52cf822c",
+        "chineseSha256": "597ca43e01672934b69808b39561d4d10adbe392d5fa88bcab0a6cd3e165748a"
+      },
+      {
+        "number": 5,
+        "en": "The new bread was soft and warm. Moss cut it into pieces for Fia, Pip, Toma, and the child. \"You helped me,\" he told them. \"You did not make the bread, but you let me learn without feeling small.\" Fia smiled. \"We will make many mistakes before our first good week,\" she said. \"When one happens, we can tell the truth, fix what we can, and try again.\" They ate beside the clean table. The oven was full of warm air, and the room smelled like a place where people might want to stay a while.",
+        "zh": "新麵包又軟又暖。莫斯把它切成小塊，分給菲雅、皮普、托馬和孩子。「你們幫了我，」他說，「雖然麵包不是你們做的，卻讓我能不怕丟臉地學習。」菲雅笑了。「第一個順利的星期前，我們還會犯很多錯，」她說，「犯錯時可以說實話、盡力修好，再試一次。」大家坐在乾淨桌邊吃著，烤爐散出暖氣，房間聞起來像會令人想多待一會兒的地方。",
+        "englishSha256": "96259c3f1b77e4808738e14a5334b5f800e18b66fa552a9e441df66a5f9bdca1",
+        "chineseSha256": "983952a85c28059fcb43cabac1abaf5a17d37c84b29d6a379a19098d83b87c92"
+      },
+      {
+        "number": 6,
+        "en": "Before closing, the child drew a small star on Moss's book. \"For your next try,\" she said. He kept the picture. Fia saw that the book of mistakes had slowly become a book of learning. It held bad bread and good bread, old notes and new answers. That was how the shop was growing. Its walls were still plain, and some chairs still needed work, but the people inside were becoming ready to share a table. Fia locked the door and looked at the wooden star above it. She hoped the next lesson would bring them closer to opening day.",
+        "zh": "收工前，孩子在莫斯的筆記本上畫了顆小星星。「送給你下次嘗試。」她說。莫斯留著那幅畫。菲雅看出錯誤筆記本正慢慢變成學習筆記本；裡面有壞麵包和好麵包、舊筆記和新答案。小店就是這樣長大的。牆仍樸素，一些椅子仍待修，但屋內的人已越來越準備好同桌用餐。菲雅鎖門後望著門上的木星星，希望下一次學習也能讓他們更接近開幕。",
+        "englishSha256": "8d58924688e3fc4068211118c89ae1cfd8ac82aaa0d51586d1fd274e2299ae8f",
+        "chineseSha256": "1ce41662c3eb07aa1f483d270eaa797fbc06167b40dd8ce0dd5c7e3a214e921b"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 626,
+    "targets": [
+      {
+        "word": "book",
+        "meaning": "書",
+        "appearsInSource": true
+      },
+      {
+        "word": "boring",
+        "meaning": "無聊的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dangerous",
+        "meaning": "危險的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dollar",
+        "meaning": "元",
+        "appearsInSource": true
+      },
+      {
+        "word": "each",
+        "meaning": "每一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "else",
+        "meaning": "其他的",
+        "appearsInSource": true
+      },
+      {
+        "word": "file",
+        "meaning": "檔案",
+        "appearsInSource": true
+      },
+      {
+        "word": "fork",
+        "meaning": "叉子",
+        "appearsInSource": true
+      },
+      {
+        "word": "full",
+        "meaning": "裝滿的",
+        "appearsInSource": true
+      },
+      {
+        "word": "idea",
+        "meaning": "主意",
+        "appearsInSource": true
+      },
+      {
+        "word": "listen",
+        "meaning": "傾聽",
+        "appearsInSource": true
+      },
+      {
+        "word": "mistake",
+        "meaning": "錯誤",
+        "appearsInSource": true
+      },
+      {
+        "word": "museum",
+        "meaning": "博物館",
+        "appearsInSource": true
+      },
+      {
+        "word": "noon",
+        "meaning": "中午",
+        "appearsInSource": true
+      },
+      {
+        "word": "queen",
+        "meaning": "女王",
+        "appearsInSource": true
+      },
+      {
+        "word": "roll",
+        "meaning": "小餐包",
+        "appearsInSource": true
+      },
+      {
+        "word": "successful",
+        "meaning": "成功的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tell",
+        "meaning": "告訴",
+        "appearsInSource": true
+      },
+      {
+        "word": "train",
+        "meaning": "火車",
+        "appearsInSource": true
+      },
+      {
+        "word": "You",
+        "meaning": "你們",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why is the first loaf hard?",
+      "options": [
+        "The oven is too hot",
+        "There is too much water",
+        "It is frozen"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The oven is too hot",
+      "existingAnswerExplanation": "莫斯說烤爐太熱，造成麵包變硬。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Moss kept a small book by his oven. Every time bread went wrong, he wrote down what had happened. It was not a boring book to him. It helped him remember heat, time, and the kind of flour he had used. One morning, a loaf came out hard as a stone. \"Another mistake,\" he said. Fia did not laugh. She listened while he told her about the fire. \"The oven was too hot,\" he said. \"I will try less heat next time.\" Fia wrote the idea on a new page. A wrong loaf could teach them something, as long as they kept good notes. He asked Fia to listen while he read the notes again, because sometimes saying a plan aloud made an error easier to see.",
+          "chinese": "莫斯在烤爐旁放著一本小筆記。每次麵包失敗，他都寫下原因。對他而言那不是無聊的書，而是幫他記住溫度、時間和麵粉種類的工具。某個早晨，一條麵包硬得像石頭。「又失敗了。」他說。菲雅沒有笑，而是聽他說起爐火。「爐子太熱了，」他說，「下次降溫試試。」菲雅把想法記在新頁面。只要好好記錄，一條失敗的麵包也能教他們事情。 他請菲雅在他再讀一次筆記時仔細聽，因為有時把計畫念出來，更容易發現錯誤。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 4,
+          "english": "Fia gave Moss one dollar for a new oven brush, and he went to the shop across the road. She checked their money box again. Each coin had a place, and every cost was written down. She felt more successful when she knew the truth of their small numbers than when someone simply called their work great. At the door she saw a child looking at the hard loaf. \"Is that bread?\" the child asked. \"Yes,\" Moss answered when he returned, \"but not good bread. Would you like to see how I make a better one?\" The child nodded happily.",
+          "chinese": "菲雅給莫斯一元，讓他去對街買新烤爐刷。她再次檢查錢盒。每枚硬幣都有位置，每筆費用都記了下來。比起別人單純稱讚，了解小小帳目的真實狀況更讓她感到成功。門邊一個孩子盯著硬麵包。「這是麵包嗎？」她問。莫斯回來後回答：「是，但不是好麵包。妳想看我怎麼做出比較好的嗎？」孩子高興地點頭。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does the child draw?",
+      "options": [
+        "A star in Moss's book",
+        "A train on the floor",
+        "A queen on the wall"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A star in Moss's book",
+      "existingAnswerExplanation": "孩子在莫斯的筆記本上畫一顆小星星。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Before closing, the child drew a small star on Moss's book. \"For your next try,\" she said. He kept the picture. Fia saw that the book of mistakes had slowly become a book of learning. It held bad bread and good bread, old notes and new answers. That was how the shop was growing. Its walls were still plain, and some chairs still needed work, but the people inside were becoming ready to share a table. Fia locked the door and looked at the wooden star above it. She hoped the next lesson would bring them closer to opening day.",
+          "chinese": "收工前，孩子在莫斯的筆記本上畫了顆小星星。「送給你下次嘗試。」她說。莫斯留著那幅畫。菲雅看出錯誤筆記本正慢慢變成學習筆記本；裡面有壞麵包和好麵包、舊筆記和新答案。小店就是這樣長大的。牆仍樸素，一些椅子仍待修，但屋內的人已越來越準備好同桌用餐。菲雅鎖門後望著門上的木星星，希望下一次學習也能讓他們更接近開幕。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 1,
+          "english": "Moss kept a small book by his oven. Every time bread went wrong, he wrote down what had happened. It was not a boring book to him. It helped him remember heat, time, and the kind of flour he had used. One morning, a loaf came out hard as a stone. \"Another mistake,\" he said. Fia did not laugh. She listened while he told her about the fire. \"The oven was too hot,\" he said. \"I will try less heat next time.\" Fia wrote the idea on a new page. A wrong loaf could teach them something, as long as they kept good notes. He asked Fia to listen while he read the notes again, because sometimes saying a plan aloud made an error easier to see.",
+          "chinese": "莫斯在烤爐旁放著一本小筆記。每次麵包失敗，他都寫下原因。對他而言那不是無聊的書，而是幫他記住溫度、時間和麵粉種類的工具。某個早晨，一條麵包硬得像石頭。「又失敗了。」他說。菲雅沒有笑，而是聽他說起爐火。「爐子太熱了，」他說，「下次降溫試試。」菲雅把想法記在新頁面。只要好好記錄，一條失敗的麵包也能教他們事情。 他請菲雅在他再讀一次筆記時仔細聽，因為有時把計畫念出來，更容易發現錯誤。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

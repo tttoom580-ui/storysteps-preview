@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 19,
+  "chapterId": "ss-r10-l1-a-19",
+  "sourceChapterSha256": "cbefefea4d8e899f4d31dbf5c1ee11e9bf8ec7498b32761128dc17fc092cf9f1",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "新聞採訪避免誤報教室已失去；托馬斯先聽訪談題目",
+    "previousChapterEndingEnglish": "That night, the class stayed indoors because the field's barrier and lighting were not ready for a larger group. Nia set a little field map on a table and asked everyone to show where people could safely stand. Tomas found the entrance by touch. Bo marked the hole with a big circle. Finn marked the light near the bathroom path. The map was not a picture of stars, yet everyone could see why it mattered. \"We want an open sky,\" Nia said, \"but first we need an open, safe place to stand.\" The children nodded. She placed the map beside the star cards. Both were now part of learning to look carefully at the world.",
+    "nextChapterOpeningEnglish": "The weather report showed strong rain for Saturday. Nia had planned an evening sky visit, but she changed it to an indoor lesson. A family had come from abroad that month and asked whether they could still join. Nia said yes and sent a short note about the change. When the rain began, water ran below the front windows, but it did not enter the room. Ada checked the door with Arun. \"We don't need to hide the bad weather from people,\" Nia said. \"We need to tell them what has changed.\" She put up a clear sign so nobody would stand outside waiting for a star that could not be seen."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A young newspaper writer came to interview Nia about the star class. He had heard that another group might take over the room. Nia told him that the city had not decided yet. \"Please do not write that we have lost the room,\" she said. \"That would mean something different from what is true.\" The writer nodded. A black dog lay on the ground near the center door, looking at people with one bright eye. Its owner moved it aside so visitors could pass. Finn counted the people entering and saw that the class had more new faces than before. He wanted to shout the number, but Ada asked him to finish counting quietly.",
+        "zh": "一位年輕的報社作者來訪問妮雅，想報導星星課。他聽說另有團體可能接手教室。妮雅告訴他市府還沒有決定。「請不要寫成我們已經失去教室，」她說，「那會和事實不同。」作者點點頭。一隻黑狗躺在中心門口的地上，用一隻亮亮的眼睛看著來人。主人把牠牽到旁邊，讓訪客可以通行。芬恩數著進門的人，發現今天新面孔比以前多。他想大聲喊出數量，但艾達請他安靜數完。",
+        "englishSha256": "92b8e35df6aa5ca3337d2b702342f5432984c307d5c0667cc7c81cff9ca7547b",
+        "chineseSha256": "360f769d378fc6a148199d3cdbac5f8c91a42c26ab638cb318f6201825bd3a89"
+      },
+      {
+        "number": 2,
+        "en": "The interview began with a simple question: \"What is the biggest problem for the class?\" Nia said it was not the lack of a large telescope. The real problem was making a space where people could learn in different ways. She showed the writer the two touch maps, the large-print notes, and the record of the park visit. Tomas was interested in joining the talk, but asked the writer to read the questions aloud beforehand. The writer agreed. He did not ask Tomas to tell a sad story about being blind. Instead, he asked what made the second map better than the first. Tomas explained that the dots were farther apart and the lines easier to follow.",
+        "zh": "訪問從一個簡單問題開始：「班上最大的問題是什麼？」妮雅說，並不是缺少大型望遠鏡，而是要建立一個讓人能用不同方法學習的空間。她向作者展示兩張觸摸地圖、大字筆記和公園活動紀錄。托馬斯也有興趣受訪，但希望記者先把問題念給他聽。記者同意，沒有要求他講述看不見東西的悲傷故事，而是問第二張地圖比第一張好在哪裡。托馬斯解釋，新圖上的點更遠、線更容易跟著摸。",
+        "englishSha256": "7d01b10ce1a958b3ec53285593de57d80b1df51208d41efdbf594af8565727ba",
+        "chineseSha256": "167b42056bbc0f27d579ed6f4b69b5138193c2375ebc083e028d7d3086102045"
+      },
+      {
+        "number": 3,
+        "en": "During lunch, a bee flew near Bo's sandwich. He pulled his hand back quickly. The dog gave a small bark, and its owner held the lead. Nia asked everyone not to wave at the bee or try to attack it. They moved food away and gave it space to fly. Bo said he was afraid of a bite or a sting. Nia understood. The bee left, and nobody was hurt. The writer had watched the whole small scene. \"Does your class always turn things into lessons?\" he asked. Nia smiled. \"Not every problem needs a lesson,\" she said. \"Sometimes we just move back and let things be.\"",
+        "zh": "午餐時，一隻蜜蜂飛到波的三明治旁。他迅速縮回手。狗輕吠了一聲，主人握好牽繩。妮雅請大家不要朝蜜蜂揮手或攻擊牠，而是把食物移開，留空間讓牠飛走。波說他怕被咬或被螫。妮雅理解他的害怕。蜜蜂飛走了，沒有人受傷。作者看見了這個小插曲。「妳們總把事情變成教學嗎？」他問。妮雅笑了。「不是每個問題都需要上課，」她說，「有時只要退後，讓事情自然過去。」",
+        "englishSha256": "8d238bccabf27b79711d4a45023d6e9d17ff59b886f0187574d7e5e937025701",
+        "chineseSha256": "3e7a03bee595b66f7d6a2cfd55c7ad7cec66a2674dd1cf018a0aab6b4719d2e3"
+      },
+      {
+        "number": 4,
+        "en": "The writer then asked the families why they joined. One parent said the lessons were pretty simple and easy to follow. Another said her daughter had become interested in reading about space. Mrs. Sol said she could join because the chairs and paths had been changed. Bo said he liked being allowed to ask questions more than once. Nia did not try to improve their answers. She only asked whether their words could be printed with their names. Some agreed. Others preferred no names. The writer took careful notes and promised to show Nia the parts that described the class rules before the article was published.",
+        "zh": "作者接著問家庭為何參加。一位家長說，課程簡單而好懂；另一位說，女兒開始對閱讀太空書有興趣。索爾奶奶說，她能參加是因為椅子和通道改好了。波說，他喜歡可以重複問問題。妮雅沒有替任何人美化回答，只詢問受訪者是否同意把名字一起刊出。有些同意，有些不想署名。作者仔細記筆記，答應刊登前讓妮雅確認文中描述課程規定的部分是否正確。",
+        "englishSha256": "0379e5299929236e8b6785217a44d86d9efbac6f1b5a79b0d9b1e5cc8b5653f0",
+        "chineseSha256": "6429ade1cbaa3b32959e67e1c24c169843a257acee9b62637330f0f15a680ce6"
+      },
+      {
+        "number": 5,
+        "en": "When the lunch table was ready, Mara brought bread and ham sandwiches from the kitchen. Nia asked whether any visitor needed a different kind of food and reminded people that bringing their own meal was fine. A boy wearing a red shirt offered to help count the chairs. He found fourteen chairs in the room and two in the hall. Ada wrote the number down, then checked it with him. The writer asked why they bothered with such a small count. Nia said the number helped the group plan safe space and showed the board how the room was actually used. It was not a score. The boy smiled and helped put the unused chairs away. He liked having a clear job that did not require knowing the names of stars.",
+        "zh": "午餐桌準備好時，瑪拉從廚房帶來麵包和火腿三明治。妮雅詢問是否有訪客需要其他食物，也提醒大家可以自帶餐點。一個穿紅襯衫的男孩主動幫忙數椅子。他發現房間裡十四張、走廊兩張。艾達記下數字，再跟他核對。報社作者問，為什麼連這麼小的數量也要算。妮雅說，數字能幫小組安排安全空間，也讓委員會知道房間實際如何使用。那不是分數。男孩笑著把暫時不用的椅子收好。他喜歡這份明確工作，不需要知道星星名字也能參與。",
+        "englishSha256": "253e4aab65a49a33660ce78e08053a0b746a04e3196689b700d0d30960be1d25",
+        "chineseSha256": "b702cdf8381a4ee8befe0e35f6ee990b7ee65bacee0226accd5da03ef353fed0"
+      },
+      {
+        "number": 6,
+        "en": "When the writer left, Finn asked whether the article would make the city keep the class for another year. Nia said she did not know. A newspaper could help people learn about the program, but it could not make the decision for the board. She asked Finn what he thought the class should do next. He said they should finish the six weeks and show the board what everyone had learned. Nia agreed. The idea was small and steady. She did not need the newspaper to call her a hero. She wanted the facts about the room, the people, and the work to be clear.",
+        "zh": "作者離開後，芬恩問報導會不會讓市府再留課程一年。妮雅說她不知道。報紙可以幫更多人認識課程，卻不能替委員會做決定。她問芬恩下一步該做什麼。芬恩說，應該好好完成六週，再把大家學到的東西呈現給委員會。妮雅同意。這是穩定而具體的做法。她不需要報紙稱她為英雄，只希望教室、參加的人和做過的工作都被清楚地描述。",
+        "englishSha256": "03cff6961f30de85d788afc5c092f27286ed5fcf161e6376c493fd9d26cdbaf3",
+        "chineseSha256": "6326d401a843d6a2bbff95cd109bbe49f575d9311bc3e96c16bb67afd726d438"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 680,
+    "targets": [
+      {
+        "word": "another",
+        "meaning": "另一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "any",
+        "meaning": "任何",
+        "appearsInSource": true
+      },
+      {
+        "word": "attack",
+        "meaning": "攻擊",
+        "appearsInSource": true
+      },
+      {
+        "word": "bee",
+        "meaning": "蜜蜂",
+        "appearsInSource": true
+      },
+      {
+        "word": "bite",
+        "meaning": "叮咬",
+        "appearsInSource": true
+      },
+      {
+        "word": "black",
+        "meaning": "黑色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "count",
+        "meaning": "數數",
+        "appearsInSource": true
+      },
+      {
+        "word": "dog",
+        "meaning": "狗",
+        "appearsInSource": true
+      },
+      {
+        "word": "eye",
+        "meaning": "眼睛",
+        "appearsInSource": true
+      },
+      {
+        "word": "ground",
+        "meaning": "地面",
+        "appearsInSource": true
+      },
+      {
+        "word": "ham",
+        "meaning": "火腿",
+        "appearsInSource": true
+      },
+      {
+        "word": "interested",
+        "meaning": "感興趣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "interview",
+        "meaning": "訪談",
+        "appearsInSource": true
+      },
+      {
+        "word": "join",
+        "meaning": "加入",
+        "appearsInSource": true
+      },
+      {
+        "word": "mean",
+        "meaning": "意指",
+        "appearsInSource": true
+      },
+      {
+        "word": "once",
+        "meaning": "一次",
+        "appearsInSource": true
+      },
+      {
+        "word": "pretty",
+        "meaning": "相當（程度）",
+        "appearsInSource": true
+      },
+      {
+        "word": "problem",
+        "meaning": "問題",
+        "appearsInSource": true
+      },
+      {
+        "word": "shirt",
+        "meaning": "上衣",
+        "appearsInSource": true
+      },
+      {
+        "word": "year",
+        "meaning": "年",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Nia ask the newspaper writer not to claim?",
+      "options": [
+        "That students drew maps.",
+        "That a dog was near the door.",
+        "That the class has already lost the room."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "That the class has already lost the room.",
+      "existingAnswerExplanation": "市府尚未決定，不能把可能失去教室寫成已失去。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A young newspaper writer came to interview Nia about the star class. He had heard that another group might take over the room. Nia told him that the city had not decided yet. \"Please do not write that we have lost the room,\" she said. \"That would mean something different from what is true.\" The writer nodded. A black dog lay on the ground near the center door, looking at people with one bright eye. Its owner moved it aside so visitors could pass. Finn counted the people entering and saw that the class had more new faces than before. He wanted to shout the number, but Ada asked him to finish counting quietly.",
+          "chinese": "一位年輕的報社作者來訪問妮雅，想報導星星課。他聽說另有團體可能接手教室。妮雅告訴他市府還沒有決定。「請不要寫成我們已經失去教室，」她說，「那會和事實不同。」作者點點頭。一隻黑狗躺在中心門口的地上，用一隻亮亮的眼睛看著來人。主人把牠牽到旁邊，讓訪客可以通行。芬恩數著進門的人，發現今天新面孔比以前多。他想大聲喊出數量，但艾達請他安靜數完。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 6,
+          "english": "When the writer left, Finn asked whether the article would make the city keep the class for another year. Nia said she did not know. A newspaper could help people learn about the program, but it could not make the decision for the board. She asked Finn what he thought the class should do next. He said they should finish the six weeks and show the board what everyone had learned. Nia agreed. The idea was small and steady. She did not need the newspaper to call her a hero. She wanted the facts about the room, the people, and the work to be clear.",
+          "chinese": "作者離開後，芬恩問報導會不會讓市府再留課程一年。妮雅說她不知道。報紙可以幫更多人認識課程，卻不能替委員會做決定。她問芬恩下一步該做什麼。芬恩說，應該好好完成六週，再把大家學到的東西呈現給委員會。妮雅同意。這是穩定而具體的做法。她不需要報紙稱她為英雄，只希望教室、參加的人和做過的工作都被清楚地描述。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Tomas ask to hear the interview questions before answering?",
+      "options": [
+        "He wants to avoid talking about maps.",
+        "He wants to choose how to take part.",
+        "He is the newspaper editor."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "He wants to choose how to take part.",
+      "existingAnswerExplanation": "托馬斯看不見文字，記者先依他的要求讀出訪談問題，讓他能自主決定是否參與。原文證據（第 2 段）：asked the writer to read the questions aloud beforehand.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The interview began with a simple question: \"What is the biggest problem for the class?\" Nia said it was not the lack of a large telescope. The real problem was making a space where people could learn in different ways. She showed the writer the two touch maps, the large-print notes, and the record of the park visit. Tomas was interested in joining the talk, but asked the writer to read the questions aloud beforehand. The writer agreed. He did not ask Tomas to tell a sad story about being blind. Instead, he asked what made the second map better than the first. Tomas explained that the dots were farther apart and the lines easier to follow.",
+          "chinese": "訪問從一個簡單問題開始：「班上最大的問題是什麼？」妮雅說，並不是缺少大型望遠鏡，而是要建立一個讓人能用不同方法學習的空間。她向作者展示兩張觸摸地圖、大字筆記和公園活動紀錄。托馬斯也有興趣受訪，但希望記者先把問題念給他聽。記者同意，沒有要求他講述看不見東西的悲傷故事，而是問第二張地圖比第一張好在哪裡。托馬斯解釋，新圖上的點更遠、線更容易跟著摸。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "A young newspaper writer came to interview Nia about the star class. He had heard that another group might take over the room. Nia told him that the city had not decided yet. \"Please do not write that we have lost the room,\" she said. \"That would mean something different from what is true.\" The writer nodded. A black dog lay on the ground near the center door, looking at people with one bright eye. Its owner moved it aside so visitors could pass. Finn counted the people entering and saw that the class had more new faces than before. He wanted to shout the number, but Ada asked him to finish counting quietly.",
+          "chinese": "一位年輕的報社作者來訪問妮雅，想報導星星課。他聽說另有團體可能接手教室。妮雅告訴他市府還沒有決定。「請不要寫成我們已經失去教室，」她說，「那會和事實不同。」作者點點頭。一隻黑狗躺在中心門口的地上，用一隻亮亮的眼睛看著來人。主人把牠牽到旁邊，讓訪客可以通行。芬恩數著進門的人，發現今天新面孔比以前多。他想大聲喊出數量，但艾達請他安靜數完。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

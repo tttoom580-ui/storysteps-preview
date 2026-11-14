@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 3,
+  "chapterId": "ss-r10-l2-b-3",
+  "sourceChapterSha256": "46c7873af815a4df5de4b7d8ce9fe218ba770bfef9651e8763bc94d74296167d",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "卓姨短音檔刪去關鍵尾句致誤解；更正與版本標籤",
+    "previousChapterEndingEnglish": "When they finished, Evan packed the speaker into its case and asked if May wanted dinner. She wondered if he meant a date. He answered before she could decide: “I mean food after a long workday. You can say no.” May laughed, partly because his careful words sounded like another permission form. She said yes to noodles at a small stall but no to discussing the project all evening. For the first time, they talked about home, books, and the kind of music each could never stand. The strange partnership began to feel less like a contest and more like a choice.",
+    "nextChapterOpeningEnglish": "The market's eastern hall closed for repairs, so the team had to attend a meeting in the university gym. Inside, a broken bird cage, a rusty pan, and an old comb stood on a table of objects that sellers had offered for the sound display. The student department wanted to use them as funny decorations. May objected. The objects were private memories, not toys. A woman explained that the cage had once protected an injured bird; its open door was part of the story. Evan asked the group to listen before moving anything. That small pause changed the motion of the meeting."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A cloudy morning brought the first complaint. A classmate told May that a recording near the entrance made an older seller sound foolish. The student had not heard the whole piece; someone had shared a short clip online. Evan made an attempt to find its source. He could link the clip to their test file, but the final words had been cut away. “The cause may be a careless edit,” he said, “not an attempt to cheat.” May nodded, then asked him to stop the public player until they knew what had happened. Keeping the show open would not be fair to the speaker.",
+        "zh": "陰雲密布的早晨帶來第一件申訴。一位同學告訴慧，入口處的錄音讓年長攤商聽起來很可笑。那名同學其實沒聽過完整內容，只看到有人在網路分享短片。安澤試著追查來源，發現它連到他們的試播檔，但最後一段話被剪掉了。「原因可能是粗心剪輯，」他說，「不一定是蓄意作弊。」慧點頭，請他先停止公開播放，查清事情前不要再播。繼續演出對當事人不公平。",
+        "englishSha256": "3f4b0502315d916f0933ed11391472adfa5c1566e76a43e4f471564041db8a88",
+        "chineseSha256": "342d46ea995136d4a8b5e173376de0822bb81562e56def702114f34361383460"
+      },
+      {
+        "number": 2,
+        "en": "The seller, Mrs. Cho, was eating cereal behind her stall when they arrived. She wore one silver earring and had strong opinions about recordings. She said that the cut clip had turned a joke about her own scooter into a joke about a customer. “I was laughing at my old machine,” she explained, “not at the runner who helped me.” May wrote down the statement in plain words. Evan showed how the player operated, from the power button to the file list. They found that a student assistant had exported the wrong version. The problem was real even though no one had meant harm.",
+        "zh": "兩人抵達時，卓姨正在攤後吃麥片。她戴著一只銀耳環，對錄音有明確的看法。她說，被剪掉的片段把她嘲笑自己機車的笑話，變成了嘲笑一位顧客。「我是在笑自己的老機車，」她解釋，「不是在笑幫忙的跑者。」慧用平實的文字記下這段聲明。安澤示範播放機如何操作，從電源鍵一路到檔案清單。他們發現一位學生助理輸出了錯誤版本。雖然沒有人存心傷害，問題仍然是真實的。",
+        "englishSha256": "a1d8c1acba16e9983882adc09a0c781689323d18a6ce11bd0efe8b7fca906d4f",
+        "chineseSha256": "512cd82ad019090cead23b6a8df014340912494cbb87b25ef239d530a3f8d8fa"
+      },
+      {
+        "number": 3,
+        "en": "The assistant feared punishment from the university and asked whether they would report him to the government. May said the project had no reason to make such a threat. Their general duty was to fix the mistake, tell the truth, and prevent a repeat. Evan checked whether their small audio system could keep a clear record of each edit. It could not. He proposed a simple paper log as a temporary supply of evidence. Mrs. Cho agreed to let them continue with a corrected clip, but only after she heard the whole piece herself. Her yes was limited, not an open door.",
+        "zh": "學生助理擔心大學處分，還問兩人是否會向政府通報。慧說，計畫沒有理由拿這種話威脅他。他們的一般責任是修正錯誤、說清真相，並防止重演。安澤檢查這套小型聲音系統能否清楚記錄每一次剪輯，結果做不到。他提議暫時使用紙本修改紀錄，保留必要的證據。卓姨同意在自己先聽過完整版後，讓他們繼續播放修正版。她的同意有明確範圍，並不表示其他用途都可以。",
+        "englishSha256": "e287e9bdb3c21b91ef653de0235af61b442c15146ac16aece92fb6f8987153bd",
+        "chineseSha256": "4bde84e07e16dcaf4972505f47bd414d62375a0b0c302dc3dbf777fbef6c85de"
+      },
+      {
+        "number": 4,
+        "en": "A student from a liberal arts club suggested adding written words beside the sound, so visitors could understand the joke without guessing. May supported the idea. Evan liked it too, although he worried that a longer explanation would make the display less exciting. They tested both choices with people who had never visited the market. Several said the written context helped. A visitor mentioned that even a short nod could be misunderstood if a camera showed only half the action. May saw the lesson clearly: a recording was not the whole event, no matter how true its sounds were.",
+        "zh": "一位人文社團學生建議在聲音旁加上文字，讓訪客不用猜也能理解笑話。慧支持這個想法。安澤也喜歡，只是擔心說明過長，展示會不夠有趣。他們請從未逛過市場的人測試兩種版本。幾位訪客都說文字脈絡有幫助。有人提到，即使只是點頭，如果鏡頭只拍到一半，也可能被誤解。慧終於看清楚：錄音再真實，也不等於整件事情的全部。",
+        "englishSha256": "20c7279b09c47854604ee82f12c9ec34d703c579743f3a007e5c9ae55af28f9e",
+        "chineseSha256": "256f773b91ac417d4d0a83810522d043ebf05f7dc6775f02cccf4a52f57658c8"
+      },
+      {
+        "number": 5,
+        "en": "The assistant showed them his editing notes. He had been told to operate the player from a short list of approved files, but the file names looked almost the same. May resisted the urge to force him to give a quick apology in front of everyone. She asked instead what had made the mistake easy to make. He pointed to two buttons with identical labels. Evan said the labels should show the date and permission status, not only a title. They changed the list together and tested it with someone new. The new volunteer chose the correct file three times without help. Mrs. Cho came by to hear the result and said the joke sounded like hers again. May felt that a clear process could protect people better than an angry speech, though a sincere apology was still part of repairing the harm.",
+        "zh": "學生助理拿出剪輯筆記。他原本應照一小份核准清單操作播放機，但檔案名稱幾乎相同。慧忍住了強迫他當眾立刻道歉的衝動，改問是什麼讓錯誤如此容易發生。他指著兩個標籤一模一樣的按鈕。安澤說，標籤應包含日期與授權狀態，而不只是標題。三人一起改清單，再請新人測試。新志工連續三次都選對檔案。卓姨過來聽，說那個笑話終於又像自己說的了。慧覺得，清楚流程比憤怒演說更能保護人，雖然真誠道歉仍是彌補的一部分。",
+        "englishSha256": "196bd3d4d07208e51e3aad6df77866d6365dbcdfa709a070c464bb7d64b878e8",
+        "chineseSha256": "7557a54bbb4c199ed4375ae453764483df5b3cf4934274e28382d734417c2329"
+      },
+      {
+        "number": 6,
+        "en": "On their way home, Evan brought up the word partner. “We are working as partners,” he said, “but you should be able to question my work.” May agreed. She had watched him accept correction without turning angry, and that meant more than any promise of perfect work. He had also seen her choose to lose a day of progress rather than leave a person upset. They still argued about what belonged in the show, but now they had a way to argue safely. Tomorrow they would ask each seller what kind of context should travel with a voice.",
+        "zh": "回家路上，安澤提到「搭檔」一詞。「我們是工作夥伴，」他說，「但妳應該可以質疑我的作品。」慧同意。她看見他接受指正而沒有發怒，那比任何保證完美的話都重要。他也看見慧寧願失去一天進度，也不願讓當事人受委屈。他們仍會爭論展示該放什麼，但如今已找到安全爭論的方法。明天他們要問每位攤商，希望自己的聲音搭配什麼樣的說明。",
+        "englishSha256": "e418e54ae09d15e94212100159c159018185275fb916b5fddb78c5354115a31b",
+        "chineseSha256": "2a85055b7acf92fe8edb0226f37af263564d6ce8cfba31d21121761f068a263b"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 650,
+    "targets": [
+      {
+        "word": "attempt",
+        "meaning": "嘗試",
+        "appearsInSource": true
+      },
+      {
+        "word": "cause",
+        "meaning": "原因",
+        "appearsInSource": true
+      },
+      {
+        "word": "cereal",
+        "meaning": "麥片",
+        "appearsInSource": true
+      },
+      {
+        "word": "cheat",
+        "meaning": "作弊",
+        "appearsInSource": true
+      },
+      {
+        "word": "classmate",
+        "meaning": "同學",
+        "appearsInSource": true
+      },
+      {
+        "word": "cloudy",
+        "meaning": "陰天的",
+        "appearsInSource": true
+      },
+      {
+        "word": "continue",
+        "meaning": "繼續",
+        "appearsInSource": true
+      },
+      {
+        "word": "earring",
+        "meaning": "耳環",
+        "appearsInSource": true
+      },
+      {
+        "word": "entrance",
+        "meaning": "入口",
+        "appearsInSource": true
+      },
+      {
+        "word": "final",
+        "meaning": "最後的",
+        "appearsInSource": true
+      },
+      {
+        "word": "force",
+        "meaning": "逼迫",
+        "appearsInSource": true
+      },
+      {
+        "word": "general",
+        "meaning": "一般的",
+        "appearsInSource": true
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "appearsInSource": true
+      },
+      {
+        "word": "liberal",
+        "meaning": "人文學科的",
+        "appearsInSource": true
+      },
+      {
+        "word": "link",
+        "meaning": "連結到",
+        "appearsInSource": true
+      },
+      {
+        "word": "nod",
+        "meaning": "點頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "operate",
+        "meaning": "操作",
+        "appearsInSource": true
+      },
+      {
+        "word": "runner",
+        "meaning": "跑步者",
+        "appearsInSource": true
+      },
+      {
+        "word": "scooter",
+        "meaning": "機車",
+        "appearsInSource": true
+      },
+      {
+        "word": "supply",
+        "meaning": "補充物資",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What made Mrs. Cho sound unfair in the shared clip?",
+      "options": [
+        "A missing final sentence",
+        "An animal noise",
+        "A wrong picture"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A missing final sentence",
+      "existingAnswerExplanation": "剪掉後半句讓原本開自己機車玩笑的話被誤解。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A cloudy morning brought the first complaint. A classmate told May that a recording near the entrance made an older seller sound foolish. The student had not heard the whole piece; someone had shared a short clip online. Evan made an attempt to find its source. He could link the clip to their test file, but the final words had been cut away. “The cause may be a careless edit,” he said, “not an attempt to cheat.” May nodded, then asked him to stop the public player until they knew what had happened. Keeping the show open would not be fair to the speaker.",
+          "chinese": "陰雲密布的早晨帶來第一件申訴。一位同學告訴慧，入口處的錄音讓年長攤商聽起來很可笑。那名同學其實沒聽過完整內容，只看到有人在網路分享短片。安澤試著追查來源，發現它連到他們的試播檔，但最後一段話被剪掉了。「原因可能是粗心剪輯，」他說，「不一定是蓄意作弊。」慧點頭，請他先停止公開播放，查清事情前不要再播。繼續演出對當事人不公平。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "The seller, Mrs. Cho, was eating cereal behind her stall when they arrived. She wore one silver earring and had strong opinions about recordings. She said that the cut clip had turned a joke about her own scooter into a joke about a customer. “I was laughing at my old machine,” she explained, “not at the runner who helped me.” May wrote down the statement in plain words. Evan showed how the player operated, from the power button to the file list. They found that a student assistant had exported the wrong version. The problem was real even though no one had meant harm.",
+          "chinese": "兩人抵達時，卓姨正在攤後吃麥片。她戴著一只銀耳環，對錄音有明確的看法。她說，被剪掉的片段把她嘲笑自己機車的笑話，變成了嘲笑一位顧客。「我是在笑自己的老機車，」她解釋，「不是在笑幫忙的跑者。」慧用平實的文字記下這段聲明。安澤示範播放機如何操作，從電源鍵一路到檔案清單。他們發現一位學生助理輸出了錯誤版本。雖然沒有人存心傷害，問題仍然是真實的。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did May do while the team checked the complaint?",
+      "options": [
+        "She stopped public playback",
+        "She raised the volume",
+        "She blamed a stranger"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "She stopped public playback",
+      "existingAnswerExplanation": "查清問題前，慧先停止對外播放。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A cloudy morning brought the first complaint. A classmate told May that a recording near the entrance made an older seller sound foolish. The student had not heard the whole piece; someone had shared a short clip online. Evan made an attempt to find its source. He could link the clip to their test file, but the final words had been cut away. “The cause may be a careless edit,” he said, “not an attempt to cheat.” May nodded, then asked him to stop the public player until they knew what had happened. Keeping the show open would not be fair to the speaker.",
+          "chinese": "陰雲密布的早晨帶來第一件申訴。一位同學告訴慧，入口處的錄音讓年長攤商聽起來很可笑。那名同學其實沒聽過完整內容，只看到有人在網路分享短片。安澤試著追查來源，發現它連到他們的試播檔，但最後一段話被剪掉了。「原因可能是粗心剪輯，」他說，「不一定是蓄意作弊。」慧點頭，請他先停止公開播放，查清事情前不要再播。繼續演出對當事人不公平。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 3,
+          "english": "The assistant feared punishment from the university and asked whether they would report him to the government. May said the project had no reason to make such a threat. Their general duty was to fix the mistake, tell the truth, and prevent a repeat. Evan checked whether their small audio system could keep a clear record of each edit. It could not. He proposed a simple paper log as a temporary supply of evidence. Mrs. Cho agreed to let them continue with a corrected clip, but only after she heard the whole piece herself. Her yes was limited, not an open door.",
+          "chinese": "學生助理擔心大學處分，還問兩人是否會向政府通報。慧說，計畫沒有理由拿這種話威脅他。他們的一般責任是修正錯誤、說清真相，並防止重演。安澤檢查這套小型聲音系統能否清楚記錄每一次剪輯，結果做不到。他提議暫時使用紙本修改紀錄，保留必要的證據。卓姨同意在自己先聽過完整版後，讓他們繼續播放修正版。她的同意有明確範圍，並不表示其他用途都可以。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

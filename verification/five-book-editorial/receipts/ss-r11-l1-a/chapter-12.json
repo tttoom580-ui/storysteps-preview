@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 12,
+  "chapterId": "ss-r11-l1-a-12",
+  "sourceChapterSha256": "baf24ce37e2ab0a2130c95021d16b7702d46e9f3f21b671cf72b95076574de42",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "吹散的中英標籤需要核對；人與植物都需要空氣和水",
+    "previousChapterEndingEnglish": "That evening Ivy walked past a tree in the school yard. The wind moved its branches, and an old leaf fell near her shoe. She thought of the box and all the places it might have gone. Then she thought of Kai's words about the path. One problem had led them to see another. It was possible to care about both without solving either one that day. She wrote the next job on a new page: ask the driver to check the picture, and ask the school where the garden van had stopped.",
+    "nextChapterOpeningEnglish": "The school arranged a visit to the city garden center. A small gate stood beside a low wall. Outside it, a long rope showed where visitors could stand while workers moved heavy bags of soil. Ivy and Jun followed the rule. They saw a sign asking people to borrow tools only after writing their names. A worker said the garden had used that rule for years. “Our system is not difficult,” she said, “but everyone must use it the same way.” Ivy thought of the green box and wished the school had such a clear system."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A strong wind arrived before lunch. Ivy and Jun rode their bicycles to school, but walked the bikes through the busy gate. In the garden, paper labels flew off several seed cups. A girl in jeans picked them up and gave them to Ivy with a little bow. “These are not mine,” the girl said. Ivy thanked her. The writing was in two languages because children from different homes had helped make the labels. One label said that a plant needed only a little water. Another said it needed more.",
+        "zh": "午餐前，一陣強風來了。艾薇和俊騎腳踏車上學，但進入繁忙的校門時改用牽車。花園裡，好幾個種子杯上的紙標示被吹落。一位穿牛仔褲的女孩撿起標示，微微鞠躬後交給艾薇。「這些不是我的，」女孩說。艾薇向她道謝。標示用兩種語言寫成，因為不同家庭背景的孩子都參與製作。有一張寫著植物只需要少量水，另一張則說需要更多。",
+        "englishSha256": "707bc4683033fb5424320c178ee29c2d78b92be678e774a1381d5d77a3a7b0ac",
+        "chineseSha256": "523734a999059078180233cbd50eebe4d0a0b4e028373f3b24f058776774c2b7"
+      },
+      {
+        "number": 2,
+        "en": "Jun left his bicycle near the school gate and helped carry the windblown labels indoors. He said riding a bike was fun, but moving things in a strong wind needed a different kind of care. A girl asked why the words on her card were in another language. Ivy explained that people could share one garden while using different words at home. The human body needs clean air and water, and plants need those things too, though not in quite the same way. “Soon the wind will become lighter,” she hoped. They used strong paper instead of thin paper for the new labels.",
+        "zh": "俊把腳踏車停在校門附近，幫忙將被風吹走的標示搬進室內。他說騎車很好玩，但在強風中移動物品需要不同的細心。一個女孩問，為什麼她的卡片上有另一種語言。艾薇解釋，人們即使在家說不同的話，也能分享同一座花園。人體需要乾淨的空氣和水，植物也需要這些條件，只是需求和使用方式不完全相同。「希望風很快就會小一點，」她說。大家改用較厚的紙做新標示。",
+        "englishSha256": "8fbe317046d805fd4935121de8d24dbe2746a2aad60fd18e056c507aa15640e9",
+        "chineseSha256": "05220667d69ba938432217b8eca44fff381bc5ab1907bc91bca89e0787c2f875"
+      },
+      {
+        "number": 3,
+        "en": "The teacher said not to guess which label belonged to which cup. She asked the club to pick one cup at a time and compare it with their class notes. Jun said the first cup looked like a bean, so they checked the bean page. Ivy said that they should own their mistakes if they made any. “We can say we are not sure,” she reminded everyone. The wind was still moving the little leaves, and she wished they had a safe place for the cups. The missing green box would have helped.",
+        "zh": "老師說不要亂猜哪張標示屬於哪個杯子。她請社團一次拿一個杯子，對照班級筆記。俊說第一個杯子看起來像豆苗，他們便查豆子的那一頁。艾薇說，如果做錯了，大家應該承認錯誤。「我們可以說自己不確定，」她提醒大家。風仍吹動小葉子，艾薇希望杯子能有安全的地方存放。失蹤的綠箱子本來能幫上忙。",
+        "englishSha256": "33b3b4b703c2152c813dd3f6d7ef782baa8ca18ecfc6d0a22d22acce4203d43f",
+        "chineseSha256": "e1b748de3a2f4a36d2ec55a6e5096e672b3c72d24f888f05249a1031b12d88ff"
+      },
+      {
+        "number": 4,
+        "en": "During the second class, they learned that the wind came from the sea. The science teacher showed a picture of our planet with clouds around it. She said weather could change quickly in spring. That was why seeds needed more than one plan. Ivy wrote a wish for garden day: nobody would need to carry a wet cup across the yard alone. The teacher said there were some things they could not control, but they could prepare for a second chance if the weather changed.",
+        "zh": "第二堂課時，他們學到這陣風來自海上。科學老師展示一張地球和周圍雲層的照片，說春天天氣可能變化很快。這就是為什麼照顧種子不能只有一套計畫。艾薇寫下對花園日的願望：不必有人獨自抱著濕杯子走過整個庭院。老師說，有些事情他們無法控制，但如果天氣改變，仍可以為第二種做法預先準備。",
+        "englishSha256": "4dc367dce84e9f753b6a6efdfcf3d9ebba553b2a8e0bac77d2bb2eb9bb0e6dc7",
+        "chineseSha256": "a179803f741cdacf583374ac6b2540f0b095f54156b47b97bd72858e5de0694e"
+      },
+      {
+        "number": 5,
+        "en": "For lunch the children had warm soup with a little salt. Ms. Wen asked them to keep food away from the seed cups. Ivy thought it was a good rule: both plants and people needed safe places for their own things. She put the care cards in a clean folder until the garden's storage space was ready. Jun helped hold the door as each child carried a tray. Working slowly felt less exciting than chasing a lost box, but it was what the little plants needed.",
+        "zh": "午餐時，孩子們喝了加一點鹽的熱湯。溫老師請大家讓食物遠離種子杯。艾薇覺得這是好規則：植物和人都需要安全的地方放自己的東西。她把照顧卡放進乾淨資料夾，等花園儲物空間準備好再拿出來。每個孩子搬托盤時，俊都幫忙扶著門。慢慢工作沒有追查失物那麼刺激，卻正是小植物所需要的。",
+        "englishSha256": "c4ba6c7f7c42e8593469f7c6d2411b7cb5a6b484cc9e3df418e62249ec3e11b0",
+        "chineseSha256": "e3b50f6f73b267b7626db75dbb4537694a2f896a1565d8f9bc839c3609a2132a"
+      },
+      {
+        "number": 6,
+        "en": "After the last class Ms. Wen asked Ivy to say what they had learned. “We cannot know a seed just by looking once,” Ivy answered. “And a label that moves may tell the wrong story.” She said a second problem was that the box labels from the repair day might also have moved in the wind. Jun understood. If two groups used green boxes, a sign might have fallen from one and landed near another. They decided to ask the driver about pictures on the box rather than the words on a loose label.",
+        "zh": "最後一堂課後，溫老師請艾薇說出今天學到的事。「我們不能只看種子一次，就確定它是什麼，」艾薇回答，「會移動的標示也可能說錯故事。」她又說，維修那天箱子上的標示也可能被風吹動。俊明白了。如果兩個團體都用綠箱子，一張標示可能從這箱掉到另一箱旁。他們決定請司機辨認箱上的圖畫，而不是只看掉落的標籤文字。",
+        "englishSha256": "afd93fe140743fbe6ca3b9a3e6b966bd72f20c16456e6072f75f6ca64a775e29",
+        "chineseSha256": "19563978c8c05d1ed568d48750049f7c535d67b641767ead387c869849975bce"
+      },
+      {
+        "number": 7,
+        "en": "By evening the wind had become a soft breeze. Ivy placed the cups in a safe room and checked them a second time. She had wanted the work to be fast, but careful hands mattered more. Jun helped tie a string around the trays so they would not move on the table. They left room between the cups for air. Ivy looked at the small green leaves and smiled. The club still had a story to finish, and tomorrow might bring a new answer.",
+        "zh": "到了晚上，強風變成微風。艾薇把杯子移進安全的房間，又檢查了一次。她原本希望快點完成工作，現在卻知道細心的雙手更重要。俊用繩子固定托盤，避免它們在桌上滑動。大家在杯子之間留下空隙，讓空氣流通。艾薇看著小小的綠葉笑了。社團的故事還沒有結束，而明天可能帶來新的答案。",
+        "englishSha256": "341f37935f046f2223809b6720d8be70da72b6f70718323522a17f00b1291e3d",
+        "chineseSha256": "55ada85fdb020be94c8942ea7a550814ff8a29b0d949e3c10d44dd6fb3b107d2"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 635,
+    "targets": [
+      {
+        "word": "answer",
+        "meaning": "回答",
+        "appearsInSource": true
+      },
+      {
+        "word": "bicycle",
+        "meaning": "自行車",
+        "appearsInSource": true
+      },
+      {
+        "word": "body",
+        "meaning": "身體",
+        "appearsInSource": true
+      },
+      {
+        "word": "bow",
+        "meaning": "鞠躬",
+        "appearsInSource": true
+      },
+      {
+        "word": "jeans",
+        "meaning": "牛仔褲",
+        "appearsInSource": true
+      },
+      {
+        "word": "language",
+        "meaning": "語言",
+        "appearsInSource": true
+      },
+      {
+        "word": "mine",
+        "meaning": "我的",
+        "appearsInSource": true
+      },
+      {
+        "word": "of",
+        "meaning": "……的",
+        "appearsInSource": true
+      },
+      {
+        "word": "own",
+        "meaning": "自己的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pick",
+        "meaning": "撿起",
+        "appearsInSource": true
+      },
+      {
+        "word": "planet",
+        "meaning": "行星；地球",
+        "appearsInSource": true
+      },
+      {
+        "word": "salt",
+        "meaning": "鹽",
+        "appearsInSource": true
+      },
+      {
+        "word": "say",
+        "meaning": "說",
+        "appearsInSource": true
+      },
+      {
+        "word": "second",
+        "meaning": "第二堂／第二個",
+        "appearsInSource": true
+      },
+      {
+        "word": "so",
+        "meaning": "所以",
+        "appearsInSource": true
+      },
+      {
+        "word": "some",
+        "meaning": "一些",
+        "appearsInSource": true
+      },
+      {
+        "word": "Soon",
+        "meaning": "很快",
+        "appearsInSource": true
+      },
+      {
+        "word": "spring",
+        "meaning": "春天",
+        "appearsInSource": true
+      },
+      {
+        "word": "wind",
+        "meaning": "風",
+        "appearsInSource": true
+      },
+      {
+        "word": "wish",
+        "meaning": "希望",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the wind blow away?",
+      "options": [
+        "Labels from seed cups.",
+        "The school roof.",
+        "All the garden soil."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Labels from seed cups.",
+      "existingAnswerExplanation": "強風吹走了部分種子杯上的紙標示",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A strong wind arrived before lunch. Ivy and Jun rode their bicycles to school, but walked the bikes through the busy gate. In the garden, paper labels flew off several seed cups. A girl in jeans picked them up and gave them to Ivy with a little bow. “These are not mine,” the girl said. Ivy thanked her. The writing was in two languages because children from different homes had helped make the labels. One label said that a plant needed only a little water. Another said it needed more.",
+          "chinese": "午餐前，一陣強風來了。艾薇和俊騎腳踏車上學，但進入繁忙的校門時改用牽車。花園裡，好幾個種子杯上的紙標示被吹落。一位穿牛仔褲的女孩撿起標示，微微鞠躬後交給艾薇。「這些不是我的，」女孩說。艾薇向她道謝。標示用兩種語言寫成，因為不同家庭背景的孩子都參與製作。有一張寫著植物只需要少量水，另一張則說需要更多。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "For lunch the children had warm soup with a little salt. Ms. Wen asked them to keep food away from the seed cups. Ivy thought it was a good rule: both plants and people needed safe places for their own things. She put the care cards in a clean folder until the garden's storage space was ready. Jun helped hold the door as each child carried a tray. Working slowly felt less exciting than chasing a lost box, but it was what the little plants needed.",
+          "chinese": "午餐時，孩子們喝了加一點鹽的熱湯。溫老師請大家讓食物遠離種子杯。艾薇覺得這是好規則：植物和人都需要安全的地方放自己的東西。她把照顧卡放進乾淨資料夾，等花園儲物空間準備好再拿出來。每個孩子搬托盤時，俊都幫忙扶著門。慢慢工作沒有追查失物那麼刺激，卻正是小植物所需要的。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Ivy not guess where each label belonged?",
+      "options": [
+        "The plants needed correct care.",
+        "The labels were very expensive.",
+        "It was already night."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The plants needed correct care.",
+      "existingAnswerExplanation": "不同植物需要不同照顧方式，標示不能亂配",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The teacher said not to guess which label belonged to which cup. She asked the club to pick one cup at a time and compare it with their class notes. Jun said the first cup looked like a bean, so they checked the bean page. Ivy said that they should own their mistakes if they made any. “We can say we are not sure,” she reminded everyone. The wind was still moving the little leaves, and she wished they had a safe place for the cups. The missing green box would have helped.",
+          "chinese": "老師說不要亂猜哪張標示屬於哪個杯子。她請社團一次拿一個杯子，對照班級筆記。俊說第一個杯子看起來像豆苗，他們便查豆子的那一頁。艾薇說，如果做錯了，大家應該承認錯誤。「我們可以說自己不確定，」她提醒大家。風仍吹動小葉子，艾薇希望杯子能有安全的地方存放。失蹤的綠箱子本來能幫上忙。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "Jun left his bicycle near the school gate and helped carry the windblown labels indoors. He said riding a bike was fun, but moving things in a strong wind needed a different kind of care. A girl asked why the words on her card were in another language. Ivy explained that people could share one garden while using different words at home. The human body needs clean air and water, and plants need those things too, though not in quite the same way. “Soon the wind will become lighter,” she hoped. They used strong paper instead of thin paper for the new labels.",
+          "chinese": "俊把腳踏車停在校門附近，幫忙將被風吹走的標示搬進室內。他說騎車很好玩，但在強風中移動物品需要不同的細心。一個女孩問，為什麼她的卡片上有另一種語言。艾薇解釋，人們即使在家說不同的話，也能分享同一座花園。人體需要乾淨的空氣和水，植物也需要這些條件，只是需求和使用方式不完全相同。「希望風很快就會小一點，」她說。大家改用較厚的紙做新標示。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

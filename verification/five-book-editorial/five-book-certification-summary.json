@@ -1,0 +1,19 @@
+{
+  "reviewDate": "2026-11-14",
+  "summary": {
+    "booksApproved": 5,
+    "chaptersApproved": 125,
+    "bilingualParagraphsReviewed": 826,
+    "quizAnswersReviewed": 250,
+    "targetVocabularyItemsChecked": 2504,
+    "method": "GPT-6 AI editor, not independent human proofreader",
+    "receiptRoot": "verification/five-book-editorial/receipts"
+  },
+  "books": [
+    "tomorrow",
+    "ss-r10-l1-a",
+    "ss-r11-l1-a",
+    "ss-r2-l1-b",
+    "ss-r10-l2-b"
+  ]
+}

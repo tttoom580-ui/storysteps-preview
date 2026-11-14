@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 25,
+  "chapterId": "ss-r2-l1-b-25",
+  "sourceChapterSha256": "fc3016f9412d80eb725b6ef34b700dc56a3cb935d016181f5aa7b8d759408e25",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "豐收日共同慶賀，與村里續用紅屋一年，祖母木星象徵方向",
+    "previousChapterEndingEnglish": "Before leaving, Fia stood beside the wooden star and listened to the quiet village. She could almost hear all the voices that had passed through the red house: neighbors, children, travelers, workers, and friends. Each had helped her understand what the shop could be. Tomorrow was a celebration, but it was also a thank-you meal. The food would be simple. The people around the table would be the special part. She went home with a light heart and rested for the long, happy day ahead.",
+    "nextChapterOpeningEnglish": null
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The harvest morning was warm and bright. Fia was afraid she might forget something, so she opened her book and checked the list twice. Moss made bread, Pip prepared fruit, and Kit helped carry clean plates. A little cat arrived with a doll in a red skirt. She wanted to sit near the window where she could see the star above the door. Fia helped her find a comfortable place. \"Are you able to see it from here?\" she asked. The cat nodded. \"Yes. I think it looks like a star on a map.\" Fia smiled, because that was just what her grandmother had wanted.",
+        "zh": "豐收餐的早晨溫暖而明亮。菲雅害怕忘事，便打開本子，把清單檢查了兩次。莫斯做麵包，皮普準備水果，基特幫忙搬乾淨盤子。一隻小貓抱著穿紅裙子的洋娃娃來了，想坐在能看見門上星星的窗邊。菲雅替她找到舒服的位置。「從這裡看得見嗎？」她問。小貓點頭。「看得見，好像地圖上的星星。」菲雅微笑，因為祖母當年正希望那星星能指引方向。",
+        "englishSha256": "269e2aca434e47add8202a427bdfe12e699d8739d815ffe61532cdba6ef87542",
+        "chineseSha256": "ec7d5c014ebf56142d9bf58d186111af74de7669bbebbd502b82e4eb5d1640d2"
+      },
+      {
+        "number": 2,
+        "en": "The guests came from all parts of the village. Edda sat with Grandfather Oak. Toma brought his road team, and Mrs. Fern came with her family. Rowan returned for the meal before going on a trip to the coast. He had helped his mother's old friend and was ready to visit another town. \"I may travel by ship next week,\" he said. \"But sometimes I will come back to this village.\" Fia told him he was always welcome when the shop was open. She did not ask him to stay. Friends could live far away and still remember one another.",
+        "zh": "客人從村子的各處來。艾達和奧克爺爺同桌，托馬帶了修路團隊，芬恩太太則與家人同行。羅文在去海邊旅行前也回來吃飯。他已幫過母親的老朋友，準備拜訪另一座城鎮。「下星期我也許坐船去，」他說，「不過有時我會再回村子。」菲雅說只要店開著，都歡迎他。她沒有要求他留下。朋友即使住得很遠，仍能記得彼此。",
+        "englishSha256": "c32cd633edfe322adae8f3064fb3a3f3f6450be501a43c770a5199d719965606",
+        "chineseSha256": "140299bb7f924856fa90e6762606bb3934952d5838d93c123c3f12b8bffbe672"
+      },
+      {
+        "number": 3,
+        "en": "After everyone had eaten, Edda stood beside the wooden star. She asked Fia whether the village might allow the shop to use the red house for another year. \"The village will keep caring for the building,\" Edda said. \"Your team will keep running the shop. We can look at the plan together each season.\" Fia felt a strong interest in making that promise, but she read the paper first. It was clear about the work, the time, and who would care for repairs. She thanked Edda and agreed. The house did not become hers alone. It stayed a place where people shared care and responsibility.",
+        "zh": "大家吃完後，艾達站在木星星旁，問菲雅願不願讓村子再同意早餐店使用紅屋一年。「村子會繼續照顧建築，」艾達說，「妳的團隊繼續經營早餐店。每個季節我們一起檢查計畫。」菲雅很想答應，但先把文件讀清楚。上面清楚寫著工作、期限與修繕責任。她謝過艾達，簽下約定。房屋沒有成為她一人的財產，而是持續成為人們共同照顧、共同負責的地方。",
+        "englishSha256": "e475132be4a0ab8f4aece75c4f52a8052fa9a1eb03c36d88ac6b8810adf5082f",
+        "chineseSha256": "6c6dd0356ec0a6e4b0d8b8dddc6feb16615f76a23364f519899a5fbda4b3d11e"
+      },
+      {
+        "number": 4,
+        "en": "Pip gave everyone a tiny pack of seeds. Moss showed the children how to roll a little piece of bread without touching the hot oven. Toma told a short story about the storm, and Ben the elephant laughed when he heard his own part. Nobody called one person the hero. The work had belonged to many hands. Fia looked at the faces around the table. She remembered the first morning when the house was empty and she had only a camera and a hope. Now there were friends, safe chairs, fresh food, and room for people to be heard.",
+        "zh": "皮普給每人一小包種子。莫斯教孩子不用碰熱烤爐，也能把小塊麵團搓成圓形。托馬說起暴風雨的故事，大象班聽見自己的部分時笑了。沒人說某一個人是英雄，因為工作屬於許多雙手。菲雅看著桌邊的臉，想起最初屋子空空的早晨，她只有相機和一份希望。現在這裡有朋友、安全的椅子、新鮮食物，以及能讓人說話的空間。",
+        "englishSha256": "37d22da5a6ecd30f3984bfb466ee56d4e9043a89cbc69052f26db2b68023a001",
+        "chineseSha256": "b25d7900b96d0c85712087b1dbb139fbf63cbb5e8109a725c5c95d36a1d1dadc"
+      },
+      {
+        "number": 5,
+        "en": "Near sunset, the guests began to say goodbye. Rowan waved from the road. The little cat carried her doll home. The workers cleaned the tables, made the floor tidy, and packed the food that could safely be kept. Fia read the last line in her book: \"A good place is made each day.\" She thought it was the right word for their work: made. A good shop was not something they found ready in an empty house. They had made it by asking, listening, fixing, resting, and trying again. That was why the small room now felt full of life. Before leaving, Fia wanted to thank every helper by name. She did not have a great gift, but her words were true, and people smiled when they heard them.",
+        "zh": "接近日落，客人開始道別。羅文在路上揮手，小貓抱著洋娃娃回家。工作者擦桌、整理地板，把能安全保存的食物收好。菲雅讀著本子最後一行：「好地方是每天做出來的。」她覺得「做出來」最適合這份工作。好的店不是一打開空屋就準備好了，而是靠大家不斷提問、傾聽、修理、休息與再試一次，才慢慢形成。因此這個小房間現在才如此充滿生命。 離開前，菲雅想逐一叫名字感謝每位幫手。她沒有珍貴大禮，但話語真誠，聽見的人都笑了。",
+        "englishSha256": "bfc358a1f5030078b499b60f7e3b6a7781c2a9acb8d769bc35d280072f9b762e",
+        "chineseSha256": "833cd7a2c02638d14cd13aeb3fe63fe157b0e84bd8e0e5681af3aca94a67a012"
+      },
+      {
+        "number": 6,
+        "en": "Fia stood at the red door with Moss and Pip. The wooden star shone softly in the last light. \"Will we be here next year?\" Pip asked. Fia looked at the clean tables and at the garden beyond them. \"We have a plan for another year,\" she answered. \"We will need to keep learning.\" Moss smiled. \"And we will have breakfast tomorrow.\" They laughed, shut the door, and walked home together. The star could not make bread, stop a storm, or choose for anyone. It only showed the way to a door. The people had learned how to open it.",
+        "zh": "菲雅和莫斯、皮普站在紅門旁，木星星在最後的光裡柔柔發亮。「明年我們還會在這裡嗎？」皮普問。菲雅看著乾淨桌子和後面的花園。「我們有下一年的計畫，」她回答，「也要繼續學。」莫斯笑著說：「而且明天還有早餐。」大家笑了，關門一起回家。星星不會做麵包、不會阻止暴風雨，也不會替任何人作選擇；它只是指出一扇門的方向。而人們已經學會如何打開它。",
+        "englishSha256": "b98e9f7e11246aebbcce2520147be39f2973aa98ee789b7a9c7e06cdd05161f7",
+        "chineseSha256": "9c98f9517549102f88b98adb5637cddab798cfc0c96d966caf4e6d2f3eade33e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 638,
+    "targets": [
+      {
+        "word": "able",
+        "meaning": "能夠",
+        "appearsInSource": true
+      },
+      {
+        "word": "afraid",
+        "meaning": "害怕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "allow",
+        "meaning": "允許",
+        "appearsInSource": true
+      },
+      {
+        "word": "cat",
+        "meaning": "貓",
+        "appearsInSource": true
+      },
+      {
+        "word": "comfortable",
+        "meaning": "舒服的",
+        "appearsInSource": true
+      },
+      {
+        "word": "doll",
+        "meaning": "洋娃娃",
+        "appearsInSource": true
+      },
+      {
+        "word": "for",
+        "meaning": "為了",
+        "appearsInSource": true
+      },
+      {
+        "word": "goodbye",
+        "meaning": "再見",
+        "appearsInSource": true
+      },
+      {
+        "word": "interest",
+        "meaning": "興趣",
+        "appearsInSource": true
+      },
+      {
+        "word": "live",
+        "meaning": "生活",
+        "appearsInSource": true
+      },
+      {
+        "word": "map",
+        "meaning": "地圖",
+        "appearsInSource": true
+      },
+      {
+        "word": "pack",
+        "meaning": "打包",
+        "appearsInSource": true
+      },
+      {
+        "word": "ship",
+        "meaning": "船",
+        "appearsInSource": true
+      },
+      {
+        "word": "skirt",
+        "meaning": "裙子",
+        "appearsInSource": true
+      },
+      {
+        "word": "sometimes",
+        "meaning": "有時",
+        "appearsInSource": true
+      },
+      {
+        "word": "thank",
+        "meaning": "感謝",
+        "appearsInSource": true
+      },
+      {
+        "word": "tidy",
+        "meaning": "整齊的",
+        "appearsInSource": true
+      },
+      {
+        "word": "trip",
+        "meaning": "旅行",
+        "appearsInSource": true
+      },
+      {
+        "word": "twice",
+        "meaning": "兩次",
+        "appearsInSource": true
+      },
+      {
+        "word": "week",
+        "meaning": "星期",
+        "appearsInSource": true
+      },
+      {
+        "word": "word",
+        "meaning": "字詞",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What agreement does Fia make with Edda?",
+      "options": [
+        "Use the house another year with shared responsibilities",
+        "Buy the village alone",
+        "Close the shop forever"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Use the house another year with shared responsibilities",
+      "existingAnswerExplanation": "雙方同意再使用紅屋一年，並維持清楚的維護與經營責任。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "After everyone had eaten, Edda stood beside the wooden star. She asked Fia whether the village might allow the shop to use the red house for another year. \"The village will keep caring for the building,\" Edda said. \"Your team will keep running the shop. We can look at the plan together each season.\" Fia felt a strong interest in making that promise, but she read the paper first. It was clear about the work, the time, and who would care for repairs. She thanked Edda and agreed. The house did not become hers alone. It stayed a place where people shared care and responsibility.",
+          "chinese": "大家吃完後，艾達站在木星星旁，問菲雅願不願讓村子再同意早餐店使用紅屋一年。「村子會繼續照顧建築，」艾達說，「妳的團隊繼續經營早餐店。每個季節我們一起檢查計畫。」菲雅很想答應，但先把文件讀清楚。上面清楚寫著工作、期限與修繕責任。她謝過艾達，簽下約定。房屋沒有成為她一人的財產，而是持續成為人們共同照顧、共同負責的地方。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 6,
+          "english": "Fia stood at the red door with Moss and Pip. The wooden star shone softly in the last light. \"Will we be here next year?\" Pip asked. Fia looked at the clean tables and at the garden beyond them. \"We have a plan for another year,\" she answered. \"We will need to keep learning.\" Moss smiled. \"And we will have breakfast tomorrow.\" They laughed, shut the door, and walked home together. The star could not make bread, stop a storm, or choose for anyone. It only showed the way to a door. The people had learned how to open it.",
+          "chinese": "菲雅和莫斯、皮普站在紅門旁，木星星在最後的光裡柔柔發亮。「明年我們還會在這裡嗎？」皮普問。菲雅看著乾淨桌子和後面的花園。「我們有下一年的計畫，」她回答，「也要繼續學。」莫斯笑著說：「而且明天還有早餐。」大家笑了，關門一起回家。星星不會做麵包、不會阻止暴風雨，也不會替任何人作選擇；它只是指出一扇門的方向。而人們已經學會如何打開它。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does the wooden star mean at the end?",
+      "options": [
+        "It shows a way but people choose to help",
+        "It makes food by magic",
+        "It controls the rain"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It shows a way but people choose to help",
+      "existingAnswerExplanation": "星星象徵方向，真正的改變來自人的選擇與合作。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Fia stood at the red door with Moss and Pip. The wooden star shone softly in the last light. \"Will we be here next year?\" Pip asked. Fia looked at the clean tables and at the garden beyond them. \"We have a plan for another year,\" she answered. \"We will need to keep learning.\" Moss smiled. \"And we will have breakfast tomorrow.\" They laughed, shut the door, and walked home together. The star could not make bread, stop a storm, or choose for anyone. It only showed the way to a door. The people had learned how to open it.",
+          "chinese": "菲雅和莫斯、皮普站在紅門旁，木星星在最後的光裡柔柔發亮。「明年我們還會在這裡嗎？」皮普問。菲雅看著乾淨桌子和後面的花園。「我們有下一年的計畫，」她回答，「也要繼續學。」莫斯笑著說：「而且明天還有早餐。」大家笑了，關門一起回家。星星不會做麵包、不會阻止暴風雨，也不會替任何人作選擇；它只是指出一扇門的方向。而人們已經學會如何打開它。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 3,
+          "english": "After everyone had eaten, Edda stood beside the wooden star. She asked Fia whether the village might allow the shop to use the red house for another year. \"The village will keep caring for the building,\" Edda said. \"Your team will keep running the shop. We can look at the plan together each season.\" Fia felt a strong interest in making that promise, but she read the paper first. It was clear about the work, the time, and who would care for repairs. She thanked Edda and agreed. The house did not become hers alone. It stayed a place where people shared care and responsibility.",
+          "chinese": "大家吃完後，艾達站在木星星旁，問菲雅願不願讓村子再同意早餐店使用紅屋一年。「村子會繼續照顧建築，」艾達說，「妳的團隊繼續經營早餐店。每個季節我們一起檢查計畫。」菲雅很想答應，但先把文件讀清楚。上面清楚寫著工作、期限與修繕責任。她謝過艾達，簽下約定。房屋沒有成為她一人的財產，而是持續成為人們共同照顧、共同負責的地方。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

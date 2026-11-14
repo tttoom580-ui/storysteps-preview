@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 14,
+  "chapterId": "ss-r10-l2-b-14",
+  "sourceChapterSha256": "deda3b0a3cfa0600ebb34187e7ec14b179bc3a7453b1d5c77520961066d3bbbe",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "公開辯論最終檔案授權及可撤回但無法控制他人副本",
+    "previousChapterEndingEnglish": "That evening, Evan asked May if she still wanted to go to the book fair with him. She said yes, and they agreed to leave the project notebooks at home. She was curious whether he could speak for two hours without explaining a microphone. “I can,” he said. “I might need to explain one book cover, though.” She laughed. Their plans were simple, and neither spoke about romance. Still, as they chose a meeting time, May felt her heart move toward something she had not yet named.",
+    "nextChapterOpeningEnglish": "At the next fair, the team opened a small quiet room beside the main hall. Its ceiling had been checked, the lane outside was clear, and a nearby refrigerator held water and fruit for volunteers. Mrs. Fen brought mango slices, while another seller offered pork buns. The students cheered when the first visitors arrived, but May reminded them that the room's purpose was to give everyone an equal chance to choose what to hear. Some wanted lively calls from the market; others preferred a silent chair. Both choices were fair. Altogether, it was a better beginning than the larger room the sponsor had offered."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The first public debate about the project was held in a college classroom. Students from the southern campus asked whether the recordings would be useful beyond one festival. Others worried about the difference between an edited story and an honest one. May had prepared an essay with every important detail, but she put it aside and began with a simple conversation: “If this were your grandmother's voice, who should decide how it is used?” The room fell quiet. Evan stood by the electric player, ready to show how a short cut could change the ending of a tale.",
+        "zh": "第一場公開辯論在大學教室舉行。南校區學生問錄音能否在一場活動之後仍有價值。其他人擔心剪輯故事與誠實呈現之間的差別。慧準備了一篇寫滿重要細節的短文，卻先把它放下，以簡單問題開始談話：「如果這是你祖母的聲音，應該由誰決定如何使用？」教室安靜下來。安澤站在電動播放機旁，準備示範短短一段剪接如何改變故事結尾。",
+        "englishSha256": "2b36fd06455fce6e5916016a8be45731caab9f92e11eaddbc678f5fb5bd75b15",
+        "chineseSha256": "d816a55b3109cdf150c136cea4b4a133b0ba4b2813523120cae34d6971ab6c21"
+      },
+      {
+        "number": 2,
+        "en": "One student wore a football shirt and argued that an audience could decide for itself. Another wore a mask because of a cold and said she wanted written words as well as sound. Evan produced two versions of the same recording. In the first, a shopkeeper sounded angry; in the second, the next sentence showed that he was joking with a friend. The difference was clear. May said the team would seek permission for the final version, not just the raw file. Each recording would also carry a stamp showing when it had been approved and which uses were suitable.",
+        "zh": "一名穿足球衫的學生說，觀眾可以自行判斷。另一位因感冒戴口罩的學生表示，她希望除了聲音也有文字。安澤播放同一份錄音的兩個版本：第一版聽起來像店主生氣了，第二版多出下一句，顯示他是在和朋友開玩笑。差異非常明顯。慧說，團隊會針對最終版本徵求同意，不只徵求原始檔授權。每份錄音也會附上核准日期與使用範圍的標記。",
+        "englishSha256": "78b7ff845a57935cb7ae8b463c7b751822dd7328bc9597441b14abdb38d61a43",
+        "chineseSha256": "986928b1aac1a5f7a2f8dae21af19c77aad1f40b6ded437b5d6788582d062997"
+      },
+      {
+        "number": 3,
+        "en": "The debate grew heated when someone asked about the money due for the recording work. Evan explained that the students were volunteers but that professional repair and storage had costs. May added that they would publish a simple account of expenses. A student asked how a person could remove a recording if it had already been copied elsewhere. They could not promise perfect control of every copy, she admitted, which was why they would not allow public downloads without separate permission. They could remove the files they managed and answer requests through a named contact. The honest limit made the room listen more closely.",
+        "zh": "有人問錄音工作應支付的費用，辯論因此變得激烈。安澤說學生是志工，但專業修復和儲存仍有成本。慧補充，他們會公開簡單支出紀錄。另一位學生問，若錄音早被別人複製，撤回該怎麼辦。慧承認，他們不可能保證控制每一份外流副本，因此沒有另外取得許可，就不開放公開下載。團隊能刪除自己管理的檔案，並由指定窗口回覆請求。誠實說出限制，反而讓全場更加專心。",
+        "englishSha256": "8585a8459ec2ff11cf06d04d35eef4a2d216fa72c57ded8e5475104cb718dde9",
+        "chineseSha256": "20b3fa8b41783596132b2e06a1abf80e09692e6729aa2e976eba74cd07d53b09"
+      },
+      {
+        "number": 4,
+        "en": "During the break, May helped a visitor whose bag had caught on a chair near her waist. He had a small wound on one hand and asked for water. She found the first-aid volunteer rather than trying to treat him herself. Evan weighed the display board to see whether it could be moved safely to the side wall. These practical acts gave them a moment away from argument. “You make difficult questions feel less frightening,” he told her. She answered that he made their answers stronger by refusing to hide the hard parts.",
+        "zh": "休息時，一位訪客的袋子在腰旁勾住椅子，慧過去幫忙。他手上有個小傷口，想喝水。慧找來急救志工，而不是自行處理。安澤則替展示板秤重，確認能否安全移到側牆。這些實際工作讓他們短暫離開爭論。「妳讓困難問題不那麼可怕，」他告訴她。慧說，他願意正視難處，才讓兩人的答案更有力量。",
+        "englishSha256": "330ce4188ef319d876a5b9a38fed2db8f8719e005f03a738b10db0b6db895785",
+        "chineseSha256": "2d86352c03bf875e0149017961608fbf8479cb41a88924aaaa053dc0f987e824"
+      },
+      {
+        "number": 5,
+        "en": "The teachers asked Evan to produce a small guide that could be used by another club without his help. He started with a list of buttons, but May reminded him to describe the reason behind each step. If someone heard a complaint, they needed to know when to stop a recording, how to record the request, and whose decision carried weight. Evan rewrote the guide in the order a new volunteer would use it. Then they asked a first-year student to follow it with a harmless practice file. She paused at one unclear instruction, so they changed it. The test took longer than they expected, but the guide became easier to use. May said that rules were only useful if ordinary people could follow them on a tired evening. Evan agreed and placed a paper copy by the door rather than hiding it in a folder only he understood.",
+        "zh": "老師請安澤做一份簡短指南，讓其他社團不靠他也能操作。他原本列出按鈕清單，慧提醒他還要解釋每一步的理由。收到申訴時，志工需知道何時停止播放、如何紀錄要求，以及誰的決定有分量。安澤按照新人實際使用的順序重寫，再請一年級學生用無害測試檔照著做。她在一項不清楚的指示前停住，他們便修改。測試比預想久，指南卻更好用。慧說，規則必須連疲倦夜晚的普通人也能遵守才有意義。安澤同意，將紙本放在門旁，而非藏進只有他看得懂的資料夾。",
+        "englishSha256": "5c6f416c5dfda90acfe73c110ef2189e625999af1f9b6252fb710613e264029b",
+        "chineseSha256": "1883cab8635b9459958362464cbde76ba9343fb6e9dd098b9199f57f91edfa76"
+      },
+      {
+        "number": 6,
+        "en": "The meeting ended without a single perfect answer, but the committee voted to continue the project under clearer conditions. May packed her notes, surprised that she felt hopeful instead of tired. Evan asked whether she wanted to walk home together. She said yes. At the crossing he stopped, looked at her, and asked, “May I hold your hand?” She smiled at the careful question. “Yes, for the walk home,” she answered. He took her hand lightly. The answer did not need to last forever to be real tonight.",
+        "zh": "會議沒有得到一個完美答案，但委員會投票通過在更明確的條件下繼續計畫。慧收好筆記，驚訝自己感到希望而非疲憊。安澤問她要不要一起走回家，她說好。到了路口，他停下來問：「我可以牽妳的手嗎？」慧因這個謹慎的提問而微笑。「可以，今天走回家的路上，」她回答。他輕輕握住她的手。這個答案不必保證永遠，今晚依然真實。",
+        "englishSha256": "ef13d7680d2bce3c75afa1a977abf80f55ec944ec22f18d05730917b91286cdf",
+        "chineseSha256": "98161fb1334795a752732bff7d492928212505f53e8db202cb0673edb089035a"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 632,
+    "targets": [
+      {
+        "word": "beyond",
+        "meaning": "超過",
+        "appearsInSource": true
+      },
+      {
+        "word": "conversation",
+        "meaning": "對話",
+        "appearsInSource": true
+      },
+      {
+        "word": "debate",
+        "meaning": "辯論",
+        "appearsInSource": true
+      },
+      {
+        "word": "detail",
+        "meaning": "細節",
+        "appearsInSource": true
+      },
+      {
+        "word": "difference",
+        "meaning": "差異",
+        "appearsInSource": true
+      },
+      {
+        "word": "due",
+        "meaning": "應支付的",
+        "appearsInSource": true
+      },
+      {
+        "word": "electric",
+        "meaning": "電動的",
+        "appearsInSource": true
+      },
+      {
+        "word": "ending",
+        "meaning": "結尾",
+        "appearsInSource": true
+      },
+      {
+        "word": "essay",
+        "meaning": "短文",
+        "appearsInSource": true
+      },
+      {
+        "word": "football",
+        "meaning": "足球",
+        "appearsInSource": true
+      },
+      {
+        "word": "mask",
+        "meaning": "口罩",
+        "appearsInSource": true
+      },
+      {
+        "word": "produce",
+        "meaning": "產生",
+        "appearsInSource": true
+      },
+      {
+        "word": "seek",
+        "meaning": "尋求",
+        "appearsInSource": true
+      },
+      {
+        "word": "southern",
+        "meaning": "南側的",
+        "appearsInSource": true
+      },
+      {
+        "word": "stamp",
+        "meaning": "印章",
+        "appearsInSource": true
+      },
+      {
+        "word": "suitable",
+        "meaning": "合適的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tale",
+        "meaning": "故事",
+        "appearsInSource": true
+      },
+      {
+        "word": "waist",
+        "meaning": "腰部",
+        "appearsInSource": true
+      },
+      {
+        "word": "weight",
+        "meaning": "重量",
+        "appearsInSource": true
+      },
+      {
+        "word": "wound",
+        "meaning": "傷口",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the two edited versions show?",
+      "options": [
+        "A short cut could change a speaker's meaning",
+        "All clips sounded identical",
+        "Quiet stories were always false"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A short cut could change a speaker's meaning",
+      "existingAnswerExplanation": "同一錄音剪掉後句，就可能把玩笑聽成怒罵。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The first public debate about the project was held in a college classroom. Students from the southern campus asked whether the recordings would be useful beyond one festival. Others worried about the difference between an edited story and an honest one. May had prepared an essay with every important detail, but she put it aside and began with a simple conversation: “If this were your grandmother's voice, who should decide how it is used?” The room fell quiet. Evan stood by the electric player, ready to show how a short cut could change the ending of a tale.",
+          "chinese": "第一場公開辯論在大學教室舉行。南校區學生問錄音能否在一場活動之後仍有價值。其他人擔心剪輯故事與誠實呈現之間的差別。慧準備了一篇寫滿重要細節的短文，卻先把它放下，以簡單問題開始談話：「如果這是你祖母的聲音，應該由誰決定如何使用？」教室安靜下來。安澤站在電動播放機旁，準備示範短短一段剪接如何改變故事結尾。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "One student wore a football shirt and argued that an audience could decide for itself. Another wore a mask because of a cold and said she wanted written words as well as sound. Evan produced two versions of the same recording. In the first, a shopkeeper sounded angry; in the second, the next sentence showed that he was joking with a friend. The difference was clear. May said the team would seek permission for the final version, not just the raw file. Each recording would also carry a stamp showing when it had been approved and which uses were suitable.",
+          "chinese": "一名穿足球衫的學生說，觀眾可以自行判斷。另一位因感冒戴口罩的學生表示，她希望除了聲音也有文字。安澤播放同一份錄音的兩個版本：第一版聽起來像店主生氣了，第二版多出下一句，顯示他是在和朋友開玩笑。差異非常明顯。慧說，團隊會針對最終版本徵求同意，不只徵求原始檔授權。每份錄音也會附上核准日期與使用範圍的標記。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did the team limit public downloads?",
+      "options": [
+        "They could not control every copied file",
+        "They disliked computers",
+        "The hall had no windows"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They could not control every copied file",
+      "existingAnswerExplanation": "團隊無法控制所有外流副本，因此公開下載需另外授權。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The debate grew heated when someone asked about the money due for the recording work. Evan explained that the students were volunteers but that professional repair and storage had costs. May added that they would publish a simple account of expenses. A student asked how a person could remove a recording if it had already been copied elsewhere. They could not promise perfect control of every copy, she admitted, which was why they would not allow public downloads without separate permission. They could remove the files they managed and answer requests through a named contact. The honest limit made the room listen more closely.",
+          "chinese": "有人問錄音工作應支付的費用，辯論因此變得激烈。安澤說學生是志工，但專業修復和儲存仍有成本。慧補充，他們會公開簡單支出紀錄。另一位學生問，若錄音早被別人複製，撤回該怎麼辦。慧承認，他們不可能保證控制每一份外流副本，因此沒有另外取得許可，就不開放公開下載。團隊能刪除自己管理的檔案，並由指定窗口回覆請求。誠實說出限制，反而讓全場更加專心。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 1,
+          "english": "The first public debate about the project was held in a college classroom. Students from the southern campus asked whether the recordings would be useful beyond one festival. Others worried about the difference between an edited story and an honest one. May had prepared an essay with every important detail, but she put it aside and began with a simple conversation: “If this were your grandmother's voice, who should decide how it is used?” The room fell quiet. Evan stood by the electric player, ready to show how a short cut could change the ending of a tale.",
+          "chinese": "第一場公開辯論在大學教室舉行。南校區學生問錄音能否在一場活動之後仍有價值。其他人擔心剪輯故事與誠實呈現之間的差別。慧準備了一篇寫滿重要細節的短文，卻先把它放下，以簡單問題開始談話：「如果這是你祖母的聲音，應該由誰決定如何使用？」教室安靜下來。安澤站在電動播放機旁，準備示範短短一段剪接如何改變故事結尾。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

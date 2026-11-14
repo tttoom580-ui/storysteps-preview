@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 24,
+  "chapterId": "ss-r2-l1-b-24",
+  "sourceChapterSha256": "ecf25d9966ed9b9ec6048bb5aa1d8799daade7283fb85634bb66a05fcbaa075e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "翌日豐收餐準備，食材按實際需求，員工可休息",
+    "previousChapterEndingEnglish": "Before closing, Fia took one last look at the wall. A child had written three words under a star: \"We help together.\" The letters were not perfect, but the meaning was clear. Fia left the paper where everyone could see it. She thought about all the different things that had happened since she first opened the empty house. Some days had been easy, others hard. Each had taught a lesson. Tomorrow they would prepare for the harvest meal, and the stars would stay on the wall to welcome every visitor who came through the red door.",
+    "nextChapterOpeningEnglish": "The harvest morning was warm and bright. Fia was afraid she might forget something, so she opened her book and checked the list twice. Moss made bread, Pip prepared fruit, and Kit helped carry clean plates. A little cat arrived with a doll in a red skirt. She wanted to sit near the window where she could see the star above the door. Fia helped her find a comfortable place. \"Are you able to see it from here?\" she asked. The cat nodded. \"Yes. I think it looks like a star on a map.\" Fia smiled, because that was just what her grandmother had wanted."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The day before the harvest meal, Pip took Fia to a small hill behind the village. They walked carefully past a row of carrots. The ground was soft from the old rain, and Fia almost put one foot in a muddy hole. Pip held out a hand. \"Take this way,\" he said, pointing to a dry path. Fia was glad to follow. A small insect sat on her jacket, and she moved it onto a leaf. The day was hot, but the wind from the pond helped. On the pond was a tiny island where birds rested. Fia stopped to look at it before they went back to work.",
+        "zh": "豐收餐前一天，皮普帶菲雅到村後的小山。兩人小心經過一排胡蘿蔔。地面仍因先前的雨而鬆軟，菲雅差點一腳踩進泥洞。皮普伸手說：「走這邊。」他指向乾燥小路，菲雅很高興能跟著。她外套上停了小昆蟲，她把牠放回葉子。天氣炎熱，池塘吹來的風卻很舒服。池塘有座小小的島，是鳥兒休息的地方。兩人回去工作前，菲雅停下來望了一會兒。",
+        "englishSha256": "660fac2c1958ac351db5e2a4e2b7590beb7a2d1a46b3d46ffb7a969e3a783084",
+        "chineseSha256": "6f08075398e24681087967819f19ed16e985d2ba01b32a070c35fad3b852c62d"
+      },
+      {
+        "number": 2,
+        "en": "At the farm, Kit's mother showed them the fresh food. \"You may buy carrots and eggs for the meal,\" she said, \"but please take only what you will use.\" Fia agreed. She had learned to plan around real numbers. Pip chose the carrots, and Fia counted the eggs. They put each kind of food in its own clean box. Then they checked the time for the next morning. The meal would be special, but the kitchen rules would not change. They still needed to wash their hands, keep the food fresh, and tell guests what was in each dish. They stayed careful with the carrot boxes and tried to plan for zero food waste, although they knew small changes might still be needed.",
+        "zh": "到農場後，基特的母親展示新鮮食物。「你們可以買胡蘿蔔和雞蛋做餐，」她說，「但請只拿會用到的量。」菲雅同意，她已學會按真實數字規劃。皮普選胡蘿蔔，菲雅數雞蛋，再把不同食材放進各自乾淨的盒子。他們確認明早時間。這餐雖特別，廚房規則卻不會改：仍要洗手、保持食物新鮮，也要告訴客人每道餐點用了什麼。 他們小心處理胡蘿蔔箱子，努力朝零食物浪費的目標安排，雖然也明白仍可能需要微調。",
+        "englishSha256": "6b2bfc9770a4ff26b0486f6e434853e984e5ca00d0da218b97b58ab738210e30",
+        "chineseSha256": "841e2acd149402cff457f24a43c39c5961bbf3d47b79ec3e2b216c931c2eb535"
+      },
+      {
+        "number": 3,
+        "en": "Back at the shop, Moss had written a list of jobs and put a small pin beside the most important one. First they would clean the table. Next they would prepare bread. Then they would cook the carrots. Fia checked the plan with him. \"We should not make too much hot food before people arrive,\" she said. \"We want to serve it safely.\" Moss nodded. He loved cooking and wanted guests to enjoy the meal, but he understood that enjoyment came with care. They made a little sample soup and checked the taste together. It was sweet and warm.",
+        "zh": "回到店裡，莫斯列了工作清單，在最重要的一項旁用小圖釘標出：先清桌，再備麵包，接著煮胡蘿蔔。菲雅和他核對計畫。「客人還沒到前，別先做太多熱食，」她說，「要確保安全上桌。」莫斯點頭。他熱愛料理，希望客人享用得開心，也知道享受需要細心。他們先做了一點試喝湯，大家一起確認味道，甜甜暖暖的。",
+        "englishSha256": "9eee7ac1b2d97a5c7be395081b20b64baea1d60e26c856fa98f9d168a5b07959",
+        "chineseSha256": "4868e20db0e1a99679bd9f9a680272e96479aef0b7547db7d33814d09247c744"
+      },
+      {
+        "number": 4,
+        "en": "Edda came to see whether the shop needed anything else. She carried a small bag with medicine for herself, which she kept in a safe place away from the food. \"I want to thank you for making room for people during the storm,\" she said. Fia answered that the village helpers had done the hardest work. Edda smiled. \"That is true. It was all one team.\" She looked at the pictures of stars on the wall. \"The room is different now. Since you opened it, people have come here not only for breakfast but also for one another.\" Fia was happy to hear that.",
+        "zh": "艾達來看小店還缺什麼。她帶著自己使用的藥物小包，妥善放在遠離食物之處。「謝謝你們在暴風雨時讓大家有地方待。」她說。菲雅回答，最艱難的工作是村裡救助人員做的。艾達微笑：「沒錯，大家是一個團隊。」她看著牆上的星星畫。「屋子現在不一樣了。自從妳開門，人們來這裡不只為早餐，也為彼此。」菲雅聽了很高興。",
+        "englishSha256": "3fae48db21e42e240f5d2bd145e9736ca5c5d666a1c570a8cfbf33f5a0874625",
+        "chineseSha256": "97a45fe28d740c2128b912f945b59079e6b00ebb776a73cfb345c58c19326921"
+      },
+      {
+        "number": 5,
+        "en": "In the evening, Fia and her friends put cups in a row and checked the chairs one more time. They had enough places for the guests who said they would come. There was a clear way to the door, and the garden path was dry. Fia asked Moss if he wanted to take a break before the meal. He said yes, and Pip offered to finish the last small cleaning job. Fia did not argue. Each friend now knew that saying \"I need rest\" was not a failure. It meant the team could plan around a real person, not a perfect worker who never got tired.",
+        "zh": "傍晚，菲雅和朋友們把杯子排成一列，再次檢查椅子。已確認會來的客人，都有足夠座位。通往門口的路清楚，花園小路也乾了。菲雅問莫斯要不要在豐收餐前休息。他說想，皮普便提出完成最後的小清潔工作。菲雅沒有反對。朋友們如今都知道，說「我需要休息」並不是失敗，而是讓團隊能按真實的人來規劃，不是想像永遠不累的完美工人。",
+        "englishSha256": "3f99f40b0e5771fb58654e2640aace2746a5256ea895ced98377e7ac4c0a3d62",
+        "chineseSha256": "e70ae5ae03be2af9acc0b91f2e3c5a66e3f9801b327e057a6459ece2b2728d1c"
+      },
+      {
+        "number": 6,
+        "en": "Before leaving, Fia stood beside the wooden star and listened to the quiet village. She could almost hear all the voices that had passed through the red house: neighbors, children, travelers, workers, and friends. Each had helped her understand what the shop could be. Tomorrow was a celebration, but it was also a thank-you meal. The food would be simple. The people around the table would be the special part. She went home with a light heart and rested for the long, happy day ahead.",
+        "zh": "離開前，菲雅站在木星星旁，聽安靜的村子。她幾乎能聽見那些曾走進紅屋的聲音：鄰居、孩子、旅人、工人、朋友。每個人都幫她理解小店能成為什麼。明天是慶祝，也是感謝餐。食物會很簡單，而圍著桌子的人，才是最特別的部分。她心情輕快地回家，為明天漫長而快樂的一天休息。",
+        "englishSha256": "ea0354a15b707d15c79ab4986bb0751ed2026356503c740a68c7ad29faa0cb29",
+        "chineseSha256": "8fb8f8bdd8f45eafa4f42ed0b4f62c58bdda6887fd57368de40305da0fcf43e5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 626,
+    "targets": [
+      {
+        "word": "almost",
+        "meaning": "幾乎",
+        "appearsInSource": true
+      },
+      {
+        "word": "buy",
+        "meaning": "購買",
+        "appearsInSource": true
+      },
+      {
+        "word": "careful",
+        "meaning": "小心的",
+        "appearsInSource": true
+      },
+      {
+        "word": "carrot",
+        "meaning": "胡蘿蔔",
+        "appearsInSource": true
+      },
+      {
+        "word": "enjoy",
+        "meaning": "享受",
+        "appearsInSource": true
+      },
+      {
+        "word": "foot",
+        "meaning": "腳",
+        "appearsInSource": true
+      },
+      {
+        "word": "glad",
+        "meaning": "高興的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hill",
+        "meaning": "山丘",
+        "appearsInSource": true
+      },
+      {
+        "word": "hot",
+        "meaning": "熱的",
+        "appearsInSource": true
+      },
+      {
+        "word": "insect",
+        "meaning": "昆蟲",
+        "appearsInSource": true
+      },
+      {
+        "word": "island",
+        "meaning": "小島",
+        "appearsInSource": true
+      },
+      {
+        "word": "jacket",
+        "meaning": "外套",
+        "appearsInSource": true
+      },
+      {
+        "word": "medicine",
+        "meaning": "藥物",
+        "appearsInSource": true
+      },
+      {
+        "word": "pin",
+        "meaning": "圖釘",
+        "appearsInSource": true
+      },
+      {
+        "word": "row",
+        "meaning": "排",
+        "appearsInSource": true
+      },
+      {
+        "word": "Since",
+        "meaning": "自從",
+        "appearsInSource": true
+      },
+      {
+        "word": "special",
+        "meaning": "特別的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Take",
+        "meaning": "拿取",
+        "appearsInSource": true
+      },
+      {
+        "word": "We",
+        "meaning": "我們",
+        "appearsInSource": true
+      },
+      {
+        "word": "zero",
+        "meaning": "零",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Fia buy only a limited amount of food?",
+      "options": [
+        "To avoid waste and follow the plan",
+        "To make guests hungry",
+        "To close the farm"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To avoid waste and follow the plan",
+      "existingAnswerExplanation": "她按實際需求採買，避免浪費。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "At the farm, Kit's mother showed them the fresh food. \"You may buy carrots and eggs for the meal,\" she said, \"but please take only what you will use.\" Fia agreed. She had learned to plan around real numbers. Pip chose the carrots, and Fia counted the eggs. They put each kind of food in its own clean box. Then they checked the time for the next morning. The meal would be special, but the kitchen rules would not change. They still needed to wash their hands, keep the food fresh, and tell guests what was in each dish. They stayed careful with the carrot boxes and tried to plan for zero food waste, although they knew small changes might still be needed.",
+          "chinese": "到農場後，基特的母親展示新鮮食物。「你們可以買胡蘿蔔和雞蛋做餐，」她說，「但請只拿會用到的量。」菲雅同意，她已學會按真實數字規劃。皮普選胡蘿蔔，菲雅數雞蛋，再把不同食材放進各自乾淨的盒子。他們確認明早時間。這餐雖特別，廚房規則卻不會改：仍要洗手、保持食物新鮮，也要告訴客人每道餐點用了什麼。 他們小心處理胡蘿蔔箱子，努力朝零食物浪費的目標安排，雖然也明白仍可能需要微調。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 3,
+          "english": "Back at the shop, Moss had written a list of jobs and put a small pin beside the most important one. First they would clean the table. Next they would prepare bread. Then they would cook the carrots. Fia checked the plan with him. \"We should not make too much hot food before people arrive,\" she said. \"We want to serve it safely.\" Moss nodded. He loved cooking and wanted guests to enjoy the meal, but he understood that enjoyment came with care. They made a little sample soup and checked the taste together. It was sweet and warm.",
+          "chinese": "回到店裡，莫斯列了工作清單，在最重要的一項旁用小圖釘標出：先清桌，再備麵包，接著煮胡蘿蔔。菲雅和他核對計畫。「客人還沒到前，別先做太多熱食，」她說，「要確保安全上桌。」莫斯點頭。他熱愛料理，希望客人享用得開心，也知道享受需要細心。他們先做了一點試喝湯，大家一起確認味道，甜甜暖暖的。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What is the harvest meal meant to express?",
+      "options": [
+        "Thanks to the community",
+        "A contest between shops",
+        "A goodbye to all food"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Thanks to the community",
+      "existingAnswerExplanation": "豐收餐是向一路幫忙的村民致謝。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The day before the harvest meal, Pip took Fia to a small hill behind the village. They walked carefully past a row of carrots. The ground was soft from the old rain, and Fia almost put one foot in a muddy hole. Pip held out a hand. \"Take this way,\" he said, pointing to a dry path. Fia was glad to follow. A small insect sat on her jacket, and she moved it onto a leaf. The day was hot, but the wind from the pond helped. On the pond was a tiny island where birds rested. Fia stopped to look at it before they went back to work.",
+          "chinese": "豐收餐前一天，皮普帶菲雅到村後的小山。兩人小心經過一排胡蘿蔔。地面仍因先前的雨而鬆軟，菲雅差點一腳踩進泥洞。皮普伸手說：「走這邊。」他指向乾燥小路，菲雅很高興能跟著。她外套上停了小昆蟲，她把牠放回葉子。天氣炎熱，池塘吹來的風卻很舒服。池塘有座小小的島，是鳥兒休息的地方。兩人回去工作前，菲雅停下來望了一會兒。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "In the evening, Fia and her friends put cups in a row and checked the chairs one more time. They had enough places for the guests who said they would come. There was a clear way to the door, and the garden path was dry. Fia asked Moss if he wanted to take a break before the meal. He said yes, and Pip offered to finish the last small cleaning job. Fia did not argue. Each friend now knew that saying \"I need rest\" was not a failure. It meant the team could plan around a real person, not a perfect worker who never got tired.",
+          "chinese": "傍晚，菲雅和朋友們把杯子排成一列，再次檢查椅子。已確認會來的客人，都有足夠座位。通往門口的路清楚，花園小路也乾了。菲雅問莫斯要不要在豐收餐前休息。他說想，皮普便提出完成最後的小清潔工作。菲雅沒有反對。朋友們如今都知道，說「我需要休息」並不是失敗，而是讓團隊能按真實的人來規劃，不是想像永遠不累的完美工人。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

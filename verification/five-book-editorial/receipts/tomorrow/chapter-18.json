@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 18,
+  "chapterId": "tomorrow-18",
+  "sourceChapterSha256": "ce97fb83886b8dd3fe63e59ea50896a9fa31bfc530c30a1bb78632db990755f2",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "六月不願創傷經驗變成評分活動；米雅先做稿件事實查核",
+    "previousChapterEndingEnglish": "After they left, the school sent an update to the families directly involved. Kai and his parent had agreed to provide the account records. The school would check who posted what instead of treating every message as one person's work. At the bottom was a note about Friday: June's statement could be played before the show, if she wanted. Then June called me. “There's a condition,” she said. “No vote afterward.”",
+    "nextChapterOpeningEnglish": "On Friday morning, Kai met us in the counselor's room with his father. Ms Lin and my mother were there too. I had not agreed to meet him alone. His school shirt was clean, but one button sat in the wrong hole. For the first time, he looked like someone who had dressed too quickly, not someone ready for a stage. He placed a printed account record on the table."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "June said the school wanted to end her recording with a question on the screen: What have we learned? Under it, students would choose from three answers. The idea had probably seemed helpful in a meeting. To June, it was another box asking people to press something after looking at her life. “I don't want my worst week turned into a lesson with points,” she said.",
+        "zh": "June 說學校想在她的錄音後放題目：我們學到了什麼？讓學生從三個答案選。開會時這可能聽起來有幫助，但對 June 而言，又是一個看完她的人生後要按的框。「我不想把最糟的一週變成有分數的課程。」",
+        "englishSha256": "557c89d78307ce49629e08b77b2811cd70b0191883be7644215b667c4f25d867",
+        "chineseSha256": "dd2913a47172db7e60002572f44770214d1a2fca8742c0c225db1c2c67cea9cb"
+      },
+      {
+        "number": 2,
+        "en": "We called Ms Lin together. She listened, then asked June what she wanted instead. June said she wanted a clear correction, her own short statement, and a quiet end. No public questions. No clip of Sam. No camera turning toward her seat. Ms Lin wrote down those limits and sent them back for June to check. The school agreed. June kept the right to change her mind before the recording played.",
+        "zh": "我們一起打給林老師。她聽完，問 June 想換成什麼。June 要清楚更正、自己的短聲明，然後安靜結束。不公開問答，不播 Sam，不拍她座位。林老師記下限制，回傳確認，學校同意。播放前 June 都能改變主意。",
+        "englishSha256": "5a4bfda3136d9a7514230a4f6d50ce53b1eca05084f3bc58837c3f4ab9b6780f",
+        "chineseSha256": "77a8c3d9aa55648bbb10443855286de0d36734e1e1b8e9da4d143da0c859df36"
+      },
+      {
+        "number": 3,
+        "en": "“Are you coming?” I asked after Ms Lin left the call. June was quiet. I could hear a kettle in the background. “Maybe,” she said. “If I do, I want a seat near a door.” “I can save one.” “Not next to you.” The answer hurt for half a second. Then I understood. She wanted to leave without first having to disappoint me. “Okay,” I said. “Near a door.”",
+        "zh": "林老師離開通話後，我問：「妳會來嗎？」她安靜，背景有水壺聲。「也許，如果去，我想坐門邊。」「我幫妳留。」「不要坐妳旁邊。」答案刺痛半秒，我才懂：她想離開時，不必先讓我失望。「好，門邊。」",
+        "englishSha256": "b0032b1369523053606b4865cb0b241f4094cb200caa926bdf3fe80de1182ec0",
+        "chineseSha256": "63fdab00182bc981e4f166713983014802c9a7ae18eee09e8fd6754ee7d193f7"
+      },
+      {
+        "number": 4,
+        "en": "Leo called soon afterward. He had finished his account of the folder mistake. The computer teacher was helping him replace the old shared access with separate accounts and proper permissions. “I used to think fixing the code meant the problem was over,” he said. “But somebody still has to tell people what was exposed.” He had asked the school to contact everyone whose private clips might have been reached.",
+        "zh": "Leo 隨後打來。他寫完資料夾錯誤說明，資訊老師幫忙用獨立帳號和正確權限取代舊共用方式。「我以前以為修好程式就結束，但還得告訴別人哪些東西曾暴露。」他已要求學校聯絡所有私人片段可能被存取的人。",
+        "englishSha256": "54a843d0424c4008d87ac45eedc13eb3ac35e701612ede200c6bddf7103e15d7",
+        "chineseSha256": "edb16c4e51074beaf2d9cf5824512a2773b33cccec60cb99b123411d18c4848a"
+      },
+      {
+        "number": 5,
+        "en": "He also wanted to delete the unrelated backup clips once the review allowed it. He would not keep copies because they were funny or because storage was cheap. I thought of all the little pieces of people in that gray drive. “What about the bad take where I fall out of the box?” I asked. “You can keep your copy,” he said. “I don't need one.” We both laughed, carefully.",
+        "zh": "他也想等調查允許就刪無關備份，不因好笑或空間便宜而保留。我想到硬碟裡那些人的碎片。「那我從箱子跌出來的失敗鏡頭呢？」「妳可以保留自己的，我不需要。」我們小心地笑了。",
+        "englishSha256": "d646bd6273510c83f26ba890536602aac5d311dae4f3f4226d280260ca7f2c09",
+        "chineseSha256": "84789520e2cb2c7f65873bb272ce0b7b8ff87267ac910e3280cfe9ffc018f9d6"
+      },
+      {
+        "number": 6,
+        "en": "At ten, the Zero page changed. The final vote disappeared, replaced by a blank white screen with a short notice. The page was unavailable while reports were reviewed. It did not say who had sent the last message. It did not say every saved copy was gone. I felt relief anyway. For the first time since Monday, there was no moving number asking me to measure myself against it.",
+        "zh": "十點，Zero 變了。最後投票消失，換成白頁短公告：因報告審查暫時無法使用。沒有說最後訊息誰發，也沒說所有副本都消失。我仍鬆口氣。星期一以來第一次，沒有跳動的數字要求我衡量自己。",
+        "englishSha256": "c9d98b63f1c43ee6ad286929eb1ba780e1e0820d0a84e42f5d71ba86b8c2bf7d",
+        "chineseSha256": "afe15b259f399636f07fbf36becb29235622adfb8752ab3d6d6235a6581f12f9"
+      },
+      {
+        "number": 7,
+        "en": "Then my class group began to fill with screenshots of the old page. One student wrote, They're hiding the truth. Another asked for the missing video. The page was closed, but the story was still walking around without it. I almost posted June's recording myself. My thumb hovered above the file. Then I remembered her limits. I put the phone down and asked Ms Lin where to send the new posts.",
+        "zh": "接著班群塞滿舊網頁截圖，有人說他們藏真相，有人索取不見的影片。網頁關了，故事仍自己走。我差點自行發布 June 的錄音，拇指停在檔案上方，接著想起她的限制，放下手機，問老師新貼文該交哪裡。",
+        "englishSha256": "6053435039328eea8d00bc64248c08424d164cfb41c4adf6217f93b61b094908",
+        "chineseSha256": "1d8e5d3682a67c19dc1c01a89727da2f98e56b9fa1ae5c4c8a80720cfa0ab68d"
+      },
+      {
+        "number": 8,
+        "en": "Before bed, I recorded my own statement. I did not use music. I did not cut out the place where my voice shook. When I finished, I listened once and sent the text for a fact check. A message arrived from Kai. He wanted to talk before Friday's show. Below that, he wrote something I did not expect. I know where the numbers came from. They were never what you thought.",
+        "zh": "睡前我錄自己的聲明，沒配樂，也沒剪掉聲音發抖處。完成後聽一次，把文字交去核對事實。Kai 傳來訊息，想在星期五表演前談，下面寫了我沒預料的話：我知道數字怎麼來的，它們從來不是妳以為的那樣。",
+        "englishSha256": "939efc88395175da6d8eac80bd163686d35a21ecd303b72308b16307b31e7d46",
+        "chineseSha256": "9df0be754fbc95cc8ae82dfe3e4651d5b82bd7fd251a5163ba1ec38dd1ed57ae"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 556,
+    "targets": [
+      {
+        "word": "almost",
+        "meaning": "幾乎",
+        "appearsInSource": true
+      },
+      {
+        "word": "around",
+        "meaning": "在周圍；大約",
+        "appearsInSource": true
+      },
+      {
+        "word": "back",
+        "meaning": "回去；背部；後面",
+        "appearsInSource": true
+      },
+      {
+        "word": "cheap",
+        "meaning": "便宜的",
+        "appearsInSource": true
+      },
+      {
+        "word": "end",
+        "meaning": "結束；末端",
+        "appearsInSource": true
+      },
+      {
+        "word": "expect",
+        "meaning": "預期；期待",
+        "appearsInSource": true
+      },
+      {
+        "word": "fill",
+        "meaning": "填滿",
+        "appearsInSource": true
+      },
+      {
+        "word": "funny",
+        "meaning": "好笑的；奇怪的",
+        "appearsInSource": true
+      },
+      {
+        "word": "group",
+        "meaning": "群組；團體",
+        "appearsInSource": true
+      },
+      {
+        "word": "helpful",
+        "meaning": "有幫助的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lesson",
+        "meaning": "課程；教訓",
+        "appearsInSource": true
+      },
+      {
+        "word": "music",
+        "meaning": "音樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "near",
+        "meaning": "靠近",
+        "appearsInSource": true
+      },
+      {
+        "word": "probably",
+        "meaning": "很可能",
+        "appearsInSource": true
+      },
+      {
+        "word": "problem",
+        "meaning": "問題",
+        "appearsInSource": true
+      },
+      {
+        "word": "save",
+        "meaning": "儲存；拯救",
+        "appearsInSource": true
+      },
+      {
+        "word": "since",
+        "meaning": "自從；因為",
+        "appearsInSource": true
+      },
+      {
+        "word": "soon",
+        "meaning": "很快",
+        "appearsInSource": true
+      },
+      {
+        "word": "story",
+        "meaning": "故事",
+        "appearsInSource": true
+      },
+      {
+        "word": "student",
+        "meaning": "學生",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does June reject the question after her recording?",
+      "options": [
+        "She does not know the answers.",
+        "She wants a bigger vote instead.",
+        "She does not want her experience turned into a scored activity."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "She does not want her experience turned into a scored activity.",
+      "existingAnswerExplanation": "She does not want her experience turned into a scored activity.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "June said the school wanted to end her recording with a question on the screen: What have we learned? Under it, students would choose from three answers. The idea had probably seemed helpful in a meeting. To June, it was another box asking people to press something after looking at her life. “I don't want my worst week turned into a lesson with points,” she said.",
+          "chinese": "June 說學校想在她的錄音後放題目：我們學到了什麼？讓學生從三個答案選。開會時這可能聽起來有幫助，但對 June 而言，又是一個看完她的人生後要按的框。「我不想把最糟的一週變成有分數的課程。」",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 2,
+          "english": "We called Ms Lin together. She listened, then asked June what she wanted instead. June said she wanted a clear correction, her own short statement, and a quiet end. No public questions. No clip of Sam. No camera turning toward her seat. Ms Lin wrote down those limits and sent them back for June to check. The school agreed. June kept the right to change her mind before the recording played.",
+          "chinese": "我們一起打給林老師。她聽完，問 June 想換成什麼。June 要清楚更正、自己的短聲明，然後安靜結束。不公開問答，不播 Sam，不拍她座位。林老師記下限制，回傳確認，學校同意。播放前 June 都能改變主意。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Mia send the text of her own statement before the show?",
+      "options": [
+        "To let Bell rewrite it.",
+        "To ask strangers to score her.",
+        "To have the facts checked."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "To have the facts checked.",
+      "existingAnswerExplanation": "米雅錄完後保留聲音顫抖的部分，並把文字送去做事實核對。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "Before bed, I recorded my own statement. I did not use music. I did not cut out the place where my voice shook. When I finished, I listened once and sent the text for a fact check. A message arrived from Kai. He wanted to talk before Friday's show. Below that, he wrote something I did not expect. I know where the numbers came from. They were never what you thought.",
+          "chinese": "睡前我錄自己的聲明，沒配樂，也沒剪掉聲音發抖處。完成後聽一次，把文字交去核對事實。Kai 傳來訊息，想在星期五表演前談，下面寫了我沒預料的話：我知道數字怎麼來的，它們從來不是妳以為的那樣。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "We called Ms Lin together. She listened, then asked June what she wanted instead. June said she wanted a clear correction, her own short statement, and a quiet end. No public questions. No clip of Sam. No camera turning toward her seat. Ms Lin wrote down those limits and sent them back for June to check. The school agreed. June kept the right to change her mind before the recording played.",
+          "chinese": "我們一起打給林老師。她聽完，問 June 想換成什麼。June 要清楚更正、自己的短聲明，然後安靜結束。不公開問答，不播 Sam，不拍她座位。林老師記下限制，回傳確認，學校同意。播放前 June 都能改變主意。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

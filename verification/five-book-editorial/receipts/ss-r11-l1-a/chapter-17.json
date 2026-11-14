@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 17,
+  "chapterId": "ss-r11-l1-a-17",
+  "sourceChapterSha256": "8efff82eebba17e3ff347970fa977644b123ad11a08202b1e722acaf6a7251e0",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "猴圖和校名雙重確認，錯放因掉落標籤",
+    "previousChapterEndingEnglish": "That evening Ivy wore her old T-shirt and sat by the window with a book. She thought of the children who had made the seed labels. Some had written in English, others in the language they used at home. She wished each child could see the work again. She could not know what was under the cloth until someone checked. She made a cup of water for herself, put her book away, and went to bed. Tomorrow would come soon enough without her staying awake all night.",
+    "nextChapterOpeningEnglish": "The green box returned on Tuesday. Mr. Reed and another school worker opened it in a safe room, with Ivy's team watching from the door. The paper labels were dry, but one small bag of seeds had become wet. The workers placed it aside for a careful check. Yesterday the children had wanted to touch everything; today they waited. Ms. Wen said they did not need to open every bag at once. They could set out the safe cards, count the dry packets, and make a plan for the others."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next afternoon Sara called again. Two workers had moved the shelf, and she could finally see the green box. There was a monkey on its side, with orange ears and one white tooth. Ivy's face grew warm. “That really sounds like ours,” she said. Ms. Wen asked Sara to check the school name on the bottom before they made a final decision. Jun stood close enough to hear but did not shout. He was strong enough to carry a box, but he knew that workers at the market would bring it back safely.",
+        "zh": "隔天下午，莎拉再次來電。兩位工人已移開架子，她終於能看見綠箱子。側面有隻猴子，長著橘色耳朵和一顆白牙齒。艾薇的臉一下子熱了起來。「那聽起來真的像我們的，」她說。溫老師請莎拉先核對箱底的校名，再做最後確認。俊站在旁邊聽，沒有大喊。他力氣夠大，可以搬箱子，卻也知道應由市場工人安全地把箱子送回來。",
+        "englishSha256": "9690453d4674839f1deba40e4bed62406b11e5070c15c713e7322fbffcc8adf1",
+        "chineseSha256": "68f577aaaab541b39b7421d2de32da817dfd8605e5b14d0de00935c6aac7db4d"
+      },
+      {
+        "number": 2,
+        "en": "The air in the school office felt warm when Sara called. Ivy held the telephone with one hand and pressed a finger against her notebook to keep her place. She wanted to decide that the box was theirs at once, but Ms. Wen asked for one more check. “Can you repeat what the picture looks like?” the teacher asked Sara. Sara gave an example: orange ears, a wide smile, and one white tooth. Jun nodded before the call ended. It sounded exactly like his picture, yet he waited for the school name to be read.",
+        "zh": "莎拉來電時，學校辦公室的空氣有點暖。艾薇一手拿電話，另一手用手指壓住筆記本，避免翻錯頁。她很想立刻斷定箱子就是他們的，但溫老師要求再確認一次。「你能重複說說圖畫長什麼樣嗎？」老師問莎拉。莎拉舉例描述：橘耳朵、寬寬的笑容、一顆白牙齒。電話還沒掛斷，俊就點頭了。那聽起來和他的畫一模一樣，但他仍等校名被念出來。",
+        "englishSha256": "478d46e43f7367d77139dfafaa68eb4ed22bd5c3a8565dd68cfec3553e8240f6",
+        "chineseSha256": "e00af067d5c694738ba8c8807eb5a215c1d6f4207b214305f23a823cb5ec2d2a"
+      },
+      {
+        "number": 3,
+        "en": "Sara read the name aloud. It was their school. “We have a reason to believe it belongs to you,” she said. “The box was moved twice after the pipe broke. A different label fell on it, so it went with room supplies.” Ivy asked why the shelf had been in front of it. Sara explained that a delivery driver had moved the shelf to protect bags of food from water. It was an accident, not an attack on the club. The answer was simple, but it had taken many people to find it.",
+        "zh": "莎拉把箱底的校名念出來，正是他們的學校。「我們有理由相信它屬於你們，」她說，「水管破裂後，箱子被移動了兩次。另一張標籤落在它上面，所以它被歸到教室用品裡。」艾薇問大架子為何擋在前方。莎拉解釋，送貨司機為了保護食物袋不被水淋濕，才把架子推到那裡。這是意外，不是有人攻擊社團。答案很簡單，卻需要許多人合作才找得到。",
+        "englishSha256": "e90eeed462b312d7304616bdfafd9ce3ce31c9169f41ec96d6c6f0c0ecc7e8cf",
+        "chineseSha256": "9ccb7fc238f3523e5fef5f07f52618d59a7dd226a7f083f4692654231b7c37cd"
+      },
+      {
+        "number": 4,
+        "en": "Before the box came back, Ms. Wen gave one clear order: nobody would open it until an adult checked whether the contents were safe. Ivy felt that was really possible to follow, even though she wanted to see every card. The reason mattered. Seeds and paper could grow wet in closed plastic, and mold could hurt people. Jun asked who would check them. The school gardener said he could do the first look, with a second worker present. They would talk about the results, not hide them.",
+        "zh": "箱子送回前，溫老師訂下一個明確規則：要先由大人確認內容物安全，其他人才可以打開。艾薇覺得自己能遵守，即使她很想立刻看見每張卡片。這個規則有原因。種子和紙放在密閉塑膠箱裡可能受潮，發霉會傷害人。俊問由誰檢查。學校園丁說他能在另一名工作人員陪同下先查看一次。大家會公開討論結果，而不是把問題藏起來。",
+        "englishSha256": "cd41eec1bf7068f8b638820bb904ae618e5887e5a42191a51de779ac6567cb31",
+        "chineseSha256": "2f895f7874298aec36cbe6a1857f5c80448b26cb1e816a9d1cd0a1434594d639"
+      },
+      {
+        "number": 5,
+        "en": "That afternoon Sara returned to the market, where her husband sold vegetables beside a small food stand. They had been married for many years and knew how busy the hall could become. He brought her a little popcorn after work and kept one fresh vegetable for their dinner. A small line of smoke rose from the cooking area, so Sara kept the found box far from the heat. When she called Ms. Wen with the final news, she explained that moving the box safely would be the last step. Ivy thanked both Sara and the workers. Their care mattered more than a dramatic rescue.",
+        "zh": "那天下午，莎拉回到市場，她的丈夫在一個小食物攤旁賣蔬菜。他們結婚多年，知道大廳忙起來會有多熱鬧。丈夫下班後帶了少量爆米花給她，也留了一樣新鮮蔬菜當晚餐。烹飪區升起一小縷煙，因此莎拉把找到的箱子放得遠離熱源。她打電話向溫老師報告最後消息時，說明安全搬回箱子是最後一步。艾薇感謝莎拉和工人們。他們的細心，比戲劇性的救援更重要。",
+        "englishSha256": "5b270dc5b3cf44dddbaad6d2d77a57ee820b360f61978a54db12580724015a73",
+        "chineseSha256": "021bd1bef5ae0dfc51f730fd92907ef939c97240783687d3c847438c76d60684"
+      },
+      {
+        "number": 6,
+        "en": "At dinner Ivy told her parents that they had found the box. Her father played soft music while her mother cooked vegetables. “So the mystery is over?” her father asked. “One part is over,” Ivy said. “We know where the box went. We do not know what has happened to the seeds.” She explained that the club still needed to finish its garden path and care for its new plants. Her father smiled. Finding an answer did not mean every job had ended. Sometimes it gave people a better place to begin again.",
+        "zh": "晚餐時，艾薇告訴爸媽已經找到箱子。爸爸放著輕柔的音樂，媽媽煮著蔬菜。「所以謎團結束了？」爸爸問。「有一部分結束了，」艾薇說，「我們知道箱子去了哪裡，但還不知道種子發生了什麼事。」她解釋社團仍需完成小徑、照顧新的植物。爸爸笑了。找到答案不代表所有工作都結束；有時只是讓人們有更好的地方重新開始。",
+        "englishSha256": "ee36061dd029fc2350bebe858b56a554ef2ee0c9f2f3ec21c7afeadbcda97819",
+        "chineseSha256": "284d302466ed1856aeffd54723c09d44f79613f477dd22c1f81ce79a954dc4ab"
+      },
+      {
+        "number": 7,
+        "en": "Before bed Ivy opened her notebook at the first page. She read the question she had written on the day the box disappeared. Then she turned to the new page and wrote the answer in a careful sentence. She added the names of the people who had helped, from the garden worker to Sara at the market. She did not say that she alone had solved the problem. That would not be true. She knew the real story was made from many small pieces, held together by patient talk.",
+        "zh": "睡前，艾薇翻開筆記本第一頁，讀著箱子失蹤那天寫下的問題。接著她翻到新的一頁，仔細寫下答案。她補上所有幫忙者的名字，從校園園藝工人到市場的莎拉。她沒有說是自己一個人解開問題，因為那不是真的。她知道真正的經過，是許多小小片段經由耐心對話組成的。",
+        "englishSha256": "76ac7938377b439c619f112925420cef62bb5cca993fb4eef9c55d881bea333e",
+        "chineseSha256": "fe2ec5e5e5fc1d553cf7fd2c6628f465dbbcb50aca85dad8268a71f9cc8268cd"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 655,
+    "targets": [
+      {
+        "word": "air",
+        "meaning": "空氣",
+        "appearsInSource": true
+      },
+      {
+        "word": "decide",
+        "meaning": "決定",
+        "appearsInSource": true
+      },
+      {
+        "word": "driver",
+        "meaning": "司機",
+        "appearsInSource": true
+      },
+      {
+        "word": "enough",
+        "meaning": "足夠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "example",
+        "meaning": "例子",
+        "appearsInSource": true
+      },
+      {
+        "word": "face",
+        "meaning": "臉",
+        "appearsInSource": true
+      },
+      {
+        "word": "finger",
+        "meaning": "手指",
+        "appearsInSource": true
+      },
+      {
+        "word": "married",
+        "meaning": "已婚的／結婚的",
+        "appearsInSource": true
+      },
+      {
+        "word": "music",
+        "meaning": "音樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "order",
+        "meaning": "指示",
+        "appearsInSource": true
+      },
+      {
+        "word": "popcorn",
+        "meaning": "爆米花",
+        "appearsInSource": true
+      },
+      {
+        "word": "possible",
+        "meaning": "可能的",
+        "appearsInSource": true
+      },
+      {
+        "word": "really",
+        "meaning": "真正地",
+        "appearsInSource": true
+      },
+      {
+        "word": "reason",
+        "meaning": "理由",
+        "appearsInSource": true
+      },
+      {
+        "word": "repeat",
+        "meaning": "重複",
+        "appearsInSource": true
+      },
+      {
+        "word": "smoke",
+        "meaning": "煙",
+        "appearsInSource": true
+      },
+      {
+        "word": "strong",
+        "meaning": "強壯的",
+        "appearsInSource": true
+      },
+      {
+        "word": "talk",
+        "meaning": "談話",
+        "appearsInSource": true
+      },
+      {
+        "word": "vegetable",
+        "meaning": "蔬菜",
+        "appearsInSource": true
+      },
+      {
+        "word": "who",
+        "meaning": "誰",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "How did the school know the box was theirs?",
+      "options": [
+        "It had the monkey picture and school name.",
+        "It was the only green box in town.",
+        "It was next to a piano."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It had the monkey picture and school name.",
+      "existingAnswerExplanation": "橘耳猴子圖與箱底校名共同確認了失物身分",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The air in the school office felt warm when Sara called. Ivy held the telephone with one hand and pressed a finger against her notebook to keep her place. She wanted to decide that the box was theirs at once, but Ms. Wen asked for one more check. “Can you repeat what the picture looks like?” the teacher asked Sara. Sara gave an example: orange ears, a wide smile, and one white tooth. Jun nodded before the call ended. It sounded exactly like his picture, yet he waited for the school name to be read.",
+          "chinese": "莎拉來電時，學校辦公室的空氣有點暖。艾薇一手拿電話，另一手用手指壓住筆記本，避免翻錯頁。她很想立刻斷定箱子就是他們的，但溫老師要求再確認一次。「你能重複說說圖畫長什麼樣嗎？」老師問莎拉。莎拉舉例描述：橘耳朵、寬寬的笑容、一顆白牙齒。電話還沒掛斷，俊就點頭了。那聽起來和他的畫一模一樣，但他仍等校名被念出來。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "The next afternoon Sara called again. Two workers had moved the shelf, and she could finally see the green box. There was a monkey on its side, with orange ears and one white tooth. Ivy's face grew warm. “That really sounds like ours,” she said. Ms. Wen asked Sara to check the school name on the bottom before they made a final decision. Jun stood close enough to hear but did not shout. He was strong enough to carry a box, but he knew that workers at the market would bring it back safely.",
+          "chinese": "隔天下午，莎拉再次來電。兩位工人已移開架子，她終於能看見綠箱子。側面有隻猴子，長著橘色耳朵和一顆白牙齒。艾薇的臉一下子熱了起來。「那聽起來真的像我們的，」她說。溫老師請莎拉先核對箱底的校名，再做最後確認。俊站在旁邊聽，沒有大喊。他力氣夠大，可以搬箱子，卻也知道應由市場工人安全地把箱子送回來。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did the box go to the wrong storage area?",
+      "options": [
+        "Another label had fallen onto it.",
+        "Ivy gave it away.",
+        "A bird carried it."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Another label had fallen onto it.",
+      "existingAnswerExplanation": "暴雨中標籤錯置，箱子被誤歸為教室用品",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Sara read the name aloud. It was their school. “We have a reason to believe it belongs to you,” she said. “The box was moved twice after the pipe broke. A different label fell on it, so it went with room supplies.” Ivy asked why the shelf had been in front of it. Sara explained that a delivery driver had moved the shelf to protect bags of food from water. It was an accident, not an attack on the club. The answer was simple, but it had taken many people to find it.",
+          "chinese": "莎拉把箱底的校名念出來，正是他們的學校。「我們有理由相信它屬於你們，」她說，「水管破裂後，箱子被移動了兩次。另一張標籤落在它上面，所以它被歸到教室用品裡。」艾薇問大架子為何擋在前方。莎拉解釋，送貨司機為了保護食物袋不被水淋濕，才把架子推到那裡。這是意外，不是有人攻擊社團。答案很簡單，卻需要許多人合作才找得到。",
+          "matchedQueryTerms": 2
+        },
+        {
+          "paragraph": 5,
+          "english": "That afternoon Sara returned to the market, where her husband sold vegetables beside a small food stand. They had been married for many years and knew how busy the hall could become. He brought her a little popcorn after work and kept one fresh vegetable for their dinner. A small line of smoke rose from the cooking area, so Sara kept the found box far from the heat. When she called Ms. Wen with the final news, she explained that moving the box safely would be the last step. Ivy thanked both Sara and the workers. Their care mattered more than a dramatic rescue.",
+          "chinese": "那天下午，莎拉回到市場，她的丈夫在一個小食物攤旁賣蔬菜。他們結婚多年，知道大廳忙起來會有多熱鬧。丈夫下班後帶了少量爆米花給她，也留了一樣新鮮蔬菜當晚餐。烹飪區升起一小縷煙，因此莎拉把找到的箱子放得遠離熱源。她打電話向溫老師報告最後消息時，說明安全搬回箱子是最後一步。艾薇感謝莎拉和工人們。他們的細心，比戲劇性的救援更重要。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

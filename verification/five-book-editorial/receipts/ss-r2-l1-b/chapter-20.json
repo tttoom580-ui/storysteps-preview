@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 20,
+  "chapterId": "ss-r2-l1-b-20",
+  "sourceChapterSha256": "180c69571373e9ffa4d6f67b685a2cfdd7418f5b1bc0be0050cba6c5589707c1",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "暴雨延續，守橋禁令，在安全處供應熱湯",
+    "previousChapterEndingEnglish": "When the room was empty again, Fia sat beside the oven. The fire was low, and she was very tired. Pip brought her a cup of water and sat across from her. \"We did not fix the storm,\" he said. \"No,\" Fia answered. \"But we gave some people a safe place while others did the larger work.\" She looked around the room. Wet marks were on the floor, and the tables were out of place. Tomorrow they would clean and begin again. For now, she was glad that their little shop had been able to help.",
+    "nextChapterOpeningEnglish": "A week after the storm, the village held a meeting at the red house. Edda asked the helpers to sit around the long table. The shop was a good place for the meeting because everyone knew the way there. Fia brought bread and water, and Moss made a small pot of soup. A young mouse from the garden club came with a guitar. \"May I play after we talk?\" she asked. \"Yes,\" Edda said, \"but first we must work out what the village needs.\" The mouse put the guitar away and took a seat. Nobody had come for a show. They had come to make a plan."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "In the morning, the storm was still strong. A wet elephant named Ben came down from the mountain road with a message from the village helpers. The river had made a wide pool beside the bridge, and nobody should try to cross it. Fia read the message out loud. \"We will not go out,\" she told Moss and Pip. \"We can make soup here for the helpers when they return.\" Moss put a round pot on the stove. Pip checked the dry shelf. They had bread, potatoes, and clean water. It was not exciting work, but it was work they could do safely.",
+        "zh": "早上，暴風雨仍很強。一隻濕淋淋的大象班從山路走來，帶著村裡救助人員的消息。河水在橋旁形成大片水池，任何人都不該試著過橋。菲雅把消息大聲念出。「我們不出去，」她告訴莫斯和皮普，「等救助人員回來，可以在這裡替他們做湯。」莫斯把圓鍋放上爐，皮普檢查乾燥架。他們有麵包、馬鈴薯和乾淨水。這工作不刺激，卻是能安全做好的事。",
+        "englishSha256": "b33fcce0cd4e475c0818dfcf8b073fa670405234089fa35327e24c317accb212",
+        "chineseSha256": "25e6f3335a15d3083d84426ca03dabfab44a2c3ab3383f819ffa4b89742ced44"
+      },
+      {
+        "number": 2,
+        "en": "Moss was about to use a knife when he saw the handle was loose. He put it down and took a safer one. \"I would be a fool to hurry with a bad tool,\" he said. Fia agreed. He cut the potatoes slowly while Pip washed the cups. A child asked whether the shop might fail because of the storm. Fia thought for a moment. \"We may lose a day of sales,\" she said, \"but that does not mean our work has failed. If we keep people safe and food clean, we are doing something important.\" The child nodded and went to draw a picture for the helpers.",
+        "zh": "莫斯準備拿刀時發現刀柄鬆了，便放下改用安全的一把。「拿壞工具趕時間才傻呢。」他說。菲雅同意。莫斯慢慢切馬鈴薯，皮普清洗杯子。一個孩子問暴風雨會不會讓店失敗。菲雅想了想。「我們可能少賣一天，」她說，「但不代表工作失敗。只要讓人安全、食物乾淨，我們就做了重要的事。」孩子點頭，去替救助人員畫畫。",
+        "englishSha256": "6b6ddb1f6831923a39b1843f2e5f2b78013bc93baf5d96729ef44df3726556e8",
+        "chineseSha256": "d0ddf283b9b1a76190be5c863cf0be800485906645ae644cf277ae776c26eef5"
+      },
+      {
+        "number": 3,
+        "en": "At one moment, the lights became weak, and the room went almost dark. Then they came back. Moss stopped cooking long enough to check the stove and the food. Pip asked why they had to wait. \"Because we must know the heat is safe,\" Moss said. \"A quick meal is not worth a hurt hand.\" Fia listened to the rain outside. It sounded like a million little feet on the roof. She did not know how long it would last. She only knew that the team needed patience, clear messages, and a simple meal that could be served without making new problems.",
+        "zh": "有一刻，燈光變弱，室內幾乎暗下來，接著才恢復。莫斯停下料理，檢查爐火和食物。皮普問為何要等。「因為得確定火力安全，」莫斯說，「再快的餐點，也不值得讓手受傷。」菲雅聽著外面的雨，像有一百萬隻小腳在屋頂上奔跑。她不知道雨還要下多久，只知道團隊需要耐心、清楚訊息，以及不會製造新問題的簡單餐點。",
+        "englishSha256": "26f0bada457ba772c7d6a2faf8c9e079c8dd130d7ff5aeb9f6d8cfb80871a57d",
+        "chineseSha256": "10f929b598489294404e005c552cb5c450b8a0bf1a278cbe1be34d6d4be3b64f"
+      },
+      {
+        "number": 4,
+        "en": "Ben the elephant sat near the door and rested. He had helped move wood from the high road, and his feet were tired. \"Some people called me lazy because I stopped to drink,\" he said. Fia shook her head. \"Rest is not lazy when you are tired,\" she said. \"You cannot help well if you fall down.\" Ben smiled and took a cup of soup. Far outside, the rain began to sound softer. They did not go to look at the bridge. They waited for the village helpers to say it was safe. That was part of their storm plan, and they kept it.",
+        "zh": "大象班坐在門旁休息。他剛幫忙從高地路搬木材，雙腳很累。「有人說我停下來喝水很懶。」他說。菲雅搖頭。「累了休息不是懶，」她說，「如果自己倒下，也幫不了別人。」班笑著喝了一杯湯。遠方雨聲漸小，大家仍沒出去看橋。他們等村裡救助人員確認安全，這是原本的風雨計畫，他們遵守了。",
+        "englishSha256": "799e7ca4deef4de531c68c33f148f283e38a3ac8bd20a07e8916eedd90ba6f58",
+        "chineseSha256": "845e6b671c253d8184f5b77a6c7ca3285e23c67cae6ab06559bfe7fac0dc20bb"
+      },
+      {
+        "number": 5,
+        "en": "By afternoon, Edda sent news that the highest roads were open, but the bridge still needed checking. The team gave warm soup to the helpers who came by the safe path. One helper carried a violin in a case. He had brought it from a wet house so the owner would not lose it. The child who had drawn a picture asked if he could play. \"Later,\" he said with a smile. \"First we finish the safety work.\" Fia felt proud of everyone. There was no grand magic, only people who knew which job had to come before another. A new question began to appear on the food board: how could the shop keep helping without using more than it had? Fia promised to think about it with Edda.",
+        "zh": "下午，艾達傳來消息：高地道路已開通，橋仍須檢查。團隊替沿安全路線來到店裡的救助人員送上熱湯。一人提著盒裝小提琴，剛從濕屋裡替主人搬出來。畫畫的孩子問他能不能拉琴。「晚一點，」他笑著說，「先把安全工作完成。」菲雅為大家感到驕傲。這裡沒有偉大的魔法，只有知道先後順序、肯一起做事的人。 食物看板上開始出現一個新問題：小店怎樣才能在不超出能力的情況下繼續幫忙？菲雅答應和艾達一起思考。",
+        "englishSha256": "fce9277d5129d4379d46b3616107c3b2e30633f0741fc2e7e9ce06006057c3bc",
+        "chineseSha256": "131e2ca8adfd19c4177184b37cd0cc0d531ea99a0da159d153ad76ea6eb40048"
+      },
+      {
+        "number": 6,
+        "en": "At sunset, the rain finally ended. Fia opened the window a little and looked at the wet road. She could see the wooden star above the door in the last light. Some things had gone wrong, but the shop had stayed safe and useful. Moss washed the pot, Pip counted the dry food, and Fia wrote down what they had learned. \"Tomorrow we will ask about the bridge,\" she said. \"Tonight we will rest.\" Nobody argued. The hot soup was gone, but the room still held the warmth of people who had worked together on a hard day.",
+        "zh": "日落時，雨終於停了。菲雅稍微打開窗，看著濕路。門上的木星星在最後的光裡清晰可見。有些事不順利，但店仍安全而有用。莫斯洗鍋，皮普清點乾燥食材，菲雅寫下學到的事。「明天再問橋的情況，」她說，「今晚休息。」沒人反對。熱湯喝完了，房間仍留著大家在艱難日子共同努力的溫暖。",
+        "englishSha256": "b2437719a1a88d24fa8ef766ad363039715791f75b94cc1578875c63cb5d21a8",
+        "chineseSha256": "0571f3b3b95a680d6b4407bf11af3119bcee31764b5039db6169c2e36b10032f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 644,
+    "targets": [
+      {
+        "word": "appear",
+        "meaning": "出現",
+        "appearsInSource": true
+      },
+      {
+        "word": "because",
+        "meaning": "因為",
+        "appearsInSource": true
+      },
+      {
+        "word": "elephant",
+        "meaning": "大象",
+        "appearsInSource": true
+      },
+      {
+        "word": "exciting",
+        "meaning": "令人興奮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fail",
+        "meaning": "失敗",
+        "appearsInSource": true
+      },
+      {
+        "word": "fool",
+        "meaning": "傻瓜",
+        "appearsInSource": true
+      },
+      {
+        "word": "go",
+        "meaning": "去",
+        "appearsInSource": true
+      },
+      {
+        "word": "knife",
+        "meaning": "刀",
+        "appearsInSource": true
+      },
+      {
+        "word": "lazy",
+        "meaning": "懶惰的",
+        "appearsInSource": true
+      },
+      {
+        "word": "million",
+        "meaning": "一百萬",
+        "appearsInSource": true
+      },
+      {
+        "word": "moment",
+        "meaning": "片刻",
+        "appearsInSource": true
+      },
+      {
+        "word": "mountain",
+        "meaning": "山",
+        "appearsInSource": true
+      },
+      {
+        "word": "nobody",
+        "meaning": "沒有人",
+        "appearsInSource": true
+      },
+      {
+        "word": "out",
+        "meaning": "外面",
+        "appearsInSource": true
+      },
+      {
+        "word": "pool",
+        "meaning": "水池",
+        "appearsInSource": true
+      },
+      {
+        "word": "question",
+        "meaning": "問題",
+        "appearsInSource": true
+      },
+      {
+        "word": "round",
+        "meaning": "圓形的",
+        "appearsInSource": true
+      },
+      {
+        "word": "soup",
+        "meaning": "湯",
+        "appearsInSource": true
+      },
+      {
+        "word": "violin",
+        "meaning": "小提琴",
+        "appearsInSource": true
+      },
+      {
+        "word": "wet",
+        "meaning": "濕的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Fia keep everyone inside?",
+      "options": [
+        "The bridge area is flooded",
+        "The soup is cold",
+        "A concert is starting"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The bridge area is flooded",
+      "existingAnswerExplanation": "橋旁積水危險，村裡請大家不要通行。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "By afternoon, Edda sent news that the highest roads were open, but the bridge still needed checking. The team gave warm soup to the helpers who came by the safe path. One helper carried a violin in a case. He had brought it from a wet house so the owner would not lose it. The child who had drawn a picture asked if he could play. \"Later,\" he said with a smile. \"First we finish the safety work.\" Fia felt proud of everyone. There was no grand magic, only people who knew which job had to come before another. A new question began to appear on the food board: how could the shop keep helping without using more than it had? Fia promised to think about it with Edda.",
+          "chinese": "下午，艾達傳來消息：高地道路已開通，橋仍須檢查。團隊替沿安全路線來到店裡的救助人員送上熱湯。一人提著盒裝小提琴，剛從濕屋裡替主人搬出來。畫畫的孩子問他能不能拉琴。「晚一點，」他笑著說，「先把安全工作完成。」菲雅為大家感到驕傲。這裡沒有偉大的魔法，只有知道先後順序、肯一起做事的人。 食物看板上開始出現一個新問題：小店怎樣才能在不超出能力的情況下繼續幫忙？菲雅答應和艾達一起思考。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "In the morning, the storm was still strong. A wet elephant named Ben came down from the mountain road with a message from the village helpers. The river had made a wide pool beside the bridge, and nobody should try to cross it. Fia read the message out loud. \"We will not go out,\" she told Moss and Pip. \"We can make soup here for the helpers when they return.\" Moss put a round pot on the stove. Pip checked the dry shelf. They had bread, potatoes, and clean water. It was not exciting work, but it was work they could do safely.",
+          "chinese": "早上，暴風雨仍很強。一隻濕淋淋的大象班從山路走來，帶著村裡救助人員的消息。河水在橋旁形成大片水池，任何人都不該試著過橋。菲雅把消息大聲念出。「我們不出去，」她告訴莫斯和皮普，「等救助人員回來，可以在這裡替他們做湯。」莫斯把圓鍋放上爐，皮普檢查乾燥架。他們有麵包、馬鈴薯和乾淨水。這工作不刺激，卻是能安全做好的事。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does the helper not play the violin yet?",
+      "options": [
+        "Safety work comes first",
+        "He cannot find his case",
+        "The child dislikes music"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Safety work comes first",
+      "existingAnswerExplanation": "救助人員決定先完成安全工作，再演奏小提琴。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "By afternoon, Edda sent news that the highest roads were open, but the bridge still needed checking. The team gave warm soup to the helpers who came by the safe path. One helper carried a violin in a case. He had brought it from a wet house so the owner would not lose it. The child who had drawn a picture asked if he could play. \"Later,\" he said with a smile. \"First we finish the safety work.\" Fia felt proud of everyone. There was no grand magic, only people who knew which job had to come before another. A new question began to appear on the food board: how could the shop keep helping without using more than it had? Fia promised to think about it with Edda.",
+          "chinese": "下午，艾達傳來消息：高地道路已開通，橋仍須檢查。團隊替沿安全路線來到店裡的救助人員送上熱湯。一人提著盒裝小提琴，剛從濕屋裡替主人搬出來。畫畫的孩子問他能不能拉琴。「晚一點，」他笑著說，「先把安全工作完成。」菲雅為大家感到驕傲。這裡沒有偉大的魔法，只有知道先後順序、肯一起做事的人。 食物看板上開始出現一個新問題：小店怎樣才能在不超出能力的情況下繼續幫忙？菲雅答應和艾達一起思考。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "In the morning, the storm was still strong. A wet elephant named Ben came down from the mountain road with a message from the village helpers. The river had made a wide pool beside the bridge, and nobody should try to cross it. Fia read the message out loud. \"We will not go out,\" she told Moss and Pip. \"We can make soup here for the helpers when they return.\" Moss put a round pot on the stove. Pip checked the dry shelf. They had bread, potatoes, and clean water. It was not exciting work, but it was work they could do safely.",
+          "chinese": "早上，暴風雨仍很強。一隻濕淋淋的大象班從山路走來，帶著村裡救助人員的消息。河水在橋旁形成大片水池，任何人都不該試著過橋。菲雅把消息大聲念出。「我們不出去，」她告訴莫斯和皮普，「等救助人員回來，可以在這裡替他們做湯。」莫斯把圓鍋放上爐，皮普檢查乾燥架。他們有麵包、馬鈴薯和乾淨水。這工作不刺激，卻是能安全做好的事。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

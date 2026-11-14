@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 5,
+  "chapterId": "tomorrow-5",
+  "sourceChapterSha256": "b6773eae2043d8ec3873b3a096aa642dbbbd0deeccb4e1a9f0bb300f1e02386a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "Leo 承認舊影像資料夾未保護；錢箱照片與校長收據",
+    "previousChapterEndingEnglish": "When Sam left, Leo turned to me. “You haven't shown me everything.” I opened the voice file at last. My voice filled the empty hall. June, wait. Give me the phone. Leo listened twice. “That's from the school film folder,” he said. “Only three people had the link.” “You, June, and who?” He looked toward the stage doors. From inside came Kai's voice, testing a microphone.",
+    "nextChapterOpeningEnglish": "Ms Lin read the messages without once saying that we were being too sensitive. She placed her phone beside mine and asked before taking pictures. When she reached the old voice file, I looked at the clock. Its second hand seemed very loud. “Is that your voice?” she asked. I nodded. “Do you remember what happened around those words?” I remembered. I had worked hard not to."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Kai saw us through the open stage door. “Come help,” he called. “I need two normal people to test the seats.” Leo looked at me. We went in, but we stayed near the door. The hall smelled of warm wood and dust. Paper stars hung above the stage. In three days, parents would sit here and clap while Kai told them what a happy school this was.",
+        "zh": "Kai 從開著的舞台門看見我們。「來幫忙，」他喊，「我需要兩個正常人測試座位。」Leo 看我一眼。我們進去，卻留在門邊。禮堂有溫熱木頭和灰塵的味道，紙星星掛在舞台上。三天後，家長會坐在這裡鼓掌，聽 Kai 說這是多快樂的學校。",
+        "englishSha256": "c77bb5919cca2c257f9eb165c106b1e4cb41eee6f623dd385ef9257c69f484b4",
+        "chineseSha256": "a0d86278deccaa802850b380b85b2dbc4699ef601eb0e4022852634bd5b75639"
+      },
+      {
+        "number": 2,
+        "en": "“What happened to June's film?” I asked. Kai lowered the microphone. A sharp sound jumped from the speakers, and we all covered our ears. “Which one?” “The one for Friday.” “She left. We used something else.” He smiled, but only with his mouth. “Mia, people are saying strange things today. If you keep walking around like this, they'll think you have something to hide.”",
+        "zh": "「June 的影片怎麼了？」我問。Kai 放低麥克風，喇叭突然尖叫，我們都摀住耳朵。「哪一部？」「星期五要播的。」「她走了，我們換別的。」他只有嘴巴在笑。「Mia，今天大家說很多怪話。妳一直這樣到處跑，他們會以為妳藏了什麼。」",
+        "englishSha256": "dbcb91e850e39cccbb927720b3df1b6d5db5406fbc56ecff0cfeb7edb4fe44d1",
+        "chineseSha256": "d065c19b9b0ae5b59bd392a3cca85cf0aabebdda23259671aff60174c219de71"
+      },
+      {
+        "number": 3,
+        "en": "“Everyone has something they don't want on a wall,” Leo said. Kai looked at him. “Sure. Like bad code.” The words sat between them. I did not understand, but Leo did. His hand closed around the strap of his bag. Kai turned the microphone back on. “Testing. One, two.” The loud sound pushed us out of the hall. He did not have to ask us to leave.",
+        "zh": "「每個人都有不想被貼到牆上的事。」Leo 說。Kai 看他。「當然，例如爛程式。」那句話停在兩人之間。我不懂，但 Leo 懂。他握緊書包背帶。Kai 又開麥克風：「測試，一、二。」巨大的聲音把我們趕出禮堂，他不必開口叫我們走。",
+        "englishSha256": "9de31eb76615664e012fe6758ceb2c0aa081e4082aad762b013005fef88ecd3a",
+        "chineseSha256": "7cb281a300900cea4f42edd51d824bfc7abbdf15ee708181bb641b32c072e3b2"
+      },
+      {
+        "number": 4,
+        "en": "Outside, I asked Leo what he meant. Leo said the old film folder was supposed to be private. He had made it for June to share videos with the school show team. He used the same storage space as the public Later project. “I thought the folder link was enough,” he said. “I was fourteen. I didn't know better.” He had fixed it last month, after June left.",
+        "zh": "到了外面，我問那是什麼意思。Leo 說舊影片資料夾本來應該是私人的，是他讓 June 與表演團隊分享影片用的。他把它放在公開 Later 專案使用的同一個儲存空間。「我以為只要藏好連結就夠了，」他說，「那時才十四歲，不懂。」June 離開後的上個月，他才修好。",
+        "englishSha256": "2d4a5dff5fe39930a939f5a48ef4c839c09aef8985d26487adcd2bc614bf31b3",
+        "chineseSha256": "8a8ab34dc86d411b83233b9f0cc109e2bac039bbe9322c1d9f80f1a2c246372c"
+      },
+      {
+        "number": 5,
+        "en": "“So other people could get in?” “Anyone with the right link. I told Mr Reed when I found out.” “Did he tell June?” Leo shook his head. “He said he would speak to her family. Then he asked me to stop talking about it until the school checked.” I felt angry at Leo, at Mr Reed, at myself for wanting one simple bad person to explain everything.",
+        "zh": "「所以別人進得去？」「有正確連結就行。我發現後告訴過校長。」「他有告訴 June 嗎？」Leo 搖頭。「他說會聯絡她家人，叫我等學校查清楚前先別談。」我對 Leo、校長生氣，也氣自己只想找到一個簡單的壞人，解釋所有事。",
+        "englishSha256": "0e35e373f11ed1f189975a24fb5153654396de4013d494336d123e3469484c88",
+        "chineseSha256": "6a7b2cd4be2bc6b0c7695a174bf971c726e0048389e107f6dbb3b920e90d0eb4"
+      },
+      {
+        "number": 6,
+        "en": "My phone rang. For one bright second, I thought it was June. It was Ms Lin. She could meet us after her last class, at four. She asked if anyone was unsafe right now. I looked at Leo. He shook his head. I said we were together and would come. Her voice became clear and firm. “Keep the messages. Please don't go looking for people alone.”",
+        "zh": "手機響了。有個明亮的瞬間，我以為是 June，結果是林老師。她能在四點最後一堂課後見我們，先問有沒有人現在不安全。我看 Leo，他搖頭。我說我們待在一起，會過去。她的聲音清楚而堅定：「留著訊息。請不要獨自去找人。」",
+        "englishSha256": "9c036698434a03e5cf0ea71e574fe2cae519c60c9655e143d8dfaf1e851d5c9c",
+        "chineseSha256": "5bc54c109a2999c3f1b7fef4d83d4dc6dfd8aa3c3fdd52fc73d7e64cc2398e09"
+      },
+      {
+        "number": 7,
+        "en": "We waited in the library, where nobody was allowed to play videos out loud. Leo opened his laptop. He could not see my Later account without my permission, so I signed in myself. There were three new letters waiting to be sent later that day. Their titles were Tuesday Night, Wednesday Morning, and If You Tell a Teacher. The last title made my stomach turn.",
+        "zh": "我們在不能外放影片的圖書館等候。Leo 打開筆電。他未經同意不能看我的 Later 帳號，所以由我自己登入。裡面有三封預定當天稍後寄出的信，標題分別是「星期二晚上」、「星期三早上」和「如果妳告訴老師」。最後一個讓我胃縮起來。",
+        "englishSha256": "df9f11277e2a6a6bc02b71e1b7c9dcb3915e4a7be1c0ded5d2d4ad8a0da7490a",
+        "chineseSha256": "43303745d1fe37ac77f6959c27295f5796044700ee0511704ff01e1c1e7059bf"
+      },
+      {
+        "number": 8,
+        "en": "I opened it anyway. The letter was only one line: Ask what happened to the money before you trust the adults. Below it was a photo of an empty cash box. A little piece of white paper lay inside. It was a receipt. I made the picture larger. The date matched the day June left. The name at the bottom was not June's. It was Principal Reed's.",
+        "zh": "我還是打開了。信只有一行：信任大人之前，先問錢去了哪裡。下面是一張空錢盒的照片，裡面躺著一小張白紙，是收據。我放大圖片，日期與 June 離開的那天相同。最下方的名字不是 June，是 Reed 校長。",
+        "englishSha256": "fee956e6d5a7bbb7d2c72582f5000e7a85218e33bfcd928ae71906cc55de19ed",
+        "chineseSha256": "b70567179d5da2b20f590b866f7c7acf9ee7a4f1995000d998ef0b730b565029"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 531,
+    "targets": [
+      {
+        "word": "bottom",
+        "meaning": "底部",
+        "appearsInSource": true
+      },
+      {
+        "word": "come",
+        "meaning": "來",
+        "appearsInSource": true
+      },
+      {
+        "word": "day",
+        "meaning": "天；日子",
+        "appearsInSource": true
+      },
+      {
+        "word": "enough",
+        "meaning": "足夠的；足夠地",
+        "appearsInSource": true
+      },
+      {
+        "word": "explain",
+        "meaning": "解釋",
+        "appearsInSource": true
+      },
+      {
+        "word": "family",
+        "meaning": "家庭；家人",
+        "appearsInSource": true
+      },
+      {
+        "word": "go",
+        "meaning": "去",
+        "appearsInSource": true
+      },
+      {
+        "word": "happy",
+        "meaning": "開心的",
+        "appearsInSource": true
+      },
+      {
+        "word": "head",
+        "meaning": "頭；前往",
+        "appearsInSource": true
+      },
+      {
+        "word": "here",
+        "meaning": "這裡",
+        "appearsInSource": true
+      },
+      {
+        "word": "hide",
+        "meaning": "躲藏；藏起",
+        "appearsInSource": true
+      },
+      {
+        "word": "inside",
+        "meaning": "在裡面；內部",
+        "appearsInSource": true
+      },
+      {
+        "word": "keep",
+        "meaning": "保留；繼續",
+        "appearsInSource": true
+      },
+      {
+        "word": "know",
+        "meaning": "知道",
+        "appearsInSource": true
+      },
+      {
+        "word": "last",
+        "meaning": "最後的；上一個；持續",
+        "appearsInSource": true
+      },
+      {
+        "word": "later",
+        "meaning": "之後；Later（故事中的網站）",
+        "appearsInSource": true
+      },
+      {
+        "word": "piece",
+        "meaning": "一片；一塊",
+        "appearsInSource": true
+      },
+      {
+        "word": "play",
+        "meaning": "玩；播放",
+        "appearsInSource": true
+      },
+      {
+        "word": "strange",
+        "meaning": "奇怪的",
+        "appearsInSource": true
+      },
+      {
+        "word": "test",
+        "meaning": "測試；考試",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What mistake does Leo admit?",
+      "options": [
+        "He wrote all the new messages.",
+        "The old video folder was not properly private.",
+        "He took money from the cash box."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The old video folder was not properly private.",
+      "existingAnswerExplanation": "The old video folder was not properly private.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Outside, I asked Leo what he meant. Leo said the old film folder was supposed to be private. He had made it for June to share videos with the school show team. He used the same storage space as the public Later project. “I thought the folder link was enough,” he said. “I was fourteen. I didn't know better.” He had fixed it last month, after June left.",
+          "chinese": "到了外面，我問那是什麼意思。Leo 說舊影片資料夾本來應該是私人的，是他讓 June 與表演團隊分享影片用的。他把它放在公開 Later 專案使用的同一個儲存空間。「我以為只要藏好連結就夠了，」他說，「那時才十四歲，不懂。」June 離開後的上個月，他才修好。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "Kai saw us through the open stage door. “Come help,” he called. “I need two normal people to test the seats.” Leo looked at me. We went in, but we stayed near the door. The hall smelled of warm wood and dust. Paper stars hung above the stage. In three days, parents would sit here and clap while Kai told them what a happy school this was.",
+          "chinese": "Kai 從開著的舞台門看見我們。「來幫忙，」他喊，「我需要兩個正常人測試座位。」Leo 看我一眼。我們進去，卻留在門邊。禮堂有溫熱木頭和灰塵的味道，紙星星掛在舞台上。三天後，家長會坐在這裡鼓掌，聽 Kai 說這是多快樂的學校。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Whose name appears on the receipt in the photograph?",
+      "options": [
+        "Principal Reed's.",
+        "Sam's.",
+        "Leo's."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Principal Reed's.",
+      "existingAnswerExplanation": "空錢盒照片裡的收據署名是 Principal Reed，而不是 June。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "I opened it anyway. The letter was only one line: Ask what happened to the money before you trust the adults. Below it was a photo of an empty cash box. A little piece of white paper lay inside. It was a receipt. I made the picture larger. The date matched the day June left. The name at the bottom was not June's. It was Principal Reed's.",
+          "chinese": "我還是打開了。信只有一行：信任大人之前，先問錢去了哪裡。下面是一張空錢盒的照片，裡面躺著一小張白紙，是收據。我放大圖片，日期與 June 離開的那天相同。最下方的名字不是 June，是 Reed 校長。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "Kai saw us through the open stage door. “Come help,” he called. “I need two normal people to test the seats.” Leo looked at me. We went in, but we stayed near the door. The hall smelled of warm wood and dust. Paper stars hung above the stage. In three days, parents would sit here and clap while Kai told them what a happy school this was.",
+          "chinese": "Kai 從開著的舞台門看見我們。「來幫忙，」他喊，「我需要兩個正常人測試座位。」Leo 看我一眼。我們進去，卻留在門邊。禮堂有溫熱木頭和灰塵的味道，紙星星掛在舞台上。三天後，家長會坐在這裡鼓掌，聽 Kai 說這是多快樂的學校。",
+          "matchedQueryTerms": 0
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

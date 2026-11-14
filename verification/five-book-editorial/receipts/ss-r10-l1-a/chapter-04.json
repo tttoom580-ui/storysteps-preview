@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 4,
+  "chapterId": "ss-r10-l1-a-4",
+  "sourceChapterSha256": "4666d27017693914ba2331582b43fadd808bf75c2a421f93108e4b4c8c0fc4d2",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "紙雲與手扇示範天氣；區分家族故事和科學觀測",
+    "previousChapterEndingEnglish": "Back in the room, Nia asked people to tell her what had been easy and what had been hard. Mrs. Sol said the beach path was flat, but the bridge had a step that made her slow down. Bo said that he liked the bird, but he did not like waiting beside the road. Ada wrote both comments beside the map. These notes were not a test of the people. They were a test of the lesson. Nia moved the next week's outdoor plan to a shorter path. She also made a rule: any person could ask for a break. Looking at the sky should never mean leaving someone behind.",
+    "nextChapterOpeningEnglish": "For the next lesson, Nia made a long paper ruler. Finn wanted to know the height of a star, but she explained that stars were too far away to measure with an ordinary ruler. \"Then what is the point of this?\" he asked. Nia showed how the ruler could help them compare the height of a lamp and a picture on the wall. That was something they could truly measure. During the lesson, Mrs. Sol put a small bean on the table to mark one end. A child added a toy frog to mark the other end. The class laughed, but the bean and frog made the distance easy to see."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Tuesday, a strong wind began to blow through Red Brick Street. A dark cloud covered the sun. Nia watched a butterfly fly past the window and wondered how she could explain the weather in simple words. Downstairs, a worker from the paper factory had come to fix a door. He saw her blue paper squares and said they looked like little pieces of the sky. \"That is the idea,\" Nia said. \"We want to make a sky that children can change.\" The worker offered some cheap clean paper from the factory. He would bring it to the center after his shift. Nia thanked him for the service, but asked that the paper have no sharp edges.",
+        "zh": "星期二，強風開始吹過紅磚街，深色雲朵遮住太陽。妮雅看著一隻蝴蝶飛過窗邊，想著該如何用簡單的話解釋天氣。樓下有位造紙廠員工來修門，他看見妮雅的藍色方紙，說那些紙像一小片一小片的天空。「就是這個意思，」妮雅說，「我們想做一片孩子能改變的天空。」員工願意提供工廠裡一些便宜又乾淨的紙，等下班後送到中心。妮雅謝謝他的幫忙，但特別請他確認紙張沒有銳利邊緣。",
+        "englishSha256": "289601c57328040659bc7c4fab607a7d156a06b1263284d85231f6aede5bc10f",
+        "chineseSha256": "6177736fc7f03d437c0f258f98533a6c530f587104ae1d3bf2e5a0f4c34b9d25"
+      },
+      {
+        "number": 2,
+        "en": "That evening, Mara brought tomatoes from the town market. She wanted to tell a story about the way her father watched clouds before planting. \"He was a tall man,\" she said, \"and he could name the rain by its smell.\" Finn's mother, who was sitting nearby, gave a small shake of her head. \"We should not tell children that every old saying is science,\" she said. Nia listened to both women. \"We can share a family story,\" she answered, \"without calling it a fact. Tomorrow we can look at a weather report and compare.\" Mara smiled. Her father's memory mattered even if it did not work as a weather tool.",
+        "zh": "那天傍晚，瑪拉從鎮上市場帶來番茄。她想講父親以前如何在播種前看雲。「他個子很高，」她說，「還說自己能靠氣味認出雨。」坐在旁邊的芬恩媽媽輕輕搖頭。「我們不該告訴孩子，所有古老的說法都是科學，」她說。妮雅聽完兩人的話。「我們可以分享家人的故事，」她回答，「但不用把它當成事實。明天我們可以對照天氣報告。」瑪拉笑了。即使父親的記憶不能當成預報工具，那段回憶仍然很重要。",
+        "englishSha256": "62422a589491657319d6eb147a18a57344984035adf8f86330de314462ac0929",
+        "chineseSha256": "126bfd5a137a6976048d9bc78ec0f475dba92dddd7563581dc297bdcc5f09aba"
+      },
+      {
+        "number": 3,
+        "en": "The next day, Nia put a square of paper on the wall. She asked Bo to drop three paper clouds below it. One fell quickly, and two moved from side to side. He wanted to do the test again with the window open. Nia said no; the room was above a street, and loose paper could fly outside. \"We can work without opening the window,\" she explained. Ada held a small hand fan, and Bo could see the clouds move when it blew. They laughed as one cloud turned over. Nia reminded them to keep the fan away from faces. A healthy class was more important than a fast demonstration.",
+        "zh": "隔天，妮雅在牆上貼了一張方紙，請波從它的下方放開三朵紙雲。一朵很快落下，另外兩朵左右飄動。波想打開窗戶再試一次。妮雅說不行；教室在街道上方，紙片可能飛出去。「不開窗也能做實驗，」她解釋。艾達拿著小扇子，波看見風吹來時紙雲跟著移動。一朵紙雲翻了面，大家笑起來。妮雅提醒孩子把扇子遠離臉部。健康安全的課堂，比做得快更重要。",
+        "englishSha256": "8d37a6879c7782f70e95221948dd45a874e26e751d135130ff43dd6c6efdc351",
+        "chineseSha256": "c0dc7fea4994782cd66e823054080f6eca827dd1ac1e1cc5fbaa4b7ea85627d8"
+      },
+      {
+        "number": 4,
+        "en": "At the end of the lesson, a boy asked, \"Sir, does the weather make the stars go away?\" He had spoken to Arun, who was carrying chairs. Arun pointed to Nia instead of pretending to know. Nia said that clouds could hide stars from our eyes, but the stars were still there. \"She knows much more about that,\" Arun said kindly. Nia liked the way he made space for her answer. The question went onto the wall under a heading called \"Things We Cannot See Yet.\" Nobody wanted the lesson to end, even though the rain outside was getting louder and everyone had a dry trip home to plan.",
+        "zh": "課程結束時，一個男孩問：「先生，天氣會讓星星消失嗎？」他問的是正在搬椅子的亞倫。亞倫沒有假裝自己知道，而是指向妮雅。妮雅說，雲會擋住我們的視線，但星星仍在那裡。「這方面她懂得比較多，」亞倫親切地說。妮雅很喜歡他讓她自己回答的方式。這個問題被貼到牆上，放在「我們暫時看不見的事」標題下。雖然外面的雨聲越來越大，大家也需要安排安全回家的方法，卻都捨不得下課。",
+        "englishSha256": "64fc9bbceddcd5449cb2860fb054a1099324e780f493b7b87c2a26f8d9c8b02a",
+        "chineseSha256": "9202509cadce78f763775c77174e1e6b59db85df229776161043fcd5104377da"
+      },
+      {
+        "number": 5,
+        "en": "Mara sliced one tomato for a snack and asked whether the children could use its round shape in a drawing. Nia said the tomato could be a model of a round object, but it was not a good way to show the size of the sun. \"The important word is model,\" she explained. \"It helps us think, but it is not the thing itself.\" Bo drew a circle beside his paper cloud. He said a cloud did not have to be round like the tomato. Ada agreed and asked him to look through the window at the clouds that were still moving. The children made several different cloud shapes, then put their drawings in a folder. They had learned to see a difference between a shape they invented and a shape they actually observed.",
+        "zh": "瑪拉切了一顆番茄當點心，問孩子能不能拿它的圓形來畫圖。妮雅說，番茄可以用來代表圓形物體，卻不是展示太陽大小的好方法。「重要的詞是模型，」她解釋，「它能幫我們思考，但不是真正的東西。」波在紙雲旁畫了一個圓圈，說雲不一定像番茄那樣圓。艾達同意，請他望向窗外還在移動的雲。孩子們畫出好幾種不同形狀的雲，再把畫放進資料夾。他們學會分辨自己想像的形狀，和真正觀察到的形狀。",
+        "englishSha256": "133fc756106c91b2c6af90bb2692a600c12ad1060bfabcd30c336224f2050653",
+        "chineseSha256": "7c04ac4071cf7632f1a26f8416d3c53293f3decf231413e4fe8f5ecbbbb2ca54"
+      },
+      {
+        "number": 6,
+        "en": "After the last family left, Nia checked the floor for wet paper. She found a blue square near the door and put it into the dry box. She and Arun made a short list: wipe the tables, close the window, turn the fan off, and move the chairs away from the stairs. These small jobs took time. Nia used to think that a teacher's work began when the children arrived. Now she saw that a good lesson also needed quiet work before and after. She left the room with the weather report in her hand and a new question in her mind: Could a cloudy day still be a good day for a star class?",
+        "zh": "最後一個家庭離開後，妮雅檢查地板上有沒有濕紙。她在門邊找到一張藍色方紙，把它放進乾燥的箱子。她和亞倫列出一張小清單：擦桌子、關窗、關掉扇子、把椅子移離樓梯。這些小工作也花時間。妮雅以前以為老師的工作從孩子進門才開始，現在她看見一堂好課也需要課前課後的安靜準備。她手裡拿著天氣報告離開，心裡多了一個問題：陰天也能成為很好的星星課嗎？",
+        "englishSha256": "bd8e040d8d9096a5281dadab0986fc0a6b8b9d134890f3c864abd80592f660dc",
+        "chineseSha256": "cc79a98e0a501d1250175dd403ab5259fe10595eb1f86d427bdd2972a2059b28"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 695,
+    "targets": [
+      {
+        "word": "blow",
+        "meaning": "吹",
+        "appearsInSource": true
+      },
+      {
+        "word": "boy",
+        "meaning": "男孩",
+        "appearsInSource": true
+      },
+      {
+        "word": "butterfly",
+        "meaning": "蝴蝶",
+        "appearsInSource": true
+      },
+      {
+        "word": "cheap",
+        "meaning": "便宜的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cloud",
+        "meaning": "雲",
+        "appearsInSource": true
+      },
+      {
+        "word": "drop",
+        "meaning": "落下",
+        "appearsInSource": true
+      },
+      {
+        "word": "factory",
+        "meaning": "工廠",
+        "appearsInSource": true
+      },
+      {
+        "word": "healthy",
+        "meaning": "健康的",
+        "appearsInSource": true
+      },
+      {
+        "word": "off",
+        "meaning": "關閉／離開",
+        "appearsInSource": true
+      },
+      {
+        "word": "service",
+        "meaning": "服務",
+        "appearsInSource": true
+      },
+      {
+        "word": "shake",
+        "meaning": "搖頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "she",
+        "meaning": "她",
+        "appearsInSource": true
+      },
+      {
+        "word": "Sir",
+        "meaning": "先生",
+        "appearsInSource": true
+      },
+      {
+        "word": "square",
+        "meaning": "方形的",
+        "appearsInSource": true
+      },
+      {
+        "word": "story",
+        "meaning": "故事",
+        "appearsInSource": true
+      },
+      {
+        "word": "tall",
+        "meaning": "高的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tomato",
+        "meaning": "番茄",
+        "appearsInSource": true
+      },
+      {
+        "word": "town",
+        "meaning": "小鎮",
+        "appearsInSource": true
+      },
+      {
+        "word": "without",
+        "meaning": "沒有／不靠",
+        "appearsInSource": true
+      },
+      {
+        "word": "worker",
+        "meaning": "工人",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What moves the paper clouds in the classroom?",
+      "options": [
+        "A real storm.",
+        "A small hand fan.",
+        "A large boat."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "A small hand fan.",
+      "existingAnswerExplanation": "艾達用手持小扇子讓紙雲移動。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The next day, Nia put a square of paper on the wall. She asked Bo to drop three paper clouds below it. One fell quickly, and two moved from side to side. He wanted to do the test again with the window open. Nia said no; the room was above a street, and loose paper could fly outside. \"We can work without opening the window,\" she explained. Ada held a small hand fan, and Bo could see the clouds move when it blew. They laughed as one cloud turned over. Nia reminded them to keep the fan away from faces. A healthy class was more important than a fast demonstration.",
+          "chinese": "隔天，妮雅在牆上貼了一張方紙，請波從它的下方放開三朵紙雲。一朵很快落下，另外兩朵左右飄動。波想打開窗戶再試一次。妮雅說不行；教室在街道上方，紙片可能飛出去。「不開窗也能做實驗，」她解釋。艾達拿著小扇子，波看見風吹來時紙雲跟著移動。一朵紙雲翻了面，大家笑起來。妮雅提醒孩子把扇子遠離臉部。健康安全的課堂，比做得快更重要。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 6,
+          "english": "After the last family left, Nia checked the floor for wet paper. She found a blue square near the door and put it into the dry box. She and Arun made a short list: wipe the tables, close the window, turn the fan off, and move the chairs away from the stairs. These small jobs took time. Nia used to think that a teacher's work began when the children arrived. Now she saw that a good lesson also needed quiet work before and after. She left the room with the weather report in her hand and a new question in her mind: Could a cloudy day still be a good day for a star class?",
+          "chinese": "最後一個家庭離開後，妮雅檢查地板上有沒有濕紙。她在門邊找到一張藍色方紙，把它放進乾燥的箱子。她和亞倫列出一張小清單：擦桌子、關窗、關掉扇子、把椅子移離樓梯。這些小工作也花時間。妮雅以前以為老師的工作從孩子進門才開始，現在她看見一堂好課也需要課前課後的安靜準備。她手裡拿著天氣報告離開，心裡多了一個問題：陰天也能成為很好的星星課嗎？",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Nia say about Mara's family weather story?",
+      "options": [
+        "A family story is not always a scientific fact.",
+        "Every old story is always true.",
+        "No one may tell old stories."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A family story is not always a scientific fact.",
+      "existingAnswerExplanation": "妮雅尊重家庭回憶，但提醒大家不能直接把它當作科學事實。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "That evening, Mara brought tomatoes from the town market. She wanted to tell a story about the way her father watched clouds before planting. \"He was a tall man,\" she said, \"and he could name the rain by its smell.\" Finn's mother, who was sitting nearby, gave a small shake of her head. \"We should not tell children that every old saying is science,\" she said. Nia listened to both women. \"We can share a family story,\" she answered, \"without calling it a fact. Tomorrow we can look at a weather report and compare.\" Mara smiled. Her father's memory mattered even if it did not work as a weather tool.",
+          "chinese": "那天傍晚，瑪拉從鎮上市場帶來番茄。她想講父親以前如何在播種前看雲。「他個子很高，」她說，「還說自己能靠氣味認出雨。」坐在旁邊的芬恩媽媽輕輕搖頭。「我們不該告訴孩子，所有古老的說法都是科學，」她說。妮雅聽完兩人的話。「我們可以分享家人的故事，」她回答，「但不用把它當成事實。明天我們可以對照天氣報告。」瑪拉笑了。即使父親的記憶不能當成預報工具，那段回憶仍然很重要。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 6,
+          "english": "After the last family left, Nia checked the floor for wet paper. She found a blue square near the door and put it into the dry box. She and Arun made a short list: wipe the tables, close the window, turn the fan off, and move the chairs away from the stairs. These small jobs took time. Nia used to think that a teacher's work began when the children arrived. Now she saw that a good lesson also needed quiet work before and after. She left the room with the weather report in her hand and a new question in her mind: Could a cloudy day still be a good day for a star class?",
+          "chinese": "最後一個家庭離開後，妮雅檢查地板上有沒有濕紙。她在門邊找到一張藍色方紙，把它放進乾燥的箱子。她和亞倫列出一張小清單：擦桌子、關窗、關掉扇子、把椅子移離樓梯。這些小工作也花時間。妮雅以前以為老師的工作從孩子進門才開始，現在她看見一堂好課也需要課前課後的安靜準備。她手裡拿著天氣報告離開，心裡多了一個問題：陰天也能成為很好的星星課嗎？",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

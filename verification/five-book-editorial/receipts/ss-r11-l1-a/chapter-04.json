@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 4,
+  "chapterId": "ss-r11-l1-a-4",
+  "sourceChapterSha256": "e02946163647f6b0df145b6b739d95728ee11e9f8a6bdfc4aa0123567e4b43ea",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "暴雨後維修導致花園器物移存；需查儲藏室",
+    "previousChapterEndingEnglish": "Back at school Ivy drew the cart beside her first map. She crossed out the idea that wheel marks alone could lead them to the box. Then Mr. Reed showed her the garden gate. A new sign had appeared there: “Work area. Keep clear.” It had not been there last week. Someone was making repairs near the garden, and the work had started before the box went missing. Ivy copied the sign into her notes. At last they had a question about the place itself, not just a mark on the road.",
+    "nextChapterOpeningEnglish": "On Monday Ms. Wen took the club to the garden without the green box. “We can still learn,” she said. The children put bean seeds from a class bag into small cups. They used a tool to dig little holes, then covered the seeds with earth. A frog sat near the water bowl, watching them. A hen from the school farm walked by with her neck held high. Jun wanted to race the others and finish first, but Ivy reminded him that a plant could not grow in one minute."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A cool wind began to blow across the school yard. A cloud covered the morning sun. Near the garden, two workers from a small factory were setting square stones beside a new water pipe. One tall worker lifted a cheap plastic cover from a pile of tools. Ivy stood behind the safety line with Ms. Wen. She did not step into the work area. A butterfly flew past the stones, and a little boy ran after it. The worker asked him to stop before he fell. The boy listened and went back to his class.",
+        "zh": "一陣涼風吹過校園。雲遮住了早晨的太陽。花園旁，兩位來自小工廠的工人正在新水管旁放置方形石塊。一位高個子工人掀開一張便宜的塑膠罩布。艾薇和溫老師站在安全線後，沒有踏進施工區。一隻蝴蝶飛過石頭旁，一個小男孩追著牠跑。工人請他停下，以免跌倒。男孩聽話，回到自己的班級。",
+        "englishSha256": "03b5a47d288223bfce2be0ba8ffcd9b800210a09b6127caeda5774c4da9e5f7d",
+        "chineseSha256": "6f569c4a1fd81acdb9ea6e355224bbdc58c4c9e4f7cf660fbced475814259b00"
+      },
+      {
+        "number": 2,
+        "en": "Mr. Sun turned off a loud tool so that Ivy could hear his answer. The sudden quiet made everyone look up. As he moved the tool, its metal handle began to shake. He set it safely on the ground before speaking. “A repair site is not a place for children to search,” he said. “If something was moved, let us check the work notes.” Ivy nodded. She was glad the worker did not treat her question as a problem. He had a job to do, and she had a question that could be answered without putting anyone in danger.",
+        "zh": "孫先生把一個很吵的工具關掉，好讓艾薇能聽清楚回答。突然安靜下來，大家都抬起頭。他移動工具時，金屬把手開始搖動，他先把工具安全放到地面上才開口。「施工現場不是孩子搜尋的地方，」他說，「如果有東西被搬動，就先查工作紀錄。」艾薇點頭。她很高興工人沒有把她的提問當成麻煩。他有工作要做，她也有問題要問，而且可以在不讓任何人冒險的情況下得到回答。",
+        "englishSha256": "51c62e052a2010395dbdc61708b842254104545f21b4681e4deb870031d1b286",
+        "chineseSha256": "4243cf27a000f899474e3c1ad5ff91662807043ec07a99fa5ed33451dcf135f2"
+      },
+      {
+        "number": 3,
+        "en": "The workers were giving a service to the school: fixing the old pipe without closing the garden for the whole year. One man introduced himself as Mr. Sun. “Sir, may we ask about a green box?” Jun said politely. Mr. Sun shook his head, then pointed to a sheet of paper. He had a story about the first day of work. During the rain, several things had been moved away from the pipe. He had not moved them himself. A school worker had taken them inside, so no heavy stone could drop on them.",
+        "zh": "工人正在替學校提供維修服務：把舊水管修好，讓花園不必關閉一整年。一名男子自我介紹姓孫。「先生，請問我們能問一個綠箱子的事嗎？」俊有禮貌地說。孫先生搖搖頭，接著指向一張紙。他說起開工第一天的事。下雨時，有幾樣東西從水管旁被移開，以免被重物砸到。不過不是他親手搬走的，而是一位學校工作人員把那些東西拿進屋裡。",
+        "englishSha256": "d3b7afcb69cd322d1f47435a882926145b4110ec77ff3e366849cbfcfbd30a23",
+        "chineseSha256": "81c91478a5b9115544b1d7e900270de7ac2bdd4662d392db528ac6cd6149cd03"
+      },
+      {
+        "number": 4,
+        "en": "Ivy asked what the things looked like. Mr. Sun remembered a tomato plant, a box of old story books, and a square tray. He was not sure about the color of every item. His hands were busy, and the town had sent another worker to help that morning. “I cannot say more without checking,” he said. Ivy thanked him. She would not turn his unclear memory into a clear answer. Ms. Wen wrote down the date of the work and the name of the person who had moved the items.",
+        "zh": "艾薇問那些東西長什麼樣。孫先生記得有一株番茄、一箱舊故事書和一個方形托盤，但不確定每件東西的顏色。那天他手上忙著工作，鎮公所又派來另一名工人幫忙。「沒有查清楚，我不能多說，」他說。艾薇向他道謝。她不會把模糊的記憶變成明確的答案。溫老師記下施工日期，以及搬運物品的人名。",
+        "englishSha256": "460978bacb44e1018e83fd82463a1f8a20b7cb226c80c11f4666795a7c792bde",
+        "chineseSha256": "495d2bdc2d3d7eb44a4b48403acc96f1b8a7026ec865ec429cd9a998e7c06bb2"
+      },
+      {
+        "number": 5,
+        "en": "On the way back, Jun said he was surprised that the workers remembered so little about the boxes. Ivy pointed at the long repair area. The workers had moved stones, pipes, plants, and tools while the rain fell. Remembering the color of one box was not the main part of their job. “We should ask for notes, not perfect memories,” she said. Jun agreed and put a small square beside the new question in their book. They would mark it when an adult had checked the room list.",
+        "zh": "回程時，俊說他很驚訝，工人對箱子的記憶竟然那麼少。艾薇指著長長的施工區。下雨時，工人需要搬石頭、水管、植物和工具。記住某個箱子的顏色，不是他們工作的主要部分。「我們應該找紀錄，而不是要求別人有完美的記憶，」她說。俊同意，在筆記本的新問題旁畫了一個小方格。等大人確認房間清單後，他們就會在方格裡打勾。",
+        "englishSha256": "9c3e798e75495ea070e02c9f79dc799f0bebb768ea24e0eb933e9a8e91eec39a",
+        "chineseSha256": "89f1197d58f19a5d9e18f0a0a97a66c144b21c1c0cef2510b582b49eb458bbdc"
+      },
+      {
+        "number": 6,
+        "en": "At home Ivy told her mother about the repairs. Her mother made soup with tomatoes and said it was healthy to ask a question without making a fight. Ivy smiled, but she did not feel ready to celebrate. They had learned that the box might have been moved for safety. They still did not know where it was. She put her notes on the table and looked out over the town. The rain had stopped, yet the ground beside the garden was still wet. Someone would have to check the storage rooms next.",
+        "zh": "回到家後，艾薇告訴媽媽維修的事。媽媽用番茄煮湯，說能夠不吵架地提出問題，是很健康的做法。艾薇笑了，卻還不想慶祝。他們知道箱子可能為了安全被搬走，但仍不知道它在哪裡。她把筆記放在桌上，望向小鎮。雨停了，花園旁的地面還是濕的。接下來得有人去查儲藏室。",
+        "englishSha256": "8a0c3498ffd8da239f520b99c33bc443dbc0abe1dc0932cd49e245adf69f672b",
+        "chineseSha256": "5e597c00c49f8a001e62892a08d38e4bfc083cb73cb2524825ce6973f2158da1"
+      },
+      {
+        "number": 7,
+        "en": "On Friday the club held a short meeting. Without blaming anyone, they made a new list: the box was on the shelf before the repair; a worker moved garden things inside; and the school had several storage rooms. Ivy asked Jun to draw a plan of the rooms from the school map. A drop of water fell from his wet hair onto the page, and he shook his head with a laugh. “Even the weather wants to add a mark,” he said. They agreed to ask before entering any room.",
+        "zh": "星期五，社團開了一場簡短會議。大家沒有責怪任何人，而是列出新清單：維修前箱子還在架上；有人把園藝物品搬進室內；學校有好幾間儲藏室。艾薇請俊依學校地圖畫出各個儲藏室的位置。一滴水從俊濕濕的頭髮落到紙上，他笑著搖頭。「連天氣都想幫忙加一個記號。」他說。大家同意進入任何房間前都先取得許可。",
+        "englishSha256": "6a4ebd78d72355d45a1db365809aa94b1ad3acee6f728a51f704cf6456940c60",
+        "chineseSha256": "613c56469c9d43eafcffb8cde1bc993d1555c863aec1a4282d1e1e68e546fa8b"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 649,
+    "targets": [
+      {
+        "word": "blow",
+        "meaning": "吹",
+        "appearsInSource": true
+      },
+      {
+        "word": "boy",
+        "meaning": "男孩",
+        "appearsInSource": true
+      },
+      {
+        "word": "butterfly",
+        "meaning": "蝴蝶",
+        "appearsInSource": true
+      },
+      {
+        "word": "cheap",
+        "meaning": "便宜的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cloud",
+        "meaning": "雲",
+        "appearsInSource": true
+      },
+      {
+        "word": "drop",
+        "meaning": "落下",
+        "appearsInSource": true
+      },
+      {
+        "word": "factory",
+        "meaning": "工廠",
+        "appearsInSource": true
+      },
+      {
+        "word": "healthy",
+        "meaning": "健康的",
+        "appearsInSource": true
+      },
+      {
+        "word": "off",
+        "meaning": "關掉",
+        "appearsInSource": true
+      },
+      {
+        "word": "service",
+        "meaning": "服務",
+        "appearsInSource": true
+      },
+      {
+        "word": "shake",
+        "meaning": "搖動",
+        "appearsInSource": true
+      },
+      {
+        "word": "She",
+        "meaning": "她",
+        "appearsInSource": true
+      },
+      {
+        "word": "Sir",
+        "meaning": "先生",
+        "appearsInSource": true
+      },
+      {
+        "word": "square",
+        "meaning": "方形的",
+        "appearsInSource": true
+      },
+      {
+        "word": "story",
+        "meaning": "故事",
+        "appearsInSource": true
+      },
+      {
+        "word": "tall",
+        "meaning": "高的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tomato",
+        "meaning": "番茄",
+        "appearsInSource": true
+      },
+      {
+        "word": "town",
+        "meaning": "小鎮",
+        "appearsInSource": true
+      },
+      {
+        "word": "without",
+        "meaning": "沒有",
+        "appearsInSource": true
+      },
+      {
+        "word": "worker",
+        "meaning": "工人",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why had garden things been moved during the rain?",
+      "options": [
+        "To protect them from the repair work.",
+        "To sell them at the market.",
+        "To put them on a boat."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To protect them from the repair work.",
+      "existingAnswerExplanation": "有些物品被移走，是為了避免施工期間遭重物砸到",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The workers were giving a service to the school: fixing the old pipe without closing the garden for the whole year. One man introduced himself as Mr. Sun. “Sir, may we ask about a green box?” Jun said politely. Mr. Sun shook his head, then pointed to a sheet of paper. He had a story about the first day of work. During the rain, several things had been moved away from the pipe. He had not moved them himself. A school worker had taken them inside, so no heavy stone could drop on them.",
+          "chinese": "工人正在替學校提供維修服務：把舊水管修好，讓花園不必關閉一整年。一名男子自我介紹姓孫。「先生，請問我們能問一個綠箱子的事嗎？」俊有禮貌地說。孫先生搖搖頭，接著指向一張紙。他說起開工第一天的事。下雨時，有幾樣東西從水管旁被移開，以免被重物砸到。不過不是他親手搬走的，而是一位學校工作人員把那些東西拿進屋裡。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 6,
+          "english": "At home Ivy told her mother about the repairs. Her mother made soup with tomatoes and said it was healthy to ask a question without making a fight. Ivy smiled, but she did not feel ready to celebrate. They had learned that the box might have been moved for safety. They still did not know where it was. She put her notes on the table and looked out over the town. The rain had stopped, yet the ground beside the garden was still wet. Someone would have to check the storage rooms next.",
+          "chinese": "回到家後，艾薇告訴媽媽維修的事。媽媽用番茄煮湯，說能夠不吵架地提出問題，是很健康的做法。艾薇笑了，卻還不想慶祝。他們知道箱子可能為了安全被搬走，但仍不知道它在哪裡。她把筆記放在桌上，望向小鎮。雨停了，花園旁的地面還是濕的。接下來得有人去查儲藏室。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Where did the club plan to ask next?",
+      "options": [
+        "At the airport.",
+        "In the storage rooms.",
+        "Inside the river."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "In the storage rooms.",
+      "existingAnswerExplanation": "他們決定向大人詢問各儲藏室的情況",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "On Friday the club held a short meeting. Without blaming anyone, they made a new list: the box was on the shelf before the repair; a worker moved garden things inside; and the school had several storage rooms. Ivy asked Jun to draw a plan of the rooms from the school map. A drop of water fell from his wet hair onto the page, and he shook his head with a laugh. “Even the weather wants to add a mark,” he said. They agreed to ask before entering any room.",
+          "chinese": "星期五，社團開了一場簡短會議。大家沒有責怪任何人，而是列出新清單：維修前箱子還在架上；有人把園藝物品搬進室內；學校有好幾間儲藏室。艾薇請俊依學校地圖畫出各個儲藏室的位置。一滴水從俊濕濕的頭髮落到紙上，他笑著搖頭。「連天氣都想幫忙加一個記號。」他說。大家同意進入任何房間前都先取得許可。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 6,
+          "english": "At home Ivy told her mother about the repairs. Her mother made soup with tomatoes and said it was healthy to ask a question without making a fight. Ivy smiled, but she did not feel ready to celebrate. They had learned that the box might have been moved for safety. They still did not know where it was. She put her notes on the table and looked out over the town. The rain had stopped, yet the ground beside the garden was still wet. Someone would have to check the storage rooms next.",
+          "chinese": "回到家後，艾薇告訴媽媽維修的事。媽媽用番茄煮湯，說能夠不吵架地提出問題，是很健康的做法。艾薇笑了，卻還不想慶祝。他們知道箱子可能為了安全被搬走，但仍不知道它在哪裡。她把筆記放在桌上，望向小鎮。雨停了，花園旁的地面還是濕的。接下來得有人去查儲藏室。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

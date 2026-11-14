@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 11,
+  "chapterId": "tomorrow-11",
+  "sourceChapterSha256": "3a4fc6b823ece4f4a6ecab0f385c73fbd3802b40b66086f45b5146728cc6f650",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "Sam 與最初警告來源釐清；Kai 帶白信封",
+    "previousChapterEndingEnglish": "At nine, Leo sent me a screenshot from the old film list. The computer teacher had found that the broken video was not the only full copy. Another had been sent to the school show laptop. Its file name was simple: Friday. Then a message arrived from June. Before we meet, there is one thing you should know. I sent the letters. But I did not write the first warning.",
+    "nextChapterOpeningEnglish": "I did not open Kai's envelope in the hall. We took it to Ms Lin. He came too, walking half a step ahead as if this had been his idea. Inside was a printed message from Mr Reed to the school show team. It said, Please remove the argument from the final film. We want families to see the positive side of our school. Kai watched us read it."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Thursday, Sam was waiting by my classroom before the lights came on. He had two dark half circles under his eyes. “June said I could tell you,” he began. “The first warning was mine.” He showed me his own message to her, sent on Monday afternoon. Don't come to school tomorrow. Please. Below it was a photo of the list Bell had given him.",
+        "zh": "星期四教室還沒開燈，Sam 已在門口等，眼下有兩個黑色半圓。「June 說我可以告訴妳，第一個警告是我寫的。」他給我看星期一下午傳給她的訊息：明天別來學校，拜託。下面是 Bell 給他的名單照片。",
+        "englishSha256": "2fa7742b2cad4803b73ec446db026104786da589276d546d1503cb9823b76501",
+        "chineseSha256": "1552b9b6363b4faa17b9ae6599ea7b50bf9e75d8706d88b1592ea79437bb80a1"
+      },
+      {
+        "number": 2,
+        "en": "“I thought she might come back for practice,” he said. June had always helped with the school show. Even after she left, some part of Sam expected to see her carrying a camera through the gate. “I wanted to stop them doing it again.” “But you still dropped the scarf.” He nodded. “I was trying to save her and myself. I let everyone else fall.”",
+        "zh": "「我以為她可能回來排練。」June 一直都幫忙校慶，即使離開後，Sam 心裡仍期待她拿相機走進校門。「我想阻止他們再做一次。」「但你還是丟了圍巾。」他點頭。「我想救她，也救自己，卻讓其他人掉下去。」",
+        "englishSha256": "b42da3d720045aae5676452ac3881179f26791de9171ad7888365d0047725cf6",
+        "chineseSha256": "06ba173a2af5e9830e650b4fdbe339f26a9a2c48b12c4baeb9d91f72c5364541"
+      },
+      {
+        "number": 3,
+        "en": "I did not tell him that made it okay. He did not seem to want me to. We sat on the floor outside the locked classroom. The cleaner moved a bucket around our feet without asking us to move. Sam said he had given June more than the warning. He had sent a photo of the red notebook and the plan for the first bell. That explained the impossible future.",
+        "zh": "我沒說這樣就沒關係，他看起來也不想聽。我們坐在鎖著的教室外，清潔員把水桶繞過雙腳，沒叫我們移動。Sam 說還給 June 傳了紅本子照片與第一聲鐘響的計畫。那個不可能的未來，終於有了解釋。",
+        "englishSha256": "c5c1ef07d8f530902415fdb68f6a13e30605e7cf240ab6e9fe8c5436c4fc1c49",
+        "chineseSha256": "c6470ef9128fa82e0bb312eb70e86f145563c3e16d88b8aed4443e56ae83c61f"
+      },
+      {
+        "number": 4,
+        "en": "“She asked me to leave the notebook in the room,” he said. “Bell wanted it there anyway. I didn't know why both of them wanted the same thing.” I thought of the hands moving us. June had not made the vote. But she had used its plan to lead me around. Anger rose in me, sharp and embarrassing. How could I be angry at her after what I had done?",
+        "zh": "「她叫我把本子留下，Bell 也要我放那裡，我不知道為什麼兩邊要同一件事。」我想著移動我們的手。June 沒製造投票，卻用它的計畫帶我行動。憤怒尖銳又難堪地冒出。在我做了那些事之後，怎麼還能對她生氣？",
+        "englishSha256": "eff9b43f277fb930736ccb3293f04906aa6d5d243e89cd143d9af6a4b06134a4",
+        "chineseSha256": "8fe4082b0b3eb10bcbb33166d2539a22c8d3ee871e1e37d517c987350747a941"
+      },
+      {
+        "number": 5,
+        "en": "Sam read my face. “You can be mad,” he said. “People can hurt you even when they were hurt first.” He said it carefully, like something a counselor had told him and he was still learning to believe. The classroom door opened behind us. We stood, brushed dust from our trousers, and went in. For the first time all week, Sam chose the desk beside mine.",
+        "zh": "Sam 看懂我的臉。「妳可以生氣，受過傷的人也可能傷害妳。」他說得很小心，像輔導老師說過、他仍在學著相信的話。背後教室門開了。我們起身拍掉褲子的灰塵進去。一週來第一次，Sam 選了我旁邊的位置。",
+        "englishSha256": "f75a1fe4dd961edde782d5d93bdba162073f256832d89935abc034f72b4b3d7c",
+        "chineseSha256": "e2a17a4ea0e588235979e2a35322c3c63498aa458f1aa0271d64e3944f555e1e"
+      },
+      {
+        "number": 6,
+        "en": "Before lunch, Ms Lin gave us an update. The school show laptop was being checked with the office's permission. The original drive was safe. The school had contacted the website host about the vote page and had asked students not to share the clips. She did not say the internet would forget by Friday. She promised only to tell us what had actually been done.",
+        "zh": "午餐前，林老師更新進度。校慶筆電已獲辦公室同意檢查，原始硬碟安全保存。學校聯絡投票網站主機方，也請學生別分享片段。她沒說網路星期五前就會忘記，只承諾告訴我們實際做了什麼。",
+        "englishSha256": "43fcbe95ac3d6ccf19a366188491f790d2a1c9d813e7827df6ac7f2d99b91f21",
+        "chineseSha256": "933d370ad21a97bb2e54d2fae618bb7bd7de6d89e62acf587769d7e1e89061ad"
+      },
+      {
+        "number": 7,
+        "en": "Then she handed me a printed note from Mr Reed. He wanted to meet me before the library visit. My mother could join by phone, and Ms Lin could stay. The note said he hoped to clear up misunderstandings. I disliked that word. It made the last six weeks sound like two people hearing a sentence differently, not hundreds of people passing one girl's face from screen to screen.",
+        "zh": "接著她交給我校長印出的紙條。他想在圖書館見面前與我談，媽媽可以電話加入，林老師可以留場。紙條說希望釐清誤會。我討厭那個詞，彷彿過去六週只是兩人聽錯話，不是幾百個人把一個女孩的臉從螢幕傳到螢幕。",
+        "englishSha256": "23697b935984c2c9baaf6a8518d9cf31838e1ebb9b572abbdae5e575ef01507d",
+        "chineseSha256": "f3382502d31546dd8d7ba125d993af1caf21c11b3bbb08ffdee1a4fc7d9704d0"
+      },
+      {
+        "number": 8,
+        "en": "I took a photo and sent it to Mum. She answered, We will ask for facts. No need to be polite about missing facts. I smiled for the first time that morning. Then Kai appeared at the classroom door. He held a white envelope with my name on it. “Before you go to Reed,” he said, “you should know what he told me to do.”",
+        "zh": "我拍照給媽媽。她回：我們問事實。缺少事實，不必客氣不問。我那天早上第一次笑了。接著 Kai 出現在教室門口，拿著寫我名字的白信封。「去找校長前，妳應該知道他叫我做了什麼。」",
+        "englishSha256": "4a7f62c516f98550213a1aba21739cf86d67a40f320f3fbabd036399e64c3ea8",
+        "chineseSha256": "8a55688a139ecaa4924ed3ed4a6f89f38f5910a210fc4b0bd7426b5d7c115b88"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 535,
+    "targets": [
+      {
+        "word": "always",
+        "meaning": "總是",
+        "appearsInSource": true
+      },
+      {
+        "word": "envelope",
+        "meaning": "信封",
+        "appearsInSource": true
+      },
+      {
+        "word": "fall",
+        "meaning": "掉落；秋天",
+        "appearsInSource": true
+      },
+      {
+        "word": "forget",
+        "meaning": "忘記",
+        "appearsInSource": true
+      },
+      {
+        "word": "half",
+        "meaning": "一半",
+        "appearsInSource": true
+      },
+      {
+        "word": "join",
+        "meaning": "加入",
+        "appearsInSource": true
+      },
+      {
+        "word": "lead",
+        "meaning": "帶領；領先",
+        "appearsInSource": true
+      },
+      {
+        "word": "mad",
+        "meaning": "生氣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mine",
+        "meaning": "我的（東西）",
+        "appearsInSource": true
+      },
+      {
+        "word": "name",
+        "meaning": "名字",
+        "appearsInSource": true
+      },
+      {
+        "word": "note",
+        "meaning": "便條；筆記；注意",
+        "appearsInSource": true
+      },
+      {
+        "word": "on",
+        "meaning": "在……上；開著",
+        "appearsInSource": true
+      },
+      {
+        "word": "only",
+        "meaning": "只有；唯一的",
+        "appearsInSource": true
+      },
+      {
+        "word": "outside",
+        "meaning": "在外面",
+        "appearsInSource": true
+      },
+      {
+        "word": "own",
+        "meaning": "自己的；擁有",
+        "appearsInSource": true
+      },
+      {
+        "word": "page",
+        "meaning": "頁面",
+        "appearsInSource": true
+      },
+      {
+        "word": "part",
+        "meaning": "部分",
+        "appearsInSource": true
+      },
+      {
+        "word": "polite",
+        "meaning": "有禮貌的",
+        "appearsInSource": true
+      },
+      {
+        "word": "want",
+        "meaning": "想要",
+        "appearsInSource": true
+      },
+      {
+        "word": "week",
+        "meaning": "星期；一週",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Who originally wrote the first warning to June?",
+      "options": [
+        "The computer teacher.",
+        "Sam.",
+        "Mia’s mother."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Sam.",
+      "existingAnswerExplanation": "Sam.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On Thursday, Sam was waiting by my classroom before the lights came on. He had two dark half circles under his eyes. “June said I could tell you,” he began. “The first warning was mine.” He showed me his own message to her, sent on Monday afternoon. Don't come to school tomorrow. Please. Below it was a photo of the list Bell had given him.",
+          "chinese": "星期四教室還沒開燈，Sam 已在門口等，眼下有兩個黑色半圓。「June 說我可以告訴妳，第一個警告是我寫的。」他給我看星期一下午傳給她的訊息：明天別來學校，拜託。下面是 Bell 給他的名單照片。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 3,
+          "english": "I did not tell him that made it okay. He did not seem to want me to. We sat on the floor outside the locked classroom. The cleaner moved a bucket around our feet without asking us to move. Sam said he had given June more than the warning. He had sent a photo of the red notebook and the plan for the first bell. That explained the impossible future.",
+          "chinese": "我沒說這樣就沒關係，他看起來也不想聽。我們坐在鎖著的教室外，清潔員把水桶繞過雙腳，沒叫我們移動。Sam 說還給 June 傳了紅本子照片與第一聲鐘響的計畫。那個不可能的未來，終於有了解釋。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Kai bring to Mia at the classroom door?",
+      "options": [
+        "A white envelope bearing her name.",
+        "The school's only blue key.",
+        "June's yellow raincoat."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A white envelope bearing her name.",
+      "existingAnswerExplanation": "章末 Kai 拿著寫有米雅名字的白色信封出現在教室門口。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "I took a photo and sent it to Mum. She answered, We will ask for facts. No need to be polite about missing facts. I smiled for the first time that morning. Then Kai appeared at the classroom door. He held a white envelope with my name on it. “Before you go to Reed,” he said, “you should know what he told me to do.”",
+          "chinese": "我拍照給媽媽。她回：我們問事實。缺少事實，不必客氣不問。我那天早上第一次笑了。接著 Kai 出現在教室門口，拿著寫我名字的白信封。「去找校長前，妳應該知道他叫我做了什麼。」",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 5,
+          "english": "Sam read my face. “You can be mad,” he said. “People can hurt you even when they were hurt first.” He said it carefully, like something a counselor had told him and he was still learning to believe. The classroom door opened behind us. We stood, brushed dust from our trousers, and went in. For the first time all week, Sam chose the desk beside mine.",
+          "chinese": "Sam 看懂我的臉。「妳可以生氣，受過傷的人也可能傷害妳。」他說得很小心，像輔導老師說過、他仍在學著相信的話。背後教室門開了。我們起身拍掉褲子的灰塵進去。一週來第一次，Sam 選了我旁邊的位置。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

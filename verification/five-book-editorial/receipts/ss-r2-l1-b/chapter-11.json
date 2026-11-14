@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 11,
+  "chapterId": "ss-r2-l1-b-11",
+  "sourceChapterSha256": "3dcf883ca9f8b5c648ee3477f8443986cda500a533279532236c6fdc62b0fe82",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "向訪客詢問食物忌口，保存意見以便改善",
+    "previousChapterEndingEnglish": "That night, Fia walked around the house once more. She listened to the soft sound of leaves and watched the last light disappear from the garden. The shop had become part of her days. She was tired, but the work no longer felt like a dream far away. There was a menu on the door, bread in the kitchen, plants by the step, and friends ready to help. She touched the wooden star, then went home. Tomorrow they would invite a few neighbors for their first small breakfast. It was not the grand opening yet, but it would be a real test.",
+    "nextChapterOpeningEnglish": "In the afternoon, Lark brought a package to the shop. Inside were tickets for a village music day. A small band would play near the supermarket, and an actor would tell stories from long ago. \"The music starts at three o'clock,\" Lark said. \"Would you like to bring a little bread for the visitors?\" Fia looked at Moss. The last test breakfast had been tiring. She did not want to ask him to do more than he could. Moss said he could make one small basket, but not a full meal. \"Then we will say that clearly,\" Fia told Lark. \"We can join for one hour.\""
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On the day of their small test breakfast, Fia set a white basket beside the door. It held notes for visitors. \"Please tell us what was useful and what was not,\" she wrote. Moss checked the oven twice, and Pip put fruit into thin slices. Mrs. Fern arrived with her child. She wore a blue belt and carried a picture of a kite. \"My child wants to make one after breakfast,\" she said. Fia welcomed them, but first asked a question. \"Does anyone have food they cannot eat?\" Mrs. Fern pointed to a note in her bag. Her child could not have nuts. The kite in the picture had every color of the morning sky, and the child said those colors made her feel happy.",
+        "zh": "小型試吃早餐那天，菲雅在門旁放了一只白籃子，裡面裝著給客人的留言紙。「請告訴我們哪些地方有用，哪些沒有。」她寫道。莫斯兩次檢查烤爐，皮普把水果切成薄片。芬恩太太帶著孩子進來，腰間繫著藍皮帶，手裡拿著一張風箏圖。「孩子想吃完早餐去做風箏。」她說。菲雅歡迎他們，但先問：「有人有不能吃的食物嗎？」芬恩太太指向包裡的字條：孩子不能吃堅果。 圖裡的風箏有早晨天空的各種顏色，孩子說那些顏色讓她很開心。",
+        "englishSha256": "ceb3bb377c1630e70c9336baa0d606cd75cd6ccd82c9fddeccce47753047c7d2",
+        "chineseSha256": "5fb3430a75168e2e5ec9003f415fa1ae178f5ac03a82c8fa769c5be6ed3081c9"
+      },
+      {
+        "number": 2,
+        "en": "Fia took the note to Moss. They checked the food list together. The bread on the first tray had no nuts, but another kind did. \"If we cannot be sure, we should not serve it,\" Fia said. Moss agreed. He washed the work table and used clean tools for the simple bread. This was not a joke. Food was part of people's health, and the team needed to take it seriously. Fia had once read a book from the library about care in a kitchen. She remembered one line: when you are not sure, stop and ask. Today that lesson felt very important.",
+        "zh": "菲雅把字條帶給莫斯，兩人一起檢查食物清單。第一盤麵包沒有堅果，另一種則有。「如果無法確定，就不要端出去。」菲雅說。莫斯同意，清洗工作檯，並用乾淨工具準備簡單麵包。這不是玩笑。食物關乎人的健康，團隊必須認真對待。菲雅以前從圖書館借過一本談廚房照顧的書，記得其中一句：不確定時就停下來問。今天這句話特別重要。",
+        "englishSha256": "60568e84650a5f8b57d281812617fcecc05c0bd712b65108ee4c39b4c25a1f8c",
+        "chineseSha256": "aac72371e26e5427d0312f15cebcf99062d521043fd166a1ebdc99aa7ce16a86"
+      },
+      {
+        "number": 3,
+        "en": "A player from the village ball team came in next. He often worked hard in the morning and said he was very hungry. He liked the warm soup and asked for a second bowl. Fia explained that they were still testing the food and could give only one bowl to each visitor today. He smiled. \"That is fair,\" he said. \"I will come back when you open.\" Another guest said the room was a little cold near the window. Pip put the note in the basket. He did not hate criticism. He wanted to learn where to place chairs so guests could be comfortable.",
+        "zh": "接著，村裡球隊的一名球員進來了。他早上常要努力練習，說自己很餓。他喜歡溫湯，想再來一碗。菲雅解釋今天仍是試吃，每位訪客只供一碗。他笑著說：「這很公平，開店後我再來。」另一名客人說窗邊有點冷。皮普把意見放進籃子。他不討厭批評，只想知道椅子該怎麼擺，才能讓客人坐得舒服。",
+        "englishSha256": "6c107cd56347128bd13fd6edd1ac8d1c2d31b22f634eccc006e16bd6c9a83c85",
+        "chineseSha256": "8d6dcc711d3033e4e5d31f91deef035c40ca2fe261c1e2baa894a2f407cfe314"
+      },
+      {
+        "number": 4,
+        "en": "Near the end of breakfast, Lark the reporter arrived. She had taken a picture of the little star above the door. \"May I send a story to the village paper?\" she asked. Fia said yes, if the story made clear that today was a test and the shop was not fully open yet. Lark called her dear friend Edda to check the opening date. Edda said they would decide after the workers looked at their notes. \"A good plan can change,\" Edda told her. Fia felt glad that nobody was pushing her to open before the room and the people were ready.",
+        "zh": "早餐快結束時，記者拉克來了。她已替門上的小星星拍了照片。「我可以投稿村報嗎？」她問。菲雅說可以，只要文章說清楚今天是試吃，店還沒正式營業。拉克打電話向好友艾達確認開幕日期。艾達說要等工作者看過意見才決定。「好計畫也能改變。」她告訴拉克。菲雅很高興，沒人逼她在房間與人都未準備妥當時開門。",
+        "englishSha256": "4b62489e3661f6dee4025547adcf88766cc8f463a54dc69b86e6c8a6f71f02e6",
+        "chineseSha256": "2e753bda7a4f0bfc3eae05210f5c21c09eaf3175819468df9f68f14ef3a85bb5"
+      },
+      {
+        "number": 5,
+        "en": "After the visitors left, Moss counted the bowls, and Pip read the notes. Most people liked the taste. One said the soup was too warm, and another wanted a place to put wet coats. Fia wrote down each point. \"If a guest feels sick, we will help them and call the hospital when it is needed,\" she added. They all understood that food work came with care. Moss asked whether a small sign would be enough for the coat problem. Fia said they could try hooks near the door, then ask the next visitors what they thought. They did not have to solve everything at once.",
+        "zh": "訪客離開後，莫斯數碗，皮普讀意見。多數人喜歡味道；有人說湯太燙，也有人想有地方掛濕外套。菲雅逐一記下。「如果客人不舒服，我們要照顧對方，必要時聯絡醫院。」她補上一句。大家都明白食物工作也有照顧人的責任。莫斯問掛衣問題放個小牌是否就夠。菲雅說可以先在門旁裝掛鉤，下次再問客人感想，不必一次解決所有事情。",
+        "englishSha256": "86c7ab42faee07c36bc0faee9bf946e7ff9be2f21da47421c25270b0ba91e5e5",
+        "chineseSha256": "400a2abb015db18dad8f59a7d36d0010f3cc954151f52be74025586d30fdd432"
+      },
+      {
+        "number": 6,
+        "en": "At the end of the day, Mrs. Fern returned with her child's kite. It had a little star on it, just like the door. \"Thank you for asking about the food,\" she said. \"My child felt safe here.\" Fia held the picture for a moment. The best part of the test had not been the number of bowls they served. It was learning that people could speak and be heard. She put the notes in a safe drawer. Tomorrow they would read them again and choose what to fix before the first real opening day.",
+        "zh": "那天結束時，芬恩太太帶著孩子的風箏回來，風箏上有顆和門上一樣的小星星。「謝謝妳詢問食物的事，」她說，「孩子在這裡感覺安全。」菲雅拿著圖看了一會兒。試吃最好的部分不是送出多少碗，而是學會讓人能說、也有人願意聽。她把意見收進安全的抽屜。明天大家會重新讀一遍，決定正式開幕前還要修什麼。",
+        "englishSha256": "d85e1e8fdf3c3349c34407cd2224f6b6f811c1cd1b1e313ad1c9470d421e1f4b",
+        "chineseSha256": "e0a3ea2fb58abf0fb06a99ffc2e9cf2ae956bacdd1dd4c4738727341de9252b4"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 635,
+    "targets": [
+      {
+        "word": "basket",
+        "meaning": "籃子",
+        "appearsInSource": true
+      },
+      {
+        "word": "belt",
+        "meaning": "皮帶",
+        "appearsInSource": true
+      },
+      {
+        "word": "check",
+        "meaning": "檢查",
+        "appearsInSource": true
+      },
+      {
+        "word": "color",
+        "meaning": "顏色",
+        "appearsInSource": true
+      },
+      {
+        "word": "dear",
+        "meaning": "親愛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hate",
+        "meaning": "討厭",
+        "appearsInSource": true
+      },
+      {
+        "word": "health",
+        "meaning": "健康",
+        "appearsInSource": true
+      },
+      {
+        "word": "hospital",
+        "meaning": "醫院",
+        "appearsInSource": true
+      },
+      {
+        "word": "If",
+        "meaning": "如果",
+        "appearsInSource": true
+      },
+      {
+        "word": "joke",
+        "meaning": "笑話",
+        "appearsInSource": true
+      },
+      {
+        "word": "kite",
+        "meaning": "風箏",
+        "appearsInSource": true
+      },
+      {
+        "word": "library",
+        "meaning": "圖書館",
+        "appearsInSource": true
+      },
+      {
+        "word": "often",
+        "meaning": "常常",
+        "appearsInSource": true
+      },
+      {
+        "word": "picture",
+        "meaning": "圖片",
+        "appearsInSource": true
+      },
+      {
+        "word": "player",
+        "meaning": "球員",
+        "appearsInSource": true
+      },
+      {
+        "word": "send",
+        "meaning": "寄送",
+        "appearsInSource": true
+      },
+      {
+        "word": "thin",
+        "meaning": "薄的",
+        "appearsInSource": true
+      },
+      {
+        "word": "those",
+        "meaning": "那些",
+        "appearsInSource": true
+      },
+      {
+        "word": "useful",
+        "meaning": "有用的",
+        "appearsInSource": true
+      },
+      {
+        "word": "white",
+        "meaning": "白色的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Fia ask about food before serving it?",
+      "options": [
+        "Some people cannot eat certain foods",
+        "The soup is white",
+        "The basket is new"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Some people cannot eat certain foods",
+      "existingAnswerExplanation": "她先確認客人的飲食限制，以確保供餐安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On the day of their small test breakfast, Fia set a white basket beside the door. It held notes for visitors. \"Please tell us what was useful and what was not,\" she wrote. Moss checked the oven twice, and Pip put fruit into thin slices. Mrs. Fern arrived with her child. She wore a blue belt and carried a picture of a kite. \"My child wants to make one after breakfast,\" she said. Fia welcomed them, but first asked a question. \"Does anyone have food they cannot eat?\" Mrs. Fern pointed to a note in her bag. Her child could not have nuts. The kite in the picture had every color of the morning sky, and the child said those colors made her feel happy.",
+          "chinese": "小型試吃早餐那天，菲雅在門旁放了一只白籃子，裡面裝著給客人的留言紙。「請告訴我們哪些地方有用，哪些沒有。」她寫道。莫斯兩次檢查烤爐，皮普把水果切成薄片。芬恩太太帶著孩子進來，腰間繫著藍皮帶，手裡拿著一張風箏圖。「孩子想吃完早餐去做風箏。」她說。菲雅歡迎他們，但先問：「有人有不能吃的食物嗎？」芬恩太太指向包裡的字條：孩子不能吃堅果。 圖裡的風箏有早晨天空的各種顏色，孩子說那些顏色讓她很開心。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 2,
+          "english": "Fia took the note to Moss. They checked the food list together. The bread on the first tray had no nuts, but another kind did. \"If we cannot be sure, we should not serve it,\" Fia said. Moss agreed. He washed the work table and used clean tools for the simple bread. This was not a joke. Food was part of people's health, and the team needed to take it seriously. Fia had once read a book from the library about care in a kitchen. She remembered one line: when you are not sure, stop and ask. Today that lesson felt very important.",
+          "chinese": "菲雅把字條帶給莫斯，兩人一起檢查食物清單。第一盤麵包沒有堅果，另一種則有。「如果無法確定，就不要端出去。」菲雅說。莫斯同意，清洗工作檯，並用乾淨工具準備簡單麵包。這不是玩笑。食物關乎人的健康，團隊必須認真對待。菲雅以前從圖書館借過一本談廚房照顧的書，記得其中一句：不確定時就停下來問。今天這句話特別重要。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Fia do with the guest notes?",
+      "options": [
+        "Saves them for review",
+        "Throws them away",
+        "Sends them to a train"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Saves them for review",
+      "existingAnswerExplanation": "菲雅將意見收好，留待團隊再讀和改善。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "After the visitors left, Moss counted the bowls, and Pip read the notes. Most people liked the taste. One said the soup was too warm, and another wanted a place to put wet coats. Fia wrote down each point. \"If a guest feels sick, we will help them and call the hospital when it is needed,\" she added. They all understood that food work came with care. Moss asked whether a small sign would be enough for the coat problem. Fia said they could try hooks near the door, then ask the next visitors what they thought. They did not have to solve everything at once.",
+          "chinese": "訪客離開後，莫斯數碗，皮普讀意見。多數人喜歡味道；有人說湯太燙，也有人想有地方掛濕外套。菲雅逐一記下。「如果客人不舒服，我們要照顧對方，必要時聯絡醫院。」她補上一句。大家都明白食物工作也有照顧人的責任。莫斯問掛衣問題放個小牌是否就夠。菲雅說可以先在門旁裝掛鉤，下次再問客人感想，不必一次解決所有事情。",
+          "matchedQueryTerms": 3
+        },
+        {
+          "paragraph": 1,
+          "english": "On the day of their small test breakfast, Fia set a white basket beside the door. It held notes for visitors. \"Please tell us what was useful and what was not,\" she wrote. Moss checked the oven twice, and Pip put fruit into thin slices. Mrs. Fern arrived with her child. She wore a blue belt and carried a picture of a kite. \"My child wants to make one after breakfast,\" she said. Fia welcomed them, but first asked a question. \"Does anyone have food they cannot eat?\" Mrs. Fern pointed to a note in her bag. Her child could not have nuts. The kite in the picture had every color of the morning sky, and the child said those colors made her feel happy.",
+          "chinese": "小型試吃早餐那天，菲雅在門旁放了一只白籃子，裡面裝著給客人的留言紙。「請告訴我們哪些地方有用，哪些沒有。」她寫道。莫斯兩次檢查烤爐，皮普把水果切成薄片。芬恩太太帶著孩子進來，腰間繫著藍皮帶，手裡拿著一張風箏圖。「孩子想吃完早餐去做風箏。」她說。菲雅歡迎他們，但先問：「有人有不能吃的食物嗎？」芬恩太太指向包裡的字條：孩子不能吃堅果。 圖裡的風箏有早晨天空的各種顏色，孩子說那些顏色讓她很開心。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 20,
+  "chapterId": "ss-r11-l1-a-20",
+  "sourceChapterSha256": "33f91b35dbb58c0f3e33c9522ce496b9820c0e7cba997d597069f9a8a27d5d93",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "水管故障、替代水龍頭分工澆水；夜間家中與下午回憶分開",
+    "previousChapterEndingEnglish": "At home Ivy drew a picture of the bee above the flowers. She did not draw a monster with giant teeth. She drew a small animal doing what it normally did. Under the picture she wrote that people and bees needed space. Her father looked at it and smiled. “You have had many new problems this year,” he said. Ivy answered that she had also met many people ready to help. She was learning to count both the problems and the good things around them.",
+    "nextChapterOpeningEnglish": "The workers finished the main garden path while the children were in class. Ivy came out and saw a light gray surface from the gate to the first flower bed. Kai arrived with his cane and asked whether he could try it. Ms. Wen said yes. His brother stood near the door, but Kai wanted to walk the way on his own. He moved slowly and stopped at the first turn. “There is a little edge here,” he said. The workers listened and made a note. They did not say the path was finished until the people using it had a chance to try."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Rain came again on Wednesday. The school garden's water pipe made a hard sound, and very little water came from the tap. A machine below the path had stopped working. Ivy felt hope fall for a moment. She had thought the missing box was their biggest problem. Now even the new plants might go without water. A worker asked everyone to move to the front of the garden, away from the broken pipe. Ivy obeyed and called Ms. Wen. No child tried to open the machine or hide the problem.",
+        "zh": "星期三又下雨了。學校花園的水管發出很硬的聲響，水龍頭流出的水變得很少。小徑下方一台機器停止運作。艾薇的希望瞬間低落。她原以為失蹤的箱子就是最大的問題，如今新種的植物可能連水都喝不到。工人請大家移到花園前方，遠離故障水管。艾薇照做，並聯絡溫老師。沒有孩子試著打開機器，或把問題藏起來。",
+        "englishSha256": "ce8b7b9a4d818620affb19ae01c5be7a9cc211f2a5891bb6f5d677f7114d3e66",
+        "chineseSha256": "68ec06a1fc2ebb2fbe32cc6bbe1fbf5f694d3b74fd363ec26b82f4acb5438368"
+      },
+      {
+        "number": 2,
+        "en": "During the break a visitor told Ivy about a garden he had seen abroad. Water there came from a low tank instead of a tall pipe. Ivy said that sounded useful, but their school needed its own safe repair plan. The man was with his wife and their small dog, which moved its tail as they spoke. Another visitor, the school gardener’s husband, listened beside them. Ivy smiled at the dog but did not touch it without permission. She wrote down the water idea and gave the note to Ms. Wen. A good example from another place could start a question without becoming an answer.",
+        "zh": "休息時，一位訪客告訴艾薇，自己在國外看過一座花園，那裡的水來自低矮水箱，而不是高高的水管。艾薇說聽起來很有用，但學校仍需要自己的安全維修方案。男子和妻子、小狗一起來，小狗在他們談話時搖著尾巴。另一位訪客是學校一位女園丁的丈夫，也在旁邊聆聽。艾薇對小狗微笑，卻沒有未經許可就摸牠。她記下供水的想法交給溫老師。其他地方的好例子可以帶來新問題，卻不一定就是答案。",
+        "englishSha256": "aa3727973e2a85a155ec6e6089b60027f6cba3c920ddcbac04c7d83bd71cbace",
+        "chineseSha256": "0d35186b718b19762b0b5b7be93b371b65e04b3e178ed544df06e73aa17810cb"
+      },
+      {
+        "number": 3,
+        "en": "Ms. Wen called the school office. The repair worker explained that the pipe was old and one part had broken. He had tools, but he needed permission before replacing the part. He could not promise a time yet. Jun looked at the wet ground and said he hoped the repair would be quick. Ivy asked what they could do safely while they waited. The worker said they could use small watering cans filled at another school tap. The children could carry them along the open path, with an adult helping at the door.",
+        "zh": "溫老師打電話給學校辦公室。維修工人解釋，水管老舊，其中一個零件壞了。他有工具，但更換前需要取得許可。他暫時無法承諾完成時間。俊望著濕地面，說希望能快點修好。艾薇問等待期間能做哪些安全的事。工人說他們可以用小澆水壺，從學校另一處水龍頭裝水，沿著開放的通道搬運，門口由大人協助。",
+        "englishSha256": "6f95a19c215eee8bd36d78445621b27f57b48c56b4cc398d0ff30bfdc9856503",
+        "chineseSha256": "0e4029c3984c00b2e4a26c6841dd0aa33fd88562dbecbeb4b97ee57c4d08c1fd"
+      },
+      {
+        "number": 4,
+        "en": "At lunch Ivy's mother brought an egg and bread for her. Her father was a doctor, and he had taught the family not to work too long without a rest. Ivy sat with her friends and ate slowly. One child began to cry, saying the garden day would never happen. Ivy did not promise a perfect day. “We have already saved the seeds,” she said. “We can try another way to water them.” She held out her hand, and the child took it. A small answer was better than a large promise they could not keep.",
+        "zh": "午餐時，艾薇的媽媽送來雞蛋和麵包。爸爸是一名醫生，常教家人工作不能太久而不休息。艾薇坐著和朋友慢慢吃飯。一個孩子哭了，說花園日一定辦不成。艾薇沒有保證一切完美。「我們已經救回種子了，」她說，「還可以試別的方法幫它們澆水。」她伸出手，孩子握住了。比起無法兌現的大承諾，一個做得到的小答案更好。",
+        "englishSha256": "d956df828b2e13689f32b8aa73f72fa8bc9ae337ca1afe3c68326863773364f8",
+        "chineseSha256": "96dc241999d8130bb2c4400376e8f007bfee5b75c995c4259c02d6d9aa677eec"
+      },
+      {
+        "number": 5,
+        "en": "After school Ivy finished her homework while her mother made bread with a little butter. Her father asked whether the plants had enough water for the night. Ivy said yes, because the club had worked with the teacher and used the safe tap. She showed him the water plan in her notebook. It did not depend on one strong student carrying everything. Every person had a small part, and the workers would fix the pipe when they had permission. Ivy felt tired but pleased. The garden had been cared for today.",
+        "zh": "放學後，艾薇做完功課，媽媽則用一點奶油做麵包。爸爸問植物今晚的水夠不夠。艾薇說夠，因為社團已和老師合作，使用安全的水龍頭。她給爸爸看筆記裡的澆水計畫。它不是要一個力氣大的學生搬完所有東西，而是每個人都有一小份工作，工人取得許可後也會修好水管。艾薇累了，卻很滿足。今天花園受到了好好照顧。",
+        "englishSha256": "6956cb79fae8ef89925eff375fed9952f332d7e2a4e3773c1e364e8684e0d1d5",
+        "chineseSha256": "6aabeba8d68110004c84746742f8978976f26f971acba7daca24ae149ef250ed"
+      },
+      {
+        "number": 6,
+        "en": "Earlier that afternoon, the club had helped carry water in small cans, before Ivy went home to finish her homework. They made a line so no one had to lift more than was safe. A young boy asked what level of water each plant needed. Ivy used the care cards to answer. The group did not try to pour a hundred cups into one bed. They gave only what the plants needed. When the last can was empty, Jun looked at their work and said it was not as fast as a machine, but it had been enough for that day.",
+        "zh": "那天下午稍早，社團曾用小澆水壺搬水；之後艾薇才回家做功課。大家排成一列，讓每個人都不必抬超出安全重量的水。一個小男孩問每種植物需要多少水。艾薇用照顧卡回答。他們沒有把上百杯水全倒進同一塊花圃，而是按植物需要澆水。最後一壺水倒完時，俊看著成果說，這不像機器那麼快，卻已經足夠應付今天。",
+        "englishSha256": "7b276bfaa8c501febea8bd26a1980d14436f3dd363e05153b2f59280468c26e6",
+        "chineseSha256": "4bfe404069b2259583eb305b2fd2538d196ab83c8ac9113a230df15cebb9a049"
+      },
+      {
+        "number": 7,
+        "en": "Before leaving, Ms. Wen asked the children to think about anything else the garden needed. One student said a place to put shoes when they became muddy. Another said a small cover for the seed cards. Ivy wrote down their ideas. They would not do every job before the opening, and that was all right. She looked at the broken pipe below the path, then at the growing green leaves above it. The garden had problems, but it had people who knew how to ask for help.",
+        "zh": "離開前，溫老師請孩子們想一想，花園還需要什麼。一位同學說，鞋子沾滿泥巴時可以放鞋子的地方；另一位說，種子卡需要小罩子。艾薇把想法寫下來。他們無法在開放前完成每件工作，但這並不要緊。她望向小徑下方壞掉的水管，又看看上方正在生長的綠葉。花園有問題，卻也有懂得求助的人。",
+        "englishSha256": "035ae3874840904336679d52a71a0fb850034f8627f5ce905c5480e062f2c337",
+        "chineseSha256": "08bdd5472d79a3d24200210c99352e4aa51f02d81d5359c526c891cf4a400d33"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 663,
+    "targets": [
+      {
+        "word": "abroad",
+        "meaning": "在國外",
+        "appearsInSource": true
+      },
+      {
+        "word": "anything",
+        "meaning": "任何事",
+        "appearsInSource": true
+      },
+      {
+        "word": "below",
+        "meaning": "下方",
+        "appearsInSource": true
+      },
+      {
+        "word": "butter",
+        "meaning": "奶油",
+        "appearsInSource": true
+      },
+      {
+        "word": "cry",
+        "meaning": "哭",
+        "appearsInSource": true
+      },
+      {
+        "word": "doctor",
+        "meaning": "醫師",
+        "appearsInSource": true
+      },
+      {
+        "word": "egg",
+        "meaning": "雞蛋",
+        "appearsInSource": true
+      },
+      {
+        "word": "front",
+        "meaning": "前面",
+        "appearsInSource": true
+      },
+      {
+        "word": "hard",
+        "meaning": "堅硬的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hide",
+        "meaning": "躲藏",
+        "appearsInSource": true
+      },
+      {
+        "word": "homework",
+        "meaning": "功課",
+        "appearsInSource": true
+      },
+      {
+        "word": "hope",
+        "meaning": "希望",
+        "appearsInSource": true
+      },
+      {
+        "word": "hundred",
+        "meaning": "一百",
+        "appearsInSource": true
+      },
+      {
+        "word": "husband",
+        "meaning": "丈夫",
+        "appearsInSource": true
+      },
+      {
+        "word": "level",
+        "meaning": "量；程度",
+        "appearsInSource": true
+      },
+      {
+        "word": "low",
+        "meaning": "低矮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "machine",
+        "meaning": "機器",
+        "appearsInSource": true
+      },
+      {
+        "word": "part",
+        "meaning": "部分",
+        "appearsInSource": true
+      },
+      {
+        "word": "people",
+        "meaning": "人們",
+        "appearsInSource": true
+      },
+      {
+        "word": "tail",
+        "meaning": "尾巴",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What broke near the garden path?",
+      "options": [
+        "Part of the water pipe.",
+        "The monkey picture.",
+        "The school clock."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Part of the water pipe.",
+      "existingAnswerExplanation": "花園小徑附近的水管零件故障",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Rain came again on Wednesday. The school garden's water pipe made a hard sound, and very little water came from the tap. A machine below the path had stopped working. Ivy felt hope fall for a moment. She had thought the missing box was their biggest problem. Now even the new plants might go without water. A worker asked everyone to move to the front of the garden, away from the broken pipe. Ivy obeyed and called Ms. Wen. No child tried to open the machine or hide the problem.",
+          "chinese": "星期三又下雨了。學校花園的水管發出很硬的聲響，水龍頭流出的水變得很少。小徑下方一台機器停止運作。艾薇的希望瞬間低落。她原以為失蹤的箱子就是最大的問題，如今新種的植物可能連水都喝不到。工人請大家移到花園前方，遠離故障水管。艾薇照做，並聯絡溫老師。沒有孩子試著打開機器，或把問題藏起來。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "After school Ivy finished her homework while her mother made bread with a little butter. Her father asked whether the plants had enough water for the night. Ivy said yes, because the club had worked with the teacher and used the safe tap. She showed him the water plan in her notebook. It did not depend on one strong student carrying everything. Every person had a small part, and the workers would fix the pipe when they had permission. Ivy felt tired but pleased. The garden had been cared for today.",
+          "chinese": "放學後，艾薇做完功課，媽媽則用一點奶油做麵包。爸爸問植物今晚的水夠不夠。艾薇說夠，因為社團已和老師合作，使用安全的水龍頭。她給爸爸看筆記裡的澆水計畫。它不是要一個力氣大的學生搬完所有東西，而是每個人都有一小份工作，工人取得許可後也會修好水管。艾薇累了，卻很滿足。今天花園受到了好好照顧。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How did the club water plants safely?",
+      "options": [
+        "They used small cans filled at another tap.",
+        "They opened the broken machine.",
+        "They stopped watering forever."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They used small cans filled at another tap.",
+      "existingAnswerExplanation": "社團在成人協助下從另一處水龍頭裝小壺澆水",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Ms. Wen called the school office. The repair worker explained that the pipe was old and one part had broken. He had tools, but he needed permission before replacing the part. He could not promise a time yet. Jun looked at the wet ground and said he hoped the repair would be quick. Ivy asked what they could do safely while they waited. The worker said they could use small watering cans filled at another school tap. The children could carry them along the open path, with an adult helping at the door.",
+          "chinese": "溫老師打電話給學校辦公室。維修工人解釋，水管老舊，其中一個零件壞了。他有工具，但更換前需要取得許可。他暫時無法承諾完成時間。俊望著濕地面，說希望能快點修好。艾薇問等待期間能做哪些安全的事。工人說他們可以用小澆水壺，從學校另一處水龍頭裝水，沿著開放的通道搬運，門口由大人協助。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 5,
+          "english": "After school Ivy finished her homework while her mother made bread with a little butter. Her father asked whether the plants had enough water for the night. Ivy said yes, because the club had worked with the teacher and used the safe tap. She showed him the water plan in her notebook. It did not depend on one strong student carrying everything. Every person had a small part, and the workers would fix the pipe when they had permission. Ivy felt tired but pleased. The garden had been cared for today.",
+          "chinese": "放學後，艾薇做完功課，媽媽則用一點奶油做麵包。爸爸問植物今晚的水夠不夠。艾薇說夠，因為社團已和老師合作，使用安全的水龍頭。她給爸爸看筆記裡的澆水計畫。它不是要一個力氣大的學生搬完所有東西，而是每個人都有一小份工作，工人取得許可後也會修好水管。艾薇累了，卻很滿足。今天花園受到了好好照顧。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

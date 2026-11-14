@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 12,
+  "chapterId": "tomorrow-12",
+  "sourceChapterSha256": "fee459d59b905da3cf03bdb9ceb0a500731736834e4a49c8bbd98f5142010b09",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "Kai 道歉未說明具體行為，提議撤名交換停止追查",
+    "previousChapterEndingEnglish": "I took a photo and sent it to Mum. She answered, We will ask for facts. No need to be polite about missing facts. I smiled for the first time that morning. Then Kai appeared at the classroom door. He held a white envelope with my name on it. “Before you go to Reed,” he said, “you should know what he told me to do.”",
+    "nextChapterOpeningEnglish": "June was eating a cheese sandwich when I saw her. I had imagined tears, maybe a long silence, maybe her walking away before I could speak. I had not imagined a sandwich. She looked up, covered her mouth to finish chewing, and pointed at the chair across from her. Her hair was shorter. There was a small spot of yellow paint on her left sleeve."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "I did not open Kai's envelope in the hall. We took it to Ms Lin. He came too, walking half a step ahead as if this had been his idea. Inside was a printed message from Mr Reed to the school show team. It said, Please remove the argument from the final film. We want families to see the positive side of our school. Kai watched us read it.",
+        "zh": "我沒在走廊拆信封，我們拿給林老師。Kai 也來，走在前半步，像是他的主意。裡面是校長給表演團隊的列印訊息：請把爭吵從成片拿掉，我們希望家長看見學校正面的一面。Kai 看著我們閱讀。",
+        "englishSha256": "68594c68ebdec836b9b0fe858467f31a09d67a2677e9e8178bf911a669d1c6dc",
+        "chineseSha256": "2a4f8bdbc318d0cff61bb9e522151ed85f115fa7fdfec00183b55740ae1e1a51"
+      },
+      {
+        "number": 2,
+        "en": "“He told me to cut it,” Kai said. “Everyone is acting like I did this by myself.” Ms Lin turned the page over. “This asks you not to put an argument in the school show. It does not ask you to post a short clip about June taking money.” Kai's mouth opened, then closed. “People guessed that part.” “Did you correct them?” she asked. He looked at the floor.",
+        "zh": "「是他叫我剪的，大家卻好像都覺得是我一個人。」林老師翻過紙。「這要求你不要在校慶播爭吵，不是要你發布 June 拿錢的短片。」Kai 張嘴又閉上。「那部分是別人猜的。」「你有更正嗎？」他低頭。",
+        "englishSha256": "d35cf957909030e3d65d0f0fb141dc341b56bf0c824f15f432f744f2d78dab11",
+        "chineseSha256": "dd3b7b2faac3ec723cf5eae94209488900a7685db88905e05eb4b291966923af"
+      },
+      {
+        "number": 3,
+        "en": "He offered to post a new message. He had already written it on his phone. Some content may have caused confusion. We are sorry if anyone felt upset. I read it twice. There was no June. No money. No person who had done anything. It was an apology with every hard edge washed away. You could put it under a late bus notice and it would fit just as well.",
+        "zh": "他提議發布新訊息，手機上已寫好：部分內容可能造成混淆，如有人感到不適，我們深感抱歉。我讀了兩次。沒有 June，沒有錢，也沒有人做過什麼。這份道歉把所有難看的邊角都洗掉了，放在公車誤點公告下也同樣合適。",
+        "englishSha256": "f491342301f4fa747a6a625fb52086fc424d2c7f8bcbc99aef05ef27c72553c1",
+        "chineseSha256": "c9ae9298d42d45f9776c99c322eca958108290711742b0d6dc4fbdd4349e65ca"
+      },
+      {
+        "number": 4,
+        "en": "“Who is we?” I asked. Kai gave me a tired look. “What do you want me to say, Mia?” “What you did.” His eyes moved to Ms Lin. “Can I have a minute?” She said he could speak with the counselor and his parent before making a statement. She would not help anyone write a lie, but she would not force a frightened student to perform an apology either.",
+        "zh": "「我們是誰？」我問。Kai 疲憊地看我。「Mia，妳到底想要我說什麼？」「你做過的事。」他看向老師。「能給我一點時間嗎？」她說他能先跟輔導老師與家長談，再做聲明。她不幫人說謊，也不會逼害怕的學生表演道歉。",
+        "englishSha256": "485cab55b13750b5deb5d3012bbdfa9af7bcd9acb3f16837bcc1463de37f8784",
+        "chineseSha256": "5925c8f5924b8766b41a2b794c74764c9ac183228e2e59096d04c0bf879fbf07"
+      },
+      {
+        "number": 5,
+        "en": "In Mr Reed's office, my mother listened through the phone. The principal explained the stage light bill. He said the office thought the online rumor would disappear if adults did not give it attention. Mum asked when he learned that June was being blamed. He checked his email. The answer was the next morning. Twenty-four hours after the clip went up, he already knew the money had been spent properly.",
+        "zh": "在校長室，媽媽透過電話聽。校長解釋舞台燈帳單，說辦公室以為大人不理，謠言就會消失。媽媽問他何時知道 June 被指控。他查信箱，答案是隔天早上。短片上線二十四小時後，他已知道錢花得正常。",
+        "englishSha256": "54bf0d20398db2156ea03809ede0c06324bad8cf5f83705db1c1387850194df2",
+        "chineseSha256": "73080bdb4c14e6675657360cdf57b1f35e729da39d5dc67389440cea0c96b2a0"
+      },
+      {
+        "number": 6,
+        "en": "“Why wasn't there a correction?” I asked. Mr Reed said they had spoken privately with June's family. “That did not correct the public claim,” Mum said. The office was very quiet. The principal's clock made no sound at all. At last, he said, “No. It did not.” Ms Lin asked that the school put the facts, the dates, and the next steps in writing, with personal details removed.",
+        "zh": "「為什麼沒更正？」我問。校長說私下與 June 家人談過。「那沒有更正公開指控。」媽媽說。辦公室很靜，校長的時鐘完全無聲。最後他說：「是，沒有。」林老師要求學校寫下事實、日期、後續措施，移除個人隱私。他答應了。",
+        "englishSha256": "f0a23a8d39507fa928e8a288cea25530ed8df5c4e05181a139564195983fe7c3",
+        "chineseSha256": "3c28e7103a57977c0f60ca88df0ed43a60bafe4c8932a572e180b65a53eac69d"
+      },
+      {
+        "number": 7,
+        "en": "He agreed to stop The Truth Game. No student vote about real people would be shown on Friday. I should have felt safe. Instead I remembered Ada's message: Make sure Mia comes. A canceled stage game did not close a website. I asked who had access to the show computer. Mr Reed named the teachers, Kai, and two student helpers. Then he added one more person. June, before she left.",
+        "zh": "他同意停掉真相遊戲，星期五不會播針對真人的投票。我應該放心，卻想起 Ada 的訊息：確保 Mia 來。取消舞台遊戲不等於關掉網站。我問誰能使用表演筆電。他列出老師、Kai、兩名學生助手，再加一人：June 離開前也能。",
+        "englishSha256": "bcb4475d53eede2bec03bca6bf06010c31acab0c8bf8abe0dc282ee425103cb3",
+        "chineseSha256": "3e267a975ded3fc32b86d61bc543a39b1a23180b54ad64570a202363fa0d84a2"
+      },
+      {
+        "number": 8,
+        "en": "Outside the office, Kai waited by the drinking fountain. “I can make your name disappear from the page,” he said quietly. “You only have to stop.” I looked at him, at the easy offer he had probably made to Sam. “A name for a name?” I asked. He did not answer. My phone buzzed. June was already at the library. For once, I knew exactly where I wanted to go.",
+        "zh": "辦公室外，Kai 在飲水機旁等。「我能讓妳的名字從網頁消失，妳只要停下。」他輕聲說。我看著那個輕易的提議，他大概也對 Sam 說過。「一個名字換一個名字？」他不回答。手機震動，June 已到圖書館。這次我很清楚自己想去哪裡。",
+        "englishSha256": "74844a613ee1d92be7192a754921c9e43e874c87531549a7f34df33224e4d9a6",
+        "chineseSha256": "1106305315e80f1ee1134eb5d27226dd33d5a94e30a6c9dbe0423c5125ec08c6"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 555,
+    "targets": [
+      {
+        "word": "already",
+        "meaning": "已經",
+        "appearsInSource": true
+      },
+      {
+        "word": "correct",
+        "meaning": "正確的；改正",
+        "appearsInSource": true
+      },
+      {
+        "word": "either",
+        "meaning": "兩者之一；也（用於否定句）",
+        "appearsInSource": true
+      },
+      {
+        "word": "idea",
+        "meaning": "想法",
+        "appearsInSource": true
+      },
+      {
+        "word": "late",
+        "meaning": "晚的；遲到的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lie",
+        "meaning": "謊言；說謊；躺",
+        "appearsInSource": true
+      },
+      {
+        "word": "money",
+        "meaning": "錢",
+        "appearsInSource": true
+      },
+      {
+        "word": "mouth",
+        "meaning": "嘴巴",
+        "appearsInSource": true
+      },
+      {
+        "word": "next",
+        "meaning": "下一個；接下來",
+        "appearsInSource": true
+      },
+      {
+        "word": "notice",
+        "meaning": "注意到；通知",
+        "appearsInSource": true
+      },
+      {
+        "word": "office",
+        "meaning": "辦公室",
+        "appearsInSource": true
+      },
+      {
+        "word": "once",
+        "meaning": "一次；曾經",
+        "appearsInSource": true
+      },
+      {
+        "word": "online",
+        "meaning": "在線上",
+        "appearsInSource": true
+      },
+      {
+        "word": "open",
+        "meaning": "打開；開著的",
+        "appearsInSource": true
+      },
+      {
+        "word": "over",
+        "meaning": "在……上方；結束",
+        "appearsInSource": true
+      },
+      {
+        "word": "people",
+        "meaning": "人們",
+        "appearsInSource": true
+      },
+      {
+        "word": "person",
+        "meaning": "人",
+        "appearsInSource": true
+      },
+      {
+        "word": "please",
+        "meaning": "請；使高興",
+        "appearsInSource": true
+      },
+      {
+        "word": "safe",
+        "meaning": "安全的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sure",
+        "meaning": "確定的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why is Kai’s first apology not enough for Mia?",
+      "options": [
+        "It is written on a phone.",
+        "It is longer than the original video.",
+        "It does not name what happened or what he did."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "It does not name what happened or what he did.",
+      "existingAnswerExplanation": "It does not name what happened or what he did.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "“Who is we?” I asked. Kai gave me a tired look. “What do you want me to say, Mia?” “What you did.” His eyes moved to Ms Lin. “Can I have a minute?” She said he could speak with the counselor and his parent before making a statement. She would not help anyone write a lie, but she would not force a frightened student to perform an apology either.",
+          "chinese": "「我們是誰？」我問。Kai 疲憊地看我。「Mia，妳到底想要我說什麼？」「你做過的事。」他看向老師。「能給我一點時間嗎？」她說他能先跟輔導老師與家長談，再做聲明。她不幫人說謊，也不會逼害怕的學生表演道歉。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 3,
+          "english": "He offered to post a new message. He had already written it on his phone. Some content may have caused confusion. We are sorry if anyone felt upset. I read it twice. There was no June. No money. No person who had done anything. It was an apology with every hard edge washed away. You could put it under a late bus notice and it would fit just as well.",
+          "chinese": "他提議發布新訊息，手機上已寫好：部分內容可能造成混淆，如有人感到不適，我們深感抱歉。我讀了兩次。沒有 June，沒有錢，也沒有人做過什麼。這份道歉把所有難看的邊角都洗掉了，放在公車誤點公告下也同樣合適。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Kai offer if Mia stops pursuing the matter?",
+      "options": [
+        "To cancel all future school shows.",
+        "To give her the principal's job.",
+        "To make her name disappear from the page."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "To make her name disappear from the page.",
+      "existingAnswerExplanation": "飲水機旁，Kai 提出讓她的名字從網頁消失，條件是她停止追查。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "Outside the office, Kai waited by the drinking fountain. “I can make your name disappear from the page,” he said quietly. “You only have to stop.” I looked at him, at the easy offer he had probably made to Sam. “A name for a name?” I asked. He did not answer. My phone buzzed. June was already at the library. For once, I knew exactly where I wanted to go.",
+          "chinese": "辦公室外，Kai 在飲水機旁等。「我能讓妳的名字從網頁消失，妳只要停下。」他輕聲說。我看著那個輕易的提議，他大概也對 Sam 說過。「一個名字換一個名字？」他不回答。手機震動，June 已到圖書館。這次我很清楚自己想去哪裡。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 5,
+          "english": "In Mr Reed's office, my mother listened through the phone. The principal explained the stage light bill. He said the office thought the online rumor would disappear if adults did not give it attention. Mum asked when he learned that June was being blamed. He checked his email. The answer was the next morning. Twenty-four hours after the clip went up, he already knew the money had been spent properly.",
+          "chinese": "在校長室，媽媽透過電話聽。校長解釋舞台燈帳單，說辦公室以為大人不理，謠言就會消失。媽媽問他何時知道 June 被指控。他查信箱，答案是隔天早上。短片上線二十四小時後，他已知道錢花得正常。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 3,
+  "chapterId": "ss-r11-l1-a-3",
+  "sourceChapterSha256": "7e76fc6e447e3aeef19af66c3e8fa26e34f713249bb3a8c1bcc677a143d9872b",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "水務車載破管不是箱子；新增維修區牌",
+    "previousChapterEndingEnglish": "Before going home, Ivy looked at the two routes again. One line stopped at the science room. The other went toward the water station and the old park. She had never been there with the club. Mr. Reed offered to show the way on Thursday, when the station was open to school groups. “That will be safer,” Ivy said. Jun put away the map and helped carry the empty food bags. He was learning that being useful did not always mean being the first person to run somewhere.",
+    "nextChapterOpeningEnglish": "A cool wind began to blow across the school yard. A cloud covered the morning sun. Near the garden, two workers from a small factory were setting square stones beside a new water pipe. One tall worker lifted a cheap plastic cover from a pile of tools. Ivy stood behind the safety line with Ms. Wen. She did not step into the work area. A butterfly flew past the stones, and a little boy ran after it. The worker asked him to stop before he fell. The boy listened and went back to his class."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Thursday the club walked with Ms. Wen and Mr. Reed to the water station. The road followed the river for a short way. Far away, beyond a low bridge, they could see the beach. A bird sat on the bridge rail. Jun wondered whether the wide wheel marks could still be found, but the rain had washed the road clean. Ivy asked everyone to stay on the safe side of the road. They were there to learn what had happened, not to take a risk for a box.",
+        "zh": "星期四，社團跟著溫老師和里德先生走到供水站。那段道路有一小部分沿著河流。遠方越過一座矮橋，就能看見沙灘。一隻鳥停在橋的欄杆上。俊想知道還能不能找到寬輪子的痕跡，但雨已把道路沖乾淨。艾薇請大家留在道路安全的一側。他們來這裡是要弄清楚發生什麼事，而不是為了一個箱子冒險。",
+        "englishSha256": "fdf42e15794f09e8723df073e4041ee93ae7a0fd9bdafb4ca576336a00387fe2",
+        "chineseSha256": "9f14b2bfae29401ad823c276e16d057f37893d91a9fd1bbc5576afa65516136a"
+      },
+      {
+        "number": 2,
+        "en": "At the station Ivy asked one more question. “Could anything happen to our plants while the pipe is being fixed?” The worker said the school could use water from another tap, as long as the teacher asked first. She gave them the hours when the station was open. Jun wanted to carry water at once, but the worker said the school had enough for now. Ivy wrote the hours beside the map. A search for a box had led them to think about how the whole garden would stay alive.",
+        "zh": "在供水站，艾薇又問了一個問題。「修水管時，我們的植物會不會發生什麼事？」工作人員說，只要老師先取得許可，學校可以使用另一個水龍頭。她告訴大家供水站的開放時段。俊想立刻去搬水，但工作人員說學校目前的水仍夠用。艾薇把時間寫在地圖旁。尋找箱子這件事，讓大家開始思考整個花園要如何繼續生長。",
+        "englishSha256": "d8bec347ab064905ae249749d70b43bf47e463ea848c55fcc4966837039e6c1f",
+        "chineseSha256": "3783240831b6fc57749c40dd9a5ed5037a418a10ed586f0ecc08b9eeee401108"
+      },
+      {
+        "number": 3,
+        "en": "A worker at the station showed them a table of public water times. Each line said when a school or farm could get clean water. The worker was born in this town and knew many people. She remembered a cart passing on Monday, but it had carried a broken pipe, not a green box. Near the door stood a picture of a cow drinking water. Jun laughed at the cow's long face. Then he looked more closely at the pipe cart. Its wheels were wide, just like the marks near the gate.",
+        "zh": "供水站的一名工作人員給他們看公開的供水時間表。每一行都寫著學校或農場能取用乾淨水的時段。這位工作人員出生於鎮上，認識很多人。她記得星期一有一輛推車經過，但運的是破掉的水管，不是綠箱子。門邊掛著一張牛喝水的畫。俊看著牛長長的臉笑了，接著更仔細觀察運水管的車。它的輪子很寬，正像校門附近留下的痕跡。",
+        "englishSha256": "d717b215c0696aa3f3336b7bb983858f30419334c6fc13374c778a22af134b62",
+        "chineseSha256": "2b1c64f7de9d56897e4950b7573144fa70998dc1b603c26fd2577f33b237b8c4"
+      },
+      {
+        "number": 4,
+        "en": "Ivy asked about the cart rather than the box. The worker said the cart went back to school every afternoon, sometimes by the main gate and sometimes by the side gate. “Then the marks may only tell us that a repair was made,” Ivy said. Ms. Wen smiled. That answer did not bring the seeds back, but it stopped them from following a road into a wrong story. A small shoe print beside the cart showed that children had walked there too. It proved nothing about who carried the box.",
+        "zh": "艾薇先問推車的事，而不是問箱子。工作人員說那輛車每天下午都會回學校，有時走正門，有時走側門。「那麼，輪痕可能只表示有人進行了維修，」艾薇說。溫老師微笑了。這個答案雖然沒有帶回種子，卻讓大家不再沿著錯誤的推測走下去。車旁有一枚小鞋印，表示孩子也曾走過這裡，卻無法證明誰拿走了箱子。",
+        "englishSha256": "7613b32b17ac90b0bf5dd7703e6709509066859c39e7b5b4dac6a693d69120f3",
+        "chineseSha256": "b55b48fc31e1f5225eb752e8376430c74445041ce508a73bad281886a0855b39"
+      },
+      {
+        "number": 5,
+        "en": "The teacher stopped the group beneath the bridge for a short rest. They watched water move around the stones and carry a leaf downstream. Ivy said that people sometimes saw only the part of a story nearest to them. She had seen an empty shelf, but the workers had seen a broken pipe. Both parts might matter. When they walked back to school, she asked Jun to draw the garden as it looked before the repair. They could compare it with the new map and ask what had changed.",
+        "zh": "老師讓大家在橋下短暫休息。他們看水繞過石頭，把一片葉子帶往下游。艾薇說，人們有時只看得到故事中離自己最近的一部分。她看見的是空架子，工人看見的卻是破水管。兩部分都可能重要。回學校時，她請俊畫出維修前的花園，再和新地圖比較，看哪些地方改變了。",
+        "englishSha256": "3317a1f3c0ae712a58d26145f0c35a290b597cb1425c92f2e3b0bc5da1544a2d",
+        "chineseSha256": "adfe68ebc72e4a5f04f83045b6a5435c455f8d07c04cc9d709ded5f4bae4d85d"
+      },
+      {
+        "number": 6,
+        "en": "On the walk back, a boy asked why they did not just follow every person who had been near the garden. Ivy said a school was full of people. A person could walk into the hall for many reasons. “We need a real link between a person and our box,” she explained. At the bridge, the teacher stopped to let a long car pass. Nobody tried to pull another student forward. They waited, then crossed together. Their questions could wait too, until everyone was safe.",
+        "zh": "回程時，一個男孩問，為什麼不乾脆追查每一個靠近花園的人。艾薇說，學校裡到處都是人，一個人走進走廊可能有許多原因。「我們需要的是某個人與箱子之間真正的關聯，」她解釋。在橋邊，老師停下來讓一輛長車通過。沒有人硬拉同學往前走。大家等車通過後才一起過橋。他們的問題也可以等，直到每個人都安全。",
+        "englishSha256": "39ba9aa4ffc83c86086eb22c1b8ea0e808a12315f490542807a45018bb487644",
+        "chineseSha256": "325041ff0b4ee9e3af49a6a667644a6448d1dc91c9bb0048cef8b3506f01fe2b"
+      },
+      {
+        "number": 7,
+        "en": "Back at school Ivy drew the cart beside her first map. She crossed out the idea that wheel marks alone could lead them to the box. Then Mr. Reed showed her the garden gate. A new sign had appeared there: “Work area. Keep clear.” It had not been there last week. Someone was making repairs near the garden, and the work had started before the box went missing. Ivy copied the sign into her notes. At last they had a question about the place itself, not just a mark on the road.",
+        "zh": "回到學校後，艾薇在第一張地圖旁畫出那輛推車。她劃掉「只靠輪痕就能找到箱子」的想法。接著里德先生帶她看花園門口。那裡出現一塊新牌子，寫著「施工區域，請勿靠近」。上星期還沒有這塊牌子。有人正在花園附近維修，而且工程在箱子失蹤之前就已開始。艾薇把牌子的內容抄進筆記。終於，他們有了一個關於現場本身的問題，而不只是路上的痕跡。",
+        "englishSha256": "72a1a8a0a47c3eeac84af556399ae4b0fbef0443e73056bc0ac7545e783a180d",
+        "chineseSha256": "8458c67c03748406cf4756a51b119f0bbb8117586931f67a9b34e65bf9db8963"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 627,
+    "targets": [
+      {
+        "word": "about",
+        "meaning": "關於",
+        "appearsInSource": true
+      },
+      {
+        "word": "beach",
+        "meaning": "海灘",
+        "appearsInSource": true
+      },
+      {
+        "word": "bird",
+        "meaning": "鳥",
+        "appearsInSource": true
+      },
+      {
+        "word": "born",
+        "meaning": "出生的",
+        "appearsInSource": true
+      },
+      {
+        "word": "bridge",
+        "meaning": "橋",
+        "appearsInSource": true
+      },
+      {
+        "word": "clean",
+        "meaning": "乾淨的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cow",
+        "meaning": "牛",
+        "appearsInSource": true
+      },
+      {
+        "word": "every",
+        "meaning": "每個",
+        "appearsInSource": true
+      },
+      {
+        "word": "Far",
+        "meaning": "遠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "follow",
+        "meaning": "跟隨",
+        "appearsInSource": true
+      },
+      {
+        "word": "happen",
+        "meaning": "發生",
+        "appearsInSource": true
+      },
+      {
+        "word": "into",
+        "meaning": "進入",
+        "appearsInSource": true
+      },
+      {
+        "word": "line",
+        "meaning": "線條、路線",
+        "appearsInSource": true
+      },
+      {
+        "word": "pull",
+        "meaning": "拉動",
+        "appearsInSource": true
+      },
+      {
+        "word": "road",
+        "meaning": "道路",
+        "appearsInSource": true
+      },
+      {
+        "word": "shoe",
+        "meaning": "鞋子",
+        "appearsInSource": true
+      },
+      {
+        "word": "side",
+        "meaning": "側邊",
+        "appearsInSource": true
+      },
+      {
+        "word": "station",
+        "meaning": "供水站",
+        "appearsInSource": true
+      },
+      {
+        "word": "table",
+        "meaning": "桌子",
+        "appearsInSource": true
+      },
+      {
+        "word": "water",
+        "meaning": "水",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What had the wide-wheel cart carried?",
+      "options": [
+        "The green box.",
+        "A broken pipe.",
+        "A table of fruit."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "A broken pipe.",
+      "existingAnswerExplanation": "供水站工人說寬輪推車運的是破水管",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "A worker at the station showed them a table of public water times. Each line said when a school or farm could get clean water. The worker was born in this town and knew many people. She remembered a cart passing on Monday, but it had carried a broken pipe, not a green box. Near the door stood a picture of a cow drinking water. Jun laughed at the cow's long face. Then he looked more closely at the pipe cart. Its wheels were wide, just like the marks near the gate.",
+          "chinese": "供水站的一名工作人員給他們看公開的供水時間表。每一行都寫著學校或農場能取用乾淨水的時段。這位工作人員出生於鎮上，認識很多人。她記得星期一有一輛推車經過，但運的是破掉的水管，不是綠箱子。門邊掛著一張牛喝水的畫。俊看著牛長長的臉笑了，接著更仔細觀察運水管的車。它的輪子很寬，正像校門附近留下的痕跡。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 4,
+          "english": "Ivy asked about the cart rather than the box. The worker said the cart went back to school every afternoon, sometimes by the main gate and sometimes by the side gate. “Then the marks may only tell us that a repair was made,” Ivy said. Ms. Wen smiled. That answer did not bring the seeds back, but it stopped them from following a road into a wrong story. A small shoe print beside the cart showed that children had walked there too. It proved nothing about who carried the box.",
+          "chinese": "艾薇先問推車的事，而不是問箱子。工作人員說那輛車每天下午都會回學校，有時走正門，有時走側門。「那麼，輪痕可能只表示有人進行了維修，」艾薇說。溫老師微笑了。這個答案雖然沒有帶回種子，卻讓大家不再沿著錯誤的推測走下去。車旁有一枚小鞋印，表示孩子也曾走過這裡，卻無法證明誰拿走了箱子。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What new clue did Ivy see at school?",
+      "options": [
+        "A work-area sign near the garden.",
+        "A new bridge.",
+        "A gift from the beach."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A work-area sign near the garden.",
+      "existingAnswerExplanation": "校園花園附近新增施工區標示，顯示維修可能相關",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "Back at school Ivy drew the cart beside her first map. She crossed out the idea that wheel marks alone could lead them to the box. Then Mr. Reed showed her the garden gate. A new sign had appeared there: “Work area. Keep clear.” It had not been there last week. Someone was making repairs near the garden, and the work had started before the box went missing. Ivy copied the sign into her notes. At last they had a question about the place itself, not just a mark on the road.",
+          "chinese": "回到學校後，艾薇在第一張地圖旁畫出那輛推車。她劃掉「只靠輪痕就能找到箱子」的想法。接著里德先生帶她看花園門口。那裡出現一塊新牌子，寫著「施工區域，請勿靠近」。上星期還沒有這塊牌子。有人正在花園附近維修，而且工程在箱子失蹤之前就已開始。艾薇把牌子的內容抄進筆記。終於，他們有了一個關於現場本身的問題，而不只是路上的痕跡。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 6,
+          "english": "On the walk back, a boy asked why they did not just follow every person who had been near the garden. Ivy said a school was full of people. A person could walk into the hall for many reasons. “We need a real link between a person and our box,” she explained. At the bridge, the teacher stopped to let a long car pass. Nobody tried to pull another student forward. They waited, then crossed together. Their questions could wait too, until everyone was safe.",
+          "chinese": "回程時，一個男孩問，為什麼不乾脆追查每一個靠近花園的人。艾薇說，學校裡到處都是人，一個人走進走廊可能有許多原因。「我們需要的是某個人與箱子之間真正的關聯，」她解釋。在橋邊，老師停下來讓一輛長車通過。沒有人硬拉同學往前走。大家等車通過後才一起過橋。他們的問題也可以等，直到每個人都安全。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

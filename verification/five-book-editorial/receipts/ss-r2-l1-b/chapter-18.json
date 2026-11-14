@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 18,
+  "chapterId": "ss-r2-l1-b-18",
+  "sourceChapterSha256": "f6e2d6c47948516c9cd771307d6ecb3d3bbbc4885ffacaaa0b1837d78e14a4ea",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "校外教學公車延誤取消，早餐店作短期安全等待點",
+    "previousChapterEndingEnglish": "Before going home, Fia looked at the shelf from the door. It was plain wood, but it could keep bread dry on a rainy day. She thanked Toma for his careful work and asked him to show Moss how to check it each week. \"Everything we build needs care later,\" Toma said. Fia nodded. The shelf was not a great new building, only one small answer to a real problem. It made her feel better about the coming rainy season. The friends left in pairs, talking softly as the evening light fell across the road. Fia put one final note in the book. She wanted the shelf to stay useful long after this happy work day, not just look good when everyone was watching.",
+    "nextChapterOpeningEnglish": "A stronger storm came in the evening. The air was cool, and rain made a loud sound on the roof. Edda called Fia on the phone. Some people from low homes near the pond needed a dry place until village helpers could take them somewhere safe. Fia opened the red house with Moss and Pip. They carried chairs to one side and made space beside the oven. Fia brought a small bed from the back room for an old visitor who had trouble standing. She knew the shop could not become everyone's home, but for one wet evening it could offer a little rest."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "One morning, a bus did not come along the road at the usual time. Children from the school had planned a trip to the zoo, but the road near the hill was wet and hard to use. Their teacher brought them to the red house to wait for news. Fia had just made a dozen small bread rolls. \"There is enough for a little snack,\" she said, \"but first we need to know how long you may stay.\" The teacher explained that the bus company would send a message soon. Fia gave the children clean seats and asked them to keep the door clear.",
+        "zh": "一個早晨，公車沒有在平常時間沿路開來。學校孩子原本要去動物園，但山旁的路又濕又難走。老師先帶大家到紅屋等消息。菲雅剛做好十二個小餐包。「可以當小點心，」她說，「但要先知道你們會等多久。」老師說公車公司很快會傳消息。菲雅安排乾淨座位，請孩子們保持門口暢通。",
+        "englishSha256": "2bf704babd7fcc694daa6a4960e001dd6f6d9213712e7a03cb2e4d9cd9edafa3",
+        "chineseSha256": "0bc4ba0c7b0dee9fc53b71a53f018a00b5df8c6c066dd3432456dee5e44f13a3"
+      },
+      {
+        "number": 2,
+        "en": "One child opened a small case and took out a toy fox. Another held a ruler and tried to measure the long table. A third child said she had a headache from waking too early. The teacher asked her to rest in a quiet place, and Fia brought water. \"We can move the chairs so she can sit away from the noise,\" Fia said. The teacher thanked her. Fia wanted to help, but she also knew that the teacher was caring for the children. She listened to the teacher's plan instead of making decisions for the whole class. \"Perhaps you can turn the toy fox toward the window,\" the teacher said, \"but do not wake our resting friend with a loud game.\"",
+        "zh": "一名孩子打開小盒子，拿出玩具狐狸。另一個拿尺想量長桌。第三個孩子說太早起床，頭有點痛。老師請她到安靜地方休息，菲雅拿來水。「我們可以移椅子，讓她遠離吵雜。」菲雅說。老師道謝。菲雅想幫忙，也知道老師負責照顧孩子，因此她配合老師的計畫，而不替全班作決定。 「也許你可以把玩具狐狸轉向窗戶，」老師說，「但不要用大聲的遊戲吵醒正在休息的朋友。」",
+        "englishSha256": "0ab7c2d811f165121db908cd355fcc56940f8bd87cf3d16b338dd9e8d9cc4640",
+        "chineseSha256": "00a417dc138a5a73cd734941eb64ebdf3699ed2412365daf2eb6479c8113aab9"
+      },
+      {
+        "number": 3,
+        "en": "Moss found that one bread knife had a sharp place where the handle joined the blade. He put it away and used another safe tool. Pip checked the floor, where wet shoes had left marks. He cleaned them and put a strip of tape beside the door to show where visitors should walk. \"The rain has made a bad day for travel,\" he said. \"But we can still give people a good place to wait.\" Fia agreed. She was glad they had made the new shelf. It had kept all the bread dry, even when the air grew wet.",
+        "zh": "莫斯發現一把麵包刀在刀柄接合處有尖銳破損。他把它收起，改用安全的工具。皮普檢查地板，看到濕鞋留下痕跡，就擦乾並在門旁貼一條膠帶，標示訪客行走的位置。「這場雨讓旅行變得不順利，」他說，「但我們還是能讓人有個好地方等待。」菲雅同意，也很慶幸做了新架子。即使空氣潮濕，麵包仍全都乾燥。",
+        "englishSha256": "5b6c55b1900e74ca98951c1a61adc2483e99d4dfc67bed1610e875d33baf671d",
+        "chineseSha256": "ac210a7b02e8bd74d97fd6021c4578fbc6043ecf0d0aa58470d996f8a73e4097"
+      },
+      {
+        "number": 4,
+        "en": "At noon, the teacher received the next message. The trip would not happen today. Some children were sad. One asked whether the day was a complete failure. Fia answered carefully. \"You did not get to the zoo, and that is disappointing,\" she said. \"But you stayed safe, and you can plan another day.\" The teacher asked the children what they wanted to learn from the morning. One said to check the weather. Another said to carry water. The child with the toy fox said, \"I learned that a shop can be kind even when it is busy.\"",
+        "zh": "中午，老師收到新消息：今天的旅行取消。孩子們有些難過。一人問今天是否完全失敗了。菲雅謹慎回答：「你們沒去成動物園，確實令人失望，但大家安全，也能另選一天。」老師請孩子們說說早上學到了什麼。有人說要查天氣，有人說要帶水。拿著玩具狐狸的孩子說：「我學到小店忙碌時也能對人友善。」",
+        "englishSha256": "ffa6f50a40481ee79a3f3b6257a58eeece269fbf2b7d9350ba50f9aee43d5694",
+        "chineseSha256": "22dfaaa24fd203ca13ec52546c4338d6b9e671be1ba4e90ce40046dc21ab8ac1"
+      },
+      {
+        "number": 5,
+        "en": "The school arranged a safe way home for everyone. Before leaving, the teacher thanked the workers for helping. She said their care had been excellent. Fia felt proud but did not think she had done something great alone. Moss had cooked, Pip had cleaned, and the teacher had cared for the children. Each person had done one part. When the last child left, Fia put the chairs back in place. The room looked like a breakfast shop again. She wondered whether it could also be a safe meeting point when the next strong storm came.",
+        "zh": "學校安排大家安全回家的方式。離開前，老師謝謝店員幫忙，稱讚照顧得很好。菲雅很驕傲，卻不認為那是自己的單人功勞。莫斯煮食、皮普打掃、老師照顧孩子，各人完成一部分。最後一名孩子離開後，菲雅把椅子放回原位。房間又像早餐店了。她想著，下次暴風雨來時，這裡是否也能成為安全的集合點。",
+        "englishSha256": "fa1f21848027a88c678b1e3840639e74826e9ee43c2e4f795900a3c529df737b",
+        "chineseSha256": "359ddf943b9f68e36ce679999ea46651b842dd3e561f29f77238f20cd41c6c5a"
+      },
+      {
+        "number": 6,
+        "en": "That evening, the workers ate an early dinner together. They talked about the bus and the children, then wrote down what needed to change. They needed more clean drinking cups, a place for wet bags, and a clear note about how many people the room could hold. Fia knew they could not help everyone in every case. Still, they could be ready to do something useful. She closed the book and smiled at her friends. Their shop was growing in ways they had never expected when they first opened the red door.",
+        "zh": "那晚，工作者一起吃了提早的晚餐。他們談公車和孩子，也記下需要改變的事：更多乾淨水杯、放濕袋子的地方、清楚的室內容納人數。菲雅知道不可能在每種情況幫到所有人，但仍能準備做些有用的事。她合上本子，對朋友微笑。當初打開紅門時，他們沒想到小店會以這種方式成長。",
+        "englishSha256": "db670ab124fea6f527612b34bf4de72f7fe983168e804ae3480d4b7bafb42454",
+        "chineseSha256": "a727e20705d5f2dd54f76d0f39be44ad59a77254adc8e3f1a9dbfa03a37b55b1"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 609,
+    "targets": [
+      {
+        "word": "along",
+        "meaning": "沿著",
+        "appearsInSource": true
+      },
+      {
+        "word": "bad",
+        "meaning": "不好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "bread",
+        "meaning": "麵包",
+        "appearsInSource": true
+      },
+      {
+        "word": "bus",
+        "meaning": "公車",
+        "appearsInSource": true
+      },
+      {
+        "word": "case",
+        "meaning": "盒子",
+        "appearsInSource": true
+      },
+      {
+        "word": "dinner",
+        "meaning": "晚餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "dozen",
+        "meaning": "一打",
+        "appearsInSource": true
+      },
+      {
+        "word": "excellent",
+        "meaning": "極好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "headache",
+        "meaning": "頭痛",
+        "appearsInSource": true
+      },
+      {
+        "word": "move",
+        "meaning": "移動",
+        "appearsInSource": true
+      },
+      {
+        "word": "next",
+        "meaning": "下一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "Perhaps",
+        "meaning": "也許",
+        "appearsInSource": true
+      },
+      {
+        "word": "ruler",
+        "meaning": "尺",
+        "appearsInSource": true
+      },
+      {
+        "word": "sharp",
+        "meaning": "尖銳的",
+        "appearsInSource": true
+      },
+      {
+        "word": "something",
+        "meaning": "某件事",
+        "appearsInSource": true
+      },
+      {
+        "word": "tape",
+        "meaning": "膠帶",
+        "appearsInSource": true
+      },
+      {
+        "word": "toy",
+        "meaning": "玩具",
+        "appearsInSource": true
+      },
+      {
+        "word": "turn",
+        "meaning": "轉動",
+        "appearsInSource": true
+      },
+      {
+        "word": "wake",
+        "meaning": "喚醒",
+        "appearsInSource": true
+      },
+      {
+        "word": "zoo",
+        "meaning": "動物園",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does the school cancel the zoo trip?",
+      "options": [
+        "The road is unsafe",
+        "The zoo has no animals",
+        "The children dislike buses"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The road is unsafe",
+      "existingAnswerExplanation": "山路潮濕難行，因此旅行取消。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "One morning, a bus did not come along the road at the usual time. Children from the school had planned a trip to the zoo, but the road near the hill was wet and hard to use. Their teacher brought them to the red house to wait for news. Fia had just made a dozen small bread rolls. \"There is enough for a little snack,\" she said, \"but first we need to know how long you may stay.\" The teacher explained that the bus company would send a message soon. Fia gave the children clean seats and asked them to keep the door clear.",
+          "chinese": "一個早晨，公車沒有在平常時間沿路開來。學校孩子原本要去動物園，但山旁的路又濕又難走。老師先帶大家到紅屋等消息。菲雅剛做好十二個小餐包。「可以當小點心，」她說，「但要先知道你們會等多久。」老師說公車公司很快會傳消息。菲雅安排乾淨座位，請孩子們保持門口暢通。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 4,
+          "english": "At noon, the teacher received the next message. The trip would not happen today. Some children were sad. One asked whether the day was a complete failure. Fia answered carefully. \"You did not get to the zoo, and that is disappointing,\" she said. \"But you stayed safe, and you can plan another day.\" The teacher asked the children what they wanted to learn from the morning. One said to check the weather. Another said to carry water. The child with the toy fox said, \"I learned that a shop can be kind even when it is busy.\"",
+          "chinese": "中午，老師收到新消息：今天的旅行取消。孩子們有些難過。一人問今天是否完全失敗了。菲雅謹慎回答：「你們沒去成動物園，確實令人失望，但大家安全，也能另選一天。」老師請孩子們說說早上學到了什麼。有人說要查天氣，有人說要帶水。拿著玩具狐狸的孩子說：「我學到小店忙碌時也能對人友善。」",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Fia learn from the visit?",
+      "options": [
+        "A shop may be a safe waiting place",
+        "Every trip must happen",
+        "Bread cannot be shared"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A shop may be a safe waiting place",
+      "existingAnswerExplanation": "這次事件讓團隊思考如何讓店成為安全的等候場所。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "At noon, the teacher received the next message. The trip would not happen today. Some children were sad. One asked whether the day was a complete failure. Fia answered carefully. \"You did not get to the zoo, and that is disappointing,\" she said. \"But you stayed safe, and you can plan another day.\" The teacher asked the children what they wanted to learn from the morning. One said to check the weather. Another said to carry water. The child with the toy fox said, \"I learned that a shop can be kind even when it is busy.\"",
+          "chinese": "中午，老師收到新消息：今天的旅行取消。孩子們有些難過。一人問今天是否完全失敗了。菲雅謹慎回答：「你們沒去成動物園，確實令人失望，但大家安全，也能另選一天。」老師請孩子們說說早上學到了什麼。有人說要查天氣，有人說要帶水。拿著玩具狐狸的孩子說：「我學到小店忙碌時也能對人友善。」",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "The school arranged a safe way home for everyone. Before leaving, the teacher thanked the workers for helping. She said their care had been excellent. Fia felt proud but did not think she had done something great alone. Moss had cooked, Pip had cleaned, and the teacher had cared for the children. Each person had done one part. When the last child left, Fia put the chairs back in place. The room looked like a breakfast shop again. She wondered whether it could also be a safe meeting point when the next strong storm came.",
+          "chinese": "學校安排大家安全回家的方式。離開前，老師謝謝店員幫忙，稱讚照顧得很好。菲雅很驕傲，卻不認為那是自己的單人功勞。莫斯煮食、皮普打掃、老師照顧孩子，各人完成一部分。最後一名孩子離開後，菲雅把椅子放回原位。房間又像早餐店了。她想著，下次暴風雨來時，這裡是否也能成為安全的集合點。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 1,
+  "chapterId": "ss-r2-l1-b-1",
+  "sourceChapterSha256": "934f835938dac600afd0eb976523fd54bd11898dbb2b70c7023b1be13241335b",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "菲雅在小葉村看見有祖母木星的舊紅屋，決定改早餐店",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "The next morning, Fia opened the old house. Dust lay on the floor, and a long sofa stood by the back wall. \"Can anybody help me move this?\" she called. Moss came in first. Pip arrived from his apartment above the little village church. He was late because he had stopped to help a child find a lost shoe. Fia did not mind. She asked them to look carefully before they moved anything. Behind the sofa they found an empty box, a broken cup, and a small pen. Moss held up the pen like a great treasure, and they all laughed."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On the north side of Little Leaf Village, a small red house stood beside a path. Fia, a young fox woman, stopped there with her pet bird, Blue. She had carried a camera to take a picture of the empty house. In the middle of the door was a small wooden star. Her grandmother had made it many years ago. Fia wanted to use the house for the village's first breakfast shop. She could almost smell warm bread cooling by the window and hear friends talking around one long table. But the door was shut, and nobody had opened it for a long time.",
+        "zh": "在小葉村的北邊，一間紅色小屋立在小路旁。年輕的狐狸女子菲雅帶著她的寵物鳥小藍停在門前。她帶了相機，想替空屋拍照。門的正中央有一顆小木星星，是祖母多年前做的。菲雅想把這間屋子變成村裡第一間早餐店。她彷彿聞到窗邊麵包出爐的香氣，也聽見朋友們圍著長桌聊天。然而門關著，而且已經很久沒人打開了。",
+        "englishSha256": "5fd76b12663e1903c3f19db03e8ea2afd3ae68f361f150cef344d95dcc37d854",
+        "chineseSha256": "9f8cc7367cee08f7e8b38c4cca8dca79771d5783f93e2254edc59bf8d59d4a5e"
+      },
+      {
+        "number": 2,
+        "en": "Moss, a young bear, came down the path with a bag of flour. A little bug was sitting on his nose. Fia began to laugh, and Moss gently moved the bug to a leaf. \"I hear you want to open a shop,\" he said. \"Is that a fact?\" Fia nodded. \"I can make bread, but I cannot do every job.\" Moss looked at the old roof. \"We may need more than two hands,\" he said. He was friendly, but he did not want to make a promise he could not keep. They agreed to walk around the house before making a plan.",
+        "zh": "年輕的熊莫斯提著一袋麵粉走下小路，一隻小蟲停在他的鼻子上。菲雅笑了起來，莫斯則輕輕把蟲放回葉子上。「我聽說妳想開店，是真的嗎？」他問。菲雅點頭。「我會做麵包，可是不能一個人做完所有工作。」莫斯望著舊屋頂。「我們可能需要更多幫手。」他說。他雖然友善，卻不願作出無法遵守的承諾。於是兩人決定先繞房子走一圈，再談計畫。",
+        "englishSha256": "f96a0a0f5e716ef4211110181ac499f4c4f0a05b99cfab9992d505de42ef0b2d",
+        "chineseSha256": "47b09dd99e9f04e226154e18e6842d1797bbcadc12b61ffd5f7fde335fcd069a"
+      },
+      {
+        "number": 3,
+        "en": "They went behind the house and found a small table under a tree. Last spring, the neighbors had a picnic here. Fia remembered cups of apple juice and children running in the grass. She could almost hear them again. \"We could have breakfast outside when the sun is warm,\" she said. Moss reached for a loose board, but Fia asked him to stop. \"Please do not pull it yet. We must know what it holds.\" Moss smiled. \"You notice things I miss.\" Fia felt glad. This was the kind of help she wanted: people who could ask, listen, and think together.",
+        "zh": "他們走到屋後，發現樹下有張小桌。去年春天，鄰居們曾在這裡野餐。菲雅記得蘋果汁的杯子，還有在草地上奔跑的孩子。她幾乎又聽見那時的笑聲。「天氣暖時，我們可以在戶外吃早餐。」她說。莫斯伸手想拉一塊鬆動的木板，菲雅卻請他先停下。「還不要拉，我們得知道它支撐著什麼。」莫斯笑著說：「妳會注意到我漏看的事。」菲雅很高興。她需要的正是這種會一起提問、傾聽和思考的幫手。",
+        "englishSha256": "b7d699f835d08b0127bbb9d438267014c2b132efa63d06f28b577aab9cd4a6cb",
+        "chineseSha256": "9356d40fe98426f24ce89acab353f22a70ab891708bbf762496d55e946cba140"
+      },
+      {
+        "number": 4,
+        "en": "Pip, a small rabbit, joined them with another idea. He knew which gardens had extra fruit in summer. \"I could bring berries,\" he offered. \"And I could grow herbs near the wall.\" Fia thanked him, but she said they must first ask the owners of each garden. Pip agreed. A breakfast shop could not begin with things taken without asking. Moss pointed to the old star on the door. \"Your grandmother made that for people to find their way home,\" he said. \"A shop may give them another reason to come here.\" For a moment, the three friends stood quietly beside the red house.",
+        "zh": "小兔子皮普帶著另一個想法加入。他知道哪些花園在夏天有多餘的水果。「我可以帶莓果，還能在牆邊種香草。」他說。菲雅謝謝他，但提醒必須先徵得每個花園主人的同意。皮普點頭。早餐店不該靠未經允許拿來的東西開始。莫斯指著門上的老星星。「妳祖母做它，是為了讓大家找到回家的路。」他說，「這間店也能給大家一個來這裡的理由。」三個朋友在紅屋旁靜靜站了一會兒。",
+        "englishSha256": "4637d32a7f8f69b83d6f727c5c7cd7247f7de01206994ea111cbbeb8e2d76d27",
+        "chineseSha256": "14d7b72d7b4f9fc35f65b807add3ad766332b60c08835cf5042b7d187717a808"
+      },
+      {
+        "number": 5,
+        "en": "Fia did not want to lie to her friends. She told them that she had little money and no idea how long the work would take. \"I do not know if this will be easy,\" she said. \"I only know why I want to try.\" Her grandmother had once cooked for a traveler who was cold and hungry. That simple meal had become a happy story in the village. Fia wanted such stories in the future, not a shop that made one person rich. Moss said he would help with the oven. Pip promised to speak with the garden owners. Their first jobs were small, but real. She hoped other neighbors would reach the little red door one day, not because of a big sign, but because someone had told them they were welcome.",
+        "zh": "菲雅不想對朋友說謊。她坦白說自己錢不多，也不知道整理工作要花多久。「我不知道這會不會容易，」她說，「我只知道為何想試試。」祖母曾為一名又冷又餓的旅人煮飯，那頓簡單的餐食成了村裡快樂的故事。菲雅希望未來也有這樣的故事，而不是開一家只讓某個人致富的店。莫斯說他會幫忙處理烤爐；皮普答應去問花園主人。第一批工作雖小，卻很實在。 她希望有一天其他鄰居也能走到小紅門前，不是因為醒目的招牌，而是因為有人告訴他們：這裡歡迎他們。",
+        "englishSha256": "e9d51e1f3172f6f9ac73947dd8f7115cab67d0f619cbd89ab413656ed010b134",
+        "chineseSha256": "0973e2748388368bb0fb45a557cf73c77cfa859ea17e101e0bb5c9ccbf7e5d87"
+      },
+      {
+        "number": 6,
+        "en": "Then Edda, the old owl who cared for the village houses, came down the road. She held a key carefully in one claw. \"I heard you were looking at this place,\" she said. \"You may open the door tomorrow, but you must write down what needs fixing.\" Fia showed her the picture on the camera. Edda looked at the roof, the window, and the little star. \"Good,\" she said. \"A picture helps us remember what is here now.\" Fia put the key safely in her bag. They had not made any food yet, but the first breakfast shop had taken its first small step.",
+        "zh": "接著，照管村中房屋的老貓頭鷹艾達走來。她用一隻爪子小心地握著鑰匙。「我聽說你們在看這間屋子。」她說，「明天可以開門，但得寫下需要修理的地方。」菲雅把相機裡的照片給她看。艾達看了屋頂、窗戶和小星星。「很好，」她說，「照片能幫我們記得屋子原來的樣子。」菲雅把鑰匙妥善收進袋子。他們還沒做出任何食物，但村裡第一間早餐店已跨出第一小步。",
+        "englishSha256": "7769559a840b3776d83b80669fe39c9f1f8bdf7ebaad8fa4b28f96a6ee5d7cb6",
+        "chineseSha256": "e65b1a7cd9f6e81f5ce529beb887893d45f5c9c622f139eff01ef1dda4e10a01"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 649,
+    "targets": [
+      {
+        "word": "bug",
+        "meaning": "小蟲",
+        "appearsInSource": true
+      },
+      {
+        "word": "camera",
+        "meaning": "相機",
+        "appearsInSource": true
+      },
+      {
+        "word": "fact",
+        "meaning": "事實",
+        "appearsInSource": true
+      },
+      {
+        "word": "friendly",
+        "meaning": "友善的",
+        "appearsInSource": true
+      },
+      {
+        "word": "future",
+        "meaning": "未來",
+        "appearsInSource": true
+      },
+      {
+        "word": "juice",
+        "meaning": "果汁",
+        "appearsInSource": true
+      },
+      {
+        "word": "lie",
+        "meaning": "說謊",
+        "appearsInSource": true
+      },
+      {
+        "word": "middle",
+        "meaning": "中央",
+        "appearsInSource": true
+      },
+      {
+        "word": "north",
+        "meaning": "北邊",
+        "appearsInSource": true
+      },
+      {
+        "word": "notice",
+        "meaning": "注意到",
+        "appearsInSource": true
+      },
+      {
+        "word": "other",
+        "meaning": "其他的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pet",
+        "meaning": "寵物",
+        "appearsInSource": true
+      },
+      {
+        "word": "picnic",
+        "meaning": "野餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "reach",
+        "meaning": "抵達",
+        "appearsInSource": true
+      },
+      {
+        "word": "red",
+        "meaning": "紅色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "star",
+        "meaning": "星星",
+        "appearsInSource": true
+      },
+      {
+        "word": "Then",
+        "meaning": "然後",
+        "appearsInSource": true
+      },
+      {
+        "word": "This",
+        "meaning": "這個",
+        "appearsInSource": true
+      },
+      {
+        "word": "use",
+        "meaning": "使用",
+        "appearsInSource": true
+      },
+      {
+        "word": "woman",
+        "meaning": "女子",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Fia want to open?",
+      "options": [
+        "A breakfast shop",
+        "A train station",
+        "A school"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A breakfast shop",
+      "existingAnswerExplanation": "菲雅希望將紅色小屋變成早餐店。\n校訂核對（第 1 段）：Fia wanted to use the house for the village's first breakfast shop.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Then Edda, the old owl who cared for the village houses, came down the road. She held a key carefully in one claw. \"I heard you were looking at this place,\" she said. \"You may open the door tomorrow, but you must write down what needs fixing.\" Fia showed her the picture on the camera. Edda looked at the roof, the window, and the little star. \"Good,\" she said. \"A picture helps us remember what is here now.\" Fia put the key safely in her bag. They had not made any food yet, but the first breakfast shop had taken its first small step.",
+          "chinese": "接著，照管村中房屋的老貓頭鷹艾達走來。她用一隻爪子小心地握著鑰匙。「我聽說你們在看這間屋子。」她說，「明天可以開門，但得寫下需要修理的地方。」菲雅把相機裡的照片給她看。艾達看了屋頂、窗戶和小星星。「很好，」她說，「照片能幫我們記得屋子原來的樣子。」菲雅把鑰匙妥善收進袋子。他們還沒做出任何食物，但村裡第一間早餐店已跨出第一小步。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "On the north side of Little Leaf Village, a small red house stood beside a path. Fia, a young fox woman, stopped there with her pet bird, Blue. She had carried a camera to take a picture of the empty house. In the middle of the door was a small wooden star. Her grandmother had made it many years ago. Fia wanted to use the house for the village's first breakfast shop. She could almost smell warm bread cooling by the window and hear friends talking around one long table. But the door was shut, and nobody had opened it for a long time.",
+          "chinese": "在小葉村的北邊，一間紅色小屋立在小路旁。年輕的狐狸女子菲雅帶著她的寵物鳥小藍停在門前。她帶了相機，想替空屋拍照。門的正中央有一顆小木星星，是祖母多年前做的。菲雅想把這間屋子變成村裡第一間早餐店。她彷彿聞到窗邊麵包出爐的香氣，也聽見朋友們圍著長桌聊天。然而門關著，而且已經很久沒人打開了。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Fia ask Moss not to pull the board?",
+      "options": [
+        "It is too colorful",
+        "They do not know what it holds",
+        "It belongs to a bird"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "They do not know what it holds",
+      "existingAnswerExplanation": "菲雅希望先確認木板支撐的部分，避免造成損壞。\n校訂核對（第 3 段）：We must know what it holds.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "They went behind the house and found a small table under a tree. Last spring, the neighbors had a picnic here. Fia remembered cups of apple juice and children running in the grass. She could almost hear them again. \"We could have breakfast outside when the sun is warm,\" she said. Moss reached for a loose board, but Fia asked him to stop. \"Please do not pull it yet. We must know what it holds.\" Moss smiled. \"You notice things I miss.\" Fia felt glad. This was the kind of help she wanted: people who could ask, listen, and think together.",
+          "chinese": "他們走到屋後，發現樹下有張小桌。去年春天，鄰居們曾在這裡野餐。菲雅記得蘋果汁的杯子，還有在草地上奔跑的孩子。她幾乎又聽見那時的笑聲。「天氣暖時，我們可以在戶外吃早餐。」她說。莫斯伸手想拉一塊鬆動的木板，菲雅卻請他先停下。「還不要拉，我們得知道它支撐著什麼。」莫斯笑著說：「妳會注意到我漏看的事。」菲雅很高興。她需要的正是這種會一起提問、傾聽和思考的幫手。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 4,
+          "english": "Pip, a small rabbit, joined them with another idea. He knew which gardens had extra fruit in summer. \"I could bring berries,\" he offered. \"And I could grow herbs near the wall.\" Fia thanked him, but she said they must first ask the owners of each garden. Pip agreed. A breakfast shop could not begin with things taken without asking. Moss pointed to the old star on the door. \"Your grandmother made that for people to find their way home,\" he said. \"A shop may give them another reason to come here.\" For a moment, the three friends stood quietly beside the red house.",
+          "chinese": "小兔子皮普帶著另一個想法加入。他知道哪些花園在夏天有多餘的水果。「我可以帶莓果，還能在牆邊種香草。」他說。菲雅謝謝他，但提醒必須先徵得每個花園主人的同意。皮普點頭。早餐店不該靠未經允許拿來的東西開始。莫斯指著門上的老星星。「妳祖母做它，是為了讓大家找到回家的路。」他說，「這間店也能給大家一個來這裡的理由。」三個朋友在紅屋旁靜靜站了一會兒。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

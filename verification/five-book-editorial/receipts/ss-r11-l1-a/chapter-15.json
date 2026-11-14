@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 15,
+  "chapterId": "ss-r11-l1-a-15",
+  "sourceChapterSha256": "719bf69722459b0aceeaa994a54fc86745916fd0c4013a696ddf3f39cc6a3960",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "莎拉在市場清單發現學校綠容器，仍不先認定",
+    "previousChapterEndingEnglish": "At the end of the meeting the principal asked who would lead the garden work next week. Ivy said she could help, but she did not want to make every decision herself. Kai should have a say about the path, Jun about the signs, and the younger children about the plants they wanted to learn from. The principal agreed. For the first time, Ivy felt like a real leader. She was not the boss of her friends. She was the person making room for them to speak.",
+    "nextChapterOpeningEnglish": "The next day was very hot. Air above the school garden felt still, and Ivy could see heat rise from the road. The children wore hats and worked slowly. Ms. Wen told them that the garden was part of the earth and needed care in different weather. A writer from the school paper came to ask about the missing green box. Ivy said she did not know where it was, but she knew people were helping. The writer smiled. “That is a correct answer,” she said. “It is smart not to claim more than you know.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The school arranged a visit to the market hall. At the front door, Ivy saw a store selling hats and T-shirts. A visitor was eating a meal at a small restaurant nearby. Beside the door a worker was fixing a pipe, and water had made the ground wet. Ms. Wen asked the children to walk around the work area. “Please stay with us,” she said. Jun looked at the signs and said the market felt like a world of little shops. Ivy thought it was busy and full of places where a box could hide without anyone trying to hide it.",
+        "zh": "學校安排大家參觀市場大廳。正門旁，艾薇看見一間賣帽子和 T 恤的商店。一位訪客正在附近的小餐館吃飯。門旁有工人在修水管，水把地面弄濕了。溫老師請孩子們繞過施工區。「請跟大家一起走，」她說。俊看著招牌，說市場像由許多小店組成的世界。艾薇則覺得這裡很忙，有許多地方能讓箱子不知不覺消失在眼前，而不需要有人刻意藏起來。",
+        "englishSha256": "1857276bc6c4f9fa26c7adbe441dd48a8e4713a25a2a27acaa31c1119053dc8f",
+        "chineseSha256": "b728885f5ba4bf536c4b9b3abe4c61aed8fb51ae50da9f84b8b4fbda8db4c81a"
+      },
+      {
+        "number": 2,
+        "en": "At the market a man selling fruit wore a wide hat and a clean white T-shirt. His stand had a small animal picture above the door. He offered the children water before they went on, and Ms. Wen thanked him. Ivy was ready to eat, but she wanted to finish the meeting with Sara first. She knew they would have time for lunch later. The seller said he had seen many school groups visit again after the storm. He hoped they would find what they needed, but he did not claim to have seen their green box.",
+        "zh": "市場裡，一位賣水果的男子戴著寬邊帽，穿乾淨的白 T 恤。他的攤位門上有張小動物圖。參觀的孩子經過時，他提供飲水，溫老師向他道謝。艾薇已經想吃東西了，但她想先完成與莎拉的會面，知道等一下仍有時間午餐。攤主說，暴雨後曾有不少學校團體再次來訪。他希望大家找到需要的東西，卻沒有聲稱看過他們的綠箱子。",
+        "englishSha256": "ca9fc753f1cc1288b996652405d158883d9bef939c28b482cd82573e6a81d108",
+        "chineseSha256": "59a17317cb6b134306b4bb665d3956ed20c89c41b0aaf5658ce0c1b551ccb97b"
+      },
+      {
+        "number": 3,
+        "en": "A woman named Sara managed the hall. She had a slim notebook full of delivery times. She said the market had received many things after the school repair began. “Some were expensive machines,” she said. “Others were simple chairs and garden things.” Ivy asked how the hall kept them apart. Sara said each group should have its own label, but a storm sometimes tore paper off a box. They went to the public storage desk, where Sara could check the list without letting the children enter the back rooms.",
+        "zh": "一位名叫莎拉的女子管理大廳。她有本薄薄的筆記本，記滿送貨時間。她說學校維修開始後，市場收進不少物品。「有些是很昂貴的機器，」她說，「有些只是普通椅子和園藝用品。」艾薇問他們如何分辨。莎拉說每個團體都應該有自己的標籤，但暴雨有時會把紙標籤扯掉。大家來到公開的儲物服務台，由莎拉查詢清單，孩子們不用進入後面的房間。",
+        "englishSha256": "818b8adf63de721ad212e84fe20044758824449d435838d45675008e320d6897",
+        "chineseSha256": "b2b97c1e4453729556a483928533be9b9c2922679ccc0ff3e13057c4408560a8"
+      },
+      {
+        "number": 4,
+        "en": "At lunch Ivy's sister joined them. She worked at a small food stand during school breaks. Her job was to serve people and keep the table clean. She wanted to know how the green box could help the garden day. Ivy said it held the plant notes and labels for children to read. Her sister said a market worker might have mistaken it for an empty food box. “That is only an idea,” she added. Ivy smiled. Her family was learning the difference between a possible story and a known fact.",
+        "zh": "午餐時，艾薇的姊姊加入他們。她在學校假期時會到小食物攤打工，工作是招呼客人、保持桌面乾淨。她想知道綠箱子為什麼對花園日那麼重要。艾薇說，裡面有植物筆記和給孩子閱讀的標示牌。姊姊說市場工人可能把它誤認為空食物箱。「那只是個想法，」她補充。艾薇笑了。她的家人也在學習分辨可能發生的事和已知的事。",
+        "englishSha256": "d430ecac6e67d50de4fb7014e2bada1870276687e46a7b7ead4330f01f73baa0",
+        "chineseSha256": "8a38bf2b05da5d7c01fd3106b31ee4c3173258db1423a0cf08da02d93f51e1c1"
+      },
+      {
+        "number": 5,
+        "en": "Sara showed the club a drawing of the market rooms. One room held food, one held tables, and the third held things waiting to be returned. The green container had moved from the first room to the third. Sara said a worker would check there after the desk closed. Ivy was grateful that Sara did not open the rooms to visitors simply to make them happy. A good answer was worth waiting for, and other people needed the market to work safely too.",
+        "zh": "莎拉給社團看市場房間的圖。第一間放食物，第二間放桌子，第三間放等待歸還的物品。綠容器從第一間移到第三間。莎拉說工作人員會在服務台關閉後前往確認。艾薇感謝莎拉沒有只為了讓訪客高興，就隨意打開儲藏室。好的答案值得等待，其他人也需要市場能安全運作。",
+        "englishSha256": "6c10d64bcdd3fc02f6bddc55dfe169a46ce068a2a21263b0533dae8e544f76bf",
+        "chineseSha256": "d31e3e9230db2439ccbfec4296332ba0c33a5386533c7c40018eb9ced10d36c7"
+      },
+      {
+        "number": 6,
+        "en": "Sara brought the list back. A green container had arrived from the school on the day of the rain, but its label read “room supplies.” It did not say seeds. The box had been moved once because water from the old pipe reached the storage door. Sara said she wanted to check where it went next, yet she could not leave the service desk right then. “Please give me time to do my work,” she said. Ivy agreed. She wanted the box back, but did not want anyone to lose a job because the school was in a hurry.",
+        "zh": "莎拉帶著清單回來。下雨那天，確實有個綠色容器從學校送來，但標籤寫著「教室用品」，沒有提到種子。因為舊水管的水流到儲藏室門口，箱子又被移動了一次。莎拉說想確認後來送去哪裡，但她當下不能離開服務台。「請讓我先把工作做好，」她說。艾薇同意了。她想找回箱子，卻不希望任何人因為學校著急而影響工作。",
+        "englishSha256": "628fd7e3abe7d0362c50de21f6b390574b722bc04691c8d3c2859da6d1a81ecf",
+        "chineseSha256": "46b4b6177af067cd127c2166addd6f0b04f20aa3f2abcb1e72cd53a9dbf7514f"
+      },
+      {
+        "number": 7,
+        "en": "On the way back Ivy felt a sore place on her foot after walking all morning. She sat to rest while Ms. Wen counted the group. Jun said they had come close to an answer. Ivy said the green container might still be a different box. It would be wrong to tell the younger students that the seeds had been found. They waited for Sara to check its drawing. “I want us to be glad when we know, not only when we hope,” Ivy said. Jun agreed and offered to carry her water bottle.",
+        "zh": "回程時，艾薇走了一整個上午，腳上有一處痠痛。她坐下休息，溫老師則點名確認人數。俊說他們快接近答案了。艾薇說那個綠容器仍可能是另一個箱子；現在就告訴低年級學生種子找到了，並不公平。他們要等莎拉核對圖畫。「我希望我們是在確定時開心，不只是因為有希望就高興，」艾薇說。俊同意，主動幫她拿水壺。",
+        "englishSha256": "35ee2e79addc213a18acec5074e12abd4a4ba77b9f5d4420e5bd6909015f656f",
+        "chineseSha256": "da49d60d21014a03d1f527407f915996c89bba21f3f2e853c87f2850d4172dcd"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 654,
+    "targets": [
+      {
+        "word": "again",
+        "meaning": "再次",
+        "appearsInSource": true
+      },
+      {
+        "word": "animal",
+        "meaning": "動物",
+        "appearsInSource": true
+      },
+      {
+        "word": "At",
+        "meaning": "在",
+        "appearsInSource": true
+      },
+      {
+        "word": "eat",
+        "meaning": "吃",
+        "appearsInSource": true
+      },
+      {
+        "word": "expensive",
+        "meaning": "昂貴的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hat",
+        "meaning": "帽子",
+        "appearsInSource": true
+      },
+      {
+        "word": "how",
+        "meaning": "如何",
+        "appearsInSource": true
+      },
+      {
+        "word": "job",
+        "meaning": "工作",
+        "appearsInSource": true
+      },
+      {
+        "word": "market",
+        "meaning": "市場",
+        "appearsInSource": true
+      },
+      {
+        "word": "meal",
+        "meaning": "餐點",
+        "appearsInSource": true
+      },
+      {
+        "word": "pipe",
+        "meaning": "水管",
+        "appearsInSource": true
+      },
+      {
+        "word": "Please",
+        "meaning": "請",
+        "appearsInSource": true
+      },
+      {
+        "word": "restaurant",
+        "meaning": "餐廳",
+        "appearsInSource": true
+      },
+      {
+        "word": "sister",
+        "meaning": "姊妹",
+        "appearsInSource": true
+      },
+      {
+        "word": "slim",
+        "meaning": "薄薄的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sore",
+        "meaning": "痠痛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "T-shirt",
+        "meaning": "T恤",
+        "appearsInSource": true
+      },
+      {
+        "word": "visitor",
+        "meaning": "訪客",
+        "appearsInSource": true
+      },
+      {
+        "word": "want",
+        "meaning": "想要",
+        "appearsInSource": true
+      },
+      {
+        "word": "world",
+        "meaning": "世界",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Sara find on the market list?",
+      "options": [
+        "A green container from the school.",
+        "A new school bell.",
+        "A bicycle in the kitchen."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A green container from the school.",
+      "existingAnswerExplanation": "市場清單列出一個來自學校的綠容器",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Sara brought the list back. A green container had arrived from the school on the day of the rain, but its label read “room supplies.” It did not say seeds. The box had been moved once because water from the old pipe reached the storage door. Sara said she wanted to check where it went next, yet she could not leave the service desk right then. “Please give me time to do my work,” she said. Ivy agreed. She wanted the box back, but did not want anyone to lose a job because the school was in a hurry.",
+          "chinese": "莎拉帶著清單回來。下雨那天，確實有個綠色容器從學校送來，但標籤寫著「教室用品」，沒有提到種子。因為舊水管的水流到儲藏室門口，箱子又被移動了一次。莎拉說想確認後來送去哪裡，但她當下不能離開服務台。「請讓我先把工作做好，」她說。艾薇同意了。她想找回箱子，卻不希望任何人因為學校著急而影響工作。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 5,
+          "english": "Sara showed the club a drawing of the market rooms. One room held food, one held tables, and the third held things waiting to be returned. The green container had moved from the first room to the third. Sara said a worker would check there after the desk closed. Ivy was grateful that Sara did not open the rooms to visitors simply to make them happy. A good answer was worth waiting for, and other people needed the market to work safely too.",
+          "chinese": "莎拉給社團看市場房間的圖。第一間放食物，第二間放桌子，第三間放等待歸還的物品。綠容器從第一間移到第三間。莎拉說工作人員會在服務台關閉後前往確認。艾薇感謝莎拉沒有只為了讓訪客高興，就隨意打開儲藏室。好的答案值得等待，其他人也需要市場能安全運作。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Ivy not say the box had been found?",
+      "options": [
+        "They had not checked its special picture.",
+        "She did not like the market.",
+        "She wanted to keep the seeds."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They had not checked its special picture.",
+      "existingAnswerExplanation": "仍須核對猴子圖和校名，才能確認是否為同一箱",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "At the market a man selling fruit wore a wide hat and a clean white T-shirt. His stand had a small animal picture above the door. He offered the children water before they went on, and Ms. Wen thanked him. Ivy was ready to eat, but she wanted to finish the meeting with Sara first. She knew they would have time for lunch later. The seller said he had seen many school groups visit again after the storm. He hoped they would find what they needed, but he did not claim to have seen their green box.",
+          "chinese": "市場裡，一位賣水果的男子戴著寬邊帽，穿乾淨的白 T 恤。他的攤位門上有張小動物圖。參觀的孩子經過時，他提供飲水，溫老師向他道謝。艾薇已經想吃東西了，但她想先完成與莎拉的會面，知道等一下仍有時間午餐。攤主說，暴雨後曾有不少學校團體再次來訪。他希望大家找到需要的東西，卻沒有聲稱看過他們的綠箱子。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 6,
+          "english": "Sara brought the list back. A green container had arrived from the school on the day of the rain, but its label read “room supplies.” It did not say seeds. The box had been moved once because water from the old pipe reached the storage door. Sara said she wanted to check where it went next, yet she could not leave the service desk right then. “Please give me time to do my work,” she said. Ivy agreed. She wanted the box back, but did not want anyone to lose a job because the school was in a hurry.",
+          "chinese": "莎拉帶著清單回來。下雨那天，確實有個綠色容器從學校送來，但標籤寫著「教室用品」，沒有提到種子。因為舊水管的水流到儲藏室門口，箱子又被移動了一次。莎拉說想確認後來送去哪裡，但她當下不能離開服務台。「請讓我先把工作做好，」她說。艾薇同意了。她想找回箱子，卻不希望任何人因為學校著急而影響工作。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

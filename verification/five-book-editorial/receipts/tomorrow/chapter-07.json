@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 7,
+  "chapterId": "tomorrow-7",
+  "sourceChapterSha256": "fe63356b0a462005a336acd065b0fd1864b4d5ac76cf83406132158be2359fa2",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "短片刻意漏掉老師提問；米雅要求林老師在場驗證",
+    "previousChapterEndingEnglish": "At home, I changed my Later password with Leo talking me through the account settings. The future letters stopped. For twenty minutes, I felt in control. Then an email arrived at my school address. No false future date this time. Just a photo. It showed the red notebook open on a desk. On the next page, in my own handwriting, was the vote I had thought nobody could see.",
+    "nextChapterOpeningEnglish": "On Wednesday morning, Leo arrived at Ms Lin's room carrying a small gray drive. He held it with both hands, as if it were hot. I came early too, but he would not look at me. Ms Lin closed the door and put a sign outside saying she was in a meeting. Then she asked Leo what he wanted us to know before we opened anything."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The words in the photograph were mine, but they were not a vote. I pulled an old exercise book from my shelf and found the page. Six weeks ago, our class had written an opinion for a lesson about online news. I had written, I believe June took the money because the video shows her by the box. I remembered feeling proud of the clear sentence.",
+        "zh": "照片裡的字是我寫的，卻不是投票。我從書架抽出舊作業簿，找到那一頁。六週前，班上上網路新聞課，寫自己的看法。我寫的是：我相信 June 拿了錢，因為影片拍到她站在錢盒旁。我記得自己還為句子寫得清楚而自豪。",
+        "englishSha256": "05b1ecbbb8cf84f61314fe9c413c0ecef6a5a4cb40dc4bc9b559aa8b74c112a9",
+        "chineseSha256": "d8e2573907b5b90d6b2d126b36bd82dd520a1e7778a0dcf04c6aee00e04b9459"
+      },
+      {
+        "number": 2,
+        "en": "Below it, Ms Lin had written a question in green: Does being near something prove that you took it? I had never answered. Someone had cut that green question out of the photograph. My sentence now looked like a note from the secret vote book. I took a new picture with the whole page showing and sent both images to Ms Lin. My hands shook, but I kept them steady enough.",
+        "zh": "下方，林老師用綠筆問：靠近某樣東西，就能證明你拿了它嗎？我從沒回答。有人把綠色問題裁掉，讓我的句子看起來像秘密投票本上的筆記。我重新拍下完整頁面，把兩張照片都傳給林老師。手在抖，我還是讓它穩到足以拍照。",
+        "englishSha256": "e48739521bc1179d96ad8a205f88aaec05e36bd6afe13e4f0acdd42f1dac8f25",
+        "chineseSha256": "4cf16fff8ea5af8443dc06987a20d6eaa1757aebea65a21740751d7953176471"
+      },
+      {
+        "number": 3,
+        "en": "Leo called when I sent him the pictures. “They want you scared of speaking,” he said. “If you say the video was cut, they'll show this and call you a liar.” “I did vote, though.” There was a long silence. I told him about the blue button. I told him I had watched June's number grow. I did not say that everybody else had done it. That would not help.",
+        "zh": "Leo 收到照片後打來。「他們想讓妳害怕說話。如果妳說影片被剪過，他們就會用這張說妳撒謊。」「可是我真的投了。」沉默很久。我告訴他藍色按鈕，告訴他我看著 June 的數字上升。我沒有說大家都做了，那沒幫助。",
+        "englishSha256": "eeb2c994a3545988eb4b2bd8b57d38408df8457b72d0aa5fa634699cc892cfac",
+        "chineseSha256": "44f3a13811ea09560906001b0bd834dd9b257b899cb77176bb5f7b0d455d2e73"
+      },
+      {
+        "number": 4,
+        "en": "“I voted too,” he said at last. The room seemed to tilt a little. “I voted no,” he added quickly. “But I kept going back. I watched the number.” We sat with our two different wrong things. Neither of us could make the other feel clean. Downstairs, my father laughed at something on television. I wondered how many ordinary nights could sit on top of one terrible day.",
+        "zh": "「我也投了。」他終於說。房間好像歪了一點。「我投不相信，」他趕緊補充，「但一直回去看數字。」我們各自陪著不同的錯，誰也不能讓對方變乾淨。樓下爸爸看電視笑了。我想，一個可怕的日子上，究竟可以堆著多少普通夜晚。",
+        "englishSha256": "cf698c7f5a540ca85f0b4bba224ad9843a79a964e07239422952631a364c204b",
+        "chineseSha256": "267ad87ce516f01331d9b0a9c256e6a942189ff6e6591f5f750bcd542b5247a3"
+      },
+      {
+        "number": 5,
+        "en": "The sender's email name was J. I wrote one short reply. If you are June, I want to hear you. If you are not, stop using her name. I did not add a heart. I did not ask her to prove who she was by sharing something private. I sent it, put the phone down, and opened my homework. I read the same line six times.",
+        "zh": "寄件人的名字是 J。我回了一小段：如果妳是 June，我想聽妳說。如果不是，別再用她的名字。我沒加愛心，也沒要求她分享隱私來證明身分。我送出，把手機放下，打開作業。同一行看了六次。",
+        "englishSha256": "c26fdf93608339568b2dae12fb210fa96288c29775d71ea5eaed6f981e9570e3",
+        "chineseSha256": "28125620ed6ee65b555994c31adeaf7c511a9ae8fb592b6aff6ebef4d5b8cbf7"
+      },
+      {
+        "number": 6,
+        "en": "At eleven, J answered. Ask Leo about the copy. I called him again. This time he did not answer. A minute later, he wrote, Can't talk. Brother asleep. I asked what copy meant. Three little dots appeared, disappeared, and appeared again. Then his message came. There was a backup of the film folder. I thought I deleted it. I need to check something tomorrow.",
+        "zh": "十一點，J 回覆：問 Leo 那份副本。我又打給他，這次他沒接。一分鐘後他寫：不能講，弟弟睡了。我問副本是什麼。三個小點出現、消失，又出現。他終於傳來：電影資料夾有備份。我以為刪掉了，明天得確認一些事。",
+        "englishSha256": "abdb9added6f9b1f1fd94ffd3bb2c87e092c22b630f955a8a7959450b03695eb",
+        "chineseSha256": "dd1f40de052e99810e0318dc50562d7e0177dc06ce81ec866fd7a82eefba41c8"
+      },
+      {
+        "number": 7,
+        "en": "“Why didn't you say that at Ms Lin's?” I typed. He answered, Because I was scared she would see what I had kept. I stared at those words until the screen became dark. It was easy to think fear belonged to other people: Sam by the tap, June in the old video. But Leo was afraid too. My clever, careful friend was sitting somewhere with a secret he could not carry.",
+        "zh": "「為什麼在林老師那裡不說？」我打字。他回答：因為我怕她看到我留下的東西。我盯著這句，直到螢幕暗下。很容易以為害怕是別人的事：水龍頭旁的 Sam、舊影片裡的 June。但 Leo 也怕。我聰明又小心的朋友，正獨自背著扛不住的秘密。",
+        "englishSha256": "2bbc90b9a89e050d8f956da7688a99e7c7d06818f12903bad3939b76f1e3574c",
+        "chineseSha256": "8f6780ade66fb81fbdcfa4d370d142a6664e04a52992f77d76dfa3dac51a6ab0"
+      },
+      {
+        "number": 8,
+        "en": "I wanted to tell him I trusted him. I also wanted to ask exactly what he had kept. Both feelings were true, and neither made the other leave. I finally wrote, We check it with Ms Lin. Not alone. He sent back one word: Okay. Before I slept, I checked the Zero page once more. The vote was closed. Under Leo's name was a new title: The Boy Who Saved Everything.",
+        "zh": "我想告訴他我相信他，也想追問他究竟留了什麼。兩種感覺同時存在，誰也趕不走誰。最後我寫：跟林老師一起查，不要獨自去。他回：好。睡前我又看一次 Zero。投票結束了。Leo 的名字下有新標題：把所有東西都留下的男孩。",
+        "englishSha256": "5c129e9d0ccf8c130887614c6da6048b75f5abf554c3024b82eeba61575d3a2b",
+        "chineseSha256": "bba6693e647795bea60cf4e5ec3917d5d9ff229630524192b40b3994502b7064"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 547,
+    "targets": [
+      {
+        "word": "add",
+        "meaning": "增加；補充",
+        "appearsInSource": true
+      },
+      {
+        "word": "careful",
+        "meaning": "小心的",
+        "appearsInSource": true
+      },
+      {
+        "word": "carry",
+        "meaning": "拿；攜帶",
+        "appearsInSource": true
+      },
+      {
+        "word": "check",
+        "meaning": "檢查；查看",
+        "appearsInSource": true
+      },
+      {
+        "word": "clean",
+        "meaning": "乾淨的；清理",
+        "appearsInSource": true
+      },
+      {
+        "word": "cut",
+        "meaning": "剪；切；刪減",
+        "appearsInSource": true
+      },
+      {
+        "word": "different",
+        "meaning": "不同的",
+        "appearsInSource": true
+      },
+      {
+        "word": "exercise",
+        "meaning": "練習；運動",
+        "appearsInSource": true
+      },
+      {
+        "word": "father",
+        "meaning": "父親",
+        "appearsInSource": true
+      },
+      {
+        "word": "feel",
+        "meaning": "感覺",
+        "appearsInSource": true
+      },
+      {
+        "word": "finally",
+        "meaning": "終於；最後",
+        "appearsInSource": true
+      },
+      {
+        "word": "friend",
+        "meaning": "朋友",
+        "appearsInSource": true
+      },
+      {
+        "word": "green",
+        "meaning": "綠色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "grow",
+        "meaning": "成長；變得",
+        "appearsInSource": true
+      },
+      {
+        "word": "hear",
+        "meaning": "聽到",
+        "appearsInSource": true
+      },
+      {
+        "word": "heart",
+        "meaning": "心；心臟",
+        "appearsInSource": true
+      },
+      {
+        "word": "homework",
+        "meaning": "家庭作業",
+        "appearsInSource": true
+      },
+      {
+        "word": "how",
+        "meaning": "如何；多麼",
+        "appearsInSource": true
+      },
+      {
+        "word": "many",
+        "meaning": "許多",
+        "appearsInSource": true
+      },
+      {
+        "word": "proud",
+        "meaning": "驕傲的；自豪的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "How was the photograph misleading?",
+      "options": [
+        "It left out the teacher’s question below Mia’s sentence.",
+        "It showed a different student’s name.",
+        "It changed every word Mia wrote."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It left out the teacher’s question below Mia’s sentence.",
+      "existingAnswerExplanation": "It left out the teacher’s question below Mia’s sentence.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Below it, Ms Lin had written a question in green: Does being near something prove that you took it? I had never answered. Someone had cut that green question out of the photograph. My sentence now looked like a note from the secret vote book. I took a new picture with the whole page showing and sent both images to Ms Lin. My hands shook, but I kept them steady enough.",
+          "chinese": "下方，林老師用綠筆問：靠近某樣東西，就能證明你拿了它嗎？我從沒回答。有人把綠色問題裁掉，讓我的句子看起來像秘密投票本上的筆記。我重新拍下完整頁面，把兩張照片都傳給林老師。手在抖，我還是讓它穩到足以拍照。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 1,
+          "english": "The words in the photograph were mine, but they were not a vote. I pulled an old exercise book from my shelf and found the page. Six weeks ago, our class had written an opinion for a lesson about online news. I had written, I believe June took the money because the video shows her by the box. I remembered feeling proud of the clear sentence.",
+          "chinese": "照片裡的字是我寫的，卻不是投票。我從書架抽出舊作業簿，找到那一頁。六週前，班上上網路新聞課，寫自己的看法。我寫的是：我相信 June 拿了錢，因為影片拍到她站在錢盒旁。我記得自己還為句子寫得清楚而自豪。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What condition does Mia set before checking Leo's files?",
+      "options": [
+        "They must publish every file first.",
+        "They must check them with Ms Lin, rather than alone.",
+        "They must let Bell choose the files."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "They must check them with Ms Lin, rather than alone.",
+      "existingAnswerExplanation": "她寫下 We check it with Ms Lin. Not alone.，要求由老師在場協助查核。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "I wanted to tell him I trusted him. I also wanted to ask exactly what he had kept. Both feelings were true, and neither made the other leave. I finally wrote, We check it with Ms Lin. Not alone. He sent back one word: Okay. Before I slept, I checked the Zero page once more. The vote was closed. Under Leo's name was a new title: The Boy Who Saved Everything.",
+          "chinese": "我想告訴他我相信他，也想追問他究竟留了什麼。兩種感覺同時存在，誰也趕不走誰。最後我寫：跟林老師一起查，不要獨自去。他回：好。睡前我又看一次 Zero。投票結束了。Leo 的名字下有新標題：把所有東西都留下的男孩。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 2,
+          "english": "Below it, Ms Lin had written a question in green: Does being near something prove that you took it? I had never answered. Someone had cut that green question out of the photograph. My sentence now looked like a note from the secret vote book. I took a new picture with the whole page showing and sent both images to Ms Lin. My hands shook, but I kept them steady enough.",
+          "chinese": "下方，林老師用綠筆問：靠近某樣東西，就能證明你拿了它嗎？我從沒回答。有人把綠色問題裁掉，讓我的句子看起來像秘密投票本上的筆記。我重新拍下完整頁面，把兩張照片都傳給林老師。手在抖，我還是讓它穩到足以拍照。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

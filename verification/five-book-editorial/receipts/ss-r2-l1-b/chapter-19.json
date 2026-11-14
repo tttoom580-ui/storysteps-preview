@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 19,
+  "chapterId": "ss-r2-l1-b-19",
+  "sourceChapterSha256": "6f23416c32ee28913acd98d1dbfb8b959b299c197665cd0b7a3ff33bc9778f6e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "強風雨時提供暫時避難，交由村裡救助者安置",
+    "previousChapterEndingEnglish": "That evening, the workers ate an early dinner together. They talked about the bus and the children, then wrote down what needed to change. They needed more clean drinking cups, a place for wet bags, and a clear note about how many people the room could hold. Fia knew they could not help everyone in every case. Still, they could be ready to do something useful. She closed the book and smiled at her friends. Their shop was growing in ways they had never expected when they first opened the red door.",
+    "nextChapterOpeningEnglish": "In the morning, the storm was still strong. A wet elephant named Ben came down from the mountain road with a message from the village helpers. The river had made a wide pool beside the bridge, and nobody should try to cross it. Fia read the message out loud. \"We will not go out,\" she told Moss and Pip. \"We can make soup here for the helpers when they return.\" Moss put a round pot on the stove. Pip checked the dry shelf. They had bread, potatoes, and clean water. It was not exciting work, but it was work they could do safely."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A stronger storm came in the evening. The air was cool, and rain made a loud sound on the roof. Edda called Fia on the phone. Some people from low homes near the pond needed a dry place until village helpers could take them somewhere safe. Fia opened the red house with Moss and Pip. They carried chairs to one side and made space beside the oven. Fia brought a small bed from the back room for an old visitor who had trouble standing. She knew the shop could not become everyone's home, but for one wet evening it could offer a little rest.",
+        "zh": "傍晚來了更強的風雨。空氣涼，雨在屋頂上發出很大的聲響。艾達打電話給菲雅。池塘旁低處住家的幾個人需要暫時待在乾燥地方，直到村裡的救助人員安排安全去處。菲雅和莫斯、皮普打開紅屋，把椅子搬到一旁，在烤爐旁空出位置。菲雅從後房搬出小床，給一位站立不便的老人。她知道小店不能成為每個人的家，但至少能提供一晚的短暫休息。",
+        "englishSha256": "36f83c6a20511216ff4d88e2add3f618dae11ebc16a3393bc421182252146285",
+        "chineseSha256": "93cd0adb8dffe187e450aa17506be38982fd6c47896f585b97bbda3451fd9808"
+      },
+      {
+        "number": 2,
+        "en": "A mother came with her son, who was holding a wet school bag. The boy had a short tie around his neck from a school event. Fia gave them two cups of warm water. \"Would you like something to drink?\" she asked. The mother thanked her and said the child needed dry clothes more than food. Pip found a clean cloth and showed them a private corner. Moss made simple soup for the people who wanted it. He kept the pot away from the small child. Everyone moved slowly so the room would stay safe and quiet.",
+        "zh": "一位母親帶著兒子進來，男孩抱著濕書包，脖子上還繫著學校活動用的短領帶。菲雅給他們兩杯溫水。「想喝點什麼嗎？」她問。母親道謝，說孩子比起食物更需要乾衣。皮普找到乾淨布料，帶他們去較私密的角落。莫斯為想喝的人做簡單的湯，並把熱鍋放在孩子碰不到的地方。大家動作都慢慢的，讓室內保持安全安靜。",
+        "englishSha256": "0b9dcc64e73a68cd0cc9b25f82a7ac3246763cbf1b3726f621809fcb8d720e90",
+        "chineseSha256": "30577e8feb81896f84d6b25f3fcde4ec42dd27402b009e18728dad7b52b7d01c"
+      },
+      {
+        "number": 3,
+        "en": "Fia opened her computer to read the latest message from Edda. The village helpers were checking roads and asking people to stay off the bridge. Fia told the guests what she knew and what she did not. \"Someone will come with more news,\" she said. \"Until then, please stay inside.\" One visitor asked if there was magic in the wooden star above the door. Fia smiled. \"It cannot stop rain,\" she said. \"My grandmother made it so people could find the house. The good work happens when people choose to help one another.\" The visitor looked at the star quietly. Beside the computer lay a fat book of recipes. Fia had kept it there for practice, and Moss wrote a quick note about the safe soup in its last page.",
+        "zh": "菲雅打開電腦讀艾達最新訊息。村裡的救助人員正在檢查道路，並請大家遠離橋。菲雅告訴客人自己知道與不知道的部分。「有人會帶新消息來，」她說，「在那之前請留在室內。」一名訪客問門上的木星星是否有魔法。菲雅笑著說：「它不能阻止下雨。祖母做它，是讓人找到屋子。真正的好事發生在大家選擇互相幫忙時。」訪客安靜地望著星星。 電腦旁有一本厚厚的食譜書。菲雅把它留著練習，莫斯在最後一頁很快寫下安全煮湯的筆記。",
+        "englishSha256": "9e8f95d7e30cecafd30e6a54fb38329b2623c5af146ed66843a9af08d1493a5a",
+        "chineseSha256": "66fcc811ceac49e9c2895223ca3b4e3210da8b4834b906b62de170dfce439cdc"
+      },
+      {
+        "number": 4,
+        "en": "The room grew warm as more guests came in. Moss moved quickly between the oven and the sink, but Fia asked him to slow down. \"You have been working all day,\" she said. \"I can carry the food while you rest.\" He agreed. Pip took the empty cups and cleaned them. The old visitor in the bed slept for a while. Nobody spoke loudly near him. The night felt long, yet every small action helped: a cup of water, a warm blanket, a clear message, or a kind word to someone who was afraid.",
+        "zh": "進來的客人變多，房間也暖了。莫斯在烤爐和水槽間忙得很快，菲雅請他慢一些。「你工作一整天了，」她說，「你休息時我可以送食物。」莫斯同意。皮普收走空杯清洗。小床上的老人睡了一會兒，沒人靠近他大聲說話。夜晚很長，但每個小動作都有幫助：一杯水、一條暖毯、一則清楚消息，或對害怕的人說一句好話。",
+        "englishSha256": "9c22d705392263552b479b696d97ae769435bff33b29f765f9a5a89c6e42e348",
+        "chineseSha256": "960c05e46b96f8bd6e4f11b2c77178a21bdc4b8829aaa3982ce855d4fb26412d"
+      },
+      {
+        "number": 5,
+        "en": "Near midnight, Edda arrived with two village helpers. They had a safe truck waiting on the high road. They would take the guests to a larger room near the school. Fia read the names on Edda's list so nobody would be forgotten. A mother helped her son tie his bag shut, and the old visitor woke up slowly. Moss gave each person a little bread for the morning. Fia did not ask anyone to stay longer. The high road was ready, and people needed to go where trained helpers could care for them better.",
+        "zh": "接近午夜，艾達帶著兩名村裡救助人員抵達。安全的貨車正停在高地路上，要帶訪客去學校附近較大的空間。菲雅照著艾達清單念名字，避免漏掉任何人。母親幫兒子把袋口繫好，老人也慢慢醒來。莫斯給每人一點麵包當明早食物。菲雅沒有挽留任何人。高地道路已可通行，大家需要到能獲得專業照顧的地方。",
+        "englishSha256": "c52351385fc51799d82ab2d736c8a9afd4a25efb491070da606551ef45f73ab7",
+        "chineseSha256": "e72aa75d0b71194ceccec4f95dd976bada2690dcc1ec5405f2d43d68ce2aa19f"
+      },
+      {
+        "number": 6,
+        "en": "When the room was empty again, Fia sat beside the oven. The fire was low, and she was very tired. Pip brought her a cup of water and sat across from her. \"We did not fix the storm,\" he said. \"No,\" Fia answered. \"But we gave some people a safe place while others did the larger work.\" She looked around the room. Wet marks were on the floor, and the tables were out of place. Tomorrow they would clean and begin again. For now, she was glad that their little shop had been able to help.",
+        "zh": "房間再次空下來時，菲雅坐在烤爐旁。爐火很低，她也非常疲倦。皮普帶來一杯水，坐到對面。「我們沒有把暴風雨修好。」他說。「是啊，」菲雅回答，「但別人處理更大的工作時，我們給了幾個人安全的暫歇處。」她環顧屋內，地上有濕腳印，桌子也不在原位。明天他們會打掃並重新開始。此刻，她很高興小店有能力幫上忙。",
+        "englishSha256": "49ad3fb532672d8dabd94288986573103957b41579778fdb4de833fde869b7d0",
+        "chineseSha256": "19b5e543d1b52b25fe7e6c497e248bedf448a42671526ea8d1d0db01ded52971"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 615,
+    "targets": [
+      {
+        "word": "become",
+        "meaning": "變成",
+        "appearsInSource": true
+      },
+      {
+        "word": "bed",
+        "meaning": "床",
+        "appearsInSource": true
+      },
+      {
+        "word": "beside",
+        "meaning": "旁邊",
+        "appearsInSource": true
+      },
+      {
+        "word": "carry",
+        "meaning": "搬運",
+        "appearsInSource": true
+      },
+      {
+        "word": "computer",
+        "meaning": "電腦",
+        "appearsInSource": true
+      },
+      {
+        "word": "cool",
+        "meaning": "涼爽的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cup",
+        "meaning": "杯子",
+        "appearsInSource": true
+      },
+      {
+        "word": "drink",
+        "meaning": "喝",
+        "appearsInSource": true
+      },
+      {
+        "word": "fat",
+        "meaning": "厚厚的",
+        "appearsInSource": true
+      },
+      {
+        "word": "food",
+        "meaning": "食物",
+        "appearsInSource": true
+      },
+      {
+        "word": "home",
+        "meaning": "家",
+        "appearsInSource": true
+      },
+      {
+        "word": "loud",
+        "meaning": "大聲的",
+        "appearsInSource": true
+      },
+      {
+        "word": "magic",
+        "meaning": "魔法",
+        "appearsInSource": true
+      },
+      {
+        "word": "practice",
+        "meaning": "練習",
+        "appearsInSource": true
+      },
+      {
+        "word": "quick",
+        "meaning": "快速的",
+        "appearsInSource": true
+      },
+      {
+        "word": "school",
+        "meaning": "學校",
+        "appearsInSource": true
+      },
+      {
+        "word": "short",
+        "meaning": "短的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Someone",
+        "meaning": "某個人",
+        "appearsInSource": true
+      },
+      {
+        "word": "son",
+        "meaning": "兒子",
+        "appearsInSource": true
+      },
+      {
+        "word": "tie",
+        "meaning": "領帶",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why do people come to the red house during the storm?",
+      "options": [
+        "They need a dry place to wait",
+        "They want to buy toys",
+        "They are going to a movie"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They need a dry place to wait",
+      "existingAnswerExplanation": "住家附近受風雨影響的人需要暫時安全等候。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A stronger storm came in the evening. The air was cool, and rain made a loud sound on the roof. Edda called Fia on the phone. Some people from low homes near the pond needed a dry place until village helpers could take them somewhere safe. Fia opened the red house with Moss and Pip. They carried chairs to one side and made space beside the oven. Fia brought a small bed from the back room for an old visitor who had trouble standing. She knew the shop could not become everyone's home, but for one wet evening it could offer a little rest.",
+          "chinese": "傍晚來了更強的風雨。空氣涼，雨在屋頂上發出很大的聲響。艾達打電話給菲雅。池塘旁低處住家的幾個人需要暫時待在乾燥地方，直到村裡的救助人員安排安全去處。菲雅和莫斯、皮普打開紅屋，把椅子搬到一旁，在烤爐旁空出位置。菲雅從後房搬出小床，給一位站立不便的老人。她知道小店不能成為每個人的家，但至少能提供一晚的短暫休息。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 3,
+          "english": "Fia opened her computer to read the latest message from Edda. The village helpers were checking roads and asking people to stay off the bridge. Fia told the guests what she knew and what she did not. \"Someone will come with more news,\" she said. \"Until then, please stay inside.\" One visitor asked if there was magic in the wooden star above the door. Fia smiled. \"It cannot stop rain,\" she said. \"My grandmother made it so people could find the house. The good work happens when people choose to help one another.\" The visitor looked at the star quietly. Beside the computer lay a fat book of recipes. Fia had kept it there for practice, and Moss wrote a quick note about the safe soup in its last page.",
+          "chinese": "菲雅打開電腦讀艾達最新訊息。村裡的救助人員正在檢查道路，並請大家遠離橋。菲雅告訴客人自己知道與不知道的部分。「有人會帶新消息來，」她說，「在那之前請留在室內。」一名訪客問門上的木星星是否有魔法。菲雅笑著說：「它不能阻止下雨。祖母做它，是讓人找到屋子。真正的好事發生在大家選擇互相幫忙時。」訪客安靜地望著星星。 電腦旁有一本厚厚的食譜書。菲雅把它留著練習，莫斯在最後一頁很快寫下安全煮湯的筆記。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why do the visitors leave with Edda?",
+      "options": [
+        "Village helpers have arranged a safer larger place",
+        "Fia does not like them",
+        "The shop has no door"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Village helpers have arranged a safer larger place",
+      "existingAnswerExplanation": "救助人員已安排更適合安置的安全地點。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A stronger storm came in the evening. The air was cool, and rain made a loud sound on the roof. Edda called Fia on the phone. Some people from low homes near the pond needed a dry place until village helpers could take them somewhere safe. Fia opened the red house with Moss and Pip. They carried chairs to one side and made space beside the oven. Fia brought a small bed from the back room for an old visitor who had trouble standing. She knew the shop could not become everyone's home, but for one wet evening it could offer a little rest.",
+          "chinese": "傍晚來了更強的風雨。空氣涼，雨在屋頂上發出很大的聲響。艾達打電話給菲雅。池塘旁低處住家的幾個人需要暫時待在乾燥地方，直到村裡的救助人員安排安全去處。菲雅和莫斯、皮普打開紅屋，把椅子搬到一旁，在烤爐旁空出位置。菲雅從後房搬出小床，給一位站立不便的老人。她知道小店不能成為每個人的家，但至少能提供一晚的短暫休息。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 5,
+          "english": "Near midnight, Edda arrived with two village helpers. They had a safe truck waiting on the high road. They would take the guests to a larger room near the school. Fia read the names on Edda's list so nobody would be forgotten. A mother helped her son tie his bag shut, and the old visitor woke up slowly. Moss gave each person a little bread for the morning. Fia did not ask anyone to stay longer. The high road was ready, and people needed to go where trained helpers could care for them better.",
+          "chinese": "接近午夜，艾達帶著兩名村裡救助人員抵達。安全的貨車正停在高地路上，要帶訪客去學校附近較大的空間。菲雅照著艾達清單念名字，避免漏掉任何人。母親幫兒子把袋口繫好，老人也慢慢醒來。莫斯給每人一點麵包當明早食物。菲雅沒有挽留任何人。高地道路已可通行，大家需要到能獲得專業照顧的地方。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

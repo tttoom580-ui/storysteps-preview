@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 19,
+  "chapterId": "ss-r11-l1-a-19",
+  "sourceChapterSha256": "e85058e20f248b804e80ca7ba0d8fcbe76daaec74afeb919da72b16e094e5aa2",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "蜂靠近門口先疏散；凱受訪應由本人同意",
+    "previousChapterEndingEnglish": "Before leaving, Mr. Reed gave the children a clean towel to dry the table. Jun asked if a towel would help wet seeds. Mr. Reed said it would help clean the work area, but seeds needed a different kind of care. Kai asked when the firm path would be ready. The teacher said the workers had measured it today. Ivy felt that their garden was becoming more real. It was no longer only a picture on paper. The work was open for everyone to see, and the plan had room for questions.",
+    "nextChapterOpeningEnglish": "Rain came again on Wednesday. The school garden's water pipe made a hard sound, and very little water came from the tap. A machine below the path had stopped working. Ivy felt hope fall for a moment. She had thought the missing box was their biggest problem. Now even the new plants might go without water. A worker asked everyone to move to the front of the garden, away from the broken pipe. Ivy obeyed and called Ms. Wen. No child tried to open the machine or hide the problem."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Another problem appeared the next morning. A bee flew near the garden gate, and a child cried that it would attack everyone. A black dog behind the fence began to bark. The noise made more children run. Ivy did not move toward the bee. She asked the group to walk quietly to a clear space and find a teacher. A bee could bite or sting if it felt in danger, so they should not hit it or wave at it. Mr. Reed watched from a safe distance until it flew away.",
+        "zh": "隔天早上又出現一個問題。一隻蜜蜂飛到花園門口附近，一個孩子哭著說牠會攻擊每個人。圍欄後的一隻黑狗開始吠叫，聲音讓更多孩子跑起來。艾薇沒有靠近蜜蜂，而是請大家安靜走到空曠處找老師。蜜蜂若感到危險可能會螫人，因此不應拍打或揮手驅趕。里德先生保持安全距離觀察，直到蜜蜂飛走。",
+        "englishSha256": "35bbd6beff44921a579f82c6718a04c7e80187369a9fec3f427aafee7beb1daf",
+        "chineseSha256": "dc6b9a1fc6b832c5d1fd7467d98196ef9391bd4a9ef737ae46b5826dabb000fd"
+      },
+      {
+        "number": 2,
+        "en": "Mr. Reed asked the class not to leave any food on the ground. A student had dropped a piece of ham from his lunch, and it could bring animals close to the path. Ivy picked it up with a paper towel and put it in the waste bin. She kept one eye on the flower bed while the group moved away. The bee was no longer there, but she knew that keeping the garden clean could help everyone. An animal did not have to be bad for people to need a little care around it.",
+        "zh": "里德先生請全班不要把食物留在地上。一位學生午餐時掉了一小塊火腿，可能引來動物靠近小徑。艾薇用紙巾撿起，丟進垃圾桶。大家離開時，她仍留意著花圃。蜜蜂已經不在，但她知道保持花園乾淨對所有人都有幫助。動物不必是壞的，人們也仍然需要小心與牠們相處。",
+        "englishSha256": "a6f094008394985bb397c146a127bf97aad6ce8b7904412123ecbd09297aa07e",
+        "chineseSha256": "43ca0297c933b4287e227f8ba00d47ee4f7a6e5c5fdef760fec6140df8fc6551"
+      },
+      {
+        "number": 3,
+        "en": "At the class meeting a student asked whether flowers would bring another bee. Ms. Wen said bees were interested in flowers and that gardens needed careful plans for both people and animals. She did not mean that every bee was a problem. The club could learn when bees were common and where visitors should stand. A boy said he had seen a bee once near his home, and it had not hurt him. Ivy wrote down what they knew. One visit from a bee did not mean the garden was unsafe every day of the year.",
+        "zh": "班會時，一個學生問花朵會不會再引來蜜蜂。溫老師說蜜蜂喜歡花，花園需要同時替人與動物細心規畫。她不是說每隻蜜蜂都有問題。社團可以了解蜜蜂常出現的時段，以及訪客應站在哪些地方。一個男孩說，他曾在家附近看過蜜蜂，那次並沒有受傷。艾薇寫下大家確定的事：一隻蜜蜂來訪，不代表一年中的每一天花園都不安全。",
+        "englishSha256": "672782572ff825b4bb9341381610ff9bd2ebe8f4fc30c5d05d41f05208a769bf",
+        "chineseSha256": "51bdfe4faa19bcda37dc77b564fcc1052b8e97aeb592e37b5814ca85603a31a2"
+      },
+      {
+        "number": 4,
+        "en": "The school paper wanted to interview the group about the box and the garden. Ivy said she was willing, but she did not want to talk for everyone. Jun could explain the drawing on the box. Kai could say what the path meant to him, if he chose to join. The writer agreed. She wore a white shirt and held a small recorder. “What does the garden mean to you?” she asked Ivy. Ivy thought for a moment. “It is a place where we learn to ask before we act,” she said.",
+        "zh": "校刊想訪問社團，談談箱子和花園的事。艾薇說願意受訪，但不想代表所有人發言。俊可以解釋箱上的畫；如果凱願意，也能說說小徑對他的意義。小記者同意了。她穿著白襯衫，拿著小錄音器。「花園對你有什麼意義？」她問艾薇。艾薇想了一下。「它讓我們學會先問清楚，再採取行動，」她回答。",
+        "englishSha256": "b2a36d2806bed4596a2dd86acbcf92d6d4a09659c699757c05cba92483235795",
+        "chineseSha256": "1df2dada80c6e3e7b726136c43b2f60969da5f2428a359071b791545133faebb"
+      },
+      {
+        "number": 5,
+        "en": "At the end of the interview the writer asked if the club had any advice for other students. Ivy said they should not tell a frightening story about an animal without checking what actually happened. Jun added that people should not leave the path blocked with bags. Kai said that visitors should be allowed to say what they need. The writer thanked all three. She wanted the school paper to show different voices instead of giving every good idea to one person.",
+        "zh": "訪問結束時，小記者問社團有沒有給其他學生的建議。艾薇說，不應該在沒弄清楚事情經過時，就把動物說成可怕的東西。俊補充說，大家不能把袋子放在通道上。凱則說，訪客應被允許表達自己的需要。小記者向三人道謝。她希望校刊能呈現不同人的聲音，而不是把所有好點子都算在某個人身上。",
+        "englishSha256": "9aea7f7c6f3cc0869a54c3cb1b8809f81532fc06d10e528cbf2e2c335f306310",
+        "chineseSha256": "ee0aa2edd059b46ea27a42fb8b6c28bd8ca5be9ccfdbcef6f64b48a68565e617"
+      },
+      {
+        "number": 6,
+        "en": "Later a class counted the dry seed packets. There were enough for two more garden beds. A girl with pretty red shoes asked to join the club after seeing the new flowers. Ivy said yes and gave her a small job. The girl wanted to know what each plant meant to the garden. Ivy showed her the care cards from the returned box. She was pleased that the cards could be read again. The first day of worry had become a new chance to welcome someone interested in learning.",
+        "zh": "稍後，一個班級清點乾燥的種子包，數量足夠再種兩塊花圃。一位穿著漂亮紅鞋子的女孩看見新花後，問能不能加入社團。艾薇答應了，也交給她一件小工作。女孩想知道每種植物對花園有什麼意義。艾薇拿出找回箱子裡的照顧卡給她看。能再次閱讀那些卡片，讓艾薇很高興。起初令人擔憂的失物事件，如今成了歡迎新同學加入的機會。",
+        "englishSha256": "d10dddc9db38b073e3beb5590495d01fbd6f907f02d73f6d78ddd0afff5e65c7",
+        "chineseSha256": "997df709c0f1498ca340565acbe2c0578cf6558773755c06291a4a5f5ad0ac60"
+      },
+      {
+        "number": 7,
+        "en": "At home Ivy drew a picture of the bee above the flowers. She did not draw a monster with giant teeth. She drew a small animal doing what it normally did. Under the picture she wrote that people and bees needed space. Her father looked at it and smiled. “You have had many new problems this year,” he said. Ivy answered that she had also met many people ready to help. She was learning to count both the problems and the good things around them.",
+        "zh": "回到家，艾薇畫了一幅蜜蜂飛在花朵上方的圖。她沒有畫出長著巨大牙齒的怪物，只畫了一隻做著平常事情的小動物。她在圖下寫：人和蜜蜂都需要空間。爸爸看了微笑說：「今年你遇到好多新問題。」艾薇回答，她也認識了好多願意幫忙的人。她正在學習同時看見問題，以及問題周圍的好事。",
+        "englishSha256": "f3eccdc1dad56362b080e8ae1f4485ddd252821fad836ddde3f8fab40de7086a",
+        "chineseSha256": "cb18878b9e3e8492140423d3c11f4ff2a1203d957c88859cc4efb519348e1bdc"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 630,
+    "targets": [
+      {
+        "word": "Another",
+        "meaning": "另一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "any",
+        "meaning": "任何",
+        "appearsInSource": true
+      },
+      {
+        "word": "attack",
+        "meaning": "攻擊",
+        "appearsInSource": true
+      },
+      {
+        "word": "bee",
+        "meaning": "蜜蜂",
+        "appearsInSource": true
+      },
+      {
+        "word": "bite",
+        "meaning": "咬、螫",
+        "appearsInSource": true
+      },
+      {
+        "word": "black",
+        "meaning": "黑色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "count",
+        "meaning": "數數",
+        "appearsInSource": true
+      },
+      {
+        "word": "dog",
+        "meaning": "狗",
+        "appearsInSource": true
+      },
+      {
+        "word": "eye",
+        "meaning": "眼睛",
+        "appearsInSource": true
+      },
+      {
+        "word": "ground",
+        "meaning": "地面",
+        "appearsInSource": true
+      },
+      {
+        "word": "ham",
+        "meaning": "火腿",
+        "appearsInSource": true
+      },
+      {
+        "word": "interested",
+        "meaning": "感興趣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "interview",
+        "meaning": "訪談",
+        "appearsInSource": true
+      },
+      {
+        "word": "join",
+        "meaning": "加入",
+        "appearsInSource": true
+      },
+      {
+        "word": "mean",
+        "meaning": "意思是",
+        "appearsInSource": true
+      },
+      {
+        "word": "once",
+        "meaning": "一次",
+        "appearsInSource": true
+      },
+      {
+        "word": "pretty",
+        "meaning": "好看的",
+        "appearsInSource": true
+      },
+      {
+        "word": "problem",
+        "meaning": "問題",
+        "appearsInSource": true
+      },
+      {
+        "word": "shirt",
+        "meaning": "襯衫",
+        "appearsInSource": true
+      },
+      {
+        "word": "year",
+        "meaning": "年",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Ivy do when a bee came near the gate?",
+      "options": [
+        "She asked everyone to move calmly and find a teacher.",
+        "She ran to catch the bee.",
+        "She hit the bee with a book."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "She asked everyone to move calmly and find a teacher.",
+      "existingAnswerExplanation": "她引導大家安靜移到安全處，並尋求老師協助",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Another problem appeared the next morning. A bee flew near the garden gate, and a child cried that it would attack everyone. A black dog behind the fence began to bark. The noise made more children run. Ivy did not move toward the bee. She asked the group to walk quietly to a clear space and find a teacher. A bee could bite or sting if it felt in danger, so they should not hit it or wave at it. Mr. Reed watched from a safe distance until it flew away.",
+          "chinese": "隔天早上又出現一個問題。一隻蜜蜂飛到花園門口附近，一個孩子哭著說牠會攻擊每個人。圍欄後的一隻黑狗開始吠叫，聲音讓更多孩子跑起來。艾薇沒有靠近蜜蜂，而是請大家安靜走到空曠處找老師。蜜蜂若感到危險可能會螫人，因此不應拍打或揮手驅趕。里德先生保持安全距離觀察，直到蜜蜂飛走。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 2,
+          "english": "Mr. Reed asked the class not to leave any food on the ground. A student had dropped a piece of ham from his lunch, and it could bring animals close to the path. Ivy picked it up with a paper towel and put it in the waste bin. She kept one eye on the flower bed while the group moved away. The bee was no longer there, but she knew that keeping the garden clean could help everyone. An animal did not have to be bad for people to need a little care around it.",
+          "chinese": "里德先生請全班不要把食物留在地上。一位學生午餐時掉了一小塊火腿，可能引來動物靠近小徑。艾薇用紙巾撿起，丟進垃圾桶。大家離開時，她仍留意著花圃。蜜蜂已經不在，但她知道保持花園乾淨對所有人都有幫助。動物不必是壞的，人們也仍然需要小心與牠們相處。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Who could speak for Kai in the interview?",
+      "options": [
+        "Kai himself, if he wanted to.",
+        "Only Ivy.",
+        "Only the school writer."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Kai himself, if he wanted to.",
+      "existingAnswerExplanation": "凱有權自己選擇是否受訪並說出自己的意見",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "The school paper wanted to interview the group about the box and the garden. Ivy said she was willing, but she did not want to talk for everyone. Jun could explain the drawing on the box. Kai could say what the path meant to him, if he chose to join. The writer agreed. She wore a white shirt and held a small recorder. “What does the garden mean to you?” she asked Ivy. Ivy thought for a moment. “It is a place where we learn to ask before we act,” she said.",
+          "chinese": "校刊想訪問社團，談談箱子和花園的事。艾薇說願意受訪，但不想代表所有人發言。俊可以解釋箱上的畫；如果凱願意，也能說說小徑對他的意義。小記者同意了。她穿著白襯衫，拿著小錄音器。「花園對你有什麼意義？」她問艾薇。艾薇想了一下。「它讓我們學會先問清楚，再採取行動，」她回答。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 5,
+          "english": "At the end of the interview the writer asked if the club had any advice for other students. Ivy said they should not tell a frightening story about an animal without checking what actually happened. Jun added that people should not leave the path blocked with bags. Kai said that visitors should be allowed to say what they need. The writer thanked all three. She wanted the school paper to show different voices instead of giving every good idea to one person.",
+          "chinese": "訪問結束時，小記者問社團有沒有給其他學生的建議。艾薇說，不應該在沒弄清楚事情經過時，就把動物說成可怕的東西。俊補充說，大家不能把袋子放在通道上。凱則說，訪客應被允許表達自己的需要。小記者向三人道謝。她希望校刊能呈現不同人的聲音，而不是把所有好點子都算在某個人身上。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

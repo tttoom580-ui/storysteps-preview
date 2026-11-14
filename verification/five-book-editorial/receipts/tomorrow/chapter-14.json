@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 14,
+  "chapterId": "tomorrow-14",
+  "sourceChapterSha256": "80af9ef77ee0761753bf9c58d837974a46e17bb46319b3fc17890510e4a75bfd",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "六月限定可公開素材，先由本人和監護人審閱",
+    "previousChapterEndingEnglish": "I wanted to argue. I wanted to hug her. Instead I asked whether she had sent the photo of my handwriting. She nodded. Bell had sent it to her as a threat against me. She had forwarded it without explaining, hoping I would finally understand how easy a cut could be. “I'm sorry for that too,” she said. Then she placed a small memory card between us. “This part isn't a trick.”",
+    "nextChapterOpeningEnglish": "June's mother read the message without changing her face. Then she moved her chair close to June's. “We are not trading anyone's safety for silence,” she said. Ms Lin asked if the message included an address or a plan to approach them. It did not. They saved the original message and agreed on what to report and who would follow up. Nobody asked June to answer Bell."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The memory card was a copy of June's own camera files. She had brought it for Ms Lin, not for me to take home. She called her mother and our teacher over. Before anyone opened it, she named the parts she did not want shared. There was a clip of Sam after a difficult phone call. There were private talks between friends. “Those are not the price of proving I didn't steal,” she said.",
+        "zh": "記憶卡是 June 自己相機檔案的副本，帶來交林老師，不是讓我帶回家。她叫媽媽和老師過來，先說清楚哪些片段不願分享：Sam 接完難受電話的畫面、朋友間私人談話。「這些不是證明我沒偷錢必須付的代價。」",
+        "englishSha256": "024118df81c5c26b2a8ed6fd9ffb52ca4e7152fa96c761e82e0cbde1e8588e48",
+        "chineseSha256": "da5bf56901db365c01cddcffacfe7db9a7a29d6fc873d92caef6b0e2c1d7e769"
+      },
+      {
+        "number": 2,
+        "en": "Ms Lin agreed. She wrote down June's choices. June's mother opened the relevant file on her laptop with headphones, then let us listen one at a time. The video began twenty minutes before the famous twelve seconds. Kai was sitting beside the cash box, using his phone. June stood behind the camera. At first, they were talking about how long the closing song should be.",
+        "zh": "林老師同意，記下 June 的選擇。June 媽媽用筆電開啟相關檔案，戴耳機確認，再讓我們輪流聽。影片從著名的十二秒之前二十分鐘開始。Kai 坐在錢盒旁用手機，June 在鏡頭後，最初在討論結尾歌曲長度。",
+        "englishSha256": "3d236748bd8a546d799342dcac7b894aeb912bd98928f2b85c0dfec375dd44fc",
+        "chineseSha256": "60246157a0b5e4c40ec074310b98ca4521a33afea9cc4854cb5d94f402e923a2"
+      },
+      {
+        "number": 3,
+        "en": "Then Kai showed her a page. June asked why Sam's name was there. Kai said the vote made students feel involved. “It's not real,” he said. June moved the camera closer to the phone. We could not read every word, but we could see the Zero title and a row of controls. Kai was not just looking at the vote. He could change the names.",
+        "zh": "Kai 接著給她看網頁。June 問為什麼有 Sam 的名字。Kai 說投票讓學生覺得參與其中。「又不是真的。」June 把鏡頭移近手機。不是每個字都看得清，但看得到 Zero 標題與一排控制按鈕。Kai 不只是觀看，他能改名單。",
+        "englishSha256": "63b51d91d9cd5a55da4c425e590d9f6e245af389076f1c84c3db521c056abd6c",
+        "chineseSha256": "2aae4872075f088569c258f978aeda94a94fe9e55fc9b4fe3b40ab8a59e6a247"
+      },
+      {
+        "number": 4,
+        "en": "June asked him to remove Sam. Kai said Sam could choose someone else. That was the exchange on Leo's sound file. The camera kept running when June set it on the shelf. A minute later, Kai laid his phone beside the empty cash box. June picked it up because the page was still open. She wanted to take a picture before he closed it. Then I entered the room.",
+        "zh": "June 要他移除 Sam，Kai 說 Sam 可以選別人，那就是 Leo 錄音裡的對話。June 把相機放架上，仍繼續錄。一分鐘後，Kai 把手機放在空錢盒旁。June 拿起來，因為網頁還開著，想在他關掉前拍照。接著我進房間。",
+        "englishSha256": "e567765f1826d57cfc30dddaeeda3b09b732996ffe09a2e12f7e70e9ff3a5582",
+        "chineseSha256": "23aaabae867ec8d3678ce23d49a72fe2773bd87a78bb2e5e9255c7319b35d252"
+      },
+      {
+        "number": 5,
+        "en": "I watched myself step between June and the door. I looked so sure. That was difficult to bear. In my memory, I had been confused and quiet. On the screen, I was part of the wall stopping her. When she asked me to look, I looked at Kai instead. June's mother touched her daughter's shoulder. June moved slightly closer, but her eyes stayed on the screen.",
+        "zh": "我看著自己擋在 June 和門之間，看起來那麼篤定，很難忍受。記憶裡我困惑又安靜，畫面上的我卻是擋她的牆。她叫我看，我反而看 Kai。June 媽媽碰女兒肩膀，她靠近了一點，眼睛仍盯著螢幕。",
+        "englishSha256": "8827fe1608d4ad7f80ec1745a5a4da57ff52d6f981b28e2b86a010681fad52c0",
+        "chineseSha256": "2c1fafdc0c1a4ac2dd3edd57c89bb02de5e32585c2b77b9cb2dab3e0b7824f28"
+      },
+      {
+        "number": 6,
+        "en": "After the argument, June put the phone down and left with her own camera. She had not taken Kai's phone away. She had not touched money. There was no money there to touch. Later that evening, Kai posted the short cut without her answer. The missing parts were not tiny details. They were the difference between a girl taking something and a girl trying to show what someone else was doing.",
+        "zh": "爭執後，June 放下手機，帶自己的相機離開。她沒帶走 Kai 的手機，也沒碰錢，根本沒錢可碰。當晚，Kai 發布剪掉她回答的短片。缺失的不是小細節，而是「女孩拿東西」與「女孩想揭露別人的行為」之間的差別。",
+        "englishSha256": "856d18700fb455f83aceba23745cddc738f5f3a6f91e127d929f129048ed9dcc",
+        "chineseSha256": "40ba1c3615cc52d3edf3a0c7c35ccb6b04a88501c7a5cfd6f0537aab2e3f5ffa"
+      },
+      {
+        "number": 7,
+        "en": "“Why didn't you post this?” I asked, then wished I could pull the question back. June closed the laptop. “Because Sam was in it. Because I was tired. Because I didn't want my worst day to become everyone's evening show.” She rubbed the white mark on her thumb. “And because I thought the school would tell the truth without making me beg the whole internet to watch.”",
+        "zh": "「為什麼不自己發布這個？」我一問就想收回。June 關上筆電。「因為有 Sam，因為我很累，因為不想讓最糟的一天變成所有人的晚間節目。」她揉拇指白痕。「也因為我以為學校會說真話，不必由我求整個網路觀看。」",
+        "englishSha256": "04007454135043027e3bbaaa2c42f61bbd37d18819b2cb300c153309c1f3f1eb",
+        "chineseSha256": "c0883640f0a709903c2b3a72077093cb36fc14b10e3f525687bafc12e5e95103"
+      },
+      {
+        "number": 8,
+        "en": "Ms Lin said the school now had enough to make a clear correction about the money and to begin a full review of the page. She asked whether June wanted to attend Friday's show. June said she did not know. Then she opened one last file. It was not a video. It was a screenshot of Bell's latest message. If you give them the card, the next name is your mother's.",
+        "zh": "林老師說學校如今足以對金錢指控做清楚更正，也能完整調查網頁。她問 June 要不要參加星期五校慶，June 說不知道。接著她打開最後一個檔案，不是影片，而是 Bell 最新訊息截圖：如果把卡交出去，下一個名字就是妳媽媽。",
+        "englishSha256": "1c4b60e58b33ad4b4910b7ff31d368337a73748ba5bf5d102e39415d57dbf0b3",
+        "chineseSha256": "669b2c2b96c4d630afedc62c97beea78c618dafe4b719b28887bf7a234eefd6e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 548,
+    "targets": [
+      {
+        "word": "bear",
+        "meaning": "承受；熊",
+        "appearsInSource": true
+      },
+      {
+        "word": "begin",
+        "meaning": "開始",
+        "appearsInSource": true
+      },
+      {
+        "word": "between",
+        "meaning": "在……之間",
+        "appearsInSource": true
+      },
+      {
+        "word": "call",
+        "meaning": "打電話；叫喊；通話",
+        "appearsInSource": true
+      },
+      {
+        "word": "difficult",
+        "meaning": "困難的",
+        "appearsInSource": true
+      },
+      {
+        "word": "evening",
+        "meaning": "傍晚；晚上",
+        "appearsInSource": true
+      },
+      {
+        "word": "famous",
+        "meaning": "有名的",
+        "appearsInSource": true
+      },
+      {
+        "word": "listen",
+        "meaning": "聽",
+        "appearsInSource": true
+      },
+      {
+        "word": "picture",
+        "meaning": "圖片；照片",
+        "appearsInSource": true
+      },
+      {
+        "word": "price",
+        "meaning": "價格；代價",
+        "appearsInSource": true
+      },
+      {
+        "word": "pull",
+        "meaning": "拉",
+        "appearsInSource": true
+      },
+      {
+        "word": "read",
+        "meaning": "閱讀；讀了",
+        "appearsInSource": true
+      },
+      {
+        "word": "real",
+        "meaning": "真實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "room",
+        "meaning": "房間；空間",
+        "appearsInSource": true
+      },
+      {
+        "word": "row",
+        "meaning": "一排",
+        "appearsInSource": true
+      },
+      {
+        "word": "school",
+        "meaning": "學校",
+        "appearsInSource": true
+      },
+      {
+        "word": "see",
+        "meaning": "看見",
+        "appearsInSource": true
+      },
+      {
+        "word": "shoulder",
+        "meaning": "肩膀",
+        "appearsInSource": true
+      },
+      {
+        "word": "touch",
+        "meaning": "碰觸",
+        "appearsInSource": true
+      },
+      {
+        "word": "wall",
+        "meaning": "牆",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did June not post her full video publicly?",
+      "options": [
+        "It showed her taking money.",
+        "It included private material and she did not want another public show.",
+        "She had lost every copy."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "It included private material and she did not want another public show.",
+      "existingAnswerExplanation": "It included private material and she did not want another public show.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The memory card was a copy of June's own camera files. She had brought it for Ms Lin, not for me to take home. She called her mother and our teacher over. Before anyone opened it, she named the parts she did not want shared. There was a clip of Sam after a difficult phone call. There were private talks between friends. “Those are not the price of proving I didn't steal,” she said.",
+          "chinese": "記憶卡是 June 自己相機檔案的副本，帶來交林老師，不是讓我帶回家。她叫媽媽和老師過來，先說清楚哪些片段不願分享：Sam 接完難受電話的畫面、朋友間私人談話。「這些不是證明我沒偷錢必須付的代價。」",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 7,
+          "english": "“Why didn't you post this?” I asked, then wished I could pull the question back. June closed the laptop. “Because Sam was in it. Because I was tired. Because I didn't want my worst day to become everyone's evening show.” She rubbed the white mark on her thumb. “And because I thought the school would tell the truth without making me beg the whole internet to watch.”",
+          "chinese": "「為什麼不自己發布這個？」我一問就想收回。June 關上筆電。「因為有 Sam，因為我很累，因為不想讓最糟的一天變成所有人的晚間節目。」她揉拇指白痕。「也因為我以為學校會說真話，不必由我求整個網路觀看。」",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does June do before anyone opens the camera files?",
+      "options": [
+        "She identifies material she does not want shared.",
+        "She uploads every file publicly.",
+        "She gives Bell the only copy."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "She identifies material she does not want shared.",
+      "existingAnswerExplanation": "June 先找來母親與老師，並列明哪些片段不願公開，才讓人查看檔案。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The memory card was a copy of June's own camera files. She had brought it for Ms Lin, not for me to take home. She called her mother and our teacher over. Before anyone opened it, she named the parts she did not want shared. There was a clip of Sam after a difficult phone call. There were private talks between friends. “Those are not the price of proving I didn't steal,” she said.",
+          "chinese": "記憶卡是 June 自己相機檔案的副本，帶來交林老師，不是讓我帶回家。她叫媽媽和老師過來，先說清楚哪些片段不願分享：Sam 接完難受電話的畫面、朋友間私人談話。「這些不是證明我沒偷錢必須付的代價。」",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "Ms Lin agreed. She wrote down June's choices. June's mother opened the relevant file on her laptop with headphones, then let us listen one at a time. The video began twenty minutes before the famous twelve seconds. Kai was sitting beside the cash box, using his phone. June stood behind the camera. At first, they were talking about how long the closing song should be.",
+          "chinese": "林老師同意，記下 June 的選擇。June 媽媽用筆電開啟相關檔案，戴耳機確認，再讓我們輪流聽。影片從著名的十二秒之前二十分鐘開始。Kai 坐在錢盒旁用手機，June 在鏡頭後，最初在討論結尾歌曲長度。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

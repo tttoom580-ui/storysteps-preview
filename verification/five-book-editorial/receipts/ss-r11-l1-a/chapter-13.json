@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 13,
+  "chapterId": "ss-r11-l1-a-13",
+  "sourceChapterSha256": "dde61300c2021a76072299c8f5f3b4d5b14c21ae007b5a35ba448d60a1bd31aa",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "園藝中心借物登記，回校門後分享心得，指向市場儲藏室",
+    "previousChapterEndingEnglish": "By evening the wind had become a soft breeze. Ivy placed the cups in a safe room and checked them a second time. She had wanted the work to be fast, but careful hands mattered more. Jun helped tie a string around the trays so they would not move on the table. They left room between the cups for air. Ivy looked at the small green leaves and smiled. The club still had a story to finish, and tomorrow might bring a new answer.",
+    "nextChapterOpeningEnglish": "Ms. Wen met with several parents and school workers to make an agreement about the garden. Ivy's aunt came as one of the family visitors. She wore gloves and a blue uniform because she worked at the town garden center. “Can children help paint the new signs?” she asked. The principal said yes, as long as an adult watched the tools and the paint was safe. Ivy was happy. It was the first time the school had made a clear plan with the club instead of giving the children a list of jobs without asking."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The school arranged a visit to the city garden center. A small gate stood beside a low wall. Outside it, a long rope showed where visitors could stand while workers moved heavy bags of soil. Ivy and Jun followed the rule. They saw a sign asking people to borrow tools only after writing their names. A worker said the garden had used that rule for years. “Our system is not difficult,” she said, “but everyone must use it the same way.” Ivy thought of the green box and wished the school had such a clear system.",
+        "zh": "學校安排大家參觀市立園藝中心。矮牆旁有一道小門，門外一條長繩標出訪客應站的位置，以免妨礙工人搬重土袋。艾薇和俊遵守規定。他們看到一塊牌子，上面寫著借工具前要先登記名字。一位工作人員說，園藝中心多年來都用這個規則。「我們的制度不難，」她說，「但每個人都要用同一套方法。」艾薇想到綠箱子，希望學校也有那麼清楚的制度。",
+        "englishSha256": "de358be966fa29975ebc70fb7508deeefc60d89e511db1da3db0ca5d71ebef4b",
+        "chineseSha256": "abfc094d146eda2da9e1df12e27c4b19783e084d7ee4a0799ad25db9b524bcb8"
+      },
+      {
+        "number": 2,
+        "en": "At the garden center a woman in a brown coat showed the children a photograph from long ago. She said she had begun gardening at the age of ten. Ivy asked whether the work had ever been difficult. “Many times,” the woman said. “But a hard day does not mean you should stop forever.” Ivy could feel the sun on her face as they stood beside the gate. She tried to keep those words in mind. A garden did not grow because someone felt sure every day. It grew because people kept giving it the care it needed.",
+        "zh": "在園藝中心，一位穿棕色外套的女子給孩子們看一張很久以前的照片。她說自己十歲就開始種植物。艾薇問，園藝工作有沒有很困難的時候。「很多次，」女子說，「但一天很辛苦，不代表你該永遠停下來。」大家站在門邊時，艾薇感到陽光照在臉上。她努力記住那句話。花園不是因為有人每天都充滿信心才生長，而是因為大家持續給它需要的照顧。",
+        "englishSha256": "05904dc80e52faffe9b5a63401218bfa0b2e55012e4ec61fb602e8d4cab4b3ff",
+        "chineseSha256": "9a9965eaefcdb384771692e3a72f5241a892ff64888d98384667434dd00d552c"
+      },
+      {
+        "number": 3,
+        "en": "The center had flowers, small trees, and a wall of photographs. One showed a hotel that had borrowed plants for its front door many years ago. Another showed a town festival beside a rock garden. Ivy asked whether the center ever stored boxes for schools. “Sometimes,” the worker said. “We need the school's permission and a place on our list.” She looked through the public part of the list. No green school box appeared there. Ivy felt disappointed, but she knew that one more room had been checked.",
+        "zh": "中心裡有花、小樹和一整面照片牆。一張照片拍的是多年前某間旅館借植物布置門口的樣子；另一張則是鎮上在石頭花園旁辦活動的情景。艾薇問中心有沒有替學校存放過箱子。「有時會，」工作人員說，「不過需要學校同意，也要列入清單。」她查看清單公開的部分，裡頭沒有學校的綠箱子。艾薇感到失望，但知道又有一個地方已經確認過了。",
+        "englishSha256": "af67219dcd6cdc8922c1d308f2e9e33dd9830a0169be6449d2fc9f269ff51c70",
+        "chineseSha256": "af13fe20b900434ced18687112eae997bb5f7f44d2e53964d6e8825577f25ac6"
+      },
+      {
+        "number": 4,
+        "en": "The worker offered another idea. “A market hall also has a dry storage room,” she said. “During repairs, people sometimes move things there.” Ivy asked if everyone could go to the market immediately. Ms. Wen said no. First the school would call the hall and ask which adult could help. The town center was a place of business, not an open playground. Ivy was old enough to understand that a good plan had to respect other people's work. She wrote down the hall's public number.",
+        "zh": "工作人員又提出一個方向。「市場大廳也有乾燥的儲藏室，」她說，「維修時，有人會把東西移到那裡。」艾薇問大家能否立刻去市場。溫老師說不行，學校要先打電話，問清楚哪位大人能協助。鎮上的園藝中心是工作場所，不是能任意跑來跑去的遊樂場。艾薇已經能理解，好的計畫必須尊重別人的工作。她記下市場大廳的公開電話。",
+        "englishSha256": "ba507e33e11879fc0138a543bdc2685f9d77732298fa0685709ffe8cd9e6e85f",
+        "chineseSha256": "a0ec850ff0dc2b94c7bb35a4331b63beadca8696fc26eff8d6cf80056de17e38"
+      },
+      {
+        "number": 5,
+        "en": "On the bus home, a child sang a quiet song about spring. Jun looked out of the window and asked whether the garden center had helped their search. Ivy said it had. It showed them how borrowing records could work and gave them the market hall as a place to check. They had not found the seeds there, but they had learned a better way to look. When the bus stopped at school, Ivy put the new guide in the club bag where everyone could find it.",
+        "zh": "回程巴士上，一個孩子輕輕唱著春天的歌。俊望著窗外，問園藝中心有沒有幫助尋找。艾薇說有。它讓大家看見借物紀錄可以如何運作，還提供市場大廳這個查詢方向。他們沒在那裡找到種子，卻學會更好的尋找方式。巴士回到學校時，艾薇把新指南放進社團袋，讓每個人都能找到。",
+        "englishSha256": "9123428c4a26d567eb2920f08923ec29d513d08d97fb574d4497c8164d96ba65",
+        "chineseSha256": "a4cf5fd085efef296c5bb5f96be0a9349d606a298854724e72f927e3c077fecc"
+      },
+      {
+        "number": 6,
+        "en": "At lunch a child asked why the missing box mattered so much when the garden already had new beans. Ivy thought about the question. The old box held the names of the people who had made the labels. It also held notes that could help future students. Some things had a small price in money but a large place in people's minds. “The box belongs to our group,” she said, “and the work inside belongs to many hands.” The child nodded and helped carry a small pot back to the bus.",
+        "zh": "午餐時，一個孩子問，既然花園已經有新豆苗，為什麼失蹤的箱子還那麼重要。艾薇想了想。舊箱子裡寫著製作標示牌的人名，也收著能幫助未來學生的筆記。有些東西價錢不高，在人心中卻佔著很重要的位置。「箱子屬於我們社團，」她說，「裡面的心血則來自許多雙手。」孩子點點頭，幫忙把小花盆搬回巴士。",
+        "englishSha256": "951eafc67aea7dcda2a473b4725b610443a4ecb6eb962e7bda2bd981150a74ab",
+        "chineseSha256": "80e8941973d4e9137ed3b2a3f2df219951da67b0c7a488e9aeceff403c6f84b2"
+      },
+      {
+        "number": 7,
+        "en": "When they stood by the school gate again after returning from the city garden, Ms. Wen asked each student to say one thing they had learned. Jun said clear borrowing rules could save trouble. Ivy said she had learned to ask for help without entering places that were not open to them. A boy said he wanted to make the school's garden as welcoming as this one. The worker smiled. She gave them a guide to small plants that could grow in the city. “Come again tomorrow if your teacher makes a new visit,” she said. “Good gardens take time.”",
+        "zh": "從城市花園回到學校後，大家再次站在校門旁，溫老師請每個學生說一件學到的事。俊說，清楚的借用規則能避免麻煩。艾薇說，她學會在不擅闖未開放空間的情況下求助。一個男孩說，他希望學校花園也能像這裡一樣歡迎大家。工作人員笑了，送給他們一本適合城市栽種的小植物指南。「如果老師安排新的參訪，明天也歡迎再來，」她說，「好花園需要時間。」",
+        "englishSha256": "f3acda0f5d74aec240d86f115a6aa252d7d0151a92bfba410ac12a19ec93ded3",
+        "chineseSha256": "e1f92f4ea2690f541d033d3cbe721b4ced567d43f980cb4eb8362c3b5e0e4880"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 645,
+    "targets": [
+      {
+        "word": "age",
+        "meaning": "年齡",
+        "appearsInSource": true
+      },
+      {
+        "word": "ago",
+        "meaning": "以前",
+        "appearsInSource": true
+      },
+      {
+        "word": "borrow",
+        "meaning": "借用",
+        "appearsInSource": true
+      },
+      {
+        "word": "city",
+        "meaning": "城市",
+        "appearsInSource": true
+      },
+      {
+        "word": "coat",
+        "meaning": "外套",
+        "appearsInSource": true
+      },
+      {
+        "word": "difficult",
+        "meaning": "困難的",
+        "appearsInSource": true
+      },
+      {
+        "word": "everyone",
+        "meaning": "每個人",
+        "appearsInSource": true
+      },
+      {
+        "word": "feel",
+        "meaning": "感到",
+        "appearsInSource": true
+      },
+      {
+        "word": "gate",
+        "meaning": "大門",
+        "appearsInSource": true
+      },
+      {
+        "word": "hotel",
+        "meaning": "旅館",
+        "appearsInSource": true
+      },
+      {
+        "word": "mind",
+        "meaning": "記住",
+        "appearsInSource": true
+      },
+      {
+        "word": "money",
+        "meaning": "金錢",
+        "appearsInSource": true
+      },
+      {
+        "word": "rock",
+        "meaning": "石頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "rope",
+        "meaning": "繩子",
+        "appearsInSource": true
+      },
+      {
+        "word": "rule",
+        "meaning": "規則",
+        "appearsInSource": true
+      },
+      {
+        "word": "same",
+        "meaning": "相同的",
+        "appearsInSource": true
+      },
+      {
+        "word": "small",
+        "meaning": "小的",
+        "appearsInSource": true
+      },
+      {
+        "word": "song",
+        "meaning": "歌曲",
+        "appearsInSource": true
+      },
+      {
+        "word": "stand",
+        "meaning": "站立",
+        "appearsInSource": true
+      },
+      {
+        "word": "tomorrow",
+        "meaning": "明天",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What rule did the town garden center use?",
+      "options": [
+        "Borrow tools only after writing names.",
+        "Take every tool home.",
+        "Hide the tools under rocks."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Borrow tools only after writing names.",
+      "existingAnswerExplanation": "園藝中心規定借工具須先登記姓名",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The school arranged a visit to the city garden center. A small gate stood beside a low wall. Outside it, a long rope showed where visitors could stand while workers moved heavy bags of soil. Ivy and Jun followed the rule. They saw a sign asking people to borrow tools only after writing their names. A worker said the garden had used that rule for years. “Our system is not difficult,” she said, “but everyone must use it the same way.” Ivy thought of the green box and wished the school had such a clear system.",
+          "chinese": "學校安排大家參觀市立園藝中心。矮牆旁有一道小門，門外一條長繩標出訪客應站的位置，以免妨礙工人搬重土袋。艾薇和俊遵守規定。他們看到一塊牌子，上面寫著借工具前要先登記名字。一位工作人員說，園藝中心多年來都用這個規則。「我們的制度不難，」她說，「但每個人都要用同一套方法。」艾薇想到綠箱子，希望學校也有那麼清楚的制度。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 3,
+          "english": "The center had flowers, small trees, and a wall of photographs. One showed a hotel that had borrowed plants for its front door many years ago. Another showed a town festival beside a rock garden. Ivy asked whether the center ever stored boxes for schools. “Sometimes,” the worker said. “We need the school's permission and a place on our list.” She looked through the public part of the list. No green school box appeared there. Ivy felt disappointed, but she knew that one more room had been checked.",
+          "chinese": "中心裡有花、小樹和一整面照片牆。一張照片拍的是多年前某間旅館借植物布置門口的樣子；另一張則是鎮上在石頭花園旁辦活動的情景。艾薇問中心有沒有替學校存放過箱子。「有時會，」工作人員說，「不過需要學校同意，也要列入清單。」她查看清單公開的部分，裡頭沒有學校的綠箱子。艾薇感到失望，但知道又有一個地方已經確認過了。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What place did the worker suggest checking?",
+      "options": [
+        "The market hall.",
+        "The ocean floor.",
+        "The school roof."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The market hall.",
+      "existingAnswerExplanation": "工作人員指出市場大廳也有乾燥儲藏空間",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "The worker offered another idea. “A market hall also has a dry storage room,” she said. “During repairs, people sometimes move things there.” Ivy asked if everyone could go to the market immediately. Ms. Wen said no. First the school would call the hall and ask which adult could help. The town center was a place of business, not an open playground. Ivy was old enough to understand that a good plan had to respect other people's work. She wrote down the hall's public number.",
+          "chinese": "工作人員又提出一個方向。「市場大廳也有乾燥的儲藏室，」她說，「維修時，有人會把東西移到那裡。」艾薇問大家能否立刻去市場。溫老師說不行，學校要先打電話，問清楚哪位大人能協助。鎮上的園藝中心是工作場所，不是能任意跑來跑去的遊樂場。艾薇已經能理解，好的計畫必須尊重別人的工作。她記下市場大廳的公開電話。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "On the bus home, a child sang a quiet song about spring. Jun looked out of the window and asked whether the garden center had helped their search. Ivy said it had. It showed them how borrowing records could work and gave them the market hall as a place to check. They had not found the seeds there, but they had learned a better way to look. When the bus stopped at school, Ivy put the new guide in the club bag where everyone could find it.",
+          "chinese": "回程巴士上，一個孩子輕輕唱著春天的歌。俊望著窗外，問園藝中心有沒有幫助尋找。艾薇說有。它讓大家看見借物紀錄可以如何運作，還提供市場大廳這個查詢方向。他們沒在那裡找到種子，卻學會更好的尋找方式。巴士回到學校時，艾薇把新指南放進社團袋，讓每個人都能找到。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

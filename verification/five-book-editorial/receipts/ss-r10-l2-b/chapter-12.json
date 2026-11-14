@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 12,
+  "chapterId": "ss-r10-l2-b-12",
+  "sourceChapterSha256": "72ce82bd000c5560df5324c67782361a686b649062157b0e256ed91ef5bd78bc",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "老屋頂落木片造成扭傷，停演改庭院安全短版",
+    "previousChapterEndingEnglish": "When they locked the booth, Evan asked May whether she wanted to cancel their visit to the book fair. She looked surprised that he remembered. “No,” she said, “I still want to go. But we each need one afternoon when our whole world is not this project.” He agreed and promised not to bring a recorder. They stood beneath the streetlight planning which books to look for. May had expected the day to end with disappointment; instead, it ended with a small, possible future that belonged only to them.",
+    "nextChapterOpeningEnglish": "A local brand offered the team money for a bigger room. Its manager was a polite gentleman who arrived in purple clothing and carried a shining metal case. The offer seemed generous until May read the rules: the company could match every recording with an advertisement, and the team could not reject the pairing later. Evan calculated the amount they needed for equipment and travel. The money would cover the cost, but it would give the company power over other people's stories. May spoke against the plan. The voices were not goods to be sold by weight, like rice measured by the gram."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A sharp click came from the roof just as a school group entered the hall. A small piece of wood fell near the door, and one visitor twisted an ankle while stepping backward. May stopped the show and asked everyone to move outside calmly. Evan put protective covers over the machines, then helped the staff check the roof. A young teacher was upset because her students had traveled far for a cultural visit. May did not promise that the show would reopen quickly. The building manager needed an exact description of the damage before deciding what was safe.",
+        "zh": "一群學生走進大廳時，屋頂突然發出清脆的喀噠聲。一小片木頭落在門邊，一位訪客後退時扭傷腳踝。慧立刻停止展覽，請大家冷靜到室外。安澤替機器蓋上保護罩，再協助工作人員檢查屋頂。一位年輕老師很不高興，因為學生走了很遠才來文化參訪。慧沒有保證展覽很快重開。大樓管理員需要對損壞做出精確描述，才能判斷何處安全。",
+        "englishSha256": "1abb366bf5f65bbb059ee5ef5409cc70e33a7676e59b44304937c1f75bfe6289",
+        "chineseSha256": "073009615f3a09e33b51df1a4c7e36fc9922ac9c41c99bfaa2470f669f994b90"
+      },
+      {
+        "number": 2,
+        "en": "Outside, a dog began to bark near a fruit cart. Mrs. Fen passed out slices of guava and asked the children to sit under a covered path. One student carried a novel about a prince who could travel through time; another held a drawing of a swing. They wanted to make a new recording while they waited. May suggested selecting a short memory each person truly wanted to share, rather than filling the silence with any story available. The teacher agreed. The children described the market in their own words, and none were asked to give their full names.",
+        "zh": "外面，一隻狗在水果車旁吠叫。芬姨分給孩子們番石榴，請大家坐到有遮棚的步道下。一個學生帶著王子穿越時空的小說，另一個拿著盪鞦韆的畫。他們想等待時錄一段新作品。慧建議，每人挑一段真正想分享的回憶，不要為填滿安靜就隨便說故事。老師同意了。孩子們用自己的話描述市場，沒有人被要求說出全名。",
+        "englishSha256": "9fb9c14ce04a8c3bef0a2bbd86e296ca9650fd744e612e33604f4f5ee96eb887",
+        "chineseSha256": "26471875710c57ffb023b312a44832ec7d07605e1bdbe1ead45b6bd5153d0315"
+      },
+      {
+        "number": 3,
+        "en": "Evan sent a reply to the waiting visitors, explaining why the event was delayed and where they could find updates. He avoided calling the old roof evil or blaming the repair workers. That would not help anyone. Instead, he listed what had happened, what was still unknown, and who had the right to decide when people could return. May checked the message before it was posted. She liked that he was learning the difference between a dramatic warning and a useful one. She also noticed that he had brought the injured visitor a chair without making a speech about it.",
+        "zh": "安澤回覆等候的訪客，解釋活動延遲的原因，以及後續資訊發布處。他沒有把舊屋頂稱為邪惡，也沒有責怪維修工人，因為那對誰都沒有幫助。他列出已發生的事、尚未確認的部分，以及由誰決定何時可以重返室內。慧在訊息發布前檢查。她喜歡安澤漸漸分得清戲劇化警告與實用警告，也注意到他默默替扭傷的訪客搬來椅子，沒有特別宣揚。",
+        "englishSha256": "32014a492636c3d2b8fcb22d21b194cdd761403485ec0a3950cae58bf0949e4f",
+        "chineseSha256": "b5d0cc3b274f4b2d45fdc8e3697c1937f89d6737dddf86aa1c40b65fd2f2be22"
+      },
+      {
+        "number": 4,
+        "en": "After a safety check, the group moved to a covered courtyard for a shorter show. A volunteer used a spoon against a metal bowl to make a soft ringing sound. A student asked if that sound would remain in the record forever. May answered, “Only if the person who made it wants that, and only for the use we agree on.” The child considered the answer, then asked for a copy to take home but no public replay. Evan made a note. The day's most important lesson had been about youth having choices, not about the broken roof.",
+        "zh": "完成安全檢查後，團體移到有遮蔭的庭院，改做較短的展示。一位志工用湯匙敲金屬碗，發出柔和的聲響。一名學生問這聲音是否會永久留在紀錄裡。慧回答：「只有發出聲音的人願意，而且只限我們同意的用途。」孩子想了一會兒，希望帶一份回家，卻不准公開重播。安澤記下要求。這一天最重要的課程不是破損屋頂，而是年輕人也有選擇權。",
+        "englishSha256": "8c5a899e04e48b75f78e6b6efadfbcac5454f3a5d24e263a6dfc13e32ec11bde",
+        "chineseSha256": "e581e7aba33dd07a13d31e2a1269cb88300a548480b40ef9e0c47249e299aff5"
+      },
+      {
+        "number": 5,
+        "en": "They had to select a different route for visitors because the damaged corner remained closed. Upon hearing the manager's warning, Evan marked the unsafe section on a new map and asked the first-aid volunteer to check the courtyard. May tested the signs by following them as if she were visiting for the first time. One arrow pointed behind a plant, and another could not be seen from a low seat. They moved both. The schoolteacher returned with her students and said they had learned as much from the pause as from the planned show. May was relieved, but did not claim the accident had been useful. She knew no lesson justified avoidable harm. What mattered was responding carefully after something went wrong and refusing to repeat the same mistake when there was a clear way to prevent it.",
+        "zh": "由於受損角落仍封閉，他們必須另選訪客路線。聽到經理警告後，安澤在新地圖標出不安全區域，請急救志工檢查庭院。慧把自己當作第一次到訪的人，照標示走了一遍。一個箭頭被植物擋住，另一個坐低時看不到。他們都移好了。老師帶著學生回來，說孩子從暫停中學到的，不比預定節目少。慧感到寬慰，卻沒有宣稱事故很有用。她知道沒有任何課程值得以可避免的傷害交換。重要的是出事後小心回應，並在知道預防方法時，不再犯同一個錯誤。",
+        "englishSha256": "0fbeed8a4605585a5c6a85d18b8b9cd3adcbe845449878e1b45c2a58471cfb50",
+        "chineseSha256": "bfd034a18f69391b7e7a0dd50773059b6766f8df4f35ffa33ce64519523d4df6"
+      },
+      {
+        "number": 6,
+        "en": "They closed early. At the bus stop, May said she felt as if every time the project moved forward, another problem pulled it back. Evan did not tell her everything would be fine. He reminded her that they had stopped before anyone was badly hurt and had given the school group a safe choice. “A delay is not always a defeat,” he said. She watched him put the unused microphone away. For once, she believed the quiet words more than she would have believed a grand promise.",
+        "zh": "他們提早收工。公車站旁，慧說她覺得計畫每前進一步，就有另一個問題把它拉回來。安澤沒有說一切都會沒事，只提醒她，他們及時停下，沒有讓任何人受到嚴重傷害，也替學生提供了安全選擇。「延遲不一定是失敗，」他說。慧看著他把沒用上的麥克風收好。這一回，她相信這些安靜的話，勝過任何盛大的保證。",
+        "englishSha256": "3215db5d2f53ff60441176599b54b117a57f87a70ae64eff6a0018978faf5ce3",
+        "chineseSha256": "378f59c3f0bde2a3d6d8f54c13f4e3280207e809116cd7a910654a14d9dad926"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 620,
+    "targets": [
+      {
+        "word": "ankle",
+        "meaning": "腳踝",
+        "appearsInSource": true
+      },
+      {
+        "word": "bark",
+        "meaning": "吠叫",
+        "appearsInSource": true
+      },
+      {
+        "word": "click",
+        "meaning": "喀噠聲",
+        "appearsInSource": true
+      },
+      {
+        "word": "cultural",
+        "meaning": "文化的",
+        "appearsInSource": true
+      },
+      {
+        "word": "delay",
+        "meaning": "延誤",
+        "appearsInSource": true
+      },
+      {
+        "word": "description",
+        "meaning": "描述",
+        "appearsInSource": true
+      },
+      {
+        "word": "evil",
+        "meaning": "邪惡的",
+        "appearsInSource": true
+      },
+      {
+        "word": "exact",
+        "meaning": "精確的",
+        "appearsInSource": true
+      },
+      {
+        "word": "guava",
+        "meaning": "番石榴",
+        "appearsInSource": true
+      },
+      {
+        "word": "novel",
+        "meaning": "小說",
+        "appearsInSource": true
+      },
+      {
+        "word": "protective",
+        "meaning": "保護用的",
+        "appearsInSource": true
+      },
+      {
+        "word": "reply",
+        "meaning": "回覆",
+        "appearsInSource": true
+      },
+      {
+        "word": "roof",
+        "meaning": "屋頂",
+        "appearsInSource": true
+      },
+      {
+        "word": "select",
+        "meaning": "選擇",
+        "appearsInSource": true
+      },
+      {
+        "word": "spoon",
+        "meaning": "湯匙",
+        "appearsInSource": true
+      },
+      {
+        "word": "swing",
+        "meaning": "鞦韆",
+        "appearsInSource": true
+      },
+      {
+        "word": "travel",
+        "meaning": "遠行",
+        "appearsInSource": true
+      },
+      {
+        "word": "Upon",
+        "meaning": "一聽到",
+        "appearsInSource": true
+      },
+      {
+        "word": "upset",
+        "meaning": "不高興的",
+        "appearsInSource": true
+      },
+      {
+        "word": "youth",
+        "meaning": "青年",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What made May stop the indoor show?",
+      "options": [
+        "Wood fell from the roof and a visitor was hurt",
+        "The singer refused to speak",
+        "The school bus was early"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Wood fell from the roof and a visitor was hurt",
+      "existingAnswerExplanation": "屋頂掉下木片且有訪客扭傷，慧立即停止室內活動。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A sharp click came from the roof just as a school group entered the hall. A small piece of wood fell near the door, and one visitor twisted an ankle while stepping backward. May stopped the show and asked everyone to move outside calmly. Evan put protective covers over the machines, then helped the staff check the roof. A young teacher was upset because her students had traveled far for a cultural visit. May did not promise that the show would reopen quickly. The building manager needed an exact description of the damage before deciding what was safe.",
+          "chinese": "一群學生走進大廳時，屋頂突然發出清脆的喀噠聲。一小片木頭落在門邊，一位訪客後退時扭傷腳踝。慧立刻停止展覽，請大家冷靜到室外。安澤替機器蓋上保護罩，再協助工作人員檢查屋頂。一位年輕老師很不高興，因為學生走了很遠才來文化參訪。慧沒有保證展覽很快重開。大樓管理員需要對損壞做出精確描述，才能判斷何處安全。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 3,
+          "english": "Evan sent a reply to the waiting visitors, explaining why the event was delayed and where they could find updates. He avoided calling the old roof evil or blaming the repair workers. That would not help anyone. Instead, he listed what had happened, what was still unknown, and who had the right to decide when people could return. May checked the message before it was posted. She liked that he was learning the difference between a dramatic warning and a useful one. She also noticed that he had brought the injured visitor a chair without making a speech about it.",
+          "chinese": "安澤回覆等候的訪客，解釋活動延遲的原因，以及後續資訊發布處。他沒有把舊屋頂稱為邪惡，也沒有責怪維修工人，因為那對誰都沒有幫助。他列出已發生的事、尚未確認的部分，以及由誰決定何時可以重返室內。慧在訊息發布前檢查。她喜歡安澤漸漸分得清戲劇化警告與實用警告，也注意到他默默替扭傷的訪客搬來椅子，沒有特別宣揚。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Where did the shortened program take place?",
+      "options": [
+        "In a covered courtyard",
+        "On the damaged roof",
+        "Inside a moving bus"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "In a covered courtyard",
+      "existingAnswerExplanation": "安全檢查後，團隊改在有遮蔽的庭院舉行短版活動。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "After a safety check, the group moved to a covered courtyard for a shorter show. A volunteer used a spoon against a metal bowl to make a soft ringing sound. A student asked if that sound would remain in the record forever. May answered, “Only if the person who made it wants that, and only for the use we agree on.” The child considered the answer, then asked for a copy to take home but no public replay. Evan made a note. The day's most important lesson had been about youth having choices, not about the broken roof.",
+          "chinese": "完成安全檢查後，團體移到有遮蔭的庭院，改做較短的展示。一位志工用湯匙敲金屬碗，發出柔和的聲響。一名學生問這聲音是否會永久留在紀錄裡。慧回答：「只有發出聲音的人願意，而且只限我們同意的用途。」孩子想了一會兒，希望帶一份回家，卻不准公開重播。安澤記下要求。這一天最重要的課程不是破損屋頂，而是年輕人也有選擇權。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 2,
+          "english": "Outside, a dog began to bark near a fruit cart. Mrs. Fen passed out slices of guava and asked the children to sit under a covered path. One student carried a novel about a prince who could travel through time; another held a drawing of a swing. They wanted to make a new recording while they waited. May suggested selecting a short memory each person truly wanted to share, rather than filling the silence with any story available. The teacher agreed. The children described the market in their own words, and none were asked to give their full names.",
+          "chinese": "外面，一隻狗在水果車旁吠叫。芬姨分給孩子們番石榴，請大家坐到有遮棚的步道下。一個學生帶著王子穿越時空的小說，另一個拿著盪鞦韆的畫。他們想等待時錄一段新作品。慧建議，每人挑一段真正想分享的回憶，不要為填滿安靜就隨便說故事。老師同意了。孩子們用自己的話描述市場，沒有人被要求說出全名。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

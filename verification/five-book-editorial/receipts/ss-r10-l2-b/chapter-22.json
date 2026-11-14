@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 22,
+  "chapterId": "ss-r10-l2-b-22",
+  "sourceChapterSha256": "010447acebdf36cd5d833b2b17d77bef8d631c24017b30b9f71fb167e9230365",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "颱風使儲藏室受損，先確保安全及核對異地備份",
+    "previousChapterEndingEnglish": "When the others left, Evan said he had been offered a sound job in a city two hours away. May congratulated him, but her smile came slowly. She had an interview for a local teaching program next week. They sat without speaking for a minute. Then she said, “I want you to choose what is right for your work.” He answered that he wanted the same for her. They did not turn their different roads into an argument. The question of distance was real, but it could wait until both had facts rather than fears.",
+    "nextChapterOpeningEnglish": "The committee met for a formal review of the archive rules. May made a drawing of a triangle: the speaker, the student team, and the market community. Each side needed to carry responsibility. An employer from a nearby shop asked whether employees could share work stories anytime. May said they could, provided they respected other people's privacy and their own work agreements. A young woman asked whether the story of her diet belonged to her alone if her sister had been mentioned. Evan answered that private details about another person required separate care. The room stayed silent as people considered the question."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A typhoon crossed the coast two weeks before the final market event. Wind damaged the roof of a storage room, and water reached the bottom shelf. May could not travel anywhere until the weather office announced that roads were safe. Evan stayed home too, despite a worried message from a friend who wanted to check the equipment in an instant. Mrs. Fen called both students and asked them to wait. “There is no recording worth a life,” she said. The latter part of the storm brought heavier rain, and they were relieved that nobody had gone near the building.",
+        "zh": "最後的市場活動前兩週，颱風穿過海岸。強風損壞儲藏室屋頂，水淹到最下層架子。氣象單位宣布道路安全前，慧哪裡都不能去。安澤也留在家裡，儘管一位擔心的朋友傳訊想立刻去檢查器材。芬姨打給兩名學生，請他們等待。「沒有任何錄音值得用生命交換，」她說。風雨後半段更大，大家慶幸沒有人靠近建築。",
+        "englishSha256": "4876d80037fc4f5c881092a3ee509caf55c2ba6fba72ac442cb09a5e4d852d8d",
+        "chineseSha256": "945d67237d54702d2f007fb9010adc2a7a3ebc95e1a7542fdec01fc9790c27a3"
+      },
+      {
+        "number": 2,
+        "en": "When the storm passed, they found wet boxes and a bill for repairs. A fisherman from the harbor brought spare cloth to dry the shelves, while a hunter who lived near the hills offered strong gloves. May thanked them but refused to let volunteers enter the damaged room before the manager's check. One trainee slipped slightly on the wet step and caught the rail. The danger was clear enough. Evan took photographs from the safe doorway and compared them with a list of stored objects. There was no reason to guess what had been lost before they had real evidence.",
+        "zh": "風雨過去後，大家找到濕掉的箱子與維修帳單。一位港邊漁夫拿來備用布，幫忙擦乾架子；住在山邊的獵人帶來厚手套。慧道謝，卻拒絕讓志工在經理檢查前進入受損房間。一名學員在濕臺階上小滑了一下，幸好抓住欄杆。危險已足夠明顯。安澤從安全門口拍照，和儲物清單對照。在有真正證據前，沒必要猜測損失了什麼。",
+        "englishSha256": "77cb47873aa5810e48f65d56c07ba06782fad80a1b437331669bcb82111cc898",
+        "chineseSha256": "e89c4a2b39f37789edc6a088a891278919b6e42713baf28f3d93007ec283796f"
+      },
+      {
+        "number": 3,
+        "en": "A volunteer offered cold cola and showed May a golden photo frame with a family picture inside. She said the water had reached the frame but not the picture. Her opinion was that the project should move everything to a new building. Evan said this was a real possibility, but it required a cost review and permission from the people whose recordings were stored. Another volunteer doubted whether there was time. May suggested solving the urgent problems first: dry the approved materials, secure the room, and check the backups. The future address could be decided after the danger had passed.",
+        "zh": "一名志工送來冰可樂，並讓慧看一個金色相框，裡面是全家照片。她說水碰到框，卻沒有浸濕照片。她認為計畫應把所有東西搬到新大樓。安澤說這確實是可能選項，但需要評估費用，並取得保存錄音者的同意。另一位志工懷疑時間是否足夠。慧提議先解決急迫問題：乾燥已獲准保存的材料、確保房間安全，以及檢查備份。未來地址可以等危險過後再決定。",
+        "englishSha256": "bac1e95efeab3c7f4405843eef40d2818368376bc3d61fb07a297447f8b1e8c1",
+        "chineseSha256": "274924c4f32451665321c73970f6161a57566c3d841e2313a6ae8a5143221da0"
+      },
+      {
+        "number": 4,
+        "en": "They discovered that most digital files were safe because the team had stored a backup away from the market. Two paper labels were damaged, but the file records still held the dates and permission limits. Mrs. Fen called the result good luck, but Evan said it was the fruit of ordinary planning. The group did not celebrate with a large party. Instead, they posted a clear report explaining what had happened, what was safe, and what remained closed. No one blamed the weather for every old problem in the building.",
+        "zh": "他們發現大多數數位檔案都安全，因為團隊早已在市場外另存備份。兩張紙標籤損壞，但檔案紀錄仍保留日期和授權範圍。芬姨說這是運氣好，安澤卻說，這是平日規劃的成果。團隊沒有開盛大慶功會，而是發布清楚報告，說明發生了什麼、哪些安全、哪些地方仍關閉。沒有人把建築裡所有老問題都推給天氣。",
+        "englishSha256": "0355e293b66c4478c732915c62e1d8498386232bdff3bead4aec82636ff46ab9",
+        "chineseSha256": "d1052f0bccaa2b81af1ad196fa92024a0d8eacce63773cbe08731b3922521db9"
+      },
+      {
+        "number": 5,
+        "en": "The manager came back with an expert to assess the damage. He said he had no doubt that part of the roof needed repair, but the walls of the main listening room were safe for careful access. A former staff member offered employment to one of the students during the cleanup, though the student said she needed time to think. A volunteer joked that her best mate was a wild hunter of missing boxes. Evan laughed, then stopped when he saw a small silver label about to slip from a wet shelf. He caught it and placed it in a dry folder. May said the team should solve the immediate storage problem before discussing a new building. They made a clear list of what could be saved, what had to be checked, and what must remain untouched. For the first time since the storm, their worries had a practical order.",
+        "zh": "經理帶專家回來評估損壞。他說自己毫不懷疑屋頂部分區域需要維修，但主聆聽室牆面在謹慎安排下可以安全進出。一名前員工在清理期間向學生提供一份工作，學生表示需要時間考慮。一位志工開玩笑說，好友簡直是狂熱追查失蹤箱子的獵人。安澤笑了，但看見一張小小的銀色標籤快從濕架滑落時立刻停住。他接住標籤，放進乾燥資料夾。慧說，討論新大樓前，應先處理眼前的儲存問題。團隊列出哪些可救、哪些需檢查、哪些不得觸碰。風雨過後，他們的擔憂第一次有了可行的處理順序。",
+        "englishSha256": "e38247c574bbfad6ddb2bdb6b8da8c01ec7fa356fa961f7a25174441ca1b04e5",
+        "chineseSha256": "c7392d581db4b741a4cb1ece8f09891198e99e6cbc125eb673c8ea45520e9adf"
+      },
+      {
+        "number": 6,
+        "en": "After the cleanup, May found Evan sitting alone on a bench, holding his job offer. He had been afraid to tell her that he wanted to accept it. She said she hoped he would. They talked about travel, time, and what they each needed from a relationship. He did not ask her to follow him. She did not ask him to stay. It was harder than making a bright promise, but it felt more honest. When they stood to leave, he offered his hand, and she took it as the market lights came on again.",
+        "zh": "清理結束後，慧看見安澤獨自坐在長椅上，手裡拿著工作邀請。他一直怕說出自己想接受。慧說，她希望他接受。兩人談交通、時間，以及各自在關係中真正需要什麼。他沒有要求她跟去，她也沒有要他留下。這比許下漂亮承諾更難，卻更誠實。兩人起身離開時，他伸出手，慧在市場燈重新亮起時握住了它。",
+        "englishSha256": "f7196748130c29eb76184e2c30481c222d439b1e2b2c94c9836b121a9fb1e012",
+        "chineseSha256": "9d517502a142bf07ff4a04f530a58b96baf5f5a08f872b0f87fd05c75c6e7d57"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 634,
+    "targets": [
+      {
+        "word": "anywhere",
+        "meaning": "任何地方",
+        "appearsInSource": true
+      },
+      {
+        "word": "bill",
+        "meaning": "帳單",
+        "appearsInSource": true
+      },
+      {
+        "word": "cola",
+        "meaning": "可樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "damage",
+        "meaning": "損害",
+        "appearsInSource": true
+      },
+      {
+        "word": "doubt",
+        "meaning": "懷疑",
+        "appearsInSource": true
+      },
+      {
+        "word": "employment",
+        "meaning": "雇用",
+        "appearsInSource": true
+      },
+      {
+        "word": "event",
+        "meaning": "活動",
+        "appearsInSource": true
+      },
+      {
+        "word": "fisherman",
+        "meaning": "漁夫",
+        "appearsInSource": true
+      },
+      {
+        "word": "golden",
+        "meaning": "金色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hunter",
+        "meaning": "獵人",
+        "appearsInSource": true
+      },
+      {
+        "word": "instant",
+        "meaning": "立即的",
+        "appearsInSource": true
+      },
+      {
+        "word": "latter",
+        "meaning": "後者",
+        "appearsInSource": true
+      },
+      {
+        "word": "mate",
+        "meaning": "好友",
+        "appearsInSource": true
+      },
+      {
+        "word": "opinion",
+        "meaning": "意見",
+        "appearsInSource": true
+      },
+      {
+        "word": "possibility",
+        "meaning": "可能性",
+        "appearsInSource": true
+      },
+      {
+        "word": "silver",
+        "meaning": "銀色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "slip",
+        "meaning": "滑落",
+        "appearsInSource": true
+      },
+      {
+        "word": "solve",
+        "meaning": "解決",
+        "appearsInSource": true
+      },
+      {
+        "word": "typhoon",
+        "meaning": "颱風",
+        "appearsInSource": true
+      },
+      {
+        "word": "wild",
+        "meaning": "狂熱的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did everyone wait until the storm passed?",
+      "options": [
+        "The damaged building was unsafe",
+        "The market had no fruit",
+        "The concert had ended"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The damaged building was unsafe",
+      "existingAnswerExplanation": "颱風期間不冒險進受損建築，先確認道路與場地安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A typhoon crossed the coast two weeks before the final market event. Wind damaged the roof of a storage room, and water reached the bottom shelf. May could not travel anywhere until the weather office announced that roads were safe. Evan stayed home too, despite a worried message from a friend who wanted to check the equipment in an instant. Mrs. Fen called both students and asked them to wait. “There is no recording worth a life,” she said. The latter part of the storm brought heavier rain, and they were relieved that nobody had gone near the building.",
+          "chinese": "最後的市場活動前兩週，颱風穿過海岸。強風損壞儲藏室屋頂，水淹到最下層架子。氣象單位宣布道路安全前，慧哪裡都不能去。安澤也留在家裡，儘管一位擔心的朋友傳訊想立刻去檢查器材。芬姨打給兩名學生，請他們等待。「沒有任何錄音值得用生命交換，」她說。風雨後半段更大，大家慶幸沒有人靠近建築。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 4,
+          "english": "They discovered that most digital files were safe because the team had stored a backup away from the market. Two paper labels were damaged, but the file records still held the dates and permission limits. Mrs. Fen called the result good luck, but Evan said it was the fruit of ordinary planning. The group did not celebrate with a large party. Instead, they posted a clear report explaining what had happened, what was safe, and what remained closed. No one blamed the weather for every old problem in the building.",
+          "chinese": "他們發現大多數數位檔案都安全，因為團隊早已在市場外另存備份。兩張紙標籤損壞，但檔案紀錄仍保留日期和授權範圍。芬姨說這是運氣好，安澤卻說，這是平日規劃的成果。團隊沒有開盛大慶功會，而是發布清楚報告，說明發生了什麼、哪些安全、哪些地方仍關閉。沒有人把建築裡所有老問題都推給天氣。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why were most digital files safe?",
+      "options": [
+        "An off-site backup had been kept",
+        "They were all printed",
+        "The storm avoided the market"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "An off-site backup had been kept",
+      "existingAnswerExplanation": "團隊早有市場外的備份，因此多數數位檔案安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "They discovered that most digital files were safe because the team had stored a backup away from the market. Two paper labels were damaged, but the file records still held the dates and permission limits. Mrs. Fen called the result good luck, but Evan said it was the fruit of ordinary planning. The group did not celebrate with a large party. Instead, they posted a clear report explaining what had happened, what was safe, and what remained closed. No one blamed the weather for every old problem in the building.",
+          "chinese": "他們發現大多數數位檔案都安全，因為團隊早已在市場外另存備份。兩張紙標籤損壞，但檔案紀錄仍保留日期和授權範圍。芬姨說這是運氣好，安澤卻說，這是平日規劃的成果。團隊沒有開盛大慶功會，而是發布清楚報告，說明發生了什麼、哪些安全、哪些地方仍關閉。沒有人把建築裡所有老問題都推給天氣。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 2,
+          "english": "When the storm passed, they found wet boxes and a bill for repairs. A fisherman from the harbor brought spare cloth to dry the shelves, while a hunter who lived near the hills offered strong gloves. May thanked them but refused to let volunteers enter the damaged room before the manager's check. One trainee slipped slightly on the wet step and caught the rail. The danger was clear enough. Evan took photographs from the safe doorway and compared them with a list of stored objects. There was no reason to guess what had been lost before they had real evidence.",
+          "chinese": "風雨過去後，大家找到濕掉的箱子與維修帳單。一位港邊漁夫拿來備用布，幫忙擦乾架子；住在山邊的獵人帶來厚手套。慧道謝，卻拒絕讓志工在經理檢查前進入受損房間。一名學員在濕臺階上小滑了一下，幸好抓住欄杆。危險已足夠明顯。安澤從安全門口拍照，和儲物清單對照。在有真正證據前，沒必要猜測損失了什麼。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

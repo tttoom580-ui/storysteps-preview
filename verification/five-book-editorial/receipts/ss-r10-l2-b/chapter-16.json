@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 16,
+  "chapterId": "ss-r10-l2-b-16",
+  "sourceChapterSha256": "d09bcb5887ea13e38bf431c5c31dcf3d1025cf1be27d18ad45f6c7b96907d955",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "地震演練與通道淨空，簡化兒童安全標示",
+    "previousChapterEndingEnglish": "At closing, May and Evan sat on the floor beside the door, too tired to stand for another minute. They had not seen a perfect show, and some complaints remained open. Yet the visitors had stayed, asked questions, changed their minds, and left without being forced to give anything. Evan leaned his head against the wall and said, “I think I like you.” May looked at him for a moment. “I think I like you too,” she replied, “but I want us to keep our work decisions separate.” He agreed immediately. They did not need an audience for the first honest words between them.",
+    "nextChapterOpeningEnglish": "The project team visited a village school to teach children how to listen to local stories. May wrote a basic quiz on a blackboard but left room for more than one reasonable answer. Evan brought a wooden box holding a sample recorder and a small speaker. A teacher from the education department asked whether the lesson could depend less on expensive devices. Evan agreed. He opened a drawer and took out paper, pencils, and a simple recording form. The children would first interview one another without machines, then decide together which questions were fair."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The hall manager planned an earthquake exercise before the next public event. He put an arrow on each wall to show the safest exit and asked volunteers to learn the basics of moving people without pushing. May had never led a drill before. She was in a poor mood after a late night of schoolwork, but she knew the practice mattered. Evan helped check the upper floor and found a printer blocking a narrow passage. He moved it with a worker and measured the clear space. “Indeed,” the manager said, “one forgotten machine can become a serious problem when everyone needs to leave at once.”",
+        "zh": "大廳經理安排下次公開活動前進行地震演練。他在每面牆貼上箭頭，指示最安全的出口，並請志工學習不推擠地引導人群的基本方法。慧從未帶領演練，熬夜寫作業後心情不太好，但她知道練習很重要。安澤幫忙檢查樓上，發現一台印表機擋住狹窄通道。他和工人一起移開，重新量了可通行的寬度。「確實，」經理說，「當大家需要一起離開，一台被忘記的機器就可能變成大問題。」",
+        "englishSha256": "3db52a310618075577df59ad515173c878178dce64a4fa464d7cfa2750169bff",
+        "chineseSha256": "1da5276f7c45f8dd1a5438557a4b70bc2425e6c85b323aa5d4d1187522e79027"
+      },
+      {
+        "number": 2,
+        "en": "A children’s group had helped create signs for the event. One showed a hippopotamus wearing a helmet, while another showed a worm finding its way out of a garden. May smiled at the silly pictures, then asked whether the messages were clear enough for people who could not read the words. The group tried a new sign with fewer details. Their teacher said that quality did not always mean adding more color. A rare chance to practice with real visitors had helped the children see how design worked. May thanked them for asking questions that adults sometimes forgot.",
+        "zh": "一群孩子幫忙製作活動標示。一張畫著戴安全帽的河馬，另一張畫著從花園找到出口的蚯蚓。慧被有趣圖畫逗笑，接著問，不識字的人能否看懂標示。孩子們試做了一張細節更少的新標示。老師說，品質不一定代表顏色愈多愈好。難得能和真實訪客一起練習，讓孩子看見設計如何發揮作用。慧謝謝他們提出大人有時會忘記的問題。",
+        "englishSha256": "ec348ab1503ea19c6c3db404506a61c33c1ab137218add4f8c33484347534a6d",
+        "chineseSha256": "935a57757c8f2b1120d9c3ed74b8458e488de8fd04969e04c02787f5019c5ef4"
+      },
+      {
+        "number": 3,
+        "en": "After the drill, a volunteer asked May to beg the committee for a larger budget. The group wanted to install expensive lights that looked like a royal hall. May said she would explain the need, but she would not beg for something that did not improve access or safety. Evan agreed to compare low-cost options first. They discovered that a few sturdy lamps and clear maps would do more for the visitors than an impressive ceiling. Mrs. Fen called that a valuable lesson in using limited resources. The market had never been rich, but it knew how to share work.",
+        "zh": "演練結束後，一名志工請慧去求委員會增加預算。團隊想安裝昂貴燈具，讓空間看起來像皇家大廳。慧說她會說明需求，卻不願為無助於安全或使用的裝飾苦苦哀求。安澤同意先比較低成本方案。他們發現，幾盞穩固的燈與清楚地圖，比華麗天花板更能幫助訪客。芬姨說，這是善用有限資源的寶貴課程。市場從來不富有，卻懂得分擔工作。",
+        "englishSha256": "eb496c4fa9a06fbfea597a914742d4940c9697a5cc69e4619711fcd2fe50bcbc",
+        "chineseSha256": "a00cb64745eeb1c08a05a909bbd1db3aeb337186c9215282eacf217086293ef6"
+      },
+      {
+        "number": 4,
+        "en": "That evening May and Evan walked part of the hill route used by older sellers to go home. She wanted to see whether the signs made sense outside the building too. A short hike revealed two turns that had no streetlights. Evan suggested noting the risk in their safety file instead of promising to fix a public road themselves. May stretched her tired back and looked down at the warm market windows. The project was connected to more lives than she had expected, and the relation between stories and safety grew clearer each day.",
+        "zh": "傍晚，慧與安澤走了一段年長攤商回家的山路。她想知道標示在建築外是否一樣有用。短短步行就發現兩個轉角沒有路燈。安澤提議把風險記錄在安全檔案，而不是承諾自己去修公共道路。慧伸展疲憊的背，看著下方溫暖的市場窗光。計畫連結的人生比她原先想像更多，故事與安全的關係也一天天清晰。",
+        "englishSha256": "1356bd79e265968cc4c55040ff12c48cdf6a79ecd802ac908efb0251eaaa17b8",
+        "chineseSha256": "2f9da1569c9c2b77e08d74ad3195382322f3d6b3d9e46b7e3de8f1daf6c1f4e5"
+      },
+      {
+        "number": 5,
+        "en": "The manager asked how the team would recover after a small accident during a crowded event. May said the first step would be to stop the show and help people, not to repair the schedule. Evan added that volunteers should stretch the safety practice over several days so new members could learn it without being rushed. They divided the work into small sessions: reading the exit map, checking the clear path, and speaking calmly to visitors. No session needed special equipment. After the last practice, a student said she had been frightened of asking questions at first. Mrs. Fen thanked her for speaking. May realized that an exercise only helped if people could admit confusion before a real problem came. Evan looked pleased when the student asked to lead the next drill herself. The program was changing hands, slowly and safely.",
+        "zh": "經理問，若擁擠活動發生小事故，團隊要如何恢復運作。慧說第一步是停演並照顧人，而不是急著修復時程。安澤補充，安全練習應延展到好幾天，讓新人不必在催促中學習。他們把工作拆成小課：閱讀出口圖、檢查淨空走道，以及冷靜引導訪客。每堂都不需要特別設備。最後一次練習後，一位學生承認自己起初怕發問。芬姨謝謝她說出來。慧明白，真正的問題發生前，人們能坦承不懂，演練才有意義。當學生主動要求帶下一次練習，安澤很高興。計畫正緩慢而安全地交到下一批人手中。",
+        "englishSha256": "7daff2f64cd7a9d843020a0d3b4d1c0519bf632d3bf1a4f88d43453003de1535",
+        "chineseSha256": "c78bd509e0219593150b93b32953651e046728dd1aff93b2a8281acb375ca980"
+      },
+      {
+        "number": 6,
+        "en": "When they parted, Evan asked if she needed help with her class paper. May said she wanted to try alone first. He accepted the answer, then handed her the schedule for next week's school visit. She liked that he was becoming someone who offered help without expecting to be needed. He liked that she would tell him no without fearing he might leave. They had not planned a dramatic romance; they had simply learned to make space for each other's full lives. It felt steadier than a promise made under bright lights.",
+        "zh": "分開時，安澤問是否要幫忙寫課堂報告。慧說她想先自己試試。他接受回答，遞上下一週學校參訪的行程表。慧喜歡他逐漸成為會提供協助、卻不要求被需要的人。安澤也喜歡她能說不，而不擔心他會因此離開。他們沒有策畫戲劇性的戀愛，只是學會替彼此完整的生活留空間。那感覺比亮燈下許下的誓言還穩定。",
+        "englishSha256": "0e1290caa891576105f7240c7225238a9d9d72580e38bc6a9f5a8ccc3c41548e",
+        "chineseSha256": "1e52c91320e435e3bd5765f31eefb53eae3ff7a145123f4e23b5c126812bc218"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 630,
+    "targets": [
+      {
+        "word": "arrow",
+        "meaning": "箭頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "basics",
+        "meaning": "基本原則",
+        "appearsInSource": true
+      },
+      {
+        "word": "beg",
+        "meaning": "懇求",
+        "appearsInSource": true
+      },
+      {
+        "word": "create",
+        "meaning": "建立",
+        "appearsInSource": true
+      },
+      {
+        "word": "earthquake",
+        "meaning": "地震",
+        "appearsInSource": true
+      },
+      {
+        "word": "hike",
+        "meaning": "健行",
+        "appearsInSource": true
+      },
+      {
+        "word": "hippopotamus",
+        "meaning": "河馬",
+        "appearsInSource": true
+      },
+      {
+        "word": "Indeed",
+        "meaning": "確實",
+        "appearsInSource": true
+      },
+      {
+        "word": "manager",
+        "meaning": "經理",
+        "appearsInSource": true
+      },
+      {
+        "word": "mood",
+        "meaning": "心情",
+        "appearsInSource": true
+      },
+      {
+        "word": "printer",
+        "meaning": "印表機",
+        "appearsInSource": true
+      },
+      {
+        "word": "quality",
+        "meaning": "品質",
+        "appearsInSource": true
+      },
+      {
+        "word": "rare",
+        "meaning": "少見的",
+        "appearsInSource": true
+      },
+      {
+        "word": "recover",
+        "meaning": "恢復",
+        "appearsInSource": true
+      },
+      {
+        "word": "relation",
+        "meaning": "關係",
+        "appearsInSource": true
+      },
+      {
+        "word": "royal",
+        "meaning": "皇家的",
+        "appearsInSource": true
+      },
+      {
+        "word": "stretch",
+        "meaning": "延展",
+        "appearsInSource": true
+      },
+      {
+        "word": "upper",
+        "meaning": "上層的",
+        "appearsInSource": true
+      },
+      {
+        "word": "valuable",
+        "meaning": "有價值的",
+        "appearsInSource": true
+      },
+      {
+        "word": "worm",
+        "meaning": "蚯蚓",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What was blocking a passage on the upper floor?",
+      "options": [
+        "A printer",
+        "A truck",
+        "A piano"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A printer",
+      "existingAnswerExplanation": "一台印表機擋住逃生通道，演練前已移開。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The hall manager planned an earthquake exercise before the next public event. He put an arrow on each wall to show the safest exit and asked volunteers to learn the basics of moving people without pushing. May had never led a drill before. She was in a poor mood after a late night of schoolwork, but she knew the practice mattered. Evan helped check the upper floor and found a printer blocking a narrow passage. He moved it with a worker and measured the clear space. “Indeed,” the manager said, “one forgotten machine can become a serious problem when everyone needs to leave at once.”",
+          "chinese": "大廳經理安排下次公開活動前進行地震演練。他在每面牆貼上箭頭，指示最安全的出口，並請志工學習不推擠地引導人群的基本方法。慧從未帶領演練，熬夜寫作業後心情不太好，但她知道練習很重要。安澤幫忙檢查樓上，發現一台印表機擋住狹窄通道。他和工人一起移開，重新量了可通行的寬度。「確實，」經理說，「當大家需要一起離開，一台被忘記的機器就可能變成大問題。」",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 2,
+          "english": "A children’s group had helped create signs for the event. One showed a hippopotamus wearing a helmet, while another showed a worm finding its way out of a garden. May smiled at the silly pictures, then asked whether the messages were clear enough for people who could not read the words. The group tried a new sign with fewer details. Their teacher said that quality did not always mean adding more color. A rare chance to practice with real visitors had helped the children see how design worked. May thanked them for asking questions that adults sometimes forgot.",
+          "chinese": "一群孩子幫忙製作活動標示。一張畫著戴安全帽的河馬，另一張畫著從花園找到出口的蚯蚓。慧被有趣圖畫逗笑，接著問，不識字的人能否看懂標示。孩子們試做了一張細節更少的新標示。老師說，品質不一定代表顏色愈多愈好。難得能和真實訪客一起練習，讓孩子看見設計如何發揮作用。慧謝謝他們提出大人有時會忘記的問題。",
+          "matchedQueryTerms": 0
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the children improve about the exit signs?",
+      "options": [
+        "They made them simpler to understand",
+        "They made them more expensive",
+        "They hid the arrows"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They made them simpler to understand",
+      "existingAnswerExplanation": "孩子測試後改用細節較少、更清楚的標示。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "A children’s group had helped create signs for the event. One showed a hippopotamus wearing a helmet, while another showed a worm finding its way out of a garden. May smiled at the silly pictures, then asked whether the messages were clear enough for people who could not read the words. The group tried a new sign with fewer details. Their teacher said that quality did not always mean adding more color. A rare chance to practice with real visitors had helped the children see how design worked. May thanked them for asking questions that adults sometimes forgot.",
+          "chinese": "一群孩子幫忙製作活動標示。一張畫著戴安全帽的河馬，另一張畫著從花園找到出口的蚯蚓。慧被有趣圖畫逗笑，接著問，不識字的人能否看懂標示。孩子們試做了一張細節更少的新標示。老師說，品質不一定代表顏色愈多愈好。難得能和真實訪客一起練習，讓孩子看見設計如何發揮作用。慧謝謝他們提出大人有時會忘記的問題。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 3,
+          "english": "After the drill, a volunteer asked May to beg the committee for a larger budget. The group wanted to install expensive lights that looked like a royal hall. May said she would explain the need, but she would not beg for something that did not improve access or safety. Evan agreed to compare low-cost options first. They discovered that a few sturdy lamps and clear maps would do more for the visitors than an impressive ceiling. Mrs. Fen called that a valuable lesson in using limited resources. The market had never been rich, but it knew how to share work.",
+          "chinese": "演練結束後，一名志工請慧去求委員會增加預算。團隊想安裝昂貴燈具，讓空間看起來像皇家大廳。慧說她會說明需求，卻不願為無助於安全或使用的裝飾苦苦哀求。安澤同意先比較低成本方案。他們發現，幾盞穩固的燈與清楚地圖，比華麗天花板更能幫助訪客。芬姨說，這是善用有限資源的寶貴課程。市場從來不富有，卻懂得分擔工作。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

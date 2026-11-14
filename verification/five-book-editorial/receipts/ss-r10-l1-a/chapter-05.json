@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 5,
+  "chapterId": "ss-r10-l1-a-5",
+  "sourceChapterSha256": "67ebd85f93ba0680273f849f3aa3d48a530fb62398b836a95bfdc82528625a33",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "教具擺設避開未核准挖土；紙尺調大字體",
+    "previousChapterEndingEnglish": "After the last family left, Nia checked the floor for wet paper. She found a blue square near the door and put it into the dry box. She and Arun made a short list: wipe the tables, close the window, turn the fan off, and move the chairs away from the stairs. These small jobs took time. Nia used to think that a teacher's work began when the children arrived. Now she saw that a good lesson also needed quiet work before and after. She left the room with the weather report in her hand and a new question in her mind: Could a cloudy day still be a good day for a star class?",
+    "nextChapterOpeningEnglish": "A new week began with a package from the city museum. Ada arrived before the children and helped Nia open the box. Inside was a round ball, a small battery lamp, and a paper sign showing the shape of the moon on different nights. A museum worker had written that the materials were free to borrow, except the battery must not be left in the lamp when it was stored. Nia made a new label for the box. Arun brought coffee for the adults, and they checked the room together. Finally, the moon lesson was ready, even though no one could see the real moon through the bright morning window."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "For the next lesson, Nia made a long paper ruler. Finn wanted to know the height of a star, but she explained that stars were too far away to measure with an ordinary ruler. \"Then what is the point of this?\" he asked. Nia showed how the ruler could help them compare the height of a lamp and a picture on the wall. That was something they could truly measure. During the lesson, Mrs. Sol put a small bean on the table to mark one end. A child added a toy frog to mark the other end. The class laughed, but the bean and frog made the distance easy to see.",
+        "zh": "為了下一堂課，妮雅做了一把長長的紙尺。芬恩想知道星星有多高，妮雅解釋，星星太遠，不能用一般尺量。「那做這把尺有什麼用？」他問。妮雅示範如何用它比較燈和牆上圖片的高度；這是大家真正量得到的事。課堂中，索爾奶奶放一顆豆子在桌上標記一端，一個孩子拿玩具青蛙標記另一端。全班都笑了，但豆子和青蛙的確讓距離變得容易看清。",
+        "englishSha256": "ee3514391c9677b7b59127b420d294a0ed4eb505d60efe0d0e7d0c2e6ae73880",
+        "chineseSha256": "7f1b8e129e3b085b084e5891cddef52ea3175c701ccdbed5d3e5b3527feb293e"
+      },
+      {
+        "number": 2,
+        "en": "Ada had made a deal with the center garden: the class could use a small outdoor space if they helped keep it clean. A hen from a neighbor's yard sometimes walked near the fence. Bo wanted to dig a hole for a tall post, but Nia stopped him. They did not have permission to dig, and they did not know what lay under the ground. \"We will use a light stand that can move,\" she said. \"At least we can test it without changing the garden.\" Bo looked unhappy for a minute. Then he asked whether he could hold the ruler instead. Nia said yes and showed him where to stand.",
+        "zh": "艾達和中心花園談好一項約定：只要協助維持清潔，班上就能使用一小塊戶外空間。鄰居養的一隻母雞有時會在圍籬旁走來走去。波想挖洞立一根高柱子，妮雅立刻阻止他。大家沒有挖掘許可，也不知道地底下有什麼。「我們用可以移動的輕支架，」她說，「至少能測試，又不必改變花園。」波不高興了一分鐘，接著問能不能改拿尺。妮雅說可以，並教他站在哪裡。",
+        "englishSha256": "34c5c1ae72af987e1ecb23ee99f032fb984240007f95645f01debe1810542e6f",
+        "chineseSha256": "3f2d39009a49e3f39b97765bec95bc32188ede631089291bc78d66ab717eeaaa"
+      },
+      {
+        "number": 3,
+        "en": "The wind was cold, although there was no snow. Ms. Vale, a teacher from the nearby school, came to watch. She wore a scarf around her neck and carried a picture of a night race. \"Some children think learning is a race they must win,\" she said. \"I hope this class feels different.\" Nia answered that nobody would get a prize for the most correct questions. Instead, students would learn to ask questions that were safe to test. Ms. Vale nodded. She liked that every child had a job, from keeping time to holding the little lamp. Even the quiet children had a reason to speak.",
+        "zh": "風有些冷，雖然沒有下雪。附近學校的維爾老師來旁聽，脖子圍著圍巾，手裡拿著一張夜間賽跑的圖片。「有些孩子以為學習是一場非贏不可的比賽，」她說，「我希望這堂課不一樣。」妮雅回答，班上不會因答對最多題而發獎品，而是要學會提出可以安全測試的問題。維爾老師點點頭。她喜歡每個孩子都有工作，有人計時，有人拿小燈，連安靜的孩子也找到開口的理由。",
+        "englishSha256": "c60dc4bd9e4aa1455d43e5ffde26d57e80ca9200b36d497c3b4d2806b5eed0a4",
+        "chineseSha256": "a1b7180464a76252dc636fdf5d61adbe0a0cde96454a9b21875527798eddbc4d"
+      },
+      {
+        "number": 4,
+        "en": "At the break, Bo spilled water beside the paper ruler. \"Sorry,\" he whispered. Nia helped him put the wet sheet aside. \"We can make another one,\" she said. \"The important thing is that no one slips.\" They moved the cups away from the work table. Finn suggested putting a clear line on the floor between drinks and tools. Nia wrote the idea down at once. When the class resumed, the second ruler worked better than the first. Its numbers were larger, and Mrs. Sol could read them without leaving her chair. A small mistake had helped make a better lesson.",
+        "zh": "休息時，波把水灑在紙尺旁。「對不起，」他低聲說。妮雅幫他把濕紙移開。「我們可以再做一把，」她說，「重要的是沒有人滑倒。」他們把杯子移離工作桌。芬恩提議在地上畫一條清楚的線，把飲料和工具分開。妮雅立刻記下。重新上課後，第二把尺比第一把更好用，數字更大，索爾奶奶不用離開椅子就能讀清楚。一個小失誤反而讓課程變得更好。",
+        "englishSha256": "55041b2c5046b536c105c79f0cf4991d5a810a71f1b5546608432b2c074821cb",
+        "chineseSha256": "1dcb75005cc8618a4c1be0cd0f53893c750c172ef195e16512ca3f70166be067"
+      },
+      {
+        "number": 5,
+        "en": "At one table, Rae placed the ruler beside a drawing of a far star. \"It still feels strange,\" she said. \"The paper is small, but the star is so far away.\" Nia agreed and showed her a picture with two houses, one near and one far. The far house looked smaller on paper, even though both were normal houses. The picture was only a way to begin thinking about distance. Ms. Vale asked the class to say one thing they could measure and one thing they could not measure in that room. Bo said they could measure a chair, but not the moon. Finn added that a ruler could measure a picture of the moon, not the real moon itself. Nia wrote both answers on the board. They showed careful thought.",
+        "zh": "在一張桌旁，芮把紙尺放在遠方星星的圖畫旁。「還是覺得很奇怪，」她說，「紙這麼小，星星卻那麼遠。」妮雅同意，拿出畫著兩棟房子的圖片，一棟在近處，一棟在遠處。遠方的房子在紙上看起來較小，雖然兩棟都是普通大小的房屋。這張圖只是幫大家開始思考距離。維爾老師請全班各說一件可以在房間裡量的事，以及一件不能量的事。波說可以量椅子，不能量月亮。芬恩補充，可以量月亮圖片，不能量真正的月亮。妮雅把兩個答案寫上板子，因為它們都顯示了仔細的思考。",
+        "englishSha256": "cbc7215e0c5ae3ba39b2f12ea0d346f970882979408599a13f6656e3f7c0a81b",
+        "chineseSha256": "5e4f771c44af8c272ea05a51e0517bedfa412580577931fb9d8baa1894c6fb5d"
+      },
+      {
+        "number": 6,
+        "en": "Before everyone went home, Nia asked what they had learned in these early lessons. Finn said stars were not little holes in a dark roof. Bo said a lamp could be measured, even if a star could not. Mrs. Sol said she liked the chair path and the new large numbers. Nia looked at the room. It was not full, but it had become a place where people made changes together. She did not know if the city would let them stay after six weeks. For now, she put the two rulers, one wet and one dry, into a box. They would remind her that a lesson could grow from a question and a mistake.",
+        "zh": "大家回家前，妮雅問他們這幾堂課學到了什麼。芬恩說，星星不是黑色屋頂上的小洞。波說，雖然量不到星星，卻可以量燈。索爾奶奶說，她喜歡留給椅子的通道，也喜歡新紙尺上的大數字。妮雅看看教室。這裡沒有坐滿人，卻已經成了大家一起改變事情的地方。她不知道六週後市府會不會讓課程繼續。眼下，她把一把濕尺和一把乾尺收進箱子，提醒自己：問題和錯誤都能讓課程成長。",
+        "englishSha256": "0ed2dac25ccc5526d8fe2cbd02c0b0e7cb52ef9ee8cee4180e20a6b183a62573",
+        "chineseSha256": "b04ff0368aa0a4fc0e33331cef0348928cc52870b0fae49bb6dc4cd9add6344e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 674,
+    "targets": [
+      {
+        "word": "although",
+        "meaning": "雖然",
+        "appearsInSource": true
+      },
+      {
+        "word": "bean",
+        "meaning": "豆子",
+        "appearsInSource": true
+      },
+      {
+        "word": "deal",
+        "meaning": "約定",
+        "appearsInSource": true
+      },
+      {
+        "word": "dig",
+        "meaning": "挖掘",
+        "appearsInSource": true
+      },
+      {
+        "word": "During",
+        "meaning": "在……期間",
+        "appearsInSource": true
+      },
+      {
+        "word": "frog",
+        "meaning": "青蛙",
+        "appearsInSource": true
+      },
+      {
+        "word": "height",
+        "meaning": "高度",
+        "appearsInSource": true
+      },
+      {
+        "word": "hen",
+        "meaning": "母雞",
+        "appearsInSource": true
+      },
+      {
+        "word": "least",
+        "meaning": "至少",
+        "appearsInSource": true
+      },
+      {
+        "word": "long",
+        "meaning": "長的",
+        "appearsInSource": true
+      },
+      {
+        "word": "minute",
+        "meaning": "分鐘",
+        "appearsInSource": true
+      },
+      {
+        "word": "Ms.",
+        "meaning": "女士",
+        "appearsInSource": true
+      },
+      {
+        "word": "neck",
+        "meaning": "脖子",
+        "appearsInSource": true
+      },
+      {
+        "word": "point",
+        "meaning": "用途／意義",
+        "appearsInSource": true
+      },
+      {
+        "word": "put",
+        "meaning": "放置",
+        "appearsInSource": true
+      },
+      {
+        "word": "race",
+        "meaning": "競賽",
+        "appearsInSource": true
+      },
+      {
+        "word": "safe",
+        "meaning": "安全的",
+        "appearsInSource": true
+      },
+      {
+        "word": "snow",
+        "meaning": "雪",
+        "appearsInSource": true
+      },
+      {
+        "word": "Sorry",
+        "meaning": "抱歉",
+        "appearsInSource": true
+      },
+      {
+        "word": "win",
+        "meaning": "獲勝",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Nia stop Bo from digging?",
+      "options": [
+        "The soil is too colorful.",
+        "The ruler is broken.",
+        "They do not have permission or know what is underground."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "They do not have permission or know what is underground.",
+      "existingAnswerExplanation": "他們沒有挖掘許可，也不知道地下狀況，所以改用可移動支架。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Ada had made a deal with the center garden: the class could use a small outdoor space if they helped keep it clean. A hen from a neighbor's yard sometimes walked near the fence. Bo wanted to dig a hole for a tall post, but Nia stopped him. They did not have permission to dig, and they did not know what lay under the ground. \"We will use a light stand that can move,\" she said. \"At least we can test it without changing the garden.\" Bo looked unhappy for a minute. Then he asked whether he could hold the ruler instead. Nia said yes and showed him where to stand.",
+          "chinese": "艾達和中心花園談好一項約定：只要協助維持清潔，班上就能使用一小塊戶外空間。鄰居養的一隻母雞有時會在圍籬旁走來走去。波想挖洞立一根高柱子，妮雅立刻阻止他。大家沒有挖掘許可，也不知道地底下有什麼。「我們用可以移動的輕支架，」她說，「至少能測試，又不必改變花園。」波不高興了一分鐘，接著問能不能改拿尺。妮雅說可以，並教他站在哪裡。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "For the next lesson, Nia made a long paper ruler. Finn wanted to know the height of a star, but she explained that stars were too far away to measure with an ordinary ruler. \"Then what is the point of this?\" he asked. Nia showed how the ruler could help them compare the height of a lamp and a picture on the wall. That was something they could truly measure. During the lesson, Mrs. Sol put a small bean on the table to mark one end. A child added a toy frog to mark the other end. The class laughed, but the bean and frog made the distance easy to see.",
+          "chinese": "為了下一堂課，妮雅做了一把長長的紙尺。芬恩想知道星星有多高，妮雅解釋，星星太遠，不能用一般尺量。「那做這把尺有什麼用？」他問。妮雅示範如何用它比較燈和牆上圖片的高度；這是大家真正量得到的事。課堂中，索爾奶奶放一顆豆子在桌上標記一端，一個孩子拿玩具青蛙標記另一端。全班都笑了，但豆子和青蛙的確讓距離變得容易看清。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What improves in the second paper ruler?",
+      "options": [
+        "It becomes invisible.",
+        "The numbers become larger.",
+        "It gets much heavier."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The numbers become larger.",
+      "existingAnswerExplanation": "第二把尺上的數字比較大，索爾奶奶坐著也能讀。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "At the break, Bo spilled water beside the paper ruler. \"Sorry,\" he whispered. Nia helped him put the wet sheet aside. \"We can make another one,\" she said. \"The important thing is that no one slips.\" They moved the cups away from the work table. Finn suggested putting a clear line on the floor between drinks and tools. Nia wrote the idea down at once. When the class resumed, the second ruler worked better than the first. Its numbers were larger, and Mrs. Sol could read them without leaving her chair. A small mistake had helped make a better lesson.",
+          "chinese": "休息時，波把水灑在紙尺旁。「對不起，」他低聲說。妮雅幫他把濕紙移開。「我們可以再做一把，」她說，「重要的是沒有人滑倒。」他們把杯子移離工作桌。芬恩提議在地上畫一條清楚的線，把飲料和工具分開。妮雅立刻記下。重新上課後，第二把尺比第一把更好用，數字更大，索爾奶奶不用離開椅子就能讀清楚。一個小失誤反而讓課程變得更好。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 6,
+          "english": "Before everyone went home, Nia asked what they had learned in these early lessons. Finn said stars were not little holes in a dark roof. Bo said a lamp could be measured, even if a star could not. Mrs. Sol said she liked the chair path and the new large numbers. Nia looked at the room. It was not full, but it had become a place where people made changes together. She did not know if the city would let them stay after six weeks. For now, she put the two rulers, one wet and one dry, into a box. They would remind her that a lesson could grow from a question and a mistake.",
+          "chinese": "大家回家前，妮雅問他們這幾堂課學到了什麼。芬恩說，星星不是黑色屋頂上的小洞。波說，雖然量不到星星，卻可以量燈。索爾奶奶說，她喜歡留給椅子的通道，也喜歡新紙尺上的大數字。妮雅看看教室。這裡沒有坐滿人，卻已經成了大家一起改變事情的地方。她不知道六週後市府會不會讓課程繼續。眼下，她把一把濕尺和一把乾尺收進箱子，提醒自己：問題和錯誤都能讓課程成長。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

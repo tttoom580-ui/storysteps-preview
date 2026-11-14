@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 25,
+  "chapterId": "tomorrow-25",
+  "sourceChapterSha256": "13e512c98a5c308ccd2ef7b1e5d1cb62a3971ae65d430bb12eb82e4285474f23",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "友情仍有界線，六月提出拍攝不肯離開紙箱的貓作結尾",
+    "previousChapterEndingEnglish": "After lunch, we waited for different buses. June's came first. At the door, she turned and said, “We're not back where we were.” “I know.” “That might be okay.” She got on before I could turn that into a promise. I watched the bus leave, then opened my phone. I started a new Later letter to myself. I did not write a warning. I wrote a date one month away and a question I could answer only by living.",
+    "nextChapterOpeningEnglish": null
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "One month later, my phone lit up at ten past ten. The name above the message was Mia Chen. My name. The small picture was still the beach photo with one eye closed. For a moment, my heart moved faster. Then I read the first line of the letter I had really written. Did you listen when the answer was not the one you wanted?",
+        "zh": "一個月後，手機在十點十分亮起。名字是 Mia Chen，我的名字；照片還是海邊閉一隻眼的我。有瞬間心跳加快，接著我讀到自己真正寫的第一句：當答案不是妳想要的，妳有聽嗎？",
+        "englishSha256": "5f74555d9c87fdadb423aa712c11d9cd8276ec592c58e7056e976b1ff72beaaa",
+        "chineseSha256": "30bb3eebfa4c85246ce20b848dc3d814806feae5049463356471819f56fd6c02"
+      },
+      {
+        "number": 2,
+        "en": "I thought about the month. June had said no to filming at our old school, so we used her aunt's hallway. Sam had said no to being in the film at all, so we asked him to help choose the sound instead. Ada had asked whether she could join us. June had said not yet. I had passed that answer on without changing it into soon or probably.",
+        "zh": "我想這個月。June 不想在舊學校拍，我們改阿姨家走廊。Sam 不想入鏡，我們請他選聲音。Ada 問能否加入，June 說還不行。我把答案轉達，沒改成「很快」或「大概」。",
+        "englishSha256": "6295c6109d446684ffa11fe61a74e6d334f06e864b71cd072fd5340a3915fba5",
+        "chineseSha256": "bbf60089b52ac385b5fc7e9301fdac5aefb37f3fc4194e3bdeb497a244a8040f"
+      },
+      {
+        "number": 3,
+        "en": "The film was four minutes long. It had six shoes, one lost sock, and no faces. Leo held a light and kept putting it in the wrong place. I tripped over a bag, then made everyone stop so we could move it safely. June laughed from behind the camera. Not her old laugh returned to us like a prize. Her laugh that day, new because the day was new.",
+        "zh": "影片四分鐘，有六隻鞋、一隻弄丟的襪子，沒有臉。Leo 拿燈不停放錯。我被包包絆倒，叫大家停下，先安全移開。June 在相機後笑。不是她舊笑聲像獎品還給我們，而是那天的笑，因為那天是新的。",
+        "englishSha256": "6bfe0f64617616ea5ed404e3d542d62327e654d9debe8892f359513acc8b46b6",
+        "chineseSha256": "4b0fa72e496cd865e04155633e93af4d92147f0527e19b6674bd66cec8021549"
+      },
+      {
+        "number": 4,
+        "en": "Before sharing anything, June showed us the final version. We each checked the parts with our voices or things in them. One shot showed a letter on the floor with her aunt's address. We removed that shot. Sam picked a sound from the class's permitted music library, and we wrote the credit clearly. The careful work did not make the film less funny. It let us enjoy the funny parts without looking over our shoulders.",
+        "zh": "分享前 June 給我們看成片，各自確認有自己聲音或物品的部分。一個鏡頭地上的信露出阿姨地址，我們移除。Sam 從課程允許使用的音樂庫選聲音，清楚署名。小心沒有讓片子不好笑，反而讓我們能享受笑點，不必擔心身後。",
+        "englishSha256": "2a59d2c7030d6127b8a7c99a60ce8456c4a56956b089385599a1acd08af9cac4",
+        "chineseSha256": "43c8dfc39caf8004837ad0457144d6625ad43f46e45ca735e4f805d85508e9b7"
+      },
+      {
+        "number": 5,
+        "en": "We shared it with a small group we had chosen together. There was no public vote. A friend sent a picture of herself laughing at the lost sock. Another said the middle was too slow. June wrote, Fair, and made a note for next time. She did not change everything because one person disliked it. She did not call one kind comment proof that the film was perfect.",
+        "zh": "我們分享給共同選的小群組，沒有公開投票。一位朋友傳笑襪子的照片，另一位說中間太慢。June 回「合理」，記下次改進。她沒因一人不喜歡全改，也沒把一句好評當完美證明。",
+        "englishSha256": "097f54b26da4e9a8d8587d903a37fc9c630217bca7fccab856139bd5cc17d6ce",
+        "chineseSha256": "240d5e1c73de7043c57b8acfb44f3ec2705c0502c0a4ad048ff593036a01edc0"
+      },
+      {
+        "number": 6,
+        "en": "At school, things were still uneven. Kai returned to ordinary classes and kept his distance from the media room. Some students still avoided June's name. The school published a follow-up about account access, reporting routes, and the corrections it had made, without turning private student meetings into news. The old harm did not become good because useful changes followed it. June had paid too much for anyone to call it a gift.",
+        "zh": "學校仍不平順。Kai 回一般課程，遠離媒體室。有些學生仍避談 June。學校發布帳號權限、通報管道、更正措施的後續，不把私人會談變新聞。後來有用的改變，不會讓原本傷害變好。June 付太多代價，沒人有資格稱它禮物。",
+        "englishSha256": "327fe2ba408451801644bde552edebc557c3efabb4fed141bd5348d32c7ad2ba",
+        "chineseSha256": "3b17d204e68e5b4e6ec006326cfdb88dc06a446a47b41bf74d1ea3a558c7656a"
+      },
+      {
+        "number": 7,
+        "en": "I opened my future letter again. Under the question, I had written a small promise: Do not ask a number to tell you who deserves a chair. I looked at the empty chair beside my desk. Tomorrow, Leo and Sam were coming over to study. Ada might join after we asked everyone. June had class near her aunt's home. We were not one perfect group. We were people learning where to leave room.",
+        "zh": "我再開未來信。問題下面有小承諾：不要問數字，誰值得一張椅子。我看書桌旁空椅。明天 Leo 和 Sam 來讀書，問過所有人後 Ada 也可能加入。June 在阿姨家附近上課。我們不是完美團體，是學著在哪裡留空間的人。",
+        "englishSha256": "7afbecda96cb43ae1410d19e131f436d498616be27f46bfe70b173ddb9bd0ed2",
+        "chineseSha256": "b9b7bf9ffb203dd44876b7ab47c70f781ad89c36cb9a40f22f9fa563410836f9"
+      },
+      {
+        "number": 8,
+        "en": "A real-time message arrived from June. Our teacher wants another short film. Are you free tomorrow? I smiled at the screen. Yes, I wrote. What is it about? Her answer came quickly. A girl keeps getting messages from herself. I stared, then another line appeared. I'm joking. It's about a cat that won't leave a box. Bring a light. Outside, rain touched the glass. I put my phone beside my book and learned one more word before bed.",
+        "zh": "June 的即時訊息到了：老師要另一部短片，明天有空嗎？我對螢幕笑，回有，拍什麼？她很快答：一個女孩不停收到自己傳的訊息。我愣住，下一行又到：開玩笑，是不肯離開箱子的貓。帶燈來。窗外雨碰玻璃。我把手機放課本旁，睡前再學一個字。",
+        "englishSha256": "33f2eb5ca8bd1b24e3411315d8410c7047677f7762fd95a3d55147cb641dc7ee",
+        "chineseSha256": "6561350514904678a63162c332be4e0d100db0be20a1753c4244b2630a4634b1"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 568,
+    "targets": [
+      {
+        "word": "about",
+        "meaning": "關於；大約",
+        "appearsInSource": true
+      },
+      {
+        "word": "above",
+        "meaning": "在……上方",
+        "appearsInSource": true
+      },
+      {
+        "word": "after",
+        "meaning": "在……之後",
+        "appearsInSource": true
+      },
+      {
+        "word": "all",
+        "meaning": "全部；所有",
+        "appearsInSource": true
+      },
+      {
+        "word": "become",
+        "meaning": "變成",
+        "appearsInSource": true
+      },
+      {
+        "word": "bed",
+        "meaning": "床",
+        "appearsInSource": true
+      },
+      {
+        "word": "box",
+        "meaning": "箱子；盒子",
+        "appearsInSource": true
+      },
+      {
+        "word": "chair",
+        "meaning": "椅子",
+        "appearsInSource": true
+      },
+      {
+        "word": "eye",
+        "meaning": "眼睛",
+        "appearsInSource": true
+      },
+      {
+        "word": "free",
+        "meaning": "自由的；免費的；有空的",
+        "appearsInSource": true
+      },
+      {
+        "word": "gift",
+        "meaning": "禮物",
+        "appearsInSource": true
+      },
+      {
+        "word": "glass",
+        "meaning": "玻璃；玻璃杯",
+        "appearsInSource": true
+      },
+      {
+        "word": "past",
+        "meaning": "過去；經過",
+        "appearsInSource": true
+      },
+      {
+        "word": "slow",
+        "meaning": "慢的",
+        "appearsInSource": true
+      },
+      {
+        "word": "study",
+        "meaning": "讀書；研究",
+        "appearsInSource": true
+      },
+      {
+        "word": "tomorrow",
+        "meaning": "明天",
+        "appearsInSource": true
+      },
+      {
+        "word": "useful",
+        "meaning": "有用的",
+        "appearsInSource": true
+      },
+      {
+        "word": "what",
+        "meaning": "什麼",
+        "appearsInSource": true
+      },
+      {
+        "word": "when",
+        "meaning": "何時；當……時",
+        "appearsInSource": true
+      },
+      {
+        "word": "where",
+        "meaning": "哪裡；在……的地方",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does the final chapter show about the friendships?",
+      "options": [
+        "They are changing with boundaries rather than returning perfectly to the past.",
+        "Everyone becomes best friends immediately.",
+        "June must return to the same school."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They are changing with boundaries rather than returning perfectly to the past.",
+      "existingAnswerExplanation": "They are changing with boundaries rather than returning perfectly to the past.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "I thought about the month. June had said no to filming at our old school, so we used her aunt's hallway. Sam had said no to being in the film at all, so we asked him to help choose the sound instead. Ada had asked whether she could join us. June had said not yet. I had passed that answer on without changing it into soon or probably.",
+          "chinese": "我想這個月。June 不想在舊學校拍，我們改阿姨家走廊。Sam 不想入鏡，我們請他選聲音。Ada 問能否加入，June 說還不行。我把答案轉達，沒改成「很快」或「大概」。",
+          "matchedQueryTerms": 3
+        },
+        {
+          "paragraph": 1,
+          "english": "One month later, my phone lit up at ten past ten. The name above the message was Mia Chen. My name. The small picture was still the beach photo with one eye closed. For a moment, my heart moved faster. Then I read the first line of the letter I had really written. Did you listen when the answer was not the one you wanted?",
+          "chinese": "一個月後，手機在十點十分亮起。名字是 Mia Chen，我的名字；照片還是海邊閉一隻眼的我。有瞬間心跳加快，接著我讀到自己真正寫的第一句：當答案不是妳想要的，妳有聽嗎？",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What is June's proposed new film actually about?",
+      "options": [
+        "A secret vote that everyone must join.",
+        "A cat that refuses to leave a box.",
+        "A teacher traveling into the future."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "A cat that refuses to leave a box.",
+      "existingAnswerExplanation": "June 先開玩笑說拍收到自己訊息的女孩，再澄清真正題材是一隻不肯離開箱子的貓。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "A real-time message arrived from June. Our teacher wants another short film. Are you free tomorrow? I smiled at the screen. Yes, I wrote. What is it about? Her answer came quickly. A girl keeps getting messages from herself. I stared, then another line appeared. I'm joking. It's about a cat that won't leave a box. Bring a light. Outside, rain touched the glass. I put my phone beside my book and learned one more word before bed.",
+          "chinese": "June 的即時訊息到了：老師要另一部短片，明天有空嗎？我對螢幕笑，回有，拍什麼？她很快答：一個女孩不停收到自己傳的訊息。我愣住，下一行又到：開玩笑，是不肯離開箱子的貓。帶燈來。窗外雨碰玻璃。我把手機放課本旁，睡前再學一個字。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 2,
+          "english": "I thought about the month. June had said no to filming at our old school, so we used her aunt's hallway. Sam had said no to being in the film at all, so we asked him to help choose the sound instead. Ada had asked whether she could join us. June had said not yet. I had passed that answer on without changing it into soon or probably.",
+          "chinese": "我想這個月。June 不想在舊學校拍，我們改阿姨家走廊。Sam 不想入鏡，我們請他選聲音。Ada 問能否加入，June 說還不行。我把答案轉達，沒改成「很快」或「大概」。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

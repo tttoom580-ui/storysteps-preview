@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 14,
+  "chapterId": "ss-r11-l1-a-14",
+  "sourceChapterSha256": "511976dc0ec10d35c610722822024dc854ed2fb2fc713d546ea5d3c5fa375bde",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "師生和家長共同規劃花圃、植物標示及較安全的走道，司機指出市場附近曾見到類似的動物圖案綠箱。",
+    "previousChapterEndingEnglish": "When they stood by the school gate again after returning from the city garden, Ms. Wen asked each student to say one thing they had learned. Jun said clear borrowing rules could save trouble. Ivy said she had learned to ask for help without entering places that were not open to them. A boy said he wanted to make the school's garden as welcoming as this one. The worker smiled. She gave them a guide to small plants that could grow in the city. “Come again tomorrow if your teacher makes a new visit,” she said. “Good gardens take time.”",
+    "nextChapterOpeningEnglish": "The school arranged a visit to the market hall. At the front door, Ivy saw a store selling hats and T-shirts. A visitor was eating a meal at a small restaurant nearby. Beside the door a worker was fixing a pipe, and water had made the ground wet. Ms. Wen asked the children to walk around the work area. “Please stay with us,” she said. Jun looked at the signs and said the market felt like a world of little shops. Ivy thought it was busy and full of places where a box could hide without anyone trying to hide it."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Ms. Wen met with several parents and school workers to make an agreement about the garden. Ivy's aunt came as one of the family visitors. She wore gloves and a blue uniform because she worked at the town garden center. “Can children help paint the new signs?” she asked. The principal said yes, as long as an adult watched the tools and the paint was safe. Ivy was happy. It was the first time the school had made a clear plan with the club instead of giving the children a list of jobs without asking.",
+        "zh": "溫老師與幾位家長、校方工作人員開會，討論花園的共同約定。艾薇的姑姑以家庭訪客身分出席。她戴著手套，穿藍色制服，因為她在鎮立園藝中心工作。「孩子能幫忙替新標示上色嗎？」她問。校長說可以，只要有大人看顧工具，並使用安全的顏料。艾薇很高興。這是學校第一次和社團一起訂清楚的計畫，而不是不問孩子意見，就直接給他們一張工作清單。",
+        "englishSha256": "ad7ef9bb600ba70f19b79e4463efc778bcf5e9433f96e76f6e9ed0b419d28ddb",
+        "chineseSha256": "6afd7f185d2b1644ebe05220e17293277cde6601038fb55ea6f504c1a85c43ba"
+      },
+      {
+        "number": 2,
+        "en": "Before the meeting began, one parent asked whether the garden project would cost too much. Ivy explained that some work was already paid for by the school repair budget, while the club would buy only small plants and signs. Her aunt said a public garden was not a private business. Everyone should know what the money was for. The principal asked, “Do you all agree?” People nodded, and the teacher wrote the agreement in clear words. They had already made a good start, though more work was still ahead.",
+        "zh": "會議開始前，一位家長問花園計畫會不會太花錢。艾薇解釋，有些工作已由學校維修預算支付，社團只需買小植物和標示牌。姑姑說，公共花園不是私人商店，大家都應知道經費的用途。校長問：「大家都同意嗎？」眾人點頭，老師把約定寫成清楚的文字。他們已經有個好開始，雖然後面還有許多工作。",
+        "englishSha256": "f125951745fee3fb68cd3a7c57d37aca49513f8fbbdbc28b4a459512888093b0",
+        "chineseSha256": "a490690c5c6bb236b0713b7dba60ee8c189c81ef9ab026cc443c6fe2fed3b1ca"
+      },
+      {
+        "number": 3,
+        "en": "A gardener showed them the old tree beside the path. Its top had become weak and dry. The gardener said the death of a tree was sad, but sometimes a new plant could grow in the open space. Ivy felt sad, too. She had watched birds on that tree for years. The gardener promised to check the tree and keep people away from any unsafe branches. No one would cut it just to make the garden look new. They would first learn whether any part could be saved.",
+        "zh": "一位園丁帶大家看小徑旁的老樹。樹頂已變得脆弱乾枯。園丁說，一棵樹的死亡讓人難過，但有時新的植物能在空出來的地方生長。艾薇也很難過，因為她多年來都在那棵樹上看鳥。園丁答應檢查樹木，並在不安全的樹枝附近設防。大家不會只為了讓花園看起來更新，就立刻把樹砍掉；要先弄清楚哪些部分還能保留。",
+        "englishSha256": "bb62f0f550bbe936a73f684f5d42892f7f7ca86e01fa5f6b4f08f4cd4e8a7aa4",
+        "chineseSha256": "f757b98970db13e302d3479a2166c6082df130a7970975c4034de24b3c58cedc"
+      },
+      {
+        "number": 4,
+        "en": "For the new garden beds, the children chose fresh soil and simple flowers. They wanted lemon plants too, but they had to learn how long the fruit would take to grow. Jun painted a small sign with a leaf on it. Ivy rested her hand on his shoulder when he dropped the brush. “It is only a little mark,” she said. “We can clean it.” He smiled and tried again. Their work was not perfect, but it was their own. Their teacher said that was one good reason to keep learning.",
+        "zh": "孩子們替新花圃選了新鮮的土和簡單的花。他們也想種檸檬，但得先了解檸檬長出果實需要多久。俊畫了一塊有葉子的小牌子。當他掉落畫筆時，艾薇輕拍他的肩膀。「只是小小一道痕跡，」她說，「可以擦掉。」俊笑著重新畫。作品不完美，卻屬於他們自己。老師說，這就是大家值得繼續學習的原因之一。",
+        "englishSha256": "e22fbf9d68a98937369a6569832faecfdee27c782f1866852e80d5318f5c74aa",
+        "chineseSha256": "9077c7355e8c88880b405cd2ee77f58fa3508e339371e2357ec01144e38e3313"
+      },
+      {
+        "number": 5,
+        "en": "During the break Ivy spoke with a relative who had come to the meeting. He asked if she had found the box. Ivy said not yet, but a driver might have seen it near the market. He told her to rest when she could. “Being careful does not mean that you must be busy every minute,” he said. She thanked him and sat beside the window for a moment. Looking across the garden, she thought how good it was that adults could offer help without taking every choice away from the children.",
+        "zh": "休息時，艾薇和一位來開會的親戚聊天。對方問她是否找到箱子。艾薇說還沒有，但一位司機可能在市場附近看過。他提醒她有空就休息。「細心不代表每分鐘都必須忙著做事，」他說。艾薇道謝，在窗邊坐了一會兒。望著花園，她覺得大人能提供協助，又不把孩子的所有選擇拿走，真是一件好事。",
+        "englishSha256": "e0f4b6ec74641220db9e45cfbb32ae6a510c72d927fd32bf93fa2ca28a65dd50",
+        "chineseSha256": "0e683fb9eb9466ebac0e32fe09a1cd220f1b1ed31931e03bc518f74389358b46"
+      },
+      {
+        "number": 6,
+        "en": "Later the office called with news. The driver had looked at the drawing of the green box. He remembered a box with a funny animal, but he could not say whether it was a monkey. He thought it had been set near the market hall after the storm. The answer gave them a place to ask about, not a place to search alone. Ivy wrote the market hall beside the drawing. She had learned that ever since the rain, many adults had tried to protect things from water, and some moves had not been recorded well.",
+        "zh": "稍後，辦公室來電帶來消息。司機看過綠箱子的圖畫。他記得有個箱子畫著有趣的動物，但說不清是不是猴子。他認為那個箱子在暴雨後被放在市場大廳附近。這個答案給了他們一個可以詢問的地方，卻不是孩子能獨自搜尋的地點。艾薇把市場大廳寫在圖旁。她逐漸明白，自從下雨以來，許多大人努力保護物品不被淋濕，但有些搬動過程沒有妥善留下紀錄。",
+        "englishSha256": "c6e5b4678f87f332bf0c1911076b6a8da8c2d2954a47a5e533a29e60a716bc96",
+        "chineseSha256": "bfee88795c9ef71f7f1d5266d4b3accf7b2e6daa10e23ec778e2ca14ffa81611"
+      },
+      {
+        "number": 7,
+        "en": "At the end of the meeting the principal asked who would lead the garden work next week. Ivy said she could help, but she did not want to make every decision herself. Kai should have a say about the path, Jun about the signs, and the younger children about the plants they wanted to learn from. The principal agreed. For the first time, Ivy felt like a real leader. She was not the boss of her friends. She was the person making room for them to speak.",
+        "zh": "會議結束時，校長問下星期誰來帶領園藝工作。艾薇說自己可以幫忙，但不想一個人決定所有事。小徑應該聽凱的意見，標示牌應該讓俊參與，低年級孩子也應該能選擇想認識的植物。校長同意了。艾薇第一次覺得自己像真正的帶領者。她不是朋友們的老闆，而是替每個人創造說話空間的人。",
+        "englishSha256": "5c28283a3112f715cc94e88a5782ba928cf4c1e38eff6e180d61a9fc39305b2d",
+        "chineseSha256": "67be0bb2b4cc6b4fc4e1c05a5f1baa98782ae63ac074fbbd9d036077647704af"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 638,
+    "targets": [
+      {
+        "word": "agreement",
+        "meaning": "同意",
+        "appearsInSource": true
+      },
+      {
+        "word": "already",
+        "meaning": "已經",
+        "appearsInSource": true
+      },
+      {
+        "word": "aunt",
+        "meaning": "姑姑",
+        "appearsInSource": true
+      },
+      {
+        "word": "business",
+        "meaning": "商業",
+        "appearsInSource": true
+      },
+      {
+        "word": "Can",
+        "meaning": "能夠",
+        "appearsInSource": true
+      },
+      {
+        "word": "death",
+        "meaning": "死亡",
+        "appearsInSource": true
+      },
+      {
+        "word": "ever",
+        "meaning": "曾經",
+        "appearsInSource": true
+      },
+      {
+        "word": "first",
+        "meaning": "第一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "fresh",
+        "meaning": "新鮮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "gloves",
+        "meaning": "手套",
+        "appearsInSource": true
+      },
+      {
+        "word": "grow",
+        "meaning": "成長",
+        "appearsInSource": true
+      },
+      {
+        "word": "happy",
+        "meaning": "快樂的",
+        "appearsInSource": true
+      },
+      {
+        "word": "learn",
+        "meaning": "學習",
+        "appearsInSource": true
+      },
+      {
+        "word": "lemon",
+        "meaning": "檸檬",
+        "appearsInSource": true
+      },
+      {
+        "word": "paint",
+        "meaning": "繪畫",
+        "appearsInSource": true
+      },
+      {
+        "word": "parents",
+        "meaning": "家長",
+        "appearsInSource": true
+      },
+      {
+        "word": "relative",
+        "meaning": "親戚",
+        "appearsInSource": true
+      },
+      {
+        "word": "rest",
+        "meaning": "休息",
+        "appearsInSource": true
+      },
+      {
+        "word": "shoulder",
+        "meaning": "肩膀",
+        "appearsInSource": true
+      },
+      {
+        "word": "uniform",
+        "meaning": "制服",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the school and families plan together?",
+      "options": [
+        "Garden beds, signs, and a safe path.",
+        "A school airplane.",
+        "A new sports team."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Garden beds, signs, and a safe path.",
+      "existingAnswerExplanation": "學校、社團和家長共同討論花圃、標示及安全小徑",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Ms. Wen met with several parents and school workers to make an agreement about the garden. Ivy's aunt came as one of the family visitors. She wore gloves and a blue uniform because she worked at the town garden center. “Can children help paint the new signs?” she asked. The principal said yes, as long as an adult watched the tools and the paint was safe. Ivy was happy. It was the first time the school had made a clear plan with the club instead of giving the children a list of jobs without asking.",
+          "chinese": "溫老師與幾位家長、校方工作人員開會，討論花園的共同約定。艾薇的姑姑以家庭訪客身分出席。她戴著手套，穿藍色制服，因為她在鎮立園藝中心工作。「孩子能幫忙替新標示上色嗎？」她問。校長說可以，只要有大人看顧工具，並使用安全的顏料。艾薇很高興。這是學校第一次和社團一起訂清楚的計畫，而不是不問孩子意見，就直接給他們一張工作清單。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "Before the meeting began, one parent asked whether the garden project would cost too much. Ivy explained that some work was already paid for by the school repair budget, while the club would buy only small plants and signs. Her aunt said a public garden was not a private business. Everyone should know what the money was for. The principal asked, “Do you all agree?” People nodded, and the teacher wrote the agreement in clear words. They had already made a good start, though more work was still ahead.",
+          "chinese": "會議開始前，一位家長問花園計畫會不會太花錢。艾薇解釋，有些工作已由學校維修預算支付，社團只需買小植物和標示牌。姑姑說，公共花園不是私人商店，大家都應知道經費的用途。校長問：「大家都同意嗎？」眾人點頭，老師把約定寫成清楚的文字。他們已經有個好開始，雖然後面還有許多工作。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the driver remember?",
+      "options": [
+        "A green box with a funny animal near the market.",
+        "A giant frog on a bus.",
+        "A blue couch in the river."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A green box with a funny animal near the market.",
+      "existingAnswerExplanation": "司機記得市場附近可能有畫著動物的綠箱子",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Later the office called with news. The driver had looked at the drawing of the green box. He remembered a box with a funny animal, but he could not say whether it was a monkey. He thought it had been set near the market hall after the storm. The answer gave them a place to ask about, not a place to search alone. Ivy wrote the market hall beside the drawing. She had learned that ever since the rain, many adults had tried to protect things from water, and some moves had not been recorded well.",
+          "chinese": "稍後，辦公室來電帶來消息。司機看過綠箱子的圖畫。他記得有個箱子畫著有趣的動物，但說不清是不是猴子。他認為那個箱子在暴雨後被放在市場大廳附近。這個答案給了他們一個可以詢問的地方，卻不是孩子能獨自搜尋的地點。艾薇把市場大廳寫在圖旁。她逐漸明白，自從下雨以來，許多大人努力保護物品不被淋濕，但有些搬動過程沒有妥善留下紀錄。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 5,
+          "english": "During the break Ivy spoke with a relative who had come to the meeting. He asked if she had found the box. Ivy said not yet, but a driver might have seen it near the market. He told her to rest when she could. “Being careful does not mean that you must be busy every minute,” he said. She thanked him and sat beside the window for a moment. Looking across the garden, she thought how good it was that adults could offer help without taking every choice away from the children.",
+          "chinese": "休息時，艾薇和一位來開會的親戚聊天。對方問她是否找到箱子。艾薇說還沒有，但一位司機可能在市場附近看過。他提醒她有空就休息。「細心不代表每分鐘都必須忙著做事，」他說。艾薇道謝，在窗邊坐了一會兒。望著花園，她覺得大人能提供協助，又不把孩子的所有選擇拿走，真是一件好事。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

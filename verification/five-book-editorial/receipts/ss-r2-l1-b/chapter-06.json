@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 6,
+  "chapterId": "ss-r2-l1-b-6",
+  "sourceChapterSha256": "777f1092f950b1c6a64ab7558ffb667bca231c938552b8484ffb474e641e1dee",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "推車陷泥導致雞蛋缺貨，莫斯做無蛋麵包；出爐後不再膨發",
+    "previousChapterEndingEnglish": "When she reached the red house, Fia put the letter and her bank note inside the desk drawer. Tomorrow she would speak with Pip about fruit and with Toma about early opening hours. Each friend was bringing one part of the shop to life. Before turning away, she looked at the yellow string on her book. It reminded her of the apples on the road and the kindness that had followed. A simple offer could open a new door. She hoped her breakfast shop would be full of such offers, freely given and carefully kept.",
+    "nextChapterOpeningEnglish": "Pip came by the west path with a large basket of flowers. He was a rabbit who loved growing things. \"There is one more job we can do,\" he told Fia. \"We can teach a class about simple food plants.\" Fia liked the idea, but she asked when they would have time. Moss had to finish his bread, and she had to clean the kitchen. Pip made a list and put one hour beside the class. \"We can start small,\" he said. \"Let us have only four people. If it works, we can do it again.\" Fia agreed to try it on a day when the shop was closed."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A hard rain fell in the morning, and the path to the farm filled with mud. Fia stood at her desk and read the news from a small village paper. The farm cart could not come through the old road. Moss came into the shop with one arm wet and a worried face. \"What do we do about the eggs?\" he asked. Fia put the paper down. \"First we find out whether Kit is safe,\" she said. \"Then we can speak with his mother.\" The work was more important than any one breakfast, but no food was worth a friend getting hurt on the road.",
+        "zh": "早上下起大雨，通往農場的小路滿是泥巴。菲雅站在書桌前，讀著村報的消息：農場推車無法經過舊路。莫斯走進店裡，一隻手臂被雨打濕，臉上很擔心。「那雞蛋怎麼辦？」他問。菲雅放下報紙。「先確認基特平安，」她說，「然後再跟他母親談。」工作很重要，但沒有任何早餐值得讓朋友在路上受傷。",
+        "englishSha256": "5cbd1765b7d2facfae381cf0ea8029348a9876a5d38034bf7714e87c7a7cbe72",
+        "chineseSha256": "32dd561638e808ae6a682b9dc72cd7a6e141ab2cb0000e8c93268efe90b99ae0"
+      },
+      {
+        "number": 2,
+        "en": "Toma sent a note in a dry envelope. He had seen Kit at the pond. Kit was fine, but the cart was stuck. Fia felt much better. She walked to the pond with Moss and brought a long board. The water was deep beside the path, so they stayed on the high ground. Toma showed them a safe place to cross. \"This path has a history,\" he said. \"My grandfather put these stones here when he was young.\" The old stones were still strong. Fia and Moss used them to get close enough to give Kit the board without stepping into the deep water.",
+        "zh": "托馬送來一封裝在乾燥信封裡的字條。他在池塘見過基特。基特平安，只是推車卡住了。菲雅鬆了一口氣，帶著莫斯和一塊長木板前往池塘。路旁的水很深，他們一直站在高處。托馬指給他們安全的通道。「這條路有歷史呢，」他說，「我祖父年輕時放了這些石頭。」老石頭仍很牢固。菲雅與莫斯踩著石頭接近基特，把木板遞過去，不必走進深水。",
+        "englishSha256": "1590bf0a275f2b9da045281315ce806ad30371f7e972905e65046c440687ac11",
+        "chineseSha256": "a52bbf5ad04d901fdecade873ba0b5007937bc6ae4b48898251cebb75d179a7f"
+      },
+      {
+        "number": 3,
+        "en": "The cart came free after a little work. Kit was surprised to see how many people had come to help. His mother had sent eggs in a strong box, but she told Fia that they might not be convenient to carry every rainy day. \"We may have to change our delivery time,\" she said. Fia answered that she would make the menu with food they could get safely. Moss had an idea. \"I can make a simple bread without eggs,\" he said. \"And Pip can bring fruit.\" It sounded funny to call a wet morning a good lesson, yet that was what it had become. At the pond, a fish rose near the top of the water. Kit watched it for a moment while the workers got ready to leave.",
+        "zh": "大家忙了一會兒，推車終於脫困。基特很驚訝竟有這麼多人來幫忙。母親用堅固箱子裝了雞蛋，但提醒下雨天不一定方便運送。「或許得改變送貨時間。」她說。菲雅回答，她會用能安全取得的食材設計菜單。莫斯想到辦法：「我會做不用雞蛋的簡單麵包，皮普也能送水果。」把濕答答的早晨稱為好課程聽起來好笑，卻正是事實。 池塘裡一條魚游到水面附近。工人準備離開時，基特看了牠一會兒。",
+        "englishSha256": "3db4e504ea385022822be8bb629bfface8cc177d0d68e62cff8685f24369cc7f",
+        "chineseSha256": "6ea21882202d2726af3253f31a36d2626a6b1759925c052dcb393d404e7b35df"
+      },
+      {
+        "number": 4,
+        "en": "Back at the red house, Fia gave everybody a seat. She wanted to hear what had worked and what had not. Toma said the old stones had helped. Kit said the box was strong, but the cart wheels were too small for heavy mud. Moss said he could bake without eggs for one day, however he would need time to practice. Fia wrote their words in her book. \"When we open, people must know what food we have today,\" she said. \"We will not promise a meal that depends on a dangerous road.\" Everyone agreed, and the plan became a little safer.",
+        "zh": "回到紅屋，菲雅請大家坐下，想聽聽什麼方法有效、什麼無效。托馬說老石頭幫了忙。基特說箱子牢固，但車輪太小，不適合厚泥。莫斯說一天不加蛋也能烤麵包，不過仍需要練習時間。菲雅逐一記下。「營業後，大家必須知道當天能提供什麼，」她說，「我們不能承諾必須走危險道路才能做出的餐點。」大家都同意，計畫又安全了一點。",
+        "englishSha256": "d1083c43c98fa0614744425a760b9cb51fc97fdf31295364d862a451ccd36cda",
+        "chineseSha256": "cf5dcf4ea62b40d7b5fe55123b2aff3f1f9232d5839271b2d87680159ea30c74"
+      },
+      {
+        "number": 5,
+        "en": "Late that day, the rain stopped. Fia went outside and looked at the shop sign. She had wanted the words \"Welcome to Breakfast\" on it. Now she added a smaller line: \"Ask us what is fresh today.\" She hoped the words would make visitors feel welcome, not worried. A shop was a place to eat, but it was also a place where people could speak openly. If something changed, they should say so. Moss came out with a small loaf of bread. It had no eggs, but it smelled good. They shared it on the step and watched the water fall from the trees. Back inside, Moss wrote down how well the new dough had begun to rise before baking, and smiled at the small change in his recipe.",
+        "zh": "當天稍晚，雨停了。菲雅走到屋外看招牌。她原本想寫「歡迎來吃早餐」，現在又加上一行小字：「請問我們今天有什麼新鮮食物。」她希望這些字讓客人感到受歡迎，而不是擔心。店是吃飯的地方，也應是大家能坦白說話的地方。若有變動，就該告知。莫斯拿出一小條沒加蛋的麵包，聞起來很香。他們坐在門階分著吃，看樹上的水滴落下。 回到屋裡，莫斯記下新麵團在烘烤前順利發酵膨起的情形，為食譜的小改動而笑了。",
+        "englishSha256": "bc0054980956924fef702f4c3704d69012b40d374e14cb5be0aebacb0609000e",
+        "chineseSha256": "16e803286e7ba626f910cbdf641f52ad6998f0e515fb31b3017471f3b3d08df0"
+      },
+      {
+        "number": 6,
+        "en": "Before bed, Fia thought about the hard day. At first she had only wanted the eggs to arrive. By evening she understood a larger need: the shop had to work even when the world did not follow her plan. She put a dry copy of Toma's note in her book. Next to it she wrote two words, \"safe first.\" It was easy to say them when the sun was out. She hoped she would remember them when the next storm came. She turned off her light, ready to try again the next morning.",
+        "zh": "睡前，菲雅想起艱難的一天。早上她只希望雞蛋送達，晚上卻明白更大的需求：即使世界不照著她的計畫走，小店仍要能運作。她把托馬字條的乾燥副本收進本子，旁邊寫下「安全優先」。晴天時說這句話很容易；她希望下次暴風雨來時也能記得。她關掉燈，準備明早再試。",
+        "englishSha256": "ff2c8bb6757a8e6aec1477e7cc5c576bfd3c11598a95304e9451d20502a5ee38",
+        "chineseSha256": "862173e8dee5a49b7a5a2b8e4a7a6a3b08e2c2d2b6cab3146874a320b92ff30d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 663,
+    "targets": [
+      {
+        "word": "arm",
+        "meaning": "手臂",
+        "appearsInSource": true
+      },
+      {
+        "word": "convenient",
+        "meaning": "方便的",
+        "appearsInSource": true
+      },
+      {
+        "word": "deep",
+        "meaning": "深的",
+        "appearsInSource": true
+      },
+      {
+        "word": "desk",
+        "meaning": "書桌",
+        "appearsInSource": true
+      },
+      {
+        "word": "do",
+        "meaning": "做",
+        "appearsInSource": true
+      },
+      {
+        "word": "envelope",
+        "meaning": "信封",
+        "appearsInSource": true
+      },
+      {
+        "word": "find",
+        "meaning": "找出",
+        "appearsInSource": true
+      },
+      {
+        "word": "fish",
+        "meaning": "魚",
+        "appearsInSource": true
+      },
+      {
+        "word": "funny",
+        "meaning": "好笑的",
+        "appearsInSource": true
+      },
+      {
+        "word": "history",
+        "meaning": "歷史",
+        "appearsInSource": true
+      },
+      {
+        "word": "however",
+        "meaning": "然而",
+        "appearsInSource": true
+      },
+      {
+        "word": "may",
+        "meaning": "可能",
+        "appearsInSource": true
+      },
+      {
+        "word": "mud",
+        "meaning": "泥巴",
+        "appearsInSource": true
+      },
+      {
+        "word": "news",
+        "meaning": "消息",
+        "appearsInSource": true
+      },
+      {
+        "word": "rise",
+        "meaning": "升起",
+        "appearsInSource": true
+      },
+      {
+        "word": "seat",
+        "meaning": "座位",
+        "appearsInSource": true
+      },
+      {
+        "word": "shop",
+        "meaning": "店舖",
+        "appearsInSource": true
+      },
+      {
+        "word": "speak",
+        "meaning": "說話",
+        "appearsInSource": true
+      },
+      {
+        "word": "surprised",
+        "meaning": "驚訝的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Welcome",
+        "meaning": "歡迎",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why can Kit not bring the eggs at first?",
+      "options": [
+        "His cart is stuck in mud",
+        "He forgets his name",
+        "He has no eggs"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "His cart is stuck in mud",
+      "existingAnswerExplanation": "農場推車在泥地裡卡住。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A hard rain fell in the morning, and the path to the farm filled with mud. Fia stood at her desk and read the news from a small village paper. The farm cart could not come through the old road. Moss came into the shop with one arm wet and a worried face. \"What do we do about the eggs?\" he asked. Fia put the paper down. \"First we find out whether Kit is safe,\" she said. \"Then we can speak with his mother.\" The work was more important than any one breakfast, but no food was worth a friend getting hurt on the road.",
+          "chinese": "早上下起大雨，通往農場的小路滿是泥巴。菲雅站在書桌前，讀著村報的消息：農場推車無法經過舊路。莫斯走進店裡，一隻手臂被雨打濕，臉上很擔心。「那雞蛋怎麼辦？」他問。菲雅放下報紙。「先確認基特平安，」她說，「然後再跟他母親談。」工作很重要，但沒有任何早餐值得讓朋友在路上受傷。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 3,
+          "english": "The cart came free after a little work. Kit was surprised to see how many people had come to help. His mother had sent eggs in a strong box, but she told Fia that they might not be convenient to carry every rainy day. \"We may have to change our delivery time,\" she said. Fia answered that she would make the menu with food they could get safely. Moss had an idea. \"I can make a simple bread without eggs,\" he said. \"And Pip can bring fruit.\" It sounded funny to call a wet morning a good lesson, yet that was what it had become. At the pond, a fish rose near the top of the water. Kit watched it for a moment while the workers got ready to leave.",
+          "chinese": "大家忙了一會兒，推車終於脫困。基特很驚訝竟有這麼多人來幫忙。母親用堅固箱子裝了雞蛋，但提醒下雨天不一定方便運送。「或許得改變送貨時間。」她說。菲雅回答，她會用能安全取得的食材設計菜單。莫斯想到辦法：「我會做不用雞蛋的簡單麵包，皮普也能送水果。」把濕答答的早晨稱為好課程聽起來好笑，卻正是事實。 池塘裡一條魚游到水面附近。工人準備離開時，基特看了牠一會兒。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Moss make as a safe backup?",
+      "options": [
+        "Bread without eggs",
+        "Fish soup",
+        "A new cart"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Bread without eggs",
+      "existingAnswerExplanation": "莫斯提出做不用雞蛋的麵包作為備案。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The cart came free after a little work. Kit was surprised to see how many people had come to help. His mother had sent eggs in a strong box, but she told Fia that they might not be convenient to carry every rainy day. \"We may have to change our delivery time,\" she said. Fia answered that she would make the menu with food they could get safely. Moss had an idea. \"I can make a simple bread without eggs,\" he said. \"And Pip can bring fruit.\" It sounded funny to call a wet morning a good lesson, yet that was what it had become. At the pond, a fish rose near the top of the water. Kit watched it for a moment while the workers got ready to leave.",
+          "chinese": "大家忙了一會兒，推車終於脫困。基特很驚訝竟有這麼多人來幫忙。母親用堅固箱子裝了雞蛋，但提醒下雨天不一定方便運送。「或許得改變送貨時間。」她說。菲雅回答，她會用能安全取得的食材設計菜單。莫斯想到辦法：「我會做不用雞蛋的簡單麵包，皮普也能送水果。」把濕答答的早晨稱為好課程聽起來好笑，卻正是事實。 池塘裡一條魚游到水面附近。工人準備離開時，基特看了牠一會兒。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "Late that day, the rain stopped. Fia went outside and looked at the shop sign. She had wanted the words \"Welcome to Breakfast\" on it. Now she added a smaller line: \"Ask us what is fresh today.\" She hoped the words would make visitors feel welcome, not worried. A shop was a place to eat, but it was also a place where people could speak openly. If something changed, they should say so. Moss came out with a small loaf of bread. It had no eggs, but it smelled good. They shared it on the step and watched the water fall from the trees. Back inside, Moss wrote down how well the new dough had begun to rise before baking, and smiled at the small change in his recipe.",
+          "chinese": "當天稍晚，雨停了。菲雅走到屋外看招牌。她原本想寫「歡迎來吃早餐」，現在又加上一行小字：「請問我們今天有什麼新鮮食物。」她希望這些字讓客人感到受歡迎，而不是擔心。店是吃飯的地方，也應是大家能坦白說話的地方。若有變動，就該告知。莫斯拿出一小條沒加蛋的麵包，聞起來很香。他們坐在門階分著吃，看樹上的水滴落下。 回到屋裡，莫斯記下新麵團在烘烤前順利發酵膨起的情形，為食譜的小改動而笑了。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

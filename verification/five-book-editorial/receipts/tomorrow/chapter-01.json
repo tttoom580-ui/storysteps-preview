@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 1,
+  "chapterId": "tomorrow-1",
+  "sourceChapterSha256": "fe518ecd5bdc38a7cf186acbd5bf777b6ab2e6d132e02816e3eb8d0de31963b5",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "異常自傳訊息與六月失蹤背景；投票警告成立懸疑起點",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "I went to school. Of course I did. At sixteen, you can be afraid of something and still be more afraid of missing the thing everyone else will see. I told myself I was going because of the science test. I even carried my science book in my hand, as if the book could prove it. The rain had stopped, but the steps were still wet."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At ten past ten on Monday night, my phone showed me a new message. The name above it was Mia Chen. My name. The small picture was also mine: me at the beach, with one eye closed against the sun. I had not sent myself anything. A moment before, I had been trying to learn twelve English words. I knew three. I was bored. Now I could not look away from the screen.",
+        "zh": "星期一晚上十點十分，手機跳出一則新訊息。上面的名字是 Mia Chen——我的名字。小照片也是我：海邊的我，因為陽光而閉著一隻眼睛。我沒有傳東西給自己。就在剛才，我還在試著背十二個英文單字，只會其中三個，無聊得要命。現在，我的目光卻離不開螢幕。",
+        "englishSha256": "f338b7c6d9c8490702902a5bbd4cd0582f348102e74bb726126a38349e9df50b",
+        "chineseSha256": "9cd3e826ceb67d786f90febd40ef2ada453837766eec4d37d33c67437c47c9d8"
+      },
+      {
+        "number": 2,
+        "en": "The message came through Later, a little website our school had made. Last year, our class used it to write letters to our future selves. Mine said, Dear Future Mia, please stop losing your keys. This new letter was different. At the top, someone had written, Tuesday, 10:10 p.m. One day ahead. Below that were six English words. Don't come to school tomorrow. Please.",
+        "zh": "訊息來自 Later，一個學校做的小網站。去年，我們班用它寫信給未來的自己。我的信寫著：親愛的未來 Mia，拜託別再弄丟鑰匙。這封新信卻不同。頂端有人寫著：星期二，晚上十點十分。比現在晚一天。下面是一句由六個英文單字組成的話：「明天，別來學校。拜託。」",
+        "englishSha256": "d6bcd70ccf3bf56be3a217ae808e70b5105286d579412d0a4361d353a70da5a0",
+        "chineseSha256": "f717d1e5dc3ac657dc6a7f94cdd7378ea9a3adcde821b1d31dbfad5a930c78bd"
+      },
+      {
+        "number": 3,
+        "en": "I laughed once, without really finding it funny. Leo loved bad jokes. He had helped build Later, and he knew that I checked my phone far too often. I sent him a picture of the message. He answered with a photo of his math book. If I could talk to tomorrow, he wrote, I would ask for the answers to this. Then he called me.",
+        "zh": "我笑了一聲，卻不是真的覺得好笑。Leo 最愛爛笑話。他幫忙做過 Later，也知道我太常看手機。我把訊息截圖傳給他。他回了一張數學課本的照片，寫道：如果我能跟明天說話，我會問這題的答案。接著他打電話來。",
+        "englishSha256": "147767de47c6dbd883e75058be18275c411a23ffeafb084a0ab46aab6ed86143",
+        "chineseSha256": "f78412d2ab1dba7d6b1560328ac845e73ca2a6ceed655a1a76afdd438eee4192"
+      },
+      {
+        "number": 4,
+        "en": "“Did you click anything?” he asked. “Just the message.” “Don't delete it. I will look in the morning.” His voice sounded tired, not excited. If this was a joke, it was not one he enjoyed. Behind him, his little brother asked where the good scissors were. Leo covered the phone. I heard a cupboard close. For a moment, everything felt normal again.",
+        "zh": "「妳有按什麼嗎？」他問。「只有訊息。」「先別刪。我早上看看。」他的聲音很疲倦，不像興奮。如果這是玩笑，他並不享受。背景傳來弟弟問好剪刀在哪裡。Leo 遮住手機，我聽到櫥櫃關上的聲音。有一瞬間，一切又很正常。",
+        "englishSha256": "dae40cfb41a9cc62c693b9e92d662ad16164dcf6c96f1c88de1e745de6bf8db9",
+        "chineseSha256": "43a0db950a5a4866dc66e9ce281dfbff50d943d3a7b53fdcd8ae0ba061210710"
+      },
+      {
+        "number": 5,
+        "en": "Then a second message arrived. Tomorrow, at the first bell, look at the red scarf by the front gate. Don't follow the others. Under those words was a voice file, only four seconds long. I pressed play. My own voice came out, thin and quick. “June, wait. Give me the phone.” I stopped breathing for a moment. I had said those words six weeks ago.",
+        "zh": "接著第二則訊息到了。明天第一聲鐘響時，看看前門旁的紅圍巾。別跟著其他人。文字下有一段四秒的語音。我按下播放。自己的聲音傳出來，又細又急：「June，等等。把手機給我。」我一時忘了呼吸。六週前，我說過這些話。",
+        "englishSha256": "2d2bc533c3cd61ef950ba6881248b5ebd5b3aaabd409aef64f53759702d168a9",
+        "chineseSha256": "86bcf64b85bb2409eeaf6bdef6a5bbe37ff77b2fc6407b6ed3ab2bf169c7ed0a"
+      },
+      {
+        "number": 6,
+        "en": "That was the last afternoon June came to school. People said she had taken money from the student room. People said there was a video. People said she had run away because everyone at school believed the story about her. I had seen twelve seconds of that video. I had also pressed a button under it, the button that said I believe this. I told myself it was only a vote.",
+        "zh": "那是 June 最後一次到學校的下午。大家說她拿了學生會辦公室的錢，說有影片，說她因為全校都相信那些傳言而離開。我看過那段影片的十二秒，也按過底下寫著「我相信」的按鈕。我告訴自己，那只是投票。",
+        "englishSha256": "99cd76881be56d3b291db4af15f711767a4a4c93b951ec817f10f7a74e964501",
+        "chineseSha256": "07ff87f3179e8d69650aed35f2643678d0c83439b49a3f078c7c75e759394a2c"
+      },
+      {
+        "number": 7,
+        "en": "“Mia?” Leo was still on the call. “What happened?” I wanted to tell him about the voice. Instead, I said my mother was calling. I put the phone face down beside my book. The twelve English words waited under the light. One of them was return. I had written 回來 beside it. I looked at that word until the two Chinese characters seemed to lose their familiar shape.",
+        "zh": "「Mia？」Leo 還在線上。「怎麼了？」我想告訴他語音的事，卻說媽媽在叫我。我把手機翻面，放到課本旁。十二個單字等在燈光下，其中一個是 return。我在旁邊寫了「回來」。我盯著它，直到那兩個中文字彷彿失去了熟悉的形狀。",
+        "englishSha256": "0e51fb997776e7a63158b412fecb6075f7f49a5f336136be128c37dfe9acd185",
+        "chineseSha256": "c721b4a4f33dfbf77f6e4b0591f477f7999038def3b5d0b64b321f0411caea69"
+      },
+      {
+        "number": 8,
+        "en": "My mother knocked and came in with warm milk. She asked if I had finished studying. I said almost. When she left, I opened June's old chat. My last message was still there: Is it true? She had never answered. I wrote, Are you okay? Then I erased it. Outside, rain tapped the glass. My phone lit up one more time. This time, there were only three words. You voted too.",
+        "zh": "媽媽敲門，端著熱牛奶進來，問我讀完了沒。我說快了。她離開後，我打開與 June 的舊對話。最後一則訊息還在：是真的嗎？她從來沒回。我打下「妳還好嗎」，又刪掉。窗外雨滴輕敲玻璃。手機再次亮起，這次只有三個英文單字：妳也投了票。",
+        "englishSha256": "92601b81f2f8b58b3987d3df5d15dd9edf7ee9c582676847e209ae8bd52e26ed",
+        "chineseSha256": "4219fd7dd47b222c396d55025a0a7349d6ec9cb3dfa3c4e8d2bfd334d6074243"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 538,
+    "targets": [
+      {
+        "word": "beach",
+        "meaning": "海灘",
+        "appearsInSource": true
+      },
+      {
+        "word": "behind",
+        "meaning": "在……後面",
+        "appearsInSource": true
+      },
+      {
+        "word": "believe",
+        "meaning": "相信",
+        "appearsInSource": true
+      },
+      {
+        "word": "bell",
+        "meaning": "鐘；鈴聲",
+        "appearsInSource": true
+      },
+      {
+        "word": "below",
+        "meaning": "在……下方",
+        "appearsInSource": true
+      },
+      {
+        "word": "book",
+        "meaning": "書",
+        "appearsInSource": true
+      },
+      {
+        "word": "bored",
+        "meaning": "感到無聊的",
+        "appearsInSource": true
+      },
+      {
+        "word": "brother",
+        "meaning": "兄弟",
+        "appearsInSource": true
+      },
+      {
+        "word": "build",
+        "meaning": "建造；建立",
+        "appearsInSource": true
+      },
+      {
+        "word": "button",
+        "meaning": "按鈕；鈕扣",
+        "appearsInSource": true
+      },
+      {
+        "word": "excited",
+        "meaning": "興奮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "learn",
+        "meaning": "學習",
+        "appearsInSource": true
+      },
+      {
+        "word": "milk",
+        "meaning": "牛奶",
+        "appearsInSource": true
+      },
+      {
+        "word": "often",
+        "meaning": "經常",
+        "appearsInSource": true
+      },
+      {
+        "word": "quick",
+        "meaning": "快的",
+        "appearsInSource": true
+      },
+      {
+        "word": "run",
+        "meaning": "跑；運作",
+        "appearsInSource": true
+      },
+      {
+        "word": "shape",
+        "meaning": "形狀",
+        "appearsInSource": true
+      },
+      {
+        "word": "sun",
+        "meaning": "太陽",
+        "appearsInSource": true
+      },
+      {
+        "word": "thin",
+        "meaning": "薄的；瘦的",
+        "appearsInSource": true
+      },
+      {
+        "word": "wait",
+        "meaning": "等待",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What makes Mia take the message seriously?",
+      "options": [
+        "It contains her voice from the day June left.",
+        "It gives her the answers to math homework.",
+        "Her mother says it is true."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It contains her voice from the day June left.",
+      "existingAnswerExplanation": "It contains her voice from the day June left.\n校訂核對（第 5 段）：My own voice came out, thin and quick.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The message came through Later, a little website our school had made. Last year, our class used it to write letters to our future selves. Mine said, Dear Future Mia, please stop losing your keys. This new letter was different. At the top, someone had written, Tuesday, 10:10 p.m. One day ahead. Below that were six English words. Don't come to school tomorrow. Please.",
+          "chinese": "訊息來自 Later，一個學校做的小網站。去年，我們班用它寫信給未來的自己。我的信寫著：親愛的未來 Mia，拜託別再弄丟鑰匙。這封新信卻不同。頂端有人寫著：星期二，晚上十點十分。比現在晚一天。下面是一句由六個英文單字組成的話：「明天，別來學校。拜託。」",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 5,
+          "english": "Then a second message arrived. Tomorrow, at the first bell, look at the red scarf by the front gate. Don't follow the others. Under those words was a voice file, only four seconds long. I pressed play. My own voice came out, thin and quick. “June, wait. Give me the phone.” I stopped breathing for a moment. I had said those words six weeks ago.",
+          "chinese": "接著第二則訊息到了。明天第一聲鐘響時，看看前門旁的紅圍巾。別跟著其他人。文字下有一段四秒的語音。我按下播放。自己的聲音傳出來，又細又急：「June，等等。把手機給我。」我一時忘了呼吸。六週前，我說過這些話。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Mia do with the message she starts writing to June?",
+      "options": [
+        "She sends it to the whole class.",
+        "She erases it before sending.",
+        "She asks her mother to send it."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "She erases it before sending.",
+      "existingAnswerExplanation": "章末，米雅輸入 Are you okay? 後又刪掉，沒有送出。\n校訂核對（第 8 段）：Then I erased it.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "At ten past ten on Monday night, my phone showed me a new message. The name above it was Mia Chen. My name. The small picture was also mine: me at the beach, with one eye closed against the sun. I had not sent myself anything. A moment before, I had been trying to learn twelve English words. I knew three. I was bored. Now I could not look away from the screen.",
+          "chinese": "星期一晚上十點十分，手機跳出一則新訊息。上面的名字是 Mia Chen——我的名字。小照片也是我：海邊的我，因為陽光而閉著一隻眼睛。我沒有傳東西給自己。就在剛才，我還在試著背十二個英文單字，只會其中三個，無聊得要命。現在，我的目光卻離不開螢幕。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 2,
+          "english": "The message came through Later, a little website our school had made. Last year, our class used it to write letters to our future selves. Mine said, Dear Future Mia, please stop losing your keys. This new letter was different. At the top, someone had written, Tuesday, 10:10 p.m. One day ahead. Below that were six English words. Don't come to school tomorrow. Please.",
+          "chinese": "訊息來自 Later，一個學校做的小網站。去年，我們班用它寫信給未來的自己。我的信寫著：親愛的未來 Mia，拜託別再弄丟鑰匙。這封新信卻不同。頂端有人寫著：星期二，晚上十點十分。比現在晚一天。下面是一句由六個英文單字組成的話：「明天，別來學校。拜託。」",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

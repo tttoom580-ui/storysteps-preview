@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 21,
+  "chapterId": "ss-r10-l2-b-21",
+  "sourceChapterSha256": "017b38245023fcc98581dd66711d008083a52e2df5501ae76325022945bd916f",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "六週後畢業交接，新團隊學會權限；安澤有外地工作邀請",
+    "previousChapterEndingEnglish": "On the walk home, Evan admitted that he had once wanted the biggest sound system in the city. Now he wanted a room that people could safely leave when they were done listening. May smiled and said she wanted the same thing. He took her hand, and she leaned lightly against his shoulder. A future did not seem to require a perfect building or a rich sponsor. It required people who would keep choosing one another, and who could still say no when the next tempting offer appeared.",
+    "nextChapterOpeningEnglish": "A typhoon crossed the coast two weeks before the final market event. Wind damaged the roof of a storage room, and water reached the bottom shelf. May could not travel anywhere until the weather office announced that roads were safe. Evan stayed home too, despite a worried message from a friend who wanted to check the equipment in an instant. Mrs. Fen called both students and asked them to wait. “There is no recording worth a life,” she said. The latter part of the storm brought heavier rain, and they were relieved that nobody had gone near the building."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The students had only six weeks left before graduation, so they began teaching a new team to handle the archive. May wrote the introduction on a blackboard: “A recording is a loan of trust, not a gift of a person.” Evan brought the old listening instrument and asked the trainees to review how it worked. A new member wanted to lend the player to another club without checking permission. May explained that equipment could travel more easily than voices. Neither a good purpose nor a friendly request changed the limits on a file. The trainees took notes, and the room gradually became less dependent on its founders.",
+        "zh": "距離畢業只剩六週，學生們開始訓練接手檔案的新團隊。慧在黑板寫下引言：「錄音是信任的借用，不是把一個人送給別人。」安澤拿來舊的聆聽儀器，請學員複習操作。一名新成員想把播放機借給別的社團，卻沒想到要核對授權。慧解釋，設備比人的聲音更容易移動。好目的與友善請求，都不會改變檔案的使用限制。學員們記下重點，這個房間漸漸不再只依賴創辦者。",
+        "englishSha256": "097f45fa03d58c198cff079bc61b318cb53566fa274610da8bc2d4c5c519c719",
+        "chineseSha256": "16f1c85b6485f5ac08b51c214d94c9a20dbbe2df0c5191330ee209617a4c357b"
+      },
+      {
+        "number": 2,
+        "en": "One trainee read a magazine article about a lone singer who had become famous after a recording was shared online. She asked whether their project could create the same success. Evan said success could not be promised, and it should not be used as an excuse to ignore consent. At lunch, a salesperson from the next street offered steak sandwiches and hot tea to the volunteers. Mrs. Fen sent a basket of soap for the cleaning table. May thanked them all but reminded the students that gifts must be recorded in the public account. Pride in a project did not make it free of questions.",
+        "zh": "一名學員讀到雜誌文章，說有位獨唱者因網路錄音而走紅。她問計畫能否創造同樣的成功。安澤說，不能保證成名，更不能以成功作藉口忽略同意。午餐時，隔壁街的銷售員送來牛排三明治和熱茶，芬姨也送了一籃肥皂，放在清潔桌。慧向所有人道謝，卻提醒學生，收到的禮物都要記在公開帳上。對計畫感到驕傲，不代表它不再需要接受提問。",
+        "englishSha256": "15e38c7befd76434d0d67f4682754b1db17a2e94f8478d601160fa9de6ab2503",
+        "chineseSha256": "9725f0c8398a8aeb53ba9b39a8259150e26be70b5817eebf42fe72b2d469e067"
+      },
+      {
+        "number": 3,
+        "en": "A child visiting with her mother carried a blanket printed with a goat. She asked to hear a recording from a distant village, where her grandfather had once worked. May looked up the approval and showed the mother the permitted version. The child's face lit up when she heard a familiar bell. Then she said the story was dull because it contained only a few seconds of sound. Mrs. Fen laughed gently. “Sometimes a short thing is all someone wishes to share,” she said. The child listened again, this time without asking for more. Evan wrote the exchange down as a useful example for the training guide.",
+        "zh": "一個跟母親來訪的孩子抱著印有山羊的毯子。她想聽遠方村莊的錄音，因為祖父以前在那裡工作。慧查了授權，讓母親看可以播放的版本。聽到熟悉的鐘聲時，孩子眼睛亮了起來，接著卻說故事很無聊，因為只有幾秒聲音。芬姨溫柔笑說：「有時一個人就只想分享這麼短。」孩子又聽了一次，這回沒有要求更多。安澤把這段對話記下來，當成培訓指南的好例子。",
+        "englishSha256": "53303c25a6a1c8c1f42a04e9fb6138517f56a179755b2dfd86efbb7bd068b8d4",
+        "chineseSha256": "7b6ccfffbc04ac065565431cd8fb200b088876162fe86dd72f8729ca4b486f72"
+      },
+      {
+        "number": 4,
+        "en": "At the last meeting of the day, the trainees worked in pairs to answer a sample removal request. May watched one student read the text slowly while the other checked the file list. She noticed that the new team already had its own strengths. It did not need to copy her voice or Evan's way of moving quickly. Evan looked at her as the room filled with questions and careful answers. For the first time, leaving the project did not feel like abandoning it. It felt like opening a door and seeing people ready on the other side.",
+        "zh": "當天最後的會議，學員兩人一組，練習處理模擬撤回申請。慧看著一人慢慢閱讀文字，另一人核對檔案清單。她發現新團隊已有自己的長處，不必複製她的說話方式，也不必照搬安澤快速工作的習慣。安澤看著滿屋子的提問與仔細回答，與慧交換眼神。第一次，離開計畫不再像拋棄它，而像打開一扇門，發現另一側已有人準備好接手。",
+        "englishSha256": "d5be75f8ba4198f5176ce7977e278c00691073035633f36f9184c2d819f9ef99",
+        "chineseSha256": "5eda6c804347897bfd30a5351ef48516246301baf4b81383d15ec7712ed29ddc"
+      },
+      {
+        "number": 5,
+        "en": "The new team prepared one somewhat unusual exercise: they asked each trainee to write a request that might make them uncomfortable to answer. One pretended to be a family member who wanted every old recording. Another acted as a visitor who disliked written guides and demanded a private tour. May told them to speak respectfully even when the answer was no. Evan asked them to explain which rules applied, then give the person a practical next step. They practiced until the replies sounded like conversations rather than cold notices. Mrs. Fen watched from the door, pleased that young people were learning to protect boundaries without using shame. When the exercise ended, May looked at the neat stack of forms and felt that the archive had begun to develop a voice of its own, one not tied to either founder.",
+        "zh": "新團隊準備了有點不尋常的練習：每位學員寫出一個自己可能不太敢回答的申請。有人扮演想拿走所有老錄音的家人；有人扮演討厭紙本導覽、要求私人參觀的訪客。慧請大家即使答案是不，也要有禮貌。安澤則請他們說出適用規則，再提供可行的下一步。大家反覆練到回覆聽起來像對話，而不是冰冷公告。芬姨在門邊看著，很高興年輕人學會保護界線卻不羞辱他人。練習結束，慧望著整齊表單，覺得檔案計畫已開始有自己的聲音，而非只屬於兩位創辦者。",
+        "englishSha256": "db27cbcc777a7b20b5e79f940043f9541df0b3d2faf31931b0d3cc16cd108385",
+        "chineseSha256": "f163c9525f483dcf2bc00fca8f3177cc4687d18b0297fff8be9a894fd5600b95"
+      },
+      {
+        "number": 6,
+        "en": "When the others left, Evan said he had been offered a sound job in a city two hours away. May congratulated him, but her smile came slowly. She had an interview for a local teaching program next week. They sat without speaking for a minute. Then she said, “I want you to choose what is right for your work.” He answered that he wanted the same for her. They did not turn their different roads into an argument. The question of distance was real, but it could wait until both had facts rather than fears.",
+        "zh": "其他人離開後，安澤說他得到外地一份聲音工作的邀請，城市距這裡約兩小時。慧祝賀他，笑容卻來得有些慢。她下週也要參加本地教學計畫的面試。兩人沉默坐了一分鐘。接著慧說：「我希望你選擇對工作最好的路。」他回答，也希望她如此。他們沒有把兩條不同道路立刻變成爭吵。距離是實際問題，但可以等雙方掌握事實，而不是只靠恐懼來決定。",
+        "englishSha256": "59e7b44f6fede450c492adb74a691d6b9ecbf1abcfa8b5011c2426cc181d2c02",
+        "chineseSha256": "704bc44a36bff010658424d1ed2cad89f030e9601679a3378ed7000195255e43"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 651,
+    "targets": [
+      {
+        "word": "blackboard",
+        "meaning": "黑板",
+        "appearsInSource": true
+      },
+      {
+        "word": "blanket",
+        "meaning": "毯子",
+        "appearsInSource": true
+      },
+      {
+        "word": "distant",
+        "meaning": "遙遠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dull",
+        "meaning": "無趣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "excuse",
+        "meaning": "藉口",
+        "appearsInSource": true
+      },
+      {
+        "word": "goat",
+        "meaning": "山羊",
+        "appearsInSource": true
+      },
+      {
+        "word": "handle",
+        "meaning": "處理",
+        "appearsInSource": true
+      },
+      {
+        "word": "instrument",
+        "meaning": "儀器",
+        "appearsInSource": true
+      },
+      {
+        "word": "introduction",
+        "meaning": "介紹",
+        "appearsInSource": true
+      },
+      {
+        "word": "lend",
+        "meaning": "借出",
+        "appearsInSource": true
+      },
+      {
+        "word": "lone",
+        "meaning": "獨自的",
+        "appearsInSource": true
+      },
+      {
+        "word": "magazine",
+        "meaning": "雜誌",
+        "appearsInSource": true
+      },
+      {
+        "word": "Neither",
+        "meaning": "兩者都不",
+        "appearsInSource": true
+      },
+      {
+        "word": "Pride",
+        "meaning": "自豪",
+        "appearsInSource": true
+      },
+      {
+        "word": "review",
+        "meaning": "複習；檢視",
+        "appearsInSource": true
+      },
+      {
+        "word": "salesperson",
+        "meaning": "銷售員",
+        "appearsInSource": true
+      },
+      {
+        "word": "soap",
+        "meaning": "肥皂",
+        "appearsInSource": true
+      },
+      {
+        "word": "somewhat",
+        "meaning": "有點",
+        "appearsInSource": true
+      },
+      {
+        "word": "steak",
+        "meaning": "牛排",
+        "appearsInSource": true
+      },
+      {
+        "word": "text",
+        "meaning": "文字",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What was the main purpose of the new team's training?",
+      "options": [
+        "To continue the archive after graduation",
+        "To win a music prize",
+        "To sell old equipment"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To continue the archive after graduation",
+      "existingAnswerExplanation": "兩位主角即將畢業，訓練新人是為了可持續交接。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The students had only six weeks left before graduation, so they began teaching a new team to handle the archive. May wrote the introduction on a blackboard: “A recording is a loan of trust, not a gift of a person.” Evan brought the old listening instrument and asked the trainees to review how it worked. A new member wanted to lend the player to another club without checking permission. May explained that equipment could travel more easily than voices. Neither a good purpose nor a friendly request changed the limits on a file. The trainees took notes, and the room gradually became less dependent on its founders.",
+          "chinese": "距離畢業只剩六週，學生們開始訓練接手檔案的新團隊。慧在黑板寫下引言：「錄音是信任的借用，不是把一個人送給別人。」安澤拿來舊的聆聽儀器，請學員複習操作。一名新成員想把播放機借給別的社團，卻沒想到要核對授權。慧解釋，設備比人的聲音更容易移動。好目的與友善請求，都不會改變檔案的使用限制。學員們記下重點，這個房間漸漸不再只依賴創辦者。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 3,
+          "english": "A child visiting with her mother carried a blanket printed with a goat. She asked to hear a recording from a distant village, where her grandfather had once worked. May looked up the approval and showed the mother the permitted version. The child's face lit up when she heard a familiar bell. Then she said the story was dull because it contained only a few seconds of sound. Mrs. Fen laughed gently. “Sometimes a short thing is all someone wishes to share,” she said. The child listened again, this time without asking for more. Evan wrote the exchange down as a useful example for the training guide.",
+          "chinese": "一個跟母親來訪的孩子抱著印有山羊的毯子。她想聽遠方村莊的錄音，因為祖父以前在那裡工作。慧查了授權，讓母親看可以播放的版本。聽到熟悉的鐘聲時，孩子眼睛亮了起來，接著卻說故事很無聊，因為只有幾秒聲音。芬姨溫柔笑說：「有時一個人就只想分享這麼短。」孩子又聽了一次，這回沒有要求更多。安澤把這段對話記下來，當成培訓指南的好例子。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What news did Evan give May?",
+      "options": [
+        "He had a job offer in another city",
+        "He had lost the market key",
+        "He was leaving school forever"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He had a job offer in another city",
+      "existingAnswerExplanation": "安澤收到兩小時車程外的聲音工作邀請。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "The new team prepared one somewhat unusual exercise: they asked each trainee to write a request that might make them uncomfortable to answer. One pretended to be a family member who wanted every old recording. Another acted as a visitor who disliked written guides and demanded a private tour. May told them to speak respectfully even when the answer was no. Evan asked them to explain which rules applied, then give the person a practical next step. They practiced until the replies sounded like conversations rather than cold notices. Mrs. Fen watched from the door, pleased that young people were learning to protect boundaries without using shame. When the exercise ended, May looked at the neat stack of forms and felt that the archive had begun to develop a voice of its own, one not tied to either founder.",
+          "chinese": "新團隊準備了有點不尋常的練習：每位學員寫出一個自己可能不太敢回答的申請。有人扮演想拿走所有老錄音的家人；有人扮演討厭紙本導覽、要求私人參觀的訪客。慧請大家即使答案是不，也要有禮貌。安澤則請他們說出適用規則，再提供可行的下一步。大家反覆練到回覆聽起來像對話，而不是冰冷公告。芬姨在門邊看著，很高興年輕人學會保護界線卻不羞辱他人。練習結束，慧望著整齊表單，覺得檔案計畫已開始有自己的聲音，而非只屬於兩位創辦者。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "The students had only six weeks left before graduation, so they began teaching a new team to handle the archive. May wrote the introduction on a blackboard: “A recording is a loan of trust, not a gift of a person.” Evan brought the old listening instrument and asked the trainees to review how it worked. A new member wanted to lend the player to another club without checking permission. May explained that equipment could travel more easily than voices. Neither a good purpose nor a friendly request changed the limits on a file. The trainees took notes, and the room gradually became less dependent on its founders.",
+          "chinese": "距離畢業只剩六週，學生們開始訓練接手檔案的新團隊。慧在黑板寫下引言：「錄音是信任的借用，不是把一個人送給別人。」安澤拿來舊的聆聽儀器，請學員複習操作。一名新成員想把播放機借給別的社團，卻沒想到要核對授權。慧解釋，設備比人的聲音更容易移動。好目的與友善請求，都不會改變檔案的使用限制。學員們記下重點，這個房間漸漸不再只依賴創辦者。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

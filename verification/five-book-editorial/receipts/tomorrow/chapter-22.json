@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 22,
+  "chapterId": "tomorrow-22",
+  "sourceChapterSha256": "c5e1e7deb18e0ed536fcdf240357143f56a864433e40f77290cd68a63eb6c315",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "新剪輯片被更正，並要求相同群組補發澄清",
+    "previousChapterEndingEnglish": "For a moment, nothing happened. The quiet was not a punishment. It was simply space where a vote might once have been. I walked behind the curtain, and Leo handed me water without saying I had done well. On the table beside it lay a folded paper bird. One wing was badly bent. Inside, in June's small handwriting, were five words. Thank you for stopping there.",
+    "nextChapterOpeningEnglish": "Two weeks passed. The correction stayed at the top of the school page. It was also sent to the class groups through teachers, not left for students to discover by chance. Some old clips remained on private phones. The school could ask people to remove them, but it could not promise that every copy had vanished. I liked the honest limit more than a bright promise nobody could keep."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The show went on. A first-year student played the piano on a real piano, which did not need the broken sound system. Two dancers missed the same step and laughed without looking ashamed. The hall slowly became an ordinary hall again. I was glad. June's morning did not have to swallow everyone else's. She had left with her mother before the first song ended, exactly as she had chosen.",
+        "zh": "表演繼續。新生用真正鋼琴演奏，不需要壞音響。兩個舞者同時跳錯一步，不害羞地笑。禮堂慢慢又變普通禮堂，我很高興。June 的早上不必吞掉其他人的。第一首歌沒完，她就和媽媽離開，完全照自己的選擇。",
+        "englishSha256": "f65f19d8159f50757387797b412e9e191689d3e08fdc412107e79f62d588dbfa",
+        "chineseSha256": "60f42a12c435ddabd67d734fe12bbaeee5f26fe7257ed8ffe04770ea5df1be47"
+      },
+      {
+        "number": 2,
+        "en": "At lunch, people spoke to me in three different ways. Some were kind too quickly. Some avoided my eyes. Some asked questions as if I now worked at a desk marked June Information. I practiced one answer: “The correction is on the school page. Her private life isn't mine to share.” It felt awkward the first time. By the fourth, I could say it without adding a nervous laugh.",
+        "zh": "午餐時別人用三種方式對我：太快的友善、避開眼神，或像我坐在「June 諮詢台」般提問。我練一句回答：「更正在學校網站，她的私生活不是我的可以分享。」第一次很彆扭，第四次已不必加緊張的笑。",
+        "englishSha256": "de1242bd655724cab48c6d41f12491d34b57fdc9df280332be2577a5c4ff59a3",
+        "chineseSha256": "5b5af2352877d8c789d5f7d56b48acdf83809ce868633a42330f3b76e1039b10"
+      },
+      {
+        "number": 3,
+        "en": "Then someone showed me a new clip. It was seven seconds of my statement, taken from the raised phone. I am not the person who made the page. The rest was cut away. Above it, a caption said, Mia says none of it is her fault. For a moment, all the air left me. After everything that morning, the same small trick still worked. Seven seconds instead of twelve.",
+        "zh": "有人給我看新片段，是那支舉起的手機拍的七秒：我不是做網站的人。後面被剪掉，標題是 Mia 說完全不是她的錯。空氣瞬間離開我。早上發生那麼多，同樣的小把戲仍管用，只是十二秒變七秒。",
+        "englishSha256": "a0193afced7531897403cd5e1c6ef9d203fefa1a9bea71ead9bb1c57287f3212",
+        "chineseSha256": "fbaeda3c68b3a6105cd2b01e1a4e1cdfcb0a6364244f37d0dc5f5ca764278b29"
+      },
+      {
+        "number": 4,
+        "en": "My first thought was to post the whole recording. But I had no recording, and I was not sorry that I had asked people not to film us. I sent the post to Ms Lin and asked the student who shared it to link the full written statement. I posted that statement on my own account with a short explanation of what had been removed. I did not send people after the person who filmed it.",
+        "zh": "第一念頭是發完整錄影，但我沒有，也不後悔請大家別拍。我把貼文交林老師，請分享的學生放完整文字聲明連結，自己帳號也發布全文，簡短解釋被刪什麼，沒叫人圍攻拍攝者。",
+        "englishSha256": "85c1d48e6e550c5f89746c5c342b0618eafbeb3252c3f08949343127c9754298",
+        "chineseSha256": "4c62484d29b9ead0fd3a5871d935b4c0eefc60f6e8f82ef981542b0939eaffaf"
+      },
+      {
+        "number": 5,
+        "en": "The clip did not disappear immediately. A few people argued under my correction. One wrote that a long statement was boring. I wanted to tell them my life was not responsible for keeping them entertained. Instead I closed the app and went to the library. Leo was there, building a tower from three erasers. He pushed one toward me. I added it to the top. The tower fell.",
+        "zh": "短片沒立刻消失。更正下有人爭辯，有人說長聲明很無聊。我想說，我的人生不負責娛樂你。最後只是關程式去圖書館。Leo 用三塊橡皮擦蓋塔，推一塊給我。我放上去，塔倒了。",
+        "englishSha256": "10561a7ef429c1b8662df9dbae1b89e1d33505a51c19d84bb55f646811e29473",
+        "chineseSha256": "f63474445cdb32f2bc3206b5a4b23e232405261aae4405eb1c3d522e0c5635c7"
+      },
+      {
+        "number": 6,
+        "en": "“Bad design,” he said. “Strong effort,” I answered. We laughed harder than the joke deserved. Then I cried, suddenly and without doing it well. Leo moved the tissue box within reach and looked at the window. He did not ask me to stop. I cried for June, for myself, and for the fact that knowing better did not mean the next hurt would miss us.",
+        "zh": "「設計不良。」「努力可嘉。」我們笑得比笑話值得的還多。接著我突然哭了，哭得很難看。Leo 把衛生紙推近，看向窗戶，沒叫我停。我為 June、自己，以及「懂了也不代表下次傷害不會擊中」而哭。",
+        "englishSha256": "8a1fb0cc807cf2a0541ae47c4496549bb400f190d8c5fb340830e0bc9252434d",
+        "chineseSha256": "aa8b4c4654d665419b2c6c01f97dd7d040d016f176dbb6eeffda89f0a4af5abc"
+      },
+      {
+        "number": 7,
+        "en": "After a while, my phone lit up. June had seen the cut clip through her mother, who was helping collect reports. She wrote, It is still your voice, even when someone cuts it. You can keep saying the rest. I read the message twice. Then I replied, I am sorry I learned this so late. She answered, Me too. It was not a warm message. It was an honest one.",
+        "zh": "過一會手機亮起。June 媽媽正協助蒐集回報，June 透過她看見剪片。她寫：就算有人剪掉，仍是妳的聲音，妳可以繼續把後面說完。我讀兩次，回：對不起，我這麼晚才懂。她回：我也是。不是溫暖的訊息，卻是誠實的。",
+        "englishSha256": "b0dc3e56dde52a5249b5e30deff1c07448dfc0359faad7714f09ce2c7cbc8eb1",
+        "chineseSha256": "c20fcf3263cd347470ca3e24296b6cd83326a07bc59bd39194cc47b5317a9227"
+      },
+      {
+        "number": 8,
+        "en": "That afternoon, a student I barely knew stopped at my desk. “I shared the old June video,” he said. “Where should I put the correction?” I showed him the link and asked him to share it in the same groups. He wrote it down. One person. No rising bar. No loud success. On Monday, I would have thought it was too small to matter. On Friday, I made room for it.",
+        "zh": "下午，一個不熟的學生停在桌旁。「我分享過 June 舊片，更正該放哪？」我給連結，請他分享到相同群組。他寫下。一個人，沒有上升長條，沒有響亮勝利。星期一我會覺得小到不重要，星期五，我為它留了位置。",
+        "englishSha256": "9369f19e67935e5a662dd826f2b1dda9d85254cf12a87fe78cecc8a0f452788f",
+        "chineseSha256": "a314c2eeb62e92bd8acf5fcc34f8aaf887b2ccb952cd312d89e1848d45dc8f20"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 557,
+    "targets": [
+      {
+        "word": "afternoon",
+        "meaning": "下午",
+        "appearsInSource": true
+      },
+      {
+        "word": "air",
+        "meaning": "空氣",
+        "appearsInSource": true
+      },
+      {
+        "word": "answer",
+        "meaning": "答案；回答",
+        "appearsInSource": true
+      },
+      {
+        "word": "bad",
+        "meaning": "壞的；糟糕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "boring",
+        "meaning": "無聊的",
+        "appearsInSource": true
+      },
+      {
+        "word": "collect",
+        "meaning": "收集",
+        "appearsInSource": true
+      },
+      {
+        "word": "glad",
+        "meaning": "高興的",
+        "appearsInSource": true
+      },
+      {
+        "word": "joke",
+        "meaning": "笑話；玩笑",
+        "appearsInSource": true
+      },
+      {
+        "word": "laugh",
+        "meaning": "笑",
+        "appearsInSource": true
+      },
+      {
+        "word": "matter",
+        "meaning": "事情；有關係；重要",
+        "appearsInSource": true
+      },
+      {
+        "word": "miss",
+        "meaning": "想念；錯過",
+        "appearsInSource": true
+      },
+      {
+        "word": "piano",
+        "meaning": "鋼琴",
+        "appearsInSource": true
+      },
+      {
+        "word": "reach",
+        "meaning": "到達；伸手",
+        "appearsInSource": true
+      },
+      {
+        "word": "strong",
+        "meaning": "強壯的；強烈的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tell",
+        "meaning": "告訴",
+        "appearsInSource": true
+      },
+      {
+        "word": "top",
+        "meaning": "頂端",
+        "appearsInSource": true
+      },
+      {
+        "word": "twice",
+        "meaning": "兩次",
+        "appearsInSource": true
+      },
+      {
+        "word": "under",
+        "meaning": "在……下面",
+        "appearsInSource": true
+      },
+      {
+        "word": "warm",
+        "meaning": "溫暖的",
+        "appearsInSource": true
+      },
+      {
+        "word": "well",
+        "meaning": "好地；健康的；嗯",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "How does Mia respond to the new cut clip?",
+      "options": [
+        "She shares her full written statement and reports the misleading post.",
+        "She asks everyone to attack the person who filmed it.",
+        "She posts June’s private videos."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "She shares her full written statement and reports the misleading post.",
+      "existingAnswerExplanation": "She shares her full written statement and reports the misleading post.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "My first thought was to post the whole recording. But I had no recording, and I was not sorry that I had asked people not to film us. I sent the post to Ms Lin and asked the student who shared it to link the full written statement. I posted that statement on my own account with a short explanation of what had been removed. I did not send people after the person who filmed it.",
+          "chinese": "第一念頭是發完整錄影，但我沒有，也不後悔請大家別拍。我把貼文交林老師，請分享的學生放完整文字聲明連結，自己帳號也發布全文，簡短解釋被刪什麼，沒叫人圍攻拍攝者。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 3,
+          "english": "Then someone showed me a new clip. It was seven seconds of my statement, taken from the raised phone. I am not the person who made the page. The rest was cut away. Above it, a caption said, Mia says none of it is her fault. For a moment, all the air left me. After everything that morning, the same small trick still worked. Seven seconds instead of twelve.",
+          "chinese": "有人給我看新片段，是那支舉起的手機拍的七秒：我不是做網站的人。後面被剪掉，標題是 Mia 說完全不是她的錯。空氣瞬間離開我。早上發生那麼多，同樣的小把戲仍管用，只是十二秒變七秒。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Where does Mia ask a student to share the correction?",
+      "options": [
+        "Only in an unrelated game group.",
+        "In the same groups where he shared the old video.",
+        "Nowhere, because the old video was accurate."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "In the same groups where he shared the old video.",
+      "existingAnswerExplanation": "她請那位曾轉傳舊影片的學生，把更正連結傳到原本那些群組。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "That afternoon, a student I barely knew stopped at my desk. “I shared the old June video,” he said. “Where should I put the correction?” I showed him the link and asked him to share it in the same groups. He wrote it down. One person. No rising bar. No loud success. On Monday, I would have thought it was too small to matter. On Friday, I made room for it.",
+          "chinese": "下午，一個不熟的學生停在桌旁。「我分享過 June 舊片，更正該放哪？」我給連結，請他分享到相同群組。他寫下。一個人，沒有上升長條，沒有響亮勝利。星期一我會覺得小到不重要，星期五，我為它留了位置。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "The show went on. A first-year student played the piano on a real piano, which did not need the broken sound system. Two dancers missed the same step and laughed without looking ashamed. The hall slowly became an ordinary hall again. I was glad. June's morning did not have to swallow everyone else's. She had left with her mother before the first song ended, exactly as she had chosen.",
+          "chinese": "表演繼續。新生用真正鋼琴演奏，不需要壞音響。兩個舞者同時跳錯一步，不害羞地笑。禮堂慢慢又變普通禮堂，我很高興。June 的早上不必吞掉其他人的。第一首歌沒完，她就和媽媽離開，完全照自己的選擇。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

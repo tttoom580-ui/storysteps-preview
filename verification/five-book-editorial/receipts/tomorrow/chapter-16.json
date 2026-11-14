@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 16,
+  "chapterId": "tomorrow-16",
+  "sourceChapterSha256": "4239c05db072f171a09701ad7fdb8b086f89300d60a3b458129733abbe2bc745",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "未投票前已寫好的 99% 結果，票數並非可靠民意",
+    "previousChapterEndingEnglish": "On the way home, Mum drove while I read a new school notice. The first line said, There has been no theft of school show money by June Park. I read it aloud. For six weeks, that sentence had been missing. Now it existed. Under it was a link to a private reporting form. Above it, my phone showed a new alert. Zero was running one final vote. Should Mia tell everyone what she did?",
+    "nextChapterOpeningEnglish": "Ada came to my house that night with her father. Mum made tea while the two adults spoke in the kitchen. We sat at the dining table, where the light was much too bright for secrets. Ada brought her laptop, but she did not open it immediately. She placed both hands flat on the table. “I helped make the first page,” she said. “Before it was called Zero.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "By Thursday evening, ninety-nine percent of Zero wanted me to tell everyone what I had done. At least, that was what the page said. Under the number was a place to leave a comment. The first comment called me brave. The second called me a liar. The third asked for June's full video. I closed the page before I could read the rest.",
+        "zh": "星期四晚上，Zero 上百分之九十九的人都要我告訴大家自己做過什麼。至少網頁這樣說。數字下能留言，第一則說我勇敢，第二則說我騙子，第三則索取 June 的完整影片。我沒看完就關掉。",
+        "englishSha256": "1e57167c012b84a0e5fb7e531f1c5dc241311aed532bb2e747bbac076da21305",
+        "chineseSha256": "02390aa66f9b2fe1fd8fa789d75d2e8e493649f3ee54371be6029856e320dfad"
+      },
+      {
+        "number": 2,
+        "en": "I had already decided to speak about my part. Now that decision felt stolen. If I spoke, the page could claim it had made me. If I stayed quiet, it could claim I was hiding. Mum sat beside me and asked what I would choose if the page did not exist. “I would tell people I voted,” I said. “Then start there,” she said. “You don't owe the page a performance.”",
+        "zh": "我本來就決定談自己的部分，現在那個決定卻像被偷走。開口，網站可以說是它逼的；沉默，它可以說我心虛。媽媽坐旁邊，問如果網頁不存在，我會選什麼。「告訴大家我投過票。」「那就從這裡開始，妳不欠那個網站一場表演。」",
+        "englishSha256": "aff7e8c99176afeff0792c9b15ef6f1ab5131cf4859f98409c20e7b223c6750a",
+        "chineseSha256": "b8bcef433a4a36b6126cbba10e7b57e4981d792b4478309043c74e59bd768ad4"
+      },
+      {
+        "number": 3,
+        "en": "I wrote a short statement. I had believed a cut video without asking what was missing. I had voted against June. I was wrong. The school had checked the money record, and June had not stolen anything. I left out the private things June told me at the library. I sent her the lines that mentioned her and asked if she was comfortable with those details being included.",
+        "zh": "我寫簡短聲明：沒問缺了什麼就相信剪輯影片，投票指控 June，是我錯了。學校查過帳，她沒有偷。我沒放圖書館裡的隱私，只把提到她的句子傳給她，問是否同意公開那些細節。",
+        "englishSha256": "672197264ec0ba9a5ec0a0251ef0332e81e37e9d25df03f16d7892984e63be5a",
+        "chineseSha256": "5a7aea57c650a0804f8a30a15660c61e2d6497204277ac28eab748c4e3ed9685"
+      },
+      {
+        "number": 4,
+        "en": "She answered an hour later. The facts are okay. Please don't write that we are friends again. I looked at my first draft. At the bottom, I had written, I hope we can all move forward together. I erased it. June had not asked to move anywhere with me. I changed the ending to, Please stop sharing the old clip and share the correction where you shared the claim.",
+        "zh": "一小時後她回：事實可以，別寫我們又是朋友。我看初稿，結尾原本是「希望大家一起往前走」，於是刪掉。June 沒要求與我一起去哪。我改成：請停止分享舊片，並在你曾分享指控的地方，分享更正。",
+        "englishSha256": "2d077ca1530869a12fb62b133fc5c57374adff8ce552d520ab4e3cf891e99afa",
+        "chineseSha256": "f44b9b110f622853cb90da5c62f11c436f083a36d3fa8bd48eee8707cd9000d9"
+      },
+      {
+        "number": 5,
+        "en": "Then Ada called. She had been looking through her show slides with Ms Lin's permission, keeping copies for the review. “The ninety-nine percent is in my draft,” she said. “What?” “Kai gave me the result on Monday. Before today's vote existed.” She sent a picture of the slide, with its saved date. My school photo sat under a huge 99%. Even the little spelling mistake matched the website.",
+        "zh": "Ada 打來。她獲林老師同意檢查表演投影片、留副本供調查。「那個百分之九十九在我的草稿裡。」「什麼？」「Kai 星期一就給我結果，今天的投票還沒出現。」她傳有儲存日期的投影片照片，我的校照下有巨大 99%，連小錯字都跟網站相同。",
+        "englishSha256": "9cdb13b36baf5b837a5fb7ae0b86778ff5f65d3e08d9b8f40c27c29e61fd97e7",
+        "chineseSha256": "83a1834a80ac3cb8e7704c9b2c46890a34e01d8bfe06cf791e6308b3097e9ffa"
+      },
+      {
+        "number": 6,
+        "en": "We did not post the picture. We sent it to Ms Lin and wrote exactly what we knew: a draft slide had the same result before the poll opened. It suggested the public number was planned, but it did not tell us how the site counted real clicks. Leo said the page needed checking. For once, nobody said a screenshot alone proved everything. We had seen enough of that.",
+        "zh": "我們沒發布圖片，而是給林老師，精確寫已知事實：投票前的草稿已有相同結果。這暗示公開數字早已安排，卻不能說明網站怎麼計算真正點擊。Leo 說需要檢查網站。這次沒人說一張截圖就證明一切，我們看過太多那樣的事。",
+        "englishSha256": "328c2a28e907eef3eef2abff5829a9f97244e8abb391691096fceca24c6471cd",
+        "chineseSha256": "11b7c175c4b40f13bc515ffa6dec28d534c2bba462363850f64b3e227c35baf5"
+      },
+      {
+        "number": 7,
+        "en": "I went downstairs to get water. Dad was putting dishes away. I had barely spoken to him about any of this, and he had not pushed. He handed me a dry plate and asked me to find its place. We worked for a few minutes. Then he said, “I shared a wrong news story once. I deleted it and thought that fixed it.” “Did it?” “No. Nobody saw the part where I changed my mind.”",
+        "zh": "我下樓倒水，爸爸在收碗。我幾乎沒跟他說這件事，他也不逼。他遞乾盤子，叫我找位置，我們忙幾分鐘。他才說：「我分享過假新聞，刪掉後以為就修好了。」「有嗎？」「沒有，沒人看見我改變想法的部分。」",
+        "englishSha256": "975e5889207ac7ceb8c8c42995de7485673bb5f255aefa37d9b0ce067e265ed8",
+        "chineseSha256": "47957b6b48a996d7c0a74fd189a5feaef9ad4e17816d18f19e738b1281305840"
+      },
+      {
+        "number": 8,
+        "en": "When I went back upstairs, June had sent another message. I want the correction where the lie was loudest. Not just in an office email. Below it was a voice file. I hesitated before opening it. This time it was her voice, whole and steady. “My name is June Park,” she said. “You have seen twelve seconds of me. That is not the same as knowing what happened.”",
+        "zh": "上樓後 June 又傳訊：我想讓更正出現在謊話最大聲的地方，不只是辦公室信件。下面有語音。我猶豫才開。這次是她的聲音，完整而穩定：「我叫 June Park，你們看過我的十二秒，那不等於知道發生什麼。」",
+        "englishSha256": "b301f373cdf1f3fd1ead15ea2fbaef8d4f9e1b97c3d4cfcaa193f99370eab86c",
+        "chineseSha256": "ae52468d32d93a992e4f16f56237e009156cb4baebce6b191d6d3bd856d540d9"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 550,
+    "targets": [
+      {
+        "word": "before",
+        "meaning": "在……以前",
+        "appearsInSource": true
+      },
+      {
+        "word": "comfortable",
+        "meaning": "舒服的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dry",
+        "meaning": "乾的；弄乾",
+        "appearsInSource": true
+      },
+      {
+        "word": "few",
+        "meaning": "少數；幾個",
+        "appearsInSource": true
+      },
+      {
+        "word": "hope",
+        "meaning": "希望",
+        "appearsInSource": true
+      },
+      {
+        "word": "least",
+        "meaning": "最少的；最少",
+        "appearsInSource": true
+      },
+      {
+        "word": "mind",
+        "meaning": "心思；介意",
+        "appearsInSource": true
+      },
+      {
+        "word": "news",
+        "meaning": "消息；新聞",
+        "appearsInSource": true
+      },
+      {
+        "word": "number",
+        "meaning": "數字；號碼",
+        "appearsInSource": true
+      },
+      {
+        "word": "plate",
+        "meaning": "盤子",
+        "appearsInSource": true
+      },
+      {
+        "word": "public",
+        "meaning": "公開的；大眾",
+        "appearsInSource": true
+      },
+      {
+        "word": "rest",
+        "meaning": "其餘；休息",
+        "appearsInSource": true
+      },
+      {
+        "word": "same",
+        "meaning": "相同的",
+        "appearsInSource": true
+      },
+      {
+        "word": "second",
+        "meaning": "第二；秒",
+        "appearsInSource": true
+      },
+      {
+        "word": "share",
+        "meaning": "分享",
+        "appearsInSource": true
+      },
+      {
+        "word": "short",
+        "meaning": "短的；矮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "show",
+        "meaning": "展示；表演",
+        "appearsInSource": true
+      },
+      {
+        "word": "speak",
+        "meaning": "說話",
+        "appearsInSource": true
+      },
+      {
+        "word": "start",
+        "meaning": "開始",
+        "appearsInSource": true
+      },
+      {
+        "word": "third",
+        "meaning": "第三",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What makes the ninety-nine percent result doubtful?",
+      "options": [
+        "The same result appeared in a draft made before the vote.",
+        "Mia dislikes the comments.",
+        "The page uses a blue button."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The same result appeared in a draft made before the vote.",
+      "existingAnswerExplanation": "The same result appeared in a draft made before the vote.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Then Ada called. She had been looking through her show slides with Ms Lin's permission, keeping copies for the review. “The ninety-nine percent is in my draft,” she said. “What?” “Kai gave me the result on Monday. Before today's vote existed.” She sent a picture of the slide, with its saved date. My school photo sat under a huge 99%. Even the little spelling mistake matched the website.",
+          "chinese": "Ada 打來。她獲林老師同意檢查表演投影片、留副本供調查。「那個百分之九十九在我的草稿裡。」「什麼？」「Kai 星期一就給我結果，今天的投票還沒出現。」她傳有儲存日期的投影片照片，我的校照下有巨大 99%，連小錯字都跟網站相同。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 1,
+          "english": "By Thursday evening, ninety-nine percent of Zero wanted me to tell everyone what I had done. At least, that was what the page said. Under the number was a place to leave a comment. The first comment called me brave. The second called me a liar. The third asked for June's full video. I closed the page before I could read the rest.",
+          "chinese": "星期四晚上，Zero 上百分之九十九的人都要我告訴大家自己做過什麼。至少網頁這樣說。數字下能留言，第一則說我勇敢，第二則說我騙子，第三則索取 June 的完整影片。我沒看完就關掉。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Where does June want the correction to appear?",
+      "options": [
+        "Only in a private notebook.",
+        "Where the false claim was most publicly heard.",
+        "Only in Mia's old homework."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Where the false claim was most publicly heard.",
+      "existingAnswerExplanation": "June 要求在謊言傳得最響亮的地方更正，而不只寄一封辦公室電子郵件。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "She answered an hour later. The facts are okay. Please don't write that we are friends again. I looked at my first draft. At the bottom, I had written, I hope we can all move forward together. I erased it. June had not asked to move anywhere with me. I changed the ending to, Please stop sharing the old clip and share the correction where you shared the claim.",
+          "chinese": "一小時後她回：事實可以，別寫我們又是朋友。我看初稿，結尾原本是「希望大家一起往前走」，於是刪掉。June 沒要求與我一起去哪。我改成：請停止分享舊片，並在你曾分享指控的地方，分享更正。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 8,
+          "english": "When I went back upstairs, June had sent another message. I want the correction where the lie was loudest. Not just in an office email. Below it was a voice file. I hesitated before opening it. This time it was her voice, whole and steady. “My name is June Park,” she said. “You have seen twelve seconds of me. That is not the same as knowing what happened.”",
+          "chinese": "上樓後 June 又傳訊：我想讓更正出現在謊話最大聲的地方，不只是辦公室信件。下面有語音。我猶豫才開。這次是她的聲音，完整而穩定：「我叫 June Park，你們看過我的十二秒，那不等於知道發生什麼。」",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

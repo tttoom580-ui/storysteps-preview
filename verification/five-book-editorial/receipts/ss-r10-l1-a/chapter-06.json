@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 6,
+  "chapterId": "ss-r10-l1-a-6",
+  "sourceChapterSha256": "4569bdd64d11ca0838a8f76784d35acc3f0fea344258c90e2cefef5bb821b550",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "月相燈球模型需標明觀察位置與光源不動",
+    "previousChapterEndingEnglish": "Before everyone went home, Nia asked what they had learned in these early lessons. Finn said stars were not little holes in a dark roof. Bo said a lamp could be measured, even if a star could not. Mrs. Sol said she liked the chair path and the new large numbers. Nia looked at the room. It was not full, but it had become a place where people made changes together. She did not know if the city would let them stay after six weeks. For now, she put the two rulers, one wet and one dry, into a box. They would remind her that a lesson could grow from a question and a mistake.",
+    "nextChapterOpeningEnglish": "Nia believed the next lesson would be easy. She wanted to teach the class how the sky changed from day to night. She brought two clocks, one for the wall and one for her desk. As the children entered, the wall clock showed five, although it was just after ten in the morning. Finn laughed and said the clock wanted to dream about dinner. Nia laughed too, then noticed that the second clock was also wrong. She had put in an old battery. \"This is my error,\" she said. \"We must fix our clocks before we use them to talk about time.\" The children watched as she changed the battery."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A new week began with a package from the city museum. Ada arrived before the children and helped Nia open the box. Inside was a round ball, a small battery lamp, and a paper sign showing the shape of the moon on different nights. A museum worker had written that the materials were free to borrow, except the battery must not be left in the lamp when it was stored. Nia made a new label for the box. Arun brought coffee for the adults, and they checked the room together. Finally, the moon lesson was ready, even though no one could see the real moon through the bright morning window.",
+        "zh": "新的一週從市立博物館寄來的包裹開始。艾達在孩子們抵達之前就到了，幫妮雅打開箱子。裡面有一顆圓球、一盞小電池燈，還有一張標示月亮不同形狀的紙牌。博物館工作人員寫道，這些材料可以免費借用，但收納時必須把電池從燈裡取出。妮雅為箱子做了新標籤。亞倫替大人帶來咖啡，大家一起檢查教室。最後，月亮課終於準備好了，雖然明亮的早晨窗外根本看不見真正的月亮。",
+        "englishSha256": "185cee47942e38d51adb7ccb7290294b667d05c22832d2bf28b8be1cf885b457",
+        "chineseSha256": "05f179f5fef6b9f8e9394ddc761423a867ddc436bacadd23ca045c2d10eb1350"
+      },
+      {
+        "number": 2,
+        "en": "Nia asked Finn to hold the ball while Ada shone the lamp on one side. \"Do you see the bright part?\" Nia asked. Finn nodded. When Finn moved the ball slowly around Nia while the lamp remained still, the bright shape she could see changed. Bo said the ball must be broken on one side. \"That is a good guess, but look again,\" Nia replied. She turned the lamp off and let him feel the whole smooth ball. Nothing had broken. A little girl drew a lion on the top of her paper moon, and everyone laughed. Nia let her keep the picture. The moon did not need a lion to work, but a funny drawing could help the child remember.",
+        "zh": "妮雅請芬恩拿著球，艾達從一側用燈照它。「你看見亮的部分了嗎？」妮雅問。芬恩點點頭。芬恩讓球繞著妮雅慢慢移動，燈的位置保持不變；妮雅從自己的位置看到的亮面形狀也跟著改變。波說，球的一側一定壞掉了。「這是個很好的猜想，但再看看，」妮雅回答。她關掉燈，讓波摸摸整顆光滑的球。球沒有任何破損。一個小女孩在紙月亮頂端畫了獅子，大家笑了。妮雅讓她保留畫作。月亮不需要獅子才能運作，但有趣的圖案可以幫孩子記得。",
+        "englishSha256": "c2f60938535cbe2bb3159b2dd1c1346fecce488f2d3c736fada505eef9d84d50",
+        "chineseSha256": "fcc186a0b9f499fc2d600b8e881de8ac045b49a90e66e1417a60a7a462d8bd30"
+      },
+      {
+        "number": 3,
+        "en": "At lunch, a man named Uncle Ren visited the class. He lived in a house near the water and sometimes drove a little boat for work. He had seen the moon above the sea on many weekends. \"When I drive home from the harbor, I see it over the wave line,\" he said. \"Sometimes it looks like a thin smile.\" Nia thanked him, but explained that the moon's changing shape did not depend on the sea. She invited him to hold the ball and try the model. He did. \"I see,\" he said. \"The light changes what I can see, not what the ball is.\" He promised to tell his nephew.",
+        "zh": "午餐時，一位叫任叔叔的男子來到教室。他住在水邊，有時工作需要開小船。他在許多週末都看過海上的月亮。「我從港口開回家時，會看見月亮在浪線上方，」他說，「有時像細細的微笑。」妮雅謝謝他，也解釋月亮形狀的變化不依靠海。她請任叔叔拿著球試試模型。他照做了。「我懂了，」他說，「光改變的是我能看見的部分，不是球本身。」他答應會教他的外甥。",
+        "englishSha256": "14f89ca1b23b6bce71423c2ec45674b5e10b0fe606341d240c06f09c9455a8b7",
+        "chineseSha256": "909f7f4ae76796acc82f41600b2228207fa3f77e8bc5c4aa0623cf326c1ba708"
+      },
+      {
+        "number": 4,
+        "en": "A boy near the door suddenly said, \"This is stupid. The moon just follows us!\" The room became quiet. Nia could see that he was upset because his drawing did not match the model. She did not call him a stupid boy. Instead, she moved the model close to him and asked him to stand still while Ada walked around the table. \"The moon is far away,\" Nia said. \"Sometimes it seems to follow us, just as a far hill does when we ride in a car.\" The boy tried again. \"My first picture was terrible,\" he said softly. \"It was a first try,\" Nia replied. \"That is not a terrible thing.\"",
+        "zh": "門邊的一個男孩突然說：「這太笨了。月亮明明一直跟著我們！」教室安靜下來。妮雅看出他很沮喪，因為自己的畫和模型對不起來。她沒有說他是笨孩子，而是把模型移到他面前，請他站著不動，讓艾達繞桌子走一圈。「月亮離我們很遠，」妮雅說，「有時看起來像在跟著我們，就像坐車時遠山好像跟著移動。」男孩再試一次。「我第一張畫很糟，」他輕聲說。「那是第一次嘗試，」妮雅回答，「第一次不等於糟糕。」",
+        "englishSha256": "2b35608a9a877f91c4de6f782d0a27a98c8a0701a13597a9fa57a690dc12d381",
+        "chineseSha256": "be3927ac5157746bd803710bc3878b8b8fdb5654bf4e24924ebde992d203ce49"
+      },
+      {
+        "number": 5,
+        "en": "Several families were due to arrive after lunch, so Arun checked the sign at the center entrance. It said the lesson would begin at one. A new visitor came early and asked whether he could wait inside. Arun said yes and showed him the seating area. Nia used the quiet time to ask Finn what he had seen during the weekend. Finn said he had watched the moon from his kitchen window with his mother. He had made two pictures on two nights and noticed that they did not look exactly the same. Nia thanked him for bringing observations rather than a guess about what should be in the sky. The little pictures became the first examples on the class table. They also helped a new visitor understand what the lesson was about.",
+        "zh": "午餐後有幾個家庭準備到來，亞倫便檢查中心入口的告示，上面寫著下午一點開始上課。一位新訪客提早到，問可不可以在室內等待。亞倫說可以，帶他到座位區。妮雅趁安靜的時間問芬恩週末看見了什麼。芬恩說，他和媽媽在廚房窗邊看月亮，連續兩晚各畫了一張圖，發現兩張不完全相同。妮雅謝謝他帶來真正的觀察，而不是猜天空應該有什麼。小小的畫作成了桌上的第一批例子，也讓新訪客明白今天要學什麼。",
+        "englishSha256": "048e9b7574aa6a8e99bfcac1b93cbf1ba1aac1e42816cee9dbc762abec51a171",
+        "chineseSha256": "13a727242fffcd66cf90319d82d374653170a729ef320ca571d2b8561e5d732b"
+      },
+      {
+        "number": 6,
+        "en": "At the end, everyone took home a paper circle with a small window cut in it. Nia told families to look for the moon when they had a safe chance, not to go out alone at night. The homework was only to draw what they noticed. Arun set the museum box on a high shelf and kept the battery in a separate bag. When the last child left, Nia looked at the two drawings on the table. One showed a bright full moon; the other showed a small curve. Both had come from one ball and one light. She began to see why simple models were powerful: they let people test an idea with their own hands.",
+        "zh": "最後，每個人都帶回一個開了小窗的紙圓片。妮雅告訴家庭，只要有安全的機會就可以觀察月亮，不要讓孩子夜裡獨自外出。回家作業只是畫下看到的東西。亞倫把博物館的箱子放上高架，電池另外裝袋。最後一個孩子離開後，妮雅望著桌上的兩張畫：一張是明亮的滿月，一張是細細的彎月。兩張畫都來自同一個球和同一盞燈。她開始明白簡單模型的力量：讓人用自己的雙手測試想法。",
+        "englishSha256": "7f1b24946147ee622b9f536f22a1dc550b2b592c49d7f4fad546b7300c46232b",
+        "chineseSha256": "40f55ca102d455d0c1ec1a213d58eb31a5a5d778abe32b5f1bb6c05297973f55"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 704,
+    "targets": [
+      {
+        "word": "arrive",
+        "meaning": "抵達",
+        "appearsInSource": true
+      },
+      {
+        "word": "before",
+        "meaning": "在……之前",
+        "appearsInSource": true
+      },
+      {
+        "word": "boat",
+        "meaning": "船",
+        "appearsInSource": true
+      },
+      {
+        "word": "box",
+        "meaning": "箱子",
+        "appearsInSource": true
+      },
+      {
+        "word": "coffee",
+        "meaning": "咖啡",
+        "appearsInSource": true
+      },
+      {
+        "word": "drive",
+        "meaning": "駕駛",
+        "appearsInSource": true
+      },
+      {
+        "word": "except",
+        "meaning": "除非／除了",
+        "appearsInSource": true
+      },
+      {
+        "word": "Finally",
+        "meaning": "終於",
+        "appearsInSource": true
+      },
+      {
+        "word": "free",
+        "meaning": "免費的",
+        "appearsInSource": true
+      },
+      {
+        "word": "house",
+        "meaning": "房屋",
+        "appearsInSource": true
+      },
+      {
+        "word": "lion",
+        "meaning": "獅子",
+        "appearsInSource": true
+      },
+      {
+        "word": "see",
+        "meaning": "看見",
+        "appearsInSource": true
+      },
+      {
+        "word": "shape",
+        "meaning": "形狀",
+        "appearsInSource": true
+      },
+      {
+        "word": "sign",
+        "meaning": "標誌",
+        "appearsInSource": true
+      },
+      {
+        "word": "stupid",
+        "meaning": "愚蠢的",
+        "appearsInSource": true
+      },
+      {
+        "word": "terrible",
+        "meaning": "糟糕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "top",
+        "meaning": "頂端",
+        "appearsInSource": true
+      },
+      {
+        "word": "Uncle",
+        "meaning": "叔叔",
+        "appearsInSource": true
+      },
+      {
+        "word": "wave",
+        "meaning": "海浪",
+        "appearsInSource": true
+      },
+      {
+        "word": "weekend",
+        "meaning": "週末",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does the lamp and ball show?",
+      "options": [
+        "How the bright part of the moon seems to change.",
+        "How to make coffee.",
+        "How boats travel."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "How the bright part of the moon seems to change.",
+      "existingAnswerExplanation": "燈和球讓學員看見光照方向改變時，亮面形狀如何看起來不同。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Nia asked Finn to hold the ball while Ada shone the lamp on one side. \"Do you see the bright part?\" Nia asked. Finn nodded. When Finn moved the ball slowly around Nia while the lamp remained still, the bright shape she could see changed. Bo said the ball must be broken on one side. \"That is a good guess, but look again,\" Nia replied. She turned the lamp off and let him feel the whole smooth ball. Nothing had broken. A little girl drew a lion on the top of her paper moon, and everyone laughed. Nia let her keep the picture. The moon did not need a lion to work, but a funny drawing could help the child remember.",
+          "chinese": "妮雅請芬恩拿著球，艾達從一側用燈照它。「你看見亮的部分了嗎？」妮雅問。芬恩點點頭。芬恩讓球繞著妮雅慢慢移動，燈的位置保持不變；妮雅從自己的位置看到的亮面形狀也跟著改變。波說，球的一側一定壞掉了。「這是個很好的猜想，但再看看，」妮雅回答。她關掉燈，讓波摸摸整顆光滑的球。球沒有任何破損。一個小女孩在紙月亮頂端畫了獅子，大家笑了。妮雅讓她保留畫作。月亮不需要獅子才能運作，但有趣的圖案可以幫孩子記得。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "A new week began with a package from the city museum. Ada arrived before the children and helped Nia open the box. Inside was a round ball, a small battery lamp, and a paper sign showing the shape of the moon on different nights. A museum worker had written that the materials were free to borrow, except the battery must not be left in the lamp when it was stored. Nia made a new label for the box. Arun brought coffee for the adults, and they checked the room together. Finally, the moon lesson was ready, even though no one could see the real moon through the bright morning window.",
+          "chinese": "新的一週從市立博物館寄來的包裹開始。艾達在孩子們抵達之前就到了，幫妮雅打開箱子。裡面有一顆圓球、一盞小電池燈，還有一張標示月亮不同形狀的紙牌。博物館工作人員寫道，這些材料可以免費借用，但收納時必須把電池從燈裡取出。妮雅為箱子做了新標籤。亞倫替大人帶來咖啡，大家一起檢查教室。最後，月亮課終於準備好了，雖然明亮的早晨窗外根本看不見真正的月亮。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Nia ask families to do at home?",
+      "options": [
+        "Buy a telescope.",
+        "Go out alone at midnight.",
+        "Draw the moon when it is safe to look."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "Draw the moon when it is safe to look.",
+      "existingAnswerExplanation": "回家作業是有安全機會就觀察並畫下月亮，不能夜間獨自出門。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "At the end, everyone took home a paper circle with a small window cut in it. Nia told families to look for the moon when they had a safe chance, not to go out alone at night. The homework was only to draw what they noticed. Arun set the museum box on a high shelf and kept the battery in a separate bag. When the last child left, Nia looked at the two drawings on the table. One showed a bright full moon; the other showed a small curve. Both had come from one ball and one light. She began to see why simple models were powerful: they let people test an idea with their own hands.",
+          "chinese": "最後，每個人都帶回一個開了小窗的紙圓片。妮雅告訴家庭，只要有安全的機會就可以觀察月亮，不要讓孩子夜裡獨自外出。回家作業只是畫下看到的東西。亞倫把博物館的箱子放上高架，電池另外裝袋。最後一個孩子離開後，妮雅望著桌上的兩張畫：一張是明亮的滿月，一張是細細的彎月。兩張畫都來自同一個球和同一盞燈。她開始明白簡單模型的力量：讓人用自己的雙手測試想法。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 5,
+          "english": "Several families were due to arrive after lunch, so Arun checked the sign at the center entrance. It said the lesson would begin at one. A new visitor came early and asked whether he could wait inside. Arun said yes and showed him the seating area. Nia used the quiet time to ask Finn what he had seen during the weekend. Finn said he had watched the moon from his kitchen window with his mother. He had made two pictures on two nights and noticed that they did not look exactly the same. Nia thanked him for bringing observations rather than a guess about what should be in the sky. The little pictures became the first examples on the class table. They also helped a new visitor understand what the lesson was about.",
+          "chinese": "午餐後有幾個家庭準備到來，亞倫便檢查中心入口的告示，上面寫著下午一點開始上課。一位新訪客提早到，問可不可以在室內等待。亞倫說可以，帶他到座位區。妮雅趁安靜的時間問芬恩週末看見了什麼。芬恩說，他和媽媽在廚房窗邊看月亮，連續兩晚各畫了一張圖，發現兩張不完全相同。妮雅謝謝他帶來真正的觀察，而不是猜天空應該有什麼。小小的畫作成了桌上的第一批例子，也讓新訪客明白今天要學什麼。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

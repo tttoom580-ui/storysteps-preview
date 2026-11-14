@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 8,
+  "chapterId": "ss-r10-l1-a-8",
+  "sourceChapterSha256": "49918bb96d04d7d3c656726afc952e183ff29f97660ecc3a445f193a3f61ecc6",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "公園初次集體觀星；先到公園再休息與返程，不重複出發",
+    "previousChapterEndingEnglish": "That evening, Nia checked the clocks once more. One was five minutes slow, and the other kept good time. She wrote the problem in her notes because she did not want to forget it. She also wrote something else: a lesson was not ruined when an error appeared. The error could become a question. The stick in the yard had shown one kind of change; the clock on the wall had shown another. People could use both, as long as they knew what each one could and could not tell them. She closed the room, feeling less afraid of making mistakes in front of her students.",
+    "nextChapterOpeningEnglish": "The next Saturday was the town's spring festival, so the center room was busy. People carried rice, fruit, and hot dishes along Red Brick Street. A grandmother called Mrs. Noor visited the class with a card showing a lake under the moon. She said she had lived beside that lake when she was young. \"My family watched the moon there every year,\" she said. \"It was a small joy in a hard life.\" Nia asked if Mrs. Noor would tell the group more. The grandmother sat down and began a story about a quiet evening with her brother. No strange magic happened. They simply watched the light on the water."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The class planned a short evening visit to the city park. This would be their first chance to see a few real stars together. Nia wrote a note to every family: children must come with an adult, and nobody should walk away from the group. The park officer showed her a flat place near a bench, away from baseball games and the road. \"People come here to walk after dinner,\" he said. \"Please leave the path open.\" Nia agreed. She wanted the visit to be easy for Mrs. Sol and safe for the children. There would be no climbing, no running into the dark, and no big telescope to carry.",
+        "zh": "班上計畫傍晚到市立公園短暫參觀。這將是大家第一次一起看幾顆真正的星星。妮雅寫信給每個家庭：孩子一定要由成人陪同，任何人都不能獨自離開隊伍。公園管理員帶她看長椅附近的一塊平地，遠離棒球活動和馬路。「晚餐後很多人會來這裡散步，」他說，「請讓小路保持暢通。」妮雅同意。她希望索爾奶奶走得輕鬆，孩子們也安全。大家不會攀爬、不會跑進黑暗，也不搬大型望遠鏡。",
+        "englishSha256": "c77ba8964ac6cc91ce038352a97f0548ede96c2bbef479ae1680d5fdf13f4726",
+        "chineseSha256": "a9f3fcc4a86a41ad5ad864c3bc066ae931fcbe5fa0321c2b174910ec53b1017c"
+      },
+      {
+        "number": 2,
+        "en": "That afternoon, Finn came wearing a bright dress for a family party. His little sister, Mina, wore a blue coat and carried a picture of a ghost with wings. \"Can ghosts fly beside the stars?\" she asked. Nia said ghosts belonged in stories, not in their sky chart. Mina looked sad, so Nia invited her to draw the ghost on a separate card. \"We can love a story and still ask what is real,\" she said. Behind them, Bo opened a bag of food. He had brought bread and cold beef for dinner. Nia reminded everyone to keep food in one place so the observing area stayed clean.",
+        "zh": "那天下午，芬恩穿著參加家庭聚會的亮色洋裝來了。他的小妹妹米娜穿藍外套，拿著一張長翅膀的鬼魂圖畫。「鬼魂能飛到星星旁嗎？」她問。妮雅說，鬼魂屬於故事，不是星圖。米娜看起來失望，妮雅便請她把鬼魂畫在另一張卡片上。「我們可以喜歡故事，也可以問什麼是真的，」她說。後面，波打開晚餐袋，裡面是麵包和冷牛肉。妮雅提醒大家把食物集中在一處，讓觀測區保持乾淨。",
+        "englishSha256": "3ea8de030785ec25e8f93a0437985f57778f26d0880b8e03ab9c8af053479918",
+        "chineseSha256": "bb07fde3c8ad08de70451e12a8e345098327d40e13f4e5ee9c24c35613045528"
+      },
+      {
+        "number": 3,
+        "en": "At seven, twelve people arrived. They stood in a loose group beside the bench while Ada handed out simple star cards. The sky was not completely dark, and city lights made some stars hard to see. Nia showed the group one bright star above the trees. A girl named Rae asked why the sky did not look like the picture on her card. \"The card shows more stars than our eyes can see here,\" Nia said. \"Different places can show different skies.\" The girl looked up again. \"It is still nice,\" she said. \"I only see one, but I can tell where it is.\" Nia asked her to mark the place.",
+        "zh": "七點時，十二個人到齊。他們在長椅旁鬆散地站成一群，艾達發給大家簡單的星卡。天空還沒有全黑，城市燈光也讓一些星星很難看見。妮雅指著樹梢上方的一顆亮星。一位叫芮的女孩問，天空為什麼不像卡片上的圖。「卡片畫了比我們此刻看得到的更多星星，」妮雅說，「不同地方看到的天空不一樣。」芮又抬頭看。「還是很好看，」她說，「我只看到一顆，但知道它在哪裡。」妮雅請她做個記號。",
+        "englishSha256": "557534c2dee8404a1224558d0007b01631fe8fdcc55c54ed33fc3d2eae908635",
+        "chineseSha256": "7441111e76a3ae05a002cbed40a8c43267711a0ea43e13042bda29db8ea97ca6"
+      },
+      {
+        "number": 4,
+        "en": "A loud ball hit the fence on the other side of the park. Bo jumped and almost ran toward it. The officer called kindly, \"Please stay with your group.\" Bo stopped. A baseball player came over to get the ball and gave a quick wave. Nia thanked the officer. It was easy to forget ordinary park life when they were looking up. She asked everyone to look around once and see where other people were walking. \"Why do we need this?\" Finn asked. \"Because we share this park,\" she answered. \"Our wonderful night must not be a bad night for someone else.\"",
+        "zh": "公園另一側有顆球重重撞上圍欄。波嚇得跳了一下，差點跑去撿。管理員親切地喊：「請跟著你的隊伍。」波停下來。一名棒球球員過來取球，向大家揮揮手。妮雅謝謝管理員。大家抬頭看星星時，很容易忘記公園裡其他人的生活。她請每個人先環顧四周，看清楚行人走在哪裡。「為什麼要這樣？」芬恩問。「因為我們一起使用這座公園，」妮雅回答，「我們美好的夜晚，不該變成別人糟糕的夜晚。」",
+        "englishSha256": "00205ba37c10c146fac6acc8c37d88904ee488a1254e16174233606c6838f4d0",
+        "chineseSha256": "6a1b7938d43f716da8c68916c42eb54fe7b599afc0db640692f84a8ce9f3ce0a"
+      },
+      {
+        "number": 5,
+        "en": "During the break beside the park bench, Rae gave her little sister a paper star and asked her to hold it near her heart. The girl liked its shape and said it reminded her of a cookie. The sisters had brought a small piece of fruit from home, and they sat down to taste it together. Nia remembered that the children had come after a long school day and offered a short rest before they walked to the park gate. Finn kept the paper cards dry, while Ada checked the list of families again. Nobody was left behind for moving slowly. When everyone was ready, Nia asked Ada to give the group one last reminder about staying on the path. Then they walked back to the center in pairs.",
+        "zh": "在公園長椅旁休息時，芮送妹妹一顆紙星星，請她放在心口附近。妹妹喜歡那個形狀，說讓她想到餅乾。姊妹倆帶了少量水果，便坐下來一起嚐。妮雅想起孩子們都上了一整天學，於是讓大家休息片刻，再沿著小路往公園大門走。芬恩把紙星卡收好，艾達再次核對家庭名單。沒有人因為走得慢而被留下。準備好後，妮雅請艾達再給大家一次提醒：沿著小路走，隊伍再兩兩結伴返回中心。",
+        "englishSha256": "fd8179ae49b438d8abee30545e5cc49bfec32c75af65f074a18c98bfe33460b9",
+        "chineseSha256": "a475962ed6112309f2ab26e4c149968e4869e6fb029618b964262fa0bb901377"
+      },
+      {
+        "number": 6,
+        "en": "Before going home, Nia asked each family for one short answer: what had they seen, and what had surprised them? Rae said she liked the single star more than the crowded card. Mrs. Sol said the bench had made the visit possible for her. Bo said the fence noise had frightened him. Ada wrote the answers without changing them. There was no prize for seeing the most stars. The group had gone outside, used their eyes, stayed together, and returned safely. That was enough for a first evening. Nia went home thinking that the best star lesson might be about the people standing under the sky as much as the sky itself.",
+        "zh": "回家前，妮雅請每個家庭回答兩個小問題：看見了什麼？最意外的是什麼？芮說，比起擠滿星星的卡片，她更喜歡那顆真正看見的星。索爾奶奶說，有長椅才能讓她參加。波說圍欄的聲音嚇了他。艾達忠實記下回答，沒有改寫。沒有人因看見最多星星而得獎。大家走到戶外，用眼睛觀察，一直待在一起，也平安回家。對第一次夜間活動來說，這已經夠了。妮雅回家時想著，也許最好的星星課不只關於天空，也關於站在天空下的人。",
+        "englishSha256": "3bb90ca70bc9a29b4a0e24af42c3d3cdc72a47f0c3a4dee4de6dc06da705f99a",
+        "chineseSha256": "b5256ed6f8f91ecc96c732b9848937723ef1b24a7e8aa84b9651c91dc08a23d3"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 672,
+    "targets": [
+      {
+        "word": "baseball",
+        "meaning": "棒球",
+        "appearsInSource": true
+      },
+      {
+        "word": "beef",
+        "meaning": "牛肉",
+        "appearsInSource": true
+      },
+      {
+        "word": "Behind",
+        "meaning": "在後面",
+        "appearsInSource": true
+      },
+      {
+        "word": "break",
+        "meaning": "休息時間",
+        "appearsInSource": true
+      },
+      {
+        "word": "Different",
+        "meaning": "不同的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dress",
+        "meaning": "洋裝",
+        "appearsInSource": true
+      },
+      {
+        "word": "easy",
+        "meaning": "容易的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fly",
+        "meaning": "飛",
+        "appearsInSource": true
+      },
+      {
+        "word": "ghost",
+        "meaning": "幽靈",
+        "appearsInSource": true
+      },
+      {
+        "word": "girl",
+        "meaning": "女孩",
+        "appearsInSource": true
+      },
+      {
+        "word": "give",
+        "meaning": "給予",
+        "appearsInSource": true
+      },
+      {
+        "word": "group",
+        "meaning": "團體",
+        "appearsInSource": true
+      },
+      {
+        "word": "heart",
+        "meaning": "心",
+        "appearsInSource": true
+      },
+      {
+        "word": "nice",
+        "meaning": "好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "officer",
+        "meaning": "管理員",
+        "appearsInSource": true
+      },
+      {
+        "word": "outside",
+        "meaning": "外面",
+        "appearsInSource": true
+      },
+      {
+        "word": "park",
+        "meaning": "公園",
+        "appearsInSource": true
+      },
+      {
+        "word": "taste",
+        "meaning": "品嚐／感受",
+        "appearsInSource": true
+      },
+      {
+        "word": "walk",
+        "meaning": "步行",
+        "appearsInSource": true
+      },
+      {
+        "word": "why",
+        "meaning": "為什麼",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Where does the group first observe real stars together?",
+      "options": [
+        "A mountain cave.",
+        "Inside a kitchen.",
+        "A city park."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "A city park.",
+      "existingAnswerExplanation": "班上第一次一起夜間觀星是在市立公園。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The class planned a short evening visit to the city park. This would be their first chance to see a few real stars together. Nia wrote a note to every family: children must come with an adult, and nobody should walk away from the group. The park officer showed her a flat place near a bench, away from baseball games and the road. \"People come here to walk after dinner,\" he said. \"Please leave the path open.\" Nia agreed. She wanted the visit to be easy for Mrs. Sol and safe for the children. There would be no climbing, no running into the dark, and no big telescope to carry.",
+          "chinese": "班上計畫傍晚到市立公園短暫參觀。這將是大家第一次一起看幾顆真正的星星。妮雅寫信給每個家庭：孩子一定要由成人陪同，任何人都不能獨自離開隊伍。公園管理員帶她看長椅附近的一塊平地，遠離棒球活動和馬路。「晚餐後很多人會來這裡散步，」他說，「請讓小路保持暢通。」妮雅同意。她希望索爾奶奶走得輕鬆，孩子們也安全。大家不會攀爬、不會跑進黑暗，也不搬大型望遠鏡。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 5,
+          "english": "During the break beside the park bench, Rae gave her little sister a paper star and asked her to hold it near her heart. The girl liked its shape and said it reminded her of a cookie. The sisters had brought a small piece of fruit from home, and they sat down to taste it together. Nia remembered that the children had come after a long school day and offered a short rest before they walked to the park gate. Finn kept the paper cards dry, while Ada checked the list of families again. Nobody was left behind for moving slowly. When everyone was ready, Nia asked Ada to give the group one last reminder about staying on the path. Then they walked back to the center in pairs.",
+          "chinese": "在公園長椅旁休息時，芮送妹妹一顆紙星星，請她放在心口附近。妹妹喜歡那個形狀，說讓她想到餅乾。姊妹倆帶了少量水果，便坐下來一起嚐。妮雅想起孩子們都上了一整天學，於是讓大家休息片刻，再沿著小路往公園大門走。芬恩把紙星卡收好，艾達再次核對家庭名單。沒有人因為走得慢而被留下。準備好後，妮雅請艾達再給大家一次提醒：沿著小路走，隊伍再兩兩結伴返回中心。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why must the path stay clear?",
+      "options": [
+        "Other people also use the park.",
+        "The stars need a path.",
+        "Only the officer can walk there."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Other people also use the park.",
+      "existingAnswerExplanation": "公園是共享空間，不能妨礙其他人通行。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "A loud ball hit the fence on the other side of the park. Bo jumped and almost ran toward it. The officer called kindly, \"Please stay with your group.\" Bo stopped. A baseball player came over to get the ball and gave a quick wave. Nia thanked the officer. It was easy to forget ordinary park life when they were looking up. She asked everyone to look around once and see where other people were walking. \"Why do we need this?\" Finn asked. \"Because we share this park,\" she answered. \"Our wonderful night must not be a bad night for someone else.\"",
+          "chinese": "公園另一側有顆球重重撞上圍欄。波嚇得跳了一下，差點跑去撿。管理員親切地喊：「請跟著你的隊伍。」波停下來。一名棒球球員過來取球，向大家揮揮手。妮雅謝謝管理員。大家抬頭看星星時，很容易忘記公園裡其他人的生活。她請每個人先環顧四周，看清楚行人走在哪裡。「為什麼要這樣？」芬恩問。「因為我們一起使用這座公園，」妮雅回答，「我們美好的夜晚，不該變成別人糟糕的夜晚。」",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 1,
+          "english": "The class planned a short evening visit to the city park. This would be their first chance to see a few real stars together. Nia wrote a note to every family: children must come with an adult, and nobody should walk away from the group. The park officer showed her a flat place near a bench, away from baseball games and the road. \"People come here to walk after dinner,\" he said. \"Please leave the path open.\" Nia agreed. She wanted the visit to be easy for Mrs. Sol and safe for the children. There would be no climbing, no running into the dark, and no big telescope to carry.",
+          "chinese": "班上計畫傍晚到市立公園短暫參觀。這將是大家第一次一起看幾顆真正的星星。妮雅寫信給每個家庭：孩子一定要由成人陪同，任何人都不能獨自離開隊伍。公園管理員帶她看長椅附近的一塊平地，遠離棒球活動和馬路。「晚餐後很多人會來這裡散步，」他說，「請讓小路保持暢通。」妮雅同意。她希望索爾奶奶走得輕鬆，孩子們也安全。大家不會攀爬、不會跑進黑暗，也不搬大型望遠鏡。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

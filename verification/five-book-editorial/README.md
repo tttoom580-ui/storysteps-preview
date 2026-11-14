@@ -29,3 +29,9 @@
 完整稽核與每處修訂證據：[five-book-progress-20261114.json](five-book-progress-20261114.json)
 
 請勿將「結構檢查通過」當作完整文學校訂認證。
+
+## 正式 AI 五關驗收（後續完成）
+
+前述 0 本為第一輪階段性修稿報告的當時狀態。之後已完成五本全部 125 章的英中逐章閱讀、250 題測驗比對及最終 GPT-6 AI 校訂簽核。這不是獨立真人、出版社或官方認證。
+
+逐章證據在 verification/five-book-editorial/receipts/ 目錄，最終批准資料為 verification/editorial-approvals.json，摘要為 verification/five-book-editorial/five-book-certification-summary.json。

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 11,
+  "chapterId": "ss-r11-l1-a-11",
+  "sourceChapterSha256": "64f73169834abe75a2a902e99d37da26ffb7f8f93adf2de83bcdd3b8a69737d9",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "司機記得載有花園工具的貨車經過市場；學校秘書則找到保留維修搬運紀錄的藍色資料夾，增加可核查方向。",
+    "previousChapterEndingEnglish": "Before going home, Kai asked how much of the path the club could change before garden day. Ivy said they did not know yet. Their teacher would check the plan and speak with the school office. Kai nodded. “Please tell me what you decide,” he said. “It is my school too.” Ivy wrote down his words. The garden was no longer only a place where seeds might grow. It was a place where the choices of different people had to fit together, just like the roots of plants under the earth.",
+    "nextChapterOpeningEnglish": "A strong wind arrived before lunch. Ivy and Jun rode their bicycles to school, but walked the bikes through the busy gate. In the garden, paper labels flew off several seed cups. A girl in jeans picked them up and gave them to Ivy with a little bow. “These are not mine,” the girl said. Ivy thanked her. The writing was in two languages because children from different homes had helped make the labels. One label said that a plant needed only a little water. Another said it needed more."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The school secretary called Ivy after class. She had found a blue folder with a list of things moved during the repair. The weather had been cold and wet that morning. A small car had taken music chairs to the town center, while a larger van had carried garden tools. The secretary was not sure whether the green box was in either car. “Maybe the names of the drivers will help,” she said. Ivy thanked her. She did not ask for private phone numbers. Ms. Wen could contact the people through the school office.",
+        "zh": "下課後，學校秘書打電話給艾薇。她找到一本藍色資料夾，裡面有維修期間搬運物品的清單。那天早上天氣又冷又濕。一輛小車把音樂教室的椅子送到鎮中心，一輛較大的貨車則載走園藝工具。秘書不確定綠箱子是否上了其中一輛車。「也許司機的名字有幫助，」她說。艾薇向她道謝，沒有要求私人電話號碼。溫老師可以透過學校辦公室聯絡相關人員。",
+        "englishSha256": "8f30c4829b14c38d872796881ecbe9dec04a5537697c032bbc8a0dbefd7093ac",
+        "chineseSha256": "a5b50d41965a7496a37eeea836eb35ceaeccdffd337c594e61458ba6b545d1d3"
+      },
+      {
+        "number": 2,
+        "en": "In the afternoon the club helped cook a simple soup for a school garden class. Ms. Wen said the soup would be made by adults while students washed vegetables and set the tables. Ivy liked being trusted with a small job. “I want the garden to be a place where people help in different ways,” she said. The secretary who came to eat agreed. She reminded Ivy that a good system should be easy for a new worker to understand. Ivy thought about the school list and asked whether its room names could be made clearer.",
+        "zh": "下午，社團幫忙準備一場校園園藝課要喝的簡單湯品。溫老師說，煮湯由大人負責，學生則洗蔬菜、排桌子。艾薇很喜歡被信任、能完成一件小工作。「我希望花園是個讓大家用不同方式幫忙的地方，」她說。前來用餐的秘書也同意。她提醒艾薇，好的制度應該讓新來的工作人員也能容易理解。艾薇想到學校的清單，便問房間名稱是否能寫得更清楚。",
+        "englishSha256": "fd7d82b76d4d8bd66c49a387a4805218b9892bd06b65ea278a62e7e21e8edab5",
+        "chineseSha256": "f66de3552f3b4cd3d2c0f67480c7a20c0d0608e6627ccbc8ff0fb357d0e34a78"
+      },
+      {
+        "number": 3,
+        "en": "In the garden a fan was drying the seed cups after a wet night. Kai came past wearing warm pants and asked about the path. Ivy showed him a sentence she had written for the new sign: “Keep the way under your feet clear.” Kai said the words were kind, but the sign alone would not move a chair or a stone. Ivy knew he was right. They asked the school nurse to look at their plan. The nurse said a clear path would help many people, not only one student.",
+        "zh": "花園裡，一台電扇正替經過濕冷夜晚的種子杯吹乾外側。凱穿著保暖長褲經過，問起小徑的進度。艾薇給他看自己寫的新標示句子：「讓腳下的道路保持暢通。」凱說這些字很親切，但標示本身不會把椅子或石頭移走。艾薇知道他說得對。他們請校護查看計畫。校護說，清楚的通道能幫助很多人，不只是一名學生。",
+        "englishSha256": "38386fc2f92b2dfd1dc399f5abdeb3b66a27dc766537d58b7ff2bd915c89ff7f",
+        "chineseSha256": "ed893afdefc405937807a10f8b781c0f3f12e8aea8f043c941adda84213a4e21"
+      },
+      {
+        "number": 4,
+        "en": "At lunch the teacher asked the club to use a dictionary to check the spelling of the garden signs. Jun opened to the wrong page and found the word temple. “That is not a tree,” he said, and everyone laughed. Ivy made a short list of plants that might grow in spring. They probably had enough time for beans and small flowers, but not for a large fruit tree. The teacher reminded them that a thousand little jobs would feel less heavy if they chose one job at a time.",
+        "zh": "午餐時，老師請社團用字典檢查花園標示的拼字。俊翻錯頁，找到「寺廟」這個字。「這可不是樹，」他說，大家都笑了。艾薇列出可能在春天生長的植物。他們大概還有足夠時間種豆子和小花，但來不及種出一棵大型果樹。老師提醒大家，成千上萬件小事如果每次只選一件來做，就不會那麼沉重。",
+        "englishSha256": "f299da9f63a1ee6a33e1445c48b0c97fa497f18fb8c12d51556e5d3bff96d54c",
+        "chineseSha256": "b9e8fd333a865fc29cd8e10ea17ca4d621b5269190876f1372d618dbbc8c823a"
+      },
+      {
+        "number": 5,
+        "en": "While they worked, Jun made a small card with the picture of the green box. He added the school name and the picture of the monkey on the side. “Would this be enough for someone who has never seen the box?” he asked. Ivy looked at it. She suggested adding the box's size and the place where the lid opened. Jun made the changes and smiled. They were learning to give information that helped another person act, not information that only made sense to themselves.",
+        "zh": "大家工作時，俊做了一張小卡片，上面畫著綠箱子，還加了校名和側面的猴子。「沒看過箱子的人，靠這張卡就能認出來嗎？」他問。艾薇看了看，建議補上箱子大小及蓋子打開的位置。俊修改後笑了。他們正在學習提供對別人真正有用的資訊，而不是只有自己看得懂的資訊。",
+        "englishSha256": "be9d2b7d5cec7bd3be48234e8bb5cb63793855cf3758d8395168eed672fed5b6",
+        "chineseSha256": "fef93b470162b02780a48eae7dabedf940f7a1f9fd39899490ca62cc57389cd4"
+      },
+      {
+        "number": 6,
+        "en": "After school Ivy watched the secretary call a driver. The man said he remembered moving a van of tools past the market on the day of the rain. He could not remember every box. “I was busy keeping everything dry,” he explained. He agreed to look at a photograph if the school sent it through his office. Ivy was glad Uncle Dan had helped her draw the box from three sides. She gave the picture to Ms. Wen rather than sending it to a stranger herself.",
+        "zh": "放學後，艾薇在旁邊聽秘書聯絡一位司機。男子說，他記得下雨當天開車把一批工具送過市場，但不記得每個箱子。「我那時忙著讓東西保持乾燥，」他解釋。他同意學校透過辦公室寄照片給他辨認。艾薇慶幸丹叔叔幫她畫出了箱子的三面圖。她把畫交給溫老師，而不是自己寄給不熟悉的人。",
+        "englishSha256": "bef3a77cecc4d53b80886fd854880809fc3b140efe2e3f0695b566a78fcd6a89",
+        "chineseSha256": "148e654fc0602cb25a3ac07c95957ce88c6f762fc813fe5b5ebeaa7c7e4e1bd7"
+      },
+      {
+        "number": 7,
+        "en": "That evening Ivy walked past a tree in the school yard. The wind moved its branches, and an old leaf fell near her shoe. She thought of the box and all the places it might have gone. Then she thought of Kai's words about the path. One problem had led them to see another. It was possible to care about both without solving either one that day. She wrote the next job on a new page: ask the driver to check the picture, and ask the school where the garden van had stopped.",
+        "zh": "那天傍晚，艾薇走過校園裡的一棵樹。風吹動樹枝，一片老葉子落在她的鞋旁。她想到箱子可能去過的所有地方，接著又想起凱關於小徑的話。一個問題讓他們看見另一個問題。即使當天無法解決，也能同時關心兩件事。她在新的一頁寫下下一步：請司機辨認圖畫，並向學校詢問園藝貨車曾停在哪裡。",
+        "englishSha256": "7ad94124bbfddbf388c14c155f04ba113b36a0f0b646e1d538e7aa12fdca1d49",
+        "chineseSha256": "172f4e2df9142026a7dcd9ed676675a55c3130b24ae0b0e0fa16038d08d8b19f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 635,
+    "targets": [
+      {
+        "word": "be",
+        "meaning": "是",
+        "appearsInSource": true
+      },
+      {
+        "word": "blue",
+        "meaning": "藍色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "call",
+        "meaning": "打電話",
+        "appearsInSource": true
+      },
+      {
+        "word": "car",
+        "meaning": "汽車",
+        "appearsInSource": true
+      },
+      {
+        "word": "cold",
+        "meaning": "寒冷的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cook",
+        "meaning": "烹煮",
+        "appearsInSource": true
+      },
+      {
+        "word": "dictionary",
+        "meaning": "字典",
+        "appearsInSource": true
+      },
+      {
+        "word": "fan",
+        "meaning": "風扇",
+        "appearsInSource": true
+      },
+      {
+        "word": "Maybe",
+        "meaning": "也許",
+        "appearsInSource": true
+      },
+      {
+        "word": "nurse",
+        "meaning": "護理師",
+        "appearsInSource": true
+      },
+      {
+        "word": "pants",
+        "meaning": "長褲",
+        "appearsInSource": true
+      },
+      {
+        "word": "past",
+        "meaning": "經過",
+        "appearsInSource": true
+      },
+      {
+        "word": "probably",
+        "meaning": "可能",
+        "appearsInSource": true
+      },
+      {
+        "word": "secretary",
+        "meaning": "秘書",
+        "appearsInSource": true
+      },
+      {
+        "word": "sentence",
+        "meaning": "句子",
+        "appearsInSource": true
+      },
+      {
+        "word": "temple",
+        "meaning": "寺廟",
+        "appearsInSource": true
+      },
+      {
+        "word": "thousand",
+        "meaning": "一千",
+        "appearsInSource": true
+      },
+      {
+        "word": "tree",
+        "meaning": "樹",
+        "appearsInSource": true
+      },
+      {
+        "word": "under",
+        "meaning": "在……下方",
+        "appearsInSource": true
+      },
+      {
+        "word": "weather",
+        "meaning": "天氣",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Where did the large van take garden tools?",
+      "options": [
+        "Past the market.",
+        "To a distant airport.",
+        "Into the lake."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Past the market.",
+      "existingAnswerExplanation": "司機記得載工具的貨車經過市場",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "After school Ivy watched the secretary call a driver. The man said he remembered moving a van of tools past the market on the day of the rain. He could not remember every box. “I was busy keeping everything dry,” he explained. He agreed to look at a photograph if the school sent it through his office. Ivy was glad Uncle Dan had helped her draw the box from three sides. She gave the picture to Ms. Wen rather than sending it to a stranger herself.",
+          "chinese": "放學後，艾薇在旁邊聽秘書聯絡一位司機。男子說，他記得下雨當天開車把一批工具送過市場，但不記得每個箱子。「我那時忙著讓東西保持乾燥，」他解釋。他同意學校透過辦公室寄照片給他辨認。艾薇慶幸丹叔叔幫她畫出了箱子的三面圖。她把畫交給溫老師，而不是自己寄給不熟悉的人。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 1,
+          "english": "The school secretary called Ivy after class. She had found a blue folder with a list of things moved during the repair. The weather had been cold and wet that morning. A small car had taken music chairs to the town center, while a larger van had carried garden tools. The secretary was not sure whether the green box was in either car. “Maybe the names of the drivers will help,” she said. Ivy thanked her. She did not ask for private phone numbers. Ms. Wen could contact the people through the school office.",
+          "chinese": "下課後，學校秘書打電話給艾薇。她找到一本藍色資料夾，裡面有維修期間搬運物品的清單。那天早上天氣又冷又濕。一輛小車把音樂教室的椅子送到鎮中心，一輛較大的貨車則載走園藝工具。秘書不確定綠箱子是否上了其中一輛車。「也許司機的名字有幫助，」她說。艾薇向她道謝，沒有要求私人電話號碼。溫老師可以透過學校辦公室聯絡相關人員。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the secretary find?",
+      "options": [
+        "A blue folder with a moving list.",
+        "An animal mask.",
+        "A bag of snow."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A blue folder with a moving list.",
+      "existingAnswerExplanation": "秘書找到了記載維修期間搬運物品的藍色資料夾",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The school secretary called Ivy after class. She had found a blue folder with a list of things moved during the repair. The weather had been cold and wet that morning. A small car had taken music chairs to the town center, while a larger van had carried garden tools. The secretary was not sure whether the green box was in either car. “Maybe the names of the drivers will help,” she said. Ivy thanked her. She did not ask for private phone numbers. Ms. Wen could contact the people through the school office.",
+          "chinese": "下課後，學校秘書打電話給艾薇。她找到一本藍色資料夾，裡面有維修期間搬運物品的清單。那天早上天氣又冷又濕。一輛小車把音樂教室的椅子送到鎮中心，一輛較大的貨車則載走園藝工具。秘書不確定綠箱子是否上了其中一輛車。「也許司機的名字有幫助，」她說。艾薇向她道謝，沒有要求私人電話號碼。溫老師可以透過學校辦公室聯絡相關人員。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "In the afternoon the club helped cook a simple soup for a school garden class. Ms. Wen said the soup would be made by adults while students washed vegetables and set the tables. Ivy liked being trusted with a small job. “I want the garden to be a place where people help in different ways,” she said. The secretary who came to eat agreed. She reminded Ivy that a good system should be easy for a new worker to understand. Ivy thought about the school list and asked whether its room names could be made clearer.",
+          "chinese": "下午，社團幫忙準備一場校園園藝課要喝的簡單湯品。溫老師說，煮湯由大人負責，學生則洗蔬菜、排桌子。艾薇很喜歡被信任、能完成一件小工作。「我希望花園是個讓大家用不同方式幫忙的地方，」她說。前來用餐的秘書也同意。她提醒艾薇，好的制度應該讓新來的工作人員也能容易理解。艾薇想到學校的清單，便問房間名稱是否能寫得更清楚。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

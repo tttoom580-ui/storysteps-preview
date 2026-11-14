@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 5,
+  "chapterId": "ss-r11-l1-a-5",
+  "sourceChapterSha256": "003ac87f83a30f50b49566ddcebe52f70af275ccc0e8a60feb7e20825cd1882a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "以豆杯代替失蹤種子，當日下午只想像未發芽的葉子",
+    "previousChapterEndingEnglish": "On Friday the club held a short meeting. Without blaming anyone, they made a new list: the box was on the shelf before the repair; a worker moved garden things inside; and the school had several storage rooms. Ivy asked Jun to draw a plan of the rooms from the school map. A drop of water fell from his wet hair onto the page, and he shook his head with a laugh. “Even the weather wants to add a mark,” he said. They agreed to ask before entering any room.",
+    "nextChapterOpeningEnglish": "On the weekend, Ivy went with her mother to her uncle Dan's house. He lived near the river and had a small boat, which he used only when the weather was good. Before they arrived, he put his coffee away from a table of tools. “Finally, my favorite visitors,” he said, waving from the door. Ivy smiled but told him about the terrible feeling of seeing the empty green shelf. Her uncle listened without laughing. “A missing box does not mean someone did a stupid thing,” he said. “There are many reasons people move things.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Monday Ms. Wen took the club to the garden without the green box. “We can still learn,” she said. The children put bean seeds from a class bag into small cups. They used a tool to dig little holes, then covered the seeds with earth. A frog sat near the water bowl, watching them. A hen from the school farm walked by with her neck held high. Jun wanted to race the others and finish first, but Ivy reminded him that a plant could not grow in one minute.",
+        "zh": "星期一，溫老師帶園藝社到沒有綠箱子的花園。「我們仍然可以學習，」她說。孩子們從班級的袋子裡拿出豆子，放進小杯子。他們用工具挖小洞，再用土蓋住種子。一隻青蛙坐在水碗旁看著他們。學校農場的一隻母雞抬著脖子經過。俊想和大家比賽，看誰先完成，但艾薇提醒他，植物不是一分鐘就能長大的。",
+        "englishSha256": "31016e051efae0e498cf253a2625437f2f7a4870a562b0ff8bffdf233aea8bba",
+        "chineseSha256": "33daf6314cb7e2c7d9d57357039ece52f291a73646356ab0adbd5dbb24a712b1"
+      },
+      {
+        "number": 2,
+        "en": "That afternoon the club put the newly planted bean cups in three places and watched how the light changed. One place was under a tree, another was beside the window, and the last was near the garden wall. Ivy did not say that one place was best before they had tried them. Since the beans had been planted only that morning, there were no leaves to look at yet. She asked each child to draw what they expected to see after the seeds began to grow. A boy imagined tiny hands for leaves; a girl drew green boats. They were different guesses about the same future plant, not observations of leaves that were already there.",
+        "zh": "那天下午，社團把早上剛種好的豆子杯放在三個位置，觀察光線如何變化：樹下、窗邊和花園牆旁。還沒實際測試以前，艾薇不說哪個位置最好。豆子才種下幾個小時，還沒有葉子可以觀察，所以她請大家畫出自己想像種子發芽後的樣子。一個男孩想像葉片像小手，另一個女孩畫成綠色小船。那都是對未來植物的不同猜測，而不是已經長出葉子的觀察紀錄。",
+        "englishSha256": "8950c77fd526554cc6590a7327a0cf95426b4698b075fa834f6d1d52030f5a04",
+        "chineseSha256": "3f3a40e3d05bfa109aa45254b946e851c70afa9499afa499858b66c413f94afa"
+      },
+      {
+        "number": 3,
+        "en": "Ms. Wen gave everyone a short lesson about height. Each seed needed water, light, and enough room. At least some of the cups would grow before garden day, although others might take a long time. She showed a photograph of snow from a cold town far away. “Different places need different care,” she explained. Ivy pointed to her notebook. Their missing seeds had names and simple care cards. Even if they bought more seeds, they would need to learn which plants could live here during spring.",
+        "zh": "溫老師給大家上一堂關於高度的小課。每顆種子都需要水、陽光和足夠空間。至少有些杯子能在花園日之前長出芽，雖然另一些可能需要很長時間。她拿出一張遠方寒冷小鎮的雪景照片。「不同地方需要不同照顧方式，」她說。艾薇指著筆記本。他們失蹤的種子有名稱和簡單照顧卡。即使買了新種子，仍得學會哪些植物適合本地春天生長。",
+        "englishSha256": "c56ab72770246e73c9e52bc401f2d278718273c234c28c3a387120c9076a54d9",
+        "chineseSha256": "3a6868215362471fad83128e5c3fc7f68369f9a9da04e589499b3e2a1c85a3e7"
+      },
+      {
+        "number": 4,
+        "en": "During the lesson a boy knocked over a cup and said, “Sorry.” His face grew red. Ivy helped put the earth back. “You did not do it on purpose,” she said. “We can make another cup.” Ms. Wen said they had made a fair deal with one another: everyone could learn, even by making mistakes. The boy smiled and tried again. He did not win a race, but his seed was safe. Ivy found that the small work made the missing box feel less frightening.",
+        "zh": "上課時，一個男孩不小心碰倒杯子，說了聲「對不起」。他的臉紅了。艾薇幫忙把土放回去。「你不是故意的，」她說，「我們可以再做一杯。」溫老師說，大家彼此有一個公平的約定：每個人都能學習，即使犯錯也可以。男孩笑著重新開始。他沒有贏得比賽，但種子是安全的。艾薇發現，這些小工作讓失蹤的箱子不再那麼可怕。",
+        "englishSha256": "991143213e4b7b0654a49bf88fc8dde51d427e30849370b4d01b602d9b0a74fe",
+        "chineseSha256": "f893c1bfa534bf0f4166b45fb5a71c2362a11e1e3cf83457bd4241fa8a5db7fd"
+      },
+      {
+        "number": 5,
+        "en": "Near the end of the lesson Ms. Wen reminded everyone to wash their hands after working with soil. The group put the tools away and left the work table clean. Ivy looked at the empty place where the green box usually stood. It still hurt a little. Then she looked at the new cups, lined up like small friends waiting for morning. She could be sad about the missing work and pleased with what they had made today. Those two feelings did not have to fight each other.",
+        "zh": "活動接近尾聲時，溫老師提醒大家碰過泥土後要洗手。社團收好工具，讓工作桌保持乾淨。艾薇望向綠箱子平常待著的空位，心裡仍有點難過。接著她看見排列整齊的新杯子，像一群等著早晨到來的小朋友。她可以因失去舊作品而難過，也可以因今天的新成果而高興。兩種心情不必彼此對抗。",
+        "englishSha256": "442d41e65e61ac1a8c7fab221f4a6505617682679c7c7f6deaf0ba07f30f2fc8",
+        "chineseSha256": "8b8fe6bad3f590c2846d5da7f224e109a5b628ca7fe91fb106bdff5dfb4c3562"
+      },
+      {
+        "number": 6,
+        "en": "At break time Jun asked what would happen if they never found the original seeds. Ivy did not know. She could point to their new cups, but she could not promise that every plant would be ready. She said they should tell the younger students the truth. The garden day was not only about perfect flowers. It was also about learning how life begins. Jun looked at the little cups on the table. He had wanted a quick answer. Now he was willing to put in the slow work.",
+        "zh": "休息時，俊問如果始終找不到原來的種子會怎樣。艾薇不知道。她能指向新的小杯子，卻不能保證每一株植物都會準備好。她說應該向低年級學生說實話。花園日不只是展示完美的花朵，也是學習生命如何開始。俊看著桌上的小杯子。他原本想要快速找到答案，如今願意做需要耐心的工作。",
+        "englishSha256": "33520c8acb45a9f477f119a82611069a00a1b15bc81212cc4850ebb11c49f081",
+        "chineseSha256": "c9ba1ccf77f424d3ae0d500803b7ae9c2efb0e9894f3cf8cbe0d29a6c92749f3"
+      },
+      {
+        "number": 7,
+        "en": "Before they left, Ms. Wen asked Ivy to choose one person to help carry the cups indoors. Ivy chose the boy who had dropped his cup, because he wanted a chance to show what he could do. He walked slowly and kept both hands under the tray. No cup fell. Ivy thanked him, and he looked proud. On the way home she remembered that finding the green box mattered, but how they treated one another during the search mattered too. Both things were part of making a good garden.",
+        "zh": "離開前，溫老師請艾薇選一個人幫忙把杯子搬進室內。艾薇選了剛才碰倒杯子的男孩，因為他想證明自己也能做好。他慢慢走，雙手托著盤子底部。一個杯子都沒掉。艾薇向他道謝，他露出自豪的神情。回家路上，艾薇想著：找到綠箱子很重要，但尋找過程中如何對待彼此也很重要。兩件事都是打造好花園的一部分。",
+        "englishSha256": "7d12a948080012916c9093c574a7177613e3100434fef2f9e2f169dd7566824f",
+        "chineseSha256": "dc6cd62bc879431e8b95efa0b77f24a2e110944d0c90142b12661a3b37112288"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 642,
+    "targets": [
+      {
+        "word": "although",
+        "meaning": "雖然",
+        "appearsInSource": true
+      },
+      {
+        "word": "bean",
+        "meaning": "豆子",
+        "appearsInSource": true
+      },
+      {
+        "word": "deal",
+        "meaning": "約定",
+        "appearsInSource": true
+      },
+      {
+        "word": "dig",
+        "meaning": "挖",
+        "appearsInSource": true
+      },
+      {
+        "word": "during",
+        "meaning": "在……期間",
+        "appearsInSource": true
+      },
+      {
+        "word": "frog",
+        "meaning": "青蛙",
+        "appearsInSource": true
+      },
+      {
+        "word": "height",
+        "meaning": "高度",
+        "appearsInSource": true
+      },
+      {
+        "word": "hen",
+        "meaning": "母雞",
+        "appearsInSource": true
+      },
+      {
+        "word": "least",
+        "meaning": "至少",
+        "appearsInSource": true
+      },
+      {
+        "word": "long",
+        "meaning": "長時間的",
+        "appearsInSource": true
+      },
+      {
+        "word": "minute",
+        "meaning": "分鐘",
+        "appearsInSource": true
+      },
+      {
+        "word": "Ms.",
+        "meaning": "女士",
+        "appearsInSource": true
+      },
+      {
+        "word": "neck",
+        "meaning": "脖子",
+        "appearsInSource": true
+      },
+      {
+        "word": "point",
+        "meaning": "指出",
+        "appearsInSource": true
+      },
+      {
+        "word": "put",
+        "meaning": "放置",
+        "appearsInSource": true
+      },
+      {
+        "word": "race",
+        "meaning": "賽跑",
+        "appearsInSource": true
+      },
+      {
+        "word": "safe",
+        "meaning": "安全的",
+        "appearsInSource": true
+      },
+      {
+        "word": "snow",
+        "meaning": "雪",
+        "appearsInSource": true
+      },
+      {
+        "word": "Sorry",
+        "meaning": "抱歉",
+        "appearsInSource": true
+      },
+      {
+        "word": "win",
+        "meaning": "獲勝",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the children plant in cups?",
+      "options": [
+        "Bean seeds.",
+        "Apple trees.",
+        "Snow flowers."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Bean seeds.",
+      "existingAnswerExplanation": "孩子們在小杯子裡種豆子",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On Monday Ms. Wen took the club to the garden without the green box. “We can still learn,” she said. The children put bean seeds from a class bag into small cups. They used a tool to dig little holes, then covered the seeds with earth. A frog sat near the water bowl, watching them. A hen from the school farm walked by with her neck held high. Jun wanted to race the others and finish first, but Ivy reminded him that a plant could not grow in one minute.",
+          "chinese": "星期一，溫老師帶園藝社到沒有綠箱子的花園。「我們仍然可以學習，」她說。孩子們從班級的袋子裡拿出豆子，放進小杯子。他們用工具挖小洞，再用土蓋住種子。一隻青蛙坐在水碗旁看著他們。學校農場的一隻母雞抬著脖子經過。俊想和大家比賽，看誰先完成，但艾薇提醒他，植物不是一分鐘就能長大的。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 2,
+          "english": "That afternoon the club put the newly planted bean cups in three places and watched how the light changed. One place was under a tree, another was beside the window, and the last was near the garden wall. Ivy did not say that one place was best before they had tried them. Since the beans had been planted only that morning, there were no leaves to look at yet. She asked each child to draw what they expected to see after the seeds began to grow. A boy imagined tiny hands for leaves; a girl drew green boats. They were different guesses about the same future plant, not observations of leaves that were already there.",
+          "chinese": "那天下午，社團把早上剛種好的豆子杯放在三個位置，觀察光線如何變化：樹下、窗邊和花園牆旁。還沒實際測試以前，艾薇不說哪個位置最好。豆子才種下幾個小時，還沒有葉子可以觀察，所以她請大家畫出自己想像種子發芽後的樣子。一個男孩想像葉片像小手，另一個女孩畫成綠色小船。那都是對未來植物的不同猜測，而不是已經長出葉子的觀察紀錄。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How did Ivy help a child who dropped a cup?",
+      "options": [
+        "She told him to leave.",
+        "She helped him put the earth back.",
+        "She took away his seeds forever."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "She helped him put the earth back.",
+      "existingAnswerExplanation": "艾薇幫孩子把土放回杯中，讓他再次嘗試",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "Before they left, Ms. Wen asked Ivy to choose one person to help carry the cups indoors. Ivy chose the boy who had dropped his cup, because he wanted a chance to show what he could do. He walked slowly and kept both hands under the tray. No cup fell. Ivy thanked him, and he looked proud. On the way home she remembered that finding the green box mattered, but how they treated one another during the search mattered too. Both things were part of making a good garden.",
+          "chinese": "離開前，溫老師請艾薇選一個人幫忙把杯子搬進室內。艾薇選了剛才碰倒杯子的男孩，因為他想證明自己也能做好。他慢慢走，雙手托著盤子底部。一個杯子都沒掉。艾薇向他道謝，他露出自豪的神情。回家路上，艾薇想著：找到綠箱子很重要，但尋找過程中如何對待彼此也很重要。兩件事都是打造好花園的一部分。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 4,
+          "english": "During the lesson a boy knocked over a cup and said, “Sorry.” His face grew red. Ivy helped put the earth back. “You did not do it on purpose,” she said. “We can make another cup.” Ms. Wen said they had made a fair deal with one another: everyone could learn, even by making mistakes. The boy smiled and tried again. He did not win a race, but his seed was safe. Ivy found that the small work made the missing box feel less frightening.",
+          "chinese": "上課時，一個男孩不小心碰倒杯子，說了聲「對不起」。他的臉紅了。艾薇幫忙把土放回去。「你不是故意的，」她說，「我們可以再做一杯。」溫老師說，大家彼此有一個公平的約定：每個人都能學習，即使犯錯也可以。男孩笑著重新開始。他沒有贏得比賽，但種子是安全的。艾薇發現，這些小工作讓失蹤的箱子不再那麼可怕。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

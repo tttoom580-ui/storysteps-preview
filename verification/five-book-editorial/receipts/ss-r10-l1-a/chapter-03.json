@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 3,
+  "chapterId": "ss-r10-l1-a-3",
+  "sourceChapterSha256": "07c56645b950e1669a9d4d6e029b1051b1bce7a6196e95cc889bad81a6acacbf",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "首次週六沿海灘看天空；索爾奶奶指出橋上台階問題",
+    "previousChapterEndingEnglish": "Before leaving, Nia and Ada made a notice for families. It said the class was for people of different ages and that visitors did not have to own a telescope. Every Saturday would have one indoor activity and one question to take home. Ada took a photo of the notice to share with the library. \"It may not sound exciting,\" she said. Nia read it again and smiled. \"It sounds honest.\" The two women put the notice at eye level, not too high. People walking past the center could read it without stopping in the street. That was the first part of their plan that was truly ready.",
+    "nextChapterOpeningEnglish": "On Tuesday, a strong wind began to blow through Red Brick Street. A dark cloud covered the sun. Nia watched a butterfly fly past the window and wondered how she could explain the weather in simple words. Downstairs, a worker from the paper factory had come to fix a door. He saw her blue paper squares and said they looked like little pieces of the sky. \"That is the idea,\" Nia said. \"We want to make a sky that children can change.\" The worker offered some cheap clean paper from the factory. He would bring it to the center after his shift. Nia thanked him for the service, but asked that the paper have no sharp edges."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The first Saturday began with a walk, not a telescope. Nia wanted everyone to know where the sun went down and why the sky looked different from one place to another. Eight people came, including Finn, Mrs. Sol, and a boy named Bo. They followed a clean path from the center toward the beach. The route crossed a small bridge, then turned beside a bus station. Nia asked the group to stand on the safe side of the road. A bird sang in a tree, and Bo pointed toward a far white cloud. \"Is that where the moon is born?\" he asked. Nia said that the moon did not begin there; it only seemed to move across the sky.",
+        "zh": "第一個星期六的課程從散步開始，不是從望遠鏡開始。妮雅想讓大家先知道太陽在哪裡落下，也了解為什麼不同地方看見的天空不一樣。八個人來參加，包括芬恩、索爾奶奶和一位叫波的小男孩。他們沿著乾淨的小路從中心走向海灘，經過一座小橋，再轉進公車站旁。妮雅請大家站在道路安全的一側。樹上有鳥在唱歌，波指著遠方的一朵白雲問：「月亮是在那裡出生的嗎？」妮雅說，月亮不是在那裡誕生，只是看起來會在天空中移動。",
+        "englishSha256": "bd53df84dadbe617a2012de7ce7556dd5d94e9f064c6fe53cc94a4cd07c74676",
+        "chineseSha256": "850999fa81c9f589f320dc7dd64c622b75ca5c499df1e4444d9e8a7d37cf5b4d"
+      },
+      {
+        "number": 2,
+        "en": "Near the shore, a worker was washing a table outside the small visitor station. Water ran into a drain. A cow stood in a field behind the road. Nia asked the children to draw a line where the water seemed to meet the sky. She did not ask them to find an exact answer. \"Every drawing will be a little different,\" she said. \"That is all right. First, look; then draw.\" Bo took off one shoe because a stone had entered it. Nia waited while he cleaned it. A child could not learn well with a stone under his foot. Mrs. Sol thanked her for not hurrying everyone.",
+        "zh": "靠近岸邊時，一名工作人員正清洗遊客服務站外的桌子，水流進排水孔。道路後方的田裡站著一頭牛。妮雅請孩子們畫出海面看起來與天空相接的那條線。她沒有要求畫出唯一正確的答案。「每個人畫的會有些不同，」她說，「沒關係。先觀察，再畫。」波脫下一隻鞋，因為裡面跑進了小石頭。妮雅等他把鞋清乾淨。腳底踩著石頭的孩子很難專心學習。索爾奶奶感謝她沒有催促大家。",
+        "englishSha256": "e9c050d0cb57f712cc06ed2059a0bb07a88e3718c820a04cf6fb647831e60c7c",
+        "chineseSha256": "531203f9cdab3ebb0b18e58af90556c54a32c7b0993959175b6d42e50fa3f73b"
+      },
+      {
+        "number": 3,
+        "en": "At the beach, Ada pulled out a wide strip of blue paper. She folded it in half and held it above a little drawing of a house. \"When we stand here, we see more open sky,\" she said. \"When we stand beside a tall house, we see less.\" Finn wanted to know what would happen if he looked through a window instead. Nia told him they would test that indoors later. A parent asked about the high wall near the station. Nia explained that the group would not climb it. She had marked a safe line with chalk so nobody would walk too close to the edge of the steps.",
+        "zh": "到了海灘，艾達拿出一條寬寬的藍紙，把它對折，放在一張小房子的圖畫上方。「我們站在這裡時，能看見較大片的天空，」她說，「站在高房子旁，就看見得比較少。」芬恩想知道，如果隔著窗戶看又會怎樣。妮雅說，之後會在室內試試。一位家長問起服務站旁的高牆。妮雅解釋，大家不會爬上去。她已經用粉筆畫好安全線，避免有人太接近階梯邊緣。",
+        "englishSha256": "d8219c32aa8c7b470004afcf6b99dddaaac81b1b3638eb20654e2d79ea851b97",
+        "chineseSha256": "c62a0a9c4d8ed75a3277ee3f1169fde090c04ec3f04bf38d6b0ce6684b807a84"
+      },
+      {
+        "number": 4,
+        "en": "On the walk back, Bo asked if all of this was really about stars. His legs were tired and the sky was still bright. Nia stopped beside the bridge. \"Yes,\" she said. \"A star may be very far away, but we begin by learning where we stand.\" She showed the group two drawings: one made beside the tall houses, one made at the beach. Finn noticed more open sky in the second drawing. The class had found an answer without seeing a single star. Nia wrote the result on a large card that would hang in their room: The place where we look can change what we see.",
+        "zh": "回程時，波問這些活動是不是真的在教星星。他的腿累了，天空卻還很亮。妮雅在橋邊停下來。「是的，」她說，「星星可能非常遠，但我們得先知道自己站在哪裡。」她拿出兩張畫：一張在高樓旁畫的，一張在海灘畫的。芬恩發現第二張有更大的天空。全班沒有看見任何一顆星，就已經找到一個答案。妮雅把結果寫在一張大卡片上，準備掛進教室：觀察的位置會改變我們看見的景象。",
+        "englishSha256": "c8ab4db493324f429468183b033cb24b21ef150cd5741387f5fd04499dc48b05",
+        "chineseSha256": "41f482bfb0f5d7c4cfb988a2ea4209a65ad72c74f2b6845dd17c70a5f04026ca"
+      },
+      {
+        "number": 5,
+        "en": "When they came to the station on the way home, Nia asked everyone to follow the painted line on the wide sidewalk. A small cart was blocking one corner. The worker beside it offered to pull the cart closer to the wall so the group could pass. Nia thanked him and waited until the path was clear. She did not ask the children to squeeze between the cart and the road. Back at the center, Ada drew the cart on the route map. The group discussed what to do if a path changed without warning. Finn suggested stopping and asking an adult for help instead of rushing ahead. That answer went on the wall beside their sky drawings. Finding a good place to look also meant finding a good way to get there.",
+        "zh": "回程走到車站時，妮雅請大家沿著寬人行道上的標線前進。轉角有一輛小推車擋住道路，旁邊的工作人員主動把車往牆邊拉，讓隊伍通過。妮雅道謝，等通道清楚後才繼續，沒有叫孩子擠在推車與車道之間。回到中心後，艾達把推車畫進路線地圖，大家討論如果道路突然改變該怎麼辦。芬恩提議停下來請大人協助，不要急著往前跑。這個答案被貼在星空畫旁。找到適合觀察的位置，也需要找到安全抵達那裡的方法。",
+        "englishSha256": "29b8755ffa2eb1086dfa790f4ec6d34b910f8f541e6b1992c7744fd97e22f51b",
+        "chineseSha256": "b9b05086d5e7ca061c897115e85198d29ae225419d42862f2517aa1d4e11afa7"
+      },
+      {
+        "number": 6,
+        "en": "Back in the room, Nia asked people to tell her what had been easy and what had been hard. Mrs. Sol said the beach path was flat, but the bridge had a step that made her slow down. Bo said that he liked the bird, but he did not like waiting beside the road. Ada wrote both comments beside the map. These notes were not a test of the people. They were a test of the lesson. Nia moved the next week's outdoor plan to a shorter path. She also made a rule: any person could ask for a break. Looking at the sky should never mean leaving someone behind.",
+        "zh": "回到教室後，妮雅請大家說說哪些事容易、哪些事困難。索爾奶奶說，海灘小路很平，但橋上有一階讓她走得較慢。波說他喜歡鳥，卻不喜歡在路邊等候。艾達把兩個意見都記在地圖旁。這些筆記不是考驗人，而是在考驗課程設計。妮雅把下星期的戶外行程改為更短的路線，並立下一條規定：任何人都可以要求休息。抬頭看天空，不該讓任何人被留下。",
+        "englishSha256": "752480631da285e1676e581a90dbd86617e28613412dfc24b89ed97fab9ab7ea",
+        "chineseSha256": "99fc2bfa69a7bc52b3acba606d8423efd2305a3afabaf73bd119d10a5d5b2fc3"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 688,
+    "targets": [
+      {
+        "word": "about",
+        "meaning": "關於",
+        "appearsInSource": true
+      },
+      {
+        "word": "beach",
+        "meaning": "海灘",
+        "appearsInSource": true
+      },
+      {
+        "word": "bird",
+        "meaning": "鳥",
+        "appearsInSource": true
+      },
+      {
+        "word": "born",
+        "meaning": "出生／誕生",
+        "appearsInSource": true
+      },
+      {
+        "word": "bridge",
+        "meaning": "橋",
+        "appearsInSource": true
+      },
+      {
+        "word": "clean",
+        "meaning": "乾淨的／清理",
+        "appearsInSource": true
+      },
+      {
+        "word": "cow",
+        "meaning": "牛",
+        "appearsInSource": true
+      },
+      {
+        "word": "Every",
+        "meaning": "每個",
+        "appearsInSource": true
+      },
+      {
+        "word": "far",
+        "meaning": "太遠／遠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "follow",
+        "meaning": "跟隨",
+        "appearsInSource": true
+      },
+      {
+        "word": "happen",
+        "meaning": "發生",
+        "appearsInSource": true
+      },
+      {
+        "word": "into",
+        "meaning": "進入",
+        "appearsInSource": true
+      },
+      {
+        "word": "line",
+        "meaning": "線／路線",
+        "appearsInSource": true
+      },
+      {
+        "word": "pull",
+        "meaning": "拉扯",
+        "appearsInSource": true
+      },
+      {
+        "word": "road",
+        "meaning": "道路",
+        "appearsInSource": true
+      },
+      {
+        "word": "shoe",
+        "meaning": "鞋子",
+        "appearsInSource": true
+      },
+      {
+        "word": "side",
+        "meaning": "側邊",
+        "appearsInSource": true
+      },
+      {
+        "word": "station",
+        "meaning": "公車站／服務站",
+        "appearsInSource": true
+      },
+      {
+        "word": "table",
+        "meaning": "桌子",
+        "appearsInSource": true
+      },
+      {
+        "word": "Water",
+        "meaning": "水",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Where does the first Saturday walk go?",
+      "options": [
+        "Toward the beach.",
+        "To an airport.",
+        "Into a deep forest."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Toward the beach.",
+      "existingAnswerExplanation": "班上沿路走向海灘，觀察開闊天空。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The first Saturday began with a walk, not a telescope. Nia wanted everyone to know where the sun went down and why the sky looked different from one place to another. Eight people came, including Finn, Mrs. Sol, and a boy named Bo. They followed a clean path from the center toward the beach. The route crossed a small bridge, then turned beside a bus station. Nia asked the group to stand on the safe side of the road. A bird sang in a tree, and Bo pointed toward a far white cloud. \"Is that where the moon is born?\" he asked. Nia said that the moon did not begin there; it only seemed to move across the sky.",
+          "chinese": "第一個星期六的課程從散步開始，不是從望遠鏡開始。妮雅想讓大家先知道太陽在哪裡落下，也了解為什麼不同地方看見的天空不一樣。八個人來參加，包括芬恩、索爾奶奶和一位叫波的小男孩。他們沿著乾淨的小路從中心走向海灘，經過一座小橋，再轉進公車站旁。妮雅請大家站在道路安全的一側。樹上有鳥在唱歌，波指著遠方的一朵白雲問：「月亮是在那裡出生的嗎？」妮雅說，月亮不是在那裡誕生，只是看起來會在天空中移動。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 3,
+          "english": "At the beach, Ada pulled out a wide strip of blue paper. She folded it in half and held it above a little drawing of a house. \"When we stand here, we see more open sky,\" she said. \"When we stand beside a tall house, we see less.\" Finn wanted to know what would happen if he looked through a window instead. Nia told him they would test that indoors later. A parent asked about the high wall near the station. Nia explained that the group would not climb it. She had marked a safe line with chalk so nobody would walk too close to the edge of the steps.",
+          "chinese": "到了海灘，艾達拿出一條寬寬的藍紙，把它對折，放在一張小房子的圖畫上方。「我們站在這裡時，能看見較大片的天空，」她說，「站在高房子旁，就看見得比較少。」芬恩想知道，如果隔著窗戶看又會怎樣。妮雅說，之後會在室內試試。一位家長問起服務站旁的高牆。妮雅解釋，大家不會爬上去。她已經用粉筆畫好安全線，避免有人太接近階梯邊緣。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Nia change the next walking plan?",
+      "options": [
+        "The sky has no stars.",
+        "All the books are lost.",
+        "The bridge step is hard for Mrs. Sol."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "The bridge step is hard for Mrs. Sol.",
+      "existingAnswerExplanation": "索爾奶奶指出橋上的台階讓她走得慢，妮雅因此縮短下次路線。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Back in the room, Nia asked people to tell her what had been easy and what had been hard. Mrs. Sol said the beach path was flat, but the bridge had a step that made her slow down. Bo said that he liked the bird, but he did not like waiting beside the road. Ada wrote both comments beside the map. These notes were not a test of the people. They were a test of the lesson. Nia moved the next week's outdoor plan to a shorter path. She also made a rule: any person could ask for a break. Looking at the sky should never mean leaving someone behind.",
+          "chinese": "回到教室後，妮雅請大家說說哪些事容易、哪些事困難。索爾奶奶說，海灘小路很平，但橋上有一階讓她走得較慢。波說他喜歡鳥，卻不喜歡在路邊等候。艾達把兩個意見都記在地圖旁。這些筆記不是考驗人，而是在考驗課程設計。妮雅把下星期的戶外行程改為更短的路線，並立下一條規定：任何人都可以要求休息。抬頭看天空，不該讓任何人被留下。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The first Saturday began with a walk, not a telescope. Nia wanted everyone to know where the sun went down and why the sky looked different from one place to another. Eight people came, including Finn, Mrs. Sol, and a boy named Bo. They followed a clean path from the center toward the beach. The route crossed a small bridge, then turned beside a bus station. Nia asked the group to stand on the safe side of the road. A bird sang in a tree, and Bo pointed toward a far white cloud. \"Is that where the moon is born?\" he asked. Nia said that the moon did not begin there; it only seemed to move across the sky.",
+          "chinese": "第一個星期六的課程從散步開始，不是從望遠鏡開始。妮雅想讓大家先知道太陽在哪裡落下，也了解為什麼不同地方看見的天空不一樣。八個人來參加，包括芬恩、索爾奶奶和一位叫波的小男孩。他們沿著乾淨的小路從中心走向海灘，經過一座小橋，再轉進公車站旁。妮雅請大家站在道路安全的一側。樹上有鳥在唱歌，波指著遠方的一朵白雲問：「月亮是在那裡出生的嗎？」妮雅說，月亮不是在那裡誕生，只是看起來會在天空中移動。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 11,
+  "chapterId": "ss-r10-l1-a-11",
+  "sourceChapterSha256": "c9aa6e7ccc9ec9c972e56744e6ba03f1e0a89a74d8063838790eb0512a1cd1e7",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "暖房設備故障移至圖書館；盲人學員改用朗讀及凸字標籤",
+    "previousChapterEndingEnglish": "When Tomas left, he said he might return next week if the class kept working this way. Nia did not ask him to promise. She put both versions of the map on the shelf, one with crowded string and one with clear spaces. \"We need both,\" she told Ada. \"The first shows why we changed the second.\" Ada agreed. A class record was not only a place for finished work. It should also show how people learned. Nia looked again at the six-week plan. The next month would be busy, but the room now had one more person who could help decide what the lessons should become.",
+    "nextChapterOpeningEnglish": "The center reopened, and Nia set a large picture of the solar system on the wall. Ada rode her bicycle to the library to borrow a second book. When she returned, she found Finn and Tomas looking at a model of Earth. Tomas said, \"I can feel the raised land on this ball, but where does our town belong?\" Nia placed a small soft dot on the model and said it stood for their home. \"The planet is much bigger than this,\" she explained. \"The dot is not the real size of our town. It only helps us know where we are.\" Finn asked if he could pick a place for the moon as well."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On a cold Tuesday, the weather changed quickly. Nia drove past the center in her brother's car and saw a blue sign on the door: The heating fan was not working. Arun had already called the repair service, but the worker could not come until afternoon. The room would be safe later, but it was too cold for the optional Tuesday reading group Nia had arranged between the six Saturday lessons. Nia wanted to call every family before they left home. She did not have everyone's telephone number, so she asked the center secretary for help. The secretary used the list that families had agreed could be used for class notices. Nobody's number was put on a public wall.",
+        "zh": "一個寒冷的星期二，天氣突然起了變化。妮雅坐弟弟的車經過中心，看見門上貼著藍色告示：暖風機故障。亞倫已經聯絡維修人員，但對方下午才能來。房間稍後會恢復安全，但妮雅在六堂星期六正式課之間加開的週二晨間閱讀小組，當下不能在這麼冷的地方活動。妮雅想在大家出門前通知每個家庭，自己卻沒有所有人的電話。她請中心秘書協助，秘書只使用家長同意用來接收課程通知的名單，沒有把任何人的電話公開貼在牆上。",
+        "englishSha256": "f2250dd2464ca2dedb289ee556bed5f911e0d1cfbbf8e0a98d964ba59458f4ec",
+        "chineseSha256": "57008ff5945a6b3ee4aef953db78a9482e22b724eb4eab1ee59225e7e14c1a22"
+      },
+      {
+        "number": 2,
+        "en": "Most families answered, but one did not. It was the family of a nurse who worked a night shift. Nia left a short message and asked Arun to watch the door. If the family arrived, he could tell them about the change. Mrs. Sol suggested a warm corner in the library for a small reading group. The library was past the temple and under a large tree. They walked there with two books and a dictionary. Tomas asked Nia to read the planet names aloud and let him trace the raised labels on the models. She could point to the labels as she read, but she was not sure how to explain every word clearly. She wrote the hard words on a separate page to check later.",
+        "zh": "大多數家庭都接到通知，但有一家沒有回應。那家的媽媽是輪夜班的護理師。妮雅留了簡短訊息，請亞倫在門邊留意；如果對方來了，就能告訴他們變更地點。索爾奶奶提議到圖書館溫暖的角落，進行小型閱讀活動。圖書館在寺廟後方、大樹下方。他們帶著兩本書和一本字典走過去。托馬斯請妮雅念出行星名稱，並讓他觸摸模型上的凸起標籤。妮雅一邊指著標籤一邊朗讀，卻不確定如何清楚解釋每個詞，便把難字另記一頁，準備查證。",
+        "englishSha256": "bff4ba3d5d35e142ce958688ab20f8967864809dea776b873f9fb246e64a0766",
+        "chineseSha256": "0edc48a4f97af45f865047adc2bea13641bccd4c46fdf3e08fcd99bbd8be3153"
+      },
+      {
+        "number": 3,
+        "en": "At the library, Finn pointed to a sentence in a book: \"A thousand stars filled the night.\" He asked whether the writer had really counted a thousand. \"Probably not,\" Nia said. \"Maybe the writer meant there were many stars.\" Tomas said a sentence in a story could be beautiful without being a measurement. The children liked that answer. Ada found an old chart from the past that showed how people once drew stars as animals. They compared it with a modern picture. \"These are different ways to tell a story about the same sky,\" Nia said. She made sure that the group understood which part was art and which part was observation.",
+        "zh": "在圖書館裡，芬恩指著書中的一句話：「夜裡滿是千顆星星。」他問作者是不是真的數過一千顆。「大概沒有，」妮雅說，「也許作者只是想說星星很多。」托馬斯說，故事裡的句子即使不是測量結果，也可以很美。孩子們喜歡這個答案。艾達找到一張過去的星圖，上面的人把星星連成動物。她們拿它和現代圖片比較。「這是對同一片天空說故事的不同方法，」妮雅說。她確定大家分得清哪些是藝術，哪些是觀察。",
+        "englishSha256": "4222dffc75fa0e88804fccb0c0f87b94fff642091a78443b400bccc6ecee94bc",
+        "chineseSha256": "2a9e16b4154e844fc71e374046f27f8a89bd2ca4b4519cd6dc774149573b18f2"
+      },
+      {
+        "number": 4,
+        "en": "Mara arrived carrying warm soup she had cooked in the community kitchen. The librarian said food must stay outside the reading area, so everyone went to the small table in the hall. The children were wearing coats over their shirts. They ate slowly and talked about the planet names. A little boy asked whether Earth could be called a star. Nia said no and used a simple picture to explain why. She then asked everyone to draw one thing they had learned. It was a shorter lesson than planned, but it was still a lesson. The group had changed rooms without losing their chance to learn together.",
+        "zh": "瑪拉帶著在社區廚房煮好的熱湯來了。圖書館員提醒大家，閱讀區不能吃東西，所以一行人到走廊的小桌旁用餐。孩子們在襯衫外穿著外套，一邊慢慢喝湯，一邊聊行星名字。一位小男孩問，地球可不可以叫作星星。妮雅說不行，拿簡單圖畫說明原因。接著，她請每個人畫下一件今天學到的事。這堂課比原先短，卻仍是一堂真正的課。大家換了地方，也沒有失去一起學習的機會。",
+        "englishSha256": "83e6cdca06d39c772e62130425743495f4f5691d6ece2d0b3c514f4c89b8530e",
+        "chineseSha256": "20d9a93f4806dcba11c86e39c67154dc10ae37037e5c9ad277b0971dcec16785"
+      },
+      {
+        "number": 5,
+        "en": "The librarian showed the children a warm reading corner and asked them to keep their coats and pants dry. A cook from the cafe next door stopped by to say the center kitchen might share a simple soup recipe with the class. Nia thanked him but said food was not needed for the science lesson. If families wanted a snack, it would stay in the hall. Tomas sat near the table and ran a finger over the raised labels Ada had attached to the cover of his new book. Finn asked the librarian why there were so many different books about the same planet. She answered that a book for a young child and one for a college student could both be useful. They just gave different amounts of information. Nia liked that comparison for her own lessons.",
+        "zh": "圖書館員帶孩子們看溫暖的閱讀角，提醒大家保持外套和長褲乾燥。隔壁咖啡館的一位廚師順道來說，中心廚房也許可以分享簡單的湯食譜給班上。妮雅謝謝他，但說科學課不需要準備食物。如果家庭要吃點心，就留在走廊。托馬斯坐在桌旁，用手指慢慢摸過艾達貼在新書封面上的凸起標籤。芬恩問圖書館員，為什麼同一顆行星有這麼多不同書。她回答，給小孩的書和給大學生的書都可能有用，只是提供的資訊量不同。妮雅很喜歡這個比較，覺得也適合用在自己的教學上。",
+        "englishSha256": "024d2edca89dd60cf2dd8f59e2128e82477fde6f580ec24f1564e6895bf68ce2",
+        "chineseSha256": "eb8335917bcd40cc1f09d1277a0b2ee3c4fbedad40b2633404372980d8c286e9"
+      },
+      {
+        "number": 6,
+        "en": "In the late afternoon, Arun said the fan had been repaired and checked by the worker. Nia asked whether the room could be used the next day, not just whether the air felt warm now. Arun showed her the service note and the date of the check. \"Good,\" she said. She did not want to guess about safety. At home she made a simple plan for cold days: contact families, offer an indoor backup room, and write down the change. She had begun the six weeks thinking only about the stars. Now she understood that keeping a class open meant looking after much more than the lesson itself.",
+        "zh": "傍晚，亞倫說暖風機已由維修人員修好並檢查。妮雅問的是房間明天能否使用，而不是現在空氣感覺暖不暖。亞倫拿出有日期的維修紀錄。「很好，」她說。她不想對安全問題猜測。回家後，她訂出寒冷天氣的簡單計畫：通知家庭、提供室內備用地點、把調整記錄下來。六週課程剛開始時，她只想著星星。現在她明白，維持課程需要照顧的事遠不只有教材。",
+        "englishSha256": "8dea469035c8c33873ccacb231ac14210dc66411d100b6dc9171d488f044084a",
+        "chineseSha256": "1aee37c3cecd61ee84283ec4ac4ead2074ea630388494175b844060dfebc5aae"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 711,
+    "targets": [
+      {
+        "word": "be",
+        "meaning": "是／成為",
+        "appearsInSource": true
+      },
+      {
+        "word": "blue",
+        "meaning": "藍色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "call",
+        "meaning": "打電話",
+        "appearsInSource": true
+      },
+      {
+        "word": "car",
+        "meaning": "汽車",
+        "appearsInSource": true
+      },
+      {
+        "word": "cold",
+        "meaning": "寒冷的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cook",
+        "meaning": "煮／烹調",
+        "appearsInSource": true
+      },
+      {
+        "word": "dictionary",
+        "meaning": "字典",
+        "appearsInSource": true
+      },
+      {
+        "word": "fan",
+        "meaning": "風扇",
+        "appearsInSource": true
+      },
+      {
+        "word": "Maybe",
+        "meaning": "也許",
+        "appearsInSource": true
+      },
+      {
+        "word": "nurse",
+        "meaning": "護理師",
+        "appearsInSource": true
+      },
+      {
+        "word": "pants",
+        "meaning": "長褲",
+        "appearsInSource": true
+      },
+      {
+        "word": "past",
+        "meaning": "過去",
+        "appearsInSource": true
+      },
+      {
+        "word": "Probably",
+        "meaning": "可能",
+        "appearsInSource": true
+      },
+      {
+        "word": "secretary",
+        "meaning": "秘書",
+        "appearsInSource": true
+      },
+      {
+        "word": "sentence",
+        "meaning": "句子",
+        "appearsInSource": true
+      },
+      {
+        "word": "temple",
+        "meaning": "寺廟",
+        "appearsInSource": true
+      },
+      {
+        "word": "thousand",
+        "meaning": "一千",
+        "appearsInSource": true
+      },
+      {
+        "word": "tree",
+        "meaning": "樹",
+        "appearsInSource": true
+      },
+      {
+        "word": "under",
+        "meaning": "在……下方",
+        "appearsInSource": true
+      },
+      {
+        "word": "weather",
+        "meaning": "天氣",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does the group move to the library?",
+      "options": [
+        "The center room is too cold.",
+        "The class has ended forever.",
+        "The field is too large."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The center room is too cold.",
+      "existingAnswerExplanation": "暖風機故障使房間過冷，於是暫時改在圖書館上課。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On a cold Tuesday, the weather changed quickly. Nia drove past the center in her brother's car and saw a blue sign on the door: The heating fan was not working. Arun had already called the repair service, but the worker could not come until afternoon. The room would be safe later, but it was too cold for the optional Tuesday reading group Nia had arranged between the six Saturday lessons. Nia wanted to call every family before they left home. She did not have everyone's telephone number, so she asked the center secretary for help. The secretary used the list that families had agreed could be used for class notices. Nobody's number was put on a public wall.",
+          "chinese": "一個寒冷的星期二，天氣突然起了變化。妮雅坐弟弟的車經過中心，看見門上貼著藍色告示：暖風機故障。亞倫已經聯絡維修人員，但對方下午才能來。房間稍後會恢復安全，但妮雅在六堂星期六正式課之間加開的週二晨間閱讀小組，當下不能在這麼冷的地方活動。妮雅想在大家出門前通知每個家庭，自己卻沒有所有人的電話。她請中心秘書協助，秘書只使用家長同意用來接收課程通知的名單，沒有把任何人的電話公開貼在牆上。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 2,
+          "english": "Most families answered, but one did not. It was the family of a nurse who worked a night shift. Nia left a short message and asked Arun to watch the door. If the family arrived, he could tell them about the change. Mrs. Sol suggested a warm corner in the library for a small reading group. The library was past the temple and under a large tree. They walked there with two books and a dictionary. Tomas asked Nia to read the planet names aloud and let him trace the raised labels on the models. She could point to the labels as she read, but she was not sure how to explain every word clearly. She wrote the hard words on a separate page to check later.",
+          "chinese": "大多數家庭都接到通知，但有一家沒有回應。那家的媽媽是輪夜班的護理師。妮雅留了簡短訊息，請亞倫在門邊留意；如果對方來了，就能告訴他們變更地點。索爾奶奶提議到圖書館溫暖的角落，進行小型閱讀活動。圖書館在寺廟後方、大樹下方。他們帶著兩本書和一本字典走過去。托馬斯請妮雅念出行星名稱，並讓他觸摸模型上的凸起標籤。妮雅一邊指著標籤一邊朗讀，卻不確定如何清楚解釋每個詞，便把難字另記一頁，準備查證。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How does Nia know the room is ready later?",
+      "options": [
+        "She guesses from the sun.",
+        "A child opens the window.",
+        "She checks the repair service note."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "She checks the repair service note.",
+      "existingAnswerExplanation": "妮雅查看有日期的維修紀錄，避免只憑感覺判斷安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On a cold Tuesday, the weather changed quickly. Nia drove past the center in her brother's car and saw a blue sign on the door: The heating fan was not working. Arun had already called the repair service, but the worker could not come until afternoon. The room would be safe later, but it was too cold for the optional Tuesday reading group Nia had arranged between the six Saturday lessons. Nia wanted to call every family before they left home. She did not have everyone's telephone number, so she asked the center secretary for help. The secretary used the list that families had agreed could be used for class notices. Nobody's number was put on a public wall.",
+          "chinese": "一個寒冷的星期二，天氣突然起了變化。妮雅坐弟弟的車經過中心，看見門上貼著藍色告示：暖風機故障。亞倫已經聯絡維修人員，但對方下午才能來。房間稍後會恢復安全，但妮雅在六堂星期六正式課之間加開的週二晨間閱讀小組，當下不能在這麼冷的地方活動。妮雅想在大家出門前通知每個家庭，自己卻沒有所有人的電話。她請中心秘書協助，秘書只使用家長同意用來接收課程通知的名單，沒有把任何人的電話公開貼在牆上。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 6,
+          "english": "In the late afternoon, Arun said the fan had been repaired and checked by the worker. Nia asked whether the room could be used the next day, not just whether the air felt warm now. Arun showed her the service note and the date of the check. \"Good,\" she said. She did not want to guess about safety. At home she made a simple plan for cold days: contact families, offer an indoor backup room, and write down the change. She had begun the six weeks thinking only about the stars. Now she understood that keeping a class open meant looking after much more than the lesson itself.",
+          "chinese": "傍晚，亞倫說暖風機已由維修人員修好並檢查。妮雅問的是房間明天能否使用，而不是現在空氣感覺暖不暖。亞倫拿出有日期的維修紀錄。「很好，」她說。她不想對安全問題猜測。回家後，她訂出寒冷天氣的簡單計畫：通知家庭、提供室內備用地點、把調整記錄下來。六週課程剛開始時，她只想著星星。現在她明白，維持課程需要照顧的事遠不只有教材。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

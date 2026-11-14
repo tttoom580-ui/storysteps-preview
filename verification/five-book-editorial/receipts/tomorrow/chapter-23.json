@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 23,
+  "chapterId": "tomorrow-23",
+  "sourceChapterSha256": "297c85d3b65e180ac83ee675ed6adbb0bdc5ac714f09991c784903882116e4c8",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "Leo 說明影像外流和撤除限制；無法保證所有私人副本消失",
+    "previousChapterEndingEnglish": "That afternoon, a student I barely knew stopped at my desk. “I shared the old June video,” he said. “Where should I put the correction?” I showed him the link and asked him to share it in the same groups. He wrote it down. One person. No rising bar. No loud success. On Monday, I would have thought it was too small to matter. On Friday, I made room for it.",
+    "nextChapterOpeningEnglish": "If June asks you to be in another film, say yes before you get scared. That was the forgotten sentence. Below it, my younger self had added three terrible drawings: a key, a camera, and a bird that looked like a potato. I remembered writing the letter beside June in the computer room. She had laughed at the bird until the teacher asked us to separate our chairs."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Two weeks passed. The correction stayed at the top of the school page. It was also sent to the class groups through teachers, not left for students to discover by chance. Some old clips remained on private phones. The school could ask people to remove them, but it could not promise that every copy had vanished. I liked the honest limit more than a bright promise nobody could keep.",
+        "zh": "兩週過去。更正一直置頂，也由老師傳到班群，不讓學生碰運氣發現。舊片有些仍在私人手機。學校能要求刪除，不能保證每份都消失。我更喜歡誠實限制，而非沒人守得住的漂亮承諾。",
+        "englishSha256": "b71901b706ee7637f7b50314c2461d3935133b08c33a128e61c0ae690aab9234",
+        "chineseSha256": "c3320a291e8955bd7242ee5ba0e30a5a5af59eee9f8ef8c8b9909c3a8134d5e0"
+      },
+      {
+        "number": 2,
+        "en": "The review found that Kai had changed several public vote results and had used Bell to pressure students. The school met with him and his family, removed him from the media team for the rest of the year, and set conditions for any future role. They did not publish his private counseling details. His award application remained withdrawn. He was still a student, and he was still responsible for what he had done.",
+        "zh": "調查確認 Kai 改過數次公開結果，也用 Bell 施壓。學校與他和家人會談，取消本學年媒體團隊職務，並設定未來參與條件，沒公開輔導隱私。獎項申請仍撤回。他仍是學生，也仍須為行為負責。",
+        "englishSha256": "df29e32ac4f06167f1fe8400ede8d8e2f5db6e07195bacbf38730411f725c9b4",
+        "chineseSha256": "a1a62ede7f5670809b40a744a1c19f3f3b2a8e1123b3c4b50a53ac7a3605939b"
+      },
+      {
+        "number": 3,
+        "en": "Ada was asked to explain the parts she had made and to help correct the false idea that the numbers counted individual students. She stepped back from the show team while that work was checked. Sam's role in dropping the scarf was recorded along with the pressure used against him. Nobody told him that being frightened erased the harm. Nobody treated being frightened as a reason to refuse him help.",
+        "zh": "Ada 說明自己製作部分，協助更正數字等於個別學生數的錯誤觀念，期間暫離團隊。Sam 丟圍巾的行為與所受壓力一起記錄。沒人說害怕能抹掉傷害，也沒人把害怕當成拒絕幫助的理由。",
+        "englishSha256": "247909e71c01a716deb0e461573843588aa3c640d62156b8134fe4a2b0a154f0",
+        "chineseSha256": "8aee7d5acef96025b2b9e47d7f57ab140e41df1b09be50dc1fe9c215e90b450c"
+      },
+      {
+        "number": 4,
+        "en": "Leo helped contact the people whose clips might have been exposed. Some were angry with him. One teacher said he should have known better. Another thanked him for explaining clearly. Leo took both answers without trying to turn them into one score. When the school approved it, he deleted the unrelated private copies. He showed me the empty folder, not the clips. That was an important difference.",
+        "zh": "Leo 協助聯絡影片可能暴露的人。有些生氣，一位老師說他該更懂，另一位謝謝他解釋清楚。他接住兩種回答，不把它們變成總分。獲學校同意後，他刪掉無關私人副本。他給我看空資料夾，不是影片，差別很重要。",
+        "englishSha256": "51c009484429f6e3db15211ea5649244c8562db19c5c582c9685a8958d441c3f",
+        "chineseSha256": "0eb5f18d6d532431e04a7b40d21d777789cc2421af000b2036abb814947de64e"
+      },
+      {
+        "number": 5,
+        "en": "I wrote directly to the people who had seen my old comments, using the same groups where I had posted them. It was less exciting than speaking on a stage. It took longer, too. Sometimes the only answer was a little check mark. Sometimes there was no answer. I did not collect screenshots of my apologies to prove I was improving. I kept a list only so I would not forget where the claim had gone.",
+        "zh": "我到曾發留言的相同群組直接更正，比上台不刺激，也更花時間。有時只有一個勾，有時沒回。我沒蒐集道歉截圖來證明自己進步，只留清單，避免忘記指控曾傳去哪。",
+        "englishSha256": "ba00d5a33a68dbf0d030c525e9c17752f1270f80ef775107cc745a6019265840",
+        "chineseSha256": "2b83099e68a5a2379b8ed003bd27477a13bdb0a4d591ae6e833082747d5537bb"
+      },
+      {
+        "number": 6,
+        "en": "June began classes at a small learning center near her aunt's home while her family arranged the next step. She sent me a picture of a window, with a plant leaning toward the light. No face, no long explanation. I wrote, Nice plant. She answered, It belongs to the teacher. You don't have to turn everything into a sign. I laughed aloud on the bus, and an old man looked at me.",
+        "zh": "June 在阿姨家附近的小型學習中心上課，家人安排下一步。她傳窗邊植物向光伸展的照片，沒有臉、沒有長解釋。我說植物很漂亮。她回：老師的，不用把所有東西都當徵兆。我在公車上笑出聲，老先生轉頭看我。",
+        "englishSha256": "619ad149b0dfdf26f3e93c9d6c4b1506dc19f3a8878ea8e84cd49f9ba6ba7beb",
+        "chineseSha256": "36c2764843e4d92334274b7e84b09bae754ca0649f4e903d746fe278a491b05e"
+      },
+      {
+        "number": 7,
+        "en": "Then she sent a second picture. It was a notice for a weekend short-film class. At the bottom, in her own writing, she had added, I signed up. I wanted to ask if I could come. I did not. Instead I asked what kind of film she wanted to make. A comedy, she wrote. I think I am allowed to be funny again. I told her I would watch it if she wanted an audience.",
+        "zh": "她又傳一張，是週末短片課程公告，下方親筆加「我報名了」。我想問能否一起，沒問，改問想拍哪種。她寫：喜劇，我想我可以再次好笑。我說如果她想要觀眾，我會看。",
+        "englishSha256": "999997dbdfdc03cfb3f6b65208c304b6e769b539230c8be8a59f45fda98eb3d4",
+        "chineseSha256": "4024f6bd7f4b969b06aed4d7b5818db7adf5f692efda148cb4f63064cc826334"
+      },
+      {
+        "number": 8,
+        "en": "That night, Later sent me an automatic email. My original class letter from last year was ready to open. I nearly deleted it. Then I remembered that the site was only a site. Someone had used it to scare me; it did not own every future message. I clicked the letter. Dear Future Mia, it began, please stop losing your keys. Under that was a sentence I had forgotten writing.",
+        "zh": "那晚 Later 寄自動通知：去年班級的原始信能開了。我差點刪掉，接著想起網站只是網站。有人用它嚇我，不代表它擁有每封未來訊息。我打開：親愛的未來 Mia，拜託別再弄丟鑰匙。下面還有一句我忘了寫過的話。",
+        "englishSha256": "9c7c84a4b7b4f326db8cc2bd538c29bb8a54c0a74cfcdddae18200fce057cfec",
+        "chineseSha256": "0cf8ae39bad5897558023b47ea2dbb48059fc546ba17b335ac317980b32ea8b0"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 572,
+    "targets": [
+      {
+        "word": "again",
+        "meaning": "再一次",
+        "appearsInSource": true
+      },
+      {
+        "word": "along",
+        "meaning": "沿著；一起",
+        "appearsInSource": true
+      },
+      {
+        "word": "another",
+        "meaning": "另一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "any",
+        "meaning": "任何；一些",
+        "appearsInSource": true
+      },
+      {
+        "word": "as",
+        "meaning": "當……時；作為；像",
+        "appearsInSource": true
+      },
+      {
+        "word": "both",
+        "meaning": "兩者；兩個都",
+        "appearsInSource": true
+      },
+      {
+        "word": "bus",
+        "meaning": "公車",
+        "appearsInSource": true
+      },
+      {
+        "word": "center",
+        "meaning": "中心",
+        "appearsInSource": true
+      },
+      {
+        "word": "chance",
+        "meaning": "機會",
+        "appearsInSource": true
+      },
+      {
+        "word": "dear",
+        "meaning": "親愛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "exciting",
+        "meaning": "令人興奮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "man",
+        "meaning": "男人",
+        "appearsInSource": true
+      },
+      {
+        "word": "nice",
+        "meaning": "好的；友善的",
+        "appearsInSource": true
+      },
+      {
+        "word": "plant",
+        "meaning": "植物；種植",
+        "appearsInSource": true
+      },
+      {
+        "word": "set",
+        "meaning": "放置；設定；一組",
+        "appearsInSource": true
+      },
+      {
+        "word": "several",
+        "meaning": "幾個",
+        "appearsInSource": true
+      },
+      {
+        "word": "sometimes",
+        "meaning": "有時候",
+        "appearsInSource": true
+      },
+      {
+        "word": "think",
+        "meaning": "想；認為",
+        "appearsInSource": true
+      },
+      {
+        "word": "watch",
+        "meaning": "觀看；手錶",
+        "appearsInSource": true
+      },
+      {
+        "word": "weekend",
+        "meaning": "週末",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What changes for Leo during the review?",
+      "options": [
+        "He becomes the new Zero host.",
+        "He explains the exposure and removes unrelated copies when allowed.",
+        "He keeps every private clip forever."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "He explains the exposure and removes unrelated copies when allowed.",
+      "existingAnswerExplanation": "He explains the exposure and removes unrelated copies when allowed.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Leo helped contact the people whose clips might have been exposed. Some were angry with him. One teacher said he should have known better. Another thanked him for explaining clearly. Leo took both answers without trying to turn them into one score. When the school approved it, he deleted the unrelated private copies. He showed me the empty folder, not the clips. That was an important difference.",
+          "chinese": "Leo 協助聯絡影片可能暴露的人。有些生氣，一位老師說他該更懂，另一位謝謝他解釋清楚。他接住兩種回答，不把它們變成總分。獲學校同意後，他刪掉無關私人副本。他給我看空資料夾，不是影片，差別很重要。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 7,
+          "english": "Then she sent a second picture. It was a notice for a weekend short-film class. At the bottom, in her own writing, she had added, I signed up. I wanted to ask if I could come. I did not. Instead I asked what kind of film she wanted to make. A comedy, she wrote. I think I am allowed to be funny again. I told her I would watch it if she wanted an audience.",
+          "chinese": "她又傳一張，是週末短片課程公告，下方親筆加「我報名了」。我想問能否一起，沒問，改問想拍哪種。她寫：喜劇，我想我可以再次好笑。我說如果她想要觀眾，我會看。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What limit does the school acknowledge about the old clips?",
+      "options": [
+        "It cannot guarantee that every private copy has disappeared.",
+        "It has never asked anyone to remove them.",
+        "It can erase all private phones instantly."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It cannot guarantee that every private copy has disappeared.",
+      "existingAnswerExplanation": "開頭說校方能要求刪除，卻不能保證所有私人手機上的副本都已消失。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Two weeks passed. The correction stayed at the top of the school page. It was also sent to the class groups through teachers, not left for students to discover by chance. Some old clips remained on private phones. The school could ask people to remove them, but it could not promise that every copy had vanished. I liked the honest limit more than a bright promise nobody could keep.",
+          "chinese": "兩週過去。更正一直置頂，也由老師傳到班群，不讓學生碰運氣發現。舊片有些仍在私人手機。學校能要求刪除，不能保證每份都消失。我更喜歡誠實限制，而非沒人守得住的漂亮承諾。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 4,
+          "english": "Leo helped contact the people whose clips might have been exposed. Some were angry with him. One teacher said he should have known better. Another thanked him for explaining clearly. Leo took both answers without trying to turn them into one score. When the school approved it, he deleted the unrelated private copies. He showed me the empty folder, not the clips. That was an important difference.",
+          "chinese": "Leo 協助聯絡影片可能暴露的人。有些生氣，一位老師說他該更懂，另一位謝謝他解釋清楚。他接住兩種回答，不把它們變成總分。獲學校同意後，他刪掉無關私人副本。他給我看空資料夾，不是影片，差別很重要。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

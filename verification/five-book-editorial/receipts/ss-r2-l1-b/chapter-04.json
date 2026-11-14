@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 4,
+  "chapterId": "ss-r2-l1-b-4",
+  "sourceChapterSha256": "13aa46c2c178a9e23f9d0bbb5605501e3873897f31205a5e58d202c9d37b3f44",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "門階先修木材再漆；路口重複過馬路已修",
+    "previousChapterEndingEnglish": "Before going home, Fia drew a small line through three jobs on her list. They had chosen plant places, found a table, and fixed a chair. There were still many empty lines. She was tired, but she did not feel afraid of them. Each line was only a question that could have an answer. She put the list beside the door for the next morning. When she turned off the lamp, the old wooden star was still easy to see in the moonlight. A shop was beginning, one careful choice at a time.",
+    "nextChapterOpeningEnglish": "On the fifth day, Fia went to the bank with a small bag of coins. She wanted to know how much money the breakfast shop could use. The clerk helped her count each coin. It was not a large sum. Fia wrote the number in her book and drew a straight line below it. She would not spend more than she had. Outside, a teenager with a yellow scarf was holding a long string. He was trying to tie two baskets to his bicycle. One basket turned to the side, and apples rolled onto the path. Fia helped him pick them up."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Rain came from the east before breakfast time. It fell on the roof and made a small pool beside the door. Moss put a bowl under a wet place inside. \"We must fix this,\" he said. Fia saw that the water came from a little block of wood near the window. They could not simply move the bowl and forget the problem. Both friends put on dry coats and went to the back of the house. A green leaf was stuck in a water pipe. Moss carefully pulled it out, and the water ran away from the wall. The first problem of the day was small, but it mattered.",
+        "zh": "早餐時間還沒到，雨就從東方來了。雨打在屋頂上，門旁積了一小灘水。莫斯在室內漏水處放下一只碗。「我們得修好它。」他說。菲雅發現水從窗邊的一小塊木頭流進來。他們不能只移動碗就忘了問題。兩人穿上乾外套，走到屋後，一片綠葉卡在排水管裡。莫斯小心把葉子拉出，水便從牆邊流走。當天第一個問題雖小，卻很重要。",
+        "englishSha256": "f1dfc5113d78408cc38e966f6bf31d322c5623bbcbc2e936e84a5dedab50a68c",
+        "chineseSha256": "760641609d43947a9bd58d70b880d438151beb4b7261742522aec4d8af4f8c64"
+      },
+      {
+        "number": 2,
+        "en": "A gentle knock came at the door. Mrs. Fern, a hedgehog who lived across the road, stood outside with a little basket. Her baby had taken a warm bath and was now asleep. She hoped to look at the new shop before going home. \"What a cute place,\" she said. Fia thanked her and showed her the kitchen. Mrs. Fern looked at the old floor. \"Please do not put hot food by that open window,\" she said. \"A child could reach it.\" Fia moved the table. A visitor had seen a danger the workers had missed. She was glad Mrs. Fern had spoken.",
+        "zh": "門邊響起輕輕的敲門聲。住在對街的刺蝟芬恩太太提著小籃子站在外頭。她的寶寶洗過溫水澡，現在睡著了。她想回家前先看看新店。「這裡真可愛。」她說。菲雅道謝，帶她看廚房。芬恩太太看著舊地板。「請不要把熱食放在那扇開窗旁，」她說，「孩子可能伸手碰到。」菲雅移開桌子。客人看見了員工忽略的危險，她很高興芬恩太太說出來。",
+        "englishSha256": "2261d4a3dcc9ab5f041915a26538966982e80e88396e6fe33538035fe5d7c082",
+        "chineseSha256": "b90504e148dffada678a8a8c05cf5bd9130bd92fa91c479a1acb9383abc0d21a"
+      },
+      {
+        "number": 3,
+        "en": "At noon, Toma came by in a small taxi with a box of plates. He had found them at a house near the bridge. \"Some are large, and some are medium,\" he said. \"You can choose what you need.\" Fia and Moss carried them inside, but they did not take all of them. They chose the plates that had no cracks. Moss asked if a plate could pass from one side of the table to the other without falling. They tried it carefully, and it worked. The shop had a few good plates now. They still had no food to sell, but the room looked more ready.",
+        "zh": "中午，托馬坐著小計程車來，帶來一箱盤子。他在橋旁的屋子找到它們。「有大的，也有中等尺寸，」他說，「你們可以選需要的。」菲雅與莫斯把盤子搬進來，但沒全拿。他們選了沒有裂痕的盤子。莫斯想知道盤子能不能沿桌子從一邊遞到另一邊而不掉落。他們小心試了一下，成功了。店裡如今有了幾個好盤子。雖然還沒食物可賣，房間卻越來越像樣。",
+        "englishSha256": "f8004b36bfb4b3b46929ec335c66fc10790fdf7d29d64844ffe68ad9e3ffd273",
+        "chineseSha256": "8d675adac0089eae895504ff18e69741a25219c93b574c3c582ba641bda84520"
+      },
+      {
+        "number": 4,
+        "en": "Fia had to make another choice: should she buy paint for the walls or wood for a safe step at the door? Pip thought fresh paint would look beautiful. Moss said the step was more important. Fia asked both of them to come outside and look at it. The step moved when Moss put his foot on it. The answer was clear. \"We fix the step first,\" she said. \"Then we can think about color.\" Pip was quiet for a moment, but he agreed. He wanted the shop to look nice, yet he wanted children to walk in safely even more.",
+        "zh": "菲雅還得作另一個選擇：先買牆面油漆，還是買木材修門階？皮普覺得新油漆會很漂亮，莫斯則認為階梯較重要。菲雅請兩人出去看看，莫斯一踩，階梯就晃動。答案很清楚。「先修階梯，」她說，「之後再想顏色。」皮普沉默了一下，最後同意。他想讓店漂亮，但更希望孩子能安全走進來。",
+        "englishSha256": "61453ba5c2b0cfa6a29ebaf6347ee40666333b2f324a9f8080c76cc1c34a67eb",
+        "chineseSha256": "a4b4757c6d2f86362ceac90305f5bc763f378a0843b4973ff6c900c8f15687c1"
+      },
+      {
+        "number": 5,
+        "en": "In the afternoon, the rain stopped. A small surprise waited on the windowsill. Mrs. Fern had left a paper flower with a note: \"Thank you for listening.\" Fia put it in a cup and looked around the clean room. There were still wet places on the floor, and the walls needed work. But the rain had taught them something. A good shop was not only about a nice menu. It needed safe doors, clear paths, and people who could tell one another when they saw a problem. Moss placed the two dry bowls back on the shelf.",
+        "zh": "下午雨停了。窗臺上有個小驚喜：芬恩太太留下紙花和字條，寫著「謝謝妳願意聽」。菲雅把紙花放進杯子，環顧乾淨的房間。地板仍有濕處，牆壁也要修。可是這場雨教了大家一件事：好店不只需要漂亮菜單，也要有安全的門、清楚的通道，以及願意互相提醒問題的人。莫斯把兩只乾了的碗放回架上。",
+        "englishSha256": "9caa712fabb04ae1ddede51fdad16ae249c97e2e6064cf88c2de0370109e2c4b",
+        "chineseSha256": "2fbda483cc2f1f458c517f75a4b69900ff942ea9d204b3c34e2309e1abf23d29"
+      },
+      {
+        "number": 6,
+        "en": "At the end of the workday, Fia put a small sign beside the worn doorstep. It said, \"Please walk slowly.\" She knew a sign did not make every problem go away. They still had to check the wood each day until the new boards came. Pip promised to help. He also said he would bring more flowers from his garden, but only after he had finished the work he had already taken. Fia smiled at him. A shop was built with hands, not wishes alone. As the sky became dark, the three friends set off for home. At the place where two roads cross, Moss lifted his head to look for a coming cart before they walked safely to the other side.",
+        "zh": "收工時，菲雅在尚未修好的舊門階旁放上小牌子，寫著「請慢行」。她知道一塊牌子無法讓所有問題消失；新木板送來前，每天都得檢查。皮普答應幫忙。他還說會從花園帶更多花，但要先完成手上接下的工作。菲雅對他微笑。店要靠雙手打造，不能只靠願望。天色漸暗，三個朋友一起踏上回家的路。到了兩條路交會的地方，莫斯抬起頭查看有沒有推車過來，再與朋友安全走到對面。",
+        "englishSha256": "a1108fdbc396b2b11b78cd2575e477f0f53839ca715b5c320b1d765c0fabd6f4",
+        "chineseSha256": "e36f824c751aa8d0ec05c49e812d8d31124fe53a7291a58ce361fc03f6bf5844"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 639,
+    "targets": [
+      {
+        "word": "bath",
+        "meaning": "洗澡",
+        "appearsInSource": true
+      },
+      {
+        "word": "block",
+        "meaning": "擋住",
+        "appearsInSource": true
+      },
+      {
+        "word": "Both",
+        "meaning": "兩者都",
+        "appearsInSource": true
+      },
+      {
+        "word": "bowl",
+        "meaning": "碗",
+        "appearsInSource": true
+      },
+      {
+        "word": "choice",
+        "meaning": "選擇",
+        "appearsInSource": true
+      },
+      {
+        "word": "cross",
+        "meaning": "交叉口",
+        "appearsInSource": true
+      },
+      {
+        "word": "cute",
+        "meaning": "可愛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "east",
+        "meaning": "東方",
+        "appearsInSource": true
+      },
+      {
+        "word": "green",
+        "meaning": "綠色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "head",
+        "meaning": "頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "knock",
+        "meaning": "敲門",
+        "appearsInSource": true
+      },
+      {
+        "word": "look",
+        "meaning": "看",
+        "appearsInSource": true
+      },
+      {
+        "word": "medium",
+        "meaning": "中等的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Mrs.",
+        "meaning": "太太",
+        "appearsInSource": true
+      },
+      {
+        "word": "must",
+        "meaning": "必須",
+        "appearsInSource": true
+      },
+      {
+        "word": "not",
+        "meaning": "不",
+        "appearsInSource": true
+      },
+      {
+        "word": "pass",
+        "meaning": "傳遞",
+        "appearsInSource": true
+      },
+      {
+        "word": "quiet",
+        "meaning": "安靜的",
+        "appearsInSource": true
+      },
+      {
+        "word": "surprise",
+        "meaning": "驚喜",
+        "appearsInSource": true
+      },
+      {
+        "word": "taxi",
+        "meaning": "計程車",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why do they choose wood before paint?",
+      "options": [
+        "The step is not safe",
+        "They hate green",
+        "Paint is free"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The step is not safe",
+      "existingAnswerExplanation": "門階會晃動，需要先確保安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Fia had to make another choice: should she buy paint for the walls or wood for a safe step at the door? Pip thought fresh paint would look beautiful. Moss said the step was more important. Fia asked both of them to come outside and look at it. The step moved when Moss put his foot on it. The answer was clear. \"We fix the step first,\" she said. \"Then we can think about color.\" Pip was quiet for a moment, but he agreed. He wanted the shop to look nice, yet he wanted children to walk in safely even more.",
+          "chinese": "菲雅還得作另一個選擇：先買牆面油漆，還是買木材修門階？皮普覺得新油漆會很漂亮，莫斯則認為階梯較重要。菲雅請兩人出去看看，莫斯一踩，階梯就晃動。答案很清楚。「先修階梯，」她說，「之後再想顏色。」皮普沉默了一下，最後同意。他想讓店漂亮，但更希望孩子能安全走進來。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 1,
+          "english": "Rain came from the east before breakfast time. It fell on the roof and made a small pool beside the door. Moss put a bowl under a wet place inside. \"We must fix this,\" he said. Fia saw that the water came from a little block of wood near the window. They could not simply move the bowl and forget the problem. Both friends put on dry coats and went to the back of the house. A green leaf was stuck in a water pipe. Moss carefully pulled it out, and the water ran away from the wall. The first problem of the day was small, but it mattered.",
+          "chinese": "早餐時間還沒到，雨就從東方來了。雨打在屋頂上，門旁積了一小灘水。莫斯在室內漏水處放下一只碗。「我們得修好它。」他說。菲雅發現水從窗邊的一小塊木頭流進來。他們不能只移動碗就忘了問題。兩人穿上乾外套，走到屋後，一片綠葉卡在排水管裡。莫斯小心把葉子拉出，水便從牆邊流走。當天第一個問題雖小，卻很重要。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Mrs. Fern leave by the window?",
+      "options": [
+        "A paper flower",
+        "A taxi",
+        "A big bowl"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A paper flower",
+      "existingAnswerExplanation": "芬恩太太留下紙花與感謝字條。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "In the afternoon, the rain stopped. A small surprise waited on the windowsill. Mrs. Fern had left a paper flower with a note: \"Thank you for listening.\" Fia put it in a cup and looked around the clean room. There were still wet places on the floor, and the walls needed work. But the rain had taught them something. A good shop was not only about a nice menu. It needed safe doors, clear paths, and people who could tell one another when they saw a problem. Moss placed the two dry bowls back on the shelf.",
+          "chinese": "下午雨停了。窗臺上有個小驚喜：芬恩太太留下紙花和字條，寫著「謝謝妳願意聽」。菲雅把紙花放進杯子，環顧乾淨的房間。地板仍有濕處，牆壁也要修。可是這場雨教了大家一件事：好店不只需要漂亮菜單，也要有安全的門、清楚的通道，以及願意互相提醒問題的人。莫斯把兩只乾了的碗放回架上。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 2,
+          "english": "A gentle knock came at the door. Mrs. Fern, a hedgehog who lived across the road, stood outside with a little basket. Her baby had taken a warm bath and was now asleep. She hoped to look at the new shop before going home. \"What a cute place,\" she said. Fia thanked her and showed her the kitchen. Mrs. Fern looked at the old floor. \"Please do not put hot food by that open window,\" she said. \"A child could reach it.\" Fia moved the table. A visitor had seen a danger the workers had missed. She was glad Mrs. Fern had spoken.",
+          "chinese": "門邊響起輕輕的敲門聲。住在對街的刺蝟芬恩太太提著小籃子站在外頭。她的寶寶洗過溫水澡，現在睡著了。她想回家前先看看新店。「這裡真可愛。」她說。菲雅道謝，帶她看廚房。芬恩太太看著舊地板。「請不要把熱食放在那扇開窗旁，」她說，「孩子可能伸手碰到。」菲雅移開桌子。客人看見了員工忽略的危險，她很高興芬恩太太說出來。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

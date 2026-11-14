@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 9,
+  "chapterId": "tomorrow-9",
+  "sourceChapterSha256": "60cee8766320f1f64b9e9fbbb51a15576116a7d6432a1d02614150f6976d88ce",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "Ada 提供舞台節目和 Bell 訊息；週五要米雅到校",
+    "previousChapterEndingEnglish": "The recording continued. My own footsteps entered the room. June grabbed the phone. I told her to stop. Then, at the place where the short video ended, June spoke again. “Mia, look at the screen. Please look.” I had not looked. In the recording, I heard myself answer instead. “Just give it back.” Ms Lin stopped the sound gently. Nobody in the room was looking at me now.",
+    "nextChapterOpeningEnglish": "Don't come to school. Make sure Mia comes to school. I wrote both sentences on a clean page. For two days, I had treated every strange message as one voice. Now I drew a line between them. The Later letters wanted me away. Bell wanted me here. One used my old voice to pull me toward June. The other used names and numbers to move people around."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "I asked to hear the rest. Ms Lin watched my face before she pressed play. In the recording, June said she had sent a copy to herself. Kai asked her to delete it. She said no. There was a loud scrape, then my voice, asking them both to stop. The sound broke for a moment. When it returned, Kai was laughing. “Who will they believe?” he asked.",
+        "zh": "我要求聽完。林老師看了我的表情，才按下播放。錄音裡，June 說已寄副本給自己，Kai 要她刪掉，她說不要。接著一聲刮響，我叫他們都停下。聲音斷了一下，恢復時 Kai 在笑。「他們會相信誰？」他問。",
+        "englishSha256": "e9bd6ce082c6d4e526ae27c059819ffa55d936144967e75d1092da983dc6d400",
+        "chineseSha256": "274d342b6aceafcabb50fbead3526c7e8c34d661bda0c77a6a498b31bed0e014"
+      },
+      {
+        "number": 2,
+        "en": "Leo took off his glasses and cleaned them, though they were not dirty. I stared at the small black speaker. The words sounded ordinary. That was the worst part. Kai did not sound like a person in a film who enjoys being cruel. He sounded like a boy asking which bus we should take. Ms Lin wrote the exact words and time in her notes.",
+        "zh": "Leo 摘下明明不髒的眼鏡擦拭。我盯著黑色小喇叭。那些話聽起來太平常了，這才最糟。Kai 不像電影裡以殘忍為樂的人，他像在問我們該搭哪班公車。林老師把原話和時間精確記下。",
+        "englishSha256": "b3a6d303c0c4155e23b2cce0ea8e55b397c6e7f965931141eb19544cbba8cca7",
+        "chineseSha256": "e5ed5ffec6916d8585971fe81afabd9cd1015f3d97c84347fcdd904c5de15952"
+      },
+      {
+        "number": 3,
+        "en": "“This gives us more context,” she said. “It does not answer every question. We need to protect the people in it and check the whole record.” She called the computer teacher, then the school counselor. She did not call Kai into the room with us. I was grateful for that. I did not know what my face would do if I saw him smiling.",
+        "zh": "「這提供更多前後脈絡，」她說，「但不是所有問題都有答案。我們得保護錄音裡的人，也要查完整紀錄。」她打給資訊老師，再找輔導老師，沒有把 Kai 叫來與我們對質。我很感激。我不知道看見他笑時，我的臉會變成什麼樣。",
+        "englishSha256": "4d275aa115583083c11121ccc9c178b71112c9230868197677c170985e046494",
+        "chineseSha256": "266d8a06cae65f2e15b751333218f41bac31474211f4abaf8feb67cf69c28356"
+      },
+      {
+        "number": 4,
+        "en": "At the door, Leo stopped me. “I should have looked earlier.” I could have said yes. Instead I said, “So should I.” It was not forgiveness. It was just a fact we could stand on together. We agreed to let Ms Lin keep the drive in a locked cupboard. Leo would write down when and how he made the copies, including his mistake with the public folder.",
+        "zh": "門邊，Leo 叫住我。「我應該早點查看。」我可以說對，卻說：「我也是。」那不是原諒，只是一件我們能共同站穩的事實。我們同意把硬碟交林老師鎖起。Leo 會寫清楚備份的時間方式，也包括公開資料夾的錯誤。",
+        "englishSha256": "c0b21c5aaa41a3828a905e927622d450b36942bdc6f1f2d7c222debcb238477e",
+        "chineseSha256": "31498eb501796a22ebc9191fa416363faf66d6ed63e71a000b99bfe4ab582a10"
+      },
+      {
+        "number": 5,
+        "en": "By second period, the school had blocked Zero on its own network. Students simply switched to their phone data. The vote page now showed a picture of an empty chair. Under it were the words: Some people need teachers to fight for them. No names were written. Everyone knew who it meant. A boy behind me made a small crying sound whenever I raised my hand.",
+        "zh": "第二節，學校已在校內網路封鎖 Zero，但學生直接改用手機網路。投票頁變成空椅子的照片，下面寫：有些人需要老師替他們打架。沒有名字，大家都知道在說誰。我每次舉手，後面的男孩就假裝啜泣。",
+        "englishSha256": "d895047b52ceeac2b3b30450f9068b5229895048fe75092d81989cbfb940a1fb",
+        "chineseSha256": "25cfa93f0e683576ee9b640558c0f18e49f88d72c81e73b2acb1bb40a31993be"
+      },
+      {
+        "number": 6,
+        "en": "At lunch, Ada sat beside me without asking. She was one of the four names on the morning vote. She placed an orange on my tray and began to peel it. “I don't have a speech,” she said. “I just don't want to sit over there today.” She pointed at her usual table, where three friends were staring at their phones. I moved my bag from the empty chair.",
+        "zh": "午餐時，Ada 沒問就坐在我旁邊。她是早上四個投票名字之一。她放一顆柳橙在我餐盤上，開始剝皮。「我沒什麼大道理，只是今天不想坐那邊。」她指向平常的桌子，三個朋友都在看手機。我把包包從空椅子上移開。",
+        "englishSha256": "e843eaf48bcd11deff22cf156edc13460a83214014039db7047a85e65df6ed82",
+        "chineseSha256": "8dc97df32c03cfe600473f585823e2b08bf0ae01ab132a375961283e5388717b"
+      },
+      {
+        "number": 7,
+        "en": "We ate in an uncomfortable, useful silence. Halfway through lunch, Ada slid a paper across the table. It was a printed schedule for the school show. Someone had added a new item just before the closing song: The Truth Game. Host: Kai. No teacher had signed beside it. “He asked me to make the slides,” she said. “I said yes before I knew what it was.”",
+        "zh": "我們在不自在卻有用的安靜中吃飯。吃到一半，Ada 推來一張紙，是校慶流程表。結尾歌曲前有人加了項目：真相遊戲。主持人：Kai。旁邊沒有老師簽名。「他叫我做投影片。我還不知道是什麼就答應了。」",
+        "englishSha256": "f8380e6979887e0f2c70a90baf93e471581324ae759f5aae55e20be3966a93f8",
+        "chineseSha256": "b3998bcd5e1822a6a13df34dd024b3ae34bb5b5fc4379246eb1f06075654a6e4"
+      },
+      {
+        "number": 8,
+        "en": "On the back was a rough drawing of a giant vote screen. Four faces would appear while the audience chose one. I recognized my school picture, Leo's, Sam's, and June's. Ada touched the corner of the paper. “I saved the messages,” she said. “But there's something else.” She turned her phone toward me. Bell had sent her an instruction for Friday: Make sure Mia comes to school.",
+        "zh": "背面畫著巨大投票畫面的草圖，四張臉會出現，讓觀眾選一個。我認出自己、Leo、Sam 和 June 的學校照片。Ada 碰著紙角。「我有留訊息，還有另一件事。」她把手機轉向我，Bell 給她星期五的指示是：確保 Mia 來學校。",
+        "englishSha256": "d5d46752e456ed495a8db6dec35b649bf6f72306c282989cf3fd605200108b3c",
+        "chineseSha256": "8676378f322e2b776a5a544107dceab399858a01c4b4ed3e57ce1b7cc5cfec3c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 531,
+    "targets": [
+      {
+        "word": "appear",
+        "meaning": "出現",
+        "appearsInSource": true
+      },
+      {
+        "word": "boy",
+        "meaning": "男孩",
+        "appearsInSource": true
+      },
+      {
+        "word": "dirty",
+        "meaning": "髒的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fact",
+        "meaning": "事實",
+        "appearsInSource": true
+      },
+      {
+        "word": "fight",
+        "meaning": "打架；爭吵；奮鬥",
+        "appearsInSource": true
+      },
+      {
+        "word": "giant",
+        "meaning": "巨大的；巨人",
+        "appearsInSource": true
+      },
+      {
+        "word": "glasses",
+        "meaning": "眼鏡；玻璃杯（複數）",
+        "appearsInSource": true
+      },
+      {
+        "word": "item",
+        "meaning": "項目；物品",
+        "appearsInSource": true
+      },
+      {
+        "word": "let",
+        "meaning": "讓",
+        "appearsInSource": true
+      },
+      {
+        "word": "like",
+        "meaning": "喜歡；像",
+        "appearsInSource": true
+      },
+      {
+        "word": "loud",
+        "meaning": "大聲的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lunch",
+        "meaning": "午餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "make",
+        "meaning": "做；使得",
+        "appearsInSource": true
+      },
+      {
+        "word": "mistake",
+        "meaning": "錯誤",
+        "appearsInSource": true
+      },
+      {
+        "word": "moment",
+        "meaning": "片刻",
+        "appearsInSource": true
+      },
+      {
+        "word": "more",
+        "meaning": "更多",
+        "appearsInSource": true
+      },
+      {
+        "word": "need",
+        "meaning": "需要",
+        "appearsInSource": true
+      },
+      {
+        "word": "new",
+        "meaning": "新的",
+        "appearsInSource": true
+      },
+      {
+        "word": "now",
+        "meaning": "現在",
+        "appearsInSource": true
+      },
+      {
+        "word": "off",
+        "meaning": "離開；關閉",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Ada bring to Mia?",
+      "options": [
+        "A new password for Later.",
+        "Proof that June stole money.",
+        "A show schedule and messages about a planned public vote."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "A show schedule and messages about a planned public vote.",
+      "existingAnswerExplanation": "A show schedule and messages about a planned public vote.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "On the back was a rough drawing of a giant vote screen. Four faces would appear while the audience chose one. I recognized my school picture, Leo's, Sam's, and June's. Ada touched the corner of the paper. “I saved the messages,” she said. “But there's something else.” She turned her phone toward me. Bell had sent her an instruction for Friday: Make sure Mia comes to school.",
+          "chinese": "背面畫著巨大投票畫面的草圖，四張臉會出現，讓觀眾選一個。我認出自己、Leo、Sam 和 June 的學校照片。Ada 碰著紙角。「我有留訊息，還有另一件事。」她把手機轉向我，Bell 給她星期五的指示是：確保 Mia 來學校。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 7,
+          "english": "We ate in an uncomfortable, useful silence. Halfway through lunch, Ada slid a paper across the table. It was a printed schedule for the school show. Someone had added a new item just before the closing song: The Truth Game. Host: Kai. No teacher had signed beside it. “He asked me to make the slides,” she said. “I said yes before I knew what it was.”",
+          "chinese": "我們在不自在卻有用的安靜中吃飯。吃到一半，Ada 推來一張紙，是校慶流程表。結尾歌曲前有人加了項目：真相遊戲。主持人：Kai。旁邊沒有老師簽名。「他叫我做投影片。我還不知道是什麼就答應了。」",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What instruction has Bell sent Ada for Friday?",
+      "options": [
+        "Make sure Leo leaves the country.",
+        "Delete the school show schedule.",
+        "Make sure Mia comes to school."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "Make sure Mia comes to school.",
+      "existingAnswerExplanation": "章末 Ada 顯示 Bell 的指示：Make sure Mia comes to school.。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "On the back was a rough drawing of a giant vote screen. Four faces would appear while the audience chose one. I recognized my school picture, Leo's, Sam's, and June's. Ada touched the corner of the paper. “I saved the messages,” she said. “But there's something else.” She turned her phone toward me. Bell had sent her an instruction for Friday: Make sure Mia comes to school.",
+          "chinese": "背面畫著巨大投票畫面的草圖，四張臉會出現，讓觀眾選一個。我認出自己、Leo、Sam 和 June 的學校照片。Ada 碰著紙角。「我有留訊息，還有另一件事。」她把手機轉向我，Bell 給她星期五的指示是：確保 Mia 來學校。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 7,
+          "english": "We ate in an uncomfortable, useful silence. Halfway through lunch, Ada slid a paper across the table. It was a printed schedule for the school show. Someone had added a new item just before the closing song: The Truth Game. Host: Kai. No teacher had signed beside it. “He asked me to make the slides,” she said. “I said yes before I knew what it was.”",
+          "chinese": "我們在不自在卻有用的安靜中吃飯。吃到一半，Ada 推來一張紙，是校慶流程表。結尾歌曲前有人加了項目：真相遊戲。主持人：Kai。旁邊沒有老師簽名。「他叫我做投影片。我還不知道是什麼就答應了。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

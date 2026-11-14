@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 20,
+  "chapterId": "ss-r10-l2-b-20",
+  "sourceChapterSha256": "6827b9ebcfdd9651f41bda9d4348d10ec47ab573c4c86e8cbaf8699203f22b0e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "連鎖企業要求秘密廣告權遭拒，改小型公共捐款及年度檢查",
+    "previousChapterEndingEnglish": "After he left, Evan told May that she had a remarkable way of finding a person's real need beneath a difficult request. She said she had learned from him to make the limits clear before offering help. They looked over the requests still waiting in their folder. Some were simple, some painful, and none would disappear because the festival ended. The committee needed a permanent contact system. May wrote the task for the next meeting. Then she closed the folder and asked Evan to tell her one thing about his day that had nothing to do with work.",
+    "nextChapterOpeningEnglish": "The students had only six weeks left before graduation, so they began teaching a new team to handle the archive. May wrote the introduction on a blackboard: “A recording is a loan of trust, not a gift of a person.” Evan brought the old listening instrument and asked the trainees to review how it worked. A new member wanted to lend the player to another club without checking permission. May explained that equipment could travel more easily than voices. Neither a good purpose nor a friendly request changed the limits on a file. The trainees took notes, and the room gradually became less dependent on its founders."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The central committee received a new offer from a businessman who owned a large chain of shops. He spoke of a billion views as if every recording were a prize waiting to become famous. He promised to fix the hall and pay for major equipment, but wanted a secret right to use the files in future advertisements. May refused immediately. Evan asked the group to study the full contract before any decision. He had learned that a good offer could still cause pain when its conditions reached beyond the people who accepted it. The room grew quiet as the committee read the small print.",
+        "zh": "中央委員會收到一位連鎖商店商人的新提案。他把十億次觀看說得像每份錄音都等著成名一樣。他答應修好大廳、支付主要設備費用，卻要求保密取得未來將檔案用於廣告的權利。慧立刻拒絕。安澤請大家在做決定前讀完整份契約。他已學會，條件牽涉未同意的人時，再好的提案也可能造成傷害。委員們閱讀小字條款，房間漸漸安靜。",
+        "englishSha256": "fd49c1cdecd47ebfca9b0dec7f6ea6b533eb7233faad7d5203b39cfb9a08ee34",
+        "chineseSha256": "dfbc5b3d020d563b21afac051261bd93dac4b8ab636e74b8c4f08ff110871017"
+      },
+      {
+        "number": 2,
+        "en": "Mrs. Fen brought hot cocoa and said the market had survived through many changes since her own birth. A seller pointed to a tiny dot on the budget chart and asked what it meant. Evan explained that it represented the cost of storing one approved recording for a year. The cost was small alone but grew across hundreds of files. May said their goal was not to collect everything. They needed a balance between memory and responsibility. The businessman made a doubtful expression and asked whether they wanted to remain ordinary forever. May answered, “Ordinary lives are what we came here to respect.”",
+        "zh": "芬姨端來熱可可，說市場自她出生以來，經歷多次改變仍存續。一位攤商指著預算圖上一個小點，問那代表什麼。安澤解釋，那是一份核准錄音一年的保存成本。單看很少，但累積數百份就不同。慧說，他們的目標並不是把所有東西都收進來，而是讓記憶與責任保持平衡。商人露出懷疑表情，問他們是否願意永遠平凡。慧回答：「我們來這裡，就是要尊重平凡人生。」",
+        "englishSha256": "5417600a4dbfa739cd0b1f54fefabfc5eaf3bf7c9070c0456f9bd7c83552c30a",
+        "chineseSha256": "6b91bcef4b13bb9dc4460978c2de1437cdcce068c4f14e255fe84e0865620d72"
+      },
+      {
+        "number": 3,
+        "en": "A child visiting the market asked why the room had recordings of the ocean but none of a beating heart. Her mother said her brother was learning about the human body and its organs. Evan offered a simple lesson about how a microphone worked, using the sound of someone tapping a wooden table instead of recording private medical sounds. The child laughed when she tried to say a difficult word and her tongue slipped. May watched the family and thought about how much trust had grown from small, careful decisions. None of it could be measured only in numbers.",
+        "zh": "一個來市場的孩子問，為何展覽有海洋聲，卻沒有心跳。母親說，弟弟正在學人體與器官。安澤便以敲木桌的聲音示範麥克風原理，而不是錄下私人的醫療聲音。孩子試著說一個難字，舌頭不聽使喚，自己也笑了。慧看著一家人，想到多少信任是從小心的決定累積起來的。這一切都無法只用數字衡量。",
+        "englishSha256": "8df56cdd233c41bc413c821b28f8a3085b568e0aa109f58027451ce8078a54de",
+        "chineseSha256": "351dde94c2d3b1b167ec6b12f10a8c026482c593f7ed562c6274631161d0f2b1"
+      },
+      {
+        "number": 4,
+        "en": "The committee voted against the contract and approved a smaller plan: public donations, a fixed number of files, and a yearly review. Some students were disappointed. The vote would not give them a grand new room this term. Evan told the group that choosing less could still be progress. May thanked those who had opposed the plan for bringing up real questions about money. She did not want a team in which disagreement had to stay hidden. When the meeting ended, the market lights were still on, and the people outside were still telling stories without asking the university for permission.",
+        "zh": "委員會投票否決契約，通過較小的方案：公開捐款、限制檔案數量，並每年檢查一次。有些學生失望了，這學期不會得到宏偉的新空間。安澤告訴團隊，選擇較少並不代表沒有進步。慧感謝反對較小方案的人，因為他們提出了真正的經費問題。她不希望團隊連不同意見都只能隱藏。會議結束時，市場的燈仍亮著，外面的人仍繼續講故事，根本不需要先向大學取得許可。",
+        "englishSha256": "d041fd2686bacdb38da89641073a6a60641f30549edb7fe950cc1da4ea4492a1",
+        "chineseSha256": "eadd396d7190bd1356b2ac1a61740abd6c36a0f9d5e9f76658ac079380e78d54"
+      },
+      {
+        "number": 5,
+        "en": "After the vote, a sleepy volunteer sat beside a stack of folders and asked why the team had chosen to refuse so much money. Evan said the project was especially careful about promises made on behalf of people who were not in the room. May pointed to the contract: the company could have used an old recording of an organ playing at a funeral without asking the family again. That was not a fair exchange. The volunteer said she still had reason to wonder whether a bigger room might have helped more visitors. May told her that was a good question and promised to review the idea when safe funding was available. They were not refusing growth forever. They were refusing a particular condition that took choices away. The student closed her notebook, more satisfied with an answer that admitted both costs and benefits than with a speech about how pure the project was.",
+        "zh": "投票後，一位昏昏欲睡的志工坐在資料夾旁，問團隊為何拒絕那麼多錢。安澤說，計畫對替不在場的人做出承諾尤其小心。慧指著契約：公司甚至可能把一段葬禮管風琴錄音拿去做廣告，而不再詢問家屬。這並非公平交換。志工說，她仍想知道更大的房間是否能幫更多訪客。慧說這是好問題，答應將來若有安全的經費就重新評估。他們不是永遠拒絕成長，而是拒絕會奪走別人選擇權的條件。學生闔上筆記；比起宣稱計畫多麼純潔的演說，她更滿意這個同時承認成本與好處的答案。",
+        "englishSha256": "5e652894fc840f7882d193a200ac28e4c6089b80a5b1c75873819fc64a967752",
+        "chineseSha256": "3e8d3034bae392a4dccee8c19442b8b63f19e58e89b8dc66bb1db93736695c48"
+      },
+      {
+        "number": 6,
+        "en": "On the walk home, Evan admitted that he had once wanted the biggest sound system in the city. Now he wanted a room that people could safely leave when they were done listening. May smiled and said she wanted the same thing. He took her hand, and she leaned lightly against his shoulder. A future did not seem to require a perfect building or a rich sponsor. It required people who would keep choosing one another, and who could still say no when the next tempting offer appeared.",
+        "zh": "回家路上，安澤承認自己曾想擁有全城最大的聲音系統。現在他更想要一個人們聽完就能安全離開的房間。慧笑著說她也一樣。他握住她的手，她輕輕靠在他肩上。未來似乎不需要完美的大樓或富有贊助商。真正需要的，是願意持續選擇彼此的人，也是在下一個誘人提案來臨時，仍能勇敢說不的人。",
+        "englishSha256": "934e1ef1c9d3ce9fe4343d4ad409a4ebe391fb5c845ec5285217e68f05793576",
+        "chineseSha256": "9ccbf14531e789f3ff5f8c34943eb1296a60e76578a84d580861e00bcdfd3296"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 649,
+    "targets": [
+      {
+        "word": "balance",
+        "meaning": "平衡",
+        "appearsInSource": true
+      },
+      {
+        "word": "billion",
+        "meaning": "十億",
+        "appearsInSource": true
+      },
+      {
+        "word": "birth",
+        "meaning": "出生",
+        "appearsInSource": true
+      },
+      {
+        "word": "businessman",
+        "meaning": "商人",
+        "appearsInSource": true
+      },
+      {
+        "word": "central",
+        "meaning": "中央的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cocoa",
+        "meaning": "熱可可",
+        "appearsInSource": true
+      },
+      {
+        "word": "decision",
+        "meaning": "決定",
+        "appearsInSource": true
+      },
+      {
+        "word": "dot",
+        "meaning": "點",
+        "appearsInSource": true
+      },
+      {
+        "word": "especially",
+        "meaning": "特別地",
+        "appearsInSource": true
+      },
+      {
+        "word": "expression",
+        "meaning": "表情",
+        "appearsInSource": true
+      },
+      {
+        "word": "fix",
+        "meaning": "修理",
+        "appearsInSource": true
+      },
+      {
+        "word": "major",
+        "meaning": "重要的",
+        "appearsInSource": true
+      },
+      {
+        "word": "ocean",
+        "meaning": "海洋",
+        "appearsInSource": true
+      },
+      {
+        "word": "organ",
+        "meaning": "器官",
+        "appearsInSource": true
+      },
+      {
+        "word": "pain",
+        "meaning": "傷害；痛苦",
+        "appearsInSource": true
+      },
+      {
+        "word": "refuse",
+        "meaning": "拒絕",
+        "appearsInSource": true
+      },
+      {
+        "word": "secret",
+        "meaning": "祕密",
+        "appearsInSource": true
+      },
+      {
+        "word": "sleepy",
+        "meaning": "想睡的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tongue",
+        "meaning": "舌頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "wonder",
+        "meaning": "好奇",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the businessman's contract require?",
+      "options": [
+        "Secret rights to use recordings in advertisements",
+        "Free chairs for everyone",
+        "A new school bus"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Secret rights to use recordings in advertisements",
+      "existingAnswerExplanation": "商人要求未來的秘密廣告使用權，可能超出受訪者同意。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The central committee received a new offer from a businessman who owned a large chain of shops. He spoke of a billion views as if every recording were a prize waiting to become famous. He promised to fix the hall and pay for major equipment, but wanted a secret right to use the files in future advertisements. May refused immediately. Evan asked the group to study the full contract before any decision. He had learned that a good offer could still cause pain when its conditions reached beyond the people who accepted it. The room grew quiet as the committee read the small print.",
+          "chinese": "中央委員會收到一位連鎖商店商人的新提案。他把十億次觀看說得像每份錄音都等著成名一樣。他答應修好大廳、支付主要設備費用，卻要求保密取得未來將檔案用於廣告的權利。慧立刻拒絕。安澤請大家在做決定前讀完整份契約。他已學會，條件牽涉未同意的人時，再好的提案也可能造成傷害。委員們閱讀小字條款，房間漸漸安靜。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 3,
+          "english": "A child visiting the market asked why the room had recordings of the ocean but none of a beating heart. Her mother said her brother was learning about the human body and its organs. Evan offered a simple lesson about how a microphone worked, using the sound of someone tapping a wooden table instead of recording private medical sounds. The child laughed when she tried to say a difficult word and her tongue slipped. May watched the family and thought about how much trust had grown from small, careful decisions. None of it could be measured only in numbers.",
+          "chinese": "一個來市場的孩子問，為何展覽有海洋聲，卻沒有心跳。母親說，弟弟正在學人體與器官。安澤便以敲木桌的聲音示範麥克風原理，而不是錄下私人的醫療聲音。孩子試著說一個難字，舌頭不聽使喚，自己也笑了。慧看著一家人，想到多少信任是從小心的決定累積起來的。這一切都無法只用數字衡量。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the committee choose instead?",
+      "options": [
+        "A smaller plan with donations and yearly review",
+        "Selling every recording",
+        "Closing the archive forever"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A smaller plan with donations and yearly review",
+      "existingAnswerExplanation": "委員會通過公開捐款、限制檔案數與年度複查的方案。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "The committee voted against the contract and approved a smaller plan: public donations, a fixed number of files, and a yearly review. Some students were disappointed. The vote would not give them a grand new room this term. Evan told the group that choosing less could still be progress. May thanked those who had opposed the plan for bringing up real questions about money. She did not want a team in which disagreement had to stay hidden. When the meeting ended, the market lights were still on, and the people outside were still telling stories without asking the university for permission.",
+          "chinese": "委員會投票否決契約，通過較小的方案：公開捐款、限制檔案數量，並每年檢查一次。有些學生失望了，這學期不會得到宏偉的新空間。安澤告訴團隊，選擇較少並不代表沒有進步。慧感謝反對較小方案的人，因為他們提出了真正的經費問題。她不希望團隊連不同意見都只能隱藏。會議結束時，市場的燈仍亮著，外面的人仍繼續講故事，根本不需要先向大學取得許可。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "The central committee received a new offer from a businessman who owned a large chain of shops. He spoke of a billion views as if every recording were a prize waiting to become famous. He promised to fix the hall and pay for major equipment, but wanted a secret right to use the files in future advertisements. May refused immediately. Evan asked the group to study the full contract before any decision. He had learned that a good offer could still cause pain when its conditions reached beyond the people who accepted it. The room grew quiet as the committee read the small print.",
+          "chinese": "中央委員會收到一位連鎖商店商人的新提案。他把十億次觀看說得像每份錄音都等著成名一樣。他答應修好大廳、支付主要設備費用，卻要求保密取得未來將檔案用於廣告的權利。慧立刻拒絕。安澤請大家在做決定前讀完整份契約。他已學會，條件牽涉未同意的人時，再好的提案也可能造成傷害。委員們閱讀小字條款，房間漸漸安靜。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 10,
+  "chapterId": "ss-r10-l1-a-10",
+  "sourceChapterSha256": "141cd9d866d193bd39e6925931f021b74934d3385b2e5b0ab6d39446244e399a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "托馬斯要求自己決定如何使用凸點觸摸地圖",
+    "previousChapterEndingEnglish": "Back upstairs, Nia placed the lake card beside the paper star from the first week. The two pictures were not scientific records, but they gave the class things to talk about. She asked Mrs. Noor for permission to keep the card on the wall for the six weeks. Mrs. Noor agreed. \"I'm sure other families have stories too,\" she said. Nia wrote a new idea: invite one visitor each week to share a memory, then choose one part to test or explain. It would be a gentle way to connect everyday life with science. She could already see a new kind of class taking shape.",
+    "nextChapterOpeningEnglish": "On a cold Tuesday, the weather changed quickly. Nia drove past the center in her brother's car and saw a blue sign on the door: The heating fan was not working. Arun had already called the repair service, but the worker could not come until afternoon. The room would be safe later, but it was too cold for the optional Tuesday reading group Nia had arranged between the six Saturday lessons. Nia wanted to call every family before they left home. She did not have everyone's telephone number, so she asked the center secretary for help. The secretary used the list that families had agreed could be used for class notices. Nobody's number was put on a public wall."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A new student came to the center with his brother. His name was Tomas, and he was blind. He knew the street well because he walked it with a white cane. He asked Nia if the star class was only for people who could see pictures. Nia was quiet for half a minute. She had made every activity with drawings. \"I don't know the best way yet,\" she said, \"but I want to work with you.\" Tomas smiled. \"Then ask me what helps. Please do not decide for me.\" His brother brought an apple and a pencil, and they sat at a table near the center of the room.",
+        "zh": "一位新學員和哥哥一起來到中心。他叫托馬斯，看不見東西，但因為常拿白手杖走路，對這條街很熟悉。他問妮雅，星星課是不是只給能看圖片的人參加。妮雅安靜了半分鐘。她先前設計的活動幾乎都是畫圖。「我還不知道最好的方法，」她說，「但我想和你一起試。」托馬斯笑了。「那就問我什麼方式有幫助，請不要替我決定。」哥哥帶來蘋果和鉛筆，他們坐在教室中央附近的桌旁。",
+        "englishSha256": "bc6576747244e68b8981b55a09a75d1f2c62832b992f0feb2e3eeef3b7f2855e",
+        "chineseSha256": "228bf5d401e6443ed75d3455b951957b7089ab0da390d0c35eddf865896ea347"
+      },
+      {
+        "number": 2,
+        "en": "Ada placed a sheet of thick paper between them. She showed Tomas a simple idea: make stars from small raised paper circles and use string for lines. Tomas felt the first circle with one finger. \"That is easy,\" he said. \"But these two circles are too close. I cannot tell them apart.\" Nia moved them farther from each other. She asked the group to spend ten minutes testing the model instead of finishing it quickly. Finn wanted to put a net of string across the whole page. Tomas said that too many lines made it hard to understand. The class listened to him and took some string away.",
+        "zh": "艾達把一張厚紙放在桌上，向托馬斯示範一個簡單做法：用凸起的小紙圓代表星星，用線繩代表連線。托馬斯用一根手指摸第一顆圓點。「這很容易，」他說，「但這兩點太近了，我分不清。」妮雅把它們移遠。她請全班花十分鐘測試模型，不要急著做完。芬恩想在整張紙上拉滿像網一樣的線。托馬斯說，線太多會很難理解。大家聽取他的意見，移走幾條線。",
+        "englishSha256": "9a6977667f8073a87fabd5723ee3c21bb08d3caa561d218b0470a639399d04d2",
+        "chineseSha256": "87be6a4b19776d5644042bd4357f8611bdbea7fe325dea788e963f655e4c7008"
+      },
+      {
+        "number": 3,
+        "en": "Ms. Vale visited and asked what the right answer was for the map. Nia said the right design was one Tomas could read and other students could use too. \"It sounds simple,\" Ms. Vale said, \"but it takes care.\" Tomas laughed. \"Please don't say I'm a special teacher just because I say when a map is bad,\" he replied. \"I am only telling you what I feel.\" His voice was calm. Nia thanked him for being clear. She understood that listening to a person was different from being proud of helping them. The class could make something useful only if Tomas had a real say in the work.",
+        "zh": "維爾老師來訪，問這張地圖的正確答案是什麼。妮雅說，正確的設計應該是托馬斯讀得懂、其他學生也能使用的設計。「聽起來很簡單，」維爾老師說，「但需要用心。」托馬斯笑了。「請不要因為我說地圖不好用，就叫我特別的老師，」他回答，「我只是告訴大家我的感受。」他的聲音很平靜。妮雅謝謝他說得清楚。她明白傾聽一個人，和為自己幫助了他而自豪，是不同的事。只有讓托馬斯真正參與決定，大家才能做出有用的東西。",
+        "englishSha256": "794f12f562bc352d71b266aaee387336ffe5f18b84e1c81dee289b6d826e4b10",
+        "chineseSha256": "8eef143d691d7a63c067cdb3c906df55f04c21e2bf96e5778352dfce18ca2208"
+      },
+      {
+        "number": 4,
+        "en": "After lunch, Finn asked whether the class could make an online picture of the map. His teacher had shown him a website with large letters. Ada said they could make a picture for families at home, but the touch map would still be available in the room. Nia divided the work between two groups. One made the raised paper shapes; the other wrote a short guide in large print. Nobody had to hit a target or kick a ball to win a prize. They were using their hands and minds for a shared purpose. Tomas tested the second map and said the main stars were much easier to find.",
+        "zh": "午餐後，芬恩問能不能把地圖做成網路圖片。老師曾教他看一個用大字的網站。艾達說，可以製作圖片讓家人在家看，但教室也會保留能觸摸的地圖。妮雅把工作分成兩組，一組做凸起的紙形狀，另一組用大字寫簡單說明。大家不需要擊中目標或踢球贏得獎品，而是一起動手動腦，完成共同的目標。托馬斯測試第二張地圖後說，主要星點容易找到多了。",
+        "englishSha256": "a079d8747555425dfccbfa7e054cdcfbf3147ecc6db4192b9896c9e4b7923664",
+        "chineseSha256": "011b71702ff8de5c55da409ff8cc572f10003aa4656dc4f601a8cee9069ba083"
+      },
+      {
+        "number": 5,
+        "en": "Before the students put their maps away, Nia brought in a small bowl of ice from the kitchen. She asked what would happen if it sat in a warm room. Tomas held his hand near the bowl without touching it and said the ice would melt. Nia agreed, then asked whether a paper star could melt in the same way. Finn said no and laughed. The exercise reminded them that two things could both look bright or white without being made of the same material. \"I love that question,\" Nia said, \"because it helps us say exactly what we mean.\" She wrote the answer in big print and placed a raised paper mark beside it. The class could now use the same note in different ways.",
+        "zh": "學生收起地圖前，妮雅從廚房拿來一小碗冰塊，問把它放在溫暖房間裡會怎樣。托馬斯把手靠近碗但不碰它，說冰會融化。妮雅同意，又問紙星星會不會同樣融化。芬恩說不會，笑了起來。這個練習提醒大家，兩樣東西即使都看起來白白亮亮，也不代表由同樣材料製成。「我很喜歡這個問題，」妮雅說，「因為它幫我們把意思說準確。」她用大字寫下答案，旁邊加上凸起的紙記號，讓不同需求的人都能使用這份筆記。",
+        "englishSha256": "9fb9e7aa977a438d42185a4eb668e7376fcb0a90bcec6ad24042df952685b3fe",
+        "chineseSha256": "652ab4cd900ca51df036fcd48d2372ad4620e585eeaa49de0c22ccba46ad75e4"
+      },
+      {
+        "number": 6,
+        "en": "When Tomas left, he said he might return next week if the class kept working this way. Nia did not ask him to promise. She put both versions of the map on the shelf, one with crowded string and one with clear spaces. \"We need both,\" she told Ada. \"The first shows why we changed the second.\" Ada agreed. A class record was not only a place for finished work. It should also show how people learned. Nia looked again at the six-week plan. The next month would be busy, but the room now had one more person who could help decide what the lessons should become.",
+        "zh": "托馬斯離開時說，如果課程繼續這樣進行，他下週可能再來。妮雅沒有要求他保證。她把兩個版本的地圖都放在架上，一張線很擠，一張留有清楚空間。「兩張都需要，」她告訴艾達，「第一張能說明我們為什麼修改第二張。」艾達同意。課堂紀錄不只應該放完成品，也要看得出大家如何學習。妮雅再看一次六週計畫。接下來一個月會很忙，但教室現在多了一位可以一起決定課程方向的人。",
+        "englishSha256": "f2e1d063267209608fadb85f0255d4ce0f852a26b4aa4652681177350329f15b",
+        "chineseSha256": "6770c46d3d21b9dc7b9f3d1b8eab48ae223b195c0454b0552c35e63b409c9e03"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 667,
+    "targets": [
+      {
+        "word": "apple",
+        "meaning": "蘋果",
+        "appearsInSource": true
+      },
+      {
+        "word": "between",
+        "meaning": "在……之間",
+        "appearsInSource": true
+      },
+      {
+        "word": "blind",
+        "meaning": "視障的",
+        "appearsInSource": true
+      },
+      {
+        "word": "brother",
+        "meaning": "哥哥",
+        "appearsInSource": true
+      },
+      {
+        "word": "center",
+        "meaning": "中心",
+        "appearsInSource": true
+      },
+      {
+        "word": "half",
+        "meaning": "一半",
+        "appearsInSource": true
+      },
+      {
+        "word": "hit",
+        "meaning": "碰上；擊中",
+        "appearsInSource": true
+      },
+      {
+        "word": "ice",
+        "meaning": "冰",
+        "appearsInSource": true
+      },
+      {
+        "word": "kick",
+        "meaning": "踢",
+        "appearsInSource": true
+      },
+      {
+        "word": "love",
+        "meaning": "喜愛",
+        "appearsInSource": true
+      },
+      {
+        "word": "net",
+        "meaning": "網",
+        "appearsInSource": true
+      },
+      {
+        "word": "online",
+        "meaning": "線上的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pencil",
+        "meaning": "鉛筆",
+        "appearsInSource": true
+      },
+      {
+        "word": "right",
+        "meaning": "正確的",
+        "appearsInSource": true
+      },
+      {
+        "word": "simple",
+        "meaning": "簡單的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spend",
+        "meaning": "花費",
+        "appearsInSource": true
+      },
+      {
+        "word": "still",
+        "meaning": "仍然",
+        "appearsInSource": true
+      },
+      {
+        "word": "teacher",
+        "meaning": "老師",
+        "appearsInSource": true
+      },
+      {
+        "word": "voice",
+        "meaning": "聲音",
+        "appearsInSource": true
+      },
+      {
+        "word": "way",
+        "meaning": "方法",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Tomas ask Nia not to do?",
+      "options": [
+        "Use a large table.",
+        "Offer pencils.",
+        "Make decisions for him."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "Make decisions for him.",
+      "existingAnswerExplanation": "托馬斯希望妮雅詢問他的需求，而不是代替他決定。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Ada placed a sheet of thick paper between them. She showed Tomas a simple idea: make stars from small raised paper circles and use string for lines. Tomas felt the first circle with one finger. \"That is easy,\" he said. \"But these two circles are too close. I cannot tell them apart.\" Nia moved them farther from each other. She asked the group to spend ten minutes testing the model instead of finishing it quickly. Finn wanted to put a net of string across the whole page. Tomas said that too many lines made it hard to understand. The class listened to him and took some string away.",
+          "chinese": "艾達把一張厚紙放在桌上，向托馬斯示範一個簡單做法：用凸起的小紙圓代表星星，用線繩代表連線。托馬斯用一根手指摸第一顆圓點。「這很容易，」他說，「但這兩點太近了，我分不清。」妮雅把它們移遠。她請全班花十分鐘測試模型，不要急著做完。芬恩想在整張紙上拉滿像網一樣的線。托馬斯說，線太多會很難理解。大家聽取他的意見，移走幾條線。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 3,
+          "english": "Ms. Vale visited and asked what the right answer was for the map. Nia said the right design was one Tomas could read and other students could use too. \"It sounds simple,\" Ms. Vale said, \"but it takes care.\" Tomas laughed. \"Please don't say I'm a special teacher just because I say when a map is bad,\" he replied. \"I am only telling you what I feel.\" His voice was calm. Nia thanked him for being clear. She understood that listening to a person was different from being proud of helping them. The class could make something useful only if Tomas had a real say in the work.",
+          "chinese": "維爾老師來訪，問這張地圖的正確答案是什麼。妮雅說，正確的設計應該是托馬斯讀得懂、其他學生也能使用的設計。「聽起來很簡單，」維爾老師說，「但需要用心。」托馬斯笑了。「請不要因為我說地圖不好用，就叫我特別的老師，」他回答，「我只是告訴大家我的感受。」他的聲音很平靜。妮雅謝謝他說得清楚。她明白傾聽一個人，和為自己幫助了他而自豪，是不同的事。只有讓托馬斯真正參與決定，大家才能做出有用的東西。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why is the second touch map better?",
+      "options": [
+        "It uses more lines.",
+        "Its dots are farther apart and clearer.",
+        "It is made of metal."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Its dots are farther apart and clearer.",
+      "existingAnswerExplanation": "第二張觸摸地圖將星點拉開，也減少過多的線。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Ada placed a sheet of thick paper between them. She showed Tomas a simple idea: make stars from small raised paper circles and use string for lines. Tomas felt the first circle with one finger. \"That is easy,\" he said. \"But these two circles are too close. I cannot tell them apart.\" Nia moved them farther from each other. She asked the group to spend ten minutes testing the model instead of finishing it quickly. Finn wanted to put a net of string across the whole page. Tomas said that too many lines made it hard to understand. The class listened to him and took some string away.",
+          "chinese": "艾達把一張厚紙放在桌上，向托馬斯示範一個簡單做法：用凸起的小紙圓代表星星，用線繩代表連線。托馬斯用一根手指摸第一顆圓點。「這很容易，」他說，「但這兩點太近了，我分不清。」妮雅把它們移遠。她請全班花十分鐘測試模型，不要急著做完。芬恩想在整張紙上拉滿像網一樣的線。托馬斯說，線太多會很難理解。大家聽取他的意見，移走幾條線。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 4,
+          "english": "After lunch, Finn asked whether the class could make an online picture of the map. His teacher had shown him a website with large letters. Ada said they could make a picture for families at home, but the touch map would still be available in the room. Nia divided the work between two groups. One made the raised paper shapes; the other wrote a short guide in large print. Nobody had to hit a target or kick a ball to win a prize. They were using their hands and minds for a shared purpose. Tomas tested the second map and said the main stars were much easier to find.",
+          "chinese": "午餐後，芬恩問能不能把地圖做成網路圖片。老師曾教他看一個用大字的網站。艾達說，可以製作圖片讓家人在家看，但教室也會保留能觸摸的地圖。妮雅把工作分成兩組，一組做凸起的紙形狀，另一組用大字寫簡單說明。大家不需要擊中目標或踢球贏得獎品，而是一起動手動腦，完成共同的目標。托馬斯測試第二張地圖後說，主要星點容易找到多了。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

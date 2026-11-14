@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 1,
+  "chapterId": "ss-r10-l1-a-1",
+  "sourceChapterSha256": "7ceb20b864f36e29f8d21e614e19ec80441489557e0cc7ca46a697f8e796039d",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "妮雅在紅磚街準備六堂星期六星星課，與居民建立需求",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "On Monday, Nia met the center director, Mr. Hale, to learn the rules. The center could offer the room for six weeks, but it had only a small amount of money for paper and lamps. After six weeks, the city would read the class notes and decide whether the lessons could continue. Nia asked if numbers alone would matter. \"No,\" Mr. Hale said. \"We need to know who can take part and what they learn.\" Her cousin Ada came with her. Ada was a science student from the south, and she offered to help count costs. She also brought a notebook for class questions."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At 7 a.m., Nia sat at the breakfast table in her apartment on Red Brick Street, with her heavy teaching bag resting beside her chair. She was up early to prepare for her first class the following Saturday. The city center had given her a room for six Saturday lessons about the night sky. Nia loved stars, but she had never taught a class alone. Before leaving, she finished her breakfast. There was fruit, bread, and a little cake left from yesterday. Her brother Leo said, \"You look as if you need exercise, not another book.\" Nia smiled. \"My hobby is looking up,\" she answered. \"That is enough exercise for my neck.\"",
+        "zh": "早上七點，妮雅坐在紅磚街公寓裡的早餐桌前，沉重的教學袋放在椅子旁。她早早起床，準備下個星期六才會開始的第一堂課。市民中心借給她一間教室，讓她連續六個星期六教大家認識夜空。妮雅喜歡星星，卻從來沒有獨自教過課。出發前，她吃完早餐，有水果、麵包和昨天剩下的一小塊蛋糕。弟弟里歐說：「妳看起來需要運動，不是再多一本書。」妮雅笑了。「我的興趣就是抬頭看，」她回答，「這已經夠讓脖子運動了。」",
+        "englishSha256": "99672a6b06cf3703cb2f77b118454a805ddbc7f30a2c25c5d8c16f64230bf137",
+        "chineseSha256": "583b1038487203b58c431e43e2dc30b538fbd60494d7370c4da8dfc5d03f2490"
+      },
+      {
+        "number": 2,
+        "en": "The room was above the community kitchen. A bell hung beside the door, and an old couch stood under the window. The morning sun made the white wall bright. Nia wanted to show the class tiny points of light on that wall, so she needed a dark cover for the window. Arun, the center helper, found two pieces of cloth in a clean box. One had a funny monkey on it. \"A foreign family gave us this cloth after a school fair,\" he said. \"We may use it if we do not cut it.\" Nia promised to take good care of it. She wrote the promise in her notebook.",
+        "zh": "教室在社區廚房樓上。門邊掛著一只鈴，窗下擺著一張舊沙發。早晨的陽光把白牆照得很亮。妮雅想在牆上展示小小的光點，所以需要一塊遮窗布。中心的幫手亞倫從乾淨的箱子裡找出兩塊布，其中一塊印著滑稽的猴子。「一個外國家庭在學校園遊會後送來這塊布，」他說，「只要不剪壞，就可以使用。」妮雅答應會好好愛惜，還把承諾寫進筆記本。",
+        "englishSha256": "e7641cff22fd4b2b1fbdbc3f9b06ef857498bba327408157b0f0755f11ec2c59",
+        "chineseSha256": "8e4cb77a22099654d4f037c072b59307e2fc2fb4190fee923db754f09bd73c24"
+      },
+      {
+        "number": 3,
+        "en": "At noon, three people came to look at the room. One was a grandmother called Mrs. Sol. Another was a young boy named Finn, who held a drawing of the moon. The third was Mara, a cook from downstairs. Mara had brought a bowl of salad for everyone. Finn asked whether the sun was a star. Nia said yes, and he asked if the moon was a star too. She did not laugh. \"The moon is close to our Earth, and it does not make its own light,\" she said. \"I shall teach that with a lamp next week.\" Finn nodded, pleased that a question could lead to a lesson.",
+        "zh": "中午，三個人來參觀教室。一位是索爾奶奶，一位是拿著月亮畫作的男孩芬恩，還有一位是樓下廚師瑪拉。瑪拉帶來一碗沙拉，請大家一起吃。芬恩問太陽是不是星星。妮雅說是，他又問月亮是不是星星。妮雅沒有笑他。「月亮離地球比較近，而且不會自己發光，」她說，「下星期我會用燈來教大家。」芬恩點點頭，很高興一個問題可以變成一堂課。",
+        "englishSha256": "fba278b78ba79cff3eb93daf4892d5b41d9d772c3d700faad8582c6d36f0ddbb",
+        "chineseSha256": "d7298281ead72749946453eba775557914840ca7eca6d11b433af6f7c5347e03"
+      },
+      {
+        "number": 4,
+        "en": "Nia put chairs around the room and tested the door. A small child could reach the bell, but the shelf was too high for Mrs. Sol. Arun moved the books down. He said that his father used to teach music here, long before the room had a couch. Nia liked hearing about the people who had used this place. She began a page called \"Things We Can Change.\" On it she listed the bright window, the high shelf, and the narrow path between chairs. These were not problems in the sky. They were problems that people could solve with their hands before anyone looked through a telescope.",
+        "zh": "妮雅在房間裡排好椅子，試著開關門。小孩子搆得到鈴，索爾奶奶卻拿不到高架上的書。亞倫把書移到低處。他說，這裡還沒放沙發的年代，他父親曾在此教音樂。妮雅喜歡聽這個空間的往事。她在筆記本開了一頁，標題是「我們可以改變的事」，寫下太亮的窗戶、太高的架子，以及椅子之間太窄的路。這些不是天空的問題，而是大家在拿起望遠鏡之前，便能動手解決的問題。",
+        "englishSha256": "717822c1a98f92166b5f1b7987ec3260c0a4c0fe92633b7b36359fa841e50613",
+        "chineseSha256": "a98984c4e455f8dd79b17b44eb66d3227b67850457f70c42c98b09ab719557bd"
+      },
+      {
+        "number": 5,
+        "en": "While they were putting the chairs in place, Finn asked to write his name on the question board. His pencil was very short, but he held it carefully and made each letter large. He told Nia that he had lost a tooth the week before and felt shy about speaking in front of others. Mrs. Sol smiled and reminded him that he could write down his question first. Finn liked that idea. Nia drew a little star beside his name, then offered the same space to everyone else. She did not want the board to look like a list of the smartest students. It would be a place where questions could belong to people of many ages. Arun moved the board nearer the door so a visitor could find it without walking between the chairs. Finn stepped back, read his name, and gave a pleased nod.",
+        "zh": "大家排椅子時，芬恩問能不能把自己的名字寫到問題板上。他的鉛筆很短，卻拿得很仔細，每個字母都寫得很大。他告訴妮雅，上星期自己掉了一顆牙，現在有點害羞，不敢在眾人面前說話。索爾奶奶微笑著提醒他，可以先把問題寫下來。芬恩很喜歡這個主意。妮雅在他的名字旁畫了一顆小星星，也邀請其他人使用同樣的空間。她不希望問題板變成最聰明學生的排行榜，而希望不同年齡的人都能把問題留在那裡。亞倫把板子移近門邊，讓訪客不用穿過椅子就看得到。芬恩退後一步，讀著自己的名字，滿意地點頭。",
+        "englishSha256": "fc0c8dba7a03f74e046e63532960d3ed56e11c6c27b988d7aaac524ad86a3767",
+        "chineseSha256": "9f04339c4fbcb72e0888c3892be8479d59c8fa012c4c0a1e7f39217f120e9e76"
+      },
+      {
+        "number": 6,
+        "en": "In the evening, Nia put one little lamp on the floor and covered it with a paper cup. She made three small holes in the cup. Three stars appeared on the wall. They were only dots from a lamp, but they made the room feel different. Finn returned with his mother and gasped when he saw them. \"Can we make more?\" he asked. \"Yes,\" Nia replied, \"after we learn how to work safely.\" She had imagined a full class when the lessons began. For now, a grandmother, a cook, and one curious child had shown her that people were already interested. She turned off the lamp and locked the door.",
+        "zh": "傍晚，妮雅把一盞小燈放在地上，用紙杯罩住，在杯上戳出三個小孔。牆上出現三顆小星星。那只是燈投出的光點，卻讓房間有了不同的感覺。芬恩和媽媽再度走進來，看見光點時驚喜地叫出聲。「我們能做更多嗎？」他問。「可以，」妮雅回答，「不過要先學會安全操作。」她曾想像正式開課時整間教室座無虛席。現在，只是索爾奶奶、廚師瑪拉和一個好奇的孩子願意來看看，就已讓她知道有人期待這門課。她關了燈，鎖上門。",
+        "englishSha256": "82f77ab8b2de6d3dc86f907047730d574f6b4204c91628292ca8208fe17d5e1b",
+        "chineseSha256": "87b38697db5d4137202ef39ce4a28c62f065ebc5212c1f07ca667d49cb34be1d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 694,
+    "targets": [
+      {
+        "word": "a.m.",
+        "meaning": "上午",
+        "appearsInSource": true
+      },
+      {
+        "word": "bell",
+        "meaning": "鈴鐺",
+        "appearsInSource": true
+      },
+      {
+        "word": "breakfast",
+        "meaning": "早餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "cake",
+        "meaning": "蛋糕",
+        "appearsInSource": true
+      },
+      {
+        "word": "couch",
+        "meaning": "沙發",
+        "appearsInSource": true
+      },
+      {
+        "word": "cover",
+        "meaning": "遮蓋物",
+        "appearsInSource": true
+      },
+      {
+        "word": "early",
+        "meaning": "提早",
+        "appearsInSource": true
+      },
+      {
+        "word": "exercise",
+        "meaning": "運動",
+        "appearsInSource": true
+      },
+      {
+        "word": "foreign",
+        "meaning": "外國的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fruit",
+        "meaning": "水果",
+        "appearsInSource": true
+      },
+      {
+        "word": "he",
+        "meaning": "他",
+        "appearsInSource": true
+      },
+      {
+        "word": "heavy",
+        "meaning": "沉重的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hobby",
+        "meaning": "興趣",
+        "appearsInSource": true
+      },
+      {
+        "word": "monkey",
+        "meaning": "猴子",
+        "appearsInSource": true
+      },
+      {
+        "word": "salad",
+        "meaning": "沙拉",
+        "appearsInSource": true
+      },
+      {
+        "word": "shall",
+        "meaning": "要不要／好嗎",
+        "appearsInSource": true
+      },
+      {
+        "word": "sun",
+        "meaning": "太陽",
+        "appearsInSource": true
+      },
+      {
+        "word": "teach",
+        "meaning": "教導",
+        "appearsInSource": true
+      },
+      {
+        "word": "tooth",
+        "meaning": "牙齒",
+        "appearsInSource": true
+      },
+      {
+        "word": "write",
+        "meaning": "寫下",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Nia need a cover for the window?",
+      "options": [
+        "To make the room darker for light models.",
+        "To keep birds from coming in.",
+        "To hide the door."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To make the room darker for light models.",
+      "existingAnswerExplanation": "妮雅需要讓牆面變暗，才能展示燈光形成的星點。\n校訂核對（第 2 段）：she needed a dark cover for the window.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The room was above the community kitchen. A bell hung beside the door, and an old couch stood under the window. The morning sun made the white wall bright. Nia wanted to show the class tiny points of light on that wall, so she needed a dark cover for the window. Arun, the center helper, found two pieces of cloth in a clean box. One had a funny monkey on it. \"A foreign family gave us this cloth after a school fair,\" he said. \"We may use it if we do not cut it.\" Nia promised to take good care of it. She wrote the promise in her notebook.",
+          "chinese": "教室在社區廚房樓上。門邊掛著一只鈴，窗下擺著一張舊沙發。早晨的陽光把白牆照得很亮。妮雅想在牆上展示小小的光點，所以需要一塊遮窗布。中心的幫手亞倫從乾淨的箱子裡找出兩塊布，其中一塊印著滑稽的猴子。「一個外國家庭在學校園遊會後送來這塊布，」他說，「只要不剪壞，就可以使用。」妮雅答應會好好愛惜，還把承諾寫進筆記本。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 3,
+          "english": "At noon, three people came to look at the room. One was a grandmother called Mrs. Sol. Another was a young boy named Finn, who held a drawing of the moon. The third was Mara, a cook from downstairs. Mara had brought a bowl of salad for everyone. Finn asked whether the sun was a star. Nia said yes, and he asked if the moon was a star too. She did not laugh. \"The moon is close to our Earth, and it does not make its own light,\" she said. \"I shall teach that with a lamp next week.\" Finn nodded, pleased that a question could lead to a lesson.",
+          "chinese": "中午，三個人來參觀教室。一位是索爾奶奶，一位是拿著月亮畫作的男孩芬恩，還有一位是樓下廚師瑪拉。瑪拉帶來一碗沙拉，請大家一起吃。芬恩問太陽是不是星星。妮雅說是，他又問月亮是不是星星。妮雅沒有笑他。「月亮離地球比較近，而且不會自己發光，」她說，「下星期我會用燈來教大家。」芬恩點點頭，很高興一個問題可以變成一堂課。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Who asks whether the sun is a star?",
+      "options": [
+        "Arun.",
+        "Finn.",
+        "Mr. Hale."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Finn.",
+      "existingAnswerExplanation": "芬恩先問太陽是不是星星，接著也問了月亮。\n校訂核對（第 3 段）：Finn asked whether the sun was a star.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "At noon, three people came to look at the room. One was a grandmother called Mrs. Sol. Another was a young boy named Finn, who held a drawing of the moon. The third was Mara, a cook from downstairs. Mara had brought a bowl of salad for everyone. Finn asked whether the sun was a star. Nia said yes, and he asked if the moon was a star too. She did not laugh. \"The moon is close to our Earth, and it does not make its own light,\" she said. \"I shall teach that with a lamp next week.\" Finn nodded, pleased that a question could lead to a lesson.",
+          "chinese": "中午，三個人來參觀教室。一位是索爾奶奶，一位是拿著月亮畫作的男孩芬恩，還有一位是樓下廚師瑪拉。瑪拉帶來一碗沙拉，請大家一起吃。芬恩問太陽是不是星星。妮雅說是，他又問月亮是不是星星。妮雅沒有笑他。「月亮離地球比較近，而且不會自己發光，」她說，「下星期我會用燈來教大家。」芬恩點點頭，很高興一個問題可以變成一堂課。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 5,
+          "english": "While they were putting the chairs in place, Finn asked to write his name on the question board. His pencil was very short, but he held it carefully and made each letter large. He told Nia that he had lost a tooth the week before and felt shy about speaking in front of others. Mrs. Sol smiled and reminded him that he could write down his question first. Finn liked that idea. Nia drew a little star beside his name, then offered the same space to everyone else. She did not want the board to look like a list of the smartest students. It would be a place where questions could belong to people of many ages. Arun moved the board nearer the door so a visitor could find it without walking between the chairs. Finn stepped back, read his name, and gave a pleased nod.",
+          "chinese": "大家排椅子時，芬恩問能不能把自己的名字寫到問題板上。他的鉛筆很短，卻拿得很仔細，每個字母都寫得很大。他告訴妮雅，上星期自己掉了一顆牙，現在有點害羞，不敢在眾人面前說話。索爾奶奶微笑著提醒他，可以先把問題寫下來。芬恩很喜歡這個主意。妮雅在他的名字旁畫了一顆小星星，也邀請其他人使用同樣的空間。她不希望問題板變成最聰明學生的排行榜，而希望不同年齡的人都能把問題留在那裡。亞倫把板子移近門邊，讓訪客不用穿過椅子就看得到。芬恩退後一步，讀著自己的名字，滿意地點頭。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 2,
+  "chapterId": "ss-r10-l1-a-2",
+  "sourceChapterSha256": "06ab3f21ee021c6a45ac6510ac1b7e32d1b910a180f3cd2849012fd61253b45c",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "市民中心借教室六週；改用電池燈避免地上纜線",
+    "previousChapterEndingEnglish": "In the evening, Nia put one little lamp on the floor and covered it with a paper cup. She made three small holes in the cup. Three stars appeared on the wall. They were only dots from a lamp, but they made the room feel different. Finn returned with his mother and gasped when he saw them. \"Can we make more?\" he asked. \"Yes,\" Nia replied, \"after we learn how to work safely.\" She had imagined a full class when the lessons began. For now, a grandmother, a cook, and one curious child had shown her that people were already interested. She turned off the lamp and locked the door.",
+    "nextChapterOpeningEnglish": "The first Saturday began with a walk, not a telescope. Nia wanted everyone to know where the sun went down and why the sky looked different from one place to another. Eight people came, including Finn, Mrs. Sol, and a boy named Bo. They followed a clean path from the center toward the beach. The route crossed a small bridge, then turned beside a bus station. Nia asked the group to stand on the safe side of the road. A bird sang in a tree, and Bo pointed toward a far white cloud. \"Is that where the moon is born?\" he asked. Nia said that the moon did not begin there; it only seemed to move across the sky."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Monday, Nia met the center director, Mr. Hale, to learn the rules. The center could offer the room for six weeks, but it had only a small amount of money for paper and lamps. After six weeks, the city would read the class notes and decide whether the lessons could continue. Nia asked if numbers alone would matter. \"No,\" Mr. Hale said. \"We need to know who can take part and what they learn.\" Her cousin Ada came with her. Ada was a science student from the south, and she offered to help count costs. She also brought a notebook for class questions.",
+        "zh": "星期一，妮雅去見市民中心主任海爾先生，了解規定。中心能借教室六週，但購買紙張和燈具的錢不多。六週後，市府會閱讀課堂紀錄，再決定課程能否繼續。妮雅問，是否只看出席人數。「不是，」海爾先生說，「我們也要知道誰能參加、大家學到了什麼。」表姊艾達陪她一起來。艾達是來自南方的科學系學生，願意幫忙核算費用，還帶了一本記錄課堂問題的筆記本。",
+        "englishSha256": "5218728e5f8180897a4e651f5351d12b65b8a29c14a886fe102b9b11aafa156d",
+        "chineseSha256": "0e77c77a89b943c45b5936a3575882c311ed34a2767744e2d6f7212607909073"
+      },
+      {
+        "number": 2,
+        "en": "Ada drew a simple chart. One side was for things they needed; the other was for things they could borrow. A famous science museum in the city had a video about the moon. It was free to watch, but not everyone in the class used a computer. \"We can show the video here,\" Ada said, \"and we can still make paper models.\" Nia wanted to add pictures of the sky over their own street. A helpful guy at the library knew how to use an old camera. He agreed to lend a tool for holding it still. Ada wrote his name beside the plan.",
+        "zh": "艾達畫了一張簡單的表格，一邊寫需要的東西，另一邊寫可以借用的東西。市裡一家有名的科學博物館製作了一部介紹月亮的影片，可以免費觀看，但不是每位學員都有電腦。「我們可以在這裡播影片，」艾達說，「也可以做紙模型。」妮雅還想加入紅磚街上空的照片。圖書館一位熱心的年輕人知道怎麼使用舊相機，他答應借出固定相機的工具。艾達把他的名字記在計畫旁。",
+        "englishSha256": "38009912f31bc0c7aa85e33c44e0f5b9871245b5b5f10b37b161ad0ecb909c5e",
+        "chineseSha256": "3eade172bd10622a3c7b96007246d6f612135470f2c470f0bbf42ad29ed2fc89"
+      },
+      {
+        "number": 3,
+        "en": "That afternoon the two women walked beside a river on the east side of town. A family was feeding grass to sheep behind a fence. Ada reminded Nia not to fill her lessons with words that were too hard for first-time learners. \"Say what people can see,\" she said. \"Do not start with a long speech about power and light.\" Nia bit her lip. She had prepared ten pages of notes. \"Maybe I have made this too big,\" she admitted. Ada shook her head. \"Big ideas are fine. We just need small steps. They will ask questions, and you can answer one at a time.\"",
+        "zh": "當天下午，兩個人沿著鎮東的河邊散步。有一家人在柵欄後餵綿羊吃草。艾達提醒妮雅，不要在初學者的課裡塞進太多難字。「先說大家看得見的事，」她說，「不要一開始就長篇講光和能量。」妮雅咬住下唇。她已經準備了十頁講義。「也許我把課程想得太大了，」她承認。艾達搖頭說：「大想法很好，我們只需要小步驟。大家會發問，妳一次回答一題就好。」",
+        "englishSha256": "a60dc0cdd9262bc12bf32562d94eae192c192883391a1adb5f84c7b3a10a5a86",
+        "chineseSha256": "defee1af395b1a2aff7c57cb7449df1f403d2c11385d912fbf2604f2489b5b51"
+      },
+      {
+        "number": 4,
+        "en": "They returned to the center on a sunny evening. Arun helped them carry three boxes upstairs. In one box were pens. In another were pieces of blue paper. The third held a small lamp and a long wire. Nia tested it with the power off before she asked an adult to connect it. Ada said the safe choice was to use a battery lamp for children. Nia crossed the wire off her list. She felt a little sad about losing the bright lamp, but she liked the quiet little one. It did the same job without a wire across the floor.",
+        "zh": "陽光明亮的傍晚，她們回到中心。亞倫幫忙把三個箱子搬上樓。第一箱裝著筆，第二箱裝著藍色紙張，第三箱則有小燈和一條長電線。妮雅先確認電源關閉，才請成人協助接線測試。艾達說，給孩子操作時，電池燈更安全。妮雅於是把有線燈從清單刪掉。雖然少了亮亮的大燈讓她有點失望，她還是喜歡這盞安靜的小燈。它能完成相同的工作，也不會有電線橫在地上。",
+        "englishSha256": "ac787495f2b79c8bc1a2bfa219032e1fc08245284dce37b7215520920d6b8eca",
+        "chineseSha256": "91d2dc338298e426dc2910f5d0b3a22dad0938c505670367a86d6d952aa78110"
+      },
+      {
+        "number": 5,
+        "en": "Ada asked Nia to bring the first week's questions to the planning table. They spread the papers in a neat row and made a mark beside each one they could answer with their present tools. Some questions needed books, and others needed a night outdoors. The simple chart helped them see why six weeks could not be one long lesson. Nia wanted to promise everything, but Ada reminded her that a promise should have a real plan behind it. They chose one main question for each Saturday and kept a small space for questions no one had expected. When a family called to ask about the class, Nia could now explain the plan in a few clear sentences rather than reading ten pages of notes. She liked that change.",
+        "zh": "艾達請妮雅把第一週收集的問題帶到計畫桌。她們把紙張排成整齊一列，為目前能用工具回答的問題做記號。有些問題需要查書，有些需要夜裡到戶外觀察。簡單的表格讓她們明白，六週不能變成一堂講不停的長課。妮雅很想承諾教會所有事情，但艾達提醒她，承諾背後應該有實際計畫。兩人為每個星期六選出一個主要問題，同時留下空間給意料之外的疑問。後來有家庭打電話來問課程，妮雅終於能用幾句清楚的話說明，而不是念十頁筆記。她喜歡這個改變。",
+        "englishSha256": "b00a9aae25e2176b2de34508a49f32436dbd3c68aea2fb8c8058547f1903b845",
+        "chineseSha256": "86a3a5b234dccd1896a8680e2b297b6592b4bf4e4d4dfb0d8265611ff7c5fa80"
+      },
+      {
+        "number": 6,
+        "en": "Before leaving, Nia and Ada made a notice for families. It said the class was for people of different ages and that visitors did not have to own a telescope. Every Saturday would have one indoor activity and one question to take home. Ada took a photo of the notice to share with the library. \"It may not sound exciting,\" she said. Nia read it again and smiled. \"It sounds honest.\" The two women put the notice at eye level, not too high. People walking past the center could read it without stopping in the street. That was the first part of their plan that was truly ready.",
+        "zh": "離開前，妮雅和艾達寫了一張給家庭看的公告。公告說明這堂課歡迎不同年齡的人參加，也不需要自己擁有望遠鏡。每個星期六都有一項室內活動和一個可以帶回家的問題。艾達拍下公告，準備分享給圖書館。「聽起來可能不夠刺激，」她說。妮雅重新讀了一遍，笑著回答：「但這很誠實。」她們把公告貼在視線高度，不貼得太高。經過中心的人不用站到馬路上，也能看清楚。這是計畫裡第一項真正準備好的事。",
+        "englishSha256": "2ea117d84acb8492728772f2ee5178174aefe8e25fb039fdf67e9a22cbe17e77",
+        "chineseSha256": "33038f9d207f0b7e01db8aa5c317bc4289ce38accf0dc8327e2cc22c797c876f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 651,
+    "targets": [
+      {
+        "word": "add",
+        "meaning": "加入",
+        "appearsInSource": true
+      },
+      {
+        "word": "also",
+        "meaning": "也",
+        "appearsInSource": true
+      },
+      {
+        "word": "bring",
+        "meaning": "帶來",
+        "appearsInSource": true
+      },
+      {
+        "word": "but",
+        "meaning": "但是",
+        "appearsInSource": true
+      },
+      {
+        "word": "cousin",
+        "meaning": "表姊／表親",
+        "appearsInSource": true
+      },
+      {
+        "word": "family",
+        "meaning": "家人",
+        "appearsInSource": true
+      },
+      {
+        "word": "famous",
+        "meaning": "有名的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fill",
+        "meaning": "填入",
+        "appearsInSource": true
+      },
+      {
+        "word": "guy",
+        "meaning": "男子",
+        "appearsInSource": true
+      },
+      {
+        "word": "helpful",
+        "meaning": "有幫助的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lip",
+        "meaning": "嘴唇",
+        "appearsInSource": true
+      },
+      {
+        "word": "power",
+        "meaning": "電力",
+        "appearsInSource": true
+      },
+      {
+        "word": "river",
+        "meaning": "河流",
+        "appearsInSource": true
+      },
+      {
+        "word": "science",
+        "meaning": "科學",
+        "appearsInSource": true
+      },
+      {
+        "word": "sheep",
+        "meaning": "綿羊",
+        "appearsInSource": true
+      },
+      {
+        "word": "south",
+        "meaning": "南方",
+        "appearsInSource": true
+      },
+      {
+        "word": "sunny",
+        "meaning": "晴朗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "they",
+        "meaning": "他們",
+        "appearsInSource": true
+      },
+      {
+        "word": "tool",
+        "meaning": "工具",
+        "appearsInSource": true
+      },
+      {
+        "word": "video",
+        "meaning": "影片",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "How long can the center offer the room at first?",
+      "options": [
+        "One day.",
+        "One year.",
+        "Six weeks."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "Six weeks.",
+      "existingAnswerExplanation": "中心先借教室六週，之後再審查課程成果。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On Monday, Nia met the center director, Mr. Hale, to learn the rules. The center could offer the room for six weeks, but it had only a small amount of money for paper and lamps. After six weeks, the city would read the class notes and decide whether the lessons could continue. Nia asked if numbers alone would matter. \"No,\" Mr. Hale said. \"We need to know who can take part and what they learn.\" Her cousin Ada came with her. Ada was a science student from the south, and she offered to help count costs. She also brought a notebook for class questions.",
+          "chinese": "星期一，妮雅去見市民中心主任海爾先生，了解規定。中心能借教室六週，但購買紙張和燈具的錢不多。六週後，市府會閱讀課堂紀錄，再決定課程能否繼續。妮雅問，是否只看出席人數。「不是，」海爾先生說，「我們也要知道誰能參加、大家學到了什麼。」表姊艾達陪她一起來。艾達是來自南方的科學系學生，願意幫忙核算費用，還帶了一本記錄課堂問題的筆記本。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 5,
+          "english": "Ada asked Nia to bring the first week's questions to the planning table. They spread the papers in a neat row and made a mark beside each one they could answer with their present tools. Some questions needed books, and others needed a night outdoors. The simple chart helped them see why six weeks could not be one long lesson. Nia wanted to promise everything, but Ada reminded her that a promise should have a real plan behind it. They chose one main question for each Saturday and kept a small space for questions no one had expected. When a family called to ask about the class, Nia could now explain the plan in a few clear sentences rather than reading ten pages of notes. She liked that change.",
+          "chinese": "艾達請妮雅把第一週收集的問題帶到計畫桌。她們把紙張排成整齊一列，為目前能用工具回答的問題做記號。有些問題需要查書，有些需要夜裡到戶外觀察。簡單的表格讓她們明白，六週不能變成一堂講不停的長課。妮雅很想承諾教會所有事情，但艾達提醒她，承諾背後應該有實際計畫。兩人為每個星期六選出一個主要問題，同時留下空間給意料之外的疑問。後來有家庭打電話來問課程，妮雅終於能用幾句清楚的話說明，而不是念十頁筆記。她喜歡這個改變。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why do they choose a battery lamp?",
+      "options": [
+        "It costs more.",
+        "It avoids a wire across the floor.",
+        "It shows more planets."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "It avoids a wire across the floor.",
+      "existingAnswerExplanation": "電池燈不用讓電線橫在地上，較適合孩子使用。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "They returned to the center on a sunny evening. Arun helped them carry three boxes upstairs. In one box were pens. In another were pieces of blue paper. The third held a small lamp and a long wire. Nia tested it with the power off before she asked an adult to connect it. Ada said the safe choice was to use a battery lamp for children. Nia crossed the wire off her list. She felt a little sad about losing the bright lamp, but she liked the quiet little one. It did the same job without a wire across the floor.",
+          "chinese": "陽光明亮的傍晚，她們回到中心。亞倫幫忙把三個箱子搬上樓。第一箱裝著筆，第二箱裝著藍色紙張，第三箱則有小燈和一條長電線。妮雅先確認電源關閉，才請成人協助接線測試。艾達說，給孩子操作時，電池燈更安全。妮雅於是把有線燈從清單刪掉。雖然少了亮亮的大燈讓她有點失望，她還是喜歡這盞安靜的小燈。它能完成相同的工作，也不會有電線橫在地上。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "On Monday, Nia met the center director, Mr. Hale, to learn the rules. The center could offer the room for six weeks, but it had only a small amount of money for paper and lamps. After six weeks, the city would read the class notes and decide whether the lessons could continue. Nia asked if numbers alone would matter. \"No,\" Mr. Hale said. \"We need to know who can take part and what they learn.\" Her cousin Ada came with her. Ada was a science student from the south, and she offered to help count costs. She also brought a notebook for class questions.",
+          "chinese": "星期一，妮雅去見市民中心主任海爾先生，了解規定。中心能借教室六週，但購買紙張和燈具的錢不多。六週後，市府會閱讀課堂紀錄，再決定課程能否繼續。妮雅問，是否只看出席人數。「不是，」海爾先生說，「我們也要知道誰能參加、大家學到了什麼。」表姊艾達陪她一起來。艾達是來自南方的科學系學生，願意幫忙核算費用，還帶了一本記錄課堂問題的筆記本。",
+          "matchedQueryTerms": 0
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 7,
+  "chapterId": "ss-r2-l1-b-7",
+  "sourceChapterSha256": "774c9589fce0f299fd9333940882f19bbbb3ca6b9c8bb79b6c61ee332059d465",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "皮普開食用植物課，四成人和一位陪同孩子；不耽誤開店",
+    "previousChapterEndingEnglish": "Before bed, Fia thought about the hard day. At first she had only wanted the eggs to arrive. By evening she understood a larger need: the shop had to work even when the world did not follow her plan. She put a dry copy of Toma's note in her book. Next to it she wrote two words, \"safe first.\" It was easy to say them when the sun was out. She hoped she would remember them when the next storm came. She turned off her light, ready to try again the next morning.",
+    "nextChapterOpeningEnglish": "Moss kept a small book by his oven. Every time bread went wrong, he wrote down what had happened. It was not a boring book to him. It helped him remember heat, time, and the kind of flour he had used. One morning, a loaf came out hard as a stone. \"Another mistake,\" he said. Fia did not laugh. She listened while he told her about the fire. \"The oven was too hot,\" he said. \"I will try less heat next time.\" Fia wrote the idea on a new page. A wrong loaf could teach them something, as long as they kept good notes. He asked Fia to listen while he read the notes again, because sometimes saying a plan aloud made an error easier to see."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Pip came by the west path with a large basket of flowers. He was a rabbit who loved growing things. \"There is one more job we can do,\" he told Fia. \"We can teach a class about simple food plants.\" Fia liked the idea, but she asked when they would have time. Moss had to finish his bread, and she had to clean the kitchen. Pip made a list and put one hour beside the class. \"We can start small,\" he said. \"Let us have only four people. If it works, we can do it again.\" Fia agreed to try it on a day when the shop was closed.",
+        "zh": "皮普沿著西邊小路走來，提著一大籃花。他是一隻喜愛種植的兔子。「我們還能做一件事，」他對菲雅說，「開一堂簡單食用植物課。」菲雅喜歡這個想法，但問大家哪有時間。莫斯得完成麵包，她也得清潔廚房。皮普列了清單，給課堂安排一小時。「從小規模開始吧，」他說，「先收四個人。如果可行，再辦一次。」菲雅同意選休店日試試。",
+        "englishSha256": "ec56e0d2f1c30ff3af40776522eb29354f603194e103abc42aeebd304ed46f60",
+        "chineseSha256": "b679c170121e7bb912210864f726ffd17d2667e406e65f2b9f20a444a534a486"
+      },
+      {
+        "number": 2,
+        "en": "Mrs. Fern came with her child. A housewife named May from the next street also joined them. May often cooked for her family, but she wanted to grow something herself. Another guest was an old rabbit who knew many plants. The last visitor was Toma, who wanted to keep herbs near his work room. Pip showed them a flower and a leaf. \"This flower is pretty, but it is not our main food,\" he said. \"The leaves of this plant can go in soup.\" Fia wrote a note on each pot so nobody would mix them up. The four adult learners could see and ask questions, while Mrs. Fern's child listened beside her.",
+        "zh": "芬恩太太帶著孩子來了；隔街的家庭主婦梅也參加了。梅常替家人煮飯，但想親自種點東西。另一名客人是熟悉植物的老兔子。最後一位是托馬，他想在工作屋旁種香草。皮普展示一朵花和一片葉。「這朵花很美，但不是主要食物，」他說，「這株植物的葉子可以放進湯裡。」菲雅替每盆植物寫上標籤，避免弄混。四位成人學員都能看清楚、提出問題；芬恩太太的孩子則在她身旁聆聽。",
+        "englishSha256": "e7efc29529939242f4d7276b6b4bc5a9a604e83aca6670d0cc5c4d5aa21db0a5",
+        "chineseSha256": "3e3fca6f53dd09b2eb17e53eae57d2f760ec87e1c4f5bd3066010a69cf3a251c"
+      },
+      {
+        "number": 3,
+        "en": "During the class, Moss brought warm chocolate bread from the oven. The smell was popular with the children. \"Is it real chocolate?\" one child asked. \"Yes,\" Moss answered, \"but we use only a little.\" Fia let everyone have a small piece. She did not want to turn the class into a show where people bought food they did not need. They talked about seeds, water, and care while they ate. Toma put down his plate and asked how long it took a plant to grow. Pip answered carefully. \"It depends on the plant and the weather. We can watch and learn.\"",
+        "zh": "上課時，莫斯從烤爐送來溫熱的巧克力麵包，香味深受孩子喜愛。「是真的巧克力嗎？」有個孩子問。「是真的，」莫斯回答，「但只放了一點。」菲雅讓每人分一小塊。她不希望課堂變成要大家買不需要食物的表演。眾人邊吃邊談種子、水和照顧方法。托馬放下盤子，問植物要多久才長大。皮普認真回答：「要看植物和天氣。我們可以觀察，也可以學習。」",
+        "englishSha256": "72f671d3937b60ffb23724cd3f305b56ba9e53928b3a89b66c8b3f31a91bf30d",
+        "chineseSha256": "e56796fb22ea363c659257f3d887ad6a3e2e1a64bebe1873fd247df23ad61f50"
+      },
+      {
+        "number": 4,
+        "en": "At the end of the hour, Pip asked them to collect the empty cups and clean the table. The child said the work was boring. May smiled. \"A good class includes the work after the fun part,\" she said. Fia thanked everyone for helping. She had learned something, too: children listened better when they could hold a pot and water a seed. They did not need a long speech. Pip let the class take a small pot home. The old rabbit promised to return until every little plant had a good place to grow.",
+        "zh": "一小時結束時，皮普請大家收空杯並擦桌子。孩子說這工作很無聊。梅笑著說：「好課程也包含有趣部分結束後的收拾。」菲雅謝謝大家幫忙。她自己也學到一件事：孩子能親手拿盆栽、澆種子時，比聽長篇講話更專心。皮普讓大家帶一小盆植物回家。老兔子答應會再來，直到每株小植物都有合適的位置成長。",
+        "englishSha256": "cab8abab18300d0ba4c1cd4a80e904e2a319d2f17bfda5fdc674454f5c706d07",
+        "chineseSha256": "d60ef99846594530e634439a66289b47ac5a937c30340e0ca12aedd0a4d5cd04"
+      },
+      {
+        "number": 5,
+        "en": "Later, Fia and Pip sat beside the window. \"The class was a good start,\" Fia said, \"but it must not take time away from our opening work.\" Pip understood. He cared about the plants, yet he knew the kitchen needed him, too. They wrote a short plan for next month: one class, one list of plants, and one person to help clean. Moss joined them and asked whether they could have a bread lesson after the shop was ready. Fia laughed. \"Perhaps,\" she said. \"First we need to learn how to make breakfast for the village.\" They agreed that the course should stay simple, with time for each visitor to touch a plant and ask a question.",
+        "zh": "稍晚，菲雅和皮普坐在窗邊。「課堂開了個好頭，」菲雅說，「但不能耽誤開店的工作。」皮普明白。他重視植物，也知道廚房需要他。兩人替下個月寫下簡單計畫：一堂課、一張植物清單、一名協助打掃的人。莫斯加入後問，等開店了能否辦麵包課。菲雅笑了。「也許可以，」她說，「但我們先學會替全村做早餐吧。」 他們同意這堂課程應保持簡單，留時間給每位訪客摸摸植物、問一個問題。",
+        "englishSha256": "0c86f77da4080448cf7bfa90ba031455e2c879668b1a8e5e950b3e08f31e955e",
+        "chineseSha256": "947f55b81104bbfee4dd64bd65e614e8453df116769fdbf41f4fc3476ce1141c"
+      },
+      {
+        "number": 6,
+        "en": "That evening, the old wooden star above the door looked bright in the last light. Fia walked home with a tiny pot in her hand. There was a single seed inside. It was not ready to become food, just as the shop was not yet ready for its guests. But a seed could grow with time, light, and care. The small class had shown Fia what the shop might become: a place where people did more than buy and eat. They could teach one another, share what they knew, and take something good back home.",
+        "zh": "傍晚，門上的老木星星在最後的日光裡顯得明亮。菲雅手裡拿著一只小盆栽走回家，裡面只有一顆種子。它還不能變成食物，就像小店仍未準備好迎客。但種子有時間、陽光與照顧，就能生長。這堂小課讓菲雅看見小店未來的樣子：不只是買賣和吃飯的地方，也能讓人互相教學、分享所知，帶一點好東西回家。",
+        "englishSha256": "0e41a11598bed6e20500d68b6ae260bdb26a91db9c24d268afea55b94b837702",
+        "chineseSha256": "83a6ebe5b68f8823117f196a66f3c3a1681e0b92f45849d84397ef778d405d2d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 629,
+    "targets": [
+      {
+        "word": "by",
+        "meaning": "藉由",
+        "appearsInSource": true
+      },
+      {
+        "word": "chocolate",
+        "meaning": "巧克力",
+        "appearsInSource": true
+      },
+      {
+        "word": "class",
+        "meaning": "課堂",
+        "appearsInSource": true
+      },
+      {
+        "word": "collect",
+        "meaning": "收集",
+        "appearsInSource": true
+      },
+      {
+        "word": "course",
+        "meaning": "課程",
+        "appearsInSource": true
+      },
+      {
+        "word": "flower",
+        "meaning": "花",
+        "appearsInSource": true
+      },
+      {
+        "word": "hour",
+        "meaning": "小時",
+        "appearsInSource": true
+      },
+      {
+        "word": "housewife",
+        "meaning": "家庭主婦",
+        "appearsInSource": true
+      },
+      {
+        "word": "large",
+        "meaning": "大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Let",
+        "meaning": "讓",
+        "appearsInSource": true
+      },
+      {
+        "word": "list",
+        "meaning": "清單",
+        "appearsInSource": true
+      },
+      {
+        "word": "main",
+        "meaning": "主要的",
+        "appearsInSource": true
+      },
+      {
+        "word": "note",
+        "meaning": "筆記",
+        "appearsInSource": true
+      },
+      {
+        "word": "popular",
+        "meaning": "受歡迎的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rabbit",
+        "meaning": "兔子",
+        "appearsInSource": true
+      },
+      {
+        "word": "real",
+        "meaning": "真正的",
+        "appearsInSource": true
+      },
+      {
+        "word": "start",
+        "meaning": "開始",
+        "appearsInSource": true
+      },
+      {
+        "word": "There",
+        "meaning": "那裡",
+        "appearsInSource": true
+      },
+      {
+        "word": "until",
+        "meaning": "直到",
+        "appearsInSource": true
+      },
+      {
+        "word": "west",
+        "meaning": "西方",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Pip teach in his class?",
+      "options": [
+        "Simple food plants",
+        "How to drive a bus",
+        "How to paint walls"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Simple food plants",
+      "existingAnswerExplanation": "皮普教大家認識與種植簡單食用植物。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Pip came by the west path with a large basket of flowers. He was a rabbit who loved growing things. \"There is one more job we can do,\" he told Fia. \"We can teach a class about simple food plants.\" Fia liked the idea, but she asked when they would have time. Moss had to finish his bread, and she had to clean the kitchen. Pip made a list and put one hour beside the class. \"We can start small,\" he said. \"Let us have only four people. If it works, we can do it again.\" Fia agreed to try it on a day when the shop was closed.",
+          "chinese": "皮普沿著西邊小路走來，提著一大籃花。他是一隻喜愛種植的兔子。「我們還能做一件事，」他對菲雅說，「開一堂簡單食用植物課。」菲雅喜歡這個想法，但問大家哪有時間。莫斯得完成麵包，她也得清潔廚房。皮普列了清單，給課堂安排一小時。「從小規模開始吧，」他說，「先收四個人。如果可行，再辦一次。」菲雅同意選休店日試試。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 5,
+          "english": "Later, Fia and Pip sat beside the window. \"The class was a good start,\" Fia said, \"but it must not take time away from our opening work.\" Pip understood. He cared about the plants, yet he knew the kitchen needed him, too. They wrote a short plan for next month: one class, one list of plants, and one person to help clean. Moss joined them and asked whether they could have a bread lesson after the shop was ready. Fia laughed. \"Perhaps,\" she said. \"First we need to learn how to make breakfast for the village.\" They agreed that the course should stay simple, with time for each visitor to touch a plant and ask a question.",
+          "chinese": "稍晚，菲雅和皮普坐在窗邊。「課堂開了個好頭，」菲雅說，「但不能耽誤開店的工作。」皮普明白。他重視植物，也知道廚房需要他。兩人替下個月寫下簡單計畫：一堂課、一張植物清單、一名協助打掃的人。莫斯加入後問，等開店了能否辦麵包課。菲雅笑了。「也許可以，」她說，「但我們先學會替全村做早餐吧。」 他們同意這堂課程應保持簡單，留時間給每位訪客摸摸植物、問一個問題。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why do they plan only one class next month?",
+      "options": [
+        "To leave time for opening work",
+        "To stop growing plants",
+        "To close the village"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To leave time for opening work",
+      "existingAnswerExplanation": "他們不希望課堂耽誤早餐店的準備工作。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Later, Fia and Pip sat beside the window. \"The class was a good start,\" Fia said, \"but it must not take time away from our opening work.\" Pip understood. He cared about the plants, yet he knew the kitchen needed him, too. They wrote a short plan for next month: one class, one list of plants, and one person to help clean. Moss joined them and asked whether they could have a bread lesson after the shop was ready. Fia laughed. \"Perhaps,\" she said. \"First we need to learn how to make breakfast for the village.\" They agreed that the course should stay simple, with time for each visitor to touch a plant and ask a question.",
+          "chinese": "稍晚，菲雅和皮普坐在窗邊。「課堂開了個好頭，」菲雅說，「但不能耽誤開店的工作。」皮普明白。他重視植物，也知道廚房需要他。兩人替下個月寫下簡單計畫：一堂課、一張植物清單、一名協助打掃的人。莫斯加入後問，等開店了能否辦麵包課。菲雅笑了。「也許可以，」她說，「但我們先學會替全村做早餐吧。」 他們同意這堂課程應保持簡單，留時間給每位訪客摸摸植物、問一個問題。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 1,
+          "english": "Pip came by the west path with a large basket of flowers. He was a rabbit who loved growing things. \"There is one more job we can do,\" he told Fia. \"We can teach a class about simple food plants.\" Fia liked the idea, but she asked when they would have time. Moss had to finish his bread, and she had to clean the kitchen. Pip made a list and put one hour beside the class. \"We can start small,\" he said. \"Let us have only four people. If it works, we can do it again.\" Fia agreed to try it on a day when the shop was closed.",
+          "chinese": "皮普沿著西邊小路走來，提著一大籃花。他是一隻喜愛種植的兔子。「我們還能做一件事，」他對菲雅說，「開一堂簡單食用植物課。」菲雅喜歡這個想法，但問大家哪有時間。莫斯得完成麵包，她也得清潔廚房。皮普列了清單，給課堂安排一小時。「從小規模開始吧，」他說，「先收四個人。如果可行，再辦一次。」菲雅同意選休店日試試。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

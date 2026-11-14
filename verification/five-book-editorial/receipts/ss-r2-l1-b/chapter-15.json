@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 15,
+  "chapterId": "ss-r2-l1-b-15",
+  "sourceChapterSha256": "a0631eb4111a932423b71ef9887d1365fd052c8177c11687546e207e96f483a4",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "早餐店正式開幕，過去時態一致；顧客與工作者都需照顧",
+    "previousChapterEndingEnglish": "That evening, Fia hung a small note on the kitchen wall. It said: \"Cover food. Keep the floor clean. Ask for help when needed.\" Moss read it out loud. \"Only three lines?\" he asked. Fia nodded. \"They are easy to remember, and we can add more if we learn something new.\" Moss smiled and went home. The shop smelled clean, and the boards by the door were dry. Fia looked down. No ants were coming through the little space. She closed the door softly and went to see whether Pip was feeling better.",
+    "nextChapterOpeningEnglish": "A bright morning came after the first week of work. Fia sat inside the red house and read the notes in her book. The shop had changed a great deal, but one matter still worried her: the road by the pond became unsafe in heavy rain. A gray pig named Grandfather Oak visited with a folded paper in his hand. He had worked on boats when he was young and knew the land between the village and the sea. \"I heard you want to help people during bad weather,\" he said. \"My old map may help you see where the water goes.\" Fia pulled out a chair for him."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On the first real opening morning, the sun came above the hill like a warm gift. Fia put a sign on the red door: \"Open for Breakfast.\" She felt a great pleasure when she saw Moss and Pip arrive on time. Pip had slept well and was ready to work again. Edda came with her daughter, who wanted to choose the first table. \"You may sit where you like,\" Fia told them. \"But please keep the path clear.\" The daughter picked a chair by the window. \"What a lovely place,\" she said. Fia smiled. The shop was finally open, and her hands shook a little. When the first guests were ready to enter, Fia tried to care for each one without forgetting that the workers also needed time to rest and sleep.",
+        "zh": "正式開幕的早晨，太陽像溫暖的禮物，從山後升起。菲雅在紅門上掛著「早餐營業中」的牌子。看到莫斯和皮普準時到來，她感到很大的喜悅。皮普睡得很好，又能工作了。艾達帶著女兒來，女兒想選第一張桌。「喜歡哪裡就坐哪裡，」菲雅說，「但請留好通道。」女兒選了窗邊椅子。「真是可愛的地方。」她說。菲雅微笑。店終於開門，她的手微微顫抖。 第一批客人準備進門時，菲雅努力照顧每個人，也不忘員工同樣需要休息與睡眠。",
+        "englishSha256": "89d15900d11dbf8bc507c696675d7968b4df8c710cc1039a31991628d837dde7",
+        "chineseSha256": "ce8647b18168ecca97b689dffe869c63e7d4de706f15cca65d62886c6d32106a"
+      },
+      {
+        "number": 2,
+        "en": "The first guest ordered bread and fruit. The next wanted soup. Fia kept the menu simple, and Moss worked carefully by the oven. Pip brought herbs from the garden. There was a common question from visitors: \"What is fresh today?\" Fia liked answering it. She told them which food was ready, how much it cost, and how long they might wait. She did not try to make every person buy more. When a guest said one bowl was too much, she offered a smaller one. It was important that each person could choose the meal that suited them.",
+        "zh": "第一位客人點了麵包和水果，下一位想喝湯。菲雅保持菜單簡單，莫斯在烤爐旁細心工作，皮普從花園帶來香草。客人常問：「今天有什麼新鮮的？」菲雅很喜歡回答。她說明有哪些做好、價格多少、可能要等多久，不試圖讓每人多買。有客人說一碗太多，她便提供小份量。讓每個人自己選適合的餐點，是很重要的事。",
+        "englishSha256": "c195d4b6046e0bdd5a93572a6faaf839af0d61093cf953b0ecf2c6fdb46cff06",
+        "chineseSha256": "d31b65e17d5c3d44230116b64036ab5204f9adb3d797104cd45758865258316a"
+      },
+      {
+        "number": 3,
+        "en": "At nine, Kit came running with a pocket full of coins. He had a chance to eat before going to work on the farm. \"I almost forgot the time!\" he said. Fia showed him the food board. He chose bread and a little milk. \"That is enough,\" he said. Moss gave him a warm smile. Outside, two children were playing tennis with a soft ball, and their laughter came through the door. Fia liked the happy sound, though she asked them not to play near the hot kitchen window. They moved to the garden and kept playing there.",
+        "zh": "九點時，基特跑著來，口袋裝滿硬幣。他剛好有機會在回農場工作前吃一餐。「我差點忘記時間！」他說。菲雅給他看食物看板。他選了麵包和一點牛奶。「這樣就夠了。」他說。莫斯溫暖地笑了。屋外兩名孩子用軟球打網球，笑聲從門口傳進來。菲雅喜歡那快樂的聲音，但請他們不要靠近熱廚房窗戶玩。他們便移到花園繼續。",
+        "englishSha256": "f7e1a670398c5b76f196240141a956dce449adc72f941de0cd5f6a3a3aab13b8",
+        "chineseSha256": "8f4bd1d3a59b08289f3281655ee6fa249d29013b45377519fcd8e5ff92c0f8a3"
+      },
+      {
+        "number": 4,
+        "en": "Just before noon, Rowan returned from the south hill. He had found his mother's old friend and wanted to thank the team. He brought a small picture as a gift. In it, the red house stood under a bright sky, with the wooden star above the door. Fia felt happy to see it. \"You do not have to pay us back,\" she said. \"You helped us remember why this place matters.\" Rowan asked what she hoped to do next season. She answered, \"First I want to run this small shop well. Then I will see what else the village needs.\" He said that was a good answer.",
+        "zh": "接近中午，羅文從南坡回來了。他找到了母親的老朋友，想謝謝團隊。他帶來一幅小畫作為禮物：紅屋立在晴空下，木星星掛在門上方。菲雅看到很開心。「你不必回報我們，」她說，「你幫我們記起這個地方為何重要。」羅文問她下個季節想做什麼。她回答：「先把這間小店經營好，之後再看看村子需要什麼。」羅文說這是很好的答案。",
+        "englishSha256": "328c9d97823c970486ebd5445fb3d76d0d98890199f03c25123eb49010e88a79",
+        "chineseSha256": "8f761ae01951e39b950d21ef9211185622e26b0bef7f8325e688a8bc0ef4a5f3"
+      },
+      {
+        "number": 5,
+        "en": "When the last guest left, Fia counted the money with Moss. They had paid for the food they used and still had a little money left for tomorrow. They could not call the shop rich, but the day had worked. Pip sat at the table and asked, \"What was wrong?\" Fia laughed softly. \"Nothing terrible, but the soup line was too slow, and we need a place for wet bags.\" She wrote both notes down. A good first day did not mean there was nothing to improve. It meant they had begun to learn with real people.",
+        "zh": "最後一位客人離開後，菲雅和莫斯一起數錢。扣除使用的食材費用，還剩一點可供明天使用。他們不能說店很富有，但今天運作成功。皮普坐在桌邊問：「哪裡出了問題？」菲雅輕聲笑了。「沒有大事，但湯的隊伍太慢，還需要放濕袋子的地方。」她把兩項記下。好的第一天不代表毫無改進空間，而是開始和真正的客人一起學習。",
+        "englishSha256": "29d13fa1efe6527da4053cda9670f62079f7ef4639d0609f7f3746bec89a82b5",
+        "chineseSha256": "11ab40ca65d22a0aaa20657982511e1d29fffc53af95dbed4102aee485969bfd"
+      },
+      {
+        "number": 6,
+        "en": "That evening, Fia stood under the wooden star and looked at the door. She remembered the empty house on the day she first arrived. Now the floor was clean, the chairs were safe, and people had shared a warm morning inside. Moss and Pip joined her. \"We did it,\" Moss said. \"We started,\" Fia answered. The difference mattered to her. They had not reached the end of the work; they had reached the beginning of a new way of living together. She shut the red door for the night, glad to know it would open again tomorrow.",
+        "zh": "那晚，菲雅站在木星星下望著門，想起最初來時的空屋。如今地板乾淨、椅子安全，大家也在裡面共度溫暖早晨。莫斯和皮普走到身邊。「我們成功了。」莫斯說。「我們開始了。」菲雅回答。這個差別對她很重要。他們不是完成所有工作，而是開始了一種新的共同生活方式。她把紅門關上，心裡很高興，因為明天它還會再打開。",
+        "englishSha256": "bce1975c1a549620ff8cb47e64836cbea823a52df7d4f9cef0d24184cce405df",
+        "chineseSha256": "4161fd169ea86a022a70578eadd6afeae27ee4e2cc6c7cb764e0d065a8e6cb44"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 629,
+    "targets": [
+      {
+        "word": "above",
+        "meaning": "上方",
+        "appearsInSource": true
+      },
+      {
+        "word": "care",
+        "meaning": "照顧",
+        "appearsInSource": true
+      },
+      {
+        "word": "chance",
+        "meaning": "機會",
+        "appearsInSource": true
+      },
+      {
+        "word": "choose",
+        "meaning": "選擇",
+        "appearsInSource": true
+      },
+      {
+        "word": "common",
+        "meaning": "常見的",
+        "appearsInSource": true
+      },
+      {
+        "word": "daughter",
+        "meaning": "女兒",
+        "appearsInSource": true
+      },
+      {
+        "word": "enter",
+        "meaning": "進入",
+        "appearsInSource": true
+      },
+      {
+        "word": "gift",
+        "meaning": "禮物",
+        "appearsInSource": true
+      },
+      {
+        "word": "great",
+        "meaning": "很棒的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lovely",
+        "meaning": "可愛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "morning",
+        "meaning": "早晨",
+        "appearsInSource": true
+      },
+      {
+        "word": "pleasure",
+        "meaning": "愉快",
+        "appearsInSource": true
+      },
+      {
+        "word": "pocket",
+        "meaning": "口袋",
+        "appearsInSource": true
+      },
+      {
+        "word": "run",
+        "meaning": "經營",
+        "appearsInSource": true
+      },
+      {
+        "word": "season",
+        "meaning": "季節",
+        "appearsInSource": true
+      },
+      {
+        "word": "sleep",
+        "meaning": "睡眠",
+        "appearsInSource": true
+      },
+      {
+        "word": "tennis",
+        "meaning": "網球",
+        "appearsInSource": true
+      },
+      {
+        "word": "too",
+        "meaning": "太",
+        "appearsInSource": true
+      },
+      {
+        "word": "What",
+        "meaning": "什麼",
+        "appearsInSource": true
+      },
+      {
+        "word": "wrong",
+        "meaning": "有問題的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What is the first guest's order?",
+      "options": [
+        "Bread and fruit",
+        "A cake and tea",
+        "Fish and rice"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Bread and fruit",
+      "existingAnswerExplanation": "第一位客人點麵包和水果。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The first guest ordered bread and fruit. The next wanted soup. Fia kept the menu simple, and Moss worked carefully by the oven. Pip brought herbs from the garden. There was a common question from visitors: \"What is fresh today?\" Fia liked answering it. She told them which food was ready, how much it cost, and how long they might wait. She did not try to make every person buy more. When a guest said one bowl was too much, she offered a smaller one. It was important that each person could choose the meal that suited them.",
+          "chinese": "第一位客人點了麵包和水果，下一位想喝湯。菲雅保持菜單簡單，莫斯在烤爐旁細心工作，皮普從花園帶來香草。客人常問：「今天有什麼新鮮的？」菲雅很喜歡回答。她說明有哪些做好、價格多少、可能要等多久，不試圖讓每人多買。有客人說一碗太多，她便提供小份量。讓每個人自己選適合的餐點，是很重要的事。",
+          "matchedQueryTerms": 2
+        },
+        {
+          "paragraph": 3,
+          "english": "At nine, Kit came running with a pocket full of coins. He had a chance to eat before going to work on the farm. \"I almost forgot the time!\" he said. Fia showed him the food board. He chose bread and a little milk. \"That is enough,\" he said. Moss gave him a warm smile. Outside, two children were playing tennis with a soft ball, and their laughter came through the door. Fia liked the happy sound, though she asked them not to play near the hot kitchen window. They moved to the garden and kept playing there.",
+          "chinese": "九點時，基特跑著來，口袋裝滿硬幣。他剛好有機會在回農場工作前吃一餐。「我差點忘記時間！」他說。菲雅給他看食物看板。他選了麵包和一點牛奶。「這樣就夠了。」他說。莫斯溫暖地笑了。屋外兩名孩子用軟球打網球，笑聲從門口傳進來。菲雅喜歡那快樂的聲音，但請他們不要靠近熱廚房窗戶玩。他們便移到花園繼續。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Fia say after Moss says they did it?",
+      "options": [
+        "We started",
+        "We are rich",
+        "Never come back"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "We started",
+      "existingAnswerExplanation": "菲雅強調正式開幕是新的開始，而非一切工作完成。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That evening, Fia stood under the wooden star and looked at the door. She remembered the empty house on the day she first arrived. Now the floor was clean, the chairs were safe, and people had shared a warm morning inside. Moss and Pip joined her. \"We did it,\" Moss said. \"We started,\" Fia answered. The difference mattered to her. They had not reached the end of the work; they had reached the beginning of a new way of living together. She shut the red door for the night, glad to know it would open again tomorrow.",
+          "chinese": "那晚，菲雅站在木星星下望著門，想起最初來時的空屋。如今地板乾淨、椅子安全，大家也在裡面共度溫暖早晨。莫斯和皮普走到身邊。「我們成功了。」莫斯說。「我們開始了。」菲雅回答。這個差別對她很重要。他們不是完成所有工作，而是開始了一種新的共同生活方式。她把紅門關上，心裡很高興，因為明天它還會再打開。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "On the first real opening morning, the sun came above the hill like a warm gift. Fia put a sign on the red door: \"Open for Breakfast.\" She felt a great pleasure when she saw Moss and Pip arrive on time. Pip had slept well and was ready to work again. Edda came with her daughter, who wanted to choose the first table. \"You may sit where you like,\" Fia told them. \"But please keep the path clear.\" The daughter picked a chair by the window. \"What a lovely place,\" she said. Fia smiled. The shop was finally open, and her hands shook a little. When the first guests were ready to enter, Fia tried to care for each one without forgetting that the workers also needed time to rest and sleep.",
+          "chinese": "正式開幕的早晨，太陽像溫暖的禮物，從山後升起。菲雅在紅門上掛著「早餐營業中」的牌子。看到莫斯和皮普準時到來，她感到很大的喜悅。皮普睡得很好，又能工作了。艾達帶著女兒來，女兒想選第一張桌。「喜歡哪裡就坐哪裡，」菲雅說，「但請留好通道。」女兒選了窗邊椅子。「真是可愛的地方。」她說。菲雅微笑。店終於開門，她的手微微顫抖。 第一批客人準備進門時，菲雅努力照顧每個人，也不忘員工同樣需要休息與睡眠。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

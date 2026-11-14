@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 5,
+  "chapterId": "ss-r10-l2-b-5",
+  "sourceChapterSha256": "5034c5c71306c9669a67a506fe536179242c7c29f14652de7a84cca4f9b00456",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "電線接點先由合格技師修復再安全試播",
+    "previousChapterEndingEnglish": "When they carried the objects back, the cage owner asked May to keep its door open. The request seemed small, but May wrote it down beside the permission form. Evan offered to hold the box while she worked. For a moment their hands touched on the handle, and both looked away with matching awkward smiles. Then May said, “We have to get this to the right shelf.” Evan answered, “I know. I am not asking you to drop it.” Their laughter echoed through the empty gym, a sound no machine needed to save.",
+    "nextChapterOpeningEnglish": "On the eve of the market's music week, a crowd stood outside a closed building. A storm had damaged the door, and a worker in a raincoat was trying to repair the lock. A musician from the western district had arrived with an old song that her grandmother sang during a war. She wanted the song in the listening show, but not the name of the family who had first taught it to her. May told her they would accept that condition. Evan asked for an official note describing the agreed use, so no future student would mistake permission for ownership."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next week, thunder rolled over the market before the morning stalls were ready. A rooster cried from a backyard, and rain spread across the roof. May had little appetite for breakfast because the first public listening day was only hours away. Evan checked the electrical wires and placed covers over the equipment. When he found a loose connection, he used a careful method to shut everything down. The students nearby wanted to continue, but he asked for their attention. A brilliant show was not worth risking someone's safety. May supported him, even though she could see people gathering outside.",
+        "zh": "隔週，市場攤位還沒準備好，雷聲就滾過屋頂。後院公雞啼叫，雨水沿著屋面擴散。距離首次公開聆聽只剩幾小時，慧緊張得沒有胃口。安澤檢查電線，替器材蓋上保護罩。發現一處連接鬆動時，他依照安全方法把設備全部關掉。旁邊學生想繼續，他卻請大家注意：再精彩的展示也不值得拿安全冒險。慧支持他，雖然她已看見觀眾聚集在外面。",
+        "englishSha256": "3aacd82c126a6dd14b49f74c760a14600842ba74f915182508972612cf0b2112",
+        "chineseSha256": "2d0660f1194014f5d2e72690e5f8bdc8d6b1d814827f71229e74ee840b84a361"
+      },
+      {
+        "number": 2,
+        "en": "Mrs. Fen offered warm noodle soup to the waiting volunteers. A girl with sensitive skin asked whether the wool blankets in the hall had been washed. May checked with the staff rather than guessing. A father described how his family had moved from a snowy town to the coast; the sound of rain still brought back the old winter. His son wanted the recording to include the family's dog, but the mother had not heard the final piece. May said they would wait. The project was starting to discover that a happy memory could hold different meanings for people in the same home.",
+        "zh": "芬姨端來熱湯麵，給等待中的志工。一位皮膚敏感的女孩問大廳裡的羊毛毯是否洗過。慧向工作人員確認，沒有隨便猜測。一位父親說，家人從下雪的小鎮搬來海邊後，雨聲總讓他想起過去的冬天。兒子希望錄音裡也放進家裡的狗叫聲，但母親尚未聽過完成版。慧說他們會等。計畫開始發現，同一段快樂回憶，對同一家人的不同成員也可能有不同意義。",
+        "englishSha256": "9225427f5b9fb31c1f513fa897e5850e2999b2339da6ae40b0935c3407c1b514",
+        "chineseSha256": "b8a86bdf55fed5a80255601caaecaa8a0ec4a8634f65f89c83ec9348545866d8"
+      },
+      {
+        "number": 3,
+        "en": "A conflict grew when a visitor offered to praise the team online if they played his song first. Evan refused to trade the order of stories for public attention. May explained that the display had a domestic section for home sounds and a work section for market calls. It was not a contest. The man was disappointed but stayed to listen. A street singer later told them she liked the quiet song best, the one with nothing but rain on an empty roof. May realized that the softest part of the show might reach people more deeply than the loudest performance.",
+        "zh": "一位訪客說，只要團隊先播放他的歌，他就願意在網路上稱讚他們，衝突因此出現。安澤拒絕用故事順序交換注意力。慧解釋，展覽分成收錄家中聲音的家庭區，以及收錄叫賣聲的工作區，並不是比賽。男子雖失望，仍留下來聽。一位街頭歌手後來說，她最喜歡的其實是只有雨打空屋頂的安靜曲子。慧明白，展示中最輕柔的部分，也許比最大聲的演出更能打動人。",
+        "englishSha256": "1267b8e2b02c38f5231d63aa876b4cee4967ae15863f4f0ba3d6de334d40ea1d",
+        "chineseSha256": "9aefbc13eb8bd8cceeb028a276bc5ff7d526867e172ea328272497661e51ec42"
+      },
+      {
+        "number": 4,
+        "en": "After a trained technician repaired the loose electrical connection and restored power, the team made a short test instead of opening the whole hall. They examined each cable, checked the sound level, and asked three people to listen from different seats. The listeners agreed that the recordings were clear. Evan wanted to hurry, but May pointed to the wet floor and asked that visitors enter in small groups. “Whenever we choose safety, we lose a little time,” she said. “But we also keep the chance to meet again.” He looked at her for a long moment before answering that he liked how she could make a practical rule sound like a promise.",
+        "zh": "受訓技師修好鬆脫的電線接點並恢復供電後，團隊沒有立刻開放整個大廳，而是先做簡短測試。他們檢查每條電線、確認音量，並請三個人從不同座位試聽。大家都認為錄音清楚。安澤想加快速度，慧卻指著濕地板，要求分小批讓訪客入場。「每次選擇安全，我們都會損失一些時間，」她說，「但也保住下次再相見的機會。」他看了她好一會兒，才說他喜歡她能把實用規則說得像承諾。",
+        "englishSha256": "d3bfd3be713738f002424414f0732b441c59bebbcbfa1296e8c117262ddd29dd",
+        "chineseSha256": "14444498f5b677cc94d46c66ef0112a392f31e680ce759302f692c62e5b90d4c"
+      },
+      {
+        "number": 5,
+        "en": "They had expected a mass of visitors as soon as the rain stopped, but the first group was small. May used the quiet hour to draw a map of seats near the exits and ask the volunteers where people might need support. A young man said his grandmother could not stand long enough to hear a full program. Another suggested a printed guide that visitors could read at home. Evan listened and made room for a bench without blocking the door. When a singer asked to turn up the volume, he explained that a stronger sound might help one person but make another uncomfortable. They offered headphones for anyone who wanted them and kept the room at a moderate level. May could see the point of a shared space more clearly now: it should not demand that everyone experience the same thing in the same way.",
+        "zh": "雨停後，團隊原以為會湧入大批訪客，第一組卻只有幾人。慧趁安靜畫出靠近出口的座位圖，詢問志工哪些地方可能需要支援。一名年輕人說祖母無法久站聽完整節目，另一人建議提供可帶回家閱讀的紙本導覽。安澤聽完，挪出長椅的位置，又不擋住門。歌手要求提高音量時，他解釋較強的聲音可能幫到一人，卻讓另一人不舒服。他們為有需要的人準備耳機，室內維持適中音量。慧更清楚看見共享空間的意義：它不應要求所有人以同一方式經歷同一件事。",
+        "englishSha256": "6fe578b31254fbf059eac0b130027dde8527601eeb94e7442bf642e3135138b1",
+        "chineseSha256": "be3a41cb5e75b1a8ac81d621a615663f5a145ea807d2dfa1b696de1927872729"
+      },
+      {
+        "number": 6,
+        "en": "The doors finally opened near sunset. Not everyone stayed, and the team did not pretend the day was perfect. Yet the first visitors heard the repaired sound of a knife against a cutting board, followed by a vendor laughing at her own mistake. One elderly man stood still until the recording ended. He said it sounded like his brother, who had worked there years ago. May asked if he wanted to tell his story. “Not today,” he answered. She thanked him and let him go. Evan quietly saved the visitor count, not his name. Their first test had passed in the way that mattered most.",
+        "zh": "接近日落時，大門終於打開。不是每個人都留下來，團隊也沒假裝這一天完美。然而第一批訪客聽見修復後的切菜板聲，接著是一位攤商笑自己出錯的聲音。一位老人一直站到錄音播完。他說那聲音很像多年前在此工作的兄弟。慧問他願不願意講自己的故事。「今天不想，」他回答。慧謝過他，讓他離開。安澤默默記下訪客人數，沒有記錄他的名字。他們的第一場測試，以最重要的方式通過了。",
+        "englishSha256": "9d5a0caf685d4238b69aa6fc51fb90357f3a07b36b9e8f9a8da314a1b2a1fd04",
+        "chineseSha256": "9871072db749d0db3d48b3634f636c62a2bcf24a80f39f6395bac184326b0305"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 667,
+    "targets": [
+      {
+        "word": "appetite",
+        "meaning": "胃口",
+        "appearsInSource": true
+      },
+      {
+        "word": "attention",
+        "meaning": "留意",
+        "appearsInSource": true
+      },
+      {
+        "word": "brilliant",
+        "meaning": "精彩的",
+        "appearsInSource": true
+      },
+      {
+        "word": "conflict",
+        "meaning": "衝突",
+        "appearsInSource": true
+      },
+      {
+        "word": "connection",
+        "meaning": "關聯",
+        "appearsInSource": true
+      },
+      {
+        "word": "discover",
+        "meaning": "查明",
+        "appearsInSource": true
+      },
+      {
+        "word": "domestic",
+        "meaning": "家庭的",
+        "appearsInSource": true
+      },
+      {
+        "word": "electrical",
+        "meaning": "電氣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mass",
+        "meaning": "大規模的",
+        "appearsInSource": true
+      },
+      {
+        "word": "method",
+        "meaning": "方法",
+        "appearsInSource": true
+      },
+      {
+        "word": "noodle",
+        "meaning": "麵條",
+        "appearsInSource": true
+      },
+      {
+        "word": "praise",
+        "meaning": "讚美",
+        "appearsInSource": true
+      },
+      {
+        "word": "rooster",
+        "meaning": "公雞",
+        "appearsInSource": true
+      },
+      {
+        "word": "skin",
+        "meaning": "皮膚",
+        "appearsInSource": true
+      },
+      {
+        "word": "snowy",
+        "meaning": "下雪的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spread",
+        "meaning": "擴散",
+        "appearsInSource": true
+      },
+      {
+        "word": "support",
+        "meaning": "支持",
+        "appearsInSource": true
+      },
+      {
+        "word": "thunder",
+        "meaning": "雷聲",
+        "appearsInSource": true
+      },
+      {
+        "word": "Whenever",
+        "meaning": "每當",
+        "appearsInSource": true
+      },
+      {
+        "word": "wool",
+        "meaning": "羊毛",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did Evan shut down the equipment?",
+      "options": [
+        "He found a loose electrical connection",
+        "The singer was late",
+        "The hall was too bright"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He found a loose electrical connection",
+      "existingAnswerExplanation": "安澤發現電線連接問題，先停機確保安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The next week, thunder rolled over the market before the morning stalls were ready. A rooster cried from a backyard, and rain spread across the roof. May had little appetite for breakfast because the first public listening day was only hours away. Evan checked the electrical wires and placed covers over the equipment. When he found a loose connection, he used a careful method to shut everything down. The students nearby wanted to continue, but he asked for their attention. A brilliant show was not worth risking someone's safety. May supported him, even though she could see people gathering outside.",
+          "chinese": "隔週，市場攤位還沒準備好，雷聲就滾過屋頂。後院公雞啼叫，雨水沿著屋面擴散。距離首次公開聆聽只剩幾小時，慧緊張得沒有胃口。安澤檢查電線，替器材蓋上保護罩。發現一處連接鬆動時，他依照安全方法把設備全部關掉。旁邊學生想繼續，他卻請大家注意：再精彩的展示也不值得拿安全冒險。慧支持他，雖然她已看見觀眾聚集在外面。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 4,
+          "english": "After a trained technician repaired the loose electrical connection and restored power, the team made a short test instead of opening the whole hall. They examined each cable, checked the sound level, and asked three people to listen from different seats. The listeners agreed that the recordings were clear. Evan wanted to hurry, but May pointed to the wet floor and asked that visitors enter in small groups. “Whenever we choose safety, we lose a little time,” she said. “But we also keep the chance to meet again.” He looked at her for a long moment before answering that he liked how she could make a practical rule sound like a promise.",
+          "chinese": "受訓技師修好鬆脫的電線接點並恢復供電後，團隊沒有立刻開放整個大廳，而是先做簡短測試。他們檢查每條電線、確認音量，並請三個人從不同座位試聽。大家都認為錄音清楚。安澤想加快速度，慧卻指著濕地板，要求分小批讓訪客入場。「每次選擇安全，我們都會損失一些時間，」她說，「但也保住下次再相見的機會。」他看了她好一會兒，才說他喜歡她能把實用規則說得像承諾。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the team do before opening after the rain?",
+      "options": [
+        "Checked cables and sound levels",
+        "Sold all their machines",
+        "Closed the market forever"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Checked cables and sound levels",
+      "existingAnswerExplanation": "團隊逐項檢查電線、音量與座位後才小規模開放。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "After a trained technician repaired the loose electrical connection and restored power, the team made a short test instead of opening the whole hall. They examined each cable, checked the sound level, and asked three people to listen from different seats. The listeners agreed that the recordings were clear. Evan wanted to hurry, but May pointed to the wet floor and asked that visitors enter in small groups. “Whenever we choose safety, we lose a little time,” she said. “But we also keep the chance to meet again.” He looked at her for a long moment before answering that he liked how she could make a practical rule sound like a promise.",
+          "chinese": "受訓技師修好鬆脫的電線接點並恢復供電後，團隊沒有立刻開放整個大廳，而是先做簡短測試。他們檢查每條電線、確認音量，並請三個人從不同座位試聽。大家都認為錄音清楚。安澤想加快速度，慧卻指著濕地板，要求分小批讓訪客入場。「每次選擇安全，我們都會損失一些時間，」她說，「但也保住下次再相見的機會。」他看了她好一會兒，才說他喜歡她能把實用規則說得像承諾。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 2,
+          "english": "Mrs. Fen offered warm noodle soup to the waiting volunteers. A girl with sensitive skin asked whether the wool blankets in the hall had been washed. May checked with the staff rather than guessing. A father described how his family had moved from a snowy town to the coast; the sound of rain still brought back the old winter. His son wanted the recording to include the family's dog, but the mother had not heard the final piece. May said they would wait. The project was starting to discover that a happy memory could hold different meanings for people in the same home.",
+          "chinese": "芬姨端來熱湯麵，給等待中的志工。一位皮膚敏感的女孩問大廳裡的羊毛毯是否洗過。慧向工作人員確認，沒有隨便猜測。一位父親說，家人從下雪的小鎮搬來海邊後，雨聲總讓他想起過去的冬天。兒子希望錄音裡也放進家裡的狗叫聲，但母親尚未聽過完成版。慧說他們會等。計畫開始發現，同一段快樂回憶，對同一家人的不同成員也可能有不同意義。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

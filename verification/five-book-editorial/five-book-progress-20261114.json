@@ -6,7 +6,7 @@
   "summary": {
     "booksInScope": 5,
     "chaptersStructurallyChecked": 125,
-    "bilingualEditsAppliedNow": 1,
+    "bilingualEditsAppliedNow": 0,
     "bilingualPatchGroupsDocumented": 41,
     "quizzesVerified": 2,
     "quizzesRevisedNow": 0,
@@ -84,7 +84,7 @@
         24,
         25
       ],
-      "sourceBeforeSha256": "31814a63b681d3491fceeb00e1a0008e651e5a468bc6529e953c87ca063b5a5c",
+      "sourceBeforeSha256": "eab68c998f8211b2445f4f08d122b013fdfcb09e43015f891e50690b910aef2d",
       "sourceAfterSha256": "eab68c998f8211b2445f4f08d122b013fdfcb09e43015f891e50690b910aef2d",
       "bilingualPatchGroups": 12,
       "quizzesCorrected": 0,
@@ -450,7 +450,7 @@
       "chapter": 12,
       "paragraph": 2,
       "reason": "Grammar/tense consistency and accurate botanical comparison; retain target 'body'.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Our body needed clean air and water, and plants did too in their own way.",
       "englishAfter": "The human body needs clean air and water, and plants need those things too, though not in quite the same way.",
       "chineseBefore": "我們的身體需要乾淨的空氣和水，植物也以自己的方式需要它們。",

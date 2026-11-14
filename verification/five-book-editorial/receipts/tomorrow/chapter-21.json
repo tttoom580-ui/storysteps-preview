@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 21,
+  "chapterId": "tomorrow-21",
+  "sourceChapterSha256": "1a8d0d8baf848dccfb66679ee3d3be9ea0cb435be226582bfbcdb2bb70a3cebc",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "米雅承認曾幫忙散播不實指控；六月留下紙鳥感謝信",
+    "previousChapterEndingEnglish": "Mr Reed walked to the front microphone. The room settled. A few phones were still raised, and a teacher reminded everyone that students had not agreed to be filmed. The principal looked at his paper, then lowered it. “Before we begin the show,” he said, “we need to correct something our school should have corrected six weeks ago.” The hall became so quiet I could hear the curtain move.",
+    "nextChapterOpeningEnglish": "The show went on. A first-year student played the piano on a real piano, which did not need the broken sound system. Two dancers missed the same step and laughed without looking ashamed. The hall slowly became an ordinary hall again. I was glad. June's morning did not have to swallow everyone else's. She had left with her mother before the first song ended, exactly as she had chosen."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Mr Reed said June had not stolen the school show money. He explained the bill for the stage light and the date the office had checked it. He said the short video had left out important context. Then he said the sentence I had been waiting for. “We knew the money had been properly spent, and we failed to correct the public claim. That failure caused harm.”",
+        "zh": "校長說 June 沒偷校慶款項，解釋舞台燈帳單與辦公室核對日期，說短片省略重要脈絡，接著說我一直等的那句：「我們知道款項使用正當，卻未更正公開指控，這個失職造成傷害。」",
+        "englishSha256": "709429617ba4808c840723f7eb23566519bee78be213556bdfc04da3ef887d68",
+        "chineseSha256": "a7c2b62e9f219dadf170918afd3d026437a6cdaf769aeca9b2aaa6838122e787"
+      },
+      {
+        "number": 2,
+        "en": "There was no soft phrase about confusion. No request that everyone forget. He explained where the written correction could be found and how students could report copies of the harmful posts. He also said the school was reviewing the shared accounts and exposed video folder. Some parts would take time, and private details would not be shown to the hall. I watched Ms Lin. She did not smile, but her shoulders lowered.",
+        "zh": "沒有柔軟的「混淆」，也沒請大家忘掉。他說明更正在哪裡、如何回報有害貼文副本，也說正在調查共用帳號與暴露的影片資料夾，有些需要時間，隱私不會向全禮堂展示。我看林老師，她沒笑，肩膀卻放鬆了。",
+        "englishSha256": "e92346e81213aec8b85a2e82bd169687ad3783c82f6cd8d801d36a10e2530283",
+        "chineseSha256": "250aeb610265e0fe21069ee7b2de4a4b0bd7cbc41951f250b42d4d53b9fc42b1"
+      },
+      {
+        "number": 3,
+        "en": "Then June's words filled the screen. Ms Lin read them slowly. “My name is June Park. You have seen twelve seconds of me. That is not the same as knowing what happened. I did not take money. I tried to stop a page that was hurting someone. I do not owe everyone my private videos to earn the right to say that.”",
+        "zh": "June 的話出現在螢幕，林老師慢慢讀：「我叫 June Park。你們看過我的十二秒，不等於知道發生什麼。我沒拿錢，我試著阻止傷害別人的網站。我不欠所有人私人影片，才有資格說這句話。」",
+        "englishSha256": "d50b582aad28c3f6b0dafc3381189cbc38334dcbfc2baf192524d6581e9e0b2d",
+        "chineseSha256": "eb0bfbb430a76cc1a0f33d9c4328b70cba94e40284899e2a2baebb7be7b7d347"
+      },
+      {
+        "number": 4,
+        "en": "The next part was quieter. “Some people asked why I left if I had done nothing wrong. People can leave because a place hurts. Leaving is not proof. Crying is not proof. Being angry is not proof. Please stop using my face to argue with each other. If you shared the claim, share the correction. You do not need to send me an apology to an account you found somewhere.”",
+        "zh": "接下來更安靜：「有人問沒做錯為何離開。人可以因為一個地方令人痛苦而離開。離開不是證據，哭泣不是，憤怒也不是。請別再用我的臉互相爭論。分享過指控，就分享更正。不要找到某個帳號就傳道歉給我。」",
+        "englishSha256": "b377eea635e7662b5bf7e6e02e25b5698c5664805012e587a331cb9dedfbe5a2",
+        "chineseSha256": "139dcbbd9a4459b02fc7da13b7813244363e249fd19c31dbfaefcc3887bedb10"
+      },
+      {
+        "number": 5,
+        "en": "I looked toward the side door, then stopped myself. I did not need to check whether June was crying. Her feelings were not the final scene of this morning. Ms Lin finished the statement and left the last slide up for a few seconds. There was no question beneath it. No number. No request to choose a side. Just a link to the school correction and a place to ask for help privately.",
+        "zh": "我望向側門，又阻止自己。我不必確認 June 有沒有哭，她的感受不是今天早上的最後一幕。老師讀完，讓最後一頁停幾秒。下面沒有題目、數字、選邊要求，只有學校更正連結與私下求助管道。",
+        "englishSha256": "b6919a90a574e5e5bbf6ce7b6f173a0f88751a44e92ff77b51ee0a61a1e65d29",
+        "chineseSha256": "73392e59790fc30704093c751872d8fc70811361d0e22d0cbd53032984f99b43"
+      },
+      {
+        "number": 6,
+        "en": "Then it was my turn. I walked to the microphone with my paper. My voice sounded too large when I began. I said I had voted. I said I had believed a short clip because believing it was easier than asking my friend a fair question. “I was not the person who made the page,” I said. “But I helped the claim travel. That was something I chose.”",
+        "zh": "輪到我。我拿稿走到麥克風，一開口自己的聲音大得嚇人。我說投過票，因為相信短片比公平問朋友更容易。「我不是做網站的人，但我幫指控傳播，那是我自己的選擇。」",
+        "englishSha256": "b87a4bd3f34d6daed03708405d8e849bba84cb644f7245f7d6ff85cb1a2aab47",
+        "chineseSha256": "6ecec2db225e1a65de0bc56861ab66ff14af2da80a7c5d4258a0792768b59e9b"
+      },
+      {
+        "number": 7,
+        "en": "A phone rose in the middle row. A teacher quietly asked the student to lower it. I lost my place and had to look down. The pause felt endless, but nobody rescued me with applause. I found the next line. “I am not asking June to make me feel better. I am asking the people who saw my comments to know that I was wrong.” Then I stepped away.",
+        "zh": "中排一支手機舉起，老師輕聲叫學生放下。我忘了讀哪裡，低頭找。停頓像無止境，但沒人用掌聲救我。我找到下一句：「我不是要 June 讓我好過，是希望看過我留言的人知道我錯了。」然後退開。",
+        "englishSha256": "429564945d6c73f74013686c76c8b6aaa153cd01d525b07c5a2584b801ad13e6",
+        "chineseSha256": "14ed8565a4da8dd127444ec144e61f7e5731adb2bfb07523c35b3fa05e0f93c8"
+      },
+      {
+        "number": 8,
+        "en": "For a moment, nothing happened. The quiet was not a punishment. It was simply space where a vote might once have been. I walked behind the curtain, and Leo handed me water without saying I had done well. On the table beside it lay a folded paper bird. One wing was badly bent. Inside, in June's small handwriting, were five words. Thank you for stopping there.",
+        "zh": "一瞬間，什麼都沒發生。安靜不是懲罰，只是原本可能有投票的地方留了空。我回幕後，Leo 遞水，沒說我表現很好。桌上有摺起的紙鳥，一邊翅膀歪了。裡面是 June 用小字寫下的五個英文單字：「謝謝妳到此為止。」",
+        "englishSha256": "3f963117fb05ef63eff4c332c40433db57991a54ef47e78eaa83e6bede8ca08d",
+        "chineseSha256": "675f27c947f16058f5bccb8b4d78cac03f7ca45b4d2299b31566fec4759daafc"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 547,
+    "targets": [
+      {
+        "word": "also",
+        "meaning": "也",
+        "appearsInSource": true
+      },
+      {
+        "word": "angry",
+        "meaning": "生氣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "be",
+        "meaning": "是；成為",
+        "appearsInSource": true
+      },
+      {
+        "word": "bird",
+        "meaning": "鳥",
+        "appearsInSource": true
+      },
+      {
+        "word": "important",
+        "meaning": "重要的",
+        "appearsInSource": true
+      },
+      {
+        "word": "middle",
+        "meaning": "中間",
+        "appearsInSource": true
+      },
+      {
+        "word": "other",
+        "meaning": "其他的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rose",
+        "meaning": "升起了（rise 的過去式）；玫瑰",
+        "appearsInSource": true
+      },
+      {
+        "word": "somewhere",
+        "meaning": "某個地方",
+        "appearsInSource": true
+      },
+      {
+        "word": "space",
+        "meaning": "空間",
+        "appearsInSource": true
+      },
+      {
+        "word": "stop",
+        "meaning": "停止",
+        "appearsInSource": true
+      },
+      {
+        "word": "thank",
+        "meaning": "感謝",
+        "appearsInSource": true
+      },
+      {
+        "word": "there",
+        "meaning": "那裡；存在",
+        "appearsInSource": true
+      },
+      {
+        "word": "this",
+        "meaning": "這個",
+        "appearsInSource": true
+      },
+      {
+        "word": "too",
+        "meaning": "也；太",
+        "appearsInSource": true
+      },
+      {
+        "word": "turn",
+        "meaning": "轉；輪到的機會",
+        "appearsInSource": true
+      },
+      {
+        "word": "up",
+        "meaning": "向上",
+        "appearsInSource": true
+      },
+      {
+        "word": "video",
+        "meaning": "影片",
+        "appearsInSource": true
+      },
+      {
+        "word": "voice",
+        "meaning": "聲音；發言權",
+        "appearsInSource": true
+      },
+      {
+        "word": "water",
+        "meaning": "水",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Mia take responsibility for?",
+      "options": [
+        "Creating every account on Zero.",
+        "Breaking the sound system.",
+        "Helping the false claim spread."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "Helping the false claim spread.",
+      "existingAnswerExplanation": "Helping the false claim spread.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Mr Reed said June had not stolen the school show money. He explained the bill for the stage light and the date the office had checked it. He said the short video had left out important context. Then he said the sentence I had been waiting for. “We knew the money had been properly spent, and we failed to correct the public claim. That failure caused harm.”",
+          "chinese": "校長說 June 沒偷校慶款項，解釋舞台燈帳單與辦公室核對日期，說短片省略重要脈絡，接著說我一直等的那句：「我們知道款項使用正當，卻未更正公開指控，這個失職造成傷害。」",
+          "matchedQueryTerms": 1
+        },
+        {
+          "paragraph": 2,
+          "english": "There was no soft phrase about confusion. No request that everyone forget. He explained where the written correction could be found and how students could report copies of the harmful posts. He also said the school was reviewing the shared accounts and exposed video folder. Some parts would take time, and private details would not be shown to the hall. I watched Ms Lin. She did not smile, but her shoulders lowered.",
+          "chinese": "沒有柔軟的「混淆」，也沒請大家忘掉。他說明更正在哪裡、如何回報有害貼文副本，也說正在調查共用帳號與暴露的影片資料夾，有些需要時間，隱私不會向全禮堂展示。我看林老師，她沒笑，肩膀卻放鬆了。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does June leave for Mia behind the curtain?",
+      "options": [
+        "A new password written on a receipt.",
+        "A replacement microphone.",
+        "A folded paper bird containing a note of thanks."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "A folded paper bird containing a note of thanks.",
+      "existingAnswerExplanation": "舞台後有一隻翅膀折彎的紙鳥，內附 June 感謝她適可而止的字句。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "For a moment, nothing happened. The quiet was not a punishment. It was simply space where a vote might once have been. I walked behind the curtain, and Leo handed me water without saying I had done well. On the table beside it lay a folded paper bird. One wing was badly bent. Inside, in June's small handwriting, were five words. Thank you for stopping there.",
+          "chinese": "一瞬間，什麼都沒發生。安靜不是懲罰，只是原本可能有投票的地方留了空。我回幕後，Leo 遞水，沒說我表現很好。桌上有摺起的紙鳥，一邊翅膀歪了。裡面是 June 用小字寫下的五個英文單字：「謝謝妳到此為止。」",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "Mr Reed said June had not stolen the school show money. He explained the bill for the stage light and the date the office had checked it. He said the short video had left out important context. Then he said the sentence I had been waiting for. “We knew the money had been properly spent, and we failed to correct the public claim. That failure caused harm.”",
+          "chinese": "校長說 June 沒偷校慶款項，解釋舞台燈帳單與辦公室核對日期，說短片省略重要脈絡，接著說我一直等的那句：「我們知道款項使用正當，卻未更正公開指控，這個失職造成傷害。」",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

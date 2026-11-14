@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 13,
+  "chapterId": "ss-r10-l2-b-13",
+  "sourceChapterSha256": "3b3f71000dae25b5e809e7b94d9efc77c85ee812f37781b06eb0777ca1db88e2",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "品牌贊助要求把錄音綁廣告遭拒，團隊改借器材",
+    "previousChapterEndingEnglish": "They closed early. At the bus stop, May said she felt as if every time the project moved forward, another problem pulled it back. Evan did not tell her everything would be fine. He reminded her that they had stopped before anyone was badly hurt and had given the school group a safe choice. “A delay is not always a defeat,” he said. She watched him put the unused microphone away. For once, she believed the quiet words more than she would have believed a grand promise.",
+    "nextChapterOpeningEnglish": "The first public debate about the project was held in a college classroom. Students from the southern campus asked whether the recordings would be useful beyond one festival. Others worried about the difference between an edited story and an honest one. May had prepared an essay with every important detail, but she put it aside and began with a simple conversation: “If this were your grandmother's voice, who should decide how it is used?” The room fell quiet. Evan stood by the electric player, ready to show how a short cut could change the ending of a tale."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A local brand offered the team money for a bigger room. Its manager was a polite gentleman who arrived in purple clothing and carried a shining metal case. The offer seemed generous until May read the rules: the company could match every recording with an advertisement, and the team could not reject the pairing later. Evan calculated the amount they needed for equipment and travel. The money would cover the cost, but it would give the company power over other people's stories. May spoke against the plan. The voices were not goods to be sold by weight, like rice measured by the gram.",
+        "zh": "一個地方品牌提議出錢，讓團隊使用更大的房間。品牌經理是一位禮貌的紳士，穿著紫色衣服，拿著亮亮的金屬箱。提案看似慷慨，慧讀了規則卻發現，公司可以把每段錄音搭配廣告，團隊之後不能拒絕。安澤計算設備與交通所需金額。這筆錢確實足夠，卻會讓公司掌握別人的故事。慧表示反對：聲音不是按公克秤重、可以出售的米粒。",
+        "englishSha256": "5ac7dad7a0618882b52169d36cc0fdc0a7c3cc0659964ed1bc272b0a69a4ef10",
+        "chineseSha256": "ce25d068a053f4cd5d149070d54dcf7af2f137d48144c6ea82eb99f47003b559"
+      },
+      {
+        "number": 2,
+        "en": "The manager said it was a natural part of business. He showed them a sample of a prince and princess on a toy box, then argued that every story needed a strong image. May said some stories needed no image at all. A young worker had offered only the sound of a kitchen at sunrise. Attaching a perfume advertisement would change its meaning. Evan asked whether the company would accept a simple sponsor notice outside the listening room instead. The manager said the rules were strict and refused to change them. The meeting ended without an agreement.",
+        "zh": "經理說這是商業的自然做法。他拿出玩具盒上王子與公主的圖片樣本，主張每個故事都需要鮮明形象。慧說有些故事根本不需要畫面。一位年輕員工只提供了日出時廚房的聲音，若加上香水廣告，就改變了意義。安澤問公司是否願意只在聆聽室外放一般贊助告示。經理說規定嚴格，不能更改。會議沒有達成協議。",
+        "englishSha256": "4d39327633a5919f83bbd6ba21fbf5d92a236283fd9394b52f6f60a7851e440d",
+        "chineseSha256": "f16c5ac41c524d1bf5dc5e04a6442b4a66849767ebf7100bab47644f9f41a27a"
+      },
+      {
+        "number": 3,
+        "en": "On the way back, they passed a small exhibition about insects. A child had drawn a spider with eight long legs, and another had made an aircraft from paper. Nearby, a man showed his daughter how to bathe a muddy dog outside the garden gate. The scene made Evan think about all the ordinary voices they had promised to protect. “I wanted the new room badly,” he admitted. “So did I,” May said. She had not rejected the offer because she loved saying no. She had rejected a condition that would make other people's yes meaningless.",
+        "zh": "回程經過一個昆蟲小展，孩子畫了八隻長腳的蜘蛛，另一人摺出紙飛機。附近，一位父親在花園門外教女兒替沾泥的狗洗澡。這些景象讓安澤想起他們承諾保護的普通聲音。「我真的很想要新房間，」他承認。「我也是，」慧說。她拒絕不是因為喜歡說不，而是因為那個條件會讓其他人說出的同意失去意義。",
+        "englishSha256": "da9737591b9c4cfad0f78764fdd26c442dfab406e59a87c23b66e502b9a575d7",
+        "chineseSha256": "0db4338c7a35d71b7aabe6b2f8ee4befb687eaf39a1bc90a91fb6311281a27a5"
+      },
+      {
+        "number": 4,
+        "en": "They met Mrs. Fen to discuss leadership of the next stage. She brought out a notebook showing each donation and its purpose. The largest cost was not the machines but a safe, quiet place where people could listen. May proposed using the community school hall twice a week. Evan suggested borrowing equipment instead of buying it all. Their ideas matched more closely than either expected. Mrs. Fen laughed and said they were beginning to sound like partners who had learned the same song by listening to different parts of it.",
+        "zh": "兩人與芬姨討論下一階段的管理。她拿出筆記本，上面記著每筆捐款及用途。最大成本不是機器，而是一個人們可以安全、安靜聆聽的地方。慧提議每週借用社區學校大廳兩次。安澤建議先借設備，不必全部購買。兩人的想法比想像中更一致。芬姨笑說，他們聽著同一首歌的不同部分，現在終於學會一起合奏了。",
+        "englishSha256": "0062fa6636277e826b9d729708f72a719db0170888df2751d0a272e0fcd4bc52",
+        "chineseSha256": "ed8d6dac12d49064f5e1c3dc87a3343f5d4951545a4cd3179fdb5d186678c898"
+      },
+      {
+        "number": 5,
+        "en": "After the meeting, Evan sat on a bench while a tired student fell asleep beside a stack of posters. He put a coat over the back of her chair without waking her. May sat down and said she had begun to see money in a different degree of detail. A donation might buy lights or pay a repair worker, but it could also change the power of the person making the gift. “So what is the treasure here?” Evan asked. May looked toward the market. “The freedom to say yes, and the freedom to say no.” He said he wished his music classes had taught that as carefully as they taught sound levels. She reminded him they were still learning. They wrote a short note for the next committee meeting: every offer must be reviewed for its conditions, not just its amount. This was their best answer to a tempting offer.",
+        "zh": "會後，安澤坐在長椅上，一位疲倦學生靠著海報堆睡著了。他把外套搭在椅背，沒有吵醒她。慧坐下，說自己開始以更細的程度看待金錢。捐款可以買燈、支付工人，卻也可能改變捐款者的權力。「那這裡真正的寶藏是什麼？」安澤問。慧看向市場：「可以說是的自由，也可以說不的自由。」他希望音樂課教聲量時，也能同樣認真教這件事。慧提醒他，兩人仍在學。於是他們替下次委員會寫下一句：評估任何提案時，不只看金額，也要看條件。這是他們對誘人提案最好的回答。",
+        "englishSha256": "b99e0fb8c7eefa1ebe92f046eed0186b6b54589c215b025d7a5f9f2cf56edb64",
+        "chineseSha256": "8ade15b627aaa0c8789ba3cbae9cde96aca045f1973dc32f10116cdd116c3a6e"
+      },
+      {
+        "number": 6,
+        "en": "That evening, Evan asked May if she still wanted to go to the book fair with him. She said yes, and they agreed to leave the project notebooks at home. She was curious whether he could speak for two hours without explaining a microphone. “I can,” he said. “I might need to explain one book cover, though.” She laughed. Their plans were simple, and neither spoke about romance. Still, as they chose a meeting time, May felt her heart move toward something she had not yet named.",
+        "zh": "那天晚上，安澤再問慧是否仍願意一起去書展。她說願意，兩人同意把計畫筆記留在家裡。慧好奇他能不能兩小時都不解釋麥克風。「可以，」他說，「但我可能需要解釋一張書封。」慧笑了。計畫很簡單，誰也沒提戀愛。然而當兩人約定時間時，慧覺得自己的心正朝一件尚未命名的事移動。",
+        "englishSha256": "411d57fd6c41699d75a08d5e55c94dec21dfb714537da14a34b35b3f3d394856",
+        "chineseSha256": "6f9391f25d2e26e7239a784ee3e2a80038c65e7747c68a9defab0baf134883a2"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 624,
+    "targets": [
+      {
+        "word": "against",
+        "meaning": "反對",
+        "appearsInSource": true
+      },
+      {
+        "word": "aircraft",
+        "meaning": "飛機",
+        "appearsInSource": true
+      },
+      {
+        "word": "amount",
+        "meaning": "金額",
+        "appearsInSource": true
+      },
+      {
+        "word": "asleep",
+        "meaning": "睡著的",
+        "appearsInSource": true
+      },
+      {
+        "word": "bathe",
+        "meaning": "洗澡",
+        "appearsInSource": true
+      },
+      {
+        "word": "brand",
+        "meaning": "品牌",
+        "appearsInSource": true
+      },
+      {
+        "word": "clothing",
+        "meaning": "衣服",
+        "appearsInSource": true
+      },
+      {
+        "word": "degree",
+        "meaning": "程度",
+        "appearsInSource": true
+      },
+      {
+        "word": "gentleman",
+        "meaning": "先生",
+        "appearsInSource": true
+      },
+      {
+        "word": "gram",
+        "meaning": "公克",
+        "appearsInSource": true
+      },
+      {
+        "word": "leadership",
+        "meaning": "領導力",
+        "appearsInSource": true
+      },
+      {
+        "word": "match",
+        "meaning": "配合",
+        "appearsInSource": true
+      },
+      {
+        "word": "metal",
+        "meaning": "金屬",
+        "appearsInSource": true
+      },
+      {
+        "word": "natural",
+        "meaning": "自然的",
+        "appearsInSource": true
+      },
+      {
+        "word": "prince",
+        "meaning": "王子或公主",
+        "appearsInSource": true
+      },
+      {
+        "word": "purple",
+        "meaning": "紫色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "reject",
+        "meaning": "拒絕",
+        "appearsInSource": true
+      },
+      {
+        "word": "spider",
+        "meaning": "蜘蛛",
+        "appearsInSource": true
+      },
+      {
+        "word": "strict",
+        "meaning": "嚴格的",
+        "appearsInSource": true
+      },
+      {
+        "word": "treasure",
+        "meaning": "珍寶",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did May reject the sponsor's conditions?",
+      "options": [
+        "They gave the company control over recordings and advertisements",
+        "The manager wore purple",
+        "There were too few chairs"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They gave the company control over recordings and advertisements",
+      "existingAnswerExplanation": "提案讓公司任意搭配錄音與廣告、限制撤回，因此不適合。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A local brand offered the team money for a bigger room. Its manager was a polite gentleman who arrived in purple clothing and carried a shining metal case. The offer seemed generous until May read the rules: the company could match every recording with an advertisement, and the team could not reject the pairing later. Evan calculated the amount they needed for equipment and travel. The money would cover the cost, but it would give the company power over other people's stories. May spoke against the plan. The voices were not goods to be sold by weight, like rice measured by the gram.",
+          "chinese": "一個地方品牌提議出錢，讓團隊使用更大的房間。品牌經理是一位禮貌的紳士，穿著紫色衣服，拿著亮亮的金屬箱。提案看似慷慨，慧讀了規則卻發現，公司可以把每段錄音搭配廣告，團隊之後不能拒絕。安澤計算設備與交通所需金額。這筆錢確實足夠，卻會讓公司掌握別人的故事。慧表示反對：聲音不是按公克秤重、可以出售的米粒。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "The manager said it was a natural part of business. He showed them a sample of a prince and princess on a toy box, then argued that every story needed a strong image. May said some stories needed no image at all. A young worker had offered only the sound of a kitchen at sunrise. Attaching a perfume advertisement would change its meaning. Evan asked whether the company would accept a simple sponsor notice outside the listening room instead. The manager said the rules were strict and refused to change them. The meeting ended without an agreement.",
+          "chinese": "經理說這是商業的自然做法。他拿出玩具盒上王子與公主的圖片樣本，主張每個故事都需要鮮明形象。慧說有些故事根本不需要畫面。一位年輕員工只提供了日出時廚房的聲音，若加上香水廣告，就改變了意義。安澤問公司是否願意只在聆聽室外放一般贊助告示。經理說規定嚴格，不能更改。會議沒有達成協議。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What cheaper alternative did Evan suggest?",
+      "options": [
+        "Borrowing equipment",
+        "Selling family voices",
+        "Closing the market"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Borrowing equipment",
+      "existingAnswerExplanation": "安澤提議先借器材，減少購置成本。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "They met Mrs. Fen to discuss leadership of the next stage. She brought out a notebook showing each donation and its purpose. The largest cost was not the machines but a safe, quiet place where people could listen. May proposed using the community school hall twice a week. Evan suggested borrowing equipment instead of buying it all. Their ideas matched more closely than either expected. Mrs. Fen laughed and said they were beginning to sound like partners who had learned the same song by listening to different parts of it.",
+          "chinese": "兩人與芬姨討論下一階段的管理。她拿出筆記本，上面記著每筆捐款及用途。最大成本不是機器，而是一個人們可以安全、安靜聆聽的地方。慧提議每週借用社區學校大廳兩次。安澤建議先借設備，不必全部購買。兩人的想法比想像中更一致。芬姨笑說，他們聽著同一首歌的不同部分，現在終於學會一起合奏了。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "A local brand offered the team money for a bigger room. Its manager was a polite gentleman who arrived in purple clothing and carried a shining metal case. The offer seemed generous until May read the rules: the company could match every recording with an advertisement, and the team could not reject the pairing later. Evan calculated the amount they needed for equipment and travel. The money would cover the cost, but it would give the company power over other people's stories. May spoke against the plan. The voices were not goods to be sold by weight, like rice measured by the gram.",
+          "chinese": "一個地方品牌提議出錢，讓團隊使用更大的房間。品牌經理是一位禮貌的紳士，穿著紫色衣服，拿著亮亮的金屬箱。提案看似慷慨，慧讀了規則卻發現，公司可以把每段錄音搭配廣告，團隊之後不能拒絕。安澤計算設備與交通所需金額。這筆錢確實足夠，卻會讓公司掌握別人的故事。慧表示反對：聲音不是按公克秤重、可以出售的米粒。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

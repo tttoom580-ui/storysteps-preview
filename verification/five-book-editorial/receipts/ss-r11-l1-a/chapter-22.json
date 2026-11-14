@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 22,
+  "chapterId": "ss-r11-l1-a-22",
+  "sourceChapterSha256": "8dfbac9fd19c3fa717af2085c28071c867a0fe8657134d03c5ddc4c86d050b20",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "科學社於室內示範小機器人；凱使用改善後的花園小徑並指出標示與長椅配置可以再調整。",
+    "previousChapterEndingEnglish": "Tonight Ivy helped her mother wash cups and clean the bathroom before bed. A pleasant smell from the kitchen made her hungry again. She told her mother how Kai had tried the new path. “Did it work?” her mother asked. “Mostly,” Ivy said. “There is still one edge to fix.” She was glad she could give an answer that was both hopeful and true. The garden would open soon, but being ready did not mean that nobody could find a problem. It meant that someone would listen when they did.",
+    "nextChapterOpeningEnglish": "The school office held a short meeting about keeping things safe. Ms. Wen said the green box belonged to the garden club, but the school still needed a clear place for it. “Hello, everyone,” said the secretary as people came into the room. She put the box on a low table and showed its name on the bottom. A worker brought a new label and a small shelf. “Which room should this go in?” he asked. Ivy said the club wanted a room that students could use with permission, not a room where boxes could never be found again."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The club held a small test day for children from a younger grade. A baby plant stood in a dry pot near the gate. A bench gave visitors a place to rest. Ivy asked the children not to climb on the low garden wall, because the wet earth beside it could be soft. A boy carried a plate of small snacks, while a girl read plant names aloud. The teacher watched from near the path. They wanted to find any weak place before the whole school arrived for garden day.",
+        "zh": "社團替低年級孩子舉辦一場小型測試活動。門邊的乾花盆裡有一株幼苗，旁邊的長椅讓訪客可以休息。艾薇請孩子不要爬上低矮的花園牆，因為旁邊潮濕的土可能很鬆軟。一個男孩拿著小點心盤，一個女孩則大聲讀植物名稱。老師在小徑旁照看。大家希望在全校參加花園日前，就找出任何不夠安全的地方。",
+        "englishSha256": "b855a01b1bab246a17e906524564c46ec27b0c8b94a30fadbecaa37e75bfca76",
+        "chineseSha256": "ee18d3ee4ec1e2236f4606b00d95304046677f1abd8af9e221265fee5b6e21bb"
+      },
+      {
+        "number": 2,
+        "en": "At the sports field a child held a baseball bat and asked whether the garden path would be open during games. Ms. Wen explained that the field and the garden had separate safety rules. Ivy said it would help to keep balls and sports tools away from the plant beds. Jun measured the space beside the sign again, one inch at a time. He wanted to explain the measurement clearly so the workers would not need to guess. Kai listened and said the new space sounded better. They agreed to test it after the workers finished.",
+        "zh": "運動場上，一個孩子拿著棒球棒，問比賽時花園小徑能不能開放。溫老師解釋，球場和花園各有不同安全規則。艾薇說，讓球和運動器材遠離花圃會比較好。俊再次測量標示牌旁的空間，一英寸、一英寸地量。他想把尺寸說清楚，免得工人還要猜測。凱聽了，說新空間聽起來更好。大家同意等工人完成後再測試。",
+        "englishSha256": "a8ae022b170585467ee17e971e648acdb27c8e3ee99c02a459486eb514d82184",
+        "chineseSha256": "054341bd0ab359e6b65570e09653bc951702019b39155c240a06d32a4f7e89c2"
+      },
+      {
+        "number": 3,
+        "en": "The science club brought a small robot for a short program. It could follow a dark line on the table, but it could not work in the wet garden. A student wanted to put it near the flowers anyway. Ivy explained that the robot belonged to the science club and needed to stay dry. “We can show it somewhere safe,” she said. The student agreed and moved it indoors. They could learn about machines without using the garden as a place to test every new idea.",
+        "zh": "科學社帶來一個小機器人，準備做簡短展示。它能沿著桌上的深色線條前進，卻不能在潮濕的花園裡運作。一個學生還是想把它放到花旁邊。艾薇解釋，機器人屬於科學社，必須保持乾燥。「我們可以找安全的地方展示，」她說。那名學生同意，把機器人移進室內。大家可以學習機器，但不必把花園變成測試所有新想法的場所。",
+        "englishSha256": "33bb03c0d7ba394929e2a75716ef2fd409ced69f5702b6e45b038d374d2f5733",
+        "chineseSha256": "e59f2ea08a2e6bfb6a03f11104598e7049dede86e94d8683834636895a9e0c84"
+      },
+      {
+        "number": 4,
+        "en": "At a sign table a boy could not spell the word tiger on his animal drawing. He had drawn a tiger because the class was making pictures about habitats. Jun helped him sound out each letter. Another child measured a plant at three inches high. Ivy asked them to keep their tools on the table rather than on the path. One girl said her leg was tired, so a friend showed her the bench. No one made fun of her. A place for rest was part of the garden, not a problem with the visitor.",
+        "zh": "標示桌旁，一個男孩不會拼自己動物圖上的「老虎」英文。他畫老虎，是因為全班正在做動物棲地圖片。俊陪他一個字母、一個字母地念。另一個孩子量出一株植物有三英寸高。艾薇請大家把工具留在桌上，不要放在小徑。某個女孩說腿累了，朋友便帶她到長椅。沒有人取笑她。有地方休息是花園設計的一部分，不是訪客的問題。",
+        "englishSha256": "ac9a491f263c1aa9397513ffa2624910bb1254e0d8e65c697483a66446064f83",
+        "chineseSha256": "ed2217254030df42544c5e1d7d9b35f6bc2afb59cbf74d6032c5e821238760f3"
+      },
+      {
+        "number": 5,
+        "en": "The younger students wrote simple notes about their visit. One said she liked the smell of the leaves. Another said he liked the bench because he could sit down when he was tired. A third wrote that he had been afraid of bees, but he had learned to ask a teacher rather than run. Ivy read the notes and put them in a clean folder. The garden was not perfect yet. Still, children had learned things there before the official opening, which made all the work worthwhile.",
+        "zh": "低年級學生為參訪寫了簡單心得。一個說喜歡葉子的味道，另一個說喜歡長椅，因為累時能坐下。第三個寫自己原本怕蜜蜂，現在學會先找老師，而不是亂跑。艾薇讀完心得，把它們放進乾淨資料夾。花園還沒完美，但正式開放前，孩子們已在那裡學到東西，這使所有努力都值得。",
+        "englishSha256": "fe209bf405b29e0266cc1daa61f55aa4b585a4d9da1037831c12215487aeedc6",
+        "chineseSha256": "8beab0e23641812186032af3e8b8964b0f1cc1d7eb065c79f316babbc74db450"
+      },
+      {
+        "number": 6,
+        "en": "After lunch the children made name cards. A younger student wanted to add sugar to the water for the plants. Ms. Wen said ordinary water was what the garden needed, not a sweet drink. She explained the difference with simple words and showed the class the care cards. Ivy was glad the original notes had come back. They helped adults answer questions without making up answers. The test day was not about showing that the club knew everything. It was about finding what they still needed to learn.",
+        "zh": "午餐後，孩子們製作姓名卡。一位低年級學生想把糖加進給植物的水裡。溫老師說，花園需要的是一般的水，不是甜飲料。她用簡單的話解釋差別，並展示照顧卡。艾薇很高興原來的筆記已經找回。那些筆記幫大人回答問題，不必隨意編造答案。測試日不是為了證明社團什麼都知道，而是找出還需要學習的地方。",
+        "englishSha256": "8138f2ce5f0901e585d8cbc7ba50215830bbf0d1704ea309d3c8e2f688a12a3f",
+        "chineseSha256": "83be29127c32bba4f3b16675e7d6be30d83e6135375d6bf9c5ecc8f3900451d5"
+      },
+      {
+        "number": 7,
+        "en": "At the end of the day Kai tried the path again. The rough edge had been made smooth. He moved down the path, stopped near the flowers, and said he could find the sign easily. Ms. Wen asked whether anything else should change. Kai said the bench could move one step away from the turn. The workers agreed. Ivy looked at the new path, the plants, and the little notes on her page. Their garden was becoming ready because different people had told the truth about what they needed.",
+        "zh": "一天結束時，凱又試走了小徑。粗糙的邊緣已磨平。他沿著道路往前走，在花旁停下，說很容易找到標示牌。溫老師問還有什麼要調整。凱說長椅可以從轉彎處再移開一步，工人同意了。艾薇看看新小徑、植物和頁面上的小筆記。花園漸漸準備好了，正因不同的人都願意誠實說出自己的需要。",
+        "englishSha256": "aa2ea9d336af404ce81f29b8539db6cbbc4153c4265a1e9a95c24e2c10204ccb",
+        "chineseSha256": "d83b438553b48c723fac66fa514662bcc2b5011ac6429fb736d032a3bea0b11b"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 631,
+    "targets": [
+      {
+        "word": "baby",
+        "meaning": "幼小的",
+        "appearsInSource": true
+      },
+      {
+        "word": "bat",
+        "meaning": "球棒",
+        "appearsInSource": true
+      },
+      {
+        "word": "bench",
+        "meaning": "長椅",
+        "appearsInSource": true
+      },
+      {
+        "word": "climb",
+        "meaning": "攀爬",
+        "appearsInSource": true
+      },
+      {
+        "word": "down",
+        "meaning": "向下",
+        "appearsInSource": true
+      },
+      {
+        "word": "dry",
+        "meaning": "乾燥的",
+        "appearsInSource": true
+      },
+      {
+        "word": "explain",
+        "meaning": "解釋",
+        "appearsInSource": true
+      },
+      {
+        "word": "grade",
+        "meaning": "年級",
+        "appearsInSource": true
+      },
+      {
+        "word": "inch",
+        "meaning": "英吋",
+        "appearsInSource": true
+      },
+      {
+        "word": "leg",
+        "meaning": "腿",
+        "appearsInSource": true
+      },
+      {
+        "word": "near",
+        "meaning": "附近",
+        "appearsInSource": true
+      },
+      {
+        "word": "new",
+        "meaning": "新的",
+        "appearsInSource": true
+      },
+      {
+        "word": "plate",
+        "meaning": "盤子",
+        "appearsInSource": true
+      },
+      {
+        "word": "program",
+        "meaning": "展示活動",
+        "appearsInSource": true
+      },
+      {
+        "word": "robot",
+        "meaning": "機器人",
+        "appearsInSource": true
+      },
+      {
+        "word": "somewhere",
+        "meaning": "某處",
+        "appearsInSource": true
+      },
+      {
+        "word": "spell",
+        "meaning": "拼寫",
+        "appearsInSource": true
+      },
+      {
+        "word": "sugar",
+        "meaning": "糖",
+        "appearsInSource": true
+      },
+      {
+        "word": "tiger",
+        "meaning": "老虎",
+        "appearsInSource": true
+      },
+      {
+        "word": "weak",
+        "meaning": "虛弱的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the science club show indoors?",
+      "options": [
+        "A small robot.",
+        "A working boat.",
+        "A new airplane."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A small robot.",
+      "existingAnswerExplanation": "科學社在安全的室內展示小機器人",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The science club brought a small robot for a short program. It could follow a dark line on the table, but it could not work in the wet garden. A student wanted to put it near the flowers anyway. Ivy explained that the robot belonged to the science club and needed to stay dry. “We can show it somewhere safe,” she said. The student agreed and moved it indoors. They could learn about machines without using the garden as a place to test every new idea.",
+          "chinese": "科學社帶來一個小機器人，準備做簡短展示。它能沿著桌上的深色線條前進，卻不能在潮濕的花園裡運作。一個學生還是想把它放到花旁邊。艾薇解釋，機器人屬於科學社，必須保持乾燥。「我們可以找安全的地方展示，」她說。那名學生同意，把機器人移進室內。大家可以學習機器，但不必把花園變成測試所有新想法的場所。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 1,
+          "english": "The club held a small test day for children from a younger grade. A baby plant stood in a dry pot near the gate. A bench gave visitors a place to rest. Ivy asked the children not to climb on the low garden wall, because the wet earth beside it could be soft. A boy carried a plate of small snacks, while a girl read plant names aloud. The teacher watched from near the path. They wanted to find any weak place before the whole school arrived for garden day.",
+          "chinese": "社團替低年級孩子舉辦一場小型測試活動。門邊的乾花盆裡有一株幼苗，旁邊的長椅讓訪客可以休息。艾薇請孩子不要爬上低矮的花園牆，因為旁邊潮濕的土可能很鬆軟。一個男孩拿著小點心盤，一個女孩則大聲讀植物名稱。老師在小徑旁照看。大家希望在全校參加花園日前，就找出任何不夠安全的地方。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did Kai say after the path was improved?",
+      "options": [
+        "He could find the sign more easily.",
+        "The bench was gone forever.",
+        "He did not want visitors."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He could find the sign more easily.",
+      "existingAnswerExplanation": "改善後凱更容易找到標示牌，也提出移動長椅的建議",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "At the end of the day Kai tried the path again. The rough edge had been made smooth. He moved down the path, stopped near the flowers, and said he could find the sign easily. Ms. Wen asked whether anything else should change. Kai said the bench could move one step away from the turn. The workers agreed. Ivy looked at the new path, the plants, and the little notes on her page. Their garden was becoming ready because different people had told the truth about what they needed.",
+          "chinese": "一天結束時，凱又試走了小徑。粗糙的邊緣已磨平。他沿著道路往前走，在花旁停下，說很容易找到標示牌。溫老師問還有什麼要調整。凱說長椅可以從轉彎處再移開一步，工人同意了。艾薇看看新小徑、植物和頁面上的小筆記。花園漸漸準備好了，正因不同的人都願意誠實說出自己的需要。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "The club held a small test day for children from a younger grade. A baby plant stood in a dry pot near the gate. A bench gave visitors a place to rest. Ivy asked the children not to climb on the low garden wall, because the wet earth beside it could be soft. A boy carried a plate of small snacks, while a girl read plant names aloud. The teacher watched from near the path. They wanted to find any weak place before the whole school arrived for garden day.",
+          "chinese": "社團替低年級孩子舉辦一場小型測試活動。門邊的乾花盆裡有一株幼苗，旁邊的長椅讓訪客可以休息。艾薇請孩子不要爬上低矮的花園牆，因為旁邊潮濕的土可能很鬆軟。一個男孩拿著小點心盤，一個女孩則大聲讀植物名稱。老師在小徑旁照看。大家希望在全校參加花園日前，就找出任何不夠安全的地方。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

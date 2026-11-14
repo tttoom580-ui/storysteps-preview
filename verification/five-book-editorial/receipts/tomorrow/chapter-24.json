@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 24,
+  "chapterId": "tomorrow-24",
+  "sourceChapterSha256": "9f356647ac57668564db320fc7eee088da0c0d0b47e6deee937cc75b8c063b3a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "六月提出有界線的合作；米雅以寫給未來自己的信取代威脅",
+    "previousChapterEndingEnglish": "That night, Later sent me an automatic email. My original class letter from last year was ready to open. I nearly deleted it. Then I remembered that the site was only a site. Someone had used it to scare me; it did not own every future message. I clicked the letter. Dear Future Mia, it began, please stop losing your keys. Under that was a sentence I had forgotten writing.",
+    "nextChapterOpeningEnglish": "One month later, my phone lit up at ten past ten. The name above the message was Mia Chen. My name. The small picture was still the beach photo with one eye closed. For a moment, my heart moved faster. Then I read the first line of the letter I had really written. Did you listen when the answer was not the one you wanted?"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "If June asks you to be in another film, say yes before you get scared. That was the forgotten sentence. Below it, my younger self had added three terrible drawings: a key, a camera, and a bird that looked like a potato. I remembered writing the letter beside June in the computer room. She had laughed at the bird until the teacher asked us to separate our chairs.",
+        "zh": "如果 June 再邀妳拍片，在害怕前說好。這就是忘記的句子。下面年輕一歲的我畫三張醜圖：鑰匙、相機、像馬鈴薯的鳥。我記得在電腦教室坐 June 旁寫信，她笑鳥笑到老師叫我們把椅子分開。",
+        "englishSha256": "6f8888f9865785d367bbb309d10e7edb94423900da64527f562bca30437569f2",
+        "chineseSha256": "6be2e0ef6e1e55672bc768769f10ef376c9bf533342b798d133702dfe112e11a"
+      },
+      {
+        "number": 2,
+        "en": "I saved the letter as a picture, but I did not send it to June. It belonged to a day we both remembered differently now. I could enjoy that day without using it to ask her for something. Instead I went downstairs and helped Mum make dinner. I cut the carrots too thick. She said they would still taste like carrots. For once, that was the only problem in the room.",
+        "zh": "我存成圖片，沒傳 June。它屬於如今我們記得不同的一天。我能喜歡那天，不必拿它向她索取。於是下樓幫媽媽煮飯，紅蘿蔔切太厚。她說吃起來仍是紅蘿蔔。難得房裡只有這個問題。",
+        "englishSha256": "88c2aae3ffa1c65454fa34a5663718a9cd38130d8d29b0bfb1f5891cfe2c53a1",
+        "chineseSha256": "0b22b9333602f9a4fa2b03d2de3353eebd84c85258197efca34cf9a33ab5207c"
+      },
+      {
+        "number": 3,
+        "en": "On Saturday, June invited me to meet her after the film class. Not during it. Not with a camera. We chose a noodle shop across from the bus station. I arrived early and took a table near the door without making a big thing of it. June arrived with a cloth bag full of papers. “We filmed a shoe,” she said. “For two hours.” “Did it have a good story?” “Better than some people.”",
+        "zh": "星期六，June 約我短片課後見，不是課中，也不用相機。我們選車站對面麵店。我提早到，選門邊座位，沒特別強調。她帶一袋紙進來。「我們拍鞋拍了兩小時。」「故事好嗎？」「比某些人好。」",
+        "englishSha256": "231346d45eaae58a75bd26e8dab5f5f30d2937565266e3df1642bcb1f4eeb088",
+        "chineseSha256": "b8deb431008528772e039217d50f23f81aeea642b92158c767fa570a6637acaf"
+      },
+      {
+        "number": 4,
+        "en": "We ordered the same noodles we used to buy after school. Then June changed her order to rice. The small change made me strangely happy. She was not here to step into an old photograph with me. She could want different food. I asked about her aunt's cat. She asked about Leo's little brother. For ten minutes, nobody said vote, video, truth, or sorry. We talked like people with other things in their lives.",
+        "zh": "我們點以前放學吃的麵，June 又改成飯。這小改變讓我莫名開心：她不是來和我站回老照片，她可以想吃不同東西。我問阿姨的貓，她問 Leo 弟弟。十分鐘裡沒人說投票、影片、真相或抱歉，我們像人生還有其他事的人。",
+        "englishSha256": "2f9f936fe24e937b5b5c1959ac9f7ab1f641ec0c5d91a9aef932b4412b547718",
+        "chineseSha256": "0d15e1557d4be77aac403f01d72924a70ea527f5c44d2be1c26fd149db50d094"
+      },
+      {
+        "number": 5,
+        "en": "Then June told me she would transfer to another school next term. It had an art program she wanted, and it was closer to her aunt. “I'm not asking if you think I should,” she said. “I know.” I held my spoon still. Part of me wanted to call it running away. I recognized that thought for the unfair thing it was and let it pass without speaking.",
+        "zh": "接著 June 說下學期轉學，那裡有想念的藝術課程，也離阿姨近。「不是問妳覺得該不該。」「我知道。」我停住湯匙。有部分我想說是逃跑，我認出那不公平的念頭，讓它經過，沒說出口。",
+        "englishSha256": "073f6c48f4fdd07c255b9cdd8fc4716dfef407e410ee0fec9a601e078f1af9ad",
+        "chineseSha256": "598df78ff57ef065c1185b3999c4b12085c267a0c130004d03f909cf9d4c8a5a"
+      },
+      {
+        "number": 6,
+        "en": "“Will you visit?” I asked. “Maybe. For the library. Not for a speech.” “Good library.” “Terrible chairs.” We smiled. She took a folded paper from her bag and pushed it across the table. It was a short script. Two friends try to make a film with no faces in it. Everything goes wrong because their shoes keep walking out of the shot. It was silly in exactly the right way.",
+        "zh": "「會回來看看嗎？」「也許，為了圖書館，不為演講。」「好圖書館。」「爛椅子。」我們笑。她從袋裡拿摺紙推來，是短劇本：兩個朋友拍沒有臉的影片，鞋卻不停走出鏡頭，什麼都不順。傻得恰到好處。",
+        "englishSha256": "f1c86f01e8b7d379cf25078fbcea8bad8a870bf77e8d9c31a43dae56d972a080",
+        "chineseSha256": "cf42a3139abcda91d2a352b54614e30d378f32a5d340b305bf00b807ac7776fa"
+      },
+      {
+        "number": 7,
+        "en": "“Do you want to help?” she asked. I looked up. “You don't have to be in it,” she added quickly. “You can hold the light.” I thought of my old letter telling me to say yes before I got scared. This time I could say yes after feeling scared. “I would like that,” I said. “What are the rules?” June tapped the page. “We ask before filming. We ask again before sharing.”",
+        "zh": "「想幫忙嗎？」我抬頭。「不必入鏡，拿燈也行。」她趕緊補。我想到舊信說害怕前就答應。這次，我可以害怕之後仍答應。「我想。規則呢？」她點紙：「拍之前先問，分享之前再問。」",
+        "englishSha256": "67283021d5c6637442b18fb4e42294e94d1bd3bf8958e9513ba9fc60d5c3c7fb",
+        "chineseSha256": "18f0e49b0e43b3051a3d4bcb74cecf99311fac746c4e73ece96f86ecd97fa044"
+      },
+      {
+        "number": 8,
+        "en": "After lunch, we waited for different buses. June's came first. At the door, she turned and said, “We're not back where we were.” “I know.” “That might be okay.” She got on before I could turn that into a promise. I watched the bus leave, then opened my phone. I started a new Later letter to myself. I did not write a warning. I wrote a date one month away and a question I could answer only by living.",
+        "zh": "飯後等不同公車，June 的先到。上車前她轉頭：「我們沒回到從前。」「我知道。」「也許這樣也可以。」她在我把它變承諾前上車。我看車離開，開手機寫新的 Later 給自己，不寫警告，而是一個月後的日期，以及只有活過才能回答的問題。",
+        "englishSha256": "59c22cc8c476fd402a4bfb73e9a3b77a63261564e322f4911c8ad8f31a4289f2",
+        "chineseSha256": "945e2216d2856106888681e86a687daf2624aba1c45f1d43edaf872bc4ff234f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 576,
+    "targets": [
+      {
+        "word": "art",
+        "meaning": "藝術；美術",
+        "appearsInSource": true
+      },
+      {
+        "word": "aunt",
+        "meaning": "阿姨；姑姑；伯母等女性長輩",
+        "appearsInSource": true
+      },
+      {
+        "word": "bag",
+        "meaning": "袋子；書包",
+        "appearsInSource": true
+      },
+      {
+        "word": "big",
+        "meaning": "大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "buy",
+        "meaning": "買",
+        "appearsInSource": true
+      },
+      {
+        "word": "cat",
+        "meaning": "貓",
+        "appearsInSource": true
+      },
+      {
+        "word": "dinner",
+        "meaning": "晚餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "hold",
+        "meaning": "握住；舉行",
+        "appearsInSource": true
+      },
+      {
+        "word": "key",
+        "meaning": "鑰匙；關鍵",
+        "appearsInSource": true
+      },
+      {
+        "word": "month",
+        "meaning": "月",
+        "appearsInSource": true
+      },
+      {
+        "word": "order",
+        "meaning": "順序；命令；訂購",
+        "appearsInSource": true
+      },
+      {
+        "word": "potato",
+        "meaning": "馬鈴薯",
+        "appearsInSource": true
+      },
+      {
+        "word": "rice",
+        "meaning": "米；飯",
+        "appearsInSource": true
+      },
+      {
+        "word": "shop",
+        "meaning": "商店；購物",
+        "appearsInSource": true
+      },
+      {
+        "word": "station",
+        "meaning": "車站",
+        "appearsInSource": true
+      },
+      {
+        "word": "taste",
+        "meaning": "味道；品嚐",
+        "appearsInSource": true
+      },
+      {
+        "word": "thick",
+        "meaning": "厚的",
+        "appearsInSource": true
+      },
+      {
+        "word": "thing",
+        "meaning": "事物",
+        "appearsInSource": true
+      },
+      {
+        "word": "try",
+        "meaning": "嘗試",
+        "appearsInSource": true
+      },
+      {
+        "word": "visit",
+        "meaning": "拜訪",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does June’s invitation offer Mia?",
+      "options": [
+        "A promise that everything is exactly as before.",
+        "Permission to post all their old videos.",
+        "A new way to work together with clear rules."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "A new way to work together with clear rules.",
+      "existingAnswerExplanation": "A new way to work together with clear rules.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "“Will you visit?” I asked. “Maybe. For the library. Not for a speech.” “Good library.” “Terrible chairs.” We smiled. She took a folded paper from her bag and pushed it across the table. It was a short script. Two friends try to make a film with no faces in it. Everything goes wrong because their shoes keep walking out of the shot. It was silly in exactly the right way.",
+          "chinese": "「會回來看看嗎？」「也許，為了圖書館，不為演講。」「好圖書館。」「爛椅子。」我們笑。她從袋裡拿摺紙推來，是短劇本：兩個朋友拍沒有臉的影片，鞋卻不停走出鏡頭，什麼都不順。傻得恰到好處。",
+          "matchedQueryTerms": 1
+        },
+        {
+          "paragraph": 7,
+          "english": "“Do you want to help?” she asked. I looked up. “You don't have to be in it,” she added quickly. “You can hold the light.” I thought of my old letter telling me to say yes before I got scared. This time I could say yes after feeling scared. “I would like that,” I said. “What are the rules?” June tapped the page. “We ask before filming. We ask again before sharing.”",
+          "chinese": "「想幫忙嗎？」我抬頭。「不必入鏡，拿燈也行。」她趕緊補。我想到舊信說害怕前就答應。這次，我可以害怕之後仍答應。「我想。規則呢？」她點紙：「拍之前先問，分享之前再問。」",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Mia put in the new Later letter to herself?",
+      "options": [
+        "A threat against Bell.",
+        "A claim that June must forgive her.",
+        "A future date and a question she can answer by living."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "A future date and a question she can answer by living.",
+      "existingAnswerExplanation": "章末她不再寫警告，而寫下一個月後的日期，以及要透過生活才能回答的問題。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "After lunch, we waited for different buses. June's came first. At the door, she turned and said, “We're not back where we were.” “I know.” “That might be okay.” She got on before I could turn that into a promise. I watched the bus leave, then opened my phone. I started a new Later letter to myself. I did not write a warning. I wrote a date one month away and a question I could answer only by living.",
+          "chinese": "飯後等不同公車，June 的先到。上車前她轉頭：「我們沒回到從前。」「我知道。」「也許這樣也可以。」她在我把它變承諾前上車。我看車離開，開手機寫新的 Later 給自己，不寫警告，而是一個月後的日期，以及只有活過才能回答的問題。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "If June asks you to be in another film, say yes before you get scared. That was the forgotten sentence. Below it, my younger self had added three terrible drawings: a key, a camera, and a bird that looked like a potato. I remembered writing the letter beside June in the computer room. She had laughed at the bird until the teacher asked us to separate our chairs.",
+          "chinese": "如果 June 再邀妳拍片，在害怕前說好。這就是忘記的句子。下面年輕一歲的我畫三張醜圖：鑰匙、相機、像馬鈴薯的鳥。我記得在電腦教室坐 June 旁寫信，她笑鳥笑到老師叫我們把椅子分開。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

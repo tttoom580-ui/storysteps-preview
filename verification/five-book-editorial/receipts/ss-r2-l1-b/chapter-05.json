@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 5,
+  "chapterId": "ss-r2-l1-b-5",
+  "sourceChapterSha256": "dc87293ccf63430ab47f3e291c0fda076a7311b8f444ff75e021080466b0e6be",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "基特提供農場雞蛋，小量訂單避免浪費",
+    "previousChapterEndingEnglish": "At the end of the workday, Fia put a small sign beside the worn doorstep. It said, \"Please walk slowly.\" She knew a sign did not make every problem go away. They still had to check the wood each day until the new boards came. Pip promised to help. He also said he would bring more flowers from his garden, but only after he had finished the work he had already taken. Fia smiled at him. A shop was built with hands, not wishes alone. As the sky became dark, the three friends set off for home. At the place where two roads cross, Moss lifted his head to look for a coming cart before they walked safely to the other side.",
+    "nextChapterOpeningEnglish": "A hard rain fell in the morning, and the path to the farm filled with mud. Fia stood at her desk and read the news from a small village paper. The farm cart could not come through the old road. Moss came into the shop with one arm wet and a worried face. \"What do we do about the eggs?\" he asked. Fia put the paper down. \"First we find out whether Kit is safe,\" she said. \"Then we can speak with his mother.\" The work was more important than any one breakfast, but no food was worth a friend getting hurt on the road."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On the fifth day, Fia went to the bank with a small bag of coins. She wanted to know how much money the breakfast shop could use. The clerk helped her count each coin. It was not a large sum. Fia wrote the number in her book and drew a straight line below it. She would not spend more than she had. Outside, a teenager with a yellow scarf was holding a long string. He was trying to tie two baskets to his bicycle. One basket turned to the side, and apples rolled onto the path. Fia helped him pick them up.",
+        "zh": "第五天，菲雅帶著一袋硬幣去銀行，想算清早餐店能用多少錢。行員幫她逐枚清點，總數不多。菲雅把數字記進本子，在下面畫了一條直線。她不會花超過自己所有的錢。銀行外，一個繫黃色圍巾的少年拿著長細繩，試著把兩個籃子綁在腳踏車上。一個籃子歪了，蘋果滾滿小路。菲雅幫忙把它們撿起。",
+        "englishSha256": "6f1475121a8b2577fb064013b1f2cf897cb3a422bee8ec88c02e4265ddda8696",
+        "chineseSha256": "af4d131961e8d80e4744f926179a89757830e7c4979f92402e7725c58c409f19"
+      },
+      {
+        "number": 2,
+        "en": "The teenager was called Kit. He worked on his family's farm after school. \"I must feed the chickens before I go to the pond,\" he said. \"But I came to bring you a letter.\" He gave Fia a folded piece of paper. His mother had heard about the shop and wanted to sell fresh eggs to it. Fia thanked him and read the letter slowly. The price was fair, but she needed to think about how many eggs the shop could use each day. \"Where can I speak with your mother?\" she asked. Kit pointed through the trees toward the farm road.",
+        "zh": "少年叫基特，放學後會在家裡農場工作。「去池塘前，我還得餵雞。」他說，「不過我先來送封信給妳。」他交給菲雅一張摺起的紙。基特的母親聽說新店，想賣新鮮雞蛋給他們。菲雅道謝，慢慢讀信。價格合理，但她得想想店一天能用幾顆蛋。「我可以去哪裡找你母親？」她問。基特指向樹林另一頭的農場路。",
+        "englishSha256": "e9b5e6a57332227b28eae18422e863931281f07722c3eb975828a00ecb31dd39",
+        "chineseSha256": "367e7ba2624cb2b1cc059bb7eb88e9f7b92dfa5b44b2c53c175a6942a3800e7a"
+      },
+      {
+        "number": 3,
+        "en": "Moss met them at the farm gate. He had a strange idea for a new bread: a little oil, warm water, and seeds on top. \"It may work,\" he said, \"but I need time to try it.\" Kit smiled and told them about a movie he had seen. In the movie, a cook made a great meal with almost nothing. \"Real life is slower than a movie,\" Moss said. \"Bread takes time to rise.\" Kit laughed and nearly stepped on his own toe while moving a box. They all agreed that a slow plan was better than a fast mistake.",
+        "zh": "莫斯在農場門口與他們會合。他想試一種新麵包：加一點油、溫水，表面撒種子。「也許會成功，」他說，「但我需要時間試。」基特笑著說起看過的電影：片裡廚師幾乎沒食材，卻能做出大餐。「現實比電影慢，」莫斯說，「麵包要花時間發起來。」基特搬箱子時差點踩到自己的腳趾，大家都笑了，也同意慢慢來比匆忙犯錯好。",
+        "englishSha256": "f8d15e8dfbff08bad756833113c154b91c409f3a3c68048eea2fe0e2fe330aec",
+        "chineseSha256": "36d555940a2a4b8e41686d9199d211ad19efa56f894205bff87be63ebdff3cef"
+      },
+      {
+        "number": 4,
+        "en": "Kit's mother came from the barn with a basket of eggs. Fia told her that she did not want to buy too many at once. \"Then begin with a small basket,\" the farmer said. \"If people like your food, we can talk again.\" Fia felt grateful. There were many things she did not know, yet the farmer did not make her feel foolish. They talked through the plan together: a small order, a set day, and a clear price. Fia tied a yellow string around her notebook as a sign of the promise. It was simple enough for everyone to remember.",
+        "zh": "基特的母親提著一籃蛋從穀倉走出。菲雅說不想一次買太多。「那就先買一小籃吧，」農場主人說，「如果大家喜歡，再來談。」菲雅很感激。她還有很多不懂的事，但對方沒有讓她覺得自己很笨。她們一起商量：少量訂購、固定日期、清楚價格。菲雅在筆記本上繫了一條黃細繩，當作約定的記號，簡單得人人都記得住。",
+        "englishSha256": "3ed7ea6dc66fd2a9c820ffac6adfa920dd18b43e3ed2e63dc3729c7af6c4270b",
+        "chineseSha256": "9fe12ac73c3c1f50683abb509cfbfab3164786395718bb3ecc28476d9f7c4c05"
+      },
+      {
+        "number": 5,
+        "en": "Under the rising moon, Fia walked back with Moss. They spoke about the most important topic of the day. It was not how to get more money, but how to make promises they could keep. Moss said he could bake a few kinds of bread well, but not ten new kinds. Fia said she could talk to every supplier, but she could not promise to buy everything. They were learning the shape of a small shop. From the outside, it might look like little work. From the inside, they could already see how many careful choices stood behind one warm meal.",
+        "zh": "月亮升起時，菲雅與莫斯往回走。他們談起當天最重要的話題：不是怎樣賺更多錢，而是怎樣許下做得到的承諾。莫斯說自己能把幾種麵包烤好，卻無法一下做十種新口味。菲雅說她能和每位供應者談，卻不能答應把所有東西都買下。他們正摸清一間小店的模樣。從外面看也許事情不多，但他們已看見一份熱早餐背後有多少謹慎選擇。",
+        "englishSha256": "baaac9be6ef9c4370b07ec79230375678bb50e8d434e11a7c72da91994f1fea1",
+        "chineseSha256": "801bf957db20b9fcfd7be89a713ef6bacd9edb142cd885c407c142aaf61cd71d"
+      },
+      {
+        "number": 6,
+        "en": "When she reached the red house, Fia put the letter and her bank note inside the desk drawer. Tomorrow she would speak with Pip about fruit and with Toma about early opening hours. Each friend was bringing one part of the shop to life. Before turning away, she looked at the yellow string on her book. It reminded her of the apples on the road and the kindness that had followed. A simple offer could open a new door. She hoped her breakfast shop would be full of such offers, freely given and carefully kept.",
+        "zh": "回到紅屋，菲雅把信和銀行紀錄收進書桌抽屜。明天她會找皮普談水果，再找托馬談清晨營業時間。每位朋友都帶來讓小店成形的一部分。離開前，她看了看本子上的黃細繩，想起路上的蘋果和隨後發生的善意。一個簡單的提議，就可能打開新的門。她希望早餐店充滿這樣的提議：出於自願，也被用心遵守。",
+        "englishSha256": "eaa05e16b0ea40ba6204aa639c67f945555200cc7c854ffa314ea2dd0a88ef00",
+        "chineseSha256": "a723d76752b60082bfc8cc692ab6523c1ee75abbcb2e9bd0eb07f192547a3f4a"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 601,
+    "targets": [
+      {
+        "word": "bank",
+        "meaning": "銀行",
+        "appearsInSource": true
+      },
+      {
+        "word": "farm",
+        "meaning": "農場",
+        "appearsInSource": true
+      },
+      {
+        "word": "feed",
+        "meaning": "餵食",
+        "appearsInSource": true
+      },
+      {
+        "word": "letter",
+        "meaning": "信",
+        "appearsInSource": true
+      },
+      {
+        "word": "many",
+        "meaning": "許多的",
+        "appearsInSource": true
+      },
+      {
+        "word": "moon",
+        "meaning": "月亮",
+        "appearsInSource": true
+      },
+      {
+        "word": "movie",
+        "meaning": "電影",
+        "appearsInSource": true
+      },
+      {
+        "word": "oil",
+        "meaning": "油",
+        "appearsInSource": true
+      },
+      {
+        "word": "sell",
+        "meaning": "出售",
+        "appearsInSource": true
+      },
+      {
+        "word": "slow",
+        "meaning": "緩慢的",
+        "appearsInSource": true
+      },
+      {
+        "word": "straight",
+        "meaning": "筆直的",
+        "appearsInSource": true
+      },
+      {
+        "word": "strange",
+        "meaning": "奇怪的",
+        "appearsInSource": true
+      },
+      {
+        "word": "string",
+        "meaning": "細繩",
+        "appearsInSource": true
+      },
+      {
+        "word": "teenager",
+        "meaning": "青少年",
+        "appearsInSource": true
+      },
+      {
+        "word": "think",
+        "meaning": "思考",
+        "appearsInSource": true
+      },
+      {
+        "word": "through",
+        "meaning": "穿過",
+        "appearsInSource": true
+      },
+      {
+        "word": "toe",
+        "meaning": "腳趾",
+        "appearsInSource": true
+      },
+      {
+        "word": "topic",
+        "meaning": "主題",
+        "appearsInSource": true
+      },
+      {
+        "word": "Where",
+        "meaning": "哪裡",
+        "appearsInSource": true
+      },
+      {
+        "word": "yellow",
+        "meaning": "黃色的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Kit bring to Fia?",
+      "options": [
+        "A letter about eggs",
+        "A new camera",
+        "A red chair"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A letter about eggs",
+      "existingAnswerExplanation": "基特帶來母親希望供應雞蛋的信。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The teenager was called Kit. He worked on his family's farm after school. \"I must feed the chickens before I go to the pond,\" he said. \"But I came to bring you a letter.\" He gave Fia a folded piece of paper. His mother had heard about the shop and wanted to sell fresh eggs to it. Fia thanked him and read the letter slowly. The price was fair, but she needed to think about how many eggs the shop could use each day. \"Where can I speak with your mother?\" she asked. Kit pointed through the trees toward the farm road.",
+          "chinese": "少年叫基特，放學後會在家裡農場工作。「去池塘前，我還得餵雞。」他說，「不過我先來送封信給妳。」他交給菲雅一張摺起的紙。基特的母親聽說新店，想賣新鮮雞蛋給他們。菲雅道謝，慢慢讀信。價格合理，但她得想想店一天能用幾顆蛋。「我可以去哪裡找你母親？」她問。基特指向樹林另一頭的農場路。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 4,
+          "english": "Kit's mother came from the barn with a basket of eggs. Fia told her that she did not want to buy too many at once. \"Then begin with a small basket,\" the farmer said. \"If people like your food, we can talk again.\" Fia felt grateful. There were many things she did not know, yet the farmer did not make her feel foolish. They talked through the plan together: a small order, a set day, and a clear price. Fia tied a yellow string around her notebook as a sign of the promise. It was simple enough for everyone to remember.",
+          "chinese": "基特的母親提著一籃蛋從穀倉走出。菲雅說不想一次買太多。「那就先買一小籃吧，」農場主人說，「如果大家喜歡，再來談。」菲雅很感激。她還有很多不懂的事，但對方沒有讓她覺得自己很笨。她們一起商量：少量訂購、固定日期、清楚價格。菲雅在筆記本上繫了一條黃細繩，當作約定的記號，簡單得人人都記得住。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Fia start with a small order?",
+      "options": [
+        "She wants a careful promise",
+        "She cannot read numbers",
+        "She dislikes eggs"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "She wants a careful promise",
+      "existingAnswerExplanation": "菲雅希望從能掌握的小量開始，避免浪費與失信。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Under the rising moon, Fia walked back with Moss. They spoke about the most important topic of the day. It was not how to get more money, but how to make promises they could keep. Moss said he could bake a few kinds of bread well, but not ten new kinds. Fia said she could talk to every supplier, but she could not promise to buy everything. They were learning the shape of a small shop. From the outside, it might look like little work. From the inside, they could already see how many careful choices stood behind one warm meal.",
+          "chinese": "月亮升起時，菲雅與莫斯往回走。他們談起當天最重要的話題：不是怎樣賺更多錢，而是怎樣許下做得到的承諾。莫斯說自己能把幾種麵包烤好，卻無法一下做十種新口味。菲雅說她能和每位供應者談，卻不能答應把所有東西都買下。他們正摸清一間小店的模樣。從外面看也許事情不多，但他們已看見一份熱早餐背後有多少謹慎選擇。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 4,
+          "english": "Kit's mother came from the barn with a basket of eggs. Fia told her that she did not want to buy too many at once. \"Then begin with a small basket,\" the farmer said. \"If people like your food, we can talk again.\" Fia felt grateful. There were many things she did not know, yet the farmer did not make her feel foolish. They talked through the plan together: a small order, a set day, and a clear price. Fia tied a yellow string around her notebook as a sign of the promise. It was simple enough for everyone to remember.",
+          "chinese": "基特的母親提著一籃蛋從穀倉走出。菲雅說不想一次買太多。「那就先買一小籃吧，」農場主人說，「如果大家喜歡，再來談。」菲雅很感激。她還有很多不懂的事，但對方沒有讓她覺得自己很笨。她們一起商量：少量訂購、固定日期、清楚價格。菲雅在筆記本上繫了一條黃細繩，當作約定的記號，簡單得人人都記得住。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

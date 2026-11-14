@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 7,
+  "chapterId": "ss-r10-l1-a-7",
+  "sourceChapterSha256": "65b588f7e59d4a31e32f08f4c501819f1e22d16e2f599a2b781c4fd67bb371ab",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "時鐘電池導致時間差；等二十分鐘測量影子位移",
+    "previousChapterEndingEnglish": "At the end, everyone took home a paper circle with a small window cut in it. Nia told families to look for the moon when they had a safe chance, not to go out alone at night. The homework was only to draw what they noticed. Arun set the museum box on a high shelf and kept the battery in a separate bag. When the last child left, Nia looked at the two drawings on the table. One showed a bright full moon; the other showed a small curve. Both had come from one ball and one light. She began to see why simple models were powerful: they let people test an idea with their own hands.",
+    "nextChapterOpeningEnglish": "The class planned a short evening visit to the city park. This would be their first chance to see a few real stars together. Nia wrote a note to every family: children must come with an adult, and nobody should walk away from the group. The park officer showed her a flat place near a bench, away from baseball games and the road. \"People come here to walk after dinner,\" he said. \"Please leave the path open.\" Nia agreed. She wanted the visit to be easy for Mrs. Sol and safe for the children. There would be no climbing, no running into the dark, and no big telescope to carry."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Nia believed the next lesson would be easy. She wanted to teach the class how the sky changed from day to night. She brought two clocks, one for the wall and one for her desk. As the children entered, the wall clock showed five, although it was just after ten in the morning. Finn laughed and said the clock wanted to dream about dinner. Nia laughed too, then noticed that the second clock was also wrong. She had put in an old battery. \"This is my error,\" she said. \"We must fix our clocks before we use them to talk about time.\" The children watched as she changed the battery.",
+        "zh": "妮雅原以為下一堂課很容易。她想教大家天空如何從白天變成夜晚，便帶來兩個時鐘，一個掛牆，一個放桌上。孩子們進教室時，牆上的鐘指著五點，但早上其實剛過十點。芬恩笑說這只鐘想夢見晚餐。妮雅也笑了，接著發現第二只鐘也不對，原來她裝了舊電池。「這是我的錯誤，」她說，「我們用時鐘談時間之前，得先把鐘修好。」孩子們看她換電池。",
+        "englishSha256": "96e155ef69613ebf5d0fe6f42376657102779594b80a7aa0fb8336396117388c",
+        "chineseSha256": "baf14a89fe203940539238fb87ffcfdfb7d70ef181721cc6ce2bfe9bb7a59dae"
+      },
+      {
+        "number": 2,
+        "en": "They went into the center yard, where the sun made a clear shadow under a tree. Ada put a short stick into a heavy base and drew a line around the shadow. Nia asked everyone to hear the noise of the street and then listen for quieter sounds. \"Nature is here even in the city,\" she said. Bo heard a bird. Mrs. Sol heard leaves move. They waited for twenty minutes and looked at the shadow again. It was in a different place. \"The sun seems to move across the sky,\" Nia explained. \"The shadow helps us see that change.\" The children looked proud, as if the yard had told them a secret.",
+        "zh": "他們走進中心院子，陽光在樹下照出清楚的影子。艾達把短棒放進穩固的底座，沿著影子畫一條線。妮雅請大家先聽街道的噪音，再找更安靜的聲音。「城市裡也有大自然，」她說。波聽見鳥鳴，索爾奶奶聽見樹葉移動。大家等了二十分鐘，再看影子，它已經換了位置。「太陽看起來會在天空中移動，」妮雅解釋，「影子能讓我們看見這個改變。」孩子們一臉驕傲，好像院子告訴了他們一個祕密。",
+        "englishSha256": "9c8a22bd74a6ac4ac7ad6a7ce68e4e421c3d10ec39bace8ad1d1326dbf12267c",
+        "chineseSha256": "bd6b96236a270b042d71a6d5ea4691788ead33eab6b3b64095932e0352e9ee64"
+      },
+      {
+        "number": 3,
+        "en": "A dark cloud covered the sun, and the shadow disappeared. \"Does that mean time has stopped?\" Finn asked. \"No,\" Ada answered. \"The clock keeps going even when we cannot see the shadow.\" She showed the children how to put a mark on the paper at each visit. Later, a little rainbow appeared near a water pipe. The group did not leave its work to chase it. They could see it from the path. Nia took a picture and asked whether the rainbow would still be there in an hour. Some said yes, and some said no. She wrote both ideas on the board instead of choosing a winner.",
+        "zh": "一片暗雲遮住太陽，影子消失了。「這代表時間停下了嗎？」芬恩問。「不會，」艾達回答，「就算看不到影子，時鐘還是會走。」她教孩子每次來都在紙上做記號。後來水管旁出現一小段彩虹。大家沒有離開工作去追它，站在小路上就看得到。妮雅拍了照片，問一小時後彩虹會不會還在。有些人說會，有些人說不會。她把兩種想法都寫在黑板上，沒有選出贏家。",
+        "englishSha256": "a4c3448c7f3534d6f9f92efaf4aa79cc1ae1b1c1bd35aee716fc02349bdc352c",
+        "chineseSha256": "f9edd7c06a081e0262a313291075b274661ae1ce585a4c1da63ac4b43f567ffc"
+      },
+      {
+        "number": 4,
+        "en": "After lunch, a woman came in wearing a rich blue coat. She said she could give the class a large clock if her name went on the wall. Nia thanked her for the offer, but said that she had to ask the center first. \"Our old clock may work after a new battery,\" she added. The woman seemed surprised. She had thought a new thing would always be better. Nia explained that the class was trying to use money carefully. They needed to keep the lessons open to every family. The woman looked at the small stick and the paper marks. \"Then I can help by giving paper,\" she said. Nia accepted that gift.",
+        "zh": "午餐後，一位穿著華麗藍外套的女士走進來。她說，只要把她的名字寫在牆上，就願意送班上一個大時鐘。妮雅謝謝她，但表示得先問過中心。「而且我們的舊鐘換電池也許就好了，」她補充。女士有些驚訝，原本以為新的東西一定比較好。妮雅解釋課程正努力節省經費，才能讓所有家庭都來上課。女士看著短棒和紙上的記號，改口說：「那我可以送一些紙。」妮雅接受了這份禮物。",
+        "englishSha256": "726ba880046c9c043ba5cffff25b5c0f20a7a467f18a14f5cc04f5af9aa9d2df",
+        "chineseSha256": "c0e01eb3c876c01c12ef022a6628633522220fc1c3a18a212ee9bed8324afef7"
+      },
+      {
+        "number": 5,
+        "en": "Earlier that same morning, Finn had rushed out of his bedroom without checking the clock in the kitchen. He thought the class was about to close, and he had run most of the way. His mother asked him to walk the last part slowly. \"I believe the notice says ten,\" she said. \"We have time.\" At the center, Nia was still setting out paper. Finn told her what had happened, and she began to laugh with him. It was a gentle laugh, not a laugh at his mistake. She showed him the correct time and the note on the door. They decided that next week the notice would show both the day and the start time in large numbers. A clear message, Finn learned, could save a worried morning.",
+        "zh": "當天稍早，芬恩沒檢查廚房的鐘，就急忙離開臥室。他以為教室快關門了，一路跑了大半段。媽媽請他最後一段慢慢走。「我相信通知寫的是十點，」她說，「我們還有時間。」到了中心，妮雅還在擺紙。芬恩告訴她剛才的事，她和他一起笑了。那是善意的笑，不是在嘲笑錯誤。她指給他看正確時間和門上的公告。兩人決定，下週公告要用大數字寫清楚日期和開始時間。芬恩明白，清楚的訊息可以省去一個擔心的早晨。",
+        "englishSha256": "ec5abc454b992e71d64d4cb81cdf4f8814dfb08222708913e9be3f02ddc0c4f2",
+        "chineseSha256": "8108a05e40bc2b98fcd7577a37ca03061ccf74d5f4e4fc8e94ee463979778645"
+      },
+      {
+        "number": 6,
+        "en": "That evening, Nia checked the clocks once more. One was five minutes slow, and the other kept good time. She wrote the problem in her notes because she did not want to forget it. She also wrote something else: a lesson was not ruined when an error appeared. The error could become a question. The stick in the yard had shown one kind of change; the clock on the wall had shown another. People could use both, as long as they knew what each one could and could not tell them. She closed the room, feeling less afraid of making mistakes in front of her students.",
+        "zh": "那天傍晚，妮雅又檢查一次時鐘。一只慢了五分鐘，另一只走得準。她把問題記進筆記，免得忘記。她還寫下一句話：出現錯誤，不代表課程毀了；錯誤也能變成問題。院子裡的短棒顯示一種改變，牆上的鐘顯示另一種。只要明白各自能告訴我們什麼、不能告訴我們什麼，兩者都能幫忙。她關上教室門，比以前更不害怕在學生面前犯錯。",
+        "englishSha256": "64fa3a42d5e650dc0301c3d5af7deadfc4e11a6bba5c70d271a0c4f427460cb4",
+        "chineseSha256": "32feb7a741c62527db5758a48525626dc37700dba7e5e90a825ee16172a6e79e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 680,
+    "targets": [
+      {
+        "word": "As",
+        "meaning": "像；當……時",
+        "appearsInSource": true
+      },
+      {
+        "word": "bedroom",
+        "meaning": "臥室",
+        "appearsInSource": true
+      },
+      {
+        "word": "believe",
+        "meaning": "相信",
+        "appearsInSource": true
+      },
+      {
+        "word": "clock",
+        "meaning": "時鐘",
+        "appearsInSource": true
+      },
+      {
+        "word": "close",
+        "meaning": "關上",
+        "appearsInSource": true
+      },
+      {
+        "word": "day",
+        "meaning": "一天",
+        "appearsInSource": true
+      },
+      {
+        "word": "dream",
+        "meaning": "夢",
+        "appearsInSource": true
+      },
+      {
+        "word": "error",
+        "meaning": "錯誤",
+        "appearsInSource": true
+      },
+      {
+        "word": "hear",
+        "meaning": "聽見",
+        "appearsInSource": true
+      },
+      {
+        "word": "just",
+        "meaning": "只；僅",
+        "appearsInSource": true
+      },
+      {
+        "word": "laugh",
+        "meaning": "笑",
+        "appearsInSource": true
+      },
+      {
+        "word": "Nature",
+        "meaning": "自然",
+        "appearsInSource": true
+      },
+      {
+        "word": "noise",
+        "meaning": "噪音",
+        "appearsInSource": true
+      },
+      {
+        "word": "proud",
+        "meaning": "驕傲的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rainbow",
+        "meaning": "彩虹",
+        "appearsInSource": true
+      },
+      {
+        "word": "rich",
+        "meaning": "濃艷的（顏色）",
+        "appearsInSource": true
+      },
+      {
+        "word": "sky",
+        "meaning": "天空",
+        "appearsInSource": true
+      },
+      {
+        "word": "time",
+        "meaning": "時間",
+        "appearsInSource": true
+      },
+      {
+        "word": "whether",
+        "meaning": "是否",
+        "appearsInSource": true
+      },
+      {
+        "word": "yard",
+        "meaning": "院子",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What is wrong at the start of the lesson?",
+      "options": [
+        "The clocks show the wrong time.",
+        "The door is missing.",
+        "The trees have no leaves."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The clocks show the wrong time.",
+      "existingAnswerExplanation": "妮雅的時鐘因電池問題顯示錯誤時間。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Nia believed the next lesson would be easy. She wanted to teach the class how the sky changed from day to night. She brought two clocks, one for the wall and one for her desk. As the children entered, the wall clock showed five, although it was just after ten in the morning. Finn laughed and said the clock wanted to dream about dinner. Nia laughed too, then noticed that the second clock was also wrong. She had put in an old battery. \"This is my error,\" she said. \"We must fix our clocks before we use them to talk about time.\" The children watched as she changed the battery.",
+          "chinese": "妮雅原以為下一堂課很容易。她想教大家天空如何從白天變成夜晚，便帶來兩個時鐘，一個掛牆，一個放桌上。孩子們進教室時，牆上的鐘指著五點，但早上其實剛過十點。芬恩笑說這只鐘想夢見晚餐。妮雅也笑了，接著發現第二只鐘也不對，原來她裝了舊電池。「這是我的錯誤，」她說，「我們用時鐘談時間之前，得先把鐘修好。」孩子們看她換電池。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "Earlier that same morning, Finn had rushed out of his bedroom without checking the clock in the kitchen. He thought the class was about to close, and he had run most of the way. His mother asked him to walk the last part slowly. \"I believe the notice says ten,\" she said. \"We have time.\" At the center, Nia was still setting out paper. Finn told her what had happened, and she began to laugh with him. It was a gentle laugh, not a laugh at his mistake. She showed him the correct time and the note on the door. They decided that next week the notice would show both the day and the start time in large numbers. A clear message, Finn learned, could save a worried morning.",
+          "chinese": "當天稍早，芬恩沒檢查廚房的鐘，就急忙離開臥室。他以為教室快關門了，一路跑了大半段。媽媽請他最後一段慢慢走。「我相信通知寫的是十點，」她說，「我們還有時間。」到了中心，妮雅還在擺紙。芬恩告訴她剛才的事，她和他一起笑了。那是善意的笑，不是在嘲笑錯誤。她指給他看正確時間和門上的公告。兩人決定，下週公告要用大數字寫清楚日期和開始時間。芬恩明白，清楚的訊息可以省去一個擔心的早晨。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What happens to the shadow after twenty minutes?",
+      "options": [
+        "It becomes a chair.",
+        "It moves to another place.",
+        "It turns blue."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "It moves to another place.",
+      "existingAnswerExplanation": "大家等了二十分鐘後，短棒的影子位置改變。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "They went into the center yard, where the sun made a clear shadow under a tree. Ada put a short stick into a heavy base and drew a line around the shadow. Nia asked everyone to hear the noise of the street and then listen for quieter sounds. \"Nature is here even in the city,\" she said. Bo heard a bird. Mrs. Sol heard leaves move. They waited for twenty minutes and looked at the shadow again. It was in a different place. \"The sun seems to move across the sky,\" Nia explained. \"The shadow helps us see that change.\" The children looked proud, as if the yard had told them a secret.",
+          "chinese": "他們走進中心院子，陽光在樹下照出清楚的影子。艾達把短棒放進穩固的底座，沿著影子畫一條線。妮雅請大家先聽街道的噪音，再找更安靜的聲音。「城市裡也有大自然，」她說。波聽見鳥鳴，索爾奶奶聽見樹葉移動。大家等了二十分鐘，再看影子，它已經換了位置。「太陽看起來會在天空中移動，」妮雅解釋，「影子能讓我們看見這個改變。」孩子們一臉驕傲，好像院子告訴了他們一個祕密。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 6,
+          "english": "That evening, Nia checked the clocks once more. One was five minutes slow, and the other kept good time. She wrote the problem in her notes because she did not want to forget it. She also wrote something else: a lesson was not ruined when an error appeared. The error could become a question. The stick in the yard had shown one kind of change; the clock on the wall had shown another. People could use both, as long as they knew what each one could and could not tell them. She closed the room, feeling less afraid of making mistakes in front of her students.",
+          "chinese": "那天傍晚，妮雅又檢查一次時鐘。一只慢了五分鐘，另一只走得準。她把問題記進筆記，免得忘記。她還寫下一句話：出現錯誤，不代表課程毀了；錯誤也能變成問題。院子裡的短棒顯示一種改變，牆上的鐘顯示另一種。只要明白各自能告訴我們什麼、不能告訴我們什麼，兩者都能幫忙。她關上教室門，比以前更不害怕在學生面前犯錯。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

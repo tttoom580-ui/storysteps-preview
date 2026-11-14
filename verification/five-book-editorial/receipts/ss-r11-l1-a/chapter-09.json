@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 9,
+  "chapterId": "ss-r11-l1-a-9",
+  "sourceChapterSha256": "a63304ae6f630400b6f646c8d1501ee5cfcc19114b2d0c16820d02d149c45df8",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "奶奶提供舊園藝卡作為社團的資料線索，艾薇得知可查閱公開的安全種子保存指南，不應將舊卡當成直接證據。",
+    "previousChapterEndingEnglish": "The leader returned with a useful detail. During the rain, someone had left a wet card on a park bench. It showed a drawing of three little leaves. “It might be from a school garden,” she said. Ivy asked to see the card, then compared it with Jun's drawings. The leaves looked familiar, but the writing was not theirs. It belonged to another school nearby. “We found the owner of one lost thing,” Ivy said. “That is still good.” The leader thanked her for being careful.",
+    "nextChapterOpeningEnglish": "At school Ivy met a student named Kai. He was blind and used a long cane to find his way. His older brother walked beside him, but Kai chose where to go. The garden path ran between two low beds of plants, and a ball from the nearby sports field sometimes hit the fence. Kai asked if there could be a clear way through the garden without anything under his feet. Ivy had been thinking about seeds; she had not thought enough about the path itself. She listened carefully."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The town held a spring festival beside the lake. Ivy visited with her grandmother, who loved to cook rice and tell stories about her long life. Grandmother brought an old garden card from home. On the back was a street name Ivy did not know. “Our town had a garden group before your school had one,” she explained. Ivy looked at the card and felt a little joy. Perhaps an older group could help them find the green box. She was ready to ask questions, but she would not turn the festival into a search party.",
+        "zh": "小鎮在湖邊舉辦春季節慶。艾薇和奶奶一起參加。奶奶喜歡煮飯，也喜歡說漫長人生中的故事。她從家裡帶來一張舊園藝卡，背面寫著艾薇不認識的街名。「在你們學校有園藝社之前，鎮上就有一個園藝團體，」奶奶解釋。艾薇看著卡片，心裡有一點喜悅。或許那個較早成立的團體能幫忙找綠箱子。她準備好提問，但不想把節慶變成尋物大隊。",
+        "englishSha256": "fca3f43fdf92237fcbe8f289951dafa72f9288c1ca3477e610e833bb873ca666",
+        "chineseSha256": "fc750dc91f1237317529a261e09ae9a09de46afd430881f4dba46f72056fde17"
+      },
+      {
+        "number": 2,
+        "en": "The woman at the seed table showed Ivy two small dishes. One held dry seeds, and the other held seeds that had been wet too long. “We have to treat each kind with care,” she said. “The right treatment depends on what has happened to it.” Ivy asked whether a seed that looked fine could still fail to grow. The woman said yes. She asked Ivy not to promise that every seed would become a plant. Ivy wrote that answer down. It was not a bad answer; it was simply the truth about living things.",
+        "zh": "種子桌旁的女子拿出兩個小碟子。一個裝乾燥的種子，另一個裝受潮太久的種子。「我們得小心處理每一種，」她說，「適當的處理方式要看它們經歷了什麼。」艾薇問，看起來完好的種子是否也可能不發芽。女子說有可能，並請艾薇不要保證每顆種子都能長成植物。艾薇把答案記下來。那不是壞答案，只是關於生命的真話。",
+        "englishSha256": "bf90fd3ecf7f0ca3b84e96131a5ddc00e3df231d1c7c540a3db2afcdcb7c7b19",
+        "chineseSha256": "af4df6d81cb9a7309e2e859c7eb5fa171e20ab7305f1341d65ef651375458034"
+      },
+      {
+        "number": 3,
+        "en": "They stopped at a table where people were sharing food. There was a banana dish, hot rice, and cold apple tea. The woman behind the table said, “O.K., you may look at our garden pictures.” Ivy thanked her. The old photographs showed groups of people planting trees by the lake. They looked quite different from the school's new garden. Grandmother pointed to a man in one photograph. “He showed me how to save seeds,” she said. “A small seed can be a kind gift.” Ivy liked that idea.",
+        "zh": "她們停在一張分享食物的桌旁，上面有香蕉料理、熱飯和冷蘋果茶。桌後的女子說：「好啊，你可以看看我們的園藝照片。」艾薇向她道謝。舊照片裡是一群群在湖邊種樹的人，和學校的新花園很不一樣。奶奶指著其中一張照片裡的男子。「他以前教我怎麼保存種子，」她說，「小小的種子也能是一份有心意的禮物。」艾薇很喜歡這個想法。",
+        "englishSha256": "e93bcf9bb443325708226254f545b88bec6600b7173754b7d97c2b5024a341d7",
+        "chineseSha256": "7821e272e80f9a7860c63fbb5b416330180f95ba571a7f9f83708be8c12837ef"
+      },
+      {
+        "number": 4,
+        "en": "A visitor asked about the missing box. Ivy gave a short answer and did not shout across the busy table. The woman offered one tip: the town garden group kept a public book of places that could store seeds. Ivy wrote down where to visit. She was not sure the green box had ever gone there, but this could help if their seeds needed new homes. The woman also explained how to treat seeds that had been wet. Some could dry safely; others might not grow. There was no way to know just by looking.",
+        "zh": "一位訪客問起失蹤的箱子。艾薇簡短回答，沒有隔著熱鬧的桌子大喊。那位女子給了一個建議：鎮上的園藝團體有一本公開手冊，列著能安全存放種子的地方。艾薇記下拜訪地點。她不確定綠箱子是否到過那裡，但如果他們需要替種子找新家，這個消息會有用。女子也說明受潮的種子應如何處理，有些能安全晾乾，有些可能不再發芽，光用眼睛看無法確定。",
+        "englishSha256": "09be4f38720b3ae80c5841eb934b4e511855b758a5c3442de9ccdc3a79fac1d2",
+        "chineseSha256": "fe4f23139a8852e20b0a195dc84ac464d098839fb993c6b4044144c32d3cfb10"
+      },
+      {
+        "number": 5,
+        "en": "On the way home, Grandmother told Ivy about her first little garden. She had tried to grow flowers in a place without enough light. Nothing grew well until a friend suggested moving the pots. “I thought I had done everything wrong,” Grandmother said, “but I had only made one small choice that needed to change.” Ivy thought of their missing box. The club had made no clear mistake yet, but it could still learn from the trouble. Her grandmother's story gave her patience for another day.",
+        "zh": "回家路上，奶奶說起自己第一個小花園。她曾在陽光不足的地方種花，結果什麼都長不好，直到朋友建議她移動花盆。「我那時以為自己全做錯了，」奶奶說，「但其實只是一個小選擇需要改變。」艾薇想起失蹤的箱子。社團還沒找到明確的錯誤，卻仍能從麻煩中學習。奶奶的故事讓她多了一點等待明天的耐心。",
+        "englishSha256": "07bbb31e2f25e9830a65b10d59c6c66393a2839aef37def10e62169535503af8",
+        "chineseSha256": "25d5193dabc663c6c7256b6299dbf6495cc32eb38d21bdefcaf847dbe9eaff1c"
+      },
+      {
+        "number": 6,
+        "en": "After a visit to the music tent, Grandmother asked whether Ivy wanted to spend the rest of the afternoon with her friends. Ivy said she would rather walk by the water with her. Grandmother laughed and took her hand. They watched a group of children dance and listened to a short song. The festival was not a place to solve every school problem. For one hour, Ivy let herself enjoy being a granddaughter. Her notebook stayed in her bag, and she did not feel sorry for resting.",
+        "zh": "到音樂帳篷走了一趟後，奶奶問艾薇要不要去找朋友，度過下午剩下的時間。艾薇說她更想陪奶奶沿著水邊散步。奶奶笑著牽起她的手。她們看孩子們跳舞，也聽了一首短歌。節慶不是用來解決每個校園問題的地方。那一個小時，艾薇讓自己好好當奶奶的孫女。筆記本留在袋子裡，她也不因休息而感到抱歉。",
+        "englishSha256": "62d42983525153c673867bf519c8f0b18dfd57fe5cf4ab1414137f85aa7a1b84",
+        "chineseSha256": "841f64ffead71177cb200206b5458f772b12c3bfa0851fb81ba263c4016b1534"
+      },
+      {
+        "number": 7,
+        "en": "That evening Ivy called Ms. Wen with the name of the public seed guide. The teacher said the guide could help them plan a second set of seeds if necessary. “You have found something useful, even if it is not the box,” she said. Ivy felt more sure of their next step. She would ask the town garden group about safe seed storage, while Jun and Ms. Wen continued checking school rooms. They had two small jobs instead of one giant, impossible search.",
+        "zh": "當晚，艾薇打電話給溫老師，告訴她公開種子指南的名稱。老師說，如果需要準備第二批種子，那份指南會很有幫助。「你找到的是有用的東西，即使它不是箱子，」老師說。艾薇更確定下一步該怎麼走。她要向鎮上園藝團體詢問安全的種子保存方式，俊和溫老師則繼續查看學校的房間。他們現在有兩件小工作，不必再把一切當成一場巨大的、不可能完成的搜尋。",
+        "englishSha256": "f63c373595ca40b0ad6418327cb5b26433df2a4c5f5dc2544bfff53ea059e114",
+        "chineseSha256": "6bce2d669659faeae62a5f35a5520c6381b0db125bf857334450769e92245f42"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 631,
+    "targets": [
+      {
+        "word": "and",
+        "meaning": "和",
+        "appearsInSource": true
+      },
+      {
+        "word": "back",
+        "meaning": "回去",
+        "appearsInSource": true
+      },
+      {
+        "word": "banana",
+        "meaning": "香蕉",
+        "appearsInSource": true
+      },
+      {
+        "word": "card",
+        "meaning": "卡片",
+        "appearsInSource": true
+      },
+      {
+        "word": "dish",
+        "meaning": "餐點",
+        "appearsInSource": true
+      },
+      {
+        "word": "festival",
+        "meaning": "節慶",
+        "appearsInSource": true
+      },
+      {
+        "word": "grandmother",
+        "meaning": "祖母",
+        "appearsInSource": true
+      },
+      {
+        "word": "joy",
+        "meaning": "快樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "lake",
+        "meaning": "湖",
+        "appearsInSource": true
+      },
+      {
+        "word": "life",
+        "meaning": "生活",
+        "appearsInSource": true
+      },
+      {
+        "word": "O.K.",
+        "meaning": "好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "quite",
+        "meaning": "相當",
+        "appearsInSource": true
+      },
+      {
+        "word": "ready",
+        "meaning": "準備好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rice",
+        "meaning": "米飯",
+        "appearsInSource": true
+      },
+      {
+        "word": "shout",
+        "meaning": "大喊",
+        "appearsInSource": true
+      },
+      {
+        "word": "street",
+        "meaning": "街道",
+        "appearsInSource": true
+      },
+      {
+        "word": "sure",
+        "meaning": "確定的",
+        "appearsInSource": true
+      },
+      {
+        "word": "tip",
+        "meaning": "建議",
+        "appearsInSource": true
+      },
+      {
+        "word": "treat",
+        "meaning": "照顧、處理",
+        "appearsInSource": true
+      },
+      {
+        "word": "visit",
+        "meaning": "拜訪",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Grandmother bring to the festival?",
+      "options": [
+        "An old garden card.",
+        "A broken pipe.",
+        "A green couch."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "An old garden card.",
+      "existingAnswerExplanation": "奶奶帶來一張舊園藝卡",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The town held a spring festival beside the lake. Ivy visited with her grandmother, who loved to cook rice and tell stories about her long life. Grandmother brought an old garden card from home. On the back was a street name Ivy did not know. “Our town had a garden group before your school had one,” she explained. Ivy looked at the card and felt a little joy. Perhaps an older group could help them find the green box. She was ready to ask questions, but she would not turn the festival into a search party.",
+          "chinese": "小鎮在湖邊舉辦春季節慶。艾薇和奶奶一起參加。奶奶喜歡煮飯，也喜歡說漫長人生中的故事。她從家裡帶來一張舊園藝卡，背面寫著艾薇不認識的街名。「在你們學校有園藝社之前，鎮上就有一個園藝團體，」奶奶解釋。艾薇看著卡片，心裡有一點喜悅。或許那個較早成立的團體能幫忙找綠箱子。她準備好提問，但不想把節慶變成尋物大隊。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 6,
+          "english": "After a visit to the music tent, Grandmother asked whether Ivy wanted to spend the rest of the afternoon with her friends. Ivy said she would rather walk by the water with her. Grandmother laughed and took her hand. They watched a group of children dance and listened to a short song. The festival was not a place to solve every school problem. For one hour, Ivy let herself enjoy being a granddaughter. Her notebook stayed in her bag, and she did not feel sorry for resting.",
+          "chinese": "到音樂帳篷走了一趟後，奶奶問艾薇要不要去找朋友，度過下午剩下的時間。艾薇說她更想陪奶奶沿著水邊散步。奶奶笑著牽起她的手。她們看孩子們跳舞，也聽了一首短歌。節慶不是用來解決每個校園問題的地方。那一個小時，艾薇讓自己好好當奶奶的孫女。筆記本留在袋子裡，她也不因休息而感到抱歉。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What useful information did Ivy get?",
+      "options": [
+        "Where to store seeds safely.",
+        "How to drive a truck.",
+        "How to fly a plane."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Where to store seeds safely.",
+      "existingAnswerExplanation": "艾薇得知可查閱公開的安全種子保存指南",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "A visitor asked about the missing box. Ivy gave a short answer and did not shout across the busy table. The woman offered one tip: the town garden group kept a public book of places that could store seeds. Ivy wrote down where to visit. She was not sure the green box had ever gone there, but this could help if their seeds needed new homes. The woman also explained how to treat seeds that had been wet. Some could dry safely; others might not grow. There was no way to know just by looking.",
+          "chinese": "一位訪客問起失蹤的箱子。艾薇簡短回答，沒有隔著熱鬧的桌子大喊。那位女子給了一個建議：鎮上的園藝團體有一本公開手冊，列著能安全存放種子的地方。艾薇記下拜訪地點。她不確定綠箱子是否到過那裡，但如果他們需要替種子找新家，這個消息會有用。女子也說明受潮的種子應如何處理，有些能安全晾乾，有些可能不再發芽，光用眼睛看無法確定。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 7,
+          "english": "That evening Ivy called Ms. Wen with the name of the public seed guide. The teacher said the guide could help them plan a second set of seeds if necessary. “You have found something useful, even if it is not the box,” she said. Ivy felt more sure of their next step. She would ask the town garden group about safe seed storage, while Jun and Ms. Wen continued checking school rooms. They had two small jobs instead of one giant, impossible search.",
+          "chinese": "當晚，艾薇打電話給溫老師，告訴她公開種子指南的名稱。老師說，如果需要準備第二批種子，那份指南會很有幫助。「你找到的是有用的東西，即使它不是箱子，」老師說。艾薇更確定下一步該怎麼走。她要向鎮上園藝團體詢問安全的種子保存方式，俊和溫老師則繼續查看學校的房間。他們現在有兩件小工作，不必再把一切當成一場巨大的、不可能完成的搜尋。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

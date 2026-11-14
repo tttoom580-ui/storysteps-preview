@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 19,
+  "chapterId": "tomorrow-19",
+  "sourceChapterSha256": "9c77f45ea8da13ad3d4b477dadd218b1b901ccd93baf828b661f95c6b4ef3c89",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "Zero 票數只算按鈕次數；禮堂音響於排練故障",
+    "previousChapterEndingEnglish": "Before bed, I recorded my own statement. I did not use music. I did not cut out the place where my voice shook. When I finished, I listened once and sent the text for a fact check. A message arrived from Kai. He wanted to talk before Friday's show. Below that, he wrote something I did not expect. I know where the numbers came from. They were never what you thought.",
+    "nextChapterOpeningEnglish": "For one terrible moment, I thought the school would use the broken speakers as a reason to skip the correction. Mr Reed looked at the silent hall, then at the printed program in his hand. “We can send another email,” he began. Ms Lin shook her head. “The notice and June's chosen statement are part of today's program. We need an accessible way to share them.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Friday morning, Kai met us in the counselor's room with his father. Ms Lin and my mother were there too. I had not agreed to meet him alone. His school shirt was clean, but one button sat in the wrong hole. For the first time, he looked like someone who had dressed too quickly, not someone ready for a stage. He placed a printed account record on the table.",
+        "zh": "星期五早上，Kai 與爸爸在輔導室見我們，林老師和我媽媽也在。我沒答應單獨見他。他襯衫乾淨，一顆鈕扣卻扣錯洞。第一次，他像匆忙穿衣的人，不像準備上台的人。他把帳號紀錄列印放桌上。",
+        "englishSha256": "44a8b9907ef75b98454af9519974f311bc8b63b38b1583c9d94cfa75bd1b6db4",
+        "chineseSha256": "8261194de90118f9c283984ced4f89785b438463484a65403c16a37b5cfdaac0"
+      },
+      {
+        "number": 2,
+        "en": "“The page didn't count people,” he said. “It counted button presses. One person could press again after opening the page another time.” Leo, who had joined with permission to explain the technical parts, shook his head slowly. “Then the number was never the number of students who believed something.” “No.” Kai looked at me. “And I could change what the front page showed. I changed yours to ninety-nine.”",
+        "zh": "「網頁算的不是人，是按鈕次數。同一個人重新開頁就能再按。」獲同意來說明技術的 Leo 慢慢搖頭。「所以數字從來不代表有多少學生相信。」「對。」Kai 看我。「而且我能改首頁顯示。我把妳的改成九十九。」",
+        "englishSha256": "3b42c604963f6f9c632c0931fa68c409aa5d25234d797add4e2642e2d139d048",
+        "chineseSha256": "cd840d54816564e8d89d433c5c3dc581e5545b4bade44fea53bf71a1b1309e5e"
+      },
+      {
+        "number": 3,
+        "en": "The early votes had counted real clicks, mixed with repeat clicks. Later, Kai had begun setting some of the public results himself. The saved draft and the account records showed when. The numbers had looked exact because exact numbers were easy to draw. They did not become honest just because they had a percent sign. I thought of the tight feeling in my chest at forty-nine and felt suddenly tired.",
+        "zh": "早期投票計算真實點擊，也混入重複點擊。後來 Kai 開始自行設定部分公開結果，草稿與帳號紀錄顯示了時間。數字看來精準，只因精準的數字很好畫；加百分比符號，不會變誠實。我想到看見四十九時胸口的緊，忽然很累。",
+        "englishSha256": "fec17ec964546d5a71f222dcade6e65fcaa7f5ade9dac440326553bb9b028ade",
+        "chineseSha256": "edf7d4a869fea0daed865c3a24c12f676bf3fd9ccb540905e648b5c45e1f700b"
+      },
+      {
+        "number": 4,
+        "en": "“Why?” I asked. It was a small word for such a large mess. Kai said the school show page was part of his application for a student media award. The more people used it, the better it looked. When kind questions stopped getting attention, cruel ones worked. “Then June wanted to shut it down,” he said. “I thought if people stopped trusting her, they would stop asking.”",
+        "zh": "「為什麼？」這麼小的字，要問這麼大的亂局。Kai 說校慶頁面是學生媒體獎申請的一部分，用的人越多越好看。友善題目沒關注後，殘忍的有用。「June 想把它關掉。我以為大家不信她，就不會再問。」",
+        "englishSha256": "e854b6c305008f78c0e57871a013223565ba5322804e8930e5c4bd134dca5443",
+        "chineseSha256": "fc29a219f5bdbc6b557689f56203a209d9a8704b8cf288a43f5ef96d5ac2e433"
+      },
+      {
+        "number": 5,
+        "en": "He admitted posting the short video and sending the threat about June's mother. The counselor wrote down his account and explained that the school would still check the records. His admission was not the end of the process. His father sat very still. I waited to feel victory. Instead, I felt the weight of how ordinary the reason was. More clicks. A prize. Not wanting to lose face.",
+        "zh": "他承認發布短片，也承認威脅 June 媽媽。輔導老師記錄，說學校仍會核對資料，承認不是程序終點。他爸爸坐得很僵。我等自己感覺勝利，卻只覺得理由普通得沉重：更多點擊、一個獎、不想丟臉。",
+        "englishSha256": "514d46f6c39e880397898d2523dc99d95cb9202a4adf4dbcd9cc6bfdbe4313a9",
+        "chineseSha256": "f3b691a7fcd9ca6c91de8aa1ada1696f25a5e9d2a29e13ff3da69e4099bd8872"
+      },
+      {
+        "number": 6,
+        "en": "Kai asked whether I would tell June he was sorry. “You can send a statement through Ms Lin,” I said. “She can choose whether to read it.” He nodded. Then he asked if I would mention that he had helped by giving the records. I looked at his wrong button. “I'll say what is true if it matters,” I said. “I won't make it the ending.”",
+        "zh": "Kai 問我能否轉告 June 抱歉。「可以透過林老師送聲明，她自己決定讀不讀。」他點頭，又問能否提他交紀錄幫忙。我看他扣錯的鈕扣。「如果相關，我會說實話，但不會把它當結局。」",
+        "englishSha256": "7fe3e537ff770167b7b6a3607637f3b93d5221c6a157476d54a093cfe90c49ac",
+        "chineseSha256": "be7826f8da4d5fa439aed227c10bae2cbb60ef21723462caa470b095cbb12f21"
+      },
+      {
+        "number": 7,
+        "en": "After the meeting, the school confirmed that Kai would not host the show while the review continued. The planned award application using the page was withdrawn. Those were immediate steps, not a final judgment about every student involved. The counselor told us there would be separate meetings and support, including for the people who had been pressured to pass the harm along. Sam did not have to sit across from Kai today.",
+        "zh": "會後學校確認調查期間 Kai 不再主持，使用該頁申請的獎項撤回。這些是立即措施，不是對所有相關學生的最終判斷。輔導老師說會分別會談並提供支持，包括受壓迫而轉嫁傷害的人。Sam 今天不必坐在 Kai 對面。",
+        "englishSha256": "4bfdec5553e6b2e20b73336cd7989fa54f31e631bcdb5275894da8ddc536c420",
+        "chineseSha256": "b41b8e94e6d8c2fc6d06a42fa740903c36e2afeb7aceef4f03810e9465decafa"
+      },
+      {
+        "number": 8,
+        "en": "Outside, Leo leaned against the wall. “I believed the number,” he said. “Even after I knew the code could be wrong.” I had too. We stood there until the first bell rang. This time nothing fell from a window. Then Ms Lin hurried toward us, holding her phone. The sound system had failed during practice. June's recording could not be played through the hall speakers. The show would start in twenty minutes.",
+        "zh": "外面，Leo 靠牆。「我相信過數字，即使知道程式可能有錯。」我也是。我們站到第一聲鐘響，這次沒東西從窗落下。接著林老師拿手機快步過來：排練時音響壞了，禮堂喇叭播不了 June 的錄音，二十分鐘後就開場。",
+        "englishSha256": "328b5c1ad91e5cd0fcf4dd351a4332a4f1a229bcf00d0d66a0144dc9f7a81863",
+        "chineseSha256": "e385bebdf831815b9a493e530f90bbed0aab99c22616077e4fe3bd129c563191"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 553,
+    "targets": [
+      {
+        "word": "count",
+        "meaning": "數；計算",
+        "appearsInSource": true
+      },
+      {
+        "word": "draw",
+        "meaning": "畫；拉",
+        "appearsInSource": true
+      },
+      {
+        "word": "kind",
+        "meaning": "善良的；種類",
+        "appearsInSource": true
+      },
+      {
+        "word": "large",
+        "meaning": "大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lose",
+        "meaning": "失去；輸掉",
+        "appearsInSource": true
+      },
+      {
+        "word": "media",
+        "meaning": "媒體",
+        "appearsInSource": true
+      },
+      {
+        "word": "nothing",
+        "meaning": "沒有東西；沒什麼",
+        "appearsInSource": true
+      },
+      {
+        "word": "pass",
+        "meaning": "通過；傳遞",
+        "appearsInSource": true
+      },
+      {
+        "word": "practice",
+        "meaning": "練習",
+        "appearsInSource": true
+      },
+      {
+        "word": "ready",
+        "meaning": "準備好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "reason",
+        "meaning": "理由",
+        "appearsInSource": true
+      },
+      {
+        "word": "repeat",
+        "meaning": "重複",
+        "appearsInSource": true
+      },
+      {
+        "word": "shirt",
+        "meaning": "襯衫",
+        "appearsInSource": true
+      },
+      {
+        "word": "sign",
+        "meaning": "標誌；簽名",
+        "appearsInSource": true
+      },
+      {
+        "word": "sit",
+        "meaning": "坐",
+        "appearsInSource": true
+      },
+      {
+        "word": "some",
+        "meaning": "一些",
+        "appearsInSource": true
+      },
+      {
+        "word": "sorry",
+        "meaning": "抱歉的；難過的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sound",
+        "meaning": "聲音；聽起來",
+        "appearsInSource": true
+      },
+      {
+        "word": "those",
+        "meaning": "那些",
+        "appearsInSource": true
+      },
+      {
+        "word": "tired",
+        "meaning": "疲倦的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Zero’s early numbers count?",
+      "options": [
+        "Button presses, including repeat presses.",
+        "Verified individual students only.",
+        "Only teachers in the school."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Button presses, including repeat presses.",
+      "existingAnswerExplanation": "Button presses, including repeat presses.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "“The page didn't count people,” he said. “It counted button presses. One person could press again after opening the page another time.” Leo, who had joined with permission to explain the technical parts, shook his head slowly. “Then the number was never the number of students who believed something.” “No.” Kai looked at me. “And I could change what the front page showed. I changed yours to ninety-nine.”",
+          "chinese": "「網頁算的不是人，是按鈕次數。同一個人重新開頁就能再按。」獲同意來說明技術的 Leo 慢慢搖頭。「所以數字從來不代表有多少學生相信。」「對。」Kai 看我。「而且我能改首頁顯示。我把妳的改成九十九。」",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 3,
+          "english": "The early votes had counted real clicks, mixed with repeat clicks. Later, Kai had begun setting some of the public results himself. The saved draft and the account records showed when. The numbers had looked exact because exact numbers were easy to draw. They did not become honest just because they had a percent sign. I thought of the tight feeling in my chest at forty-nine and felt suddenly tired.",
+          "chinese": "早期投票計算真實點擊，也混入重複點擊。後來 Kai 開始自行設定部分公開結果，草稿與帳號紀錄顯示了時間。數字看來精準，只因精準的數字很好畫；加百分比符號，不會變誠實。我想到看見四十九時胸口的緊，忽然很累。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What practical problem occurs shortly before the show?",
+      "options": [
+        "The piano has been stolen.",
+        "The hall's sound system fails.",
+        "Every stage door is locked."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The hall's sound system fails.",
+      "existingAnswerExplanation": "章末 Ms Lin 告知音響在排練時故障，June 的錄音無法透過大廳喇叭播放。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "Outside, Leo leaned against the wall. “I believed the number,” he said. “Even after I knew the code could be wrong.” I had too. We stood there until the first bell rang. This time nothing fell from a window. Then Ms Lin hurried toward us, holding her phone. The sound system had failed during practice. June's recording could not be played through the hall speakers. The show would start in twenty minutes.",
+          "chinese": "外面，Leo 靠牆。「我相信過數字，即使知道程式可能有錯。」我也是。我們站到第一聲鐘響，這次沒東西從窗落下。接著林老師拿手機快步過來：排練時音響壞了，禮堂喇叭播不了 June 的錄音，二十分鐘後就開場。",
+          "matchedQueryTerms": 3
+        },
+        {
+          "paragraph": 4,
+          "english": "“Why?” I asked. It was a small word for such a large mess. Kai said the school show page was part of his application for a student media award. The more people used it, the better it looked. When kind questions stopped getting attention, cruel ones worked. “Then June wanted to shut it down,” he said. “I thought if people stopped trusting her, they would stop asking.”",
+          "chinese": "「為什麼？」這麼小的字，要問這麼大的亂局。Kai 說校慶頁面是學生媒體獎申請的一部分，用的人越多越好看。友善題目沒關注後，殘忍的有用。「June 想把它關掉。我以為大家不信她，就不會再問。」",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

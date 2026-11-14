@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 8,
+  "chapterId": "tomorrow-8",
+  "sourceChapterSha256": "7d3c77cce47f31e0a40fab7463a19e3c8ee0c6558b956a5b8d3b50a6ed09c0eb",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "獨立音檔補足剪斷的六月聲音；要求看螢幕",
+    "previousChapterEndingEnglish": "I wanted to tell him I trusted him. I also wanted to ask exactly what he had kept. Both feelings were true, and neither made the other leave. I finally wrote, We check it with Ms Lin. Not alone. He sent back one word: Okay. Before I slept, I checked the Zero page once more. The vote was closed. Under Leo's name was a new title: The Boy Who Saved Everything.",
+    "nextChapterOpeningEnglish": "I asked to hear the rest. Ms Lin watched my face before she pressed play. In the recording, June said she had sent a copy to herself. Kai asked her to delete it. She said no. There was a loud scrape, then my voice, asking them both to stop. The sound broke for a moment. When it returned, Kai was laughing. “Who will they believe?” he asked."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Wednesday morning, Leo arrived at Ms Lin's room carrying a small gray drive. He held it with both hands, as if it were hot. I came early too, but he would not look at me. Ms Lin closed the door and put a sign outside saying she was in a meeting. Then she asked Leo what he wanted us to know before we opened anything.",
+        "zh": "星期三早上，Leo 雙手捧著小小的灰色硬碟來到林老師的教室，像它會燙人。我也提早到，但他不看我。老師關門，在門外放上會談中的牌子，問他在打開任何東西之前，希望我們先知道什麼。",
+        "englishSha256": "ff792ed0dbaa16122f82513f80bc4e066b17843ecb5b8f8f7e4c552c023121cc",
+        "chineseSha256": "183d27e824b49a8202405145e16d7861e2582cc991da5704b44d8dd56618b16e"
+      },
+      {
+        "number": 2,
+        "en": "“The school film team had a rule,” he said. “Keep the bad takes until the final film is done. I made a copy every Friday.” He placed the drive on her desk. “Then June left, and I kept making copies. I thought if something went wrong, I could put it back.” “What did you keep?” I asked. “Things nobody asked me to keep.” His ears turned red.",
+        "zh": "「電影小組有個規定，成片完成前要留失敗鏡頭，」他說，「我每週五做副本。」他把硬碟放桌上。「June 離開後，我還是繼續備份。我以為出事就能復原。」「你留了什麼？」我問。「沒有人要求我留下的東西。」他的耳朵紅了。",
+        "englishSha256": "5c995e35477d0492e9db30625b69d34589e37a5a5cf1e07902984e1c572cc57e",
+        "chineseSha256": "04143834957bf5061eb522c09c445e2e8e99a51557145af83464dc071267d40a"
+      },
+      {
+        "number": 3,
+        "en": "There were silly clips of me forgetting my lines. There was Sam crying after a phone call, caught in the corner of a wide shot. There was a teacher taking off his shoes because they hurt. Little pieces of people, taken when they thought the camera was looking elsewhere. Leo had not shared them. But he had held them for months, and that mattered too.",
+        "zh": "有我忘詞的傻片段，有 Sam 接完電話，在全景鏡頭角落哭泣，有老師因為腳痛脫鞋。那些人以為鏡頭看著別處時，被留下的小片段。Leo 沒有分享過，卻保留了好幾個月。這件事也重要。",
+        "englishSha256": "40a94f36b3b0d62bebbad10737af53de351e98a00422b358c9e1815ba5c77603",
+        "chineseSha256": "04ecb6d09967e9cf02b12dddb9a9e40760ba52ed4c2111dbb7f7959ca7095729"
+      },
+      {
+        "number": 4,
+        "en": "Ms Lin did not play every file. She asked for the dates related to June's last day. Then she made a record of what we opened. “We will arrange safe storage and remove unrelated personal clips after checking what needs to be kept,” she said. “People deserve a say in their own images.” Leo nodded. He looked relieved and miserable at exactly the same time.",
+        "zh": "林老師沒有播放所有檔案，只問與 June 最後一天有關的日期，並記錄我們開啟的內容。「我們會安排安全保存，確認需要保留什麼後刪掉無關的私人影片，」她說，「人應該能決定自己的影像如何使用。」Leo 點頭，看起來同時鬆一口氣又很難受。",
+        "englishSha256": "68306f3d6e94668971efaedf1c8958f45e0da5c307ffb47dfd52168de9d16445",
+        "chineseSha256": "d784ae5b2026ead302d13467fdc402ddab93e3b07c1777a7198a35d802c5f385"
+      },
+      {
+        "number": 5,
+        "en": "The folder from six weeks ago had twenty-three files. One was called room-final. It was the twelve-second clip we knew. Another was called room-full. My heart began beating faster. Leo clicked it. The screen showed the student room, but the picture stopped after one second. A message said the file could not open. He tried again. Same result. “It was damaged during the copy,” he said.",
+        "zh": "六週前的資料夾有二十三個檔案。room-final 是熟悉的十二秒短片，另一個叫 room-full。我的心越跳越快。Leo 按開，畫面顯示學生會辦公室，一秒後就停住。訊息說無法開啟。他再試，結果一樣。「複製時損壞了。」",
+        "englishSha256": "32230cb91942bde3b86e32695539b60fe7654a1f82468b6329356c65b18a1228",
+        "chineseSha256": "ae11e67e094cc76b491251b3a6197b5d1eea2440c7c2ae36be53d30034b07a7c"
+      },
+      {
+        "number": 6,
+        "en": "I wanted to shake the little gray drive. We had found the truth, and it was locked inside a broken thing. Ms Lin told us not to keep changing the file. The school's computer teacher could check a copy without touching the original. Then Leo opened the file list in a different view. Beside room-full was a second file, much smaller. It had the same time and date.",
+        "zh": "我好想搖那個灰硬碟。我們找到真相，卻被鎖在壞掉的東西裡。林老師叫我們別一直修改檔案，可以讓資訊老師檢查副本，不動原檔。Leo 接著換了檔案清單的檢視方式。room-full 旁有個較小的檔案，時間日期相同。",
+        "englishSha256": "bc13e49898b1085a34fbe53269660b55ee44dfe712388766064639ab9149e8d9",
+        "chineseSha256": "e980e39004badefba9d1ef557672b1c83263f644f06abcc841a1873af99ad45d"
+      },
+      {
+        "number": 7,
+        "en": "“Sound,” he said. “The camera saved sound on its own when we used the old microphone.” Ms Lin asked if we were ready. I said yes too fast. Leo pressed play. We heard a chair move. We heard June say, “You made a game out of him.” Then Kai's voice answered, low and clear. “He can leave the list. Everyone can. They only have to choose someone else.”",
+        "zh": "「聲音，」他說，「用舊麥克風時，相機會另外存聲音。」林老師問我們準備好沒，我回答得太快。Leo 播放，傳來椅子移動聲，接著是 June：「你把他變成遊戲了。」Kai 的聲音低而清楚：「他可以離開名單，每個人都行，只要再選別人。」",
+        "englishSha256": "4c2fe9506abce148f791474d1b89cd73a596e7237c38d185020a868ab8289324",
+        "chineseSha256": "4cb55e874d3954658396a972b0f61b7e4cc96b4ee15d3aebb741fdd824ff240c"
+      },
+      {
+        "number": 8,
+        "en": "The recording continued. My own footsteps entered the room. June grabbed the phone. I told her to stop. Then, at the place where the short video ended, June spoke again. “Mia, look at the screen. Please look.” I had not looked. In the recording, I heard myself answer instead. “Just give it back.” Ms Lin stopped the sound gently. Nobody in the room was looking at me now.",
+        "zh": "錄音繼續，我的腳步聲進了房間。June 拿手機，我叫她停。在短片結束的位置，June 再次開口：「Mia，看看螢幕，拜託妳看。」我沒看。錄音裡，我只回答：「還給他就好了。」林老師輕輕停止播放。此刻房裡沒有人看著我。",
+        "englishSha256": "731649d7467bdc851e35d59c0d61330bc9c67c494a79b6a54735817d0dd7df76",
+        "chineseSha256": "049f5dd490d3aa7aaca67b35236d7b92bbbd554c1e4523bc6f1fe05b780b4547"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 533,
+    "targets": [
+      {
+        "word": "camera",
+        "meaning": "相機；攝影機",
+        "appearsInSource": true
+      },
+      {
+        "word": "choose",
+        "meaning": "選擇",
+        "appearsInSource": true
+      },
+      {
+        "word": "computer",
+        "meaning": "電腦",
+        "appearsInSource": true
+      },
+      {
+        "word": "corner",
+        "meaning": "角落",
+        "appearsInSource": true
+      },
+      {
+        "word": "drive",
+        "meaning": "開車；硬碟",
+        "appearsInSource": true
+      },
+      {
+        "word": "early",
+        "meaning": "早的；提早地",
+        "appearsInSource": true
+      },
+      {
+        "word": "full",
+        "meaning": "滿的；完整的",
+        "appearsInSource": true
+      },
+      {
+        "word": "gray",
+        "meaning": "灰色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hot",
+        "meaning": "熱的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hurt",
+        "meaning": "傷害；受傷",
+        "appearsInSource": true
+      },
+      {
+        "word": "list",
+        "meaning": "清單",
+        "appearsInSource": true
+      },
+      {
+        "word": "little",
+        "meaning": "小的；少量的",
+        "appearsInSource": true
+      },
+      {
+        "word": "look",
+        "meaning": "看；樣子",
+        "appearsInSource": true
+      },
+      {
+        "word": "low",
+        "meaning": "低的",
+        "appearsInSource": true
+      },
+      {
+        "word": "meeting",
+        "meaning": "會議；會面",
+        "appearsInSource": true
+      },
+      {
+        "word": "morning",
+        "meaning": "早上",
+        "appearsInSource": true
+      },
+      {
+        "word": "much",
+        "meaning": "很多",
+        "appearsInSource": true
+      },
+      {
+        "word": "nobody",
+        "meaning": "沒有人",
+        "appearsInSource": true
+      },
+      {
+        "word": "not",
+        "meaning": "不",
+        "appearsInSource": true
+      },
+      {
+        "word": "rule",
+        "meaning": "規則",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why is the separate sound file important?",
+      "options": [
+        "It contains tomorrow’s weather.",
+        "It contains words missing from the short video.",
+        "It proves all the files are safe to share."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "It contains words missing from the short video.",
+      "existingAnswerExplanation": "It contains words missing from the short video.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "The recording continued. My own footsteps entered the room. June grabbed the phone. I told her to stop. Then, at the place where the short video ended, June spoke again. “Mia, look at the screen. Please look.” I had not looked. In the recording, I heard myself answer instead. “Just give it back.” Ms Lin stopped the sound gently. Nobody in the room was looking at me now.",
+          "chinese": "錄音繼續，我的腳步聲進了房間。June 拿手機，我叫她停。在短片結束的位置，June 再次開口：「Mia，看看螢幕，拜託妳看。」我沒看。錄音裡，我只回答：「還給他就好了。」林老師輕輕停止播放。此刻房裡沒有人看著我。",
+          "matchedQueryTerms": 3
+        },
+        {
+          "paragraph": 4,
+          "english": "Ms Lin did not play every file. She asked for the dates related to June's last day. Then she made a record of what we opened. “We will arrange safe storage and remove unrelated personal clips after checking what needs to be kept,” she said. “People deserve a say in their own images.” Leo nodded. He looked relieved and miserable at exactly the same time.",
+          "chinese": "林老師沒有播放所有檔案，只問與 June 最後一天有關的日期，並記錄我們開啟的內容。「我們會安排安全保存，確認需要保留什麼後刪掉無關的私人影片，」她說，「人應該能決定自己的影像如何使用。」Leo 點頭，看起來同時鬆一口氣又很難受。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does June ask Mia to do in the part after the short video's cut?",
+      "options": [
+        "Look at the screen.",
+        "Take the gray drive home.",
+        "Turn off the classroom lights."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Look at the screen.",
+      "existingAnswerExplanation": "完整錄音中，June 在短片剪斷的位置之後說 Mia, look at the screen. Please look.。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "The recording continued. My own footsteps entered the room. June grabbed the phone. I told her to stop. Then, at the place where the short video ended, June spoke again. “Mia, look at the screen. Please look.” I had not looked. In the recording, I heard myself answer instead. “Just give it back.” Ms Lin stopped the sound gently. Nobody in the room was looking at me now.",
+          "chinese": "錄音繼續，我的腳步聲進了房間。June 拿手機，我叫她停。在短片結束的位置，June 再次開口：「Mia，看看螢幕，拜託妳看。」我沒看。錄音裡，我只回答：「還給他就好了。」林老師輕輕停止播放。此刻房裡沒有人看著我。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "On Wednesday morning, Leo arrived at Ms Lin's room carrying a small gray drive. He held it with both hands, as if it were hot. I came early too, but he would not look at me. Ms Lin closed the door and put a sign outside saying she was in a meeting. Then she asked Leo what he wanted us to know before we opened anything.",
+          "chinese": "星期三早上，Leo 雙手捧著小小的灰色硬碟來到林老師的教室，像它會燙人。我也提早到，但他不看我。老師關門，在門外放上會談中的牌子，問他在打開任何東西之前，希望我們先知道什麼。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

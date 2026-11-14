@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 17,
+  "chapterId": "ss-r2-l1-b-17",
+  "sourceChapterSha256": "ae0ddeac8ab15ef726c41e7b5b243db11cf1193e787f93c022cbf8482c0e5448",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "托馬檢查牆與乾貨架安全，皮普分送種子",
+    "previousChapterEndingEnglish": "At closing time, Fia looked at the new page beside the menu. She hoped it would never be needed, but it made her feel calmer. Grandfather Oak stood at the door with his map. \"Keep a copy,\" he told her. \"The sea and the hills teach us to look ahead.\" Fia thanked him and promised to return the original paper safely. She shut the door, then stood under the wooden star for a quiet moment. A good shop was not just a place for sunny mornings. It had to be part of the village on hard days, too.",
+    "nextChapterOpeningEnglish": "One morning, a bus did not come along the road at the usual time. Children from the school had planned a trip to the zoo, but the road near the hill was wet and hard to use. Their teacher brought them to the red house to wait for news. Fia had just made a dozen small bread rolls. \"There is enough for a little snack,\" she said, \"but first we need to know how long you may stay.\" The teacher explained that the bus company would send a message soon. Fia gave the children clean seats and asked them to keep the door clear."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Fia asked the village helpers to meet in a circle outside the shop. She wanted to build a small dry shelf in the back room, where food could stay away from rainwater. Toma said the idea was good, but he needed to test the wall first. Moss brought a pair of old boards, and Pip carried a bag of tools. Everyone was excited to help. A child came with a drum and played a short beat for the workers. \"That is the best work song I have heard,\" Moss said. Fia laughed, but asked the child to keep the path clear while the boards were moving.",
+        "zh": "菲雅請村裡的幫手在店外圍成一個圓圈開會。她想在後房做一個乾燥架，讓食物遠離雨水。托馬說想法很好，但得先測試牆面。莫斯帶來一對舊木板，皮普提著工具袋。大家都很興奮。孩子帶著小鼓，替工作的人敲了一段節奏。「這是我聽過最棒的工作歌。」莫斯說。菲雅笑了，也請孩子在搬木板時讓通道保持空曠。",
+        "englishSha256": "18ecf56ee81b2734ba6621b34a4bb705d99a65cf0f1aabd1a723da31dbcd6ab4",
+        "chineseSha256": "663e3c114e6d2407e72f19b99d890541631f80b80785e660b769827bc6584010"
+      },
+      {
+        "number": 2,
+        "en": "Edda's mother, an old owl, joined the meeting. She had much knowledge of the village houses. \"I remember when this house had a dry store room,\" she said. \"The shelf stood near the inside wall, not the window.\" Toma asked to see the room. He checked the wood with his hand and found it strong. The old owl was wise, but she did not expect everyone to accept her words without looking. \"Test it,\" she said. \"Old memories can help, and new eyes can check them.\" Fia liked that thought. It was the same way they had learned to make safe food.",
+        "zh": "艾達的母親是一隻老貓頭鷹，也來參加會議。她很熟悉村裡房屋。「我記得這裡以前有乾燥儲藏室，」她說，「架子在內牆旁，不在窗邊。」托馬進屋查看，用手檢查木頭，發現很牢固。老貓頭鷹雖有智慧，卻不要求大家不經檢查就相信她。「測試看看吧，」她說，「舊記憶能幫忙，新眼光能核對。」菲雅喜歡這個想法。他們學做安全食物時也是如此。",
+        "englishSha256": "c22ad37f17856f5caacb6b632de5512bb14040849028ce7e752b89768e6603a7",
+        "chineseSha256": "795ebbfb798098bf6bb22a8ebb5d823fc44b6c51dbfe88a70b278134873bb9d0"
+      },
+      {
+        "number": 3,
+        "en": "A lawyer who lived near the school came to ask about the house. Fia showed him the paper that Edda had given her. He explained that she could use the room for breakfast work while the village cared for the building. If they wanted to change a wall, they had to ask first. \"We do not need to change the wall,\" Toma said. \"We can make a shelf that stands on the floor.\" The lawyer said that was a sensible plan. Fia felt glad they had asked. The friends could make things with their hands and still follow the village rules.",
+        "zh": "住在學校旁的律師來詢問房屋的使用。菲雅拿出艾達交給她的文件。律師解釋，村子仍負責房屋維護，而菲雅可以用房間做早餐；若要改動牆體，須先取得同意。「我們不用動牆，」托馬說，「可以做站在地上的架子。」律師認為很合理。菲雅很高興有先問清楚。朋友們可以親手做事，也能遵守村子的規範。",
+        "englishSha256": "cb196ed220f6c2f8a8018fd250fecb7b6d9c544246279bca47f2a662852e317e",
+        "chineseSha256": "2836b9db9e2cd812fd6e0f22fab0b6702f148dd075a6cf7f9c01682956e1173a"
+      },
+      {
+        "number": 4,
+        "en": "They worked while the child played the drum softly. Moss held one board, and Toma put the other in place. Pip marked where the shelf legs should go. Fia carried a box of clean tools. Most of the work was slow and quiet. Nobody had to throw heavy wood or hurry with sharp tools. When the shelf stood straight, Toma gave it a light push to test it. It stayed in place. \"Now we should test it with one small bag,\" he said. They tried that, too, before putting any food on the new shelf.",
+        "zh": "孩子輕敲鼓時，大家開始工作。莫斯扶著一塊木板，托馬把另一塊放好，皮普標出架腳的位置，菲雅提著乾淨工具箱。大部分工作緩慢而安靜，沒人需要拋擲重木材或拿著尖工具急忙奔跑。架子站直後，托馬輕推測試，架子沒有移動。「現在用一小袋東西試試。」他說。大家照做，確認安全才開始放食物。",
+        "englishSha256": "33b428fbf094e3f926a2890bba6b7ac7f80dccb28179996f8250cd1ca9038708",
+        "chineseSha256": "cffb7390f69c3c36d27ccc5b97fc24ff8042a1521486cec9f1187fc511f40b7f"
+      },
+      {
+        "number": 5,
+        "en": "At the end of the day, Pip gave each friend one seed from his garden. \"Remember today when you plant it,\" he said. \"One person cannot do everything, but a group can do more.\" Fia put her seed in a small paper bag. She thought about the many people who had helped since the beginning: Kit, Toma, Edda, Mrs. Fern, Lark, and the old neighbors. Each had brought something different. They had made the shop strong not by being the same, but by giving what they could. She wanted to remember that whenever the work felt too heavy.",
+        "zh": "一天結束時，皮普給每位朋友一顆花園種子。「種下時記得今天，」他說，「一個人做不到全部，一群人能做得更多。」菲雅把種子收進小紙袋。她想起開店以來許多幫過忙的人：基特、托馬、艾達、芬恩太太、拉克和老鄰居。每個人帶來的都不同。讓小店變強的，不是大家都一樣，而是各自提供能力所及的幫助。她希望工作太重時，也能記得這件事。",
+        "englishSha256": "d9206d08fa8ccada493ed06c01428653375daaa1a9f65597ef0135e07ddc1d6d",
+        "chineseSha256": "3d43832ce43b7dcce6da9a115319f1aad80168da40c3bdb4ae170d2cf05dc237"
+      },
+      {
+        "number": 6,
+        "en": "Before going home, Fia looked at the shelf from the door. It was plain wood, but it could keep bread dry on a rainy day. She thanked Toma for his careful work and asked him to show Moss how to check it each week. \"Everything we build needs care later,\" Toma said. Fia nodded. The shelf was not a great new building, only one small answer to a real problem. It made her feel better about the coming rainy season. The friends left in pairs, talking softly as the evening light fell across the road. Fia put one final note in the book. She wanted the shelf to stay useful long after this happy work day, not just look good when everyone was watching.",
+        "zh": "回家前，菲雅從門口看著架子。它只是普通木材，卻能在下雨天替麵包擋水。她謝謝托馬細心施工，請他教莫斯每週檢查的方法。「做好的東西，以後也要照顧。」托馬說。菲雅點頭。那不是什麼偉大建築，只是解決真實問題的小小答案，卻讓她面對雨季安心不少。朋友們兩兩結伴離開，在晚霞落上道路時輕聲交談。 菲雅最後在本子裡補上一筆。她希望架子在快樂的工作日結束後仍然有用，而不只是大家看著時才好看。",
+        "englishSha256": "2bbe49624f341b235c72ab088b74e5de1bcd374e024a953873c34f3b56f40220",
+        "chineseSha256": "4410e8911c07d774469a959ba860398675ce58599b7c0d41c901e60548f7cf68"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 626,
+    "targets": [
+      {
+        "word": "best",
+        "meaning": "最好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "build",
+        "meaning": "建造",
+        "appearsInSource": true
+      },
+      {
+        "word": "circle",
+        "meaning": "圓圈",
+        "appearsInSource": true
+      },
+      {
+        "word": "drum",
+        "meaning": "鼓",
+        "appearsInSource": true
+      },
+      {
+        "word": "everything",
+        "meaning": "每件事",
+        "appearsInSource": true
+      },
+      {
+        "word": "excited",
+        "meaning": "興奮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "friend",
+        "meaning": "朋友",
+        "appearsInSource": true
+      },
+      {
+        "word": "hand",
+        "meaning": "手",
+        "appearsInSource": true
+      },
+      {
+        "word": "knowledge",
+        "meaning": "知識",
+        "appearsInSource": true
+      },
+      {
+        "word": "lawyer",
+        "meaning": "律師",
+        "appearsInSource": true
+      },
+      {
+        "word": "Most",
+        "meaning": "大部分",
+        "appearsInSource": true
+      },
+      {
+        "word": "mother",
+        "meaning": "母親",
+        "appearsInSource": true
+      },
+      {
+        "word": "old",
+        "meaning": "年老的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pair",
+        "meaning": "一對",
+        "appearsInSource": true
+      },
+      {
+        "word": "remember",
+        "meaning": "記得",
+        "appearsInSource": true
+      },
+      {
+        "word": "seed",
+        "meaning": "種子",
+        "appearsInSource": true
+      },
+      {
+        "word": "test",
+        "meaning": "測試",
+        "appearsInSource": true
+      },
+      {
+        "word": "throw",
+        "meaning": "丟出",
+        "appearsInSource": true
+      },
+      {
+        "word": "while",
+        "meaning": "當……時",
+        "appearsInSource": true
+      },
+      {
+        "word": "wise",
+        "meaning": "明智的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Toma test the wall and shelf?",
+      "options": [
+        "To make sure the work is safe",
+        "To hide the tools",
+        "To paint the room"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To make sure the work is safe",
+      "existingAnswerExplanation": "托馬先測試牆面與架子，確認安全可靠。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Edda's mother, an old owl, joined the meeting. She had much knowledge of the village houses. \"I remember when this house had a dry store room,\" she said. \"The shelf stood near the inside wall, not the window.\" Toma asked to see the room. He checked the wood with his hand and found it strong. The old owl was wise, but she did not expect everyone to accept her words without looking. \"Test it,\" she said. \"Old memories can help, and new eyes can check them.\" Fia liked that thought. It was the same way they had learned to make safe food.",
+          "chinese": "艾達的母親是一隻老貓頭鷹，也來參加會議。她很熟悉村裡房屋。「我記得這裡以前有乾燥儲藏室，」她說，「架子在內牆旁，不在窗邊。」托馬進屋查看，用手檢查木頭，發現很牢固。老貓頭鷹雖有智慧，卻不要求大家不經檢查就相信她。「測試看看吧，」她說，「舊記憶能幫忙，新眼光能核對。」菲雅喜歡這個想法。他們學做安全食物時也是如此。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "Fia asked the village helpers to meet in a circle outside the shop. She wanted to build a small dry shelf in the back room, where food could stay away from rainwater. Toma said the idea was good, but he needed to test the wall first. Moss brought a pair of old boards, and Pip carried a bag of tools. Everyone was excited to help. A child came with a drum and played a short beat for the workers. \"That is the best work song I have heard,\" Moss said. Fia laughed, but asked the child to keep the path clear while the boards were moving.",
+          "chinese": "菲雅請村裡的幫手在店外圍成一個圓圈開會。她想在後房做一個乾燥架，讓食物遠離雨水。托馬說想法很好，但得先測試牆面。莫斯帶來一對舊木板，皮普提著工具袋。大家都很興奮。孩子帶著小鼓，替工作的人敲了一段節奏。「這是我聽過最棒的工作歌。」莫斯說。菲雅笑了，也請孩子在搬木板時讓通道保持空曠。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Pip give each helper?",
+      "options": [
+        "A seed",
+        "A coin",
+        "A kite"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A seed",
+      "existingAnswerExplanation": "皮普送每位幫手一顆種子作為紀念。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "At the end of the day, Pip gave each friend one seed from his garden. \"Remember today when you plant it,\" he said. \"One person cannot do everything, but a group can do more.\" Fia put her seed in a small paper bag. She thought about the many people who had helped since the beginning: Kit, Toma, Edda, Mrs. Fern, Lark, and the old neighbors. Each had brought something different. They had made the shop strong not by being the same, but by giving what they could. She wanted to remember that whenever the work felt too heavy.",
+          "chinese": "一天結束時，皮普給每位朋友一顆花園種子。「種下時記得今天，」他說，「一個人做不到全部，一群人能做得更多。」菲雅把種子收進小紙袋。她想起開店以來許多幫過忙的人：基特、托馬、艾達、芬恩太太、拉克和老鄰居。每個人帶來的都不同。讓小店變強的，不是大家都一樣，而是各自提供能力所及的幫助。她希望工作太重時，也能記得這件事。",
+          "matchedQueryTerms": 2
+        },
+        {
+          "paragraph": 1,
+          "english": "Fia asked the village helpers to meet in a circle outside the shop. She wanted to build a small dry shelf in the back room, where food could stay away from rainwater. Toma said the idea was good, but he needed to test the wall first. Moss brought a pair of old boards, and Pip carried a bag of tools. Everyone was excited to help. A child came with a drum and played a short beat for the workers. \"That is the best work song I have heard,\" Moss said. Fia laughed, but asked the child to keep the path clear while the boards were moving.",
+          "chinese": "菲雅請村裡的幫手在店外圍成一個圓圈開會。她想在後房做一個乾燥架，讓食物遠離雨水。托馬說想法很好，但得先測試牆面。莫斯帶來一對舊木板，皮普提著工具袋。大家都很興奮。孩子帶著小鼓，替工作的人敲了一段節奏。「這是我聽過最棒的工作歌。」莫斯說。菲雅笑了，也請孩子在搬木板時讓通道保持空曠。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

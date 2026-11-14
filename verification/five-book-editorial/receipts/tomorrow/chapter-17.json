@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "tomorrow",
+  "title": "明天，別來學校",
+  "chapter": 17,
+  "chapterId": "tomorrow-17",
+  "sourceChapterSha256": "d95a9c0312ed80a701c7581d7a4d59467c91a28b8c5c991cd55cb4ea9933f629",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "Ada 承認早期推廣 Zero 並用共用帳號；六月禁設後續投票",
+    "previousChapterEndingEnglish": "When I went back upstairs, June had sent another message. I want the correction where the lie was loudest. Not just in an office email. Below it was a voice file. I hesitated before opening it. This time it was her voice, whole and steady. “My name is June Park,” she said. “You have seen twelve seconds of me. That is not the same as knowing what happened.”",
+    "nextChapterOpeningEnglish": "June said the school wanted to end her recording with a question on the screen: What have we learned? Under it, students would choose from three answers. The idea had probably seemed helpful in a meeting. To June, it was another box asking people to press something after looking at her life. “I don't want my worst week turned into a lesson with points,” she said."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 8,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Ada came to my house that night with her father. Mum made tea while the two adults spoke in the kitchen. We sat at the dining table, where the light was much too bright for secrets. Ada brought her laptop, but she did not open it immediately. She placed both hands flat on the table. “I helped make the first page,” she said. “Before it was called Zero.”",
+        "zh": "那晚 Ada 和爸爸到我家。媽媽泡茶，大人在廚房談，我們坐餐桌，燈亮得不適合藏秘密。Ada 帶筆電卻沒立刻打開，雙手平放桌面。「最早的網頁是我幫忙做的，那時還不叫 Zero。」",
+        "englishSha256": "6fcb9a551e578f65249e50bc498575c012bc98eaaefe2fd600a089c08fd3297a",
+        "chineseSha256": "f406a414d62883052073588cc5ed48342be8fbc6b1a9e8f7984f4820263a9b37"
+      },
+      {
+        "number": 2,
+        "en": "It began as a vote about the school show: which song, which poster, which food. Ada made the pictures and Kai wrote the questions. Students liked it because it changed every day. “Then he asked which teacher had the worst shoes,” she said. “People laughed. I laughed.” After that came students' clothes, voices, and faces. Each step was small enough to pretend the next one was no different.",
+        "zh": "一開始只是校慶投票：歌曲、海報、食物。Ada 做圖，Kai 寫題目。每天更新，學生很喜歡。「後來他問哪個老師鞋子最醜，大家笑，我也笑。」接著輪到學生衣服、聲音、臉。每一步都小到能假裝下一步沒有不同。",
+        "englishSha256": "0a6a5caa44b882e46687255c729e408ef5884ccdc0078196cd1295e454de6ded",
+        "chineseSha256": "79ae2c899752433f9a3e7a2236a7dbbc299efe247974fe15205642cd079138d5"
+      },
+      {
+        "number": 3,
+        "en": "“You could change the names?” I asked. “At first. I left the team after June's clip. But I still made the slides because I told myself that wasn't the page.” Her voice grew smaller. “Bell was our shared message account for the show. I sent reminders from it last year. Kai still used it. I never changed the password or told anyone the account wasn't just his.”",
+        "zh": "「妳能改名字？」「最初可以。June 影片後我退出，但還做投影片，騙自己那不是網站。」她聲音變小。「Bell 是以前表演用的共用訊息帳號。我去年傳過提醒，Kai 後來繼續用。我沒換密碼，也沒告訴人它不只屬於他。」",
+        "englishSha256": "30a0eb2248787c65f0e9458e279e8542841a8d7ad63ecf2b28951329c56e59cf",
+        "chineseSha256": "d29d2bfbb86e355e89e3c07b6a05dabf7a26ea79a2d9a08c7550fb053559af4b"
+      },
+      {
+        "number": 4,
+        "en": "“Did you send the threat to June's mother?” “No.” She met my eyes. “But I can't prove that just by saying it.” She had written down when she last used the account and saved the old messages. Her father was helping her give those records to the school. She was not asking me to clear her name online. She was asking me to know before I heard it elsewhere.",
+        "zh": "「妳傳了威脅 June 媽媽的訊息？」「沒有。」她直視我。「但光這樣說不能證明。」她已寫下最後登入時間、保存舊訊息，爸爸幫她交給學校。她不是要我在網上替她洗白，是希望我從別處聽說前先知道。",
+        "englishSha256": "020c672f22f6f9c479b4e6917708d654427fa85c7f4877131eceff674f743ff9",
+        "chineseSha256": "f8658a7d316d2f29503fac963287e015fabdf13f5e49698e166af69ddea7b664"
+      },
+      {
+        "number": 5,
+        "en": "I thought about the orange on my lunch tray. The quiet seat beside me. I wanted those moments to mean she had always been on my side. Real people were making that wish difficult. “Why come to me?” I asked. “Because I don't want you standing beside me tomorrow without knowing where I've stood.” She looked down. “And because I was hoping you wouldn't tell me to leave.”",
+        "zh": "我想起餐盤上的柳橙、旁邊安靜的座位，希望那些代表她一直站我這邊。但真實的人讓這願望很難。「為什麼來找我？」「因為不想讓妳明天站我旁邊，卻不知道我以前站哪裡。」她低頭。「也因為希望妳不要叫我走。」",
+        "englishSha256": "6113f2063efc38458729ff51b0ef2277d7a6f1ca59f771826c2959c548c98a83",
+        "chineseSha256": "ccc76461c29fcf0a536328f322147141176ccabb4aea50676bda94ab7469e426"
+      },
+      {
+        "number": 6,
+        "en": "I did not tell her to leave. I also did not say it was fine. We opened the laptop together and wrote a clear timeline, with places where Ada was unsure marked as questions. When she described something she had only heard from Kai, we wrote that too. The page became less dramatic as it became more useful. There were no red arrows, just dates and plain sentences.",
+        "zh": "我沒叫她走，也沒說沒關係。我們開筆電，寫清楚時間線，不確定的地方標問號。只聽 Kai 說的，也註明。這頁越有用，就越不戲劇化，沒有紅箭頭，只有日期和平實句子。",
+        "englishSha256": "d71c44c1b6d692d17013b4f05783a4531fcb78f6022eb36da34ef5606ef62e4b",
+        "chineseSha256": "abf266358a3f62c9d2cbdaccab0a69888371e62652d09ce194f116c14e65e1dc"
+      },
+      {
+        "number": 7,
+        "en": "Before she left, Ada asked whether I still wanted her help with my statement. I said I wanted Ms Lin to review the facts first. She nodded, accepting the distance without arguing. At the door, she handed Mum the empty tea cups even though Mum said to leave them. I wondered whether doing a small useful thing could help someone stay in a room where they felt ashamed.",
+        "zh": "離開前，Ada 問是否還要她幫忙改聲明。我說想先讓林老師核對事實。她點頭，接受距離，沒爭辯。門口她仍幫媽媽拿空茶杯，儘管媽媽說放著就好。我想，做一件有用的小事，是否能幫人留在讓自己羞愧的房間。",
+        "englishSha256": "49e01ed84a9c75b249a046a511b53f864f4dc4e89b3bf1b2db637a51fae91439",
+        "chineseSha256": "d8cbe33aaa883bf38b96eb3150d44b751379f7809210f7758f1294b6bc630d62"
+      },
+      {
+        "number": 8,
+        "en": "After they left, the school sent an update to the families directly involved. Kai and his parent had agreed to provide the account records. The school would check who posted what instead of treating every message as one person's work. At the bottom was a note about Friday: June's statement could be played before the show, if she wanted. Then June called me. “There's a condition,” she said. “No vote afterward.”",
+        "zh": "他們走後，學校通知直接相關家庭：Kai 與家長同意提供帳號紀錄，會逐一查清誰發什麼，不把所有訊息算同一人。最底下說星期五表演前可以播 June 的聲明，只要她願意。June 隨後打來：「有個條件，後面不准接投票。」",
+        "englishSha256": "b5045c2f49bcbe5589451f24c2b3b92ed6bb5ef159544fa8c6cea702faa2a8a2",
+        "chineseSha256": "f8b8a262242caa5fa6172382616d7d1fdb155bbb8558d03b36df52669c97c954"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 547,
+    "targets": [
+      {
+        "word": "fine",
+        "meaning": "好的；沒事的；細緻的",
+        "appearsInSource": true
+      },
+      {
+        "word": "food",
+        "meaning": "食物",
+        "appearsInSource": true
+      },
+      {
+        "word": "house",
+        "meaning": "房子",
+        "appearsInSource": true
+      },
+      {
+        "word": "less",
+        "meaning": "較少的；較少",
+        "appearsInSource": true
+      },
+      {
+        "word": "never",
+        "meaning": "從不",
+        "appearsInSource": true
+      },
+      {
+        "word": "orange",
+        "meaning": "橘色；橘子",
+        "appearsInSource": true
+      },
+      {
+        "word": "red",
+        "meaning": "紅色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "seat",
+        "meaning": "座位",
+        "appearsInSource": true
+      },
+      {
+        "word": "send",
+        "meaning": "傳送",
+        "appearsInSource": true
+      },
+      {
+        "word": "side",
+        "meaning": "一側；一方",
+        "appearsInSource": true
+      },
+      {
+        "word": "small",
+        "meaning": "小的",
+        "appearsInSource": true
+      },
+      {
+        "word": "something",
+        "meaning": "某件事物",
+        "appearsInSource": true
+      },
+      {
+        "word": "song",
+        "meaning": "歌曲",
+        "appearsInSource": true
+      },
+      {
+        "word": "stay",
+        "meaning": "留下；待著",
+        "appearsInSource": true
+      },
+      {
+        "word": "still",
+        "meaning": "仍然；靜止的",
+        "appearsInSource": true
+      },
+      {
+        "word": "table",
+        "meaning": "桌子；表格",
+        "appearsInSource": true
+      },
+      {
+        "word": "tea",
+        "meaning": "茶",
+        "appearsInSource": true
+      },
+      {
+        "word": "teacher",
+        "meaning": "老師",
+        "appearsInSource": true
+      },
+      {
+        "word": "team",
+        "meaning": "團隊",
+        "appearsInSource": true
+      },
+      {
+        "word": "though",
+        "meaning": "雖然；不過",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Ada admit?",
+      "options": [
+        "She repaired the damaged camera herself.",
+        "She helped the early page grow and used the shared Bell account.",
+        "She secretly traveled to the future."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "She helped the early page grow and used the shared Bell account.",
+      "existingAnswerExplanation": "She helped the early page grow and used the shared Bell account.",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "“You could change the names?” I asked. “At first. I left the team after June's clip. But I still made the slides because I told myself that wasn't the page.” Her voice grew smaller. “Bell was our shared message account for the show. I sent reminders from it last year. Kai still used it. I never changed the password or told anyone the account wasn't just his.”",
+          "chinese": "「妳能改名字？」「最初可以。June 影片後我退出，但還做投影片，騙自己那不是網站。」她聲音變小。「Bell 是以前表演用的共用訊息帳號。我去年傳過提醒，Kai 後來繼續用。我沒換密碼，也沒告訴人它不只屬於他。」",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 4,
+          "english": "“Did you send the threat to June's mother?” “No.” She met my eyes. “But I can't prove that just by saying it.” She had written down when she last used the account and saved the old messages. Her father was helping her give those records to the school. She was not asking me to clear her name online. She was asking me to know before I heard it elsewhere.",
+          "chinese": "「妳傳了威脅 June 媽媽的訊息？」「沒有。」她直視我。「但光這樣說不能證明。」她已寫下最後登入時間、保存舊訊息，爸爸幫她交給學校。她不是要我在網上替她洗白，是希望我從別處聽說前先知道。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What condition does June set for playing her statement?",
+      "options": [
+        "There must be no vote afterward.",
+        "Everyone must vote for her first.",
+        "Kai must add music to it."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "There must be no vote afterward.",
+      "existingAnswerExplanation": "章末 June 明確提出 No vote afterward.。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 8,
+          "english": "After they left, the school sent an update to the families directly involved. Kai and his parent had agreed to provide the account records. The school would check who posted what instead of treating every message as one person's work. At the bottom was a note about Friday: June's statement could be played before the show, if she wanted. Then June called me. “There's a condition,” she said. “No vote afterward.”",
+          "chinese": "他們走後，學校通知直接相關家庭：Kai 與家長同意提供帳號紀錄，會逐一查清誰發什麼，不把所有訊息算同一人。最底下說星期五表演前可以播 June 的聲明，只要她願意。June 隨後打來：「有個條件，後面不准接投票。」",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 7,
+          "english": "Before she left, Ada asked whether I still wanted her help with my statement. I said I wanted Ms Lin to review the facts first. She nodded, accepting the distance without arguing. At the door, she handed Mum the empty tea cups even though Mum said to leave them. I wondered whether doing a small useful thing could help someone stay in a room where they felt ashamed.",
+          "chinese": "離開前，Ada 問是否還要她幫忙改聲明。我說想先讓林老師核對事實。她點頭，接受距離，沒爭辯。門口她仍幫媽媽拿空茶杯，儘管媽媽說放著就好。我想，做一件有用的小事，是否能幫人留在讓自己羞愧的房間。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

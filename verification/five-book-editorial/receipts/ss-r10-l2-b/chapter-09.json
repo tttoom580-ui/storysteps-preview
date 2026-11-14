@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 9,
+  "chapterId": "ss-r10-l2-b-9",
+  "sourceChapterSha256": "a43a46a47f14a00e037288f75b74d7be52a779ce8a6c214aace0487b257986c5",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "學生報錯稱大學擁有全部檔案；隔天更正應標未來時態",
+    "previousChapterEndingEnglish": "Near sunset, May and Evan ate the last pieces of sweet bread on the steps. He asked if she missed anything from her own childhood. She thought of her grandmother, who always kept an extra place at the table for a late guest. She had never recorded that voice, and now she could not. Evan did not rush to comfort her with a bright answer. He simply sat beside her until she finished speaking. When they stood, he offered his hand to help her down the high step. She took it for one quiet moment and let go at the bottom.",
+    "nextChapterOpeningEnglish": "The spring fair was only one week away. A group of students came to gather the materials for the listening room, but the space they had been given was shorter than the plan. Evan measured its length with a tape and wrote the result in meters. They had room for two speakers, not three. May suggested a gradual opening with fewer visitors per group. A student wanted to ignore the problem because the event was supposed to be musical and fun. Evan said proper planning was not the enemy of style. It was the way to make the music safe for everyone."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next article in the student newspaper called their project a historical success. May was pleased until she read the line saying that all the recordings belonged to the university. The claim did not match the signed permissions, and May wanted its legal basis checked before anyone presented it as fact. She asked the editor to correct the chapter about the market's past before it went online. Evan's partner from the sound club said she was making trouble. May showed him the signed forms, one section at a time. “Unless we follow these rules, we cannot honestly say we are protecting stories,” she answered.",
+        "zh": "學生報下一篇文章把他們的計畫稱為歷史性的成功。慧原本高興，直到看到文中寫所有錄音都屬於大學。這種說法與簽署的授權不符；慧希望先核對其法律依據，不要把未經證實的權利主張寫成事實。她請編輯在上網前修正那段談市場歷史的章節。安澤在聲音社團的夥伴說慧是在找麻煩。慧拿出簽好的表格，逐條讓他看。「除非遵守這些規則，否則我們無法誠實地說自己在保護故事，」她回答。",
+        "englishSha256": "e4f26b4c5e84fb1e580fcd633e714fe725ed70f577d2b0aa9628630159753d6a",
+        "chineseSha256": "e2424daa1f06671f6d558fedc55bf9d87b7a3536d00a2fad10ed4f50a0034bdd"
+      },
+      {
+        "number": 2,
+        "en": "An elderly shopkeeper came to the office carrying a painting of a puppy and a box of crayons. His sister had made the picture when they were children, and he wanted her name included on the display. The editor thought it was a small detail. May said a person's name was not a nail to paste onto the wall after everything else was done. It was part of the source. Evan agreed, though he worried the correction might delay the project. They took photographs of the picture and its back, where the artist's name was written in careful letters.",
+        "zh": "一位年長店主帶著小狗畫和一盒蠟筆來到辦公室。那幅畫是他和妹妹年幼時由妹妹畫的，他希望展覽標上她的姓名。編輯認為這只是小細節。慧說，人的名字不是最後才貼上牆面的釘子，它是來源的一部分。安澤同意，雖然擔心修正會讓計畫延遲。他們拍下畫的正反面，背面以工整字跡寫著畫者的名字。",
+        "englishSha256": "24ab9acfab20e29f5962ad1e62960dd29e9a76b5a58aa0fdbf686e641f10c36f",
+        "chineseSha256": "9033bc8bc77c91f6ce57d7a3772bedff72faa21eea76b56f014ba55ac87278d7"
+      },
+      {
+        "number": 3,
+        "en": "At a nearby store, the shopkeeper introduced the team to a woman who had heard the article on the radio. She said the report made the students sound like the owners of the whole market. May apologized for the false impression. Evan explained their system: people could approve a single use, ask for changes, or withdraw before publication. The woman said that was worse than no rule only if the team broke its own promise. She wanted proof that someone would answer complaints after the students graduated. Her question stayed with them all afternoon.",
+        "zh": "在附近商店，店主介紹團隊認識一位聽過廣播報導的女士。她說報導讓學生聽起來像擁有整座市場。慧為錯誤印象道歉。安澤解釋他們的制度：受訪者可只批准一次使用、要求修改，或在公開前撤回。女士說，若團隊不遵守承諾，有規則反而比沒規則更糟。她想知道學生畢業後，誰會負責回應申訴。這個問題整個下午都留在他們心中。",
+        "englishSha256": "3b530a8679e153d227eed0218c2d0d7afb1bbe4c7eab595126b4f0d295c68880",
+        "chineseSha256": "4ffc8c9dcfa46ec52ad728483bd49f5c7be416e4a8442b9f89c82858715ce643"
+      },
+      {
+        "number": 4,
+        "en": "Evan wanted to succeed with a bright display at the spring fair, but May said success could not be measured by visitors alone. They needed a clear answer about long-term care. He suggested a committee with market sellers, students, and one independent person. May liked the idea but insisted that every person could still remove their own recording. The editor agreed to publish the correction in the newspaper the next morning. It would be short and plain, not a dramatic apology. The people who had asked for it would soon see the truth printed beside their stories.",
+        "zh": "安澤希望靠春季活動上亮眼的展示取得成功，但慧認為成功不能只用訪客數計算。他們需要長期照管的明確答案。安澤提議由攤商、學生和一位獨立人士組成委員會。慧喜歡這個想法，但堅持每位受訪者仍可要求撤下自己的錄音。編輯答應隔天早晨在學生報刊出更正。那將是一則簡短平實的說明，而非戲劇化的道歉。提出要求的人很快就能看見真相印在自己的故事旁邊。",
+        "englishSha256": "5b409d0f477c3bd27b2463901781e1ea81122254e613d30a100600249260f09f",
+        "chineseSha256": "8c497469571db38397457493a6a34f2b89984e8a11b58907fe9b6e07614c1216"
+      },
+      {
+        "number": 5,
+        "en": "In addition to the correction, May proposed a daily check of the public signs. She asked a volunteer to use a crayon to mark any text that was hard to read, then rewrite it neatly before the room opened. A little boy wanted his puppy painting to shine at the very front, but the student who had drawn the main map had a fear that it would hide important directions. The team moved the painting beside the children's table instead. May explained the choice without calling either child's work less valuable. The boy studied the new place and finally smiled. Evan noticed how often the work required helping people bear a small disappointment without turning it into a judgment about their worth. That, too, was part of protecting stories, although no one could measure it with a sound meter.",
+        "zh": "除了刊登更正，慧還提議每天檢查公共標示。她請志工用蠟筆標出難讀的文字，再在開門前清楚重寫。一個小男孩希望自己的小狗畫在最前面閃閃發亮，但畫主地圖的學生擔心它遮住重要指示。團隊最後把畫移到兒童桌旁。慧解釋選擇的理由，沒有說任何一人的作品較不重要。男孩看了新位置，終於笑了。安澤注意到，工作常需要幫助人接受小小失望，而不是讓失望成為否定自己價值的判決。這同樣屬於保護故事的一部分，雖然無法用音量計量測。",
+        "englishSha256": "85172fdb0ec558a04ceb07d6ff9565822d373661b39d3b1f5b2b38525166ad8c",
+        "chineseSha256": "18cd8fba3769e56c5567698b67e7fdac0e7fb1ffedcb518000deda2028bf520a"
+      },
+      {
+        "number": 6,
+        "en": "Outside the office, Evan apologized for the sound club's reaction. May told him he did not have to take responsibility for every member, only for how he acted next. He said he wanted to stand beside her at the next meeting, not to speak for her. She accepted the offer. Their work had brought them close enough to disagree without fearing that everything would end. As they walked back to the market, he asked if she would like to visit the weekend book fair. She said yes, provided he promised not to call it a research trip.",
+        "zh": "在辦公室外，安澤為聲音社團成員的反應道歉。慧說他不必為每個成員負責，只需要對自己接下來的行動負責。他說，下次開會想站在她旁邊，而不是代替她發言。慧接受了。他們的合作已讓彼此能夠不同意見，而不擔心關係立刻破裂。回市場路上，他問慧週末要不要一起逛書展。慧說好，但他得保證不把它叫成研究行程。",
+        "englishSha256": "7e3b79de58aba3f7039b04a20a64cb4a769719a926acd2b91fbf4206bfc7426e",
+        "chineseSha256": "8e920de9b5528277d9b97d2f1c568b63a671350eaac4ae979bdb91d50b1101d7"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 630,
+    "targets": [
+      {
+        "word": "addition",
+        "meaning": "補充事項",
+        "appearsInSource": true
+      },
+      {
+        "word": "article",
+        "meaning": "報導文章",
+        "appearsInSource": true
+      },
+      {
+        "word": "chapter",
+        "meaning": "章節",
+        "appearsInSource": true
+      },
+      {
+        "word": "crayon",
+        "meaning": "蠟筆",
+        "appearsInSource": true
+      },
+      {
+        "word": "daily",
+        "meaning": "每日的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fear",
+        "meaning": "擔心；害怕",
+        "appearsInSource": true
+      },
+      {
+        "word": "historical",
+        "meaning": "歷史的",
+        "appearsInSource": true
+      },
+      {
+        "word": "legal",
+        "meaning": "合法的",
+        "appearsInSource": true
+      },
+      {
+        "word": "nail",
+        "meaning": "釘子",
+        "appearsInSource": true
+      },
+      {
+        "word": "painting",
+        "meaning": "繪畫作品",
+        "appearsInSource": true
+      },
+      {
+        "word": "partner",
+        "meaning": "搭檔",
+        "appearsInSource": true
+      },
+      {
+        "word": "paste",
+        "meaning": "黏貼",
+        "appearsInSource": true
+      },
+      {
+        "word": "puppy",
+        "meaning": "小狗",
+        "appearsInSource": true
+      },
+      {
+        "word": "section",
+        "meaning": "區段",
+        "appearsInSource": true
+      },
+      {
+        "word": "shine",
+        "meaning": "發光",
+        "appearsInSource": true
+      },
+      {
+        "word": "shopkeeper",
+        "meaning": "店主",
+        "appearsInSource": true
+      },
+      {
+        "word": "succeed",
+        "meaning": "成功",
+        "appearsInSource": true
+      },
+      {
+        "word": "system",
+        "meaning": "制度",
+        "appearsInSource": true
+      },
+      {
+        "word": "Unless",
+        "meaning": "除非",
+        "appearsInSource": true
+      },
+      {
+        "word": "worse",
+        "meaning": "更糟",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What was wrong with the newspaper article?",
+      "options": [
+        "It said the university owned all the recordings",
+        "It gave the wrong weather",
+        "It forgot the date of a race"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It said the university owned all the recordings",
+      "existingAnswerExplanation": "文章誤稱錄音全部歸大學所有，與實際授權不符。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The next article in the student newspaper called their project a historical success. May was pleased until she read the line saying that all the recordings belonged to the university. The claim did not match the signed permissions, and May wanted its legal basis checked before anyone presented it as fact. She asked the editor to correct the chapter about the market's past before it went online. Evan's partner from the sound club said she was making trouble. May showed him the signed forms, one section at a time. “Unless we follow these rules, we cannot honestly say we are protecting stories,” she answered.",
+          "chinese": "學生報下一篇文章把他們的計畫稱為歷史性的成功。慧原本高興，直到看到文中寫所有錄音都屬於大學。這種說法與簽署的授權不符；慧希望先核對其法律依據，不要把未經證實的權利主張寫成事實。她請編輯在上網前修正那段談市場歷史的章節。安澤在聲音社團的夥伴說慧是在找麻煩。慧拿出簽好的表格，逐條讓他看。「除非遵守這些規則，否則我們無法誠實地說自己在保護故事，」她回答。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 3,
+          "english": "At a nearby store, the shopkeeper introduced the team to a woman who had heard the article on the radio. She said the report made the students sound like the owners of the whole market. May apologized for the false impression. Evan explained their system: people could approve a single use, ask for changes, or withdraw before publication. The woman said that was worse than no rule only if the team broke its own promise. She wanted proof that someone would answer complaints after the students graduated. Her question stayed with them all afternoon.",
+          "chinese": "在附近商店，店主介紹團隊認識一位聽過廣播報導的女士。她說報導讓學生聽起來像擁有整座市場。慧為錯誤印象道歉。安澤解釋他們的制度：受訪者可只批准一次使用、要求修改，或在公開前撤回。女士說，若團隊不遵守承諾，有規則反而比沒規則更糟。她想知道學生畢業後，誰會負責回應申訴。這個問題整個下午都留在他們心中。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the team propose for long-term care?",
+      "options": [
+        "A committee with sellers and students",
+        "One person owning every file",
+        "A daily singing contest"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A committee with sellers and students",
+      "existingAnswerExplanation": "團隊提議由攤商、學生和獨立人士共同管理。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Evan wanted to succeed with a bright display at the spring fair, but May said success could not be measured by visitors alone. They needed a clear answer about long-term care. He suggested a committee with market sellers, students, and one independent person. May liked the idea but insisted that every person could still remove their own recording. The editor agreed to publish the correction in the newspaper the next morning. It would be short and plain, not a dramatic apology. The people who had asked for it would soon see the truth printed beside their stories.",
+          "chinese": "安澤希望靠春季活動上亮眼的展示取得成功，但慧認為成功不能只用訪客數計算。他們需要長期照管的明確答案。安澤提議由攤商、學生和一位獨立人士組成委員會。慧喜歡這個想法，但堅持每位受訪者仍可要求撤下自己的錄音。編輯答應隔天早晨在學生報刊出更正。那將是一則簡短平實的說明，而非戲劇化的道歉。提出要求的人很快就能看見真相印在自己的故事旁邊。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 3,
+          "english": "At a nearby store, the shopkeeper introduced the team to a woman who had heard the article on the radio. She said the report made the students sound like the owners of the whole market. May apologized for the false impression. Evan explained their system: people could approve a single use, ask for changes, or withdraw before publication. The woman said that was worse than no rule only if the team broke its own promise. She wanted proof that someone would answer complaints after the students graduated. Her question stayed with them all afternoon.",
+          "chinese": "在附近商店，店主介紹團隊認識一位聽過廣播報導的女士。她說報導讓學生聽起來像擁有整座市場。慧為錯誤印象道歉。安澤解釋他們的制度：受訪者可只批准一次使用、要求修改，或在公開前撤回。女士說，若團隊不遵守承諾，有規則反而比沒規則更糟。她想知道學生畢業後，誰會負責回應申訴。這個問題整個下午都留在他們心中。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

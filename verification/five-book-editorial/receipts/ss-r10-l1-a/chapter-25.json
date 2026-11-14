@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 25,
+  "chapterId": "ss-r10-l1-a-25",
+  "sourceChapterSha256": "3963e1d60b987eb3985d83b348c20fa5fbf2544ec3ef934570cf42ccd78ae55e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "委員會延續每月一次三個月；強調共享而非與旅館競爭",
+    "previousChapterEndingEnglish": "When the visit finished, nobody wanted to hurry away. Nia invited families back into the center for a few minutes. They checked the equipment, store each piece in its box, and wrote down the end time. Finn gave Nia a simple drawing of the field, with people standing far apart under three stars. She thanked him and asked if she could keep it with the class work. He agreed. The trial was now finished, but there was still a meeting to come. Nia looked out at the clear patch of sky. She felt glad, not because the stars had followed her plan, but because the class had learned what to do even when the sky did not.",
+    "nextChapterOpeningEnglish": null
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Monday morning, Nia carried the class report to the center board. She passed a busy street that led toward the airport and heard a noisy truck stop near a market sale. A man pushed a dirty cart away from the road while a child tried to catch a rolling orange. Nia helped the child stop safely and then continued walking. She was not late, but she felt lucky to have a few extra minutes. She had spent six weeks asking people to look up. Now she needed to keep her own eyes on the path and arrive ready to answer questions about the work.",
+        "zh": "星期一早上，妮雅帶著課程報告前往中心委員會。她經過一條通往機場方向的繁忙街道，聽見一輛吵鬧的貨車停在市場特賣會附近。一名男子把沾了泥的推車推離馬路，一個孩子正想追滾動的橘子。妮雅幫孩子安全停下來，才繼續走。她沒有遲到，還很幸運地多留了幾分鐘。六週來她一直請大家抬頭看，現在卻得先看清腳下的路，準備回答關於工作的問題。",
+        "englishSha256": "9ca0519e1d09899095edc7c79f56d8f92931b64cf6a5cc94f5d736d5b63e78ed",
+        "chineseSha256": "410d4873ca1ac316429f70896a3b60402bf2c2d7cefa02cc5e3dfbceb9d4c3ff"
+      },
+      {
+        "number": 2,
+        "en": "At the meeting, Mr. Hale sat beside two board members. There was no king of the center and no single boss who could decide everything alone. Each member had a copy of the program record. One asked how much the class had cost. Another asked when people had used the room. The third asked whether the activities could be shared with other programs. Nia answered from the pages. She did not cut out the notes about rain, bad clocks, or changing the touch map. She explained why those changes mattered. The board could see a plan that had been tested in real life, not just a plan that sounded good on paper.",
+        "zh": "會議上，海爾先生坐在兩位委員旁邊。中心沒有國王，也不是某一位老闆就能獨自決定所有事情。每位委員都有一份課程紀錄。一人問花了多少錢，另一人問教室在什麼時間使用，第三人問活動能不能和其他課程共用。妮雅照頁面回答，沒有把下雨、時鐘走錯或修改觸摸地圖的紀錄剪掉。她解釋那些改變為何重要。委員會看見的是經過真實生活考驗的計畫，而不只是紙上說得好聽的計畫。",
+        "englishSha256": "55a9b147fdeda85c0f22598dba1e611642d9d4cc25d2df68ce729e8657fb305d",
+        "chineseSha256": "42a69351379525eb1f1f58ceca48655de9fcc242441f5a35137afcac1e28c3bb"
+      },
+      {
+        "number": 3,
+        "en": "A board member asked if the children had enjoyed the lessons. Nia showed the drawings and comments that families had agreed could be shared. \"They had fun,\" she said, \"but they also learned to check a claim and to say when something was not safe.\" The member looked at the old paper ruler and the new one. \"I like seeing why this changed,\" she said. Another member asked whether the center needed to prepare a large theater for future star nights. Nia said no. A quiet room, a safe field, simple models, and clear words were enough for the next steps. They did not need a grand show.",
+        "zh": "一位委員問孩子們是否喜歡課程。妮雅展示獲得家庭同意公開的圖畫與意見。「大家玩得很開心，」她說，「也學會查證說法，以及在不安全時說出來。」委員看著新舊兩把紙尺。「我喜歡看見它為什麼改變，」她說。另一位委員問，未來的觀星夜是否需要準備大型劇院。妮雅說不用。一間安靜教室、一塊安全草地、簡單模型和清楚的說明，就足以進行下一步。他們不需要盛大演出。",
+        "englishSha256": "f1272b1fd09f5325ee8a8c86d2bfa39a9162532714b1eb1a45275843121c4510",
+        "chineseSha256": "3fc453097af1804746a95cab1e552fa87de4f1e551203f62d60f3b4e203f8b41"
+      },
+      {
+        "number": 4,
+        "en": "After a short discussion, the board made its decision. The star class could continue for three more months, one Saturday each month. It would share the room with a new reading group at other times. The center would pay for basic paper and approved lamps, but not for a large telescope. Nia accepted the plan. She asked that the review date and rules be written down so every family could see them. Mr. Hale agreed. The hotel had found another meeting place, so there was no need to ask anyone to leave. The room would stay a shared public space, with a clear schedule on the door.",
+        "zh": "短暫討論後，委員會作出決定：星星課可以再延續三個月，每個月有一個星期六的課程；其他時間與新的閱讀小組共用房間。中心會負擔基本紙張和核准燈具，但不購買大型望遠鏡。妮雅接受了安排，並請委員會把下次審查日期和規定寫清楚，讓所有家庭都看得見。海爾先生同意。旅館也找到另一個會議地點，所以不需要請任何人離開。這間教室會繼續作為共用公共空間，門上會貼出明確時間表。",
+        "englishSha256": "c5fa7213e44d2d31bf4bd6596ce091ac80adbe370a7481680cd8f78d2480794a",
+        "chineseSha256": "252a2b1cbda0340ad039c5576778dc74db0a2d033db7b07e07384e2bb3de06ca"
+      },
+      {
+        "number": 5,
+        "en": "Before leaving the meeting, Nia asked whether the center could share a simple notice about the decision. Mr. Hale said yes, as long as it used the exact plan and did not promise extra classes. A volunteer had suggested a large party to celebrate, but Nia preferred a small gathering with the students. She did not want a busy event to push other groups out of the room. She also asked that the garden team check the tree root near the path before the next evening visit. The workers had found it raised one corner of the ground. The board thanked her for noticing a detail that could matter for safe walking. Nia left with a clear schedule and a better sight of the work ahead: share the room, prepare carefully, and keep listening to learners.",
+        "zh": "離開會議前，妮雅問中心能否發布簡單公告，說明決定。海爾先生說可以，只要忠實寫出計畫，不額外承諾更多課程。有志工提議舉辦大型派對慶祝，但妮雅比較想和學生簡單聚一聚。她不想因熱鬧活動把其他團體擠出房間。她還請花園團隊在下次晚間觀測前，檢查步道旁一條突出地面的樹根。工作人員發現它讓地面一角凸起。委員會謝謝她注意到可能影響步行安全的小細節。妮雅帶著明確時間表離開，更清楚看見往後的工作：共用教室、仔細準備、持續傾聽學員。",
+        "englishSha256": "65f829a703c828678b64070a9bf23ffdc10ec681ecf9c1d8269d72986f031b80",
+        "chineseSha256": "4a282b97fb46900146a7bcb533801cd664fd54d40754dca547f91f2db9304731"
+      },
+      {
+        "number": 6,
+        "en": "That evening, Nia returned to Red Brick Street. Finn ran to meet her, but stopped before the busy corner as his mother had taught him. \"Did we win?\" he called. Nia smiled. \"We did not have to beat anyone,\" she answered. \"We get to keep learning, and another group gets to use the room too.\" Finn thought for a moment. \"Then can we prepare a new moon map?\" he asked. \"Yes,\" Nia said. \"And you can choose what to show next time.\" At the center, the little paper stars were still on the wall. They were not real stars, but they marked the place where real questions had begun. Nia opened her notebook and wrote the date of the next class. The end of six weeks had become the beginning of something that could last.",
+        "zh": "那天傍晚，妮雅回到紅磚街。芬恩跑來迎接，但到了繁忙路口前，照媽媽教的停下來。「我們贏了嗎？」他喊。妮雅微笑說：「我們不用打敗任何人。現在我們可以繼續學，另一個小組也能使用教室。」芬恩想了想。「那我們可以準備新的月亮地圖嗎？」他問。「可以，」妮雅說，「下次想展示什麼，你也可以自己選。」中心牆上的紙星星還在。它們不是真星星，卻標記了真實問題開始的地方。妮雅翻開筆記本，寫下下一堂課的日期。六週的結束，成了另一段可能長久延續的開始。",
+        "englishSha256": "2f2b1fcde3b0155b57e0cd7cabe274ae48f97be53d89989b94edee2f46bee7ea",
+        "chineseSha256": "124aa286feb686d3e502fe614d294eba41a08f13de333dda91fc3debf0a20d56"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 703,
+    "targets": [
+      {
+        "word": "airport",
+        "meaning": "機場",
+        "appearsInSource": true
+      },
+      {
+        "word": "boss",
+        "meaning": "老闆／負責人",
+        "appearsInSource": true
+      },
+      {
+        "word": "catch",
+        "meaning": "看見／捕捉到",
+        "appearsInSource": true
+      },
+      {
+        "word": "cut",
+        "meaning": "剪斷",
+        "appearsInSource": true
+      },
+      {
+        "word": "dirty",
+        "meaning": "髒的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fun",
+        "meaning": "樂趣",
+        "appearsInSource": true
+      },
+      {
+        "word": "king",
+        "meaning": "國王",
+        "appearsInSource": true
+      },
+      {
+        "word": "like",
+        "meaning": "喜歡",
+        "appearsInSource": true
+      },
+      {
+        "word": "lucky",
+        "meaning": "幸運的",
+        "appearsInSource": true
+      },
+      {
+        "word": "man",
+        "meaning": "男子",
+        "appearsInSource": true
+      },
+      {
+        "word": "noisy",
+        "meaning": "吵鬧的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Now",
+        "meaning": "現在",
+        "appearsInSource": true
+      },
+      {
+        "word": "party",
+        "meaning": "派對",
+        "appearsInSource": true
+      },
+      {
+        "word": "plan",
+        "meaning": "計畫",
+        "appearsInSource": true
+      },
+      {
+        "word": "prepare",
+        "meaning": "準備",
+        "appearsInSource": true
+      },
+      {
+        "word": "push",
+        "meaning": "推動",
+        "appearsInSource": true
+      },
+      {
+        "word": "root",
+        "meaning": "樹根",
+        "appearsInSource": true
+      },
+      {
+        "word": "sale",
+        "meaning": "販售",
+        "appearsInSource": true
+      },
+      {
+        "word": "sight",
+        "meaning": "視野／認識",
+        "appearsInSource": true
+      },
+      {
+        "word": "theater",
+        "meaning": "小劇場",
+        "appearsInSource": true
+      },
+      {
+        "word": "when",
+        "meaning": "當……時",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does the board decide?",
+      "options": [
+        "To close all public rooms.",
+        "To build a large theater.",
+        "To continue the class monthly for three months."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "To continue the class monthly for three months.",
+      "existingAnswerExplanation": "委員會同意再延續三個月，每月一個星期六。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "After a short discussion, the board made its decision. The star class could continue for three more months, one Saturday each month. It would share the room with a new reading group at other times. The center would pay for basic paper and approved lamps, but not for a large telescope. Nia accepted the plan. She asked that the review date and rules be written down so every family could see them. Mr. Hale agreed. The hotel had found another meeting place, so there was no need to ask anyone to leave. The room would stay a shared public space, with a clear schedule on the door.",
+          "chinese": "短暫討論後，委員會作出決定：星星課可以再延續三個月，每個月有一個星期六的課程；其他時間與新的閱讀小組共用房間。中心會負擔基本紙張和核准燈具，但不購買大型望遠鏡。妮雅接受了安排，並請委員會把下次審查日期和規定寫清楚，讓所有家庭都看得見。海爾先生同意。旅館也找到另一個會議地點，所以不需要請任何人離開。這間教室會繼續作為共用公共空間，門上會貼出明確時間表。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "At the meeting, Mr. Hale sat beside two board members. There was no king of the center and no single boss who could decide everything alone. Each member had a copy of the program record. One asked how much the class had cost. Another asked when people had used the room. The third asked whether the activities could be shared with other programs. Nia answered from the pages. She did not cut out the notes about rain, bad clocks, or changing the touch map. She explained why those changes mattered. The board could see a plan that had been tested in real life, not just a plan that sounded good on paper.",
+          "chinese": "會議上，海爾先生坐在兩位委員旁邊。中心沒有國王，也不是某一位老闆就能獨自決定所有事情。每位委員都有一份課程紀錄。一人問花了多少錢，另一人問教室在什麼時間使用，第三人問活動能不能和其他課程共用。妮雅照頁面回答，沒有把下雨、時鐘走錯或修改觸摸地圖的紀錄剪掉。她解釋那些改變為何重要。委員會看見的是經過真實生活考驗的計畫，而不只是紙上說得好聽的計畫。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does Nia tell Finn about winning?",
+      "options": [
+        "They must beat the hotel.",
+        "They can keep learning without defeating anyone.",
+        "They have won an expensive telescope."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "They can keep learning without defeating anyone.",
+      "existingAnswerExplanation": "妮雅說他們不用打敗任何人，星星課能續辦，其他團體也能共享教室。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That evening, Nia returned to Red Brick Street. Finn ran to meet her, but stopped before the busy corner as his mother had taught him. \"Did we win?\" he called. Nia smiled. \"We did not have to beat anyone,\" she answered. \"We get to keep learning, and another group gets to use the room too.\" Finn thought for a moment. \"Then can we prepare a new moon map?\" he asked. \"Yes,\" Nia said. \"And you can choose what to show next time.\" At the center, the little paper stars were still on the wall. They were not real stars, but they marked the place where real questions had begun. Nia opened her notebook and wrote the date of the next class. The end of six weeks had become the beginning of something that could last.",
+          "chinese": "那天傍晚，妮雅回到紅磚街。芬恩跑來迎接，但到了繁忙路口前，照媽媽教的停下來。「我們贏了嗎？」他喊。妮雅微笑說：「我們不用打敗任何人。現在我們可以繼續學，另一個小組也能使用教室。」芬恩想了想。「那我們可以準備新的月亮地圖嗎？」他問。「可以，」妮雅說，「下次想展示什麼，你也可以自己選。」中心牆上的紙星星還在。它們不是真星星，卻標記了真實問題開始的地方。妮雅翻開筆記本，寫下下一堂課的日期。六週的結束，成了另一段可能長久延續的開始。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "On Monday morning, Nia carried the class report to the center board. She passed a busy street that led toward the airport and heard a noisy truck stop near a market sale. A man pushed a dirty cart away from the road while a child tried to catch a rolling orange. Nia helped the child stop safely and then continued walking. She was not late, but she felt lucky to have a few extra minutes. She had spent six weeks asking people to look up. Now she needed to keep her own eyes on the path and arrive ready to answer questions about the work.",
+          "chinese": "星期一早上，妮雅帶著課程報告前往中心委員會。她經過一條通往機場方向的繁忙街道，聽見一輛吵鬧的貨車停在市場特賣會附近。一名男子把沾了泥的推車推離馬路，一個孩子正想追滾動的橘子。妮雅幫孩子安全停下來，才繼續走。她沒有遲到，還很幸運地多留了幾分鐘。六週來她一直請大家抬頭看，現在卻得先看清腳下的路，準備回答關於工作的問題。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

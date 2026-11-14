@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 12,
+  "chapterId": "ss-r2-l1-b-12",
+  "sourceChapterSha256": "a7a805ff762ceef093a1cd339a70920099355708e21353ef3efd75a86708733b",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "音樂日只供有限麵包；花故事提醒每日持續照料",
+    "previousChapterEndingEnglish": "At the end of the day, Mrs. Fern returned with her child's kite. It had a little star on it, just like the door. \"Thank you for asking about the food,\" she said. \"My child felt safe here.\" Fia held the picture for a moment. The best part of the test had not been the number of bowls they served. It was learning that people could speak and be heard. She put the notes in a safe drawer. Tomorrow they would read them again and choose what to fix before the first real opening day.",
+    "nextChapterOpeningEnglish": "Rain began as the first morning visitors arrived. It fell in long lines across the wide bridge. Fia could see the road through the kitchen window. Two ducks were trying to cross, and Toma went out to lead them back to the pond. \"The water is high,\" he called. \"Please keep children away from the bridge.\" Fia put a clear note on the door. Their first job was to keep people safe, even if fewer visitors came for breakfast. Moss took the warm bread from the oven, and Pip moved the honey jars to a dry shelf. The kitchen stayed bright while the sky turned gray. A brown duck followed the first two birds. The beautiful feathers looked bright even in the rain."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "In the afternoon, Lark brought a package to the shop. Inside were tickets for a village music day. A small band would play near the supermarket, and an actor would tell stories from long ago. \"The music starts at three o'clock,\" Lark said. \"Would you like to bring a little bread for the visitors?\" Fia looked at Moss. The last test breakfast had been tiring. She did not want to ask him to do more than he could. Moss said he could make one small basket, but not a full meal. \"Then we will say that clearly,\" Fia told Lark. \"We can join for one hour.\"",
+        "zh": "下午，拉克送來一個包裹，裡面是村裡音樂日的票券。小樂團會在超市附近演奏，一名演員則會講述往日故事。「音樂下午三點開始。」拉克說，「你們想帶一點麵包給訪客嗎？」菲雅看向莫斯。上次試吃已很累，她不想再要求他超過能力範圍的工作。莫斯說自己能做一小籃，卻做不了完整餐點。「那就明白告訴大家，」菲雅對拉克說，「我們只參加一小時。」",
+        "englishSha256": "52f79c46d26c2fdd422b6fad9e36f93dabde5f242df35b68926ce211fdcb49a1",
+        "chineseSha256": "6608e51ebd58ee3e799ef2248dc9b32672f0378d4f17c0a189d14384acfff92b"
+      },
+      {
+        "number": 2,
+        "en": "At the music day, Pip helped them find a corner beside the trees. He had his glasses on and carried a small sign. \"Bread from the Red House,\" it said. Fia had the key to the bread box, and Moss had the food. They worked together to set up their table. An actress came over and smiled. She had seen the red house when she was little. \"I remember the old woman who lived there,\" she said. \"She gave water to anyone on a hot day.\" Fia told her that the woman was her grandmother. It made her happy to hear another story about her.",
+        "zh": "音樂日當天，皮普幫他們在樹邊找到角落。他戴著眼鏡，帶來一塊小牌子，寫著「紅屋麵包」。菲雅拿著麵包箱鑰匙，莫斯負責食物。大家一起布置桌子。一名女演員走來微笑。她小時候見過紅屋。「我記得以前住那兒的老太太，」她說，「天熱時，她會給任何人水喝。」菲雅告訴她，那是自己的祖母。又聽見一個祖母的故事，令她很開心。",
+        "englishSha256": "5ce08456cfa050b85bb4306b042b405895c67e7afc7fc46ddf2934fc8726e458",
+        "chineseSha256": "969289fd40a43ad798a2a960eeae4cdf084b7f50d48baa0e37082cb0cde21ffb"
+      },
+      {
+        "number": 3,
+        "en": "The band began to play, and children danced near the trees. Fia was tired from standing, but she stayed until their agreed time. A poor traveler asked whether there was any bread left. Moss opened the box. There was one small roll. \"You can have it,\" he said. The traveler thanked him and offered a ticket he could not use. Fia said he should keep the ticket for someone else. She did not want food to become a trade made under pressure. They could give a small gift because they chose to, and still keep their money plan clear. \"We can celebrate music and still be careful with our work,\" Fia told Moss as they put their basket away.",
+        "zh": "樂團開始演奏，孩子們在樹旁跳舞。菲雅站得累了，但仍待到約定時間。一名手頭拮据的旅人問是否還有麵包。莫斯打開盒子，裡面剩一顆小餐包。「你可以拿去。」他說。旅人道謝，想送出自己用不到的票券。菲雅請他留給別人。她不希望食物變成壓力下的交換。他們能自願送出小禮物，也能繼續保持清楚的金錢計畫。 「我們可以慶祝音樂，也能謹慎做好工作。」菲雅收起籃子時對莫斯說。",
+        "englishSha256": "05e45e21fd57594f7f632bb721059611cfa71111ac6318e2d82b6249f65fc435",
+        "chineseSha256": "dcf9c1d500dc7ffc9013ee7a537475956f7df989c4903ee0dca40432c3b1d3ef"
+      },
+      {
+        "number": 4,
+        "en": "Near the last song, the actress spoke about a flower that would die if nobody gave it water. She told the story as a child who cared for a plant, then grew old and taught another child to care. Fia listened closely. The story was simple, but its meaning stayed with her. A shop could not live on one happy day. People had to return, do the daily work, and care for one another when nobody was watching. Moss felt the same. \"We should not open every day at first,\" he said. \"Let us learn to do two days well before we try more.\"",
+        "zh": "最後一首歌前，女演員講了一株沒人澆水就會死去的花。故事裡的孩子照顧花，長大、變老，再教另一個孩子照顧。菲雅聽得很仔細。故事簡單，意思卻留在心裡。小店不能靠一天的快樂活下去；即使沒人看見，大家也要持續做日常工作並互相照顧。莫斯也這麼想。「起初不要天天開店，」他說，「先學會把兩天做好，再試更多天。」",
+        "englishSha256": "0361bfb084aafa24d50ad60c25b24baa29315eec2f0425bad31cfc7f3544c57c",
+        "chineseSha256": "0d16329bdb935ef3fa7f43bed906ec8de5c93db561b1603a43eaeec2bc5896e7"
+      },
+      {
+        "number": 5,
+        "en": "When the music ended, Fia checked the bread box. Everything had been taken or shared, and their place was clean. Lark asked if she could use more pictures in the village media. Fia agreed, but wanted the opening date to be correct. \"We still have to ask Edda about the house,\" she said. She did not want a happy public event to push them into making a promise too soon. Lark listened. Then she offered to tell people about the two test mornings instead of calling them a grand opening. That was more useful to the team.",
+        "zh": "音樂結束時，菲雅檢查麵包箱。食物都已拿走或分享出去，攤位也收拾乾淨。拉克問能否在村裡媒體上放更多照片。菲雅同意，但希望開幕日期寫正確。「我們還得跟艾達談房屋的事。」她說。她不想因快樂的公開活動，就匆促許下承諾。拉克願意聽，於是提出先報導兩次試吃日，而不稱之為正式開幕。這對團隊更有幫助。",
+        "englishSha256": "7cf12f62e92f0b2da6541b70ff446a5c2f157256074134529a8b7b3d89959b7e",
+        "chineseSha256": "8ffb86080f1761e7cd43c8715d1f4c635ec7e40a35a2d7d7d6e576e1f3b196bb"
+      },
+      {
+        "number": 6,
+        "en": "At home that night, Fia put the last ticket in her book. It had a bright little star printed on it. Her grandmother's house was not a stage, and the team was not a band, but they were learning how to work together. Every person had a part to play. If one was too tired, another could help, or the work could wait. She looked at the ticket once more and set it by the yellow string. The red house now held more than old furniture. It held memories and promises, and soon it would hold breakfast, too.",
+        "zh": "那天晚上在家，菲雅把最後一張票券收進筆記本。票上印著明亮的小星星。祖母的房子不是舞臺，團隊也不是樂團，但他們正在學合作。每個人都有自己的角色。有人太累時，別人可以接手，也可以讓工作等等。她又看了票一眼，把它放在黃細繩旁。紅屋如今裝的不只是舊家具，還有回憶與承諾，很快也會裝滿早餐的香氣。",
+        "englishSha256": "a28a03548abf36a3e9b771da378dbcf9c42b505ac8a5ca0ef17db551ce191d8d",
+        "chineseSha256": "a033c6586e8f8da9512c1f6c8f10b3642d52c0153d52c8a2ee3f6c8f2f58d0c7"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 629,
+    "targets": [
+      {
+        "word": "actor",
+        "meaning": "演員",
+        "appearsInSource": true
+      },
+      {
+        "word": "afternoon",
+        "meaning": "下午",
+        "appearsInSource": true
+      },
+      {
+        "word": "band",
+        "meaning": "樂團",
+        "appearsInSource": true
+      },
+      {
+        "word": "celebrate",
+        "meaning": "慶祝",
+        "appearsInSource": true
+      },
+      {
+        "word": "corner",
+        "meaning": "角落",
+        "appearsInSource": true
+      },
+      {
+        "word": "die",
+        "meaning": "死亡",
+        "appearsInSource": true
+      },
+      {
+        "word": "glasses",
+        "meaning": "眼鏡",
+        "appearsInSource": true
+      },
+      {
+        "word": "I",
+        "meaning": "我",
+        "appearsInSource": true
+      },
+      {
+        "word": "key",
+        "meaning": "鑰匙",
+        "appearsInSource": true
+      },
+      {
+        "word": "last",
+        "meaning": "最後的",
+        "appearsInSource": true
+      },
+      {
+        "word": "media",
+        "meaning": "媒體",
+        "appearsInSource": true
+      },
+      {
+        "word": "more",
+        "meaning": "更多",
+        "appearsInSource": true
+      },
+      {
+        "word": "o'clock",
+        "meaning": "整點",
+        "appearsInSource": true
+      },
+      {
+        "word": "or",
+        "meaning": "或者",
+        "appearsInSource": true
+      },
+      {
+        "word": "package",
+        "meaning": "包裹",
+        "appearsInSource": true
+      },
+      {
+        "word": "play",
+        "meaning": "演奏",
+        "appearsInSource": true
+      },
+      {
+        "word": "poor",
+        "meaning": "貧窮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "supermarket",
+        "meaning": "超市",
+        "appearsInSource": true
+      },
+      {
+        "word": "ticket",
+        "meaning": "票券",
+        "appearsInSource": true
+      },
+      {
+        "word": "tired",
+        "meaning": "疲倦的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why does Moss bring only one basket of bread?",
+      "options": [
+        "He has limited time and energy",
+        "He has no flour",
+        "He dislikes music"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He has limited time and energy",
+      "existingAnswerExplanation": "莫斯不想承擔超過自己能力的工作量。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "In the afternoon, Lark brought a package to the shop. Inside were tickets for a village music day. A small band would play near the supermarket, and an actor would tell stories from long ago. \"The music starts at three o'clock,\" Lark said. \"Would you like to bring a little bread for the visitors?\" Fia looked at Moss. The last test breakfast had been tiring. She did not want to ask him to do more than he could. Moss said he could make one small basket, but not a full meal. \"Then we will say that clearly,\" Fia told Lark. \"We can join for one hour.\"",
+          "chinese": "下午，拉克送來一個包裹，裡面是村裡音樂日的票券。小樂團會在超市附近演奏，一名演員則會講述往日故事。「音樂下午三點開始。」拉克說，「你們想帶一點麵包給訪客嗎？」菲雅看向莫斯。上次試吃已很累，她不想再要求他超過能力範圍的工作。莫斯說自己能做一小籃，卻做不了完整餐點。「那就明白告訴大家，」菲雅對拉克說，「我們只參加一小時。」",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 3,
+          "english": "The band began to play, and children danced near the trees. Fia was tired from standing, but she stayed until their agreed time. A poor traveler asked whether there was any bread left. Moss opened the box. There was one small roll. \"You can have it,\" he said. The traveler thanked him and offered a ticket he could not use. Fia said he should keep the ticket for someone else. She did not want food to become a trade made under pressure. They could give a small gift because they chose to, and still keep their money plan clear. \"We can celebrate music and still be careful with our work,\" Fia told Moss as they put their basket away.",
+          "chinese": "樂團開始演奏，孩子們在樹旁跳舞。菲雅站得累了，但仍待到約定時間。一名手頭拮据的旅人問是否還有麵包。莫斯打開盒子，裡面剩一顆小餐包。「你可以拿去。」他說。旅人道謝，想送出自己用不到的票券。菲雅請他留給別人。她不希望食物變成壓力下的交換。他們能自願送出小禮物，也能繼續保持清楚的金錢計畫。 「我們可以慶祝音樂，也能謹慎做好工作。」菲雅收起籃子時對莫斯說。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What lesson does Fia take from the flower story?",
+      "options": [
+        "Good work needs daily care",
+        "Music is dangerous",
+        "Every flower is food"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Good work needs daily care",
+      "existingAnswerExplanation": "她理解小店需要持續照顧，而非只靠一次熱鬧活動。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Near the last song, the actress spoke about a flower that would die if nobody gave it water. She told the story as a child who cared for a plant, then grew old and taught another child to care. Fia listened closely. The story was simple, but its meaning stayed with her. A shop could not live on one happy day. People had to return, do the daily work, and care for one another when nobody was watching. Moss felt the same. \"We should not open every day at first,\" he said. \"Let us learn to do two days well before we try more.\"",
+          "chinese": "最後一首歌前，女演員講了一株沒人澆水就會死去的花。故事裡的孩子照顧花，長大、變老，再教另一個孩子照顧。菲雅聽得很仔細。故事簡單，意思卻留在心裡。小店不能靠一天的快樂活下去；即使沒人看見，大家也要持續做日常工作並互相照顧。莫斯也這麼想。「起初不要天天開店，」他說，「先學會把兩天做好，再試更多天。」",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 2,
+          "english": "At the music day, Pip helped them find a corner beside the trees. He had his glasses on and carried a small sign. \"Bread from the Red House,\" it said. Fia had the key to the bread box, and Moss had the food. They worked together to set up their table. An actress came over and smiled. She had seen the red house when she was little. \"I remember the old woman who lived there,\" she said. \"She gave water to anyone on a hot day.\" Fia told her that the woman was her grandmother. It made her happy to hear another story about her.",
+          "chinese": "音樂日當天，皮普幫他們在樹邊找到角落。他戴著眼鏡，帶來一塊小牌子，寫著「紅屋麵包」。菲雅拿著麵包箱鑰匙，莫斯負責食物。大家一起布置桌子。一名女演員走來微笑。她小時候見過紅屋。「我記得以前住那兒的老太太，」她說，「天熱時，她會給任何人水喝。」菲雅告訴她，那是自己的祖母。又聽見一個祖母的故事，令她很開心。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

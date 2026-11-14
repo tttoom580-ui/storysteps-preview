@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 15,
+  "chapterId": "ss-r10-l1-a-15",
+  "sourceChapterSha256": "53d5abdf9647d954735702661f53ed237086b9fbbf86d2bf31802183b274121e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "市場推廣時遇到漏水；發出的紙張不能代替實際出席",
+    "previousChapterEndingEnglish": "Before Celia left, she asked Nia what she had learned from the day. Nia answered, \"A gift is not always a simple yes, and a name is not always ours to share.\" Celia nodded. \"Then you are growing into the work.\" Nia did not feel like a great teacher yet. She still needed help with costs, weather, and difficult questions. But she had made choices she could explain. The sign on the door did not have a rich person's name in large letters. It said, in clear blue print: Star Class—All Questions Welcome. That was the name the group had chosen together.",
+    "nextChapterOpeningEnglish": "A new problem appeared on Wednesday. Someone had posted a message online saying the star class would show a hundred falling stars on Saturday. Nia knew that was not correct. She was angry, not because the picture was ugly, but because families might come expecting something she could not give. Ada found that the post had started with a local writer who had misunderstood a short note about a possible sky event later in the year. \"We need to correct it,\" Nia said. \"Not attack the person.\" She wrote a calm message: The Saturday class will teach how to find a few stars. We cannot promise falling stars."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Nia returned to the weekend market to invite more visitors to the star class. Mara's sister had a small restaurant there, and she offered them a table near the door. The place was full of food smells. A woman in a wide hat asked whether the class was expensive. Nia said no; the center paid for the room and the activities were free. \"Then how can you keep it open?\" the woman asked. Nia showed her the six-week plan and explained that the city would review the results. It was not a promise that the program would last forever, but it was a clear start.",
+        "zh": "妮雅回到週末市場，邀請更多人參加星星課。瑪拉的妹妹在那裡開了一間小餐廳，借給她們門邊的一張桌子。空氣裡滿是食物香氣。一位戴寬帽的女士問上課是不是很貴。妮雅說不會，中心提供教室，活動免費。「那妳們怎麼讓它繼續？」女士問。妮雅拿出六週計畫，說明市府之後會審查成果。這不代表課程永遠不會停止，但至少是清楚的開始。",
+        "englishSha256": "cc6f23f2a1192dcc29fe1cd9ed13ce4abea5255d43c56c1c325933c54c1e5d38",
+        "chineseSha256": "ebe18c32c3a3ac6cca3c1a369b56e5d67749dbfd74dca03350436624d5e4d987"
+      },
+      {
+        "number": 2,
+        "en": "Finn helped hand out papers. A visitor wearing a slim black T-shirt asked if he could bring his little brother, who loved animals more than stars. \"Of course,\" Nia said. \"We can talk about how people draw animals in the stars.\" Another person wanted to know whether food would be served at every lesson. Mara answered that a full meal was not part of the class, but water would be available and families could bring their own snacks. Nia was glad Mara spoke up. She did not want visitors to come with the wrong idea. The best way to welcome people was to tell the truth about what to expect.",
+        "zh": "芬恩幫忙發紙。一位穿著修身黑色T恤的訪客問，能不能帶喜歡動物勝過星星的弟弟來。「當然可以，」妮雅說，「我們可以聊人們如何把星星畫成動物。」另一位訪客問，每堂課是否供餐。瑪拉說，完整餐點不在課程範圍裡，但有飲水，家庭也可以自帶點心。妮雅很高興瑪拉主動回答。她不希望訪客帶著錯誤期待來上課。歡迎人的好方法，就是清楚說明會發生什麼事。",
+        "englishSha256": "0f7ec01315a488372f70e2e87527a1ab6a0bf854cea581a5e6771e3f4e2db576",
+        "chineseSha256": "2b2d828122633c8c1762837d13669060c723a2263c0d69e2c1787ccbc861b44a"
+      },
+      {
+        "number": 3,
+        "en": "At noon, a pipe near the market sinks began to leak. Water ran under a nearby table. A worker told everyone to move back while he closed the valve. Finn's knee was sore from a fall the day before, so Nia asked him to sit in a dry chair. She did not ask anyone to fix the pipe without training. \"How long will it take?\" a vendor asked. The worker said he did not know yet and needed to check it. Nia moved the class papers away from the wet area. She could still answer questions from the other side of the room, and the market staff could work safely.",
+        "zh": "中午時，市場水槽旁一條水管開始漏水，水流到附近桌下。一名工作人員請大家退後，自己先關閉閥門。芬恩昨天跌倒過，膝蓋還有些痠痛，妮雅請他坐在乾燥的椅子上。她沒有叫沒受過訓練的人去修水管。「要修多久？」一名攤販問。工作人員說還不確定，得先檢查。妮雅把課程資料移離濕處，改到房間另一側繼續回答問題，讓市場人員安心工作。",
+        "englishSha256": "836891b1f270caffe9cba81a8b63ff486c468e90ede53b46044ddea30fee358e",
+        "chineseSha256": "9892f3f1c21c199f6c1abeb61d9f46a5c6a3b66dec895e113c28a0b76489adec"
+      },
+      {
+        "number": 4,
+        "en": "Later, a man asked if the class could help him get a job at a science museum. Nia said the star class was for beginners and could not promise work. \"But you can learn the first ideas here,\" she added. He nodded and took a paper. A family asked whether a child from another town could join. Nia said visitors were welcome if they signed in and followed the safety rules. She found herself repeating those simple rules again and again. At first, she had worried that repeating them would be boring. Now she saw that a clear answer was more useful than a clever new speech each time.",
+        "zh": "後來，一名男子問，這堂課能不能幫他找到科學博物館的工作。妮雅說星星課是初學課，不能保證工作機會。「但你可以在這裡先學到基本觀念，」她補充。男子點頭，拿了一張介紹單。一家人問，外鎮的孩子能不能參加。妮雅說，只要登記並遵守安全規定，訪客都歡迎。她發現自己一再重複那些簡單規定。起初，她擔心大家聽了會覺得無聊，現在卻明白清楚的回答比每次都想一句聰明的新說法有用。",
+        "englishSha256": "9ab37527d8b70d04e05a9ffd8dc0fcc957d6f9d45b0c246fd111caa1c4f619d4",
+        "chineseSha256": "b78c99fe8e3c6e71e381ee3592ea318217f9a6faab2b4ad40b06d7288c3eecb5"
+      },
+      {
+        "number": 5,
+        "en": "A child who liked every kind of animal stopped by the table with his mother. He wanted to know whether people could see a rabbit in the stars. \"Some people tell stories about animal shapes in the sky,\" Nia said, \"but we will look at the real stars first.\" The boy asked if he had to eat before coming. Mara said it was wise to have a normal meal at home if the class was held at night. Nia added, \"Please bring water and wear comfortable shoes.\" The mother read the notice and thanked them for making the plan clear. She had not expected a star class to talk about shoes and water. Nia explained that children needed to feel safe and comfortable if they were going to pay attention to the sky. A good question was easier to ask when a child was not hungry or tired.",
+        "zh": "一個喜歡各種動物的孩子和媽媽停在攤位前。他想知道人們能不能在星星中看見兔子。「有些人會說天空裡動物形狀的故事，」妮雅回答，「但我們先觀察真正的星星。」男孩問上課前需不需要吃東西。瑪拉說，如果是夜間課，最好先在家正常用餐。妮雅補充：「請帶水，也穿舒服的鞋子。」媽媽讀了公告，謝謝她們說得這麼清楚。她沒想到星星課還會討論鞋子和水。妮雅解釋，孩子覺得安全舒適，才能專心看天空；不餓也不累時，更容易好好提問。",
+        "englishSha256": "2c75a9bbfeed9504176cbb209c2725c936f862e2d09cffe81f42facd52816d9d",
+        "chineseSha256": "553d6c531c4b9288bfb710b447f015a3aa52eb66c3104b19c4c5b592b8f67326"
+      },
+      {
+        "number": 6,
+        "en": "At closing time, Mara offered everyone a little bowl of soup. Finn ate slowly and watched the people leave. \"I want the whole world to come,\" he said. Nia laughed gently. \"Our room is too small for that,\" she replied. \"We only want the people who come to have a good place to learn.\" Ada counted the papers that had been taken, but she did not count them as students. \"A paper is not a person,\" she said. \"We will know who comes when they arrive.\" Nia wrote that line in the class notes. The day had not brought a room full of new learners, but it had given her a better way to explain the work.",
+        "zh": "收攤時，瑪拉請大家喝一小碗湯。芬恩慢慢吃著，看人們離開。「我想讓全世界都來，」他說。妮雅輕輕笑了。「我們的教室可沒那麼大，」她回答，「只希望真正來的人都有好地方學習。」艾達數了被拿走的介紹單，但沒有把數量當作學生人數。「一張紙不是一個人，」她說，「大家真的到場時才知道誰來。」妮雅把這句話記進課堂筆記。這一天沒有帶來滿滿的新學員，卻讓她更知道如何說明課程。",
+        "englishSha256": "566d3ff2266b239aca92d1a98380cc35e677c060be62678378efddb77f2bd7b1",
+        "chineseSha256": "0031ef67fd8059443a36b05a67edae96bde6a68bbf7e459d959fbdc910fb9dbf"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 699,
+    "targets": [
+      {
+        "word": "again",
+        "meaning": "再次",
+        "appearsInSource": true
+      },
+      {
+        "word": "animal",
+        "meaning": "動物",
+        "appearsInSource": true
+      },
+      {
+        "word": "at",
+        "meaning": "在",
+        "appearsInSource": true
+      },
+      {
+        "word": "eat",
+        "meaning": "吃",
+        "appearsInSource": true
+      },
+      {
+        "word": "expensive",
+        "meaning": "昂貴的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hat",
+        "meaning": "帽子",
+        "appearsInSource": true
+      },
+      {
+        "word": "how",
+        "meaning": "如何",
+        "appearsInSource": true
+      },
+      {
+        "word": "job",
+        "meaning": "工作",
+        "appearsInSource": true
+      },
+      {
+        "word": "market",
+        "meaning": "市場",
+        "appearsInSource": true
+      },
+      {
+        "word": "meal",
+        "meaning": "餐點",
+        "appearsInSource": true
+      },
+      {
+        "word": "pipe",
+        "meaning": "水管",
+        "appearsInSource": true
+      },
+      {
+        "word": "Please",
+        "meaning": "請",
+        "appearsInSource": true
+      },
+      {
+        "word": "restaurant",
+        "meaning": "餐廳",
+        "appearsInSource": true
+      },
+      {
+        "word": "sister",
+        "meaning": "姊姊",
+        "appearsInSource": true
+      },
+      {
+        "word": "slim",
+        "meaning": "瘦瘦的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sore",
+        "meaning": "疼痛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "T-shirt",
+        "meaning": "T恤",
+        "appearsInSource": true
+      },
+      {
+        "word": "visitor",
+        "meaning": "訪客",
+        "appearsInSource": true
+      },
+      {
+        "word": "want",
+        "meaning": "想要",
+        "appearsInSource": true
+      },
+      {
+        "word": "world",
+        "meaning": "世界",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What happens near the market sinks?",
+      "options": [
+        "A new star appears.",
+        "A pipe begins to leak.",
+        "The restaurant closes forever."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "A pipe begins to leak.",
+      "existingAnswerExplanation": "市場水槽旁的管線漏水，工作人員處理，大家避開。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "At noon, a pipe near the market sinks began to leak. Water ran under a nearby table. A worker told everyone to move back while he closed the valve. Finn's knee was sore from a fall the day before, so Nia asked him to sit in a dry chair. She did not ask anyone to fix the pipe without training. \"How long will it take?\" a vendor asked. The worker said he did not know yet and needed to check it. Nia moved the class papers away from the wet area. She could still answer questions from the other side of the room, and the market staff could work safely.",
+          "chinese": "中午時，市場水槽旁一條水管開始漏水，水流到附近桌下。一名工作人員請大家退後，自己先關閉閥門。芬恩昨天跌倒過，膝蓋還有些痠痛，妮雅請他坐在乾燥的椅子上。她沒有叫沒受過訓練的人去修水管。「要修多久？」一名攤販問。工作人員說還不確定，得先檢查。妮雅把課程資料移離濕處，改到房間另一側繼續回答問題，讓市場人員安心工作。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "Nia returned to the weekend market to invite more visitors to the star class. Mara's sister had a small restaurant there, and she offered them a table near the door. The place was full of food smells. A woman in a wide hat asked whether the class was expensive. Nia said no; the center paid for the room and the activities were free. \"Then how can you keep it open?\" the woman asked. Nia showed her the six-week plan and explained that the city would review the results. It was not a promise that the program would last forever, but it was a clear start.",
+          "chinese": "妮雅回到週末市場，邀請更多人參加星星課。瑪拉的妹妹在那裡開了一間小餐廳，借給她們門邊的一張桌子。空氣裡滿是食物香氣。一位戴寬帽的女士問上課是不是很貴。妮雅說不會，中心提供教室，活動免費。「那妳們怎麼讓它繼續？」女士問。妮雅拿出六週計畫，說明市府之後會審查成果。這不代表課程永遠不會停止，但至少是清楚的開始。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Ada not count taken papers as students?",
+      "options": [
+        "A paper is not the same as an attendee.",
+        "The papers are red.",
+        "Only children can read them."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A paper is not the same as an attendee.",
+      "existingAnswerExplanation": "發出去的介紹單不代表實際出席人數。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "At closing time, Mara offered everyone a little bowl of soup. Finn ate slowly and watched the people leave. \"I want the whole world to come,\" he said. Nia laughed gently. \"Our room is too small for that,\" she replied. \"We only want the people who come to have a good place to learn.\" Ada counted the papers that had been taken, but she did not count them as students. \"A paper is not a person,\" she said. \"We will know who comes when they arrive.\" Nia wrote that line in the class notes. The day had not brought a room full of new learners, but it had given her a better way to explain the work.",
+          "chinese": "收攤時，瑪拉請大家喝一小碗湯。芬恩慢慢吃著，看人們離開。「我想讓全世界都來，」他說。妮雅輕輕笑了。「我們的教室可沒那麼大，」她回答，「只希望真正來的人都有好地方學習。」艾達數了被拿走的介紹單，但沒有把數量當作學生人數。「一張紙不是一個人，」她說，「大家真的到場時才知道誰來。」妮雅把這句話記進課堂筆記。這一天沒有帶來滿滿的新學員，卻讓她更知道如何說明課程。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 2,
+          "english": "Finn helped hand out papers. A visitor wearing a slim black T-shirt asked if he could bring his little brother, who loved animals more than stars. \"Of course,\" Nia said. \"We can talk about how people draw animals in the stars.\" Another person wanted to know whether food would be served at every lesson. Mara answered that a full meal was not part of the class, but water would be available and families could bring their own snacks. Nia was glad Mara spoke up. She did not want visitors to come with the wrong idea. The best way to welcome people was to tell the truth about what to expect.",
+          "chinese": "芬恩幫忙發紙。一位穿著修身黑色T恤的訪客問，能不能帶喜歡動物勝過星星的弟弟來。「當然可以，」妮雅說，「我們可以聊人們如何把星星畫成動物。」另一位訪客問，每堂課是否供餐。瑪拉說，完整餐點不在課程範圍裡，但有飲水，家庭也可以自帶點心。妮雅很高興瑪拉主動回答。她不希望訪客帶著錯誤期待來上課。歡迎人的好方法，就是清楚說明會發生什麼事。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

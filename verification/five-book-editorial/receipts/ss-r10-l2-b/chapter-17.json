@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 17,
+  "chapterId": "ss-r10-l2-b-17",
+  "sourceChapterSha256": "73cafd5747a6e267ebfdb47214e8621bbca1f8e2284108021398472285799d3d",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "在鄉村小學紙本練訪談，回程公車前的聯絡討論標回憶",
+    "previousChapterEndingEnglish": "When they parted, Evan asked if she needed help with her class paper. May said she wanted to try alone first. He accepted the answer, then handed her the schedule for next week's school visit. She liked that he was becoming someone who offered help without expecting to be needed. He liked that she would tell him no without fearing he might leave. They had not planned a dramatic romance; they had simply learned to make space for each other's full lives. It felt steadier than a promise made under bright lights.",
+    "nextChapterOpeningEnglish": "A recent storm caused a power failure just before a guest artist's arrival. In the old hall, a light switch sparked and a little smoke rose from the wall. Evan shut down the system without trying to fix live wires. A guard asked everyone to move backward from the door, and May counted the volunteers outside. An empty candle box sat near the bar where snacks were usually sold, but nothing was burning there. The building officer said the fault needed a trained electrician. May wrote a short statement of what they had seen, including the time and the smell."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The project team visited a village school to teach children how to listen to local stories. May wrote a basic quiz on a blackboard but left room for more than one reasonable answer. Evan brought a wooden box holding a sample recorder and a small speaker. A teacher from the education department asked whether the lesson could depend less on expensive devices. Evan agreed. He opened a drawer and took out paper, pencils, and a simple recording form. The children would first interview one another without machines, then decide together which questions were fair.",
+        "zh": "計畫團隊到村莊學校教孩子如何聆聽地方故事。慧在黑板上寫了基本小測驗，卻為不只一種合理答案留下空間。安澤帶來木盒，裡面裝有錄音器樣本與小喇叭。教育部門的一位老師問，課程能否少依賴昂貴器材。安澤同意。他打開抽屜，拿出紙筆與簡單的紀錄表。孩子們先不用機器互相訪談，再一起決定什麼問題才公平。",
+        "englishSha256": "5458dc3cfed866b03f35b90c02ead004a8b398321694458f1c750916b557625a",
+        "chineseSha256": "1919083a5f59f648b6cc555532397c487c7165833254841b26de6b1d7410ec82"
+      },
+      {
+        "number": 2,
+        "en": "In the first class, two students told stories that sounded alike, both about a grand family meal. One remembered warm soda from a summer picnic; the other remembered a cup of wine that adults had kept out of reach. May said similarity did not mean the memories were the same. A girl's story about a local river gave another student a shock because his family had once lived there. They began to see that a place could hold many views. Evan showed the class how to manage a recording project without making one person the boss of every answer.",
+        "zh": "第一堂課，兩個學生講了聽起來相似的故事，都在談盛大的家族聚餐。一人記得夏日野餐時喝到溫掉的汽水；另一人記得大人放在孩子碰不到地方的一杯酒。慧說，相似不代表回憶相同。一名女孩講起當地河流，讓另一位同學驚訝，因為他家以前住在那裡。大家開始理解，同一個地方可以容納許多觀點。安澤教他們如何管理錄音計畫，而不是讓一人主宰所有答案。",
+        "englishSha256": "69cb2ffdd371f29c27afd24362feb2020528924c3622f39416d2ad1ef5e0ec7e",
+        "chineseSha256": "f6af55ffa6e7b876de1cf684deee32ce34aa6b9f060e8daae16b3763670f452a"
+      },
+      {
+        "number": 3,
+        "en": "The class divided into three groups: asking, listening, and checking. One boy wanted to keep the recorder for the whole lesson because he had the most skill with buttons. May told him that shared work did not erase his ability. It gave others a chance to learn. He reluctantly moved to the listening group, where he discovered that his best friend spoke much more softly when nervous. The boy asked permission before repeating the story. Later, he said the most surprising part of the day was not the machine but the things he had never noticed about people sitting beside him.",
+        "zh": "全班分成三組：提問、聆聽和核對。一名男孩最懂按鍵，因此想整堂課都拿著錄音器。慧告訴他，分工不會抹去他的能力，而是讓其他人也有學習機會。他不太情願地去聆聽組，卻發現好友緊張時說話會特別輕。他在轉述故事前先徵求許可。稍後他說，這一天最令他驚訝的不是機器，而是坐在身邊、自己從沒注意過的人。",
+        "englishSha256": "02acf417b451402274dc8ced97553be831c5a40822b4824b7f7896c2a881b5aa",
+        "chineseSha256": "f7c119ed2d8c36564eeecade5da458fb35ac412a0ba3c875a9c997cc2667a096"
+      },
+      {
+        "number": 4,
+        "en": "At lunch the teacher asked the visitors whether the materials could remain at school. Evan promised copies of the worksheets but not the private recordings. May added that the school could use the lesson plan freely with its own students. The teacher thanked them, saying that was a better gift than a box full of voices nobody had agreed to share. On the bus back, May rested her head against the window. Evan opened his notebook and wrote down the questions the children had asked, because he did not want to forget how much they still had to learn.",
+        "zh": "午餐時，老師問這些教材能否留在學校。安澤答應提供學習單副本，但不會留下私人錄音。慧補充，學校可以自由使用課程設計，帶自己的學生練習。老師謝謝他們，說這比送一箱沒人同意分享的聲音更好。回程公車上，慧靠著車窗休息。安澤打開筆記，寫下孩子們提出的問題，因為他不想忘記自己還有多少要學。",
+        "englishSha256": "c59d6c97c2a307e64da47338bf672b752e038f53c03395933b35e0844b3aa2d6",
+        "chineseSha256": "21426ff7927a7374008f28c8df88f80ec84b8c94505f85521419d1bf38a832f8"
+      },
+      {
+        "number": 5,
+        "en": "Earlier, before leaving the school, Evan had asked which channel teachers used to share class news with families. He did not want to send a public link containing students' private voices. The teacher showed him a closed group for lesson plans and said it would be enough to share instructions, not recordings. May told the students that the division of duties in a good team could change from day to day. A person who asked questions today might be the one explaining the rules tomorrow. “Suppose you hear a story that makes you laugh,” she said. “Can you share it at once?” The children answered no and explained why. Evan smiled, impressed by how naturally they used a rule that had taken the adults several difficult meetings to learn. The lesson ended with paper drawings rather than digital files, and everyone was allowed to keep their own work.",
+        "zh": "稍早離校前，安澤曾問老師用什麼管道向家長分享班級消息。他不想傳出含有學生私人聲音的公開連結。老師展示只給家長看的封閉群組，說分享課程說明就夠了，不必分享錄音。慧告訴孩子，好團隊的分工每天都可以改變。今天提問的人，明天也許就能向別人解釋規則。「假設你聽到一個很好笑的故事，」她問，「能立刻分享嗎？」孩子們回答不行，也說出理由。安澤笑了；大人開了好幾次困難會議才學會的原則，孩子們用得如此自然。課程以紙上圖畫結束，而不是數位檔案，每個人都能保留自己的作品。",
+        "englishSha256": "07cca8df4800c7917f4d40a2861f93918d1215bba10e1b7e069e81feed473afc",
+        "chineseSha256": "39192e7d0ecf0ef26b5611cea5fc8032fa532466ca2b7d10d2af370ab2dac2db"
+      },
+      {
+        "number": 6,
+        "en": "That night Evan sent May a message saying she had been wonderful with the children. She answered that he had done well too, especially when he put the expensive recorder away. He replied with a drawing of a tiny paper microphone. May smiled at her screen. She did not need the whole world to know they liked each other. For now, kindness could live in a private message, and the public project could continue to be judged on its own work. That balance felt both new and possible.",
+        "zh": "那晚安澤傳訊息給慧，說她教孩子時很出色。慧回覆他也做得好，尤其是把昂貴錄音器收起來的時候。他傳來一張迷你紙麥克風的圖。慧對著螢幕微笑。她不需要全世界都知道兩人相互喜歡。此刻，善意可以留在私人訊息裡，公共計畫則繼續靠成果接受評價。這樣的平衡既陌生，也讓人覺得可行。",
+        "englishSha256": "c7d962bf3405b18bd298cfc894a493165a36f111d781e75b043a27e4bcd01159",
+        "chineseSha256": "2111bcac3c6bf58adfc4ab2467fe137139f171cef93c6bd02d0f7b0a39505141"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 629,
+    "targets": [
+      {
+        "word": "alike",
+        "meaning": "相似的",
+        "appearsInSource": true
+      },
+      {
+        "word": "basic",
+        "meaning": "基本的",
+        "appearsInSource": true
+      },
+      {
+        "word": "channel",
+        "meaning": "管道",
+        "appearsInSource": true
+      },
+      {
+        "word": "depend",
+        "meaning": "依賴",
+        "appearsInSource": true
+      },
+      {
+        "word": "division",
+        "meaning": "分工",
+        "appearsInSource": true
+      },
+      {
+        "word": "drawer",
+        "meaning": "抽屜",
+        "appearsInSource": true
+      },
+      {
+        "word": "education",
+        "meaning": "教育",
+        "appearsInSource": true
+      },
+      {
+        "word": "grand",
+        "meaning": "盛大的；豐盛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "local",
+        "meaning": "當地的",
+        "appearsInSource": true
+      },
+      {
+        "word": "manage",
+        "meaning": "管理",
+        "appearsInSource": true
+      },
+      {
+        "word": "project",
+        "meaning": "計畫",
+        "appearsInSource": true
+      },
+      {
+        "word": "quiz",
+        "meaning": "小測驗",
+        "appearsInSource": true
+      },
+      {
+        "word": "sample",
+        "meaning": "樣品",
+        "appearsInSource": true
+      },
+      {
+        "word": "shock",
+        "meaning": "震驚",
+        "appearsInSource": true
+      },
+      {
+        "word": "skill",
+        "meaning": "技能",
+        "appearsInSource": true
+      },
+      {
+        "word": "soda",
+        "meaning": "汽水",
+        "appearsInSource": true
+      },
+      {
+        "word": "Suppose",
+        "meaning": "假設",
+        "appearsInSource": true
+      },
+      {
+        "word": "village",
+        "meaning": "村莊",
+        "appearsInSource": true
+      },
+      {
+        "word": "wine",
+        "meaning": "葡萄酒",
+        "appearsInSource": true
+      },
+      {
+        "word": "wooden",
+        "meaning": "木製的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did Evan use paper in the school lesson?",
+      "options": [
+        "To teach interviews without costly devices",
+        "To stop the class early",
+        "To replace every school book"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To teach interviews without costly devices",
+      "existingAnswerExplanation": "課程先以紙筆練習訪談，降低對昂貴器材的依賴。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The project team visited a village school to teach children how to listen to local stories. May wrote a basic quiz on a blackboard but left room for more than one reasonable answer. Evan brought a wooden box holding a sample recorder and a small speaker. A teacher from the education department asked whether the lesson could depend less on expensive devices. Evan agreed. He opened a drawer and took out paper, pencils, and a simple recording form. The children would first interview one another without machines, then decide together which questions were fair.",
+          "chinese": "計畫團隊到村莊學校教孩子如何聆聽地方故事。慧在黑板上寫了基本小測驗，卻為不只一種合理答案留下空間。安澤帶來木盒，裡面裝有錄音器樣本與小喇叭。教育部門的一位老師問，課程能否少依賴昂貴器材。安澤同意。他打開抽屜，拿出紙筆與簡單的紀錄表。孩子們先不用機器互相訪談，再一起決定什麼問題才公平。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 4,
+          "english": "At lunch the teacher asked the visitors whether the materials could remain at school. Evan promised copies of the worksheets but not the private recordings. May added that the school could use the lesson plan freely with its own students. The teacher thanked them, saying that was a better gift than a box full of voices nobody had agreed to share. On the bus back, May rested her head against the window. Evan opened his notebook and wrote down the questions the children had asked, because he did not want to forget how much they still had to learn.",
+          "chinese": "午餐時，老師問這些教材能否留在學校。安澤答應提供學習單副本，但不會留下私人錄音。慧補充，學校可以自由使用課程設計，帶自己的學生練習。老師謝謝他們，說這比送一箱沒人同意分享的聲音更好。回程公車上，慧靠著車窗休息。安澤打開筆記，寫下孩子們提出的問題，因為他不想忘記自己還有多少要學。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the students learn about sharing a funny story?",
+      "options": [
+        "They needed permission first",
+        "They should post it immediately",
+        "Only teachers may laugh"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They needed permission first",
+      "existingAnswerExplanation": "孩子能說出，即使故事好笑也不能未經同意分享。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The class divided into three groups: asking, listening, and checking. One boy wanted to keep the recorder for the whole lesson because he had the most skill with buttons. May told him that shared work did not erase his ability. It gave others a chance to learn. He reluctantly moved to the listening group, where he discovered that his best friend spoke much more softly when nervous. The boy asked permission before repeating the story. Later, he said the most surprising part of the day was not the machine but the things he had never noticed about people sitting beside him.",
+          "chinese": "全班分成三組：提問、聆聽和核對。一名男孩最懂按鍵，因此想整堂課都拿著錄音器。慧告訴他，分工不會抹去他的能力，而是讓其他人也有學習機會。他不太情願地去聆聽組，卻發現好友緊張時說話會特別輕。他在轉述故事前先徵求許可。稍後他說，這一天最令他驚訝的不是機器，而是坐在身邊、自己從沒注意過的人。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 5,
+          "english": "Earlier, before leaving the school, Evan had asked which channel teachers used to share class news with families. He did not want to send a public link containing students' private voices. The teacher showed him a closed group for lesson plans and said it would be enough to share instructions, not recordings. May told the students that the division of duties in a good team could change from day to day. A person who asked questions today might be the one explaining the rules tomorrow. “Suppose you hear a story that makes you laugh,” she said. “Can you share it at once?” The children answered no and explained why. Evan smiled, impressed by how naturally they used a rule that had taken the adults several difficult meetings to learn. The lesson ended with paper drawings rather than digital files, and everyone was allowed to keep their own work.",
+          "chinese": "稍早離校前，安澤曾問老師用什麼管道向家長分享班級消息。他不想傳出含有學生私人聲音的公開連結。老師展示只給家長看的封閉群組，說分享課程說明就夠了，不必分享錄音。慧告訴孩子，好團隊的分工每天都可以改變。今天提問的人，明天也許就能向別人解釋規則。「假設你聽到一個很好笑的故事，」她問，「能立刻分享嗎？」孩子們回答不行，也說出理由。安澤笑了；大人開了好幾次困難會議才學會的原則，孩子們用得如此自然。課程以紙上圖畫結束，而不是數位檔案，每個人都能保留自己的作品。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

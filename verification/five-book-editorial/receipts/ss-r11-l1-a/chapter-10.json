@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 10,
+  "chapterId": "ss-r11-l1-a-10",
+  "sourceChapterSha256": "2af90c966644f77a85fc6f180f209ce3ecc071bac42d7cf692f3b9cf44f1ba85",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "凱本人提出對安全無障礙小徑的實際需求，艾薇先詢問使用者而不自行替他決定路線或優先事項。",
+    "previousChapterEndingEnglish": "That evening Ivy called Ms. Wen with the name of the public seed guide. The teacher said the guide could help them plan a second set of seeds if necessary. “You have found something useful, even if it is not the box,” she said. Ivy felt more sure of their next step. She would ask the town garden group about safe seed storage, while Jun and Ms. Wen continued checking school rooms. They had two small jobs instead of one giant, impossible search.",
+    "nextChapterOpeningEnglish": "The school secretary called Ivy after class. She had found a blue folder with a list of things moved during the repair. The weather had been cold and wet that morning. A small car had taken music chairs to the town center, while a larger van had carried garden tools. The secretary was not sure whether the green box was in either car. “Maybe the names of the drivers will help,” she said. Ivy thanked her. She did not ask for private phone numbers. Ms. Wen could contact the people through the school office."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At school Ivy met a student named Kai. He was blind and used a long cane to find his way. His older brother walked beside him, but Kai chose where to go. The garden path ran between two low beds of plants, and a ball from the nearby sports field sometimes hit the fence. Kai asked if there could be a clear way through the garden without anything under his feet. Ivy had been thinking about seeds; she had not thought enough about the path itself. She listened carefully.",
+        "zh": "在學校，艾薇認識了一位叫凱的學生。他看不見，使用長手杖來辨認道路。哥哥走在旁邊，但由凱自己決定要往哪裡走。花園小徑位於兩排矮花圃之間，附近球場的球有時會打到圍欄。凱問能不能有一條沒有障礙物的清楚通道，讓他能安全穿過花園。艾薇一直在想種子的事，卻不夠留意小徑本身。她仔細聽他說話。",
+        "englishSha256": "44d67c47b5a8bb8c6865451435504a4b998a85a241a5450164bd57a25a3d856c",
+        "chineseSha256": "e89ea899efc61b0d7b6f3703420d16ef340d3274c1785079a04547ade5774461"
+      },
+      {
+        "number": 2,
+        "en": "The club moved a table to the center of the room and shared an apple after their walk. The day was warm, so Jun added a little ice to his water. Kai said he could hear the ice move in the cup. Ivy asked what he liked most about gardens. “I love the smell of leaves after rain,” he said. “I also like knowing there is somewhere I can sit and talk with friends.” Ivy looked around. A garden could be a place to learn science, but it could also be a place for friendship and quiet time.",
+        "zh": "散步後，社團把桌子移到教室中央，一起分吃蘋果。天氣暖和，俊在水裡加了一點冰。凱說他聽得見冰塊在杯中移動。艾薇問他最喜歡花園的哪一點。「我愛下雨後葉子的味道，」他說，「也喜歡知道那裡有個地方，可以坐著和朋友聊天。」艾薇環顧四周。花園不只能用來學科學，也能是交朋友和安靜休息的地方。",
+        "englishSha256": "eb971a82545e1920ac798f2616e26ed3c20134c18d6b7651f95164e5ad05342e",
+        "chineseSha256": "6dd7844c495e6c8f90dc931c2a0cbf40287c5492a00abffade815bd0883aa62f"
+      },
+      {
+        "number": 3,
+        "en": "Jun brought a pencil and drew the garden on a simple page. Kai asked him to explain the drawing with his voice. “The main way is here,” Jun said, “but a net for the sports field is too close.” Kai said he did not need his brother to answer every question for him. He wanted people to speak to him directly. Ivy agreed that he was right. They spent half an hour walking around the garden together and asking which places felt easy and which felt hard to use.",
+        "zh": "俊拿來鉛筆，在紙上簡單畫出花園。凱請他用說話的方式解釋圖。「主要通道在這裡，」俊說，「可是球場的網子太靠近了。」凱說他不需要哥哥替他回答每一個問題。他希望大家直接對他說話。艾薇同意他說得對。他們一起花了半小時繞花園，討論哪些地方容易走、哪些地方使用起來比較困難。",
+        "englishSha256": "28b721ab52b54fe925517f66b1dff5dd15ba92360ec05c49089668c54c1d3c48",
+        "chineseSha256": "66b4bee00e04877feee8440f6a4a328856189bf3796aafb0c74f1101aa6ed197"
+      },
+      {
+        "number": 4,
+        "en": "A teacher suggested putting small stones along the path. Kai said stones might be difficult if they moved under his cane. “There is no one right answer for every person,” he explained. Ivy loved the way he spoke clearly about what he needed. The club decided to spend part of its garden money on a firm path and signs that could be read by touch. They would ask Kai to try the path after it was made. They would not call it perfect just because it looked nice online.",
+        "zh": "一位老師建議沿著小徑放小石頭。凱說，如果石頭在手杖下移動，就可能造成困難。「沒有一個答案適合每一個人，」他解釋。艾薇很欣賞他清楚說出自己需要什麼。社團決定花一部分經費做穩固的小徑，以及能用觸摸辨認的標示牌。做好以後，他們會請凱試走，而不會只因照片在網路上好看，就宣布設計完美。",
+        "englishSha256": "7308ae8d806e8c676342d07f74e97ffb8c1fd0ad655e6491592a5d9be034e0ae",
+        "chineseSha256": "eaccd30ee27d82c1c7c85eaebd0c0073647d8744a0ea5dc27b1899ecdb238a92"
+      },
+      {
+        "number": 5,
+        "en": "After lunch Ivy wrote three questions for the school workers. How wide could the new path be? Where could a chair stand without blocking anyone? Could the signs be made strong enough to stay in place when it rained? Kai listened and added one more: would people be allowed to ask for changes after opening day? Ivy placed that question at the top. A good plan was not a rule that could never change. It was a way for people to work together when they learned something new.",
+        "zh": "午餐後，艾薇替學校工人寫了三個問題：新小徑能有多寬？椅子能放在哪裡，才不會阻擋他人？標示牌能否做得夠堅固，遇雨也不會移位？凱聽完又補充：開放日之後，大家還可以提出修改建議嗎？艾薇把這一題放在最上面。好的計畫不是永遠不能改的規則，而是人們有了新發現時，能一起工作的辦法。",
+        "englishSha256": "b312abbde2e6872efb48aa3af6feab40fff4e0a5d01fde6276b9f076daf274ac",
+        "chineseSha256": "d7fa066b1c0508f9386d1e46f39c9bb2e7f957ace3b9f5e8f73558055fae4122"
+      },
+      {
+        "number": 6,
+        "en": "That afternoon Ivy saw two students kick a ball near the new seed cups. She asked them to use the field instead. She was not angry, only careful. The ball could break the cups, and a loose net could get in the way. The students moved away after she explained. Jun looked at the new drawing and said the green box was still important, but they now had another job. “We must make sure our garden is a place where everyone can come,” he said. Ivy thought that this was the right way to spend their time.",
+        "zh": "下午，艾薇看見兩個學生在新種子杯附近踢球。她請他們改到球場去玩。她不是生氣，只是小心。球可能打破杯子，鬆動的網也可能擋路。她說明原因後，兩人便移到別處。俊看著新圖說，綠箱子還是很重要，但他們現在有另一件工作。「我們必須確保所有人都能走進花園，」他說。艾薇覺得，這才是值得大家花時間做的事。",
+        "englishSha256": "cb7052c0447bc674f919f86ebbf98c9f19a05a3851e9ea4fa64785a575bc7b2f",
+        "chineseSha256": "02dfcfdea34ce679cdf3a52dccb8a5eef125630fe8f2947baa133f5a80688e34"
+      },
+      {
+        "number": 7,
+        "en": "Before going home, Kai asked how much of the path the club could change before garden day. Ivy said they did not know yet. Their teacher would check the plan and speak with the school office. Kai nodded. “Please tell me what you decide,” he said. “It is my school too.” Ivy wrote down his words. The garden was no longer only a place where seeds might grow. It was a place where the choices of different people had to fit together, just like the roots of plants under the earth.",
+        "zh": "回家前，凱問社團在花園日前能改好多少小徑。艾薇說還不知道，老師會先檢查計畫並與校方討論。凱點點頭。「請告訴我你們的決定，」他說，「這也是我的學校。」艾薇記下這句話。花園已不只是種子生長的地方，它也成為不同人的選擇需要彼此配合的地方，就像泥土下的植物根部一樣。",
+        "englishSha256": "ac6e892777440a4849181d51462339db9c7912389c7b04b9c62c46bfb292ec32",
+        "chineseSha256": "030e9e00173e40cb921d64b6d8d3dfc59266fbf38c10e5b9a62d41e51ec23517"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 641,
+    "targets": [
+      {
+        "word": "apple",
+        "meaning": "蘋果",
+        "appearsInSource": true
+      },
+      {
+        "word": "between",
+        "meaning": "在……之間",
+        "appearsInSource": true
+      },
+      {
+        "word": "blind",
+        "meaning": "失明的",
+        "appearsInSource": true
+      },
+      {
+        "word": "brother",
+        "meaning": "哥哥",
+        "appearsInSource": true
+      },
+      {
+        "word": "center",
+        "meaning": "中央",
+        "appearsInSource": true
+      },
+      {
+        "word": "half",
+        "meaning": "一半",
+        "appearsInSource": true
+      },
+      {
+        "word": "hit",
+        "meaning": "擊中",
+        "appearsInSource": true
+      },
+      {
+        "word": "ice",
+        "meaning": "冰",
+        "appearsInSource": true
+      },
+      {
+        "word": "kick",
+        "meaning": "踢",
+        "appearsInSource": true
+      },
+      {
+        "word": "love",
+        "meaning": "喜愛",
+        "appearsInSource": true
+      },
+      {
+        "word": "net",
+        "meaning": "球場防護網",
+        "appearsInSource": true
+      },
+      {
+        "word": "online",
+        "meaning": "線上的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pencil",
+        "meaning": "鉛筆",
+        "appearsInSource": true
+      },
+      {
+        "word": "right",
+        "meaning": "正確的",
+        "appearsInSource": true
+      },
+      {
+        "word": "simple",
+        "meaning": "簡單的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spend",
+        "meaning": "花費",
+        "appearsInSource": true
+      },
+      {
+        "word": "still",
+        "meaning": "仍然",
+        "appearsInSource": true
+      },
+      {
+        "word": "teacher",
+        "meaning": "老師",
+        "appearsInSource": true
+      },
+      {
+        "word": "voice",
+        "meaning": "聲音",
+        "appearsInSource": true
+      },
+      {
+        "word": "way",
+        "meaning": "方法",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Kai want for the garden?",
+      "options": [
+        "A clear path that he could use safely.",
+        "A louder sports field.",
+        "More stones in his way."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A clear path that he could use safely.",
+      "existingAnswerExplanation": "凱希望有一條沒有障礙的安全小徑",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "At school Ivy met a student named Kai. He was blind and used a long cane to find his way. His older brother walked beside him, but Kai chose where to go. The garden path ran between two low beds of plants, and a ball from the nearby sports field sometimes hit the fence. Kai asked if there could be a clear way through the garden without anything under his feet. Ivy had been thinking about seeds; she had not thought enough about the path itself. She listened carefully.",
+          "chinese": "在學校，艾薇認識了一位叫凱的學生。他看不見，使用長手杖來辨認道路。哥哥走在旁邊，但由凱自己決定要往哪裡走。花園小徑位於兩排矮花圃之間，附近球場的球有時會打到圍欄。凱問能不能有一條沒有障礙物的清楚通道，讓他能安全穿過花園。艾薇一直在想種子的事，卻不夠留意小徑本身。她仔細聽他說話。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 4,
+          "english": "A teacher suggested putting small stones along the path. Kai said stones might be difficult if they moved under his cane. “There is no one right answer for every person,” he explained. Ivy loved the way he spoke clearly about what he needed. The club decided to spend part of its garden money on a firm path and signs that could be read by touch. They would ask Kai to try the path after it was made. They would not call it perfect just because it looked nice online.",
+          "chinese": "一位老師建議沿著小徑放小石頭。凱說，如果石頭在手杖下移動，就可能造成困難。「沒有一個答案適合每一個人，」他解釋。艾薇很欣賞他清楚說出自己需要什麼。社團決定花一部分經費做穩固的小徑，以及能用觸摸辨認的標示牌。做好以後，他們會請凱試走，而不會只因照片在網路上好看，就宣布設計完美。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Ivy ask Kai for his own ideas?",
+      "options": [
+        "He used the garden and knew his needs.",
+        "He owned the school.",
+        "He had seen the green box."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He used the garden and knew his needs.",
+      "existingAnswerExplanation": "使用花園的人應能直接表達需求與選擇",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "At school Ivy met a student named Kai. He was blind and used a long cane to find his way. His older brother walked beside him, but Kai chose where to go. The garden path ran between two low beds of plants, and a ball from the nearby sports field sometimes hit the fence. Kai asked if there could be a clear way through the garden without anything under his feet. Ivy had been thinking about seeds; she had not thought enough about the path itself. She listened carefully.",
+          "chinese": "在學校，艾薇認識了一位叫凱的學生。他看不見，使用長手杖來辨認道路。哥哥走在旁邊，但由凱自己決定要往哪裡走。花園小徑位於兩排矮花圃之間，附近球場的球有時會打到圍欄。凱問能不能有一條沒有障礙物的清楚通道，讓他能安全穿過花園。艾薇一直在想種子的事，卻不夠留意小徑本身。她仔細聽他說話。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 4,
+          "english": "A teacher suggested putting small stones along the path. Kai said stones might be difficult if they moved under his cane. “There is no one right answer for every person,” he explained. Ivy loved the way he spoke clearly about what he needed. The club decided to spend part of its garden money on a firm path and signs that could be read by touch. They would ask Kai to try the path after it was made. They would not call it perfect just because it looked nice online.",
+          "chinese": "一位老師建議沿著小徑放小石頭。凱說，如果石頭在手杖下移動，就可能造成困難。「沒有一個答案適合每一個人，」他解釋。艾薇很欣賞他清楚說出自己需要什麼。社團決定花一部分經費做穩固的小徑，以及能用觸摸辨認的標示牌。做好以後，他們會請凱試走，而不會只因照片在網路上好看，就宣布設計完美。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

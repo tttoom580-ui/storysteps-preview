@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 8,
+  "chapterId": "ss-r11-l1-a-8",
+  "sourceChapterSha256": "8c9ec6b2b2e7ecb5b827b56df5aca0f0551c8446055d6853749ad79b382cff51",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "公園借桌紀錄與他校卡片排除錯誤線索",
+    "previousChapterEndingEnglish": "As the day ended, Ivy and Jun went outside. A little noise came from a group playing in the yard. The sky was clear, and a thin cloud crossed the sun. Jun said he liked solving things with his hands; he did not like waiting. Ivy understood him. She also wanted to open every door and look behind every shelf. But waiting for permission was part of caring for their school. “Tomorrow we can do more,” she said. They left the locked music room alone and walked home.",
+    "nextChapterOpeningEnglish": "The town held a spring festival beside the lake. Ivy visited with her grandmother, who loved to cook rice and tell stories about her long life. Grandmother brought an old garden card from home. On the back was a street name Ivy did not know. “Our town had a garden group before your school had one,” she explained. Ivy looked at the card and felt a little joy. Perhaps an older group could help them find the green box. She was ready to ask questions, but she would not turn the festival into a search party."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The music teacher found no green box in her closet. Then she told Ms. Wen about a park event held on the same day as the rain. A group had borrowed tables from school. Ivy and Jun went to the park with their teacher. Outside the gate, a girl in a bright dress was practicing a dance. Behind her, children played baseball on a field. A ball flew over the grass, and Jun moved back before it could hit him. The park was busy, but their visit had one clear question: had any garden things gone there?",
+        "zh": "音樂老師的儲物櫃裡沒有綠箱子。不過她告訴溫老師，下雨那天公園舉辦過活動，有團體向學校借了桌子。艾薇和俊在老師陪同下去了公園。門外，一位穿亮色洋裝的女孩正在練舞。她身後有孩子在草地上打棒球。一顆球飛過草地，俊往後退，避免被擊中。公園很熱鬧，但他們此行只有一個明確的問題：有沒有園藝物品被送到這裡？",
+        "englishSha256": "e0a6daeb67c4ef7ba8dd53134d01adcb7e6afc765334225cfa309b8b6734534e",
+        "chineseSha256": "78e099cebdd86acebfd907571db35faf8147a6c57e17d1b94d4bb67161f48c7b"
+      },
+      {
+        "number": 2,
+        "en": "A small bird began to fly above the park table. It landed near a paper cup and tried to reach a piece of bread. Jun worried that the bird might break the cup. Ivy waved gently from far away without trying to catch it. The bird moved to a tree. “My heart was going fast for a moment,” Jun said. He knew a small accident could make people upset in a busy park. Ivy smiled and asked him to slow down. Not every surprise was a new clue, and not every little problem needed a large answer.",
+        "zh": "一隻小鳥開始在公園桌上方飛，停在紙杯旁，想碰一塊麵包。俊擔心牠會打破杯子。艾薇站在遠處輕輕揮手，沒有試圖抓鳥。小鳥飛到樹上。「剛才我的心跳好快，」俊說。他知道熱鬧的公園裡，一個小意外也可能讓人慌張。艾薇微笑，請他放慢腳步。不是每個驚喜都是新線索，也不是每個小問題都需要很大的答案。",
+        "englishSha256": "543d71f995d5b5d91383f0e54619d743ab3da641daf556eb6148a2bfbae0e2ca",
+        "chineseSha256": "6e02c3601ca44cc5ae8a88a080cafab8c7c9432e00c4d9e5c137737da0cce4c1"
+      },
+      {
+        "number": 3,
+        "en": "A park officer showed them the table return area. The officer was nice, but she could not give out people's names without asking them. She explained that different groups had borrowed chairs, tables, and boxes. Some boxes held costumes for a play about a friendly ghost. One box held cups for tea, and another held food for a cooking group. Jun laughed at a ghost mask with large paper eyes. He was glad to see it was not the monkey picture from their garden box.",
+        "zh": "公園管理員帶他們去看桌椅歸還區。管理員很親切，但不能在未詢問當事人的情況下交出姓名。她說不同團體借過椅子、桌子和箱子。有些箱子裝著一齣友善鬼魂舞台劇的服裝；一箱裝著喝茶的杯子，另一箱則是烹飪團體的食物。俊看到一張有大紙眼睛的鬼怪面具時笑了。他慶幸那不是他們園藝箱上的猴子圖。",
+        "englishSha256": "f66ac18b3ce7a8e7e7c90a5ba969e77b80e89235b5575d679fc66f7f2c2cedf3",
+        "chineseSha256": "ab64dde1baf5b2ed5ca2854d87412111393a595fb4294fd12f5cfdf7cc3fbd8a"
+      },
+      {
+        "number": 4,
+        "en": "At the food table someone was giving children small pieces of bread with beef. Ivy tasted one after asking permission. It was good, but she was more interested in a stack of empty boxes nearby. She did not try to open any of them. Instead, Ms. Wen asked the officer to show the public list of school items borrowed for the event. No green garden box appeared on the list. The officer promised to ask the event leader whether any extra boxes had been brought in without a label.",
+        "zh": "食物桌旁，有人分給孩子小塊牛肉麵包。艾薇徵得同意後嚐了一塊，味道很好，但她更在意旁邊的一疊空箱子。她沒有自行打開。溫老師請管理員出示活動借用的學校物品公開清單，上面沒有綠色園藝箱。管理員答應詢問活動負責人，有沒有額外搬進未貼標籤的箱子。",
+        "englishSha256": "81afb506fa3a04d176ae4d3fcfb7c5a91610faaa6a62aabca2cd546c0da0d8fd",
+        "chineseSha256": "f6773dacc0e25db054f8d4c93bb6b5d3d232df70a8fe203fedad0fd6e0a5d117"
+      },
+      {
+        "number": 5,
+        "en": "Before leaving, the park leader offered the children water and a little fruit to taste. They thanked her and sat under a tree. Ivy saw how much work it took to keep the park clean after an event. The tables had to go back, signs had to be taken down, and lost things had to be returned. She wondered whether the school needed a better way to mark the things it lent to others. That question did not find their box, but it might keep another box from going missing next time.",
+        "zh": "離開前，公園負責人請孩子們喝水，也給他們一點水果嚐嚐。大家道謝，坐在樹下。艾薇看見活動結束後，維持公園整潔需要多少工作。桌子要歸還，標示牌要拆下，失物也要交還主人。她想著學校是否需要更好的方式，標記借出去的東西。這個問題沒有帶來綠箱子，卻可能避免下次又有箱子失蹤。",
+        "englishSha256": "4077e9adc9fa2abaaa542b71a15c4f58b01c7ecf5922ad7226066e3a494b7771",
+        "chineseSha256": "48a743c3d5c4e73c9d0c1cce58fed5ed26d8e6db17726875a948da2cd783754a"
+      },
+      {
+        "number": 6,
+        "en": "Jun asked why the answer was always another person to ask. “Because we do not know everything,” Ivy said. “And we cannot make an easy answer by guessing.” They took a walk around the park while Ms. Wen spoke with the event leader. Near a pond, the girl in the dress offered them a flower made of folded paper. Ivy said thank you but did not take it; the girl needed the flower for her dance. The small choice made Jun smile. They could be kind without taking things from one another.",
+        "zh": "俊問，為什麼每次得到的答案都是「還要再問另一個人」。艾薇說：「因為我們不知道所有事情，也不能靠猜測製造簡單的答案。」溫老師與活動負責人談話時，兩人在公園散步。池塘旁，那位穿洋裝的女孩想送他們一朵摺紙花。艾薇道謝，卻沒有收下，因為女孩還需要那朵花跳舞。俊因這個小選擇笑了。他們可以對彼此友善，而不必拿走別人的東西。",
+        "englishSha256": "ac6369c74f5eff53cb3078dd18bbc90df321f1ccb8a0eb73fe764b463e7d4453",
+        "chineseSha256": "23c471ae27549b207739306c26c64721aa553d13d7b29437f69c36b075cf44f1"
+      },
+      {
+        "number": 7,
+        "en": "The leader returned with a useful detail. During the rain, someone had left a wet card on a park bench. It showed a drawing of three little leaves. “It might be from a school garden,” she said. Ivy asked to see the card, then compared it with Jun's drawings. The leaves looked familiar, but the writing was not theirs. It belonged to another school nearby. “We found the owner of one lost thing,” Ivy said. “That is still good.” The leader thanked her for being careful.",
+        "zh": "活動負責人帶來一個有用的細節。下雨時，有人在公園長椅上留下濕卡片，上面畫著三片小葉子。「可能是學校花園的，」她說。艾薇請她拿出卡片，和俊的畫比較。葉子看起來眼熟，但上面的字不是他們寫的。原來卡片屬於附近另一所學校。「至少我們替另一件失物找到了主人，」艾薇說，「這也是好事。」負責人感謝她的細心。",
+        "englishSha256": "af18f2d900615c53310c2731858fa7d6e2e95216cce03921554b661b61bc622d",
+        "chineseSha256": "60fed26bd7045faa58fc0d00c6597afc1cf01c3fbfa6b7fda0c58ce01a973e37"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 638,
+    "targets": [
+      {
+        "word": "baseball",
+        "meaning": "棒球",
+        "appearsInSource": true
+      },
+      {
+        "word": "beef",
+        "meaning": "牛肉",
+        "appearsInSource": true
+      },
+      {
+        "word": "Behind",
+        "meaning": "在後面",
+        "appearsInSource": true
+      },
+      {
+        "word": "break",
+        "meaning": "打破／休息",
+        "appearsInSource": true
+      },
+      {
+        "word": "different",
+        "meaning": "不同的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dress",
+        "meaning": "洋裝",
+        "appearsInSource": true
+      },
+      {
+        "word": "easy",
+        "meaning": "容易的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fly",
+        "meaning": "飛",
+        "appearsInSource": true
+      },
+      {
+        "word": "ghost",
+        "meaning": "幽靈",
+        "appearsInSource": true
+      },
+      {
+        "word": "girl",
+        "meaning": "女孩",
+        "appearsInSource": true
+      },
+      {
+        "word": "give",
+        "meaning": "給予",
+        "appearsInSource": true
+      },
+      {
+        "word": "group",
+        "meaning": "團體",
+        "appearsInSource": true
+      },
+      {
+        "word": "heart",
+        "meaning": "心",
+        "appearsInSource": true
+      },
+      {
+        "word": "nice",
+        "meaning": "好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "officer",
+        "meaning": "管理員",
+        "appearsInSource": true
+      },
+      {
+        "word": "Outside",
+        "meaning": "外面",
+        "appearsInSource": true
+      },
+      {
+        "word": "park",
+        "meaning": "公園",
+        "appearsInSource": true
+      },
+      {
+        "word": "taste",
+        "meaning": "嚐一嚐",
+        "appearsInSource": true
+      },
+      {
+        "word": "walk",
+        "meaning": "步行",
+        "appearsInSource": true
+      },
+      {
+        "word": "why",
+        "meaning": "為什麼",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the park list show?",
+      "options": [
+        "The school had lent tables for an event.",
+        "The box had been sold.",
+        "A new school had opened."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The school had lent tables for an event.",
+      "existingAnswerExplanation": "清單顯示學校曾借桌子給公園活動",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Before leaving, the park leader offered the children water and a little fruit to taste. They thanked her and sat under a tree. Ivy saw how much work it took to keep the park clean after an event. The tables had to go back, signs had to be taken down, and lost things had to be returned. She wondered whether the school needed a better way to mark the things it lent to others. That question did not find their box, but it might keep another box from going missing next time.",
+          "chinese": "離開前，公園負責人請孩子們喝水，也給他們一點水果嚐嚐。大家道謝，坐在樹下。艾薇看見活動結束後，維持公園整潔需要多少工作。桌子要歸還，標示牌要拆下，失物也要交還主人。她想著學校是否需要更好的方式，標記借出去的東西。這個問題沒有帶來綠箱子，卻可能避免下次又有箱子失蹤。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "The music teacher found no green box in her closet. Then she told Ms. Wen about a park event held on the same day as the rain. A group had borrowed tables from school. Ivy and Jun went to the park with their teacher. Outside the gate, a girl in a bright dress was practicing a dance. Behind her, children played baseball on a field. A ball flew over the grass, and Jun moved back before it could hit him. The park was busy, but their visit had one clear question: had any garden things gone there?",
+          "chinese": "音樂老師的儲物櫃裡沒有綠箱子。不過她告訴溫老師，下雨那天公園舉辦過活動，有團體向學校借了桌子。艾薇和俊在老師陪同下去了公園。門外，一位穿亮色洋裝的女孩正在練舞。她身後有孩子在草地上打棒球。一顆球飛過草地，俊往後退，避免被擊中。公園很熱鬧，但他們此行只有一個明確的問題：有沒有園藝物品被送到這裡？",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Who owned the wet leaf card found at the park?",
+      "options": [
+        "Ivy.",
+        "Another nearby school.",
+        "Uncle Dan."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Another nearby school.",
+      "existingAnswerExplanation": "卡片經核對後證實屬於附近另一所學校",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "The leader returned with a useful detail. During the rain, someone had left a wet card on a park bench. It showed a drawing of three little leaves. “It might be from a school garden,” she said. Ivy asked to see the card, then compared it with Jun's drawings. The leaves looked familiar, but the writing was not theirs. It belonged to another school nearby. “We found the owner of one lost thing,” Ivy said. “That is still good.” The leader thanked her for being careful.",
+          "chinese": "活動負責人帶來一個有用的細節。下雨時，有人在公園長椅上留下濕卡片，上面畫著三片小葉子。「可能是學校花園的，」她說。艾薇請她拿出卡片，和俊的畫比較。葉子看起來眼熟，但上面的字不是他們寫的。原來卡片屬於附近另一所學校。「至少我們替另一件失物找到了主人，」艾薇說，「這也是好事。」負責人感謝她的細心。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 5,
+          "english": "Before leaving, the park leader offered the children water and a little fruit to taste. They thanked her and sat under a tree. Ivy saw how much work it took to keep the park clean after an event. The tables had to go back, signs had to be taken down, and lost things had to be returned. She wondered whether the school needed a better way to mark the things it lent to others. That question did not find their box, but it might keep another box from going missing next time.",
+          "chinese": "離開前，公園負責人請孩子們喝水，也給他們一點水果嚐嚐。大家道謝，坐在樹下。艾薇看見活動結束後，維持公園整潔需要多少工作。桌子要歸還，標示牌要拆下，失物也要交還主人。她想著學校是否需要更好的方式，標記借出去的東西。這個問題沒有帶來綠箱子，卻可能避免下次又有箱子失蹤。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

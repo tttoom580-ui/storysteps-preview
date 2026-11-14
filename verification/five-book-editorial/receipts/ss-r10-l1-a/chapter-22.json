@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l1-a",
+  "title": "紅磚街的星星課",
+  "chapter": 22,
+  "chapterId": "ss-r10-l1-a-22",
+  "sourceChapterSha256": "3fac6c2559be2b4ad933256eee0c853ddfd30a741905a202376be7babd67dec1",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "月亮幫手機器人和凸字字母標籤，兩種閱讀需求不同",
+    "previousChapterEndingEnglish": "Tonight, Nia wrote in her notebook, the class will not promise a perfect sky. It will show real learning. She read the line aloud to Ada. Ada said it sounded simple enough for anyone to understand. Nia thought of the early mornings, the bad weather, and the many small changes they had made. None of that work was as beautiful as a large picture of the stars. But it was the reason the children could come back each week and feel welcome. She switched off the last lamp and left the room ready for the final Saturday.",
+    "nextChapterOpeningEnglish": "On Friday, Nia went to the center office to finish the class report. Arun greeted her with a cheerful \"Hello!\" and offered her a chair. The report had pages of notes, but Nia wanted the board to understand what each page meant. She put the oldest work at the bottom of the pile and the newest on top. She did not want to hide the mistakes. \"This may look a little crazy,\" she said, \"but the changes are the story.\" Arun said the pages looked fine. They showed people learning, not a perfect class that had never needed help."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The final practice session began on Thursday with a question from a new visitor: \"What grade do I need to be in to join?\" Nia smiled. \"No grade is needed,\" she said. \"A baby may sit with a parent, and an older person may ask a new question.\" The visitor pointed to the paper models and asked why they were so simple. Nia invited him to sit on a bench near the door while she explained. The models were made for beginners. Nobody had to climb a high ladder or learn a long list of names to start. The class used a few clear words and tested what those words meant.",
+        "zh": "星期四的最後一次練習從新訪客的一個問題開始：「要讀幾年級才能參加？」妮雅微笑說：「不需要特定年級。嬰兒可以由家長帶著坐旁邊，長者也可以提出新問題。」訪客指著紙模型，問為什麼做得那麼簡單。妮雅請他坐在門邊長椅上，慢慢解釋：這些模型是為初學者設計的。沒有人需要爬高梯或先背完一長串名字，才能開始學習。班上使用少量清楚的詞，並親手測試它們代表的意思。",
+        "englishSha256": "e224b69d2fb79e3462522848a918180563784ef3847f9a3b58281c9fcbac0e0b",
+        "chineseSha256": "375b52a7ad2317eb9d9ad1f8ea22894455019be8664cbace072a6029b3309285"
+      },
+      {
+        "number": 2,
+        "en": "Bo had made a robot from a paper box. Its arms moved up and down, and he called it the Moon Helper. He hoped it would make the lesson fun. Finn put a small bat drawing on the robot's chest. A younger child wanted to draw a tiger on its leg. Nia said all of those drawings were welcome, as long as everyone knew the robot was not a real machine that could travel to the moon. Bo laughed. He moved the arms by hand and showed how the simple joints worked. The robot was weak and could not lift even a heavy book, but it gave the children a way to talk about movement.",
+        "zh": "波用紙箱做了一個機器人，手臂能上下移動，取名「月亮幫手」。他希望它能讓課程更有趣。芬恩在機器人胸前畫了一隻蝙蝠，一個小孩則想在腿上畫老虎。妮雅說都可以，只要大家知道，這不是能飛去月球的真實機器。波笑了，親手移動機器人的手臂，示範簡單的關節如何動。機器人很弱，連一本厚書都舉不起來，卻讓孩子們有機會討論移動的原理。",
+        "englishSha256": "aef39c994566b1b70a6854851a879881eb9c8c26bcdaf916d81a9b71b3873934",
+        "chineseSha256": "365cab27ec9f4277b7cc4a919a5b469e142b05ef89ff45ea117990b3dc1dbd0d"
+      },
+      {
+        "number": 3,
+        "en": "Ada asked students to place a dry plate under the paper ball model so it would not roll away. She measured a short gap between two dots: one inch. Tomas asked her to say the number aloud, and she did. Then he asked whether the class could spell the name of the moon beside the dots, making a large-print label and a separate raised-letter strip. Finn wrote M-O-O-N slowly, while Ada formed the same letters in thick paper for Tomas to feel. They checked the word together. Nia explained that a large clear label helped sighted people read with their eyes, while raised letters gave Tomas a way to read with his fingers. There was no perfect single way for everyone. The group could make more than one kind of label.",
+        "zh": "艾達請學生在紙球模型下放一個乾燥的盤子，以免球滾走。她量出兩個圓點之間一英吋的距離。托馬斯請她把數字念出來，她照做了。接著，托馬斯問能不能在凸點旁拼出月亮的英文，分別做一張大字標籤和一條凸字標籤。芬恩慢慢寫下 M-O-O-N，艾達則用厚紙做出同樣的字母，讓托馬斯可以摸讀。大家一起核對拼字。妮雅解釋，大而清楚的字可以讓看得見的學員閱讀，凸起的字母則讓托馬斯能用手指辨識。沒有一種方法適合所有人，所以全班可以製作不同的標籤。",
+        "englishSha256": "9c6353b27a1d10734169cf1a397448f8d2c39fa9ac135bfdacb87bd647817755",
+        "chineseSha256": "e135a6b424cf58b4cd266aa9759505038f2c1514184dbd524eff7006025e58ae"
+      },
+      {
+        "number": 4,
+        "en": "During the break, Mrs. Sol said she had put a little sugar in her tea. She was glad the center had a place near the window where she could sit and rest. Another student wanted to take all the work home at once. Nia explained that the models belonged to the class for now, but the center would make simple copies where possible. \"Somewhere in this room is your own work too,\" she told him. \"You can show it to your family today.\" He found his first star card on the wall and looked at it for a long time. He could see how his writing had changed over the weeks.",
+        "zh": "休息時，索爾奶奶說她在茶裡加了一點糖。她很高興中心窗邊有地方可以坐下休息。另一位學生想一次把所有作品帶回家。妮雅解釋，模型目前仍屬於班上，中心會盡可能製作簡單的副本。「你的作品也在這個房間的某個地方，」她告訴他，「今天就可以展示給家人看。」孩子在牆上找到自己第一張星卡，看了很久。他看見自己的字跡幾週來如何慢慢改變。",
+        "englishSha256": "d4e9b08c69694b97a8126bbe2cab077bd8d3290578de59b3b4d08a242f8e63ce",
+        "chineseSha256": "04feec1a103653f454b61992e062908a2da90245e295155e08e01bbc69de4c86"
+      },
+      {
+        "number": 5,
+        "en": "Before the final activity, Nia asked each student to explain one part of the program to a visitor. Bo said the paper robot could show movement, but not travel to the moon. Rae said a picture of a star was not the same as seeing one outside. Tomas described the raised map and invited people to ask before touching his personal copy. Finn stood beside the lamp model and explained how the moon ball changed in the light. Nia listened without correcting their speaking style. She only stepped in if a fact needed checking. The visitors understood the work because they heard it from the people who had made it. When the small talks ended, the students helped each other put the models back in their places.",
+        "zh": "最後一個活動前，妮雅請每位學生向訪客解釋課程裡的一個部分。波說紙機器人可以示範移動，卻不能飛到月球。芮說星星圖片不等於真的到戶外看見星星。托馬斯描述凸點地圖，並請大家摸他的個人副本前先詢問。芬恩站在燈模型旁，說明月亮球在光照下如何變化。妮雅傾聽，沒有因說話風格不同而更正，只有事實需要核對時才補充。訪客聽製作者親自說明，便明白了作品。簡短的分享結束後，學生們互相幫忙，把模型放回原位。",
+        "englishSha256": "12404c87434f51b5c3cc49beb4f213a077b9c527336203509b97a64e02181931",
+        "chineseSha256": "579e5f687269be1aa24e0137c1b3a77fa5ecb32273c1857e6670587f8711de60"
+      },
+      {
+        "number": 6,
+        "en": "When the practice session ended, Nia asked the class for one word they wanted to remember. Finn said \"moon.\" Tomas said \"choice.\" Bo said \"try.\" Mrs. Sol said \"together.\" Nia wrote the four words on a board near the door. The class had not learned everything about space. No one could in six weeks. But they had learned how to look, ask, test, and listen. They were ready to show the center board what had happened in the little room. Nia asked everyone to check the floor for paper before leaving. They went home with their work safe and the room clean.",
+        "zh": "練習結束時，妮雅請大家各說一個想記住的詞。芬恩說「月亮」，托馬斯說「選擇」，波說「嘗試」，索爾奶奶說「一起」。妮雅把四個詞寫在門邊的板上。六週不可能學完太空的所有知識，任何人都辦不到。但他們已經學會觀察、提問、測試和傾聽。他們準備好向中心委員會展示這間小教室發生過的事。妮雅請大家離開前檢查地面有沒有紙屑。大家帶著受到妥善保管的作品、留下乾淨的房間回家。",
+        "englishSha256": "02bdcfad08aa3f874ef5cc9c8f9442bc5e46137a4ecf3945fd0d6c04f0de6d52",
+        "chineseSha256": "887cb833b74bf9a3cc61bfddc5ef491cbb2718723b752114fd9076c4dfa9dc61"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 697,
+    "targets": [
+      {
+        "word": "baby",
+        "meaning": "嬰兒",
+        "appearsInSource": true
+      },
+      {
+        "word": "bat",
+        "meaning": "蝙蝠",
+        "appearsInSource": true
+      },
+      {
+        "word": "bench",
+        "meaning": "長椅",
+        "appearsInSource": true
+      },
+      {
+        "word": "climb",
+        "meaning": "攀爬",
+        "appearsInSource": true
+      },
+      {
+        "word": "down",
+        "meaning": "向下",
+        "appearsInSource": true
+      },
+      {
+        "word": "dry",
+        "meaning": "乾燥的",
+        "appearsInSource": true
+      },
+      {
+        "word": "explain",
+        "meaning": "解釋",
+        "appearsInSource": true
+      },
+      {
+        "word": "grade",
+        "meaning": "年級",
+        "appearsInSource": true
+      },
+      {
+        "word": "inch",
+        "meaning": "英吋",
+        "appearsInSource": true
+      },
+      {
+        "word": "leg",
+        "meaning": "腿",
+        "appearsInSource": true
+      },
+      {
+        "word": "near",
+        "meaning": "附近",
+        "appearsInSource": true
+      },
+      {
+        "word": "new",
+        "meaning": "新的",
+        "appearsInSource": true
+      },
+      {
+        "word": "plate",
+        "meaning": "盤子",
+        "appearsInSource": true
+      },
+      {
+        "word": "program",
+        "meaning": "活動計畫",
+        "appearsInSource": true
+      },
+      {
+        "word": "robot",
+        "meaning": "機器人",
+        "appearsInSource": true
+      },
+      {
+        "word": "Somewhere",
+        "meaning": "某處",
+        "appearsInSource": true
+      },
+      {
+        "word": "spell",
+        "meaning": "拼寫",
+        "appearsInSource": true
+      },
+      {
+        "word": "sugar",
+        "meaning": "糖",
+        "appearsInSource": true
+      },
+      {
+        "word": "tiger",
+        "meaning": "老虎",
+        "appearsInSource": true
+      },
+      {
+        "word": "weak",
+        "meaning": "力量弱的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What is Bo's Moon Helper?",
+      "options": [
+        "A real space robot.",
+        "A city bus.",
+        "A paper robot whose arms move by hand."
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "A paper robot whose arms move by hand.",
+      "existingAnswerExplanation": "波用紙箱做出手臂可用手移動的機器人。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Bo had made a robot from a paper box. Its arms moved up and down, and he called it the Moon Helper. He hoped it would make the lesson fun. Finn put a small bat drawing on the robot's chest. A younger child wanted to draw a tiger on its leg. Nia said all of those drawings were welcome, as long as everyone knew the robot was not a real machine that could travel to the moon. Bo laughed. He moved the arms by hand and showed how the simple joints worked. The robot was weak and could not lift even a heavy book, but it gave the children a way to talk about movement.",
+          "chinese": "波用紙箱做了一個機器人，手臂能上下移動，取名「月亮幫手」。他希望它能讓課程更有趣。芬恩在機器人胸前畫了一隻蝙蝠，一個小孩則想在腿上畫老虎。妮雅說都可以，只要大家知道，這不是能飛去月球的真實機器。波笑了，親手移動機器人的手臂，示範簡單的關節如何動。機器人很弱，連一本厚書都舉不起來，卻讓孩子們有機會討論移動的原理。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 5,
+          "english": "Before the final activity, Nia asked each student to explain one part of the program to a visitor. Bo said the paper robot could show movement, but not travel to the moon. Rae said a picture of a star was not the same as seeing one outside. Tomas described the raised map and invited people to ask before touching his personal copy. Finn stood beside the lamp model and explained how the moon ball changed in the light. Nia listened without correcting their speaking style. She only stepped in if a fact needed checking. The visitors understood the work because they heard it from the people who had made it. When the small talks ended, the students helped each other put the models back in their places.",
+          "chinese": "最後一個活動前，妮雅請每位學生向訪客解釋課程裡的一個部分。波說紙機器人可以示範移動，卻不能飛到月球。芮說星星圖片不等於真的到戶外看見星星。托馬斯描述凸點地圖，並請大家摸他的個人副本前先詢問。芬恩站在燈模型旁，說明月亮球在光照下如何變化。妮雅傾聽，沒有因說話風格不同而更正，只有事實需要核對時才補充。訪客聽製作者親自說明，便明白了作品。簡短的分享結束後，學生們互相幫忙，把模型放回原位。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What do students explain to visitors?",
+      "options": [
+        "Only the price of the room.",
+        "Parts of the work they made and tested.",
+        "How to fly to the moon tomorrow."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Parts of the work they made and tested.",
+      "existingAnswerExplanation": "學生自己說明模型與學到的概念，並分享作品限制。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Before the final activity, Nia asked each student to explain one part of the program to a visitor. Bo said the paper robot could show movement, but not travel to the moon. Rae said a picture of a star was not the same as seeing one outside. Tomas described the raised map and invited people to ask before touching his personal copy. Finn stood beside the lamp model and explained how the moon ball changed in the light. Nia listened without correcting their speaking style. She only stepped in if a fact needed checking. The visitors understood the work because they heard it from the people who had made it. When the small talks ended, the students helped each other put the models back in their places.",
+          "chinese": "最後一個活動前，妮雅請每位學生向訪客解釋課程裡的一個部分。波說紙機器人可以示範移動，卻不能飛到月球。芮說星星圖片不等於真的到戶外看見星星。托馬斯描述凸點地圖，並請大家摸他的個人副本前先詢問。芬恩站在燈模型旁，說明月亮球在光照下如何變化。妮雅傾聽，沒有因說話風格不同而更正，只有事實需要核對時才補充。訪客聽製作者親自說明，便明白了作品。簡短的分享結束後，學生們互相幫忙，把模型放回原位。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 3,
+          "english": "Ada asked students to place a dry plate under the paper ball model so it would not roll away. She measured a short gap between two dots: one inch. Tomas asked her to say the number aloud, and she did. Then he asked whether the class could spell the name of the moon beside the dots, making a large-print label and a separate raised-letter strip. Finn wrote M-O-O-N slowly, while Ada formed the same letters in thick paper for Tomas to feel. They checked the word together. Nia explained that a large clear label helped sighted people read with their eyes, while raised letters gave Tomas a way to read with his fingers. There was no perfect single way for everyone. The group could make more than one kind of label.",
+          "chinese": "艾達請學生在紙球模型下放一個乾燥的盤子，以免球滾走。她量出兩個圓點之間一英吋的距離。托馬斯請她把數字念出來，她照做了。接著，托馬斯問能不能在凸點旁拼出月亮的英文，分別做一張大字標籤和一條凸字標籤。芬恩慢慢寫下 M-O-O-N，艾達則用厚紙做出同樣的字母，讓托馬斯可以摸讀。大家一起核對拼字。妮雅解釋，大而清楚的字可以讓看得見的學員閱讀，凸起的字母則讓托馬斯能用手指辨識。沒有一種方法適合所有人，所以全班可以製作不同的標籤。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

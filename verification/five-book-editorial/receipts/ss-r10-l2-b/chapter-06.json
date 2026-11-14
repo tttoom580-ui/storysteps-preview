@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 6,
+  "chapterId": "ss-r10-l2-b-6",
+  "sourceChapterSha256": "f1d022a1fa88a1c38e255f67c76bc9cff405e87350ad44691b038e2b3f28aa05",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "西區音樂家家族舊歌與未成年詩篇都先取得權限",
+    "previousChapterEndingEnglish": "The doors finally opened near sunset. Not everyone stayed, and the team did not pretend the day was perfect. Yet the first visitors heard the repaired sound of a knife against a cutting board, followed by a vendor laughing at her own mistake. One elderly man stood still until the recording ended. He said it sounded like his brother, who had worked there years ago. May asked if he wanted to tell his story. “Not today,” he answered. She thanked him and let him go. Evan quietly saved the visitor count, not his name. Their first test had passed in the way that mattered most.",
+    "nextChapterOpeningEnglish": "The next recording came with a necklace. Mrs. Tan, a retired shopkeeper, said that its small stone had belonged to her mother. She did not want anyone to call it a royal treasure; the family had bought it at a simple stall. May asked for its actual origin, and Mrs. Tan gave the address of a shop that no longer existed. Evan wanted an expert to examine the metal, but Mrs. Tan reminded him that the story was about memory, not price. He gave a nod and put the necklace back in its soft bag before turning on the recorder."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On the eve of the market's music week, a crowd stood outside a closed building. A storm had damaged the door, and a worker in a raincoat was trying to repair the lock. A musician from the western district had arrived with an old song that her grandmother sang during a war. She wanted the song in the listening show, but not the name of the family who had first taught it to her. May told her they would accept that condition. Evan asked for an official note describing the agreed use, so no future student would mistake permission for ownership.",
+        "zh": "市場音樂週前夕，一群人站在關閉的大樓外。暴風雨弄壞了門，一位穿雨衣的工人正試著修鎖。來自西區的音樂家帶來祖母在戰爭期間唱過的老歌。她希望歌能出現在聆聽展中，卻不想公開最初教歌的家族姓名。慧說他們會接受這個條件。安澤要求寫下正式使用說明，以免未來的學生把獲准使用誤認為取得所有權。",
+        "englishSha256": "af7673dafde4646071e24df1ee124c2f45d20b117135c0bfd5f373b854b21b60",
+        "chineseSha256": "e6ac1f23deea9f7a59528cd0a92dd092774323ff4007d489296b94aacc22940c"
+      },
+      {
+        "number": 2,
+        "en": "The song was beautiful, yet the grandmother had died years before. A few relatives disagreed about what she would have wanted. May said they should examine the history before putting the recording online. It could be played only at the market with the living musician's permission, and even that plan could change. The musician smiled sadly. “It is my favorite song, but it is not mine alone.” Evan understood why May was sensitive about such decisions. He had once believed every clean recording was ready to publish. Now he saw that a voice carried a person's life as well as a tune.",
+        "zh": "那首歌很美，然而祖母多年前已過世，幾位親戚對她可能的意願看法不同。慧說，他們應先查清歷史，再考慮放上網路。即使得到現任演唱者同意，也只能先在市場播放，而且安排仍可能改變。音樂家帶著難過的微笑說：「這是我最喜歡的歌，卻不只屬於我。」安澤理解慧為何對這些決定如此敏感。他過去認為音質乾淨的錄音就能公開，現在卻看見聲音除了旋律，還背負著人的一生。",
+        "englishSha256": "a3dc2d079f24d6743ff622114bc10e64715a5b5b06b9654409c32a6fa4ea083b",
+        "chineseSha256": "c32af6228e32c700a2b2f537e84b18d7958a183fb1c55bbfaf5b5638a1aad064"
+      },
+      {
+        "number": 3,
+        "en": "A child waiting on the sidewalk held a toy giraffe and asked why the show had no songs about animals. May answered that they were collecting stories, not filling a shopping list. The child offered a short poem he had written about a giraffe who wanted to reach the sea. Evan helped him read it slowly, then asked his father whether they could save the file for the family's own use. The father agreed but did not allow public release. “That is fine,” May said. The child's happy face made the whole term of the project feel less difficult.",
+        "zh": "人行道上有個孩子抱著玩具長頸鹿，問為何展覽沒有動物歌。慧說他們在收集故事，不是在填購物清單。孩子拿出自己寫的短詩，內容是一隻想去看海的長頸鹿。安澤陪他慢慢讀完，再詢問父親能否為家人保存檔案。父親同意保存，但不同意公開。「這樣很好，」慧說。孩子開心的表情，讓整段計畫期間似乎不再那麼艱難。",
+        "englishSha256": "9ed07fe0334f84f5a920882e417f6924b333553c0c82c7ead7481aab74e66518",
+        "chineseSha256": "a5726bd3716ec60491cbd6018db5bd4619ddb53b8743e03ba30e43202f6e5c51"
+      },
+      {
+        "number": 4,
+        "en": "At dusk, Evan walked toward the damaged building again and found the lock repaired. He carried the equipment inside while May guided the musician to a dry chair. The woman sang one verse with no microphone, her voice low but strong. Several people stopped talking. May felt the soul of the show in that quiet moment: nobody had paid to enter, and nobody had demanded another verse. The song ended when the singer wanted it to end. Evan wrote down the time and the permission, leaving the rest of the page blank for her own words.",
+        "zh": "黃昏時，安澤再次朝受損的大樓走去，發現門鎖已修好。他把器材搬進室內，慧帶音樂家到乾燥的座位。那位女士沒有拿麥克風，只唱了一段，聲音低沉卻堅定。許多人停下交談。慧覺得展覽的靈魂就在這安靜時刻：沒有人付費入場，也沒有人要求再唱一段。歌在演唱者想結束時結束。安澤記下時間與授權，剩下的頁面留白，等她自己決定要寫什麼。",
+        "englishSha256": "b19e3f4b53e8fafcbc1c765df91b385f3a0644121b70ec25fc375872236d3402",
+        "chineseSha256": "489c4cffa03562797560dd3d783cfd82c9c5d6728efde300d5a7960ed6f95b53"
+      },
+      {
+        "number": 5,
+        "en": "The musician later showed May a notebook of poetry written by her grandmother. Some pages were in a language the students did not understand, and the musician wanted those words to stay exactly as they were. Evan offered to invite a translator, but he did not suggest replacing the original lines with simpler ones. The woman said she might consider the idea after speaking with her family. May asked if she could write the song's history in the exhibit guide while keeping the private notebook unseen. The musician approved one short paragraph and corrected the date of her family's move. They read the final sentence aloud together. It was not a grand performance, but it felt like a small act of fairness: the person whose history was being told could still decide its shape. Evan understood why even a pause before publishing was valuable.",
+        "zh": "音樂家稍後拿出祖母寫的詩集筆記。部分頁面使用學生不懂的語言，她希望那些字原封不動留下。安澤提議邀請翻譯者，卻沒有主張把原句改成簡單版本。女士說會先與家人談談。慧問能否在展覽導覽裡簡短寫出歌曲歷史，而不展示私人的筆記本。音樂家核准一小段，並更正家族搬遷日期。大家一起朗讀最後一句。這不是盛大演出，卻像是公平的小行動：故事主角仍能決定自己的歷史如何呈現。安澤理解了，連公開前的停頓都有價值。",
+        "englishSha256": "b85a099787a5da7391547d8d1aa0076ea162ff9fdf600038daf8339cbb0e7b3e",
+        "chineseSha256": "0d6095a35374a4c4cc624242e0e757f90bb4f1cefd1e531992dec7f8e0b7cc94"
+      },
+      {
+        "number": 6,
+        "en": "When the crowd left, May remained to fold the chairs. Evan helped without asking. They spoke about families, old music, and the strange way a small choice could hold more meaning than a grand event. He admitted that recording the song had made him think about his own father, who seldom talked about the past. May said he did not need to find the right words tonight. They stood together in the doorway until the rain stopped. Nothing had been promised between them, but neither hurried to leave.",
+        "zh": "人群離開後，慧留下來收椅子。安澤沒有多問，就一起幫忙。他們聊家人、老歌，以及小小選擇有時比盛大活動更有分量的奇妙之處。他承認，錄這首歌讓他想起很少談往事的父親。慧說，他今晚不必急著找到合適的話。兩人在門口並肩站到雨停。彼此還沒有許下什麼承諾，卻都不急著離開。",
+        "englishSha256": "81944501fa3981c05f7b19e9dd9db4a23956fa82e96a2aebbe6881e834d1ea14",
+        "chineseSha256": "2c3d85bf54ab6796c40a9fed7b4ab6b87d4896fd2548cdc09fa181c9ce1af0b1"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 630,
+    "targets": [
+      {
+        "word": "accept",
+        "meaning": "接受",
+        "appearsInSource": true
+      },
+      {
+        "word": "building",
+        "meaning": "大樓",
+        "appearsInSource": true
+      },
+      {
+        "word": "crowd",
+        "meaning": "人群",
+        "appearsInSource": true
+      },
+      {
+        "word": "eve",
+        "meaning": "前夕",
+        "appearsInSource": true
+      },
+      {
+        "word": "examine",
+        "meaning": "檢查",
+        "appearsInSource": true
+      },
+      {
+        "word": "favorite",
+        "meaning": "最喜愛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "giraffe",
+        "meaning": "長頸鹿",
+        "appearsInSource": true
+      },
+      {
+        "word": "musician",
+        "meaning": "音樂家",
+        "appearsInSource": true
+      },
+      {
+        "word": "official",
+        "meaning": "正式的",
+        "appearsInSource": true
+      },
+      {
+        "word": "poetry",
+        "meaning": "詩作",
+        "appearsInSource": true
+      },
+      {
+        "word": "raincoat",
+        "meaning": "雨衣",
+        "appearsInSource": true
+      },
+      {
+        "word": "repair",
+        "meaning": "修理",
+        "appearsInSource": true
+      },
+      {
+        "word": "sensitive",
+        "meaning": "在意的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sidewalk",
+        "meaning": "人行道",
+        "appearsInSource": true
+      },
+      {
+        "word": "soul",
+        "meaning": "靈魂",
+        "appearsInSource": true
+      },
+      {
+        "word": "storm",
+        "meaning": "暴風雨",
+        "appearsInSource": true
+      },
+      {
+        "word": "term",
+        "meaning": "期間",
+        "appearsInSource": true
+      },
+      {
+        "word": "toward",
+        "meaning": "朝向",
+        "appearsInSource": true
+      },
+      {
+        "word": "war",
+        "meaning": "戰爭",
+        "appearsInSource": true
+      },
+      {
+        "word": "western",
+        "meaning": "西側的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why was the old family song not immediately placed online?",
+      "options": [
+        "The family had not agreed on its use",
+        "Nobody liked the tune",
+        "The singer had lost the words"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The family had not agreed on its use",
+      "existingAnswerExplanation": "歌者及部分親屬對老歌公開用途仍有不同看法。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On the eve of the market's music week, a crowd stood outside a closed building. A storm had damaged the door, and a worker in a raincoat was trying to repair the lock. A musician from the western district had arrived with an old song that her grandmother sang during a war. She wanted the song in the listening show, but not the name of the family who had first taught it to her. May told her they would accept that condition. Evan asked for an official note describing the agreed use, so no future student would mistake permission for ownership.",
+          "chinese": "市場音樂週前夕，一群人站在關閉的大樓外。暴風雨弄壞了門，一位穿雨衣的工人正試著修鎖。來自西區的音樂家帶來祖母在戰爭期間唱過的老歌。她希望歌能出現在聆聽展中，卻不想公開最初教歌的家族姓名。慧說他們會接受這個條件。安澤要求寫下正式使用說明，以免未來的學生把獲准使用誤認為取得所有權。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "The song was beautiful, yet the grandmother had died years before. A few relatives disagreed about what she would have wanted. May said they should examine the history before putting the recording online. It could be played only at the market with the living musician's permission, and even that plan could change. The musician smiled sadly. “It is my favorite song, but it is not mine alone.” Evan understood why May was sensitive about such decisions. He had once believed every clean recording was ready to publish. Now he saw that a voice carried a person's life as well as a tune.",
+          "chinese": "那首歌很美，然而祖母多年前已過世，幾位親戚對她可能的意願看法不同。慧說，他們應先查清歷史，再考慮放上網路。即使得到現任演唱者同意，也只能先在市場播放，而且安排仍可能改變。音樂家帶著難過的微笑說：「這是我最喜歡的歌，卻不只屬於我。」安澤理解慧為何對這些決定如此敏感。他過去認為音質乾淨的錄音就能公開，現在卻看見聲音除了旋律，還背負著人的一生。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How did May respond to the child's poem?",
+      "options": [
+        "She asked for family permission before public use",
+        "She changed the ending herself",
+        "She posted it immediately"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "She asked for family permission before public use",
+      "existingAnswerExplanation": "孩子的作品可以私下保存，但公開仍需適當同意。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "A child waiting on the sidewalk held a toy giraffe and asked why the show had no songs about animals. May answered that they were collecting stories, not filling a shopping list. The child offered a short poem he had written about a giraffe who wanted to reach the sea. Evan helped him read it slowly, then asked his father whether they could save the file for the family's own use. The father agreed but did not allow public release. “That is fine,” May said. The child's happy face made the whole term of the project feel less difficult.",
+          "chinese": "人行道上有個孩子抱著玩具長頸鹿，問為何展覽沒有動物歌。慧說他們在收集故事，不是在填購物清單。孩子拿出自己寫的短詩，內容是一隻想去看海的長頸鹿。安澤陪他慢慢讀完，再詢問父親能否為家人保存檔案。父親同意保存，但不同意公開。「這樣很好，」慧說。孩子開心的表情，讓整段計畫期間似乎不再那麼艱難。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "On the eve of the market's music week, a crowd stood outside a closed building. A storm had damaged the door, and a worker in a raincoat was trying to repair the lock. A musician from the western district had arrived with an old song that her grandmother sang during a war. She wanted the song in the listening show, but not the name of the family who had first taught it to her. May told her they would accept that condition. Evan asked for an official note describing the agreed use, so no future student would mistake permission for ownership.",
+          "chinese": "市場音樂週前夕，一群人站在關閉的大樓外。暴風雨弄壞了門，一位穿雨衣的工人正試著修鎖。來自西區的音樂家帶來祖母在戰爭期間唱過的老歌。她希望歌能出現在聆聽展中，卻不想公開最初教歌的家族姓名。慧說他們會接受這個條件。安澤要求寫下正式使用說明，以免未來的學生把獲准使用誤認為取得所有權。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

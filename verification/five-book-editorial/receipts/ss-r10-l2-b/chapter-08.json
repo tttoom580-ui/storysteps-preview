@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l2-b",
+  "title": "把市場的聲音，留到明天",
+  "chapter": 8,
+  "chapterId": "ss-r10-l2-b-8",
+  "sourceChapterSha256": "fcae82562ef6ad0f9b1b5d2a9717c88a5ef1b3e4f5044869cb188fe150b0323a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "家族飲食回憶與兩團撞期協調，尊重不必錄音的記憶",
+    "previousChapterEndingEnglish": "Before leaving, Mrs. Tan asked them to return for her birthday dinner. May said she had to check her class schedule, and Evan said he would help carry tables if needed. Neither wanted to use a kind invitation as a reason to own more of the woman's life. Outside, Evan asked whether May might like to hear a concert with him someday, away from the project. She said maybe, but not during the coming festival. He accepted that answer without asking why. They walked to the bus stop talking about the necklace, and their silence afterward was easy.",
+    "nextChapterOpeningEnglish": "The next article in the student newspaper called their project a historical success. May was pleased until she read the line saying that all the recordings belonged to the university. The claim did not match the signed permissions, and May wanted its legal basis checked before anyone presented it as fact. She asked the editor to correct the chapter about the market's past before it went online. Evan's partner from the sound club said she was making trouble. May showed him the signed forms, one section at a time. “Unless we follow these rules, we cannot honestly say we are protecting stories,” she answered."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At a community barbecue, several families brought food that reminded them of childhood. Some used chopsticks while others ate with their hands. A grandmother said an old recipe had traveled forward through three generations, even when the family moved far from the market. May asked what the recipe meant to her rather than whether it was the original one. “The meaning is that we made room for each other,” the woman answered. Evan recorded the sound of a wooden stick tapping a bowl, but stopped when the child beside her became nervous. No sound was more important than a person's comfort.",
+        "zh": "社區烤肉聚會時，幾個家庭帶來會讓他們想起童年的食物。有的人用筷子，有的人用手吃。一位祖母說，老食譜即使跟著家人搬離市場，也向前傳過了三代。慧問食譜對她有何意義，而不是追問是否最原始的版本。「意義就是我們總願意替彼此留一個位置，」她回答。安澤錄下木棒輕敲碗的聲音，但旁邊孩子緊張起來，他就停止。沒有任何聲音比一個人的安心更重要。",
+        "englishSha256": "992a7170f5d2c960369d42ba5793a0c317ef9f880b3d896000c953232c1ca373",
+        "chineseSha256": "4abd84189238a8a89c8be8fd49e2e6a3ac4a22c10413aedc9f811d0fedb6ef21"
+      },
+      {
+        "number": 2,
+        "en": "The table was heavy with food, and the team had to load the extra trays onto a cart. A volunteer warned that the shelf near the entrance could not hold more weight. Evan obeyed without argument. He remembered a childhood story about a servant who had ignored a similar warning and broken an expensive plate. “Was that a true story?” May asked. “Probably not,” he admitted. “My father told it to keep me from climbing furniture.” She laughed and said that whatever its source, it had worked. They found a safer place for the food and kept the walkway clear.",
+        "zh": "餐桌上擺滿食物，團隊得把多餘餐盤裝上推車。志工提醒入口的架子不能再承受更多重量，安澤沒有爭辯就照做。他想起童年聽過一個僕人不聽警告、打碎昂貴盤子的故事。「那是真的嗎？」慧問。「大概不是，」他承認，「父親只是拿它教我別爬家具。」慧笑著說，不管來源如何，顯然成功了。他們替食物找了安全位置，也保持走道暢通。",
+        "englishSha256": "c9751b52c6a701905e33f568766cf0c1f234e6d42a2029ddad2ee6d73d33b198",
+        "chineseSha256": "66bd4fd9e5578bdf1398f2ac32e0e515a08c080f4fd4428de68e9aaced1dd00b"
+      },
+      {
+        "number": 3,
+        "en": "A young cook offered a gentle explanation of why her family's sauce had changed over time. The recipe had not disappeared through fate; the ingredients were simply different after the move. She showed May a small stone used to grind spices and said it was a means of keeping a familiar smell alive. Evan wanted to record the grinding, but the cook asked them to wait until her brother arrived. May admired the way the team was learning to hold a question open. The reality of memory was often more interesting than the legend people expected.",
+        "zh": "一位年輕廚師溫和解釋，家中的醬汁為何隨時間改變。食譜不是被命運帶走；搬家後能取得的材料不同而已。她拿出研磨香料的小石頭，說這是保留熟悉氣味的一種方法。安澤想錄下研磨聲，廚師卻請他們等弟弟到了再開始。慧欣賞團隊漸漸學會讓問題保持開放。記憶的現實，往往比人們期待的傳說更有意思。",
+        "englishSha256": "c116bd541afa5b80dc4da338b95da9dc01854c2fe05ade82f4b84c4db1ccdcc3",
+        "chineseSha256": "12b62191e5f3193e1a8a44fd85a358790e822694af8308a753881fff321f38c8"
+      },
+      {
+        "number": 4,
+        "en": "The event's organizer issued a sudden command to move every table outside. She believed the hall was needed for another group. May checked the booking sheet and found that both groups had been given the same time by mistake. Instead of arguing about who had arrived first, she proposed a shared schedule. Evan helped each group carry its things. The organizer apologized, and the other group offered chairs. May saw that a problem did not always require a winner. Sometimes the kindest result came from making space for two plans at once.",
+        "zh": "活動主辦人突然下令把所有桌子搬到室外，因為她以為另一個團體需要大廳。慧查了預約表，發現兩個團體被錯誤排在同一時段。她沒有爭誰先到，而是提議共用時間表。安澤協助兩邊搬東西。主辦人道歉，另一團也借出椅子。慧發現問題不一定非得有贏家。有時最溫柔的結果，是讓兩個計畫都得到空間。",
+        "englishSha256": "afb7ca87232bc719eff4c917f94468daf796d1e7996aac131a5d4c68e3942ea0",
+        "chineseSha256": "72a9cf149711c1fffd0f1d2b767e7c3f7bfcbf577ff8e4eb245916ceaefcc71f"
+      },
+      {
+        "number": 5,
+        "en": "May asked the volunteers to make a simple estimate of the average time visitors spent listening. Evan reminded her that the number would only describe this small event, not every person who might ever come. They watched one family leave after a minute and another stay for almost half an hour. Mrs. Fen said that neither visit should disappear from the count simply because it was different. A child asked whom they would tell if they wanted a recording removed. May pointed to the clear sign and read the contact line aloud. She also asked the child to say what the sign meant in their own words. The answer was not perfect, so they changed the wording. Evan felt pleased that a practical problem had produced a useful improvement without anyone being embarrassed.",
+        "zh": "慧請志工簡單估算訪客平均聆聽時間。安澤提醒，數字只描述這場小活動，不能代表未來所有訪客。他們看見一家人停留一分鐘，另一家近半小時。芬姨說，不能因為兩次參觀不同，就讓其中一次從統計裡消失。一個孩子問，如果想撤下錄音，該告訴誰。慧指著清楚的標示，念出聯絡資訊，又請孩子用自己的話說明意思。回答不夠完整，他們便修改措辭。安澤很高興，一個實際問題帶來有用改善，過程中沒有人被弄得難堪。",
+        "englishSha256": "0d1c14e1c091d470f29c51d6c40cb450773ae2ccff72c282aa32a56b27b9465e",
+        "chineseSha256": "3bb7faa8924cb66bdd305d470998d00711d20cbde3fea22e1659d4fca5db5c8b"
+      },
+      {
+        "number": 6,
+        "en": "Near sunset, May and Evan ate the last pieces of sweet bread on the steps. He asked if she missed anything from her own childhood. She thought of her grandmother, who always kept an extra place at the table for a late guest. She had never recorded that voice, and now she could not. Evan did not rush to comfort her with a bright answer. He simply sat beside her until she finished speaking. When they stood, he offered his hand to help her down the high step. She took it for one quiet moment and let go at the bottom.",
+        "zh": "近黃昏時，慧與安澤坐在臺階上吃最後幾塊甜麵包。他問她是否想念童年的某件事。她想起祖母總會在餐桌上多留一個位置，等遲到的客人。她沒有錄下祖母的聲音，如今也不可能了。安澤沒有急著用明亮答案安慰她，只是坐著陪她說完。起身時，他伸手扶她走下高臺階。慧安靜地握了一下，走到底部才放開。",
+        "englishSha256": "2c20e1c492349983a84d4414b85fd8dadf001d5af3534a8fa0837018ed71d0a6",
+        "chineseSha256": "40d1d2e4d431146109116b6491bd942a3d2d5aded8038bdf880fd7ddb6d8133e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 623,
+    "targets": [
+      {
+        "word": "average",
+        "meaning": "平均的",
+        "appearsInSource": true
+      },
+      {
+        "word": "barbecue",
+        "meaning": "烤肉活動",
+        "appearsInSource": true
+      },
+      {
+        "word": "childhood",
+        "meaning": "童年",
+        "appearsInSource": true
+      },
+      {
+        "word": "chopsticks",
+        "meaning": "筷子",
+        "appearsInSource": true
+      },
+      {
+        "word": "command",
+        "meaning": "命令",
+        "appearsInSource": true
+      },
+      {
+        "word": "disappear",
+        "meaning": "消失",
+        "appearsInSource": true
+      },
+      {
+        "word": "fate",
+        "meaning": "命運",
+        "appearsInSource": true
+      },
+      {
+        "word": "forward",
+        "meaning": "向前",
+        "appearsInSource": true
+      },
+      {
+        "word": "gentle",
+        "meaning": "溫和的",
+        "appearsInSource": true
+      },
+      {
+        "word": "load",
+        "meaning": "裝載",
+        "appearsInSource": true
+      },
+      {
+        "word": "meaning",
+        "meaning": "意義",
+        "appearsInSource": true
+      },
+      {
+        "word": "means",
+        "meaning": "方法",
+        "appearsInSource": true
+      },
+      {
+        "word": "reality",
+        "meaning": "現實",
+        "appearsInSource": true
+      },
+      {
+        "word": "servant",
+        "meaning": "僕人",
+        "appearsInSource": true
+      },
+      {
+        "word": "shelf",
+        "meaning": "架子",
+        "appearsInSource": true
+      },
+      {
+        "word": "source",
+        "meaning": "來源",
+        "appearsInSource": true
+      },
+      {
+        "word": "stick",
+        "meaning": "木棒",
+        "appearsInSource": true
+      },
+      {
+        "word": "stone",
+        "meaning": "石頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "whatever",
+        "meaning": "無論什麼",
+        "appearsInSource": true
+      },
+      {
+        "word": "whom",
+        "meaning": "誰（受詞）",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did two groups arrive for the same hall?",
+      "options": [
+        "They were booked at the same time by mistake",
+        "They both came to fight",
+        "They had the same teacher"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "They were booked at the same time by mistake",
+      "existingAnswerExplanation": "預約表錯把兩組排在同一時段。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "The event's organizer issued a sudden command to move every table outside. She believed the hall was needed for another group. May checked the booking sheet and found that both groups had been given the same time by mistake. Instead of arguing about who had arrived first, she proposed a shared schedule. Evan helped each group carry its things. The organizer apologized, and the other group offered chairs. May saw that a problem did not always require a winner. Sometimes the kindest result came from making space for two plans at once.",
+          "chinese": "活動主辦人突然下令把所有桌子搬到室外，因為她以為另一個團體需要大廳。慧查了預約表，發現兩個團體被錯誤排在同一時段。她沒有爭誰先到，而是提議共用時間表。安澤協助兩邊搬東西。主辦人道歉，另一團也借出椅子。慧發現問題不一定非得有贏家。有時最溫柔的結果，是讓兩個計畫都得到空間。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 3,
+          "english": "A young cook offered a gentle explanation of why her family's sauce had changed over time. The recipe had not disappeared through fate; the ingredients were simply different after the move. She showed May a small stone used to grind spices and said it was a means of keeping a familiar smell alive. Evan wanted to record the grinding, but the cook asked them to wait until her brother arrived. May admired the way the team was learning to hold a question open. The reality of memory was often more interesting than the legend people expected.",
+          "chinese": "一位年輕廚師溫和解釋，家中的醬汁為何隨時間改變。食譜不是被命運帶走；搬家後能取得的材料不同而已。她拿出研磨香料的小石頭，說這是保留熟悉氣味的一種方法。安澤想錄下研磨聲，廚師卻請他們等弟弟到了再開始。慧欣賞團隊漸漸學會讓問題保持開放。記憶的現實，往往比人們期待的傳說更有意思。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What childhood memory did May tell Evan?",
+      "options": [
+        "Her grandmother kept an extra place at dinner",
+        "She grew up in a castle",
+        "She worked in a train station"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Her grandmother kept an extra place at dinner",
+      "existingAnswerExplanation": "慧想起祖母總會在餐桌多留一個位置。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Near sunset, May and Evan ate the last pieces of sweet bread on the steps. He asked if she missed anything from her own childhood. She thought of her grandmother, who always kept an extra place at the table for a late guest. She had never recorded that voice, and now she could not. Evan did not rush to comfort her with a bright answer. He simply sat beside her until she finished speaking. When they stood, he offered his hand to help her down the high step. She took it for one quiet moment and let go at the bottom.",
+          "chinese": "近黃昏時，慧與安澤坐在臺階上吃最後幾塊甜麵包。他問她是否想念童年的某件事。她想起祖母總會在餐桌上多留一個位置，等遲到的客人。她沒有錄下祖母的聲音，如今也不可能了。安澤沒有急著用明亮答案安慰她，只是坐著陪她說完。起身時，他伸手扶她走下高臺階。慧安靜地握了一下，走到底部才放開。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 1,
+          "english": "At a community barbecue, several families brought food that reminded them of childhood. Some used chopsticks while others ate with their hands. A grandmother said an old recipe had traveled forward through three generations, even when the family moved far from the market. May asked what the recipe meant to her rather than whether it was the original one. “The meaning is that we made room for each other,” the woman answered. Evan recorded the sound of a wooden stick tapping a bowl, but stopped when the child beside her became nervous. No sound was more important than a person's comfort.",
+          "chinese": "社區烤肉聚會時，幾個家庭帶來會讓他們想起童年的食物。有的人用筷子，有的人用手吃。一位祖母說，老食譜即使跟著家人搬離市場，也向前傳過了三代。慧問食譜對她有何意義，而不是追問是否最原始的版本。「意義就是我們總願意替彼此留一個位置，」她回答。安澤錄下木棒輕敲碗的聲音，但旁邊孩子緊張起來，他就停止。沒有任何聲音比一個人的安心更重要。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

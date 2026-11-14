@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l1-b",
+  "title": "獸人村的第一間早餐店",
+  "chapter": 9,
+  "chapterId": "ss-r2-l1-b-9",
+  "sourceChapterSha256": "1faa47d028334c0e74ecbaba9f7837199bebc6f73921a335affaafc40073beca",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "來訪的羅文弄丟地圖而迷路，菲雅協助確認方向，莫斯則因羅文不吃肉而改提供水果，尊重訪客差異。",
+    "previousChapterEndingEnglish": "Before closing, the child drew a small star on Moss's book. \"For your next try,\" she said. He kept the picture. Fia saw that the book of mistakes had slowly become a book of learning. It held bad bread and good bread, old notes and new answers. That was how the shop was growing. Its walls were still plain, and some chairs still needed work, but the people inside were becoming ready to share a table. Fia locked the door and looked at the wooden star above it. She hoped the next lesson would bring them closer to opening day.",
+    "nextChapterOpeningEnglish": "The first menu was ready by evening. Fia put it on the red door and stood back to read it. There were three foods: warm bread, sweet fruit, and potato soup. Moss had tested each one, and Pip had helped with the fruit. \"This is interesting,\" said Edda, looking at the board. \"But how will people know what you have left at the end of the morning?\" Fia had not thought of that. She added a small space where workers could write how many meals remained. \"We will usually make a little extra,\" she said, \"but we must not throw good food away.\""
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A traveler came to Little Leaf Village on a cold morning. He was a bear from a far town, and he looked lonely beside the wall of the red house. Fia brought him a cup of warm milk. \"We are not open yet,\" she said, \"but you may sit here and rest.\" The bear looked sad. \"I have walked a long way and lost my map,\" he said. \"I do not know whose house I should visit.\" Fia asked his name. He said it was Rowan. He was looking for an old farmer who had once been a friend of his mother.",
+        "zh": "一個寒冷早晨，一名旅人來到小葉村。他是遠方城鎮來的熊，獨自坐在紅屋牆邊，看起來很孤單。菲雅遞給他一杯溫牛奶。「我們還沒營業，」她說，「但你可以坐著休息。」熊的神情有些悲傷。「我走了很遠，卻把地圖弄丟了，」他說，「不知道該去拜訪誰的家。」菲雅問他名字，他說叫羅文，正在找一位曾是母親朋友的老農夫。",
+        "englishSha256": "60913dcc69a82b3ab42293667072b31256f8b98fc081110800bbc0d4c88c218a",
+        "chineseSha256": "117e696cc537084a94cd618aa5fce64323df5b9494e4336ba9237382c90890bf"
+      },
+      {
+        "number": 2,
+        "en": "Moss came out with bread and a little meat left from his own breakfast. Rowan thanked him, but said he did not eat meat. \"Then I will bring you fruit,\" Moss said at once. He did not want to make Rowan feel bad. Fia told Rowan that the village had people who could help. \"It is brave to ask when you do not know the way,\" she said. Rowan shook his head. \"I thought I had to keep walking until I found it myself.\" Fia smiled. \"You may keep walking after you rest. You do not have to do everything alone.\"",
+        "zh": "莫斯拿著麵包和自己早餐剩下的一點肉出來。羅文道謝，但說自己不吃肉。「那我立刻拿水果給你。」莫斯說，不想讓他難為情。菲雅告訴羅文，村裡有人可以幫忙。「不知道路時願意求助，也很勇敢。」她說。羅文搖頭。「我以為必須一直走，直到自己找到。」菲雅笑著說：「休息過再走也可以，你不用凡事獨自完成。」",
+        "englishSha256": "b81f345c8bdddbb105aea248aff696b8916bed94df623d5102524f35b71d76d5",
+        "chineseSha256": "414bb7e4e5de732d0e1697404264fa042c8f0443969ab3cc218f9b560a260520"
+      },
+      {
+        "number": 3,
+        "en": "Pip returned from the farm with a photograph of old village workers. He had been helping the farmer put pictures into a book. Rowan looked at the photo and gave a small cry. \"That is my mother's friend!\" he said, pointing at a fox beside a field. Fia was glad they had found a name, but she wanted to check the story before sending Rowan away. \"We should ring the farmer and ask,\" she said. Moss used the phone. The farmer answered, listened, and said that the fox in the picture now lived near the warm south hill. They did not want Rowan to lose his way again, so they drew each turn in large lines.",
+        "zh": "皮普從農場回來，帶著一張老村民合照。他剛幫農夫把照片整理進書裡。羅文看著照片，小聲驚呼：「那就是我母親的朋友！」他指著田邊的一隻狐狸。菲雅很高興找到線索，但在讓羅文出發前仍想核對。「先打電話問農夫吧。」她說。莫斯使用電話。農夫聽完後說，照片裡的狐狸現在住在溫暖的南坡附近。 他們不希望羅文再迷路，於是用粗線畫出每個轉彎。",
+        "englishSha256": "4fce3d5893afed2f7adc5c1b8d94a77eef0cf3543e62cd413c11d60885f0341f",
+        "chineseSha256": "42b39eea37530d99cc87c9efd6ae1c65fb40d05e5ebafa223217f1027e0dccc9"
+      },
+      {
+        "number": 4,
+        "en": "Rowan tried to stand too quickly and nearly fell. Moss helped him sit again. \"You are tired,\" he said. \"There is nothing wrong with one more cup of milk.\" Fia put some bread in a bag for the road. They showed Rowan a safe path on a drawing and marked the house with a ring. He smiled for the first time. \"I thought nobody here would care about a foreigner,\" he said. Fia shook her head. \"Every person is new somewhere. I was new to this work, too.\" Rowan held the bag with both hands and thanked them. Rowan also asked where the toilet was. Fia showed him a clean room beside the kitchen and made sure he felt well before leaving.",
+        "zh": "羅文急著站起來，差點跌倒。莫斯扶他重新坐好。「你累了，」他說，「再喝一杯牛奶也沒關係。」菲雅裝了些麵包讓他帶在路上。他們在圖上標出安全路線，並用圓圈標住那間屋子。羅文第一次笑了。「我原以為這裡沒人會在意外地來的人。」他說。菲雅搖頭。「每個人都有初來乍到的時候，我做這份工作也是新手。」羅文雙手抱著袋子，向大家道謝。 羅文也問洗手間在哪裡。菲雅指給他看廚房旁的乾淨小房間，並確認他離開前身體已舒服些。",
+        "englishSha256": "e80ed75fd8d06576637daeccabcd517b752f4146c80b872ffacd001c5a6099b5",
+        "chineseSha256": "835b1db958bb84c9dbb56d8223cd56436abd90c4efc6010f975f3472c07e98bd"
+      },
+      {
+        "number": 5,
+        "en": "After Rowan left, Moss asked if they should make breakfast for travelers even before opening day. Fia thought carefully. \"We can help someone in need,\" she said, \"but we cannot tell people we have a full shop when we do not.\" She wanted to be kind and honest at the same time. They wrote a note for the door: \"If you need water or a place to rest, please knock.\" It was a small offer, not a promise of a full meal. Fia hoped it would mean something to the next lonely visitor who came by the wall.",
+        "zh": "羅文離開後，莫斯問是否該在開幕前就替旅人做早餐。菲雅想了想。「我們能幫有需要的人，」她說，「但不能讓人以為店已經完整營業。」她希望同時做到善良與誠實。大家在門上寫了字條：「若需要飲水或休息的地方，請敲門。」那是小小的幫助，不是完整供餐的承諾。菲雅希望下次有孤獨旅人走到牆邊時，這句話能派上用場。",
+        "englishSha256": "ab600df0ebbbd49ce8dca16720e54beaff59bf90324f1ff42843561a02e9bee0",
+        "chineseSha256": "18285a32d705e14f6f397d11a469211455169797e393436d43e91ce35561871a"
+      },
+      {
+        "number": 6,
+        "en": "In the evening, they heard a singer near the village gate. It was Rowan, singing a short thank-you song before taking the south path. His voice was not very strong, but it sounded happy. Fia stood with Moss and Pip and listened. The day had begun with a stranger beside a wall. It ended with a friend finding his way. Fia looked into the quiet house. Perhaps a good breakfast shop was not only a place where food was sold. Perhaps it could also be a place where people found courage to take the next step.",
+        "zh": "傍晚，村口傳來歌聲。是羅文在走上南邊小路前唱了短短的感謝歌。他聲音不算有力，聽來卻很快樂。菲雅、莫斯和皮普站著聽。這一天從牆邊的陌生人開始，以一個找到路的朋友作結。菲雅望進安靜的屋子。也許好早餐店不只是賣食物的地方，也能讓人找到勇氣，跨出下一步。",
+        "englishSha256": "a3e9b414e3733e5734b6284e3d7d315ece431babf731390011af5c588da94695",
+        "chineseSha256": "1dc307e9a09f5bd60439e438bb1310b2b270bce5ff44813266ce0ebbada6490f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 635,
+    "targets": [
+      {
+        "word": "bear",
+        "meaning": "熊",
+        "appearsInSource": true
+      },
+      {
+        "word": "brave",
+        "meaning": "勇敢的",
+        "appearsInSource": true
+      },
+      {
+        "word": "farmer",
+        "meaning": "農夫",
+        "appearsInSource": true
+      },
+      {
+        "word": "foreigner",
+        "meaning": "外地人",
+        "appearsInSource": true
+      },
+      {
+        "word": "keep",
+        "meaning": "持續",
+        "appearsInSource": true
+      },
+      {
+        "word": "lonely",
+        "meaning": "孤獨的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lose",
+        "meaning": "弄丟",
+        "appearsInSource": true
+      },
+      {
+        "word": "meat",
+        "meaning": "肉",
+        "appearsInSource": true
+      },
+      {
+        "word": "milk",
+        "meaning": "牛奶",
+        "appearsInSource": true
+      },
+      {
+        "word": "nothing",
+        "meaning": "什麼也沒有",
+        "appearsInSource": true
+      },
+      {
+        "word": "person",
+        "meaning": "人",
+        "appearsInSource": true
+      },
+      {
+        "word": "photograph",
+        "meaning": "照片",
+        "appearsInSource": true
+      },
+      {
+        "word": "ring",
+        "meaning": "圈",
+        "appearsInSource": true
+      },
+      {
+        "word": "sad",
+        "meaning": "難過的",
+        "appearsInSource": true
+      },
+      {
+        "word": "singer",
+        "meaning": "歌手",
+        "appearsInSource": true
+      },
+      {
+        "word": "toilet",
+        "meaning": "洗手間",
+        "appearsInSource": true
+      },
+      {
+        "word": "wall",
+        "meaning": "牆",
+        "appearsInSource": true
+      },
+      {
+        "word": "warm",
+        "meaning": "溫暖的",
+        "appearsInSource": true
+      },
+      {
+        "word": "well",
+        "meaning": "身體良好的",
+        "appearsInSource": true
+      },
+      {
+        "word": "whose",
+        "meaning": "誰的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does Rowan lose?",
+      "options": [
+        "His map",
+        "His coat",
+        "His camera"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "His map",
+      "existingAnswerExplanation": "羅文弄丟地圖，找不到要拜訪的地方。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A traveler came to Little Leaf Village on a cold morning. He was a bear from a far town, and he looked lonely beside the wall of the red house. Fia brought him a cup of warm milk. \"We are not open yet,\" she said, \"but you may sit here and rest.\" The bear looked sad. \"I have walked a long way and lost my map,\" he said. \"I do not know whose house I should visit.\" Fia asked his name. He said it was Rowan. He was looking for an old farmer who had once been a friend of his mother.",
+          "chinese": "一個寒冷早晨，一名旅人來到小葉村。他是遠方城鎮來的熊，獨自坐在紅屋牆邊，看起來很孤單。菲雅遞給他一杯溫牛奶。「我們還沒營業，」她說，「但你可以坐著休息。」熊的神情有些悲傷。「我走了很遠，卻把地圖弄丟了，」他說，「不知道該去拜訪誰的家。」菲雅問他名字，他說叫羅文，正在找一位曾是母親朋友的老農夫。",
+          "matchedQueryTerms": 2
+        },
+        {
+          "paragraph": 3,
+          "english": "Pip returned from the farm with a photograph of old village workers. He had been helping the farmer put pictures into a book. Rowan looked at the photo and gave a small cry. \"That is my mother's friend!\" he said, pointing at a fox beside a field. Fia was glad they had found a name, but she wanted to check the story before sending Rowan away. \"We should ring the farmer and ask,\" she said. Moss used the phone. The farmer answered, listened, and said that the fox in the picture now lived near the warm south hill. They did not want Rowan to lose his way again, so they drew each turn in large lines.",
+          "chinese": "皮普從農場回來，帶著一張老村民合照。他剛幫農夫把照片整理進書裡。羅文看著照片，小聲驚呼：「那就是我母親的朋友！」他指著田邊的一隻狐狸。菲雅很高興找到線索，但在讓羅文出發前仍想核對。「先打電話問農夫吧。」她說。莫斯使用電話。農夫聽完後說，照片裡的狐狸現在住在溫暖的南坡附近。 他們不希望羅文再迷路，於是用粗線畫出每個轉彎。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why does Moss bring fruit?",
+      "options": [
+        "Rowan does not eat meat",
+        "The bread is cold",
+        "Fia asks for juice"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Rowan does not eat meat",
+      "existingAnswerExplanation": "羅文不吃肉，莫斯便改拿水果。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Moss came out with bread and a little meat left from his own breakfast. Rowan thanked him, but said he did not eat meat. \"Then I will bring you fruit,\" Moss said at once. He did not want to make Rowan feel bad. Fia told Rowan that the village had people who could help. \"It is brave to ask when you do not know the way,\" she said. Rowan shook his head. \"I thought I had to keep walking until I found it myself.\" Fia smiled. \"You may keep walking after you rest. You do not have to do everything alone.\"",
+          "chinese": "莫斯拿著麵包和自己早餐剩下的一點肉出來。羅文道謝，但說自己不吃肉。「那我立刻拿水果給你。」莫斯說，不想讓他難為情。菲雅告訴羅文，村裡有人可以幫忙。「不知道路時願意求助，也很勇敢。」她說。羅文搖頭。「我以為必須一直走，直到自己找到。」菲雅笑著說：「休息過再走也可以，你不用凡事獨自完成。」",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 3,
+          "english": "Pip returned from the farm with a photograph of old village workers. He had been helping the farmer put pictures into a book. Rowan looked at the photo and gave a small cry. \"That is my mother's friend!\" he said, pointing at a fox beside a field. Fia was glad they had found a name, but she wanted to check the story before sending Rowan away. \"We should ring the farmer and ask,\" she said. Moss used the phone. The farmer answered, listened, and said that the fox in the picture now lived near the warm south hill. They did not want Rowan to lose his way again, so they drew each turn in large lines.",
+          "chinese": "皮普從農場回來，帶著一張老村民合照。他剛幫農夫把照片整理進書裡。羅文看著照片，小聲驚呼：「那就是我母親的朋友！」他指著田邊的一隻狐狸。菲雅很高興找到線索，但在讓羅文出發前仍想核對。「先打電話問農夫吧。」她說。莫斯使用電話。農夫聽完後說，照片裡的狐狸現在住在溫暖的南坡附近。 他們不希望羅文再迷路，於是用粗線畫出每個轉彎。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

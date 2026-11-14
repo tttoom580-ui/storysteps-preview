@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: complete bilingual chapter read-through, not independent human proofreading",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r11-l1-a",
+  "title": "雨後的綠色箱子",
+  "chapter": 7,
+  "chapterId": "ss-r11-l1-a-7",
+  "sourceChapterSha256": "53d9dd39c718ed453fe7a7a5c7e40830340e4bdd556426395788e4a0b7e9b321",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "辦公室鐘慢六分鐘；臥室回憶應在前一晚",
+    "previousChapterEndingEnglish": "On Sunday evening she called Jun. He had spent the day helping his family clean the kitchen and had almost forgotten the garden problem. Ivy said that was fine. A club could not ask friends to work all the time. She told him about the drawing and asked whether he could check the monkey's exact color. “Orange ears and one white tooth,” Jun said at once. Ivy wrote the answer. On Monday they would bring the picture to Ms. Wen and ask which storage rooms were safe for adults to check.",
+    "nextChapterOpeningEnglish": "The music teacher found no green box in her closet. Then she told Ms. Wen about a park event held on the same day as the rain. A group had borrowed tables from school. Ivy and Jun went to the park with their teacher. Outside the gate, a girl in a bright dress was practicing a dance. Behind her, children played baseball on a field. A ball flew over the grass, and Jun moved back before it could hit him. The park was busy, but their visit had one clear question: had any garden things gone there?"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On Monday Ms. Wen took Ivy and Jun to the school office. A clock above the door was six minutes slow. The secretary laughed when Jun pointed this out. “That small error made our meeting book look strange last week,” she said. Ivy could hear voices from the yard outside. She closed the door gently so they could listen. She had dreamed of finding the green box that day, but she knew a dream was not proof. They asked to see the public list of rooms used during the repair.",
+        "zh": "星期一，溫老師帶艾薇和俊到學校辦公室。門上的時鐘慢了六分鐘。俊指出這件事時，秘書笑了。「那個小錯誤害我們上星期的會議簿看起來很奇怪，」她說。艾薇聽見庭院傳來說話聲，便輕輕關上門，好讓大家聽清楚。她夢想當天就找回綠箱子，但知道夢想不是證據。大家請求查看維修期間各房間的公開使用清單。",
+        "englishSha256": "b31c20d0f602f2c669dba93bc03e159677e777e0ed2fb13fcc67d1b6ef41ecda",
+        "chineseSha256": "9429474fa5db2aedb670af5df0772598886d87a94f6eb1f25a78ce1beefa1ade"
+      },
+      {
+        "number": 2,
+        "en": "The night before, Ivy had sat in her bedroom and looked at the drawing of the green box. She heard her parents laugh at a television program in the next room. For a moment she wanted to close the notebook and forget the search. Then she remembered that she had promised to help, not to work without rest. She put the book away and checked the time on her clock. There was enough time to sleep well before school. The box could wait until morning; the people looking for it needed care too.",
+        "zh": "前一晚，艾薇曾坐在臥室裡，看著綠箱子的圖。她聽見爸媽在隔壁房間看電視節目時笑出聲。有一瞬間，她想闔上筆記本，忘掉尋找的事。接著她想起自己的承諾是幫忙，不是永遠不休息。她收好本子，看了時鐘上的時間。現在睡覺，明天上學仍能有充足精神。箱子可以等到早晨，而尋找箱子的人也需要被照顧。",
+        "englishSha256": "8665755047dfc5247a0a2a518deaff87b4d6a97378216e6724ee88010bcdcc13",
+        "chineseSha256": "55f9150cc75e125f59d8abdfba431f4ba6047f80f538a2d507359d812288309e"
+      },
+      {
+        "number": 3,
+        "en": "The list said that the old music room had been open from nine to ten. It also said that the rain began at nine. The teacher who used the room remembered a bright rainbow in the sky much later that day. Ivy did not know whether the clock problem had changed the times on the list. “We can believe a memory without making it a rule,” Ms. Wen said. “Let us ask the people who were there.” She was proud of the children for wanting a clear answer, even when the answer was not quick.",
+        "zh": "清單寫著舊音樂教室從九點開放到十點，並記載雨在九點開始。使用過教室的老師卻記得，那天很晚才在天空看見一道明亮的彩虹。艾薇不確定時鐘的問題是否影響清單上的時間。「我們可以相信別人的回憶，但不必把回憶當成規則，」溫老師說，「先問當時在場的人。」孩子們願意尋求清楚的答案，即使答案不會立刻出現，這讓她感到自豪。",
+        "englishSha256": "f0f9cd4d8d9a57ec229563f8d0ced6a2f544a30958aaa4a1d30a78f2b1cc56a0",
+        "chineseSha256": "f967d20be69efd6663ca30b1bff79938648c2092236252adbc70acda848ad377"
+      },
+      {
+        "number": 4,
+        "en": "Jun asked whether the school was rich enough to buy every lost thing again. Ms. Wen said money would not solve every problem. The green box held labels made by children. Some students had spent many days drawing and writing them. Ivy thought of Jun's funny monkey and the book with care notes for each seed. Nature might grow new plants, but the notes held work that could not be bought in a store. The group decided to look first for the work, not just for the green plastic walls of the box.",
+        "zh": "俊問學校是不是有足夠的錢，可以把失物全部重新買回來。溫老師說，不是每個問題都能用錢解決。綠箱子裡有孩子親手做的標示牌，有人花了好多天畫畫和寫字。艾薇想起俊畫的滑稽猴子，以及每顆種子的照顧筆記。大自然能長出新植物，但那些筆記記載了商店買不到的心血。大家決定先找回那些努力的成果，而不只是綠色塑膠箱。",
+        "englishSha256": "603323bb7b1886e1603a0bc4afed1a4a18cc4240efe1caf5ec02f9eae658a1a6",
+        "chineseSha256": "dc8a048d217c91b77451011ff6ee60502ec0994c53857ff524b012f834b7756c"
+      },
+      {
+        "number": 5,
+        "en": "On Tuesday morning Ms. Wen asked how the group felt after waiting for news. One child said he was worried, another said he was curious, and Jun said he was ready to check another room. Ivy said she felt all three things. The teacher explained that feelings were not answers, but they could help people understand one another. No one was told to stop feeling worried. Instead, the children were given a small job: help the school office make its room list clear enough for anyone to read.",
+        "zh": "星期二早晨，溫老師問大家等消息等得怎麼樣。一個孩子說自己擔心，另一個說很好奇，俊則說已經準備好查下一個房間。艾薇說她同時有這三種心情。老師解釋，心情不是答案，但能幫助人理解彼此。沒有人被要求停止擔心。孩子們得到一個小工作：幫辦公室把房間清單整理得更清楚，讓任何人都容易閱讀。",
+        "englishSha256": "8b37ab466c0ea2803998bacb3bc39be16d43666ed7c8e46fec9fc45df04bdcdf",
+        "chineseSha256": "4538f62b606b9b79969be5f288b75854351fc998d78830b974afce43f4cfd470"
+      },
+      {
+        "number": 6,
+        "en": "In the afternoon the old music teacher came to the garden. She remembered seeing three covered boxes in the hall, but she did not know whether one was green. “I just moved around them,” she said. “I had to get my music books.” Ivy wrote down what she heard. They still did not know whether the box had entered the music room. They had learned that the room was used during the rain, however, and could ask an adult to check its closet. The teacher agreed to do that before the next meeting.",
+        "zh": "下午，舊音樂教室的老師來到花園。她記得走廊放了三個蓋著布的箱子，卻不確定其中是否有綠色的。「我只是繞過它們，」她說，「我得去拿音樂書。」艾薇把聽到的話記下來。他們仍不知道箱子是否進過音樂教室，但已知道下雨時有人使用那間房間，可以請大人查看儲物櫃。音樂老師答應在下次會議前確認。",
+        "englishSha256": "db26a8bfac070393f87ecbd22e8a2ee840a4a32bc9921c5ef99c34a41ac9c67d",
+        "chineseSha256": "53aeb6dcd1157833a533dae0bb6567ff8fe92491716597b676d3d822ca99d0d7"
+      },
+      {
+        "number": 7,
+        "en": "As the day ended, Ivy and Jun went outside. A little noise came from a group playing in the yard. The sky was clear, and a thin cloud crossed the sun. Jun said he liked solving things with his hands; he did not like waiting. Ivy understood him. She also wanted to open every door and look behind every shelf. But waiting for permission was part of caring for their school. “Tomorrow we can do more,” she said. They left the locked music room alone and walked home.",
+        "zh": "一天結束時，艾薇和俊走到戶外。庭院裡一群正在玩耍的學生發出輕微的聲音。天空晴朗，薄雲掠過太陽。俊說他喜歡動手解決問題，不喜歡等待。艾薇懂他的心情。她也想打開每扇門、查看每層架子。但等候許可也是愛護學校的一部分。「明天還可以繼續，」她說。兩人沒有碰上鎖的音樂教室，一起走回家。",
+        "englishSha256": "f83ae4d7df1ca4bce3d0494764fc62db5a0cc31e88d37fdd1f2b0a120d490fa7",
+        "chineseSha256": "1b594cf2b2c003dbae2748c9f8b1abaeb5fd1a4bdb1ce8ea8768578caff592c6"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 640,
+    "targets": [
+      {
+        "word": "As",
+        "meaning": "當……的時候",
+        "appearsInSource": true
+      },
+      {
+        "word": "bedroom",
+        "meaning": "臥室",
+        "appearsInSource": true
+      },
+      {
+        "word": "believe",
+        "meaning": "相信",
+        "appearsInSource": true
+      },
+      {
+        "word": "clock",
+        "meaning": "時鐘",
+        "appearsInSource": true
+      },
+      {
+        "word": "close",
+        "meaning": "關閉",
+        "appearsInSource": true
+      },
+      {
+        "word": "day",
+        "meaning": "一天",
+        "appearsInSource": true
+      },
+      {
+        "word": "dream",
+        "meaning": "夢想",
+        "appearsInSource": true
+      },
+      {
+        "word": "error",
+        "meaning": "錯誤",
+        "appearsInSource": true
+      },
+      {
+        "word": "hear",
+        "meaning": "聽見",
+        "appearsInSource": true
+      },
+      {
+        "word": "just",
+        "meaning": "剛剛",
+        "appearsInSource": true
+      },
+      {
+        "word": "laugh",
+        "meaning": "笑",
+        "appearsInSource": true
+      },
+      {
+        "word": "Nature",
+        "meaning": "自然",
+        "appearsInSource": true
+      },
+      {
+        "word": "noise",
+        "meaning": "噪音",
+        "appearsInSource": true
+      },
+      {
+        "word": "proud",
+        "meaning": "驕傲的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rainbow",
+        "meaning": "彩虹",
+        "appearsInSource": true
+      },
+      {
+        "word": "rich",
+        "meaning": "有錢的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sky",
+        "meaning": "天空",
+        "appearsInSource": true
+      },
+      {
+        "word": "time",
+        "meaning": "時間",
+        "appearsInSource": true
+      },
+      {
+        "word": "whether",
+        "meaning": "是否",
+        "appearsInSource": true
+      },
+      {
+        "word": "yard",
+        "meaning": "院子",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What was wrong with the office clock?",
+      "options": [
+        "It was six minutes slow.",
+        "It had no hands.",
+        "It was six hours fast."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It was six minutes slow.",
+      "existingAnswerExplanation": "辦公室時鐘慢了六分鐘",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "On Monday Ms. Wen took Ivy and Jun to the school office. A clock above the door was six minutes slow. The secretary laughed when Jun pointed this out. “That small error made our meeting book look strange last week,” she said. Ivy could hear voices from the yard outside. She closed the door gently so they could listen. She had dreamed of finding the green box that day, but she knew a dream was not proof. They asked to see the public list of rooms used during the repair.",
+          "chinese": "星期一，溫老師帶艾薇和俊到學校辦公室。門上的時鐘慢了六分鐘。俊指出這件事時，秘書笑了。「那個小錯誤害我們上星期的會議簿看起來很奇怪，」她說。艾薇聽見庭院傳來說話聲，便輕輕關上門，好讓大家聽清楚。她夢想當天就找回綠箱子，但知道夢想不是證據。大家請求查看維修期間各房間的公開使用清單。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 2,
+          "english": "The night before, Ivy had sat in her bedroom and looked at the drawing of the green box. She heard her parents laugh at a television program in the next room. For a moment she wanted to close the notebook and forget the search. Then she remembered that she had promised to help, not to work without rest. She put the book away and checked the time on her clock. There was enough time to sleep well before school. The box could wait until morning; the people looking for it needed care too.",
+          "chinese": "前一晚，艾薇曾坐在臥室裡，看著綠箱子的圖。她聽見爸媽在隔壁房間看電視節目時笑出聲。有一瞬間，她想闔上筆記本，忘掉尋找的事。接著她想起自己的承諾是幫忙，不是永遠不休息。她收好本子，看了時鐘上的時間。現在睡覺，明天上學仍能有充足精神。箱子可以等到早晨，而尋找箱子的人也需要被照顧。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did the club wait before searching the music room?",
+      "options": [
+        "They wanted to play baseball.",
+        "They needed permission and an adult to check.",
+        "They had found every seed."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "They needed permission and an adult to check.",
+      "existingAnswerExplanation": "社團遵守安全規定，由大人取得許可後查看",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "As the day ended, Ivy and Jun went outside. A little noise came from a group playing in the yard. The sky was clear, and a thin cloud crossed the sun. Jun said he liked solving things with his hands; he did not like waiting. Ivy understood him. She also wanted to open every door and look behind every shelf. But waiting for permission was part of caring for their school. “Tomorrow we can do more,” she said. They left the locked music room alone and walked home.",
+          "chinese": "一天結束時，艾薇和俊走到戶外。庭院裡一群正在玩耍的學生發出輕微的聲音。天空晴朗，薄雲掠過太陽。俊說他喜歡動手解決問題，不喜歡等待。艾薇懂他的心情。她也想打開每扇門、查看每層架子。但等候許可也是愛護學校的一部分。「明天還可以繼續，」她說。兩人沒有碰上鎖的音樂教室，一起走回家。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 6,
+          "english": "In the afternoon the old music teacher came to the garden. She remembered seeing three covered boxes in the hall, but she did not know whether one was green. “I just moved around them,” she said. “I had to get my music books.” Ivy wrote down what she heard. They still did not know whether the box had entered the music room. They had learned that the room was used during the rain, however, and could ask an adult to check its closet. The teacher agreed to do that before the next meeting.",
+          "chinese": "下午，舊音樂教室的老師來到花園。她記得走廊放了三個蓋著布的箱子，卻不確定其中是否有綠色的。「我只是繞過它們，」她說，「我得去拿音樂書。」艾薇把聽到的話記下來。他們仍不知道箱子是否進過音樂教室，但已知道下雨時有人使用那間房間，可以請大人查看儲物櫃。音樂老師答應在下次會議前確認。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}
