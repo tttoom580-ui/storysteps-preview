@@ -216,9 +216,9 @@
       "chapter": 24,
       "paragraph": 5,
       "oldEn": "Before the evening group went outside, Nia asked families to meet inside the center and read the safety notice together. There was not much time between sunset and the end of the visit, so she kept the plan short. Ada checked the number of lamps and the route markers. One parent asked why the center needed to keep a written record of such a simple event. Nia explained that the next group would need to know where the equipment was stored and whether any part of the field needed work. They did not want to begin from nothing each time. The parent nodded and helped write the final check. By the time the group reached the gate, everyone knew where to stand and where to go if they needed help.",
-      "newEn": "While the group observed the stars, Nia pointed out that they had checked the safety notice together before leaving the center. The visit was short because dusk gave them only a little time under a clear sky. Ada checked the number of lamps again and confirmed that every route marker was still in place. One parent asked why the center needed a written record for such a simple event. Nia explained that the next group would need to know where the equipment was stored and whether any part of the field needed work. They did not want to begin from nothing each time. The parent nodded and offered to write down the final check after the visit. Everyone knew where to stand and where to go if they needed help.",
+      "newEn": "While the group observed the stars, Nia pointed out that they had checked the safety notice together before leaving the center. They had agreed to meet at the field gate before dark, and there was not much time after sunset, so they kept the visit short. Ada checked the number of lamps again and confirmed that every route marker was still in place. One parent asked why the center needed a written record for such a simple event. Nia explained that the next group would need to know where the equipment was stored and whether any part of the field needed work. They did not want to begin from nothing each time. The parent nodded and offered to write down the final check after the visit. Everyone knew where to stand and where to go if they needed help.",
       "oldZh": "晚間小組出門前，妮雅請家庭先在中心集合，一起閱讀安全公告。日落到參觀結束之間的時間不多，所以她把計畫安排得很短。艾達檢查燈具數量和路線標記。一位家長問，這麼簡單的活動為什麼要留書面紀錄。妮雅解釋，下一個使用場地的小組得知道器材收在哪裡，以及草地有哪些部分需要維護。大家不想每次都從零開始。家長點點頭，幫忙寫好最後檢查。隊伍抵達大門時，每個人都知道該站哪裡、需要幫助時該往哪裡走。",
-      "newZh": "觀星時，妮雅提醒大家：離開中心前，他們已一起核對過安全公告。黃昏後適合觀測的時間不多，所以行程安排得很短。艾達再次清點燈具，確認每個路線標記都在原位。一位家長問，這麼簡單的活動為什麼要留書面紀錄。妮雅解釋，下一組使用場地的人需要知道器材收在哪裡，以及草地是否仍有待修之處；大家不想每次都從零開始。家長點頭，主動提出活動結束後幫忙記下最後檢查結果。每個人都知道該站哪裡，以及需要協助時應往哪裡走。",
+      "newZh": "觀星時，妮雅提醒大家：離開中心前，他們已一起核對過安全公告。大家原本約好天黑前在草地入口集合；日落後時間已不多，所以行程安排得很短。艾達再次清點燈具，確認每個路線標記都在原位。一位家長問，這麼簡單的活動為什麼要留書面紀錄。妮雅解釋，下一組使用場地的人需要知道器材收在哪裡，以及草地是否仍有待修之處；大家不想每次都從零開始。家長點頭，主動提出活動結束後幫忙記下最後檢查結果。每個人都知道該站哪裡，以及需要協助時應往哪裡走。",
       "reason": "Original narrative returns to center departure after group is already outdoors observing stars."
     },
     {
@@ -250,6 +250,166 @@
       "oldZh": "那晚，艾薇坐在臥室裡，看著綠箱子的圖。",
       "newZh": "前一晚，艾薇曾坐在臥室裡，看著綠箱子的圖。",
       "reason": "Move bedroom recollection to explicit previous-night flashback after office morning."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 13,
+      "paragraph": 7,
+      "oldEn": "When they stood by the gate again, Ms. Wen asked each student to say one thing they had learned.",
+      "newEn": "When they stood by the school gate again after returning from the city garden, Ms. Wen asked each student to say one thing they had learned.",
+      "oldZh": "大家再次站在門旁時，溫老師請每個學生說一件學到的事。",
+      "newZh": "從城市花園回到學校後，大家再次站在校門旁，溫老師請每個學生說一件學到的事。",
+      "reason": "Ensure same gate is school gate after bus returns."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 20,
+      "paragraph": 6,
+      "oldEn": "That afternoon the club helped carry water in small cans.",
+      "newEn": "Earlier that afternoon, the club had helped carry water in small cans, before Ivy went home to finish her homework.",
+      "oldZh": "下午，社團幫忙用小澆水壺搬水。",
+      "newZh": "那天下午稍早，社團曾用小澆水壺搬水；之後艾薇才回家做功課。",
+      "reason": "Reconcile after-school homework scene with next paragraph's earlier afternoon watering."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 21,
+      "paragraph": 2,
+      "oldEn": "Kai said each type helped him in a different way.",
+      "newEn": "Kai said the picture and large words would help other students, while the raised lines helped him recognize the signs by touch.",
+      "oldZh": "凱說，每一種都能以不同方式幫助他。",
+      "newZh": "凱說，圖片和大字能幫助其他學生，凸起的線條則讓他能用觸覺辨識標示。",
+      "reason": "Blind Kai cannot independently read printed pictures or ordinary large type."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 23,
+      "paragraph": 4,
+      "oldEn": "An older woman named Mrs. Reed visited with her husband, the school gardener.",
+      "newEn": "Mrs. Reed, who had joined the earlier meeting, shared pie with her husband, the school gardener.",
+      "oldZh": "一位叫里德太太的年長女士，和她的丈夫——學校園丁——一起來訪。",
+      "newZh": "先前已參加會議的里德太太，與擔任學校園丁的丈夫一起分享派。",
+      "reason": "Mrs. Reed already arrived with her husband in first paragraph of same chapter."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 24,
+      "paragraph": 6,
+      "oldEn": "That afternoon the school workers put a cover over the new path materials.",
+      "newEn": "Earlier that afternoon, the school workers had put a cover over the new path materials.",
+      "oldZh": "下午，校方工人替新小徑的材料蓋上罩布。",
+      "newZh": "當天下午稍早，校方工人就已替新小徑的材料蓋上罩布。",
+      "reason": "Introduce flashback after prior evening scene."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 25,
+      "paragraph": 5,
+      "oldEn": "When the first family walked into the garden, a child asked which plant Ivy liked most.",
+      "newEn": "When another family walked into the garden, a child asked which plant Ivy liked most.",
+      "oldZh": "第一個家庭走進花園時，一個孩子問艾薇最喜歡哪種植物。",
+      "newZh": "另一個家庭走進花園時，一個孩子問艾薇最喜歡哪種植物。",
+      "reason": "Event already started with several families; retain required target When."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 3,
+      "paragraph": 3,
+      "oldEn": "The teacher answered that evening. Some chairs were ready, but others had broken legs. \"Please come at five pm,\" the email said.",
+      "newEn": "The teacher answered before four. Some chairs were ready, but others had broken legs. \"Please come at five pm if the path is clear,\" the email said.",
+      "oldZh": "老師當晚回信，說有些椅子還能用，有些椅腳壞了。「請下午五點來。」信上寫著。",
+      "newZh": "老師在四點前回信，說有些椅子還能用，有些椅腳壞了。「如果道路暢通，請下午五點來。」信上寫著。",
+      "reason": "Response at evening cannot invite an earlier five-p.m. appointment."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 6,
+      "paragraph": 5,
+      "oldEn": "Back inside, Moss watched the new bread rise in the oven and smiled at the small change in his recipe.",
+      "newEn": "Back inside, Moss wrote down how well the new dough had begun to rise before baking, and smiled at the small change in his recipe.",
+      "oldZh": "回到屋裡，莫斯看著新麵包在烤爐裡膨起，為食譜的小改動而笑了。",
+      "newZh": "回到屋裡，莫斯記下新麵團在烘烤前順利發酵膨起的情形，為食譜的小改動而笑了。",
+      "reason": "They already baked and shared the loaf; dough cannot rise afterward. Preserve 'rise' target."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 7,
+      "paragraph": 2,
+      "oldEn": "Mrs. Fern came with her child and a housewife named May from the next street.",
+      "newEn": "Mrs. Fern came with her child. A housewife named May from the next street also joined them.",
+      "oldZh": "芬恩太太帶著孩子來了，還有隔街的家庭主婦梅。",
+      "newZh": "芬恩太太帶著孩子來了；隔街的家庭主婦梅也參加了。",
+      "reason": "Clarify four adult learners, child accompanies parent; no false roster."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 7,
+      "paragraph": 2,
+      "oldEn": "Everybody could see and ask questions.",
+      "newEn": "The four adult learners could see and ask questions, while Mrs. Fern's child listened beside her.",
+      "oldZh": "大家都能看清楚，也能提問。",
+      "newZh": "四位成人學員都能看清楚、提出問題；芬恩太太的孩子則在她身旁聆聽。",
+      "reason": "Explain a four-person class with accompanying child."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 10,
+      "paragraph": 2,
+      "oldEn": "The next morning, Kit came to test the food after school work.",
+      "newEn": "The next morning, Kit came to test the food after his early farm work.",
+      "oldZh": "隔天早上，基特做完農場的事後來試吃。",
+      "newZh": "隔天早上，基特做完清晨的農場工作後來試吃。",
+      "reason": "Correct English mistranslation of farm chores into school work."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 15,
+      "paragraph": 1,
+      "oldEn": "When the first guests enter, Fia tries to care for each one without forgetting that the workers also need time to rest and sleep.",
+      "newEn": "When the first guests were ready to enter, Fia tried to care for each one without forgetting that the workers also needed time to rest and sleep.",
+      "oldZh": "第一批客人進門時，菲雅努力照顧每個人，也不忘員工同樣需要休息與睡眠。",
+      "newZh": "第一批客人準備進門時，菲雅努力照顧每個人，也不忘員工同樣需要休息與睡眠。",
+      "reason": "Correct present-tense sentence embedded in past narration; preserve exact target 'enter'."
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 5,
+      "paragraph": 4,
+      "oldEn": "When the power returned, the team made a short test instead of opening the whole hall.",
+      "newEn": "After a trained technician repaired the loose electrical connection and restored power, the team made a short test instead of opening the whole hall.",
+      "oldZh": "電力恢復後，團隊沒有立刻開放整個大廳，而是先做簡短測試。",
+      "newZh": "受訓技師修好鬆脫的電線接點並恢復供電後，團隊沒有立刻開放整個大廳，而是先做簡短測試。",
+      "reason": "No technician was previously mentioned; ensure faulty electrical system was repaired by qualified person."
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 9,
+      "paragraph": 4,
+      "oldEn": "The correction appeared in the newspaper the next morning. It was short and plain, not a dramatic apology. Still, the people who had asked for it could finally see the truth printed beside their stories.",
+      "newEn": "The editor agreed to publish the correction in the newspaper the next morning. It would be short and plain, not a dramatic apology. The people who had asked for it would soon see the truth printed beside their stories.",
+      "oldZh": "隔天早晨，學生報刊出更正。文字簡短平實，並不戲劇化。然而提出要求的人終於看見真相印在自己的故事旁邊。",
+      "newZh": "編輯答應隔天早晨在學生報刊出更正。那將是一則簡短平實的說明，而非戲劇化的道歉。提出要求的人很快就能看見真相印在自己的故事旁邊。",
+      "reason": "Remove next morning flash-forward before subsequent afternoon sequence."
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 17,
+      "paragraph": 5,
+      "oldEn": "Before leaving the school, Evan asked which channel teachers used to share class news with families.",
+      "newEn": "Earlier, before leaving the school, Evan had asked which channel teachers used to share class news with families.",
+      "oldZh": "離校前，安澤問老師用什麼管道向家長分享班級消息。",
+      "newZh": "稍早離校前，安澤曾問老師用什麼管道向家長分享班級消息。",
+      "reason": "Mark explicit flashback after preceding paragraph bus ride."
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 24,
+      "paragraph": 2,
+      "oldEn": "For the closing fair, a bakery offered salty bread, and a shop downstairs brought balloons.",
+      "newEn": "As they prepared for the closing fair, a bakery offered salty bread, and a shop downstairs brought balloons.",
+      "oldZh": "閉幕活動時，麵包店提供鹹麵包，樓下商店帶來氣球。",
+      "newZh": "籌備閉幕活動時，麵包店提供鹹麵包，樓下商店帶來氣球。",
+      "reason": "Closing fair occurs chapter 25, chapter 24 is preparation."
     }
   ],
   "quizzes": [
