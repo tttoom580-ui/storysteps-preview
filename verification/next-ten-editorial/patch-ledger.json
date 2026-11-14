@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "summary": {
     "scopeBooks": 10,
-    "patchGroupsRecorded": 12,
-    "quizPatchesRecorded": 2,
-    "patchGroupsAppliedThisRun": 2,
-    "chaptersWithDocumentedRepairs": 2,
+    "patchGroupsRecorded": 15,
+    "quizPatchesRecorded": 6,
+    "patchGroupsAppliedThisRun": 7,
+    "chaptersWithDocumentedRepairs": 5,
     "wholeBooksCertifiedByScript": 0
   },
   "changes": [
@@ -14,7 +14,7 @@
       "chapter": 7,
       "paragraph": 5,
       "reason": "Make earlier school demonstration a clear flashback after dinner scene in preceding paragraph",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "That afternoon Leo showed his model to a younger class.",
@@ -33,7 +33,7 @@
       "chapter": 8,
       "paragraph": 5,
       "reason": "Chronology conflict: Ruby posted corrective video in paragraph 4, so grandmother's scene cannot say she has yet to make it",
-      "changesAppliedNow": true,
+      "changesAppliedNow": false,
       "englishBeforeAfter": [
         [
           "She simply stayed until Ruby was ready to pick up the phone and make the correction.",
@@ -46,6 +46,103 @@
           "只是陪露比坐著，直到女孩願意重新看自己已上傳的更正影片，讀過那些回覆，而不急著抹掉曾經犯下的錯。"
         ]
       ]
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 7,
+      "paragraph": 7,
+      "reason": "The prior half-circle was on the copper mechanism found at the port, not the score-marked broken board by the mine bridge",
+      "changesAppliedNow": true,
+      "englishBeforeAfter": [
+        [
+          "It was a metal plate carrying the same half-circle design as the broken board from the river port.",
+          "It was a metal plate carrying the same half-circle design as the copper machine part found at the river port."
+        ]
+      ],
+      "chineseBeforeAfter": [
+        [
+          "那是一塊金屬牌，刻著和河港碎木板相同的半圓圖案。",
+          "那是一塊金屬牌，刻著與河港銅盒內那件機械零件相同的半圓圖案。"
+        ]
+      ]
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 25,
+      "paragraph": 1,
+      "reason": "Three months after a spring festival is not necessarily spring; keep the ending's seasonal continuity accurate",
+      "changesAppliedNow": true,
+      "englishBeforeAfter": [
+        [
+          "Three months later, spring had returned to the valley.",
+          "Three months later, fresh green growth covered the valley."
+        ]
+      ],
+      "chineseBeforeAfter": [
+        [
+          "三個月後，春天回到山谷。",
+          "三個月後，山谷又披上了新綠。"
+        ]
+      ]
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 4,
+      "paragraph": 6,
+      "reason": "Clarify score board had 9 marks and the protagonists hear 8 and 9 bells respectively, not sum to 9",
+      "changesAppliedNow": true,
+      "englishBeforeAfter": [
+        [
+          "Nine marks. Eight bells for Qi and nine for him. Someone had left them a message that matched the strange sounds under the city.",
+          "Nine marks. Qi had heard eight bells, while Yu had heard nine. Someone had left them a score-like message that echoed the strange sounds under the city."
+        ]
+      ],
+      "chineseBeforeAfter": [
+        [
+          "九道記號，正好是韓祈聽到的八聲，加上自己聽到的九聲。有人留下了與城市地底怪聲相符的訊息。",
+          "九道記號。韓祈曾聽到八聲鐘響，沈雨則聽到九聲；這個像計分板的訊息，彷彿呼應了城市地底的怪聲。"
+        ]
+      ]
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 7,
+      "question": 2,
+      "field": "question",
+      "reason": "Correct source cross-reference to port copper machine part",
+      "changesAppliedNow": true,
+      "old": "as the broken board from the river port.",
+      "new": "as the copper machine part found at the river port."
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 7,
+      "question": 2,
+      "field": "explanation",
+      "reason": "Correct cited English and Chinese source text after editing",
+      "changesAppliedNow": true,
+      "old": "It was a metal plate carrying the same half-circle design as the broken board from the river port.\n本段對照：傍晚，沈雨看見兩塊岩石間有東西發亮。那是一塊金屬牌，刻著和河港碎木板相同的半圓圖案。",
+      "new": "It was a metal plate carrying the same half-circle design as the copper machine part found at the river port.\n本段對照：傍晚，沈雨看見兩塊岩石間有東西發亮。那是一塊金屬牌，刻著與河港銅盒內那件機械零件相同的半圓圖案。"
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 25,
+      "question": 1,
+      "field": "question",
+      "reason": "Question source remains in paragraph after seasonal continuity correction",
+      "changesAppliedNow": true,
+      "old": "Three months later, spring had returned to ____.",
+      "new": "Three months later, fresh green growth covered ____."
+    },
+    {
+      "book": "import-two-rivers",
+      "chapter": 25,
+      "question": 1,
+      "field": "explanation",
+      "reason": "Update source quote and translation after ending season fix",
+      "changesAppliedNow": true,
+      "old": "Three months later, spring had returned to the valley.\n本段對照：三個月後，春天回到山谷。",
+      "new": "Three months later, fresh green growth covered the valley.\n本段對照：三個月後，山谷又披上了新綠。"
     }
   ],
   "notice": "This ledger records actual precise bilingual corrections. It is NOT 25-chapter signoff."
