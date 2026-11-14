@@ -1,11 +1,19 @@
 import {markLocalSaved} from './storage-status';
+import {isFreeBook} from './offer';
 import {stories} from './content';
 import {blockForChapter,appendGrant} from './access-policy.mjs';
 const key='storysteps-free-access-v1';
 export function readGrants(){try{const d=JSON.parse(localStorage.getItem(key)||'[]');return Array.isArray(d)?d.filter(g=>stories.some(b=>b.id===g.story)&&[6,10,14,18,22].includes(g.start)&&['launch-gift','rewarded-ad'].includes(g.source)):[]}catch{return []}}
-export function canRead(story:string,number:number){const block=blockForChapter(number);return !block||readGrants().some(g=>g.story===story&&g.start===block.start)}
+export function canRead(story:string,number:number){
+ // Ten selected books are fully free: all 25 chapters, no ads or unlock required.
+ if(isFreeBook(story))return Number.isInteger(number)&&number>=1&&number<=25;
+ // Existing free four-chapter unlocks are preserved until a trusted merchant
+ // backend verifies purchases and stores premium manuscripts privately.
+ const block=blockForChapter(number);
+ return !block||readGrants().some(g=>g.story===story&&g.start===block.start);
+}
 export function grantBlock(story:string,number:number,source:'launch-gift'|'rewarded-ad'){
- if(!stories.some(b=>b.id===story))throw Error('找不到故事');const block=blockForChapter(number);if(!block)return;
+ if(!stories.some(b=>b.id===story))throw Error('找不到故事');if(isFreeBook(story))return;const block=blockForChapter(number);if(!block)return;
  localStorage.setItem(key,JSON.stringify(appendGrant(readGrants(),story,block.start,source)));markLocalSaved();window.dispatchEvent(new Event('storysteps-access-changed'));
 }
 export {blockForChapter};
