@@ -414,6 +414,42 @@
           "這場籌備已久的公開聚會，安排在每年紀念活動的期間，同時在兩個年代的戲院展開。"
         ]
       ]
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 24,
+      "paragraph": 2,
+      "reason": "Replace grammatically incorrect use of lest while preserving required target vocabulary and site protection",
+      "english": [
+        [
+          "An asked for receipts, because even innocent work needed to be documented near a protected site. She worried that careless choices might destroy evidence lest anyone notice until too late.",
+          "An demanded signed receipts lest undocumented earthworks destroy evidence at the protected site before anyone noticed. Even harmless work needed a traceable record near the ancient drainage opening."
+        ]
+      ],
+      "chinese": [
+        [
+          "安要求單據，因為受保護遺址旁，即使無害施工也須記錄。她擔心漫不經心的決定毀掉證據，直到太遲才有人發現。",
+          "安要求具名簽收單據，免得未經記錄的土方工程破壞受保護遺址的證據，直到太晚才被發現。古排水口附近即使是無害的施工，也必須留下可追查的紀錄。"
+        ]
+      ]
+    },
+    {
+      "book": "import-third-gate",
+      "chapter": 25,
+      "paragraph": 6,
+      "reason": "Chapter 25 places after-storm classroom tour in paragraph 5 before a 'By morning' flood report; explicitly make final paragraph a remembered flood morning",
+      "english": [
+        [
+          "By morning the river had risen, but the Third Gate diverted the worst of the flood toward the open plain.",
+          "An remembered the storm's last morning, before she had brought students to the gate. The river had risen, but the Third Gate diverted the worst of the flood toward the open plain."
+        ]
+      ],
+      "chinese": [
+        [
+          "清晨河水上漲，第三道水門卻把最凶猛的洪流引往空曠平原。",
+          "安想起暴雨最後一個清晨，那時她尚未帶學生前來。河水雖已暴漲，第三道水門仍把最凶猛的洪流導往空曠平原。"
+        ]
+      ]
     }
   ],
   "quizPatches": [
