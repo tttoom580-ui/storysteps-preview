@@ -38,11 +38,13 @@ def target_in(text, word):
 def chapter_hash(c):
     return hashlib.sha256(json.dumps(c,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode('utf-8')).hexdigest()
 def same(old, new, target, desc):
+    # Idempotence comes before matching the old fragment: the new Chinese
+    # sentence may still contain the old sentence as a substring.
+    if new in target:
+        return target,False
     if old in target:
         if target.count(old)!=1:raise ValueError(f'Not exactly one original excerpt in {desc}')
         return target.replace(old,new,1),True
-    if new in target:
-        return target,False
     raise ValueError(f'Reviewed excerpt missing from original manuscript: {desc}\nWanted: {old[:140]}\nFound: {target[:140]}')
 
 applied=[]
