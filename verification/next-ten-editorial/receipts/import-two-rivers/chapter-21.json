@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 21,
+  "chapterId": "import-two-rivers-21",
+  "sourceChapterSha256": "44268d8265d41cd2d6503df4898352bbde49876b3aa449fc5738d0a52a805cf9",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "議會兩次公開表決停私塔與有警報的靜河測試，隱藏控制室新線被發現，兩人到安全站準備操作。",
+    "previousChapterEndingEnglish": "Near sunset, the convoy reached the gate and delivered the wheel to the repair team. Before the workers could begin, the main river suddenly rose. A signal flashed from the private control tower on the opposite hill. Someone was using the hidden channel again. The chief ordered the public warning bells rung and the road closed. Qi looked toward the tower. He could see a figure at the high window, wearing the long dark coat of the Mountain Society. Yu recognized the shape of the man's face from the academy stage. It was Luo, and he had started the plan one night early.",
+    "nextChapterOpeningEnglish": "The following hour felt longer than a whole day. Rain fell throughout the valley, and the road to the old gate turned into a shallow stream. The emergency keeper gave Yu and Qi dry cloth for their hands, then showed them the repair team's screen. Water pressure was rising near the stone wall, but the new wheel remained stable. “Do not lift the handle until I give the signal,” she warned. Yu nodded. Qi stood so still that he looked like a statue, although Yu could see how nervous he was. Beyond the window, the first battle was against the water, not against another person."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The warning bells reached the entire city. At the academy, students gathered in the bookstore, where an old woman served hot water and bowls of boiled rice. She was waiting for news about her nephew, who worked at the northern gate. Yu arrived with Teacher Mei and asked everyone to help prepare blankets and food. “The water may rise,” he said. “We need people ready to serve supper at the shelters.” A female student took out her needle and thread to mend torn coats. Others wrote messages on postcards for families who had lost phone contact. Nobody had time for the usual school drama.",
+        "zh": "警鐘傳遍整座城。在學院裡，學生聚到書店，年長店主供應熱水和煮飯。她正等在北閘工作的姪子消息。沈雨跟梅老師抵達，請大家協助準備毛毯與食物。「水位可能上漲，」他說，「避難所需要人能供應晚餐。」一名女學生拿出針線補破外套。其他人替電話失聯的家人寫明信片。沒有人有空管平常的校園八卦。",
+        "englishSha256": "58158ce1c6b6f73894606cf84a3cf5a9e034abe01764ed6fe89036b74cde5835",
+        "chineseSha256": "3b58ee8dc5a7cf3ca7e559b94da1481064d2451b25471ccad2d43d667d551a7b"
+      },
+      {
+        "number": 2,
+        "en": "The city council held an emergency vote by public law. Officials had to choose whether to stop the private spirit towers and open the Quiet River under the engineers' plan. Luo's supporters argued that shutting the towers would reduce the city's income. Others warned that keeping them running could cause a larger flood. An older member stood and said, “Wealth cannot replace a life.” Yu listened from the public seats. He knew that some workers feared losing their jobs, but there were ways to protect their wages during repairs. Mei had prepared such a plan with the local unions.",
+        "zh": "城市議會依公開法律進行緊急投票。官員必須決定是否停掉私人靈塔，並依工程師計畫開啟靜河。羅會長的支持者主張關塔會降低城市收入；其他人警告繼續運轉可能造成更大洪水。一名年長議員站起來說：「財富不能代替生命。」沈雨坐在公開旁聽席聽著。他知道工人怕失業，但維修期間仍可保障薪資。梅老師已與地方工會擬好相關計畫。",
+        "englishSha256": "d89f86cf82f44ff4df9a9bcf974fd4b546888281dd0673418e5c26ee906412d7",
+        "chineseSha256": "5e984d64ad1c8c15dc59b7798ad21ab8a05d892bb5ebdc6be94f4fa5120ea19f"
+      },
+      {
+        "number": 3,
+        "en": "A young member asked to remove the old rule that allowed the president to keep water records secret. Another proposed a new rule requiring public review of all major gate work. The debate was long, but the members finally voted to stop the towers. A second vote approved a careful test of the Quiet River gate, with warnings and rescue teams ready. The chief inspector sent the result to the engineers at once. Yu called Qi. “The city chose,” he said. Qi answered over the sound of rain, “Then we can act without hiding.”",
+        "zh": "一名年輕議員提議取消允許會長保密用水紀錄的舊規，另一人提議重要閘門工程都要公開審查。辯論很久，議員終於投票通過停止靈塔。第二次投票通過在完成警告與救援部署後，謹慎測試靜河水閘。總督察立刻把結果送給工程師。沈雨打電話給韓祈。「城市做出選擇了。」他說。韓祈在雨聲中回答：「那我們能光明正大地行動。」",
+        "englishSha256": "441af2b27a2f42c29bf75ec2568b19a53bf891c945bb7c3d5812450b38cbca7d",
+        "chineseSha256": "ce3d1ec6281084b7501749d75103f54f6a60102113a582678115993d6fe67118"
+      },
+      {
+        "number": 4,
+        "en": "Before leaving, Yu noticed a rat running beneath the council table. It disappeared through a narrow hole beside a sealed internal door. A guard said that an old service tunnel ran behind the wall. Yu remembered the missing third name in the tower and the hidden room beneath Luo's hall. “Please check that passage,” he told the inspector. “It may connect to the private control line.” She agreed to send trained workers. They found a fresh wire leading away from the room. Someone had placed it there that morning, after the private towers were supposed to stop.",
+        "zh": "離開前，沈雨注意到一隻老鼠從議會桌下跑過，鑽進內門旁的小洞。守衛說牆後有舊維修隧道。沈雨想起北塔被刪去的第三個名字，還有羅會長大廳下方的暗室。「請查那條通道，」他對督察說，「可能連著私人控制線。」督察同意派受訓工人檢查。他們找到一條新電線，從房內延伸出去。有人今天早上才裝上，而私人靈塔本應已停止運作。",
+        "englishSha256": "96a2d02f62c0e1c044804b69253c4504eada275a805bb7ee6eca3ab78effc782",
+        "chineseSha256": "a0cd25ce015437d1e30459a51e98c798eb11dbd82847da0fde4a89429e3d4a5b"
+      },
+      {
+        "number": 5,
+        "en": "In the shelter kitchen, Aunt Wei laid out hot buns and asked students to brush the flour from their coats before serving food. Yu helped carry dishes while thinking about the council's choice. He had once believed a single hero could solve a great problem with one spell. Now he saw the work of dozens of ordinary people: drivers, cooks, nurses, and voters. Each action was small, but together they formed real protection. He felt thankful for the chance to take part. A messenger arrived from the gate and reported that the wheel was ready for its final examination.",
+        "zh": "避難所廚房裡，魏姨擺出熱包子，請學生分餐前先把外套上的麵粉刷掉。沈雨幫忙搬餐具，心裡想著議會的選擇。他以前相信單一英雄能用一道法術解決大問題。現在他看見數十個普通人的工作：司機、廚師、護理人員與投票者。每件事都小，合起來才形成真正保護。他很感謝自己有機會參與。一名信使從水閘送來消息，輪盤已準備接受最後檢查。",
+        "englishSha256": "6b09bb8a93027ed4d6a335a86272789ea6e0f4211e0fb5c7bf700aff1ff4a82f",
+        "chineseSha256": "7f41c55b707bffb17adaf0e4f176c5131d24fc327c59f23205df08247c3a2ea5"
+      },
+      {
+        "number": 6,
+        "en": "A rescue worker used chalk to mark the supply tables, so whoever arrived could see where blankets and drinking water belonged. Several military drivers helped move boxes and asked how they might earn the town's trust after years of being seen only during disasters. Aunt Wei gave them ordinary work beside the students. “You earn trust by showing up and doing what people need,” she said. The young drivers listened and went back to work.",
+        "zh": "救援工作者用粉筆在物資桌上作記號，讓不論誰抵達都知道毛毯和飲水放哪裡。幾名軍方司機幫忙搬箱，也問這些年大家只在災難時見到軍隊，要怎麼贏回鎮民信任。魏姨安排他們和學生一起做普通工作。「信任靠到場做大家需要的事來贏得。」她說。年輕司機聽完，繼續工作。",
+        "englishSha256": "0afefa2ce923517206427265a9d8108225b4d1f319f94fddf3625051b4e5689d",
+        "chineseSha256": "fed1340dac49213e3aede1f66c48f96255d2dde3f731a09afa16a9c3968e4a5c"
+      },
+      {
+        "number": 7,
+        "en": "Rain struck the roof harder. The emergency team announced that the public road would close in one hour. Yu carried the approved plans to the safe control station, where the chief asked for a final check of the spirit marks. Qi stood near the engineers, his coat dark with rain. When Yu entered, Qi's tense face softened. “You came,” he said. “I told you I would,” Yu answered. The chief raised her hand for silence. Outside, a deep bell began to sound. This time the sound did not come from magic alone; the city's real warning system had joined it.",
+        "zh": "雨更用力地打在屋頂。緊急隊宣布公路一小時後封閉。沈雨把核准圖送到安全控制站，總指揮要求最後確認雙人靈印。韓祈站在工程師旁，外套被雨染得深暗。沈雨進門時，韓祈緊繃的臉柔和下來。「你來了。」「我說過會來。」沈雨回答。總指揮舉手請大家安靜。外面響起深沉鐘聲。這次不只來自法術，城市真正的警報系統也加入了聲音。",
+        "englishSha256": "fb1741503bdc9cad0a653c08473ca312a11f7c7cce4e22d9537b5988d2adc0cc",
+        "chineseSha256": "381927d120307b752697c63656edeec384b821e9b1f36a6067799286fa82197b"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 668,
+    "targets": [
+      {
+        "word": "boiled",
+        "meaning": "煮沸",
+        "appearsInSource": true
+      },
+      {
+        "word": "bookstore",
+        "meaning": "書店",
+        "appearsInSource": true
+      },
+      {
+        "word": "brush",
+        "meaning": "刷",
+        "appearsInSource": true
+      },
+      {
+        "word": "chalk",
+        "meaning": "粉筆",
+        "appearsInSource": true
+      },
+      {
+        "word": "drama",
+        "meaning": "戲劇",
+        "appearsInSource": true
+      },
+      {
+        "word": "earn",
+        "meaning": "賺取",
+        "appearsInSource": true
+      },
+      {
+        "word": "female",
+        "meaning": "女性的",
+        "appearsInSource": true
+      },
+      {
+        "word": "income",
+        "meaning": "收入",
+        "appearsInSource": true
+      },
+      {
+        "word": "internal",
+        "meaning": "內部的",
+        "appearsInSource": true
+      },
+      {
+        "word": "military",
+        "meaning": "軍事的",
+        "appearsInSource": true
+      },
+      {
+        "word": "needle",
+        "meaning": "針",
+        "appearsInSource": true
+      },
+      {
+        "word": "nephew",
+        "meaning": "姪子",
+        "appearsInSource": true
+      },
+      {
+        "word": "postcards",
+        "meaning": "明信片",
+        "appearsInSource": true
+      },
+      {
+        "word": "rat",
+        "meaning": "老鼠",
+        "appearsInSource": true
+      },
+      {
+        "word": "remove",
+        "meaning": "移除",
+        "appearsInSource": true
+      },
+      {
+        "word": "served",
+        "meaning": "服務",
+        "appearsInSource": true
+      },
+      {
+        "word": "supper",
+        "meaning": "晚餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "vote",
+        "meaning": "投票",
+        "appearsInSource": true
+      },
+      {
+        "word": "wealth",
+        "meaning": "財富",
+        "appearsInSource": true
+      },
+      {
+        "word": "whoever",
+        "meaning": "無論誰",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Vote Before the Storm〉第 1 段的事件，哪個選項能正確補完整句？\nThe warning bells reached ____.",
+      "options": [
+        "the paper",
+        "the food",
+        "the entire city"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the entire city",
+      "existingAnswerExplanation": "原文證據：The warning bells reached the entire city.\n本段對照：警鐘傳遍整座城。在學院裡，學生聚到書店，年長店主供應熱水和煮飯。她正等在北閘工作的姪子消息。沈雨跟梅老師抵達，請大家協助準備毛毯與食物。「水位可能上漲，」他說，「避難所需要人能供應晚餐。」一名女學生拿出針線補破外套。其他人替電話失聯的家人寫明信片。沒有人有空管平常的校園八卦。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The warning bells reached the entire city. At the academy, students gathered in the bookstore, where an old woman served hot water and bowls of boiled rice. She was waiting for news about her nephew, who worked at the northern gate. Yu arrived with Teacher Mei and asked everyone to help prepare blankets and food. “The water may rise,” he said. “We need people ready to serve supper at the shelters.” A female student took out her needle and thread to mend torn coats. Others wrote messages on postcards for families who had lost phone contact. Nobody had time for the usual school drama.",
+          "chinese": "警鐘傳遍整座城。在學院裡，學生聚到書店，年長店主供應熱水和煮飯。她正等在北閘工作的姪子消息。沈雨跟梅老師抵達，請大家協助準備毛毯與食物。「水位可能上漲，」他說，「避難所需要人能供應晚餐。」一名女學生拿出針線補破外套。其他人替電話失聯的家人寫明信片。沒有人有空管平常的校園八卦。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 7,
+          "english": "Rain struck the roof harder. The emergency team announced that the public road would close in one hour. Yu carried the approved plans to the safe control station, where the chief asked for a final check of the spirit marks. Qi stood near the engineers, his coat dark with rain. When Yu entered, Qi's tense face softened. “You came,” he said. “I told you I would,” Yu answered. The chief raised her hand for silence. Outside, a deep bell began to sound. This time the sound did not come from magic alone; the city's real warning system had joined it.",
+          "chinese": "雨更用力地打在屋頂。緊急隊宣布公路一小時後封閉。沈雨把核准圖送到安全控制站，總指揮要求最後確認雙人靈印。韓祈站在工程師旁，外套被雨染得深暗。沈雨進門時，韓祈緊繃的臉柔和下來。「你來了。」「我說過會來。」沈雨回答。總指揮舉手請大家安靜。外面響起深沉鐘聲。這次不只來自法術，城市真正的警報系統也加入了聲音。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Vote Before the Storm〉第 7 段的事件，哪個選項能正確補完整句？\nYu carried ____ to the safe control station, where the chief asked for a final check of the spirit marks.",
+      "options": [
+        "the approved plans",
+        "the same half-circle design",
+        "the river"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the approved plans",
+      "existingAnswerExplanation": "原文證據：Yu carried the approved plans to the safe control station, where the chief asked for a final check of the spirit marks.\n本段對照：雨更用力地打在屋頂。緊急隊宣布公路一小時後封閉。沈雨把核准圖送到安全控制站，總指揮要求最後確認雙人靈印。韓祈站在工程師旁，外套被雨染得深暗。沈雨進門時，韓祈緊繃的臉柔和下來。「你來了。」「我說過會來。」沈雨回答。總指揮舉手請大家安靜。外面響起深沉鐘聲。這次不只來自法術，城市真正的警報系統也加入了聲音。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "Rain struck the roof harder. The emergency team announced that the public road would close in one hour. Yu carried the approved plans to the safe control station, where the chief asked for a final check of the spirit marks. Qi stood near the engineers, his coat dark with rain. When Yu entered, Qi's tense face softened. “You came,” he said. “I told you I would,” Yu answered. The chief raised her hand for silence. Outside, a deep bell began to sound. This time the sound did not come from magic alone; the city's real warning system had joined it.",
+          "chinese": "雨更用力地打在屋頂。緊急隊宣布公路一小時後封閉。沈雨把核准圖送到安全控制站，總指揮要求最後確認雙人靈印。韓祈站在工程師旁，外套被雨染得深暗。沈雨進門時，韓祈緊繃的臉柔和下來。「你來了。」「我說過會來。」沈雨回答。總指揮舉手請大家安靜。外面響起深沉鐘聲。這次不只來自法術，城市真正的警報系統也加入了聲音。",
+          "matchedQueryTerms": 20
+        },
+        {
+          "paragraph": 3,
+          "english": "A young member asked to remove the old rule that allowed the president to keep water records secret. Another proposed a new rule requiring public review of all major gate work. The debate was long, but the members finally voted to stop the towers. A second vote approved a careful test of the Quiet River gate, with warnings and rescue teams ready. The chief inspector sent the result to the engineers at once. Yu called Qi. “The city chose,” he said. Qi answered over the sound of rain, “Then we can act without hiding.”",
+          "chinese": "一名年輕議員提議取消允許會長保密用水紀錄的舊規，另一人提議重要閘門工程都要公開審查。辯論很久，議員終於投票通過停止靈塔。第二次投票通過在完成警告與救援部署後，謹慎測試靜河水閘。總督察立刻把結果送給工程師。沈雨打電話給韓祈。「城市做出選擇了。」他說。韓祈在雨聲中回答：「那我們能光明正大地行動。」",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

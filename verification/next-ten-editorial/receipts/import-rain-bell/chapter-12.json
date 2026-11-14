@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 12,
+  "chapterId": "import-rain-bell-12",
+  "sourceChapterSha256": "547d038e26f4c164e504ac5586deecfd99080cdbf3bd3965fca0ccbeaea5d4dc",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "科學課由高處安全觀測、比較兩杯水的鹽度，不用不充分採樣推定來源；舊測試冊依然缺頁。",
+    "previousChapterEndingEnglish": "As they left the office, rain began to touch the street. It was light, but Mia watched each drop as if it might tell her something. She thought of the blue mark, the closed gate, and the years during which nobody had asked questions. “Does this mean the factory broke a rule?” Ruby asked Officer Su. “Not yet,” the officer said. “We need to read the whole paper and speak with the people involved. Remember that a missing page is not proof of a bad act.” Mia wrote that under FACT, not GUESS, because it was a rule for how they would work. Ms. Kao waved from the door. “Try the city records room,” she called.",
+    "nextChapterOpeningEnglish": "Mia went to the city records room with her father and Officer Su. She had never been there before, though the city was only a short train ride away. “What is the age of this building?” she asked while they waited outside. “More than a hundred years,” her father said. “People have used it for records for a long time.” Mia felt small beside the high stone gate. It was difficult to imagine so many years of paper waiting behind one door. Leo and Ruby were at school; everyone had agreed that too many visitors might slow the search. Mia promised to call as soon as she learned anything."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The science teacher took the class to a safe place above the river. She held two small cups and asked a question: “Does river water always stay the same?” No one gave a sure answer. “Sometimes the sea moves into a river,” she said. “Sometimes water comes down from the hills. How can we tell?” She gave each team a simple test with salt. Mia rode her bicycle to school that day and had left it by the gate. Now she stood beside Leo, waiting for a second cup from another place along the water. She wished science could answer every hard question about the River House.",
+        "zh": "科學老師帶全班到河上方的安全觀察點。她拿著兩個小杯子問：「河水永遠一樣嗎？」沒有人敢確定。「有時海水會進入河裡，」她說，「有時是山上的水流下來。怎麼分辨？」她讓每個小組用鹽做簡單測試。米婭那天騎腳踏車上學，車停在大門旁。現在她站在李奧身邊，等另一個地點的第二杯水。她真希望科學能回答河屋所有難題。",
+        "englishSha256": "c3d1dbcbb695f35d4fb2593095843da911bd90f2cedb3e48ef05912e62fbd810",
+        "chineseSha256": "82eb58ba3f7f2d7d5b0aaa16e2727651c11c72c3e6ea4ebc56a28d78f82c0da2"
+      },
+      {
+        "number": 2,
+        "en": "“Don't taste it,” the teacher told Jay, who had come to help carry bags. “We are not at lunch.” He bowed like an actor and put the cups on a low table. The class wrote the place and time of each sample on paper. Leo knew that a little salt was not the whole story, but the test could show whether the water was more like sea water or fresh water. The first cup gave almost no sign of salt. The second was much the same. “So the water did not come from the sea?” Ruby asked. “Not so fast,” their teacher said. “Say what the test shows, not more.”",
+        "zh": "「別嚐，」老師對來幫忙提袋子的杰說，「現在不是午餐時間。」他像演員般鞠躬，把杯子放到矮桌上。全班在紙上記錄採樣的地點與時間。李奧知道少量鹽分不能解釋所有事情，但測試至少能看出水更像海水還是淡水。第一杯幾乎沒有鹽分跡象，第二杯也差不多。「所以水不是從海來的？」露比問。「別太快下結論，」老師說，「只能說出測試顯示的事，不要說過頭。」",
+        "englishSha256": "c50d90fae79e05907d8244736a1b6f42674f3a236af923eb38db62ff63f6c175",
+        "chineseSha256": "2fe7b1825c4c349b8e2b0d55af2f82cb9e4b8ef18b99e2f969cc1c2266ca8b0d"
+      },
+      {
+        "number": 3,
+        "en": "After the lesson Leo showed them the place where the old path left the main river. Wind blew through the spring grass as they watched from a high public walk. The path was almost hidden by earth, yet the wall made a clear turn. “Water might be coming from the factory test,” he said, “or from somewhere else upstream. This is our own guess, not a fact.” Mia picked a small stone from the ground and placed it on the map, marking the turn. “Of all the things we've found, this one feels most important,” she said. “We have a path, but we don't yet know who controls the water.”",
+        "zh": "課後，李奧帶大家到舊河道離開主河流的地方。他們站在高處的公共步道上，看春風穿過草地。泥土幾乎掩住了那條舊路，但牆面還有明顯的轉角。「水可能來自工廠測試，」他說，「也可能從更上游的地方來。這是我們自己的猜測，不是事實。」米婭從地上撿起小石頭，放在地圖上標記轉角。「在所有發現裡，我覺得這個最重要，」她說，「我們知道路線，卻不知道誰在控制水。」",
+        "englishSha256": "c977e72aaa868e5e51afa61f2d9bb0dfea338504dc412df8097585b6ca7cc7c6",
+        "chineseSha256": "767d121195746b61b306b4b071cfd6ac5a0b7124da329318b3db4de1c3012298"
+      },
+      {
+        "number": 4,
+        "en": "Officer Su visited the school that afternoon. She liked the way the class had kept its notes and asked to see the drawings. “I have spoken with the water office,” she said. “They once kept a book about each test. It should tell us the level of water before and after a test.” “Then can we borrow it?” Mia asked. “Not today. We first need to find the book.” Officer Su looked troubled. “The copy here has a page missing.” Jay threw up his hands. “Why does every important paper lose a page?” Ruby smiled, but she did not make a joke of it. She remembered her missing video and how easily people could be led the wrong way.",
+        "zh": "當天下午，蘇小姐來到學校。她欣賞全班保存筆記的方式，也想看大家畫的圖。「我和水務單位談過，」她說，「他們以前每次測試都記錄在冊，應該能看見測試前後的水位。」「那能借來看嗎？」米婭問。「今天不行。得先找到那本冊子。」蘇小姐有點困擾：「這裡的副本也少了一頁。」杰舉起雙手：「為什麼每張重要文件都會少頁？」露比微笑，但沒拿來開玩笑。她想起自己缺少片段的影片，以及人們多容易被不完整資料帶偏。",
+        "englishSha256": "2bbe45dc9ca38dbf3dc524d34ecaa6a1d8942e9156db8e02927bd4103dd9b446",
+        "chineseSha256": "6265528ebb60c8d88ae56c69569f85a4ece81362f53ae6f769b3b2e7ed51f282"
+      },
+      {
+        "number": 5,
+        "en": "On their way back to school, Jay pointed to a poster about the planet Earth. A boy in blue jeans was standing beside it, learning the language of a weather report. “Some words are hard,” the boy said. “Mine are easy,” Jay replied, holding up his picture of a river. Leo laughed. “Your picture shows the shape, not the whole story. The body of the river is below the ground too.” Mia asked whether they would soon know where the water was coming from. “Soon, perhaps,” Leo said, “if the office can find the old test book.” She wrote down his answer without changing perhaps into certainly. This new habit felt small but important.",
+        "zh": "回學校路上，杰指著一張介紹地球的海報。一個穿藍色牛仔褲的男孩站在旁邊，學習天氣報告用的語言。「有些字好難，」男孩說。「我的很簡單，」杰舉起自己畫的河流。李奧笑了：「你的圖只畫出形狀，不是全部。河道主體也有一部分在地面下。」米婭問他們是否很快能知道水從哪裡來。「也許很快，」李奧說，「前提是公所找得到舊測試冊。」她把答案原樣記下來，沒有把「也許」改成「一定」。這新習慣看似很小，卻很重要。",
+        "englishSha256": "c100a0a9e5ac1591fca40f46fa9a349e544867d1c89502c88214cc5d1779eaf6",
+        "chineseSha256": "7a92e6ed5b2c042914193ec1c360f31ee43c5e6cc58b70c8638c7b1d31c22b40"
+      },
+      {
+        "number": 6,
+        "en": "That night Mia studied the river map again. On one page she wrote what they knew: the line beneath the bridge, the wet floor, the bell, and the water test. On a second page she wrote what they still needed: the full gate rule, the old test book, and an answer from the factory. Her father came into the room with two cups of tea. “You know,” he said, “when I was young, I also thought every problem had one right answer.” Mia looked up. “And now?” “Now I think finding the answer is only the second part. The first is learning to ask without hurting people.”",
+        "zh": "那晚，米婭又研究河道圖。一頁寫下已知的事：橋下白線、濕地板、警鐘和水質測試。另一頁寫下還需要的事：完整的閘門規定、舊測試紀錄，以及工廠的回答。父親端著兩杯茶走進房間。「妳知道嗎，」他說，「我年輕時也以為每個問題只有一個正確答案。」米婭抬頭：「現在呢？」「現在我覺得找答案只是第二步。第一步是學會提問，又不傷害別人。」",
+        "englishSha256": "a16cdbd585ba281520b55fdb45580f2b15b02173cee65198be337055ba40607f",
+        "chineseSha256": "ece4250dc5e1239e2cdc29673c9a9ac96314f31c8d58f2f00bc92c43362da262"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 667,
+    "targets": [
+      {
+        "word": "answer",
+        "meaning": "答案",
+        "appearsInSource": true
+      },
+      {
+        "word": "bicycle",
+        "meaning": "腳踏車",
+        "appearsInSource": true
+      },
+      {
+        "word": "body",
+        "meaning": "身體",
+        "appearsInSource": true
+      },
+      {
+        "word": "bowed",
+        "meaning": "鞠躬",
+        "appearsInSource": true
+      },
+      {
+        "word": "jeans",
+        "meaning": "牛仔褲",
+        "appearsInSource": true
+      },
+      {
+        "word": "language",
+        "meaning": "語言",
+        "appearsInSource": true
+      },
+      {
+        "word": "mine",
+        "meaning": "我的",
+        "appearsInSource": true
+      },
+      {
+        "word": "of",
+        "meaning": "……的",
+        "appearsInSource": true
+      },
+      {
+        "word": "own",
+        "meaning": "自己的",
+        "appearsInSource": true
+      },
+      {
+        "word": "picked",
+        "meaning": "撿起",
+        "appearsInSource": true
+      },
+      {
+        "word": "planet",
+        "meaning": "行星",
+        "appearsInSource": true
+      },
+      {
+        "word": "salt",
+        "meaning": "鹽",
+        "appearsInSource": true
+      },
+      {
+        "word": "said",
+        "meaning": "說",
+        "appearsInSource": true
+      },
+      {
+        "word": "second",
+        "meaning": "第二",
+        "appearsInSource": true
+      },
+      {
+        "word": "so",
+        "meaning": "所以",
+        "appearsInSource": true
+      },
+      {
+        "word": "some",
+        "meaning": "一些",
+        "appearsInSource": true
+      },
+      {
+        "word": "soon",
+        "meaning": "很快",
+        "appearsInSource": true
+      },
+      {
+        "word": "spring",
+        "meaning": "春天",
+        "appearsInSource": true
+      },
+      {
+        "word": "wind",
+        "meaning": "風",
+        "appearsInSource": true
+      },
+      {
+        "word": "wished",
+        "meaning": "希望",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Water Was Not from the Sea〉第 1 段的事件，哪個選項能正確補完整句？\nThe science teacher took ____ to a safe place above the river.",
+      "options": [
+        "the class",
+        "the factory's high-road machines",
+        "the soup"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the class",
+      "existingAnswerExplanation": "原文證據：The science teacher took the class to a safe place above the river.\n本段對照：科學老師帶全班到河上方的安全觀察點。她拿著兩個小杯子問：「河水永遠一樣嗎？」沒有人敢確定。「有時海水會進入河裡，」她說，「有時是山上的水流下來。怎麼分辨？」她讓每個小組用鹽做簡單測試。米婭那天騎腳踏車上學，車停在大門旁。現在她站在李奧身邊，等另一個地點的第二杯水。她真希望科學能回答河屋所有難題。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The science teacher took the class to a safe place above the river. She held two small cups and asked a question: “Does river water always stay the same?” No one gave a sure answer. “Sometimes the sea moves into a river,” she said. “Sometimes water comes down from the hills. How can we tell?” She gave each team a simple test with salt. Mia rode her bicycle to school that day and had left it by the gate. Now she stood beside Leo, waiting for a second cup from another place along the water. She wished science could answer every hard question about the River House.",
+          "chinese": "科學老師帶全班到河上方的安全觀察點。她拿著兩個小杯子問：「河水永遠一樣嗎？」沒有人敢確定。「有時海水會進入河裡，」她說，「有時是山上的水流下來。怎麼分辨？」她讓每個小組用鹽做簡單測試。米婭那天騎腳踏車上學，車停在大門旁。現在她站在李奧身邊，等另一個地點的第二杯水。她真希望科學能回答河屋所有難題。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 2,
+          "english": "“Don't taste it,” the teacher told Jay, who had come to help carry bags. “We are not at lunch.” He bowed like an actor and put the cups on a low table. The class wrote the place and time of each sample on paper. Leo knew that a little salt was not the whole story, but the test could show whether the water was more like sea water or fresh water. The first cup gave almost no sign of salt. The second was much the same. “So the water did not come from the sea?” Ruby asked. “Not so fast,” their teacher said. “Say what the test shows, not more.”",
+          "chinese": "「別嚐，」老師對來幫忙提袋子的杰說，「現在不是午餐時間。」他像演員般鞠躬，把杯子放到矮桌上。全班在紙上記錄採樣的地點與時間。李奧知道少量鹽分不能解釋所有事情，但測試至少能看出水更像海水還是淡水。第一杯幾乎沒有鹽分跡象，第二杯也差不多。「所以水不是從海來的？」露比問。「別太快下結論，」老師說，「只能說出測試顯示的事，不要說過頭。」",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Water Was Not from the Sea〉第 5 段的事件，哪個選項能正確補完整句？\nOn their way back to school, Jay pointed to ____.",
+      "options": [
+        "a clean line",
+        "a picture of you",
+        "a poster about the planet Earth"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a poster about the planet Earth",
+      "existingAnswerExplanation": "原文證據：On their way back to school, Jay pointed to a poster about the planet Earth.\n本段對照：回學校路上，杰指著一張介紹地球的海報。一個穿藍色牛仔褲的男孩站在旁邊，學習天氣報告用的語言。「有些字好難，」男孩說。「我的很簡單，」杰舉起自己畫的河流。李奧笑了：「你的圖只畫出形狀，不是全部。河道主體也有一部分在地面下。」米婭問他們是否很快能知道水從哪裡來。「也許很快，」李奧說，「前提是公所找得到舊測試冊。」她把答案原樣記下來，沒有把「也許」改成「一定」。這新習慣看似很小，卻很重要。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "On their way back to school, Jay pointed to a poster about the planet Earth. A boy in blue jeans was standing beside it, learning the language of a weather report. “Some words are hard,” the boy said. “Mine are easy,” Jay replied, holding up his picture of a river. Leo laughed. “Your picture shows the shape, not the whole story. The body of the river is below the ground too.” Mia asked whether they would soon know where the water was coming from. “Soon, perhaps,” Leo said, “if the office can find the old test book.” She wrote down his answer without changing perhaps into certainly. This new habit felt small but important.",
+          "chinese": "回學校路上，杰指著一張介紹地球的海報。一個穿藍色牛仔褲的男孩站在旁邊，學習天氣報告用的語言。「有些字好難，」男孩說。「我的很簡單，」杰舉起自己畫的河流。李奧笑了：「你的圖只畫出形狀，不是全部。河道主體也有一部分在地面下。」米婭問他們是否很快能知道水從哪裡來。「也許很快，」李奧說，「前提是公所找得到舊測試冊。」她把答案原樣記下來，沒有把「也許」改成「一定」。這新習慣看似很小，卻很重要。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 4,
+          "english": "Officer Su visited the school that afternoon. She liked the way the class had kept its notes and asked to see the drawings. “I have spoken with the water office,” she said. “They once kept a book about each test. It should tell us the level of water before and after a test.” “Then can we borrow it?” Mia asked. “Not today. We first need to find the book.” Officer Su looked troubled. “The copy here has a page missing.” Jay threw up his hands. “Why does every important paper lose a page?” Ruby smiled, but she did not make a joke of it. She remembered her missing video and how easily people could be led the wrong way.",
+          "chinese": "當天下午，蘇小姐來到學校。她欣賞全班保存筆記的方式，也想看大家畫的圖。「我和水務單位談過，」她說，「他們以前每次測試都記錄在冊，應該能看見測試前後的水位。」「那能借來看嗎？」米婭問。「今天不行。得先找到那本冊子。」蘇小姐有點困擾：「這裡的副本也少了一頁。」杰舉起雙手：「為什麼每張重要文件都會少頁？」露比微笑，但沒拿來開玩笑。她想起自己缺少片段的影片，以及人們多容易被不完整資料帶偏。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

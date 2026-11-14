@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 15,
+  "chapterId": "import-rain-bell-15",
+  "sourceChapterSha256": "d158557f7e6a0f0a5e45b5f0842ca55c68c639b29f31100235c23c564cefc36c",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "露比家餐館水管破裂，舊管編號與工廠新圖相符，圖上原本開放的支線被抹去；小事暗示大型水利設計風險。",
+    "previousChapterEndingEnglish": "Before they went home, her father gave Mia one of the blue gloves. “Keep this for now,” he said. “I want to be there when you show the full record to Officer Su.” Mia pulled it over her smaller hand. It was much too large. The blue paint had grown hard along the fingers. She thought of a worker trying to hold on to a job, a daughter trying to hold on to trust, and a town trying to hold on to its river. Their problems were not the same, but they touched each other. “Can we begin again?” she asked. “We already have,” he answered.",
+    "nextChapterOpeningEnglish": "Ruby had promised to make a correct news video for the school. She wanted to show how the restaurant had found the old pipe number, so Mia agreed to be interviewed in a garden near the factory. They had barely started when an angry shout came from the road. A small fire had begun near an outside electrical box. Workers moved back, and someone called for help. Heat rose above the wall. Ruby's knee struck a bench as she stepped away, but she was not hurt. “Stay with me,” Mia said. “We must not go closer.” Ruby held her camera down. She knew a picture was not worth getting hurt."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The water pipe in Ruby's family restaurant broke during the busiest lunch of the week. At first a little water ran across the kitchen floor. Then it reached the door and turned down a narrow path toward the market. Ruby's sister shouted for help, and everyone moved their bags to a dry table. “Please don't walk through it,” Ruby told the visitors. Her father closed the water, while a repair worker came to check the pipe. The meal service stopped for an hour. “An expensive hour,” Ruby's mother said. “We can't keep a restaurant open if every day is like this.” Ruby knew exactly how Leo's family felt about losing work.",
+        "zh": "露比家的餐館在一週最忙的午餐時間水管破裂。起初只有一小股水流過廚房地板，接著流到門口，往市場的一條窄路轉去。露比的妹妹喊人幫忙，大家把袋子搬上乾桌子。「請不要涉水走過去，」露比對客人說。父親關掉水源，維修工人趕來檢查水管。餐點服務停了一小時。「昂貴的一小時，」露比媽媽說，「如果天天這樣，餐館就開不下去。」露比這才真正明白李奧家對失去工作的恐懼。",
+        "englishSha256": "528ad1b71e2cfac9ffdfa4e824e4dec702e8ad1ca88c187b086556b30e8a38dc",
+        "chineseSha256": "1dac9cd433775d0230f96d9aeef9ea9efc9e404b5934cf5c3dd67861e05da702"
+      },
+      {
+        "number": 2,
+        "en": "Mia arrived wearing an old T-shirt and a hat. She helped carry clean dishes, while Jay kept small children away from the wet floor. The leak had stopped everyone at their job for an hour. It made a strange little river: the water wanted to go straight, but a heavy box made it turn sharply. “How much does one box change?” Mia wondered. Leo pointed at a low step. “Enough to send water into a different room. Now think of a wall under a road.” Ruby stared at him. “The north gate.” “Maybe,” he said. “It's a small example of a big problem.” They cleaned until the water stopped moving and the floor was safe again.",
+        "zh": "米婭穿著舊T恤、戴帽子趕來幫忙。她搬乾淨盤子，杰則讓小孩遠離濕地板。漏水讓大家的工作停了一小時，形成一條奇怪的小河：水原本筆直流，碰到重箱子便急轉彎。「一個箱子竟能改變這麼多？」米婭問。李奧指著矮階：「足以讓水流進另一個房間。再想想道路下面有一道牆會怎樣。」露比看著他：「北閘門。」「也許，」他說，「這只是大問題的一個小例子。」大家一直清理，直到水不再流動，地板恢復安全。",
+        "englishSha256": "d422ebe7e7f9340f7a70bddfe44d2baf13cf059615e6d8b55de68a0ae057b901",
+        "chineseSha256": "587c961617f6ef673b03399c60c67c6e9c12f4a47430e85fe9ba62d7a077fa0e"
+      },
+      {
+        "number": 3,
+        "en": "When the worker came back, he showed Ruby's father an old plan for the pipe. Ruby saw a number printed beside the drawing. She knew that number. It was on a picture of the new River House project, the one Mr. Han had shown in the town square. She called Mia over. “Look at this. The numbers are the same.” The worker was surprised. “That number is used for the old water path under the market. It is part of the same town system.” Mia felt a small chill. If the company had used an old drawing as the base of its plan, why had the open path been left out?",
+        "zh": "維修工人回來時，給露比父親看舊水管圖。露比看到圖旁印著一組編號。她認得那組數字，在韓先生展示的河屋新計畫圖上也有。她叫米婭過來：「看，編號一樣。」工人很驚訝：「這是市場下方舊水道用的編號，屬於同一套鎮上系統。」米婭心裡一涼。如果公司用舊圖作為新計畫基礎，為何把原本開放的水路刪掉了？",
+        "englishSha256": "97f6c4fe274ebd49a6042e88eac9df4cc4c46e2a034d47467f86310ff538cc37",
+        "chineseSha256": "e01513735b01eeb8971a6d0614d9086753bf6d88ac8c6eb69b2d5f6882c9f41b"
+      },
+      {
+        "number": 4,
+        "en": "The friends went to the office after the restaurant closed. They did not accuse anyone. They asked whether the new drawing was the final one and whether a path had been left out by mistake. A worker gave them a public copy. On it the old water way ended in a blank space. “The new wall will stand here,” Leo said. “Then where will the water go when the level is high?” He could not answer his own question. Mia wanted to run to the factory and demand an answer, but Ruby stopped her. “We have the number now. Let's ask them the right question, not just shout.”",
+        "zh": "餐館打烊後，朋友們去了公所。他們沒有指責任何人，只問新圖是不是最後版本，是否誤漏了一條水道。職員給了公開副本。圖上舊水道竟在一片空白處停止。「新牆會蓋在這裡，」李奧說，「那水位升高時，水要往哪走？」他自己也答不出來。米婭想衝去工廠質問，露比卻攔住她：「我們有編號了。好好問問題，不要只是大喊。」",
+        "englishSha256": "579cb6e5b66e81b89e887b7305fc0098397a549b42b871e5399c8178807d156a",
+        "chineseSha256": "c4a7f4df331b4f8c1fd0041ca3246d7b5490e77bd08d81fb05e2f34c41a50ab6"
+      },
+      {
+        "number": 5,
+        "en": "The next morning a slim market worker came by the restaurant with a small animal in a box. It was a hurt bird, and he asked whether the family knew where to call for help. Ruby's sister was still sore from carrying heavy bags during the leak, but she found the number of a local care group. “It can't eat here,” she told Jay, “and we shouldn't try to treat it ourselves.” They called the people who knew how to care for birds. Mia watched the worker take the box away. Even a little problem needed the right kind of help. She wished solving the river problem could be that clear.",
+        "zh": "隔天早晨，一名身材瘦小的市場員工帶著盒裡的小動物來餐館。那是隻受傷的鳥，他問店家知不知道該找誰幫忙。露比的妹妹搬運漏水時的重物，身上還痠痛，仍找出當地照護團體的電話。「不能在這裡餵牠吃東西，」她對杰說，「也不該自己替牠治療。」大家聯絡懂得照顧鳥的人。米婭看著員工把盒子帶走。連小問題也需要適合的人幫忙。她希望河道問題也能這麼清楚。",
+        "englishSha256": "e6281f1108fa785efa49c74a47831664bfb19c8c90781eefa00027def89ef530",
+        "chineseSha256": "4fda873a7aa3c2ddf8fa53cd895e4128760e81d79726b89f231d0f5e094a517c"
+      },
+      {
+        "number": 6,
+        "en": "That evening Ruby helped her mother count the day's money. There was less than usual. “A pipe can stop a meal,” her mother said. “People think a restaurant is only food, but it's our whole world.” Ruby looked at the old photograph on the wall: her grandmother smiling in the River House kitchen years ago. She wanted to protect both places. Her phone rang. It was Mia. “The factory just put its new plan online,” she said. “The picture is clearer. Ruby, the old water line has disappeared.” Ruby closed the money box and stood up. “Then tomorrow we need to show everyone what is missing.”",
+        "zh": "那晚露比幫母親清點當天收入，金額比平常少。「一條水管就能讓餐點停擺，」母親說，「有人以為餐館只是賣吃的，但它是我們的整個世界。」露比看著牆上舊照：多年前奶奶在河屋廚房微笑。她想同時守護兩個地方。手機響起，是米婭。「工廠剛把新圖上網，」她說，「畫面更清楚了。露比，舊水道真的不見了。」露比關上錢盒起身：「那明天我們得讓大家知道少了什麼。」",
+        "englishSha256": "5a0cb591fdce1a93997a4f48f6ea754de25004dfd927510c539d442171f5dd05",
+        "chineseSha256": "f6f57d1e648a4c4e6804d837138e69ba75e2d0f366a907e3a145566f8e57fec5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 663,
+    "targets": [
+      {
+        "word": "again",
+        "meaning": "再一次",
+        "appearsInSource": true
+      },
+      {
+        "word": "animal",
+        "meaning": "動物",
+        "appearsInSource": true
+      },
+      {
+        "word": "at",
+        "meaning": "在",
+        "appearsInSource": true
+      },
+      {
+        "word": "eat",
+        "meaning": "吃",
+        "appearsInSource": true
+      },
+      {
+        "word": "expensive",
+        "meaning": "昂貴的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hat",
+        "meaning": "帽子",
+        "appearsInSource": true
+      },
+      {
+        "word": "how",
+        "meaning": "如何",
+        "appearsInSource": true
+      },
+      {
+        "word": "job",
+        "meaning": "工作",
+        "appearsInSource": true
+      },
+      {
+        "word": "market",
+        "meaning": "市場",
+        "appearsInSource": true
+      },
+      {
+        "word": "meal",
+        "meaning": "一餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "pipe",
+        "meaning": "管子",
+        "appearsInSource": true
+      },
+      {
+        "word": "please",
+        "meaning": "請",
+        "appearsInSource": true
+      },
+      {
+        "word": "restaurant",
+        "meaning": "餐館",
+        "appearsInSource": true
+      },
+      {
+        "word": "sister",
+        "meaning": "姊妹",
+        "appearsInSource": true
+      },
+      {
+        "word": "slim",
+        "meaning": "苗條的",
+        "appearsInSource": true
+      },
+      {
+        "word": "sore",
+        "meaning": "疼痛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "t",
+        "meaning": "T恤",
+        "appearsInSource": true
+      },
+      {
+        "word": "visitors",
+        "meaning": "訪客",
+        "appearsInSource": true
+      },
+      {
+        "word": "wanted",
+        "meaning": "想要",
+        "appearsInSource": true
+      },
+      {
+        "word": "world",
+        "meaning": "世界",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Pipe Beneath the Market〉第 1 段的事件，哪個選項能正確補完整句？\nThen it reached ____ and turned down a narrow path toward the market.",
+      "options": [
+        "the attendance list",
+        "the machine",
+        "the door"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the door",
+      "existingAnswerExplanation": "原文證據：Then it reached the door and turned down a narrow path toward the market.\n本段對照：露比家的餐館在一週最忙的午餐時間水管破裂。起初只有一小股水流過廚房地板，接著流到門口，往市場的一條窄路轉去。露比的妹妹喊人幫忙，大家把袋子搬上乾桌子。「請不要涉水走過去，」露比對客人說。父親關掉水源，維修工人趕來檢查水管。餐點服務停了一小時。「昂貴的一小時，」露比媽媽說，「如果天天這樣，餐館就開不下去。」露比這才真正明白李奧家對失去工作的恐懼。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The water pipe in Ruby's family restaurant broke during the busiest lunch of the week. At first a little water ran across the kitchen floor. Then it reached the door and turned down a narrow path toward the market. Ruby's sister shouted for help, and everyone moved their bags to a dry table. “Please don't walk through it,” Ruby told the visitors. Her father closed the water, while a repair worker came to check the pipe. The meal service stopped for an hour. “An expensive hour,” Ruby's mother said. “We can't keep a restaurant open if every day is like this.” Ruby knew exactly how Leo's family felt about losing work.",
+          "chinese": "露比家的餐館在一週最忙的午餐時間水管破裂。起初只有一小股水流過廚房地板，接著流到門口，往市場的一條窄路轉去。露比的妹妹喊人幫忙，大家把袋子搬上乾桌子。「請不要涉水走過去，」露比對客人說。父親關掉水源，維修工人趕來檢查水管。餐點服務停了一小時。「昂貴的一小時，」露比媽媽說，「如果天天這樣，餐館就開不下去。」露比這才真正明白李奧家對失去工作的恐懼。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 3,
+          "english": "When the worker came back, he showed Ruby's father an old plan for the pipe. Ruby saw a number printed beside the drawing. She knew that number. It was on a picture of the new River House project, the one Mr. Han had shown in the town square. She called Mia over. “Look at this. The numbers are the same.” The worker was surprised. “That number is used for the old water path under the market. It is part of the same town system.” Mia felt a small chill. If the company had used an old drawing as the base of its plan, why had the open path been left out?",
+          "chinese": "維修工人回來時，給露比父親看舊水管圖。露比看到圖旁印著一組編號。她認得那組數字，在韓先生展示的河屋新計畫圖上也有。她叫米婭過來：「看，編號一樣。」工人很驚訝：「這是市場下方舊水道用的編號，屬於同一套鎮上系統。」米婭心裡一涼。如果公司用舊圖作為新計畫基礎，為何把原本開放的水路刪掉了？",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Pipe Beneath the Market〉第 6 段的事件，哪個選項能正確補完整句？\nRuby, the old water line has disappeared.” Ruby closed ____ and stood up.",
+      "options": [
+        "the attendance list",
+        "the money box",
+        "the blue glove"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the money box",
+      "existingAnswerExplanation": "原文證據：Ruby, the old water line has disappeared.” Ruby closed the money box and stood up.\n本段對照：那晚露比幫母親清點當天收入，金額比平常少。「一條水管就能讓餐點停擺，」母親說，「有人以為餐館只是賣吃的，但它是我們的整個世界。」露比看著牆上舊照：多年前奶奶在河屋廚房微笑。她想同時守護兩個地方。手機響起，是米婭。「工廠剛把新圖上網，」她說，「畫面更清楚了。露比，舊水道真的不見了。」露比關上錢盒起身：「那明天我們得讓大家知道少了什麼。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "That evening Ruby helped her mother count the day's money. There was less than usual. “A pipe can stop a meal,” her mother said. “People think a restaurant is only food, but it's our whole world.” Ruby looked at the old photograph on the wall: her grandmother smiling in the River House kitchen years ago. She wanted to protect both places. Her phone rang. It was Mia. “The factory just put its new plan online,” she said. “The picture is clearer. Ruby, the old water line has disappeared.” Ruby closed the money box and stood up. “Then tomorrow we need to show everyone what is missing.”",
+          "chinese": "那晚露比幫母親清點當天收入，金額比平常少。「一條水管就能讓餐點停擺，」母親說，「有人以為餐館只是賣吃的，但它是我們的整個世界。」露比看著牆上舊照：多年前奶奶在河屋廚房微笑。她想同時守護兩個地方。手機響起，是米婭。「工廠剛把新圖上網，」她說，「畫面更清楚了。露比，舊水道真的不見了。」露比關上錢盒起身：「那明天我們得讓大家知道少了什麼。」",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "The water pipe in Ruby's family restaurant broke during the busiest lunch of the week. At first a little water ran across the kitchen floor. Then it reached the door and turned down a narrow path toward the market. Ruby's sister shouted for help, and everyone moved their bags to a dry table. “Please don't walk through it,” Ruby told the visitors. Her father closed the water, while a repair worker came to check the pipe. The meal service stopped for an hour. “An expensive hour,” Ruby's mother said. “We can't keep a restaurant open if every day is like this.” Ruby knew exactly how Leo's family felt about losing work.",
+          "chinese": "露比家的餐館在一週最忙的午餐時間水管破裂。起初只有一小股水流過廚房地板，接著流到門口，往市場的一條窄路轉去。露比的妹妹喊人幫忙，大家把袋子搬上乾桌子。「請不要涉水走過去，」露比對客人說。父親關掉水源，維修工人趕來檢查水管。餐點服務停了一小時。「昂貴的一小時，」露比媽媽說，「如果天天這樣，餐館就開不下去。」露比這才真正明白李奧家對失去工作的恐懼。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

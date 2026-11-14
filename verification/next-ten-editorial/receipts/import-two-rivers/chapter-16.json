@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 16,
+  "chapterId": "import-two-rivers-16",
+  "sourceChapterSha256": "7b1d1cd07aa6d28cced537d4c8614f26efba2969f2f9b6f4242a6758017e41a8",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "羅會長試圖藉行政命令逮捕學生，梅老師出示合法調查文件；魏姨避難所高地逃生路不應被私塔阻斷。",
+    "previousChapterEndingEnglish": "When the fog lifted, a small wooden board appeared behind the gate. On it someone had carved a final verse: TWO HANDS CAN OPEN, BUT ONLY MANY VOICES CAN DECIDE. Yu read the words aloud. They were not a secret command to the boys. They were a warning that using the gate without public agreement could harm others. Qi rested a hand on Yu's shoulder. “Then we do not open it alone,” he said. “Not even if it would make us heroes.” As they left, the poet Lin An arrived with news: the council had called an emergency meeting, and Luo wanted both boys arrested.",
+    "nextChapterOpeningEnglish": "The shelter bell rang three times, not nine. Elder Song studied the river and said the condition of the old gate was growing worse. “Three bells mean the pressure has reached the outer wall,” he said. Yu asked how deep the channel ran. Song drew the depth on a piece of paper. Qi wanted to hurry into the tower, but Song stopped him. “An accident there could drown the people below.” The chief of the emergency team agreed. They would first clear the road, then send trained workers to inspect the wheel. Yu was willing to help, but not to break the safety plan."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The council's order reached the academy before sunrise. President Luo had accused Yu and Qi of stealing records and wasting public resources. A policeman came to their room, but Teacher Mei showed him copies of the legal permission for their investigation. “They have followed every requirement,” she said. “If you need to question them, do it with a teacher present.” The policeman read the papers and agreed. Qi wanted to argue with him, yet Yu rubbed his wrist and asked him to wait. “He is doing his job,” Yu whispered. “The person who sent the order is the one we need to question.”",
+        "zh": "議會的命令在日出前送到學院。羅會長指控沈雨和韓祈偷取紀錄、浪費公共資源。一名警察來到兩人的房間，梅老師出示調查獲准的法律文件副本。「他們遵守所有要求，」她說，「需要問話，請在教師陪同下進行。」警察讀過文件後同意。韓祈想和警察爭論，沈雨輕輕揉他的手腕，叫他等一下。「他是在工作，」沈雨低聲說，「真正該問的是發出命令的人。」",
+        "englishSha256": "fb41b84473a648427ddaf86b325fd766af93235a1bd0ff84c8dc80e0801819d2",
+        "chineseSha256": "5001ca2baa7580eebcfcb0ec37a88058046f6181c8bbde44dce4078361ec7dd2"
+      },
+      {
+        "number": 2,
+        "en": "Mei took them to a shelter in the northern hills. It was run by a woman who had once hosted travelers and workers without asking for payment. Her name was Aunt Wei. She showed them a smooth stone floor, simple furniture, and beds covered in clean cloth. “People come here when the river rises,” she said. “We do not ask whether they have money or debt.” On the wall hung a comic about a small eagle learning to fly. “That bird reminds me of you two,” she told them. “A strong wing is useless if it never learns where to land.”",
+        "zh": "梅老師帶他們去北丘的避難所，由一位過去常免費接待旅客與工人的魏姨管理。她帶他們看光滑的石地、簡單家具和鋪著乾淨布的床。「河水上漲時，人們會來這裡，」她說，「我們不問有沒有錢，也不問欠不欠債。」牆上掛著一幅小老鷹學飛的漫畫。「牠讓我想起你們兩個，」魏姨說，「翅膀再強，也得學會在哪裡落地。」",
+        "englishSha256": "2ee94f1f14b77b6c4b2b5f31173fca04969c05438c33bd66f585990ab58a4ae6",
+        "chineseSha256": "44c6d68b910fd5a7d5c8d84931a8d3acced4e8d7957e3586b16073b17883e7f3"
+      },
+      {
+        "number": 3,
+        "en": "Behind the shelter, a child collected strawberry leaves and a sea shell from a picnic box and put them in the wrong place. Aunt Wei gently showed him the trash bin. “A healthy environment needs small actions every day,” she said. “It does not improve because someone gives a great speech.” Yu liked the way she worked. The shelter had rules, but its purpose was independence: people could stay until they were ready to go home, not until someone gave them permission to be free. Qi read a notice from the Mountain Society and frowned. It said the shelter might close after the festival.",
+        "zh": "避難所後方，一個孩子把野餐盒裡的草莓葉和一枚海貝殼丟錯地方。魏姨溫和地指向垃圾桶。「健康環境靠每天的小行動，」她說，「不是靠某個人的偉大演說就會變好。」沈雨喜歡她的做法。避難所有規則，但目的是讓人恢復自主：人們可以住到準備好回家，不是等人批准他們自由。韓祈讀著山盟的公告，皺起眉頭。公告說避難所可能在祭典後關閉。",
+        "englishSha256": "ab5205cff6700b69386635d706301f103c4898e660d03f0555745dda6a465188",
+        "chineseSha256": "17c0f2dc0c76e465b76680836870a39ad2f207458d62c9abb4b09c42d0e58e3f"
+      },
+      {
+        "number": 4,
+        "en": "The notice claimed that the land was highly valuable and should be used for a new spirit tower. Aunt Wei showed them a drawing of the old river under the building. “A tower here would block the escape road,” she said. “If the water rises, children need this hill.” Yu placed the map on the floor and watched Qi lay the copied reports beside it. The lines met at a narrow slide used to move supplies from the upper road. “This is part of the old channel,” Qi realized. “The shelter protects people because someone built it over the safe bank.”",
+        "zh": "公告說這塊土地價值很高，應用來建新靈塔。魏姨拿出建築下方的舊河道圖。「在這裡蓋塔會堵住逃生路，」她說，「河水上漲時，孩子們需要這座小山。」沈雨把圖攤在地上，看著韓祈把影本放在旁邊。線條交會在一條從上坡運送物資的滑道旁。「這也是舊水道的一部分。」韓祈明白了，「避難所之所以能保護人，是因為有人把它蓋在安全河岸上。」",
+        "englishSha256": "47a250aa976c48085d8bbb2171f6c135c5a58474aed3fdc9ba60e818abce2dee",
+        "chineseSha256": "347ebabf7a0a34da50bfcb5337050903bbdc6e90ef7a871dd4ffdab7822dc0e0"
+      },
+      {
+        "number": 5,
+        "en": "That afternoon, the shelter received a message from a university student studying water waste. She had found a set of old plans showing that the Mountain Society knew the hill was needed for safety. The city had promised never to build over the escape road. Yu copied the signed page and sent it to Mei's trusted officer. “We have enough to ask for a hearing,” he said. Qi looked out at the long valley. “But do we have enough time to keep people safe?” The sky had darkened, and the first deep clouds were moving toward the mountains.",
+        "zh": "午後，避難所收到一名研究水污染的大學生送來的消息。她找到一批舊圖，證明山盟明知這座山丘是避難所需之地。城市曾承諾永不在逃生路上蓋建築。沈雨抄下簽署過的那頁，送給梅老師信任的官員。「已經足以要求聽證。」他說。韓祈望向長長的山谷：「但時間夠我們讓大家安全嗎？」天空暗了，第一片厚雲正向山脈移動。",
+        "englishSha256": "a3511380fa787c36ef6461f3b55d7c1e90730a0ead0aa87c8828ab104b7fd639",
+        "chineseSha256": "4815f8c0e76ec500308727d77d224a5b50f80839e7a6589c69868ce90bce04b7"
+      },
+      {
+        "number": 6,
+        "en": "At dusk, Aunt Wei asked the two boys to help carry blankets to a higher room. She did not know about the marks on their hands, and she treated them like any other students. Yu was grateful. Qi tried to lift too many boxes and almost fell. Yu caught one end, and together they carried the load upstairs. “The universe does not end if you ask for help,” Yu teased him. Qi gave a small, real laugh. Then a low sound moved through the shelter floor. An empty cup slid toward the river wall. Yu froze. Even here, high above the river, the hidden bell had begun to ring.",
+        "zh": "黃昏時，魏姨請兩人把毛毯搬到更高的房間。她不知道兩人手上的印記，把他們當普通學生對待。沈雨很感激。韓祈一次想搬太多箱，差點跌倒，沈雨接住另一端，兩人一起搬上樓。「就算你開口求助，宇宙也不會毀滅。」沈雨逗他。韓祈真心笑了。這時低沉的聲音穿過避難所地板，一只空杯朝河牆滑去。沈雨僵住：就連遠高於河面的這裡，隱藏的鐘聲也開始響了。",
+        "englishSha256": "4da6189c3d7d67cf3e3e101072abcc38db7761eb19cc9e4eab5106e0611e0d6a",
+        "chineseSha256": "d8490164d504a525846ded8046f0c13875668b44b9991c76813a0773ae8f32a0"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 616,
+    "targets": [
+      {
+        "word": "comic",
+        "meaning": "漫畫",
+        "appearsInSource": true
+      },
+      {
+        "word": "debt",
+        "meaning": "債務",
+        "appearsInSource": true
+      },
+      {
+        "word": "eagle",
+        "meaning": "老鷹",
+        "appearsInSource": true
+      },
+      {
+        "word": "environment",
+        "meaning": "環境",
+        "appearsInSource": true
+      },
+      {
+        "word": "highly",
+        "meaning": "高度地",
+        "appearsInSource": true
+      },
+      {
+        "word": "hosted",
+        "meaning": "主人",
+        "appearsInSource": true
+      },
+      {
+        "word": "independence",
+        "meaning": "獨立",
+        "appearsInSource": true
+      },
+      {
+        "word": "lay",
+        "meaning": "放置",
+        "appearsInSource": true
+      },
+      {
+        "word": "northern",
+        "meaning": "北方的",
+        "appearsInSource": true
+      },
+      {
+        "word": "policeman",
+        "meaning": "警察",
+        "appearsInSource": true
+      },
+      {
+        "word": "requirement",
+        "meaning": "要求",
+        "appearsInSource": true
+      },
+      {
+        "word": "rubbed",
+        "meaning": "摩擦",
+        "appearsInSource": true
+      },
+      {
+        "word": "shell",
+        "meaning": "殼",
+        "appearsInSource": true
+      },
+      {
+        "word": "slide",
+        "meaning": "滑道",
+        "appearsInSource": true
+      },
+      {
+        "word": "smooth",
+        "meaning": "光滑的",
+        "appearsInSource": true
+      },
+      {
+        "word": "society",
+        "meaning": "社會",
+        "appearsInSource": true
+      },
+      {
+        "word": "strawberry",
+        "meaning": "草莓",
+        "appearsInSource": true
+      },
+      {
+        "word": "trash",
+        "meaning": "垃圾",
+        "appearsInSource": true
+      },
+      {
+        "word": "universe",
+        "meaning": "宇宙",
+        "appearsInSource": true
+      },
+      {
+        "word": "wasting",
+        "meaning": "浪費",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Shelter Above the River〉第 1 段的事件，哪個選項能正確補完整句？\nThe council's order reached ____ before sunrise.",
+      "options": [
+        "the page",
+        "the academy",
+        "the stone"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the academy",
+      "existingAnswerExplanation": "原文證據：The council's order reached the academy before sunrise.\n本段對照：議會的命令在日出前送到學院。羅會長指控沈雨和韓祈偷取紀錄、浪費公共資源。一名警察來到兩人的房間，梅老師出示調查獲准的法律文件副本。「他們遵守所有要求，」她說，「需要問話，請在教師陪同下進行。」警察讀過文件後同意。韓祈想和警察爭論，沈雨輕輕揉他的手腕，叫他等一下。「他是在工作，」沈雨低聲說，「真正該問的是發出命令的人。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The council's order reached the academy before sunrise. President Luo had accused Yu and Qi of stealing records and wasting public resources. A policeman came to their room, but Teacher Mei showed him copies of the legal permission for their investigation. “They have followed every requirement,” she said. “If you need to question them, do it with a teacher present.” The policeman read the papers and agreed. Qi wanted to argue with him, yet Yu rubbed his wrist and asked him to wait. “He is doing his job,” Yu whispered. “The person who sent the order is the one we need to question.”",
+          "chinese": "議會的命令在日出前送到學院。羅會長指控沈雨和韓祈偷取紀錄、浪費公共資源。一名警察來到兩人的房間，梅老師出示調查獲准的法律文件副本。「他們遵守所有要求，」她說，「需要問話，請在教師陪同下進行。」警察讀過文件後同意。韓祈想和警察爭論，沈雨輕輕揉他的手腕，叫他等一下。「他是在工作，」沈雨低聲說，「真正該問的是發出命令的人。」",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 6,
+          "english": "At dusk, Aunt Wei asked the two boys to help carry blankets to a higher room. She did not know about the marks on their hands, and she treated them like any other students. Yu was grateful. Qi tried to lift too many boxes and almost fell. Yu caught one end, and together they carried the load upstairs. “The universe does not end if you ask for help,” Yu teased him. Qi gave a small, real laugh. Then a low sound moved through the shelter floor. An empty cup slid toward the river wall. Yu froze. Even here, high above the river, the hidden bell had begun to ring.",
+          "chinese": "黃昏時，魏姨請兩人把毛毯搬到更高的房間。她不知道兩人手上的印記，把他們當普通學生對待。沈雨很感激。韓祈一次想搬太多箱，差點跌倒，沈雨接住另一端，兩人一起搬上樓。「就算你開口求助，宇宙也不會毀滅。」沈雨逗他。韓祈真心笑了。這時低沉的聲音穿過避難所地板，一只空杯朝河牆滑去。沈雨僵住：就連遠高於河面的這裡，隱藏的鐘聲也開始響了。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Shelter Above the River〉第 6 段的事件，哪個選項能正確補完整句？\nQi gave ____, real laugh.",
+      "options": [
+        "a small",
+        "a bit of gold dust",
+        "a repaired wheel"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a small",
+      "existingAnswerExplanation": "原文證據：Qi gave a small, real laugh.\n本段對照：黃昏時，魏姨請兩人把毛毯搬到更高的房間。她不知道兩人手上的印記，把他們當普通學生對待。沈雨很感激。韓祈一次想搬太多箱，差點跌倒，沈雨接住另一端，兩人一起搬上樓。「就算你開口求助，宇宙也不會毀滅。」沈雨逗他。韓祈真心笑了。這時低沉的聲音穿過避難所地板，一只空杯朝河牆滑去。沈雨僵住：就連遠高於河面的這裡，隱藏的鐘聲也開始響了。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "At dusk, Aunt Wei asked the two boys to help carry blankets to a higher room. She did not know about the marks on their hands, and she treated them like any other students. Yu was grateful. Qi tried to lift too many boxes and almost fell. Yu caught one end, and together they carried the load upstairs. “The universe does not end if you ask for help,” Yu teased him. Qi gave a small, real laugh. Then a low sound moved through the shelter floor. An empty cup slid toward the river wall. Yu froze. Even here, high above the river, the hidden bell had begun to ring.",
+          "chinese": "黃昏時，魏姨請兩人把毛毯搬到更高的房間。她不知道兩人手上的印記，把他們當普通學生對待。沈雨很感激。韓祈一次想搬太多箱，差點跌倒，沈雨接住另一端，兩人一起搬上樓。「就算你開口求助，宇宙也不會毀滅。」沈雨逗他。韓祈真心笑了。這時低沉的聲音穿過避難所地板，一只空杯朝河牆滑去。沈雨僵住：就連遠高於河面的這裡，隱藏的鐘聲也開始響了。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 2,
+          "english": "Mei took them to a shelter in the northern hills. It was run by a woman who had once hosted travelers and workers without asking for payment. Her name was Aunt Wei. She showed them a smooth stone floor, simple furniture, and beds covered in clean cloth. “People come here when the river rises,” she said. “We do not ask whether they have money or debt.” On the wall hung a comic about a small eagle learning to fly. “That bird reminds me of you two,” she told them. “A strong wing is useless if it never learns where to land.”",
+          "chinese": "梅老師帶他們去北丘的避難所，由一位過去常免費接待旅客與工人的魏姨管理。她帶他們看光滑的石地、簡單家具和鋪著乾淨布的床。「河水上漲時，人們會來這裡，」她說，「我們不問有沒有錢，也不問欠不欠債。」牆上掛著一幅小老鷹學飛的漫畫。「牠讓我想起你們兩個，」魏姨說，「翅膀再強，也得學會在哪裡落地。」",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

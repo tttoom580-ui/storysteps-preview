@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 12,
+  "chapterId": "import-two-rivers-12",
+  "sourceChapterSha256": "07310f1153d7539f0becb3d6cbe969b5293c689c052952ee872e2ab9b14398a4",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "首都茶店及舊檔案室確認第二條河流遭舊圖遮蔽，規定須兩名守護者並在公開公告後才能開啟靜河。",
+    "previousChapterEndingEnglish": "That night the festival ended with fireworks over the city. Qi and Yu stayed away from the crowd to watch the river instead. The great gold gate opened for a moment, and water rushed through the old stones below. Nine low sounds rose from the ground. Yu placed his white palm against Qi's marked wrist. For the first time, the two halves formed a full circle, and a clear picture appeared in Yu's mind: a locked room beneath Luo's hall. Qi saw the same room. “Now we know where to search,” Qi said. Yu nodded. “And now he may know we can see it.”",
+    "nextChapterOpeningEnglish": "The next morning, a sailor arrived at the capital carrying a bottle of water from the lower stream. His motorcycle stood outside Mei's office, covered in soil and rain marks. “The fish have begun to die,” he said. “People say a thief has poured poison into the water.” Mei did not conclude that the story was true. She separated the sample into clean containers and sent it to the university lab. “We need technology and careful tests,” she told Yu. “A scary story may spread faster than evidence, but evidence gives us a way to act.” Qi watched the water turn cloudy in the bottle."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Teacher Mei sent the copied reports to the capital office and asked the boys to travel with her. The capital was crowded, full of customers, carts, and tall houses. Yu had never been this far from the countryside. At noon they stopped at a tea shop where the owner served pudding and a plate of fries to hungry students. Qi looked at the food with deep regard but did not know which to eat first. Yu laughed so hard that tea almost came out of his nose. “There is no test here,” he told Qi. “You are allowed to like things.”",
+        "zh": "梅老師把報告影本送到首都辦事處，請兩個少年一起去。首都人潮擁擠，到處是顧客、推車和高樓。沈雨從沒離鄉村這麼遠。中午，他們在茶店休息，店主端上布丁和炸薯條給餓了的學生。韓祈非常認真地看著食物，卻不知道該先吃哪個。沈雨笑得差點把茶從鼻子裡噴出來。「這裡沒有考試，」他說，「你可以喜歡某些東西。」",
+        "englishSha256": "ff14b7e8c5b644c8912e09401f47a807b09a68df2168c8b290ead7aa34e33acc",
+        "chineseSha256": "556df0dfef08762c6425319eddb83164a143b452eca02facf5152eb77543bcb0"
+      },
+      {
+        "number": 2,
+        "en": "A dentist's office stood above the shop. Its window was full of pictures showing the danger of ignoring a small tooth problem. Mei pointed at it. “Small problems grow when people are scared to mention them,” she said. “That is true of bodies and rivers.” The tea owner nodded and put an old teapot on the table. Under its base was a stamp from the council. “A clerk left this here years ago,” she said. “I kept it because the stamp was unusual.” On the bottom, near the handle, Yu found a tiny direction arrow and a date.",
+        "zh": "茶店樓上有間牙醫診所，窗上貼滿警告忽略小牙病危險的圖片。梅老師指著它說：「人們害怕提小問題，小問題就會變大。不只是身體，河流也是。」茶店老闆點頭，拿出一個舊茶壺。壺底印著議會的章。「多年前有位書記把它留在這裡，」她說，「我看印章很特別才留著。」沈雨在靠近壺把處找到一個小小方向箭頭和日期。",
+        "englishSha256": "a9a7318b03361ee33878003ab7b5ad6413d33ddaec7e69b50a83038428543abc",
+        "chineseSha256": "af3e45f9e31a7d13da6464a4468da872e37cbb1ea855f31eac37d5fc26734ed9"
+      },
+      {
+        "number": 3,
+        "en": "The arrow pointed toward an older settlement beside the city wall. Mei explained that the council had moved offices suddenly after the flood. Several records had been left blank, as if someone had erased important measurements. Yu copied the stamp with ink from his pen. “A sudden move may have a normal cause,” he said, “but I want to know why the records were empty.” Qi agreed. He had learned that respect for the truth meant more than respect for a powerful name. Mei smiled at the care they now took before drawing a conclusion.",
+        "zh": "箭頭指向城牆旁更古老的聚落。梅老師解釋，大水後議會突然搬過辦公室，有些紀錄留下空白，像重要測量值被人擦掉。沈雨用筆的墨水拓下印記。「突然搬遷也可能有普通原因，」他說，「但我想知道為何紀錄空了。」韓祈同意。他已學會，尊重真相比尊重有權勢的名字更重要。梅老師看著他們下結論前的謹慎態度，露出笑容。",
+        "englishSha256": "c0ef9bf412c3906e232e37a2b97b34636d724dcbb739fe441860f8eef8538ad5",
+        "chineseSha256": "7013314c3559039d178e8700436da96785b769116eeb6ed9b301236991543043"
+      },
+      {
+        "number": 4,
+        "en": "At the old office a clerk brought out public plans for the river. The boys measured the space between two gates with a ruler. One measurement was larger than the other, even though the map said the channels were equal. “This is not a mistake in drawing,” Yu said. “A whole section of the second river was removed.” The clerk asked them to settle down when they became excited. “We can check the older copy,” she offered. Yu apologized for his voice. Qi put on the slippers provided at the office door and followed them into a dry room where paper records were kept.",
+        "zh": "舊辦公室的書記拿出公開河道圖。兩人用尺測量兩道閘門間的距離。一段比另一段更長，地圖卻畫成相同。「不是畫圖失誤，」沈雨說，「第二條河整段被拿掉了。」書記請激動的兩人冷靜。「可以比對較舊的副本。」她提議。沈雨為自己的音量道歉。韓祈穿上辦公室入口提供的拖鞋，跟著走進保存紙資料的乾燥房間。",
+        "englishSha256": "904b91e7a934b50db71d76b6e89d186a302dbe7024373cc53b10128f4d0e98d2",
+        "chineseSha256": "57159034e80179356f683a4c82cb0edffdd613206833867c0005f1fb76ec3721"
+      },
+      {
+        "number": 5,
+        "en": "In the corner lay a letter from a former customer of the city's water service. It blamed the council for allowing the lower farms to dry, but the writing gave exact dates and careful observations. Mei explained that blaming people without proof was dangerous, yet an honest complaint deserved attention. Yu copied the dates. Qi stood by the door, watching for the official in the dark suit. Nobody came. Instead, a little boy entered, holding a cup and asking whether his lost sister was here. Qi knelt to help him find her in the hall.",
+        "zh": "角落有一封從前的城市供水用戶來信。信裡責怪議會讓下游農地乾涸，但寫信人記下精確日期與仔細觀察。梅老師說，沒有證據便指責別人很危險，但誠實的申訴值得被聽見。沈雨抄下日期。韓祈站在門邊，留意深色西裝官員是否出現。他沒有來，倒是一個小男孩拿著杯子進來，問走失的姐姐是否在這裡。韓祈蹲下，陪孩子到大廳找姐姐。",
+        "englishSha256": "b4f0fc542be8e978cbc52dcdc19015968230fa82a17a74be5ab954bb9af3a6fb",
+        "chineseSha256": "301cc741cf827e56e433e5a3aa95067a08645305085c667c391e6bc4b687f319"
+      },
+      {
+        "number": 6,
+        "en": "Before they left the tea shop, the owner had offered to keep copies of the public notices on her wall. People often stopped there on their way to work, and a clear notice could help them avoid the wrong road during an emergency. Yu thanked her before leaving. He was beginning to understand that good information was useful only when ordinary people could find it in time.",
+        "zh": "他們離開茶店前，老闆已表示願意把公開公告影本貼在店牆。人們上班路上常在這裡停留，清楚的公告能幫他們在緊急時避免走錯路。沈雨離開前向她道謝。他開始明白，再好的資訊若普通人來不及看見，也派不上用場。",
+        "englishSha256": "6acbef54dfccf7f06819ef80610b86238d0ddb4832d8885838965ec48ff8359a",
+        "chineseSha256": "1b1dbc4e4070a41baab15ecdabc24601449905831decfc9f62bab6670b5a69cd"
+      },
+      {
+        "number": 7,
+        "en": "As evening fell, the old clerk showed them the last page of a faded map. It was marked with the name Quiet River and a small warning: OPEN ONLY WITH TWO GUARDIANS AND PUBLIC NOTICE. The words matched the pair of marks on the boys' hands. Yu could hardly speak. “It says nothing about blood or family,” he said at last. “It asks for two people and witnesses.” Mei nodded. “Then the marks may show a duty, not a right to rule.” Outside the office, someone had painted a fresh warning on the wall: STOP DIGGING, OR THE CITY WILL DRY.",
+        "zh": "傍晚，老書記讓他們看褪色地圖的最後一頁。上面標了「靜河」，還有小字警告：「僅得由兩名守護者在公告後開啟。」那正符合兩人手上的相對印記。沈雨幾乎說不出話，最後才開口：「沒有提血統或家族，只要求兩個人和見證者。」梅老師點頭：「那印記可能代表責任，不是統治的權利。」辦公室外牆卻被人新漆了一句警告：「停止挖掘，否則城市會乾涸。」",
+        "englishSha256": "34199ffd50f04d9768e66c277c439af6a6e89986305b6470048e4b9a046ba02f",
+        "chineseSha256": "583bae2fcfeeb5549660d49288e4636665aaa535763fd76cb0afefa79154898e"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 661,
+    "targets": [
+      {
+        "word": "blamed",
+        "meaning": "責怪",
+        "appearsInSource": true
+      },
+      {
+        "word": "blank",
+        "meaning": "空白的",
+        "appearsInSource": true
+      },
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "appearsInSource": true
+      },
+      {
+        "word": "countryside",
+        "meaning": "鄉間",
+        "appearsInSource": true
+      },
+      {
+        "word": "customers",
+        "meaning": "顧客",
+        "appearsInSource": true
+      },
+      {
+        "word": "danger",
+        "meaning": "危險",
+        "appearsInSource": true
+      },
+      {
+        "word": "dentist",
+        "meaning": "牙醫",
+        "appearsInSource": true
+      },
+      {
+        "word": "direction",
+        "meaning": "方向",
+        "appearsInSource": true
+      },
+      {
+        "word": "fries",
+        "meaning": "炸薯條",
+        "appearsInSource": true
+      },
+      {
+        "word": "hardly",
+        "meaning": "幾乎不",
+        "appearsInSource": true
+      },
+      {
+        "word": "ink",
+        "meaning": "墨水",
+        "appearsInSource": true
+      },
+      {
+        "word": "measurements",
+        "meaning": "測量",
+        "appearsInSource": true
+      },
+      {
+        "word": "pudding",
+        "meaning": "布丁",
+        "appearsInSource": true
+      },
+      {
+        "word": "regard",
+        "meaning": "視為",
+        "appearsInSource": true
+      },
+      {
+        "word": "respect",
+        "meaning": "尊重",
+        "appearsInSource": true
+      },
+      {
+        "word": "scared",
+        "meaning": "害怕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "settlement",
+        "meaning": "聚落",
+        "appearsInSource": true
+      },
+      {
+        "word": "slippers",
+        "meaning": "拖鞋",
+        "appearsInSource": true
+      },
+      {
+        "word": "sudden",
+        "meaning": "突然的",
+        "appearsInSource": true
+      },
+      {
+        "word": "teapot",
+        "meaning": "茶壺",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Tea Shop in the Capital〉第 1 段的事件，哪個選項能正確補完整句？\nTeacher Mei sent ____ to the capital office and asked the boys to travel with her.",
+      "options": [
+        "the copied reports",
+        "the tower without a fight",
+        "the shelter"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the copied reports",
+      "existingAnswerExplanation": "原文證據：Teacher Mei sent the copied reports to the capital office and asked the boys to travel with her.\n本段對照：梅老師把報告影本送到首都辦事處，請兩個少年一起去。首都人潮擁擠，到處是顧客、推車和高樓。沈雨從沒離鄉村這麼遠。中午，他們在茶店休息，店主端上布丁和炸薯條給餓了的學生。韓祈非常認真地看著食物，卻不知道該先吃哪個。沈雨笑得差點把茶從鼻子裡噴出來。「這裡沒有考試，」他說，「你可以喜歡某些東西。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Teacher Mei sent the copied reports to the capital office and asked the boys to travel with her. The capital was crowded, full of customers, carts, and tall houses. Yu had never been this far from the countryside. At noon they stopped at a tea shop where the owner served pudding and a plate of fries to hungry students. Qi looked at the food with deep regard but did not know which to eat first. Yu laughed so hard that tea almost came out of his nose. “There is no test here,” he told Qi. “You are allowed to like things.”",
+          "chinese": "梅老師把報告影本送到首都辦事處，請兩個少年一起去。首都人潮擁擠，到處是顧客、推車和高樓。沈雨從沒離鄉村這麼遠。中午，他們在茶店休息，店主端上布丁和炸薯條給餓了的學生。韓祈非常認真地看著食物，卻不知道該先吃哪個。沈雨笑得差點把茶從鼻子裡噴出來。「這裡沒有考試，」他說，「你可以喜歡某些東西。」",
+          "matchedQueryTerms": 18
+        },
+        {
+          "paragraph": 2,
+          "english": "A dentist's office stood above the shop. Its window was full of pictures showing the danger of ignoring a small tooth problem. Mei pointed at it. “Small problems grow when people are scared to mention them,” she said. “That is true of bodies and rivers.” The tea owner nodded and put an old teapot on the table. Under its base was a stamp from the council. “A clerk left this here years ago,” she said. “I kept it because the stamp was unusual.” On the bottom, near the handle, Yu found a tiny direction arrow and a date.",
+          "chinese": "茶店樓上有間牙醫診所，窗上貼滿警告忽略小牙病危險的圖片。梅老師指著它說：「人們害怕提小問題，小問題就會變大。不只是身體，河流也是。」茶店老闆點頭，拿出一個舊茶壺。壺底印著議會的章。「多年前有位書記把它留在這裡，」她說，「我看印章很特別才留著。」沈雨在靠近壺把處找到一個小小方向箭頭和日期。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Tea Shop in the Capital〉第 5 段的事件，哪個選項能正確補完整句？\nInstead, a little boy entered, holding ____ and asking whether his lost sister was here.",
+      "options": [
+        "a cup",
+        "a cell record",
+        "a weapon"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a cup",
+      "existingAnswerExplanation": "原文證據：Instead, a little boy entered, holding a cup and asking whether his lost sister was here.\n本段對照：角落有一封從前的城市供水用戶來信。信裡責怪議會讓下游農地乾涸，但寫信人記下精確日期與仔細觀察。梅老師說，沒有證據便指責別人很危險，但誠實的申訴值得被聽見。沈雨抄下日期。韓祈站在門邊，留意深色西裝官員是否出現。他沒有來，倒是一個小男孩拿著杯子進來，問走失的姐姐是否在這裡。韓祈蹲下，陪孩子到大廳找姐姐。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "In the corner lay a letter from a former customer of the city's water service. It blamed the council for allowing the lower farms to dry, but the writing gave exact dates and careful observations. Mei explained that blaming people without proof was dangerous, yet an honest complaint deserved attention. Yu copied the dates. Qi stood by the door, watching for the official in the dark suit. Nobody came. Instead, a little boy entered, holding a cup and asking whether his lost sister was here. Qi knelt to help him find her in the hall.",
+          "chinese": "角落有一封從前的城市供水用戶來信。信裡責怪議會讓下游農地乾涸，但寫信人記下精確日期與仔細觀察。梅老師說，沒有證據便指責別人很危險，但誠實的申訴值得被聽見。沈雨抄下日期。韓祈站在門邊，留意深色西裝官員是否出現。他沒有來，倒是一個小男孩拿著杯子進來，問走失的姐姐是否在這裡。韓祈蹲下，陪孩子到大廳找姐姐。",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 1,
+          "english": "Teacher Mei sent the copied reports to the capital office and asked the boys to travel with her. The capital was crowded, full of customers, carts, and tall houses. Yu had never been this far from the countryside. At noon they stopped at a tea shop where the owner served pudding and a plate of fries to hungry students. Qi looked at the food with deep regard but did not know which to eat first. Yu laughed so hard that tea almost came out of his nose. “There is no test here,” he told Qi. “You are allowed to like things.”",
+          "chinese": "梅老師把報告影本送到首都辦事處，請兩個少年一起去。首都人潮擁擠，到處是顧客、推車和高樓。沈雨從沒離鄉村這麼遠。中午，他們在茶店休息，店主端上布丁和炸薯條給餓了的學生。韓祈非常認真地看著食物，卻不知道該先吃哪個。沈雨笑得差點把茶從鼻子裡噴出來。「這裡沒有考試，」他說，「你可以喜歡某些東西。」",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

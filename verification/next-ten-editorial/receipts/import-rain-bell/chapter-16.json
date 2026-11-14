@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 16,
+  "chapterId": "import-rain-bell-16",
+  "sourceChapterSha256": "cb2231dccefd75f778dec506cdfe16e8bf0ed5a42f4d5894b887f792409e71af",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "工廠外電箱局部火災，露比用事實製作修正報導，不用火災推斷整間工廠都不安全；韓說準備暫停部分作業。",
+    "previousChapterEndingEnglish": "That evening Ruby helped her mother count the day's money. There was less than usual. “A pipe can stop a meal,” her mother said. “People think a restaurant is only food, but it's our whole world.” Ruby looked at the old photograph on the wall: her grandmother smiling in the River House kitchen years ago. She wanted to protect both places. Her phone rang. It was Mia. “The factory just put its new plan online,” she said. “The picture is clearer. Ruby, the old water line has disappeared.” Ruby closed the money box and stood up. “Then tomorrow we need to show everyone what is missing.”",
+    "nextChapterOpeningEnglish": "The factory driver met Mia and Officer Su at the office. Mr. Han had agreed to show them a book of tests. The driver was an older man with a friendly face and a strong voice. “Before every test,” he said, “we had an order to repeat the same words: Gate closed, pump on, count to ten.” Mia wrote the words carefully. “Did you hear the bell?” she asked. “Sometimes,” he answered. “Really, I thought it was music from the river. The sound came and went.” He looked at Mr. Han. “I didn't decide when we tested. I only did the job I was given.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Ruby had promised to make a correct news video for the school. She wanted to show how the restaurant had found the old pipe number, so Mia agreed to be interviewed in a garden near the factory. They had barely started when an angry shout came from the road. A small fire had begun near an outside electrical box. Workers moved back, and someone called for help. Heat rose above the wall. Ruby's knee struck a bench as she stepped away, but she was not hurt. “Stay with me,” Mia said. “We must not go closer.” Ruby held her camera down. She knew a picture was not worth getting hurt.",
+        "zh": "露比答應替學校做一段正確的新聞影片。她想說明餐館如何找到舊水管編號，米婭便答應在工廠附近的花園受訪。才剛開始，路上就有人憤怒大喊。工廠外的電箱附近起了小火。工人退開，有人打電話求援。熱氣升上圍牆。露比後退時膝蓋撞上長椅，但沒有受傷。「跟我待在這裡，」米婭說，「不能再靠近。」露比放下攝影機。她知道一張照片不值得冒險受傷。",
+        "englishSha256": "8150a9100dd32f525f225eef453cc78abad5cfb8e2addddd716e4b573e914f99",
+        "chineseSha256": "efa26420242ed13b0de5eb02746f7be5099d50de144686539b074988b19bdb6b"
+      },
+      {
+        "number": 2,
+        "en": "Officer Su arrived with trained workers and kept people up the road. The fire team soon put the flames out. There was smoke and a bad smell, but no one needed to go to hospital. A man with a tea cup said the fire proved the factory was dangerous in every way. Leo heard him and grew angry. “One broken box doesn't mean every machine is bad,” he replied. “You don't know the cause yet.” Mia touched his arm. “You're correct. We should say only what we know.” Ruby wrote the facts in a notebook before she turned her camera back on. It felt slow, yet it felt better than her ghost film.",
+        "zh": "蘇小姐與受過訓練的人員趕來，請大家退到路上安全處。消防人員很快把火撲滅。現場有煙和難聞的味道，但沒有人需要送醫。一個端茶杯的男子說，火災證明工廠各方面都危險。李奧聽見便生氣：「一個電箱壞掉，不代表所有機器都不好。你還不知道起火原因。」米婭碰了碰他的手臂：「你說得對。我們只能說知道的事。」露比在重新開機錄影前，先把事實寫進筆記本。這樣做很慢，卻比鬼影影片讓她安心。",
+        "englishSha256": "ff3bbbf89e6fc3c3d91392603b4eacc7a26fc50093565aab43cfa9b31b3f1024",
+        "chineseSha256": "b65d0b153a1cc5f5ab0b627e84fcf4c0b12d131bc92b7e25cb875d39d182822c"
+      },
+      {
+        "number": 3,
+        "en": "At school their teacher watched the new report. Ruby showed the fire from a safe distance, the workers leaving the area, and Officer Su explaining that the cause was being checked. “Good,” the teacher said. “You have made the subject clear without making it larger than it is.” Jay offered everyone a cookie to celebrate. “One cent each,” he joked. “Then you can be a smart writer and a rich shopkeeper,” Ruby said. She did not hide the first video; she added a link to the correction. “People can see that I was wrong,” she explained. “I think they should also see what I did next.”",
+        "zh": "在學校，老師看了新報導。露比拍出安全距離外的火、撤離的工人，以及蘇小姐說明原因還在調查中。「很好，」老師說，「妳讓主題清楚，沒有把它說得比實際更大。」杰拿餅乾請大家慶祝，開玩笑說：「一個一分錢喔。」「那你就既是聰明作家，又是有錢店主。」露比回他。她沒有藏起第一支影片，而是加上更正連結。「大家可以看到我錯了，」她解釋，「也該看到我後來做了什麼。」",
+        "englishSha256": "02e8e0e322c43b608e6ae444f1d15720db4f4308ce36ee8acf237d77447dc0c8",
+        "chineseSha256": "c6fb5b12fccbc691371aee4e4b6bae7e517042304d24a1d514f8dddc13b3955b"
+      },
+      {
+        "number": 4,
+        "en": "That evening a story appeared on television. The picture of the fire was larger than life, and the voice on the TV made it sound as if the whole factory had almost burned. Leo turned it off. “My mother was there,” he said. “She told me everyone got away safely. Why make it sound worse?” Ruby looked down. She understood his anger more than anyone else. “I did that once,” she said. “I won't do it again.” Mia put the two newspaper reports side by side. The smaller report gave more facts. She copied the useful parts into her book. Then her father called from the kitchen. “Mr. Han will speak tomorrow.”",
+        "zh": "那晚，電視播出了新聞。畫面把火拍得很大，播報聲音讓人以為整間工廠差點燒光。李奧把電視關掉。「我媽媽在現場，」他說，「她說大家都安全離開，為什麼還要講得更嚴重？」露比低頭。她比誰都懂他的憤怒。「我以前也這樣做過，」她說，「不會再犯。」米婭把兩份新聞報導並排，比較短的那份反而提供更多事實。她把有用的部分抄到筆記本。接著父親從廚房喊：「韓先生明天要說話。」",
+        "englishSha256": "91f427263f05a19900b64ee72da0be76738adf54d036396a3299bd9f7bb70bec",
+        "chineseSha256": "5f620a8c7de43ef524750aed4101622923ab7ca053c9d0f9b9a20d8ac997a10d"
+      },
+      {
+        "number": 5,
+        "en": "After the fire the friends went to the hill behind the school. From there the factory looked small against the wide earth and the river looked slow. “News moves fast,” Ruby said. “It reaches people before we even know what happened.” Mia agreed. She had once wanted everyone to hear about the strange bell as quickly as possible. Now she knew speed could help during a warning but hurt during a rumor. “A fast safety message is good when it's checked,” she said. “A fast guess can make a crowd run the wrong way.” Ruby wrote that line for her next report, then asked Mia whether she could use it.",
+        "zh": "火災後，朋友們走到學校後方的小丘。從那裡看，工廠在寬廣大地前顯得很小，河流也流得緩慢。「新聞跑得好快，」露比說，「我們還沒弄清楚，它就傳到所有人那裡。」米婭同意。她曾想最快讓大家知道奇怪的鐘聲。現在她明白速度在警示時可能幫忙，在傳言時卻可能傷人。「查證過的安全消息快點傳很好，」她說，「沒查證的猜測太快傳，可能讓人群往錯的方向跑。」露比把這句話記進下一次報導，問能不能引用。",
+        "englishSha256": "81b0c041e0f22c3e7ea1a9ffc0336861b1e9cf77a3891dbbe0e886c9233871e5",
+        "chineseSha256": "fb9a2c3e9965945bda4191e41100a06bd5499006132138fbfdf9779a7e96e821"
+      },
+      {
+        "number": 6,
+        "en": "The next morning Mr. Han stood before the factory gate, wearing a white shirt. He looked tired. “We may have to close earlier than planned,” he told the workers. “The town is asking new questions about the water path, and we need time to answer them.” Leo's mother crossed her arms. Ruby began to speak, then stopped. This was not her story to make simple. Mr. Han went on: “No one has lost a job today. I want to keep it that way.” Mia took notes. At the end she asked about the missing water line on the new plan. Mr. Han did not answer. He said only, “Come to my office tomorrow.”",
+        "zh": "隔天早上，韓先生穿著白襯衫站在廠門前，看起來很累。「我們可能得比原定時間更早停工，」他告訴工人，「公所對水道提出新問題，我們需要時間回答。」李奧的母親雙臂交抱。露比想開口，卻又停住。這不是可以簡化成一句話的故事。韓先生繼續說：「今天沒有人失去工作，我希望能繼續如此。」米婭記下來。最後她問新圖上消失的水道，韓先生沒有回答，只說：「明天來我辦公室。」",
+        "englishSha256": "a6de4abd56f1905aef2c7d1feabaadc694a5561f9faaad4659fa3afe511de238",
+        "chineseSha256": "6ca56972f1d81cfb442d2ee37ea10c1097b3f4a24fc5c1254878dc71738b8b93"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 664,
+    "targets": [
+      {
+        "word": "angry",
+        "meaning": "生氣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cent",
+        "meaning": "分",
+        "appearsInSource": true
+      },
+      {
+        "word": "cookie",
+        "meaning": "餅乾",
+        "appearsInSource": true
+      },
+      {
+        "word": "correct",
+        "meaning": "正確的",
+        "appearsInSource": true
+      },
+      {
+        "word": "earth",
+        "meaning": "地球",
+        "appearsInSource": true
+      },
+      {
+        "word": "fast",
+        "meaning": "快的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fire",
+        "meaning": "火",
+        "appearsInSource": true
+      },
+      {
+        "word": "garden",
+        "meaning": "花園",
+        "appearsInSource": true
+      },
+      {
+        "word": "heat",
+        "meaning": "熱",
+        "appearsInSource": true
+      },
+      {
+        "word": "knee",
+        "meaning": "膝蓋",
+        "appearsInSource": true
+      },
+      {
+        "word": "knew",
+        "meaning": "知道",
+        "appearsInSource": true
+      },
+      {
+        "word": "make",
+        "meaning": "製作",
+        "appearsInSource": true
+      },
+      {
+        "word": "smart",
+        "meaning": "聰明的",
+        "appearsInSource": true
+      },
+      {
+        "word": "subject",
+        "meaning": "主題",
+        "appearsInSource": true
+      },
+      {
+        "word": "tea",
+        "meaning": "茶",
+        "appearsInSource": true
+      },
+      {
+        "word": "television",
+        "meaning": "電視",
+        "appearsInSource": true
+      },
+      {
+        "word": "up",
+        "meaning": "往上",
+        "appearsInSource": true
+      },
+      {
+        "word": "wearing",
+        "meaning": "穿戴",
+        "appearsInSource": true
+      },
+      {
+        "word": "with",
+        "meaning": "與",
+        "appearsInSource": true
+      },
+      {
+        "word": "writer",
+        "meaning": "作家",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈Fire in the Camera〉第 1 段的事件，哪個選項能正確補完整句？\nShe wanted to show how the restaurant had found ____, so Mia agreed to be interviewed in a garden near the factory.",
+      "options": [
+        "the soup",
+        "the ground",
+        "the old pipe number"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the old pipe number",
+      "existingAnswerExplanation": "原文證據：She wanted to show how the restaurant had found the old pipe number, so Mia agreed to be interviewed in a garden near the factory.\n本段對照：露比答應替學校做一段正確的新聞影片。她想說明餐館如何找到舊水管編號，米婭便答應在工廠附近的花園受訪。才剛開始，路上就有人憤怒大喊。工廠外的電箱附近起了小火。工人退開，有人打電話求援。熱氣升上圍牆。露比後退時膝蓋撞上長椅，但沒有受傷。「跟我待在這裡，」米婭說，「不能再靠近。」露比放下攝影機。她知道一張照片不值得冒險受傷。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Ruby had promised to make a correct news video for the school. She wanted to show how the restaurant had found the old pipe number, so Mia agreed to be interviewed in a garden near the factory. They had barely started when an angry shout came from the road. A small fire had begun near an outside electrical box. Workers moved back, and someone called for help. Heat rose above the wall. Ruby's knee struck a bench as she stepped away, but she was not hurt. “Stay with me,” Mia said. “We must not go closer.” Ruby held her camera down. She knew a picture was not worth getting hurt.",
+          "chinese": "露比答應替學校做一段正確的新聞影片。她想說明餐館如何找到舊水管編號，米婭便答應在工廠附近的花園受訪。才剛開始，路上就有人憤怒大喊。工廠外的電箱附近起了小火。工人退開，有人打電話求援。熱氣升上圍牆。露比後退時膝蓋撞上長椅，但沒有受傷。「跟我待在這裡，」米婭說，「不能再靠近。」露比放下攝影機。她知道一張照片不值得冒險受傷。",
+          "matchedQueryTerms": 21
+        },
+        {
+          "paragraph": 5,
+          "english": "After the fire the friends went to the hill behind the school. From there the factory looked small against the wide earth and the river looked slow. “News moves fast,” Ruby said. “It reaches people before we even know what happened.” Mia agreed. She had once wanted everyone to hear about the strange bell as quickly as possible. Now she knew speed could help during a warning but hurt during a rumor. “A fast safety message is good when it's checked,” she said. “A fast guess can make a crowd run the wrong way.” Ruby wrote that line for her next report, then asked Mia whether she could use it.",
+          "chinese": "火災後，朋友們走到學校後方的小丘。從那裡看，工廠在寬廣大地前顯得很小，河流也流得緩慢。「新聞跑得好快，」露比說，「我們還沒弄清楚，它就傳到所有人那裡。」米婭同意。她曾想最快讓大家知道奇怪的鐘聲。現在她明白速度在警示時可能幫忙，在傳言時卻可能傷人。「查證過的安全消息快點傳很好，」她說，「沒查證的猜測太快傳，可能讓人群往錯的方向跑。」露比把這句話記進下一次報導，問能不能引用。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈Fire in the Camera〉第 4 段的事件，哪個選項能正確補完整句？\n“I won't do it again.” Mia put ____.",
+      "options": [
+        "the two newspaper reports side by side",
+        "the tip of a narrow path",
+        "the grade of each student"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "the two newspaper reports side by side",
+      "existingAnswerExplanation": "原文證據：“I won't do it again.” Mia put the two newspaper reports side by side.\n本段對照：那晚，電視播出了新聞。畫面把火拍得很大，播報聲音讓人以為整間工廠差點燒光。李奧把電視關掉。「我媽媽在現場，」他說，「她說大家都安全離開，為什麼還要講得更嚴重？」露比低頭。她比誰都懂他的憤怒。「我以前也這樣做過，」她說，「不會再犯。」米婭把兩份新聞報導並排，比較短的那份反而提供更多事實。她把有用的部分抄到筆記本。接著父親從廚房喊：「韓先生明天要說話。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "That evening a story appeared on television. The picture of the fire was larger than life, and the voice on the TV made it sound as if the whole factory had almost burned. Leo turned it off. “My mother was there,” he said. “She told me everyone got away safely. Why make it sound worse?” Ruby looked down. She understood his anger more than anyone else. “I did that once,” she said. “I won't do it again.” Mia put the two newspaper reports side by side. The smaller report gave more facts. She copied the useful parts into her book. Then her father called from the kitchen. “Mr. Han will speak tomorrow.”",
+          "chinese": "那晚，電視播出了新聞。畫面把火拍得很大，播報聲音讓人以為整間工廠差點燒光。李奧把電視關掉。「我媽媽在現場，」他說，「她說大家都安全離開，為什麼還要講得更嚴重？」露比低頭。她比誰都懂他的憤怒。「我以前也這樣做過，」她說，「不會再犯。」米婭把兩份新聞報導並排，比較短的那份反而提供更多事實。她把有用的部分抄到筆記本。接著父親從廚房喊：「韓先生明天要說話。」",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 2,
+          "english": "Officer Su arrived with trained workers and kept people up the road. The fire team soon put the flames out. There was smoke and a bad smell, but no one needed to go to hospital. A man with a tea cup said the fire proved the factory was dangerous in every way. Leo heard him and grew angry. “One broken box doesn't mean every machine is bad,” he replied. “You don't know the cause yet.” Mia touched his arm. “You're correct. We should say only what we know.” Ruby wrote the facts in a notebook before she turned her camera back on. It felt slow, yet it felt better than her ghost film.",
+          "chinese": "蘇小姐與受過訓練的人員趕來，請大家退到路上安全處。消防人員很快把火撲滅。現場有煙和難聞的味道，但沒有人需要送醫。一個端茶杯的男子說，火災證明工廠各方面都危險。李奧聽見便生氣：「一個電箱壞掉，不代表所有機器都不好。你還不知道起火原因。」米婭碰了碰他的手臂：「你說得對。我們只能說知道的事。」露比在重新開機錄影前，先把事實寫進筆記本。這樣做很慢，卻比鬼影影片讓她安心。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

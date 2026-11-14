@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 24,
+  "chapterId": "import-rain-bell-24",
+  "sourceChapterSha256": "a876424fd68ee74f612f0b3802f7038f96c3191414633682f364b8f7e57ded61",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "學生與老師維持無線電、名冊和救援訊息接力，工作隊先檢查地面再分段開啟舊水路；尚未宣布警報解除。",
+    "previousChapterEndingEnglish": "Before the teams left, Mr. Han turned to Mia. “I never meant to harm the town,” he said. “But that isn't enough. I should have asked what the old rule meant.” Mia thought about her own mistake with the half picture. “I know how easy it is to see only what you want,” she replied. “Now please help them keep everyone safe.” “I will,” he said. There would be no sale that day, no celebration, and no easy ending. Outside, rain touched the dark windows. Officer Su spoke into the radio: “Use the high road. Check each turn. No one goes forward until the team says it's safe.”",
+    "nextChapterOpeningEnglish": "When the rain finally stopped, the town was tired, dirty, and still standing. The north gate was open, and the old water path was carrying water away from the houses. There had been damage near the lower road, but the school was safe and every person on the list had been found. Mia saw Officer Su in the town square and asked what would happen now. “First we check the roads and the buildings,” the officer said. “Then we make a new plan that people can trust.” Mia was glad no one called it a miracle. Many people had worked hard to make the ending possible. One man alone could never have done it."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The school became a center for messages and lists. Mia, Ruby, Leo, and Jay stayed inside with the teachers, keeping a copy of each date, item, and number sent by Officer Su. They used a cellphone when the line worked and a radio when it did not. A small store across the street gave the school dry food. A worker carried it over the high walk; the students did not cross the water. “We have much to do,” Mia said. “And we have not finished until every person is counted.” Jay wrote that sentence above the names on the wall. It made the long rainy night feel less empty.",
+        "zh": "學校成了訊息與名單中心。米婭、露比、李奧和杰跟老師一起待在室內，保存蘇小姐送來的每筆日期、物品與人數的副本。手機有訊號時用手機，沒有時就用無線電。街對面的小商店提供乾糧，工作人員沿高處步道送過來，學生們沒有涉水過街。「我們有好多事要做，」米婭說，「每個人都數清楚之前，就還沒完成。」杰把這句話寫在牆上的名單上方。漫長雨夜因此不再那麼空洞。",
+        "englishSha256": "f70e4cdee188e87bf5423efa0a813f0d246cd0382e62be7a7374bb9ee22ee026",
+        "chineseSha256": "e9e5066aa67a7033990c8e49cec85b32b2ae0547a2dcb8d37c77e87a3b33694c"
+      },
+      {
+        "number": 2,
+        "en": "Officer Su called from the high road. Trained workers had reached the area above the north gate, but the ground below it was still unsafe. They had to bring machines by another turn and check every step. Mr. Han was with them, helping make decisions about the factory tools. “Do not invite anyone to watch,” Officer Su told Mia. “Keep the children here. The road is closed.” Mia repeated the message to the teachers and wrote it on the public board. Ruby asked whether she could record a short update. “Yes,” Mia said, “but no live pictures of workers in danger. Give people the safety information first.”",
+        "zh": "蘇小姐從高處道路打電話來。受過訓練的工人已到達北閘門上方，但下方地面仍不安全。他們必須從另一個轉彎處運來機器，逐段檢查。韓先生也在現場，協助決定工廠工具如何使用。「別邀請任何人來看，」蘇小姐對米婭說，「讓孩子留在學校，路已封閉。」米婭把訊息傳給老師，寫在公共告示板上。露比問能不能錄一段簡短更新。「可以，」米婭說，「但不要直播在危險處工作的畫面。先提供安全資訊。」",
+        "englishSha256": "25b8ce78738be112b45810c7ea2c51b0d964d1b1dfc40e6aeb03337f6cd693ba",
+        "chineseSha256": "c10600e3e3983249670ed0d31907463960abd8e76e83ef3c2d6a1d22329310cd"
+      },
+      {
+        "number": 3,
+        "en": "Jay helped a little kid find his mother in another room. The boy carried a toy horse and wanted to give it to her as a present. “You can meet her after the nurse checks your name,” Jay said. In the kitchen volunteers made sandwiches, while a teacher made a game of asking each child one easy question. Ruby filmed the safe room, not the worried faces. She told families where the doors were, which radio station to listen to, and why the lower roads had been closed. She did not promise that everything would be fine. “We are safe here now,” she said. “Please stay until the town tells you otherwise.”",
+        "zh": "杰幫一個孩子到另一間教室找媽媽。男孩抱著玩具馬，想把它當禮物送她。「護士核對你的名字後，就能去見她。」杰說。廚房裡，志工忙著做三明治；老師則把詢問孩子簡單問題變成遊戲。露比拍安全教室，不拍擔心的臉。她告訴家庭們門的位置、該聽哪個廣播電臺，以及低處道路為何關閉。她沒有保證一切都沒事。「目前這裡安全，」她說，「請待到公所有新指示。」",
+        "englishSha256": "874c9e70626c7da9bc78dc51a83adc8f4bea5d979eada1b60e6ba5a550bc3145",
+        "chineseSha256": "846c2531bb9150377420b9a24147bd0997711087f81f4d8814d86af82013d24c"
+      },
+      {
+        "number": 4,
+        "en": "Hours passed. At last Officer Su reported that the teams had reached the gate and were working to open the water path. They had checked the ground, moved the tools into place, and made a plan for where the water would go. Nobody at the school could see them. Mia held the radio in both hands and waited for the next message. Her father sat across from her, the blue glove between them. “You don't have to solve every problem,” he said. “Sometimes the work is to make sure the next person has the right information.” Mia nodded. That was what their relay had done all night.",
+        "zh": "幾小時過去，蘇小姐終於報告隊伍已抵達閘門，正在開啟水路。他們檢查地面、移好工具，也規劃了水將流往哪裡。學校裡沒有人看得見現場。米婭雙手握著無線電，等待下則訊息。父親坐在對面，藍手套放在兩人之間。「妳不必解決每個問題，」他說，「有時工作只是確保下一個人拿到正確資訊。」米婭點頭。這就是他們整晚的接力。",
+        "englishSha256": "a974698c20254eca71bbad3a5911282dc58fc3ae8ce1c2498a100c490b214805",
+        "chineseSha256": "c30a8595860cf4339f3ae5f5f8488e69368ab108d1a633675022a139fa7cce37"
+      },
+      {
+        "number": 5,
+        "en": "When a worker asked for the number of people in the lower market area, Mia did not guess. She checked her list against Ruby's copy and then asked the teacher to check it too. The three lists agreed. “That number is ready,” she said into the radio. Across the room Jay was helping children make thank-you cards for the volunteers. He drew a picture of a bell on one card but did not write ghost above it. “What should it say?” a little boy asked. Jay thought for a moment. “It can say, Thank you for listening.” Mia heard him and smiled. The bell had taught all of them how much listening could matter.",
+        "zh": "工人詢問低處市場區域的人數時，米婭沒有猜。她先把自己的名單和露比的副本核對，再請老師檢查。三份數字一致。「這個人數可以回報，」她對著無線電說。教室另一端，杰正幫孩子製作給志工的感謝卡。他在其中一張畫上鐘，卻沒有再寫鬼。「那應該寫什麼？」小男孩問。杰想了一下：「可以寫，謝謝你願意傾聽。」米婭聽見，微微一笑。鐘教會了大家，聽清楚有多重要。",
+        "englishSha256": "c96a97759ba5956fc7a5da1c9644c772449a87a6e8e10861d586b00c7a85e9fe",
+        "chineseSha256": "32431088de44eb8b702d57d5bd095e70fc7bdf7878547b4208e60fa40820f6e0"
+      },
+      {
+        "number": 6,
+        "en": "The last bell sounded far away through the rain. It rang only once and then went silent. Everyone in the room looked toward the window. The first light of morning was coming over the roofs. Jay put down his pencil. “Does that mean the gate is open?” he asked. “We don't know yet,” Mia replied. She refused to turn hope into a fact. The radio remained quiet for another minute. Then Officer Su's voice came through: “The water route is opening. Teams are checking the level. Stay in the safe area until we give the all-clear.” Mia closed her eyes. The work was not over, but the town had a chance.",
+        "zh": "遠處最後一聲鐘響穿過雨幕，只響一下，便歸於寂靜。屋裡每個人都看向窗戶。清晨第一道光正越過屋頂。杰放下鉛筆：「這表示閘門開了嗎？」「還不知道。」米婭回答。她不肯把希望當成事實。無線電又靜了一分鐘，接著蘇小姐的聲音傳來：「水路正在開啟，隊伍正確認水位。請留在安全區，直到我們宣布解除警戒。」米婭閉上眼。工作尚未結束，但小鎮有機會了。",
+        "englishSha256": "44fd8742ed0993baf73dafe1d5a906d1a8855fae23ac33105c815f99ad10c642",
+        "chineseSha256": "7b08f7fe0015ed6581743203b4e698017031b6a77b1d47a505b440045a5a1e3d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 660,
+    "targets": [
+      {
+        "word": "across",
+        "meaning": "穿越",
+        "appearsInSource": true
+      },
+      {
+        "word": "away",
+        "meaning": "離開",
+        "appearsInSource": true
+      },
+      {
+        "word": "cellphone",
+        "meaning": "手機",
+        "appearsInSource": true
+      },
+      {
+        "word": "copy",
+        "meaning": "副本",
+        "appearsInSource": true
+      },
+      {
+        "word": "date",
+        "meaning": "日期",
+        "appearsInSource": true
+      },
+      {
+        "word": "finished",
+        "meaning": "完成",
+        "appearsInSource": true
+      },
+      {
+        "word": "game",
+        "meaning": "遊戲",
+        "appearsInSource": true
+      },
+      {
+        "word": "horse",
+        "meaning": "馬",
+        "appearsInSource": true
+      },
+      {
+        "word": "invite",
+        "meaning": "邀請",
+        "appearsInSource": true
+      },
+      {
+        "word": "item",
+        "meaning": "物品",
+        "appearsInSource": true
+      },
+      {
+        "word": "kid",
+        "meaning": "孩子",
+        "appearsInSource": true
+      },
+      {
+        "word": "kitchen",
+        "meaning": "廚房",
+        "appearsInSource": true
+      },
+      {
+        "word": "meet",
+        "meaning": "遇見",
+        "appearsInSource": true
+      },
+      {
+        "word": "much",
+        "meaning": "多",
+        "appearsInSource": true
+      },
+      {
+        "word": "number",
+        "meaning": "數字",
+        "appearsInSource": true
+      },
+      {
+        "word": "present",
+        "meaning": "禮物",
+        "appearsInSource": true
+      },
+      {
+        "word": "radio",
+        "meaning": "收音機",
+        "appearsInSource": true
+      },
+      {
+        "word": "rainy",
+        "meaning": "下雨的",
+        "appearsInSource": true
+      },
+      {
+        "word": "store",
+        "meaning": "商店",
+        "appearsInSource": true
+      },
+      {
+        "word": "yet",
+        "meaning": "還",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Relay in the Rain〉第 1 段的事件，哪個選項能正確補完整句？\nThe school became ____ for messages and lists.",
+      "options": [
+        "a list of questions",
+        "a step toward him",
+        "a center"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a center",
+      "existingAnswerExplanation": "原文證據：The school became a center for messages and lists.\n本段對照：學校成了訊息與名單中心。米婭、露比、李奧和杰跟老師一起待在室內，保存蘇小姐送來的每筆日期、物品與人數的副本。手機有訊號時用手機，沒有時就用無線電。街對面的小商店提供乾糧，工作人員沿高處步道送過來，學生們沒有涉水過街。「我們有好多事要做，」米婭說，「每個人都數清楚之前，就還沒完成。」杰把這句話寫在牆上的名單上方。漫長雨夜因此不再那麼空洞。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The school became a center for messages and lists. Mia, Ruby, Leo, and Jay stayed inside with the teachers, keeping a copy of each date, item, and number sent by Officer Su. They used a cellphone when the line worked and a radio when it did not. A small store across the street gave the school dry food. A worker carried it over the high walk; the students did not cross the water. “We have much to do,” Mia said. “And we have not finished until every person is counted.” Jay wrote that sentence above the names on the wall. It made the long rainy night feel less empty.",
+          "chinese": "學校成了訊息與名單中心。米婭、露比、李奧和杰跟老師一起待在室內，保存蘇小姐送來的每筆日期、物品與人數的副本。手機有訊號時用手機，沒有時就用無線電。街對面的小商店提供乾糧，工作人員沿高處步道送過來，學生們沒有涉水過街。「我們有好多事要做，」米婭說，「每個人都數清楚之前，就還沒完成。」杰把這句話寫在牆上的名單上方。漫長雨夜因此不再那麼空洞。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 4,
+          "english": "Hours passed. At last Officer Su reported that the teams had reached the gate and were working to open the water path. They had checked the ground, moved the tools into place, and made a plan for where the water would go. Nobody at the school could see them. Mia held the radio in both hands and waited for the next message. Her father sat across from her, the blue glove between them. “You don't have to solve every problem,” he said. “Sometimes the work is to make sure the next person has the right information.” Mia nodded. That was what their relay had done all night.",
+          "chinese": "幾小時過去，蘇小姐終於報告隊伍已抵達閘門，正在開啟水路。他們檢查地面、移好工具，也規劃了水將流往哪裡。學校裡沒有人看得見現場。米婭雙手握著無線電，等待下則訊息。父親坐在對面，藍手套放在兩人之間。「妳不必解決每個問題，」他說，「有時工作只是確保下一個人拿到正確資訊。」米婭點頭。這就是他們整晚的接力。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Relay in the Rain〉第 6 段的事件，哪個選項能正確補完整句？\nStay in the safe area until we give the all-clear.” Mia closed ____.",
+      "options": [
+        "her the little paper tiger",
+        "her shoulder",
+        "her eyes"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "her eyes",
+      "existingAnswerExplanation": "原文證據：Stay in the safe area until we give the all-clear.” Mia closed her eyes.\n本段對照：遠處最後一聲鐘響穿過雨幕，只響一下，便歸於寂靜。屋裡每個人都看向窗戶。清晨第一道光正越過屋頂。杰放下鉛筆：「這表示閘門開了嗎？」「還不知道。」米婭回答。她不肯把希望當成事實。無線電又靜了一分鐘，接著蘇小姐的聲音傳來：「水路正在開啟，隊伍正確認水位。請留在安全區，直到我們宣布解除警戒。」米婭閉上眼。工作尚未結束，但小鎮有機會了。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The last bell sounded far away through the rain. It rang only once and then went silent. Everyone in the room looked toward the window. The first light of morning was coming over the roofs. Jay put down his pencil. “Does that mean the gate is open?” he asked. “We don't know yet,” Mia replied. She refused to turn hope into a fact. The radio remained quiet for another minute. Then Officer Su's voice came through: “The water route is opening. Teams are checking the level. Stay in the safe area until we give the all-clear.” Mia closed her eyes. The work was not over, but the town had a chance.",
+          "chinese": "遠處最後一聲鐘響穿過雨幕，只響一下，便歸於寂靜。屋裡每個人都看向窗戶。清晨第一道光正越過屋頂。杰放下鉛筆：「這表示閘門開了嗎？」「還不知道。」米婭回答。她不肯把希望當成事實。無線電又靜了一分鐘，接著蘇小姐的聲音傳來：「水路正在開啟，隊伍正確認水位。請留在安全區，直到我們宣布解除警戒。」米婭閉上眼。工作尚未結束，但小鎮有機會了。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 3,
+          "english": "Jay helped a little kid find his mother in another room. The boy carried a toy horse and wanted to give it to her as a present. “You can meet her after the nurse checks your name,” Jay said. In the kitchen volunteers made sandwiches, while a teacher made a game of asking each child one easy question. Ruby filmed the safe room, not the worried faces. She told families where the doors were, which radio station to listen to, and why the lower roads had been closed. She did not promise that everything would be fine. “We are safe here now,” she said. “Please stay until the town tells you otherwise.”",
+          "chinese": "杰幫一個孩子到另一間教室找媽媽。男孩抱著玩具馬，想把它當禮物送她。「護士核對你的名字後，就能去見她。」杰說。廚房裡，志工忙著做三明治；老師則把詢問孩子簡單問題變成遊戲。露比拍安全教室，不拍擔心的臉。她告訴家庭們門的位置、該聽哪個廣播電臺，以及低處道路為何關閉。她沒有保證一切都沒事。「目前這裡安全，」她說，「請待到公所有新指示。」",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

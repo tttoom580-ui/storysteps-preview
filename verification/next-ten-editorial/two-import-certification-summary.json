@@ -1,0 +1,16 @@
+{
+  "reviewDate": "2026-11-14",
+  "summary": {
+    "booksApproved": 2,
+    "chaptersApproved": 50,
+    "bilingualParagraphsReviewed": 321,
+    "quizAnswersReviewed": 100,
+    "targetVocabularyItemsChecked": 1000,
+    "method": "GPT-6 AI editor, not independent human proofreader",
+    "receiptRoot": "verification/next-ten-editorial/receipts"
+  },
+  "books": [
+    "import-rain-bell",
+    "import-two-rivers"
+  ]
+}

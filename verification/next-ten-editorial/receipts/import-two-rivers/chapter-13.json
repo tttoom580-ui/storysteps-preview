@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 13,
+  "chapterId": "import-two-rivers-13",
+  "sourceChapterSha256": "2ecd1387c24342600564b6c7c0862ae084825abfb9c8a5c8d515827df8138f48",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "小溪石粉污染的初步大學報告證實水不安全，卻不證明有人故意投毒；調查礦場廢料與水道相通。",
+    "previousChapterEndingEnglish": "As evening fell, the old clerk showed them the last page of a faded map. It was marked with the name Quiet River and a small warning: OPEN ONLY WITH TWO GUARDIANS AND PUBLIC NOTICE. The words matched the pair of marks on the boys' hands. Yu could hardly speak. “It says nothing about blood or family,” he said at last. “It asks for two people and witnesses.” Mei nodded. “Then the marks may show a duty, not a right to rule.” Outside the office, someone had painted a fresh warning on the wall: STOP DIGGING, OR THE CITY WILL DRY.",
+    "nextChapterOpeningEnglish": "The bell drew Yu and Qi back to the academy, where a new activity was being held in the old arts hall. Students had built a model dragon from paper, wood, and silver paint. A brief notice claimed that the dragon protected the city's spirit power. Yu wondered why such an ancient story had become the school's main lesson. He examined a print of the design and found a narrow edge missing from the page. “Someone changed this picture,” he told Qi. “The dragon should have two tails, not one.” Qi remembered the stone beside the small stream."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next morning, a sailor arrived at the capital carrying a bottle of water from the lower stream. His motorcycle stood outside Mei's office, covered in soil and rain marks. “The fish have begun to die,” he said. “People say a thief has poured poison into the water.” Mei did not conclude that the story was true. She separated the sample into clean containers and sent it to the university lab. “We need technology and careful tests,” she told Yu. “A scary story may spread faster than evidence, but evidence gives us a way to act.” Qi watched the water turn cloudy in the bottle.",
+        "zh": "隔天早晨，一位船員帶著下游小溪的瓶裝水來首都。他的機車停在梅老師辦公室外，車身沾了土和雨痕。「魚開始死了，」他說，「大家說有小偷往水裡倒毒。」梅老師沒有立刻相信。她把水樣分到乾淨容器，送去大學實驗室。「我們需要科技和仔細的測試，」她對沈雨說，「恐怖故事傳得可能比證據快，但證據讓我們知道怎麼做。」韓祈看著瓶中的水逐漸混濁。",
+        "englishSha256": "ab3f5b8f7ab7d1563dbb69042402c0bed297c898ca816256f286495a6b11061f",
+        "chineseSha256": "3174936395b60591645c3785bc38f95889affd642303afdb6ef8a95881f5c134"
+      },
+      {
+        "number": 2,
+        "en": "Yu and Qi traveled to the stream with the sailor. On the way, they passed an old cartoon painted on a wall: a dragon with two heads, one drinking from heaven and one drinking from earth. The picture was ugly and funny at the same time. “Maybe people thought the river was a dragon,” Yu said. Qi considered the idea. “Or perhaps the story was made to explain how two channels work.” He took a brief view of the mountains from a high path. The larger river moved quickly toward the city; the smaller bed was hardly more than a line of wet stones.",
+        "zh": "沈雨、韓祈跟船員前往小溪。路上牆壁畫著一幅舊卡通：雙頭龍，一頭飲天水，一頭飲地水。畫得既難看又有趣。「也許人們把河想成龍，」沈雨說。韓祈思考後回答：「也可能故事是用來解釋兩條水道如何運作。」他從高路上望向山谷。大河快速流向城市，小河床卻只剩一道濕石頭。",
+        "englishSha256": "05997f06006b245141931ee27d8f2883e0d8ccc7f164174a2213ea41df586007",
+        "chineseSha256": "f94c0ec62c360b1d7df144bbae71dd52090e32c0154aa16b47ea830efd090ba6"
+      },
+      {
+        "number": 3,
+        "en": "At the riverbank, a family had placed signs asking people not to drink from the stream. A child with the flu lay sleeping inside their house; she had not touched the river water. Mei had already warned the village to separate ordinary illness from possible water problems. Yu carefully examined a hole near the bank and saw a gray powder lower than the top soil. “It looks like the dust at Aunt Lin's grove,” he said. Qi nodded. “Then the mine and the stream may share a path.” They photographed the place and did not disturb the powder.",
+        "zh": "河岸旁，一家人在立告示牌，請人不要喝小溪的水。屋裡有個得流感的小女孩睡著，她根本沒有碰河水。梅老師早提醒村民，要把普通疾病和可能的水質問題分開。沈雨仔細查看河岸一個洞，看到表土下方有灰色粉末。「像林姨果園裡的粉塵。」他說。韓祈點頭：「礦場和這條溪可能相通。」兩人拍下現場，沒有碰粉末。",
+        "englishSha256": "160662bc7a58bc6b3e4c26f536e63d5326f6271da141711d58386fa739075c0d",
+        "chineseSha256": "139e4b4840818b863d824123b049818739c0926f6bc22e571143b2ff8ffd6d88"
+      },
+      {
+        "number": 4,
+        "en": "A man from the Mountain Society came to speak with them. “We have environmental rules,” he said. “Do not blame the mine without proof.” Yu agreed to that reasonable request, but asked whether the company would release its water records. The man looked away. “I am not allowed to discuss them.” Qi answered without anger, “Then please tell us who can.” The man provided a name, and Yu wrote it down. When they walked on, the sailor whispered that the man seemed frightened. “Perhaps,” Yu said, “but fear can have many causes. We must not invent his.”",
+        "zh": "一名山盟人員前來交談。「我們有環境規則，」他說，「沒證據不要怪礦場。」沈雨同意這合理的要求，卻問公司是否願意公開用水紀錄。男人移開目光。「我不能談那些。」韓祈沒有生氣：「那請告訴我們誰能回答。」男人說了一個名字，沈雨記下。離開後，船員低聲說那人似乎很害怕。「也許吧，」沈雨說，「但恐懼有很多原因，不能替他編造。」",
+        "englishSha256": "32a6e1b2ff100f9874f3e76786a758cfab72901dd9ca5ca6f6498e84813a4c4b",
+        "chineseSha256": "46ea3f1161223b4393e8b0951bfbcf3257fd0eb5173e0361ef2633bd69be839e"
+      },
+      {
+        "number": 5,
+        "en": "At the second bridge, Qi noticed a stone carved with a view of the same two-headed dragon. A deep line divided its body into separate halves. Under one head someone had written FOR THE CITY; under the other, FOR THE FARMS. “These words may have been added later,” Qi said. Yu took a photograph and compared the stone with the map they had copied. The shapes matched. “I think the old art is actually a guide,” he said. “If the river divides here, closing this side would send the water to the city.” He looked at the dry fields and felt cold.",
+        "zh": "第二座橋旁，韓祈看見一塊刻著雙頭龍的石頭。深深的線將龍身分成兩半。一頭下寫「供城市」，另一頭下寫「供農田」。「這些字可能是後加的。」韓祈說。沈雨拍照，把石雕和抄下的地圖比較，形狀完全吻合。「古圖其實是指引。」他說，「河若在這裡分開，關閉這一側就會把水送去城市。」他望向乾田，心頭發冷。",
+        "englishSha256": "df0617564d4c0bcfdc5325e95ac226f4a2124ca7f176a8dd804d69b631ad872e",
+        "chineseSha256": "97d1b79ac41f58430269d58852de68e57455f4140a66a8c6a408dca9904c7ff4"
+      },
+      {
+        "number": 6,
+        "en": "A woman at the riverside said her son had a stomachache after drinking from their well. Mei arranged for a health worker to examine him, while also testing the well water. “Anyway, we should keep these as two separate questions,” she told Yu. “We need consideration for the child's health, and we need facts about the water. One story does not prove the other.” Yu wrote both questions down without joining them into a claim.",
+        "zh": "河邊一位婦人說兒子喝了井水後肚子痛。梅老師安排醫護人員檢查孩子，也檢驗井水。「總之，這應該先分成兩個問題，」她對沈雨說，「孩子的健康需要周到考量，水的情況需要事實。不能用其中一件事證明另一件。」沈雨把兩個問題分別記下，沒有急著把它們合成指控。",
+        "englishSha256": "936c802de46547156b213d9eb68386176baa26ab59f19c19e8342a3ae9cedf3b",
+        "chineseSha256": "65a64ddb17c5c69cdc6b0157cb4ce6e4d4f1bbd5d19de53699a92a4d5fbb59c1"
+      },
+      {
+        "number": 7,
+        "en": "The laboratory sent its first report by evening. The water was unsafe, but the dangerous material matched stone dust, not a poison poured by a stranger. The mine had to answer questions about its waste. Yu was relieved that they had not accused a thief, yet he felt no joy. The report proved harm but did not explain who had ordered the river changes. Qi held out a hand to help him over the last rocky step. “We found one piece of the truth,” Qi said. “Tomorrow we ask who moved the gate.” At that moment, the northern tower's bell rang though no storm had begun.",
+        "zh": "傍晚實驗室送來初步報告。溪水不安全，危險物質符合石粉污染，不是陌生人倒入的毒液。礦場必須回答廢料問題。沈雨慶幸沒有隨便指控小偷，卻高興不起來。報告證明有傷害，仍沒解釋誰下令改水道。韓祈伸手扶他跨過最後一段岩石路。「我們找到了真相的一塊，」韓祈說，「明天問誰移動了閘門。」就在此時，明明沒有暴風雨，北塔的鐘卻響了。",
+        "englishSha256": "f61796bb7da1a22d07539a7950af4a128d44a34eabaf57f532e409964653bd48",
+        "chineseSha256": "49288e48913a3295fc4f5010c1439b1a6ee8c628e4e160b5c73158b01af78b86"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 687,
+    "targets": [
+      {
+        "word": "anyway",
+        "meaning": "無論如何",
+        "appearsInSource": true
+      },
+      {
+        "word": "cartoon",
+        "meaning": "卡通",
+        "appearsInSource": true
+      },
+      {
+        "word": "conclude",
+        "meaning": "下結論",
+        "appearsInSource": true
+      },
+      {
+        "word": "considered",
+        "meaning": "考慮",
+        "appearsInSource": true
+      },
+      {
+        "word": "consideration",
+        "meaning": "考量",
+        "appearsInSource": true
+      },
+      {
+        "word": "environmental",
+        "meaning": "環境的",
+        "appearsInSource": true
+      },
+      {
+        "word": "flu",
+        "meaning": "流感",
+        "appearsInSource": true
+      },
+      {
+        "word": "heaven",
+        "meaning": "天堂",
+        "appearsInSource": true
+      },
+      {
+        "word": "hole",
+        "meaning": "洞",
+        "appearsInSource": true
+      },
+      {
+        "word": "lower",
+        "meaning": "更低的",
+        "appearsInSource": true
+      },
+      {
+        "word": "motorcycle",
+        "meaning": "機車",
+        "appearsInSource": true
+      },
+      {
+        "word": "sailor",
+        "meaning": "船員",
+        "appearsInSource": true
+      },
+      {
+        "word": "separated",
+        "meaning": "分開的",
+        "appearsInSource": true
+      },
+      {
+        "word": "soil",
+        "meaning": "土壤",
+        "appearsInSource": true
+      },
+      {
+        "word": "stomachache",
+        "meaning": "胃痛",
+        "appearsInSource": true
+      },
+      {
+        "word": "stream",
+        "meaning": "小溪",
+        "appearsInSource": true
+      },
+      {
+        "word": "technology",
+        "meaning": "科技",
+        "appearsInSource": true
+      },
+      {
+        "word": "thief",
+        "meaning": "小偷",
+        "appearsInSource": true
+      },
+      {
+        "word": "ugly",
+        "meaning": "難看的",
+        "appearsInSource": true
+      },
+      {
+        "word": "view",
+        "meaning": "景色",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈Poison in the Small Stream〉第 1 段的事件，哪個選項能正確補完整句？\nThe next morning, a sailor arrived at the capital carrying ____ from the lower stream.",
+      "options": [
+        "a bottle of water",
+        "a tear",
+        "a message"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a bottle of water",
+      "existingAnswerExplanation": "原文證據：The next morning, a sailor arrived at the capital carrying a bottle of water from the lower stream.\n本段對照：隔天早晨，一位船員帶著下游小溪的瓶裝水來首都。他的機車停在梅老師辦公室外，車身沾了土和雨痕。「魚開始死了，」他說，「大家說有小偷往水裡倒毒。」梅老師沒有立刻相信。她把水樣分到乾淨容器，送去大學實驗室。「我們需要科技和仔細的測試，」她對沈雨說，「恐怖故事傳得可能比證據快，但證據讓我們知道怎麼做。」韓祈看著瓶中的水逐漸混濁。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The next morning, a sailor arrived at the capital carrying a bottle of water from the lower stream. His motorcycle stood outside Mei's office, covered in soil and rain marks. “The fish have begun to die,” he said. “People say a thief has poured poison into the water.” Mei did not conclude that the story was true. She separated the sample into clean containers and sent it to the university lab. “We need technology and careful tests,” she told Yu. “A scary story may spread faster than evidence, but evidence gives us a way to act.” Qi watched the water turn cloudy in the bottle.",
+          "chinese": "隔天早晨，一位船員帶著下游小溪的瓶裝水來首都。他的機車停在梅老師辦公室外，車身沾了土和雨痕。「魚開始死了，」他說，「大家說有小偷往水裡倒毒。」梅老師沒有立刻相信。她把水樣分到乾淨容器，送去大學實驗室。「我們需要科技和仔細的測試，」她對沈雨說，「恐怖故事傳得可能比證據快，但證據讓我們知道怎麼做。」韓祈看著瓶中的水逐漸混濁。",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 3,
+          "english": "At the riverbank, a family had placed signs asking people not to drink from the stream. A child with the flu lay sleeping inside their house; she had not touched the river water. Mei had already warned the village to separate ordinary illness from possible water problems. Yu carefully examined a hole near the bank and saw a gray powder lower than the top soil. “It looks like the dust at Aunt Lin's grove,” he said. Qi nodded. “Then the mine and the stream may share a path.” They photographed the place and did not disturb the powder.",
+          "chinese": "河岸旁，一家人在立告示牌，請人不要喝小溪的水。屋裡有個得流感的小女孩睡著，她根本沒有碰河水。梅老師早提醒村民，要把普通疾病和可能的水質問題分開。沈雨仔細查看河岸一個洞，看到表土下方有灰色粉末。「像林姨果園裡的粉塵。」他說。韓祈點頭：「礦場和這條溪可能相通。」兩人拍下現場，沒有碰粉末。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈Poison in the Small Stream〉第 7 段的事件，哪個選項能正確補完整句？\nThe laboratory sent ____.",
+      "options": [
+        "its wet mark instead of the crowd",
+        "its yearly selection ceremony",
+        "its first report by evening"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "its first report by evening",
+      "existingAnswerExplanation": "原文證據：The laboratory sent its first report by evening.\n本段對照：傍晚實驗室送來初步報告。溪水不安全，危險物質符合石粉污染，不是陌生人倒入的毒液。礦場必須回答廢料問題。沈雨慶幸沒有隨便指控小偷，卻高興不起來。報告證明有傷害，仍沒解釋誰下令改水道。韓祈伸手扶他跨過最後一段岩石路。「我們找到了真相的一塊，」韓祈說，「明天問誰移動了閘門。」就在此時，明明沒有暴風雨，北塔的鐘卻響了。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "The laboratory sent its first report by evening. The water was unsafe, but the dangerous material matched stone dust, not a poison poured by a stranger. The mine had to answer questions about its waste. Yu was relieved that they had not accused a thief, yet he felt no joy. The report proved harm but did not explain who had ordered the river changes. Qi held out a hand to help him over the last rocky step. “We found one piece of the truth,” Qi said. “Tomorrow we ask who moved the gate.” At that moment, the northern tower's bell rang though no storm had begun.",
+          "chinese": "傍晚實驗室送來初步報告。溪水不安全，危險物質符合石粉污染，不是陌生人倒入的毒液。礦場必須回答廢料問題。沈雨慶幸沒有隨便指控小偷，卻高興不起來。報告證明有傷害，仍沒解釋誰下令改水道。韓祈伸手扶他跨過最後一段岩石路。「我們找到了真相的一塊，」韓祈說，「明天問誰移動了閘門。」就在此時，明明沒有暴風雨，北塔的鐘卻響了。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 1,
+          "english": "The next morning, a sailor arrived at the capital carrying a bottle of water from the lower stream. His motorcycle stood outside Mei's office, covered in soil and rain marks. “The fish have begun to die,” he said. “People say a thief has poured poison into the water.” Mei did not conclude that the story was true. She separated the sample into clean containers and sent it to the university lab. “We need technology and careful tests,” she told Yu. “A scary story may spread faster than evidence, but evidence gives us a way to act.” Qi watched the water turn cloudy in the bottle.",
+          "chinese": "隔天早晨，一位船員帶著下游小溪的瓶裝水來首都。他的機車停在梅老師辦公室外，車身沾了土和雨痕。「魚開始死了，」他說，「大家說有小偷往水裡倒毒。」梅老師沒有立刻相信。她把水樣分到乾淨容器，送去大學實驗室。「我們需要科技和仔細的測試，」她對沈雨說，「恐怖故事傳得可能比證據快，但證據讓我們知道怎麼做。」韓祈看著瓶中的水逐漸混濁。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

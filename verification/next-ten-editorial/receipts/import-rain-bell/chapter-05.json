@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 5,
+  "chapterId": "import-rain-bell-5",
+  "sourceChapterSha256": "10c38aa76e923e0958092964737af1933afea2f384e316f4dd6f0675ba4b1a50",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "河屋院裡發現舊箱與部分水路圖，藍印記聯繫舊警鐘機關，角色沒有擅自打開不安全建築。",
+    "previousChapterEndingEnglish": "After the meeting Leo walked beside Mia without speaking. She felt thankful that he had not turned away. “I thought you were against my mother,” he said at last. “I'm not,” Mia replied. “I want her to keep working, and I want the town to stay safe.” Leo gave a small smile. “Then we need more than a photo.” They watched the workers put the board inside. The cheap promise of a new square looked good on paper, but no one had explained where the water would go. At the office door, a notice said that only written records could change the sale decision. They had twenty days, and the paper they needed was still missing.",
+    "nextChapterOpeningEnglish": "Mia's uncle asked her to bring old photographs to a family friend downriver. They would travel by boat, then drive the last part of the way. “We have to arrive before lunch,” he told her. “The river can be slow on weekends.” Mia brought the small metal box, hoping he might know the mark drawn on it. On the pier a lion smiled down from a painted shop sign. Inside, the shop sold coffee and sandwiches. “That lion looks stupid,” Jay said, making Uncle Lin laugh. Mia said nothing. She had spent the night looking at the wave shape on the box and remembering her father's face."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Although the meeting had been hard, Grandma Chen asked the children to help with a small race along the river on Saturday. During the event, at least one adult would stand by each crossing. Money from the event would pay for safe paths and fresh plants near the old house. Jay wanted to win the short race, but his real job was to put signs beside the road. He had also made paper snow for a school play. When he opened his bag, the white pieces flew everywhere. “Sorry!” he cried. A piece landed in the flower bed beside an old sign. Grandma Chen went very still. “That sign was here twelve years ago,” she said. “I remember its height.”",
+        "zh": "雖然說明會讓人難受，陳奶奶仍請孩子們在星期六幫忙河岸小型路跑。活動期間，每個路口至少會有一位大人守著。活動所得將用來修整舊屋旁的安全步道和種植新花草。杰想贏得短程比賽，但他真正的工作是在路旁放指示牌。他還替學校表演做了紙雪花。打開袋子時，白紙片飛得到處都是。「對不起！」他喊。一片落在舊牌旁的花圃裡。陳奶奶突然一動不動。「這個牌子十二年前就在這裡，」她說，「我記得它的高度。」",
+        "englishSha256": "09d1332a6afc98961ad08f9085b342781ddd9ed5a3c88eb1e8ff68dd15d23611",
+        "chineseSha256": "0a74b3713b85d85ccdb2d4beb96a8108696c8276556a11f8e2c8077e6b7768be"
+      },
+      {
+        "number": 2,
+        "en": "A frog jumped out from the wet leaves. Jay laughed, then stopped when he saw Grandma Chen's face. She pointed at the base of the sign. “There used to be a small metal box near that post. Your grandfather put something there after the last great rain.” Mia felt her neck grow warm. “May we look?” she asked. Grandma Chen called Ms. Su, who found the town gardener and gave them permission to move only the top soil. “No holes near the old water path,” the officer warned. Leo marked a safe square. Jay began to dig carefully with a little garden tool, not a long shovel.",
+        "zh": "一隻青蛙從潮濕的葉子間跳出。杰笑了一聲，看見陳奶奶的神情又停住。她指向牌子底部：「以前那根柱子旁有個小鐵盒。上次大雨後，你們的爺爺在那裡放了東西。」米婭覺得脖子都熱了。「我們可以找嗎？」她問。陳奶奶找來蘇小姐，蘇小姐請鎮上的園丁到場，只准大家翻動表層泥土。「不能靠近舊水路挖洞。」她提醒。李奧標出安全範圍，杰用小園藝工具小心挖掘，而不是大鏟子。",
+        "englishSha256": "bc5d6d05baa7a1675e7655d0a379272e5dd9790a9233af5193ab967b35154dc1",
+        "chineseSha256": "a26c5bd81c3c34d203481fa89f08df6e41692bc499b26eebedc432afeffe8220"
+      },
+      {
+        "number": 3,
+        "en": "They found the box before a minute had passed. Inside, wrapped in dry cloth, lay half of a hand-drawn map and a list of dates. The paper showed a path that looked like the one under the River House. At one end someone had drawn a hen beside a bean plant. “Why would a water map have a chicken on it?” Ruby asked. Grandma Chen gave a small, sad smile. “My husband used pictures so children could find places too. He liked making hard things easy.” Mia looked closer. A line went from the garden to the bridge and then toward the north gate.",
+        "zh": "不到一分鐘，他們就找到鐵盒。裡面用乾布包著半張手繪地圖和一串日期。圖上的路線很像河屋下方的水道。一端有人畫了一隻母雞和一株豆苗。「水路圖上為什麼要畫雞？」露比問。陳奶奶苦笑了一下：「我丈夫喜歡用圖畫，讓孩子也能找到地方。他喜歡把難事變簡單。」米婭仔細看，線條從花園通向橋，再往北閘門延伸。",
+        "englishSha256": "8aebf4950338089d83a816737c8f250add966df3ea07c213d0071b4f568002a4",
+        "chineseSha256": "6c9d82083b237ff5899b6c96194b5e6b6ea56a90224bd7295917539cafb8112c"
+      },
+      {
+        "number": 4,
+        "en": "The dates were long ago, but one was written in dark blue. Mia had heard it before: the day her father lost his old job after the great storm. She did not know the full story. At home she had only heard that people had been angry and that her father had tried his best. “Was he there?” she asked Grandma Chen. “Yes,” Grandma answered. “He worked on the water gate.” “Did he make a mistake?” Grandma Chen did not answer at once. “People were scared,” she said finally. “When people are scared, they sometimes say more than they know.”",
+        "zh": "日期已經是很久以前的事，其中一天卻用深藍色寫得特別清楚。米婭聽過那個日子：十二年前大風雨後，父親失去舊工作的那一天。她不知道完整經過，只聽家裡說大家當時很生氣，而父親已盡力。「他當時在場嗎？」米婭問。陳奶奶回答：「在。他負責水閘門。」「他犯錯了嗎？」奶奶沒有立刻回答。「大家很害怕，」她終於說，「人在害怕時，有時會說出超過自己知道的事。」",
+        "englishSha256": "2bd0e1b26478e08062e0d2658d4543045d791ddfeef8b7eacd75d5e0d325d44f",
+        "chineseSha256": "13699a1672ab01f3f83352d8ff2571b2fb1c5971837893ade64391ce66a4acbb"
+      },
+      {
+        "number": 5,
+        "en": "As the runners began to arrive, Ms. Su put the paper in a clear bag so it would be safe. She asked Mia to make a copy before she took it to the office. “We can use this as a clue,” she said, “but it is not the whole map.” Jay felt sorry that he had thrown paper snow near the old sign. “If I hadn't, we would never have found it,” he said. “That doesn't mean throwing things is good,” Ruby replied. They helped clean the path before the race began. Mia watched people running past the river and wondered how much of the town's history was lying just below their feet.",
+        "zh": "參加路跑的人開始抵達時，蘇小姐把紙放進透明袋保護，請米婭影印後再送到公所。「它可以是線索，」她說，「但不是完整地圖。」杰為自己把紙雪花亂撒而抱歉。「可要不是這樣，我們就找不到啊，」他說。露比回他：「這不表示亂丟東西是對的。」比賽開始前，他們幫忙清理步道。米婭看著跑者經過河邊，想著鎮上的歷史究竟有多少還藏在大家腳下。",
+        "englishSha256": "c3e384715650cbb08346822fa606057eb320e668bacf4f0ed371fb1d381f9756",
+        "chineseSha256": "532ac81510f309ab3d4b0b554b2ae38c299207456ffcc26c2d18f5c1772af5d7"
+      },
+      {
+        "number": 6,
+        "en": "After the race Mia sat with her father for dinner. He asked whether the day had gone well. “We found an old map,” she said. He stopped eating. “Where?” She told him about the flower bed, the box, and the blue date. His face changed. “Please put it away,” he said. “And promise me you will stay out of the old water way.” “I already promised that,” Mia replied. “But why is that date on the map?” Her father took his plate to the kitchen and stood with his back to her. “Because it was the day I learned that a deal on paper can be very different from real life.” He said nothing more.",
+        "zh": "路跑結束後，米婭和父親一起吃晚餐。父親問今天順不順利。「我們找到一張舊地圖，」她說。父親停下筷子：「在哪裡？」她說出花圃、鐵盒和藍色日期。父親的臉色變了。「請把它收好，」他說，「還要答應我不要進舊水道。」「我早就答應了，」米婭回答，「可是地圖上為什麼寫那天？」父親把盤子拿去廚房，背對著她站著。「因為那一天，我明白紙上的約定和真實生活可能完全不同。」他沒有再說話。",
+        "englishSha256": "e9f4922bab0e47aa427456248f94abc5c3e3eee32cd2b2976679878a7d26f33c",
+        "chineseSha256": "a5ee42a155e4d383d4ae4cff49e3e118c904e7d2049181099e35430db559f824"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 659,
+    "targets": [
+      {
+        "word": "although",
+        "meaning": "雖然",
+        "appearsInSource": true
+      },
+      {
+        "word": "bean",
+        "meaning": "豆子",
+        "appearsInSource": true
+      },
+      {
+        "word": "deal",
+        "meaning": "約定",
+        "appearsInSource": true
+      },
+      {
+        "word": "dig",
+        "meaning": "挖掘",
+        "appearsInSource": true
+      },
+      {
+        "word": "during",
+        "meaning": "在……期間",
+        "appearsInSource": true
+      },
+      {
+        "word": "frog",
+        "meaning": "青蛙",
+        "appearsInSource": true
+      },
+      {
+        "word": "height",
+        "meaning": "高度",
+        "appearsInSource": true
+      },
+      {
+        "word": "hen",
+        "meaning": "母雞",
+        "appearsInSource": true
+      },
+      {
+        "word": "least",
+        "meaning": "至少",
+        "appearsInSource": true
+      },
+      {
+        "word": "long",
+        "meaning": "長的",
+        "appearsInSource": true
+      },
+      {
+        "word": "minute",
+        "meaning": "分鐘",
+        "appearsInSource": true
+      },
+      {
+        "word": "ms.",
+        "meaning": "女士",
+        "appearsInSource": true
+      },
+      {
+        "word": "neck",
+        "meaning": "脖子",
+        "appearsInSource": true
+      },
+      {
+        "word": "pointed",
+        "meaning": "指向",
+        "appearsInSource": true
+      },
+      {
+        "word": "put",
+        "meaning": "放置",
+        "appearsInSource": true
+      },
+      {
+        "word": "race",
+        "meaning": "比賽",
+        "appearsInSource": true
+      },
+      {
+        "word": "safe",
+        "meaning": "安全的",
+        "appearsInSource": true
+      },
+      {
+        "word": "snow",
+        "meaning": "雪",
+        "appearsInSource": true
+      },
+      {
+        "word": "sorry",
+        "meaning": "抱歉的",
+        "appearsInSource": true
+      },
+      {
+        "word": "win",
+        "meaning": "贏",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Box in the Flower Bed〉第 1 段的事件，哪個選項能正確補完整句？\nWhen he opened ____, the white pieces flew everywhere.",
+      "options": [
+        "his bag",
+        "his old blue glove",
+        "his arm"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "his bag",
+      "existingAnswerExplanation": "原文證據：When he opened his bag, the white pieces flew everywhere.\n本段對照：雖然說明會讓人難受，陳奶奶仍請孩子們在星期六幫忙河岸小型路跑。活動期間，每個路口至少會有一位大人守著。活動所得將用來修整舊屋旁的安全步道和種植新花草。杰想贏得短程比賽，但他真正的工作是在路旁放指示牌。他還替學校表演做了紙雪花。打開袋子時，白紙片飛得到處都是。「對不起！」他喊。一片落在舊牌旁的花圃裡。陳奶奶突然一動不動。「這個牌子十二年前就在這裡，」她說，「我記得它的高度。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Although the meeting had been hard, Grandma Chen asked the children to help with a small race along the river on Saturday. During the event, at least one adult would stand by each crossing. Money from the event would pay for safe paths and fresh plants near the old house. Jay wanted to win the short race, but his real job was to put signs beside the road. He had also made paper snow for a school play. When he opened his bag, the white pieces flew everywhere. “Sorry!” he cried. A piece landed in the flower bed beside an old sign. Grandma Chen went very still. “That sign was here twelve years ago,” she said. “I remember its height.”",
+          "chinese": "雖然說明會讓人難受，陳奶奶仍請孩子們在星期六幫忙河岸小型路跑。活動期間，每個路口至少會有一位大人守著。活動所得將用來修整舊屋旁的安全步道和種植新花草。杰想贏得短程比賽，但他真正的工作是在路旁放指示牌。他還替學校表演做了紙雪花。打開袋子時，白紙片飛得到處都是。「對不起！」他喊。一片落在舊牌旁的花圃裡。陳奶奶突然一動不動。「這個牌子十二年前就在這裡，」她說，「我記得它的高度。」",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 6,
+          "english": "After the race Mia sat with her father for dinner. He asked whether the day had gone well. “We found an old map,” she said. He stopped eating. “Where?” She told him about the flower bed, the box, and the blue date. His face changed. “Please put it away,” he said. “And promise me you will stay out of the old water way.” “I already promised that,” Mia replied. “But why is that date on the map?” Her father took his plate to the kitchen and stood with his back to her. “Because it was the day I learned that a deal on paper can be very different from real life.” He said nothing more.",
+          "chinese": "路跑結束後，米婭和父親一起吃晚餐。父親問今天順不順利。「我們找到一張舊地圖，」她說。父親停下筷子：「在哪裡？」她說出花圃、鐵盒和藍色日期。父親的臉色變了。「請把它收好，」他說，「還要答應我不要進舊水道。」「我早就答應了，」米婭回答，「可是地圖上為什麼寫那天？」父親把盤子拿去廚房，背對著她站著。「因為那一天，我明白紙上的約定和真實生活可能完全不同。」他沒有再說話。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Box in the Flower Bed〉第 6 段的事件，哪個選項能正確補完整句？\n“But why is that date on the map?” Her father took ____ to the kitchen and stood with his back to her.",
+      "options": [
+        "his plate",
+        "his own name",
+        "his arm"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "his plate",
+      "existingAnswerExplanation": "原文證據：“But why is that date on the map?” Her father took his plate to the kitchen and stood with his back to her.\n本段對照：路跑結束後，米婭和父親一起吃晚餐。父親問今天順不順利。「我們找到一張舊地圖，」她說。父親停下筷子：「在哪裡？」她說出花圃、鐵盒和藍色日期。父親的臉色變了。「請把它收好，」他說，「還要答應我不要進舊水道。」「我早就答應了，」米婭回答，「可是地圖上為什麼寫那天？」父親把盤子拿去廚房，背對著她站著。「因為那一天，我明白紙上的約定和真實生活可能完全不同。」他沒有再說話。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "After the race Mia sat with her father for dinner. He asked whether the day had gone well. “We found an old map,” she said. He stopped eating. “Where?” She told him about the flower bed, the box, and the blue date. His face changed. “Please put it away,” he said. “And promise me you will stay out of the old water way.” “I already promised that,” Mia replied. “But why is that date on the map?” Her father took his plate to the kitchen and stood with his back to her. “Because it was the day I learned that a deal on paper can be very different from real life.” He said nothing more.",
+          "chinese": "路跑結束後，米婭和父親一起吃晚餐。父親問今天順不順利。「我們找到一張舊地圖，」她說。父親停下筷子：「在哪裡？」她說出花圃、鐵盒和藍色日期。父親的臉色變了。「請把它收好，」他說，「還要答應我不要進舊水道。」「我早就答應了，」米婭回答，「可是地圖上為什麼寫那天？」父親把盤子拿去廚房，背對著她站著。「因為那一天，我明白紙上的約定和真實生活可能完全不同。」他沒有再說話。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 1,
+          "english": "Although the meeting had been hard, Grandma Chen asked the children to help with a small race along the river on Saturday. During the event, at least one adult would stand by each crossing. Money from the event would pay for safe paths and fresh plants near the old house. Jay wanted to win the short race, but his real job was to put signs beside the road. He had also made paper snow for a school play. When he opened his bag, the white pieces flew everywhere. “Sorry!” he cried. A piece landed in the flower bed beside an old sign. Grandma Chen went very still. “That sign was here twelve years ago,” she said. “I remember its height.”",
+          "chinese": "雖然說明會讓人難受，陳奶奶仍請孩子們在星期六幫忙河岸小型路跑。活動期間，每個路口至少會有一位大人守著。活動所得將用來修整舊屋旁的安全步道和種植新花草。杰想贏得短程比賽，但他真正的工作是在路旁放指示牌。他還替學校表演做了紙雪花。打開袋子時，白紙片飛得到處都是。「對不起！」他喊。一片落在舊牌旁的花圃裡。陳奶奶突然一動不動。「這個牌子十二年前就在這裡，」她說，「我記得它的高度。」",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

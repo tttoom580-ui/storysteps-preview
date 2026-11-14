@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 3,
+  "chapterId": "import-two-rivers-3",
+  "sourceChapterSha256": "a36ea220665177113b04ef89f12a5884bfe31a85059c38c664bbe71952e57b74",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "西側石牢銅河盤失竊，訪客紀錄有人冒寫韓祈姓名；礦場機械、紙袋和河上帆船提供替代線索。",
+    "previousChapterEndingEnglish": "The keeper showed them a wooden box from the same year as the flood. It was sealed with an iron strip. “I should not open this without permission,” she said. Qi did not ask her to break the rule. Instead, Yu noticed a tiny number under the seal. It matched the number of a page in the textbook. “Can we read the public list of old records?” he asked. She nodded and turned the list toward them. Under that number, three words had been written in faded ink: TWO RIVERS, ONE HEART. Then a voice behind them said, “You should not have come looking for that page.”",
+    "nextChapterOpeningEnglish": "The paper bird led the boys to a grove of spirit trees beyond the city. Its largest branch had turned black, and dry leaves covered the entire path. A farmer named Aunt Lin showed them a wounded deer, with a little blood on its leg. “The animals are getting sick,” she said. “People say it is a disease from the river.” Qi knelt beside the deer but did not touch the wound. Yu examined the soil and found pale dust around the roots. He remembered the blue light from the stone yard. “We should ask someone who understands this material,” he said, “before we imagine a monster.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The man behind them was Master Du, the academy guard. He raised his hand before Yu could speak. “There has been an alarm at the western cell. Come with me.” His voice was calm, but Qi noticed a dark line across his sleeve. The cell stood in an empty stone building once used to punish students who broke the rules. Now it held important objects. One glass box had been broken with a single shot of spirit light, and the copper river plate inside was gone. “Someone came here during the meeting,” Du said. “The guard at the door saw a student in white.”",
+        "zh": "站在他們身後的是學院守衛杜師父。他在沈雨開口前舉起手。「西邊的石牢響起警報，跟我來。」他的聲音很平靜，但韓祈注意到他袖上有一條深色痕跡。石牢位於一棟空蕩的石屋，過去用來處罰違規學生，如今存放重要物品。一個玻璃盒被一道靈光擊碎，裡面的銅製河盤不見了。「有人趁集會時來過，」杜師父說，「門口守衛看見一名白衣學生。」",
+        "englishSha256": "48c987070a802d96a8881b03a318ab00371896648f2bcf04353b135786317a10",
+        "chineseSha256": "143b5cb95aedcd230eb3cba84ab88ad993a37092a36be2bad4e48c3f54a70c62"
+      },
+      {
+        "number": 2,
+        "en": "Everyone looked at Qi's coat. He held out his hands. “I did not take it.” Du said the academy had a duty to investigate, not to blame people without proof. Yu examined the ground from a safe distance. There was a classic picture of a cowboy on a torn paper bag, a small dryer used for wet uniforms, and a piece of hair near the window. The hair was short. “Many students received a haircut this morning,” Yu pointed out. “That proves nothing.” Qi watched him, surprised that someone who barely knew him would speak against an easy answer.",
+        "zh": "所有人都看向韓祈的白衣。他攤開雙手。「不是我拿的。」杜師父說，學院有責任調查，不能沒有證據就責怪人。沈雨在安全距離外檢查地面。那裡有一張撕破紙袋，上面印著經典牛仔圖案；還有烘乾制服的小型乾燥機，窗邊留著幾根短髮。「今天很多學生去剪了頭髮，」沈雨說，「這證明不了什麼。」韓祈看著他，驚訝才認識不久的人竟願意反對方便的結論。",
+        "englishSha256": "387764f51d35e13e347d4d183698c08ae8bafba737ed1eb62b986c028ca35e81",
+        "chineseSha256": "8b7bda63a7bd113efe3fd65e48309055924007ec7d5c0df4f3c02020fcbf74f3"
+      },
+      {
+        "number": 3,
+        "en": "Yu found a cell record with a list of visitors. At the last line, the name had been pressed so hard into the paper that the mark remained after the ink was removed. The false name read HAN QI, but the writer had used the wrong character for Qi. Du took the record as an official object and called for another witness. “We cannot strike a man because of a coat,” Yu said. “We must find out who used this name.” Qi asked whether anyone had made a tour of the cell that afternoon. Du replied that a school trade group had visited with its guests.",
+        "zh": "沈雨找到一份石牢訪客紀錄。最後一行被寫得很用力，墨跡擦去後紙上仍留著筆痕。那個假名字寫著「韓祈」，但寫字的人把「祈」寫錯了。杜師父將紀錄當作正式證物收起，並叫另一名見證者來。「不能因為一件外衣就打人，」沈雨說，「得先查出誰用了這個名字。」韓祈問下午是否有人參觀石牢。杜師父回答，學院一個貿易社團曾帶客人來參訪。",
+        "englishSha256": "8e2079d13b70f87de6dff45c3538a2a39617f24f2fc190402de2ca9c770e062a",
+        "chineseSha256": "cd96514038eaf5ef9fe077447f1588beb24d7bea642c210da5848227d7b69461"
+      },
+      {
+        "number": 4,
+        "en": "An old lamb wandered into the courtyard through an open gate. The animal belonged to a nearby farmer, who had followed a line of spilled grain to the building. Yu looked at the trail, then at the floor of the cell. A small grain had caught inside a crack. “Someone brought feed through the passage,” he said. Master Du gave them a direct instruction: tell no one about the plate until the report was ready. Qi agreed, even though he knew rumors would spread. Yu felt the broken box with his eyes, trying to imagine where a thief could have gone without being seen.",
+        "zh": "一隻老羔羊從敞開的門走進院子。牠屬於附近的農夫；農夫循著散落的穀粒一路找來。沈雨看著那條痕跡，再看石牢地面。裂縫裡卡著一顆穀粒。「有人把飼料帶進通道。」他說。杜師父下了明確指示：報告出來之前，不得向外談論河盤。韓祈答應了，雖然知道流言一定會傳開。沈雨用眼睛追著破玻璃盒的邊緣，想像小偷如何在沒被看見的情況下離開。",
+        "englishSha256": "e2d828922b042f73757dc0a3b41ed6ed1ef7c3f6c35f674af829e2ae3981ea71",
+        "chineseSha256": "1837295c5f0da3563c36fe3a6956ad16534b52cef82892d27b7074540bda6fb1"
+      },
+      {
+        "number": 5,
+        "en": "That night a loud press machine began to work at the stone yard. Qi invited Yu to watch from the public path. “It sounds like the shot that broke the glass,” Qi said. They could not see the yard beyond its wall, but a small boat with a cloth sail was passing on the river below. The sailor carried three covered boxes. Then came a sharp strike from the machine and a brief flash of blue light. Yu counted the seconds. “The machine runs every eight breaths,” he said. Qi showed him the old mark on his wrist. “The bell makes the same space between sounds.”",
+        "zh": "那晚石材場的壓製機發出巨大聲響。韓祈邀沈雨從公共小路觀看。「聽起來像擊碎玻璃的那一擊，」他說。他們看不見牆後的工地，卻看見下方河面有一艘掛著布帆的小船經過，船夫載著三只蓋好的箱子。接著機器發出尖銳撞擊，藍光短暫閃了一下。沈雨計算間隔。「機器每八次呼吸就動一次，」他說。韓祈露出手腕的舊印。「鐘聲之間，也是同樣的距離。」",
+        "englishSha256": "a6e61443c26b336c5b8192b2028405dc3ccbb14b9ca22b259aabb614effb69e8",
+        "chineseSha256": "6e8ae3002a2e094d65d6316eb857f4834aa167a3e7096b6496f26a808c9be9fe"
+      },
+      {
+        "number": 6,
+        "en": "Yu spent the rest of the night drawing the sound marks in his notebook. He did not know whether the press or the bell had been used to steal the plate. He did know one thing: whoever wrote Qi's name had been there before the theft. An honest guard could have checked that mistake at the door, yet nobody had. Just before dawn, a small paper bird landed outside Yu's window. Inside was a note: IF YOU WANT THE COPPER PLATE, FOLLOW THE SAIL, NOT THE WHITE COAT. Under the words someone had drawn a strange half-circle, open at the top.",
+        "zh": "沈雨花了一整夜，把聲音的記號畫在筆記本裡。他還不知道是壓製機或鐘被用來偷走河盤，但確定一件事：冒寫韓祈名字的人在失竊前就進去過。守門人當時本來能看出名字寫錯，卻沒有人發現。快天亮時，一隻紙鳥落在沈雨窗外。紙裡寫著：「想找銅盤，就追船帆，別追白衣。」字下方畫著一道陌生的半圓，上方留著缺口。",
+        "englishSha256": "b41591433494c9b785ca02cd62f9ec1734e3a4ac1c540e39da16c777e64d070a",
+        "chineseSha256": "19901c5924700dbbb62b9b48fe79d69f1b6f557ee939e4d4735f902005f49eb3"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 620,
+    "targets": [
+      {
+        "word": "alarm",
+        "meaning": "警報",
+        "appearsInSource": true
+      },
+      {
+        "word": "calm",
+        "meaning": "平靜的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cell",
+        "meaning": "牢房",
+        "appearsInSource": true
+      },
+      {
+        "word": "classic",
+        "meaning": "經典的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cowboy",
+        "meaning": "牛仔",
+        "appearsInSource": true
+      },
+      {
+        "word": "direct",
+        "meaning": "直接的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dryer",
+        "meaning": "烘乾機",
+        "appearsInSource": true
+      },
+      {
+        "word": "duty",
+        "meaning": "責任",
+        "appearsInSource": true
+      },
+      {
+        "word": "empty",
+        "meaning": "空的",
+        "appearsInSource": true
+      },
+      {
+        "word": "false",
+        "meaning": "假的",
+        "appearsInSource": true
+      },
+      {
+        "word": "haircut",
+        "meaning": "理髮",
+        "appearsInSource": true
+      },
+      {
+        "word": "lamb",
+        "meaning": "羔羊",
+        "appearsInSource": true
+      },
+      {
+        "word": "objects",
+        "meaning": "物品",
+        "appearsInSource": true
+      },
+      {
+        "word": "pressed",
+        "meaning": "壓製機",
+        "appearsInSource": true
+      },
+      {
+        "word": "punish",
+        "meaning": "處罰",
+        "appearsInSource": true
+      },
+      {
+        "word": "sail",
+        "meaning": "航行",
+        "appearsInSource": true
+      },
+      {
+        "word": "shot",
+        "meaning": "一擊",
+        "appearsInSource": true
+      },
+      {
+        "word": "strike",
+        "meaning": "敲擊",
+        "appearsInSource": true
+      },
+      {
+        "word": "tour",
+        "meaning": "參觀",
+        "appearsInSource": true
+      },
+      {
+        "word": "trade",
+        "meaning": "貿易",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Empty Cell〉第 1 段的事件，哪個選項能正確補完整句？\nCome with me.” His voice was calm, but Qi noticed ____.",
+      "options": [
+        "a metal model",
+        "a dark line across his sleeve",
+        "a wood bridge"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a dark line across his sleeve",
+      "existingAnswerExplanation": "原文證據：Come with me.” His voice was calm, but Qi noticed a dark line across his sleeve.\n本段對照：站在他們身後的是學院守衛杜師父。他在沈雨開口前舉起手。「西邊的石牢響起警報，跟我來。」他的聲音很平靜，但韓祈注意到他袖上有一條深色痕跡。石牢位於一棟空蕩的石屋，過去用來處罰違規學生，如今存放重要物品。一個玻璃盒被一道靈光擊碎，裡面的銅製河盤不見了。「有人趁集會時來過，」杜師父說，「門口守衛看見一名白衣學生。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The man behind them was Master Du, the academy guard. He raised his hand before Yu could speak. “There has been an alarm at the western cell. Come with me.” His voice was calm, but Qi noticed a dark line across his sleeve. The cell stood in an empty stone building once used to punish students who broke the rules. Now it held important objects. One glass box had been broken with a single shot of spirit light, and the copper river plate inside was gone. “Someone came here during the meeting,” Du said. “The guard at the door saw a student in white.”",
+          "chinese": "站在他們身後的是學院守衛杜師父。他在沈雨開口前舉起手。「西邊的石牢響起警報，跟我來。」他的聲音很平靜，但韓祈注意到他袖上有一條深色痕跡。石牢位於一棟空蕩的石屋，過去用來處罰違規學生，如今存放重要物品。一個玻璃盒被一道靈光擊碎，裡面的銅製河盤不見了。「有人趁集會時來過，」杜師父說，「門口守衛看見一名白衣學生。」",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 3,
+          "english": "Yu found a cell record with a list of visitors. At the last line, the name had been pressed so hard into the paper that the mark remained after the ink was removed. The false name read HAN QI, but the writer had used the wrong character for Qi. Du took the record as an official object and called for another witness. “We cannot strike a man because of a coat,” Yu said. “We must find out who used this name.” Qi asked whether anyone had made a tour of the cell that afternoon. Du replied that a school trade group had visited with its guests.",
+          "chinese": "沈雨找到一份石牢訪客紀錄。最後一行被寫得很用力，墨跡擦去後紙上仍留著筆痕。那個假名字寫著「韓祈」，但寫字的人把「祈」寫錯了。杜師父將紀錄當作正式證物收起，並叫另一名見證者來。「不能因為一件外衣就打人，」沈雨說，「得先查出誰用了這個名字。」韓祈問下午是否有人參觀石牢。杜師父回答，學院一個貿易社團曾帶客人來參訪。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Empty Cell〉第 5 段的事件，哪個選項能正確補完整句？\nThe sailor carried ____.",
+      "options": [
+        "two streams",
+        "two people",
+        "three covered boxes"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "three covered boxes",
+      "existingAnswerExplanation": "原文證據：The sailor carried three covered boxes.\n本段對照：那晚石材場的壓製機發出巨大聲響。韓祈邀沈雨從公共小路觀看。「聽起來像擊碎玻璃的那一擊，」他說。他們看不見牆後的工地，卻看見下方河面有一艘掛著布帆的小船經過，船夫載著三只蓋好的箱子。接著機器發出尖銳撞擊，藍光短暫閃了一下。沈雨計算間隔。「機器每八次呼吸就動一次，」他說。韓祈露出手腕的舊印。「鐘聲之間，也是同樣的距離。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "That night a loud press machine began to work at the stone yard. Qi invited Yu to watch from the public path. “It sounds like the shot that broke the glass,” Qi said. They could not see the yard beyond its wall, but a small boat with a cloth sail was passing on the river below. The sailor carried three covered boxes. Then came a sharp strike from the machine and a brief flash of blue light. Yu counted the seconds. “The machine runs every eight breaths,” he said. Qi showed him the old mark on his wrist. “The bell makes the same space between sounds.”",
+          "chinese": "那晚石材場的壓製機發出巨大聲響。韓祈邀沈雨從公共小路觀看。「聽起來像擊碎玻璃的那一擊，」他說。他們看不見牆後的工地，卻看見下方河面有一艘掛著布帆的小船經過，船夫載著三只蓋好的箱子。接著機器發出尖銳撞擊，藍光短暫閃了一下。沈雨計算間隔。「機器每八次呼吸就動一次，」他說。韓祈露出手腕的舊印。「鐘聲之間，也是同樣的距離。」",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The man behind them was Master Du, the academy guard. He raised his hand before Yu could speak. “There has been an alarm at the western cell. Come with me.” His voice was calm, but Qi noticed a dark line across his sleeve. The cell stood in an empty stone building once used to punish students who broke the rules. Now it held important objects. One glass box had been broken with a single shot of spirit light, and the copper river plate inside was gone. “Someone came here during the meeting,” Du said. “The guard at the door saw a student in white.”",
+          "chinese": "站在他們身後的是學院守衛杜師父。他在沈雨開口前舉起手。「西邊的石牢響起警報，跟我來。」他的聲音很平靜，但韓祈注意到他袖上有一條深色痕跡。石牢位於一棟空蕩的石屋，過去用來處罰違規學生，如今存放重要物品。一個玻璃盒被一道靈光擊碎，裡面的銅製河盤不見了。「有人趁集會時來過，」杜師父說，「門口守衛看見一名白衣學生。」",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

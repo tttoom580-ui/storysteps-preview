@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 15,
+  "chapterId": "import-two-rivers-15",
+  "sourceChapterSha256": "7dd67cf63c3cbb0d1d94fb6030c9c1aa75566d37962cc7f9c089da07ede23933",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "林安送出以街道地名組成的詩路，礦場粉塵與城市靈塔材料對上，路線選擇需公共警示和工程審核。",
+    "previousChapterEndingEnglish": "Late that night, the deaf student returned with another note. She had found the full drawing on the back of an old stage curtain. Below the dragon were three words in a language she could not read. Yu compared them with the script on the northern tower. The translation made his hands shake: NOT BORN. CHOSEN. He looked at Qi. They had assumed their marks were family gifts, perhaps even signs of a fixed fate. But the oldest message said something else. The river was not waiting for their blood. It was waiting for two people willing to choose each other.",
+    "nextChapterOpeningEnglish": "The council's order reached the academy before sunrise. President Luo had accused Yu and Qi of stealing records and wasting public resources. A policeman came to their room, but Teacher Mei showed him copies of the legal permission for their investigation. “They have followed every requirement,” she said. “If you need to question them, do it with a teacher present.” The policeman read the papers and agreed. Qi wanted to argue with him, yet Yu rubbed his wrist and asked him to wait. “He is doing his job,” Yu whispered. “The person who sent the order is the one we need to question.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Yu woke before dawn to find a poem slipped under his door. It described a path through thick fog, past a bakery, and down to the old river gate. The paper carried no name. At breakfast, a poet named Lin An was reading poems to students while the baker delivered warm buns. Yu asked if she owned the poem. She read it and shook her head. “This is not mine, but the pattern is familiar,” she said. “Every fourth line begins with a place.” Qi noticed that the places formed a route across the city. Someone wanted them to follow it.",
+        "zh": "沈雨天亮前醒來，發現門下塞著一首詩。詩寫一條穿過濃霧、經過麵包店、通往舊河閘的小路，紙上沒有署名。早餐時，一位名叫林安的詩人正在為學生朗詩，麵包師送來熱包子。沈雨問她是不是作者。她讀完搖頭：「不是我寫的，但形式很熟悉，每四行都以一個地點開頭。」韓祈注意到這些地點連成跨越城市的路線。有人要他們照著走。",
+        "englishSha256": "cac44a4f7088f77c9020b90431279c43d44f583896649e7eb2ddc2e0dda82c34",
+        "chineseSha256": "18dd25948a4b07d6c7001a37c69b51eee89af5a585357906056c43e60bf9cc61"
+      },
+      {
+        "number": 2,
+        "en": "The poet advised them to contact Teacher Mei before going anywhere. She agreed and arranged for a public guide to accompany them. “We can search a road without walking into danger,” she said. Qi had wanted to go alone, and he argued that time was short. Yu answered gently, “You promised to trust me when the risk was real.” Qi looked at him in surprise, then nodded. He had not known that being strong could mean accepting help. They followed the route on a weekday morning, when the markets were busy and the streets had many witnesses.",
+        "zh": "詩人建議先聯絡梅老師，別急著出發。梅老師答應，還安排公開路線的嚮導同行。「不用走進危險地點，也能調查一條路。」她說。韓祈原想獨自前往，主張時間不多。沈雨溫柔回他：「你答應過，真正有風險時要相信我。」韓祈驚訝地看著他，然後點頭。他以前不知道，強大也可以是接受幫助。眾人選在平日早晨走上路線，市場繁忙，街上有許多見證者。",
+        "englishSha256": "86c8adaaa41e142ee7171219861204697948ef528cdd6c63f7d46b0188f933d3",
+        "chineseSha256": "9d60426403b8fe98347a04a93fe5a80098b0f70929da0c53199eef09d83039df"
+      },
+      {
+        "number": 3,
+        "en": "At the first turning they met the owner of a shop selling old clothes. She showed them a picture of the road before new buildings had covered it. A narrow channel once crossed this street, but the city had laid stone over it. “Wherever the water used to go, I hope it returns,” she said. “My parents grew rice along that channel.” Yu saw that the shops had a regular pattern of stones under their doors. Qi measured the range between each mark. It matched the distance between old river wheels. The poem was not a trap. It was a map written in plain words.",
+        "zh": "第一個轉彎處，他們遇見一家舊衣店的店主。她給他們看新建築覆蓋道路前的照片。一條窄水道曾穿過這條街，後來城市鋪石把它蓋住。「不管水以前流去哪裡，希望它能回來，」她說，「我父母以前就在水道旁種稻。」沈雨看見每家店門下的石頭都有固定圖樣。韓祈測量刻記之間的範圍，恰好符合舊河輪的距離。那首詩不是陷阱，而是用白話寫的地圖。",
+        "englishSha256": "6848d49a58a9e32eff75dd5eb51893d09e81d760bb9606e98b683b4b1b7c71ea",
+        "chineseSha256": "16716b9720fa63226cb4a0abddfc8efe4586fa4460843a637581383b77264768"
+      },
+      {
+        "number": 4,
+        "en": "Near the old gate, fog grew thick enough to hide the bridge. The guide stopped everyone and waited for the air to clear. Yu used the time to read the poem again. It spoke of a peaceful morning when water returned, not of revenge on the city. “This writer is trying to protect both places,” he said. Teacher Mei pointed to a second line beneath the date: PRIMARY PATH CLOSED BY ORDER OF LUO. The word primary meant the main river gate. “If the main path was closed too,” Qi said, “then why does the city still have water?” No one had an answer.",
+        "zh": "靠近舊閘時，霧濃得連橋都看不見。嚮導要大家停下，等空氣清楚些。沈雨趁機再讀一遍詩。它寫的是水回來的平和早晨，不是向城市報仇。「作者想保護兩邊。」他說。梅老師指著日期下面另一行：「羅命令關閉主要通道。」此處的「主要」指主河閘。「如果主道也關了，」韓祈問，「城市的水又從哪裡來？」沒有人能回答。",
+        "englishSha256": "e425462d9077161e85b38a3069d95e14dbfd46ca24a2ea2015d233aaf457fb86",
+        "chineseSha256": "020e71bbe7c0b8b110a7841a3011bdf779ad1025c6a858fe9a966ef60c5e27fc"
+      },
+      {
+        "number": 5,
+        "en": "A messenger arrived by bicycle with new laboratory results. The powder in the mine and the stream matched the material used in the city's new spirit towers. Workers had been carrying waste through an old channel that should have remained closed. “That is why the water moves in short bursts,” Yu realized. “They open a small passage for each delivery.” Mei called the city office and asked them to stop the practice. The officer there promised to send inspectors, but warned that a shutdown would take time. Qi looked at the gray river and said, “We do not have much.”",
+        "zh": "一位騎腳踏車的送信人帶來新實驗結果。礦場和小溪粉塵，與城市新靈塔使用的材料相同。工人一直透過本該封閉的舊水道運送廢料。「所以水才一陣一陣地動，」沈雨明白了，「每次運貨就開一小段通路。」梅老師打電話要求城市辦公室停止這種作法。那裡的官員答應派人檢查，也提醒全面停工需要時間。韓祈望向灰色河水說：「我們的時間不多。」",
+        "englishSha256": "c2611ba89acd72291f1b72f23cc72177db0acde2c3755a40373a9bf49368635b",
+        "chineseSha256": "1b3caf95398225e84ba6a67055275162e7b91e8d8d2c6214fb2d2b9fb83af3b5"
+      },
+      {
+        "number": 6,
+        "en": "A shop on the route displayed a new fashion for spring: scarves printed with a zebra pattern. The bright cloth looked out of place beside the gray river. Yu pointed at it and said that no beautiful design could cure the water problem, but a clear sign might help people remember where the safe road was. The shop owner offered to hang the public warning notices in her front window.",
+        "zh": "路線上一家店展示春季新時尚：印著斑馬圖樣的圍巾。鮮豔布料在灰色河旁顯得格格不入。沈雨指著它說，再美的設計也治不好水的問題，但清楚的標誌或許能讓人記得安全道路。店主自願在前窗張貼公開警告。",
+        "englishSha256": "09302d3c6c2f940e5fd9146b19eb730ddd0ae7d2c9d84d315990695e07bcd579",
+        "chineseSha256": "65e54d74c35bf70e0635455d4f583726a9cd837b651b2b62f62cfa77d706d8ce"
+      },
+      {
+        "number": 7,
+        "en": "When the fog lifted, a small wooden board appeared behind the gate. On it someone had carved a final verse: TWO HANDS CAN OPEN, BUT ONLY MANY VOICES CAN DECIDE. Yu read the words aloud. They were not a secret command to the boys. They were a warning that using the gate without public agreement could harm others. Qi rested a hand on Yu's shoulder. “Then we do not open it alone,” he said. “Not even if it would make us heroes.” As they left, the poet Lin An arrived with news: the council had called an emergency meeting, and Luo wanted both boys arrested.",
+        "zh": "霧散後，閘門後露出一塊小木板。上面刻著最後一段詩：「雙手能開啟，眾聲才能決定。」沈雨讀出聲。那不是對兩人的祕密命令，而是提醒未經公共同意擅自開閘會害人。韓祈把手放上沈雨的肩。「那我們就不獨自開，」他說，「就算這樣能讓我們成英雄也一樣。」離開時，詩人林安帶來消息：議會召開緊急會議，羅會長要逮捕兩名少年。",
+        "englishSha256": "c60433be914a3b963a184b43428e602e2fe7f33602564bc0cd3c671066c46509",
+        "chineseSha256": "d9224e56553eb4144acd8edaa50f4b871a0a3d4c4e6b7bfbc3e4d6f21698044a"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 682,
+    "targets": [
+      {
+        "word": "argued",
+        "meaning": "爭辯",
+        "appearsInSource": true
+      },
+      {
+        "word": "arranged",
+        "meaning": "安排",
+        "appearsInSource": true
+      },
+      {
+        "word": "buns",
+        "meaning": "包子",
+        "appearsInSource": true
+      },
+      {
+        "word": "contact",
+        "meaning": "聯絡",
+        "appearsInSource": true
+      },
+      {
+        "word": "cure",
+        "meaning": "治癒",
+        "appearsInSource": true
+      },
+      {
+        "word": "delivered",
+        "meaning": "送達",
+        "appearsInSource": true
+      },
+      {
+        "word": "fashion",
+        "meaning": "時尚",
+        "appearsInSource": true
+      },
+      {
+        "word": "fog",
+        "meaning": "霧",
+        "appearsInSource": true
+      },
+      {
+        "word": "owner",
+        "meaning": "店主",
+        "appearsInSource": true
+      },
+      {
+        "word": "path",
+        "meaning": "小路",
+        "appearsInSource": true
+      },
+      {
+        "word": "pattern",
+        "meaning": "模式",
+        "appearsInSource": true
+      },
+      {
+        "word": "peaceful",
+        "meaning": "和平的",
+        "appearsInSource": true
+      },
+      {
+        "word": "poem",
+        "meaning": "詩",
+        "appearsInSource": true
+      },
+      {
+        "word": "poet",
+        "meaning": "詩人",
+        "appearsInSource": true
+      },
+      {
+        "word": "primary",
+        "meaning": "主要的",
+        "appearsInSource": true
+      },
+      {
+        "word": "range",
+        "meaning": "範圍",
+        "appearsInSource": true
+      },
+      {
+        "word": "regular",
+        "meaning": "規律的",
+        "appearsInSource": true
+      },
+      {
+        "word": "weekday",
+        "meaning": "平日",
+        "appearsInSource": true
+      },
+      {
+        "word": "wherever",
+        "meaning": "無論哪裡",
+        "appearsInSource": true
+      },
+      {
+        "word": "zebra",
+        "meaning": "斑馬",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Poet's Road〉第 1 段的事件，哪個選項能正確補完整句？\nIt described ____, past a bakery, and down to the old river gate.",
+      "options": [
+        "a path through thick fog",
+        "a tiny number",
+        "a copper box hidden"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a path through thick fog",
+      "existingAnswerExplanation": "原文證據：It described a path through thick fog, past a bakery, and down to the old river gate.\n本段對照：沈雨天亮前醒來，發現門下塞著一首詩。詩寫一條穿過濃霧、經過麵包店、通往舊河閘的小路，紙上沒有署名。早餐時，一位名叫林安的詩人正在為學生朗詩，麵包師送來熱包子。沈雨問她是不是作者。她讀完搖頭：「不是我寫的，但形式很熟悉，每四行都以一個地點開頭。」韓祈注意到這些地點連成跨越城市的路線。有人要他們照著走。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Yu woke before dawn to find a poem slipped under his door. It described a path through thick fog, past a bakery, and down to the old river gate. The paper carried no name. At breakfast, a poet named Lin An was reading poems to students while the baker delivered warm buns. Yu asked if she owned the poem. She read it and shook her head. “This is not mine, but the pattern is familiar,” she said. “Every fourth line begins with a place.” Qi noticed that the places formed a route across the city. Someone wanted them to follow it.",
+          "chinese": "沈雨天亮前醒來，發現門下塞著一首詩。詩寫一條穿過濃霧、經過麵包店、通往舊河閘的小路，紙上沒有署名。早餐時，一位名叫林安的詩人正在為學生朗詩，麵包師送來熱包子。沈雨問她是不是作者。她讀完搖頭：「不是我寫的，但形式很熟悉，每四行都以一個地點開頭。」韓祈注意到這些地點連成跨越城市的路線。有人要他們照著走。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 4,
+          "english": "Near the old gate, fog grew thick enough to hide the bridge. The guide stopped everyone and waited for the air to clear. Yu used the time to read the poem again. It spoke of a peaceful morning when water returned, not of revenge on the city. “This writer is trying to protect both places,” he said. Teacher Mei pointed to a second line beneath the date: PRIMARY PATH CLOSED BY ORDER OF LUO. The word primary meant the main river gate. “If the main path was closed too,” Qi said, “then why does the city still have water?” No one had an answer.",
+          "chinese": "靠近舊閘時，霧濃得連橋都看不見。嚮導要大家停下，等空氣清楚些。沈雨趁機再讀一遍詩。它寫的是水回來的平和早晨，不是向城市報仇。「作者想保護兩邊。」他說。梅老師指著日期下面另一行：「羅命令關閉主要通道。」此處的「主要」指主河閘。「如果主道也關了，」韓祈問，「城市的水又從哪裡來？」沒有人能回答。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Poet's Road〉第 7 段的事件，哪個選項能正確補完整句？\nThey were a warning that using ____.",
+      "options": [
+        "the tower without a fight",
+        "the gate without public agreement could harm others",
+        "the position of a wooden float"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the gate without public agreement could harm others",
+      "existingAnswerExplanation": "原文證據：They were a warning that using the gate without public agreement could harm others.\n本段對照：霧散後，閘門後露出一塊小木板。上面刻著最後一段詩：「雙手能開啟，眾聲才能決定。」沈雨讀出聲。那不是對兩人的祕密命令，而是提醒未經公共同意擅自開閘會害人。韓祈把手放上沈雨的肩。「那我們就不獨自開，」他說，「就算這樣能讓我們成英雄也一樣。」離開時，詩人林安帶來消息：議會召開緊急會議，羅會長要逮捕兩名少年。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "When the fog lifted, a small wooden board appeared behind the gate. On it someone had carved a final verse: TWO HANDS CAN OPEN, BUT ONLY MANY VOICES CAN DECIDE. Yu read the words aloud. They were not a secret command to the boys. They were a warning that using the gate without public agreement could harm others. Qi rested a hand on Yu's shoulder. “Then we do not open it alone,” he said. “Not even if it would make us heroes.” As they left, the poet Lin An arrived with news: the council had called an emergency meeting, and Luo wanted both boys arrested.",
+          "chinese": "霧散後，閘門後露出一塊小木板。上面刻著最後一段詩：「雙手能開啟，眾聲才能決定。」沈雨讀出聲。那不是對兩人的祕密命令，而是提醒未經公共同意擅自開閘會害人。韓祈把手放上沈雨的肩。「那我們就不獨自開，」他說，「就算這樣能讓我們成英雄也一樣。」離開時，詩人林安帶來消息：議會召開緊急會議，羅會長要逮捕兩名少年。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 6,
+          "english": "A shop on the route displayed a new fashion for spring: scarves printed with a zebra pattern. The bright cloth looked out of place beside the gray river. Yu pointed at it and said that no beautiful design could cure the water problem, but a clear sign might help people remember where the safe road was. The shop owner offered to hang the public warning notices in her front window.",
+          "chinese": "路線上一家店展示春季新時尚：印著斑馬圖樣的圍巾。鮮豔布料在灰色河旁顯得格格不入。沈雨指著它說，再美的設計也治不好水的問題，但清楚的標誌或許能讓人記得安全道路。店主自願在前窗張貼公開警告。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

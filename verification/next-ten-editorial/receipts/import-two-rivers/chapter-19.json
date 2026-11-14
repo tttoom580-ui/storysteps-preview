@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 19,
+  "chapterId": "import-two-rivers-19",
+  "sourceChapterSha256": "3b90ab307d24b803a1dc67046372ee263797b4f9c6f1b2be9a64a1c2d56576cd",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "沈雨公開說明水務紀錄改動、礦石粉塵和零件移轉，不直接認定羅造成一切；滿月前私塔啟閘合同浮現。",
+    "previousChapterEndingEnglish": "Before dawn, the engineers sent the boys a drawing of the missing part. It was shaped like two halves joined around a central pin. Yu recognized it from the half-circle marks and the models in the tower. The marks were not keys that opened doors by magic. They were signs for the position each guardian had to stand while turning the wheel. “We practiced this stance on the moving floor,” he realized. Their first school challenge had taught them the exact balance needed here. He packed his notebook and left the shelter under Aunt Wei's care.",
+    "nextChapterOpeningEnglish": "Qi and the engineers reached the coast after a long drive through heavy rain. At the port, an old worker kept a wheel from the first spirit gate in a small store. Its metal joint was still strong, but the wheel itself was nearly covered with sand. “We can compare the size with our model,” an engineer said. “If it fits, we take it back before the road floods.” Qi helped carry the part to a platform beside the store. It weighed more than a hundred kilograms, so they used a lifting machine rather than trying to raise it by hand."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The academy hall was filled with officials when Yu returned. He had to give a speech about what he and Qi had discovered. A pupil from the lower school helped connect the screen, while an assistant checked the Internet link to the public records. Yu's brain seemed empty for a moment. He was not confident that a poor village boy could speak before such powerful people. Teacher Mei put a hand on his shoulder. “Use your notebook,” she said. “You have done the work. Now show it.” Yu breathed in slowly and faced the room.",
+        "zh": "沈雨回到學院時，大廳已擠滿官員。他必須發表一段演說，說明自己和韓祈的發現。一位附屬小學學生協助連接螢幕，助理則檢查連向公開紀錄的網路。沈雨的腦袋一瞬間空白。他不確定窮村少年能否在這麼多有權勢的人面前說話。梅老師把手搭在他肩上。「用你的筆記本，」她說，「你已經做過調查，現在給他們看。」沈雨緩緩吸氣，面對大廳。",
+        "englishSha256": "c48d87cee638c31ab70d6685e3d8b2b4d532724fbdf40a96bdafb0011da1a9c3",
+        "chineseSha256": "7f1de623392d6205a7f8d885f47e9d7467d773f7370ee5d8b6f23d4211701c05"
+      },
+      {
+        "number": 2,
+        "en": "He began by admitting what they did not know. “We cannot say President Luo caused every problem,” he said. “We can say the water records changed, that stone dust entered the stream, and that workers were ordered to move parts from the north tower.” He showed a bit of powder sealed in a clear bag, then the medical report and the two maps. The facts affected the audience more than anger would have. Some people leaned forward. Others took notes. “The pressure under the mountain is rising,” Yu continued. “Our first duty is safety.”",
+        "zh": "他先承認不知道的部分。「我們不能說每件問題都是羅會長造成的，」他說，「但能確定用水紀錄被改、石粉進了溪，還有工人接到命令把零件移離北塔。」他展示透明袋裡的一點粉末，再拿出醫療報告和兩張圖。事實比怒火更能影響聽眾。有人向前傾，有人記筆記。「山底的壓力正上升，」沈雨接著說，「我們第一件事是保護安全。」",
+        "englishSha256": "c296e3ce4bb36e81c70fde27290e24fd4254ece5239bc767a3911cebcfde2d31",
+        "chineseSha256": "9da0a3c2b1fe578b6631574c74cea0132f69d2dc3826c5a0735b7ffbf4b3bcd9"
+      },
+      {
+        "number": 3,
+        "en": "Luo entered the hall with two guards. He insisted that Yu had used personal feelings to create a false story. “Young people should not speak of things beyond their knowledge,” he said. Yu's hands shook, but he did not shout. “Then answer one question,” he said. “Why do the records show the north gate closed while the public meters show extra water passing through it?” Luo looked at the screen, then at the door. His silence lasted long enough for the whole hall to notice. Finally he said, “That question belongs to the council, not to a student.”",
+        "zh": "羅會長帶著兩名守衛進入大廳。他堅稱沈雨用個人感情編出假故事。「年輕人不該談超出自己知識的事。」他說。沈雨雙手發抖，卻沒有大喊。「那請回答一個問題，」他說，「為什麼紀錄顯示北閘關閉，公開水表卻顯示有額外水流經過？」羅會長看看螢幕，又看門。沉默長得讓整個大廳都察覺。最後他說：「這是議會的問題，不是學生能問的。」",
+        "englishSha256": "26358a064b52446c67234b536ffbe4f315aed5852a0448f5d3eafb7ac739c54a",
+        "chineseSha256": "fcd8d2ea9f9d70df521f507937314a85977a585ccfd47f15a53450361fa27cb7"
+      },
+      {
+        "number": 4,
+        "en": "An older worker stood from the back row. He admitted he had helped hide the water pipes. “We were told the city needed more power,” he said. “I was afraid of losing my job.” Yu thanked him for speaking and asked him to share the dates with the investigators. The worker was visibly relieved. A second man described how coal had once been used to run the old pumps, before spirit towers took over. The older system had clear pressure limits. “We removed those limits to gain extra light,” he said. “We should never have done that.”",
+        "zh": "後排一位老工人站起來，承認曾協助隱藏水管。「有人說城市需要更多電力，」他說，「我怕失去工作。」沈雨謝謝他說出來，請他把日期交給調查人員。工人明顯鬆一口氣。第二個男人說明，從前舊幫浦用煤運作，後來才改成靈塔。舊系統有清楚的壓力上限。「我們為了增加照明而取消那些限制，」他說，「不該這樣做。」",
+        "englishSha256": "b1e77b22db994c4989106745fa6f1b74eaefcf117a6aa7c3208c4f99899247d9",
+        "chineseSha256": "f51410a2e020c38c4dd492abea21714ae2548e1734a90b261efa21ab6c4a35b7"
+      },
+      {
+        "number": 5,
+        "en": "During a short break, Yu went to the restroom and washed his face. Qi called from the port, where he was helping find the repair part. “I heard your speech,” he said. “You sounded brave.” Yu laughed weakly. “My legs felt like water.” Qi answered, “You have made more effort than anyone sees.” Yu leaned against the wall. “How are you?” “Ahead of schedule,” Qi said. “The engineers have found the right wheel. I will bring it back.” His voice softened. “I wanted you to know I am proud of you.”",
+        "zh": "短暫休息時，沈雨去洗手間洗臉。韓祈從港口打電話來，那裡正在找修理零件。「我聽到你的演說了，」他說，「你很勇敢。」沈雨虛弱地笑了：「我的腿像水一樣軟。」韓祈回答：「你付出的努力比大家看見的更多。」沈雨靠著牆。「你那邊呢？」「進度超前，」韓祈說，「工程師找到對的輪了，我會帶回去。」他的聲音放柔：「我想讓你知道，我以你為榮。」",
+        "englishSha256": "7624113dcb241154d512ed10e2eea0a7e87c6d845b6bfa8b4580d2b6d5090c13",
+        "chineseSha256": "171241bbae4d5558d9fc7e1bce8c89bf82a67d052d725464cf0e217a3f89e7e0"
+      },
+      {
+        "number": 6,
+        "en": "Before the hearing closed, a farmer from Yu's village stood to speak. He had brought a little bag of soybean seeds from land that once had enough water. “This is what we hope to plant again,” he said. “Please do not make our village a symbol in your argument. We are families who need to live.” Yu looked toward him and remembered carrying water for neighbors as a child. The man's plain words stayed with him longer than any angry speech.",
+        "zh": "聽證結束前，一名來自沈雨村子的農夫站起發言。他帶來一小袋黃豆種子，產自過去有水可用的土地。「這是我們希望能重新種的東西，」他說，「請不要把村子當成爭論裡的象徵。我們是一群需要生活的家庭。」沈雨望著他，想起兒時替鄰居提水的日子。這段樸實的話，比任何激烈演說更長久留在他心裡。",
+        "englishSha256": "60bb004c63f6c40415d30e8102c005f48e6a52a574ad1c98c3e01a2509d6ef16",
+        "chineseSha256": "0c1d25b146a711343bed1adae0fcd8e4cef4268949d65296759e2ba92c90081c"
+      },
+      {
+        "number": 7,
+        "en": "The hearing ended when the chief inspector announced a temporary order against private use of the old gate. The work of the spirit towers would stop until the safety team checked every line. Luo protested, but could not change the order. As officials began to leave, Yu saw the former clerk from the valley dial a number on her phone. She spoke urgently, then approached him. “The inspector found a contract under Luo's name,” she said. “It contains a schedule for opening the main river at full moon, without a warning.” Yu's relief vanished. The full moon was tomorrow night.",
+        "zh": "聽證在總督察宣布暫停私用舊閘的命令後結束。靈塔工作將停止，直到安全隊查完所有管線。羅會長抗議，卻改變不了命令。官員準備離開時，沈雨看見山谷裡那位書記拿手機撥號，急急講了幾句才走向他。「督察找到一份羅會長名下的合約，」她說，「裡面安排滿月時打開主河道，而且不發警報。」沈雨剛有的安心消失了。滿月就在明晚。",
+        "englishSha256": "cba794f53401c41fad333a0eaf1f89639ea3c8f57adf5d13a53807792ab7997b",
+        "chineseSha256": "b9d96bf5313e00c3b81e23b0c555313681b0dd82f4dbb730553915027f3200c0"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 656,
+    "targets": [
+      {
+        "word": "admitting",
+        "meaning": "承認",
+        "appearsInSource": true
+      },
+      {
+        "word": "affected",
+        "meaning": "影響",
+        "appearsInSource": true
+      },
+      {
+        "word": "ahead",
+        "meaning": "在前方",
+        "appearsInSource": true
+      },
+      {
+        "word": "bit",
+        "meaning": "一點",
+        "appearsInSource": true
+      },
+      {
+        "word": "brain",
+        "meaning": "大腦",
+        "appearsInSource": true
+      },
+      {
+        "word": "coal",
+        "meaning": "煤",
+        "appearsInSource": true
+      },
+      {
+        "word": "confident",
+        "meaning": "有信心的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dial",
+        "meaning": "撥號",
+        "appearsInSource": true
+      },
+      {
+        "word": "effort",
+        "meaning": "努力",
+        "appearsInSource": true
+      },
+      {
+        "word": "extra",
+        "meaning": "額外的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hall",
+        "meaning": "大廳",
+        "appearsInSource": true
+      },
+      {
+        "word": "insisted",
+        "meaning": "堅持",
+        "appearsInSource": true
+      },
+      {
+        "word": "internet",
+        "meaning": "網際網路",
+        "appearsInSource": true
+      },
+      {
+        "word": "personal",
+        "meaning": "個人的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pressure",
+        "meaning": "壓力",
+        "appearsInSource": true
+      },
+      {
+        "word": "pupil",
+        "meaning": "學生",
+        "appearsInSource": true
+      },
+      {
+        "word": "restroom",
+        "meaning": "洗手間",
+        "appearsInSource": true
+      },
+      {
+        "word": "safety",
+        "meaning": "安全",
+        "appearsInSource": true
+      },
+      {
+        "word": "soybean",
+        "meaning": "黃豆",
+        "appearsInSource": true
+      },
+      {
+        "word": "speech",
+        "meaning": "演說",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Truth in the Hall〉第 1 段的事件，哪個選項能正確補完整句？\nA pupil from the lower school helped connect the screen, while an assistant checked ____ to the public records.",
+      "options": [
+        "the papers",
+        "the peak",
+        "the Internet link"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the Internet link",
+      "existingAnswerExplanation": "原文證據：A pupil from the lower school helped connect the screen, while an assistant checked the Internet link to the public records.\n本段對照：沈雨回到學院時，大廳已擠滿官員。他必須發表一段演說，說明自己和韓祈的發現。一位附屬小學學生協助連接螢幕，助理則檢查連向公開紀錄的網路。沈雨的腦袋一瞬間空白。他不確定窮村少年能否在這麼多有權勢的人面前說話。梅老師把手搭在他肩上。「用你的筆記本，」她說，「你已經做過調查，現在給他們看。」沈雨緩緩吸氣，面對大廳。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The academy hall was filled with officials when Yu returned. He had to give a speech about what he and Qi had discovered. A pupil from the lower school helped connect the screen, while an assistant checked the Internet link to the public records. Yu's brain seemed empty for a moment. He was not confident that a poor village boy could speak before such powerful people. Teacher Mei put a hand on his shoulder. “Use your notebook,” she said. “You have done the work. Now show it.” Yu breathed in slowly and faced the room.",
+          "chinese": "沈雨回到學院時，大廳已擠滿官員。他必須發表一段演說，說明自己和韓祈的發現。一位附屬小學學生協助連接螢幕，助理則檢查連向公開紀錄的網路。沈雨的腦袋一瞬間空白。他不確定窮村少年能否在這麼多有權勢的人面前說話。梅老師把手搭在他肩上。「用你的筆記本，」她說，「你已經做過調查，現在給他們看。」沈雨緩緩吸氣，面對大廳。",
+          "matchedQueryTerms": 24
+        },
+        {
+          "paragraph": 3,
+          "english": "Luo entered the hall with two guards. He insisted that Yu had used personal feelings to create a false story. “Young people should not speak of things beyond their knowledge,” he said. Yu's hands shook, but he did not shout. “Then answer one question,” he said. “Why do the records show the north gate closed while the public meters show extra water passing through it?” Luo looked at the screen, then at the door. His silence lasted long enough for the whole hall to notice. Finally he said, “That question belongs to the council, not to a student.”",
+          "chinese": "羅會長帶著兩名守衛進入大廳。他堅稱沈雨用個人感情編出假故事。「年輕人不該談超出自己知識的事。」他說。沈雨雙手發抖，卻沒有大喊。「那請回答一個問題，」他說，「為什麼紀錄顯示北閘關閉，公開水表卻顯示有額外水流經過？」羅會長看看螢幕，又看門。沉默長得讓整個大廳都察覺。最後他說：「這是議會的問題，不是學生能問的。」",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Truth in the Hall〉第 7 段的事件，哪個選項能正確補完整句？\n“The inspector found ____ under Luo's name,” she said.",
+      "options": [
+        "a print of the design",
+        "a bottle of beer",
+        "a contract"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a contract",
+      "existingAnswerExplanation": "原文證據：“The inspector found a contract under Luo's name,” she said.\n本段對照：聽證在總督察宣布暫停私用舊閘的命令後結束。靈塔工作將停止，直到安全隊查完所有管線。羅會長抗議，卻改變不了命令。官員準備離開時，沈雨看見山谷裡那位書記拿手機撥號，急急講了幾句才走向他。「督察找到一份羅會長名下的合約，」她說，「裡面安排滿月時打開主河道，而且不發警報。」沈雨剛有的安心消失了。滿月就在明晚。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "The hearing ended when the chief inspector announced a temporary order against private use of the old gate. The work of the spirit towers would stop until the safety team checked every line. Luo protested, but could not change the order. As officials began to leave, Yu saw the former clerk from the valley dial a number on her phone. She spoke urgently, then approached him. “The inspector found a contract under Luo's name,” she said. “It contains a schedule for opening the main river at full moon, without a warning.” Yu's relief vanished. The full moon was tomorrow night.",
+          "chinese": "聽證在總督察宣布暫停私用舊閘的命令後結束。靈塔工作將停止，直到安全隊查完所有管線。羅會長抗議，卻改變不了命令。官員準備離開時，沈雨看見山谷裡那位書記拿手機撥號，急急講了幾句才走向他。「督察找到一份羅會長名下的合約，」她說，「裡面安排滿月時打開主河道，而且不發警報。」沈雨剛有的安心消失了。滿月就在明晚。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 1,
+          "english": "The academy hall was filled with officials when Yu returned. He had to give a speech about what he and Qi had discovered. A pupil from the lower school helped connect the screen, while an assistant checked the Internet link to the public records. Yu's brain seemed empty for a moment. He was not confident that a poor village boy could speak before such powerful people. Teacher Mei put a hand on his shoulder. “Use your notebook,” she said. “You have done the work. Now show it.” Yu breathed in slowly and faced the room.",
+          "chinese": "沈雨回到學院時，大廳已擠滿官員。他必須發表一段演說，說明自己和韓祈的發現。一位附屬小學學生協助連接螢幕，助理則檢查連向公開紀錄的網路。沈雨的腦袋一瞬間空白。他不確定窮村少年能否在這麼多有權勢的人面前說話。梅老師把手搭在他肩上。「用你的筆記本，」她說，「你已經做過調查，現在給他們看。」沈雨緩緩吸氣，面對大廳。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

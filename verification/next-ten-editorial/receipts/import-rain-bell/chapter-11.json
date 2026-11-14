@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 11,
+  "chapterId": "import-rain-bell-11",
+  "sourceChapterSha256": "052b162402bd979cc49aec98621eb7bfca11ffe0f75c1a271191eed524d11d0f",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "小鎮公所藍色水路圖與較新版本不一致，第三條支線消失；父親自認簽測試檢查而非永久關閉文件。",
+    "previousChapterEndingEnglish": "Before bed a message arrived from Ruby. Her grandmother had found an old school picture taken on the same night. Only the corner was clear, but it showed two pairs of boots beside the gate and the end of another person's coat. “There was someone next to your dad,” Ruby wrote. Mia looked at the two pictures together. The old picture had not solved anything. It had only shown how much she still could not see. She wrote one sentence in her notebook: I must not call a half picture a whole story. Then a second message arrived. It was from her father: “Tomorrow, I will take you to the town records.”",
+    "nextChapterOpeningEnglish": "The science teacher took the class to a safe place above the river. She held two small cups and asked a question: “Does river water always stay the same?” No one gave a sure answer. “Sometimes the sea moves into a river,” she said. “Sometimes water comes down from the hills. How can we tell?” She gave each team a simple test with salt. Mia rode her bicycle to school that day and had left it by the gate. Now she stood beside Leo, waiting for a second cup from another place along the water. She wished science could answer every hard question about the River House."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Officer Su met Mia, her father, and the others at the town office. She explained that some old records could be read by the public, but a worker had to bring the books from storage. The secretary, a quiet woman named Ms. Kao, placed a blue folder on the table. “These are the maps we can show you today,” she said. Mia opened the first sheet carefully. It was a map of the river from many years in the past. A blue mark near the north gate meant that water could pass under the road. On the newer map the same place was marked closed. Mia looked up. “When did that change?”",
+        "zh": "蘇小姐在鎮公所和米婭、她父親及其他人會合。她解釋，有些舊紀錄開放民眾查閱，但必須由職員從庫房拿出來。秘書高小姐把藍色資料夾放在桌上。「今天可以給你們看這幾張地圖。」她說。米婭小心翻開第一張，多年前的河道圖出現在眼前。北閘門附近的藍色標記表示水能通過道路下方。新圖上，同一個地方卻被標成封閉。米婭抬頭問：「它是什麼時候改的？」",
+        "englishSha256": "81e7dc985d28f8cd88efdeabf1be54e1143af39b48a473ef42771ae569b43e02",
+        "chineseSha256": "6ec105bd5f66f048578bf785c980b66bf243a86b34f46ab7c80d3d84f5bfb591"
+      },
+      {
+        "number": 2,
+        "en": "Ms. Kao called another worker and asked him to check the dates. While they waited, Mia saw a paper from the old nurse's room, with a weather report written on the back. It said the town had been cold and wet after the great storm, and that several trees had fallen near the temple. There was also a sentence about water staying below the road longer than expected. “This sounds important,” Mia said. Her father leaned over. “It is. We were trying to make the old gate safe after the storm.” “Who said it was safe?” she asked. He looked at the empty chair across from him. “That is what we need to find.”",
+        "zh": "高小姐打電話請另一位職員查日期。等待時，米婭看見一張舊護理室的紙，背面寫著天氣紀錄。紙上說大風雨過後，小鎮又冷又濕，廟旁倒了好幾棵樹，還有一句話指出道路下方的水停留得比預期更久。「這好像很重要，」米婭說。父親俯身看：「是。我們在暴雨後試著讓舊閘門安全。」「誰說它安全了？」她問。父親望著對面的空椅子：「這就是我們要找的。」",
+        "englishSha256": "3e0fccfe7d45ad56aee35f42dde74afb29cdfdc5c87ca9069d5073da15656a74",
+        "chineseSha256": "6b03b35c0fd0199ccebf9b586bf51264133824e0d58fef5ba5ec4a3081a4cf09"
+      },
+      {
+        "number": 3,
+        "en": "Jay had brought a small dictionary to help read the older notes. Most of the words were easy, but some looked different from those used today. Ruby turned on a fan because the room was warm, and a corner of one paper lifted. Officer Su gently held it down. “Please don't touch the originals without asking,” she reminded them. Leo counted the map lines under the blue mark. “There are three ways for water to move,” he said. “The new plan shows only two.” “Maybe the third one was no longer needed,” Ruby suggested. “Probably,” Leo said, “but we must see why.”",
+        "zh": "杰帶了小字典，幫忙讀舊筆記。多數單字很簡單，有些卻和今天的用法不同。露比因房間太熱而打開電風扇，一張紙的角落被風吹起。蘇小姐輕輕按住，提醒大家：「沒有先問，別碰原件。」李奧數著藍色標記下的地圖線條。「有三條水路，」他說，「新計畫只畫兩條。」「也許第三條已經不需要了。」露比說。「可能，」李奧回答，「但得知道原因。」",
+        "englishSha256": "fca6ec0672fb62b88a1d6ea7bb66dcf6b44e10bb4c1ba66d83b7ddafad2b6eed",
+        "chineseSha256": "3b2b8e56b8df22e89483e9789340287c7224c83deeabae62c93d65dd559e6a13"
+      },
+      {
+        "number": 4,
+        "en": "An hour later Ms. Kao returned with the front page of an approval paper. The title said the north gate could be closed for a test. Below it was a number and a date. “Where are the other pages?” Mia asked. “I don't have them here,” the secretary replied. “The office kept some papers in another building in the city. They may have been moved years ago.” Mia's father stared at the number. “I remember it,” he said. “I signed the check after the test. I never signed a paper saying the gate could stay closed forever.” Mia had waited a long time to hear him say something clear.",
+        "zh": "一小時後，高小姐拿著一份核准文件的首頁回來。標題寫著北閘門可以為測試而關閉，下面有編號和日期。「其他頁呢？」米婭問。「不在這裡，」秘書回答，「有些紙以前放在市區另一棟建築裡，多年前可能搬過去。」米婭的父親盯著編號：「我記得它。我在測試後簽了檢查單，但從沒簽過可以永遠關閉閘門的文件。」米婭等了好久，才聽到父親清楚說出這樣一句話。",
+        "englishSha256": "a59cacb4cbab67213eadf7f7d0f4dd7d027c89fa8ef7657bcc597b7fa7b1bf68",
+        "chineseSha256": "3f2ce84e7b2981f02d93f111d69c0994e107ff6a10f5ba4d5e408ba255f906c3"
+      },
+      {
+        "number": 5,
+        "en": "While they waited for another file, a town nurse came into the room with a small box of old papers. She had found them in a cabinet near the kitchen where staff used to cook meals during storms. A picture showed a car stopped beside the school, with volunteers passing blankets to families. On the back someone had written that more than a thousand people had been worried about the river that week. Jay looked at the picture of a young worker in wet pants. “That could be my uncle,” he said. Mia felt the past come closer. These were not only maps and rules; they were records of people helping one another.",
+        "zh": "大家等另一份檔案時，鎮上的護士帶著一盒舊紙進來。她在以前供工作人員暴風雨時煮飯的廚房櫥櫃裡找到它們。一張照片拍到停在學校旁的汽車，志工正把毛毯傳給家庭。背面有人寫著，那一週超過一千人為河水擔心。杰看著一個穿濕褲子的年輕工人：「那可能是我叔叔。」米婭覺得過去更靠近了。這些不只是地圖和規則，也是人們互相幫助的紀錄。",
+        "englishSha256": "91ad211490cb479f1e71d3bc4078d55886c153fc5d430087cb993a9d08ebea9c",
+        "chineseSha256": "9c9e9263447907e04cbe9c70fd7a2e62e5fa6f6d6e2f23457e6e3d64a075bdea"
+      },
+      {
+        "number": 6,
+        "en": "As they left the office, rain began to touch the street. It was light, but Mia watched each drop as if it might tell her something. She thought of the blue mark, the closed gate, and the years during which nobody had asked questions. “Does this mean the factory broke a rule?” Ruby asked Officer Su. “Not yet,” the officer said. “We need to read the whole paper and speak with the people involved. Remember that a missing page is not proof of a bad act.” Mia wrote that under FACT, not GUESS, because it was a rule for how they would work. Ms. Kao waved from the door. “Try the city records room,” she called.",
+        "zh": "離開公所時，雨開始落在街上。雨很小，但米婭看著每一滴水，彷彿它會告訴自己事情。她想到藍色標記、關閉的閘門，以及多年來沒有人追問的日子。「這表示工廠違規嗎？」露比問蘇小姐。「還不能這樣說，」蘇小姐回答，「要先看完整文件，詢問相關人員。記住，少了一頁紙不等於有人做壞事。」米婭把這句話寫進「事實」欄，而不是「猜測」，因為它是大家做事的準則。高小姐從門口揮手：「去市區檔案室試試看！」",
+        "englishSha256": "8cf83ed5b9f7656d7d47174808aa4d04dd92bb947d8b9c1ddcb6359c1d2490ed",
+        "chineseSha256": "568c23a261c0b4181af53cefc92850d9ffcc49f042d6a8ab8d47253cd4200c32"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 666,
+    "targets": [
+      {
+        "word": "be",
+        "meaning": "是",
+        "appearsInSource": true
+      },
+      {
+        "word": "blue",
+        "meaning": "藍色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "called",
+        "meaning": "打電話",
+        "appearsInSource": true
+      },
+      {
+        "word": "car",
+        "meaning": "汽車",
+        "appearsInSource": true
+      },
+      {
+        "word": "cold",
+        "meaning": "冷的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cook",
+        "meaning": "烹煮",
+        "appearsInSource": true
+      },
+      {
+        "word": "dictionary",
+        "meaning": "字典",
+        "appearsInSource": true
+      },
+      {
+        "word": "fan",
+        "meaning": "電風扇",
+        "appearsInSource": true
+      },
+      {
+        "word": "maybe",
+        "meaning": "可能",
+        "appearsInSource": true
+      },
+      {
+        "word": "nurse",
+        "meaning": "護士",
+        "appearsInSource": true
+      },
+      {
+        "word": "pants",
+        "meaning": "褲子",
+        "appearsInSource": true
+      },
+      {
+        "word": "past",
+        "meaning": "過去",
+        "appearsInSource": true
+      },
+      {
+        "word": "probably",
+        "meaning": "大概",
+        "appearsInSource": true
+      },
+      {
+        "word": "secretary",
+        "meaning": "秘書",
+        "appearsInSource": true
+      },
+      {
+        "word": "sentence",
+        "meaning": "句子",
+        "appearsInSource": true
+      },
+      {
+        "word": "temple",
+        "meaning": "寺廟",
+        "appearsInSource": true
+      },
+      {
+        "word": "thousand",
+        "meaning": "千",
+        "appearsInSource": true
+      },
+      {
+        "word": "trees",
+        "meaning": "樹",
+        "appearsInSource": true
+      },
+      {
+        "word": "under",
+        "meaning": "在……下面",
+        "appearsInSource": true
+      },
+      {
+        "word": "weather",
+        "meaning": "天氣",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Blue Mark〉第 1 段的事件，哪個選項能正確補完整句？\nKao, placed ____ on the table.",
+      "options": [
+        "a poster asking people",
+        "a blue folder",
+        "a certain level"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a blue folder",
+      "existingAnswerExplanation": "原文證據：Kao, placed a blue folder on the table.\n本段對照：蘇小姐在鎮公所和米婭、她父親及其他人會合。她解釋，有些舊紀錄開放民眾查閱，但必須由職員從庫房拿出來。秘書高小姐把藍色資料夾放在桌上。「今天可以給你們看這幾張地圖。」她說。米婭小心翻開第一張，多年前的河道圖出現在眼前。北閘門附近的藍色標記表示水能通過道路下方。新圖上，同一個地方卻被標成封閉。米婭抬頭問：「它是什麼時候改的？」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Officer Su met Mia, her father, and the others at the town office. She explained that some old records could be read by the public, but a worker had to bring the books from storage. The secretary, a quiet woman named Ms. Kao, placed a blue folder on the table. “These are the maps we can show you today,” she said. Mia opened the first sheet carefully. It was a map of the river from many years in the past. A blue mark near the north gate meant that water could pass under the road. On the newer map the same place was marked closed. Mia looked up. “When did that change?”",
+          "chinese": "蘇小姐在鎮公所和米婭、她父親及其他人會合。她解釋，有些舊紀錄開放民眾查閱，但必須由職員從庫房拿出來。秘書高小姐把藍色資料夾放在桌上。「今天可以給你們看這幾張地圖。」她說。米婭小心翻開第一張，多年前的河道圖出現在眼前。北閘門附近的藍色標記表示水能通過道路下方。新圖上，同一個地方卻被標成封閉。米婭抬頭問：「它是什麼時候改的？」",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 6,
+          "english": "As they left the office, rain began to touch the street. It was light, but Mia watched each drop as if it might tell her something. She thought of the blue mark, the closed gate, and the years during which nobody had asked questions. “Does this mean the factory broke a rule?” Ruby asked Officer Su. “Not yet,” the officer said. “We need to read the whole paper and speak with the people involved. Remember that a missing page is not proof of a bad act.” Mia wrote that under FACT, not GUESS, because it was a rule for how they would work. Ms. Kao waved from the door. “Try the city records room,” she called.",
+          "chinese": "離開公所時，雨開始落在街上。雨很小，但米婭看著每一滴水，彷彿它會告訴自己事情。她想到藍色標記、關閉的閘門，以及多年來沒有人追問的日子。「這表示工廠違規嗎？」露比問蘇小姐。「還不能這樣說，」蘇小姐回答，「要先看完整文件，詢問相關人員。記住，少了一頁紙不等於有人做壞事。」米婭把這句話寫進「事實」欄，而不是「猜測」，因為它是大家做事的準則。高小姐從門口揮手：「去市區檔案室試試看！」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Blue Mark〉第 6 段的事件，哪個選項能正確補完整句？\n“We need to read ____ and speak with the people involved.",
+      "options": [
+        "the decision",
+        "the friend's home",
+        "the whole paper"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the whole paper",
+      "existingAnswerExplanation": "原文證據：“We need to read the whole paper and speak with the people involved.\n本段對照：離開公所時，雨開始落在街上。雨很小，但米婭看著每一滴水，彷彿它會告訴自己事情。她想到藍色標記、關閉的閘門，以及多年來沒有人追問的日子。「這表示工廠違規嗎？」露比問蘇小姐。「還不能這樣說，」蘇小姐回答，「要先看完整文件，詢問相關人員。記住，少了一頁紙不等於有人做壞事。」米婭把這句話寫進「事實」欄，而不是「猜測」，因為它是大家做事的準則。高小姐從門口揮手：「去市區檔案室試試看！」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "As they left the office, rain began to touch the street. It was light, but Mia watched each drop as if it might tell her something. She thought of the blue mark, the closed gate, and the years during which nobody had asked questions. “Does this mean the factory broke a rule?” Ruby asked Officer Su. “Not yet,” the officer said. “We need to read the whole paper and speak with the people involved. Remember that a missing page is not proof of a bad act.” Mia wrote that under FACT, not GUESS, because it was a rule for how they would work. Ms. Kao waved from the door. “Try the city records room,” she called.",
+          "chinese": "離開公所時，雨開始落在街上。雨很小，但米婭看著每一滴水，彷彿它會告訴自己事情。她想到藍色標記、關閉的閘門，以及多年來沒有人追問的日子。「這表示工廠違規嗎？」露比問蘇小姐。「還不能這樣說，」蘇小姐回答，「要先看完整文件，詢問相關人員。記住，少了一頁紙不等於有人做壞事。」米婭把這句話寫進「事實」欄，而不是「猜測」，因為它是大家做事的準則。高小姐從門口揮手：「去市區檔案室試試看！」",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 3,
+          "english": "Jay had brought a small dictionary to help read the older notes. Most of the words were easy, but some looked different from those used today. Ruby turned on a fan because the room was warm, and a corner of one paper lifted. Officer Su gently held it down. “Please don't touch the originals without asking,” she reminded them. Leo counted the map lines under the blue mark. “There are three ways for water to move,” he said. “The new plan shows only two.” “Maybe the third one was no longer needed,” Ruby suggested. “Probably,” Leo said, “but we must see why.”",
+          "chinese": "杰帶了小字典，幫忙讀舊筆記。多數單字很簡單，有些卻和今天的用法不同。露比因房間太熱而打開電風扇，一張紙的角落被風吹起。蘇小姐輕輕按住，提醒大家：「沒有先問，別碰原件。」李奧數著藍色標記下的地圖線條。「有三條水路，」他說，「新計畫只畫兩條。」「也許第三條已經不需要了。」露比說。「可能，」李奧回答，「但得知道原因。」",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

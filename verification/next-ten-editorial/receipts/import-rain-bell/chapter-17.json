@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 17,
+  "chapterId": "import-rain-bell-17",
+  "sourceChapterSha256": "ba207239bf5ced204d4b9323825c9ce794514ceab48e936574b1007fd9e9a5e1",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "工廠司機記得測試時「關閘、開泵、數到十」，現場機械可在無雨時觸發鐘聲，距離預期暴雨時間已短。",
+    "previousChapterEndingEnglish": "The next morning Mr. Han stood before the factory gate, wearing a white shirt. He looked tired. “We may have to close earlier than planned,” he told the workers. “The town is asking new questions about the water path, and we need time to answer them.” Leo's mother crossed her arms. Ruby began to speak, then stopped. This was not her story to make simple. Mr. Han went on: “No one has lost a job today. I want to keep it that way.” Mia took notes. At the end she asked about the missing water line on the new plan. Mr. Han did not answer. He said only, “Come to my office tomorrow.”",
+    "nextChapterOpeningEnglish": "Officer Su asked the school to practice the safety plan that day. “Yesterday we had a paper map,” she told the students. “Today we need to know if it works for a real child, an older person, and a family with bags.” The team gathered on the grass near the sports field. A giant ball from a dance program stood in the middle of the path. “That must move,” Mia said. “Someone could fall while trying to go around it.” Jay helped put the ball in a safe place. Mr. Chen, the school leader, opened a notebook and began to set a time for each group."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The factory driver met Mia and Officer Su at the office. Mr. Han had agreed to show them a book of tests. The driver was an older man with a friendly face and a strong voice. “Before every test,” he said, “we had an order to repeat the same words: Gate closed, pump on, count to ten.” Mia wrote the words carefully. “Did you hear the bell?” she asked. “Sometimes,” he answered. “Really, I thought it was music from the river. The sound came and went.” He looked at Mr. Han. “I didn't decide when we tested. I only did the job I was given.”",
+        "zh": "工廠司機在辦公室與米婭、蘇小姐會面。韓先生同意讓她們看測試紀錄。司機是位年長男子，臉色和善，聲音宏亮。「每次測試前，」他說，「我們都按命令重複同一句話：關閘，開幫浦，數到十。」米婭小心記下。「你有聽到鐘嗎？」她問。「有時有，」他回答，「老實說，我還以為是河邊傳來的音樂。那聲音忽來忽去。」他看了韓先生一眼：「我不決定何時測試，只是照交代的工作去做。」",
+        "englishSha256": "9e046e55621198e527a62e36fe72f3486658d3b6a53a3b7686d94a54f8ff9234",
+        "chineseSha256": "3833e6dd5ccd1472afe6ac65237be3f2045d63fb1b4dc03473a9a0f1662846e6"
+      },
+      {
+        "number": 2,
+        "en": "Mia's father asked to see the dates. He knew the old machine and could explain one example from the book. “If the pump pushes enough water into the low path, the level rises,” he said. “A wooden part under the house moves, and the bell rings.” “Is that possible without rain?” Ruby asked. “Yes,” he answered. “That is the reason the first repair test was done on a dry day.” Mia thought of her uncle's question. After many days, she finally had a clear answer. It did not make the problem smaller. If a short test could lift the water, what could a whole night of rain do?",
+        "zh": "米婭的父親要求看日期。他熟悉老機器，可以解釋紀錄裡的一個例子。「如果幫浦把足夠的水推進低水道，水位就會升高，」他說，「河屋下方的木製零件移動，鐘就響了。」「不下雨也可能嗎？」露比問。「可能，」他回答，「這就是第一次維修測試選在乾天的原因。」米婭想起叔叔的問題。過了這麼多天，她終於得到清楚答案。可這沒有讓事情變小：短暫測試就能讓水上升，那下整夜大雨又會怎樣？",
+        "englishSha256": "80fad4538fa86bf73875887b4c7146985145a81be09e1afd580f26d6a2fcd510",
+        "chineseSha256": "abb28c303f6d82bbfc3175eb6f5518101104215f96d830d496ef2386eb18623e"
+      },
+      {
+        "number": 3,
+        "en": "Officer Su turned to Mr. Han. “The town needs to know who made the decision to keep the gate closed,” she said. “Can you provide the full record?” Mr. Han nodded, but his hands stayed on the table. “I took this job much later,” he said. “I was told the closed gate was safe. I did not read the old test rule.” Leo's mother, who had come to the meeting, looked at her boss. “People trust you to check things,” she said. “We want to keep working. We also want to go home safe.” Mr. Han looked at the floor. For once he had no easy words.",
+        "zh": "蘇小姐轉向韓先生：「鎮上需要知道誰決定讓閘門一直關著。你能提供完整紀錄嗎？」韓先生點頭，雙手卻仍放在桌上。「我是在更晚的時候才接這份工作，」他說，「有人告訴我關閘是安全的。我沒有讀過舊測試規定。」參加會議的李奧母親望著主管：「大家信任你會查清楚。我們想繼續工作，也想平安回家。」韓先生低頭，這一次找不到容易的說法。",
+        "englishSha256": "eddc47adc2d79a5bef2cd18a75fd48df2c3f2bc7ec6e104f7e6a166925cb41f1",
+        "chineseSha256": "b4cb4ad13eb57c67ca0f2eadb18573b368834cca20240dff5765fb6e30638c2b"
+      },
+      {
+        "number": 4,
+        "en": "At lunch Jay brought popcorn and vegetables to the park. He made a little show of repeating the driver's words in a deep voice, but nobody laughed much. “Who remembers the time of the first bell?” he asked. Mia did. “Six ten.” Ruby looked at her video. “The low sound started before six ten. The bell came after it.” Leo drew two short lines on a page and marked the times. “Now the missing seconds make sense,” he said. “The phone lost part of the picture, but it kept enough sound before and after for us to understand the order.” Ruby smiled weakly. “My bad film had one useful thing in it after all.”",
+        "zh": "午餐時，杰帶了爆米花和蔬菜到公園。他用低沉聲音模仿司機重複指令，做得像表演，但沒多少人笑。「誰記得第一次鐘響的時間？」他問。米婭記得：「六點十分。」露比查看影片：「低沉聲音在六點十分前開始，鐘響在後。」李奧在紙上畫兩條短線，標上時間。「缺掉的十七秒終於有意思了，」他說，「手機失去了部分畫面，但前後還留下足夠聲音，讓我們知道順序。」露比淡淡一笑：「原來我的壞影片還是有一點用處。」",
+        "englishSha256": "eea51dbd1363efb20f5de4322b333b11f17f38173658a9524f5c553968a16fc6",
+        "chineseSha256": "ac631797bf8dd5f6dd6375f11d961cb05d6dc8fde9c7ea54a39694f876b481b8"
+      },
+      {
+        "number": 5,
+        "en": "After the meeting, the driver asked to talk with Mia's father outside. The air had grown cool, and a little smoke from a distant food stand moved over the road. The driver pointed a finger at the old test book. “I was married that year,” he said. “I had a baby and was afraid to lose my job. When someone told me the gate was fine, I believed him.” Mr. Lin nodded. “I had a family too. I thought keeping quiet would help.” They stood together for a while, neither trying to excuse himself. Then the driver said, “We need to tell the town what we remember, even if it makes us uncomfortable.”",
+        "zh": "會後，司機請米婭父親到外面談話。空氣變涼，遠處食物攤位的淡煙飄過道路。司機用手指指著舊測試冊：「那年我剛結婚，有了孩子，怕失去工作。有人告訴我閘門沒問題，我就相信了。」林先生點頭：「我也有家庭，以為沉默會有幫助。」兩人並肩站了一會兒，都沒有替自己找藉口。司機最後說：「就算不舒服，也得把記得的事告訴小鎮。」",
+        "englishSha256": "a268569cc4073562f5a50ce499142966069ffa7026379a17232b6787ff8b9c61",
+        "chineseSha256": "75c2ea0d7b6a1c45fcbe8b02c43d488ff7963f8b0fc218070e006e937d28a24f"
+      },
+      {
+        "number": 6,
+        "en": "That afternoon Officer Su called them with new weather news. Heavy rain was possible sooner than people had expected. The sale hearing might fall on the same day as a river warning. “We cannot wait for a meeting to make a safety plan,” she said. She asked Leo to help the school check the old route drawings, and Mia to make a list of questions for the public office. “Is it possible to open the gate now?” Mia asked. “That is a job for trained adults,” Officer Su answered. “First we check the condition, then we decide how to protect the town.”",
+        "zh": "當天下午，蘇小姐打電話帶來新的天氣消息。大雨可能比預期更早到。出售公聽會恐怕碰上河道警戒日。「我們不能等開完會才做安全計畫，」她說。她請李奧幫學校核對舊避難路線圖，米婭則整理要向公所提問的問題。「現在能開閘嗎？」米婭問。「那是受過訓練的大人的工作，」蘇小姐說，「先檢查狀況，再決定怎麼保護全鎮。」",
+        "englishSha256": "2c35cbd792fbf2be2965da6b188f2e0a11d8bab9622de3d3c2d1316d2ab7e427",
+        "chineseSha256": "8218e8b92c6d3892ce0578dae69129169bbbe637798346118903702b86674287"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 649,
+    "targets": [
+      {
+        "word": "air",
+        "meaning": "空氣",
+        "appearsInSource": true
+      },
+      {
+        "word": "decide",
+        "meaning": "決定",
+        "appearsInSource": true
+      },
+      {
+        "word": "driver",
+        "meaning": "司機",
+        "appearsInSource": true
+      },
+      {
+        "word": "enough",
+        "meaning": "足夠",
+        "appearsInSource": true
+      },
+      {
+        "word": "example",
+        "meaning": "例子",
+        "appearsInSource": true
+      },
+      {
+        "word": "face",
+        "meaning": "臉",
+        "appearsInSource": true
+      },
+      {
+        "word": "finger",
+        "meaning": "手指",
+        "appearsInSource": true
+      },
+      {
+        "word": "married",
+        "meaning": "已婚的",
+        "appearsInSource": true
+      },
+      {
+        "word": "music",
+        "meaning": "音樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "order",
+        "meaning": "命令",
+        "appearsInSource": true
+      },
+      {
+        "word": "popcorn",
+        "meaning": "爆米花",
+        "appearsInSource": true
+      },
+      {
+        "word": "possible",
+        "meaning": "可能的",
+        "appearsInSource": true
+      },
+      {
+        "word": "really",
+        "meaning": "真的",
+        "appearsInSource": true
+      },
+      {
+        "word": "reason",
+        "meaning": "原因",
+        "appearsInSource": true
+      },
+      {
+        "word": "repeat",
+        "meaning": "重複",
+        "appearsInSource": true
+      },
+      {
+        "word": "smoke",
+        "meaning": "煙",
+        "appearsInSource": true
+      },
+      {
+        "word": "strong",
+        "meaning": "強的",
+        "appearsInSource": true
+      },
+      {
+        "word": "talk",
+        "meaning": "談話",
+        "appearsInSource": true
+      },
+      {
+        "word": "vegetables",
+        "meaning": "蔬菜",
+        "appearsInSource": true
+      },
+      {
+        "word": "who",
+        "meaning": "誰",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Sound That Repeated〉第 3 段的事件，哪個選項能正確補完整句？\n“The town needs to know who made ____ to keep the gate closed,” she said.",
+      "options": [
+        "the locked gate",
+        "the bell",
+        "the decision"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the decision",
+      "existingAnswerExplanation": "原文證據：“The town needs to know who made the decision to keep the gate closed,” she said.\n本段對照：蘇小姐轉向韓先生：「鎮上需要知道誰決定讓閘門一直關著。你能提供完整紀錄嗎？」韓先生點頭，雙手卻仍放在桌上。「我是在更晚的時候才接這份工作，」他說，「有人告訴我關閘是安全的。我沒有讀過舊測試規定。」參加會議的李奧母親望著主管：「大家信任你會查清楚。我們想繼續工作，也想平安回家。」韓先生低頭，這一次找不到容易的說法。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Officer Su turned to Mr. Han. “The town needs to know who made the decision to keep the gate closed,” she said. “Can you provide the full record?” Mr. Han nodded, but his hands stayed on the table. “I took this job much later,” he said. “I was told the closed gate was safe. I did not read the old test rule.” Leo's mother, who had come to the meeting, looked at her boss. “People trust you to check things,” she said. “We want to keep working. We also want to go home safe.” Mr. Han looked at the floor. For once he had no easy words.",
+          "chinese": "蘇小姐轉向韓先生：「鎮上需要知道誰決定讓閘門一直關著。你能提供完整紀錄嗎？」韓先生點頭，雙手卻仍放在桌上。「我是在更晚的時候才接這份工作，」他說，「有人告訴我關閘是安全的。我沒有讀過舊測試規定。」參加會議的李奧母親望著主管：「大家信任你會查清楚。我們想繼續工作，也想平安回家。」韓先生低頭，這一次找不到容易的說法。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 1,
+          "english": "The factory driver met Mia and Officer Su at the office. Mr. Han had agreed to show them a book of tests. The driver was an older man with a friendly face and a strong voice. “Before every test,” he said, “we had an order to repeat the same words: Gate closed, pump on, count to ten.” Mia wrote the words carefully. “Did you hear the bell?” she asked. “Sometimes,” he answered. “Really, I thought it was music from the river. The sound came and went.” He looked at Mr. Han. “I didn't decide when we tested. I only did the job I was given.”",
+          "chinese": "工廠司機在辦公室與米婭、蘇小姐會面。韓先生同意讓她們看測試紀錄。司機是位年長男子，臉色和善，聲音宏亮。「每次測試前，」他說，「我們都按命令重複同一句話：關閘，開幫浦，數到十。」米婭小心記下。「你有聽到鐘嗎？」她問。「有時有，」他回答，「老實說，我還以為是河邊傳來的音樂。那聲音忽來忽去。」他看了韓先生一眼：「我不決定何時測試，只是照交代的工作去做。」",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Sound That Repeated〉第 4 段的事件，哪個選項能正確補完整句？\n“Six ten.” Ruby looked at ____.",
+      "options": [
+        "her phone up",
+        "her video",
+        "her list against Ruby's copy"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "her video",
+      "existingAnswerExplanation": "原文證據：“Six ten.” Ruby looked at her video.\n本段對照：午餐時，杰帶了爆米花和蔬菜到公園。他用低沉聲音模仿司機重複指令，做得像表演，但沒多少人笑。「誰記得第一次鐘響的時間？」他問。米婭記得：「六點十分。」露比查看影片：「低沉聲音在六點十分前開始，鐘響在後。」李奧在紙上畫兩條短線，標上時間。「缺掉的十七秒終於有意思了，」他說，「手機失去了部分畫面，但前後還留下足夠聲音，讓我們知道順序。」露比淡淡一笑：「原來我的壞影片還是有一點用處。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "At lunch Jay brought popcorn and vegetables to the park. He made a little show of repeating the driver's words in a deep voice, but nobody laughed much. “Who remembers the time of the first bell?” he asked. Mia did. “Six ten.” Ruby looked at her video. “The low sound started before six ten. The bell came after it.” Leo drew two short lines on a page and marked the times. “Now the missing seconds make sense,” he said. “The phone lost part of the picture, but it kept enough sound before and after for us to understand the order.” Ruby smiled weakly. “My bad film had one useful thing in it after all.”",
+          "chinese": "午餐時，杰帶了爆米花和蔬菜到公園。他用低沉聲音模仿司機重複指令，做得像表演，但沒多少人笑。「誰記得第一次鐘響的時間？」他問。米婭記得：「六點十分。」露比查看影片：「低沉聲音在六點十分前開始，鐘響在後。」李奧在紙上畫兩條短線，標上時間。「缺掉的十七秒終於有意思了，」他說，「手機失去了部分畫面，但前後還留下足夠聲音，讓我們知道順序。」露比淡淡一笑：「原來我的壞影片還是有一點用處。」",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "The factory driver met Mia and Officer Su at the office. Mr. Han had agreed to show them a book of tests. The driver was an older man with a friendly face and a strong voice. “Before every test,” he said, “we had an order to repeat the same words: Gate closed, pump on, count to ten.” Mia wrote the words carefully. “Did you hear the bell?” she asked. “Sometimes,” he answered. “Really, I thought it was music from the river. The sound came and went.” He looked at Mr. Han. “I didn't decide when we tested. I only did the job I was given.”",
+          "chinese": "工廠司機在辦公室與米婭、蘇小姐會面。韓先生同意讓她們看測試紀錄。司機是位年長男子，臉色和善，聲音宏亮。「每次測試前，」他說，「我們都按命令重複同一句話：關閘，開幫浦，數到十。」米婭小心記下。「你有聽到鐘嗎？」她問。「有時有，」他回答，「老實說，我還以為是河邊傳來的音樂。那聲音忽來忽去。」他看了韓先生一眼：「我不決定何時測試，只是照交代的工作去做。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

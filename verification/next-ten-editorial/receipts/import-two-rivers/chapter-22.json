@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 22,
+  "chapterId": "import-two-rivers-22",
+  "sourceChapterSha256": "283d3e7713f050a4b05ba2929332ce674aec01874525553be618832d6d4b1e0f",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "兩人依工程師指令分段移動輪盤，私人線故障使水壓不穩，受訓隊伍先關閉私路，禁止未成年者擅闖。",
+    "previousChapterEndingEnglish": "Rain struck the roof harder. The emergency team announced that the public road would close in one hour. Yu carried the approved plans to the safe control station, where the chief asked for a final check of the spirit marks. Qi stood near the engineers, his coat dark with rain. When Yu entered, Qi's tense face softened. “You came,” he said. “I told you I would,” Yu answered. The chief raised her hand for silence. Outside, a deep bell began to sound. This time the sound did not come from magic alone; the city's real warning system had joined it.",
+    "nextChapterOpeningEnglish": "The repaired wheel turned, and the Quiet River opened another small distance. Pressure began to fall. But the chief inspector still needed to know why Luo had started the private channel one night early. She sent a search team to the room beneath his hall, where the hidden wire had led. Within an hour the team found a metal album of old plans, a complex contract, and letters signed by the Mountain Society. The documents showed that a private company had paid Luo to direct extra water to spirit towers. An emergency would have allowed the company to take control of the gates permanently."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The following hour felt longer than a whole day. Rain fell throughout the valley, and the road to the old gate turned into a shallow stream. The emergency keeper gave Yu and Qi dry cloth for their hands, then showed them the repair team's screen. Water pressure was rising near the stone wall, but the new wheel remained stable. “Do not lift the handle until I give the signal,” she warned. Yu nodded. Qi stood so still that he looked like a statue, although Yu could see how nervous he was. Beyond the window, the first battle was against the water, not against another person.",
+        "zh": "接下來的一小時，比整天還長。雨下遍山谷，通往舊閘的道路變成淺溪。緊急站管理員拿乾布給沈雨和韓祈擦手，再讓他們看修理隊的螢幕。石牆附近水壓上升，但新輪盤仍穩定。「我沒給訊號前，不能抬控制把手。」她警告。沈雨點頭。韓祈站得像石像般不動，沈雨卻看得出他很緊張。窗外第一場戰鬥是對抗洪水，不是對抗任何人。",
+        "englishSha256": "28b77efd8617d9364e5503a1687c6767dd6bc8c766e78dc5dbee2126025deeaf",
+        "chineseSha256": "4bcc3ce68cf1aaa9adcb28d46ff1cffdb1ee86d4cd79d71307fee2435db8272a"
+      },
+      {
+        "number": 2,
+        "en": "A worker brought bread with cream and a little ketchup on the side. Nobody was hungry, but the chief made the team eat. “We need energy to think clearly,” she said. She checked the pressure limit again. The water had reached the safe line, yet the gate could still open in small steps. A repair worker explained the custom of the old guardians: one person sensed the movement inside the stone, while the other watched the air above the river. Their thought was not to defeat water, but to return it to the path that could carry it safely.",
+        "zh": "工人送來麵包、奶油和一小碟番茄醬。大家都沒胃口，但總指揮仍要他們吃。「我們需要力氣才能清楚思考。」她說。她又確認壓力上限。水已到安全線，閘門仍能一小步一小步打開。修理工解釋古代守護者的習俗：一人感應石中的水動，另一人觀察河上空氣。他們的想法不是打敗水，而是讓水回到能安全承載它的路。",
+        "englishSha256": "9d811e7e026ba40bdfc05ffb836f4552b4806ceb334b88278795b54876dbe924",
+        "chineseSha256": "74cb610c1446a12bf9757ee460581fca429995029c4ccf8298886b90b6dcfd7e"
+      },
+      {
+        "number": 3,
+        "en": "When the chief gave the first signal, Qi took the outer handle and Yu placed his palm against the inner stone. They breathed together, as they had on the moving floor at school. Qi lifted the handle a little, then shut his eyes to listen for Yu's count. “One. Two. Three. Stop.” The wheel moved a small distance. The engineers watched the screen and confirmed that water had begun to return to the Quiet River. Everyone relaxed for a moment. Then a new warning appeared: a second door in the private tower had opened against the approved plan.",
+        "zh": "總指揮給出第一個訊號，韓祈握住外側把手，沈雨把掌心按上內石。兩人像入學時在移動地板上一樣同步呼吸。韓祈稍稍抬起把手，閉眼聽沈雨數數。「一、二、三。停。」輪盤移動一點。工程師看著螢幕，確認水開始回到靜河。大家短暫放鬆，接著新警告出現：私人塔裡第二道門竟違反核准計畫而開啟。",
+        "englishSha256": "546bb61362c839412ad003192b04076084ba94a9e5408a1055fc09b29294c89e",
+        "chineseSha256": "d0ccde41230e61894eb9ef752284c8010b6554d55af501dbc986c75a765d5be7"
+      },
+      {
+        "number": 4,
+        "en": "The chief ordered the private line closed from the outside station. But someone had rented the control room under a false name, and its remote switch no longer answered. A young keeper who had worked there looked ashamed. “I thought it was only a test,” he said. Yu asked him to explain what he had seen. The man admitted that Luo's assistant had installed a new wire and told him to say nothing. “I was shy and afraid of losing work,” he said. “I should have spoken.” Qi replied, “You are speaking now. Help them find the right line.”",
+        "zh": "總指揮命人從外站關閉私人線路。但有人用假名租下控制室，遠端開關已無反應。一名曾在那裡工作的年輕管理員面有愧色。「我以為只是測試。」他說。沈雨請他說出看見的事。男人承認羅的助理裝了新電線，還叫他別出聲。「我害羞，也怕丟工作，」他說，「早該講。」韓祈回答：「你現在說了。幫大家找對線路吧。」",
+        "englishSha256": "65cfe70dfd7ad1803b99b72fdb7cdaeef207c8998d74cfaa1370dd98da10f318",
+        "chineseSha256": "6efb6c871a3e144e2a84dd1f620b034ceef0f4b6955ae22a475e4e91797de907"
+      },
+      {
+        "number": 5,
+        "en": "The engineers studied the model and decided the private passage must be shut at its source. A trained team went to the nearby room to return the switch to its proper position. The teenagers waited at their station. Yu wished he could run after the team, but knew that would only create another danger. Qi looked at him. “You are thinking about the people in the tunnel,” he said. “I am too.” Yu put a hand over his own mark. The low sound from the stone became uneven. For the first time, the two halves seemed to beat at different times.",
+        "zh": "工程師研究模型，決定必須從源頭關閉私人通道。受訓隊伍到附近控制室，把開關恢復正確位置。兩名少年在原站等待。沈雨很想追過去，卻知道只會造成另一種危險。韓祈看向他。「你在擔心隧道裡的人，」他說，「我也是。」沈雨把手放在自己的印記上。石頭傳來的低音變得不規則。第一次，兩個半圓像在不同時間跳動。",
+        "englishSha256": "ddf110921534b6e851980f8f6de3942bfa97315b8ad7082e771616c816bdade2",
+        "chineseSha256": "0eca63244e38c7e627a357477fbbeed08b7db2abdd8c613647a029878cb561af"
+      },
+      {
+        "number": 6,
+        "en": "The keeper kept a diary of the gate test, writing down every change in pressure and the time it occurred. Two teens from the academy helped carry messages between the safe rooms. One asked whether the city's spirit industry would survive the shutdown. The chief answered that jobs mattered, but workers and families could not survive a disaster without safety. “First we protect people,” she said. “Then we decide how to rebuild the work.”",
+        "zh": "管理員用日記記下閘門測試，包括每次壓力變化與發生時間。兩名學院青少年協助在安全房間間傳遞消息。一人問城市的靈力產業能否挺過停工。總指揮回答，工作很重要，但若沒有安全保障，工人家庭也無法在災難中活下去。「先保護人，」她說，「再決定如何重建產業。」",
+        "englishSha256": "746b7b9220c9a07f6be7abe92c651a60caacd980467f366d53cf72cb9d4d2c6b",
+        "chineseSha256": "c6364e924aaea07cc99f4db7318eab353fd3990a61f9b2c6a15d2f9b1ed169f7"
+      },
+      {
+        "number": 7,
+        "en": "A message came from the team: the passage had been closed, but the sudden change had raised pressure near the oldest wall. The chief ordered everyone to prepare for one final turn of the repaired wheel. Qi's hands shook. “What if we fail?” he asked. Yu looked at the person who had always seemed beyond fear. “Then we tell the engineers what happened, and try another safe plan.” Qi breathed out. The chief counted down. Outside, water struck the stone with a sound like a hundred drums. Inside, Yu and Qi put their hands in place once more.",
+        "zh": "隊伍傳回消息：私人通道已關，但突然改變的水流讓最古老的牆附近壓力上升。總指揮命大家準備最後一次轉動修好的輪盤。韓祈雙手顫抖。「如果我們失敗呢？」他問。沈雨看著那個過去似乎不怕任何事的人。「就把發生的事告訴工程師，再試另一個安全方案。」韓祈吐出一口氣。總指揮開始倒數。窗外水撞上石牆，像百面鼓齊響。室內，兩人再度把手放到正確位置。",
+        "englishSha256": "38b29193fc6db400e6f3c5e8d32b9128ace2b16b112433cc3df8fb44ec25ca69",
+        "chineseSha256": "4931c358e66366915a93b8746dff2b88139739db3c389669478954686b4b662a"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 674,
+    "targets": [
+      {
+        "word": "battle",
+        "meaning": "戰鬥",
+        "appearsInSource": true
+      },
+      {
+        "word": "cloth",
+        "meaning": "布",
+        "appearsInSource": true
+      },
+      {
+        "word": "cream",
+        "meaning": "奶油",
+        "appearsInSource": true
+      },
+      {
+        "word": "custom",
+        "meaning": "習俗",
+        "appearsInSource": true
+      },
+      {
+        "word": "diary",
+        "meaning": "日記",
+        "appearsInSource": true
+      },
+      {
+        "word": "following",
+        "meaning": "接著的",
+        "appearsInSource": true
+      },
+      {
+        "word": "industry",
+        "meaning": "產業",
+        "appearsInSource": true
+      },
+      {
+        "word": "keeper",
+        "meaning": "管理人",
+        "appearsInSource": true
+      },
+      {
+        "word": "ketchup",
+        "meaning": "番茄醬",
+        "appearsInSource": true
+      },
+      {
+        "word": "lift",
+        "meaning": "抬起",
+        "appearsInSource": true
+      },
+      {
+        "word": "limit",
+        "meaning": "限制",
+        "appearsInSource": true
+      },
+      {
+        "word": "nervous",
+        "meaning": "緊張的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rented",
+        "meaning": "租用",
+        "appearsInSource": true
+      },
+      {
+        "word": "return",
+        "meaning": "返回",
+        "appearsInSource": true
+      },
+      {
+        "word": "screen",
+        "meaning": "螢幕",
+        "appearsInSource": true
+      },
+      {
+        "word": "shut",
+        "meaning": "關閉",
+        "appearsInSource": true
+      },
+      {
+        "word": "shy",
+        "meaning": "害羞的",
+        "appearsInSource": true
+      },
+      {
+        "word": "teens",
+        "meaning": "青少年",
+        "appearsInSource": true
+      },
+      {
+        "word": "thought",
+        "meaning": "想法",
+        "appearsInSource": true
+      },
+      {
+        "word": "throughout",
+        "meaning": "遍及",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Two Hands at the Gate〉第 1 段的事件，哪個選項能正確補完整句？\nRain fell throughout the valley, and the road to the old gate turned into ____.",
+      "options": [
+        "a student",
+        "a shallow stream",
+        "a tour of the cell"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a shallow stream",
+      "existingAnswerExplanation": "原文證據：Rain fell throughout the valley, and the road to the old gate turned into a shallow stream.\n本段對照：接下來的一小時，比整天還長。雨下遍山谷，通往舊閘的道路變成淺溪。緊急站管理員拿乾布給沈雨和韓祈擦手，再讓他們看修理隊的螢幕。石牆附近水壓上升，但新輪盤仍穩定。「我沒給訊號前，不能抬控制把手。」她警告。沈雨點頭。韓祈站得像石像般不動，沈雨卻看得出他很緊張。窗外第一場戰鬥是對抗洪水，不是對抗任何人。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The following hour felt longer than a whole day. Rain fell throughout the valley, and the road to the old gate turned into a shallow stream. The emergency keeper gave Yu and Qi dry cloth for their hands, then showed them the repair team's screen. Water pressure was rising near the stone wall, but the new wheel remained stable. “Do not lift the handle until I give the signal,” she warned. Yu nodded. Qi stood so still that he looked like a statue, although Yu could see how nervous he was. Beyond the window, the first battle was against the water, not against another person.",
+          "chinese": "接下來的一小時，比整天還長。雨下遍山谷，通往舊閘的道路變成淺溪。緊急站管理員拿乾布給沈雨和韓祈擦手，再讓他們看修理隊的螢幕。石牆附近水壓上升，但新輪盤仍穩定。「我沒給訊號前，不能抬控制把手。」她警告。沈雨點頭。韓祈站得像石像般不動，沈雨卻看得出他很緊張。窗外第一場戰鬥是對抗洪水，不是對抗任何人。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 2,
+          "english": "A worker brought bread with cream and a little ketchup on the side. Nobody was hungry, but the chief made the team eat. “We need energy to think clearly,” she said. She checked the pressure limit again. The water had reached the safe line, yet the gate could still open in small steps. A repair worker explained the custom of the old guardians: one person sensed the movement inside the stone, while the other watched the air above the river. Their thought was not to defeat water, but to return it to the path that could carry it safely.",
+          "chinese": "工人送來麵包、奶油和一小碟番茄醬。大家都沒胃口，但總指揮仍要他們吃。「我們需要力氣才能清楚思考。」她說。她又確認壓力上限。水已到安全線，閘門仍能一小步一小步打開。修理工解釋古代守護者的習俗：一人感應石中的水動，另一人觀察河上空氣。他們的想法不是打敗水，而是讓水回到能安全承載它的路。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Two Hands at the Gate〉第 7 段的事件，哪個選項能正確補完整句？\nInside, Yu and Qi put ____ in place once more.",
+      "options": [
+        "their hands",
+        "their tradition",
+        "their two marks"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "their hands",
+      "existingAnswerExplanation": "原文證據：Inside, Yu and Qi put their hands in place once more.\n本段對照：隊伍傳回消息：私人通道已關，但突然改變的水流讓最古老的牆附近壓力上升。總指揮命大家準備最後一次轉動修好的輪盤。韓祈雙手顫抖。「如果我們失敗呢？」他問。沈雨看著那個過去似乎不怕任何事的人。「就把發生的事告訴工程師，再試另一個安全方案。」韓祈吐出一口氣。總指揮開始倒數。窗外水撞上石牆，像百面鼓齊響。室內，兩人再度把手放到正確位置。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "A message came from the team: the passage had been closed, but the sudden change had raised pressure near the oldest wall. The chief ordered everyone to prepare for one final turn of the repaired wheel. Qi's hands shook. “What if we fail?” he asked. Yu looked at the person who had always seemed beyond fear. “Then we tell the engineers what happened, and try another safe plan.” Qi breathed out. The chief counted down. Outside, water struck the stone with a sound like a hundred drums. Inside, Yu and Qi put their hands in place once more.",
+          "chinese": "隊伍傳回消息：私人通道已關，但突然改變的水流讓最古老的牆附近壓力上升。總指揮命大家準備最後一次轉動修好的輪盤。韓祈雙手顫抖。「如果我們失敗呢？」他問。沈雨看著那個過去似乎不怕任何事的人。「就把發生的事告訴工程師，再試另一個安全方案。」韓祈吐出一口氣。總指揮開始倒數。窗外水撞上石牆，像百面鼓齊響。室內，兩人再度把手放到正確位置。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "The following hour felt longer than a whole day. Rain fell throughout the valley, and the road to the old gate turned into a shallow stream. The emergency keeper gave Yu and Qi dry cloth for their hands, then showed them the repair team's screen. Water pressure was rising near the stone wall, but the new wheel remained stable. “Do not lift the handle until I give the signal,” she warned. Yu nodded. Qi stood so still that he looked like a statue, although Yu could see how nervous he was. Beyond the window, the first battle was against the water, not against another person.",
+          "chinese": "接下來的一小時，比整天還長。雨下遍山谷，通往舊閘的道路變成淺溪。緊急站管理員拿乾布給沈雨和韓祈擦手，再讓他們看修理隊的螢幕。石牆附近水壓上升，但新輪盤仍穩定。「我沒給訊號前，不能抬控制把手。」她警告。沈雨點頭。韓祈站得像石像般不動，沈雨卻看得出他很緊張。窗外第一場戰鬥是對抗洪水，不是對抗任何人。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 14,
+  "chapterId": "import-rain-bell-14",
+  "sourceChapterSha256": "953ba9e2b8a21e55f5ae9a12e587f36590225e74c53713261eb2dc2b0ab75878",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "姑姑說出祖父暴雨後離世的家庭記憶，米婭與父親恢復溝通，李奧母親提出工廠員工工作的正當需求。",
+    "previousChapterEndingEnglish": "They made copies with the worker's help and left the city before evening. On the train Mia did not ask another question for some time. She looked at the river far below the tracks and thought about promises. Her father took a small rock from his pocket, smooth and gray. “Your grandfather gave me this before my first day at work,” he said. “He told me to remember that one small thing can change a large road.” He put the stone in her hand. “Tomorrow we should show the copy to the town and the factory.” Mia nodded. But one question stayed with her: why had nobody checked that the gate was open again?",
+    "nextChapterOpeningEnglish": "The water pipe in Ruby's family restaurant broke during the busiest lunch of the week. At first a little water ran across the kitchen floor. Then it reached the door and turned down a narrow path toward the market. Ruby's sister shouted for help, and everyone moved their bags to a dry table. “Please don't walk through it,” Ruby told the visitors. Her father closed the water, while a repair worker came to check the pipe. The meal service stopped for an hour. “An expensive hour,” Ruby's mother said. “We can't keep a restaurant open if every day is like this.” Ruby knew exactly how Leo's family felt about losing work."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Mia's aunt came to dinner after she heard about the trip to the city. She brought fresh bread, lemons, and a large bowl of soup. “Your father may be angry that I am here,” she said, “but you should hear our family's story.” Mia's father was not angry. He took off his work uniform, put his blue gloves on a chair, and sat down. Her aunt spoke about the night of the great storm, when Mia's grandfather had gone to help people reach a safe place. He had died after becoming ill and tired. No one in the family had ever told Mia all of it.",
+        "zh": "姑姑聽說他們去了市區，便來家裡吃晚餐。她帶了新鮮麵包、檸檬和一大碗湯。「妳爸爸可能會氣我來，」她說，「但妳應該知道我們家的故事。」父親沒有生氣。他脫下工作制服，把藍手套放在椅上坐下。姑姑說起那個暴風雨的夜晚。當時米婭的爺爺去幫居民前往安全處所，後來因為生病、過度疲憊而過世。家裡從未把全部經過告訴米婭。",
+        "englishSha256": "55c642df69c64f4621be0c77758d41d6552f5ca2f4ffc03a39c94c7972242b5c",
+        "chineseSha256": "705eb6a578b4e01be7cb5b6bf80c115f493a0e46435107e2fc82a03fe4d8d3fa"
+      },
+      {
+        "number": 2,
+        "en": "“I didn't ever want to hide him from you,” her father said. “I thought telling you would make you afraid of rain.” “Not knowing made me afraid of you,” Mia replied. The words hurt them both. She wanted to take them back, but her father nodded. “I understand.” Aunt Lin placed her hand on Mia's shoulder. “People make choices when they are afraid. Some choices are good, and some are not. You can learn from both.” Mia looked at the blue paint on her father's glove. “Is that from the gate?” she asked. “From a later repair,” he said. “I kept it because I wanted to remember the work that was left.”",
+        "zh": "「我從沒有想把爺爺的事藏起來，」父親說，「我以為告訴妳，只會讓妳害怕下雨。」「但你不說，讓我開始害怕你。」米婭回答。這句話讓兩人都受傷。她想收回，但父親點頭：「我明白。」林姑姑把手放在她肩上：「人害怕時會做選擇。有些選擇好，有些不好。兩種都能教會我們事情。」米婭看向父親手套上的藍漆：「這是閘門上的嗎？」「是後來維修留下的，」父親說，「我一直留著，提醒自己那份沒做完的工作。」",
+        "englishSha256": "19f24bc675105901a897e3aee91b8dd96464d2a997a9739cb352d329469aa6b0",
+        "chineseSha256": "d9d0c8846badf57a9759ddaadf65f6a71b71ccb5f8a6fc54cb1743849a9c6aca"
+      },
+      {
+        "number": 3,
+        "en": "The next morning Leo's mother met them near the market. She had already heard that the town might stop the factory plan. “We agree that water safety matters,” she said. “But people need a job too. A business cannot rest for a year while everyone argues.” Mia did not know what to say. She had been thinking about the old house so often that she sometimes forgot how many people worked behind the factory walls. Leo's mother smiled at her. “I know you are trying to help. Just don't make us the enemy.” Mia promised she would not. Leo stood beside his mother, looking happier than he had for days.",
+        "zh": "隔天早上，李奧的母親在市場附近遇到他們。她已聽說鎮上可能停止工廠計畫。「我們同意水路安全很重要，」她說，「但人也需要工作。公司不能在大家爭論時停上一整年。」米婭一時不知怎麼回答。她常常想著河屋，差點忘了有多少人在工廠牆內上班。李奧的母親對她微笑：「我知道妳想幫忙，只是別把我們當敵人。」米婭答應了。李奧站在母親旁邊，神情比前幾天輕鬆得多。",
+        "englishSha256": "7990eb90fd90116c9f6a6337f124970f958c4442eb7d22fe69b783adde336b76",
+        "chineseSha256": "a3fd37529c1d4add126aa904c2a677c2515fcf52f7459c2386442c908bfb1de3"
+      },
+      {
+        "number": 4,
+        "en": "That afternoon Mia and her father went back to the River House yard. Grandma Chen was tending a small tree. “I never thought we would talk about that night again,” she said. Mia's father looked down. “I should have asked more questions then. The paper said the gate would be open after the test, and I let myself believe it.” “You were young,” Grandma Chen replied, “but young people can still speak.” She took a step toward him. “We both kept quiet because the memory was painful. Now the children are asking us to stop.” Mia saw that neither adult was perfect, and neither was a monster.",
+        "zh": "當天下午，米婭和父親回到河屋外院。陳奶奶正在照顧一棵小樹。「我以為再也不會談那一夜，」她說。父親低頭：「我當時該再問清楚。紙上寫測試後會開閘，我就讓自己相信了。」「你那時還年輕，」陳奶奶回答，「但年輕人還是能開口。」她朝他走近一步：「我們兩個都因回憶太痛而沉默。現在孩子們請我們停止沉默。」米婭看見兩個大人都不完美，卻也都不是怪物。",
+        "englishSha256": "0ee24962754347d62e4b847d87366a34a6a98dfb807dc0d1669808580a01fb19",
+        "chineseSha256": "f11de289294c93f70afcea8883aa45dfd701d3563ecdf37da19e12a1981732ec"
+      },
+      {
+        "number": 5,
+        "en": "Aunt Lin showed Mia a picture of her parents when they were young. “Your mother looked so happy that day,” she said. “Your father had just started his first job.” Mia touched the paper carefully. Her grandfather’s death after the storm had changed the whole family, and they rarely spoke about that loss. “Did everyone grow quieter after the storm?” she asked. “Some of us did,” her aunt answered. “We were all trying to keep our relatives safe. That can make a person forget how to talk.” Mia looked at the smiling faces. She wanted the people in the picture to be more than the mistakes they had made later.",
+        "zh": "姑姑拿出米婭父母年輕時的照片。「妳媽媽那天好開心，」她說，「妳爸爸剛開始第一份工作。」米婭小心摸著紙張。暴風雨過後，爺爺的死改變了整個家庭，家裡很少談那份失去。「暴風雨後大家都變安靜了嗎？」她問。「有些人是，」姑姑回答，「我們都試著保護親人。有時那會讓人忘了怎麼開口。」米婭看著照片裡的笑臉。她希望那些人不只被後來的錯誤定義。",
+        "englishSha256": "0c93cab70590e7672bf10d195020c8a24a635b515629a453551277df9cd380b7",
+        "chineseSha256": "82a56f228a1ec67de5004ae3a2a5f7f0de95e0b900b046d640f3d57e27d538a6"
+      },
+      {
+        "number": 6,
+        "en": "Before they went home, her father gave Mia one of the blue gloves. “Keep this for now,” he said. “I want to be there when you show the full record to Officer Su.” Mia pulled it over her smaller hand. It was much too large. The blue paint had grown hard along the fingers. She thought of a worker trying to hold on to a job, a daughter trying to hold on to trust, and a town trying to hold on to its river. Their problems were not the same, but they touched each other. “Can we begin again?” she asked. “We already have,” he answered.",
+        "zh": "回家前，父親給米婭一隻藍手套。「先替我保管，」他說，「妳拿完整紀錄給蘇小姐時，我想一起去。」米婭把手套戴在較小的手上，實在太大了。指頭上的藍漆已經硬掉。她想到努力保住工作的工人、努力保住信任的女兒，以及努力守住河道的小鎮。問題並不相同，卻彼此牽連。「我們可以重新開始嗎？」她問。「已經開始了。」父親回答。",
+        "englishSha256": "578648d1dd6801422db963f683f77643c48ebaa0c725e301b9a360b957ca15e2",
+        "chineseSha256": "88400f2da015bcbba8fba71d7203efb3dd250340cdce34929eab5b4474bf6b5b"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 651,
+    "targets": [
+      {
+        "word": "agree",
+        "meaning": "同意",
+        "appearsInSource": true
+      },
+      {
+        "word": "already",
+        "meaning": "已經",
+        "appearsInSource": true
+      },
+      {
+        "word": "aunt",
+        "meaning": "姑姑",
+        "appearsInSource": true
+      },
+      {
+        "word": "business",
+        "meaning": "商業",
+        "appearsInSource": true
+      },
+      {
+        "word": "can",
+        "meaning": "能夠",
+        "appearsInSource": true
+      },
+      {
+        "word": "death",
+        "meaning": "死亡",
+        "appearsInSource": true
+      },
+      {
+        "word": "ever",
+        "meaning": "曾經",
+        "appearsInSource": true
+      },
+      {
+        "word": "first",
+        "meaning": "第一",
+        "appearsInSource": true
+      },
+      {
+        "word": "fresh",
+        "meaning": "新鮮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "gloves",
+        "meaning": "手套",
+        "appearsInSource": true
+      },
+      {
+        "word": "grow",
+        "meaning": "成長",
+        "appearsInSource": true
+      },
+      {
+        "word": "happy",
+        "meaning": "快樂的",
+        "appearsInSource": true
+      },
+      {
+        "word": "learn",
+        "meaning": "學習",
+        "appearsInSource": true
+      },
+      {
+        "word": "lemons",
+        "meaning": "檸檬",
+        "appearsInSource": true
+      },
+      {
+        "word": "paint",
+        "meaning": "油漆",
+        "appearsInSource": true
+      },
+      {
+        "word": "parents",
+        "meaning": "父母",
+        "appearsInSource": true
+      },
+      {
+        "word": "relatives",
+        "meaning": "親戚",
+        "appearsInSource": true
+      },
+      {
+        "word": "rest",
+        "meaning": "休息",
+        "appearsInSource": true
+      },
+      {
+        "word": "shoulder",
+        "meaning": "肩膀",
+        "appearsInSource": true
+      },
+      {
+        "word": "uniform",
+        "meaning": "制服",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Silence at Home〉第 1 段的事件，哪個選項能正確補完整句？\nHe took off his work uniform, put ____ on a chair, and sat down.",
+      "options": [
+        "his plate",
+        "his blue gloves",
+        "his old blue glove"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "his blue gloves",
+      "existingAnswerExplanation": "原文證據：He took off his work uniform, put his blue gloves on a chair, and sat down.\n本段對照：姑姑聽說他們去了市區，便來家裡吃晚餐。她帶了新鮮麵包、檸檬和一大碗湯。「妳爸爸可能會氣我來，」她說，「但妳應該知道我們家的故事。」父親沒有生氣。他脫下工作制服，把藍手套放在椅上坐下。姑姑說起那個暴風雨的夜晚。當時米婭的爺爺去幫居民前往安全處所，後來因為生病、過度疲憊而過世。家裡從未把全部經過告訴米婭。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Mia's aunt came to dinner after she heard about the trip to the city. She brought fresh bread, lemons, and a large bowl of soup. “Your father may be angry that I am here,” she said, “but you should hear our family's story.” Mia's father was not angry. He took off his work uniform, put his blue gloves on a chair, and sat down. Her aunt spoke about the night of the great storm, when Mia's grandfather had gone to help people reach a safe place. He had died after becoming ill and tired. No one in the family had ever told Mia all of it.",
+          "chinese": "姑姑聽說他們去了市區，便來家裡吃晚餐。她帶了新鮮麵包、檸檬和一大碗湯。「妳爸爸可能會氣我來，」她說，「但妳應該知道我們家的故事。」父親沒有生氣。他脫下工作制服，把藍手套放在椅上坐下。姑姑說起那個暴風雨的夜晚。當時米婭的爺爺去幫居民前往安全處所，後來因為生病、過度疲憊而過世。家裡從未把全部經過告訴米婭。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 6,
+          "english": "Before they went home, her father gave Mia one of the blue gloves. “Keep this for now,” he said. “I want to be there when you show the full record to Officer Su.” Mia pulled it over her smaller hand. It was much too large. The blue paint had grown hard along the fingers. She thought of a worker trying to hold on to a job, a daughter trying to hold on to trust, and a town trying to hold on to its river. Their problems were not the same, but they touched each other. “Can we begin again?” she asked. “We already have,” he answered.",
+          "chinese": "回家前，父親給米婭一隻藍手套。「先替我保管，」他說，「妳拿完整紀錄給蘇小姐時，我想一起去。」米婭把手套戴在較小的手上，實在太大了。指頭上的藍漆已經硬掉。她想到努力保住工作的工人、努力保住信任的女兒，以及努力守住河道的小鎮。問題並不相同，卻彼此牽連。「我們可以重新開始嗎？」她問。「已經開始了。」父親回答。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Silence at Home〉第 5 段的事件，哪個選項能正確補完整句？\nShe wanted ____ in the picture to be more than the mistakes they had made later.",
+      "options": [
+        "the lesson",
+        "the check",
+        "the people"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the people",
+      "existingAnswerExplanation": "原文證據：She wanted the people in the picture to be more than the mistakes they had made later.\n本段對照：姑姑拿出米婭父母年輕時的照片。「妳媽媽那天好開心，」她說，「妳爸爸剛開始第一份工作。」米婭小心摸著紙張。暴風雨過後，爺爺的死改變了整個家庭，家裡很少談那份失去。「暴風雨後大家都變安靜了嗎？」她問。「有些人是，」姑姑回答，「我們都試著保護親人。有時那會讓人忘了怎麼開口。」米婭看著照片裡的笑臉。她希望那些人不只被後來的錯誤定義。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Aunt Lin showed Mia a picture of her parents when they were young. “Your mother looked so happy that day,” she said. “Your father had just started his first job.” Mia touched the paper carefully. Her grandfather’s death after the storm had changed the whole family, and they rarely spoke about that loss. “Did everyone grow quieter after the storm?” she asked. “Some of us did,” her aunt answered. “We were all trying to keep our relatives safe. That can make a person forget how to talk.” Mia looked at the smiling faces. She wanted the people in the picture to be more than the mistakes they had made later.",
+          "chinese": "姑姑拿出米婭父母年輕時的照片。「妳媽媽那天好開心，」她說，「妳爸爸剛開始第一份工作。」米婭小心摸著紙張。暴風雨過後，爺爺的死改變了整個家庭，家裡很少談那份失去。「暴風雨後大家都變安靜了嗎？」她問。「有些人是，」姑姑回答，「我們都試著保護親人。有時那會讓人忘了怎麼開口。」米婭看著照片裡的笑臉。她希望那些人不只被後來的錯誤定義。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 2,
+          "english": "“I didn't ever want to hide him from you,” her father said. “I thought telling you would make you afraid of rain.” “Not knowing made me afraid of you,” Mia replied. The words hurt them both. She wanted to take them back, but her father nodded. “I understand.” Aunt Lin placed her hand on Mia's shoulder. “People make choices when they are afraid. Some choices are good, and some are not. You can learn from both.” Mia looked at the blue paint on her father's glove. “Is that from the gate?” she asked. “From a later repair,” he said. “I kept it because I wanted to remember the work that was left.”",
+          "chinese": "「我從沒有想把爺爺的事藏起來，」父親說，「我以為告訴妳，只會讓妳害怕下雨。」「但你不說，讓我開始害怕你。」米婭回答。這句話讓兩人都受傷。她想收回，但父親點頭：「我明白。」林姑姑把手放在她肩上：「人害怕時會做選擇。有些選擇好，有些不好。兩種都能教會我們事情。」米婭看向父親手套上的藍漆：「這是閘門上的嗎？」「是後來維修留下的，」父親說，「我一直留著，提醒自己那份沒做完的工作。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

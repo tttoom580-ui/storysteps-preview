@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 18,
+  "chapterId": "import-two-rivers-18",
+  "sourceChapterSha256": "88e207a4e8a157f53be24b144fec01d95646d9fadd51b59a64bdf1e3daa033fa",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "工程隊修舊輪盤並以鏡面安全檢視水道，沈雨整理避難物資，雙人節拍與入學移動地板伏筆呼應。",
+    "previousChapterEndingEnglish": "Just before midnight, a worker came from the northern gate with troubling news. The main channel had begun to leak into the old service tunnel. The depth was increasing quickly. Someone had cut a wire connected to the alarm, so the town below might not receive a warning. The chief sent a team to restore it, and Qi offered to guide them along the outer path. Yu stayed at the shelter to help send messages. They had decided not to work alone, but for one night their duties would be different. As Qi left, Yu caught his sleeve. “Come back,” he said. “I will,” Qi answered.",
+    "nextChapterOpeningEnglish": "The academy hall was filled with officials when Yu returned. He had to give a speech about what he and Qi had discovered. A pupil from the lower school helped connect the screen, while an assistant checked the Internet link to the public records. Yu's brain seemed empty for a moment. He was not confident that a poor village boy could speak before such powerful people. Teacher Mei put a hand on his shoulder. “Use your notebook,” she said. “You have done the work. Now show it.” Yu breathed in slowly and faced the room."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At the northern gate, Qi found engineers placing a heavy model wheel beside the real control room. The surface of the old wheel was covered in scratches. An iron nut had fallen from one side, leaving the balance wrong. “One small factor can control a powerful machine,” the engineer said. “We cannot turn this until we repair it.” Qi took a backpack from a worker and offered to carry tools. “I can lift more than you,” he said, “but you know where each piece belongs.” The engineer nodded. “Then you are useful. Do not touch anything else.”",
+        "zh": "在北閘，韓祈看到工程人員把沉重的模型輪放在真正的控制室旁。舊輪表面布滿刮痕，一側掉了一顆鐵螺帽，平衡被破壞。「很小的因素也能控制強大的機器，」工程師說，「修好前不能轉。」韓祈接過工人的背包，主動幫忙搬工具。「我比你有力氣，」他說，「但你知道每個零件該放哪裡。」工程師點頭：「那你就有用。其他東西先別碰。」",
+        "englishSha256": "18ccff87c0b02f6d98b215597b2713742321b92b7f4781f833bb42f7d0ec0f0b",
+        "chineseSha256": "cad227edf0089b22595f14f9b6f80d52978d936ae37656800d7c2c4eb09a808e"
+      },
+      {
+        "number": 2,
+        "en": "The workers built a simple mirror system so they could see inside the channel without entering it. Qi held one mirror while a worker turned the other. The moving reflection showed cracks in the stone, and a thin line of blue energy ran along the wall. “That line was not here last year,” the worker said. “Someone added it recently.” Qi remembered the notes from the harbor and the dust found in the stream. The connection was obvious now: spirit towers had been drawing water through the old gate while hiding the extra flow from public records.",
+        "zh": "工人搭起簡單鏡面系統，不用進入水道就能看內部。韓祈舉著一面鏡子，工人轉動另一面。反射畫面顯出石頭裂縫，一條細細的藍色能量線沿牆延伸。「去年沒有這條線。」工人說，「最近有人加上去。」韓祈想起河港筆記與溪裡的石粉。關聯如今很明顯：靈塔一直從舊閘抽水，卻把額外水流藏在公開紀錄之外。",
+        "englishSha256": "a2fe054dc23c11497e44a86197055e63b8718189267b28fd9276f3a424dd8100",
+        "chineseSha256": "05d5edfb032b35f30ee20d0fe47bf9a295606669b21fc117bfcbd9498ffa1ccc"
+      },
+      {
+        "number": 3,
+        "en": "Back at the shelter, Yu worked with an older woman who kept an account of every family arriving. They needed enough food and water for another two days. Yu counted the quantity of clean bottles and asked whether further supplies were likely to arrive. “The port road is still open,” the woman said. “But rain may close it.” Yu did not hurry through the numbers. Each figure stood for a person who might need a drink or a meal. He recalled his family's lost cart and wished they could see how much that small sacrifice had given him.",
+        "zh": "避難所裡，沈雨與一名記錄每戶到達情況的老婦人合作。他們需要足夠兩天使用的食水。沈雨清點乾淨水瓶的數量，詢問後續物資是否可能到達。「港路目前還通，」婦人說，「但雨可能封路。」沈雨沒有匆忙算數。每個數字都代表一名可能需要飲水或食物的人。他想起家人賣掉的推車，希望他們能看到那個小小犧牲帶給他的成長。",
+        "englishSha256": "dfd72465bf0aabe04bcd6588fd3e33d0ad584b809c6a2a596d18e3f523687a2e",
+        "chineseSha256": "dc1be0bf7b36fce706b6b6e435a82e89055ccae32c8d50bdcba513c822a4d4bf"
+      },
+      {
+        "number": 4,
+        "en": "A young couple came to ask whether they should marry before leaving the mountain. The woman laughed at the odd question she had asked in a crisis. Aunt Wei told them, “Choose the time when you feel ready. Today we have more urgent work.” Yu carried a piece of broken furniture out of the walking path and made room for them to rest. Then he received a call from Qi. “The gate wheel can be repaired, but we need a new part,” Qi said. “The right piece is at the old port.” Yu asked whether the engineers had a plan. “Yes. It will take both of us to help them.”",
+        "zh": "一對年輕情侶來問，是否該在離開山之前結婚。女子自己也笑了，知道危機中問這件事很奇怪。魏姨說：「等你們覺得準備好了再選日子。今天還有更急的事。」沈雨把一件壞家具搬離走道，讓他們休息。接著接到韓祈電話。「閘輪能修，但缺一個新零件，」韓祈說，「合用的零件在舊港。」沈雨問工程師有沒有計畫。「有，而且需要我們兩個協助。」",
+        "englishSha256": "c71aab084a9b2c7088ad9366c68a6ccfa3776d6e9d961405861c8e95adb350a6",
+        "chineseSha256": "dc16be499de2dfc9844eaf4f2f9a4394529546f6b47dd20d86e859cde9b4d463"
+      },
+      {
+        "number": 5,
+        "en": "At the emergency meeting, the chief proposed a safe test before any gate moved. Yu and Qi would use their paired breathing to sense pressure while engineers watched the instruments. The boys' marks might help them notice changes too small for the old machines, but the decision to open the gate belonged to the whole team. “We will not ask children to save a town alone,” the chief said. Yu felt the weight of that promise. Qi spoke slowly through the speaker: “I can do this if Yu is beside me.” Yu answered, “Then I will be there.”",
+        "zh": "緊急會議中，總指揮提議先做安全測試，再移動任何閘門。沈雨與韓祈會用雙人呼吸法感應壓力，工程師則盯著儀器。兩人的印記可能幫忙察覺老機器量不到的小變化，但是否開閘要由整個團隊決定。「我們不會叫孩子獨自拯救城鎮。」總指揮說。沈雨感到這承諾沉甸甸的。韓祈透過通話器慢慢說：「沈雨在旁邊，我就做得到。」沈雨回答：「那我會去。」",
+        "englishSha256": "3077a2352cb3f49b47d00d4db8ed0d8846076eab0ad9fb5c588c15b6bb982abd",
+        "chineseSha256": "6f5c047dcfad3e0640481b4a891274cb37979cf20746236a87a605579bae0280"
+      },
+      {
+        "number": 6,
+        "en": "At the shelter, Aunt Wei set aside one pound of dry rice for a family arriving after midnight. She said she would not know peace until every person had a place to sleep. Yu helped her put the food near the door and marked it on the supply list. The work was simple, but it kept him from thinking only about the danger at the gate. Someone needed to make sure the families could eat tomorrow.",
+        "zh": "避難所裡，魏姨留下約一磅乾米，給半夜抵達的一家人。她說，所有人有地方睡以前，自己都無法安心。沈雨幫她把食物放門邊，記進物資表。工作雖簡單，卻讓他不只想著水閘的危險。還是得有人確保明天家家戶戶吃得到東西。",
+        "englishSha256": "cf664d20a819e078bb90ecfe97e886e08b04f0687aefdc1a019c0b44961077a5",
+        "chineseSha256": "33cbc8a9872b628413c6726c31bcb5edbcf7112fec3b2c693a267f4ad0b3be7e"
+      },
+      {
+        "number": 7,
+        "en": "Before dawn, the engineers sent the boys a drawing of the missing part. It was shaped like two halves joined around a central pin. Yu recognized it from the half-circle marks and the models in the tower. The marks were not keys that opened doors by magic. They were signs for the position each guardian had to stand while turning the wheel. “We practiced this stance on the moving floor,” he realized. Their first school challenge had taught them the exact balance needed here. He packed his notebook and left the shelter under Aunt Wei's care.",
+        "zh": "黎明前，工程師送來缺少零件的圖。它像兩半扣在中央軸銷周圍。沈雨認出那是半圓印記與塔中模型的形狀。印記不是能靠法術開門的鑰匙，而是標示兩名守護者轉輪時各自站的位置。「我們在移動地板上練過這個姿勢。」他明白了。最初的入學挑戰，原來教的正是這裡需要的平衡。他收好筆記本，在魏姨照顧下離開避難所。",
+        "englishSha256": "1e576c519537bf94f318b6990c8d9949cec1c7564ef0d628b9e014c0b64514b3",
+        "chineseSha256": "18a94771d34a8166b42c7b2064361b0299c1bca402557184adf9cd202fd37a34"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 672,
+    "targets": [
+      {
+        "word": "account",
+        "meaning": "帳目",
+        "appearsInSource": true
+      },
+      {
+        "word": "backpack",
+        "meaning": "背包",
+        "appearsInSource": true
+      },
+      {
+        "word": "control",
+        "meaning": "控制",
+        "appearsInSource": true
+      },
+      {
+        "word": "energy",
+        "meaning": "能量",
+        "appearsInSource": true
+      },
+      {
+        "word": "factor",
+        "meaning": "因素",
+        "appearsInSource": true
+      },
+      {
+        "word": "furniture",
+        "meaning": "家具",
+        "appearsInSource": true
+      },
+      {
+        "word": "further",
+        "meaning": "進一步的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hurry",
+        "meaning": "匆忙",
+        "appearsInSource": true
+      },
+      {
+        "word": "likely",
+        "meaning": "可能的",
+        "appearsInSource": true
+      },
+      {
+        "word": "marry",
+        "meaning": "結婚",
+        "appearsInSource": true
+      },
+      {
+        "word": "mirror",
+        "meaning": "鏡子",
+        "appearsInSource": true
+      },
+      {
+        "word": "model",
+        "meaning": "模型",
+        "appearsInSource": true
+      },
+      {
+        "word": "nut",
+        "meaning": "螺帽",
+        "appearsInSource": true
+      },
+      {
+        "word": "obvious",
+        "meaning": "顯而易見的",
+        "appearsInSource": true
+      },
+      {
+        "word": "peace",
+        "meaning": "和平",
+        "appearsInSource": true
+      },
+      {
+        "word": "pound",
+        "meaning": "磅",
+        "appearsInSource": true
+      },
+      {
+        "word": "powerful",
+        "meaning": "強大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "proposed",
+        "meaning": "提議",
+        "appearsInSource": true
+      },
+      {
+        "word": "quantity",
+        "meaning": "數量",
+        "appearsInSource": true
+      },
+      {
+        "word": "surface",
+        "meaning": "表面",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Mirror Wheel〉第 1 段的事件，哪個選項能正確補完整句？\n“We cannot turn this until we repair it.” Qi took ____ from a worker and offered to carry tools.",
+      "options": [
+        "a magic bell",
+        "a backpack",
+        "a book"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a backpack",
+      "existingAnswerExplanation": "原文證據：“We cannot turn this until we repair it.” Qi took a backpack from a worker and offered to carry tools.\n本段對照：在北閘，韓祈看到工程人員把沉重的模型輪放在真正的控制室旁。舊輪表面布滿刮痕，一側掉了一顆鐵螺帽，平衡被破壞。「很小的因素也能控制強大的機器，」工程師說，「修好前不能轉。」韓祈接過工人的背包，主動幫忙搬工具。「我比你有力氣，」他說，「但你知道每個零件該放哪裡。」工程師點頭：「那你就有用。其他東西先別碰。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "At the northern gate, Qi found engineers placing a heavy model wheel beside the real control room. The surface of the old wheel was covered in scratches. An iron nut had fallen from one side, leaving the balance wrong. “One small factor can control a powerful machine,” the engineer said. “We cannot turn this until we repair it.” Qi took a backpack from a worker and offered to carry tools. “I can lift more than you,” he said, “but you know where each piece belongs.” The engineer nodded. “Then you are useful. Do not touch anything else.”",
+          "chinese": "在北閘，韓祈看到工程人員把沉重的模型輪放在真正的控制室旁。舊輪表面布滿刮痕，一側掉了一顆鐵螺帽，平衡被破壞。「很小的因素也能控制強大的機器，」工程師說，「修好前不能轉。」韓祈接過工人的背包，主動幫忙搬工具。「我比你有力氣，」他說，「但你知道每個零件該放哪裡。」工程師點頭：「那你就有用。其他東西先別碰。」",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 2,
+          "english": "The workers built a simple mirror system so they could see inside the channel without entering it. Qi held one mirror while a worker turned the other. The moving reflection showed cracks in the stone, and a thin line of blue energy ran along the wall. “That line was not here last year,” the worker said. “Someone added it recently.” Qi remembered the notes from the harbor and the dust found in the stream. The connection was obvious now: spirit towers had been drawing water through the old gate while hiding the extra flow from public records.",
+          "chinese": "工人搭起簡單鏡面系統，不用進入水道就能看內部。韓祈舉著一面鏡子，工人轉動另一面。反射畫面顯出石頭裂縫，一條細細的藍色能量線沿牆延伸。「去年沒有這條線。」工人說，「最近有人加上去。」韓祈想起河港筆記與溪裡的石粉。關聯如今很明顯：靈塔一直從舊閘抽水，卻把額外水流藏在公開紀錄之外。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Mirror Wheel〉第 7 段的事件，哪個選項能正確補完整句？\nBefore dawn, the engineers sent ____.",
+      "options": [
+        "the dates against the calendar",
+        "the custom of the old guardians",
+        "the boys a drawing of the missing part"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "the boys a drawing of the missing part",
+      "existingAnswerExplanation": "原文證據：Before dawn, the engineers sent the boys a drawing of the missing part.\n本段對照：黎明前，工程師送來缺少零件的圖。它像兩半扣在中央軸銷周圍。沈雨認出那是半圓印記與塔中模型的形狀。印記不是能靠法術開門的鑰匙，而是標示兩名守護者轉輪時各自站的位置。「我們在移動地板上練過這個姿勢。」他明白了。最初的入學挑戰，原來教的正是這裡需要的平衡。他收好筆記本，在魏姨照顧下離開避難所。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "Before dawn, the engineers sent the boys a drawing of the missing part. It was shaped like two halves joined around a central pin. Yu recognized it from the half-circle marks and the models in the tower. The marks were not keys that opened doors by magic. They were signs for the position each guardian had to stand while turning the wheel. “We practiced this stance on the moving floor,” he realized. Their first school challenge had taught them the exact balance needed here. He packed his notebook and left the shelter under Aunt Wei's care.",
+          "chinese": "黎明前，工程師送來缺少零件的圖。它像兩半扣在中央軸銷周圍。沈雨認出那是半圓印記與塔中模型的形狀。印記不是能靠法術開門的鑰匙，而是標示兩名守護者轉輪時各自站的位置。「我們在移動地板上練過這個姿勢。」他明白了。最初的入學挑戰，原來教的正是這裡需要的平衡。他收好筆記本，在魏姨照顧下離開避難所。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 4,
+          "english": "A young couple came to ask whether they should marry before leaving the mountain. The woman laughed at the odd question she had asked in a crisis. Aunt Wei told them, “Choose the time when you feel ready. Today we have more urgent work.” Yu carried a piece of broken furniture out of the walking path and made room for them to rest. Then he received a call from Qi. “The gate wheel can be repaired, but we need a new part,” Qi said. “The right piece is at the old port.” Yu asked whether the engineers had a plan. “Yes. It will take both of us to help them.”",
+          "chinese": "一對年輕情侶來問，是否該在離開山之前結婚。女子自己也笑了，知道危機中問這件事很奇怪。魏姨說：「等你們覺得準備好了再選日子。今天還有更急的事。」沈雨把一件壞家具搬離走道，讓他們休息。接著接到韓祈電話。「閘輪能修，但缺一個新零件，」韓祈說，「合用的零件在舊港。」沈雨問工程師有沒有計畫。「有，而且需要我們兩個協助。」",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

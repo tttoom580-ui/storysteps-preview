@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-rain-bell",
+  "title": "雨來之前的鐘聲",
+  "chapter": 19,
+  "chapterId": "import-rain-bell-19",
+  "sourceChapterSha256": "84d6be4cbbcbe9398b193b0a66f9b2c467453a10192fa9ded9ae61a007fc5eab",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "露比訪工廠主管韓先生及工人，承認工作與水利安全都重要；泵測試排在預期大雨前一晚，需即刻通報。",
+    "previousChapterEndingEnglish": "That night Mia's father asked what she had learned. She told him about the fall, the giant ball, the new path, and the wet place by the gate. “So the practice was not perfect,” he said. “No,” Mia answered. “That's why we needed it.” He smiled. “Your grandfather would have liked that.” She looked at the blue glove on her desk and thought of the promise he had made. Today they had not saved anyone from a real flood. But when rain came, they would know where to go. Before bed her phone rang. Officer Su said the ground near the north gate was wetter than expected.",
+    "nextChapterOpeningEnglish": "Grandma Chen asked Mia and Ruby to come to her kitchen in the morning. She had found the other part of her husband's old notebook. It had been hidden below a wooden board in a low cupboard, because she could not bear to read it after his death. “I should have shown this to Officer Su sooner,” she said. Ruby began to cry. “Grandma, you don't have to do this alone.” Her grandmother held her hand. “I know. That is why I called you.” On the page was a drawing of the machine under the River House floor. A wooden tail rose with the water level and pulled a rope attached to the bell."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Ruby began a new interview at the factory with Mr. Han and two workers. She wore a plain black shirt and carried a list of questions. “Once we finish,” she said, “you can tell me if I have written your words wrong.” Mr. Han seemed interested. He told her the factory had brought work to Riverbend for more than thirty years. “We have another problem now,” he said. “If we cannot build, we may lose the people who know these machines.” Ruby looked at the worker beside him. The man had a small child at home and did not want to move away. “That is important too,” she said.",
+        "zh": "露比在工廠展開新的訪談，受訪者是韓先生和兩位工人。她穿著素黑襯衫，帶著問題清單。「訪問結束後，」她說，「如果我把你們的話寫錯，可以告訴我。」韓先生似乎很有興趣。他說工廠已在河灣鎮提供工作超過三十年。「現在又有另一個問題，」他說，「如果不能擴建，我們可能失去熟悉這些機器的人。」露比看向旁邊的工人。男子家裡有小孩，不想搬走。「這也很重要。」她說。",
+        "englishSha256": "3d81e48fe02606b6edfbb1d52f56ce0b3ea719e7a9f1718bb661c3822a1dec86",
+        "chineseSha256": "c6fef6ae35fbd03fcbcc233ec4e5ed57dba171fcf4f7f9db0e52b30482a44f1f"
+      },
+      {
+        "number": 2,
+        "en": "Mia joined the interview after school. “Do you mean there is no way to keep the factory and the river safe?” she asked. Mr. Han shook his head. “No. I mean we need a plan that does both. My problem is that I thought the old plan was fine.” He admitted that the company had kept the north gate closed longer than the first test. “Did you know the rule?” Leo asked. “Not the whole rule,” Mr. Han answered. “I should have checked.” He agreed to give Officer Su the full book of pump tests. Ruby did not call him a bad man, and she did not call him a good man. She wrote down what he had said.",
+        "zh": "米婭放學後加入訪談。「你的意思是工廠與河道不可能同時安全嗎？」她問。韓先生搖頭：「不是，我是說需要能兼顧兩邊的計畫。我的問題是以為舊計畫沒問題。」他承認公司讓北閘門關閉的時間比最初測試長。「你知道規定嗎？」李奧問。「不完整知道，」韓先生回答，「我應該先查。」他同意把完整幫浦測試紀錄交給蘇小姐。露比沒有叫他壞人，也沒有叫他好人，只記錄他的話。",
+        "englishSha256": "9390b1f67078ca86a6801596cdc2571ca9b6637747ad525a5612c50292d51ff9",
+        "chineseSha256": "2569d8dfff0f7b23961164faa2066c783ad9806f60976b55e3241f47fcb18297"
+      },
+      {
+        "number": 3,
+        "en": "On the way home, a dog ran across the road after a bee. The bee flew around a flower, the dog jumped, and a woman cried out as if there had been an attack. A little boy began to count the people running away. “Five! Six!” Jay looked for a bite mark on the dog's nose, but there was none. Everyone was fine. “See?” Ruby said to Mia. “One shout and the story becomes an attack.” Mia smiled. “We do that with people too.” They waited until the dog was back with its owner, then continued along the high road. No one had been hurt, but everyone had something different to tell.",
+        "zh": "回家路上，一隻狗追著蜜蜂跑過馬路。蜜蜂繞著花飛，狗跳了起來，一名婦女尖叫，彷彿發生攻擊。有個小男孩開始數跑開的人：「五個！六個！」杰查看狗鼻子上有沒有咬痕，但什麼都沒有。大家平安無事。「看到了嗎？」露比對米婭說，「一聲尖叫，故事就變成攻擊事件。」米婭笑了：「我們對人也會這樣。」等狗回到主人身邊，他們沿著高處道路繼續走。沒有人受傷，每個人卻都能講出不同的版本。",
+        "englishSha256": "f1a173486090906ad23c4bf1588e67a8ad5986fb066d68e8db237d1c80c20fc9",
+        "chineseSha256": "0dd3b64e42085109852acebbbc91436f45e7e203495ce1991038bae20fd2e8f5"
+      },
+      {
+        "number": 4,
+        "en": "That evening Ruby showed Leo the draft interview. “I want your mother to read this before I post it,” she said. Leo's eyes grew soft. “Thanks. She has been worried that the town thinks all workers are the problem.” His mother read the story and added one small point: “We need to join the safety meeting, not watch from outside.” Ruby changed the ending to include her words. “I have learned that a question can mean more than one thing,” she said. “When we ask if the factory should stay, we are also asking how the people inside can stay safe.”",
+        "zh": "那晚，露比把訪談草稿拿給李奧看。「上傳前我想請你媽媽讀過。」她說。李奧的眼神柔和下來：「謝謝。她一直擔心全鎮都覺得工人是問題。」媽媽讀完，補上一點：「我們需要加入安全會議，不該只在外面看。」露比把她的話放進結尾。「我學到一個問題可以有不只一種意思，」她說，「問工廠該不該留下，也是在問裡面的人怎樣才能安全留下。」",
+        "englishSha256": "44ddbba4c85097d43fbb5753dcff8809a2e8964e0744222cd7fa051bb3ca9859",
+        "chineseSha256": "0b0fc26a9b590bef2d9ec1ed0f53c76663450a9ddc288f1e0daae9e36e456a85"
+      },
+      {
+        "number": 5,
+        "en": "After the interview, Ruby stopped at a food stand for a ham sandwich. The owner had put pretty flowers in jars beside the window. A child outside pointed at the dry ground and said the river could never reach this street. The owner shook her head. “It did once, before you were born,” she said. “I don't want to see it again.” Ruby looked at the street carefully. The store had no steps, and the road went down toward the market. She took a picture of the shop front, then asked whether she could use it in a story about safe routes. The woman agreed, but asked her to show the road clearly.",
+        "zh": "訪談後，露比在小食攤買了火腿三明治。店主把漂亮的花插在罐裡，排在窗邊。外面有個孩子指著乾地面，說河水永遠不可能淹到這條街。店主搖頭：「你出生前就淹過一次，我不想再看到。」露比仔細觀察街道。店門沒有臺階，路面朝市場下坡。她拍了店面照，詢問能否放進介紹安全路線的報導。店主同意，但請她把道路拍清楚。",
+        "englishSha256": "44609f4f740c3525080d333f6611cbcff3afe827e7ba710e7fb1390393a728ba",
+        "chineseSha256": "dc4b3e66b39079f2744dedb67797887de2a9c6cb28b97fc198c0647f29637d1e"
+      },
+      {
+        "number": 6,
+        "en": "Late that night Officer Su sent Mia a copy of the pump log. The next test was marked for the evening before the expected heavy rain. Mia read the date again to be sure. “Any water we push into that path will have nowhere to go if the gate stays closed,” Leo said when she called him. He could not say exactly what would happen, but the risk was real enough to report. Mia wrote one more question for the town: Would the test be stopped? Then she looked toward the dark river. The next date in the book was too close.",
+        "zh": "深夜，蘇小姐傳給米婭一份幫浦紀錄副本。下一次測試排在預期大雨前一晚。米婭再看一次日期，確定沒有看錯。「如果閘門仍關著，打進水道的水就沒有地方去。」李奧接到她電話時說。他無法確定會發生什麼，但風險已足以通報。米婭又替公所記下一個問題：測試會停止嗎？接著她望向漆黑的河面。紀錄上的下個日期太近了。",
+        "englishSha256": "9ced9824176d8a0926639de193de3d0a79f0b28030c8f07bf02b3f24cf12dae1",
+        "chineseSha256": "6f197bc987f9e664755cd945e9cf7d5a24df25f5f008426fd92a42ff5d93a693"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 656,
+    "targets": [
+      {
+        "word": "another",
+        "meaning": "另一個",
+        "appearsInSource": true
+      },
+      {
+        "word": "any",
+        "meaning": "任何",
+        "appearsInSource": true
+      },
+      {
+        "word": "attack",
+        "meaning": "攻擊",
+        "appearsInSource": true
+      },
+      {
+        "word": "bee",
+        "meaning": "蜜蜂",
+        "appearsInSource": true
+      },
+      {
+        "word": "bite",
+        "meaning": "咬",
+        "appearsInSource": true
+      },
+      {
+        "word": "black",
+        "meaning": "黑色的",
+        "appearsInSource": true
+      },
+      {
+        "word": "count",
+        "meaning": "數",
+        "appearsInSource": true
+      },
+      {
+        "word": "dog",
+        "meaning": "狗",
+        "appearsInSource": true
+      },
+      {
+        "word": "eyes",
+        "meaning": "眼睛",
+        "appearsInSource": true
+      },
+      {
+        "word": "ground",
+        "meaning": "地面",
+        "appearsInSource": true
+      },
+      {
+        "word": "ham",
+        "meaning": "火腿",
+        "appearsInSource": true
+      },
+      {
+        "word": "interested",
+        "meaning": "有興趣的",
+        "appearsInSource": true
+      },
+      {
+        "word": "interview",
+        "meaning": "訪問",
+        "appearsInSource": true
+      },
+      {
+        "word": "joined",
+        "meaning": "加入",
+        "appearsInSource": true
+      },
+      {
+        "word": "mean",
+        "meaning": "意思是",
+        "appearsInSource": true
+      },
+      {
+        "word": "once",
+        "meaning": "曾經",
+        "appearsInSource": true
+      },
+      {
+        "word": "pretty",
+        "meaning": "漂亮的",
+        "appearsInSource": true
+      },
+      {
+        "word": "problem",
+        "meaning": "問題",
+        "appearsInSource": true
+      },
+      {
+        "word": "shirt",
+        "meaning": "襯衫",
+        "appearsInSource": true
+      },
+      {
+        "word": "years",
+        "meaning": "年",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈More Than One Truth〉第 1 段的事件，哪個選項能正確補完整句？\nShe wore a plain black shirt and carried ____.",
+      "options": [
+        "a poster asking people",
+        "a list of questions",
+        "a ball"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "a list of questions",
+      "existingAnswerExplanation": "原文證據：She wore a plain black shirt and carried a list of questions.\n本段對照：露比在工廠展開新的訪談，受訪者是韓先生和兩位工人。她穿著素黑襯衫，帶著問題清單。「訪問結束後，」她說，「如果我把你們的話寫錯，可以告訴我。」韓先生似乎很有興趣。他說工廠已在河灣鎮提供工作超過三十年。「現在又有另一個問題，」他說，「如果不能擴建，我們可能失去熟悉這些機器的人。」露比看向旁邊的工人。男子家裡有小孩，不想搬走。「這也很重要。」她說。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Ruby began a new interview at the factory with Mr. Han and two workers. She wore a plain black shirt and carried a list of questions. “Once we finish,” she said, “you can tell me if I have written your words wrong.” Mr. Han seemed interested. He told her the factory had brought work to Riverbend for more than thirty years. “We have another problem now,” he said. “If we cannot build, we may lose the people who know these machines.” Ruby looked at the worker beside him. The man had a small child at home and did not want to move away. “That is important too,” she said.",
+          "chinese": "露比在工廠展開新的訪談，受訪者是韓先生和兩位工人。她穿著素黑襯衫，帶著問題清單。「訪問結束後，」她說，「如果我把你們的話寫錯，可以告訴我。」韓先生似乎很有興趣。他說工廠已在河灣鎮提供工作超過三十年。「現在又有另一個問題，」他說，「如果不能擴建，我們可能失去熟悉這些機器的人。」露比看向旁邊的工人。男子家裡有小孩，不想搬走。「這也很重要。」她說。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 4,
+          "english": "That evening Ruby showed Leo the draft interview. “I want your mother to read this before I post it,” she said. Leo's eyes grew soft. “Thanks. She has been worried that the town thinks all workers are the problem.” His mother read the story and added one small point: “We need to join the safety meeting, not watch from outside.” Ruby changed the ending to include her words. “I have learned that a question can mean more than one thing,” she said. “When we ask if the factory should stay, we are also asking how the people inside can stay safe.”",
+          "chinese": "那晚，露比把訪談草稿拿給李奧看。「上傳前我想請你媽媽讀過。」她說。李奧的眼神柔和下來：「謝謝。她一直擔心全鎮都覺得工人是問題。」媽媽讀完，補上一點：「我們需要加入安全會議，不該只在外面看。」露比把她的話放進結尾。「我學到一個問題可以有不只一種意思，」她說，「問工廠該不該留下，也是在問裡面的人怎樣才能安全留下。」",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈More Than One Truth〉第 5 段的事件，哪個選項能正確補完整句？\nShe took ____, then asked whether she could use it in a story about safe routes.",
+      "options": [
+        "a picture of the shop front",
+        "a step toward him",
+        "a new sign"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "a picture of the shop front",
+      "existingAnswerExplanation": "原文證據：She took a picture of the shop front, then asked whether she could use it in a story about safe routes.\n本段對照：訪談後，露比在小食攤買了火腿三明治。店主把漂亮的花插在罐裡，排在窗邊。外面有個孩子指著乾地面，說河水永遠不可能淹到這條街。店主搖頭：「你出生前就淹過一次，我不想再看到。」露比仔細觀察街道。店門沒有臺階，路面朝市場下坡。她拍了店面照，詢問能否放進介紹安全路線的報導。店主同意，但請她把道路拍清楚。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "After the interview, Ruby stopped at a food stand for a ham sandwich. The owner had put pretty flowers in jars beside the window. A child outside pointed at the dry ground and said the river could never reach this street. The owner shook her head. “It did once, before you were born,” she said. “I don't want to see it again.” Ruby looked at the street carefully. The store had no steps, and the road went down toward the market. She took a picture of the shop front, then asked whether she could use it in a story about safe routes. The woman agreed, but asked her to show the road clearly.",
+          "chinese": "訪談後，露比在小食攤買了火腿三明治。店主把漂亮的花插在罐裡，排在窗邊。外面有個孩子指著乾地面，說河水永遠不可能淹到這條街。店主搖頭：「你出生前就淹過一次，我不想再看到。」露比仔細觀察街道。店門沒有臺階，路面朝市場下坡。她拍了店面照，詢問能否放進介紹安全路線的報導。店主同意，但請她把道路拍清楚。",
+          "matchedQueryTerms": 16
+        },
+        {
+          "paragraph": 4,
+          "english": "That evening Ruby showed Leo the draft interview. “I want your mother to read this before I post it,” she said. Leo's eyes grew soft. “Thanks. She has been worried that the town thinks all workers are the problem.” His mother read the story and added one small point: “We need to join the safety meeting, not watch from outside.” Ruby changed the ending to include her words. “I have learned that a question can mean more than one thing,” she said. “When we ask if the factory should stay, we are also asking how the people inside can stay safe.”",
+          "chinese": "那晚，露比把訪談草稿拿給李奧看。「上傳前我想請你媽媽讀過。」她說。李奧的眼神柔和下來：「謝謝。她一直擔心全鎮都覺得工人是問題。」媽媽讀完，補上一點：「我們需要加入安全會議，不該只在外面看。」露比把她的話放進結尾。「我學到一個問題可以有不只一種意思，」她說，「問工廠該不該留下，也是在問裡面的人怎樣才能安全留下。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

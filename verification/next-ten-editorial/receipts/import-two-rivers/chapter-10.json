@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 10,
+  "chapterId": "import-two-rivers-10",
+  "sourceChapterSha256": "12ba56dcbf594e1cae13b22e670953b6e5178e00f9a1ea772fbd3103a3764f24",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "山谷公共水務登錄顯示日夜水位不正常與官署不一致的公開／私人控制圖，兩人只取得核准副本。",
+    "previousChapterEndingEnglish": "At midnight the blue liquid rose again, faster this time. A glass tube burst inside the closed channel. The guards shut the control wheel, and Elder Song ordered the tower cleared. While helping the others leave, Yu noticed something small fall from a pipe: a paper square with a fresh drawing of the silver key. Someone had placed it there within the last day. On the back was written, “Return the name they stole, and the river will remember its way.” Yu held the paper to the light. In one corner stood the clear outline of the academy's official seal.",
+    "nextChapterOpeningEnglish": "Cloud Gate's spring festival was usually a social event, with grape drinks, sweet jam, and lantern games. This year President Luo stood on the main stage beside a gold gate, praising the academy's success in protecting the capital. Yu and Qi joined the crowd with Teacher Mei. “Our goal is to find who ordered the river plates moved,” Yu said. “Not to win a prize.” Qi understood. He had made a promise to trust Yu's judgment, but a part of him still wanted to chase the first person who looked guilty. He kept both hands at his sides while the chief guard opened the ceremony."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "A written law of the Mountain Society required every academy to keep a record of its old gates. Elder Song took Yu and Qi to a flat valley where the records were stored. A narrow track led from the northern road to a stone hall with a faded flag. Inside, a clerk had placed hundreds of notebooks on shelves. “Some records are personal,” she warned. “Do not open them without permission.” Yu nodded. He had come to learn what could be made public, not to steal private stories. Qi remained silent when the clerk recognized his family name.",
+        "zh": "山盟的成文法律要求各學院保存舊閘門紀錄。宋長老帶沈雨與韓祈來到一座平坦山谷，資料就存放在這裡。狹窄步道從北路通往掛著褪色旗幟的石廳。裡面一位書記把數百本筆記冊放在架上。「有些紀錄是個人的，」她提醒，「未經許可不能打開。」沈雨點頭。他來是為了查明哪些事能公開，不是偷看私人故事。書記認出韓祈的姓時，韓祈沉默了。",
+        "englishSha256": "08a60f1fce1a42613566531d358f0483a68425cd4d627f6fbf5134491d4d2ca6",
+        "chineseSha256": "81e8b2babd87dbcaf0912b430b96c532bdd4ca5d346705083a81f7d0d6cf12f9"
+      },
+      {
+        "number": 2,
+        "en": "The clerk showed them a public report on the flood. A single line described two children who had been given matching marks. Their names were missing, but the form recorded their age and sex. Both were listed as boys. Yu felt the distance between the past and the present suddenly become small. “Does this indicate that our marks were given to us?” he asked. “It indicates someone wrote that they were,” the clerk replied. “A record is evidence of what was written. It is not proof that every word is true.” Qi gained a little comfort from her care with the facts.",
+        "zh": "書記出示一份公開洪水報告，其中一行提到兩名得到相對印記的孩子。名字被拿掉了，但表格記著年齡與性別，兩人都被列為男孩。沈雨忽然覺得過去離現在很近。「這表示我們的印記是被人加上去的嗎？」他問。「只表示當時有人這樣寫，」書記說，「紀錄能證明紙上寫過什麼，不能證明每個字都是真的。」韓祈因她審慎分辨事實而稍感安心。",
+        "englishSha256": "eec8eff7c45cc0725522999f6d383d92d99c8506836a4b510f88cb77ccfcf335",
+        "chineseSha256": "572f1832e636125b0249ec3a7b35aba18b415458ab695597d602c2d5021a6919"
+      },
+      {
+        "number": 3,
+        "en": "Outside, a young worker was drawing a map of the valley. He explained that floods occurred here when water pressure rose under the roads. “The old stone has cracks,” he said. “When water has nowhere to go, it pushes toward the surface.” He pointed toward a small house where his grandfather once lived. “Our family had riches once, but the land was ruined after the gates changed.” Yu followed the line with his finger. “If we move the water forward here,” he said, “will it flow toward the town?” The worker nodded. “Unless the second gate is open.”",
+        "zh": "屋外，一名年輕工人正畫山谷地圖。他說明水壓在道路下上升時，此地就會發生洪水。「舊石頭有裂縫，」他說，「水沒有去處，就會往地表推。」他指向祖父曾住的小屋。「我們家以前有錢，但閘門改過之後，土地毀了。」沈雨沿線條滑動手指。「如果水從這裡往前走，」他說，「會流向小鎮嗎？」工人點頭：「除非第二道閘門開著。」",
+        "englishSha256": "0b2bbfc819d41ee7ab3bb3c18632b176f1875f33d692e8e7eb965fba3475da4b",
+        "chineseSha256": "7f0a694f73f3ccaf672f941082bc5d13891e219f48de4916bc295847f4b1d05c"
+      },
+      {
+        "number": 4,
+        "en": "The clerk allowed the boys to copy the public dates. Yu used a notebook while Qi watched the open doorway. It was unusual for Qi to stay still for so long. “You are worried,” Yu said. Qi opened his wallet and showed an old family picture. In it, a younger Luo stood beside Qi's father. “They made a promise before I was born. I do not know what it was.” Yu returned the picture without judgment. “Then we find out.” Qi looked at him. “You say that as if truth cannot hurt.” “It can,” Yu said. “That is why we should not carry it alone.”",
+        "zh": "書記准許兩人抄錄公開日期。沈雨用筆記本記，韓祈守在敞開的門旁。韓祈很少這麼久不動。「你在擔心。」沈雨說。韓祈打開錢包，拿出一張舊全家照。照片裡，年輕的羅會長站在韓祈父親身旁。「他們在我出生前有個約定，我不知道內容。」沈雨沒有批判，直接把照片還他。「那就查清楚。」韓祈看著他：「你講得好像真相不會傷人。」「會，」沈雨說，「所以才不該一個人扛。」",
+        "englishSha256": "2a0c4740f196729ce4a5fb31ff641128ae796bf9ea75fa78da34fcc5e26e7df9",
+        "chineseSha256": "19a3a25916ddf451c01884a7dca520dc65ba7795107eb220fed5b5d32f3def09"
+      },
+      {
+        "number": 5,
+        "en": "A bell sounded from the stone hall, but this was an ordinary alarm calling the clerks to a meeting. An official in a dark suit entered and demanded that the boys leave. He insisted their questions would cause trouble. Song calmly asked him to name the law they had broken. The man could not. He left with an angry look. As the door closed, a piece of paper fell from his bag. On it was a drawing of a river wheel, with one half marked FOR PUBLIC USE and the other half marked FOR PRIVATE CONTROL.",
+        "zh": "石廳響起鐘聲，但那只是召集書記開會的普通警報。一名穿深色西裝的官員進來，要求兩個少年離開。他堅稱這些問題只會製造麻煩。宋長老冷靜地請他指出他們違反了哪條法律。男人答不出來，氣沖沖地離開。門關上時，一張紙從他袋中掉出，上面畫著河輪，一半標「公共使用」，另一半標「私人控制」。",
+        "englishSha256": "bf112a3c53c5663e5670f702920ae64dfc51716ed91917daa166fe5303b9d577",
+        "chineseSha256": "c1ee9cac6ff682b2f93ee468a1875a89b90a1844547dfd86fcd41e35451e38b1"
+      },
+      {
+        "number": 6,
+        "en": "The clerk's main concern was that the old gate still appeared active in the water records. Each day showed the same cycle: water entered at night and disappeared before dawn. “That cannot be normal river behavior,” she said. Yu copied the dates while Qi drew the gate positions. The problem was no longer only a mysterious sound. It was a repeated action that someone had allowed to continue.",
+        "zh": "書記最擔憂的是，舊閘在用水紀錄裡仍顯示運作。每天都是同一循環：水在夜裡流入，黎明前消失。「這不會是正常河流的行為。」她說。沈雨抄日期，韓祈畫閘門位置。問題已不只是神祕聲音，而是一項有人長期允許的重複行動。",
+        "englishSha256": "09d842ba6ea031e2c5bd728acd08f99271a6e4225af08c31f0930b4e987efdd6",
+        "chineseSha256": "a3a017ae94d380ee4a606802a42d37065f143738b964cc1f432138586458bc82"
+      },
+      {
+        "number": 7,
+        "en": "Yu and Qi did not touch the paper until the clerk had photographed it for the record. Then she placed it in a clear cover and gave them a copy. “It may be a plan, not proof of a crime,” she said. “Look for dates and names before making an accusation.” Outside, Qi took a long breath and looked ahead to the mountain. “I used to think power meant making everyone silent,” he said. “Now silence feels like a wall.” Yu stood close enough for their sleeves to touch. “Then we will ask one more question tomorrow.”",
+        "zh": "書記替紙張拍照存證前，沈雨和韓祈都沒有碰它。她之後把原件裝入透明套，給他們一份影本。「它可能只是一項計畫，不足以證明犯罪，」她說，「先找日期與名字，別急著指控。」屋外，韓祈深吸一口氣，望向前方山脈。「我以前以為力量就是讓所有人沉默，」他說，「現在沉默像一堵牆。」沈雨站得很近，兩人的袖子輕輕碰到。「那我們明天再問一個問題。」",
+        "englishSha256": "34650ccb004c79d6e4316fd6d38e7f6cad936cd51f14493c9a3d131112ac33ab",
+        "chineseSha256": "65dde6d07018ddb70422bf34183d395e975cd500efd3cf756269b439787f67cd"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 664,
+    "targets": [
+      {
+        "word": "active",
+        "meaning": "活躍的",
+        "appearsInSource": true
+      },
+      {
+        "word": "concern",
+        "meaning": "擔憂",
+        "appearsInSource": true
+      },
+      {
+        "word": "cycle",
+        "meaning": "循環",
+        "appearsInSource": true
+      },
+      {
+        "word": "distance",
+        "meaning": "距離",
+        "appearsInSource": true
+      },
+      {
+        "word": "flag",
+        "meaning": "旗幟",
+        "appearsInSource": true
+      },
+      {
+        "word": "flat",
+        "meaning": "平坦的",
+        "appearsInSource": true
+      },
+      {
+        "word": "forward",
+        "meaning": "向前",
+        "appearsInSource": true
+      },
+      {
+        "word": "gained",
+        "meaning": "獲得",
+        "appearsInSource": true
+      },
+      {
+        "word": "indicate",
+        "meaning": "指出",
+        "appearsInSource": true
+      },
+      {
+        "word": "law",
+        "meaning": "法律",
+        "appearsInSource": true
+      },
+      {
+        "word": "notebooks",
+        "meaning": "筆記本",
+        "appearsInSource": true
+      },
+      {
+        "word": "occurred",
+        "meaning": "發生",
+        "appearsInSource": true
+      },
+      {
+        "word": "riches",
+        "meaning": "財富",
+        "appearsInSource": true
+      },
+      {
+        "word": "sex",
+        "meaning": "性別",
+        "appearsInSource": true
+      },
+      {
+        "word": "silence",
+        "meaning": "沉默",
+        "appearsInSource": true
+      },
+      {
+        "word": "single",
+        "meaning": "單一的",
+        "appearsInSource": true
+      },
+      {
+        "word": "suit",
+        "meaning": "西裝",
+        "appearsInSource": true
+      },
+      {
+        "word": "track",
+        "meaning": "軌道",
+        "appearsInSource": true
+      },
+      {
+        "word": "valley",
+        "meaning": "山谷",
+        "appearsInSource": true
+      },
+      {
+        "word": "wallet",
+        "meaning": "錢包",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈The Valley of Silent Records〉第 1 段的事件，哪個選項能正確補完整句？\nQi remained silent when the clerk recognized ____.",
+      "options": [
+        "his notebook one final time",
+        "his eyes",
+        "his family name"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "his family name",
+      "existingAnswerExplanation": "原文證據：Qi remained silent when the clerk recognized his family name.\n本段對照：山盟的成文法律要求各學院保存舊閘門紀錄。宋長老帶沈雨與韓祈來到一座平坦山谷，資料就存放在這裡。狹窄步道從北路通往掛著褪色旗幟的石廳。裡面一位書記把數百本筆記冊放在架上。「有些紀錄是個人的，」她提醒，「未經許可不能打開。」沈雨點頭。他來是為了查明哪些事能公開，不是偷看私人故事。書記認出韓祈的姓時，韓祈沉默了。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "A written law of the Mountain Society required every academy to keep a record of its old gates. Elder Song took Yu and Qi to a flat valley where the records were stored. A narrow track led from the northern road to a stone hall with a faded flag. Inside, a clerk had placed hundreds of notebooks on shelves. “Some records are personal,” she warned. “Do not open them without permission.” Yu nodded. He had come to learn what could be made public, not to steal private stories. Qi remained silent when the clerk recognized his family name.",
+          "chinese": "山盟的成文法律要求各學院保存舊閘門紀錄。宋長老帶沈雨與韓祈來到一座平坦山谷，資料就存放在這裡。狹窄步道從北路通往掛著褪色旗幟的石廳。裡面一位書記把數百本筆記冊放在架上。「有些紀錄是個人的，」她提醒，「未經許可不能打開。」沈雨點頭。他來是為了查明哪些事能公開，不是偷看私人故事。書記認出韓祈的姓時，韓祈沉默了。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 6,
+          "english": "The clerk's main concern was that the old gate still appeared active in the water records. Each day showed the same cycle: water entered at night and disappeared before dawn. “That cannot be normal river behavior,” she said. Yu copied the dates while Qi drew the gate positions. The problem was no longer only a mysterious sound. It was a repeated action that someone had allowed to continue.",
+          "chinese": "書記最擔憂的是，舊閘在用水紀錄裡仍顯示運作。每天都是同一循環：水在夜裡流入，黎明前消失。「這不會是正常河流的行為。」她說。沈雨抄日期，韓祈畫閘門位置。問題已不只是神祕聲音，而是一項有人長期允許的重複行動。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈The Valley of Silent Records〉第 7 段的事件，哪個選項能正確補完整句？\n“Look for dates and names before making an accusation.” Outside, Qi took ____ and looked ahead to the mountain.",
+      "options": [
+        "a bottle of beer",
+        "a short prayer",
+        "a long breath"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "a long breath",
+      "existingAnswerExplanation": "原文證據：“Look for dates and names before making an accusation.” Outside, Qi took a long breath and looked ahead to the mountain.\n本段對照：書記替紙張拍照存證前，沈雨和韓祈都沒有碰它。她之後把原件裝入透明套，給他們一份影本。「它可能只是一項計畫，不足以證明犯罪，」她說，「先找日期與名字，別急著指控。」屋外，韓祈深吸一口氣，望向前方山脈。「我以前以為力量就是讓所有人沉默，」他說，「現在沉默像一堵牆。」沈雨站得很近，兩人的袖子輕輕碰到。「那我們明天再問一個問題。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "Yu and Qi did not touch the paper until the clerk had photographed it for the record. Then she placed it in a clear cover and gave them a copy. “It may be a plan, not proof of a crime,” she said. “Look for dates and names before making an accusation.” Outside, Qi took a long breath and looked ahead to the mountain. “I used to think power meant making everyone silent,” he said. “Now silence feels like a wall.” Yu stood close enough for their sleeves to touch. “Then we will ask one more question tomorrow.”",
+          "chinese": "書記替紙張拍照存證前，沈雨和韓祈都沒有碰它。她之後把原件裝入透明套，給他們一份影本。「它可能只是一項計畫，不足以證明犯罪，」她說，「先找日期與名字，別急著指控。」屋外，韓祈深吸一口氣，望向前方山脈。「我以前以為力量就是讓所有人沉默，」他說，「現在沉默像一堵牆。」沈雨站得很近，兩人的袖子輕輕碰到。「那我們明天再問一個問題。」",
+          "matchedQueryTerms": 19
+        },
+        {
+          "paragraph": 1,
+          "english": "A written law of the Mountain Society required every academy to keep a record of its old gates. Elder Song took Yu and Qi to a flat valley where the records were stored. A narrow track led from the northern road to a stone hall with a faded flag. Inside, a clerk had placed hundreds of notebooks on shelves. “Some records are personal,” she warned. “Do not open them without permission.” Yu nodded. He had come to learn what could be made public, not to steal private stories. Qi remained silent when the clerk recognized his family name.",
+          "chinese": "山盟的成文法律要求各學院保存舊閘門紀錄。宋長老帶沈雨與韓祈來到一座平坦山谷，資料就存放在這裡。狹窄步道從北路通往掛著褪色旗幟的石廳。裡面一位書記把數百本筆記冊放在架上。「有些紀錄是個人的，」她提醒，「未經許可不能打開。」沈雨點頭。他來是為了查明哪些事能公開，不是偷看私人故事。書記認出韓祈的姓時，韓祈沉默了。",
+          "matchedQueryTerms": 9
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

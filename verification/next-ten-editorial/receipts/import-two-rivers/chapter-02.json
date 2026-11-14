@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 50 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "import-two-rivers",
+  "title": "雙河，同心",
+  "chapter": 2,
+  "chapterId": "import-two-rivers-2",
+  "sourceChapterSha256": "1dc62072f6cd3925ca1dd02e81d03a95dfe0a1b779e11acfa006c3fa9caa923a",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "圖書館的《山水教本》被羅會長組織取走；退休理髮師馮叔的舊地圖顯示水路被裁掉，兩人以紀錄而非傳說追查。",
+    "previousChapterEndingEnglish": "“I have had this mark since I was a child,” Qi said. “When the bell rings, it hurts.” Yu raised his own hand. On his palm lay a white mark, also half a circle. They stared at each other. Far under the street, something heavy shifted, and the seesaw moved although neither boy had touched the ground. Across the yard, a narrow crack opened in the dry earth. The teacher came running and ordered everyone away. Yu heard a tenth bell, very deep and very slow. Qi seized his sleeve. “Do not tell them about our marks,” he whispered. “Not until we know who is ringing that bell.”",
+    "nextChapterOpeningEnglish": "The man behind them was Master Du, the academy guard. He raised his hand before Yu could speak. “There has been an alarm at the western cell. Come with me.” His voice was calm, but Qi noticed a dark line across his sleeve. The cell stood in an empty stone building once used to punish students who broke the rules. Now it held important objects. One glass box had been broken with a single shot of spirit light, and the copper river plate inside was gone. “Someone came here during the meeting,” Du said. “The guard at the door saw a student in white.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next morning, Yu and Qi visited the academy library. The main room was huge, with old books on high shelves and lanterns hanging from the roof at a strange angle. Qi wanted to find an edition of the Mountain Water Textbook printed before the last river was closed. Yu asked the keeper whether such a book could still exist. The woman studied his face for a particular moment. “A book is not dangerous,” she said, “but the truth inside it may be painful to someone.” She brought them a board covered in names of books that had been removed.",
+        "zh": "隔天早晨，沈雨和韓祈到學院圖書館。大廳很大，舊書放在高高的書架上，燈籠以奇怪的角度掛在屋頂。韓祈想找一本河道封閉前印行的《山水教本》舊版。沈雨問管理員，那樣的書是否還存在。女人仔細看了他一會兒。「書本並不危險，」她說，「但裡面的真相可能讓某些人痛苦。」她拿來一塊木板，上面記著遭移走的書名。",
+        "englishSha256": "8fe0a6ad8251abe1a330f3114455a8d73895215a1bbb56ca73a5b91079938199",
+        "chineseSha256": "306bce047eac97ac1afe3a4db3c57c0af23c20a039e49d6287a9dff7294c7399"
+      },
+      {
+        "number": 2,
+        "en": "The book they wanted had been taken by the Mountain Society, an organization led by President Luo. Only a small minority of teachers had questioned his decisions. “Why would a school president hide a map?” Yu asked. The keeper shook her head. “I cannot answer that. Ask a person who worked here twenty years ago.” Outside, they met a barber who cut the students' hair beside a narrow street. Above his shop hung a wooden deer, and a small white dove rested on its head. Qi recognized the barber as Uncle Feng, a retired water guard who knew the older mountain paths.",
+        "zh": "他們要找的書已被山盟帶走。那個組織由羅會長領導，只有少數老師曾質疑他的決定。「為什麼學院會長要藏地圖？」沈雨問。管理員搖頭：「我不能回答。去問一個二十年前就在這裡工作的人。」走出圖書館，他們遇見一位在窄街旁替學生剪髮的理髮師。店招是一頭木雕鹿，鹿頭上停著一隻白鴿。韓祈認出那是馮叔，一名退休的水道守衛，知道古老山路的走向。",
+        "englishSha256": "1b7595f30944a05d59e89c0260c5263c988be29a17b3723b56ec5968571c5d0a",
+        "chineseSha256": "cadea484e3e5d6324873a8be4efb51e6d31f1db6ac5a8da19feeda4818f3a4aa"
+      },
+      {
+        "number": 3,
+        "en": "Uncle Feng listened quietly while he worked on a customer's hair. When the customer left, he took out a cracked paper map. “Look at this corner,” he said. A river crossed the mountain, but the line ended suddenly in an empty white spot. “This map was changed after the great flood. I helped carry the old boards down from the northern watchtower.” His hands stopped moving. “They told us to avoid speaking about the river. We did not understand why.” Qi turned the map toward the light. A second line had been cut away at exactly the same angle as the first.",
+        "zh": "馮叔替顧客剪髮時靜靜聽著。客人離開後，他取出一張裂開的紙地圖。「看這個角落，」他說。一條河穿過山脈，卻突然在一片空白處中斷。「大水之後，這張地圖被改過。我幫忙把舊木牌從北方瞭望塔搬下來。」他的雙手停了。「有人叫我們別再談那條河。當時我們不明白原因。」韓祈把地圖對向光線。第二條線也被剪掉，角度和第一條完全相同。",
+        "englishSha256": "810bca564974edf5833b212d198467d2f2f680a4519a06ef8daa6033c68b5c8d",
+        "chineseSha256": "900a55667a6d6d5b7ab12836703cd73bd9a944fae322709988e1c9730dfd9fb0"
+      },
+      {
+        "number": 4,
+        "en": "Yu gave the barber a respectful bow. “I appreciate your help.” Feng poured two cups of sour plum tea. “The water was never evil,” he said. “It kept our villages alive. But one winter the mountain went dry, and officials said the river had died.” Yu knew that rivers did not simply disappear. Qi asked where the missing lines pointed. Feng tapped a mark under the north tower. “To the old lantern road. I once saw a girl carry a lamp there even when the tower had no power.” “Who was she?” Yu asked. Feng's eyes moved to Qi's wrist. He did not answer.",
+        "zh": "沈雨向理髮師恭敬行禮。「謝謝您的幫忙。」馮叔倒了兩杯酸梅茶。「水從來不是邪物，」他說，「它讓村落活下去。可是某年冬天山突然乾了，官員便說河流已死。」沈雨知道河不會平白消失。韓祈問被剪去的線通往哪裡。馮叔點著北塔下方的記號。「舊燈道。我以前看過一個女孩拿燈走上去，明明塔裡沒有電。」「她是誰？」沈雨問。馮叔的眼睛移到韓祈的手腕，沒有回答。",
+        "englishSha256": "d02271c14c0d783374fa404d98b131e944979dcfda5c9c7f0d258badefcaf808",
+        "chineseSha256": "0184c4d61f8bfb601dfff6128f356bf26cc2f2c5b74689ba58d496cab5b42f8d"
+      },
+      {
+        "number": 5,
+        "en": "A horn sounded from the academy. All first-year students had to attend a meeting. On the wall stood a new poster: ONLY ONE PATH CAN SAVE THE MOUNTAIN. Under it was Luo's name. Yu wondered whether this was a warning or an invitation. Qi studied the poster and then the old map. “A deer, a dove, and a line cut from a book,” he said. “They could be signs, or we could be seeing what we want to see.” Yu liked that Qi did not force an answer. “We should test what is real,” he agreed. They returned to the library before evening.",
+        "zh": "學院的號角響了。所有一年級學生都得參加集會。牆上貼著新海報：「唯有一條道路能拯救山脈。」下方署名羅會長。沈雨不確定這是警告還是邀請。韓祈看著海報，再看舊地圖。「鹿、鴿子，還有從書上剪掉的線，」他說，「它們也許是記號，也可能只是我們太想找到答案。」沈雨喜歡韓祈不急著定論的態度。「我們得查證真實的部分。」他同意。天黑前，他們回到圖書館。",
+        "englishSha256": "2523c0ffb6f0dbceeafbff65bbb0140a558970b49b6845654c742cf9f53403ad",
+        "chineseSha256": "eb162df1bf6335e666e643255e1b82c9ce7d420821b335c20cb73944f5f33577"
+      },
+      {
+        "number": 6,
+        "en": "The keeper showed them a wooden box from the same year as the flood. It was sealed with an iron strip. “I should not open this without permission,” she said. Qi did not ask her to break the rule. Instead, Yu noticed a tiny number under the seal. It matched the number of a page in the textbook. “Can we read the public list of old records?” he asked. She nodded and turned the list toward them. Under that number, three words had been written in faded ink: TWO RIVERS, ONE HEART. Then a voice behind them said, “You should not have come looking for that page.”",
+        "zh": "管理員拿出一只與大水同年的木盒，盒蓋封著鐵條。「沒有許可，我不能打開。」她說。韓祈沒有要求她違規。沈雨卻看見封條下有一個小小的數字，正好對上教本的一頁。「可以看看公開的舊紀錄目錄嗎？」他問。管理員點頭，將目錄轉向他們。那個編號下方，用褪色墨水寫了三個詞：「雙河，同心。」這時背後響起一個聲音：「你們不該來找那一頁。」",
+        "englishSha256": "90ee673d2704758c38621d07ed28ce3bcc34f5435bd5a5fcde9c69527d6a6063",
+        "chineseSha256": "d81eb7ebcc8c3d4e9a76cffc92016614be1a3e22a4f2de76b447294c65ee8437"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 618,
+    "targets": [
+      {
+        "word": "angle",
+        "meaning": "角度",
+        "appearsInSource": true
+      },
+      {
+        "word": "appreciate",
+        "meaning": "感謝",
+        "appearsInSource": true
+      },
+      {
+        "word": "avoid",
+        "meaning": "避免",
+        "appearsInSource": true
+      },
+      {
+        "word": "barber",
+        "meaning": "理髮師",
+        "appearsInSource": true
+      },
+      {
+        "word": "board",
+        "meaning": "木板",
+        "appearsInSource": true
+      },
+      {
+        "word": "deer",
+        "meaning": "鹿",
+        "appearsInSource": true
+      },
+      {
+        "word": "dove",
+        "meaning": "鴿子",
+        "appearsInSource": true
+      },
+      {
+        "word": "edition",
+        "meaning": "版本",
+        "appearsInSource": true
+      },
+      {
+        "word": "exist",
+        "meaning": "存在",
+        "appearsInSource": true
+      },
+      {
+        "word": "huge",
+        "meaning": "巨大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "lanterns",
+        "meaning": "燈籠",
+        "appearsInSource": true
+      },
+      {
+        "word": "minority",
+        "meaning": "少數人",
+        "appearsInSource": true
+      },
+      {
+        "word": "organization",
+        "meaning": "組織",
+        "appearsInSource": true
+      },
+      {
+        "word": "painful",
+        "meaning": "令人痛苦的",
+        "appearsInSource": true
+      },
+      {
+        "word": "particular",
+        "meaning": "特定的",
+        "appearsInSource": true
+      },
+      {
+        "word": "president",
+        "meaning": "會長",
+        "appearsInSource": true
+      },
+      {
+        "word": "sour",
+        "meaning": "酸的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spot",
+        "meaning": "地點",
+        "appearsInSource": true
+      },
+      {
+        "word": "textbook",
+        "meaning": "教科書",
+        "appearsInSource": true
+      },
+      {
+        "word": "truth",
+        "meaning": "真相",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "依據〈A Page Without a River〉第 2 段的事件，哪個選項能正確補完整句？\nQi recognized ____ as Uncle Feng, a retired water guard who knew the older mountain paths.",
+      "options": [
+        "the record",
+        "the barber",
+        "the road"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the barber",
+      "existingAnswerExplanation": "原文證據：Qi recognized the barber as Uncle Feng, a retired water guard who knew the older mountain paths.\n本段對照：他們要找的書已被山盟帶走。那個組織由羅會長領導，只有少數老師曾質疑他的決定。「為什麼學院會長要藏地圖？」沈雨問。管理員搖頭：「我不能回答。去問一個二十年前就在這裡工作的人。」走出圖書館，他們遇見一位在窄街旁替學生剪髮的理髮師。店招是一頭木雕鹿，鹿頭上停著一隻白鴿。韓祈認出那是馮叔，一名退休的水道守衛，知道古老山路的走向。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The book they wanted had been taken by the Mountain Society, an organization led by President Luo. Only a small minority of teachers had questioned his decisions. “Why would a school president hide a map?” Yu asked. The keeper shook her head. “I cannot answer that. Ask a person who worked here twenty years ago.” Outside, they met a barber who cut the students' hair beside a narrow street. Above his shop hung a wooden deer, and a small white dove rested on its head. Qi recognized the barber as Uncle Feng, a retired water guard who knew the older mountain paths.",
+          "chinese": "他們要找的書已被山盟帶走。那個組織由羅會長領導，只有少數老師曾質疑他的決定。「為什麼學院會長要藏地圖？」沈雨問。管理員搖頭：「我不能回答。去問一個二十年前就在這裡工作的人。」走出圖書館，他們遇見一位在窄街旁替學生剪髮的理髮師。店招是一頭木雕鹿，鹿頭上停著一隻白鴿。韓祈認出那是馮叔，一名退休的水道守衛，知道古老山路的走向。",
+          "matchedQueryTerms": 17
+        },
+        {
+          "paragraph": 4,
+          "english": "Yu gave the barber a respectful bow. “I appreciate your help.” Feng poured two cups of sour plum tea. “The water was never evil,” he said. “It kept our villages alive. But one winter the mountain went dry, and officials said the river had died.” Yu knew that rivers did not simply disappear. Qi asked where the missing lines pointed. Feng tapped a mark under the north tower. “To the old lantern road. I once saw a girl carry a lamp there even when the tower had no power.” “Who was she?” Yu asked. Feng's eyes moved to Qi's wrist. He did not answer.",
+          "chinese": "沈雨向理髮師恭敬行禮。「謝謝您的幫忙。」馮叔倒了兩杯酸梅茶。「水從來不是邪物，」他說，「它讓村落活下去。可是某年冬天山突然乾了，官員便說河流已死。」沈雨知道河不會平白消失。韓祈問被剪去的線通往哪裡。馮叔點著北塔下方的記號。「舊燈道。我以前看過一個女孩拿燈走上去，明明塔裡沒有電。」「她是誰？」沈雨問。馮叔的眼睛移到韓祈的手腕，沒有回答。",
+          "matchedQueryTerms": 8
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "依據〈A Page Without a River〉第 6 段的事件，哪個選項能正確補完整句？\n“Can we read ____?”",
+      "options": [
+        "the dry fields",
+        "the public list of old records",
+        "the outer wall"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "the public list of old records",
+      "existingAnswerExplanation": "原文證據：“Can we read the public list of old records?”\n本段對照：管理員拿出一只與大水同年的木盒，盒蓋封著鐵條。「沒有許可，我不能打開。」她說。韓祈沒有要求她違規。沈雨卻看見封條下有一個小小的數字，正好對上教本的一頁。「可以看看公開的舊紀錄目錄嗎？」他問。管理員點頭，將目錄轉向他們。那個編號下方，用褪色墨水寫了三個詞：「雙河，同心。」這時背後響起一個聲音：「你們不該來找那一頁。」",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The keeper showed them a wooden box from the same year as the flood. It was sealed with an iron strip. “I should not open this without permission,” she said. Qi did not ask her to break the rule. Instead, Yu noticed a tiny number under the seal. It matched the number of a page in the textbook. “Can we read the public list of old records?” he asked. She nodded and turned the list toward them. Under that number, three words had been written in faded ink: TWO RIVERS, ONE HEART. Then a voice behind them said, “You should not have come looking for that page.”",
+          "chinese": "管理員拿出一只與大水同年的木盒，盒蓋封著鐵條。「沒有許可，我不能打開。」她說。韓祈沒有要求她違規。沈雨卻看見封條下有一個小小的數字，正好對上教本的一頁。「可以看看公開的舊紀錄目錄嗎？」他問。管理員點頭，將目錄轉向他們。那個編號下方，用褪色墨水寫了三個詞：「雙河，同心。」這時背後響起一個聲音：「你們不該來找那一頁。」",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The next morning, Yu and Qi visited the academy library. The main room was huge, with old books on high shelves and lanterns hanging from the roof at a strange angle. Qi wanted to find an edition of the Mountain Water Textbook printed before the last river was closed. Yu asked the keeper whether such a book could still exist. The woman studied his face for a particular moment. “A book is not dangerous,” she said, “but the truth inside it may be painful to someone.” She brought them a board covered in names of books that had been removed.",
+          "chinese": "隔天早晨，沈雨和韓祈到學院圖書館。大廳很大，舊書放在高高的書架上，燈籠以奇怪的角度掛在屋頂。韓祈想找一本河道封閉前印行的《山水教本》舊版。沈雨問管理員，那樣的書是否還存在。女人仔細看了他一會兒。「書本並不危險，」她說，「但裡面的真相可能讓某些人痛苦。」她拿來一塊木板，上面記著遭移走的書名。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}
