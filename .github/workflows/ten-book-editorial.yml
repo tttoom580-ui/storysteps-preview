@@ -1,0 +1,58 @@
+name: Ten-book bilingual editorial repair and 250-chapter audit
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/edit_ten_books_20261114.py'
+      - 'verification/ten-book-editorial/curated-repairs-20261114.json'
+      - '.github/workflows/ten-book-editorial.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-ten-book-edit
+  cancel-in-progress: false
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 17
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.13.1'
+      - name: Apply reviewed bilingual edits, audit selected 250 chapters and verify whole site
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/edit_ten_books_20261114.py
+          python3 scripts/check_editorial_certification.py
+          python3 scripts/audit_story_release.py
+      - name: Publish only validated manuscripts and reports
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          npm install --no-audit --no-fund
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/edit_ten_books_20261114.py
+            python3 scripts/check_editorial_certification.py
+            npm run build
+            node verification/ad-policy-smoke.mjs
+            node verification/offer-smoke.mjs
+            git add -A public/books public/catalog.js public/content-manifest.json verification/ten-book-editorial/ten-book-progress-20261114.json verification/ten-book-editorial/README.md docs
+            if git diff --cached --quiet; then
+              echo 'All reviewed edits already published.'
+              exit 0
+            fi
+            git commit -m 'editorial: publish bilingual repairs and 250 chapter audit for ten free novels [skip ci]'
+            if git push origin HEAD:main; then
+              echo 'Pushed corrected text and detailed audit.'
+              exit 0
+            fi
+            echo "Remote advanced; retry from latest main."
+          done
+          exit 1
