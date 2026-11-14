@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 17,
+  "chapterId": "ss-r2-l2-a-17",
+  "sourceChapterSha256": "f4c493699e353e736067cbd7d76affe0779d2a07a6386beb0b23d3f2f9e85946",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "第二次閥門故障凸顯至少兩名合格操作人員共同監測之必要；睿選擇中止演示保護旁觀者。",
+    "previousChapterEndingEnglish": "By evening, the old storehouse looked like a real workshop. Tools had places, records had copies, and visitors knew whom to ask for help. Rui felt proud, but he did not call it a victory. A shared system would face problems that a single person could never see coming. Mei reminded him of the upper valve they still had not tested. Its pressure might be rising while they worked below. Tomorrow, they would climb to the high station with a proper team. If the community wanted lasting freedom, it would have to protect the whole river, not only the part close to home.",
+    "nextChapterOpeningEnglish": "Lan brought a new model of the upper-valve control to the workshop. She carried it in a backpack because its parts were small and easy to lose. On the table she laid a metal nut, a mirror, a spring, and a short tube. Rui asked how the model would use energy. “Only a little,” Lan said. “The greater factor is how fast the valve moves.” She showed him that a slow change in pressure gave the pipes time to settle. The idea was obvious once he saw it, but he had never considered it before. He wrote the lesson in the group account so everyone could learn it."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At the high station, the repair team found the upper valve in poor condition. A wire had come loose, and the control box showed a dangerous pressure reading. Rui asked everyone to stand back while Lan checked the connection. Chief Gao, who led the school safety team, watched beside a small group of guards. “An accident here could affect the entire valley,” Gao said. He had brought a reserve team from the town army in case the path needed to be closed. Rui did not like seeing so many uniforms, but he understood the danger. The condition of the pipe mattered more than his feelings.",
+        "zh": "在高站，維修隊發現上方閥門狀況很差。一條電線鬆了，控制箱顯示危險壓力。睿請大家退後，由蘭檢查接點。山門安全隊的高隊長帶著幾名守衛在旁觀看。「這裡一旦出事故，整座山谷都可能受影響，」高說。他還請鎮上的軍方預備隊待命，必要時封閉道路。睿不喜歡看到那麼多制服，但明白危險。他自己的感受沒有管線狀態重要。",
+        "englishSha256": "cc5d8bd4beb6551f2afc2d40c8fb6a3c949505435f1ef6bfec010984d1e0914d",
+        "chineseSha256": "32f270d598605baa32d5fbd45c44e5ae5280257996e88fb0e49b6cc428762d09"
+      },
+      {
+        "number": 2,
+        "en": "The first test went well until a young worker turned the wrong handle. Water hit the side wall, and the pressure rose quickly. Rui told him to stop, but the man was nervous and moved again. The valve shook. Mei checked the depth of the lower tank and called out the number. Lan closed the power line, while Rui pulled the manual control back to its safe mark. The noise faded. Nobody was hurt, but the group had nearly caused the very problem it wanted to prevent. Rui felt a sharp mix of fear and anger. He needed a moment before he could speak calmly.",
+        "zh": "第一次測試起初順利，直到一名年輕工人轉錯把手。水撞上側牆，壓力迅速升高。睿叫他停手，對方卻因緊張又動了一次。閥門震動。梅檢查下方水槽的深度，喊出數字。蘭切斷電力，睿把手動控制器拉回安全標記。噪音慢慢消失。沒有人受傷，但小組差點造成原本想防止的問題。睿又害怕又生氣，需要片刻才能平靜說話。",
+        "englishSha256": "b3a053837ea65c40a4af59df89e02110c450bfeff4030b29a6761fb7df4f8b00",
+        "chineseSha256": "422fb74b9928f2a1663a1c45f6fe4918751619bb5b95efb376bf12a8fdd806be"
+      },
+      {
+        "number": 3,
+        "en": "Gao wanted to send the worker away. Rui asked him to wait. He did not want to bother the worker with blame before understanding the mistake. “We must admit that our instructions were not clear enough,” Rui said. “I told him to turn the handle, but I did not show him which one.” The worker looked up, surprised that Rui was taking part of the blame. Mei said the team also lacked a second person to confirm each action. Instead of punishment, they began a new dialogue about safety. Everyone could describe what had happened. They added a rule: no high-pressure valve could be moved until two trained workers had checked its name and position.",
+        "zh": "高想把那名工人趕走，睿請他先等等。在弄懂失誤以前，他不想用責怪去煩擾那名工人。「我們得承認指示不夠清楚，」睿說，「我叫他轉把手，卻沒指給他看是哪一個。」工人抬頭，很驚訝睿願意承擔部分責任。梅說隊伍也缺少第二人確認每項操作。大家沒有立刻處罰，而是開始討論安全。每個人都能描述發生的事。他們新增規則：高壓閥門在兩名受訓工人確認名稱與位置前，不得移動。",
+        "englishSha256": "d43bd5f7b4ae638d3082929486d39c101dc0058527efb39b37d80351a11abd44",
+        "chineseSha256": "dc55d5a530c2d958c744f6ec346a6bbf2951dd4bfa5ce3df6776a7c481d63cc8"
+      },
+      {
+        "number": 4,
+        "en": "During lunch, the workers sat beside a field of corn. A cook offered soup and bread, and Gao brought a small bottle of beer for the end of the day. Rui thanked him but said they should not drink while machines were still running. Gao agreed and put it away. The talk moved to ordinary life. One worker described his recent marriage, and another said he had spent the past week helping his grandmother. Rui listened. The people beside him were not just names on a work list. Their homes, hopes, and worries were reasons to make the work safe.",
+        "zh": "午餐時，工人坐在玉米田旁。廚師提供湯和麵包，高帶來一小瓶啤酒，說收工後可以喝。睿道謝，但表示機器還在運轉時不宜飲酒。高同意，把酒收起來。談話轉向日常。一名工人提到最近結婚，另一人說上週都在照顧祖母。睿聽著。身邊這些人不只是工作名單上的名字，他們的家、希望和煩惱，都是工作必須安全的原因。",
+        "englishSha256": "7f955b46b9b70770b619108fb7ccf88c9fdd0d76179d9d0f861fd1aed1aa6575",
+        "chineseSha256": "f3eabb7142a6dc0cb532c58763d1b5494f1c2ac7c001d8b782cda22867599228"
+      },
+      {
+        "number": 5,
+        "en": "In the afternoon, the team measured the pressure again and made a positive discovery. The hidden pump had been taking water in short, strong bursts. That movement placed extra force on the upper pipe. A slower flow could reduce the risk. Rui suggested a control that would open and close in small steps rather than one large move. Lan said the idea was possible, but the school would have to provide correct parts. Gao looked at the old valve and nodded. “I am willing to ask for them,” he said. “Keeping people safe matters more than saving my office a little money.”",
+        "zh": "下午，隊伍再量一次壓力，得到一項正面的發現：暗藏的水泵一直以短而強的脈衝抽水，對上方管線造成額外負荷。較慢的水流能降低風險。睿提議讓控制器分小步開關，而不是一次大幅動作。蘭說方法可行，但山門必須提供正確零件。高看著舊閥門點頭：「我願意去申請。保護人命比替辦公室省點錢重要。」",
+        "englishSha256": "b6c925844ab5c8a977777587c1ca2e2db6b2e3e08f3238417d6c1a35b9a92e75",
+        "chineseSha256": "8d9cdc5f1e0e7969b4eba0b1443cbb01eb85af7d129fa2d637111103ee0a0380"
+      },
+      {
+        "number": 6,
+        "en": "Before leaving, Rui asked a visiting judge from the council to watch the next test. The judge said she could observe the process but could not give technical approval. That answer pleased Rui because it kept duties clear. Villagers gathered near the gate and clapped when the pressure stayed steady for ten minutes. A young man said he would pray that the machine continued to work. Rui hoped so too, but he also wanted people to keep checking the marks. Hope mattered. So did the patience to repeat a safe test tomorrow, even when everyone was tired of waiting.",
+        "zh": "離開前，睿請議會來訪的法官觀看下次測試。法官說她能觀察程序，卻不能提供技術核准。睿很滿意這個回答，因為分工清楚。村民聚在水閘旁，壓力穩定十分鐘後鼓掌。一名年輕人說會祈禱機器繼續運作。睿也希望如此，但更想提醒大家持續檢查標記。希望很重要；即使大家已等得疲倦，明天仍耐心重做安全測試，也同樣重要。",
+        "englishSha256": "f29b9d594820b36452588cb0d36a2618c627e9f8e4fd3fc3037e67837efde382",
+        "chineseSha256": "fa7ebc0cc869fbd9d4229a31d4f61ee239ea6ab25b1ac9ad9d0cff922d3aa828"
+      },
+      {
+        "number": 7,
+        "en": "That night, Rui wrote an honest account of the mistake. He did not hide the wrong handle or the fear he had felt. The old school had often used shame to keep students silent, and he did not want his team to do the same. A repair group could grow stronger by learning openly. Mei read the account and said the new rule was a real improvement. Rui felt his emotion settle. Tomorrow they would try again with two checks at every step. If they failed, they would stop and understand the reason. No promise of quick power was worth another dangerous turn.",
+        "zh": "那晚，睿誠實寫下當天失誤，沒有隱瞞轉錯的把手，也不掩飾自己的恐懼。舊山門常用羞恥讓學生閉嘴，他不想讓自己的隊伍重演。維修團隊可以靠公開學習變強。梅讀完說，新規則是真正的進步。睿的情緒慢慢平復。明天他們將重試，每一步都由兩人確認。若失敗，就停下來理解原因。任何快速獲得力量的承諾，都不值得再冒一次危險。",
+        "englishSha256": "d670f15f304406fb540ab1a80858d5ba695992f0987d8e2f6f88df6fe976d9e8",
+        "chineseSha256": "6b5d7d4aec782a348cc87ab057cb98be5044990841e368920b8452b47a17bd85"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 729,
+    "targets": [
+      {
+        "word": "accident",
+        "meaning": "事故",
+        "appearsInSource": true
+      },
+      {
+        "word": "army",
+        "meaning": "軍隊",
+        "appearsInSource": true
+      },
+      {
+        "word": "beer",
+        "meaning": "啤酒",
+        "appearsInSource": true
+      },
+      {
+        "word": "bother",
+        "meaning": "使困擾",
+        "appearsInSource": true
+      },
+      {
+        "word": "Chief",
+        "meaning": "隊長",
+        "appearsInSource": true
+      },
+      {
+        "word": "clapped",
+        "meaning": "拍手",
+        "appearsInSource": true
+      },
+      {
+        "word": "condition",
+        "meaning": "狀況",
+        "appearsInSource": true
+      },
+      {
+        "word": "corn",
+        "meaning": "玉米",
+        "appearsInSource": true
+      },
+      {
+        "word": "depth",
+        "meaning": "深度",
+        "appearsInSource": true
+      },
+      {
+        "word": "dialogue",
+        "meaning": "對話",
+        "appearsInSource": true
+      },
+      {
+        "word": "emotion",
+        "meaning": "情緒",
+        "appearsInSource": true
+      },
+      {
+        "word": "Instead",
+        "meaning": "反而",
+        "appearsInSource": true
+      },
+      {
+        "word": "judge",
+        "meaning": "法官",
+        "appearsInSource": true
+      },
+      {
+        "word": "lacked",
+        "meaning": "缺乏",
+        "appearsInSource": true
+      },
+      {
+        "word": "marriage",
+        "meaning": "婚姻",
+        "appearsInSource": true
+      },
+      {
+        "word": "mix",
+        "meaning": "混合",
+        "appearsInSource": true
+      },
+      {
+        "word": "position",
+        "meaning": "正面的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pray",
+        "meaning": "祈禱",
+        "appearsInSource": true
+      },
+      {
+        "word": "willing",
+        "meaning": "願意的",
+        "appearsInSource": true
+      },
+      {
+        "word": "wire",
+        "meaning": "電線",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did the pressure rise during the test?",
+      "options": [
+        "A worker turned the wrong handle",
+        "A storm broke the roof",
+        "The river was empty"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A worker turned the wrong handle",
+      "existingAnswerExplanation": "工人轉錯把手，導致水流撞擊與壓力上升。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "The first test went well until a young worker turned the wrong handle. Water hit the side wall, and the pressure rose quickly. Rui told him to stop, but the man was nervous and moved again. The valve shook. Mei checked the depth of the lower tank and called out the number. Lan closed the power line, while Rui pulled the manual control back to its safe mark. The noise faded. Nobody was hurt, but the group had nearly caused the very problem it wanted to prevent. Rui felt a sharp mix of fear and anger. He needed a moment before he could speak calmly.",
+          "chinese": "第一次測試起初順利，直到一名年輕工人轉錯把手。水撞上側牆，壓力迅速升高。睿叫他停手，對方卻因緊張又動了一次。閥門震動。梅檢查下方水槽的深度，喊出數字。蘭切斷電力，睿把手動控制器拉回安全標記。噪音慢慢消失。沒有人受傷，但小組差點造成原本想防止的問題。睿又害怕又生氣，需要片刻才能平靜說話。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 6,
+          "english": "Before leaving, Rui asked a visiting judge from the council to watch the next test. The judge said she could observe the process but could not give technical approval. That answer pleased Rui because it kept duties clear. Villagers gathered near the gate and clapped when the pressure stayed steady for ten minutes. A young man said he would pray that the machine continued to work. Rui hoped so too, but he also wanted people to keep checking the marks. Hope mattered. So did the patience to repeat a safe test tomorrow, even when everyone was tired of waiting.",
+          "chinese": "離開前，睿請議會來訪的法官觀看下次測試。法官說她能觀察程序，卻不能提供技術核准。睿很滿意這個回答，因為分工清楚。村民聚在水閘旁，壓力穩定十分鐘後鼓掌。一名年輕人說會祈禱機器繼續運作。睿也希望如此，但更想提醒大家持續檢查標記。希望很重要；即使大家已等得疲倦，明天仍耐心重做安全測試，也同樣重要。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What rule did the team add?",
+      "options": [
+        "Only Rui may touch tools",
+        "Two trained workers must confirm high-pressure valves",
+        "All work must happen at night"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Two trained workers must confirm high-pressure valves",
+      "existingAnswerExplanation": "新規則要求兩人核對高壓閥門的名稱與位置，降低操作錯誤。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Gao wanted to send the worker away. Rui asked him to wait. He did not want to bother the worker with blame before understanding the mistake. “We must admit that our instructions were not clear enough,” Rui said. “I told him to turn the handle, but I did not show him which one.” The worker looked up, surprised that Rui was taking part of the blame. Mei said the team also lacked a second person to confirm each action. Instead of punishment, they began a new dialogue about safety. Everyone could describe what had happened. They added a rule: no high-pressure valve could be moved until two trained workers had checked its name and position.",
+          "chinese": "高想把那名工人趕走，睿請他先等等。在弄懂失誤以前，他不想用責怪去煩擾那名工人。「我們得承認指示不夠清楚，」睿說，「我叫他轉把手，卻沒指給他看是哪一個。」工人抬頭，很驚訝睿願意承擔部分責任。梅說隊伍也缺少第二人確認每項操作。大家沒有立刻處罰，而是開始討論安全。每個人都能描述發生的事。他們新增規則：高壓閥門在兩名受訓工人確認名稱與位置前，不得移動。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 4,
+          "english": "During lunch, the workers sat beside a field of corn. A cook offered soup and bread, and Gao brought a small bottle of beer for the end of the day. Rui thanked him but said they should not drink while machines were still running. Gao agreed and put it away. The talk moved to ordinary life. One worker described his recent marriage, and another said he had spent the past week helping his grandmother. Rui listened. The people beside him were not just names on a work list. Their homes, hopes, and worries were reasons to make the work safe.",
+          "chinese": "午餐時，工人坐在玉米田旁。廚師提供湯和麵包，高帶來一小瓶啤酒，說收工後可以喝。睿道謝，但表示機器還在運轉時不宜飲酒。高同意，把酒收起來。談話轉向日常。一名工人提到最近結婚，另一人說上週都在照顧祖母。睿聽著。身邊這些人不只是工作名單上的名字，他們的家、希望和煩惱，都是工作必須安全的原因。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

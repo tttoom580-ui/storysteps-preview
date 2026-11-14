@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 11,
+  "chapterId": "ss-r2-l2-a-11",
+  "sourceChapterSha256": "49ab11ded3e34e41f2891d36894b10a4de69a87e20e1f139bb84310e16f36445",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "睿以父親手冊辦操作課，示範同一故障如何由不同人重測，區分操作說明與不受檢查的傳說。",
+    "previousChapterEndingEnglish": "That night the council announced a temporary order. The private farms could not take more than their listed share until the full review was complete. A measuring mark would be placed on every main pipe. Rui and Mei stood beside the first field as water moved along its edge. The stream was still narrow, and the next dry week might bring trouble again. Yet the order was a real change, not a promise made in a dark room. Rui looked toward the mountain and thought of the missing page in his father's manual. The more he learned, the more he wanted to find it.",
+    "nextChapterOpeningEnglish": "The council approved Rui's archive request, but the most important copy had been moved to the capital. Mei read the letter twice. “We will have to travel,” she said. Rui had hardly left the countryside before. He worried about the expense, but Bo offered to pay for their bus tickets from the farmers' common fund. “The money is for solving water problems,” he said. “This is one.” Rui promised to measure every cost and return what was not used. They left at dawn, carrying a blank notebook for new facts and a folder of copies that they did not want to lose."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The school allowed Rui to use an empty room for a public repair class. He placed a mug of water, an iron pin, and a broken wheel on the table. A group of beginners gathered around him. Some had strong magic, while others had none. Rui wanted to emphasize one rule: every person should understand the machine before touching its controls. “Our goal is not to make a perfect show,” he said. “We need to learn how to find a cause.” Lan charged a small fee for materials but gave the money back to the class fund, where all expenses were written down.",
+        "zh": "山門准許睿使用一間空教室開設公開維修課。他在桌上放了一杯水、一根鐵插銷和一個壞輪子。一群初學者圍過來，有些人法術很強，有些人完全不會。睿想強調一個規則：每個人碰控制器之前，都應先理解機器。「我們的目標不是表演得完美，」他說，「而是學會找出原因。」蘭收了一點材料費，卻把錢全放回班級基金，所有開支都公開記錄。",
+        "englishSha256": "ac72b130792fa4762de93335bbf98ad41721deec4ff1d3a90941cd6f2d1a2570",
+        "chineseSha256": "3cc970c7848570b532d3e5c1857f8878778e580e9cf437d19fe3cf2d02773c80"
+      },
+      {
+        "number": 2,
+        "en": "Rui demonstrated how sand could make a wheel jam. He poured a little grain into a tube, then showed the class how water slowed. A boy offered to use a strong spell to shoot the grain away. Rui shook his head. “That might work once,” he said, “but it could also break the tube. First find the trap where the grain has collected.” They opened a small side cover and cleaned it with a brush. The wheel turned again. Several students smiled at the simple success. Rui felt the importance of learning something that people could repeat safely.",
+        "zh": "睿示範沙粒如何讓輪子卡住。他倒少量穀粒進管子，讓大家看水流怎麼變慢。一名男孩提議用強法術把穀粒射出去。睿搖頭：「那也許會成功一次，但也可能打破管子。先找到穀粒聚集的陷阱。」他們打開側蓋，用刷子清乾淨。輪子再次轉動。幾位學生為這份簡單的成功微笑。睿感受到學習可安全重複的方法有多重要。",
+        "englishSha256": "096072367a946f2ba3f4ae1dcfa8f71b6d0609f34cb831dbecb50f33697d7f0a",
+        "chineseSha256": "86a6f1225a34b5ed6fb27e9527ae3288b9749f60e3938ac8761a99fa4465dd58"
+      },
+      {
+        "number": 3,
+        "en": "After class, a girl gave him a jar of grape jam from her family. She said her mother had seen water return to their field. Rui thanked her, but reminded the class that the river was not fixed yet. One student asked whether tools could replace all magic. “No,” he answered. “We still need people with different skills. My work is simply one part.” He wanted no new group to look down on others. The old school had often divided students by power. Rui believed the workshop should be a place where trust grew through work, not through rank.",
+        "zh": "下課後，一名女孩送他一罐家裡做的葡萄果醬。她說母親已看見水回到田裡。睿道謝，但提醒全班河流還沒有完全修好。一名學生問工具能否取代所有法術。「不能，」他回答，「我們仍需要不同能力的人。我做的只是其中一部分。」他不想讓新團體再看不起別人。舊山門常按力量區分學生；睿相信工坊應該是透過合作而非階級建立信任的地方。",
+        "englishSha256": "f9ebbe7a98530e3d952024842524fe2a9fc671c66e1a14afa4ad58fe2d97d38f",
+        "chineseSha256": "174d1e66f2364b6494c52e324125a833cae69a2a3733508709693ea406998162"
+      },
+      {
+        "number": 4,
+        "en": "Yan came to watch the second lesson. He asked Rui about a metal seal on the back of the old manual. Its color had once looked like gold, but most of it had worn away. “Your father made that mark,” Yan said. “It was used in the archive beside the hall of religion.” Rui was surprised. The school kept maps and farming books in one building, but important promises were stored with the older records in another. Yan explained that his father had asked to see those papers shortly before a mountain accident took his life. Rui felt a deep sadness, then a new question.",
+        "zh": "嚴來看第二堂課，問睿那本舊說明書背面的金屬印記。印記原本金黃，現在大半磨掉了。「那是你父親做的記號，」嚴說，「以前用在宗教廳旁的檔案庫。」睿很驚訝。山門把地圖和農業書放在一棟樓裡，較古老的重要承諾卻收藏在另一處。嚴解釋，睿的父親在山中事故奪走生命前不久，曾要求查閱那些文件。睿心中一痛，也多了一個疑問。",
+        "englishSha256": "1015ce302e269d07b14743a36018ee85fd157bc5717d52c9790b5abbcb3d6eac",
+        "chineseSha256": "1d9b443956485793f58a82c6c24b5fc184447737f4c0cedc7f827ea606a2ccbb"
+      },
+      {
+        "number": 5,
+        "en": "Rui and Mei went to the archive at once, but the door was locked. A guard told them the room was closed for its usual weekly cleaning. As they turned away, they heard someone running down the hall. A student in blue was chasing a small brown dog that had taken a cloth bag from the kitchen. Rui caught the dog gently near the stairs and returned the bag. The guard laughed and thanked him. For a moment the busy school seemed ordinary again, full of people with small problems, food, and work. That made the secrets behind its gates feel even stranger.",
+        "zh": "睿和梅立刻去檔案庫，但門鎖著。守衛說房間正在例行每週清潔。兩人轉身時，聽見有人在走廊奔跑。一名穿藍衣的學生正追一隻從廚房叼走布袋的小棕狗。睿在樓梯旁輕輕抓住狗，把袋子還回去。守衛笑著道謝。那一刻，忙碌的山門又像普通地方，充滿有小問題、有食物與工作的人。這讓山門大門背後的祕密顯得更加奇怪。",
+        "englishSha256": "3e087be317206ecee3291130b81126e97ade656ab426fd18e80e22dcfc571049",
+        "chineseSha256": "e7bff7557890855773f2b0d6428381a646394398c50d79d779d226c5e134708f"
+      },
+      {
+        "number": 6,
+        "en": "Mei suggested that they request archive access through the council instead of trying to enter secretly. “The social rules are changing,” she said. “Use them.” Rui agreed. He wrote a formal request, naming the old seal and the date of his father's visit. He asked only to see records connected with the river agreement. When he gave the paper to Yan, the teacher did not promise an easy answer. “People may not like what you find,” Yan said. Rui thought about his father and the workshop. He wanted what was true, even if it was hard to hear.",
+        "zh": "梅建議透過議會正式申請檔案庫使用權，不要偷偷進去。「社會上的規則正在改變，」她說，「就用這些規則。」睿同意。他寫了正式申請，列出舊印記及父親到訪日期，只要求查閱與河道協議相關的紀錄。把申請交給嚴時，老師沒有答應會有容易的答案。「你找到的東西，可能有人不喜歡，」嚴說。睿想著父親和工坊。他要知道真相，即使聽起來很難受。",
+        "englishSha256": "29ac1f71af4d399bf0fee0280502e318abb89d6c648b7e263e7085160e9fa809",
+        "chineseSha256": "9eb374fef63c5bc881d3e7528102ed40e872b0e31b457ad012d044fb438bea1a"
+      },
+      {
+        "number": 7,
+        "en": "That evening, Rui made a second copy of his workshop rules and placed it outside the mill. He included a short note telling villagers how to check the new water marks for themselves. He did not ask for praise or money. He wanted the work to remain useful when he was not there. Lan read the note and smiled. “A good system should not depend on one person,” she said. Rui looked at the river and nodded. He could not bring back his father, but he could continue a kind of work his father had begun: teaching others how to keep things running.",
+        "zh": "那晚，睿把工坊規則抄成第二份，貼在磨坊外。他加上一段短說明，教村民自行查看新的水位標記。他不求讚美或金錢，只希望自己不在場時，這些方法仍然有用。蘭讀完後笑了。「好的制度不應只靠一個人，」她說。睿望向河流點頭。他無法帶回父親，但可以延續父親開始的工作：教別人讓機器持續運作。",
+        "englishSha256": "d8b33d0988516f70cf401beab0c2c10b73d5cfd4535a2420d087551ba7b37c76",
+        "chineseSha256": "6055524c3bbecfa93b557eb744577ea990cfb89a941daf901a1400937def9f66"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 709,
+    "targets": [
+      {
+        "word": "beginners",
+        "meaning": "初學者",
+        "appearsInSource": true
+      },
+      {
+        "word": "charged",
+        "meaning": "收費",
+        "appearsInSource": true
+      },
+      {
+        "word": "chasing",
+        "meaning": "追逐",
+        "appearsInSource": true
+      },
+      {
+        "word": "emphasize",
+        "meaning": "強調",
+        "appearsInSource": true
+      },
+      {
+        "word": "goal",
+        "meaning": "目標",
+        "appearsInSource": true
+      },
+      {
+        "word": "gold",
+        "meaning": "金色",
+        "appearsInSource": true
+      },
+      {
+        "word": "grape",
+        "meaning": "葡萄",
+        "appearsInSource": true
+      },
+      {
+        "word": "importance",
+        "meaning": "重要性",
+        "appearsInSource": true
+      },
+      {
+        "word": "iron",
+        "meaning": "鐵",
+        "appearsInSource": true
+      },
+      {
+        "word": "jam",
+        "meaning": "卡住",
+        "appearsInSource": true
+      },
+      {
+        "word": "mug",
+        "meaning": "杯子",
+        "appearsInSource": true
+      },
+      {
+        "word": "religion",
+        "meaning": "宗教",
+        "appearsInSource": true
+      },
+      {
+        "word": "shoot",
+        "meaning": "射出",
+        "appearsInSource": true
+      },
+      {
+        "word": "simply",
+        "meaning": "只是",
+        "appearsInSource": true
+      },
+      {
+        "word": "social",
+        "meaning": "社會的",
+        "appearsInSource": true
+      },
+      {
+        "word": "success",
+        "meaning": "成功",
+        "appearsInSource": true
+      },
+      {
+        "word": "trap",
+        "meaning": "陷阱",
+        "appearsInSource": true
+      },
+      {
+        "word": "true",
+        "meaning": "真實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "trust",
+        "meaning": "信任",
+        "appearsInSource": true
+      },
+      {
+        "word": "usual",
+        "meaning": "例行的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Rui teach beginners first?",
+      "options": [
+        "Use the strongest spell",
+        "Understand the machine before touching controls",
+        "Buy a new wheel"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Understand the machine before touching controls",
+      "existingAnswerExplanation": "睿強調先理解機器和故障原因，再操作控制器。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The school allowed Rui to use an empty room for a public repair class. He placed a mug of water, an iron pin, and a broken wheel on the table. A group of beginners gathered around him. Some had strong magic, while others had none. Rui wanted to emphasize one rule: every person should understand the machine before touching its controls. “Our goal is not to make a perfect show,” he said. “We need to learn how to find a cause.” Lan charged a small fee for materials but gave the money back to the class fund, where all expenses were written down.",
+          "chinese": "山門准許睿使用一間空教室開設公開維修課。他在桌上放了一杯水、一根鐵插銷和一個壞輪子。一群初學者圍過來，有些人法術很強，有些人完全不會。睿想強調一個規則：每個人碰控制器之前，都應先理解機器。「我們的目標不是表演得完美，」他說，「而是學會找出原因。」蘭收了一點材料費，卻把錢全放回班級基金，所有開支都公開記錄。",
+          "matchedQueryTerms": 16
+        },
+        {
+          "paragraph": 2,
+          "english": "Rui demonstrated how sand could make a wheel jam. He poured a little grain into a tube, then showed the class how water slowed. A boy offered to use a strong spell to shoot the grain away. Rui shook his head. “That might work once,” he said, “but it could also break the tube. First find the trap where the grain has collected.” They opened a small side cover and cleaned it with a brush. The wheel turned again. Several students smiled at the simple success. Rui felt the importance of learning something that people could repeat safely.",
+          "chinese": "睿示範沙粒如何讓輪子卡住。他倒少量穀粒進管子，讓大家看水流怎麼變慢。一名男孩提議用強法術把穀粒射出去。睿搖頭：「那也許會成功一次，但也可能打破管子。先找到穀粒聚集的陷阱。」他們打開側蓋，用刷子清乾淨。輪子再次轉動。幾位學生為這份簡單的成功微笑。睿感受到學習可安全重複的方法有多重要。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Rui request archive access?",
+      "options": [
+        "To find records linked to the river agreement",
+        "To join a religious group",
+        "To collect gold"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To find records linked to the river agreement",
+      "existingAnswerExplanation": "他想查父親曾看過、與河道協議相關的舊紀錄。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Mei suggested that they request archive access through the council instead of trying to enter secretly. “The social rules are changing,” she said. “Use them.” Rui agreed. He wrote a formal request, naming the old seal and the date of his father's visit. He asked only to see records connected with the river agreement. When he gave the paper to Yan, the teacher did not promise an easy answer. “People may not like what you find,” Yan said. Rui thought about his father and the workshop. He wanted what was true, even if it was hard to hear.",
+          "chinese": "梅建議透過議會正式申請檔案庫使用權，不要偷偷進去。「社會上的規則正在改變，」她說，「就用這些規則。」睿同意。他寫了正式申請，列出舊印記及父親到訪日期，只要求查閱與河道協議相關的紀錄。把申請交給嚴時，老師沒有答應會有容易的答案。「你找到的東西，可能有人不喜歡，」嚴說。睿想著父親和工坊。他要知道真相，即使聽起來很難受。",
+          "matchedQueryTerms": 16
+        },
+        {
+          "paragraph": 4,
+          "english": "Yan came to watch the second lesson. He asked Rui about a metal seal on the back of the old manual. Its color had once looked like gold, but most of it had worn away. “Your father made that mark,” Yan said. “It was used in the archive beside the hall of religion.” Rui was surprised. The school kept maps and farming books in one building, but important promises were stored with the older records in another. Yan explained that his father had asked to see those papers shortly before a mountain accident took his life. Rui felt a deep sadness, then a new question.",
+          "chinese": "嚴來看第二堂課，問睿那本舊說明書背面的金屬印記。印記原本金黃，現在大半磨掉了。「那是你父親做的記號，」嚴說，「以前用在宗教廳旁的檔案庫。」睿很驚訝。山門把地圖和農業書放在一棟樓裡，較古老的重要承諾卻收藏在另一處。嚴解釋，睿的父親在山中事故奪走生命前不久，曾要求查閱那些文件。睿心中一痛，也多了一個疑問。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

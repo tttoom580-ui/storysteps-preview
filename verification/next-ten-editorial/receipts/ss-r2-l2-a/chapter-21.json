@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 21,
+  "chapterId": "ss-r2-l2-a-21",
+  "sourceChapterSha256": "c89d07393b1354f74364af56879f7e67329f8259f0a456d90b58ae3b96e7ce96",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "選出柏領導公開水務委員會，睿婉拒公職，避免修復計畫又集中於單一英雄。",
+    "previousChapterEndingEnglish": "Late that night, Rui returned to the mill and listened to the river move. The sound was stronger than on the first day, but not wild. It was the sound of a machine being used within its limits. He opened his father's manual and read the first sentence again: “Power is not the first question. Balance is.” The words had once been a strange lesson on a seesaw drawing. Now he understood them in the fields, the council room, and the workshop. The river had passed its first full test. The next challenge was to make the rules strong enough to last.",
+    "nextChapterOpeningEnglish": "The newly elected repair group held its first regular meeting in the workshop. The keeper from the northern station brought his old diary, and Mei opened the public records on a large screen. The group wanted a rule for every important machine: what it did, how to check it, and when to shut it down. Rui explained that a safety limit was not an enemy to fight. It was a line that protected everyone using the water. The keeper smiled. “In the old custom,” he said, “we remembered rules in songs. Now we can keep them in writing too.” He helped lift the old record book onto the table."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The village hall was full again, but this time people came to choose the repair group's leaders. Bo placed a box on the table and asked every member to vote. A female teacher from the school checked the names, while a young worker wrote the numbers in chalk. Rui had suggested that the group include farmers, machine workers, and families who used little water. “Whoever leads must serve the whole valley,” he said. He did not want to become a new Han, even with good intentions. The old system had given too much power to one office, and he did not want to repeat that mistake.",
+        "zh": "村莊大廳再次坐滿人，但這次大家是來選共同維修小組的負責人。柏把票箱放在桌上，請每位成員投票。一名山門女教師核對姓名，一位年輕工人用粉筆記下數字。睿提議小組應包含農民、機械工人和用水量少的家庭。「不論誰領導，都要服務整個山谷，」他說。他不想帶著善意也成為另一個韓。舊制度給單一辦公室太多權力，他不願重演。",
+        "englishSha256": "732b5a89229e3054d3a6c0c9982f2bed3bc130247dd22a0b6ae3a4917020de43",
+        "chineseSha256": "0ace025e133aa063863f9e3e4a9b5dd229a7d0f3bb90daff058039c8c74d0877"
+      },
+      {
+        "number": 2,
+        "en": "Before the vote, Lan opened the workshop's income book. Some money came from donations, some from repair lessons, and some from the sale of simple tools. All expenses were listed beside it. A bookstore owner asked how the group would protect people who could not pay. Rui answered that safety checks would be free for homes with little wealth, using a shared fund. Workers would still earn fair pay. The plan would need review every year. The woman nodded. She said a public account was more useful than a promise that nobody could examine.",
+        "zh": "投票前，蘭公開工坊收入帳。有些錢來自捐款，有些來自維修課，還有些來自簡單工具的銷售。支出也全部列在旁邊。一位書店老闆問，小組要怎麼保護付不起錢的人。睿回答，用共同基金讓貧困家庭免費接受安全檢查，工人仍能取得公平薪酬。計畫每年都需檢討。她點頭，說能檢查的公開帳目，比無法驗證的承諾有用。",
+        "englishSha256": "833371aa2080e75fa0f97d8ea76f838a7d7cec7c1309edefc0daea86d0457c4f",
+        "chineseSha256": "c5e99eeda39c9bb7e8e02f89ad28f5e5e15055bd2af8e3822250cb16fada0185"
+      },
+      {
+        "number": 3,
+        "en": "At the back of the hall, a boy showed his aunt a postcard of the repaired river. He was Bo's nephew and had drawn a little wheel beside the water. The aunt laughed and promised to put it above her desk. Nearby, two teens prepared a short drama about the old valve. One wore a paper hat, and the other carried a wooden brush as a tool. Their play was funny, but it showed an important lesson: when someone saw danger, speaking up could help everyone. Rui was pleased that children could understand the story without needing to know every technical word.",
+        "zh": "大廳後方，一名男孩把修好河流的明信片拿給姑姑看。他是柏的姪子，在水邊畫了小輪子。姑姑笑著答應貼在桌上。旁邊，兩名青少年準備一齣關於舊閥門的短劇。一人戴紙帽，另一人拿木刷當工具。劇很有趣，但說出重要教訓：有人發現危險時，開口能幫助所有人。睿很高興孩子不必懂每個技術詞，也能明白故事。",
+        "englishSha256": "622f014cc0d1f8e5ba6c4b8e89a2df51033c0c1731254295ac5b73a0c57a1281",
+        "chineseSha256": "6fd310a4dc60579ab0c84b62c77cd06879f80039ce764a06835526a1acb6723c"
+      },
+      {
+        "number": 4,
+        "en": "During a break, the kitchen served supper. A pot of soup began to boil, and the cook called for someone to remove it from the heat. Rui helped move the heavy pot, then noticed a rat near the storage door. He told the cook quietly so food could be covered and the room cleaned. It was a small matter compared with the river, but the same rule applied. A problem should be named and handled before it caused harm. The cook thanked him and gave him a small needle for fixing a torn strap on his tool bag.",
+        "zh": "休息時，廚房供應晚餐。一鍋湯開始沸騰，廚師請人把它移離火源。睿幫忙搬開重鍋，又發現儲藏室門旁有隻老鼠。他悄悄告訴廚師，好讓食物蓋好、房間清潔。和河流比起來這只是小事，但同一原則仍適用：問題應在造成傷害前被指出並處理。廚師道謝，還給他一根針，讓他縫補工具袋破掉的背帶。",
+        "englishSha256": "4d19ff6bf17ba06a8a41de89a549aec9fbf44bd6a686db9a95eb5e4df8d48337",
+        "chineseSha256": "b14c9e89a6c44fb598e75f6164433e15dfc933cff9362436b2f2f8950e57ab92"
+      },
+      {
+        "number": 5,
+        "en": "After supper, a former military engineer gave a short talk about internal safety checks. He said that every organization needed more than one person who knew how a machine worked. A list of names was useful, but real training was better. Rui asked whether outside experts should always lead. The engineer said no; local people often understood their own water system best, while outside experts could review their work. Mei wrote the idea down. It matched the repair group's purpose: to share knowledge widely and invite careful questions from anyone affected by the water.",
+        "zh": "晚餐後，一位前軍方工程師簡短談到內部安全檢查。他說任何組織都需要不只一個懂機器的人。人員名單有用，但真正的訓練更重要。睿問是否永遠該由外部專家領導。工程師說不，當地人往往最了解自己的供水系統，外部專家則能複查工作。梅把這個想法記下。它符合共同維修小組的目的：廣泛分享知識，並邀請所有受影響的人提出審慎問題。",
+        "englishSha256": "5111cb001d94b7e1bd429f3cb8ecf24bd048d0ec056c205d0d08918907a51667",
+        "chineseSha256": "b7f83403209b390de445ea902f081edde666ee6d98801b8c9459ce02f8c2f235"
+      },
+      {
+        "number": 6,
+        "en": "The votes were counted in full view of the hall. Bo became the first chair, while Lan and a farmer from the upper fields joined the safety board. Rui received many votes but had asked not to hold office during the first year. He wanted to teach and repair rather than manage budgets. He promised to help whoever was chosen. The meeting accepted his choice. For the first time, Rui felt that a community could have leaders without making any leader the owner of the river. The work had become larger than a single person, just as he had hoped.",
+        "zh": "票在大廳眾人面前清點。柏成為第一任主席，蘭和一名上游農民加入安全委員會。睿也得到很多票，但他先前已要求第一年不擔任職務。他想教學與維修，而不是管理預算，並承諾幫助所有當選者。會議接受他的選擇。睿第一次感到，社區可以有領導者，而不必讓任何人變成河流的主人。工作終於如他所願，變得比單獨一個人更大。",
+        "englishSha256": "5a0e3bde959ee58d5d335b078d5a0bddab27aef49e0c1e198e8bbb554a237d94",
+        "chineseSha256": "188fad49c97630938eafeb8745fa50b4910f65d57359e70a71796fda8e6ff31e"
+      },
+      {
+        "number": 7,
+        "en": "At home, Rui told his mother about the vote. She listened while washing dishes and smiled when he said he had not chosen the highest position. “Your father loved fixing things,” she said, “but he also knew when to let others take a turn.” Rui looked at the old manual on the shelf. He no longer felt that he was following a path set only by his father. He was choosing his own work, with people who could disagree with him and still be friends. That choice gave him a quiet kind of wealth, one no school rank could measure.",
+        "zh": "回家後，睿向母親說起投票。她一邊洗碗一邊聽，聽到他沒有選最高職位時微笑了。「你父親愛修東西，」她說，「但也知道什麼時候該讓別人接手。」睿望著架上的舊說明書。他不再覺得自己只能走父親安排的路。他正在與能和自己意見不同、仍然是朋友的人，一起選擇自己的工作。這選擇給了他安靜的富足，不是山門階級能衡量的。",
+        "englishSha256": "fd4119201036adac4a91dfeda54cb45fd9faee625e882094a7fed6922198b0bb",
+        "chineseSha256": "a3fda7c3a0264d103cc519e511d50f61da87d0d361688204f099d3db9f82d696"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 694,
+    "targets": [
+      {
+        "word": "boil",
+        "meaning": "沸騰",
+        "appearsInSource": true
+      },
+      {
+        "word": "bookstore",
+        "meaning": "書店",
+        "appearsInSource": true
+      },
+      {
+        "word": "brush",
+        "meaning": "刷子",
+        "appearsInSource": true
+      },
+      {
+        "word": "chalk",
+        "meaning": "粉筆",
+        "appearsInSource": true
+      },
+      {
+        "word": "drama",
+        "meaning": "戲劇",
+        "appearsInSource": true
+      },
+      {
+        "word": "earn",
+        "meaning": "賺取",
+        "appearsInSource": true
+      },
+      {
+        "word": "female",
+        "meaning": "女性的",
+        "appearsInSource": true
+      },
+      {
+        "word": "income",
+        "meaning": "收入",
+        "appearsInSource": true
+      },
+      {
+        "word": "internal",
+        "meaning": "內部的",
+        "appearsInSource": true
+      },
+      {
+        "word": "military",
+        "meaning": "軍方的",
+        "appearsInSource": true
+      },
+      {
+        "word": "needle",
+        "meaning": "針",
+        "appearsInSource": true
+      },
+      {
+        "word": "nephew",
+        "meaning": "姪子",
+        "appearsInSource": true
+      },
+      {
+        "word": "postcard",
+        "meaning": "明信片",
+        "appearsInSource": true
+      },
+      {
+        "word": "rat",
+        "meaning": "老鼠",
+        "appearsInSource": true
+      },
+      {
+        "word": "remove",
+        "meaning": "移走",
+        "appearsInSource": true
+      },
+      {
+        "word": "serve",
+        "meaning": "服務",
+        "appearsInSource": true
+      },
+      {
+        "word": "supper",
+        "meaning": "晚餐",
+        "appearsInSource": true
+      },
+      {
+        "word": "vote",
+        "meaning": "投票",
+        "appearsInSource": true
+      },
+      {
+        "word": "wealth",
+        "meaning": "財富",
+        "appearsInSource": true
+      },
+      {
+        "word": "Whoever",
+        "meaning": "無論誰",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did Rui decline an office in the first year?",
+      "options": [
+        "He wanted to teach and repair",
+        "He wanted to leave the village",
+        "He disliked all the members"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He wanted to teach and repair",
+      "existingAnswerExplanation": "睿希望先專注教學與維修，讓其他人負責治理。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The votes were counted in full view of the hall. Bo became the first chair, while Lan and a farmer from the upper fields joined the safety board. Rui received many votes but had asked not to hold office during the first year. He wanted to teach and repair rather than manage budgets. He promised to help whoever was chosen. The meeting accepted his choice. For the first time, Rui felt that a community could have leaders without making any leader the owner of the river. The work had become larger than a single person, just as he had hoped.",
+          "chinese": "票在大廳眾人面前清點。柏成為第一任主席，蘭和一名上游農民加入安全委員會。睿也得到很多票，但他先前已要求第一年不擔任職務。他想教學與維修，而不是管理預算，並承諾幫助所有當選者。會議接受他的選擇。睿第一次感到，社區可以有領導者，而不必讓任何人變成河流的主人。工作終於如他所願，變得比單獨一個人更大。",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 1,
+          "english": "The village hall was full again, but this time people came to choose the repair group's leaders. Bo placed a box on the table and asked every member to vote. A female teacher from the school checked the names, while a young worker wrote the numbers in chalk. Rui had suggested that the group include farmers, machine workers, and families who used little water. “Whoever leads must serve the whole valley,” he said. He did not want to become a new Han, even with good intentions. The old system had given too much power to one office, and he did not want to repeat that mistake.",
+          "chinese": "村莊大廳再次坐滿人，但這次大家是來選共同維修小組的負責人。柏把票箱放在桌上，請每位成員投票。一名山門女教師核對姓名，一位年輕工人用粉筆記下數字。睿提議小組應包含農民、機械工人和用水量少的家庭。「不論誰領導，都要服務整個山谷，」他說。他不想帶著善意也成為另一個韓。舊制度給單一辦公室太多權力，他不願重演。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Who joined the safety board?",
+      "options": [
+        "Only school guards",
+        "Lan and an upper-field farmer",
+        "Only Rui's family"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Lan and an upper-field farmer",
+      "existingAnswerExplanation": "安全委員會納入蘭和上游農民，讓不同用水者參與。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "The votes were counted in full view of the hall. Bo became the first chair, while Lan and a farmer from the upper fields joined the safety board. Rui received many votes but had asked not to hold office during the first year. He wanted to teach and repair rather than manage budgets. He promised to help whoever was chosen. The meeting accepted his choice. For the first time, Rui felt that a community could have leaders without making any leader the owner of the river. The work had become larger than a single person, just as he had hoped.",
+          "chinese": "票在大廳眾人面前清點。柏成為第一任主席，蘭和一名上游農民加入安全委員會。睿也得到很多票，但他先前已要求第一年不擔任職務。他想教學與維修，而不是管理預算，並承諾幫助所有當選者。會議接受他的選擇。睿第一次感到，社區可以有領導者，而不必讓任何人變成河流的主人。工作終於如他所願，變得比單獨一個人更大。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 2,
+          "english": "Before the vote, Lan opened the workshop's income book. Some money came from donations, some from repair lessons, and some from the sale of simple tools. All expenses were listed beside it. A bookstore owner asked how the group would protect people who could not pay. Rui answered that safety checks would be free for homes with little wealth, using a shared fund. Workers would still earn fair pay. The plan would need review every year. The woman nodded. She said a public account was more useful than a promise that nobody could examine.",
+          "chinese": "投票前，蘭公開工坊收入帳。有些錢來自捐款，有些來自維修課，還有些來自簡單工具的銷售。支出也全部列在旁邊。一位書店老闆問，小組要怎麼保護付不起錢的人。睿回答，用共同基金讓貧困家庭免費接受安全檢查，工人仍能取得公平薪酬。計畫每年都需檢討。她點頭，說能檢查的公開帳目，比無法驗證的承諾有用。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l3-b",
+  "title": "把地板留給每一種舞步",
+  "chapter": 21,
+  "chapterId": "ss-r10-l3-b-21",
+  "sourceChapterSha256": "804b63128808b227ed8511ac7eb201d7f917c04893edf71f8fa30595039c4ace",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "開場當天未經核准取電造成十五分鐘延誤，員工遵守停機程序並向觀眾誠實說明。",
+    "previousChapterEndingEnglish": "Before leaving, Lian walked the garden route one final time with the school manager. The lights were working, the signs stood firm, and the emergency vehicle path was clear. She signed the checklist without adding any claim that could not be supported. In a nearby classroom, volunteers practiced how to welcome visitors and how to respond to a canceled performance. The second lesson was as important as the first. Lian understood that tomorrow's success would not be measured only by applause. It would be measured by whether people could choose to join, feel respected while present, and return home safely afterward.",
+    "nextChapterOpeningEnglish": "The first section began like a quiet adventure. Dancers moved beneath a line of hanging lamps, then formed a wide circle without blocking either exit. A soft recording of a cricket filled the room, followed by the distant sound of a donkey from the hillside. A child in the audience made a small fist of excitement, but his father reminded him to keep his hands close to himself. Behind the curtain, Ron checked the approved straps that bind the lighting stands to their safety points. He had labeled each connection so another technician could understand the setup. The music was simple, but the movement made ordinary sounds feel like part of a shared landscape."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The opening morning began with a problem nobody expected. A volunteer found a stage prop shaped like a bomb inside a box of old comedy materials. The object was marked as harmless, but the security officer still checked its source before letting it stay. Lian brushed dust from her cheek and agreed that the prop did not belong in the new show. Another worker had to crawl beneath a table to recover a dropped cable, and Ron stopped him until the power was disconnected. The festival committee had an election for two new volunteer representatives scheduled next month, but today its first responsibility was simple: use the safety rules already agreed upon, even when the audience was arriving.",
+        "zh": "開幕早晨出現意外問題。一名志工在舊喜劇道具箱裡找到一件做成炸彈形狀的舞台道具。物件標為無害，但安全人員仍先確認來源，才決定能否保留。黎安擦掉臉頰上的灰塵，同意這道具不適合新節目。另一名工人爬到桌下撿掉落電纜，羅恩先停止他的動作，等電源切斷才繼續。節慶委員會下個月將選出兩位新志工代表，但今天最重要的責任很簡單：即使觀眾已到，也要遵守早已約定的安全規則。",
+        "englishSha256": "013904d91257c100088f0f1554b2ff58acbefe78133cdf7dc7f7b7bfc53cf8b6",
+        "chineseSha256": "cede534466edfab65c8064c0953a75de8da186cfd226777aee56c5519c452359"
+      },
+      {
+        "number": 2,
+        "en": "On the garden path, the new route markers were easy to see. Cora asked volunteers for a hint about the quiet room and noted whether their directions matched the signs. One board stood slightly crooked, and Ron adjusted its position by a few degrees, not even a full inch of movement. A technician wrote the temperature on a pad and calculated that the heat was two degrees below yesterday's reading. A small moth settled on the lamp beside him. Lian watched the tiny creature and realized how much she had once missed while rushing from one instruction to another. She was learning to notice details without treating every detail as a disaster. Each marker carried an arrow and a number, so a visitor could describe the route even without a map.",
+        "zh": "花園路線上的新標記清楚可見。可拉請志工提示安靜室的位置，查看口頭方向是否與告示一致。一塊板子有些歪斜，羅恩把它調整幾度，移動不到一英吋。技術員在記事墊上寫下溫度，算出今天比昨天低兩度。一隻小飛蛾停在旁邊的燈上。黎安望著小生物，想到以前自己匆忙從一項指令趕往另一項時，錯過多少細節。她開始學會注意問題，卻不把每個細節都當成災難。 每個標記都有箭頭和數字，即使沒有地圖，訪客也能說清楚路線。",
+        "englishSha256": "ed29993d1ea57039992e3c86c1cbfbd10febfcd79655dda39fb2389e326b9ad4",
+        "chineseSha256": "1c7bf780a8af3b67d0278fe6cc6950596f72a29796e384ac9a86769ad17dc2ac"
+      },
+      {
+        "number": 3,
+        "en": "The kitchen had prepared bread in an electric oven, but an unexpected power dip interrupted the warm-up music. Ron tested the backup system and discovered that a nearby workshop had drawn power from an unauthorized socket. No damage occurred, but he refused to restart until the connection was removed. Cora said the pure sound of dancers breathing together was enough to continue the warm-up without music. Lian used that quiet moment to remind everyone that clean air and low pollution mattered, especially in a crowded room. The group opened the approved ventilation panels and checked the room again. They would rather delay the first dance than spoil a safe gathering for the sake of a schedule. The technician said a reading of minus two would require a different check, but the room was safely above freezing.",
+        "zh": "廚房用電烤箱準備麵包，卻有一次意外電壓下降打斷暖身音樂。羅恩測試備援系統，發現附近工作間從未核准的插座取電。沒有造成損害，他仍拒絕在接線移除前重新啟動。可拉說，舞者一起呼吸的純粹聲音已足夠完成沒有音樂的暖身。黎安趁安靜提醒大家，乾淨空氣和低污染很重要，尤其在擁擠空間。團隊打開已核准的通風板，再次檢查室內。他們寧可延後第一支舞，也不願只為趕時間而破壞安全的聚會。 技術員說若讀數為零下二度就得用不同方式檢查，但室內安全地高於冰點。",
+        "englishSha256": "b52fa58fb7345e8164570c7e6e62a4a6949f20c34912bdbbdad8d3260a762826",
+        "chineseSha256": "d70da1922c6b68ec233729bef166285f5effa0b44d924706bcfa5a020b2fdd63"
+      },
+      {
+        "number": 4,
+        "en": "One guest asked for a religious prayer before the performance. Lian explained that the public event welcomed people of different beliefs and would begin with a moment of reflection without requiring anyone to participate in a specific ritual. The visitor accepted that arrangement. Meanwhile, a cleaner asked how to get rid of several empty boxes blocking the side door. Storage space was scarce, but the crew moved the boxes to the designated room instead of stacking them beside an exit. Ron's strategy was to protect the routes first and simplify the equipment list second. It was less exciting than adding dramatic lights, but it allowed the show to continue without hidden obstacles.",
+        "zh": "一位來賓希望演出前安排宗教祈禱。黎安說明公共活動歡迎不同信仰，會以一段安靜思考作為開始，不要求任何人參加特定儀式。來賓接受了。另一方面，清潔人員詢問側門旁幾個空箱要如何處理。儲藏空間有限，但工作團隊仍把箱子搬到指定房間，沒有堆在出口旁。羅恩的策略是先保護動線，再簡化器材清單。這比增加華麗燈光少了刺激，卻能讓演出沒有隱藏障礙地繼續。",
+        "englishSha256": "b45653fef20ecc73e63b4f5baf226220cf064566630527876d9b7e392dbbd534",
+        "chineseSha256": "75ce642152169d1eb7ccb12354cec3d1f352303ce7eb82e144fffad7f404b3ee"
+      },
+      {
+        "number": 5,
+        "en": "Just before the doors opened, Lian checked the dancers' costumes with Cora. A loose ribbon was wrapped too tightly around one performer's wrist, so they adjusted it until the dancer could move her thumb freely. Another performer worried that the delay meant the audience would be angry. Cora said a short explanation would be enough. Lian went to the entrance and told people that a technical check had delayed the program by fifteen minutes. She did not invent a more impressive reason. Several visitors thanked her for the clear notice, and a few asked where they could sit. The volunteers answered calmly, using the new signs. Lian asked a helper to wrap the spare cable neatly after the test and keep it off the floor.",
+        "zh": "開門前，黎安與可拉一起檢查戲服。一條鬆掉的緞帶被綁得太緊，勒住某位舞者的手腕；她們調整到舞者能自由移動拇指。另一位表演者擔心延誤會讓觀眾生氣。可拉說簡短說明就夠了。黎安走到入口，告訴大家技術檢查使節目延遲十五分鐘。她沒有編出更華麗的理由。幾位訪客感謝通知清楚，另一些人詢問座位位置。志工平靜地依新告示指引。 黎安請協助者在測試後把備用電纜整齊捲好，不要放在地板上。",
+        "englishSha256": "6c25461019c890403681ff97ef9cbd6df023e533103da943b4828b0d65a6e676",
+        "chineseSha256": "1db0a27241fc1650c47a6a47bbd1e92c1bd0498848eb1ecdc432fda2c3503090"
+      },
+      {
+        "number": 6,
+        "en": "Ron returned to the control table with the final approval from the electrician. Lian looked across the gym at the rows of people who had chosen to come. Their faces were different; their reasons for attending were different too. Not everyone would love the show, and that was fine. The dancers were ready, the exits were clear, and the team knew how to stop if another problem appeared. Lian raised her hand to give the opening signal. She had spent weeks learning that a performance did not begin when the lights turned on. It began long before, when people chose how to care for one another.",
+        "zh": "羅恩帶著電工最後核准回到控制台。黎安望向體育館裡自行選擇到場的觀眾。他們的面孔不同，前來的理由也不同。不是每個人都會喜歡節目，而這沒有關係。舞者準備好了、出口暢通，團隊也知道若再出問題該如何停止。黎安舉手給出開場訊號。這幾週她學到，演出並非燈亮時才開始，而是很久以前，在人們選擇如何照顧彼此時就開始了。",
+        "englishSha256": "f8e399586e98544fbaf4c241da03ee55c269df3d6b81996fdd64be7c2bf5ff80",
+        "chineseSha256": "202a012fa8f4e0c0780e3dc914b5e72bb785d1e85d7ed2c469b871b3f18112ed"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 728,
+    "targets": [
+      {
+        "word": "bomb",
+        "meaning": "炸彈",
+        "appearsInSource": true
+      },
+      {
+        "word": "cheek",
+        "meaning": "臉頰",
+        "appearsInSource": true
+      },
+      {
+        "word": "crawl",
+        "meaning": "爬行",
+        "appearsInSource": true
+      },
+      {
+        "word": "dust",
+        "meaning": "灰塵",
+        "appearsInSource": true
+      },
+      {
+        "word": "election",
+        "meaning": "選舉",
+        "appearsInSource": true
+      },
+      {
+        "word": "hint",
+        "meaning": "提示",
+        "appearsInSource": true
+      },
+      {
+        "word": "marker",
+        "meaning": "路線標記",
+        "appearsInSource": true
+      },
+      {
+        "word": "minus",
+        "meaning": "零下",
+        "appearsInSource": true
+      },
+      {
+        "word": "moth",
+        "meaning": "飛蛾",
+        "appearsInSource": true
+      },
+      {
+        "word": "oven",
+        "meaning": "烤箱",
+        "appearsInSource": true
+      },
+      {
+        "word": "pad",
+        "meaning": "記事墊",
+        "appearsInSource": true
+      },
+      {
+        "word": "pollution",
+        "meaning": "污染",
+        "appearsInSource": true
+      },
+      {
+        "word": "pure",
+        "meaning": "純淨的",
+        "appearsInSource": true
+      },
+      {
+        "word": "religious",
+        "meaning": "宗教的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rid",
+        "meaning": "去除",
+        "appearsInSource": true
+      },
+      {
+        "word": "scarce",
+        "meaning": "稀缺的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spoil",
+        "meaning": "弄壞",
+        "appearsInSource": true
+      },
+      {
+        "word": "strategy",
+        "meaning": "策略",
+        "appearsInSource": true
+      },
+      {
+        "word": "thumb",
+        "meaning": "拇指",
+        "appearsInSource": true
+      },
+      {
+        "word": "wrap",
+        "meaning": "包裹",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What causes the opening delay?",
+      "options": [
+        "A canceled council election",
+        "A technical power connection that must be checked",
+        "A shortage of costumes"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "A technical power connection that must be checked",
+      "existingAnswerExplanation": "未經核准的取電連接造成技術問題，必須檢查後才開演。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The kitchen had prepared bread in an electric oven, but an unexpected power dip interrupted the warm-up music. Ron tested the backup system and discovered that a nearby workshop had drawn power from an unauthorized socket. No damage occurred, but he refused to restart until the connection was removed. Cora said the pure sound of dancers breathing together was enough to continue the warm-up without music. Lian used that quiet moment to remind everyone that clean air and low pollution mattered, especially in a crowded room. The group opened the approved ventilation panels and checked the room again. They would rather delay the first dance than spoil a safe gathering for the sake of a schedule. The technician said a reading of minus two would require a different check, but the room was safely above freezing.",
+          "chinese": "廚房用電烤箱準備麵包，卻有一次意外電壓下降打斷暖身音樂。羅恩測試備援系統，發現附近工作間從未核准的插座取電。沒有造成損害，他仍拒絕在接線移除前重新啟動。可拉說，舞者一起呼吸的純粹聲音已足夠完成沒有音樂的暖身。黎安趁安靜提醒大家，乾淨空氣和低污染很重要，尤其在擁擠空間。團隊打開已核准的通風板，再次檢查室內。他們寧可延後第一支舞，也不願只為趕時間而破壞安全的聚會。 技術員說若讀數為零下二度就得用不同方式檢查，但室內安全地高於冰點。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The opening morning began with a problem nobody expected. A volunteer found a stage prop shaped like a bomb inside a box of old comedy materials. The object was marked as harmless, but the security officer still checked its source before letting it stay. Lian brushed dust from her cheek and agreed that the prop did not belong in the new show. Another worker had to crawl beneath a table to recover a dropped cable, and Ron stopped him until the power was disconnected. The festival committee had an election for two new volunteer representatives scheduled next month, but today its first responsibility was simple: use the safety rules already agreed upon, even when the audience was arriving.",
+          "chinese": "開幕早晨出現意外問題。一名志工在舊喜劇道具箱裡找到一件做成炸彈形狀的舞台道具。物件標為無害，但安全人員仍先確認來源，才決定能否保留。黎安擦掉臉頰上的灰塵，同意這道具不適合新節目。另一名工人爬到桌下撿掉落電纜，羅恩先停止他的動作，等電源切斷才繼續。節慶委員會下個月將選出兩位新志工代表，但今天最重要的責任很簡單：即使觀眾已到，也要遵守早已約定的安全規則。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What is Lian’s opening announcement about?",
+      "options": [
+        "A new sponsor contract",
+        "The dancers’ private lives",
+        "A fifteen-minute technical delay"
+      ],
+      "correctAnswerIndex": 2,
+      "correctAnswerText": "A fifteen-minute technical delay",
+      "existingAnswerExplanation": "她清楚告知技術檢查造成的十五分鐘延遲。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Just before the doors opened, Lian checked the dancers' costumes with Cora. A loose ribbon was wrapped too tightly around one performer's wrist, so they adjusted it until the dancer could move her thumb freely. Another performer worried that the delay meant the audience would be angry. Cora said a short explanation would be enough. Lian went to the entrance and told people that a technical check had delayed the program by fifteen minutes. She did not invent a more impressive reason. Several visitors thanked her for the clear notice, and a few asked where they could sit. The volunteers answered calmly, using the new signs. Lian asked a helper to wrap the spare cable neatly after the test and keep it off the floor.",
+          "chinese": "開門前，黎安與可拉一起檢查戲服。一條鬆掉的緞帶被綁得太緊，勒住某位舞者的手腕；她們調整到舞者能自由移動拇指。另一位表演者擔心延誤會讓觀眾生氣。可拉說簡短說明就夠了。黎安走到入口，告訴大家技術檢查使節目延遲十五分鐘。她沒有編出更華麗的理由。幾位訪客感謝通知清楚，另一些人詢問座位位置。志工平靜地依新告示指引。 黎安請協助者在測試後把備用電纜整齊捲好，不要放在地板上。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 1,
+          "english": "The opening morning began with a problem nobody expected. A volunteer found a stage prop shaped like a bomb inside a box of old comedy materials. The object was marked as harmless, but the security officer still checked its source before letting it stay. Lian brushed dust from her cheek and agreed that the prop did not belong in the new show. Another worker had to crawl beneath a table to recover a dropped cable, and Ron stopped him until the power was disconnected. The festival committee had an election for two new volunteer representatives scheduled next month, but today its first responsibility was simple: use the safety rules already agreed upon, even when the audience was arriving.",
+          "chinese": "開幕早晨出現意外問題。一名志工在舊喜劇道具箱裡找到一件做成炸彈形狀的舞台道具。物件標為無害，但安全人員仍先確認來源，才決定能否保留。黎安擦掉臉頰上的灰塵，同意這道具不適合新節目。另一名工人爬到桌下撿掉落電纜，羅恩先停止他的動作，等電源切斷才繼續。節慶委員會下個月將選出兩位新志工代表，但今天最重要的責任很簡單：即使觀眾已到，也要遵守早已約定的安全規則。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

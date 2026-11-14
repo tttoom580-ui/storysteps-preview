@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l3-b",
+  "title": "把地板留給每一種舞步",
+  "chapter": 11,
+  "chapterId": "ss-r10-l3-b-11",
+  "sourceChapterSha256": "0b3d834ab2275d1613487a30a08c1cd3faee63086a684cf0137a8a01d8b08227",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "工程師量測北入口受潮與轉彎半徑，消防和無障礙測試需正式批准，不能靠口頭承諾。",
+    "previousChapterEndingEnglish": "That evening Lian wrote a short public note about the forum. It listed agreements, unresolved questions, and the date of the next inspection. She included the commercial company's argument as fairly as her own, because a decision made in public should leave a record others could question. Mrs. Wu called to say several residents had offered help after hearing the presentation. Lian thanked her but asked that every offer be matched to a real task. Before sleep she opened the drawing of the floor once more. The routes were still incomplete. For the first time, she could look at the blank spaces without feeling that they proved she had failed.",
+    "nextChapterOpeningEnglish": "Cora moved aside to let an elderly client enter the council office. The woman had lived near the river for forty years and remembered a storm that trapped passengers behind the old market. She brought a map of the canyon road above town, where a school gym stood on higher ground. “You are capable of holding a smaller event there,” she told Lian, “if the hall does not pass inspection.” A retired ferry captain offered to help check transport arrangements, but insisted that people should not rely on his memory alone. Lian thanked them both. An alternative venue would not be a defeat. It would be another way to keep the promise to the dancers."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The engineer arrived with an accurate drawing of the north entrance and asked everyone to stop calling the work a simple repair. To make the turning area safe, they would need to change part of the wall. Mrs. Wu put her hand on the old wood and murmured a blessing for the people who had built it. Ron showed the group the county's public building rules and pointed to a ditch outside that collected rainwater. The floor looked loose near the entrance because moisture had risen beneath it. Cora did not dive into the discussion with an instant solution. She asked the engineer to explain the measurements slowly so every participant could follow the choice. Mrs. Wu said, “Bless the people who built this place,” and asked the team to repair it with care rather than relying on affection.",
+        "zh": "工程師帶著北側入口的準確圖面來到現場，請大家不要再把工程稱為簡單維修。為了讓轉彎區域安全，必須改動部分牆面。吳女士把手放在老木板上，低聲祝福當年建造這裡的人。羅恩展示縣府公共建物規定，指著屋外收集雨水的排水溝。入口地板看似鬆動，是因為濕氣從下方升起。可拉沒有急著提出立即解法，而是請工程師慢慢說明尺寸，讓每個參與者都能理解選擇。 吳女士說：「祝福建造這個地方的人。」她請團隊用細心修繕，而非只靠感情支撐。",
+        "englishSha256": "d48de4b13cad3b13a925c11baf2dd3b4f67514d0242798a39500b9724123a7ee",
+        "chineseSha256": "96f7c632ccb16a31d98ced27909331e508a3bdd1a94e3367852fae61ca9a015b"
+      },
+      {
+        "number": 2,
+        "en": "Ron had checked the freezer in the hall kitchen and found that its power line shared a circuit with the old stage lights. A small gasoline generator had once been used during blackouts, but its exhaust made it unsuitable for the indoor space. The engineer said an intelligent repair plan would separate systems rather than add more temporary cables. They discussed how to communicate the findings to local media without causing panic. Lian proposed publishing the actual report with a plain-language explanation. She did not want the newspaper to describe a dramatic disaster, but she did want residents to understand why the hall could not open that week.",
+        "zh": "羅恩檢查廚房冷凍櫃，發現它和舊舞台燈共用電路。以前停電時曾使用小型汽油發電機，但廢氣使它不適合室內空間。工程師說，聰明的修繕應分開系統，而不是再加上臨時電纜。大家討論如何向地方媒體傳達發現，不讓居民恐慌。黎安建議公開實際報告，附上容易理解的說明。她不希望報紙描寫戲劇化的災難，但確實希望居民理解為何本週不能開放。",
+        "englishSha256": "90b46f36e2e6c0193b0fc19816f6036c287f1310e75fe87d25109e967e1af8cd",
+        "chineseSha256": "b53014ae36e6c8bb759c645aa860380141134d0bc5cf53a1d7e8f7942bf6fd37"
+      },
+      {
+        "number": 3,
+        "en": "During a controlled operation, Ron asked the dancers to perform only a short walk on the marked safe section. Cora demonstrated how much muscle control a slow turn required, especially when avoiding a narrow corner. Roughly twelve people watched from a distance, with an inspector responsible for stopping the test. The heat made several volunteers sweat, so Lian provided water and rest breaks. A theory that looked perfect on paper proved weak when a tall dancer crossed the route carrying a prop. The engineer noted the problem and suggested widening the turning space. It was more useful to discover the failure now than to defend an attractive but inaccurate drawing.",
+        "zh": "受控操作時，羅恩請舞者只在標出的安全區域短距離行走。可拉示範慢轉身需要多少肌肉控制，尤其是必須避開狹窄轉角時。大約十二個人在遠處觀看，由檢查員負責停止測試。天氣悶熱，幾名志工流汗，黎安便提供飲水與休息。一個在紙上完美的理論，遇到高個舞者搬著道具穿越路線，就顯出不足。工程師記下問題，建議放寬轉彎區。與其保護好看卻不準確的設計，不如現在就發現失敗。",
+        "englishSha256": "7d219e77d93de17b6e3d5ff3141bfb60f9b499ddaa57ad3443ae5cc5998babfd",
+        "chineseSha256": "e9f85d19f369a1074943ba82878795d5150caafabb5a9c3d2067d8c7344c6c0d"
+      },
+      {
+        "number": 4,
+        "en": "The timber supplier returned with revised prices. A violet mark on the plan showed the wall section that could be changed without touching the main beams. Lian had feared the work would weaken the entire building, but the engineer explained which structures carried weight and which did not. The assessment would still require formal approval. Ron offered to help supervise deliveries; Cora offered to review the temporary route while construction continued. Lian asked both of them to record their responsibilities separately. When too many people shared a task without clear roles, a missing step could become everyone's problem and nobody's responsibility. A cracked plastic covering would be replaced with a safer approved material, according to the report.",
+        "zh": "木材商帶著修正價格回來。設計圖上的紫色記號標出可以改動、卻不碰主要樑柱的牆面。黎安原本怕工程會削弱整棟建築，工程師說明哪些結構承重、哪些沒有。評估仍須正式核准。羅恩願意監督材料進場，可拉則願意檢查施工期間的臨時動線。黎安請兩人分別記錄責任。當太多人共同處理一件事，卻沒有明確分工，漏掉一步就容易成為所有人的問題，最後卻沒有人負責。 依報告，龜裂的塑膠覆蓋物會換成更安全、經核准的材料。",
+        "englishSha256": "3ef4c2ed1db11933aefd0923565da87b2b646f9ee26eceb2c117d094a12df48e",
+        "chineseSha256": "063cea36dabe85346549b41f00af0718234397794f15d354dd19f879660a38c3"
+      },
+      {
+        "number": 5,
+        "en": "The engineer also described what would happen if the repaired entrance still failed the final accessibility test. It would remain closed, and the team would use the school gym until an approved solution existed. Lian asked him to include that possibility in the written report. She did not want a decision to depend on hopeful words spoken in a meeting. Cora examined the drawing again and suggested a second test with a full audience route, because the turning space might change when people carried coats and bags. The engineer agreed to schedule it. Ron wrote down the task and named the person responsible for confirming the appointment. Each clear step made the uncertainty smaller without pretending it had disappeared.",
+        "zh": "工程師也說明，若修過的入口仍未通過最後無障礙測試，就必須持續封閉；團隊得使用學校體育館，直到有核准的解法。黎安請他把這個可能性寫進報告。她不希望決策依賴會議中充滿希望的口頭說法。可拉再次看圖，建議在模擬完整觀眾動線的情況下再測一次，因為人們提著外套和包包時，轉彎空間可能不同。工程師同意安排。羅恩記下任務，也寫出誰負責確認時間。每一步清楚的作業都讓不確定性變小，卻沒有假裝它已消失。",
+        "englishSha256": "5c34d8b468cd0e0e92a332a1bd4c1e96f5ecc09651e169cd5e51f798db30f309",
+        "chineseSha256": "ece73566bb57ac0c80a84209dbd199ca91becee77ce45872a324ca56334fd529"
+      },
+      {
+        "number": 6,
+        "en": "After the inspection, Lian sat beside Cora on the balcony overlooking the square. Cora said she was glad the plan had been tested, but worried that the town would lose patience before the work was done. Lian admitted that she had the same fear. She was also learning that asking for help did not mean giving up her artistic judgment. Cora reminded her that good leadership sometimes meant allowing an engineer, an instructor, or a dancer to lead in an area they understood better. They agreed that the show would remain small if necessary. Its first achievement would be that every performer could enter, move, and leave by choice.",
+        "zh": "檢查後，黎安和可拉坐在俯瞰廣場的陽台。可拉慶幸設計受到測試，卻擔心鎮民等不到完工就失去耐心。黎安承認她也害怕。她正在學會，求助不代表放棄藝術判斷。可拉提醒，好領導有時是讓更懂某件事的工程師、教師或舞者在那個領域帶領大家。兩人同意，若有必要，節目可以縮小。最先要達成的成果，是每位表演者都能自行決定如何進入、移動與離開。",
+        "englishSha256": "95078111c90909640ce5da43f256541edb9db3bd7ccb61307fb3879264e3b052",
+        "chineseSha256": "adb40b11545d3d558263052320d66e027fe6211201856411fd77f514dfee18fc"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 702,
+    "targets": [
+      {
+        "word": "accurate",
+        "meaning": "精確的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Bless",
+        "meaning": "祝福",
+        "appearsInSource": true
+      },
+      {
+        "word": "county",
+        "meaning": "郡",
+        "appearsInSource": true
+      },
+      {
+        "word": "ditch",
+        "meaning": "溝渠",
+        "appearsInSource": true
+      },
+      {
+        "word": "dive",
+        "meaning": "急著投入",
+        "appearsInSource": true
+      },
+      {
+        "word": "freezer",
+        "meaning": "冷凍庫",
+        "appearsInSource": true
+      },
+      {
+        "word": "gasoline",
+        "meaning": "汽油",
+        "appearsInSource": true
+      },
+      {
+        "word": "intelligent",
+        "meaning": "聰明的",
+        "appearsInSource": true
+      },
+      {
+        "word": "loose",
+        "meaning": "鬆動的",
+        "appearsInSource": true
+      },
+      {
+        "word": "media",
+        "meaning": "媒體",
+        "appearsInSource": true
+      },
+      {
+        "word": "muscle",
+        "meaning": "肌肉",
+        "appearsInSource": true
+      },
+      {
+        "word": "operation",
+        "meaning": "操作／作業",
+        "appearsInSource": true
+      },
+      {
+        "word": "perform",
+        "meaning": "表演",
+        "appearsInSource": true
+      },
+      {
+        "word": "plastic",
+        "meaning": "塑膠",
+        "appearsInSource": true
+      },
+      {
+        "word": "Roughly",
+        "meaning": "大約",
+        "appearsInSource": true
+      },
+      {
+        "word": "sweat",
+        "meaning": "汗",
+        "appearsInSource": true
+      },
+      {
+        "word": "theory",
+        "meaning": "理論",
+        "appearsInSource": true
+      },
+      {
+        "word": "timber",
+        "meaning": "木材",
+        "appearsInSource": true
+      },
+      {
+        "word": "violet",
+        "meaning": "紫羅蘭（色）",
+        "appearsInSource": true
+      },
+      {
+        "word": "weaken",
+        "meaning": "削弱",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What does the engineer recommend for the entrance?",
+      "options": [
+        "A measured repair and another access test",
+        "Covering the damage with carpet",
+        "Opening the door without inspection"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A measured repair and another access test",
+      "existingAnswerExplanation": "工程師要求按量測修繕並進行後續無障礙測試。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The engineer arrived with an accurate drawing of the north entrance and asked everyone to stop calling the work a simple repair. To make the turning area safe, they would need to change part of the wall. Mrs. Wu put her hand on the old wood and murmured a blessing for the people who had built it. Ron showed the group the county's public building rules and pointed to a ditch outside that collected rainwater. The floor looked loose near the entrance because moisture had risen beneath it. Cora did not dive into the discussion with an instant solution. She asked the engineer to explain the measurements slowly so every participant could follow the choice. Mrs. Wu said, “Bless the people who built this place,” and asked the team to repair it with care rather than relying on affection.",
+          "chinese": "工程師帶著北側入口的準確圖面來到現場，請大家不要再把工程稱為簡單維修。為了讓轉彎區域安全，必須改動部分牆面。吳女士把手放在老木板上，低聲祝福當年建造這裡的人。羅恩展示縣府公共建物規定，指著屋外收集雨水的排水溝。入口地板看似鬆動，是因為濕氣從下方升起。可拉沒有急著提出立即解法，而是請工程師慢慢說明尺寸，讓每個參與者都能理解選擇。 吳女士說：「祝福建造這個地方的人。」她請團隊用細心修繕，而非只靠感情支撐。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 5,
+          "english": "The engineer also described what would happen if the repaired entrance still failed the final accessibility test. It would remain closed, and the team would use the school gym until an approved solution existed. Lian asked him to include that possibility in the written report. She did not want a decision to depend on hopeful words spoken in a meeting. Cora examined the drawing again and suggested a second test with a full audience route, because the turning space might change when people carried coats and bags. The engineer agreed to schedule it. Ron wrote down the task and named the person responsible for confirming the appointment. Each clear step made the uncertainty smaller without pretending it had disappeared.",
+          "chinese": "工程師也說明，若修過的入口仍未通過最後無障礙測試，就必須持續封閉；團隊得使用學校體育館，直到有核准的解法。黎安請他把這個可能性寫進報告。她不希望決策依賴會議中充滿希望的口頭說法。可拉再次看圖，建議在模擬完整觀眾動線的情況下再測一次，因為人們提著外套和包包時，轉彎空間可能不同。工程師同意安排。羅恩記下任務，也寫出誰負責確認時間。每一步清楚的作業都讓不確定性變小，卻沒有假裝它已消失。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Who must formally approve changes to the public entrance?",
+      "options": [
+        "Any visitor",
+        "The relevant inspection authorities",
+        "Only the dance instructor"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The relevant inspection authorities",
+      "existingAnswerExplanation": "入口變更需正式審核，不能靠口頭同意。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The engineer arrived with an accurate drawing of the north entrance and asked everyone to stop calling the work a simple repair. To make the turning area safe, they would need to change part of the wall. Mrs. Wu put her hand on the old wood and murmured a blessing for the people who had built it. Ron showed the group the county's public building rules and pointed to a ditch outside that collected rainwater. The floor looked loose near the entrance because moisture had risen beneath it. Cora did not dive into the discussion with an instant solution. She asked the engineer to explain the measurements slowly so every participant could follow the choice. Mrs. Wu said, “Bless the people who built this place,” and asked the team to repair it with care rather than relying on affection.",
+          "chinese": "工程師帶著北側入口的準確圖面來到現場，請大家不要再把工程稱為簡單維修。為了讓轉彎區域安全，必須改動部分牆面。吳女士把手放在老木板上，低聲祝福當年建造這裡的人。羅恩展示縣府公共建物規定，指著屋外收集雨水的排水溝。入口地板看似鬆動，是因為濕氣從下方升起。可拉沒有急著提出立即解法，而是請工程師慢慢說明尺寸，讓每個參與者都能理解選擇。 吳女士說：「祝福建造這個地方的人。」她請團隊用細心修繕，而非只靠感情支撐。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 5,
+          "english": "The engineer also described what would happen if the repaired entrance still failed the final accessibility test. It would remain closed, and the team would use the school gym until an approved solution existed. Lian asked him to include that possibility in the written report. She did not want a decision to depend on hopeful words spoken in a meeting. Cora examined the drawing again and suggested a second test with a full audience route, because the turning space might change when people carried coats and bags. The engineer agreed to schedule it. Ron wrote down the task and named the person responsible for confirming the appointment. Each clear step made the uncertainty smaller without pretending it had disappeared.",
+          "chinese": "工程師也說明，若修過的入口仍未通過最後無障礙測試，就必須持續封閉；團隊得使用學校體育館，直到有核准的解法。黎安請他把這個可能性寫進報告。她不希望決策依賴會議中充滿希望的口頭說法。可拉再次看圖，建議在模擬完整觀眾動線的情況下再測一次，因為人們提著外套和包包時，轉彎空間可能不同。工程師同意安排。羅恩記下任務，也寫出誰負責確認時間。每一步清楚的作業都讓不確定性變小，卻沒有假裝它已消失。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 23,
+  "chapterId": "ss-r2-l2-a-23",
+  "sourceChapterSha256": "a20b7c155f814118e7ac257d00db0865a07b8af29f3be18f1fc3ce32bc197c93",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "韓承認更動紀錄，法庭審查其職權，委員會保留受監督查詢原始書頁與補救途徑。",
+    "previousChapterEndingEnglish": "The next morning, the group sent the final repair manual to the council and posted it in the villages. Each page had a picture, a short rule, and the name of someone trained to answer questions. The text was checked by both experienced workers and new students. Rui looked at the copies and felt a deep relief. Their knowledge no longer lived in a missing page hidden inside one box. It could be carried, questioned, corrected, and returned to the people who needed it. The hearing was still ahead, but the village had already built something that Han could not easily take away.",
+    "nextChapterOpeningEnglish": "Spring returned to the mountain, and the school held a public examination for repair apprentices. Rui helped design the tests but did not set his own score. A long curtain hid the machines until each student entered. On the wall hung a cheerful panda poster with the words “Check First.” The first task was to bend a soft pipe into a safe shape without closing it. The second was to find a fault in a water wheel. The third asked students to explain when a user should stop a machine and call for help. Rui watched quietly and kept his tone calm when someone made a mistake."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The final hearing took place in the council hall, with a playground visible through the open windows. Children were laughing outside while adults discussed a difficult case inside. Mei arranged the evidence in a broad album of photographs, maps, and dated records. Rui had learned that a complex problem did not become simple just because people wanted a quick answer. He watched as a clerk read the old contract between the school and the lower villages. Its meaning was clear: the school could use the upper water, but it could not remove the safe share needed below. The judge asked both sides to focus on that promise.",
+        "zh": "最終聽證在議會大廳舉行。從開著的窗可見外面的遊樂場，孩子在外頭歡笑，大人在室內討論難題。梅把照片、地圖和有日期的紀錄整理成一本寬大的資料相簿。睿已學到，複雜問題不會因為大家想要快速答案就變簡單。他看著書記讀出山門與下游村莊的舊合約。意思很清楚：山門能用上游的水，卻不能拿走下游安全所需份額。法官請雙方集中在這項承諾上。",
+        "englishSha256": "2b6a902536cf1f9d08b6c7c203b774fdd0ee77c96efc5ac1c45d5204dcaaad0a",
+        "chineseSha256": "7f0df1eab4290b4e9cd27b84459818e8f3984989358dfd798367ac0a0e1f3f33"
+      },
+      {
+        "number": 2,
+        "en": "A university engineer described the hidden pump. She explained how the extra flow had put the upper pipe at risk. Captain Su presented medical notes from the dry season, but said they could not prove every illness had been caused by the closed river. A second expert said dirty water could carry harmful material and sometimes poison a supply, yet more testing would be needed to identify exact causes. Rui appreciated their care. The evidence was strong enough without claiming more than it showed. He had begun this journey by asking why a wheel would not turn. Now he was watching people test the limits of every answer.",
+        "zh": "一名大學工程師說明暗藏水泵如何讓額外水流增加上方管線風險。蘇隊長提出乾季醫療紀錄，但提醒無法證明每場疾病都由河道關閉造成。另一名專家說，髒水可能攜帶有害物質，甚至污染供水，但若要確定具體原因，還需檢驗。睿欣賞他們的謹慎。證據已夠強，不需要聲稱超出事實的內容。他原本只是追問輪子為什麼不轉，如今看著人們檢驗每個答案的邊界。",
+        "englishSha256": "ff3670a4506b8f164b1eb13770f269c227e8da500c458f6fa203a2315893f4e8",
+        "chineseSha256": "42c6dff8e259a0b45d6d94dde79fcbeaab5b331d5d2b45c9abc9e324a1470937"
+      },
+      {
+        "number": 3,
+        "en": "Han stood when his turn came. He admitted that he had ordered extra water and allowed changes to the public report. He said he had been afraid that the school's farms would fail. “I thought the village could wait,” he said. “I was wrong.” Someone in the audience called him an enemy of the people. The judge stopped the interruption. “We are here to examine actions, not give a person a name that removes all their other parts,” she said. Han asked for pardon for speaking out of turn, then finished his account. Rui listened without agreeing or forgiving on anyone else's behalf.",
+        "zh": "輪到韓時，他站起來承認下令多抽水，也允許修改公開報告。他說自己害怕山門農場失敗。「我以為村子可以等，」他說，「我錯了。」聽眾有人喊他是人民的敵人。法官制止打斷：「我們要審查行為，不是貼上讓人失去其他面向的標籤。」韓為自己插話請求原諒，然後完成說明。睿安靜聽著，既沒有替別人接受道歉，也沒有替別人原諒。",
+        "englishSha256": "cef1eda9cd9f1f5ea8bb0027d94cefd3b54b074b84fbed205e9565c2c47750be",
+        "chineseSha256": "4fbf52958cd8cf1349b48268553898561c588abd4c9330129d2ebb52e00cb419"
+      },
+      {
+        "number": 4,
+        "en": "Mei then presented the search for the missing instruction page. She showed where it had been found, when the box had been opened, and how the numbers matched the metal plate. The clerk confirmed that the page had been kept in a school storage room rather than in the public archive. An expert could not say exactly who had first removed it. That question remained open. But the council had enough proof that important safety information had been hidden from the people who depended on the river. The judge said that this failure had value in the case even without proving every person's motive.",
+        "zh": "接著梅說明尋找遺失操作頁的過程。她展示發現位置、箱子開啟時間，以及頁上數字如何與金屬板吻合。書記確認，該頁被放在山門儲藏室，而非公共檔案庫。專家無法確定最早是誰移走它，這點仍待查。但議會已有足夠證據，證明關乎供水安全的重要資訊被藏起來，讓依賴河流的人無從得知。法官說，即使未能證明每個人的動機，這項失誤仍是案件的重要事實。",
+        "englishSha256": "11c68a9e32d4e64443d103d13343118e5ed68fb0e3fac49631c0f1be11f7a6f1",
+        "chineseSha256": "7d0286517b99703ccd32aeef0df7e9bedfe38d1f4f24175042fd393be662ada4"
+      },
+      {
+        "number": 5,
+        "en": "The judge announced that Han would lose control of the water system and that the school must fund a fair repair plan. She also ordered a separate review of the changed records. The public water agreement would be restored, with the new safety limits attached. The farmers' group would not become the sole owner of the river; it would share oversight with the school and the villages. Rui preferred that decision to a simple victory for one side. A river needed many people to keep it healthy. He did not want the next generation to face a new closed gate under a different name.",
+        "zh": "法官宣布韓失去供水系統管理權，山門必須出資支持公平的維修計畫。遭修改的紀錄另案審查。公開用水協議將恢復，並附上新的安全限制。農民組織也不會變成河流的唯一主人，而將與山門及各村共同監督。睿更喜歡這種安排，而不是單方面的勝利。河流需要很多人一起照顧。他不願下一代只是面對換了名字的封閉水閘。",
+        "englishSha256": "ad515d8e3ad87f79f3e898cae34245f2b737d76bf2cb1dcec08d7730b1850f4c",
+        "chineseSha256": "ae33f1d46c9a26f06bf83c6e3f1448b8360457c64e694a2d47fcc7a37a22e050"
+      },
+      {
+        "number": 6,
+        "en": "Outside the hall, Lan found Rui looking toward the old railway tunnel. She asked whether he was pleased. “Yes,” he said, “but I am also thinking about my father.” The record of his last warning had survived, yet he had never lived to see the river repaired. Lan gave him time to be quiet. Rui no longer felt shame about having no magic. He had once been scared of every public test, but now he could face questions with care. He had helped restore a system through knowledge, friends, and patient work. His concern was survival and fairness, not a title. The question was not whether he was a real master. It was whether his choices had helped people survive a difficult season with greater safety and respect.",
+        "zh": "大廳外，蘭發現睿正望向舊鐵路隧道。她問他高不高興。「高興，」他說，「但也想著我父親。」父親最後一次警告的紀錄留下來了，他卻沒能活著看見河流修好。蘭給他安靜的時間。睿不再因沒有法術而羞愧。他以前害怕每一場公開考驗，現在卻能謹慎面對問題。他靠知識、朋友與耐心工作幫助恢復系統。他關心的是生存與公平，不是頭銜。重要的不是他算不算真正的大師，而是自己的選擇是否讓人們更安全、更有尊嚴地度過艱難季節。",
+        "englishSha256": "210a3b31078e4e9edb961636c64b90857269db6018a53f6bef2fba96d46d8715",
+        "chineseSha256": "e33d3e578e147f11b7a5fb50ebc070851b16f81dbb6a388830e2d5e6a7d72d03"
+      },
+      {
+        "number": 7,
+        "en": "As evening fell, the council posted the decision within the village hall and on the public record. Rui read the words one more time before going home. The hall was almost empty, but the playground outside still carried the sounds of children. He thought of the first morning at the mill, when Han had laughed at his dirty hands. Those hands had not become magical. They had learned to work with other hands. The river would need attention tomorrow and the day after that. But now the rules could be seen, and anyone affected had a way to ask questions.",
+        "zh": "傍晚，議會把裁定貼在村莊大廳，也登進公開紀錄。睿回家前又讀了一次。大廳幾乎空了，但外頭遊樂場仍有孩子聲音。他想起在磨坊的第一個早晨，韓曾嘲笑他沾泥的雙手。那雙手沒有變成會施法的手，卻學會了與其他人的手合作。河流明天、後天仍需照顧；但現在規則看得見，所有受影響的人也有提問的途徑。",
+        "englishSha256": "3d6de1e3860c6e49478f037ab6fa334fef58e29bbdd86ff325cab1e48ab8c2f3",
+        "chineseSha256": "831fb3c0ac5d86a3db6b2fe18cca51111ac2e0ad6636d537037040544ebf448d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 754,
+    "targets": [
+      {
+        "word": "album",
+        "meaning": "相簿",
+        "appearsInSource": true
+      },
+      {
+        "word": "broad",
+        "meaning": "寬大的",
+        "appearsInSource": true
+      },
+      {
+        "word": "complex",
+        "meaning": "複雜的",
+        "appearsInSource": true
+      },
+      {
+        "word": "contract",
+        "meaning": "合約",
+        "appearsInSource": true
+      },
+      {
+        "word": "enemy",
+        "meaning": "敵人",
+        "appearsInSource": true
+      },
+      {
+        "word": "focus",
+        "meaning": "聚焦",
+        "appearsInSource": true
+      },
+      {
+        "word": "found",
+        "meaning": "找到",
+        "appearsInSource": true
+      },
+      {
+        "word": "medical",
+        "meaning": "醫療的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pardon",
+        "meaning": "原諒",
+        "appearsInSource": true
+      },
+      {
+        "word": "playground",
+        "meaning": "遊樂場",
+        "appearsInSource": true
+      },
+      {
+        "word": "poison",
+        "meaning": "污染",
+        "appearsInSource": true
+      },
+      {
+        "word": "preferred",
+        "meaning": "較喜歡",
+        "appearsInSource": true
+      },
+      {
+        "word": "railway",
+        "meaning": "鐵路",
+        "appearsInSource": true
+      },
+      {
+        "word": "scared",
+        "meaning": "害怕的",
+        "appearsInSource": true
+      },
+      {
+        "word": "search",
+        "meaning": "尋找",
+        "appearsInSource": true
+      },
+      {
+        "word": "shame",
+        "meaning": "羞愧",
+        "appearsInSource": true
+      },
+      {
+        "word": "survived",
+        "meaning": "生存",
+        "appearsInSource": true
+      },
+      {
+        "word": "university",
+        "meaning": "大學",
+        "appearsInSource": true
+      },
+      {
+        "word": "value",
+        "meaning": "價值",
+        "appearsInSource": true
+      },
+      {
+        "word": "within",
+        "meaning": "在內",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the decision change?",
+      "options": [
+        "Han lost control of the water system",
+        "The village lost its water rights",
+        "All public records were destroyed"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Han lost control of the water system",
+      "existingAnswerExplanation": "裁定解除韓的供水管理權，恢復協議並建立共同監督。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "The judge announced that Han would lose control of the water system and that the school must fund a fair repair plan. She also ordered a separate review of the changed records. The public water agreement would be restored, with the new safety limits attached. The farmers' group would not become the sole owner of the river; it would share oversight with the school and the villages. Rui preferred that decision to a simple victory for one side. A river needed many people to keep it healthy. He did not want the next generation to face a new closed gate under a different name.",
+          "chinese": "法官宣布韓失去供水系統管理權，山門必須出資支持公平的維修計畫。遭修改的紀錄另案審查。公開用水協議將恢復，並附上新的安全限制。農民組織也不會變成河流的唯一主人，而將與山門及各村共同監督。睿更喜歡這種安排，而不是單方面的勝利。河流需要很多人一起照顧。他不願下一代只是面對換了名字的封閉水閘。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 7,
+          "english": "As evening fell, the council posted the decision within the village hall and on the public record. Rui read the words one more time before going home. The hall was almost empty, but the playground outside still carried the sounds of children. He thought of the first morning at the mill, when Han had laughed at his dirty hands. Those hands had not become magical. They had learned to work with other hands. The river would need attention tomorrow and the day after that. But now the rules could be seen, and anyone affected had a way to ask questions.",
+          "chinese": "傍晚，議會把裁定貼在村莊大廳，也登進公開紀錄。睿回家前又讀了一次。大廳幾乎空了，但外頭遊樂場仍有孩子聲音。他想起在磨坊的第一個早晨，韓曾嘲笑他沾泥的雙手。那雙手沒有變成會施法的手，卻學會了與其他人的手合作。河流明天、後天仍需照顧；但現在規則看得見，所有受影響的人也有提問的途徑。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What could the experts not prove?",
+      "options": [
+        "Exactly who first removed the instruction page",
+        "That the hidden pump existed",
+        "That the upper pipe had pressure"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Exactly who first removed the instruction page",
+      "existingAnswerExplanation": "證據無法確定最初移走頁面的人，這點仍需獨立查證。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Mei then presented the search for the missing instruction page. She showed where it had been found, when the box had been opened, and how the numbers matched the metal plate. The clerk confirmed that the page had been kept in a school storage room rather than in the public archive. An expert could not say exactly who had first removed it. That question remained open. But the council had enough proof that important safety information had been hidden from the people who depended on the river. The judge said that this failure had value in the case even without proving every person's motive.",
+          "chinese": "接著梅說明尋找遺失操作頁的過程。她展示發現位置、箱子開啟時間，以及頁上數字如何與金屬板吻合。書記確認，該頁被放在山門儲藏室，而非公共檔案庫。專家無法確定最早是誰移走它，這點仍待查。但議會已有足夠證據，證明關乎供水安全的重要資訊被藏起來，讓依賴河流的人無從得知。法官說，即使未能證明每個人的動機，這項失誤仍是案件的重要事實。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 2,
+          "english": "A university engineer described the hidden pump. She explained how the extra flow had put the upper pipe at risk. Captain Su presented medical notes from the dry season, but said they could not prove every illness had been caused by the closed river. A second expert said dirty water could carry harmful material and sometimes poison a supply, yet more testing would be needed to identify exact causes. Rui appreciated their care. The evidence was strong enough without claiming more than it showed. He had begun this journey by asking why a wheel would not turn. Now he was watching people test the limits of every answer.",
+          "chinese": "一名大學工程師說明暗藏水泵如何讓額外水流增加上方管線風險。蘇隊長提出乾季醫療紀錄，但提醒無法證明每場疾病都由河道關閉造成。另一名專家說，髒水可能攜帶有害物質，甚至污染供水，但若要確定具體原因，還需檢驗。睿欣賞他們的謹慎。證據已夠強，不需要聲稱超出事實的內容。他原本只是追問輪子為什麼不轉，如今看著人們檢驗每個答案的邊界。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

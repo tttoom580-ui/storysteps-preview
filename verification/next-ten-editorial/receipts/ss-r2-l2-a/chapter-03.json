@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 3,
+  "chapterId": "ss-r2-l2-a-3",
+  "sourceChapterSha256": "4e8481f9f42de87ac535f79b04f9d148e2258789d1a8eb659a80aef2434a3c04",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "嚴在聽證展示帶電測試電路，公開相片證明睿未偷走會議原件，梅以列印本保管證據。",
+    "previousChapterEndingEnglish": "The back steps led through a garden behind the station. Rui saw a second document stuck under a stone. It was a list of families that would pay for the new pump. The poorest homes were marked with the largest fees. He put the list beside the meeting record and felt the problem grow in size. This was not a mistake that affected one old machine. It touched a whole village. Mei asked whether he still wished to continue. “Yes,” Rui said. “But I will not make a charge without proof.” They covered the opening again and walked home with their evidence kept dry beneath Mei's coat.",
+    "nextChapterOpeningEnglish": "The next morning, Rui and Mei followed a narrow path through the woods toward the mountain reservoir. Old Bo walked with them and carried a basket of papaya from his garden. He had heard that several children in the village were ill, and he feared that dirty water might spread disease. “Our population is small,” he said, “but every family needs safe water.” A branch of the river used to pass his home. Now only wet stones remained. Rui tried to imagine the entire river network as a machine. If one part had stopped, where had the water gone?"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The school's alarm rang just after breakfast. Rui was called to the training hall, where a line of students stood beside a long wooden table. Han placed a photograph on the board. It showed Rui near the tunnel door. “You entered school property and stole a paper,” Han said. “Your punishment will be to leave the school.” Rui tried to stay calm. The accusation of theft was false: Rui had photographed a loose meeting record in the tunnel book, returned the page to its place, and noted where he had found it. Mei sat at the side with a printout of the photograph protected in a cloth cover.",
+        "zh": "早餐剛過，山門的警鈴就響了。睿被叫到訓練大廳，學生們排在一張長木桌旁。韓把一張照片釘在板上，照片中的睿站在隧道門邊。「你闖入山門財產，還偷了一張文件，」韓說，「處分就是逐出山門。」睿努力保持冷靜。偷竊的指控並不屬實：睿在隧道的書裡拍下散頁，將原件放回原處，也記下了發現地點。梅坐在一旁，把照片列印本妥善放在布套裡。",
+        "englishSha256": "37034996b72e3733ebba46390e69a15af5187d5999120eec46088f71300892fd",
+        "chineseSha256": "e6c5e8b62dff5e05409567f68e0b8817360881d1d8d5dcc0c4e1d5b9a4909033"
+      },
+      {
+        "number": 2,
+        "en": "A teacher named Yan was asked to direct the hearing. He remembered Rui from his first haircut at the village barber's shop, when the boy had asked how the two blades worked together. Yan still treated him fairly. Yan said everyone had a duty to listen before making a judgment. Han objected at once. “The boy has no power. Why waste our time?” Yan put an empty battery holder and a charged cell on the table. “Then let us test his knowledge,” he said. “No magic. Only tools.” Beside the cell lay a small dryer, a bell, three wires, and an old lamp. Rui recognized the same simple kind of circuit his father had once repaired.",
+        "zh": "一位叫嚴的老師被請來主持聽證。他記得睿小時候在村裡理髮店第一次剪頭髮，當時男孩還問起兩片剪刀刀刃如何配合。嚴如今仍公平對待他。嚴說每個人都有先聽再判斷的責任。韓立刻反對：「這小子一點力量都沒有，何必浪費時間？」嚴把一個空電池座與一顆有電的電池放在桌上。「那就測試他的知識，」他說，「不准用法術，只能用工具。」旁邊放著小型烘乾器、鈴鐺、三條電線和一盞舊燈。睿認出這是父親以前修過的簡單電路。",
+        "englishSha256": "2f63fb24d9d4f29914b9ba9225a7d3f534ddf7e12e757e31fea743b51456c684",
+        "chineseSha256": "6a7f20f41904da2533f258e7ff698a5bea404ce4a0b01c6a3eda9aa7537e249d"
+      },
+      {
+        "number": 3,
+        "en": "The first student pressed the power switch. Nothing happened. A second student gave the metal case a sharp strike, which made the bell ring once and then fall silent. “A classic fault,” Yan said. “Who can repair it?” Someone in the back made a joke about a cowboy who could fix a machine by shooting it. A few students laughed, but Rui remembered the manual's warning. A shot of force could cause more damage than help. He picked up the broken wire, checked the dry connection, and joined the ends without adding energy. When he pressed the switch, the lamp gave a steady light.",
+        "zh": "第一名學生按下電源開關，什麼也沒發生。第二名學生重敲金屬外殼，鈴鐺只響了一次就安靜了。「很典型的故障，」嚴說，「誰能修好？」後排有人開玩笑，說牛仔只要朝機器開一槍就能修好。幾名學生笑了，但睿記得說明書的警告：粗暴施力可能傷得比幫得多。他撿起斷線，檢查乾燥的接點，把線頭接回去，沒有使用額外能量。按下開關時，燈穩定地亮起來。",
+        "englishSha256": "88f888ff0662c64dc65770c9fb7327cf434d9748777811e8e03ea0abb699cf5e",
+        "chineseSha256": "9ac521e64c6b52fbc28a44f18ff7e73253f525c98630117ef841744e7a3df1b8"
+      },
+      {
+        "number": 4,
+        "en": "Yan gave a small nod. “The object of this lesson is not to show strength,” he said. “It is to find a cause.” He invited the class to tour the workshop behind the hall. There, a little model boat stood in a tank. One paper sail had been torn. In another tank, a stone had blocked the water. The students were asked to say which part of the system they would change first. Rui spoke about the stone. Han interrupted, arguing that a stronger wind could move any boat. Yan asked him to explain what would happen when the boat reached the blocked end. Han fell silent.",
+        "zh": "嚴微微點頭。「這堂課的目的不是展示力量，」他說，「而是找出原因。」他帶著全班參觀大廳後面的工坊。那裡有一艘放在水槽裡的小模型船，紙帆破了一角。另一個水槽裡，一塊石頭擋住水流。學生得回答應該先改變系統的哪個部分。睿談到石頭。韓插話，說只要風夠強就能推動任何船。嚴請他解釋，船撞到堵塞的水槽末端後會發生什麼事。韓沉默了。",
+        "englishSha256": "7ae74bb8bc5e78d1d7370fcfdcf469aef5d09940ce4515ffa8eb6bcb72083e15",
+        "chineseSha256": "1d06bbf4f0678ecb8a2c6869f71367d5c7a61bfa1ece4fbe8f052df74077c6aa"
+      },
+      {
+        "number": 5,
+        "en": "During a break, a young worker brought the students hot soup and bread. She had found a lost lamb near the school gate and wanted to know its owner. The harmless question was a welcome rest after the sharp words in the hall. Rui helped her write a message for the village. Mei whispered that the lesson might be a way to protect him, but it was not proof that Han's report was wrong. “We still need to trade our guesses for facts,” she said. Rui agreed. He was grateful for Yan's support, yet he did not want a teacher to save him with a favor.",
+        "zh": "休息時，一位年輕工人送來熱湯和麵包。她在山門口找到一隻走失的小羊，想知道主人是誰。這個無害的問題，讓大廳裡尖銳的爭論暫時平息。睿幫她寫了給村子的留言。梅低聲說，這堂課也許是在保護他，但並不能證明韓的報告有錯。「我們還是得用事實換掉猜測，」她說。睿同意。他感謝嚴的支持，卻不想靠老師偏袒來救自己。",
+        "englishSha256": "c51c3216f93199a822667ddfff94db6aaf2849678e12862e6ab4bf559cbb4cc1",
+        "chineseSha256": "0af77eec2e5b972a3748541572d01bfcf4ad5691d169af3feff53555234c10af"
+      },
+      {
+        "number": 6,
+        "en": "In the afternoon, Yan held a second trial. He covered the lamp with a cloth and changed one wire while nobody watched. This time the bell rang but the light remained dark. Rui did not rush. He checked each connection, one after another, until he found that power was going to the wrong part. “You cannot always trust a sound,” he explained. “You must follow what the machine actually does.” Yan smiled. He announced that Rui would be allowed to stay until a full hearing could take place. Han's face grew red, but he could not change the decision in front of the class.",
+        "zh": "下午，嚴安排第二次考驗。他用布蓋住燈，在沒人注意時換掉一條線。這次鈴響了，燈卻沒有亮。睿不急著動手。他逐一檢查接點，最後發現電力被送往錯的地方。「聲音不能一直相信，」他解釋，「必須追蹤機器實際做了什麼。」嚴笑了，宣布睿可以留下，直到正式聽證完成。韓氣得臉紅，卻無法在全班面前改變決定。",
+        "englishSha256": "83fa8bddc32fac82a8e3dfd28663c12fb3ef663093c85bba87d59492ad9130d1",
+        "chineseSha256": "385ca741b4a48ad8324c46ad8aa7dc13cd904ad9567ce43bce7edf8bd3cc83c6"
+      },
+      {
+        "number": 7,
+        "en": "As the students left, Han handed Yan a written order forbidding any further work at the tunnel. Rui saw the red school mark at the bottom. He also saw something else: the order carried yesterday's date, before Han could have known about the photograph at the door. That meant the school had planned to close the tunnel before this trial began. Rui told Mei in a low voice. She wrote down the date, then folded the paper away. They had won a little time, not the whole fight. Outside the hall, a clear evening sky promised good weather for the next repair.",
+        "zh": "學生離開時，韓交給嚴一份書面命令，禁止任何人再到隧道工作。睿看見底下的紅色山門印記，也發現另一件事：命令的日期是昨天，也就是韓理應還不知道隧道門口照片的時候。這表示在考驗開始前，山門就計畫封閉隧道。睿低聲告訴梅。梅記下日期，再把紙折好。他們只贏得了一點時間，還沒有贏下整場爭鬥。大廳外，晴朗的傍晚天空預示著適合下一次修理的好天氣。",
+        "englishSha256": "02b217cf304b57eed4b42dd5de087cc03ef9463336a23bce6c2db0005ef4929c",
+        "chineseSha256": "cec179a80f6e6dbe356d5dd36aa1c203c733eaa8a5973f18dcf30395f9e83631"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 747,
+    "targets": [
+      {
+        "word": "alarm",
+        "meaning": "警報",
+        "appearsInSource": true
+      },
+      {
+        "word": "calm",
+        "meaning": "冷靜",
+        "appearsInSource": true
+      },
+      {
+        "word": "cell",
+        "meaning": "電池槽",
+        "appearsInSource": true
+      },
+      {
+        "word": "classic",
+        "meaning": "典型",
+        "appearsInSource": true
+      },
+      {
+        "word": "cowboy",
+        "meaning": "牛仔",
+        "appearsInSource": true
+      },
+      {
+        "word": "direct",
+        "meaning": "主持",
+        "appearsInSource": true
+      },
+      {
+        "word": "dryer",
+        "meaning": "烘乾器",
+        "appearsInSource": true
+      },
+      {
+        "word": "duty",
+        "meaning": "責任",
+        "appearsInSource": true
+      },
+      {
+        "word": "empty",
+        "meaning": "空的",
+        "appearsInSource": true
+      },
+      {
+        "word": "false",
+        "meaning": "不實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "haircut",
+        "meaning": "理髮",
+        "appearsInSource": true
+      },
+      {
+        "word": "lamb",
+        "meaning": "小羊",
+        "appearsInSource": true
+      },
+      {
+        "word": "objected",
+        "meaning": "目的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pressed",
+        "meaning": "按下",
+        "appearsInSource": true
+      },
+      {
+        "word": "punishment",
+        "meaning": "處罰",
+        "appearsInSource": true
+      },
+      {
+        "word": "sail",
+        "meaning": "帆",
+        "appearsInSource": true
+      },
+      {
+        "word": "shot",
+        "meaning": "一槍",
+        "appearsInSource": true
+      },
+      {
+        "word": "strike",
+        "meaning": "敲擊",
+        "appearsInSource": true
+      },
+      {
+        "word": "tour",
+        "meaning": "參觀",
+        "appearsInSource": true
+      },
+      {
+        "word": "trade",
+        "meaning": "交換",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "How did Rui make the lamp light up?",
+      "options": [
+        "He added more magic",
+        "He repaired the wire connection",
+        "He hit the metal case"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "He repaired the wire connection",
+      "existingAnswerExplanation": "睿找出斷線並修復接點，不靠法術或敲打。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The first student pressed the power switch. Nothing happened. A second student gave the metal case a sharp strike, which made the bell ring once and then fall silent. “A classic fault,” Yan said. “Who can repair it?” Someone in the back made a joke about a cowboy who could fix a machine by shooting it. A few students laughed, but Rui remembered the manual's warning. A shot of force could cause more damage than help. He picked up the broken wire, checked the dry connection, and joined the ends without adding energy. When he pressed the switch, the lamp gave a steady light.",
+          "chinese": "第一名學生按下電源開關，什麼也沒發生。第二名學生重敲金屬外殼，鈴鐺只響了一次就安靜了。「很典型的故障，」嚴說，「誰能修好？」後排有人開玩笑，說牛仔只要朝機器開一槍就能修好。幾名學生笑了，但睿記得說明書的警告：粗暴施力可能傷得比幫得多。他撿起斷線，檢查乾燥的接點，把線頭接回去，沒有使用額外能量。按下開關時，燈穩定地亮起來。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 6,
+          "english": "In the afternoon, Yan held a second trial. He covered the lamp with a cloth and changed one wire while nobody watched. This time the bell rang but the light remained dark. Rui did not rush. He checked each connection, one after another, until he found that power was going to the wrong part. “You cannot always trust a sound,” he explained. “You must follow what the machine actually does.” Yan smiled. He announced that Rui would be allowed to stay until a full hearing could take place. Han's face grew red, but he could not change the decision in front of the class.",
+          "chinese": "下午，嚴安排第二次考驗。他用布蓋住燈，在沒人注意時換掉一條線。這次鈴響了，燈卻沒有亮。睿不急著動手。他逐一檢查接點，最後發現電力被送往錯的地方。「聲音不能一直相信，」他解釋，「必須追蹤機器實際做了什麼。」嚴笑了，宣布睿可以留下，直到正式聽證完成。韓氣得臉紅，卻無法在全班面前改變決定。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What was strange about Han's order?",
+      "options": [
+        "It had been dated before the trial",
+        "It had no school mark",
+        "It was written by Mei"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It had been dated before the trial",
+      "existingAnswerExplanation": "命令的日期早於此次考驗，顯示隧道封閉可能早已安排。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "In the afternoon, Yan held a second trial. He covered the lamp with a cloth and changed one wire while nobody watched. This time the bell rang but the light remained dark. Rui did not rush. He checked each connection, one after another, until he found that power was going to the wrong part. “You cannot always trust a sound,” he explained. “You must follow what the machine actually does.” Yan smiled. He announced that Rui would be allowed to stay until a full hearing could take place. Han's face grew red, but he could not change the decision in front of the class.",
+          "chinese": "下午，嚴安排第二次考驗。他用布蓋住燈，在沒人注意時換掉一條線。這次鈴響了，燈卻沒有亮。睿不急著動手。他逐一檢查接點，最後發現電力被送往錯的地方。「聲音不能一直相信，」他解釋，「必須追蹤機器實際做了什麼。」嚴笑了，宣布睿可以留下，直到正式聽證完成。韓氣得臉紅，卻無法在全班面前改變決定。",
+          "matchedQueryTerms": 2
+        },
+        {
+          "paragraph": 7,
+          "english": "As the students left, Han handed Yan a written order forbidding any further work at the tunnel. Rui saw the red school mark at the bottom. He also saw something else: the order carried yesterday's date, before Han could have known about the photograph at the door. That meant the school had planned to close the tunnel before this trial began. Rui told Mei in a low voice. She wrote down the date, then folded the paper away. They had won a little time, not the whole fight. Outside the hall, a clear evening sky promised good weather for the next repair.",
+          "chinese": "學生離開時，韓交給嚴一份書面命令，禁止任何人再到隧道工作。睿看見底下的紅色山門印記，也發現另一件事：命令的日期是昨天，也就是韓理應還不知道隧道門口照片的時候。這表示在考驗開始前，山門就計畫封閉隧道。睿低聲告訴梅。梅記下日期，再把紙折好。他們只贏得了一點時間，還沒有贏下整場爭鬥。大廳外，晴朗的傍晚天空預示著適合下一次修理的好天氣。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

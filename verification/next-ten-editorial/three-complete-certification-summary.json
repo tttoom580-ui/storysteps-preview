@@ -1,0 +1,17 @@
+{
+  "reviewDate": "2026-11-14",
+  "summary": {
+    "booksApproved": 3,
+    "chaptersApproved": 75,
+    "bilingualParagraphsReviewed": 470,
+    "quizAnswersReviewed": 150,
+    "targetVocabularyItemsChecked": 1503,
+    "method": "GPT-6 AI editor, not independent human proofreader",
+    "receiptRoot": "verification/next-ten-editorial/receipts"
+  },
+  "books": [
+    "ss-r2-l2-a",
+    "ss-r10-l3-b",
+    "ss-r10-l4-a"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 6,
+  "chapterId": "ss-r2-l2-a-6",
+  "sourceChapterSha256": "e328adbc82826e265fb45c1d190605a5ce0e7b1a2842e6c49fda52db9223a59e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "蘇隊長參與用水稽核，比對私人與公眾水箱配置，揭露表面公開與實際分配數量不一致。",
+    "previousChapterEndingEnglish": "That night, a boy delivered a note to Mei. It was from Director Lin. She had checked the main records and found that the water sent to the private school farms was nearly double the amount listed in the public report. She wanted to meet them at the college library before the next school council meeting. Rui read the note twice. “A little water is back,” he said, “but this is only the first part.” Mei nodded. Their next challenge would not be a broken handle. It would be a school office full of people who had reasons to keep the real numbers hidden.",
+    "nextChapterOpeningEnglish": "The old path to the northern source was rocky, and Rui had to watch every step. Mei led the way while Bo carried a small pack of food. They passed a dry valley that people called the Little Desert. It was not a true desert, but the grass had become thin after three long summers without enough rain. Mei had copied a calendar of past storms and compared it with the village's water notes. “The climate is changing,” she said, “but that cannot explain why one farm gets more water while the rest get less.” Rui agreed. One problem should not be used to hide another."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The college library stood beside a court where students played badminton after lessons. Rui arrived early and watched the game because he did not want to be seen waiting at the door. Mei carried the repair journal under her coat. When Director Lin appeared, she was followed by an older firewoman from the town. “This is Captain Su,” Lin said. “She knows the water engine used during a fire.” Su explained that a village in crisis could not wait for school politics. “Water belongs to human needs first,” she said. “Before rules, we must understand what the rules were made to protect.”",
+        "zh": "學院圖書館旁有座球場，學生下課後會在那裡打羽毛球。睿提早到了，假裝看球賽，避免被人發現自己一直守在門口。梅把維修日誌放在外套裡。林主任出現時，身後跟著城鎮裡一位年長的女消防員。「這是蘇隊長，」林說，「她了解火災時使用的抽水引擎。」蘇解釋，危機中的村莊不能等山門政治問題慢慢解決。「水首先關乎人類基本需求，」她說，「在談規則以前，要明白規則本來想保護什麼。」",
+        "englishSha256": "6327007d819436eb1cedeefd21212db4bc43df1908dab318a4e1602a645a03ab",
+        "chineseSha256": "bd924a7710cdb064bacd08d286df60f0cf9cf411e6fc8190c28674f42460f663"
+      },
+      {
+        "number": 2,
+        "en": "Inside the library, Lin laid two books on the table. The first held the public numbers. The second was a private journal of the farm machines. Rui compared the pages with care. The public book said that one engine carried ten boxes of water a day. The private page showed twenty. “Is this a clever trick with words?” he asked. Lin shook her head. “The same machine, the same day, the same size of box. I checked.” Mei copied the dates and asked where each record had come from. A difference was not enough by itself. They had to show that both pages described the same affair.",
+        "zh": "在圖書館內，林把兩本帳冊放在桌上。第一本是公開數字，第二本是農場機器的私人日誌。睿仔細比較。公開帳冊說一台引擎每天運送十箱水，私人頁面卻記二十箱。「這是文字上的巧妙花招嗎？」他問。林搖頭：「同一台機器，同一天，同樣大小的箱子。我查過。」梅抄下日期，並詢問各份紀錄的來源。只有數字不同還不夠，他們還要證明兩頁記的是同一件事。",
+        "englishSha256": "6b39f595439073db4aea67b3828f2559539c0daeca7db417e6edfd9f21ad2616",
+        "chineseSha256": "e911528b10a0be1642ee701d3f162ee1e78db21d1382d961b036aa018d66f2aa"
+      },
+      {
+        "number": 3,
+        "en": "Su explained that the school could govern its own farms, but the village had a separate right to water under the old mountain agreement. She opened a book about local culture and showed Rui a picture of the first farmers sharing the river. One sentence caught his eye: “Each neighbor keeps one channel clear for all.” The school had changed many things, but it had never canceled that promise. Lin said Han would argue that the school had a duty to make food. Rui answered that feeding people was important, but no single individual should decide which families went without water.",
+        "zh": "蘇解釋，山門可以管理自己的農場，但依照舊山約，村民對水也有獨立權利。她翻開一本地方文化書，讓睿看早期農民共享河流的圖片。其中一句吸引了他：「每個鄰人都替所有人維護一條水道。」山門改變過很多事情，卻從未取消這個承諾。林說韓會主張山門有生產食物的責任。睿回答，養活人民很重要，但不應由任何單獨一人決定哪些家庭必須缺水。",
+        "englishSha256": "fef78231a873190864e7205551233f51f2f19087a9031b9e00e5c5bb35f7de43",
+        "chineseSha256": "d9da1d5987ed4963c85b519610f550d25c23487b6094ae5868072609f7e17e56"
+      },
+      {
+        "number": 4,
+        "en": "Suddenly the library door opened. Han entered with two guards and ordered Lin to give him the private book. “You are making trouble,” he said. “If you continue, the school may send you to prison.” Rui felt his stomach turn, but Captain Su stepped between Han and the table. “No one is taking anything before we record it,” she said. She was not using magic or making a threat. She was doing her job as a public safety officer. Mei asked everyone to remain calm and invited the guards to write down what they saw. Even Han had to slow down when his own men were taking notes.",
+        "zh": "圖書館的門突然打開，韓帶著兩名守衛走進來，命令林交出私人帳冊。「你們在惹事，」他說，「再繼續，山門可能把你們送進監獄。」睿胃裡一沉，但蘇隊長走到韓與桌子之間。「任何東西在登記前都不能被拿走，」她說。她沒有使用法術，也沒有威脅誰，只是在履行公共安全官員的工作。梅請大家冷靜，邀請守衛記下眼前的情況。連韓也不得不在自己手下記錄時放慢動作。",
+        "englishSha256": "d51c895e4432b1b5426d029b88e70d043b3bf4a42fdd326706e58769517887a9",
+        "chineseSha256": "259add0a88423e94b16c37054dbd552a6d1305e2e5c59ab857df2b2a492c8c12"
+      },
+      {
+        "number": 5,
+        "en": "When Han left, Lin sat down and covered her face. “I thought it was only a small error,” she said. “Now I do not know what to believe.” Su offered her cabbage soup in a cup, and Mei gave her time to rest. Rui understood why some people did not participate in difficult decisions. They feared losing work, friends, and safety. “We are not asking you to carry this alone,” he told Lin. “We can place the pages in a public record and let others compare them.” Lin looked up. She agreed to sign a statement of what she personally had seen.",
+        "zh": "韓離開後，林坐下掩住臉。「我原以為只是小錯誤，」她說，「現在卻不知道該相信什麼。」蘇遞給她一杯高麗菜湯，梅讓她休息一會兒。睿明白為什麼有些人不願參與困難決定：他們怕失去工作、朋友和安全。「我們不是要你一個人扛，」睿對林說，「我們可以公開兩頁，讓其他人自己比較。」林抬頭看著他們，同意簽下一份只描述自己親眼所見的證明。",
+        "englishSha256": "530072a4dbab31e46b078f65da1ec034c679365746dcbed6b5bb45da5a4c5745",
+        "chineseSha256": "a1392e5d9be364b2d95c8923d5e40acda1df3cbc002eca85d1c319f3cfb455fd"
+      },
+      {
+        "number": 6,
+        "en": "They left the library by the river shore. A sudden rain made Rui's socks wet, and he laughed at the small problem after such a serious day. Back home he found a pillow beside his work table. His mother had left it there because he had fallen asleep over the manual twice that week. He thanked her, then opened the journal once more. The school records showed a pattern, but they did not show who had ordered the extra water. That question would lead them deeper into the mountain. He drew an arrow from the engine room to the source and wrote one word: “Go forth.”",
+        "zh": "他們沿著河岸離開圖書館。一場突如其來的雨弄濕了睿的襪子，經過這麼嚴肅的一天，他反而為小麻煩笑了。回到家，他發現工作桌旁放著一個枕頭。母親因為他這週兩次讀著說明書睡著，特地留下枕頭。他道謝後，再次翻開日誌。山門紀錄顯示某種模式，卻沒說是誰下令多抽水。這個問題將帶他們走進山的深處。他從引擎室畫了一個箭頭指向水源，寫下一句：「向前去。」",
+        "englishSha256": "7461162bcbae85318c391efa3846c9b6b0a1db2ca24fedc4595eaa1b8aef9285",
+        "chineseSha256": "00d56a35786a090335aa219b2fd53fc4293a0ee73890d15b23e8de44ea14a3aa"
+      },
+      {
+        "number": 7,
+        "en": "Before sleeping, Rui wrote a letter to the farmers' group. He said they had found a serious difference between public and private numbers, but had not yet proved the reason. He asked families to keep their own water notes for the coming week. Every small record could help. He also thanked Captain Su for showing that a person could defend others without being the strongest in a room. As he put down his pen, he felt excitement and fear at the same time. The river's story was becoming larger, but now more people were ready to tell it together.",
+        "zh": "睡前，睿寫信給農民組織。他說他們發現公開與私人數字有重大差異，但還未證明原因。他請各戶在接下來一週記下自己的用水情況。每一份小小紀錄都可能派上用場。他也感謝蘇隊長讓他看見，不必是房間裡最強的人，也能保護別人。放下筆時，他同時感到興奮與害怕。河流的故事越來越大，但已有更多人準備一起說出真相。",
+        "englishSha256": "640ae719b3b288fd5a3a5aa2b576a588cb1fcd476c9217c8ce2724c51818676d",
+        "chineseSha256": "90de5299b8d1f2d85bb6c76d879b15a161b1eb135e8867cfe9f24275adf925f8"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 725,
+    "targets": [
+      {
+        "word": "affair",
+        "meaning": "事情",
+        "appearsInSource": true
+      },
+      {
+        "word": "badminton",
+        "meaning": "羽毛球",
+        "appearsInSource": true
+      },
+      {
+        "word": "cabbage",
+        "meaning": "高麗菜",
+        "appearsInSource": true
+      },
+      {
+        "word": "clever",
+        "meaning": "巧妙的",
+        "appearsInSource": true
+      },
+      {
+        "word": "crisis",
+        "meaning": "危機",
+        "appearsInSource": true
+      },
+      {
+        "word": "culture",
+        "meaning": "文化",
+        "appearsInSource": true
+      },
+      {
+        "word": "engine",
+        "meaning": "引擎",
+        "appearsInSource": true
+      },
+      {
+        "word": "excitement",
+        "meaning": "興奮",
+        "appearsInSource": true
+      },
+      {
+        "word": "firewoman",
+        "meaning": "女消防員",
+        "appearsInSource": true
+      },
+      {
+        "word": "forth",
+        "meaning": "向前",
+        "appearsInSource": true
+      },
+      {
+        "word": "govern",
+        "meaning": "管理",
+        "appearsInSource": true
+      },
+      {
+        "word": "human",
+        "meaning": "人類的",
+        "appearsInSource": true
+      },
+      {
+        "word": "individual",
+        "meaning": "個人",
+        "appearsInSource": true
+      },
+      {
+        "word": "journal",
+        "meaning": "日誌",
+        "appearsInSource": true
+      },
+      {
+        "word": "neighbor",
+        "meaning": "鄰人",
+        "appearsInSource": true
+      },
+      {
+        "word": "participate",
+        "meaning": "參與",
+        "appearsInSource": true
+      },
+      {
+        "word": "pillow",
+        "meaning": "枕頭",
+        "appearsInSource": true
+      },
+      {
+        "word": "prison",
+        "meaning": "監獄",
+        "appearsInSource": true
+      },
+      {
+        "word": "shore",
+        "meaning": "河岸",
+        "appearsInSource": true
+      },
+      {
+        "word": "socks",
+        "meaning": "襪子",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why was the private journal important?",
+      "options": [
+        "It listed the school's favorite games",
+        "It recorded twice the water in the public book",
+        "It showed a new magic spell"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "It recorded twice the water in the public book",
+      "existingAnswerExplanation": "私人日誌記載的抽水量是公開帳冊的兩倍。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Inside the library, Lin laid two books on the table. The first held the public numbers. The second was a private journal of the farm machines. Rui compared the pages with care. The public book said that one engine carried ten boxes of water a day. The private page showed twenty. “Is this a clever trick with words?” he asked. Lin shook her head. “The same machine, the same day, the same size of box. I checked.” Mei copied the dates and asked where each record had come from. A difference was not enough by itself. They had to show that both pages described the same affair.",
+          "chinese": "在圖書館內，林把兩本帳冊放在桌上。第一本是公開數字，第二本是農場機器的私人日誌。睿仔細比較。公開帳冊說一台引擎每天運送十箱水，私人頁面卻記二十箱。「這是文字上的巧妙花招嗎？」他問。林搖頭：「同一台機器，同一天，同樣大小的箱子。我查過。」梅抄下日期，並詢問各份紀錄的來源。只有數字不同還不夠，他們還要證明兩頁記的是同一件事。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 3,
+          "english": "Su explained that the school could govern its own farms, but the village had a separate right to water under the old mountain agreement. She opened a book about local culture and showed Rui a picture of the first farmers sharing the river. One sentence caught his eye: “Each neighbor keeps one channel clear for all.” The school had changed many things, but it had never canceled that promise. Lin said Han would argue that the school had a duty to make food. Rui answered that feeding people was important, but no single individual should decide which families went without water.",
+          "chinese": "蘇解釋，山門可以管理自己的農場，但依照舊山約，村民對水也有獨立權利。她翻開一本地方文化書，讓睿看早期農民共享河流的圖片。其中一句吸引了他：「每個鄰人都替所有人維護一條水道。」山門改變過很多事情，卻從未取消這個承諾。林說韓會主張山門有生產食物的責任。睿回答，養活人民很重要，但不應由任何單獨一人決定哪些家庭必須缺水。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did Lin agree to do?",
+      "options": [
+        "Sign a statement about what she saw",
+        "Leave the village forever",
+        "Destroy the public records"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Sign a statement about what she saw",
+      "existingAnswerExplanation": "林答應簽署自己親眼所見的證詞，避免超出可證明範圍。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "When Han left, Lin sat down and covered her face. “I thought it was only a small error,” she said. “Now I do not know what to believe.” Su offered her cabbage soup in a cup, and Mei gave her time to rest. Rui understood why some people did not participate in difficult decisions. They feared losing work, friends, and safety. “We are not asking you to carry this alone,” he told Lin. “We can place the pages in a public record and let others compare them.” Lin looked up. She agreed to sign a statement of what she personally had seen.",
+          "chinese": "韓離開後，林坐下掩住臉。「我原以為只是小錯誤，」她說，「現在卻不知道該相信什麼。」蘇遞給她一杯高麗菜湯，梅讓她休息一會兒。睿明白為什麼有些人不願參與困難決定：他們怕失去工作、朋友和安全。「我們不是要你一個人扛，」睿對林說，「我們可以公開兩頁，讓其他人自己比較。」林抬頭看著他們，同意簽下一份只描述自己親眼所見的證明。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 4,
+          "english": "Suddenly the library door opened. Han entered with two guards and ordered Lin to give him the private book. “You are making trouble,” he said. “If you continue, the school may send you to prison.” Rui felt his stomach turn, but Captain Su stepped between Han and the table. “No one is taking anything before we record it,” she said. She was not using magic or making a threat. She was doing her job as a public safety officer. Mei asked everyone to remain calm and invited the guards to write down what they saw. Even Han had to slow down when his own men were taking notes.",
+          "chinese": "圖書館的門突然打開，韓帶著兩名守衛走進來，命令林交出私人帳冊。「你們在惹事，」他說，「再繼續，山門可能把你們送進監獄。」睿胃裡一沉，但蘇隊長走到韓與桌子之間。「任何東西在登記前都不能被拿走，」她說。她沒有使用法術，也沒有威脅誰，只是在履行公共安全官員的工作。梅請大家冷靜，邀請守衛記下眼前的情況。連韓也不得不在自己手下記錄時放慢動作。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

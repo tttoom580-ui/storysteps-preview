@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 3,
+  "chapterId": "ss-r10-l4-a-3",
+  "sourceChapterSha256": "60cb06b6a4fbb288ca3c9e45a4c03277a2b584d734242a9805b0ef013f1e0813",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "東區山壁屏障有裝反鉸鏈與舊測量纜線痕跡，雷川從急於報復轉為護送與保存證據。",
+    "previousChapterEndingEnglish": "Ning spent the night comparing the handwritten boards with the official schedule. She could see why the sponsor preferred the disguise of a neat calendar: no one watching a duel would notice missing inspectors in a distant district. Salim brought tea and said that he would share the names of willing witnesses, but not without asking them first. Ning agreed. Their work needed trust rather than fear. At midnight a second message arrived, this time with a photograph of a damaged tower. Under the picture someone had written, 'The first failure will be called sabotage.' Ning knew a warning might be sincere or mischievous. She marked it unverified, asked for the original photograph, and prepared to travel east at sunrise.",
+    "nextChapterOpeningEnglish": "The city's central librarian, Han Yu, kept the earliest shield plans in a locked room beneath the public library. Ning sought approval to see them, but the clerk said only champions could request historical records. Han called the rule nonsense. The building was public property, and technical records were not the private possession of an arena. She opened the room and showed Ning a map drawn before the modern contest system existed. A handwritten note in the margin described a shield that responded to a chorus of footsteps during an earthquake evacuation. The achievement had been recorded as an ordinary civic accomplishment, not a victory. Ning realized that the city had once known another method of protection."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 5,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The eastern barrier stood beneath a mountainous ridge, where winter winds pressed against the houses like waves. Ning found an accidental gap between two shield plates. The opening was only the width of a twig, yet the air whistling through it could choke a worker on the narrow bridge. The local commander called the weather brutal and blamed a recent group of trainees for neglect. Ning refused to accept that judgment without an inspection record. A mild breeze reached her face, followed by a strong gust that made the plate blink red. The danger was grave, but it was not caused by the young workers' lack of courage. A metal hinge had been installed backward months earlier.",
+        "zh": "東區屏障立在山脊下，冬風像海浪般壓向住宅。沈寧發現兩塊護板間有一道意外留下的缺口，只有細枝寬，穿過的風卻可能讓窄橋上的工人窒息。當地指揮官說天氣殘酷，並責怪最近一批學徒疏忽。沈寧沒有檢查紀錄就不肯接受這個判斷。微風先吹過她的臉，接著一陣強風讓護板的紅燈閃爍。情況嚴重，但不是年輕工人不夠勇敢。真正的原因是幾個月前一個金屬鉸鏈被裝反了。",
+        "englishSha256": "52737ce4b75a626b0146564519e722c5aacda1d0780cc2f6eabc1ec544bd9610",
+        "chineseSha256": "7c0e0817ac9b6dee497d5dd34dc605bb96dcdee9eb585e4987fc7cc6043de66e"
+      },
+      {
+        "number": 2,
+        "en": "A veteran fighter named Lei demanded revenge against the people who had approved the bridge. He believed a public punishment would make the city safer. Ning did not want to offend him, but she urged him to evaluate the evidence first. She showed how the hinge's composition differed from the certified drawing. The fault could have arisen in manufacturing, transport, or installation; none of those possibilities was settled. Lei stared at the damaged metal. His own brother had been injured there, and anger had become easier for him than uncertainty. A local teacher quoted a philosopher who said that justice needed patience. Lei laughed bitterly, but he agreed to help close the bridge rather than confront the trainees.",
+        "zh": "一名老資格武者雷川要求向批准橋梁的人報復。他認為公開懲罰才能使城市安全。沈寧不想冒犯他，卻仍催促他先評估證據。她指出鉸鏈的材料組成與核准圖紙不同。問題可能出在製造、運送或安裝，現在還不能確定。雷川凝視損壞的金屬。他的弟弟曾在此受傷，憤怒對他而言比承認未知容易。一名當地教師引用哲學家的話，說正義需要耐心。雷川苦笑，卻同意先幫忙封閉橋梁，而不是責罰學徒。",
+        "englishSha256": "e1769934a59592ec7c73a8c8701391241e2f77a81b21a3c5860da8f0cdee87d9",
+        "chineseSha256": "22fe9d75713939fe2caf0c2e70f1397ff4121c48c5f254cb2d743ec6fe1d1577"
+      },
+      {
+        "number": 3,
+        "en": "Ning worked with two trainees to build a temporary barrier out of sandbags. The old shield plate continued to tremble, but the new barrier redirected the strongest wind away from the path. A school nurse brought blankets and a list of injured residents. Her intelligence about the neighborhood mattered more than the commander's map: it showed which households could not leave without assistance. Ning expressed gratitude and assigned volunteers to guide them. She warned that the work was not an adventure. People had a tendency to rush toward danger when a score appeared above it. No points would be awarded for this operation, and everyone could stop if the conditions changed. Lei took the first watch without asking for a reward.",
+        "zh": "沈寧和兩名學徒用沙包築起臨時障礙。舊護板仍在震動，但新障礙把最強的風吹離通道。學校護理師帶來毯子與傷者名單。她對街區的了解比指揮官的地圖更有用：名單顯示哪些住戶不能自行離開。沈寧表達感謝，安排志工帶領撤離。她提醒大家，這不是冒險。人們看到危險上方有積分時，往往有衝過去的傾向。這次行動沒有獎勵，情況一變任何人都能停下。雷川沒要求報酬，就接下第一班守望。",
+        "englishSha256": "40137644c51220c5d9188a5be63ab0ec1e3e81590097f9c8248ebc9080c6194b",
+        "chineseSha256": "e3d3b2b083f3166c6a961381f7d1139644ba116d3c607a8c22f8fb9a66333db7"
+      },
+      {
+        "number": 4,
+        "en": "By afternoon, the team could compare the damaged plate with a healthy one. Both had recorded a shield pulse before the last official duel began. Ning played the timing record three times for Lei. He asked whether the finding meant the fighters' training had been useless. She answered that strength could still rescue someone from falling debris, but the city had confused a useful skill with the source of the entire shield. This distinction mattered. Reforming the system would not erase the good work fighters had done. It would allow other people to contribute without pretending to be fighters. Lei watched a trainee carry water to an elderly neighbor and quietly moved the trainee's name from the blame list to the witness list.",
+        "zh": "下午，團隊終於能比較受損護板與正常護板。兩者都在上一場正式決鬥開始前，記錄到一次屏障脈衝。沈寧把時間紀錄播放三次給雷川看。雷川問，這是否代表武者的訓練毫無用處。她回答，力量仍可把人從掉落的碎石下救出來，但城市把有用的技能誤認成整個屏障的唯一來源。這個差別很重要。改革制度不是抹去武者過去的貢獻，而是讓其他人不必假裝成武者也能參與。雷川看著一名學徒替老鄰居送水，默默把他的名字從責任名單移到證人名單。",
+        "englishSha256": "0f00c71616fb81156b2d2f237cd01e561aa244043a7d42deaa1f3cef350a636b",
+        "chineseSha256": "af8c65a456e32d889a938c2075a6f9c13ddc1bc9d3dbaa9544a62a7d2b68be25"
+      },
+      {
+        "number": 5,
+        "en": "Before they left, Ning found a second set of marks on the bridge supports. They had not been made by the bad hinge. Each mark matched the place where an old measuring cable had once been fastened. Someone had removed that cable and covered the holes with paint. The commander said the removal was part of a modernization program. Ning asked for the signed order and received no answer. She photographed the marks with a ruler, stored the image in two separate records, and told Lei that she would not accuse anyone yet. He nodded. His anger had not disappeared, but he now had a better task for it: guarding the evidence until it could be examined by someone who had not approved the bridge.",
+        "zh": "離開前，沈寧在橋墩上找到第二組痕跡。它們不是壞鉸鏈造成的；每一道都對應舊測量纜線原本的固定位置。有人拆下纜線，再用油漆蓋住孔洞。指揮官說這是設備現代化的一部分。沈寧要求出示簽署的命令，卻沒有得到回答。她把尺放在痕跡旁拍照，並把影像存成兩份獨立紀錄。她告訴雷川，現在還不會指控任何人。他點頭。怒氣沒有消失，但他有了更好的使用方式：保護證據，直到未曾批准這座橋的人能仔細檢查。",
+        "englishSha256": "9dd4e4249dc89940caa8f6ca16d8fe38cc8742f6dff9ce31077bc512824c1c21",
+        "chineseSha256": "fe0eb40b3dc42d8456495662eec3b09b3aa187f88dff24011f0561f64ec07ae8"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 604,
+    "targets": [
+      {
+        "word": "accidental",
+        "meaning": "意外的",
+        "appearsInSource": true
+      },
+      {
+        "word": "barrier",
+        "meaning": "障礙",
+        "appearsInSource": true
+      },
+      {
+        "word": "blink",
+        "meaning": "閃爍",
+        "appearsInSource": true
+      },
+      {
+        "word": "brutal",
+        "meaning": "殘酷的",
+        "appearsInSource": true
+      },
+      {
+        "word": "choke",
+        "meaning": "窒息",
+        "appearsInSource": true
+      },
+      {
+        "word": "composition",
+        "meaning": "組成",
+        "appearsInSource": true
+      },
+      {
+        "word": "evaluate",
+        "meaning": "評估",
+        "appearsInSource": true
+      },
+      {
+        "word": "gratitude",
+        "meaning": "感謝",
+        "appearsInSource": true
+      },
+      {
+        "word": "grave",
+        "meaning": "嚴重的",
+        "appearsInSource": true
+      },
+      {
+        "word": "intelligence",
+        "meaning": "情報與理解",
+        "appearsInSource": true
+      },
+      {
+        "word": "mild",
+        "meaning": "溫和的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mountainous",
+        "meaning": "多山的",
+        "appearsInSource": true
+      },
+      {
+        "word": "neglect",
+        "meaning": "疏忽",
+        "appearsInSource": true
+      },
+      {
+        "word": "offend",
+        "meaning": "冒犯",
+        "appearsInSource": true
+      },
+      {
+        "word": "philosopher",
+        "meaning": "哲學家",
+        "appearsInSource": true
+      },
+      {
+        "word": "Reforming",
+        "meaning": "改革",
+        "appearsInSource": true
+      },
+      {
+        "word": "revenge",
+        "meaning": "報復",
+        "appearsInSource": true
+      },
+      {
+        "word": "tendency",
+        "meaning": "傾向",
+        "appearsInSource": true
+      },
+      {
+        "word": "twig",
+        "meaning": "細枝",
+        "appearsInSource": true
+      },
+      {
+        "word": "urged",
+        "meaning": "催促",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What caused the dangerous gap in the mountain barrier?",
+      "options": [
+        "A young worker intentionally damaged it.",
+        "An old hinge had been installed backward.",
+        "A wild animal bit the metal."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "An old hinge had been installed backward.",
+      "existingAnswerExplanation": "沈寧發現裝反的鉸鏈，不能在沒有證據時責怪學徒。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The eastern barrier stood beneath a mountainous ridge, where winter winds pressed against the houses like waves. Ning found an accidental gap between two shield plates. The opening was only the width of a twig, yet the air whistling through it could choke a worker on the narrow bridge. The local commander called the weather brutal and blamed a recent group of trainees for neglect. Ning refused to accept that judgment without an inspection record. A mild breeze reached her face, followed by a strong gust that made the plate blink red. The danger was grave, but it was not caused by the young workers' lack of courage. A metal hinge had been installed backward months earlier.",
+          "chinese": "東區屏障立在山脊下，冬風像海浪般壓向住宅。沈寧發現兩塊護板間有一道意外留下的缺口，只有細枝寬，穿過的風卻可能讓窄橋上的工人窒息。當地指揮官說天氣殘酷，並責怪最近一批學徒疏忽。沈寧沒有檢查紀錄就不肯接受這個判斷。微風先吹過她的臉，接著一陣強風讓護板的紅燈閃爍。情況嚴重，但不是年輕工人不夠勇敢。真正的原因是幾個月前一個金屬鉸鏈被裝反了。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 3,
+          "english": "Ning worked with two trainees to build a temporary barrier out of sandbags. The old shield plate continued to tremble, but the new barrier redirected the strongest wind away from the path. A school nurse brought blankets and a list of injured residents. Her intelligence about the neighborhood mattered more than the commander's map: it showed which households could not leave without assistance. Ning expressed gratitude and assigned volunteers to guide them. She warned that the work was not an adventure. People had a tendency to rush toward danger when a score appeared above it. No points would be awarded for this operation, and everyone could stop if the conditions changed. Lei took the first watch without asking for a reward.",
+          "chinese": "沈寧和兩名學徒用沙包築起臨時障礙。舊護板仍在震動，但新障礙把最強的風吹離通道。學校護理師帶來毯子與傷者名單。她對街區的了解比指揮官的地圖更有用：名單顯示哪些住戶不能自行離開。沈寧表達感謝，安排志工帶領撤離。她提醒大家，這不是冒險。人們看到危險上方有積分時，往往有衝過去的傾向。這次行動沒有獎勵，情況一變任何人都能停下。雷川沒要求報酬，就接下第一班守望。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How did Lei change his response to the accident?",
+      "options": [
+        "He helped protect the evidence instead of seeking immediate revenge.",
+        "He left the city without helping.",
+        "He demanded more fighting points."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He helped protect the evidence instead of seeking immediate revenge.",
+      "existingAnswerExplanation": "雷川把怒氣轉成守護現場及協助調查。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "A veteran fighter named Lei demanded revenge against the people who had approved the bridge. He believed a public punishment would make the city safer. Ning did not want to offend him, but she urged him to evaluate the evidence first. She showed how the hinge's composition differed from the certified drawing. The fault could have arisen in manufacturing, transport, or installation; none of those possibilities was settled. Lei stared at the damaged metal. His own brother had been injured there, and anger had become easier for him than uncertainty. A local teacher quoted a philosopher who said that justice needed patience. Lei laughed bitterly, but he agreed to help close the bridge rather than confront the trainees.",
+          "chinese": "一名老資格武者雷川要求向批准橋梁的人報復。他認為公開懲罰才能使城市安全。沈寧不想冒犯他，卻仍催促他先評估證據。她指出鉸鏈的材料組成與核准圖紙不同。問題可能出在製造、運送或安裝，現在還不能確定。雷川凝視損壞的金屬。他的弟弟曾在此受傷，憤怒對他而言比承認未知容易。一名當地教師引用哲學家的話，說正義需要耐心。雷川苦笑，卻同意先幫忙封閉橋梁，而不是責罰學徒。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 5,
+          "english": "Before they left, Ning found a second set of marks on the bridge supports. They had not been made by the bad hinge. Each mark matched the place where an old measuring cable had once been fastened. Someone had removed that cable and covered the holes with paint. The commander said the removal was part of a modernization program. Ning asked for the signed order and received no answer. She photographed the marks with a ruler, stored the image in two separate records, and told Lei that she would not accuse anyone yet. He nodded. His anger had not disappeared, but he now had a better task for it: guarding the evidence until it could be examined by someone who had not approved the bridge.",
+          "chinese": "離開前，沈寧在橋墩上找到第二組痕跡。它們不是壞鉸鏈造成的；每一道都對應舊測量纜線原本的固定位置。有人拆下纜線，再用油漆蓋住孔洞。指揮官說這是設備現代化的一部分。沈寧要求出示簽署的命令，卻沒有得到回答。她把尺放在痕跡旁拍照，並把影像存成兩份獨立紀錄。她告訴雷川，現在還不會指控任何人。他點頭。怒氣沒有消失，但他有了更好的使用方式：保護證據，直到未曾批准這座橋的人能仔細檢查。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

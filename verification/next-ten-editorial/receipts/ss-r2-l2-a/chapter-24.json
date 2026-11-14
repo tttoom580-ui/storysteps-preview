@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 24,
+  "chapterId": "ss-r2-l2-a-24",
+  "sourceChapterSha256": "389758516a3a0d9aec6024e0471b80a6ace34256bc095155e7da5ece2d695945",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "隔年春天睿完成維修資格考試，舊有不實指控逐步撤回；職業認證不等於法律自動結案。",
+    "previousChapterEndingEnglish": "As evening fell, the council posted the decision within the village hall and on the public record. Rui read the words one more time before going home. The hall was almost empty, but the playground outside still carried the sounds of children. He thought of the first morning at the mill, when Han had laughed at his dirty hands. Those hands had not become magical. They had learned to work with other hands. The river would need attention tomorrow and the day after that. But now the rules could be seen, and anyone affected had a way to ask questions.",
+    "nextChapterOpeningEnglish": "The summer after Rui received his repair certificate began with a soft rain. Rui stood beside the mill and listened to the steady flow of water. Among the villagers, the new rules had become ordinary: check the marks, keep a record, and call for help when something seemed wrong. Nobody called this foolish work anymore. The principal of the mountain school had asked Rui to apply for a teaching position, and he was still thinking about it. His mother brought him a bowl of pumpkin soup, made with a bone broth she had cooked all morning. “You can choose your own road,” she told him."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Spring returned to the mountain, and the school held a public examination for repair apprentices. Rui helped design the tests but did not set his own score. A long curtain hid the machines until each student entered. On the wall hung a cheerful panda poster with the words “Check First.” The first task was to bend a soft pipe into a safe shape without closing it. The second was to find a fault in a water wheel. The third asked students to explain when a user should stop a machine and call for help. Rui watched quietly and kept his tone calm when someone made a mistake.",
+        "zh": "春天再次來到山上，山門為維修學徒舉辦公開考試。睿協助設計試題，但不替自己評分。長布簾在考生入場前遮住機器。牆上掛著可愛的熊貓海報，寫著「先檢查」。第一題要把軟水管彎成安全形狀而不堵塞；第二題要找出水輪故障；第三題請考生說明使用者何時應停止機器並求助。睿安靜觀看，有人出錯時仍保持平和語氣。",
+        "englishSha256": "afe30a2ae8df93a40827a17185ac775b572adc28ed2c3313f2e90fd9596ae1ac",
+        "chineseSha256": "40dba82fcd1d5e49648d77ee79ae1b9db716da497e019f0b701a396ff1788ab6"
+      },
+      {
+        "number": 2,
+        "en": "Many visitors came from nearby towns, including two international teachers who studied small water systems. They liked the public training but asked how the school would prevent commercial pressure from changing the rules again. Lan showed them the repair records, which were open to all affected villages. The council had also set a fixed schedule for safety tests. Rui said that public records did not make people perfect, but they made secret changes harder. A teacher asked whether he believed the new system could increase water safely during a dry year. Rui answered that any increase would require new measurements, not a promise made in advance.",
+        "zh": "附近城鎮有許多訪客，包括兩名研究小型供水系統的國際教師。他們欣賞公開訓練，卻問山門如何避免商業壓力再次改變規則。蘭展示維修紀錄，受影響各村都能查閱。議會也訂下固定安全測試時間表。睿說公開紀錄不能讓人完美，卻能讓祕密改動更難。一名教師問他是否相信新系統能在乾旱年份安全增加水量。睿回答，任何增加都需要重新測量，不能預先空口承諾。",
+        "englishSha256": "9e7b5f8b802950df4bb085aaa5f9719643b3db9639c88aeb9b286f5de9f6ca34",
+        "chineseSha256": "89dde91d52d60c05d6acda86c6d00bc19faf5403f846a02f788f1b1f3c10caf5"
+      },
+      {
+        "number": 3,
+        "en": "At lunch, the younger students played a safe water game beside a low pool. One child used a toy water gun to make a small stream hit a wheel. Another wore a swimsuit and demonstrated how to hop away from the marked danger line when a bell rang. The game was simple, but the children liked it. A worker sold sandwiches to raise cash for the community fund. Rui bought one and sat under a tree to watch. He was pleased that safety lessons could be interesting without pretending that danger itself was fun.",
+        "zh": "午餐時，年幼學生在淺水池旁玩安全用水遊戲。一個孩子用玩具水槍射出細水流，推動小輪子；另一人穿著泳衣，示範鈴響時怎麼從畫好的危險線旁單腳跳開。遊戲很簡單，孩子很喜歡。工人販售三明治替共同基金籌現金。睿買了一份，坐在樹下觀看。他很高興安全課能有趣，而不必把危險本身說得好玩。",
+        "englishSha256": "6b81e04f8f632083f3fb6af964828368e21cc167f2e7955b8bff6bb8aee4c2a6",
+        "chineseSha256": "3a0e3eac4ebcd5b8a5c1d4f0c0de1c65d614e3b1e4dd320cc68efff0133580ab"
+      },
+      {
+        "number": 4,
+        "en": "Before the afternoon tests, the council made another announcement. The school formally withdrew its old claim that the farmers' group had supported terrorism. The statement said there had been no evidence for the charge. Bo listened with his hands folded. The word had frightened his neighbors and made their work harder. Removing it from the public record mattered. Rui knew a false charge could leave a mark even after it was corrected, but the correction was necessary. He asked the clerk to place it beside the original notice so people could see both the claim and its withdrawal.",
+        "zh": "下午考試前，議會又公布一項消息。山門正式撤回過去指控農民組織支持恐怖主義的說法，並承認沒有證據。柏雙手交握，靜靜聽著。那個詞曾讓鄰人害怕，增加了工作的困難。把它從官方指控中撤回很重要。睿知道錯誤指控即使更正仍可能留下痕跡，但更正不可省略。他請書記把撤回聲明放在原公告旁，讓大家看見指控與撤回的完整紀錄。",
+        "englishSha256": "5ad42184588230f53aab5d619701e26db53fb0d41b7920f9ac8030780986ec43",
+        "chineseSha256": "3751fef9164cc7904f410509519f54fa89b2f5576326cf3730667b08b9ad0986"
+      },
+      {
+        "number": 5,
+        "en": "In the final test, an apprentice found that the water level had reached its peak while the wheel was still turning. It was a situation similar to the dangerous night at the upper station. Some students thought the best answer was to open the gate wider. The apprentice did not fall for that trick of appearances. She checked the safe outlet and asked for a second worker before touching the controls. The judges gave her a high score. Rui smiled. Her good judgment did not come from secret power. It came from asking the right question at the right time. That was the kind of skill he had hoped the workshop would teach.",
+        "zh": "最後一題裡，一名學徒發現水位已達最高點，水輪卻仍在轉。情況和高站那個危險夜晚很相似。有些學生以為最好把水閘開更大。這位學徒沒有被表面情況騙倒。她先查安全出口，並在碰控制器前要求第二名工人協助。評審給了高分。睿微笑。她的判斷力不是祕密力量，而是能在正確時機提出正確問題。這正是他希望工坊教給大家的技能。",
+        "englishSha256": "fa90a48d3b95c2efbcc25b9ea78f2ef34c2104fb5619a19b41401d93181e6967",
+        "chineseSha256": "03b0e8de5bcedfa02690ae5c49e1c4c18c374609aab4627dbb1ddba63a80aa3e"
+      },
+      {
+        "number": 6,
+        "en": "Rui's own exam was held last. The teachers asked him to explain the old safety rule and show how it applied to the new machine. He spoke about the fields, the pipe pressure, and the council agreement. Then he opened the manual to the page they had recovered. The examiner asked what he would do if the written instruction no longer matched the real machine. “Stop,” Rui answered. “Measure, discuss, and change the rule openly if the facts require it.” The teachers agreed that he had passed. He stayed at the desk till the last question was answered, because he wanted everyone to understand his method. He received a repair certificate, not a magic title, and that felt right.",
+        "zh": "睿自己的考試排在最後。老師請他解釋舊安全規則，並示範如何運用於新機器。他談到田地、管線壓力和議會協議，再翻到找回的說明書頁。主考官問，如果書面指示已與真實機器不符，他會怎麼做。「停下，」睿回答，「測量、討論；若事實確有需要，就公開修改規則。」老師同意他通過考試。他一直坐到最後一個問題回答完才離開，因為他希望大家真正理解方法。他得到的是維修證書，不是法術頭銜。他覺得這樣很好。",
+        "englishSha256": "e7d8f6613df4dcf78c47f7443e9b49974b0fcf0ad649001ae53f75237f3f4d16",
+        "chineseSha256": "b3927b68dd6004a18efcd6fbb779da20413934af98ce0a2c693c2931f02e45a8"
+      },
+      {
+        "number": 7,
+        "en": "That evening, Rui walked to the mountain peak with Mei. They could see the valley and the old railway line below. The water moved through the fields in narrow bright lines. Rui thought about how long he had wanted a school rank to tell him who he was. Now he had a different answer. He was a repairer who would keep learning, and his work would be tested by the people it served. The future might still hold difficult seasons, and not every problem would have an easy solution. But he had a method, friends, and a place where questions were welcome.",
+        "zh": "傍晚，睿和梅走上山頂。從那裡能望見山谷和下方舊鐵道，水沿田地流成一道道明亮細線。睿想起自己曾多麼渴望山門階級來告訴他自己是誰。如今，他有了另一個答案：他是會持續學習的修理人，工作要由它服務的人來檢驗。未來仍可能有難熬季節，也不是每個問題都有簡單答案。但他有方法、有朋友，也有一個歡迎提問的地方。",
+        "englishSha256": "4555f0d4ed8172d6bef63790a18d930dd36a4a6ccc6419eba6d735884c2869ab",
+        "chineseSha256": "79909060e2a0206c16c238ed0f0b3b62ddee0b891a3978c05879bfbbd4e6a2ce"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 739,
+    "targets": [
+      {
+        "word": "bend",
+        "meaning": "彎曲",
+        "appearsInSource": true
+      },
+      {
+        "word": "cash",
+        "meaning": "現金",
+        "appearsInSource": true
+      },
+      {
+        "word": "commercial",
+        "meaning": "商業的",
+        "appearsInSource": true
+      },
+      {
+        "word": "curtain",
+        "meaning": "布簾",
+        "appearsInSource": true
+      },
+      {
+        "word": "examination",
+        "meaning": "考試",
+        "appearsInSource": true
+      },
+      {
+        "word": "gun",
+        "meaning": "水槍",
+        "appearsInSource": true
+      },
+      {
+        "word": "hop",
+        "meaning": "單腳跳",
+        "appearsInSource": true
+      },
+      {
+        "word": "increase",
+        "meaning": "增加",
+        "appearsInSource": true
+      },
+      {
+        "word": "international",
+        "meaning": "國際的",
+        "appearsInSource": true
+      },
+      {
+        "word": "panda",
+        "meaning": "熊貓",
+        "appearsInSource": true
+      },
+      {
+        "word": "peak",
+        "meaning": "頂點",
+        "appearsInSource": true
+      },
+      {
+        "word": "sandwiches",
+        "meaning": "三明治",
+        "appearsInSource": true
+      },
+      {
+        "word": "schedule",
+        "meaning": "時間表",
+        "appearsInSource": true
+      },
+      {
+        "word": "similar",
+        "meaning": "相似的",
+        "appearsInSource": true
+      },
+      {
+        "word": "swimsuit",
+        "meaning": "泳衣",
+        "appearsInSource": true
+      },
+      {
+        "word": "terrorism",
+        "meaning": "恐怖主義",
+        "appearsInSource": true
+      },
+      {
+        "word": "till",
+        "meaning": "直到",
+        "appearsInSource": true
+      },
+      {
+        "word": "tone",
+        "meaning": "語氣",
+        "appearsInSource": true
+      },
+      {
+        "word": "trick",
+        "meaning": "詭計",
+        "appearsInSource": true
+      },
+      {
+        "word": "user",
+        "meaning": "使用者",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Rui receive after the examination?",
+      "options": [
+        "A repair certificate",
+        "A secret magic weapon",
+        "Control of all farms"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A repair certificate",
+      "existingAnswerExplanation": "睿取得維修證書，而不是法術地位或水權。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "Spring returned to the mountain, and the school held a public examination for repair apprentices. Rui helped design the tests but did not set his own score. A long curtain hid the machines until each student entered. On the wall hung a cheerful panda poster with the words “Check First.” The first task was to bend a soft pipe into a safe shape without closing it. The second was to find a fault in a water wheel. The third asked students to explain when a user should stop a machine and call for help. Rui watched quietly and kept his tone calm when someone made a mistake.",
+          "chinese": "春天再次來到山上，山門為維修學徒舉辦公開考試。睿協助設計試題，但不替自己評分。長布簾在考生入場前遮住機器。牆上掛著可愛的熊貓海報，寫著「先檢查」。第一題要把軟水管彎成安全形狀而不堵塞；第二題要找出水輪故障；第三題請考生說明使用者何時應停止機器並求助。睿安靜觀看，有人出錯時仍保持平和語氣。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 6,
+          "english": "Rui's own exam was held last. The teachers asked him to explain the old safety rule and show how it applied to the new machine. He spoke about the fields, the pipe pressure, and the council agreement. Then he opened the manual to the page they had recovered. The examiner asked what he would do if the written instruction no longer matched the real machine. “Stop,” Rui answered. “Measure, discuss, and change the rule openly if the facts require it.” The teachers agreed that he had passed. He stayed at the desk till the last question was answered, because he wanted everyone to understand his method. He received a repair certificate, not a magic title, and that felt right.",
+          "chinese": "睿自己的考試排在最後。老師請他解釋舊安全規則，並示範如何運用於新機器。他談到田地、管線壓力和議會協議，再翻到找回的說明書頁。主考官問，如果書面指示已與真實機器不符，他會怎麼做。「停下，」睿回答，「測量、討論；若事實確有需要，就公開修改規則。」老師同意他通過考試。他一直坐到最後一個問題回答完才離開，因為他希望大家真正理解方法。他得到的是維修證書，不是法術頭銜。他覺得這樣很好。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the school withdraw?",
+      "options": [
+        "Its unsupported terrorism claim against farmers",
+        "Its water safety schedule",
+        "Its public repair lessons"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Its unsupported terrorism claim against farmers",
+      "existingAnswerExplanation": "山門正式撤回沒有證據支持的恐怖主義相關指控。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Before the afternoon tests, the council made another announcement. The school formally withdrew its old claim that the farmers' group had supported terrorism. The statement said there had been no evidence for the charge. Bo listened with his hands folded. The word had frightened his neighbors and made their work harder. Removing it from the public record mattered. Rui knew a false charge could leave a mark even after it was corrected, but the correction was necessary. He asked the clerk to place it beside the original notice so people could see both the claim and its withdrawal.",
+          "chinese": "下午考試前，議會又公布一項消息。山門正式撤回過去指控農民組織支持恐怖主義的說法，並承認沒有證據。柏雙手交握，靜靜聽著。那個詞曾讓鄰人害怕，增加了工作的困難。把它從官方指控中撤回很重要。睿知道錯誤指控即使更正仍可能留下痕跡，但更正不可省略。他請書記把撤回聲明放在原公告旁，讓大家看見指控與撤回的完整紀錄。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "Spring returned to the mountain, and the school held a public examination for repair apprentices. Rui helped design the tests but did not set his own score. A long curtain hid the machines until each student entered. On the wall hung a cheerful panda poster with the words “Check First.” The first task was to bend a soft pipe into a safe shape without closing it. The second was to find a fault in a water wheel. The third asked students to explain when a user should stop a machine and call for help. Rui watched quietly and kept his tone calm when someone made a mistake.",
+          "chinese": "春天再次來到山上，山門為維修學徒舉辦公開考試。睿協助設計試題，但不替自己評分。長布簾在考生入場前遮住機器。牆上掛著可愛的熊貓海報，寫著「先檢查」。第一題要把軟水管彎成安全形狀而不堵塞；第二題要找出水輪故障；第三題請考生說明使用者何時應停止機器並求助。睿安靜觀看，有人出錯時仍保持平和語氣。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

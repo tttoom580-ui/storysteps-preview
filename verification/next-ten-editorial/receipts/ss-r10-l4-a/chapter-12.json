@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 12,
+  "chapterId": "ss-r10-l4-a-12",
+  "sourceChapterSha256": "a4a1bc924ca54747c077c11242bead687eedde0e57ada536bf3e802c247f81c6",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "地下能量容器因卡住的閥門壓力上升而中止試驗，議會書面保障所有人停止危險作業的權利。",
+    "previousChapterEndingEnglish": "Before the council meeting ended, Min asked permission to expose the difference between the public screen and the raw sensor readings. A company representative said the records might reveal how they manufacture the equipment. Ning accepted redaction of genuine production secrets, but not of safety results. The council ordered both sides to prepare a version that independent inspectors could verify the next morning.",
+    "nextChapterOpeningEnglish": "The first five-tower conference took place in a school garden where spring flowers had begun to blossom. The city appointed Ning to explain the tests, but she asked representatives from every district to speak first. A children's chorus rehearsed nearby, and the rhythm of their song reminded her of the old evacuation notes. Some residents called the shield's history a legend; others blamed a curse for every malfunction. Ning said neither story could replace measurements. She sketched five connected circles on a board and summarized the evidence: independent instruments had observed pulses during coordinated movement, while the underground vessel could distribute that power only within tested limits. The proposal was difficult, but it had a foundation in repeated observations."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The five-tower cable entered an underground chamber built by miners decades before. Its entrance was oval, and a faded illustration showed a vessel filled with water beneath the central square. The old drawings described distribution of energy through that vessel, but the modern crew had never seen it operate. Ning refused to promise absolute safety. She brought a hardware engineer, a miner familiar with the passage, and a nurse trained in emergency care. Everyone followed a simple discipline: fasten the safety rope, check the air, and leave at the first serious warning. The miner said his greatest dread was not darkness, but having someone ignore a signal because a manager demanded perfection.",
+        "zh": "五塔纜線通往數十年前礦工修建的地下室。入口是橢圓形的，褪色插圖顯示中央廣場下有一座裝水的容器。舊圖記載那容器能分配能量，現代團隊卻沒見過它運作。沈寧不承諾絕對安全，帶來硬體工程師、熟悉通道的礦工及受過急救訓練的護理師。大家遵守簡單紀律：繫緊安全繩、檢查空氣，出現嚴重警告就撤離。礦工說他最害怕的不是黑暗，而是有人因主管要求完美而忽視警訊。",
+        "englishSha256": "8cf904822e134933ce6bd8c6f43c8aa7d85a32f1d8cdddc6ac0644c136f8b20f",
+        "chineseSha256": "293ef33af2f067c86a5ce8fdcd97940154ffc43ff6a7323a5219b240bc34b616"
+      },
+      {
+        "number": 2,
+        "en": "The team found the vessel half full, with its old measuring plates covered in mud. Ning asked the engineer to insert a harmless sensor through an existing opening instead of cutting new metal. The first readings were inconsistent. A hawk circling above the square triggered the surface alarm, even though the underground pressure had not changed. Min traced the mistake to a loose cable that linked two different instruments. Once the cable was secured, the graph became realistic. It showed that shared timing could improve efficiency, but only when the water level stayed within a safe range. Ning wrote both conditions on the entrance board. A clean graph meant little without the physical limits that produced it.",
+        "zh": "團隊找到半滿的容器，舊測量板覆滿泥。沈寧請工程師從既有開口插入無害感測器，不要再切金屬。第一批讀數不一致。廣場上空一隻老鷹盤旋時，地面警報響了，地下壓力卻沒變。敏敏追出問題源於一條鬆線，把兩種不同儀器接在一起。固定纜線後，圖表才變得符合現實。它顯示同步節奏能改善效率，但水位必須在安全範圍內。沈寧把兩個條件都寫在入口看板。沒有產生讀數的物理限制，再漂亮的圖也沒用。",
+        "englishSha256": "531d0d7cc83292e7b84d5f5b742e786b5bd33495c8ca390c721735da9a1cbae0",
+        "chineseSha256": "24c629506ce0b8a4a923b9dfca23589b16a29cc3d6ae8a2aefd776680ee6e9e9"
+      },
+      {
+        "number": 3,
+        "en": "A representative from the arena demanded recognition for the champion whose portrait decorated the chamber. He claimed the vessel had been built for one perfect fighter. The miner pointed to the names carved along the wall: hundreds of builders, cleaners, carriers, and cooks. Their work had never appeared on the victory screen. Ning took a photograph and asked the library to preserve the list. She did not want to replace one myth with another. The historical workers had also made mistakes, and the modern crew needed to learn from them. The useful achievement was a distribution system that allowed many districts to support one another when one tower weakened, provided its safety valves remained open.",
+        "zh": "競技場代表要求表揚肖像掛在地下室的冠軍，聲稱容器是為一名完美武者建造。礦工指向牆上刻的名字：數百名建造工人、清潔員、搬運者和廚師。他們的工作從未出現在勝利螢幕。沈寧拍照，請圖書館保存名單。她不想用另一個神話取代舊神話。當年的工人也曾犯錯，現在的團隊應從中學習。真正有用的成就是分配系統：只要安全閥保持開放，一座塔變弱時，其他街區便能互相支援。",
+        "englishSha256": "66bf5536df1e5e39d8f0a33f74be8ff11758b1557e06781711a7a18d9c5ca199",
+        "chineseSha256": "02970997029e30ed50d61e6f825869e80a8f79aa6b40e5b59e55a9a06e371526"
+      },
+      {
+        "number": 4,
+        "en": "During a second test, a valve stuck and pressure began to rise. The engineer called for a stop. One official demanded that they continue until the reading reached the planned target, but Ning supported the engineer's judgment. The nurse helped everyone climb out, and the miner closed the entrance after checking the last person. Aboveground, the official complained about grief caused by the delay to families waiting for reassurance. Ning answered with calm precision: grief would be far worse if someone had been hurt in an avoidable experiment. She renewed her request for an independent valve inspection and a realistic budget for repairs. The city needed working hardware, not a performance that appeared flawless only while the cameras watched.",
+        "zh": "第二次測試時，一個閥門卡住，壓力開始上升。工程師要求停止。一名官員卻堅持繼續，直到數值達到預訂目標，沈寧支持工程師的判斷。護理師協助所有人爬出，礦工確認最後一人離開後關閉入口。地面上，官員抱怨延誤讓等待安心消息的家庭更難過。沈寧冷靜回答：若有人在可避免的實驗中受傷，悲傷只會更大。她再次要求獨立檢查閥門，並編列符合現實的維修預算。城市需要的是正常工作的硬體，不是只在攝影機面前無瑕的表演。",
+        "englishSha256": "b2268c29dc98872ba32c61d5032cc828992fbed40853eeffa678e1f71c27a04d",
+        "chineseSha256": "9d02d4f504411d3b6ba0f99afdd079d04ea943d2a7fcf51683381b153d060ca2"
+      },
+      {
+        "number": 5,
+        "en": "The council finally approved a replacement valve and offered a gracious apology to the workers who had been pressured to continue. Ning accepted the apology but asked for a written rule that would outlast the meeting. Min drafted a stop-work procedure, Salim checked its wording with the labor teams, and Qiao agreed to explain it during arena broadcasts. The document established that any person observing a direct danger could request a pause without immediate punishment. Not every question had been resolved; the vessel still needed another test. Yet the crew left the underground room with something more valuable than a perfect score: a method for recognizing when the next test should not proceed.",
+        "zh": "議會終於批准更換閥門，也向曾被迫繼續測試的工人致上有禮的道歉。沈寧接受道歉，但要求制定能延續到會議以後的書面規則。敏敏草擬停工程序，薩林和工班確認用詞，羅喬答應在競技轉播時解釋。文件規定，任何目睹直接危險的人都能要求暫停，不得立即受罰。所有問題還沒解決，容器仍需再測試。但團隊離開地下室時，帶走了比完美積分更有價值的東西：知道下一次何時不該繼續測試的方法。",
+        "englishSha256": "8ed5fde886d37019615b59a4a1786d8af34f69e3fec160184eb3fb3dd95d4576",
+        "chineseSha256": "e3069c2753068083145ca73e55eda8e97464c0c5705b588b3a3168c02c7b7beb"
+      },
+      {
+        "number": 6,
+        "en": "The miners placed a temporary sign at the entrance with the water limits written in large letters. A woman who could not read the small print on the old plans thanked them. Ning asked her to check whether the new sign was clear from her position. She suggested moving it lower, and the workers followed her advice. A system was not safe merely because its instructions looked complete to the people who wrote them.",
+        "zh": "礦工在入口立起臨時告示，用大字寫出水位限制。一名看不清舊圖小字的女子向他們道謝。沈寧請她從自己的位置檢查新告示是否清楚。她建議把牌子放低，工人照做。制度不能只因編寫指示的人覺得完整，就被認定為安全。",
+        "englishSha256": "709285a6a65c1347976e0c34378f298cbd2af5b43dc85ed99bc11b4637bf7502",
+        "chineseSha256": "0aecda3735710ef02421b57fe7c47e9bb3231264180eb4ede1219e4bc266980f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 650,
+    "targets": [
+      {
+        "word": "absolute",
+        "meaning": "絕對的",
+        "appearsInSource": true
+      },
+      {
+        "word": "discipline",
+        "meaning": "紀律",
+        "appearsInSource": true
+      },
+      {
+        "word": "distribution",
+        "meaning": "分配",
+        "appearsInSource": true
+      },
+      {
+        "word": "dread",
+        "meaning": "害怕",
+        "appearsInSource": true
+      },
+      {
+        "word": "efficiency",
+        "meaning": "效率",
+        "appearsInSource": true
+      },
+      {
+        "word": "fasten",
+        "meaning": "繫緊",
+        "appearsInSource": true
+      },
+      {
+        "word": "gracious",
+        "meaning": "親切的",
+        "appearsInSource": true
+      },
+      {
+        "word": "grief",
+        "meaning": "悲傷",
+        "appearsInSource": true
+      },
+      {
+        "word": "hardware",
+        "meaning": "硬體",
+        "appearsInSource": true
+      },
+      {
+        "word": "hawk",
+        "meaning": "老鷹",
+        "appearsInSource": true
+      },
+      {
+        "word": "illustration",
+        "meaning": "插圖",
+        "appearsInSource": true
+      },
+      {
+        "word": "insert",
+        "meaning": "插入",
+        "appearsInSource": true
+      },
+      {
+        "word": "miner",
+        "meaning": "礦工",
+        "appearsInSource": true
+      },
+      {
+        "word": "oval",
+        "meaning": "橢圓形的",
+        "appearsInSource": true
+      },
+      {
+        "word": "perfection",
+        "meaning": "完美",
+        "appearsInSource": true
+      },
+      {
+        "word": "realistic",
+        "meaning": "現實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "recognition",
+        "meaning": "認可",
+        "appearsInSource": true
+      },
+      {
+        "word": "renewed",
+        "meaning": "更新",
+        "appearsInSource": true
+      },
+      {
+        "word": "resolved",
+        "meaning": "解決",
+        "appearsInSource": true
+      },
+      {
+        "word": "vessel",
+        "meaning": "容器",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did Ning halt the second vessel test?",
+      "options": [
+        "A valve stuck and pressure rose.",
+        "The hawk landed in the chamber.",
+        "The historic drawings were beautiful."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A valve stuck and pressure rose.",
+      "existingAnswerExplanation": "閥門卡住、壓力上升，安全停工規則要求立即撤出。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "During a second test, a valve stuck and pressure began to rise. The engineer called for a stop. One official demanded that they continue until the reading reached the planned target, but Ning supported the engineer's judgment. The nurse helped everyone climb out, and the miner closed the entrance after checking the last person. Aboveground, the official complained about grief caused by the delay to families waiting for reassurance. Ning answered with calm precision: grief would be far worse if someone had been hurt in an avoidable experiment. She renewed her request for an independent valve inspection and a realistic budget for repairs. The city needed working hardware, not a performance that appeared flawless only while the cameras watched.",
+          "chinese": "第二次測試時，一個閥門卡住，壓力開始上升。工程師要求停止。一名官員卻堅持繼續，直到數值達到預訂目標，沈寧支持工程師的判斷。護理師協助所有人爬出，礦工確認最後一人離開後關閉入口。地面上，官員抱怨延誤讓等待安心消息的家庭更難過。沈寧冷靜回答：若有人在可避免的實驗中受傷，悲傷只會更大。她再次要求獨立檢查閥門，並編列符合現實的維修預算。城市需要的是正常工作的硬體，不是只在攝影機面前無瑕的表演。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 2,
+          "english": "The team found the vessel half full, with its old measuring plates covered in mud. Ning asked the engineer to insert a harmless sensor through an existing opening instead of cutting new metal. The first readings were inconsistent. A hawk circling above the square triggered the surface alarm, even though the underground pressure had not changed. Min traced the mistake to a loose cable that linked two different instruments. Once the cable was secured, the graph became realistic. It showed that shared timing could improve efficiency, but only when the water level stayed within a safe range. Ning wrote both conditions on the entrance board. A clean graph meant little without the physical limits that produced it.",
+          "chinese": "團隊找到半滿的容器，舊測量板覆滿泥。沈寧請工程師從既有開口插入無害感測器，不要再切金屬。第一批讀數不一致。廣場上空一隻老鷹盤旋時，地面警報響了，地下壓力卻沒變。敏敏追出問題源於一條鬆線，把兩種不同儀器接在一起。固定纜線後，圖表才變得符合現實。它顯示同步節奏能改善效率，但水位必須在安全範圍內。沈寧把兩個條件都寫在入口看板。沒有產生讀數的物理限制，再漂亮的圖也沒用。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What change did the council approve afterward?",
+      "options": [
+        "Written stop-work protection and a replacement valve.",
+        "Free arena tickets for every miner.",
+        "The removal of all safety signs."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Written stop-work protection and a replacement valve.",
+      "existingAnswerExplanation": "議會批准更換閥門並建立可要求暫停危險作業的書面程序。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "The council finally approved a replacement valve and offered a gracious apology to the workers who had been pressured to continue. Ning accepted the apology but asked for a written rule that would outlast the meeting. Min drafted a stop-work procedure, Salim checked its wording with the labor teams, and Qiao agreed to explain it during arena broadcasts. The document established that any person observing a direct danger could request a pause without immediate punishment. Not every question had been resolved; the vessel still needed another test. Yet the crew left the underground room with something more valuable than a perfect score: a method for recognizing when the next test should not proceed.",
+          "chinese": "議會終於批准更換閥門，也向曾被迫繼續測試的工人致上有禮的道歉。沈寧接受道歉，但要求制定能延續到會議以後的書面規則。敏敏草擬停工程序，薩林和工班確認用詞，羅喬答應在競技轉播時解釋。文件規定，任何目睹直接危險的人都能要求暫停，不得立即受罰。所有問題還沒解決，容器仍需再測試。但團隊離開地下室時，帶走了比完美積分更有價值的東西：知道下一次何時不該繼續測試的方法。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 6,
+          "english": "The miners placed a temporary sign at the entrance with the water limits written in large letters. A woman who could not read the small print on the old plans thanked them. Ning asked her to check whether the new sign was clear from her position. She suggested moving it lower, and the workers followed her advice. A system was not safe merely because its instructions looked complete to the people who wrote them.",
+          "chinese": "礦工在入口立起臨時告示，用大字寫出水位限制。一名看不清舊圖小字的女子向他們道謝。沈寧請她從自己的位置檢查新告示是否清楚。她建議把牌子放低，工人照做。制度不能只因編寫指示的人覺得完整，就被認定為安全。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 7,
+  "chapterId": "ss-r10-l4-a-7",
+  "sourceChapterSha256": "406d104b0ded54f560fe4206f06a306d7266844f6bbb2369599d62a9306bea9c",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "北塔冰凍供水管導致假效率，騾車駕駛自願參與，讀數在贊助商取得後被向上修改。",
+    "previousChapterEndingEnglish": "Before leaving, the conductor asked a courageous young mechanic to explain the day's failure to the waiting families. He did not hide the leak or promise that it would never happen again. Ning thanked him for speaking plainly. She added his description to the public record, with a note that the repair would be checked after the next heavy rain. The crowd listened more carefully than anyone had expected.",
+    "nextChapterOpeningEnglish": "The western district had built its first tower with the craft of its ancestors, long before anyone called the machines modern. Ning visited because an old technician claimed that the tower's damaged handwriting labels were identical to those found beneath the opera hall. Contrary to the ministry's statement, the western tower had not been replaced; a new shell merely covered its ancient frame. When Ning tried to open the service door, a rusty hose snapped and almost crushed her fingers. The technician apologized for the lousy condition of the equipment. Ning refused to blame him for a problem that required a whole repair crew. She asked for a proper safety plan before the next inspection."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Frost covered the northern tower so thickly that its inspection stairs were almost invisible. Ning arrived with a plumber, a physician, and two trainees who had recently received their technical diplomas. A helicopter circled overhead but could not land in the intense wind. A herd of pack animals stood near the road, including an exhausted mule carrying water to the tower. A competitor from the arena complained that the workers were moving too slowly. Ning pointed out that their surroundings were not a training ground. One slight mistake could injure someone or send an animal down the slope. The first duty was to adapt the route to actual conditions, not force everyone to meet a heroic timetable.",
+        "zh": "北塔的霜厚到幾乎看不見巡檢階梯。沈寧帶著水管工、醫師及兩名剛取得技術文憑的學徒抵達。直升機在頭頂盤旋，卻因強風無法降落。路旁有群載貨動物，其中一頭疲憊的騾子正替防護塔運水。一名競技場對手嫌工人走得太慢。沈寧指出，這裡不是訓練場。任何輕微失誤都可能使人受傷，或把動物推下山坡。首要任務是讓路線適應實際環境，而不是強迫所有人遵守英雄式的時刻表。",
+        "englishSha256": "42756ea704d51b6f60a05d7d0d5991ae062f2c1c3b5706d8fcb1cd93406de9c9",
+        "chineseSha256": "15fefcb0b3bf5650fdec8924240be3db7ed211a7dc557ed1a0555747a02b437f"
+      },
+      {
+        "number": 2,
+        "en": "They began by checking accuracy. The tower claimed to be operating at ninety-eight percent efficiency, but the sensor had been measuring an empty pipe. The plumber opened a safe panel and showed that the water line was frozen. Ning asked Min to analyze the readings again using the actual flow rate. The result was a reduction of nearly one third. The competitor opposed announcing the figure because it might damage confidence before the storm. Qiao answered that inaccurate confidence could injure the very residents they meant to protect. Their disagreement grew tense, but Ning insisted on recording both the measured number and its uncertainty. A reliable report could not be built from the largest available percent.",
+        "zh": "團隊先檢查準確性。防護塔宣稱效率達百分之九十八，感測器測到的卻是空管。水管工打開安全面板，指出供水線已結冰。沈寧請敏敏用實際流量重新分析讀數，結果顯示效率減少近三分之一。那名競爭者反對公布數字，怕風暴前破壞信心。羅喬說，不準確的信心會傷害他們想保護的居民。雙方緊張爭論，沈寧仍堅持記錄實測值和不確定範圍。可信報告不能只挑最大的百分比。",
+        "englishSha256": "f6a38293d1adb15ef671c679f3727644d8a988633d27c61a997d75812b3bf706",
+        "chineseSha256": "be1c394048835679094ed325ce89de0d9761728af683ba97cfef40103b181c25"
+      },
+      {
+        "number": 3,
+        "en": "The trainees found a remarkable pattern in the older data. Whenever the nearby villages carried supplies along the mountain road in groups, the tower briefly gained strength. The mule drivers had never been counted as shield operators, although their movements had contributed to its rhythm. Ning explained the finding to the drivers and asked whether they wished to join a supervised test. Several refused because their animals needed rest. She thanked them and offered warm shelter instead. Mutual respect mattered more than a dramatic result. The others chose a short walking pattern on safe ground, with plenty of room between teams. The shield rose for five seconds, and the independent instruments recorded the same change.",
+        "zh": "學徒在舊資料裡發現驚人的模式：附近村落每次結隊沿山路運送物資，防護塔都會短暫增強。騾車駕駛從未被列為屏障操作員，儘管他們的移動已對節奏有所貢獻。沈寧向駕駛解釋發現，詢問是否願意參加受監督測試。幾人拒絕，因為動物需要休息。她道謝並提供暖和的休息處。相互尊重比戲劇性結果重要。其他人選擇在安全平地短暫踏步，隊伍之間留足空間。屏障上升了五秒，獨立儀器也錄下相同變化。",
+        "englishSha256": "588702b67505eaf9d4fb8d79af27026d885f9087c7605463e91f38711eb0d894",
+        "chineseSha256": "57ac9157ece4dee936410cc185252d4d7910c7837d95b200539c48efb90bd2e3"
+      },
+      {
+        "number": 4,
+        "en": "During the return trip, a loose panel struck the shoulder of one trainee. The wound was minor, but the physician insisted on treatment and a full incident report. Ning agreed to suspend further inspection until the fasteners could be checked. The arena competitor called the delay expensive. Salim replied that the workers' welfare belonged in the budget rather than in the margin of a report. The competitor had no easy answer. He stayed to help the injured trainee carry her tools, and later apologized for his earlier impatience. Ning recorded that apology nowhere; it was a personal matter. The missing fastener, by contrast, belonged in the public safety log because another team might face the same danger.",
+        "zh": "回程時，一片鬆脫護板打中學徒肩膀。傷勢輕微，但醫師仍要求治療及完整事故報告。沈寧同意暫停後續巡檢，先檢查固定件。競技對手說延誤會造成高額成本。薩林回應，工人福利應列在預算裡，而不是報告角落。對方答不上來，留下幫受傷學徒提工具，後來也為先前的不耐煩道歉。沈寧沒有把道歉寫入紀錄，那是私人事。相反地，缺少固定件必須公開登錄，因為下一支隊伍可能面對相同危險。",
+        "englishSha256": "b4681af3d5914d3e0a880bf54c9451d4a7380172ba3aae3b042ab8676ed02fc7",
+        "chineseSha256": "30ddf43dcbfb89b4c3d28291c616d486f361fb0ef519578591dd8aa3a523be2e"
+      },
+      {
+        "number": 5,
+        "en": "At night, the tower's logs showed that northern readings had been sent south, then edited before entering the national system. The changes always increased the apparent performance by a small amount. A single correction might have been an innocent clerical mistake, but the repetition deserved investigation. Ning compared the files with the trainees' handwritten notes and found that the false numbers appeared only after the arena sponsor received them. She did not accuse the sponsor yet. Instead, she requested a complete chain of custody and copied the originals to two separate observers. Outside the shelter, the frost returned to the railing. The pressure storm was closer, and a city built on flattering numbers would have little room to adapt.",
+        "zh": "夜裡，防護塔日誌顯示北區數值先傳到南方，再經修改才進入全國系統。修改每次都讓表面績效稍微增加。單次修正可能只是文書失誤，反覆出現就值得調查。沈寧拿檔案和學徒手寫筆記比對，發現錯誤數字都在贊助商收到資料後才出現。她暫時沒有指控對方，而是要求完整交接紀錄，並把原件交給兩名獨立觀察者保存。避難所外，欄杆又結起霜。壓力風暴更近了，建立在漂亮假數字上的城市，恐怕沒有多少適應空間。",
+        "englishSha256": "658f5f8d0dbe94e1cb7205a681235f85db41e9d2ca1e8516f9e12f8b505e84e5",
+        "chineseSha256": "547ebf93d2649a1f9c0ebfa1bcd5ebab6c136a048b48be48e659344e9d3bd821"
+      },
+      {
+        "number": 6,
+        "en": "At the shelter, one child asked why the city had waited so long to repair the tower. Ning answered that delays often came from ordinary decisions that nobody checked together. She asked the trainees to publish their new measurements and invited the village to question them. A small table of accurate numbers was less exciting than a victory poster, but it gave residents something useful before the next storm.",
+        "zh": "避難所裡，一個孩子問城市為何拖這麼久才修塔。沈寧回答，延誤常來自沒有人共同檢查的普通決定。她請學徒公布新測量值，邀村民提問。一張準確的小數據表不如勝利海報刺激，卻能讓居民在下一次風暴前拿到真正有用的資訊。",
+        "englishSha256": "39cfde27b16e2d32931acde09b52c1a26bd35b87811600e3c6cbebc011f6508b",
+        "chineseSha256": "8cbbe8e7917a7a30f2be68d5bf9bbb63a354debb32b7f6852a8274b3775fa1db"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 653,
+    "targets": [
+      {
+        "word": "accuracy",
+        "meaning": "準確性",
+        "appearsInSource": true
+      },
+      {
+        "word": "adapt",
+        "meaning": "適應",
+        "appearsInSource": true
+      },
+      {
+        "word": "analyze",
+        "meaning": "分析",
+        "appearsInSource": true
+      },
+      {
+        "word": "competitor",
+        "meaning": "競爭者",
+        "appearsInSource": true
+      },
+      {
+        "word": "diplomas",
+        "meaning": "文憑",
+        "appearsInSource": true
+      },
+      {
+        "word": "Frost",
+        "meaning": "霜",
+        "appearsInSource": true
+      },
+      {
+        "word": "helicopter",
+        "meaning": "直升機",
+        "appearsInSource": true
+      },
+      {
+        "word": "herd",
+        "meaning": "群體",
+        "appearsInSource": true
+      },
+      {
+        "word": "injure",
+        "meaning": "使受傷",
+        "appearsInSource": true
+      },
+      {
+        "word": "intense",
+        "meaning": "強烈的",
+        "appearsInSource": true
+      },
+      {
+        "word": "mule",
+        "meaning": "騾子",
+        "appearsInSource": true
+      },
+      {
+        "word": "Mutual",
+        "meaning": "相互的",
+        "appearsInSource": true
+      },
+      {
+        "word": "opposed",
+        "meaning": "反對",
+        "appearsInSource": true
+      },
+      {
+        "word": "percent",
+        "meaning": "百分比",
+        "appearsInSource": true
+      },
+      {
+        "word": "plumber",
+        "meaning": "水管工",
+        "appearsInSource": true
+      },
+      {
+        "word": "reduction",
+        "meaning": "減少",
+        "appearsInSource": true
+      },
+      {
+        "word": "remarkable",
+        "meaning": "顯著的",
+        "appearsInSource": true
+      },
+      {
+        "word": "slight",
+        "meaning": "輕微的",
+        "appearsInSource": true
+      },
+      {
+        "word": "surroundings",
+        "meaning": "周圍環境",
+        "appearsInSource": true
+      },
+      {
+        "word": "welfare",
+        "meaning": "福利",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why was the northern tower's efficiency figure misleading?",
+      "options": [
+        "Its sensor was measuring an empty frozen pipe.",
+        "The helicopter was too loud.",
+        "The champion refused to punch."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Its sensor was measuring an empty frozen pipe.",
+      "existingAnswerExplanation": "感測器測到的是凍住的空管，重算後效率大幅下降。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "They began by checking accuracy. The tower claimed to be operating at ninety-eight percent efficiency, but the sensor had been measuring an empty pipe. The plumber opened a safe panel and showed that the water line was frozen. Ning asked Min to analyze the readings again using the actual flow rate. The result was a reduction of nearly one third. The competitor opposed announcing the figure because it might damage confidence before the storm. Qiao answered that inaccurate confidence could injure the very residents they meant to protect. Their disagreement grew tense, but Ning insisted on recording both the measured number and its uncertainty. A reliable report could not be built from the largest available percent.",
+          "chinese": "團隊先檢查準確性。防護塔宣稱效率達百分之九十八，感測器測到的卻是空管。水管工打開安全面板，指出供水線已結冰。沈寧請敏敏用實際流量重新分析讀數，結果顯示效率減少近三分之一。那名競爭者反對公布數字，怕風暴前破壞信心。羅喬說，不準確的信心會傷害他們想保護的居民。雙方緊張爭論，沈寧仍堅持記錄實測值和不確定範圍。可信報告不能只挑最大的百分比。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 5,
+          "english": "At night, the tower's logs showed that northern readings had been sent south, then edited before entering the national system. The changes always increased the apparent performance by a small amount. A single correction might have been an innocent clerical mistake, but the repetition deserved investigation. Ning compared the files with the trainees' handwritten notes and found that the false numbers appeared only after the arena sponsor received them. She did not accuse the sponsor yet. Instead, she requested a complete chain of custody and copied the originals to two separate observers. Outside the shelter, the frost returned to the railing. The pressure storm was closer, and a city built on flattering numbers would have little room to adapt.",
+          "chinese": "夜裡，防護塔日誌顯示北區數值先傳到南方，再經修改才進入全國系統。修改每次都讓表面績效稍微增加。單次修正可能只是文書失誤，反覆出現就值得調查。沈寧拿檔案和學徒手寫筆記比對，發現錯誤數字都在贊助商收到資料後才出現。她暫時沒有指控對方，而是要求完整交接紀錄，並把原件交給兩名獨立觀察者保存。避難所外，欄杆又結起霜。壓力風暴更近了，建立在漂亮假數字上的城市，恐怕沒有多少適應空間。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How did Ning respond when a trainee was injured?",
+      "options": [
+        "She ignored the minor wound.",
+        "She suspended inspection for treatment and a safety check.",
+        "She awarded extra arena points."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "She suspended inspection for treatment and a safety check.",
+      "existingAnswerExplanation": "即使是輕傷也要治療、登錄並檢查固定件。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "During the return trip, a loose panel struck the shoulder of one trainee. The wound was minor, but the physician insisted on treatment and a full incident report. Ning agreed to suspend further inspection until the fasteners could be checked. The arena competitor called the delay expensive. Salim replied that the workers' welfare belonged in the budget rather than in the margin of a report. The competitor had no easy answer. He stayed to help the injured trainee carry her tools, and later apologized for his earlier impatience. Ning recorded that apology nowhere; it was a personal matter. The missing fastener, by contrast, belonged in the public safety log because another team might face the same danger.",
+          "chinese": "回程時，一片鬆脫護板打中學徒肩膀。傷勢輕微，但醫師仍要求治療及完整事故報告。沈寧同意暫停後續巡檢，先檢查固定件。競技對手說延誤會造成高額成本。薩林回應，工人福利應列在預算裡，而不是報告角落。對方答不上來，留下幫受傷學徒提工具，後來也為先前的不耐煩道歉。沈寧沒有把道歉寫入紀錄，那是私人事。相反地，缺少固定件必須公開登錄，因為下一支隊伍可能面對相同危險。",
+          "matchedQueryTerms": 14
+        },
+        {
+          "paragraph": 1,
+          "english": "Frost covered the northern tower so thickly that its inspection stairs were almost invisible. Ning arrived with a plumber, a physician, and two trainees who had recently received their technical diplomas. A helicopter circled overhead but could not land in the intense wind. A herd of pack animals stood near the road, including an exhausted mule carrying water to the tower. A competitor from the arena complained that the workers were moving too slowly. Ning pointed out that their surroundings were not a training ground. One slight mistake could injure someone or send an animal down the slope. The first duty was to adapt the route to actual conditions, not force everyone to meet a heroic timetable.",
+          "chinese": "北塔的霜厚到幾乎看不見巡檢階梯。沈寧帶著水管工、醫師及兩名剛取得技術文憑的學徒抵達。直升機在頭頂盤旋，卻因強風無法降落。路旁有群載貨動物，其中一頭疲憊的騾子正替防護塔運水。一名競技場對手嫌工人走得太慢。沈寧指出，這裡不是訓練場。任何輕微失誤都可能使人受傷，或把動物推下山坡。首要任務是讓路線適應實際環境，而不是強迫所有人遵守英雄式的時刻表。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 17,
+  "chapterId": "ss-r10-l4-a-17",
+  "sourceChapterSha256": "19bc8de812b313d484db224487d217dd40392a397a9b434b5285f174d1bde973",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "紀念儀式開始補入被遺忘的維修與救援人員，敏敏收到中央塔經理的工作威脅並保存證據。",
+    "previousChapterEndingEnglish": "The most useful aspect of the gallery experiment, namely the separate clock signal, was also its limitation. It told towers when to compare their movements, but it did not create energy from nothing. Ning asked the lecturer to repeat this distinction at the next training session. If volunteers understood the limit, they were less likely to risk their health for an impossible promise.",
+    "nextChapterOpeningEnglish": "On the morning of Min's hearing, the city museum hosted a public ballet performance. The dancers had offered their rehearsal as a safe timing test because their movements were precise and repeatable. Ning arrived with a battery-powered sensor and a thoughtful warning: the performers were not human generators, and no one would be pushed to dance longer than planned. A physician checked that the floor was secure. One dancer chewed a piece of bread while waiting, and another fetched water from the hall. Their ordinary preparation mattered. An admirable performance would not justify exhausting the people who created it, no matter how gigantic the shield graph looked on the screen."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The first storm memorial stood at the edge of the old training ground. Every year the city held a reunion for surviving fighters, but rarely invited the maintenance crews whose work had kept the shelters open. Lei brought Ning to the ceremony and asked for assistance in changing the program. Some veterans were reluctant. They believed a memorial should honor sacrifice, not describe faulty equipment or embarrassing decisions. Ning said their courage was real, but the city had reached enough maturity to remember a tragedy honestly. The figures showed that more residents had been saved by early evacuation than by the final duel. The statistic did not diminish anyone who had fought; it explained why advance warning mattered.",
+        "zh": "第一場風暴紀念碑立在舊訓練場邊。城市每年為倖存武者舉行團聚，卻很少邀請維持避難所運作的維修工班。雷川帶沈寧來參加儀式，請她協助修改流程。有些老兵不情願，認為紀念碑應頌揚犧牲，不該談設備錯誤或令人難堪的決策。沈寧說他們的勇氣是真的，但城市應已成熟到能誠實記住悲劇。統計顯示，及早疏散救下的居民比最終決鬥更多。數字不是貶低戰鬥者，而是解釋預警為何重要。",
+        "englishSha256": "ea692b1de0770c791e11c1a26b5ec7986453a598b9b51689432e0b339f3fa192",
+        "chineseSha256": "3379de8192750ef58046aad1342da778214e4986571f323624361a8425111a40"
+      },
+      {
+        "number": 2,
+        "en": "A retired announcer tried to demonstrate the old victory speech. He spoke with practiced wit, but the repetition of heroic phrases no longer matched the new records. A woman in the audience stood up and said her husband had died while repairing a shield cable elsewhere, far from the cameras. His name did not appear on the memorial. Lei listened without interrupting. He had once quarreled with that man's team over a delayed inspection. He apologized and offered to help correct the name list. Ning advised him not to promise an immediate result. The memorial committee would need the worker's records and the family's consent before changing the public inscription. Respect included careful verification.",
+        "zh": "一名退休播報員示範舊日勝利演說，口才機智熟練，反覆的英雄語句卻已不符合新紀錄。觀眾席中一名女子站起，說丈夫在遠離鏡頭的另一區修理屏障纜線時去世，名字沒有刻在紀念碑。雷川安靜聽著。他曾因巡檢延誤和那個工班爭吵，如今道歉並願協助更正名單。沈寧提醒他別承諾立刻完成。紀念委員會需要工人紀錄和家屬同意，才能更改公開刻字。尊重也包含仔細查證。",
+        "englishSha256": "d85af535cfee8a3b574fa32f1fece63a2a1060437e145b1c0bf68d3720ed2ffc",
+        "chineseSha256": "db21f50301d0b8961c0a01f7d27c4ff8fe1748f73c8edc09f3871655532a6a37"
+      },
+      {
+        "number": 3,
+        "en": "The committee had an old fax machine, and Han helped retrieve copies of the repair orders from its archive. One page was blurred, another had been polished until the ink was nearly gone, and a third carried the worker's signature. Together they were adequate to begin a review but not enough for a final judgment. The family agreed to provide another copy. Meanwhile the arena director offered a large donation if the program kept the original ranking ceremony unchanged. Lei refused to trade the names for money. He had overcome his belief that honoring fighters required ignoring everyone else. He asked the announcer to read the names of the rescue teams as well as the champions.",
+        "zh": "委員會有一臺舊傳真機，韓瑜協助從檔案裡找回維修命令的副本。一張模糊、一張被擦拭到字跡幾乎消失，第三張有工人簽名。這些材料足以展開複核，卻還不足作最終判斷。家屬同意再提供另一份。此時競技場主任提出大筆捐款，條件是維持原有排名典禮。雷川拒絕用名單換錢。他已克服「尊敬武者就必須忽略其他人」的想法，請播報員除了冠軍，也念出救援隊的名字。",
+        "englishSha256": "fa230fc80b0206b03b140158c47ae9e36f83720e3b0e4bb712e57855d4ef4f9d",
+        "chineseSha256": "ba47cac6c05d5b9a922e079c05e3e86bf0fca29699830e37e4e9afec184af2b9"
+      },
+      {
+        "number": 4,
+        "en": "The nurse who had considered resignation came from the shelter to speak. She described the families who survived because doors had opened early and beds had been distributed fairly. Her speech was agreeable without being flattering. When a council member tried to interrupt, the audience asked him to listen. Ning felt the room change. People did not have to agree about every decision to recognize the same human cost. The memorial board voted to begin a public review of its inscriptions, with private information protected until families approved release. The decision would take time. Lei accepted that delay. This was not an arena match, where a single loud signal could declare a winner.",
+        "zh": "曾考慮辭職的護理師從避難所前來發言，描述那些因為門提早打開、床位公平分配而活下來的家庭。她的話親切卻不諂媚。一名議員試圖插話，觀眾請他先聽完。沈寧感到房間的氣氛改變了。人們不必對每項決策意見一致，也能承認同樣的人命代價。紀念委員會投票展開刻字公開複核，家屬同意之前仍保護私人資訊。這需要時間，雷川接受了。這不是一聲訊號就能宣布勝者的競技比賽。",
+        "englishSha256": "a4dae8dbafdf87b798672427090e66bb75399ff59b6670034250787705ee3a0c",
+        "chineseSha256": "5258e1ab319032527409409ae1b7c8b6efba2e26789ce323818f1aef549576bd"
+      },
+      {
+        "number": 5,
+        "en": "Outside the ceremony, Ning found Min staring at a new message on her phone. The central tower's manager had demanded that Min resign from the city maintenance office or lose access to the arena's equipment data. The demand was illegal under the temporary council agreement, but enforcing that agreement would require witnesses. Min did not want another public quarrel. Ning offered to stand beside her while she filed a complaint, then made clear that the decision belonged to Min. After a long silence, Min chose to report the threat. The next morning she would face the manager with two witnesses and a copy of the signed rules. For the first time, Ning worried about the storm less than she worried about a friend standing alone.",
+        "zh": "儀式外，沈寧看到敏敏盯著手機裡的新訊息。中央塔經理要求她辭去市府維修職務，否則就失去存取競技場設備資料的權利。依照議會臨時協議，這項要求違規，但執行規則需要證人。敏敏不想再公開爭吵。沈寧說如果她要提出申訴，自己願意陪同，也清楚表示決定權在敏敏。沉默很久後，敏敏選擇通報威脅。隔天她將帶著兩名證人和簽署規則的副本面對經理。沈寧第一次對朋友孤身應戰的擔憂，比對風暴還強。",
+        "englishSha256": "3c88332f41782b35e553711e7873ebce78dde4c75aec9114987755a7da602aad",
+        "chineseSha256": "931a4835754ad566ddd67d60c2afa1ed820566259141831cbaed79102f900034"
+      },
+      {
+        "number": 6,
+        "en": "Before the witnesses left, the worker's daughter took a lipstick from her bag and marked a name on her private copy of the memorial list. She did not write on the public stone. Ning respected that difference. A family's memory could be intimate and immediate, while an official correction required records and consent. Both acts could honor the same person without being confused with one another.",
+        "zh": "證人離開前，工人的女兒從包裡拿出口紅，在私人紀念名單副本上圈出一個名字。她沒有在公共石碑上寫字。沈寧尊重這個差別。家人的記憶可以親密而直接，正式更正則需要紀錄與同意。兩者都能紀念同一人，不必混為一談。",
+        "englishSha256": "6c34b7d00c670c44121e140fb3c2af645ed403778123bc245e5013acfe08d6ab",
+        "chineseSha256": "3778a26d371cdbab97e82915255f9330f2b35e38552fcbc77690615240821835"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 652,
+    "targets": [
+      {
+        "word": "adequate",
+        "meaning": "足夠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "agreeable",
+        "meaning": "宜人的",
+        "appearsInSource": true
+      },
+      {
+        "word": "assistance",
+        "meaning": "協助",
+        "appearsInSource": true
+      },
+      {
+        "word": "demonstrate",
+        "meaning": "示範",
+        "appearsInSource": true
+      },
+      {
+        "word": "elsewhere",
+        "meaning": "別處",
+        "appearsInSource": true
+      },
+      {
+        "word": "fax",
+        "meaning": "傳真",
+        "appearsInSource": true
+      },
+      {
+        "word": "lipstick",
+        "meaning": "口紅",
+        "appearsInSource": true
+      },
+      {
+        "word": "maturity",
+        "meaning": "成熟",
+        "appearsInSource": true
+      },
+      {
+        "word": "memorial",
+        "meaning": "紀念碑",
+        "appearsInSource": true
+      },
+      {
+        "word": "overcome",
+        "meaning": "克服",
+        "appearsInSource": true
+      },
+      {
+        "word": "polished",
+        "meaning": "拋光",
+        "appearsInSource": true
+      },
+      {
+        "word": "quarreled",
+        "meaning": "爭吵",
+        "appearsInSource": true
+      },
+      {
+        "word": "reluctant",
+        "meaning": "不情願的",
+        "appearsInSource": true
+      },
+      {
+        "word": "repetition",
+        "meaning": "重複",
+        "appearsInSource": true
+      },
+      {
+        "word": "resign",
+        "meaning": "辭職",
+        "appearsInSource": true
+      },
+      {
+        "word": "reunion",
+        "meaning": "團聚",
+        "appearsInSource": true
+      },
+      {
+        "word": "sacrifice",
+        "meaning": "犧牲",
+        "appearsInSource": true
+      },
+      {
+        "word": "statistic",
+        "meaning": "統計資料",
+        "appearsInSource": true
+      },
+      {
+        "word": "tragedy",
+        "meaning": "悲劇",
+        "appearsInSource": true
+      },
+      {
+        "word": "wit",
+        "meaning": "機智",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the memorial review aim to correct?",
+      "options": [
+        "The omission of maintenance and rescue workers from the records.",
+        "The color of the arena seats.",
+        "The price of championship tickets."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The omission of maintenance and rescue workers from the records.",
+      "existingAnswerExplanation": "舊紀念名單忽略維修和救援工班，委員會開始公開複核。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "A retired announcer tried to demonstrate the old victory speech. He spoke with practiced wit, but the repetition of heroic phrases no longer matched the new records. A woman in the audience stood up and said her husband had died while repairing a shield cable elsewhere, far from the cameras. His name did not appear on the memorial. Lei listened without interrupting. He had once quarreled with that man's team over a delayed inspection. He apologized and offered to help correct the name list. Ning advised him not to promise an immediate result. The memorial committee would need the worker's records and the family's consent before changing the public inscription. Respect included careful verification.",
+          "chinese": "一名退休播報員示範舊日勝利演說，口才機智熟練，反覆的英雄語句卻已不符合新紀錄。觀眾席中一名女子站起，說丈夫在遠離鏡頭的另一區修理屏障纜線時去世，名字沒有刻在紀念碑。雷川安靜聽著。他曾因巡檢延誤和那個工班爭吵，如今道歉並願協助更正名單。沈寧提醒他別承諾立刻完成。紀念委員會需要工人紀錄和家屬同意，才能更改公開刻字。尊重也包含仔細查證。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 1,
+          "english": "The first storm memorial stood at the edge of the old training ground. Every year the city held a reunion for surviving fighters, but rarely invited the maintenance crews whose work had kept the shelters open. Lei brought Ning to the ceremony and asked for assistance in changing the program. Some veterans were reluctant. They believed a memorial should honor sacrifice, not describe faulty equipment or embarrassing decisions. Ning said their courage was real, but the city had reached enough maturity to remember a tragedy honestly. The figures showed that more residents had been saved by early evacuation than by the final duel. The statistic did not diminish anyone who had fought; it explained why advance warning mattered.",
+          "chinese": "第一場風暴紀念碑立在舊訓練場邊。城市每年為倖存武者舉行團聚，卻很少邀請維持避難所運作的維修工班。雷川帶沈寧來參加儀式，請她協助修改流程。有些老兵不情願，認為紀念碑應頌揚犧牲，不該談設備錯誤或令人難堪的決策。沈寧說他們的勇氣是真的，但城市應已成熟到能誠實記住悲劇。統計顯示，及早疏散救下的居民比最終決鬥更多。數字不是貶低戰鬥者，而是解釋預警為何重要。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How did Min respond to the manager's threat?",
+      "options": [
+        "She resigned without telling anyone.",
+        "She chose to report it with witnesses.",
+        "She deleted all repair records."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "She chose to report it with witnesses.",
+      "existingAnswerExplanation": "敏敏保留選擇權，最後帶證人和規則副本提出申訴。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Outside the ceremony, Ning found Min staring at a new message on her phone. The central tower's manager had demanded that Min resign from the city maintenance office or lose access to the arena's equipment data. The demand was illegal under the temporary council agreement, but enforcing that agreement would require witnesses. Min did not want another public quarrel. Ning offered to stand beside her while she filed a complaint, then made clear that the decision belonged to Min. After a long silence, Min chose to report the threat. The next morning she would face the manager with two witnesses and a copy of the signed rules. For the first time, Ning worried about the storm less than she worried about a friend standing alone.",
+          "chinese": "儀式外，沈寧看到敏敏盯著手機裡的新訊息。中央塔經理要求她辭去市府維修職務，否則就失去存取競技場設備資料的權利。依照議會臨時協議，這項要求違規，但執行規則需要證人。敏敏不想再公開爭吵。沈寧說如果她要提出申訴，自己願意陪同，也清楚表示決定權在敏敏。沉默很久後，敏敏選擇通報威脅。隔天她將帶著兩名證人和簽署規則的副本面對經理。沈寧第一次對朋友孤身應戰的擔憂，比對風暴還強。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 6,
+          "english": "Before the witnesses left, the worker's daughter took a lipstick from her bag and marked a name on her private copy of the memorial list. She did not write on the public stone. Ning respected that difference. A family's memory could be intimate and immediate, while an official correction required records and consent. Both acts could honor the same person without being confused with one another.",
+          "chinese": "證人離開前，工人的女兒從包裡拿出口紅，在私人紀念名單副本上圈出一個名字。她沒有在公共石碑上寫字。沈寧尊重這個差別。家人的記憶可以親密而直接，正式更正則需要紀錄與同意。兩者都能紀念同一人，不必混為一談。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

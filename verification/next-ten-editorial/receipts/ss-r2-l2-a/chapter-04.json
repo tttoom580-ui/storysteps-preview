@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 4,
+  "chapterId": "ss-r2-l2-a-4",
+  "sourceChapterSha256": "d98d57954334b1b819c609cfb3a9f8bc7a7abe9de417771ea0dd025c19ca7ae5",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "水泵熱管與壓力閥發生危險，睿請柏疏散，合格操作員停機後才安全復位，避免鼓勵冒險操作。",
+    "previousChapterEndingEnglish": "As the students left, Han handed Yan a written order forbidding any further work at the tunnel. Rui saw the red school mark at the bottom. He also saw something else: the order carried yesterday's date, before Han could have known about the photograph at the door. That meant the school had planned to close the tunnel before this trial began. Rui told Mei in a low voice. She wrote down the date, then folded the paper away. They had won a little time, not the whole fight. Outside the hall, a clear evening sky promised good weather for the next repair.",
+    "nextChapterOpeningEnglish": "The news spread through the village by morning. Some people were excited that a hidden pipe had been found. Others feared that Han would punish anyone who spoke about it. A young woman from the mountain college arrived with her fellow students to ask questions. She wore a thick sweater and carried a small camera. Her name was Lan, and she studied machine production. “A machine's feature is not the same as its function,” she told Rui. “It may look perfect in a picture and still fail the people who use it.” Rui liked the way she spoke, because she seemed more interested in facts than in the school's pride."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The next morning, Rui and Mei followed a narrow path through the woods toward the mountain reservoir. Old Bo walked with them and carried a basket of papaya from his garden. He had heard that several children in the village were ill, and he feared that dirty water might spread disease. “Our population is small,” he said, “but every family needs safe water.” A branch of the river used to pass his home. Now only wet stones remained. Rui tried to imagine the entire river network as a machine. If one part had stopped, where had the water gone?",
+        "zh": "隔天早上，睿和梅沿著林中窄路走向山上的蓄水池。老柏陪著他們，背著一籃自家種的木瓜。他聽說村裡幾個孩子病了，擔心髒水會傳播疾病。「村子人口雖少，」他說，「但每個家庭都需要乾淨的水。」以前有條支流經過他家，如今只剩潮濕的石頭。睿努力把整張河道網想成一部機器。如果其中一段停止運作，水流去了哪裡？",
+        "englishSha256": "fc0b23776204da0ca484b3b81234d9e10544764eac7d024370b1f29ebb0df70d",
+        "chineseSha256": "0886226b2e40ec1a3e950b4eb812f4d8bf2422873c2d475bccabd6e389be646f"
+      },
+      {
+        "number": 2,
+        "en": "At the reservoir they met a woman wearing the school's brown coat. She was Director Lin, the person responsible for measuring water levels. She did not seem pleased to see them, but she agreed to answer simple questions. Rui asked for the score used to judge each gate. Lin showed them a chart with marks from one to ten. The main gate had a score of four, and the second gate had a score of zero. “A zero means nothing can pass,” she said. Mei pointed out that their tunnel map showed a wide pipe below that gate. Lin said the drawing was old and not worth trusting.",
+        "zh": "在蓄水池，他們遇見穿著山門棕色外套的林主任。她負責測量水位，看見三人似乎不太高興，但仍同意回答簡單問題。睿問各道水閘怎麼評分。林拿出一張從一到十標記的圖表。主水閘得四分，第二道得零分。「零分表示什麼都通不過，」她說。梅指出他們的隧道地圖在那道水閘下方畫著寬水管。林說圖太舊，不值得信任。",
+        "englishSha256": "c2ed02c654cf8b67f9400077d2ec16ed50efca0272257f76379b842e71da96c8",
+        "chineseSha256": "34db4373615814af4df34ba4f436c37cc7e3fe4711c8fcddb63fc3d3ba190c0e"
+      },
+      {
+        "number": 3,
+        "en": "Rui asked permission to examine the wooden cover beside the second gate. Lin hesitated, then nodded. The wood was new, but the screws underneath were much older. A thin metal pipe ran behind the cover. Rui cut his finger on its rough edge, and a drop of blood marked his sleeve. He cleaned the small wound and kept working. The pipe was warm, although the reservoir water was cold. This made no sense until he remembered the steam machines near the school farms. “The pipe may lead uphill,” he said. Bo looked surprised. “Water cannot climb a hill by itself.”",
+        "zh": "睿請求檢查第二道水閘旁的木蓋。林遲疑了一下，點頭答應。木頭很新，下面的螺絲卻老得多。蓋板後面有一條細金屬管。睿的手指被粗糙邊緣割傷，一滴血落在袖子上。他清理小傷口後繼續工作。管子是溫的，蓄水池的水卻冰涼。睿一開始不明白，直到他想到山門農場旁的蒸汽機。「這條管可能通往山上，」他說。柏很驚訝：「水不會自己爬坡。」",
+        "englishSha256": "34363dd33046ae5a49052040c1c823a7c576258e666df0183d6db96d07d4ba38",
+        "chineseSha256": "66f739cb76dd5418e68694b3205bc4ea79c19778a8ab6dc562691215efdb9fe2"
+      },
+      {
+        "number": 4,
+        "en": "“Not by itself,” Rui answered. “But a pump can lift it.” Mei placed the school map beside their tunnel drawing and tried to combine the two pictures. A hidden line ran toward a private growing house behind the school. Rui's target was no longer the closed gate. It was the hidden pipe. He could sense warm air through a crack in the stone, and he heard a steady beat like a small engine. Han had claimed that there was not enough water for the village, yet someone was moving water uphill. They needed to see where the line ended before they accused anyone.",
+        "zh": "「靠它自己不行，」睿回答，「但水泵能把水往上送。」梅把山門地圖和隧道圖放在一起，試著合併兩張圖。圖上有條隱藏的線通往山門後方的私人溫室。睿現在要查的目標不再只是封住的水閘，而是那條暗管。他能感到石縫裡的暖氣，也聽見像小引擎一樣的穩定聲響。韓聲稱村子缺水，卻有人把水往山上送。他們必須先看見管線終點，才能指控任何人。",
+        "englishSha256": "1f3fe0d449b797b6f2d8bc293f0fe557d13740b7f98edd56fdaec5b98e16772c",
+        "chineseSha256": "72f005b4a6361ea872d34e650c4b419d068bf2ca5223aebcca987d3028e2fac0"
+      },
+      {
+        "number": 5,
+        "en": "Director Lin watched them pack their tools. “Han says the school farms will feed many people,” she said. “His plan may still do good.” Bo did not answer with anger. He took a hamburger from his bag, split it in three, and offered the pieces to the others. He was a generous man even when food was short. “A farm that feeds one group by taking water from another is not a fair plan,” he said. Lin looked down at her chart. She admitted that the school had never asked the villagers how much water they needed. That fact troubled her more than Rui's questions.",
+        "zh": "林主任看著他們收拾工具。「韓說山門農場能餵飽很多人，」她說，「他的計畫可能還是有好處。」柏沒有生氣反駁。他從袋子裡拿出漢堡，切成三份請大家吃。即使食物短缺，他仍是慷慨的人。「拿走另一群人的水來餵養自己人的農場，不是公平的計畫，」他說。林低頭看著圖表，承認山門從未問過村民實際需要多少水。這個事實，比睿的問題更令她不安。",
+        "englishSha256": "423bd75815bd43a48a85a0593445c5d82cdfc373280329855443f0041e69acc9",
+        "chineseSha256": "0b29eef49d0e115d27ba7b0ec5151c1542eba0a818aaa880901f06b0b3359e9c"
+      },
+      {
+        "number": 6,
+        "en": "As they turned to leave, a loud hiss came from the covered pipe. Steam rushed out and the pressure began to rise. Rui saw that a valve handle had slipped out of place. If it broke, hot water could escape into the path. He asked Bo to lead everyone away from the hot pipe. Director Lin summoned the trained station operator and shut down the pump while Mei warned people to stay clear of the steam. Only after the pressure gauge dropped did the operator secure the slipped handle. The hiss faded. Rui's knees shook; he had not won a title or performed a miracle. They had prevented an injury by knowing when not to touch a dangerous machine.",
+        "zh": "他們正準備離開，蓋住的管子突然發出尖銳嘶聲。蒸汽衝出，壓力開始上升。睿發現一個閥門把手滑離原位。如果閥門破裂，熱水可能噴到小路上。他請柏帶大家遠離高溫水管。林主任找來受過訓練的站務操作員，先停止水泵運轉；梅提醒所有人避開蒸汽。直到壓力表顯示壓力下降，操作員才固定滑脫的把手。嘶聲終於停了。睿的膝蓋仍在發抖；他沒有獲得頭銜，也沒施展奇蹟。他們靠的是知道什麼時候不該碰危險的機器，才阻止了傷害。",
+        "englishSha256": "350c1b7ad48f844883c6991473bb195fd578614062b48bc13c9220b26cdf33eb",
+        "chineseSha256": "1095ada107fc611f5737a17f5906cf6cce29c40b9e20aa1d00f204b66cee50ee"
+      },
+      {
+        "number": 7,
+        "en": "Later, Mei made three copies of their drawings. She gave one to Bo, one to Rui, and one to Director Lin. “If one copy disappears, the others will remain,” she explained. Lin took hers without a smile. She promised to check the water scores again, but said she could not act alone. Rui understood. This problem had many parts: material, money, public need, and the rules of the school. Therefore, the next repair could not be a secret job by two young people. It would require witnesses who knew what they had seen and why it mattered.",
+        "zh": "後來，梅把他們的圖複製成三份，分別交給柏、睿和林主任。「只要還有其他副本，一份不見就不會失去全部證據，」她解釋。林面無笑容地收下，答應重新檢查水位評分，但表示她不能單獨行動。睿理解。問題包含許多部分：材料、金錢、公共需求，還有山門的規則。因此，下次修理不能再只是兩名年輕人的祕密行動。它需要知道自己看到了什麼、也明白重要性的證人。",
+        "englishSha256": "6aab4507f9e9e2a6135dc7c5243f239e426c5d57c8ec6b2bd472aa978c04af7f",
+        "chineseSha256": "41c69e8f2c0ddb3ea7d7385c2ddb3dca82729915823e7ae6946a259ef22e292d"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 731,
+    "targets": [
+      {
+        "word": "blood",
+        "meaning": "血",
+        "appearsInSource": true
+      },
+      {
+        "word": "branch",
+        "meaning": "支流",
+        "appearsInSource": true
+      },
+      {
+        "word": "combine",
+        "meaning": "合併",
+        "appearsInSource": true
+      },
+      {
+        "word": "Director",
+        "meaning": "主任",
+        "appearsInSource": true
+      },
+      {
+        "word": "disease",
+        "meaning": "疾病",
+        "appearsInSource": true
+      },
+      {
+        "word": "entire",
+        "meaning": "全部的",
+        "appearsInSource": true
+      },
+      {
+        "word": "escape",
+        "meaning": "洩漏",
+        "appearsInSource": true
+      },
+      {
+        "word": "generous",
+        "meaning": "慷慨的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hamburger",
+        "meaning": "漢堡",
+        "appearsInSource": true
+      },
+      {
+        "word": "imagine",
+        "meaning": "想像",
+        "appearsInSource": true
+      },
+      {
+        "word": "material",
+        "meaning": "材料",
+        "appearsInSource": true
+      },
+      {
+        "word": "network",
+        "meaning": "水網",
+        "appearsInSource": true
+      },
+      {
+        "word": "papaya",
+        "meaning": "木瓜",
+        "appearsInSource": true
+      },
+      {
+        "word": "population",
+        "meaning": "人口",
+        "appearsInSource": true
+      },
+      {
+        "word": "score",
+        "meaning": "評分",
+        "appearsInSource": true
+      },
+      {
+        "word": "sense",
+        "meaning": "感覺到",
+        "appearsInSource": true
+      },
+      {
+        "word": "target",
+        "meaning": "目標",
+        "appearsInSource": true
+      },
+      {
+        "word": "Therefore",
+        "meaning": "因此",
+        "appearsInSource": true
+      },
+      {
+        "word": "woods",
+        "meaning": "木材",
+        "appearsInSource": true
+      },
+      {
+        "word": "worth",
+        "meaning": "值得",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the warm pipe suggest?",
+      "options": [
+        "Water was being pumped uphill",
+        "The reservoir had frozen",
+        "The village had too much water"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Water was being pumped uphill",
+      "existingAnswerExplanation": "溫熱的管線與引擎聲顯示有人用機器將水抽往高處。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Rui asked permission to examine the wooden cover beside the second gate. Lin hesitated, then nodded. The wood was new, but the screws underneath were much older. A thin metal pipe ran behind the cover. Rui cut his finger on its rough edge, and a drop of blood marked his sleeve. He cleaned the small wound and kept working. The pipe was warm, although the reservoir water was cold. This made no sense until he remembered the steam machines near the school farms. “The pipe may lead uphill,” he said. Bo looked surprised. “Water cannot climb a hill by itself.”",
+          "chinese": "睿請求檢查第二道水閘旁的木蓋。林遲疑了一下，點頭答應。木頭很新，下面的螺絲卻老得多。蓋板後面有一條細金屬管。睿的手指被粗糙邊緣割傷，一滴血落在袖子上。他清理小傷口後繼續工作。管子是溫的，蓄水池的水卻冰涼。睿一開始不明白，直到他想到山門農場旁的蒸汽機。「這條管可能通往山上，」他說。柏很驚訝：「水不會自己爬坡。」",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 4,
+          "english": "“Not by itself,” Rui answered. “But a pump can lift it.” Mei placed the school map beside their tunnel drawing and tried to combine the two pictures. A hidden line ran toward a private growing house behind the school. Rui's target was no longer the closed gate. It was the hidden pipe. He could sense warm air through a crack in the stone, and he heard a steady beat like a small engine. Han had claimed that there was not enough water for the village, yet someone was moving water uphill. They needed to see where the line ended before they accused anyone.",
+          "chinese": "「靠它自己不行，」睿回答，「但水泵能把水往上送。」梅把山門地圖和隧道圖放在一起，試著合併兩張圖。圖上有條隱藏的線通往山門後方的私人溫室。睿現在要查的目標不再只是封住的水閘，而是那條暗管。他能感到石縫裡的暖氣，也聽見像小引擎一樣的穩定聲響。韓聲稱村子缺水，卻有人把水往山上送。他們必須先看見管線終點，才能指控任何人。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Mei make three copies of the drawings?",
+      "options": [
+        "To sell them at the market",
+        "To keep evidence safe",
+        "To decorate the school"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "To keep evidence safe",
+      "existingAnswerExplanation": "分散保存圖紙能避免單一副本遺失而失去全部證據。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "Later, Mei made three copies of their drawings. She gave one to Bo, one to Rui, and one to Director Lin. “If one copy disappears, the others will remain,” she explained. Lin took hers without a smile. She promised to check the water scores again, but said she could not act alone. Rui understood. This problem had many parts: material, money, public need, and the rules of the school. Therefore, the next repair could not be a secret job by two young people. It would require witnesses who knew what they had seen and why it mattered.",
+          "chinese": "後來，梅把他們的圖複製成三份，分別交給柏、睿和林主任。「只要還有其他副本，一份不見就不會失去全部證據，」她解釋。林面無笑容地收下，答應重新檢查水位評分，但表示她不能單獨行動。睿理解。問題包含許多部分：材料、金錢、公共需求，還有山門的規則。因此，下次修理不能再只是兩名年輕人的祕密行動。它需要知道自己看到了什麼、也明白重要性的證人。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "The next morning, Rui and Mei followed a narrow path through the woods toward the mountain reservoir. Old Bo walked with them and carried a basket of papaya from his garden. He had heard that several children in the village were ill, and he feared that dirty water might spread disease. “Our population is small,” he said, “but every family needs safe water.” A branch of the river used to pass his home. Now only wet stones remained. Rui tried to imagine the entire river network as a machine. If one part had stopped, where had the water gone?",
+          "chinese": "隔天早上，睿和梅沿著林中窄路走向山上的蓄水池。老柏陪著他們，背著一籃自家種的木瓜。他聽說村裡幾個孩子病了，擔心髒水會傳播疾病。「村子人口雖少，」他說，「但每個家庭都需要乾淨的水。」以前有條支流經過他家，如今只剩潮濕的石頭。睿努力把整張河道網想成一部機器。如果其中一段停止運作，水流去了哪裡？",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

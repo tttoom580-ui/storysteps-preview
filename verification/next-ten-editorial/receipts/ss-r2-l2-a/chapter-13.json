@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 13,
+  "chapterId": "ss-r2-l2-a-13",
+  "sourceChapterSha256": "bb50d756f78a05fbfb2c7465699375260a056f582a82a66b9a880272a3cb8b44",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "陶的金屬銘牌與實驗室轉送清單對上，顯示原始零件曾按程序移動；需追查保管環節。",
+    "previousChapterEndingEnglish": "That night they stayed in a small guesthouse. Rui could hear buses moving outside and was too tired to speak. He checked the money one last time and placed the account beside his bed. The trip had cost less than he expected, though the answers were less simple than he had hoped. Mei asked if he regretted coming. “No,” he said. “I want to know exactly what happened, even if it makes our case harder.” He closed the folder and slept. Tomorrow they would return to the village with more questions, but also with a clear direction for the next stage.",
+    "nextChapterOpeningEnglish": "The old laboratory had once been a busy place, but now only a few rooms were used. Lan led Rui and Mei upstairs to an office where a deaf engineer named Teacher Wen kept the older machine drawings. Wen greeted them with a wave and asked them to write their questions on a large board. He could read lips in good light, but preferred clear written words when details mattered. Rui showed him the metal plate. Wen studied the mark near its edge and drew a small dragon beside it. “The dragon mark belongs to the first safety team,” he wrote. “Your father worked with us.”"
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On their return, Mei found a new message from a retired sailor who had once carried goods along the lower stream. The man owned a small motorcycle repair shop and knew the old water machines. He had heard about their search and said he remembered a missing paper. Rui went to see him that afternoon. The shop was crowded with parts and tools, and a cartoon of a smiling fish hung on the wall. The sailor, Uncle Tao, laughed when Rui stared at it. “A young artist painted that for me,” he said. “It reminds me not to become ugly inside when work becomes difficult.”",
+        "zh": "回村後，梅收到一位退休水手的訊息。那人以前沿下游運貨，現在開小型機車修理店，熟悉舊式水力機械。他聽說調查，表示記得一張消失的紙。睿當天下午去找他。店裡堆滿零件與工具，牆上掛著一幅微笑魚的卡通畫。睿盯著畫看，陶叔笑了。「年輕畫家替我畫的，」他說，「提醒我工作再難，也不要讓自己心裡變醜。」",
+        "englishSha256": "2ea5876be71e061a34b500d213880ba3ff5296e8b737770b57f5718ede79589e",
+        "chineseSha256": "4f24ab351cc25a14d1b051a8598ee9a25a9d956788f633ecc5fe6fa440e8f4af"
+      },
+      {
+        "number": 2,
+        "en": "Tao opened an old wooden chest and took out a metal plate. A small hole had been drilled at one edge. “Your father made this,” he said. “He asked me to keep it because a thief might take the paper from the archive.” Rui did not know whether to believe the story. He asked Tao to explain exactly when and where the plate had been made. Tao thought for a moment and gave a date that matched the year of the mountain accident. He said a narrow stream had stopped flowing the following week. “That is when I began to consider something was wrong,” he said.",
+        "zh": "陶打開舊木箱，取出一塊金屬板。板邊鑽了小孔。「這是你父親做的，」他說，「他請我保管，因為有人可能從檔案庫偷走紙張。」睿不知道是否該相信，便問陶板子究竟何時何地製作。陶想了一下，說出與山中事故同年的日期。他說下一週一條窄水道就停止流動。「那時我開始考慮，事情恐怕不對，」他說。",
+        "englishSha256": "ed34b2e95a8d3cb7dffaa5b7e44c4f9dff4676c1743d1c893827d4a7df961f66",
+        "chineseSha256": "3c855278db4e5e304d67d58ec2e6f8097a4e128f8ea66fad4b2f43a53efc07c7"
+      },
+      {
+        "number": 3,
+        "en": "The plate was not a complete page, but it had lines cut into its surface. Rui lowered it toward a lamp and saw numbers between the marks. Mei looked through her notes. The numbers were part of the old water table. They showed a lower safe limit for the village, even during a dry season. “This is not a new technology,” Rui said. “It is an environmental rule made long ago.” Tao nodded. “The river feeds the soil before it feeds the school,” he said. “Your father would not separate those two needs without a good reason.”",
+        "zh": "金屬板不是完整書頁，表面卻刻有線條。睿把它放低靠近燈光，看見刻痕之間的數字。梅翻查筆記，那些數字屬於舊水量表，顯示即使在乾季，村子也必須保有的最低安全供水量。「這不是新技術，」睿說，「而是很久以前訂下的環境規則。」陶點頭：「河流先養土地，才養山門。你父親不會無故把兩種需求分開。」",
+        "englishSha256": "b7365b3a52920c9eacb55a11697ab0e8ec7b24a615a50237f134588420ffd492",
+        "chineseSha256": "5e85cef96f9a6b8b7f268889ce592e8b223de0f9db1abd257ad31001d5b2e0b6"
+      },
+      {
+        "number": 4,
+        "en": "They went to the river and compared the plate with a mark beside the bank. The mark matched the lower limit exactly. Rui could now conclude that the old system had a clear safety rule, but he still needed the missing written instruction. “Anyway, we have part of it,” Mei said. Rui smiled, then took another view of the problem. If the metal plate was a guide to safe water levels, the paper might be kept wherever the school stored machine tests. Tao suggested the old laboratory behind the mountain road. He knew a worker there who might remember the same mark.",
+        "zh": "他們到河邊，把金屬板和河岸刻痕比較，發現最低限度的標記完全吻合。睿現在能下結論：舊系統確實有清楚的安全規則，但還需要失去的書面指示。「不管怎樣，我們至少找到一部分，」梅說。睿微笑，再從另一個角度看問題。若金屬板是安全水位的指引，那張紙也許保存在山門存放機器測試的地方。陶建議去山路後方的舊實驗室，他認識一位可能記得這個標記的工人。",
+        "englishSha256": "1d402d30a5b1f7789437db0f7a62f0436bd83e7cd0f686fd9a42c42a5ecbe161",
+        "chineseSha256": "38e164201117314681cb41551ba3a61b676415835d473fbb328d4989825ae96a"
+      },
+      {
+        "number": 5,
+        "en": "On their way to the laboratory, Rui's stomachache returned. He had eaten too quickly and worried that he might be getting the flu. Mei made him rest under a tree and drink water slowly. “Even a good machine needs care,” she told him. Rui laughed weakly. Across the road, a farmer was planting seeds in wet soil, pleased that a small flow had returned. The scene made Rui feel hopeful. He was not seeking praise from heaven or a great name. He wanted the everyday things around him to work without fear. That made the next step worth taking.",
+        "zh": "前往實驗室途中，睿又胃痛了。他吃得太快，也擔心是不是得了流感。梅要他在樹下休息，慢慢喝水。「再好的機器也需要照顧，」她告訴他。睿虛弱地笑了。路對面，一位農夫正把種子埋進濕土，為回來的一點水感到高興。這情景讓睿充滿希望。他追求的不是上天的讚美或偉大名聲，而是身邊的日常事物能不再令人害怕地運作。這值得他繼續前進。",
+        "englishSha256": "76c67e5bdc2fb1f21b2d060e93c258fd243c5f7cd2846060758a8f76a23f8771",
+        "chineseSha256": "e72b289add3f359dfff34b89db8642aef863346d713e955d237c2ecff3126750"
+      },
+      {
+        "number": 6,
+        "en": "At the laboratory, they found a room full of old equipment. A young worker said most papers had been moved out years before. He showed them a box of broken parts and a list of the items removed. One line mentioned an instruction page with the same metal mark. The next line was crossed out, and a note said “Transferred by order.” There was no name. Rui did not call the worker a thief. He only asked for a copy of the list and the date of the transfer. The worker agreed, saying that he had always wondered why that one page mattered.",
+        "zh": "在實驗室裡，他們找到一間放滿舊設備的房間。一名年輕工人說，大部分文件多年前就搬走了。他拿出壞零件箱與移出物品清單，其中一行提到帶有相同金屬記號的操作指示頁。下一行被劃掉，旁邊寫著「依命令移交」，卻沒姓名。睿沒有說工人是小偷，只要求複製清單與移交日期。工人同意，說他也一直不懂那張紙為何如此重要。",
+        "englishSha256": "39c5be7432a8eb63580169fcb55ac326399d930145963d9dadedfa89d799a6e0",
+        "chineseSha256": "0b665412704213c1b6bad3b13662ffac42b1621bdc2e18ce45cdc566b1f98ac5"
+      },
+      {
+        "number": 7,
+        "en": "As evening came, Rui put all the new notes in order. The public agreement, Fen's model, Tao's plate, and the laboratory list each added one part. None was a full answer alone. Mei told him that this was why they needed consideration, not only courage. They had to think about what each witness could know and what each record could show. Rui closed the notebook and looked at the river through the window. The road to the truth was no longer a single straight path. It was a network, and he was finally learning how to follow it.",
+        "zh": "傍晚，睿把所有新筆記排好順序。公開協議、芬的模型、陶的金屬板和實驗室清單，各自補上不同部分，單獨都不是完整答案。梅說這就是為什麼他們需要周密考慮，而不只有勇氣。他們得想清楚每位證人能知道什麼、每份紀錄能證明什麼。睿合上筆記本，望著窗外河流。通往真相的路不再是單一直線，而像一張網。他終於逐漸學會追蹤它。",
+        "englishSha256": "0bfee242eca61aec40ad6d65d91127edeb2b036d36957de7deaec12814a15d90",
+        "chineseSha256": "f3c8d8f331a62d8a04e69178d30fdea94bf6db755fc48bc125703f4e5c560640"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 710,
+    "targets": [
+      {
+        "word": "Anyway",
+        "meaning": "不管怎樣",
+        "appearsInSource": true
+      },
+      {
+        "word": "cartoon",
+        "meaning": "卡通",
+        "appearsInSource": true
+      },
+      {
+        "word": "conclude",
+        "meaning": "下結論",
+        "appearsInSource": true
+      },
+      {
+        "word": "consider",
+        "meaning": "考慮",
+        "appearsInSource": true
+      },
+      {
+        "word": "consideration",
+        "meaning": "周密考量",
+        "appearsInSource": true
+      },
+      {
+        "word": "environmental",
+        "meaning": "環境的",
+        "appearsInSource": true
+      },
+      {
+        "word": "flu",
+        "meaning": "流感",
+        "appearsInSource": true
+      },
+      {
+        "word": "heaven",
+        "meaning": "上天",
+        "appearsInSource": true
+      },
+      {
+        "word": "hole",
+        "meaning": "孔洞",
+        "appearsInSource": true
+      },
+      {
+        "word": "lower",
+        "meaning": "較低的",
+        "appearsInSource": true
+      },
+      {
+        "word": "motorcycle",
+        "meaning": "機車",
+        "appearsInSource": true
+      },
+      {
+        "word": "sailor",
+        "meaning": "水手",
+        "appearsInSource": true
+      },
+      {
+        "word": "separate",
+        "meaning": "分開",
+        "appearsInSource": true
+      },
+      {
+        "word": "soil",
+        "meaning": "土壤",
+        "appearsInSource": true
+      },
+      {
+        "word": "stomachache",
+        "meaning": "胃痛",
+        "appearsInSource": true
+      },
+      {
+        "word": "stream",
+        "meaning": "小溪",
+        "appearsInSource": true
+      },
+      {
+        "word": "technology",
+        "meaning": "技術",
+        "appearsInSource": true
+      },
+      {
+        "word": "thief",
+        "meaning": "小偷",
+        "appearsInSource": true
+      },
+      {
+        "word": "ugly",
+        "meaning": "醜陋的",
+        "appearsInSource": true
+      },
+      {
+        "word": "view",
+        "meaning": "角度",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the metal plate show?",
+      "options": [
+        "A safe minimum water level for the village",
+        "A secret map to gold",
+        "A list of school grades"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A safe minimum water level for the village",
+      "existingAnswerExplanation": "金屬板上的刻痕對應村莊最低安全供水量。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The plate was not a complete page, but it had lines cut into its surface. Rui lowered it toward a lamp and saw numbers between the marks. Mei looked through her notes. The numbers were part of the old water table. They showed a lower safe limit for the village, even during a dry season. “This is not a new technology,” Rui said. “It is an environmental rule made long ago.” Tao nodded. “The river feeds the soil before it feeds the school,” he said. “Your father would not separate those two needs without a good reason.”",
+          "chinese": "金屬板不是完整書頁，表面卻刻有線條。睿把它放低靠近燈光，看見刻痕之間的數字。梅翻查筆記，那些數字屬於舊水量表，顯示即使在乾季，村子也必須保有的最低安全供水量。「這不是新技術，」睿說，「而是很久以前訂下的環境規則。」陶點頭：「河流先養土地，才養山門。你父親不會無故把兩種需求分開。」",
+          "matchedQueryTerms": 6
+        },
+        {
+          "paragraph": 4,
+          "english": "They went to the river and compared the plate with a mark beside the bank. The mark matched the lower limit exactly. Rui could now conclude that the old system had a clear safety rule, but he still needed the missing written instruction. “Anyway, we have part of it,” Mei said. Rui smiled, then took another view of the problem. If the metal plate was a guide to safe water levels, the paper might be kept wherever the school stored machine tests. Tao suggested the old laboratory behind the mountain road. He knew a worker there who might remember the same mark.",
+          "chinese": "他們到河邊，把金屬板和河岸刻痕比較，發現最低限度的標記完全吻合。睿現在能下結論：舊系統確實有清楚的安全規則，但還需要失去的書面指示。「不管怎樣，我們至少找到一部分，」梅說。睿微笑，再從另一個角度看問題。若金屬板是安全水位的指引，那張紙也許保存在山門存放機器測試的地方。陶建議去山路後方的舊實驗室，他認識一位可能記得這個標記的工人。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Where might the missing instruction have been sent?",
+      "options": [
+        "To a private farm",
+        "Away from the old laboratory by order",
+        "To Rui's kitchen"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Away from the old laboratory by order",
+      "existingAnswerExplanation": "實驗室清單記載那張帶金屬記號的指示頁曾被依命令移交。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "They went to the river and compared the plate with a mark beside the bank. The mark matched the lower limit exactly. Rui could now conclude that the old system had a clear safety rule, but he still needed the missing written instruction. “Anyway, we have part of it,” Mei said. Rui smiled, then took another view of the problem. If the metal plate was a guide to safe water levels, the paper might be kept wherever the school stored machine tests. Tao suggested the old laboratory behind the mountain road. He knew a worker there who might remember the same mark.",
+          "chinese": "他們到河邊，把金屬板和河岸刻痕比較，發現最低限度的標記完全吻合。睿現在能下結論：舊系統確實有清楚的安全規則，但還需要失去的書面指示。「不管怎樣，我們至少找到一部分，」梅說。睿微笑，再從另一個角度看問題。若金屬板是安全水位的指引，那張紙也許保存在山門存放機器測試的地方。陶建議去山路後方的舊實驗室，他認識一位可能記得這個標記的工人。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 6,
+          "english": "At the laboratory, they found a room full of old equipment. A young worker said most papers had been moved out years before. He showed them a box of broken parts and a list of the items removed. One line mentioned an instruction page with the same metal mark. The next line was crossed out, and a note said “Transferred by order.” There was no name. Rui did not call the worker a thief. He only asked for a copy of the list and the date of the transfer. The worker agreed, saying that he had always wondered why that one page mattered.",
+          "chinese": "在實驗室裡，他們找到一間放滿舊設備的房間。一名年輕工人說，大部分文件多年前就搬走了。他拿出壞零件箱與移出物品清單，其中一行提到帶有相同金屬記號的操作指示頁。下一行被劃掉，旁邊寫著「依命令移交」，卻沒姓名。睿沒有說工人是小偷，只要求複製清單與移交日期。工人同意，說他也一直不懂那張紙為何如此重要。",
+          "matchedQueryTerms": 9
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

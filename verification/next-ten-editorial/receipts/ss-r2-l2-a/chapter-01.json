@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 1,
+  "chapterId": "ss-r2-l2-a-1",
+  "sourceChapterSha256": "671d42ad41094458ba35e331bd17d298535d3fee0c6e0b58b1419a951bda0651",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "睿在舊水閘書庫發現父親的使用說明，與梅討論哪些操作能公開測試；韓以權威阻止查核，角色首場衝突建立。",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "Mei arrived before sunrise with bread, two small lanterns, and a map of the disused mining subway route. Rui asked where she had found the map. “The barber keeps old papers beside his shop,” she said. “I helped him sort them. He gave me this one.” The tunnel entrance stood at a strange angle beside a high stone wall. Fresh boards covered half the door, even though the mine had closed many years ago. Rui tried to avoid making noise as he moved one board. They found a huge passage with cold air coming from deep inside. Someone had been here recently."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "On the first windy morning of spring, Rui climbed the narrow stairs of the old mill. From its balcony he could see a dry field, a broken waterwheel, and the village at the foot of the mountain. He was eighteen and had never shown the power that the mountain school expected from its students. Some people called him a poor learner. Others said he should leave. Rui did not deny that he was weak. He only believed that a tool could be understood before it was replaced. His father had repaired the mill for years, and Rui wanted to keep that tradition alive.",
+        "zh": "春天第一個風大的早晨，睿爬上舊磨坊狹窄的樓梯。從陽臺望去，他看見乾枯的田地、損壞的水車，以及山腳下的村莊。他十八歲，從未展現出山門期待學生擁有的力量。有人說他學得不好，也有人叫他離開。睿並不否認自己弱小；他只是相信，一件工具在被換掉以前，應該先被理解。他的父親修理磨坊多年，睿想延續這項傳統。",
+        "englishSha256": "8332196c58936b6455272bfb5d9ddeab7319233f767faa2cdd778f47cc15b0d7",
+        "chineseSha256": "2a81bb838bd0d30274b4b08db0371696e2407c88387f02ec3589b50f54bc62a9"
+      },
+      {
+        "number": 2,
+        "en": "At the base of the wheel, a dark line showed where water had once reached the stones. Now the main gate was closed. The school had appointed an operator named Han to control the flow. Han said the village must buy an expensive new pump and pay a fee to the school each month. Rui asked whether they could discuss the old gate first. Han laughed. “That is a challenge for a real master, not a boy with dirty hands.” Behind Han stood female and male students in clean blue coats. Not one of them offered to examine the wheel.",
+        "zh": "在水車底座，石頭上一道深色痕跡顯示過去水位曾經到達的位置。現在主水閘卻關閉了。山門指派一位叫韓的人管理水流。韓說村子必須買昂貴的新水泵，並每個月向山門繳費。睿問能不能先討論舊水閘。韓笑道：「這是真正師傅才辦得到的挑戰，不是雙手沾泥的小子能做的。」韓的身後站著穿整潔藍衣的男女學生，卻沒有人願意檢查水車。",
+        "englishSha256": "457c36036e74d046b4a8480737ad0ed4d8b08113b2681038fa6aa0c36df25a8b",
+        "chineseSha256": "d84836c17aa27bc18c9f9261c04b4297f994fdc6fed565623da844dc303742ad"
+      },
+      {
+        "number": 3,
+        "en": "Rui's friend Mei came down the path carrying a notebook. She was twenty and studied maps, not magic. “The mountain has three water routes,” she said. “This one is the main route. The secondary route passes under the abandoned subway tunnel.” Rui knew the old tunnel. Long ago it had carried small trains between mining towns, but it had been closed before he was born. “If the second route still works,” Mei said, “the village might have water without Han's pump.” Rui asked how they could know. Mei answered, “We must check the facts, not our hopes.” That was one of the reasons he trusted her.",
+        "zh": "睿的朋友梅沿著小路走來，手裡拿著筆記本。她二十歲，研究的是地圖，不是法術。「這座山有三條水道，」她說，「這是主水道。第二條水道從廢棄的地下鐵隧道下面經過。」睿知道那條舊隧道。很久以前，小火車曾在礦業小鎮之間往來，但在他出生前就停用了。「如果第二條水道還能運作，」梅說，「村子也許不用韓的水泵就有水。」睿問該怎麼確認。梅回答：「要查事實，不能只靠希望。」這正是他信任她的原因之一。",
+        "englishSha256": "8472655b89142909be470062fd36577bfecf0a2cf1f94ef66b67951253e16f59",
+        "chineseSha256": "3f0a5981ef205d9cee7aaf7b287bb93e19db69b0e29bbe985a6051698ac63112"
+      },
+      {
+        "number": 4,
+        "en": "Under the mill floor they found a wooden box. Inside lay a thin manual, written by Rui's father. A drawing showed a seesaw with a stone at each end. Under it were simple words: “Power is not the first question. Balance is.” Another page explained that the speed of a wheel depended on how much water entered and how freely it could leave. For instance, pouring more water into a blocked channel would only increase pressure. Rui felt a sudden change in his belief about learning. He did not need to become stronger first. He needed to find out why the water had stopped.",
+        "zh": "在磨坊地板下，他們找到一個木盒。盒裡放著父親寫的薄薄一本說明書。一幅圖畫著翹翹板，兩端各有一塊石頭。圖下寫著簡單的話：「力量不是第一個問題，平衡才是。」另一頁解釋，輪子的速度取決於流入多少水，以及水能否順利流出。舉例來說，把更多水倒進堵塞的水道，只會增加壓力。睿對學習的信念突然有了轉變。他不需要先變強；他需要先查明水為何停止流動。",
+        "englishSha256": "f27d03987da4311bd6854e4381354dc3de28aed43c1088ea423277a27dfff108",
+        "chineseSha256": "e358bf7dd2cc3985d97c6adca8b4389e0233e34802b98caf8c224742df0628c3"
+      },
+      {
+        "number": 5,
+        "en": "Mei followed the drawing to a small metal plate behind the wheel. The plate had two marks, HIGH and LOW. Rui placed his hand on it and heard a soft click. He expected a flash of magic, but nothing happened. Then he noticed that the lower pipe was full of sand. It was not a secret skill or a gift from heaven. It was a blocked drain. The two friends spent an hour carrying sand out with a bucket. Their backs hurt, and Rui's hands turned red. Yet the more they cleared, the better the old wheel began to move.",
+        "zh": "梅照著圖找到水車後面一塊小金屬板。板上有兩個記號：「高」與「低」。睿把手放上去，聽見輕輕的喀噠聲。他以為會有一道法術光芒，卻什麼也沒發生。接著他發現較低的水管塞滿了沙。這不是祕密法術，也不是天賜才能，而是排水管堵住了。兩人花了一個小時用桶子搬出沙子。背部痠痛，睿的雙手也紅了。可是清得越多，舊水車就轉得越順。",
+        "englishSha256": "8f4dfbedb883ff6aa08206942008b31d7d3465b178b011d6a39bc9edf6271bb9",
+        "chineseSha256": "414a961c3c82e735b0094d9dd7c13df3a8e42a7f9c0cd831fa39ef5b94fc86c0"
+      },
+      {
+        "number": 6,
+        "en": "A small stream finally fell across the wooden blades. It was not enough to fill the field, but it proved that the wheel was alive. Villagers came to watch. An old woman said that no one had repaired that part in ten years. Han returned at sunset and saw the moving wheel. “One little stream changes nothing,” he said. “The nation needs a modern system.” Rui did not argue about the whole nation. He pointed to the working drain and asked Han to explain why the school had kept it closed. Han gave no answer. Instead, he ordered Rui to stop touching school property.",
+        "zh": "終於，一小股水流過木製葉片。水還不夠灌溉田地，卻證明水車仍然能動。村民聚過來觀看。一位老婦人說，十年來沒有人修過這個地方。黃昏時韓回來，看見轉動的水車。「這麼一點水改變不了什麼，」他說，「國家需要現代系統。」睿沒有與他爭論整個國家的事。他指著恢復運作的排水管，請韓解釋山門為何一直讓它關著。韓沒有回答，反而命令睿別再碰山門的財產。",
+        "englishSha256": "6a1cd0af65becda240e3811db44fde52cab71e34fa7fe6c9a388b4943eb45483",
+        "chineseSha256": "f6a3df539a659667e86056ecf92912b944e993fcb04d832eecd49281bb090a31"
+      },
+      {
+        "number": 7,
+        "en": "That night, Rui opened the manual again. The last page was missing, but a note remained on the cover: “To develop a good machine, learn what it protects.” Rui looked toward the dark fields. This repair was only the beginning. The villagers needed water, Mei needed proof, and he needed to understand the three routes before Han closed them forever. He wrote their first plan in the notebook: approach the tunnel at dawn, inspect the secondary gate, and return before the school guards arrived. For the first time, his lack of magic did not feel like the end of his road.",
+        "zh": "當晚，睿再次翻開說明書。最後一頁不見了，但封面留著一句話：「要研發一部好機器，先理解它守護的是什麼。」睿望向黑暗中的田地。這次修理只是一個開始。村民需要水，梅需要證據，而他必須在韓永遠封閉水道之前，弄懂三條路線。他在筆記本寫下第一個計畫：天亮時接近隧道，檢查第二道水閘，在山門守衛抵達前返回。第一次，沒有法術不再讓他覺得前路已盡。",
+        "englishSha256": "babb4fbd67147f684bb426fa5be4bd866e1486137d401d49fcff0dd000b69c53",
+        "chineseSha256": "151c0d600408ef442efcb393c7123386b646bd149ebb26bb883b70200bd8b2d0"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 718,
+    "targets": [
+      {
+        "word": "approach",
+        "meaning": "接近",
+        "appearsInSource": true
+      },
+      {
+        "word": "balcony",
+        "meaning": "陽臺",
+        "appearsInSource": true
+      },
+      {
+        "word": "base",
+        "meaning": "底座",
+        "appearsInSource": true
+      },
+      {
+        "word": "belief",
+        "meaning": "信念",
+        "appearsInSource": true
+      },
+      {
+        "word": "better",
+        "meaning": "更好",
+        "appearsInSource": true
+      },
+      {
+        "word": "challenge",
+        "meaning": "挑戰",
+        "appearsInSource": true
+      },
+      {
+        "word": "deny",
+        "meaning": "否認",
+        "appearsInSource": true
+      },
+      {
+        "word": "develop",
+        "meaning": "研發",
+        "appearsInSource": true
+      },
+      {
+        "word": "discuss",
+        "meaning": "討論",
+        "appearsInSource": true
+      },
+      {
+        "word": "field",
+        "meaning": "田地",
+        "appearsInSource": true
+      },
+      {
+        "word": "instance",
+        "meaning": "例子",
+        "appearsInSource": true
+      },
+      {
+        "word": "male",
+        "meaning": "男性",
+        "appearsInSource": true
+      },
+      {
+        "word": "nation",
+        "meaning": "國家",
+        "appearsInSource": true
+      },
+      {
+        "word": "operator",
+        "meaning": "操作員",
+        "appearsInSource": true
+      },
+      {
+        "word": "secondary",
+        "meaning": "第二的",
+        "appearsInSource": true
+      },
+      {
+        "word": "seesaw",
+        "meaning": "翹翹板",
+        "appearsInSource": true
+      },
+      {
+        "word": "speed",
+        "meaning": "速度",
+        "appearsInSource": true
+      },
+      {
+        "word": "subway",
+        "meaning": "地下鐵",
+        "appearsInSource": true
+      },
+      {
+        "word": "tradition",
+        "meaning": "傳統",
+        "appearsInSource": true
+      },
+      {
+        "word": "windy",
+        "meaning": "風大的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did Rui find beneath the mill floor?",
+      "options": [
+        "A new magic sword",
+        "His father's manual",
+        "A bag of gold"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "His father's manual",
+      "existingAnswerExplanation": "他找到父親留下的說明書，而不是法器或金子。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "Under the mill floor they found a wooden box. Inside lay a thin manual, written by Rui's father. A drawing showed a seesaw with a stone at each end. Under it were simple words: “Power is not the first question. Balance is.” Another page explained that the speed of a wheel depended on how much water entered and how freely it could leave. For instance, pouring more water into a blocked channel would only increase pressure. Rui felt a sudden change in his belief about learning. He did not need to become stronger first. He needed to find out why the water had stopped.",
+          "chinese": "在磨坊地板下，他們找到一個木盒。盒裡放著父親寫的薄薄一本說明書。一幅圖畫著翹翹板，兩端各有一塊石頭。圖下寫著簡單的話：「力量不是第一個問題，平衡才是。」另一頁解釋，輪子的速度取決於流入多少水，以及水能否順利流出。舉例來說，把更多水倒進堵塞的水道，只會增加壓力。睿對學習的信念突然有了轉變。他不需要先變強；他需要先查明水為何停止流動。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "On the first windy morning of spring, Rui climbed the narrow stairs of the old mill. From its balcony he could see a dry field, a broken waterwheel, and the village at the foot of the mountain. He was eighteen and had never shown the power that the mountain school expected from its students. Some people called him a poor learner. Others said he should leave. Rui did not deny that he was weak. He only believed that a tool could be understood before it was replaced. His father had repaired the mill for years, and Rui wanted to keep that tradition alive.",
+          "chinese": "春天第一個風大的早晨，睿爬上舊磨坊狹窄的樓梯。從陽臺望去，他看見乾枯的田地、損壞的水車，以及山腳下的村莊。他十八歲，從未展現出山門期待學生擁有的力量。有人說他學得不好，也有人叫他離開。睿並不否認自己弱小；他只是相信，一件工具在被換掉以前，應該先被理解。他的父親修理磨坊多年，睿想延續這項傳統。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did the wheel begin to move?",
+      "options": [
+        "Rui cleared sand from the drain",
+        "Han bought a new pump",
+        "Mei cast a spell"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Rui cleared sand from the drain",
+      "existingAnswerExplanation": "水車恢復轉動，是因為睿與梅清除了堵塞排水管的沙子。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "Mei followed the drawing to a small metal plate behind the wheel. The plate had two marks, HIGH and LOW. Rui placed his hand on it and heard a soft click. He expected a flash of magic, but nothing happened. Then he noticed that the lower pipe was full of sand. It was not a secret skill or a gift from heaven. It was a blocked drain. The two friends spent an hour carrying sand out with a bucket. Their backs hurt, and Rui's hands turned red. Yet the more they cleared, the better the old wheel began to move.",
+          "chinese": "梅照著圖找到水車後面一塊小金屬板。板上有兩個記號：「高」與「低」。睿把手放上去，聽見輕輕的喀噠聲。他以為會有一道法術光芒，卻什麼也沒發生。接著他發現較低的水管塞滿了沙。這不是祕密法術，也不是天賜才能，而是排水管堵住了。兩人花了一個小時用桶子搬出沙子。背部痠痛，睿的雙手也紅了。可是清得越多，舊水車就轉得越順。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 6,
+          "english": "A small stream finally fell across the wooden blades. It was not enough to fill the field, but it proved that the wheel was alive. Villagers came to watch. An old woman said that no one had repaired that part in ten years. Han returned at sunset and saw the moving wheel. “One little stream changes nothing,” he said. “The nation needs a modern system.” Rui did not argue about the whole nation. He pointed to the working drain and asked Han to explain why the school had kept it closed. Han gave no answer. Instead, he ordered Rui to stop touching school property.",
+          "chinese": "終於，一小股水流過木製葉片。水還不夠灌溉田地，卻證明水車仍然能動。村民聚過來觀看。一位老婦人說，十年來沒有人修過這個地方。黃昏時韓回來，看見轉動的水車。「這麼一點水改變不了什麼，」他說，「國家需要現代系統。」睿沒有與他爭論整個國家的事。他指著恢復運作的排水管，請韓解釋山門為何一直讓它關著。韓沒有回答，反而命令睿別再碰山門的財產。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

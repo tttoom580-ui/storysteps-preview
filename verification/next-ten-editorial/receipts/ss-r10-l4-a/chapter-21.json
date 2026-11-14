@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 21,
+  "chapterId": "ss-r10-l4-a-21",
+  "sourceChapterSha256": "1978c8a4b4f8d2adfff41eb5f517f1a636482253501398431ed7833fc1c0cdc5",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "風暴前志工練習慢節拍與坐姿同步，部分人退出仍可保持訊號，羅喬拒絕最後冠軍賽改參安全團隊。",
+    "previousChapterEndingEnglish": "Outside the hearing room, the elderly man said he had been treated as a beggar simply because he had no arena rank. His frustration had lasted for years, but he now wanted something practical: a clear way to request shelter when storms returned. Ning showed him the new public application desk and asked a volunteer to walk through the instructions with him. He left carrying a paper form, not a promise of fame.",
+    "nextChapterOpeningEnglish": "The storm reached the northern arch just after midnight. Rainwater crept across the road and pooled beside the old admissions office. The shelter had reached nearly its full capacity, so the staff opened a second room and checked the emergency gear. A family arrived with a child wrapped in a quilt. The child had difficulty walking, and the nearest entrance had three steps. Salim guided them to an accessible side door without asking for an arena certificate. He remembered how the old rules had placed such families at a disadvantage. The new procedure took more thought than a simple ranking, but it was already working when the wind rose. Ning confirmed that the side door could be secured from inside."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The final preparation began in a school courtyard where the trees were starting to bloom. Volunteers came from numerous workplaces, including a bakery, a clinic, and a repair shop. One vegetarian cook brought hot food and asked how to help without joining the walking test. Ning welcomed the offer. The signal team would consist of people who chose short, safe movements, while others supported water, transport, and rest. The arena office had offered arms for every participant, but Ning declined. Weapons did not help people keep a common rhythm. She asked the volunteers to practice concentration instead, watching the timing lamps while keeping space for anyone who wanted to stop. The objective was a stable shield, not a high score.",
+        "zh": "最後準備在學校庭院開始，樹木正要開花。來自許多工作場所的志工到場，包括麵包店、診所和修理舖。一名素食廚師帶來熱食，問能否不參加踏步測試也幫忙。沈寧歡迎他的提議。訊號組由自願短時間安全移動的人組成，其他人則支援飲水、交通與休息。競技場辦公室原本為每人提供武器，沈寧謝絕了。武器無法幫助大家維持共同節奏。她請志工改練專注，注意時序燈，也為任何想停下的人留空間。目標是穩定屏障，不是高分。",
+        "englishSha256": "7c5a85300e0896394390d774edc6bc46e6b24936c0e8b40a5a456424579b87a4",
+        "chineseSha256": "502a4c88343b0ad1d28b21c5fd15bd996cd9a631592796b143df58ea690895c7"
+      },
+      {
+        "number": 2,
+        "en": "The first group tried to imitate Qiao's movements exactly. Their steps became too fast, and several people lost balance. Ning explained the logic of the test: the towers needed a predictable rhythm that many different bodies could follow, not a perfect copy of one champion. A dance instructor suggested a dynamic pattern with a slower beat and optional seated movements. Min checked whether the sensors could recognize both. They could. A man who had expected rejection because he used a chair smiled when his movements appeared on the public graph. Ning warned the presenter not to exaggerate the result. One successful trial did not mean every person could safely join every test; the plan still needed individual choices.",
+        "zh": "第一組試著完全模仿羅喬的動作，步伐太快，幾人失去平衡。沈寧解釋測試邏輯：防護塔需要的是許多不同身體都能跟上的可預測節奏，不是完美複製某一位冠軍。舞蹈指導員建議改用較慢、動態的節拍，並容許坐姿動作。敏敏檢查感測器能否辨認兩種動作，結果可以。一名因使用椅子而預期遭拒的男子，看到自己的動作出現在公共圖表上，露出笑容。沈寧提醒主持人不要誇大。一次成功試驗不代表每個人都能安全參加每種測試，計畫仍須尊重個人選擇。",
+        "englishSha256": "dc74fb633381e3a13e86fc0e751a0cc2ffd57c7763d02dd6a37713464e0f5add",
+        "chineseSha256": "f0f4d8f345573d1e0f13ab1e8c4804c3d706eedcfd9e5103a1a135d9d502c585"
+      },
+      {
+        "number": 3,
+        "en": "A group of spectators expressed disgust that the city's strongest fighters were now teaching ordinary steps. Qiao answered that the purpose of training was protection, not worship. She had once felt pride in every victory, but she was learning that a singular champion could not carry a vast city alone. Lei added that his experience in rescue mattered more today than his old place in the rankings. Their comments did not convince everyone. Some residents wanted the simpler story of a warrior defeating the storm in one blow. Ning refused to invent such a fantasy. She showed the repeated measurements and asked people to compare them with their own observations. Creativity mattered, but it had to answer to reality.",
+        "zh": "一群旁觀者對最強武者如今教普通踏步表示厭惡。羅喬回答，訓練的目的是保護，不是崇拜。她曾為每次勝利自豪，如今學到單一冠軍背不起整座廣闊城市。雷川補充，今天自己的救援經驗比舊排名更重要。這些話沒有說服所有人。有些居民仍想聽武者一拳擊敗風暴的簡單故事。沈寧拒絕編造這種幻想。她展示反覆測量，請大家和自己的觀察比較。創意很重要，但必須接受現實檢驗。",
+        "englishSha256": "20f201dc6ddc63db7aa4ca8be1cc5835662dfc2be21a01f0f0f48e6c7fc445ba",
+        "chineseSha256": "1224d14581bd668b866f64e7a0339d9fb05e87f4ed8d30685b2766bd62915fb3"
+      },
+      {
+        "number": 4,
+        "en": "During the second practice, a timing lamp failed and the eastern group stopped. Someone shouted that stopping would cause disaster, but Min reminded everyone of the agreed remedy: switch to the independent lamp, check the count, and resume only with consent. The group waited. When the replacement lamp lit, three volunteers chose to rest and two returned. Their decision lowered the number of participants but did not break the signal. The graph remained steady because the rhythm was correct. Ning marked the lesson clearly. An idle station could remain part of a safe network as long as other stations knew its condition. No person had to keep moving until exhaustion merely to protect a score.",
+        "zh": "第二次演練時，一盞時序燈故障，東組停止。有人叫喊停下會造成災難，敏敏提醒大家事前同意的補救辦法：改用獨立燈、檢查數值，並在自願下才恢復。大家等待。備用燈亮起後，三名志工選擇休息，兩名返回。參加人數減少，訊號卻沒中斷，因為節奏正確，圖表保持穩定。沈寧清楚記下這課。閒置站點仍可屬於安全網路，只要其他站知道它目前的狀態。沒有人必須為了保住分數而不停移動到精疲力盡。",
+        "englishSha256": "a4e966b57c7473ae3bf06701a8ab1a915ff48aeb4d01f754761ee46a8e9e9409",
+        "chineseSha256": "4690cd9d274c4934582fc2bbc00a20ca277bff0a49dd834b25c1497f3cc591bf"
+      },
+      {
+        "number": 5,
+        "en": "Largely because the volunteers each came from a different workplace, no one schedule could suit them all. Salim divided the practice into short sessions, with written instructions available afterward. A nurse suggested a quiet room for anyone overwhelmed by noise. Ning approved the change and asked for a second exit check. Preparing a shared signal meant making space for ordinary differences, not asking everyone to pretend they were alike.",
+        "zh": "志工主要來自不同工作場所，因此沒有一種時程能適合所有人。薩林把演練分成幾段短課，事後也提供書面指示。護理師建議設安靜房間，讓被噪音困擾的人休息。沈寧同意，並要求再檢查第二個出口。準備共享訊號，意味著容納日常差異，而不是叫大家假裝一模一樣。",
+        "englishSha256": "4467f6759b1d48265dcba2bff2237f5d74db338fa06784f04ba9acbbe3680c13",
+        "chineseSha256": "058e8e1d86d78b4d8a19296435d9ce44d98d6a103f5f75e52ef2070df58a9807"
+      },
+      {
+        "number": 6,
+        "en": "At sunset, the arena sent one final offer: if Qiao returned to the championship, the company would restore her full publicity contract. She gave a brief farewell to the ranking program and chose to remain with the safety team for the storm. It was not a rejection of fighting itself; she still intended to teach safe competition after the emergency. Ning appreciated the distinction. The day's practice had shown that a network could adjust without commanding every individual movement. As the volunteers left, a distant line of dark clouds covered the mountains. The weather office warned that the first serious pressure wave might arrive overnight. The real test would begin with people sleeping, not cheering.",
+        "zh": "日落時，競技場提出最後邀約：羅喬只要回到冠軍賽，就恢復完整宣傳合約。她向排名節目簡短道別，選擇在風暴期間留在安全團隊。她拒絕的不是戰鬥本身；緊急事件後仍打算教安全競賽。沈寧欣賞這種區分。今天的演練證明，網路可以調整，而不必命令每個人的每一步。志工離開時，遠方黑雲蓋住山脈。氣象單位警告，第一波強烈氣壓可能在夜間到來。真正的測試開始時，人們正在睡覺，而非歡呼。",
+        "englishSha256": "883faac9b647cd7f9054bd3355ed9f26b82e109b7beb8a550ba93f6169bea653",
+        "chineseSha256": "cf84b5e759522e05d6d662e0bd5439d39e8f67f2f2a6757f615a89b3a7184644"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 656,
+    "targets": [
+      {
+        "word": "arms",
+        "meaning": "武器",
+        "appearsInSource": true
+      },
+      {
+        "word": "bloom",
+        "meaning": "開花",
+        "appearsInSource": true
+      },
+      {
+        "word": "concentration",
+        "meaning": "專注",
+        "appearsInSource": true
+      },
+      {
+        "word": "consist",
+        "meaning": "由……組成",
+        "appearsInSource": true
+      },
+      {
+        "word": "Creativity",
+        "meaning": "創意",
+        "appearsInSource": true
+      },
+      {
+        "word": "disgust",
+        "meaning": "厭惡",
+        "appearsInSource": true
+      },
+      {
+        "word": "dynamic",
+        "meaning": "動態的",
+        "appearsInSource": true
+      },
+      {
+        "word": "exaggerate",
+        "meaning": "誇大",
+        "appearsInSource": true
+      },
+      {
+        "word": "farewell",
+        "meaning": "告別",
+        "appearsInSource": true
+      },
+      {
+        "word": "idle",
+        "meaning": "閒置的",
+        "appearsInSource": true
+      },
+      {
+        "word": "imitate",
+        "meaning": "模仿",
+        "appearsInSource": true
+      },
+      {
+        "word": "Largely",
+        "meaning": "主要地",
+        "appearsInSource": true
+      },
+      {
+        "word": "logic",
+        "meaning": "邏輯",
+        "appearsInSource": true
+      },
+      {
+        "word": "numerous",
+        "meaning": "許多的",
+        "appearsInSource": true
+      },
+      {
+        "word": "objective",
+        "meaning": "客觀的",
+        "appearsInSource": true
+      },
+      {
+        "word": "rejection",
+        "meaning": "拒絕",
+        "appearsInSource": true
+      },
+      {
+        "word": "remedy",
+        "meaning": "補救方法",
+        "appearsInSource": true
+      },
+      {
+        "word": "singular",
+        "meaning": "獨特的",
+        "appearsInSource": true
+      },
+      {
+        "word": "vegetarian",
+        "meaning": "素食者",
+        "appearsInSource": true
+      },
+      {
+        "word": "workplace",
+        "meaning": "工作場所",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What happened when some volunteers stopped to rest?",
+      "options": [
+        "The shield immediately failed.",
+        "The signal stayed stable because the rhythm was correct.",
+        "The arena awarded them negative points."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The signal stayed stable because the rhythm was correct.",
+      "existingAnswerExplanation": "部分人退出後，正確節奏仍使網路保持穩定。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "During the second practice, a timing lamp failed and the eastern group stopped. Someone shouted that stopping would cause disaster, but Min reminded everyone of the agreed remedy: switch to the independent lamp, check the count, and resume only with consent. The group waited. When the replacement lamp lit, three volunteers chose to rest and two returned. Their decision lowered the number of participants but did not break the signal. The graph remained steady because the rhythm was correct. Ning marked the lesson clearly. An idle station could remain part of a safe network as long as other stations knew its condition. No person had to keep moving until exhaustion merely to protect a score.",
+          "chinese": "第二次演練時，一盞時序燈故障，東組停止。有人叫喊停下會造成災難，敏敏提醒大家事前同意的補救辦法：改用獨立燈、檢查數值，並在自願下才恢復。大家等待。備用燈亮起後，三名志工選擇休息，兩名返回。參加人數減少，訊號卻沒中斷，因為節奏正確，圖表保持穩定。沈寧清楚記下這課。閒置站點仍可屬於安全網路，只要其他站知道它目前的狀態。沒有人必須為了保住分數而不停移動到精疲力盡。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 1,
+          "english": "The final preparation began in a school courtyard where the trees were starting to bloom. Volunteers came from numerous workplaces, including a bakery, a clinic, and a repair shop. One vegetarian cook brought hot food and asked how to help without joining the walking test. Ning welcomed the offer. The signal team would consist of people who chose short, safe movements, while others supported water, transport, and rest. The arena office had offered arms for every participant, but Ning declined. Weapons did not help people keep a common rhythm. She asked the volunteers to practice concentration instead, watching the timing lamps while keeping space for anyone who wanted to stop. The objective was a stable shield, not a high score.",
+          "chinese": "最後準備在學校庭院開始，樹木正要開花。來自許多工作場所的志工到場，包括麵包店、診所和修理舖。一名素食廚師帶來熱食，問能否不參加踏步測試也幫忙。沈寧歡迎他的提議。訊號組由自願短時間安全移動的人組成，其他人則支援飲水、交通與休息。競技場辦公室原本為每人提供武器，沈寧謝絕了。武器無法幫助大家維持共同節奏。她請志工改練專注，注意時序燈，也為任何想停下的人留空間。目標是穩定屏障，不是高分。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did Qiao choose over the final championship offer?",
+      "options": [
+        "To join the safety team during the storm.",
+        "To move away from the city.",
+        "To lead a mandatory combat campaign."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To join the safety team during the storm.",
+      "existingAnswerExplanation": "羅喬拒絕排名節目合約，選擇協助安全團隊。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "At sunset, the arena sent one final offer: if Qiao returned to the championship, the company would restore her full publicity contract. She gave a brief farewell to the ranking program and chose to remain with the safety team for the storm. It was not a rejection of fighting itself; she still intended to teach safe competition after the emergency. Ning appreciated the distinction. The day's practice had shown that a network could adjust without commanding every individual movement. As the volunteers left, a distant line of dark clouds covered the mountains. The weather office warned that the first serious pressure wave might arrive overnight. The real test would begin with people sleeping, not cheering.",
+          "chinese": "日落時，競技場提出最後邀約：羅喬只要回到冠軍賽，就恢復完整宣傳合約。她向排名節目簡短道別，選擇在風暴期間留在安全團隊。她拒絕的不是戰鬥本身；緊急事件後仍打算教安全競賽。沈寧欣賞這種區分。今天的演練證明，網路可以調整，而不必命令每個人的每一步。志工離開時，遠方黑雲蓋住山脈。氣象單位警告，第一波強烈氣壓可能在夜間到來。真正的測試開始時，人們正在睡覺，而非歡呼。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The final preparation began in a school courtyard where the trees were starting to bloom. Volunteers came from numerous workplaces, including a bakery, a clinic, and a repair shop. One vegetarian cook brought hot food and asked how to help without joining the walking test. Ning welcomed the offer. The signal team would consist of people who chose short, safe movements, while others supported water, transport, and rest. The arena office had offered arms for every participant, but Ning declined. Weapons did not help people keep a common rhythm. She asked the volunteers to practice concentration instead, watching the timing lamps while keeping space for anyone who wanted to stop. The objective was a stable shield, not a high score.",
+          "chinese": "最後準備在學校庭院開始，樹木正要開花。來自許多工作場所的志工到場，包括麵包店、診所和修理舖。一名素食廚師帶來熱食，問能否不參加踏步測試也幫忙。沈寧歡迎他的提議。訊號組由自願短時間安全移動的人組成，其他人則支援飲水、交通與休息。競技場辦公室原本為每人提供武器，沈寧謝絕了。武器無法幫助大家維持共同節奏。她請志工改練專注，注意時序燈，也為任何想停下的人留空間。目標是穩定屏障，不是高分。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

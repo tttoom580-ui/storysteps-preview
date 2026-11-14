@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 4,
+  "chapterId": "ss-r10-l4-a-4",
+  "sourceChapterSha256": "a7104f6825a9363b257a5ada0ee3885e89f6c44bc26bc7260aea6645804194ac",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "韓瑜在圖書館找到地震疏散同步腳步的歷史圖與一則誣告後的更正，沈寧要求公開可核查版本。",
+    "previousChapterEndingEnglish": "Before they left, Ning found a second set of marks on the bridge supports. They had not been made by the bad hinge. Each mark matched the place where an old measuring cable had once been fastened. Someone had removed that cable and covered the holes with paint. The commander said the removal was part of a modernization program. Ning asked for the signed order and received no answer. She photographed the marks with a ruler, stored the image in two separate records, and told Lei that she would not accuse anyone yet. He nodded. His anger had not disappeared, but he now had a better task for it: guarding the evidence until it could be examined by someone who had not approved the bridge.",
+    "nextChapterOpeningEnglish": "The safety council held its emergency congress in a hall filled with decorative banners. Representatives from every district were present, but only three technical workers had been invited. The government agency argued that the public tests should end because they might discourage young people from training as fighters. Ning said the fundamental question was not whether fighters deserved respect; it was whether the shield could protect families who had no fighters among them. She showed the early measurements and explained the interaction between ground movement and the towers. Several delegates listened. Others stared at the publicity cameras. Ning knew that an influential speech would not be enough to change a system that rewarded victories and ignored maintenance."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 5,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The city's central librarian, Han Yu, kept the earliest shield plans in a locked room beneath the public library. Ning sought approval to see them, but the clerk said only champions could request historical records. Han called the rule nonsense. The building was public property, and technical records were not the private possession of an arena. She opened the room and showed Ning a map drawn before the modern contest system existed. A handwritten note in the margin described a shield that responded to a chorus of footsteps during an earthquake evacuation. The achievement had been recorded as an ordinary civic accomplishment, not a victory. Ning realized that the city had once known another method of protection.",
+        "zh": "中央圖書館員韓瑜把最早期的屏障圖保存在公共圖書館地下的上鎖房間。沈寧申請閱覽，承辦員卻說只有冠軍能調閱歷史紀錄。韓瑜認為這規定荒謬。建築屬於公眾，技術檔案也不是競技場的私人財產。她打開房間，拿出一張現代競賽制度建立前的地圖。地圖邊緣的手寫註記記載，地震疏散時一群人的同步腳步曾讓屏障啟動。那項成果被記作普通的公民成就，而非競賽勝利。沈寧明白，城市從前知道另一種防護方法。",
+        "englishSha256": "c70ef6753ed1006e0199b1f5a93a723cdd854c24221827d924f353a6a946cada",
+        "chineseSha256": "07d40a5ebbf9911dcdba9461fb56b6292cd42f7cec7222da24955917d3c8855b"
+      },
+      {
+        "number": 2,
+        "en": "The note had traveled through several hands. A translator had copied it for an embassy, and a researcher had later added measurements in red ink. Some pages were missing, and the surviving diagrams showed the old shield's oval orbit around the district, rather than a narrow beam above the arena. Han warned that an ancient drawing was not automatic proof that the modern towers would work the same way. Ning agreed. She needed to compare the geometry and the sensor readings, not celebrate a beautiful story. A visiting child amused herself by making paper balls bounce on the reading table. Han gently asked her to stop, then offered a puzzle instead: follow the same line through three different maps and find where it ends.",
+        "zh": "那張註記曾經過好幾個人的手。一名翻譯員替使館抄錄過，後來一位研究員又用紅墨水加上測量值。有些頁面遺失了，留下的圖顯示舊屏障以橢圓軌道包圍街區，而不是在競技場上方形成一束狹窄光線。韓瑜提醒，古老圖紙不能自動證明現代防護塔也用同一原理。沈寧同意。她必須比對幾何形狀和感測讀數，而不是只讚嘆動人的故事。一個來訪的孩子用紙球在閱覽桌上彈跳取樂。韓瑜溫柔制止，改給她一道謎題：沿著三張不同的地圖追蹤同一條線，看它最後通向何處。",
+        "englishSha256": "e47c5ad61c9ab1caeeb690c5d15525b97c6dc51c374d86b6299cf2969d868eed",
+        "chineseSha256": "6cc8644c8707bc8aee5120926bf53c3150c73c8725e95141b904c20de13224fc"
+      },
+      {
+        "number": 3,
+        "en": "The child's answer surprised the adults. All three lines ended at a former emergency kitchen, now labeled a storage room. In one era the kitchen had fed families fleeing a fire; in another it had sheltered people from a flood. The old records placed continual emphasis on shared movement between shelters. Ning considered whether the rhythm of evacuation itself had activated the shield. That idea was earnest but incomplete, and she did not seek approval for a citywide trial yet. Instead, she asked Han for permission to bring the plans to a closed research meeting. Han refused to let the original leave the library. She offered authenticated copies and a public log of who had seen them, a compromise Ning respected.",
+        "zh": "孩子的答案讓大人吃驚。三張地圖的線都指向過去的一座緊急廚房，如今標成儲藏室。某個年代它供應逃離火災的家庭，另一個年代則收容洪水災民。舊紀錄反覆強調避難所之間的共同移動。沈寧思考，是否正是疏散時的節奏啟動了屏障。這個想法很認真，卻還不完整，她不打算立即申請全城試驗。她先請韓瑜同意把圖紙拿到小型研究會議。韓瑜拒絕讓原件離開圖書館，改提供經認證的副本，並公開記錄查閱者。沈寧尊重這項折衷。",
+        "englishSha256": "555f6de65da92bbb560a0a5fa6a1f0a614d3fddc6d20b06a8be000cfdd8f4d4d",
+        "chineseSha256": "3f6b5539fc5f2ba94c6cce683626a4ae579af540ee499e8dded57a460ccf5553"
+      },
+      {
+        "number": 4,
+        "en": "An old newspaper clipping complicated the story. It described an alleged murderer who had been blamed for a shield collapse forty years earlier. The article offered a dramatic rhyme about guilt and punishment, but no measurement or signed witness statement. Ning felt disappointed to find such weak evidence in a collection everyone praised. Han said that a library preserved errors as well as facts; readers had to learn the difference. Ning copied the clipping with a note about its limits. The child, still following her puzzle, found a second newspaper from the next week. It contained a quiet correction: the accused worker had been repairing a broken cable when the shield failed. He had not caused it.",
+        "zh": "一張舊報紙剪報使事情更複雜。它記載四十年前一名被懷疑是殺人犯的人，曾因屏障崩潰受到指責。報導用戲劇性的押韻句講罪與懲罰，卻沒有測量值或簽名證詞。沈寧失望地發現，眾人稱頌的館藏裡竟有這麼薄弱的證據。韓瑜說，圖書館保存錯誤，也保存事實；讀者必須學會辨別。沈寧複印剪報，註明證據限制。繼續解謎的孩子找到下一週的第二張報紙，上頭有一則低調更正：被指控的工人是在屏障故障時修理斷裂纜線，並非造成故障的人。",
+        "englishSha256": "d76de23057504da2fd89d8b0b5d9e128f1179632fb8686396e0367b0c7b3549f",
+        "chineseSha256": "1d04529c0c1d51dd662146be8c4d887da843aa7a39ff7f095e6e75f8ebe5f2cf"
+      },
+      {
+        "number": 5,
+        "en": "Outside, news of the discovery reached the arena before Ning had finished her notes. A spokesperson accused her of using historical rumors to undermine modern fighters. Ning answered with the narrow claim she could support: synchronized movement had been recorded during an earlier shield event, and modern tests deserved to examine the mechanism. She would not claim that every old story was true. Han appreciated the distinction and warned that citizens must not become passive readers. She agreed to help prepare a public exhibition when the records were ready. As Ning left, her phone displayed an urgent appointment request from the safety council. The subject line contained only four words: STOP THE PUBLIC TEST. She saved a copy of the message, then went to meet Qiao.",
+        "zh": "沈寧還沒整理完筆記，發現的消息就先傳到競技場。發言人指控她利用歷史謠言損害現代武者。沈寧只回答自己能支持的有限主張：過去某次屏障事件確曾記錄到同步移動，現代測試值得檢查其中機制。她不會說每個舊故事都是真的。韓瑜認同這種區分，也提醒市民不可只當被動的讀者。她答應等資料準備好時協助辦公開展覽。沈寧離開時，手機顯示安全議會的緊急會議通知。主旨只有四個字：「停止公開測試。」她先備份訊息，再去找羅喬。",
+        "englishSha256": "2571a9ce56776eb2b07662304f24d169d0e4b0551bd1c26646f3cc14ba4a5c97",
+        "chineseSha256": "cbc12bf8ad23e287fa529d87b38bf669cd03cfd07614ae308444b7976a056594"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 605,
+    "targets": [
+      {
+        "word": "accomplishment",
+        "meaning": "成就",
+        "appearsInSource": true
+      },
+      {
+        "word": "amused",
+        "meaning": "取樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "approval",
+        "meaning": "批准",
+        "appearsInSource": true
+      },
+      {
+        "word": "bounce",
+        "meaning": "彈跳",
+        "appearsInSource": true
+      },
+      {
+        "word": "continual",
+        "meaning": "持續的",
+        "appearsInSource": true
+      },
+      {
+        "word": "disappointed",
+        "meaning": "失望",
+        "appearsInSource": true
+      },
+      {
+        "word": "earnest",
+        "meaning": "認真的",
+        "appearsInSource": true
+      },
+      {
+        "word": "embassy",
+        "meaning": "使館",
+        "appearsInSource": true
+      },
+      {
+        "word": "emphasis",
+        "meaning": "強調",
+        "appearsInSource": true
+      },
+      {
+        "word": "librarian",
+        "meaning": "圖書館員",
+        "appearsInSource": true
+      },
+      {
+        "word": "margin",
+        "meaning": "邊緣",
+        "appearsInSource": true
+      },
+      {
+        "word": "murderer",
+        "meaning": "殺人犯",
+        "appearsInSource": true
+      },
+      {
+        "word": "nonsense",
+        "meaning": "荒謬的話",
+        "appearsInSource": true
+      },
+      {
+        "word": "orbit",
+        "meaning": "軌道",
+        "appearsInSource": true
+      },
+      {
+        "word": "passive",
+        "meaning": "被動的",
+        "appearsInSource": true
+      },
+      {
+        "word": "possession",
+        "meaning": "所有權",
+        "appearsInSource": true
+      },
+      {
+        "word": "researcher",
+        "meaning": "研究員",
+        "appearsInSource": true
+      },
+      {
+        "word": "rhyme",
+        "meaning": "押韻句",
+        "appearsInSource": true
+      },
+      {
+        "word": "translator",
+        "meaning": "翻譯員",
+        "appearsInSource": true
+      },
+      {
+        "word": "urgent",
+        "meaning": "緊急的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the earliest map describe?",
+      "options": [
+        "A shield activated during coordinated evacuation steps.",
+        "A champion who defeated a murderer.",
+        "A new advertisement for the arena."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A shield activated during coordinated evacuation steps.",
+      "existingAnswerExplanation": "舊圖記載地震撤離時同步腳步與屏障啟動的關聯。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The city's central librarian, Han Yu, kept the earliest shield plans in a locked room beneath the public library. Ning sought approval to see them, but the clerk said only champions could request historical records. Han called the rule nonsense. The building was public property, and technical records were not the private possession of an arena. She opened the room and showed Ning a map drawn before the modern contest system existed. A handwritten note in the margin described a shield that responded to a chorus of footsteps during an earthquake evacuation. The achievement had been recorded as an ordinary civic accomplishment, not a victory. Ning realized that the city had once known another method of protection.",
+          "chinese": "中央圖書館員韓瑜把最早期的屏障圖保存在公共圖書館地下的上鎖房間。沈寧申請閱覽，承辦員卻說只有冠軍能調閱歷史紀錄。韓瑜認為這規定荒謬。建築屬於公眾，技術檔案也不是競技場的私人財產。她打開房間，拿出一張現代競賽制度建立前的地圖。地圖邊緣的手寫註記記載，地震疏散時一群人的同步腳步曾讓屏障啟動。那項成果被記作普通的公民成就，而非競賽勝利。沈寧明白，城市從前知道另一種防護方法。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 3,
+          "english": "The child's answer surprised the adults. All three lines ended at a former emergency kitchen, now labeled a storage room. In one era the kitchen had fed families fleeing a fire; in another it had sheltered people from a flood. The old records placed continual emphasis on shared movement between shelters. Ning considered whether the rhythm of evacuation itself had activated the shield. That idea was earnest but incomplete, and she did not seek approval for a citywide trial yet. Instead, she asked Han for permission to bring the plans to a closed research meeting. Han refused to let the original leave the library. She offered authenticated copies and a public log of who had seen them, a compromise Ning respected.",
+          "chinese": "孩子的答案讓大人吃驚。三張地圖的線都指向過去的一座緊急廚房，如今標成儲藏室。某個年代它供應逃離火災的家庭，另一個年代則收容洪水災民。舊紀錄反覆強調避難所之間的共同移動。沈寧思考，是否正是疏散時的節奏啟動了屏障。這個想法很認真，卻還不完整，她不打算立即申請全城試驗。她先請韓瑜同意把圖紙拿到小型研究會議。韓瑜拒絕讓原件離開圖書館，改提供經認證的副本，並公開記錄查閱者。沈寧尊重這項折衷。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Han refuse to release the original plans?",
+      "options": [
+        "She wished to hide the city's past.",
+        "She wanted to preserve the originals and track access.",
+        "She believed fighters owned the documents."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "She wanted to preserve the originals and track access.",
+      "existingAnswerExplanation": "韓瑜以認證副本和公開閱覽紀錄兼顧保存與研究。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "The child's answer surprised the adults. All three lines ended at a former emergency kitchen, now labeled a storage room. In one era the kitchen had fed families fleeing a fire; in another it had sheltered people from a flood. The old records placed continual emphasis on shared movement between shelters. Ning considered whether the rhythm of evacuation itself had activated the shield. That idea was earnest but incomplete, and she did not seek approval for a citywide trial yet. Instead, she asked Han for permission to bring the plans to a closed research meeting. Han refused to let the original leave the library. She offered authenticated copies and a public log of who had seen them, a compromise Ning respected.",
+          "chinese": "孩子的答案讓大人吃驚。三張地圖的線都指向過去的一座緊急廚房，如今標成儲藏室。某個年代它供應逃離火災的家庭，另一個年代則收容洪水災民。舊紀錄反覆強調避難所之間的共同移動。沈寧思考，是否正是疏散時的節奏啟動了屏障。這個想法很認真，卻還不完整，她不打算立即申請全城試驗。她先請韓瑜同意把圖紙拿到小型研究會議。韓瑜拒絕讓原件離開圖書館，改提供經認證的副本，並公開記錄查閱者。沈寧尊重這項折衷。",
+          "matchedQueryTerms": 5
+        },
+        {
+          "paragraph": 1,
+          "english": "The city's central librarian, Han Yu, kept the earliest shield plans in a locked room beneath the public library. Ning sought approval to see them, but the clerk said only champions could request historical records. Han called the rule nonsense. The building was public property, and technical records were not the private possession of an arena. She opened the room and showed Ning a map drawn before the modern contest system existed. A handwritten note in the margin described a shield that responded to a chorus of footsteps during an earthquake evacuation. The achievement had been recorded as an ordinary civic accomplishment, not a victory. Ning realized that the city had once known another method of protection.",
+          "chinese": "中央圖書館員韓瑜把最早期的屏障圖保存在公共圖書館地下的上鎖房間。沈寧申請閱覽，承辦員卻說只有冠軍能調閱歷史紀錄。韓瑜認為這規定荒謬。建築屬於公眾，技術檔案也不是競技場的私人財產。她打開房間，拿出一張現代競賽制度建立前的地圖。地圖邊緣的手寫註記記載，地震疏散時一群人的同步腳步曾讓屏障啟動。那項成果被記作普通的公民成就，而非競賽勝利。沈寧明白，城市從前知道另一種防護方法。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

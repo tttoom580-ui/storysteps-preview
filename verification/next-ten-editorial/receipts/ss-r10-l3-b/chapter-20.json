@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l3-b",
+  "title": "把地板留給每一種舞步",
+  "chapter": 20,
+  "chapterId": "ss-r10-l3-b-20",
+  "sourceChapterSha256": "8d751154a255e880fa4a33cf5d2e93667b68fc679028ad3b1868596873b68ad5",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "演出前一天查出假喇叭合格證與食物過敏標示問題，羅恩接下三個月照明工作，黎安申請首都課程。",
+    "previousChapterEndingEnglish": "That night Lian gathered the cast in the school gym to share the decision. She did not open with the word victory. Instead, she explained exactly what was approved and what might still delay the event. Cora spoke about the access conditions, and Ron described the final safety checks. The dancers applauded, then volunteered for the tasks they understood. After everyone left, Lian remained with the empty stage. The route through the garden was marked on the floor like a promise. She knew it could still change, but that no longer frightened her. She had learned to build plans that could withstand a necessary correction. The vote seemed to awaken new interest in classes that included people of different ages and abilities.",
+    "nextChapterOpeningEnglish": "The opening morning began with a problem nobody expected. A volunteer found a stage prop shaped like a bomb inside a box of old comedy materials. The object was marked as harmless, but the security officer still checked its source before letting it stay. Lian brushed dust from her cheek and agreed that the prop did not belong in the new show. Another worker had to crawl beneath a table to recover a dropped cable, and Ron stopped him until the power was disconnected. The festival committee had an election for two new volunteer representatives scheduled next month, but today its first responsibility was simple: use the safety rules already agreed upon, even when the audience was arriving."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "At dawn a delivery vehicle brought folding seats to the school, while an ambulance crew inspected the emergency entrance. A farm truck passed carrying cattle toward the upper fields. The town had lowered water behind a small dam, but the river authority warned that rain could still change conditions. Lian took a deep breath and checked the final route. Ron showed her a handy log of every technical test and the date it was completed. One contractor had made a dishonest claim that a speaker had been certified when no certificate existed. The team removed the speaker until documentation could be verified. Nobody liked losing equipment the day before the show, but safe use mattered more than convenience.",
+        "zh": "黎明時，送貨車把摺疊座椅送到學校，救護車團隊也檢查緊急入口。一輛農車載著牛群駛向高處牧地。鎮上已調低小水壩後方水位，但河川主管單位提醒，下雨仍可能改變情況。黎安深吸一口氣，查看最後動線。羅恩拿出方便查閱的紀錄表，列著每項技術測試及完成日期。一名承包商曾不誠實地宣稱喇叭已認證，實際卻沒有證書。團隊暫時撤下喇叭，等待文件查證。沒有人喜歡在演出前一天失去設備，但安全比方便重要。",
+        "englishSha256": "674358afecdf222260c278e126b10c51d2a22f4d7a722892563fdc58c009008e",
+        "chineseSha256": "f73ccf9666412b3ae840d4367065c54d214794126aad15905fc2d345777e3249"
+      },
+      {
+        "number": 2,
+        "en": "In the rehearsal room Ron examined the digital disk that held the music tracks. He had saved a backup copy in case the first failed. Lian said she disliked the new arrangement of one section and asked the dancers whether they agreed. Several preferred the original rhythm, while others found it harder to follow. They tested both versions instead of arguing from memory. A magnet on the whiteboard held their revised schedule in place. Outside the window a monk from the nearby temple walked toward a charity kitchen. The town had many forms of community service, and Lian was glad their festival could contribute one more without claiming to be the most important. She did not dislike the arrangement itself; she wanted to understand why the timing had changed.",
+        "zh": "排練室裡，羅恩檢查存放音樂檔的數位光碟，並保留備份，以防第一份失效。黎安說自己不喜歡某一段的新編曲，詢問舞者是否同意。幾人偏好原始節奏，也有人覺得較難跟上。大家試演兩種版本，而不是憑記憶爭辯。白板上的磁鐵固定著修改後的時程。窗外，附近寺院的僧人走向公益廚房。小鎮有許多形式的社區服務，黎安很高興節慶也能盡一份力，而不必宣稱自己最重要。 她並非不喜歡編排本身，而是想了解節奏為何更動。",
+        "englishSha256": "c70df8d089a1f764a46466ca77562bcb4b90ff748fae2c2cb86e7e41eeb2c44c",
+        "chineseSha256": "dcb5ea5ef924f2c77a381f46b1dd52ecfc1c692ac39891ecc5e328ab39dfca80"
+      },
+      {
+        "number": 3,
+        "en": "The kitchen volunteers prepared rice, shrimp, vegetables, and fruit for the performers. Ron asked them to omit an ingredient from one meal because a dancer had a documented allergy. They labeled the containers clearly and placed them away from the stage. Outside, a sudden gust began to scatter paper signs across the garden. Cora helped gather them and suggested using heavier stands. The replacement made the route more stable, but the school manager reminded the crew not to fix signs in a way that damaged the floor. Every improvement had to fit the rules of a shared building. Lian added the change to the site report.",
+        "zh": "廚房志工替表演者準備米飯、蝦子、蔬菜與水果。羅恩請他們從一份餐點中省去某項材料，因為舞者有已記錄的過敏。大家把容器清楚標示，放在遠離舞台的地方。屋外突然一陣風，紙製標示四處飛散。可拉一起撿回，建議換成較重的立架。替換後路線更穩定，但學校管理員提醒，固定標示不能破壞地板。任何改善都必須符合共用建築的規則。黎安把更動加進現場報告。",
+        "englishSha256": "c8c47e973b8e25a7cfcfe65978a665eb36bf4c812d59877fb69976eb441b89b8",
+        "chineseSha256": "415e5e05d3e23eea644f0c7e8e0bc92cf7780fe3db1a0eea2c7fdb4c3939ad24"
+      },
+      {
+        "number": 4,
+        "en": "The festival's licensed space ended at the garden gate. Beyond it lay public territory controlled by the town, so the crew could not simply place signs wherever they wished. A security officer walked the boundary with Ron and agreed on the correct positions. The work was tough, and several volunteers grew tired. Lian asked for rest breaks and a shorter final rehearsal. Cora supported the decision, pointing out that a tired performer was more likely to miss a cue. On the far side of the garden, a choir practiced a short verse for the opening ceremony. Its gentle sound drifted through the trees as the last boxes were moved into place. A sign pointed to a farther storage room for extra supplies, keeping the festival boundary clear.",
+        "zh": "節慶獲許可的空間只到花園大門，門外是鎮公所管理的公共區域，團隊不能想在哪裡放告示就放。安全人員陪羅恩走完邊界，同意正確位置。工作辛苦，幾名志工已疲累。黎安要求安排休息，並縮短最後一次排練。可拉支持，指出疲倦的表演者更容易錯過提示。花園另一邊，合唱團正練習開幕式的一小段歌詞。最後幾箱器材就位時，柔和聲音穿過樹木飄來。 一塊告示指向較遠的備品儲藏室，讓節慶邊界保持清楚。",
+        "englishSha256": "8df288a1f6d619b279693f139b07762f988ccf0659e626ac4956ab8bfa922312",
+        "chineseSha256": "3d426031dae73c63fd40ccafe65524f4f9b07ff8b6a8877259403aa4ce7de1d5"
+      },
+      {
+        "number": 5,
+        "en": "That evening Ron found Lian in the empty gym. She was looking at the chairs and counting exits, unable to stop checking. He asked whether she could name one thing she had done well today. She said they had caught the false speaker certificate. Then she added that Cora had improved the signs, and volunteers had kept the food safe. Ron smiled. The answer was longer than she realized. He told her he had accepted the three-month lighting contract, but planned to return afterward. Lian congratulated him and said she had applied for the choreography course. Neither apologized for wanting work that mattered to them.",
+        "zh": "那晚，羅恩在空體育館找到黎安。她正看著椅子數出口，停不下來檢查。他問她能不能說出今天做對的一件事。她說他們抓到假的喇叭證書，又補充可拉改善標示，志工也維持餐點安全。羅恩笑了。這份答案比她自己意識到的還長。他告訴她自己已接受三個月的燈光合約，之後打算回來。黎安恭喜他，說自己也申請了編舞課程。兩人都沒有為想要有意義的工作而道歉。",
+        "englishSha256": "090a9b98851197df5378aecfc83afed9d3cdcb23e90d104523db2a51914240b2",
+        "chineseSha256": "a6f3cc762f4dda0236e1d3ee6cea3fac661d9fb6bf15f3ba8b0d88ba3e7ce440"
+      },
+      {
+        "number": 6,
+        "en": "Before leaving, Lian walked the garden route one final time with the school manager. The lights were working, the signs stood firm, and the emergency vehicle path was clear. She signed the checklist without adding any claim that could not be supported. In a nearby classroom, volunteers practiced how to welcome visitors and how to respond to a canceled performance. The second lesson was as important as the first. Lian understood that tomorrow's success would not be measured only by applause. It would be measured by whether people could choose to join, feel respected while present, and return home safely afterward.",
+        "zh": "離開前，黎安和學校管理員最後一次走過花園動線。燈光正常、標示牢固，緊急車輛通道也暢通。她在清單上簽名，沒有加入任何缺乏證據的聲明。附近教室裡，志工練習迎接訪客，也練習表演取消時該如何回應。第二堂課和第一堂同樣重要。黎安知道明天成功與否不只看掌聲，還要看大家能否自由選擇參加，在場時受到尊重，事後又能安全回家。",
+        "englishSha256": "148b5614c4184ebae43ae9ae7d067544dfd5a646fd112b346f90a054d0704bf5",
+        "chineseSha256": "5101b86e7a55739ef042b1a73ee45111e79f3ba3bbbc9e2e942c5e9436b31151"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 686,
+    "targets": [
+      {
+        "word": "ambulance",
+        "meaning": "救護車",
+        "appearsInSource": true
+      },
+      {
+        "word": "breath",
+        "meaning": "呼吸",
+        "appearsInSource": true
+      },
+      {
+        "word": "cattle",
+        "meaning": "牛群",
+        "appearsInSource": true
+      },
+      {
+        "word": "dam",
+        "meaning": "水壩",
+        "appearsInSource": true
+      },
+      {
+        "word": "dawn",
+        "meaning": "黎明",
+        "appearsInSource": true
+      },
+      {
+        "word": "dishonest",
+        "meaning": "不誠實的",
+        "appearsInSource": true
+      },
+      {
+        "word": "disk",
+        "meaning": "磁碟",
+        "appearsInSource": true
+      },
+      {
+        "word": "dislike",
+        "meaning": "不喜歡",
+        "appearsInSource": true
+      },
+      {
+        "word": "farther",
+        "meaning": "更遠的",
+        "appearsInSource": true
+      },
+      {
+        "word": "handy",
+        "meaning": "方便的",
+        "appearsInSource": true
+      },
+      {
+        "word": "log",
+        "meaning": "紀錄",
+        "appearsInSource": true
+      },
+      {
+        "word": "magnet",
+        "meaning": "磁鐵",
+        "appearsInSource": true
+      },
+      {
+        "word": "monk",
+        "meaning": "僧侶",
+        "appearsInSource": true
+      },
+      {
+        "word": "omit",
+        "meaning": "省略",
+        "appearsInSource": true
+      },
+      {
+        "word": "scatter",
+        "meaning": "分散",
+        "appearsInSource": true
+      },
+      {
+        "word": "shrimp",
+        "meaning": "蝦子",
+        "appearsInSource": true
+      },
+      {
+        "word": "stable",
+        "meaning": "穩固的",
+        "appearsInSource": true
+      },
+      {
+        "word": "territory",
+        "meaning": "管轄區域",
+        "appearsInSource": true
+      },
+      {
+        "word": "tough",
+        "meaning": "艱難的",
+        "appearsInSource": true
+      },
+      {
+        "word": "verse",
+        "meaning": "詩節",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why is a speaker removed before the show?",
+      "options": [
+        "Its claimed certificate cannot be verified",
+        "It is painted the wrong color",
+        "The choir dislikes music"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Its claimed certificate cannot be verified",
+      "existingAnswerExplanation": "承包商聲稱的喇叭認證沒有文件，因此先撤除。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "At dawn a delivery vehicle brought folding seats to the school, while an ambulance crew inspected the emergency entrance. A farm truck passed carrying cattle toward the upper fields. The town had lowered water behind a small dam, but the river authority warned that rain could still change conditions. Lian took a deep breath and checked the final route. Ron showed her a handy log of every technical test and the date it was completed. One contractor had made a dishonest claim that a speaker had been certified when no certificate existed. The team removed the speaker until documentation could be verified. Nobody liked losing equipment the day before the show, but safe use mattered more than convenience.",
+          "chinese": "黎明時，送貨車把摺疊座椅送到學校，救護車團隊也檢查緊急入口。一輛農車載著牛群駛向高處牧地。鎮上已調低小水壩後方水位，但河川主管單位提醒，下雨仍可能改變情況。黎安深吸一口氣，查看最後動線。羅恩拿出方便查閱的紀錄表，列著每項技術測試及完成日期。一名承包商曾不誠實地宣稱喇叭已認證，實際卻沒有證書。團隊暫時撤下喇叭，等待文件查證。沒有人喜歡在演出前一天失去設備，但安全比方便重要。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 5,
+          "english": "That evening Ron found Lian in the empty gym. She was looking at the chairs and counting exits, unable to stop checking. He asked whether she could name one thing she had done well today. She said they had caught the false speaker certificate. Then she added that Cora had improved the signs, and volunteers had kept the food safe. Ron smiled. The answer was longer than she realized. He told her he had accepted the three-month lighting contract, but planned to return afterward. Lian congratulated him and said she had applied for the choreography course. Neither apologized for wanting work that mattered to them.",
+          "chinese": "那晚，羅恩在空體育館找到黎安。她正看著椅子數出口，停不下來檢查。他問她能不能說出今天做對的一件事。她說他們抓到假的喇叭證書，又補充可拉改善標示，志工也維持餐點安全。羅恩笑了。這份答案比她自己意識到的還長。他告訴她自己已接受三個月的燈光合約，之後打算回來。黎安恭喜他，說自己也申請了編舞課程。兩人都沒有為想要有意義的工作而道歉。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What does the crew do with unlabeled food risk?",
+      "options": [
+        "Serve it without asking",
+        "Check allergies and ingredients",
+        "Hide it behind the stage"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Check allergies and ingredients",
+      "existingAnswerExplanation": "餐點按過敏資訊調整並清楚標示。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "At dawn a delivery vehicle brought folding seats to the school, while an ambulance crew inspected the emergency entrance. A farm truck passed carrying cattle toward the upper fields. The town had lowered water behind a small dam, but the river authority warned that rain could still change conditions. Lian took a deep breath and checked the final route. Ron showed her a handy log of every technical test and the date it was completed. One contractor had made a dishonest claim that a speaker had been certified when no certificate existed. The team removed the speaker until documentation could be verified. Nobody liked losing equipment the day before the show, but safe use mattered more than convenience.",
+          "chinese": "黎明時，送貨車把摺疊座椅送到學校，救護車團隊也檢查緊急入口。一輛農車載著牛群駛向高處牧地。鎮上已調低小水壩後方水位，但河川主管單位提醒，下雨仍可能改變情況。黎安深吸一口氣，查看最後動線。羅恩拿出方便查閱的紀錄表，列著每項技術測試及完成日期。一名承包商曾不誠實地宣稱喇叭已認證，實際卻沒有證書。團隊暫時撤下喇叭，等待文件查證。沒有人喜歡在演出前一天失去設備，但安全比方便重要。",
+          "matchedQueryTerms": 1
+        },
+        {
+          "paragraph": 3,
+          "english": "The kitchen volunteers prepared rice, shrimp, vegetables, and fruit for the performers. Ron asked them to omit an ingredient from one meal because a dancer had a documented allergy. They labeled the containers clearly and placed them away from the stage. Outside, a sudden gust began to scatter paper signs across the garden. Cora helped gather them and suggested using heavier stands. The replacement made the route more stable, but the school manager reminded the crew not to fix signs in a way that damaged the floor. Every improvement had to fit the rules of a shared building. Lian added the change to the site report.",
+          "chinese": "廚房志工替表演者準備米飯、蝦子、蔬菜與水果。羅恩請他們從一份餐點中省去某項材料，因為舞者有已記錄的過敏。大家把容器清楚標示，放在遠離舞台的地方。屋外突然一陣風，紙製標示四處飛散。可拉一起撿回，建議換成較重的立架。替換後路線更穩定，但學校管理員提醒，固定標示不能破壞地板。任何改善都必須符合共用建築的規則。黎安把更動加進現場報告。",
+          "matchedQueryTerms": 1
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

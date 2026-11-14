@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 19,
+  "chapterId": "ss-r10-l4-a-19",
+  "sourceChapterSha256": "91ecbced6614c0401eda262aefed0fd73f9f2cb3cdb44b03a36f6e9686692449",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "電子訓練申請系統誤用競技場排名而排斥水管維修者，找到原採購令顯示企業只獲維修權未擁有公共時序。",
+    "previousChapterEndingEnglish": "Min said the hearing had once felt like a nightmare without an ending. Now she had a written decision, a colleague beside her, and work she still wanted to do. She knew the ruling could be challenged, so she kept copies of the evidence. Ning asked if she needed a rest before the next test. Min accepted a full evening off rather than pretending she had no limits.",
+    "nextChapterOpeningEnglish": "The council invited a detective to examine the altered timing reports. The investigator's first concern was communication: many workers believed they had to choose between loyalty to their employer and honesty about danger. Ning said loyalty should protect people, not a convenient story. An elderly man who had once begged for shelter stood at the hearing beside a respected carrier who had delivered emergency supplies. Their backgrounds were diverse, yet both had suffered when the ranking system refused to recognize ordinary needs. A private company claimed that its popularity made it the rightful owner of the network. Ning answered that public safety was not a costume anyone could wear merely by winning applause."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "More than fifty residents became applicants for the new volunteer signal program, and the city opened a digital application system to manage training. Ning asked a physician and a privacy adviser to review its classification rules. The first version labeled anyone without a fighter certificate as low value, although several were gifted technicians or experienced rescue workers. An investigator discovered that the manufacturer had copied those categories from the arena ranking software. The difference was not logical: a person's ability to inspect a valve did not depend on how hard they could punch. Ning requested that the system classify relevant skills and support needs instead. An applicant's dignity could not be reduced to a competitive score.",
+        "zh": "超過五十名居民申請加入新的志工訊號計畫，城市開設數位申請系統管理訓練。沈寧請醫師和隱私顧問檢查分類規則。第一版把沒有武者證書的人標成低價值，雖然其中有天賦出眾的技師和經驗豐富的救援人員。調查員發現製造商直接把競技排名軟體的分類複製過來。這不合邏輯：能不能檢查閥門，和拳頭有多重無關。沈寧要求系統改按相關技能及支援需求分類。申請人的尊嚴不能被競技分數壓縮。",
+        "englishSha256": "8f1a08136366bf11ebcc838d70e29b68818e8ec02268cd17a866876caca56961",
+        "chineseSha256": "b7ef597f86060ff0c603533c984f30a8a75b719fe6d2002981658789ec2df7f8"
+      },
+      {
+        "number": 2,
+        "en": "A comedy critic who had once written fiction about heroic fighters offered to test the new form for plain language. He said the original instructions resembled a bad joke: they demanded proof of experience, then rejected every kind of experience outside the arena. Han invited him to give a short lecture on readable public documents. Some officials feared that a critic would embarrass the city. Ning replied that occasional embarrassment was better than a system that quietly excluded capable people. The critic wrote two versions of the instructions and let the applicants choose which they understood more easily. Most selected the shorter version, which explained why information was collected and how it would be used.",
+        "zh": "一名曾寫過英雄武者小說的喜劇評論家願意測試新表單是否易懂。他說原指示像個爛笑話：要求經驗證明，卻排除競技場以外的所有經驗。韓瑜邀他開一場短講，談清楚易讀的公共文件。有官員怕評論家讓城市出糗，沈寧回答，偶爾尷尬總比系統默默排除有能力的人好。評論家寫了兩版指示，請申請人選容易理解的那版。大多數人選簡短版本，因為它說明收集資訊的原因及用途。",
+        "englishSha256": "58eb51e53491c3693f14a9cea6d440282503010641ed78e46bf1a3dfc42fa2e5",
+        "chineseSha256": "8c533e6d7d917e8690b777ea2897b116ae1430bfc0fa69435f986892224e54c5"
+      },
+      {
+        "number": 3,
+        "en": "At the training center, a broken washroom pipe began to flush water across the corridor. One applicant recognized the sound of the failed valve and closed the supply before anyone slipped. The arena computer had classified her as unqualified because she had never fought. Ning recorded the repair as direct evidence of useful skill. Later the applicant recalled that her grandmother had worked at the first shield tower, using a method that resembled today's timing checks. The memory was interesting, but Ning asked for supporting records before drawing a conclusion. Her philosophy was simple: listen to experience, then look for a way to test it. Otherwise the city would merely replace old ranking myths with new stories.",
+        "zh": "訓練中心的廁所水管突然壞了，水沖向走廊。一名申請人從聲音辨認失效閥門，在有人滑倒前關掉供水。競技電腦因她沒打過比賽，把她分類為不合格。沈寧把修理記為有用技能的直接證據。後來這名申請人回想祖母曾在第一座屏障塔工作，用的方式類似今天的時序檢查。記憶很有趣，但沈寧要求先找支持紀錄才下結論。她的理念簡單：聽經驗，再找方法測試。否則城市只是用新故事取代舊排名神話。",
+        "englishSha256": "b471d28f097387efb5d67f415eb6d3736b5e3a730615ee47752cca5f92697070",
+        "chineseSha256": "eb68bd7314607a227c6106cf4d4b6b97aa7cc9cf1422cd760e7ec93c742ea712"
+      },
+      {
+        "number": 4,
+        "en": "The investigation then turned to the center tower's missing records. A technician showed that the digital system had reserved an inspection slot for the arena sponsor even when he had not requested one. An ordinary resident, meanwhile, had been denied a reservation for a public meeting room. The software appeared to grant access by prestige rather than need. Ning requested a full audit and a paper procedure that would work if the network went down during the storm. She also asked applicants to check their own information before it was shared. Some chose to withdraw personal details not needed for training, and the team respected those choices. The records would remain useful without making every life public.",
+        "zh": "調查轉向中央塔遺失的紀錄。技師指出，數位系統即使贊助商未提出要求，也為他保留巡檢時段；相反地，普通居民預約公共會議室卻被拒絕。軟體似乎依地位而非需求決定使用權。沈寧要求全面稽核，也要求建立風暴中網路斷線仍可用的紙本程序。她請申請人先確認個資，再決定分享內容。有些人撤回訓練不需要的私人資料，團隊尊重其選擇。紀錄可以有用，而不必把每個人的人生都公開。",
+        "englishSha256": "c5f5c0869c2b90cb05057e0668d4de96ea423707c742fa16f14a8c05e94af799",
+        "chineseSha256": "baa0c853a3b48f1e7e97a1a1aed506c640a334b1765c264768efec133a4a01e2"
+      },
+      {
+        "number": 5,
+        "en": "That evening, the investigator found a copy of the original procurement order. It stated that the private company had permission to maintain the center tower, not to own the public timing signal. The distinction was important, but it would require legal review before the city could compel access. Ning refused to take the control room by force. She submitted the order, the altered records, and the witness statements to the council panel. Qiao asked whether this delay would cost them the storm. Ning answered that a safe temporary connection already existed for four towers. They would strengthen that system while the contract was reviewed, rather than risk losing everything through an illegal shortcut.",
+        "zh": "晚上，調查員找到最早的採購命令副本。上面寫明私人公司有權維護中央塔，卻沒有取得公共時序訊號的所有權。這個差別重要，但城市要強制開放仍須法律審查。沈寧拒絕用武力佔領控制室，而把命令、遭修改紀錄和證詞交給議會小組。羅喬問延誤是否會讓他們輸給風暴。沈寧回答，四塔已能安全臨時連線。他們會先加強那套系統，同時等合約審查，而不是走違法捷徑冒失去一切的風險。",
+        "englishSha256": "fd02cbbaab86374fdbf46b77c2f15d468e6ffde398fbb09273daa7a41be8ff59",
+        "chineseSha256": "6d3505c2be690b7b6af5cf3e29d55ed26353cf6d3259516633c7b57b232ff562"
+      },
+      {
+        "number": 6,
+        "en": "The first printed application guide contained a blank space where applicants could explain their practical skills in their own words. It did not guarantee a place on the team. Instead, it guaranteed that their evidence would be read. Ning believed that this small procedural change mattered: no computer category should make a resident invisible before a human reviewer had listened.",
+        "zh": "第一版紙本申請指南留有空欄，讓申請人用自己的話說明實際技能。這不保證一定入選，卻保證證據會被閱讀。沈寧認為這項程序上的小改變重要：在人類審查員聆聽前，電腦分類不該讓居民變得不存在。",
+        "englishSha256": "b280608e4365b7b122a6286456e1c205b5e885e94107790b826a02df90d9a146",
+        "chineseSha256": "0418bdb641496a81aced1346d0934c837bca88e80914281005432c0245f9d144"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 638,
+    "targets": [
+      {
+        "word": "applicant",
+        "meaning": "申請人",
+        "appearsInSource": true
+      },
+      {
+        "word": "application",
+        "meaning": "申請",
+        "appearsInSource": true
+      },
+      {
+        "word": "classification",
+        "meaning": "分類",
+        "appearsInSource": true
+      },
+      {
+        "word": "comedy",
+        "meaning": "喜劇",
+        "appearsInSource": true
+      },
+      {
+        "word": "critic",
+        "meaning": "評論家",
+        "appearsInSource": true
+      },
+      {
+        "word": "digital",
+        "meaning": "數位的",
+        "appearsInSource": true
+      },
+      {
+        "word": "fiction",
+        "meaning": "小說",
+        "appearsInSource": true
+      },
+      {
+        "word": "flush",
+        "meaning": "沖洗",
+        "appearsInSource": true
+      },
+      {
+        "word": "gifted",
+        "meaning": "有天賦的",
+        "appearsInSource": true
+      },
+      {
+        "word": "investigation",
+        "meaning": "調查",
+        "appearsInSource": true
+      },
+      {
+        "word": "lecture",
+        "meaning": "演講",
+        "appearsInSource": true
+      },
+      {
+        "word": "logical",
+        "meaning": "合乎邏輯的",
+        "appearsInSource": true
+      },
+      {
+        "word": "manufacturer",
+        "meaning": "製造商",
+        "appearsInSource": true
+      },
+      {
+        "word": "occasional",
+        "meaning": "偶爾的",
+        "appearsInSource": true
+      },
+      {
+        "word": "Otherwise",
+        "meaning": "否則",
+        "appearsInSource": true
+      },
+      {
+        "word": "philosophy",
+        "meaning": "哲學",
+        "appearsInSource": true
+      },
+      {
+        "word": "physician",
+        "meaning": "醫師",
+        "appearsInSource": true
+      },
+      {
+        "word": "recalled",
+        "meaning": "回想",
+        "appearsInSource": true
+      },
+      {
+        "word": "resembled",
+        "meaning": "類似",
+        "appearsInSource": true
+      },
+      {
+        "word": "reservation",
+        "meaning": "預約",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why was the original application system unfair?",
+      "options": [
+        "It used arena rankings to undervalue relevant noncombat skills.",
+        "It required everyone to use paper.",
+        "It invited too many technicians."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It used arena rankings to undervalue relevant noncombat skills.",
+      "existingAnswerExplanation": "原系統複製競技場分類，錯把非武者技術員判為低價值。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "More than fifty residents became applicants for the new volunteer signal program, and the city opened a digital application system to manage training. Ning asked a physician and a privacy adviser to review its classification rules. The first version labeled anyone without a fighter certificate as low value, although several were gifted technicians or experienced rescue workers. An investigator discovered that the manufacturer had copied those categories from the arena ranking software. The difference was not logical: a person's ability to inspect a valve did not depend on how hard they could punch. Ning requested that the system classify relevant skills and support needs instead. An applicant's dignity could not be reduced to a competitive score.",
+          "chinese": "超過五十名居民申請加入新的志工訊號計畫，城市開設數位申請系統管理訓練。沈寧請醫師和隱私顧問檢查分類規則。第一版把沒有武者證書的人標成低價值，雖然其中有天賦出眾的技師和經驗豐富的救援人員。調查員發現製造商直接把競技排名軟體的分類複製過來。這不合邏輯：能不能檢查閥門，和拳頭有多重無關。沈寧要求系統改按相關技能及支援需求分類。申請人的尊嚴不能被競技分數壓縮。",
+          "matchedQueryTerms": 9
+        },
+        {
+          "paragraph": 2,
+          "english": "A comedy critic who had once written fiction about heroic fighters offered to test the new form for plain language. He said the original instructions resembled a bad joke: they demanded proof of experience, then rejected every kind of experience outside the arena. Han invited him to give a short lecture on readable public documents. Some officials feared that a critic would embarrass the city. Ning replied that occasional embarrassment was better than a system that quietly excluded capable people. The critic wrote two versions of the instructions and let the applicants choose which they understood more easily. Most selected the shorter version, which explained why information was collected and how it would be used.",
+          "chinese": "一名曾寫過英雄武者小說的喜劇評論家願意測試新表單是否易懂。他說原指示像個爛笑話：要求經驗證明，卻排除競技場以外的所有經驗。韓瑜邀他開一場短講，談清楚易讀的公共文件。有官員怕評論家讓城市出糗，沈寧回答，偶爾尷尬總比系統默默排除有能力的人好。評論家寫了兩版指示，請申請人選容易理解的那版。大多數人選簡短版本，因為它說明收集資訊的原因及用途。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the procurement order say?",
+      "options": [
+        "The company owned every public timing signal.",
+        "The company could maintain the tower but did not own the public signal.",
+        "No one could inspect any equipment."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The company could maintain the tower but did not own the public signal.",
+      "existingAnswerExplanation": "原命令授權私人公司維護設備，未授予公共訊號所有權。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "That evening, the investigator found a copy of the original procurement order. It stated that the private company had permission to maintain the center tower, not to own the public timing signal. The distinction was important, but it would require legal review before the city could compel access. Ning refused to take the control room by force. She submitted the order, the altered records, and the witness statements to the council panel. Qiao asked whether this delay would cost them the storm. Ning answered that a safe temporary connection already existed for four towers. They would strengthen that system while the contract was reviewed, rather than risk losing everything through an illegal shortcut.",
+          "chinese": "晚上，調查員找到最早的採購命令副本。上面寫明私人公司有權維護中央塔，卻沒有取得公共時序訊號的所有權。這個差別重要，但城市要強制開放仍須法律審查。沈寧拒絕用武力佔領控制室，而把命令、遭修改紀錄和證詞交給議會小組。羅喬問延誤是否會讓他們輸給風暴。沈寧回答，四塔已能安全臨時連線。他們會先加強那套系統，同時等合約審查，而不是走違法捷徑冒失去一切的風險。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 1,
+          "english": "More than fifty residents became applicants for the new volunteer signal program, and the city opened a digital application system to manage training. Ning asked a physician and a privacy adviser to review its classification rules. The first version labeled anyone without a fighter certificate as low value, although several were gifted technicians or experienced rescue workers. An investigator discovered that the manufacturer had copied those categories from the arena ranking software. The difference was not logical: a person's ability to inspect a valve did not depend on how hard they could punch. Ning requested that the system classify relevant skills and support needs instead. An applicant's dignity could not be reduced to a competitive score.",
+          "chinese": "超過五十名居民申請加入新的志工訊號計畫，城市開設數位申請系統管理訓練。沈寧請醫師和隱私顧問檢查分類規則。第一版把沒有武者證書的人標成低價值，雖然其中有天賦出眾的技師和經驗豐富的救援人員。調查員發現製造商直接把競技排名軟體的分類複製過來。這不合邏輯：能不能檢查閥門，和拳頭有多重無關。沈寧要求系統改按相關技能及支援需求分類。申請人的尊嚴不能被競技分數壓縮。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

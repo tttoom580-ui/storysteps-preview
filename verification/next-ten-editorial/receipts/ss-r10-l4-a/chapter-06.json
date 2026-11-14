@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 6,
+  "chapterId": "ss-r10-l4-a-6",
+  "sourceChapterSha256": "a3f3c456aa7e6c7be43e5c62f0d349d4acfe13083c5576d63ec573b29803009e",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "東塔周年典禮集體固定頻率比羅喬單獨踏步更有訊號，水管漏水時立即停機，發現第二條舊塔通道。",
+    "previousChapterEndingEnglish": "The vote did not give Ning full authority. It approved one carefully supervised test, kept the arena running, and required medical observers to sign every safety report. Ning accepted the limited victory because the experiment could begin without sacrificing anyone's choice. When she left the hall, dozens of citizens were waiting outside. Some praised her, some insulted her, and many questioned the behavior of their district officials. They wanted to know whether their homes would be safe. She answered what she knew and admitted what remained uncertain. At home she found a letter slipped beneath her door. It contained a photograph of a shield controller with its seal broken, and a note: 'The first tower was never meant to be alone.' The next test would begin at sunrise.",
+    "nextChapterOpeningEnglish": "Frost covered the northern tower so thickly that its inspection stairs were almost invisible. Ning arrived with a plumber, a physician, and two trainees who had recently received their technical diplomas. A helicopter circled overhead but could not land in the intense wind. A herd of pack animals stood near the road, including an exhausted mule carrying water to the tower. A competitor from the arena complained that the workers were moving too slowly. Ning pointed out that their surroundings were not a training ground. One slight mistake could injure someone or send an animal down the slope. The first duty was to adapt the route to actual conditions, not force everyone to meet a heroic timetable."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The eastern tower opened its gates on the anniversary of the city's first successful shield test. A public campaign had brought hundreds of visitors, but Ning persuaded the organizers to leave the machinery accessible to inspectors. The original cables were tied with coarse cord and marked by symbols from the last dynasty. Salim said the labels came from an older repair tradition in his family, and he offered to translate them. The tower conductor, a woman responsible for directing emergency movement, assured Ning that workers could stop the ceremony if any reading became unsafe. Ning appreciated her courage. A celebration could honor the past without forcing people to copy every decision made by their ancestors.",
+        "zh": "東區防護塔在城市第一次成功測試的週年紀念日開放。一場宣傳活動吸引數百名訪客，但沈寧說服主辦方保留機房供巡檢人員出入。最早的電纜以粗糙繩索綁住，標有前朝代的符號。薩林說家族舊時的維修傳統也使用這些標記，願意協助翻譯。負責指引緊急人流的女指揮員向沈寧保證，任何讀數不安全，工作人員都能中止儀式。沈寧欣賞她的勇氣。慶典可以紀念過去，不必強迫大家照搬祖先的每個決定。",
+        "englishSha256": "122abcde3ed89b8a0b1a61fc9d7a81c173f860aa7257f90e9494581367c0a12e",
+        "chineseSha256": "6886d92e1b01393ac6ea54a49e01a4ce80698fa0d7c8f2ce0574b9467ff8744a"
+      },
+      {
+        "number": 2,
+        "en": "Ning's technician colleague Min devised a test using a line of lamps along the old copper cord. When people stepped at a steady frequency, the lamps reflected a small pulse. When Qiao copied the same pace alone, the signal grew weaker despite her greater physical strength. A loud imitation of a battle drum made visitors step at different times, and the lamps dimmed. The result complicated the ministry's claim that more force always meant more energy. Min measured the labor required to keep the test running and wrote it into the safety budget. Volunteers were not free equipment. Each person needed rest, water, and a reasonable choice about whether to continue.",
+        "zh": "維修技師敏敏設計一項測試，沿著舊銅線排上一列燈。當人們以穩定頻率踏步時，燈會反映出微弱脈衝。羅喬獨自模仿同樣節奏，即使力量較大，訊號卻更弱。有人模仿戰鼓敲出巨響，訪客踏步時間變亂，燈也暗了。這項結果使主管部門「力量越大、能量越強」的說法變得複雜。敏敏記下維持測試所需的勞動時間，列入安全預算。志工不是免費設備；每個人都需要休息、水和自行決定是否繼續的合理權利。",
+        "englishSha256": "34e0a55867007c07d91904ccea0cc012b09351608f440bd54845023528a52b93",
+        "chineseSha256": "1801c067bc4130e912628c54f1a8654661500f32c5cbfd881771d725708b902b"
+      },
+      {
+        "number": 3,
+        "en": "In the basement, a pump began pushing mineral-rich water through a narrow pipe. Foam gathered near a worn seal, and an engineer warned that the wet floor could conduct electricity. Ning stopped the test at once. She asked the diligent workers to isolate the power and place barriers around the pipe. The conductor redirected visitors toward an upper exit, where the route remained dry. Some people complained that a tiny leak could not justify stopping a major ceremony. Ning showed them a photograph of the connector and asked whether they would make the same claim if a child were standing beside it. The complaint softened. A test that ignored small hazards could not produce trustworthy evidence about a large storm.",
+        "zh": "地下室裡，一座水泵開始把含礦物質的水送進細管。磨損密封處聚起泡沫，工程師警告濕地可能導電。沈寧立刻停止測試，請勤勉的工人切斷電源，在水管周圍設置障礙。指揮員帶訪客走向地面乾燥的上層出口。有些人抱怨小漏水不值得中止盛大典禮。沈寧給他們看接頭照片，問如果孩子站在旁邊，他們是否還會這樣說。抱怨聲漸漸小了。忽視小危險的測試，無法提供可信的大風暴證據。",
+        "englishSha256": "70f358e76c719875adc4ca45eedbc57f0da07e5e17172e913aa991c1dbd7b8e7",
+        "chineseSha256": "a62c4dfa75ee1e1ff9ac65786739aac23c7b81d0141bee5e283b5983fd470696"
+      },
+      {
+        "number": 4,
+        "en": "The official evaluation began after the floor dried. Ning compared the old conductor's notes with the current shield graph. The pulses had the same shape, although their numbers came from different instruments. A psychologist invited to observe the crowd described a familiar pattern: when people expected a champion to save them, they sometimes ignored the quiet work of those standing nearby. Ning asked her to make the psychology report public, but not to label anyone weak. The psychologist agreed. Nearby, a group from a needy district asked why the tower opened only during celebrations. Their roofs leaked all winter. Ning promised no miracle; she gave them the inspection timetable and invited them to name the broken places themselves.",
+        "zh": "地面乾燥後，正式評估才開始。沈寧比較舊指揮員的筆記與目前屏障圖表。兩者脈衝形狀相同，雖然使用不同儀器記錄數值。一位受邀觀察人群的心理學家描述常見現象：人們以為冠軍會來拯救自己，便容易忽略身旁默默工作的人。沈寧請她公開心理學報告，但不要把任何人貼上軟弱標籤，對方同意。附近貧困街區的居民問，為什麼防護塔只在慶典期間開放，他們的屋頂整個冬天都漏水。沈寧沒有保證奇蹟，只交給他們巡檢時刻表，請他們自己指出損壞處。",
+        "englishSha256": "cc094824f1ef9e9fee19314bd962dfed3d869216b934156fa4fe512e8b6417fa",
+        "chineseSha256": "ee6397b3c73180a13f2da7c81db71d7789323d6837ba7769ce371b1e76cda40a"
+      },
+      {
+        "number": 5,
+        "en": "At sunset, Min found a second channel beneath the anniversary plaque. It carried a delayed signal from another tower, exactly as the old map had suggested. The city had once operated a network, not a collection of isolated champions' platforms. Ning photographed the cable and sent the evaluation to three independent technicians. She also wrote down how much labor the day's repair had required, so the council could not describe the work as free. Qiao asked if the network could survive a storm. Ning admitted she did not know. The answer depended on every neglected tower, and the next inspection would take them into the frozen northern district. The lesson of the ceremony was neither hope nor fear alone: accurate measurement required both.",
+        "zh": "日落時，敏敏在週年紀念牌下找到第二條通道，裡面傳來另一座塔的延遲訊號，正符合舊地圖所示。城市以前靠的是網路，而不是彼此孤立的冠軍舞臺。沈寧拍下電纜，將評估送給三位獨立技師。她也記錄當天維修所需的勞動，避免議會把工作說成免費。羅喬問網路能否撐過風暴。沈寧坦承不知道，答案取決於每座被忽略的防護塔。下一次巡檢要去結霜的北區。這場典禮教會他們的既不只是希望，也不只是恐懼：準確的測量同時需要兩者。",
+        "englishSha256": "bf344e9da65116c0f0540c7b72134f857aa07db1cf0e2344b74ded6377b6bd72",
+        "chineseSha256": "2737bdcdd81891ddc0079d7946fa4bb89a1f3945f85a46672430e83e6db4db65"
+      },
+      {
+        "number": 6,
+        "en": "Before leaving, the conductor asked a courageous young mechanic to explain the day's failure to the waiting families. He did not hide the leak or promise that it would never happen again. Ning thanked him for speaking plainly. She added his description to the public record, with a note that the repair would be checked after the next heavy rain. The crowd listened more carefully than anyone had expected.",
+        "zh": "離開前，指揮員請一名勇敢的年輕技工向等待的家庭說明當天故障。他沒有隱瞞漏水，也不保證永不再發生。沈寧謝謝他坦白。她把說明加入公開紀錄，並註明下次大雨後要再檢查修理成果。人群比任何人預期的都聽得仔細。",
+        "englishSha256": "4965093706535b69131b86ae8f5bc259117401b71c4074f22c59997fc93c735b",
+        "chineseSha256": "6ef4074c94144d017f976b8ff4f528596655612c0faefef7f763e874712fe370"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 656,
+    "targets": [
+      {
+        "word": "anniversary",
+        "meaning": "週年紀念",
+        "appearsInSource": true
+      },
+      {
+        "word": "assured",
+        "meaning": "保證",
+        "appearsInSource": true
+      },
+      {
+        "word": "campaign",
+        "meaning": "活動",
+        "appearsInSource": true
+      },
+      {
+        "word": "coarse",
+        "meaning": "粗糙的",
+        "appearsInSource": true
+      },
+      {
+        "word": "complicated",
+        "meaning": "使複雜",
+        "appearsInSource": true
+      },
+      {
+        "word": "conductor",
+        "meaning": "指揮者",
+        "appearsInSource": true
+      },
+      {
+        "word": "cord",
+        "meaning": "繩索",
+        "appearsInSource": true
+      },
+      {
+        "word": "courageous",
+        "meaning": "勇敢的",
+        "appearsInSource": true
+      },
+      {
+        "word": "devised",
+        "meaning": "設計",
+        "appearsInSource": true
+      },
+      {
+        "word": "diligent",
+        "meaning": "勤勉的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dynasty",
+        "meaning": "朝代",
+        "appearsInSource": true
+      },
+      {
+        "word": "evaluation",
+        "meaning": "評估",
+        "appearsInSource": true
+      },
+      {
+        "word": "Foam",
+        "meaning": "泡沫",
+        "appearsInSource": true
+      },
+      {
+        "word": "frequency",
+        "meaning": "頻率",
+        "appearsInSource": true
+      },
+      {
+        "word": "imitation",
+        "meaning": "模仿",
+        "appearsInSource": true
+      },
+      {
+        "word": "labor",
+        "meaning": "勞動",
+        "appearsInSource": true
+      },
+      {
+        "word": "mineral",
+        "meaning": "礦物",
+        "appearsInSource": true
+      },
+      {
+        "word": "needy",
+        "meaning": "有需要的",
+        "appearsInSource": true
+      },
+      {
+        "word": "psychology",
+        "meaning": "心理學",
+        "appearsInSource": true
+      },
+      {
+        "word": "reflected",
+        "meaning": "反射",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What did the anniversary test show about coordinated movement?",
+      "options": [
+        "It weakened the shield whenever people rested.",
+        "It created a signal that Qiao could not reproduce as strongly alone.",
+        "It caused the tower to lose all water."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "It created a signal that Qiao could not reproduce as strongly alone.",
+      "existingAnswerExplanation": "群體以固定頻率移動時燈會反應，羅喬獨自模仿卻產生較弱訊號。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The eastern tower opened its gates on the anniversary of the city's first successful shield test. A public campaign had brought hundreds of visitors, but Ning persuaded the organizers to leave the machinery accessible to inspectors. The original cables were tied with coarse cord and marked by symbols from the last dynasty. Salim said the labels came from an older repair tradition in his family, and he offered to translate them. The tower conductor, a woman responsible for directing emergency movement, assured Ning that workers could stop the ceremony if any reading became unsafe. Ning appreciated her courage. A celebration could honor the past without forcing people to copy every decision made by their ancestors.",
+          "chinese": "東區防護塔在城市第一次成功測試的週年紀念日開放。一場宣傳活動吸引數百名訪客，但沈寧說服主辦方保留機房供巡檢人員出入。最早的電纜以粗糙繩索綁住，標有前朝代的符號。薩林說家族舊時的維修傳統也使用這些標記，願意協助翻譯。負責指引緊急人流的女指揮員向沈寧保證，任何讀數不安全，工作人員都能中止儀式。沈寧欣賞她的勇氣。慶典可以紀念過去，不必強迫大家照搬祖先的每個決定。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 5,
+          "english": "At sunset, Min found a second channel beneath the anniversary plaque. It carried a delayed signal from another tower, exactly as the old map had suggested. The city had once operated a network, not a collection of isolated champions' platforms. Ning photographed the cable and sent the evaluation to three independent technicians. She also wrote down how much labor the day's repair had required, so the council could not describe the work as free. Qiao asked if the network could survive a storm. Ning admitted she did not know. The answer depended on every neglected tower, and the next inspection would take them into the frozen northern district. The lesson of the ceremony was neither hope nor fear alone: accurate measurement required both.",
+          "chinese": "日落時，敏敏在週年紀念牌下找到第二條通道，裡面傳來另一座塔的延遲訊號，正符合舊地圖所示。城市以前靠的是網路，而不是彼此孤立的冠軍舞臺。沈寧拍下電纜，將評估送給三位獨立技師。她也記錄當天維修所需的勞動，避免議會把工作說成免費。羅喬問網路能否撐過風暴。沈寧坦承不知道，答案取決於每座被忽略的防護塔。下一次巡檢要去結霜的北區。這場典禮教會他們的既不只是希望，也不只是恐懼：準確的測量同時需要兩者。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Ning stop the demonstration in the basement?",
+      "options": [
+        "A pipe leak made the wet floor electrically unsafe.",
+        "The mayor disliked the ceremony.",
+        "The conductor forgot the music."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A pipe leak made the wet floor electrically unsafe.",
+      "existingAnswerExplanation": "礦物質水管漏水可能導電，沈寧先中止實驗並切斷電源。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "In the basement, a pump began pushing mineral-rich water through a narrow pipe. Foam gathered near a worn seal, and an engineer warned that the wet floor could conduct electricity. Ning stopped the test at once. She asked the diligent workers to isolate the power and place barriers around the pipe. The conductor redirected visitors toward an upper exit, where the route remained dry. Some people complained that a tiny leak could not justify stopping a major ceremony. Ning showed them a photograph of the connector and asked whether they would make the same claim if a child were standing beside it. The complaint softened. A test that ignored small hazards could not produce trustworthy evidence about a large storm.",
+          "chinese": "地下室裡，一座水泵開始把含礦物質的水送進細管。磨損密封處聚起泡沫，工程師警告濕地可能導電。沈寧立刻停止測試，請勤勉的工人切斷電源，在水管周圍設置障礙。指揮員帶訪客走向地面乾燥的上層出口。有些人抱怨小漏水不值得中止盛大典禮。沈寧給他們看接頭照片，問如果孩子站在旁邊，他們是否還會這樣說。抱怨聲漸漸小了。忽視小危險的測試，無法提供可信的大風暴證據。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The eastern tower opened its gates on the anniversary of the city's first successful shield test. A public campaign had brought hundreds of visitors, but Ning persuaded the organizers to leave the machinery accessible to inspectors. The original cables were tied with coarse cord and marked by symbols from the last dynasty. Salim said the labels came from an older repair tradition in his family, and he offered to translate them. The tower conductor, a woman responsible for directing emergency movement, assured Ning that workers could stop the ceremony if any reading became unsafe. Ning appreciated her courage. A celebration could honor the past without forcing people to copy every decision made by their ancestors.",
+          "chinese": "東區防護塔在城市第一次成功測試的週年紀念日開放。一場宣傳活動吸引數百名訪客，但沈寧說服主辦方保留機房供巡檢人員出入。最早的電纜以粗糙繩索綁住，標有前朝代的符號。薩林說家族舊時的維修傳統也使用這些標記，願意協助翻譯。負責指引緊急人流的女指揮員向沈寧保證，任何讀數不安全，工作人員都能中止儀式。沈寧欣賞她的勇氣。慶典可以紀念過去，不必強迫大家照搬祖先的每個決定。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

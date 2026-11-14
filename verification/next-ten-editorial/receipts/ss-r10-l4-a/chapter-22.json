@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 22,
+  "chapterId": "ss-r10-l4-a-22",
+  "sourceChapterSha256": "5fa531f54550ee43ab532aa75de7d5b52e57771ac3cd68bad4bc29a972a002cb",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "午夜風暴期間隔離私人積分線的衝突訊號，北東兩塔回穩；避難所無障礙側門向家庭開放。",
+    "previousChapterEndingEnglish": "At sunset, the arena sent one final offer: if Qiao returned to the championship, the company would restore her full publicity contract. She gave a brief farewell to the ranking program and chose to remain with the safety team for the storm. It was not a rejection of fighting itself; she still intended to teach safe competition after the emergency. Ning appreciated the distinction. The day's practice had shown that a network could adjust without commanding every individual movement. As the volunteers left, a distant line of dark clouds covered the mountains. The weather office warned that the first serious pressure wave might arrive overnight. The real test would begin with people sleeping, not cheering.",
+    "nextChapterOpeningEnglish": "The coastal radar station reported an artificial signal coming from the sea. Some officials wanted to treat it as an enemy attack and launch a military response. Ning asked the laboratory team to calculate the direction and compare it with the weather observations. The signal turned out to be an echo from damaged metal near the harbor, not an invading force. Despite the tense atmosphere, the team did not begin a contest to see who could offer the most dramatic theory. Their peer review identified the faulty reading and corrected it before the wrong information reached the shelters. Ning felt relieved. A false prediction could move thousands of people into danger even without a single broken tower."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The storm reached the northern arch just after midnight. Rainwater crept across the road and pooled beside the old admissions office. The shelter had reached nearly its full capacity, so the staff opened a second room and checked the emergency gear. A family arrived with a child wrapped in a quilt. The child had difficulty walking, and the nearest entrance had three steps. Salim guided them to an accessible side door without asking for an arena certificate. He remembered how the old rules had placed such families at a disadvantage. The new procedure took more thought than a simple ranking, but it was already working when the wind rose. Ning confirmed that the side door could be secured from inside.",
+        "zh": "風暴在午夜過後抵達北方石拱門。雨水慢慢爬過道路，積在舊入所辦公室旁。避難所幾乎達到容量上限，員工開啟第二間房，檢查緊急裝備。一家人帶著裹棉被的孩子抵達，孩子走路不方便，最近的入口卻有三級臺階。薩林引導他們走無障礙側門，沒有詢問競技證明。他記得舊規定如何讓這些家庭處於劣勢。新程序比簡單排名需要更多思考，但風起時已開始奏效。沈寧確認側門能從裡面安全鎖住。",
+        "englishSha256": "95e78e0daf75d682eda6c5789fecdf2b913cd610a2698d96de46a7ab4118bb54",
+        "chineseSha256": "1d7b64d37411486608cf53a946eaa34a5d62f9dbfb3fb036e0e49e99f6e08645"
+      },
+      {
+        "number": 2,
+        "en": "In the control room, an elementary sensor lesson became urgent. The central tower sent two signals at once, one from its private scoring machine and another from the public timing clock. The mismatch threw the eastern towers out of step. Min was furious that the manager had left the scoring line active after the council order. She wanted to disconnect it immediately, but Ning asked her to converse with the independent observer first. The correct cable had to be identified before anyone touched a switch. The crew checked multiple labels, confirmed the live connection, and then isolated the scoring line. They did not damage the owner's equipment. The public clock signal returned, weak but consistent.",
+        "zh": "控制室裡，初級感測課程突然變成緊急任務。中央塔同時傳送兩種訊號：一種來自私人計分機，另一種來自公共時鐘。兩者不一致，使東區塔失去同步。敏敏憤怒於經理在議會命令後仍留著計分線。她想立刻斷開，沈寧請她先和獨立觀察員討論。觸碰開關前必須確認正確纜線。團隊檢查多個標籤，核實帶電連接後才隔離計分線。他們沒有破壞所有者的設備。公共時鐘訊號恢復了，雖然微弱，卻保持一致。",
+        "englishSha256": "55b884a297f6737e5396660c7b353ea88083bf216455f01664e404bdac69ffaf",
+        "chineseSha256": "bb447590896ed51f450565720a7ae05c3d0df9e2d49b5012e385f54af13e124b"
+      },
+      {
+        "number": 3,
+        "en": "A metal hook broke loose from the shelter roof and struck the ground near an empty doorway. An electrical spark flashed where the hook hit a damaged socket. The nurse ordered that section closed, and a worker used an insulated tool to remove the danger only after the power was isolated. No one had been stabbed or seriously hurt, but the incident showed why the building required constant attention. A respectable former champion offered to guard the closed area while the staff moved residents elsewhere. He did not ask for extra points. His cooperation reduced the pressure on the nurses, who were already caring for exhausted families through the overnight emergency.",
+        "zh": "避難所屋頂一個金屬鉤子鬆脫，落在空門口旁的地面。鉤子碰到受損插座時閃出電火花。護理師命令封閉那一區，工作人員先切斷電源，再以絕緣工具排除危險。沒有人遭刺傷或嚴重受傷，但事件顯示建築需要持續注意。一名值得尊敬的前冠軍自願看守封閉區，讓員工轉移居民。他沒要求額外積分。他的合作減輕護理師壓力，因為她們正整夜照顧疲憊家庭。",
+        "englishSha256": "5da1c887d05cde9b503fbd90be7f24653e7f9ef53795ad54e0306d2237279ee2",
+        "chineseSha256": "40049f05c79910adf2370595aeca83b274a84f54f9a5f3598a83fc1c51a5c25e"
+      },
+      {
+        "number": 4,
+        "en": "At three in the morning, a worker argued that the city should lock the center tower's owner in a room until he cooperated. Lei refused. He understood the anger but said hatred would not make the signal more accurate. Ning agreed that the manager's actions needed investigation and possible penalties through the proper process. The immediate task was to keep residents safe. The team used the public contract's emergency clause to maintain the timing connection under observation. A second group moved medical supplies away from the flooded hall. Nobody treated the storm as permission to abandon the rights of an unpopular person. The system they were building had to remain fair precisely when people felt afraid.",
+        "zh": "凌晨三點，有工人主張把中央塔所有者鎖在房裡，直到他願意合作。雷川反對。他理解憤怒，卻說仇恨不會讓訊號更準確。沈寧同意經理行為需要調查，必要時循正當程序處罰；眼前任務仍是保護居民。團隊依公共合約緊急條款，在監督下維持時序連線。另一組把醫療物資搬離淹水大廳。沒有人把風暴當成剝奪不受歡迎者權利的許可。他們正在建立的制度，正應在恐懼時保持公平。",
+        "englishSha256": "749731d1cd350bd3ce40c275ea859fba621573b340ae164ad9c84f7f37332c80",
+        "chineseSha256": "e50de4c3265c808a1e53c23fdaa025d7dcbe90e303a3e68cdf92e21e677ab4af"
+      },
+      {
+        "number": 5,
+        "en": "In a narrow service passage, rainwater began to creep toward an electrical box. Min warned that isolation of the affected circuit was essential before anyone attempted a repair. A loose nail could stab a worker's hand if the crew rushed blindly. Ning called the repair team back, checked the safety gear, and waited for a verified power cutoff. The minutes felt expensive, but no reading on the screen could justify a preventable injury.",
+        "zh": "狹窄的維修通道裡，雨水開始慢慢爬向電箱。敏敏警告，修理前必須先隔離受影響電路。若工班盲目搶快，一根鬆釘就可能刺傷工人的手。沈寧召回維修隊，檢查安全裝備，等待確認斷電。每分鐘都顯得昂貴，但螢幕上沒有任何數值值得換取可避免的傷害。",
+        "englishSha256": "2bedfc44909159c8662490eedaeaf4f26e8c3d5c438ab8b8bc57ea0564725c09",
+        "chineseSha256": "7091b77cb50b4c14c908ab15afeea15d34dd984b29e3544d96d191f9305ee748"
+      },
+      {
+        "number": 6,
+        "en": "Before dawn, the north and east towers answered one another with stable pulses. The shelter remained crowded but orderly, and its staff had not excluded anyone by rank. Ning walked through the corridors to check that volunteers had water and a place to rest. At the stone arch she met the family who had arrived with the quilt. Their child was asleep, and the mother asked whether the storm was over. Ning told her the truth: the first wave had passed, but the larger one was still coming. The mother thanked her for not pretending certainty. Outside, the rain began to fall sideways, and the five-tower monitor showed a warning from the coast.",
+        "zh": "天亮前，北塔與東塔以穩定脈衝互相回應。避難所雖擁擠卻有秩序，員工沒有依排名排除任何人。沈寧巡視走廊，確認志工有水喝、有地方休息。石拱門下，她遇見裹棉被入所的家庭。孩子睡著了，母親問風暴是否結束。沈寧說實話：第一波已過，更大的一波還在後面。母親謝謝她沒有假裝確定。外頭雨開始橫著落，五塔監視器顯示來自海岸的警告。",
+        "englishSha256": "41f6a2562d4567e546fef68142421b3526631a19e4faceecf8cdb65eb8b2a5ee",
+        "chineseSha256": "77af831dfa9214d503494e47889f59423156cd74ebac54806b924f30a46167a0"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 648,
+    "targets": [
+      {
+        "word": "admissions",
+        "meaning": "准入",
+        "appearsInSource": true
+      },
+      {
+        "word": "arch",
+        "meaning": "拱門",
+        "appearsInSource": true
+      },
+      {
+        "word": "capacity",
+        "meaning": "容量",
+        "appearsInSource": true
+      },
+      {
+        "word": "converse",
+        "meaning": "交談",
+        "appearsInSource": true
+      },
+      {
+        "word": "cooperation",
+        "meaning": "合作",
+        "appearsInSource": true
+      },
+      {
+        "word": "creep",
+        "meaning": "慢慢爬",
+        "appearsInSource": true
+      },
+      {
+        "word": "disadvantage",
+        "meaning": "劣勢",
+        "appearsInSource": true
+      },
+      {
+        "word": "elementary",
+        "meaning": "初級的",
+        "appearsInSource": true
+      },
+      {
+        "word": "furious",
+        "meaning": "憤怒的",
+        "appearsInSource": true
+      },
+      {
+        "word": "gear",
+        "meaning": "齒輪",
+        "appearsInSource": true
+      },
+      {
+        "word": "hatred",
+        "meaning": "憎恨",
+        "appearsInSource": true
+      },
+      {
+        "word": "hook",
+        "meaning": "鉤子",
+        "appearsInSource": true
+      },
+      {
+        "word": "isolation",
+        "meaning": "隔離",
+        "appearsInSource": true
+      },
+      {
+        "word": "multiple",
+        "meaning": "多個的",
+        "appearsInSource": true
+      },
+      {
+        "word": "overnight",
+        "meaning": "過夜",
+        "appearsInSource": true
+      },
+      {
+        "word": "quilt",
+        "meaning": "棉被",
+        "appearsInSource": true
+      },
+      {
+        "word": "respectable",
+        "meaning": "值得尊敬的",
+        "appearsInSource": true
+      },
+      {
+        "word": "secured",
+        "meaning": "安全的",
+        "appearsInSource": true
+      },
+      {
+        "word": "spark",
+        "meaning": "火花",
+        "appearsInSource": true
+      },
+      {
+        "word": "stab",
+        "meaning": "刺傷",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why was the private scoring line isolated?",
+      "options": [
+        "It sent a conflicting signal that disturbed synchronization.",
+        "It had no electricity.",
+        "The council wanted to punish every fighter."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "It sent a conflicting signal that disturbed synchronization.",
+      "existingAnswerExplanation": "計分機與公共時鐘同時送出相衝訊號，影響塔間同步。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "In the control room, an elementary sensor lesson became urgent. The central tower sent two signals at once, one from its private scoring machine and another from the public timing clock. The mismatch threw the eastern towers out of step. Min was furious that the manager had left the scoring line active after the council order. She wanted to disconnect it immediately, but Ning asked her to converse with the independent observer first. The correct cable had to be identified before anyone touched a switch. The crew checked multiple labels, confirmed the live connection, and then isolated the scoring line. They did not damage the owner's equipment. The public clock signal returned, weak but consistent.",
+          "chinese": "控制室裡，初級感測課程突然變成緊急任務。中央塔同時傳送兩種訊號：一種來自私人計分機，另一種來自公共時鐘。兩者不一致，使東區塔失去同步。敏敏憤怒於經理在議會命令後仍留著計分線。她想立刻斷開，沈寧請她先和獨立觀察員討論。觸碰開關前必須確認正確纜線。團隊檢查多個標籤，核實帶電連接後才隔離計分線。他們沒有破壞所有者的設備。公共時鐘訊號恢復了，雖然微弱，卻保持一致。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 3,
+          "english": "A metal hook broke loose from the shelter roof and struck the ground near an empty doorway. An electrical spark flashed where the hook hit a damaged socket. The nurse ordered that section closed, and a worker used an insulated tool to remove the danger only after the power was isolated. No one had been stabbed or seriously hurt, but the incident showed why the building required constant attention. A respectable former champion offered to guard the closed area while the staff moved residents elsewhere. He did not ask for extra points. His cooperation reduced the pressure on the nurses, who were already caring for exhausted families through the overnight emergency.",
+          "chinese": "避難所屋頂一個金屬鉤子鬆脫，落在空門口旁的地面。鉤子碰到受損插座時閃出電火花。護理師命令封閉那一區，工作人員先切斷電源，再以絕緣工具排除危險。沒有人遭刺傷或嚴重受傷，但事件顯示建築需要持續注意。一名值得尊敬的前冠軍自願看守封閉區，讓員工轉移居民。他沒要求額外積分。他的合作減輕護理師壓力，因為她們正整夜照顧疲憊家庭。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "How did shelter staff handle a family needing accessible entry?",
+      "options": [
+        "They asked for a champion certificate.",
+        "They used the accessible side door and checked it was secure.",
+        "They refused admission after midnight."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "They used the accessible side door and checked it was secure.",
+      "existingAnswerExplanation": "薩林引導家庭從無障礙側門進入，沒有以排名拒絕。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The storm reached the northern arch just after midnight. Rainwater crept across the road and pooled beside the old admissions office. The shelter had reached nearly its full capacity, so the staff opened a second room and checked the emergency gear. A family arrived with a child wrapped in a quilt. The child had difficulty walking, and the nearest entrance had three steps. Salim guided them to an accessible side door without asking for an arena certificate. He remembered how the old rules had placed such families at a disadvantage. The new procedure took more thought than a simple ranking, but it was already working when the wind rose. Ning confirmed that the side door could be secured from inside.",
+          "chinese": "風暴在午夜過後抵達北方石拱門。雨水慢慢爬過道路，積在舊入所辦公室旁。避難所幾乎達到容量上限，員工開啟第二間房，檢查緊急裝備。一家人帶著裹棉被的孩子抵達，孩子走路不方便，最近的入口卻有三級臺階。薩林引導他們走無障礙側門，沒有詢問競技證明。他記得舊規定如何讓這些家庭處於劣勢。新程序比簡單排名需要更多思考，但風起時已開始奏效。沈寧確認側門能從裡面安全鎖住。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 3,
+          "english": "A metal hook broke loose from the shelter roof and struck the ground near an empty doorway. An electrical spark flashed where the hook hit a damaged socket. The nurse ordered that section closed, and a worker used an insulated tool to remove the danger only after the power was isolated. No one had been stabbed or seriously hurt, but the incident showed why the building required constant attention. A respectable former champion offered to guard the closed area while the staff moved residents elsewhere. He did not ask for extra points. His cooperation reduced the pressure on the nurses, who were already caring for exhausted families through the overnight emergency.",
+          "chinese": "避難所屋頂一個金屬鉤子鬆脫，落在空門口旁的地面。鉤子碰到受損插座時閃出電火花。護理師命令封閉那一區，工作人員先切斷電源，再以絕緣工具排除危險。沒有人遭刺傷或嚴重受傷，但事件顯示建築需要持續注意。一名值得尊敬的前冠軍自願看守封閉區，讓員工轉移居民。他沒要求額外積分。他的合作減輕護理師壓力，因為她們正整夜照顧疲憊家庭。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

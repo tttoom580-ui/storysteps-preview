@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 22,
+  "chapterId": "ss-r2-l2-a-22",
+  "sourceChapterSha256": "78a5dd4307c5b0ad1b893aee94d8c492bd390359d79cb2e753651e5815c2d1a1",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "新版手冊上架，標出所有人能使用的步驟和復核方法；韓的聽證尚未結束。",
+    "previousChapterEndingEnglish": "At home, Rui told his mother about the vote. She listened while washing dishes and smiled when he said he had not chosen the highest position. “Your father loved fixing things,” she said, “but he also knew when to let others take a turn.” Rui looked at the old manual on the shelf. He no longer felt that he was following a path set only by his father. He was choosing his own work, with people who could disagree with him and still be friends. That choice gave him a quiet kind of wealth, one no school rank could measure.",
+    "nextChapterOpeningEnglish": "The final hearing took place in the council hall, with a playground visible through the open windows. Children were laughing outside while adults discussed a difficult case inside. Mei arranged the evidence in a broad album of photographs, maps, and dated records. Rui had learned that a complex problem did not become simple just because people wanted a quick answer. He watched as a clerk read the old contract between the school and the lower villages. Its meaning was clear: the school could use the upper water, but it could not remove the safe share needed below. The judge asked both sides to focus on that promise."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The newly elected repair group held its first regular meeting in the workshop. The keeper from the northern station brought his old diary, and Mei opened the public records on a large screen. The group wanted a rule for every important machine: what it did, how to check it, and when to shut it down. Rui explained that a safety limit was not an enemy to fight. It was a line that protected everyone using the water. The keeper smiled. “In the old custom,” he said, “we remembered rules in songs. Now we can keep them in writing too.” He helped lift the old record book onto the table.",
+        "zh": "新選出的維修小組在工坊舉行第一次例會。北站管理人帶來舊日記，梅在大螢幕上打開公開紀錄。大家希望每部重要機器都有明確規則：用途、檢查方式，以及何時必須關閉。睿解釋，安全限制不是要打敗的敵人，而是保護所有用水者的一條線。管理人微笑：「依照舊習俗，我們把規則記在歌裡。現在也能把它們寫下來。」他幫忙把舊紀錄簿抬到桌上。",
+        "englishSha256": "1292113a61410eedf9a5a150e16bb174617d0a720bbceb2c8e8ad8c39f6dde53",
+        "chineseSha256": "ccf38f4d7d5e2744ddf52daf3cd6b65cf4d99bbe346b340c20d836956a5dfdc8"
+      },
+      {
+        "number": 2,
+        "en": "Lan showed the following week's work plan. A cloth filter near the lower channel needed replacement, and the pump house had to be checked after heavy rain. One worker asked whether they should rent a large new machine from the city. Lan said the repair group could compare the cost, but should not rent anything until it knew the problem. The local industry office had offered help, yet that did not mean every offer was useful. Rui agreed. He wanted the group to make thoughtful decisions instead of buying impressive tools merely because a company recommended them.",
+        "zh": "蘭展示下週工作計畫。下游的一塊布濾網需要更換，暴雨後還要檢查泵房。一名工人問要不要向城市租大型新機器。蘭說小組可以比較費用，但在了解問題前不該租。地方產業辦公室提供協助，卻不代表每個提議都有用。睿同意。他希望大家深思後再決定，不是公司推薦什麼看起來厲害的工具，就直接購買。",
+        "englishSha256": "926e9efdcb37091efd9445cfa334e5d2e2b97284ae3e0260877c0c8fc5c23927",
+        "chineseSha256": "644b790c0cacfd8a199858d527de4b51d39580dc34c27a4be8fae6b6993abc82"
+      },
+      {
+        "number": 3,
+        "en": "At lunch, a shy girl from the village school asked if teens could join the public classes. Rui said yes, with safe jobs suited to their age and training. The girl showed him a notebook full of drawings. She had made a chart where a cream-colored line meant safe water and a dark line meant danger. Rui said the colors were helpful but added that labels were also needed for people who saw colors differently. She nodded and wrote the suggestion down. Nearby, a boy ate bread with ketchup while reading the new chart. The room felt more like a school than a repair office.",
+        "zh": "午餐時，一名害羞的村校女孩問青少年能不能參加公開課。睿說可以，但要做符合年齡與訓練程度的安全工作。女孩拿出畫滿圖的筆記本。她畫了圖表，以奶油色線表示安全水位，深色線表示危險。睿說顏色有幫助，但也應加文字標籤，讓辨色能力不同的人能理解。她點頭記下。旁邊一個男孩邊吃沾番茄醬的麵包，邊讀新圖表。房間更像學校，而不只是修理辦公室。",
+        "englishSha256": "f57111df0cf79415185e14d35e06a4606772a034a815d886a2fc0534d57d006a",
+        "chineseSha256": "6e90cc9229ee1ae9d5cfdd480ebdb6c0dec2f84346da5373c8144786d35c866c"
+      },
+      {
+        "number": 4,
+        "en": "In the afternoon, a strong wind pushed rain through an open window. The keeper stood to shut it, but slipped on the wet floor. Jun caught his arm before he fell. Everyone stopped working for a moment. Rui asked for a cloth to dry the floor and then moved the table away from the window. It was a tiny event, yet it reminded them how danger could appear in ordinary places. The group wrote a note about safe paths through the workshop. They did not blame the keeper for almost falling. They changed the space so others would be less likely to slip.",
+        "zh": "下午，強風吹雨從開著的窗戶灌進來。管理人起身關窗，卻在濕地板上滑了一下。俊及時抓住他的手臂。大家暫停工作。睿拿布擦乾地板，再把桌子移離窗旁。事件很小，卻提醒他們危險也會出現在普通地方。小組記下工坊安全動線，沒有責怪差點跌倒的管理人，而是改變環境，降低其他人滑倒的可能。",
+        "englishSha256": "42eb01ae5ec7e6fdb562cfe5da7d9b0227c70f00e21bc4b9976a8a4babac7dc2",
+        "chineseSha256": "2b3db563466f0ca6954c30631f446d729b51add62a065ce7b47935fd74f027d9"
+      },
+      {
+        "number": 5,
+        "en": "Before sunset, the council sent a notice about Han's final hearing. The hearing would examine the changed records, the hidden pump, and the dangerous orders. Rui felt nervous. He knew some people wanted Han punished severely, while others wanted the matter forgotten. He thought about how the river had changed throughout the past weeks. The best result would not be a loud battle in a room. It would be a fair decision that named what had gone wrong and protected the water from happening the same way again. Mei said she would prepare the evidence in order.",
+        "zh": "日落前，議會送來韓的最終聽證通知。會議將審查遭修改的紀錄、暗藏水泵，以及危險命令。睿感到緊張。他知道有人希望嚴懲韓，另一些人則想忘記整件事。他想著過去幾週河流經歷的改變。最好的結果不是房間裡吵得激烈，而是公平指出錯誤，並保護供水不再重演同樣問題。梅說她會把證據按順序準備好。",
+        "englishSha256": "78f43a17e780ab1028ef602568d3b7f30758c6ee4f048dcacb09990c7286a3c5",
+        "chineseSha256": "6fdf27c0f8607120f47b16c83e6384577b10725da021cbf5c612f7f7a8c4e4c5"
+      },
+      {
+        "number": 6,
+        "en": "Rui spent the evening reading the old diary. It described rainy seasons, poor harvests, and workers who had kept the pipes open with simple tools. The keeper had written about his fear during the first great drought and his joy when the water returned. No page called him a hero. Still, the history of the valley lived in those small records. Rui copied one sentence for the new workshop wall: “A gate may close for safety, but the reason must remain open to everyone.” He hoped this would become more than a fine saying. It had to guide real choices.",
+        "zh": "睿整晚讀著舊日記。裡面寫雨季、歉收，以及用簡單工具維持水管暢通的工人。管理人寫下第一次大乾旱時的恐懼，也記下水回來時的喜悅。沒有一頁稱他是英雄，山谷歷史卻活在這些小紀錄裡。睿抄了一句貼在新工坊牆上：「水閘可以為了安全而關閉，但理由必須永遠向每個人公開。」他希望這不只是一句好聽的話，還能指引真正的選擇。",
+        "englishSha256": "570f448630252435bf2423970f5a5e1d9057fec743f2c6ea4310d837f9274c27",
+        "chineseSha256": "3415321fd115c33b7fb3b4dd19ab195dfcda21c32a2de77daa423df5f80d71e5"
+      },
+      {
+        "number": 7,
+        "en": "The next morning, the group sent the final repair manual to the council and posted it in the villages. Each page had a picture, a short rule, and the name of someone trained to answer questions. The text was checked by both experienced workers and new students. Rui looked at the copies and felt a deep relief. Their knowledge no longer lived in a missing page hidden inside one box. It could be carried, questioned, corrected, and returned to the people who needed it. The hearing was still ahead, but the village had already built something that Han could not easily take away.",
+        "zh": "隔天早上，小組把最後版維修手冊送交議會，也張貼在各村。每頁有圖片、簡短規則，以及受過訓練、能回答問題的人員姓名。文字經老工人與新學生共同核對。睿看著副本，深深鬆了口氣。他們的知識不再只活在藏於盒中的遺失頁面裡，而是能被帶走、提問、修正，再送回需要的人手中。聽證仍在前方，但村子已建立了韓不容易奪走的東西。",
+        "englishSha256": "a01182363044befffaa323a431b86348dbe4c0c3887fea7b275616763053d7bb",
+        "chineseSha256": "8859bef204cfadb32de73e332ef5c18470952e6ad68909b53ca6c6ef7b20e2e5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 714,
+    "targets": [
+      {
+        "word": "battle",
+        "meaning": "爭鬥",
+        "appearsInSource": true
+      },
+      {
+        "word": "cloth",
+        "meaning": "布",
+        "appearsInSource": true
+      },
+      {
+        "word": "cream",
+        "meaning": "奶油色",
+        "appearsInSource": true
+      },
+      {
+        "word": "custom",
+        "meaning": "習俗",
+        "appearsInSource": true
+      },
+      {
+        "word": "diary",
+        "meaning": "日記",
+        "appearsInSource": true
+      },
+      {
+        "word": "following",
+        "meaning": "接下來的",
+        "appearsInSource": true
+      },
+      {
+        "word": "industry",
+        "meaning": "產業",
+        "appearsInSource": true
+      },
+      {
+        "word": "keeper",
+        "meaning": "管理人",
+        "appearsInSource": true
+      },
+      {
+        "word": "ketchup",
+        "meaning": "番茄醬",
+        "appearsInSource": true
+      },
+      {
+        "word": "lift",
+        "meaning": "抬起",
+        "appearsInSource": true
+      },
+      {
+        "word": "limit",
+        "meaning": "限制",
+        "appearsInSource": true
+      },
+      {
+        "word": "nervous",
+        "meaning": "緊張",
+        "appearsInSource": true
+      },
+      {
+        "word": "rent",
+        "meaning": "租用",
+        "appearsInSource": true
+      },
+      {
+        "word": "returned",
+        "meaning": "返回",
+        "appearsInSource": true
+      },
+      {
+        "word": "screen",
+        "meaning": "螢幕",
+        "appearsInSource": true
+      },
+      {
+        "word": "shut",
+        "meaning": "關閉",
+        "appearsInSource": true
+      },
+      {
+        "word": "shy",
+        "meaning": "害羞的",
+        "appearsInSource": true
+      },
+      {
+        "word": "teens",
+        "meaning": "青少年",
+        "appearsInSource": true
+      },
+      {
+        "word": "thoughtful",
+        "meaning": "想法",
+        "appearsInSource": true
+      },
+      {
+        "word": "throughout",
+        "meaning": "整段期間",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did Rui add text labels to the color chart?",
+      "options": [
+        "So people with different color vision could use it",
+        "To hide the numbers",
+        "To make the chart more expensive"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "So people with different color vision could use it",
+      "existingAnswerExplanation": "圖表不能只靠顏色辨識，文字標籤能讓更多人安全使用。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "At lunch, a shy girl from the village school asked if teens could join the public classes. Rui said yes, with safe jobs suited to their age and training. The girl showed him a notebook full of drawings. She had made a chart where a cream-colored line meant safe water and a dark line meant danger. Rui said the colors were helpful but added that labels were also needed for people who saw colors differently. She nodded and wrote the suggestion down. Nearby, a boy ate bread with ketchup while reading the new chart. The room felt more like a school than a repair office.",
+          "chinese": "午餐時，一名害羞的村校女孩問青少年能不能參加公開課。睿說可以，但要做符合年齡與訓練程度的安全工作。女孩拿出畫滿圖的筆記本。她畫了圖表，以奶油色線表示安全水位，深色線表示危險。睿說顏色有幫助，但也應加文字標籤，讓辨色能力不同的人能理解。她點頭記下。旁邊一個男孩邊吃沾番茄醬的麵包，邊讀新圖表。房間更像學校，而不只是修理辦公室。",
+          "matchedQueryTerms": 4
+        },
+        {
+          "paragraph": 7,
+          "english": "The next morning, the group sent the final repair manual to the council and posted it in the villages. Each page had a picture, a short rule, and the name of someone trained to answer questions. The text was checked by both experienced workers and new students. Rui looked at the copies and felt a deep relief. Their knowledge no longer lived in a missing page hidden inside one box. It could be carried, questioned, corrected, and returned to the people who needed it. The hearing was still ahead, but the village had already built something that Han could not easily take away.",
+          "chinese": "隔天早上，小組把最後版維修手冊送交議會，也張貼在各村。每頁有圖片、簡短規則，以及受過訓練、能回答問題的人員姓名。文字經老工人與新學生共同核對。睿看著副本，深深鬆了口氣。他們的知識不再只活在藏於盒中的遺失頁面裡，而是能被帶走、提問、修正，再送回需要的人手中。聽證仍在前方，但村子已建立了韓不容易奪走的東西。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the final repair manual contain?",
+      "options": [
+        "Pictures, short rules, and trained contacts",
+        "Only a list of prices",
+        "Only Han's orders"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Pictures, short rules, and trained contacts",
+      "existingAnswerExplanation": "新版手冊提供圖片、簡明規則及可詢問的受訓人員。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 7,
+          "english": "The next morning, the group sent the final repair manual to the council and posted it in the villages. Each page had a picture, a short rule, and the name of someone trained to answer questions. The text was checked by both experienced workers and new students. Rui looked at the copies and felt a deep relief. Their knowledge no longer lived in a missing page hidden inside one box. It could be carried, questioned, corrected, and returned to the people who needed it. The hearing was still ahead, but the village had already built something that Han could not easily take away.",
+          "chinese": "隔天早上，小組把最後版維修手冊送交議會，也張貼在各村。每頁有圖片、簡短規則，以及受過訓練、能回答問題的人員姓名。文字經老工人與新學生共同核對。睿看著副本，深深鬆了口氣。他們的知識不再只活在藏於盒中的遺失頁面裡，而是能被帶走、提問、修正，再送回需要的人手中。聽證仍在前方，但村子已建立了韓不容易奪走的東西。",
+          "matchedQueryTerms": 7
+        },
+        {
+          "paragraph": 1,
+          "english": "The newly elected repair group held its first regular meeting in the workshop. The keeper from the northern station brought his old diary, and Mei opened the public records on a large screen. The group wanted a rule for every important machine: what it did, how to check it, and when to shut it down. Rui explained that a safety limit was not an enemy to fight. It was a line that protected everyone using the water. The keeper smiled. “In the old custom,” he said, “we remembered rules in songs. Now we can keep them in writing too.” He helped lift the old record book onto the table.",
+          "chinese": "新選出的維修小組在工坊舉行第一次例會。北站管理人帶來舊日記，梅在大螢幕上打開公開紀錄。大家希望每部重要機器都有明確規則：用途、檢查方式，以及何時必須關閉。睿解釋，安全限制不是要打敗的敵人，而是保護所有用水者的一條線。管理人微笑：「依照舊習俗，我們把規則記在歌裡。現在也能把它們寫下來。」他幫忙把舊紀錄簿抬到桌上。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

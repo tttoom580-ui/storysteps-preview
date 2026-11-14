@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 15,
+  "chapterId": "ss-r10-l4-a-15",
+  "sourceChapterSha256": "181976578b954879266956ae3d5b86d7cceb490cad838dd2a29cdfaf92e5af47",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "懸崖巡檢路落石不穩，小設備改船運、重型發電機留內陸，三次低電流測試僅能證明一般條件。",
+    "previousChapterEndingEnglish": "The librarian explained that even the postage for sending paper copies to distant villages would need a budget. Several council members had forgotten that residents beyond the city center used the same shield. Ning added the small expense to the plan and asked who would receive the reports. A system described as public should not quietly end where convenient transport and fast connections ended.",
+    "nextChapterOpeningEnglish": "The central tower's owner refused the shared-control request, so Ning searched for a lawful alternative signal path. Han invited the team to a science gallery built in the former observatory. A lecturer there had spent years studying how groups of insects moved without a conductor. Beside an exhibit about the life of a hive, tiny sensors recorded bees returning to their home. A child asked whether one flea could make the same pattern. The lecturer said the two animals behaved differently, but both showed how movement could be measured without deciding who was strongest. Ning was careful to distinguish an interesting comparison from proof. A gallery demonstration could inspire a test; it could not replace one."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The first network trial required a link along the coastal cliff, where a circular inspection road had been closed after a landslide. The transportation office offered a conventional bus route, but the road's outer edge remained unstable. Ning asked the instructor who trained rescue teams to propose an alternative. She suggested carrying smaller equipment by boat while keeping the heavy generators on safe inland ground. A retired submarine technician explained how underwater cables could be tested without sending anyone into dangerous water. The plan was less artistic than the arena's colorful publicity drawing, but it made every hazard visible. Ning preferred a plain map that people could use to a beautiful one that hid a broken route.",
+        "zh": "第一次網路試驗需要連接海岸懸崖旁的線路。那裡的環形巡檢路在土石滑落後關閉。運輸單位提出傳統公車路線，但外側路緣仍不穩。沈寧請訓練救援隊的指導員提出替代方案。對方建議小型設備由船運送，重型發電機留在安全內陸。一名退休潛水艇技師說明如何不派人下危險水域，也能測試水下電纜。這計畫不如競技場彩色宣傳圖漂亮，卻把每項危險清楚標出。沈寧寧願用樸素且實用的地圖，不要隱藏斷路的美圖。",
+        "englishSha256": "9cfb47f8cafb0b4e47ccc9e1d441dfbafc44a3db88ec237a16fdb4acd6f2d285",
+        "chineseSha256": "ee6b42044cc242fe858d17aae568e98467e22e08994fd4883f9905e3dff3ceec"
+      },
+      {
+        "number": 2,
+        "en": "Near the shore, the rescue crew discovered a scratch across one cable socket. It looked minor, but an engineer said seawater could enter the opening and cause an electrical failure. The team retreated to higher ground while the technician checked the connection. A makeup artist who had come to film a promotional video complained that the delay would spoil her light. Qiao asked her to help record the repair instead of staging a false victory. The artist hesitated, then changed the camera angle. The footage showed workers checking seals, replacing a worn part, and testing the line twice. It was not glamorous, but it gave viewers a technological explanation they could follow.",
+        "zh": "海岸附近，救援隊發現一個纜線插座上有刮痕。看似輕微，工程師卻說海水可能從裂口滲入，造成電力故障。團隊撤退到高地，讓技師檢查接頭。一名來拍宣傳影片的化妝師抱怨延誤會破壞光線。羅喬請她改拍實際維修，不要安排假的勝利場面。她猶豫後調整鏡頭，畫面錄下工人檢查密封、更換磨損零件，再測試線路兩次。這不華麗，卻讓觀眾能理解背後的科技原理。",
+        "englishSha256": "013c895ff4c38ef848c92033a0a70d355f405fd9d3ed251d75694d3e468abf2e",
+        "chineseSha256": "17d96d16af83258b6515c8f994433b82861ba68e88a002360584fe23528857a8"
+      },
+      {
+        "number": 3,
+        "en": "Salim brought workers from three districts to compare their inspection methods. One group had relied on diligence and handwritten lists; another used automatic alarms; the third mixed both. They blended the most reliable steps into a single procedure, but Ning refused to make it permanent until the trial showed results. A local resident offered a blessing to everyone working near the cliff. Ning thanked her, then asked the crew to check their ropes again. Good wishes could strengthen morale, but they did not replace sound equipment. When the line finally carried a low current, two towers answered with matching pulses. The team stopped after the planned interval and recorded that the connection had held under ordinary conditions only.",
+        "zh": "薩林帶來三區工人，比較彼此的巡檢方法。一組依靠勤勉與手寫清單，一組使用自動警報，第三組混合兩者。他們把最可靠的步驟融合成共同程序，但沈寧拒絕在試驗有結果前就定為永久制度。一位居民為懸崖邊工作的所有人送上祝福。沈寧道謝後，仍請隊員再檢查繩索。好話能鼓舞士氣，卻不能替代好設備。線路終於傳送低電流時，兩座塔以相同脈衝回應。團隊在預定時間停止，只記錄連線曾在一般條件下保持穩定。",
+        "englishSha256": "76e75a26c587fda203b4e4c19e88511a9d11ea90a2ab62ccfa2a7fb45c899224",
+        "chineseSha256": "f49e07cfab800aa3fa329a29c5a9000b60da40d8e508386bbf097441591c2509"
+      },
+      {
+        "number": 4,
+        "en": "Nowadays, official broadcasts showed dramatic images of victorious fighters every evening. Ning asked the public channel to air the repair footage beside those images. The producer worried that viewers would not understand the pronunciation of unfamiliar technical terms. Han offered to add a short glossary and simple diagrams. Another official said publication should be regulated because a critical film might disturb public confidence. Qiao replied that the city could distinguish genuine danger from honest criticism. The producer agreed to a short program, provided the safety panel reviewed it for personal information. Ning supported that condition. Showing how a cable was repaired did not give the public a right to expose the workers' private lives.",
+        "zh": "如今官方每天晚間都播出武者獲勝的戲劇性畫面。沈寧請公共頻道在旁播放維修影片。製作人擔心觀眾聽不懂陌生技術詞的發音。韓瑜願意補充簡短詞彙解釋和示意圖。另一名官員說批評性影片可能擾亂市民信心，應加以規範。羅喬回答，城市應能區分真正危險與誠實批評。製作人同意播放短片，條件是安全小組先審查個人資訊。沈寧支持這點。公開纜線如何修理，不代表民眾有權揭露工人的私人生活。",
+        "englishSha256": "8d4f82acb9f2ee95a0dcc560656d53282f1577c9e24c3c9b0a8521a45a7d5c5d",
+        "chineseSha256": "b7b2ce181aa686cba356d7ac0a782b814f37e2663592b82808a0e1a992bb1d25"
+      },
+      {
+        "number": 5,
+        "en": "At the end of the day, the coastal connection had passed three planned low-current tests. The team did not celebrate it as proof that the full storm could be stopped. Ning wrote down what remained uncertain: maximum load, wear under repeated waves, and whether inland towers could respond to a coastal failure quickly enough. She also recorded the right of each crew to halt work if the next test exceeded its limits. Lei read the report and said he once would have considered such caution weakness. Now he called it courage with evidence. The central tower remained the missing link. Its owner wanted another public duel before opening the shared control room, but the city had less than two weeks before the largest storm.",
+        "zh": "當天結束時，海岸連線通過三次預定的低電流測試。團隊沒有把它當成足以阻止大風暴的證明。沈寧寫下尚未確定的事項：最大負載、反覆海浪造成的磨耗，以及內陸塔能否足夠迅速回應海岸故障。她也記下每個工班在下次測試超出限度時停止工作的權利。雷川讀完報告，說自己以前會把這種謹慎當成軟弱，現在則稱為有證據的勇氣。中央塔仍是缺少的一環，所有者要求先辦另一場公開決鬥才開放共享控制室，而距離最大風暴已不到兩週。",
+        "englishSha256": "8b39b51c803b89b6c8a0ac77c612ac609c994e3be812a8f4ddb2302048f0de0a",
+        "chineseSha256": "081b8cfc26c1f036632f87f057a6991770c042a0ac75252f3c87acbdd5cabe96"
+      },
+      {
+        "number": 6,
+        "en": "On the boat back, Qiao looked toward the arena lights and admitted that she missed the clear feeling of winning a match. Ning said there was nothing wrong with enjoying a fair contest. The mistake was allowing one score to decide who deserved protection. Qiao smiled, then checked the weather warning again. Tomorrow the center tower's controller would have to choose whether to share the signal.",
+        "zh": "回程船上，羅喬望向競技場燈光，坦承想念贏得比賽時那種明確感受。沈寧說，喜歡公平競賽沒有錯，錯的是讓一個分數決定誰值得受到保護。羅喬笑了笑，又查看天氣警報。明天中央塔的控制者必須決定是否共享訊號。",
+        "englishSha256": "9af075f533da4690f6689da72f5f3def95c11dfb2551dd12b2a136b93aff43ab",
+        "chineseSha256": "31131b35e6556f4b41dfe38b59c4f47e50829dd17daaf04c4fc9ca8488308c3f"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 651,
+    "targets": [
+      {
+        "word": "alternative",
+        "meaning": "替代方案",
+        "appearsInSource": true
+      },
+      {
+        "word": "artistic",
+        "meaning": "藝術的",
+        "appearsInSource": true
+      },
+      {
+        "word": "blended",
+        "meaning": "混合",
+        "appearsInSource": true
+      },
+      {
+        "word": "blessing",
+        "meaning": "祝福",
+        "appearsInSource": true
+      },
+      {
+        "word": "circular",
+        "meaning": "圓形的",
+        "appearsInSource": true
+      },
+      {
+        "word": "cliff",
+        "meaning": "懸崖",
+        "appearsInSource": true
+      },
+      {
+        "word": "diligence",
+        "meaning": "勤勉",
+        "appearsInSource": true
+      },
+      {
+        "word": "disturb",
+        "meaning": "打擾",
+        "appearsInSource": true
+      },
+      {
+        "word": "instructor",
+        "meaning": "指導員",
+        "appearsInSource": true
+      },
+      {
+        "word": "makeup",
+        "meaning": "妝容",
+        "appearsInSource": true
+      },
+      {
+        "word": "Nowadays",
+        "meaning": "如今",
+        "appearsInSource": true
+      },
+      {
+        "word": "pronunciation",
+        "meaning": "發音",
+        "appearsInSource": true
+      },
+      {
+        "word": "publicity",
+        "meaning": "宣傳",
+        "appearsInSource": true
+      },
+      {
+        "word": "regulated",
+        "meaning": "規範",
+        "appearsInSource": true
+      },
+      {
+        "word": "retreated",
+        "meaning": "撤退",
+        "appearsInSource": true
+      },
+      {
+        "word": "scratch",
+        "meaning": "刮痕",
+        "appearsInSource": true
+      },
+      {
+        "word": "socket",
+        "meaning": "插座",
+        "appearsInSource": true
+      },
+      {
+        "word": "submarine",
+        "meaning": "潛水艇",
+        "appearsInSource": true
+      },
+      {
+        "word": "technological",
+        "meaning": "科技的",
+        "appearsInSource": true
+      },
+      {
+        "word": "transportation",
+        "meaning": "運輸",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did the crew use boats near the cliff?",
+      "options": [
+        "The coastal road was unstable after a landslide.",
+        "The team wanted a festival cruise.",
+        "The fighters had lost their buses."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The coastal road was unstable after a landslide.",
+      "existingAnswerExplanation": "環形巡檢道路外側不穩，因此小型設備改用船運。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The first network trial required a link along the coastal cliff, where a circular inspection road had been closed after a landslide. The transportation office offered a conventional bus route, but the road's outer edge remained unstable. Ning asked the instructor who trained rescue teams to propose an alternative. She suggested carrying smaller equipment by boat while keeping the heavy generators on safe inland ground. A retired submarine technician explained how underwater cables could be tested without sending anyone into dangerous water. The plan was less artistic than the arena's colorful publicity drawing, but it made every hazard visible. Ning preferred a plain map that people could use to a beautiful one that hid a broken route.",
+          "chinese": "第一次網路試驗需要連接海岸懸崖旁的線路。那裡的環形巡檢路在土石滑落後關閉。運輸單位提出傳統公車路線，但外側路緣仍不穩。沈寧請訓練救援隊的指導員提出替代方案。對方建議小型設備由船運送，重型發電機留在安全內陸。一名退休潛水艇技師說明如何不派人下危險水域，也能測試水下電纜。這計畫不如競技場彩色宣傳圖漂亮，卻把每項危險清楚標出。沈寧寧願用樸素且實用的地圖，不要隱藏斷路的美圖。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 5,
+          "english": "At the end of the day, the coastal connection had passed three planned low-current tests. The team did not celebrate it as proof that the full storm could be stopped. Ning wrote down what remained uncertain: maximum load, wear under repeated waves, and whether inland towers could respond to a coastal failure quickly enough. She also recorded the right of each crew to halt work if the next test exceeded its limits. Lei read the report and said he once would have considered such caution weakness. Now he called it courage with evidence. The central tower remained the missing link. Its owner wanted another public duel before opening the shared control room, but the city had less than two weeks before the largest storm.",
+          "chinese": "當天結束時，海岸連線通過三次預定的低電流測試。團隊沒有把它當成足以阻止大風暴的證明。沈寧寫下尚未確定的事項：最大負載、反覆海浪造成的磨耗，以及內陸塔能否足夠迅速回應海岸故障。她也記下每個工班在下次測試超出限度時停止工作的權利。雷川讀完報告，說自己以前會把這種謹慎當成軟弱，現在則稱為有證據的勇氣。中央塔仍是缺少的一環，所有者要求先辦另一場公開決鬥才開放共享控制室，而距離最大風暴已不到兩週。",
+          "matchedQueryTerms": 4
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did the low-current tests prove?",
+      "options": [
+        "The entire future storm would be harmless.",
+        "The coastal connection held under ordinary tested conditions.",
+        "The arena owner no longer controlled the center tower."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The coastal connection held under ordinary tested conditions.",
+      "existingAnswerExplanation": "三次測試只證明海岸連線在一般條件下可運作，尚未證明大風暴安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Salim brought workers from three districts to compare their inspection methods. One group had relied on diligence and handwritten lists; another used automatic alarms; the third mixed both. They blended the most reliable steps into a single procedure, but Ning refused to make it permanent until the trial showed results. A local resident offered a blessing to everyone working near the cliff. Ning thanked her, then asked the crew to check their ropes again. Good wishes could strengthen morale, but they did not replace sound equipment. When the line finally carried a low current, two towers answered with matching pulses. The team stopped after the planned interval and recorded that the connection had held under ordinary conditions only.",
+          "chinese": "薩林帶來三區工人，比較彼此的巡檢方法。一組依靠勤勉與手寫清單，一組使用自動警報，第三組混合兩者。他們把最可靠的步驟融合成共同程序，但沈寧拒絕在試驗有結果前就定為永久制度。一位居民為懸崖邊工作的所有人送上祝福。沈寧道謝後，仍請隊員再檢查繩索。好話能鼓舞士氣，卻不能替代好設備。線路終於傳送低電流時，兩座塔以相同脈衝回應。團隊在預定時間停止，只記錄連線曾在一般條件下保持穩定。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 5,
+          "english": "At the end of the day, the coastal connection had passed three planned low-current tests. The team did not celebrate it as proof that the full storm could be stopped. Ning wrote down what remained uncertain: maximum load, wear under repeated waves, and whether inland towers could respond to a coastal failure quickly enough. She also recorded the right of each crew to halt work if the next test exceeded its limits. Lei read the report and said he once would have considered such caution weakness. Now he called it courage with evidence. The central tower remained the missing link. Its owner wanted another public duel before opening the shared control room, but the city had less than two weeks before the largest storm.",
+          "chinese": "當天結束時，海岸連線通過三次預定的低電流測試。團隊沒有把它當成足以阻止大風暴的證明。沈寧寫下尚未確定的事項：最大負載、反覆海浪造成的磨耗，以及內陸塔能否足夠迅速回應海岸故障。她也記下每個工班在下次測試超出限度時停止工作的權利。雷川讀完報告，說自己以前會把這種謹慎當成軟弱，現在則稱為有證據的勇氣。中央塔仍是缺少的一環，所有者要求先辦另一場公開決鬥才開放共享控制室，而距離最大風暴已不到兩週。",
+          "matchedQueryTerms": 10
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

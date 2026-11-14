@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 5,
+  "chapterId": "ss-r10-l4-a-5",
+  "sourceChapterSha256": "181b4cb0a4a880edeaee2815d057daa625fdd7ea7e35d55a73817c6b98d28ff0",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "議會批准有醫護觀察員的有限試驗，沈寧拒絕贊助商控制報告，也拒絕強迫居民參與。",
+    "previousChapterEndingEnglish": "Outside, news of the discovery reached the arena before Ning had finished her notes. A spokesperson accused her of using historical rumors to undermine modern fighters. Ning answered with the narrow claim she could support: synchronized movement had been recorded during an earlier shield event, and modern tests deserved to examine the mechanism. She would not claim that every old story was true. Han appreciated the distinction and warned that citizens must not become passive readers. She agreed to help prepare a public exhibition when the records were ready. As Ning left, her phone displayed an urgent appointment request from the safety council. The subject line contained only four words: STOP THE PUBLIC TEST. She saved a copy of the message, then went to meet Qiao.",
+    "nextChapterOpeningEnglish": "The eastern tower opened its gates on the anniversary of the city's first successful shield test. A public campaign had brought hundreds of visitors, but Ning persuaded the organizers to leave the machinery accessible to inspectors. The original cables were tied with coarse cord and marked by symbols from the last dynasty. Salim said the labels came from an older repair tradition in his family, and he offered to translate them. The tower conductor, a woman responsible for directing emergency movement, assured Ning that workers could stop the ceremony if any reading became unsafe. Ning appreciated her courage. A celebration could honor the past without forcing people to copy every decision made by their ancestors."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 5,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The safety council held its emergency congress in a hall filled with decorative banners. Representatives from every district were present, but only three technical workers had been invited. The government agency argued that the public tests should end because they might discourage young people from training as fighters. Ning said the fundamental question was not whether fighters deserved respect; it was whether the shield could protect families who had no fighters among them. She showed the early measurements and explained the interaction between ground movement and the towers. Several delegates listened. Others stared at the publicity cameras. Ning knew that an influential speech would not be enough to change a system that rewarded victories and ignored maintenance.",
+        "zh": "安全議會在掛滿裝飾旗幟的大廳召開緊急會議。各區代表都到場，受邀的技術工人卻只有三人。主管機關主張終止公開測試，因為它可能使年輕人失去受訓成為武者的意願。沈寧說，根本問題不是武者是否值得尊敬，而是屏障能否保護家中沒有武者的家庭。她展示提前出現的讀數，說明地面移動與防護塔之間的互動。幾名代表仔細聽著，其他人卻只看宣傳攝影機。沈寧知道，一場有影響力的演說不足以改變獎勵勝利、忽視維修的制度。",
+        "englishSha256": "8ea0482b024a58f943e9c98b59d5c2cd8c74fe26c9413105477fb111da6627be",
+        "chineseSha256": "ba2b0ae013d51ce0da24715978399dbc32d6c84027f6bb31461d8b09b954153d"
+      },
+      {
+        "number": 2,
+        "en": "A council member tried to horrify the audience with a story about a robber who had entered a shelter during a storm. He argued that only armed champions could prevent such terror. Salim asked whether the shelter's locked doors had trapped residents as well as the thief. The member had no record of that. A nurse testified that families sometimes refused help because they felt shameful about needing assistance. Ning reminded the council that every person had a conscience and a right to refuse an unsafe experiment. She could cherish the fighters' service without treating everyone else as helpless. When an official joked that she sounded like a witch trying to break an ancient spell, she asked him to return to the measurements.",
+        "zh": "一名議員用一則風暴中有搶匪闖入避難所的故事，企圖讓聽眾恐懼。他認為只有武裝冠軍能阻止這種恐怖。薩林問，當時避難所上鎖的門是否也困住居民。議員拿不出紀錄。護理師作證說，有些家庭因為覺得求助丟臉而拒絕幫忙。沈寧提醒議會，每個人都有良心，也有拒絕不安全實驗的權利。她珍惜武者的服務，卻不會因此把其他人當成無助者。官員開玩笑說她像想破除古老咒語的女巫，她請對方回到測量數據。",
+        "englishSha256": "6a7a5602b34cb446e7b023a40f065216c93cbcb820d31860c05a28b5435da2ab",
+        "chineseSha256": "a8127a7245e76e46cb3beab7d84ffc6615d7ebed26572a8c05890ab75bc810d0"
+      },
+      {
+        "number": 3,
+        "en": "The council then heard from a researcher who had studied the shield's primitive design. She described an old mechanical receiver placed beneath a valley, where scenery now hid the ruins of the original tower. The receiver had recorded organized footsteps during a flood, but the paper had suffered water damage. The researcher would not claim certainty. Ning respected that caution and proposed three limited trials with separate recorders and medical support. She also asked the council to adopt a clear consent form so that volunteers knew the risks and could leave at any time. One delegate proposed making participation compulsory for the sake of the city. Qiao stood and objected. Protection built on forced labor, she said, would not make the city worthy of protection.",
+        "zh": "議會接著聽取一名研究員的證詞。她研究過屏障原始而簡陋的設計，提到山谷下方曾放置機械接收器，如今舊塔遺址藏在自然景色之中。接收器在洪水期間記下整齊腳步，但紙張已被水損毀。研究員不願宣稱確定。沈寧尊重這份謹慎，提出三次有限測試，配備獨立記錄器和醫療支援。她也要求議會採用清楚的同意書，讓志工知道風險且能隨時退出。一名代表建議為了城市強制所有人參加。羅喬站起來反對。她說，建立在強迫勞動上的防護，不會讓城市更值得被保護。",
+        "englishSha256": "cc3c737f4c3eb0eb5ae40df3f471041150e7f10f29332e7a259a7d275fcd5342",
+        "chineseSha256": "f447a3b4c7305fd3aad7d86ac19425e59b0faf7bb635e51384e076ddf937d3c5"
+      },
+      {
+        "number": 4,
+        "en": "During the reception break, a sponsor offered Ning a private office, a salary, and the right to name the project after herself. The condition was that he would control the final report. She declined. He smiled and said she would regret the outcome. Across the room, her colleague Min showed her a photograph of an old district where children had painted walls to hide cracks. The decoration was beautiful, but it had made damage harder to notice. Ning took that as a warning about the sponsor's offer: an attractive surface could conceal a dangerous structure. She returned to the meeting and asked that all raw measurements remain available to independent technicians. This time enough delegates supported the request to bring it to a vote.",
+        "zh": "休息接待期間，贊助商向沈寧提供私人辦公室、薪水，以及把計畫冠上她名字的權利，條件是他能控制最後報告。她拒絕了。他微笑說她會後悔這個結果。會場另一端，同事敏敏拿出一張舊街區照片：孩子們把牆壁畫得很漂亮，卻也遮住了裂縫。沈寧想到贊助商的提議：好看的表面可能掩蓋危險的結構。她回到會議，要求原始測量值必須對獨立技師開放。這次有足夠的代表支持，議案得以進入投票。",
+        "englishSha256": "239b0d7a1553ebdba31eb7cd1892dbc5cfb067fcd3beb5a80490289279b1b3e4",
+        "chineseSha256": "3130e4a3ac1fe433854127de3d2ce595874f086e1cee8bd14f24c55c57416afb"
+      },
+      {
+        "number": 5,
+        "en": "The vote did not give Ning full authority. It approved one carefully supervised test, kept the arena running, and required medical observers to sign every safety report. Ning accepted the limited victory because the experiment could begin without sacrificing anyone's choice. When she left the hall, dozens of citizens were waiting outside. Some praised her, some insulted her, and many questioned the behavior of their district officials. They wanted to know whether their homes would be safe. She answered what she knew and admitted what remained uncertain. At home she found a letter slipped beneath her door. It contained a photograph of a shield controller with its seal broken, and a note: 'The first tower was never meant to be alone.' The next test would begin at sunrise.",
+        "zh": "投票沒有讓沈寧取得全面授權。議會只批准一次嚴格監督的測試，競技場照常運作，所有安全報告須由醫護觀察員簽署。沈寧接受這個有限成果，因為實驗至少能在不剝奪選擇權的情況下開始。她離開大廳時，門外有數十名市民等候。有些人稱讚她，有些人辱罵她，更多人質疑區公所官員的行為。他們想知道自己的住家是否安全。她回答已知的事，也坦承尚未確定的地方。回到家後，她在門縫下找到一封信，裡面是封條遭拆開的屏障控制器照片，還寫著：「第一座塔從來就不該獨自運作。」下一場測試將在日出時開始。",
+        "englishSha256": "94169ac4f685a69523e8c66cd7d85082973ef76ff24c6797eed7f592d49fa878",
+        "chineseSha256": "5695dc849cb546604fdeffdbf3a77611482c4844d2c7cfc8741b34d28f7757dd"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 617,
+    "targets": [
+      {
+        "word": "adopt",
+        "meaning": "採用",
+        "appearsInSource": true
+      },
+      {
+        "word": "agency",
+        "meaning": "主管機關",
+        "appearsInSource": true
+      },
+      {
+        "word": "behavior",
+        "meaning": "行為",
+        "appearsInSource": true
+      },
+      {
+        "word": "cherish",
+        "meaning": "珍惜",
+        "appearsInSource": true
+      },
+      {
+        "word": "congress",
+        "meaning": "議會會議",
+        "appearsInSource": true
+      },
+      {
+        "word": "conscience",
+        "meaning": "良心",
+        "appearsInSource": true
+      },
+      {
+        "word": "decoration",
+        "meaning": "裝飾",
+        "appearsInSource": true
+      },
+      {
+        "word": "discourage",
+        "meaning": "使灰心",
+        "appearsInSource": true
+      },
+      {
+        "word": "fundamental",
+        "meaning": "根本的",
+        "appearsInSource": true
+      },
+      {
+        "word": "horrify",
+        "meaning": "使恐懼",
+        "appearsInSource": true
+      },
+      {
+        "word": "influential",
+        "meaning": "有影響力的",
+        "appearsInSource": true
+      },
+      {
+        "word": "interaction",
+        "meaning": "互動",
+        "appearsInSource": true
+      },
+      {
+        "word": "outcome",
+        "meaning": "結果",
+        "appearsInSource": true
+      },
+      {
+        "word": "primitive",
+        "meaning": "原始的",
+        "appearsInSource": true
+      },
+      {
+        "word": "reception",
+        "meaning": "接待",
+        "appearsInSource": true
+      },
+      {
+        "word": "robber",
+        "meaning": "搶匪",
+        "appearsInSource": true
+      },
+      {
+        "word": "scenery",
+        "meaning": "風景",
+        "appearsInSource": true
+      },
+      {
+        "word": "shameful",
+        "meaning": "令人羞愧的",
+        "appearsInSource": true
+      },
+      {
+        "word": "terror",
+        "meaning": "恐怖",
+        "appearsInSource": true
+      },
+      {
+        "word": "witch",
+        "meaning": "女巫",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What limited test did the council approve?",
+      "options": [
+        "A compulsory citywide marching contest.",
+        "One supervised test with medical observers.",
+        "The cancellation of all arena events."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "One supervised test with medical observers.",
+      "existingAnswerExplanation": "議會僅核准一次受監督試驗，並要求醫療觀察員簽署安全報告。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "The vote did not give Ning full authority. It approved one carefully supervised test, kept the arena running, and required medical observers to sign every safety report. Ning accepted the limited victory because the experiment could begin without sacrificing anyone's choice. When she left the hall, dozens of citizens were waiting outside. Some praised her, some insulted her, and many questioned the behavior of their district officials. They wanted to know whether their homes would be safe. She answered what she knew and admitted what remained uncertain. At home she found a letter slipped beneath her door. It contained a photograph of a shield controller with its seal broken, and a note: 'The first tower was never meant to be alone.' The next test would begin at sunrise.",
+          "chinese": "投票沒有讓沈寧取得全面授權。議會只批准一次嚴格監督的測試，競技場照常運作，所有安全報告須由醫護觀察員簽署。沈寧接受這個有限成果，因為實驗至少能在不剝奪選擇權的情況下開始。她離開大廳時，門外有數十名市民等候。有些人稱讚她，有些人辱罵她，更多人質疑區公所官員的行為。他們想知道自己的住家是否安全。她回答已知的事，也坦承尚未確定的地方。回到家後，她在門縫下找到一封信，裡面是封條遭拆開的屏障控制器照片，還寫著：「第一座塔從來就不該獨自運作。」下一場測試將在日出時開始。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 3,
+          "english": "The council then heard from a researcher who had studied the shield's primitive design. She described an old mechanical receiver placed beneath a valley, where scenery now hid the ruins of the original tower. The receiver had recorded organized footsteps during a flood, but the paper had suffered water damage. The researcher would not claim certainty. Ning respected that caution and proposed three limited trials with separate recorders and medical support. She also asked the council to adopt a clear consent form so that volunteers knew the risks and could leave at any time. One delegate proposed making participation compulsory for the sake of the city. Qiao stood and objected. Protection built on forced labor, she said, would not make the city worthy of protection.",
+          "chinese": "議會接著聽取一名研究員的證詞。她研究過屏障原始而簡陋的設計，提到山谷下方曾放置機械接收器，如今舊塔遺址藏在自然景色之中。接收器在洪水期間記下整齊腳步，但紙張已被水損毀。研究員不願宣稱確定。沈寧尊重這份謹慎，提出三次有限測試，配備獨立記錄器和醫療支援。她也要求議會採用清楚的同意書，讓志工知道風險且能隨時退出。一名代表建議為了城市強制所有人參加。羅喬站起來反對。她說，建立在強迫勞動上的防護，不會讓城市更值得被保護。",
+          "matchedQueryTerms": 9
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Ning refuse the sponsor's offer?",
+      "options": [
+        "She did not like private offices.",
+        "The sponsor demanded control over the final report.",
+        "She wanted to become a champion."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The sponsor demanded control over the final report.",
+      "existingAnswerExplanation": "贊助商要求掌控結果報告，與公開原始紀錄的原則衝突。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "During the reception break, a sponsor offered Ning a private office, a salary, and the right to name the project after herself. The condition was that he would control the final report. She declined. He smiled and said she would regret the outcome. Across the room, her colleague Min showed her a photograph of an old district where children had painted walls to hide cracks. The decoration was beautiful, but it had made damage harder to notice. Ning took that as a warning about the sponsor's offer: an attractive surface could conceal a dangerous structure. She returned to the meeting and asked that all raw measurements remain available to independent technicians. This time enough delegates supported the request to bring it to a vote.",
+          "chinese": "休息接待期間，贊助商向沈寧提供私人辦公室、薪水，以及把計畫冠上她名字的權利，條件是他能控制最後報告。她拒絕了。他微笑說她會後悔這個結果。會場另一端，同事敏敏拿出一張舊街區照片：孩子們把牆壁畫得很漂亮，卻也遮住了裂縫。沈寧想到贊助商的提議：好看的表面可能掩蓋危險的結構。她回到會議，要求原始測量值必須對獨立技師開放。這次有足夠的代表支持，議案得以進入投票。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 2,
+          "english": "A council member tried to horrify the audience with a story about a robber who had entered a shelter during a storm. He argued that only armed champions could prevent such terror. Salim asked whether the shelter's locked doors had trapped residents as well as the thief. The member had no record of that. A nurse testified that families sometimes refused help because they felt shameful about needing assistance. Ning reminded the council that every person had a conscience and a right to refuse an unsafe experiment. She could cherish the fighters' service without treating everyone else as helpless. When an official joked that she sounded like a witch trying to break an ancient spell, she asked him to return to the measurements.",
+          "chinese": "一名議員用一則風暴中有搶匪闖入避難所的故事，企圖讓聽眾恐懼。他認為只有武裝冠軍能阻止這種恐怖。薩林問，當時避難所上鎖的門是否也困住居民。議員拿不出紀錄。護理師作證說，有些家庭因為覺得求助丟臉而拒絕幫忙。沈寧提醒議會，每個人都有良心，也有拒絕不安全實驗的權利。她珍惜武者的服務，卻不會因此把其他人當成無助者。官員開玩笑說她像想破除古老咒語的女巫，她請對方回到測量數據。",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

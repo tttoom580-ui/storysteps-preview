@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 1,
+  "chapterId": "ss-r10-l4-a-1",
+  "sourceChapterSha256": "f3fa2b8c15e9ac7e424d60b05079abc20d832b4848f697d1c9331796fc2ebfd8",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "校準技師沈寧在拳頭命中前發現屏障能量峰值，羅喬和劇院經理配合測試群眾同步踏步，官方先前抹去一分鐘數據。",
+    "previousChapterEndingEnglish": null,
+    "nextChapterOpeningEnglish": "At dawn, Ning found a new timetable pinned outside the arena. It moved the workers' shifts without their consent and assigned a dangerous night inspection to people who had never received training. A prominent sponsor had added his autograph to the notice, as though a famous signature were enough to make it fair. The convenience was obvious for the wealthy districts: their shield tests would proceed first. Near the gate, an immigrant cleaner named Salim was removing the old sign. He had carved the original inspection times into a wooden board for workers who could not read the small print. Ning asked him to keep the board. He replied that keeping evidence should not be a privilege reserved for officials."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 5,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The morning assembly gathered inside the old opera hall because the arena's roof was still under repair. Shen Ning brought a copper sensor, a broom, and a small counter to the demonstration. She was a calibration technician, not a fighter. Her left hand had never recovered its former strength, and she had no intention of disguising that fact. Above the platform, a persuasive slogan promised that the strongest punch would protect the city. A youthful champion named Luo Qiao smiled at the crowd, while a ministry official presented the match as entertainment while insisting that the shield it showcased could save lives. Ning studied the shield graph instead of the champion's facial expression. The peak had arrived before Qiao's fist touched the target.",
+        "zh": "早晨的集會在老歌劇院舉行，因為競技場的屋頂還在修理。沈寧帶著銅製感測器、掃帚和小型計數器來到示範現場。她是校準技師，不是武者。她的左手一直沒恢復原本的力氣，也不打算隱瞞。臺上方有句很有說服力的口號，宣稱最強的一拳能保護城市。年輕冠軍羅喬向觀眾微笑，主管部門官員把比賽包裝成娛樂，卻又堅稱比賽展示的屏障技術能保護市民。沈寧沒有觀察冠軍的表情，而是盯著屏障圖表。能量高峰竟然在羅喬的拳頭碰到靶子之前就出現了。",
+        "englishSha256": "13be15b634b5c3361d142379f1f85f07b6dcd774c50c05822083290e685164c9",
+        "chineseSha256": "9d60be1acbdbd815beee3604c23d744e3a13f42301b423a23fd35c15b6768478"
+      },
+      {
+        "number": 2,
+        "en": "Ning asked the hall manager for permission to examine the floor. Some spectators called her a coward who wanted to interfere with the contest. She did not answer. She used the broom to expose the old route of copper wires beneath the boards. An acid stain had weakened one connector, and a shady corner hid the break from the cameras. The official explanation was that a mysterious phenomenon produced extra power whenever a champion fought. Ning had seen the same early peak during a school rehearsal, when no one had thrown a punch. She suspected that the shield responded to people moving together, not to victory itself. A suspiciously simple theory was not yet a conclusion, however; she needed evidence that other technicians could check.",
+        "zh": "沈寧向劇院經理請求檢查地板的許可。有些觀眾罵她是膽小鬼，只想干擾競賽。她沒有回答，而是用掃帚清出木板下方原有的銅線路線。酸性污漬腐蝕了一個接頭，鏡頭拍不到的陰暗角落正好藏住裂口。官方說法是冠軍交手時會發生神祕現象，產生額外能量。沈寧卻曾在沒有任何人出拳的學校彩排中看過相同的提前高峰。她懷疑屏障回應的是群體同步移動，而不是勝利本身。不過，看似簡單的假設還不是結論；她需要其他技師也能查核的證據。",
+        "englishSha256": "874f7d6af02b38f9395b4d52d16734af86e65209463ae4634c22e4c733fc4df5",
+        "chineseSha256": "543f15d87424f5b613dd13e00d1d4763fdf5bae7d3876e6f56700d4b64c5ffe5"
+      },
+      {
+        "number": 3,
+        "en": "The mayor ordered the demonstration to continue, but Ning persuaded the hall manager to construct a second measuring line. She explained its usage to Qiao and the audience: it counted movement along the floor without measuring the strength of any blow. Qiao agreed to cooperate, even though the crowd had paid to watch a contest. First she stood still; the number barely changed. Next the audience followed a slow rhythm tapped by the manager, and the counter rose. When Qiao struck the target afterward, the number hardly moved. No one had to believe Ning's words. They could see the difference on two screens, one operated by the ministry and the other by the manager. The hall fell quiet enough to hear the wind outside.",
+        "zh": "市長命令示範繼續，沈寧卻說服劇院經理另行組裝一條測量線。她向羅喬和觀眾解釋用法：這套裝置測量地板上的動作，卻不測量拳頭的力量。羅喬同意合作，雖然觀眾原本是付錢來看競賽的。她先站著不動，數值幾乎沒變。接著觀眾跟隨經理敲出的慢節奏移動，計數器開始上升。之後羅喬再打靶，數值卻幾乎不動。大家不必只相信沈寧的話；兩面螢幕上的差異清清楚楚，一面由主管部門操作，一面由經理操作。大廳安靜到能聽見外頭的風聲。",
+        "englishSha256": "174bd1288149326844c98aeb02e2aa1b481299b8a506216f714abdfc34a1dbed",
+        "chineseSha256": "ea20e00add2ab06b25c01856ee0685dbc53f4b8acb6e778f2e47bd48f0fe7c25"
+      },
+      {
+        "number": 4,
+        "en": "The ministry official called the result an amusing mistake and urged the crowd to forget it. Ning refused to let the word entertainment replace a safety test. She proposed a smaller experiment in a public square, where anyone could watch and where an independent recorder could keep the readings. The official warned that public discussion might damage confidence in the city's strongest fighters. Qiao stepped beside Ning and said that a fighter should welcome a better shield, even if the discovery gave no points. Her remark changed the tone of the assembly. People who had come for a show began asking practical questions about their homes, schools, and the routes to the nearest shelters. The official agreed to one supervised test, but insisted that the arena's schedule remain unchanged.",
+        "zh": "官員把結果稱為有趣的失誤，要大家忘記。沈寧拒絕讓「娛樂」兩字取代安全測試。她提議到公共廣場做一次較小的實驗，讓任何人都能觀看，也由獨立記錄員保留讀數。官員警告，公開討論可能損害市民對最強武者的信心。羅喬站到沈寧身旁，說真正的武者應該歡迎更好的屏障，即使這項發現無法帶來積分。她的話改變了集會氣氛。原本來看表演的人開始詢問住家、學校與最近避難所的路線。官員同意監督下的測試，但堅持競技場日程不變。",
+        "englishSha256": "37c98aa7d5be0827b69be3cb0e72a244adfe3526f7bc2e5e188a9c4b2dd183a4",
+        "chineseSha256": "8dbdf793c09447f0528fb2653d1acc8e992be2330d2fdfc5c5845898c0142e6f"
+      },
+      {
+        "number": 5,
+        "en": "That evening, Ning returned to the control room to compare both records. A violent pressure storm was expected in twenty-five days, and the city had only one shield large enough to meet it. Every previous report connected the shield to a champion's score. The new graph showed another possibility, but one good result could not protect a neighborhood. Ning wrote three rules on her notebook: never confuse a score with a measurement; never call a route safe without testing it; and never force a resident to join an experiment. Then she noticed that the official counter had been reset after the rehearsal. Someone had erased the minute when the audience moved together. She copied the surviving paper strip before the lights went out.",
+        "zh": "那天傍晚，沈寧回到控制室比對兩份紀錄。二十五天後預計會有強烈的壓力風暴，城市只有一座足以承受的巨大屏障。過去所有報告都把屏障效果和冠軍積分連在一起。新圖表顯示另一種可能，但一次好結果救不了整個街區。沈寧在筆記本寫下三條規則：不可把積分當成測量值；沒有測試就不可宣稱路線安全；不可強迫居民參與實驗。接著她發現官方計數器在彩排後被重設，觀眾一起移動的那一分鐘被人刪掉了。停電前，她先複印了倖存的紙帶。",
+        "englishSha256": "ad30caabea76b66e955da3f45cb74dedaa4eb97cdfb40dee495c7bef04746e02",
+        "chineseSha256": "0885e726a97e962076b20c38a884d4d94a7530d58889929f5e71e389d74486d5"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 624,
+    "targets": [
+      {
+        "word": "acid",
+        "meaning": "酸性物質",
+        "appearsInSource": true
+      },
+      {
+        "word": "assembly",
+        "meaning": "集會",
+        "appearsInSource": true
+      },
+      {
+        "word": "broom",
+        "meaning": "掃帚",
+        "appearsInSource": true
+      },
+      {
+        "word": "construct",
+        "meaning": "組裝",
+        "appearsInSource": true
+      },
+      {
+        "word": "cooperate",
+        "meaning": "合作",
+        "appearsInSource": true
+      },
+      {
+        "word": "copper",
+        "meaning": "銅製的",
+        "appearsInSource": true
+      },
+      {
+        "word": "counter",
+        "meaning": "計數器",
+        "appearsInSource": true
+      },
+      {
+        "word": "coward",
+        "meaning": "膽小鬼",
+        "appearsInSource": true
+      },
+      {
+        "word": "entertainment",
+        "meaning": "娛樂",
+        "appearsInSource": true
+      },
+      {
+        "word": "facial",
+        "meaning": "臉部的",
+        "appearsInSource": true
+      },
+      {
+        "word": "interfere",
+        "meaning": "干擾",
+        "appearsInSource": true
+      },
+      {
+        "word": "ministry",
+        "meaning": "主管部門",
+        "appearsInSource": true
+      },
+      {
+        "word": "opera",
+        "meaning": "歌劇院",
+        "appearsInSource": true
+      },
+      {
+        "word": "persuasive",
+        "meaning": "有說服力的",
+        "appearsInSource": true
+      },
+      {
+        "word": "phenomenon",
+        "meaning": "現象",
+        "appearsInSource": true
+      },
+      {
+        "word": "route",
+        "meaning": "路線",
+        "appearsInSource": true
+      },
+      {
+        "word": "shady",
+        "meaning": "陰暗的",
+        "appearsInSource": true
+      },
+      {
+        "word": "slogan",
+        "meaning": "口號",
+        "appearsInSource": true
+      },
+      {
+        "word": "usage",
+        "meaning": "用法",
+        "appearsInSource": true
+      },
+      {
+        "word": "youthful",
+        "meaning": "年輕的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What made Ning doubt the official explanation of shield power?",
+      "options": [
+        "The shield peaked before the punch landed.",
+        "The champion refused to train.",
+        "The opera hall had no cameras."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "The shield peaked before the punch landed.",
+      "existingAnswerExplanation": "第一章的能量高峰在拳頭命中前就出現，表示勝負分數可能不是供能原因。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 2,
+          "english": "Ning asked the hall manager for permission to examine the floor. Some spectators called her a coward who wanted to interfere with the contest. She did not answer. She used the broom to expose the old route of copper wires beneath the boards. An acid stain had weakened one connector, and a shady corner hid the break from the cameras. The official explanation was that a mysterious phenomenon produced extra power whenever a champion fought. Ning had seen the same early peak during a school rehearsal, when no one had thrown a punch. She suspected that the shield responded to people moving together, not to victory itself. A suspiciously simple theory was not yet a conclusion, however; she needed evidence that other technicians could check.",
+          "chinese": "沈寧向劇院經理請求檢查地板的許可。有些觀眾罵她是膽小鬼，只想干擾競賽。她沒有回答，而是用掃帚清出木板下方原有的銅線路線。酸性污漬腐蝕了一個接頭，鏡頭拍不到的陰暗角落正好藏住裂口。官方說法是冠軍交手時會發生神祕現象，產生額外能量。沈寧卻曾在沒有任何人出拳的學校彩排中看過相同的提前高峰。她懷疑屏障回應的是群體同步移動，而不是勝利本身。不過，看似簡單的假設還不是結論；她需要其他技師也能查核的證據。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 1,
+          "english": "The morning assembly gathered inside the old opera hall because the arena's roof was still under repair. Shen Ning brought a copper sensor, a broom, and a small counter to the demonstration. She was a calibration technician, not a fighter. Her left hand had never recovered its former strength, and she had no intention of disguising that fact. Above the platform, a persuasive slogan promised that the strongest punch would protect the city. A youthful champion named Luo Qiao smiled at the crowd, while a ministry official presented the match as entertainment while insisting that the shield it showcased could save lives. Ning studied the shield graph instead of the champion's facial expression. The peak had arrived before Qiao's fist touched the target.",
+          "chinese": "早晨的集會在老歌劇院舉行，因為競技場的屋頂還在修理。沈寧帶著銅製感測器、掃帚和小型計數器來到示範現場。她是校準技師，不是武者。她的左手一直沒恢復原本的力氣，也不打算隱瞞。臺上方有句很有說服力的口號，宣稱最強的一拳能保護城市。年輕冠軍羅喬向觀眾微笑，主管部門官員把比賽包裝成娛樂，卻又堅稱比賽展示的屏障技術能保護市民。沈寧沒有觀察冠軍的表情，而是盯著屏障圖表。能量高峰竟然在羅喬的拳頭碰到靶子之前就出現了。",
+          "matchedQueryTerms": 6
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Ning copy the paper strip?",
+      "options": [
+        "She wanted to sell it to a sponsor.",
+        "The official counter had been reset.",
+        "She wanted an autograph."
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "The official counter had been reset.",
+      "existingAnswerExplanation": "官方計數器清除了群眾同步移動時的讀數，所以她保存紙帶證據。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 5,
+          "english": "That evening, Ning returned to the control room to compare both records. A violent pressure storm was expected in twenty-five days, and the city had only one shield large enough to meet it. Every previous report connected the shield to a champion's score. The new graph showed another possibility, but one good result could not protect a neighborhood. Ning wrote three rules on her notebook: never confuse a score with a measurement; never call a route safe without testing it; and never force a resident to join an experiment. Then she noticed that the official counter had been reset after the rehearsal. Someone had erased the minute when the audience moved together. She copied the surviving paper strip before the lights went out.",
+          "chinese": "那天傍晚，沈寧回到控制室比對兩份紀錄。二十五天後預計會有強烈的壓力風暴，城市只有一座足以承受的巨大屏障。過去所有報告都把屏障效果和冠軍積分連在一起。新圖表顯示另一種可能，但一次好結果救不了整個街區。沈寧在筆記本寫下三條規則：不可把積分當成測量值；沒有測試就不可宣稱路線安全；不可強迫居民參與實驗。接著她發現官方計數器在彩排後被重設，觀眾一起移動的那一分鐘被人刪掉了。停電前，她先複印了倖存的紙帶。",
+          "matchedQueryTerms": 11
+        },
+        {
+          "paragraph": 1,
+          "english": "The morning assembly gathered inside the old opera hall because the arena's roof was still under repair. Shen Ning brought a copper sensor, a broom, and a small counter to the demonstration. She was a calibration technician, not a fighter. Her left hand had never recovered its former strength, and she had no intention of disguising that fact. Above the platform, a persuasive slogan promised that the strongest punch would protect the city. A youthful champion named Luo Qiao smiled at the crowd, while a ministry official presented the match as entertainment while insisting that the shield it showcased could save lives. Ning studied the shield graph instead of the champion's facial expression. The peak had arrived before Qiao's fist touched the target.",
+          "chinese": "早晨的集會在老歌劇院舉行，因為競技場的屋頂還在修理。沈寧帶著銅製感測器、掃帚和小型計數器來到示範現場。她是校準技師，不是武者。她的左手一直沒恢復原本的力氣，也不打算隱瞞。臺上方有句很有說服力的口號，宣稱最強的一拳能保護城市。年輕冠軍羅喬向觀眾微笑，主管部門官員把比賽包裝成娛樂，卻又堅稱比賽展示的屏障技術能保護市民。沈寧沒有觀察冠軍的表情，而是盯著屏障圖表。能量高峰竟然在羅喬的拳頭碰到靶子之前就出現了。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

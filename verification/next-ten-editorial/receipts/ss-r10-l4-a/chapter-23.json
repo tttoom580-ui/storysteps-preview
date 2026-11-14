@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r10-l4-a",
+  "title": "都市高武：我替弱者校準屏障",
+  "chapter": 23,
+  "chapterId": "ss-r10-l4-a-23",
+  "sourceChapterSha256": "f30164086f18c83bed6a9ad2d0c4b02efd9f0f9d1eba6a46323d31d1a19717e5",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "海岸雷達誤報是金屬回音、非敵人；托兒所幼苗與孩子已撤至上樓，海岸纜線需降低輸出。",
+    "previousChapterEndingEnglish": "Before dawn, the north and east towers answered one another with stable pulses. The shelter remained crowded but orderly, and its staff had not excluded anyone by rank. Ning walked through the corridors to check that volunteers had water and a place to rest. At the stone arch she met the family who had arrived with the quilt. Their child was asleep, and the mother asked whether the storm was over. Ning told her the truth: the first wave had passed, but the larger one was still coming. The mother thanked her for not pretending certainty. Outside, the rain began to fall sideways, and the five-tower monitor showed a warning from the coast.",
+    "nextChapterOpeningEnglish": "The main wave struck on the date of the city's annual championship. The arena commander wanted to follow the conventional plan and send one fighter to the center of the stage. Ning said the concept might raise morale but could not replace the five-tower procedure. The emergency constitution adopted by the council required observation, independent measurements, and safe exit routes. She had confidence in that rule because it had already been tested during smaller storms. The commander scolded her for delaying a symbolic triumph. Qiao replied that obedience to a dramatic order would not protect the shelters if the cable broke. She stayed at the control center, ready to assist without pretending to be the city's only answer."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 6,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The coastal radar station reported an artificial signal coming from the sea. Some officials wanted to treat it as an enemy attack and launch a military response. Ning asked the laboratory team to calculate the direction and compare it with the weather observations. The signal turned out to be an echo from damaged metal near the harbor, not an invading force. Despite the tense atmosphere, the team did not begin a contest to see who could offer the most dramatic theory. Their peer review identified the faulty reading and corrected it before the wrong information reached the shelters. Ning felt relieved. A false prediction could move thousands of people into danger even without a single broken tower.",
+        "zh": "海岸雷達站通報海上傳來人工訊號。有些官員想把它當敵人攻擊，立即採取軍事回應。沈寧請實驗室團隊計算方向，並與氣象觀測比較。訊號原來是港口附近損壞金屬的回音，不是入侵力量。儘管氣氛緊張，團隊沒有比賽誰的理論最戲劇化。同儕審查找到錯誤讀數，在錯訊傳到避難所前更正。沈寧鬆了一口氣。錯誤預測即使不破壞任何塔，也可能把數千人帶進危險。",
+        "englishSha256": "191c982029dabfd634bb1978ab6805d606a5031ef27f42b4ed24694f29a1b1a6",
+        "chineseSha256": "3868a075476b1cc48f288ebaf0cdfa9d8671a9d00d63ddc403de7dcda33b27fe"
+      },
+      {
+        "number": 2,
+        "en": "A second incident was real: the river rose and muddy water entered a childcare nursery near the southern monument. Workers lifted seedlings from the children's indoor garden off the floor, while the children had already been moved to an upper shelter. A teacher used a scoop to clear debris from the doorway while another protected the delicate stem of a young tree. The nursery director offered the building as a temporary supply point if inspectors judged it safe. Ning thanked her for the generosity, then refused to send people inside until the power had been isolated. The delay frustrated everyone, yet it prevented another electrical hazard. The director accepted the decision and helped move supplies through the dry entrance instead.",
+        "zh": "第二起事件是真的：河水上漲，泥水流進南方紀念碑旁的托兒所。工人先把孩子們室內小花圃的幼苗抬離地面；孩子們早已轉往樓上的避難所。一名教師用勺鏟清除門口碎屑，另一人保護小樹脆弱的莖。園長表示若經檢查安全，願讓建築作臨時物資站。沈寧感謝這份慷慨，但在隔離電源前拒絕派人進去。延誤讓大家煩躁，卻避免另一場電力危險。園長接受決定，改從乾燥入口協助運送。",
+        "englishSha256": "efb30b3481dd0ec8abd3aaa4c18fa1d9e968650cdc68c2d3840a663dfa656c73",
+        "chineseSha256": "a64f60cee7842b569f7e01fa04cb25b25cae9e53caf773551ffeac0bfaf65f6a"
+      },
+      {
+        "number": 3,
+        "en": "Back at the control center, the five-tower graph began to lose its shape. The coastal link had taken more force than predicted, and one support cable was under strain. Min recommended lowering the network's output for ten minutes while the crews checked the joints. The mayor asked whether that would endanger the city. Ning showed two possible outcomes: continuing at full load risked breaking the cable, while a temporary reduction would leave a smaller but still useful shield. She chose the second option and documented the reason. Her decision was neither modest nor heroic; it was a calculation based on limits that had been recorded long before the storm.",
+        "zh": "回到控制中心，五塔圖表開始走樣。海岸連線承受的力量比預測大，一條支撐纜線吃緊。敏敏建議降低網路輸出十分鐘，讓工班檢查接頭。市長問這是否危及城市。沈寧展示兩種結果：持續滿載可能弄斷纜線，暫時降低會留下較小但仍有用的屏障。她選第二種，記下理由。這決策既不謙卑也不英雄式，而是依照早在風暴前記錄的限制進行計算。",
+        "englishSha256": "b36f3bd32e8cf85a0d30113a2cdfcf3e013b2a14bb44881d43183101bdd28f45",
+        "chineseSha256": "507c2c99c0a6ae6eff5c605762c02684d8d7d4ab3679b17473c10b2933c3e092"
+      },
+      {
+        "number": 4,
+        "en": "An engineer at the harbor reported that the water had changed the cable's position. No one could safely depart by boat in the rising waves, so the coastal crew worked from the inland service station. They used the approved remote control to reduce strain on the cable. The network continued to circulate a timing signal between the other towers. Qiao stood at the hospital and asked residents to follow the slow optional rhythm only if they felt well enough. Many chose not to join, and the shield did not punish them. Ning watched the independent meters agree on the reduced output. The success was incomplete, but it kept a path open for further adjustments.",
+        "zh": "港口工程師通報水位改變了纜線位置。海浪變大，沒有人能安全搭船出發，海岸工班便改從內陸維修站工作。他們使用核准的遠端控制降低纜線張力。網路仍在其他防護塔間循環傳送時序訊號。羅喬站在醫院，請身體狀況允許且自願的居民跟著慢節拍移動。許多人選擇不參加，屏障也沒有因此懲罰他們。沈寧看著獨立儀表對較低輸出得出一致讀數。成功並不完整，卻保留了後續調整的空間。",
+        "englishSha256": "6cecc56bbe7bb00290e6202dacb6ed6f0976f27a0ff6877550d7d5adc96bb35c",
+        "chineseSha256": "608149ab64dd83579f3b7127a361cb1bf9fc22a9cd3eccb63c74a9a6f2ac0cef"
+      },
+      {
+        "number": 5,
+        "en": "The laboratory sent a separate issue report about circulation of emergency messages. Some shelters had received an old map because the new file had not reached their printers. Ning asked the team to distribute a dated paper correction and confirm delivery by telephone. The error did not change the radar result, but it could change where a family walked. The staff fixed it before announcing that the information system was stable.",
+        "zh": "實驗室另送來一份關於緊急訊息流通的問題報告。有些避難所收到舊地圖，因為新檔沒有傳到印表機。沈寧請團隊發放註明日期的紙本更正，並以電話確認送達。錯誤不影響雷達結果，卻可能改變家庭走的路。工作人員先修正，才宣布資訊系統穩定。",
+        "englishSha256": "e5e0c244323e31d84576c175890fde8a32a2a5d30109ec5b84122adc4b5ac9e5",
+        "chineseSha256": "eca52ef7d73c2f9db06d8fe5e9e217b7ae9a0f1939f939976a569f4d75e30925"
+      },
+      {
+        "number": 6,
+        "en": "As the largest wave approached, Han broadcast a short philosophical reminder from the old builders: the purpose of a shield was to make room for life, not to identify a winner. Ning approved the quotation but asked the channel to include practical instructions beside it. Residents needed to know which exits remained open, where medical support was available, and whom to call if a signal failed. In the final minute before the wave, the coastal radar steadied. The laboratory forecast predicted a difficult hour, not immediate collapse. Ning placed both hands on the desk, read the limits aloud to her team, and ordered the next controlled test to begin.",
+        "zh": "最大一波風暴逼近時，韓瑜播放早期建造者的一段哲學性提醒：屏障的目的，是為生命留出空間，不是找出勝者。沈寧同意引用，但請頻道同時提供實際指示。居民需要知道哪些出口仍可用、何處有醫療支援、訊號故障要聯絡誰。大浪抵達前最後一分鐘，海岸雷達逐漸穩定。實驗室預報接下來會有艱難的一小時，而非立刻崩潰。沈寧雙手按著桌面，向團隊讀出限制，命令下一次受控測試開始。",
+        "englishSha256": "449f7078621e035250c07c58cabf905eb789a51b9bd4e713159065f3eb65d8af",
+        "chineseSha256": "d0c079967453dd424313ebe138b60d9b638f9d035a38d8a9e1944561328d7ab0"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 640,
+    "targets": [
+      {
+        "word": "artificial",
+        "meaning": "人工的",
+        "appearsInSource": true
+      },
+      {
+        "word": "calculate",
+        "meaning": "計算",
+        "appearsInSource": true
+      },
+      {
+        "word": "circulation",
+        "meaning": "流通",
+        "appearsInSource": true
+      },
+      {
+        "word": "contest",
+        "meaning": "競賽",
+        "appearsInSource": true
+      },
+      {
+        "word": "depart",
+        "meaning": "離開",
+        "appearsInSource": true
+      },
+      {
+        "word": "Despite",
+        "meaning": "儘管",
+        "appearsInSource": true
+      },
+      {
+        "word": "generosity",
+        "meaning": "慷慨",
+        "appearsInSource": true
+      },
+      {
+        "word": "incident",
+        "meaning": "事件",
+        "appearsInSource": true
+      },
+      {
+        "word": "issue",
+        "meaning": "問題",
+        "appearsInSource": true
+      },
+      {
+        "word": "laboratory",
+        "meaning": "實驗室",
+        "appearsInSource": true
+      },
+      {
+        "word": "modest",
+        "meaning": "謙虛的",
+        "appearsInSource": true
+      },
+      {
+        "word": "monument",
+        "meaning": "紀念碑",
+        "appearsInSource": true
+      },
+      {
+        "word": "muddy",
+        "meaning": "泥濘的",
+        "appearsInSource": true
+      },
+      {
+        "word": "nursery",
+        "meaning": "托兒所",
+        "appearsInSource": true
+      },
+      {
+        "word": "peer",
+        "meaning": "同輩",
+        "appearsInSource": true
+      },
+      {
+        "word": "philosophical",
+        "meaning": "哲學性的",
+        "appearsInSource": true
+      },
+      {
+        "word": "predicted",
+        "meaning": "預測",
+        "appearsInSource": true
+      },
+      {
+        "word": "radar",
+        "meaning": "雷達",
+        "appearsInSource": true
+      },
+      {
+        "word": "scoop",
+        "meaning": "舀取",
+        "appearsInSource": true
+      },
+      {
+        "word": "stem",
+        "meaning": "莖",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did Ning reject the proposed military response to the radar signal?",
+      "options": [
+        "Checks showed the signal was an echo from damaged harbor metal.",
+        "The radar had never been activated.",
+        "The weather office denied all storms."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Checks showed the signal was an echo from damaged harbor metal.",
+      "existingAnswerExplanation": "實驗室計算與觀測證明訊號是港口金屬回音，不是入侵。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 1,
+          "english": "The coastal radar station reported an artificial signal coming from the sea. Some officials wanted to treat it as an enemy attack and launch a military response. Ning asked the laboratory team to calculate the direction and compare it with the weather observations. The signal turned out to be an echo from damaged metal near the harbor, not an invading force. Despite the tense atmosphere, the team did not begin a contest to see who could offer the most dramatic theory. Their peer review identified the faulty reading and corrected it before the wrong information reached the shelters. Ning felt relieved. A false prediction could move thousands of people into danger even without a single broken tower.",
+          "chinese": "海岸雷達站通報海上傳來人工訊號。有些官員想把它當敵人攻擊，立即採取軍事回應。沈寧請實驗室團隊計算方向，並與氣象觀測比較。訊號原來是港口附近損壞金屬的回音，不是入侵力量。儘管氣氛緊張，團隊沒有比賽誰的理論最戲劇化。同儕審查找到錯誤讀數，在錯訊傳到避難所前更正。沈寧鬆了一口氣。錯誤預測即使不破壞任何塔，也可能把數千人帶進危險。",
+          "matchedQueryTerms": 15
+        },
+        {
+          "paragraph": 4,
+          "english": "An engineer at the harbor reported that the water had changed the cable's position. No one could safely depart by boat in the rising waves, so the coastal crew worked from the inland service station. They used the approved remote control to reduce strain on the cable. The network continued to circulate a timing signal between the other towers. Qiao stood at the hospital and asked residents to follow the slow optional rhythm only if they felt well enough. Many chose not to join, and the shield did not punish them. Ning watched the independent meters agree on the reduced output. The success was incomplete, but it kept a path open for further adjustments.",
+          "chinese": "港口工程師通報水位改變了纜線位置。海浪變大，沒有人能安全搭船出發，海岸工班便改從內陸維修站工作。他們使用核准的遠端控制降低纜線張力。網路仍在其他防護塔間循環傳送時序訊號。羅喬站在醫院，請身體狀況允許且自願的居民跟著慢節拍移動。許多人選擇不參加，屏障也沒有因此懲罰他們。沈寧看著獨立儀表對較低輸出得出一致讀數。成功並不完整，卻保留了後續調整的空間。",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Ning temporarily lower network output?",
+      "options": [
+        "To avoid breaking a strained coastal support cable.",
+        "To improve arena popularity.",
+        "To force residents to join the practice."
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "To avoid breaking a strained coastal support cable.",
+      "existingAnswerExplanation": "海岸纜線吃緊，受控降低輸出比突然斷裂安全。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Back at the control center, the five-tower graph began to lose its shape. The coastal link had taken more force than predicted, and one support cable was under strain. Min recommended lowering the network's output for ten minutes while the crews checked the joints. The mayor asked whether that would endanger the city. Ning showed two possible outcomes: continuing at full load risked breaking the cable, while a temporary reduction would leave a smaller but still useful shield. She chose the second option and documented the reason. Her decision was neither modest nor heroic; it was a calculation based on limits that had been recorded long before the storm.",
+          "chinese": "回到控制中心，五塔圖表開始走樣。海岸連線承受的力量比預測大，一條支撐纜線吃緊。敏敏建議降低網路輸出十分鐘，讓工班檢查接頭。市長問這是否危及城市。沈寧展示兩種結果：持續滿載可能弄斷纜線，暫時降低會留下較小但仍有用的屏障。她選第二種，記下理由。這決策既不謙卑也不英雄式，而是依照早在風暴前記錄的限制進行計算。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 4,
+          "english": "An engineer at the harbor reported that the water had changed the cable's position. No one could safely depart by boat in the rising waves, so the coastal crew worked from the inland service station. They used the approved remote control to reduce strain on the cable. The network continued to circulate a timing signal between the other towers. Qiao stood at the hospital and asked residents to follow the slow optional rhythm only if they felt well enough. Many chose not to join, and the shield did not punish them. Ning watched the independent meters agree on the reduced output. The success was incomplete, but it kept a path open for further adjustments.",
+          "chinese": "港口工程師通報水位改變了纜線位置。海浪變大，沒有人能安全搭船出發，海岸工班便改從內陸維修站工作。他們使用核准的遠端控制降低纜線張力。網路仍在其他防護塔間循環傳送時序訊號。羅喬站在醫院，請身體狀況允許且自願的居民跟著慢節拍移動。許多人選擇不參加，屏障也沒有因此懲罰他們。沈寧看著獨立儀表對較低輸出得出一致讀數。成功並不完整，卻保留了後續調整的空間。",
+          "matchedQueryTerms": 9
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

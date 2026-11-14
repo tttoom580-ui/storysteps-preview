@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 8,
+  "chapterId": "ss-r2-l2-a-8",
+  "sourceChapterSha256": "0b49fa1affb3ce1272b1fc1498ba9b516fdc361989e72281cc9d4b6687b233f7",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "芬姨拿出早年水管模型，讓下田用水的先後順序和災後民生需求能一起進入公開討論。",
+    "previousChapterEndingEnglish": "At home, Rui copied the new route onto a large sheet. He checked the direction three times, marked the source, and placed the keeper's words beside the drawing. The next council meeting was only four days away. He wanted to advance their case before Han had time to hide the fourth pipe. Mei warned him that moving too fast might risk the keeper's job. They decided to ask the old man whether his name could be shared in public. That decision was a small step in another kind of learning: protecting the people who helped them was as important as winning.",
+    "nextChapterOpeningEnglish": "The council room was full when Rui arrived. An image of the mountain hung above the central table, and a small wooden shark stood on the shelf as a gift from a sea town. Mei thought the shark was silly, but Rui smiled at it. He was glad to see something ordinary before a serious meeting. A small Chinese character for courage was carved under the shark, though it offered no answer to the council. The clerk read the meeting's title aloud: “Water Access and Public Safety.” Rui held his notes against his chest. He felt alive with fear and hope. If the council allowed him to speak, he would need to express a careful story, not a long list of angry claims."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "The keeper gave his permission the next morning, but he asked Rui to use only his work title in public. “I am an elder in this village,” he said, “yet I still need my job.” Rui understood and wrote “North Station Keeper” on the first page of their report. Mei brought an ancient map copied from a book nearly a century old. The map showed a small road beside the fourth water passage. A strange line ran backward from the source toward the mountain's western side. “A river cannot run this way without help,” she said. “Someone designed a lift system here long before Han was born.”",
+        "zh": "第二天早上，管理人同意作證，但請睿在公開資料裡只使用他的職稱。「我是村裡的長者，」他說，「但我仍需要這份工作。」睿理解，於是把「北站管理人」寫在報告第一頁。梅帶來一張從近百年前的書中抄下的古老地圖。圖上第四條水道旁有條小路，還有一條奇怪的線從水源向西側山地逆向延伸。「沒有幫助，水不會這樣流，」她說，「韓出生很久以前，就有人在這裡設計過提升系統。」",
+        "englishSha256": "613fb399d47f84a28c96565dc8ea8e1b9332222f74fc5322fa998707b3cb172f",
+        "chineseSha256": "2d4b98ad91f6bb6d77fb6eaa3db29b4a776c961c4198fecd12bc004c8897f838"
+      },
+      {
+        "number": 2,
+        "en": "They visited a retired builder named Aunt Fen, who kept old tools in a tidy shed. She was an adult when the school first opened the new farm. Fen explained that the fourth passage had been built to aid villages during drought. Its design was simple: water moved into a storage pool, and a wheel raised small amounts uphill when needed. “The instruction was clear,” she said. “Use it only after the lower fields have enough.” Rui asked how people had maintained the machine. Fen pointed to a set of used copper pieces. “We repaired these every winter. Nobody had the money to replace the whole system.”",
+        "zh": "他們拜訪退休的建造師芬姨。她把舊工具收在整齊的小屋裡。山門新農場初建時，她已經是大人。芬解釋，第四條水道是為了在乾旱時援助村莊而建。設計很簡單：水先進入蓄水池，再由水輪在需要時把少量水送上坡。「操作指示很清楚，」她說，「下游田地有足夠的水後，才能使用。」睿問以前怎麼維護機器。芬指著一組用過的銅零件：「每年冬天都修這些，沒有人有錢整套換掉。」",
+        "englishSha256": "50f1e6bf9eac6bec119ca5ecbdc10e34a39eb01342f856fd70c5c11facb6be23",
+        "chineseSha256": "b8d5ab5ce135f0df92bc0e47e52649b799065579a3515c2cbcf7ec97f946ff0d"
+      },
+      {
+        "number": 3,
+        "en": "Fen's grandson had a fever, so Rui offered to carry the tools while she made medicine and rested. On the kitchen table lay a basket of peaches and a bag of grain. Rui took one peach only after Fen told him to. She showed them a wooden model of the old lift. Its small wheel made one lap after another as she turned a handle. “This is the part that Han removed,” Fen said, touching a space where a pin should have been. Rui examined the gap. It had not been worn away by age. The metal had been cut with a modern tool.",
+        "zh": "芬的孫子發燒了，睿主動幫忙搬工具，讓她準備藥物與休息。廚房桌上有一籃桃子和一袋穀物。芬請他吃，他才拿了一顆。她拿出舊提升機的木模型。轉動把手時，小輪一圈又一圈地轉著。「這就是韓拆走的部分，」芬指著原本應該有插銷的位置說。睿檢查缺口。那不是年代久遠磨損造成的，而是有人用現代工具切開了金屬。",
+        "englishSha256": "9f08e5a6088d994b515637dca87a840d37922ba71d83422a7d5ae8ec37dd8097",
+        "chineseSha256": "30d18cbbab69c0d93467aae76bc7f00e2d20cc3da0cc1c2e442aaa1f16d603f9"
+      },
+      {
+        "number": 4,
+        "en": "The missing pin changed the identity of the problem. Until then, Rui had thought the system was old and broken. Now it looked as though someone had made sure it could not work in its old way. Mei wanted to bring the model to the council, but Fen warned them to protect the original. “A picture can be copied,” she said. “This machine cannot.” They drew the parts, measured the gap, and placed a paper strip beside the cut as a scale. Mei took a photograph. Rui tried to pose the model so the mark could be seen clearly, then returned every piece to its box.",
+        "zh": "消失的插銷改變了問題的本質。此前，睿以為系統只是老舊故障；現在看來，有人刻意讓它無法照原設計工作。梅想把模型帶去議會，但芬提醒要保護原件。「照片能複製，」她說，「這台模型卻只有一個。」他們畫下零件、測量缺口，並在切口旁放紙條當比例尺。梅拍了照。睿調整模型擺放姿勢，讓痕跡看得清楚，再把所有零件放回盒子。",
+        "englishSha256": "a37b198684f9603a775b8881b8df1aa433e10610cd0b1d04e42f36640511145a",
+        "chineseSha256": "fdea865642d38af83e3f002f7732d478348cf646071cc2c1c1ae425bb7de1abb"
+      },
+      {
+        "number": 5,
+        "en": "On the return path, they found that rain had filled a low crossing. A stranger offered to guide them, but he could not tell how deep the water was, so they checked it themselves. Bo thought they might have to swim, but Rui noticed a row of stones just under the surface. He tested them with a long stick before taking a step. One stone moved, so he placed a branch over the gap to make a safer way. Mei watched the current and warned him when it became stronger. By working slowly, the three crossed without falling. Rui said that this was a typical repair: first notice the weak part, then choose a small change that lowers the risk.",
+        "zh": "回程時，他們發現雨水淹滿一處低窪渡口。一位陌生人想替他們帶路，卻也不清楚水有多深，於是他們決定自行檢查。柏以為可能得游過去，但睿看見水面下有一排石頭。他先用長棍測試，再踏出腳步。其中一塊石頭會晃，他便用樹枝架過缺口，做出較安全的路。梅注意水流，流速變快時就提醒他。三人慢慢合作，沒有跌進水裡。睿說這就是典型的修理：先看出弱點，再選擇能降低風險的小改變。",
+        "englishSha256": "fbc36cffbd135622a8d02603167528a8214215a6f3dc7b221fd782704abb6514",
+        "chineseSha256": "019135a1052b6362e4b04617aab23a25c87efac6505955bc3b216f2584ddfa3d"
+      },
+      {
+        "number": 6,
+        "en": "Back at home, Rui put Fen's instructions beside the school report. The words were almost the same, but one key sentence had vanished from the newer edition. It was the line saying that lower fields must receive water first. He felt something close to anger. A rule that protected weak families had not simply been forgotten; it had been removed from the page. He wanted to tear up Han's report, but Mei asked him to keep it whole. “A changed page is evidence,” she said. “A torn page may be called a mistake.” Rui smoothed the paper and placed it in a clean folder.",
+        "zh": "回到家，睿把芬的操作指示放在山門報告旁。文字幾乎一樣，但新版少了一句關鍵內容：下游田地必須先得到水。他感到一陣怒意。保護弱勢家庭的規則並非只是被忘記，而是從頁面上消失了。他想撕碎韓的報告，梅卻請他保持完整。「被改過的頁面是證據，」她說，「撕破的頁面可能被說成意外。」睿把紙撫平，放進乾淨的資料夾。",
+        "englishSha256": "30ac0e0963b5789f3843a0c37979dbc268ae6ff8f3ee86bc716ef99ac2b2f44c",
+        "chineseSha256": "887ed473d1f371b5f766cf7e5e29e31b4bdd7179f78d850f7ea7f7a49d632e69"
+      },
+      {
+        "number": 7,
+        "en": "That evening, Fen sent a final note. She remembered that the school had once asked builders to sign new forms but had not explained the changes. Several workers had refused. She could remember their names. Rui thanked her and said he would ask each person before putting a name into the report. The old map had given them more than a route. It had shown why the water system was built and who it was meant to help. The question at the council would now be larger than whether a single gate could open. It would be whether the school had followed the promise on which its own system stood.",
+        "zh": "傍晚，芬又送來一張紙條。她想起山門曾要求工匠簽新表格，卻沒有解釋改了哪些內容。有幾名工人拒絕，她還記得名字。睿向她道謝，並說放入報告前會先問每個人。舊地圖帶來的不只是路線，也說明了供水系統為何而建、原本要幫誰。議會要面對的問題已不只是單一道水閘能不能打開，而是山門是否遵守了支撐整套系統的承諾。",
+        "englishSha256": "01b9ea59caf264c6d513997a342ca1da7c6ad36a7cb19c3c6e7127bff9dd0360",
+        "chineseSha256": "be0673523756956cac6c13a874c66d6bf38d2f2740b598cd1f33855a0adb362c"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 758,
+    "targets": [
+      {
+        "word": "adult",
+        "meaning": "成年人",
+        "appearsInSource": true
+      },
+      {
+        "word": "aid",
+        "meaning": "援助",
+        "appearsInSource": true
+      },
+      {
+        "word": "ancient",
+        "meaning": "古老的",
+        "appearsInSource": true
+      },
+      {
+        "word": "backward",
+        "meaning": "向後",
+        "appearsInSource": true
+      },
+      {
+        "word": "century",
+        "meaning": "世紀",
+        "appearsInSource": true
+      },
+      {
+        "word": "designed",
+        "meaning": "設計",
+        "appearsInSource": true
+      },
+      {
+        "word": "elder",
+        "meaning": "長者",
+        "appearsInSource": true
+      },
+      {
+        "word": "fever",
+        "meaning": "發燒",
+        "appearsInSource": true
+      },
+      {
+        "word": "grain",
+        "meaning": "穀物",
+        "appearsInSource": true
+      },
+      {
+        "word": "identity",
+        "meaning": "性質",
+        "appearsInSource": true
+      },
+      {
+        "word": "instruction",
+        "meaning": "指示",
+        "appearsInSource": true
+      },
+      {
+        "word": "lap",
+        "meaning": "一圈",
+        "appearsInSource": true
+      },
+      {
+        "word": "maintained",
+        "meaning": "維護",
+        "appearsInSource": true
+      },
+      {
+        "word": "peaches",
+        "meaning": "桃子",
+        "appearsInSource": true
+      },
+      {
+        "word": "pose",
+        "meaning": "擺放姿勢",
+        "appearsInSource": true
+      },
+      {
+        "word": "stranger",
+        "meaning": "陌生人",
+        "appearsInSource": true
+      },
+      {
+        "word": "swim",
+        "meaning": "游泳",
+        "appearsInSource": true
+      },
+      {
+        "word": "tear",
+        "meaning": "撕破",
+        "appearsInSource": true
+      },
+      {
+        "word": "typical",
+        "meaning": "典型的",
+        "appearsInSource": true
+      },
+      {
+        "word": "use",
+        "meaning": "用過的",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "What sentence was missing from the newer instructions?",
+      "options": [
+        "Water must be sent uphill first",
+        "Lower fields should receive water first",
+        "Builders must work at night"
+      ],
+      "correctAnswerIndex": 1,
+      "correctAnswerText": "Lower fields should receive water first",
+      "existingAnswerExplanation": "新版刪掉了必須先讓下游田地獲得足夠用水的規定。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Back at home, Rui put Fen's instructions beside the school report. The words were almost the same, but one key sentence had vanished from the newer edition. It was the line saying that lower fields must receive water first. He felt something close to anger. A rule that protected weak families had not simply been forgotten; it had been removed from the page. He wanted to tear up Han's report, but Mei asked him to keep it whole. “A changed page is evidence,” she said. “A torn page may be called a mistake.” Rui smoothed the paper and placed it in a clean folder.",
+          "chinese": "回到家，睿把芬的操作指示放在山門報告旁。文字幾乎一樣，但新版少了一句關鍵內容：下游田地必須先得到水。他感到一陣怒意。保護弱勢家庭的規則並非只是被忘記，而是從頁面上消失了。他想撕碎韓的報告，梅卻請他保持完整。「被改過的頁面是證據，」她說，「撕破的頁面可能被說成意外。」睿把紙撫平，放進乾淨的資料夾。",
+          "matchedQueryTerms": 13
+        },
+        {
+          "paragraph": 2,
+          "english": "They visited a retired builder named Aunt Fen, who kept old tools in a tidy shed. She was an adult when the school first opened the new farm. Fen explained that the fourth passage had been built to aid villages during drought. Its design was simple: water moved into a storage pool, and a wheel raised small amounts uphill when needed. “The instruction was clear,” she said. “Use it only after the lower fields have enough.” Rui asked how people had maintained the machine. Fen pointed to a set of used copper pieces. “We repaired these every winter. Nobody had the money to replace the whole system.”",
+          "chinese": "他們拜訪退休的建造師芬姨。她把舊工具收在整齊的小屋裡。山門新農場初建時，她已經是大人。芬解釋，第四條水道是為了在乾旱時援助村莊而建。設計很簡單：水先進入蓄水池，再由水輪在需要時把少量水送上坡。「操作指示很清楚，」她說，「下游田地有足夠的水後，才能使用。」睿問以前怎麼維護機器。芬指著一組用過的銅零件：「每年冬天都修這些，沒有人有錢整套換掉。」",
+          "matchedQueryTerms": 3
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "Why did Mei keep Han's report whole?",
+      "options": [
+        "A damaged report might weaken the evidence",
+        "She wanted to sell it",
+        "It was a school exam"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "A damaged report might weaken the evidence",
+      "existingAnswerExplanation": "完整保存遭修改的文件，才容易向議會呈現前後差異。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 6,
+          "english": "Back at home, Rui put Fen's instructions beside the school report. The words were almost the same, but one key sentence had vanished from the newer edition. It was the line saying that lower fields must receive water first. He felt something close to anger. A rule that protected weak families had not simply been forgotten; it had been removed from the page. He wanted to tear up Han's report, but Mei asked him to keep it whole. “A changed page is evidence,” she said. “A torn page may be called a mistake.” Rui smoothed the paper and placed it in a clean folder.",
+          "chinese": "回到家，睿把芬的操作指示放在山門報告旁。文字幾乎一樣，但新版少了一句關鍵內容：下游田地必須先得到水。他感到一陣怒意。保護弱勢家庭的規則並非只是被忘記，而是從頁面上消失了。他想撕碎韓的報告，梅卻請他保持完整。「被改過的頁面是證據，」她說，「撕破的頁面可能被說成意外。」睿把紙撫平，放進乾淨的資料夾。",
+          "matchedQueryTerms": 8
+        },
+        {
+          "paragraph": 1,
+          "english": "The keeper gave his permission the next morning, but he asked Rui to use only his work title in public. “I am an elder in this village,” he said, “yet I still need my job.” Rui understood and wrote “North Station Keeper” on the first page of their report. Mei brought an ancient map copied from a book nearly a century old. The map showed a small road beside the fourth water passage. A strange line ran backward from the source toward the mountain's western side. “A river cannot run this way without help,” she said. “Someone designed a lift system here long before Han was born.”",
+          "chinese": "第二天早上，管理人同意作證，但請睿在公開資料裡只使用他的職稱。「我是村裡的長者，」他說，「但我仍需要這份工作。」睿理解，於是把「北站管理人」寫在報告第一頁。梅帶來一張從近百年前的書中抄下的古老地圖。圖上第四條水道旁有條小路，還有一條奇怪的線從水源向西側山地逆向延伸。「沒有幫助，水不會這樣流，」她說，「韓出生很久以前，就有人在這裡設計過提升系統。」",
+          "matchedQueryTerms": 2
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "reviewerType": "AI, not external independent human",
+  "reviewer": "GPT-6 AI editor: 75 chapters read in full, independent human/professional review not performed",
+  "reviewedAt": "2026-11-14",
+  "book": "ss-r2-l2-a",
+  "title": "我的修仙天賦，是看懂使用說明",
+  "chapter": 19,
+  "chapterId": "ss-r2-l2-a-19",
+  "sourceChapterSha256": "61a184376eeb99bed9542fad02c48de5fdfcbf10a0bdcd8e971e35c8ac1109f6",
+  "plotAndTimelineReview": {
+    "passed": true,
+    "chapterSpecificFinding": "暴雨讓水槽溢流，韓承認部分責任，團隊先排除實際危險再處理公眾申訴。",
+    "previousChapterEndingEnglish": "By sunset, the team had replaced the nut and spring, but did not turn the full system on. They covered the new parts and marked them for a longer test under council supervision. Rui stood outside and watched the light touch the water's surface. It looked calm from above, hiding the strong force within the pipe. He thought of all the people who would be affected if the upper line failed. His work now demanded more than a quick repair. It demanded a plan for how much power the valley could safely use, and a rule that no one could secretly change.",
+    "nextChapterOpeningEnglish": "A week later, the replacement parts arrived from a port on the distant coast. Lan had ordered a new joint, a wheel cover, and a small pressure alarm. The boxes weighed more than twenty kilograms together, and the driver had traveled many miles to bring them. Rui met him at the train platform with Mei and Jun. He checked the parts against the list before signing for them. The driver said the work sounded important. “We are only trying to keep water moving safely,” Rui answered. The words seemed simple after so much trouble, but he had never felt their meaning more strongly."
+  },
+  "englishAndBilingualProofreading": {
+    "passed": true,
+    "paragraphCount": 7,
+    "paragraphs": [
+      {
+        "number": 1,
+        "en": "Rain came before dawn and filled the upper tank faster than expected. The team still had several hard hours ahead, even though nobody could yet see the full danger. Rui hurried to the control hall with Mei and Lan. A pupil from the repair class had been watching the marks and called them as soon as the dial passed the safe line. “You did the right thing,” Rui told him. The boy looked confident for a moment, then admitted he had been frightened. Rui said fear could be useful when it made people ask for help. In the hall, the pressure was rising, and the old coal engine was still running. Someone had added extra power during the night.",
+        "zh": "天亮前下起雨，上方水槽比預期更快裝滿。隊伍前方仍有幾個辛苦的工作時辰，雖然此刻沒人能看清全部危險。睿和梅、蘭趕往控制大廳。一名維修班學生一直看著刻度，當指針超過安全線就立刻通知他們。「你做得對，」睿告訴他。男孩一度顯得有信心，接著承認自己很害怕。睿說恐懼有時有用，能讓人及時求助。大廳裡壓力仍在上升，舊燃煤引擎還在運轉。有人夜裡加大了動力。",
+        "englishSha256": "211769ca376d6739aeb7929f1491730d98dad5567ce966d28a67d48c4b635900",
+        "chineseSha256": "40560018e07f49da28d469fa15bf651dca89f6ac7b8166dccb77babd04c3cdc8"
+      },
+      {
+        "number": 2,
+        "en": "Lan checked the power log while Rui looked at the control panel. The numbers did not match the council's order. Mei opened the public Internet record and found that the latest change had not been entered. “We need to say this clearly,” she said. “The machine has been changed, and the change is missing from the record.” Captain Su arrived with the safety team and asked everyone to move away from the lower pipe. A small leak could affect the whole wall if pressure stayed high. Rui's brain raced through the steps in the manual, but he forced himself to read them one at a time.",
+        "zh": "蘭檢查動力紀錄，睿查看控制面板。數字與議會命令不符。梅打開公開網路紀錄，發現最新修改沒有登錄。「我們必須說清楚，」她說，「有人改動機器，而這項修改沒有出現在紀錄裡。」蘇隊長帶著安全隊抵達，請大家離開下方管線。若壓力持續升高，小漏水也可能影響整面牆。睿腦中飛快閃過說明書步驟，卻強迫自己一條一條看。",
+        "englishSha256": "4f2ff3f342afa6a230204e82ae857a70bf5c5696ea1b86c23aa9facb62ab7ade",
+        "chineseSha256": "46abd69c1b974d341aaf902117424c2c479b4e6701f9fa4ac2d8ec581bc7ae0c"
+      },
+      {
+        "number": 3,
+        "en": "Rui asked a guard to clear the hallway and direct visitors to the restroom at the far end, away from the control room. Lan lowered the engine power a bit while Mei watched the gauge. The pointer moved down, then rose again. Rui realized that the rain had filled the storage tank and the old release valve was still closed. He did not insist on working alone. He called Gao, who knew the manual controls, and asked him to open the safe outlet with a second worker. The two checked each handle together. Their careful effort brought the pressure down without a sudden rush.",
+        "zh": "睿請守衛清空走廊，指引訪客去遠端的洗手間，避開控制室。蘭把引擎動力降低一點，梅盯著儀表。指針下降後又升高。睿明白雨水已裝滿蓄水槽，舊排放閥卻仍關著。他不堅持一個人處理，而是叫熟悉手動控制的高來，請他與另一名工人一起打開安全出口。兩人共同確認每個把手。仔細的努力讓壓力下降，沒有突然大量洩水。",
+        "englishSha256": "46d23087da9c0ee42a6a42316823a49e9fe4d19f6c1c3cba4e41d584732ecce6",
+        "chineseSha256": "c790d7bbb15397d7cd24d90600f3e8bd4485df684a66b50d2bf67b8a2c46d331"
+      },
+      {
+        "number": 4,
+        "en": "When the immediate danger had passed, Han entered the hall. His face was pale. He said he had ordered extra water for the private farms because their soybean fields were close to drying out. “I thought there was enough rain coming,” he said. “I did not think the tank would fill so fast.” Rui wanted to give a sharp speech, but stopped himself. Han had made a dangerous choice without approval, and the choice needed to be recorded. Yet shouting would not improve the machine. Captain Su asked Han to write a personal statement explaining the order and its purpose.",
+        "zh": "眼前危機過去後，韓進了大廳，臉色蒼白。他承認下令多送水給私人農場，因為那裡的黃豆田快乾了。「我以為快下的雨足夠，」他說，「沒想到水槽會裝得這麼快。」睿想嚴厲斥責，卻克制住。韓沒有核准就做了危險決定，必須記錄在案，但大吼也不能改善機器。蘇隊長請韓親筆寫下命令與目的。",
+        "englishSha256": "7569a022edd7a84c7bd30d6ce0c11053ebebc5cf2e31a5c28c381527b03d01fc",
+        "chineseSha256": "3b5d4d8682c30401695aaf5ed244e668dae505d97ecb2ab3c8579e25caae6fe1"
+      },
+      {
+        "number": 5,
+        "en": "Lan explained that the problem was not only Han's poor guess. The system had no clear stop when the tank filled too fast. A safe design should not depend on one person's attention or luck. Rui felt the words settle in his mind. The old manual had told him that water and power needed balance. Now he understood another part: safety rules had to protect the system even when people were tired, worried, or wrong. He suggested an alarm connected to the high mark and a second control that would open the safe outlet automatically if pressure rose too far.",
+        "zh": "蘭解釋，問題不只是韓判斷錯誤。水槽裝得太快時，系統沒有清楚的停止機制。安全設計不能只靠一個人的注意力或運氣。睿把這些話記在心裡。舊說明書教他水和力量需要平衡；現在他理解了另一層意思：即使人疲倦、擔憂或犯錯，安全規則仍應保護系統。他建議把警報接上高水位標記，再加一組控制器，在壓力過高時自動打開安全出口。",
+        "englishSha256": "7b2064a193d827e653a1ff5b80753f395852085eebc4722a6a54b0568b8656a3",
+        "chineseSha256": "0be82d66fd984d0857f7c0dde632b10d65064bc010818d4c6d7b6cb8be6fd976"
+      },
+      {
+        "number": 6,
+        "en": "Some people in the hall wanted Han removed at once. Others feared that the school farms would fail without him. Mei said both questions belonged to the council, but the emergency work had to continue. They sent a clear report with the figures, the missing record entry, and the actions taken before dawn. No private family details were included. Rui then went outside and sat on a low wall. His hands shook from the night. A farmer offered him tea and thanked him for helping protect the fields. Rui said he was only one part of a team, and meant it.",
+        "zh": "大廳裡有人主張立即撤換韓，也有人擔心沒有韓，山門農場會失敗。梅說兩個問題都該由議會處理，但緊急工作必須繼續。他們送出清楚報告，列出數字、遺漏的登錄，以及天亮前採取的措施，沒有包含任何家庭私人資料。睿走到外頭，坐在矮牆上，雙手因熬夜而發抖。一名農夫端茶感謝他保護田地。睿說自己只是隊伍的一部分，而且是真心這麼認為。",
+        "englishSha256": "daa357779d4886797cba03d8449731f900e5200fa1eae8bb281671e906b71e20",
+        "chineseSha256": "48d34509cd3b183819cca3cb94338dec7c85048fab7530c380b69caedc024b2f"
+      },
+      {
+        "number": 7,
+        "en": "Later, Rui returned to the workshop to write the next day's plan. He wanted to test the new alarm, check the outlet, and compare the readings with the old safety marks. The work would not be easy, and a full repair might take weeks. But the river had survived the night's mistake because people had called for help and followed careful steps. Rui felt a quiet confidence. He no longer imagined that the greatest master was someone who never failed. Perhaps the best master was someone who made it easier for others to notice trouble, speak up, and stay safe.",
+        "zh": "後來，睿回到工坊寫隔天計畫。他想測試新警報、檢查排放口，並把數字與舊安全標記比較。工作不容易，完整修復可能花上幾週。但河流撐過了夜裡的錯誤，因為有人求助、有人遵循謹慎步驟。睿心裡有種安靜的信心。他不再想像最偉大的師傅是永遠不犯錯的人。也許最好的師傅，是讓其他人更容易發現問題、勇於發聲並保持安全的人。",
+        "englishSha256": "ec3acc6b81d8fe10205ee1401251519545f0828dcff52118115aaef189541f2d",
+        "chineseSha256": "10bebe28509c02e6b37161d0fd98c4437bc72258510378f612f66dac5ae28c24"
+      }
+    ]
+  },
+  "targetVocabularyReview": {
+    "passed": true,
+    "englishWordCount": 730,
+    "targets": [
+      {
+        "word": "admitted",
+        "meaning": "承認",
+        "appearsInSource": true
+      },
+      {
+        "word": "affect",
+        "meaning": "影響",
+        "appearsInSource": true
+      },
+      {
+        "word": "ahead",
+        "meaning": "前方",
+        "appearsInSource": true
+      },
+      {
+        "word": "bit",
+        "meaning": "一點",
+        "appearsInSource": true
+      },
+      {
+        "word": "brain",
+        "meaning": "頭腦",
+        "appearsInSource": true
+      },
+      {
+        "word": "coal",
+        "meaning": "煤",
+        "appearsInSource": true
+      },
+      {
+        "word": "confident",
+        "meaning": "有信心的",
+        "appearsInSource": true
+      },
+      {
+        "word": "dial",
+        "meaning": "指針",
+        "appearsInSource": true
+      },
+      {
+        "word": "effort",
+        "meaning": "努力",
+        "appearsInSource": true
+      },
+      {
+        "word": "extra",
+        "meaning": "額外的",
+        "appearsInSource": true
+      },
+      {
+        "word": "hall",
+        "meaning": "大廳",
+        "appearsInSource": true
+      },
+      {
+        "word": "insist",
+        "meaning": "堅持",
+        "appearsInSource": true
+      },
+      {
+        "word": "Internet",
+        "meaning": "網路",
+        "appearsInSource": true
+      },
+      {
+        "word": "personal",
+        "meaning": "個人的",
+        "appearsInSource": true
+      },
+      {
+        "word": "pressure",
+        "meaning": "壓力",
+        "appearsInSource": true
+      },
+      {
+        "word": "pupil",
+        "meaning": "學生",
+        "appearsInSource": true
+      },
+      {
+        "word": "restroom",
+        "meaning": "洗手間",
+        "appearsInSource": true
+      },
+      {
+        "word": "safety",
+        "meaning": "安全",
+        "appearsInSource": true
+      },
+      {
+        "word": "soybean",
+        "meaning": "黃豆",
+        "appearsInSource": true
+      },
+      {
+        "word": "speech",
+        "meaning": "演說",
+        "appearsInSource": true
+      }
+    ]
+  },
+  "quizEvidence": [
+    {
+      "number": 1,
+      "question": "Why did the tank pressure rise before dawn?",
+      "options": [
+        "Rain filled the tank while the release valve stayed closed",
+        "The valley lost its water",
+        "The pipes were all new"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "Rain filled the tank while the release valve stayed closed",
+      "existingAnswerExplanation": "雨水迅速填滿水槽，而舊排放閥仍關閉，壓力因此升高。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 3,
+          "english": "Rui asked a guard to clear the hallway and direct visitors to the restroom at the far end, away from the control room. Lan lowered the engine power a bit while Mei watched the gauge. The pointer moved down, then rose again. Rui realized that the rain had filled the storage tank and the old release valve was still closed. He did not insist on working alone. He called Gao, who knew the manual controls, and asked him to open the safe outlet with a second worker. The two checked each handle together. Their careful effort brought the pressure down without a sudden rush.",
+          "chinese": "睿請守衛清空走廊，指引訪客去遠端的洗手間，避開控制室。蘭把引擎動力降低一點，梅盯著儀表。指針下降後又升高。睿明白雨水已裝滿蓄水槽，舊排放閥卻仍關著。他不堅持一個人處理，而是叫熟悉手動控制的高來，請他與另一名工人一起打開安全出口。兩人共同確認每個把手。仔細的努力讓壓力下降，沒有突然大量洩水。",
+          "matchedQueryTerms": 12
+        },
+        {
+          "paragraph": 1,
+          "english": "Rain came before dawn and filled the upper tank faster than expected. The team still had several hard hours ahead, even though nobody could yet see the full danger. Rui hurried to the control hall with Mei and Lan. A pupil from the repair class had been watching the marks and called them as soon as the dial passed the safe line. “You did the right thing,” Rui told him. The boy looked confident for a moment, then admitted he had been frightened. Rui said fear could be useful when it made people ask for help. In the hall, the pressure was rising, and the old coal engine was still running. Someone had added extra power during the night.",
+          "chinese": "天亮前下起雨，上方水槽比預期更快裝滿。隊伍前方仍有幾個辛苦的工作時辰，雖然此刻沒人能看清全部危險。睿和梅、蘭趕往控制大廳。一名維修班學生一直看著刻度，當指針超過安全線就立刻通知他們。「你做得對，」睿告訴他。男孩一度顯得有信心，接著承認自己很害怕。睿說恐懼有時有用，能讓人及時求助。大廳裡壓力仍在上升，舊燃煤引擎還在運轉。有人夜裡加大了動力。",
+          "matchedQueryTerms": 7
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    },
+    {
+      "number": 2,
+      "question": "What did Han admit?",
+      "options": [
+        "He ordered extra water for the private farms",
+        "He had never seen the pump",
+        "He wanted to close all schools"
+      ],
+      "correctAnswerIndex": 0,
+      "correctAnswerText": "He ordered extra water for the private farms",
+      "existingAnswerExplanation": "韓承認為了私人農場黃豆田而下令增加供水，卻未經正式批准。",
+      "readAgainstEntireBilingualChapter": true,
+      "sourceParagraphCandidates": [
+        {
+          "paragraph": 4,
+          "english": "When the immediate danger had passed, Han entered the hall. His face was pale. He said he had ordered extra water for the private farms because their soybean fields were close to drying out. “I thought there was enough rain coming,” he said. “I did not think the tank would fill so fast.” Rui wanted to give a sharp speech, but stopped himself. Han had made a dangerous choice without approval, and the choice needed to be recorded. Yet shouting would not improve the machine. Captain Su asked Han to write a personal statement explaining the order and its purpose.",
+          "chinese": "眼前危機過去後，韓進了大廳，臉色蒼白。他承認下令多送水給私人農場，因為那裡的黃豆田快乾了。「我以為快下的雨足夠，」他說，「沒想到水槽會裝得這麼快。」睿想嚴厲斥責，卻克制住。韓沒有核准就做了危險決定，必須記錄在案，但大吼也不能改善機器。蘇隊長請韓親筆寫下命令與目的。",
+          "matchedQueryTerms": 10
+        },
+        {
+          "paragraph": 6,
+          "english": "Some people in the hall wanted Han removed at once. Others feared that the school farms would fail without him. Mei said both questions belonged to the council, but the emergency work had to continue. They sent a clear report with the figures, the missing record entry, and the actions taken before dawn. No private family details were included. Rui then went outside and sat on a low wall. His hands shook from the night. A farmer offered him tea and thanked him for helping protect the fields. Rui said he was only one part of a team, and meant it.",
+          "chinese": "大廳裡有人主張立即撤換韓，也有人擔心沒有韓，山門農場會失敗。梅說兩個問題都該由議會處理，但緊急工作必須繼續。他們送出清楚報告，列出數字、遺漏的登錄，以及天亮前採取的措施，沒有包含任何家庭私人資料。睿走到外頭，坐在矮牆上，雙手因熬夜而發抖。一名農夫端茶感謝他保護田地。睿說自己只是隊伍的一部分，而且是真心這麼認為。",
+          "matchedQueryTerms": 5
+        }
+      ],
+      "evidenceScope": "All bilingual source paragraphs reproduced below; candidate paragraphs are navigation hints only"
+    }
+  ],
+  "editorialStatus": "Completed GPT-6 AI five-gate textual review; NOT independently human proofread"
+}
