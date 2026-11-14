@@ -450,6 +450,96 @@
           "安想起暴雨最後一個清晨，那時她尚未帶學生前來。河水雖已暴漲，第三道水門仍把最凶猛的洪流導往空曠平原。"
         ]
       ]
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 2,
+      "paragraph": 6,
+      "reason": "Fix injured driver's treatment order within ridge scene.",
+      "english": [
+        [
+          "Gu Wen tore his spare cloak into strips for the injured driver.",
+          "Earlier, Gu Wen had torn his spare cloak into strips to bandage the injured driver before the villagers took him to shelter."
+        ]
+      ],
+      "chinese": [
+        [
+          "顧聞撕開備用斗篷替受傷車夫包紮。",
+          "稍早顧聞已撕開備用斗篷替受傷車夫包紮，村民這才把傷者送往避風處。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 11,
+      "paragraph": 5,
+      "reason": "Remove duplicated 'first spoke about mother' action repeated in next paragraph.",
+      "english": [
+        [
+          "Gu Wen spoke about his mother's closed restaurant for the first time.",
+          "Gu Wen compared the keeper's worn spoon with a sketch of the seal on his mother's old kitchen chest."
+        ]
+      ],
+      "chinese": [
+        [
+          "顧聞第一次談起母親被迫關閉的餐館。",
+          "顧聞把倉管的舊湯匙，與母親舊廚箱上印記的素描仔細比對。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 19,
+      "paragraph": 5,
+      "reason": "Remove apology duplicated in paragraph six and focus on incoming families.",
+      "english": [
+        [
+          "Lin Zhou apologized for hiding his teacher's early involvement, and Gu Wen chose to listen rather than punish.",
+          "Newly arrived families gained seats at the planning table and could decide how safe salt would be shared."
+        ]
+      ],
+      "chinese": [
+        [
+          "林舟為隱瞞老師早期參與一事道歉，顧聞選擇傾聽而非懲罰。",
+          "新搬來的家庭在規劃會議上取得席位，能親自決定安全食鹽應如何分配。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 21,
+      "paragraph": 5,
+      "reason": "Remove duplicate handholding and future proposal appearing again in chapter 21 paragraph six.",
+      "english": [
+        [
+          "Lin Zhou took Gu Wen's hand in public for the first time and asked whether he wished to walk together after the case.",
+          "The miner agreed to lend his brother's measuring tools to the public training kitchen, where future apprentices could test water safely."
+        ]
+      ],
+      "chinese": [
+        [
+          "林舟首次在眾人面前牽起顧聞的手，問他案件結束後願不願繼續同行。",
+          "老礦工答應把兄長的量測工具借給公共訓練廚房，讓日後的學徒能安全學習水質檢驗。"
+        ]
+      ]
+    },
+    {
+      "book": "ss-r10-l5-b",
+      "chapter": 23,
+      "paragraph": 5,
+      "reason": "Remove first-bowl action repeated in paragraph six and strengthen accessibility arc.",
+      "english": [
+        [
+          "Gu Wen asked Lin Zhou to taste the first finished bowl, and Lin Zhou asked to share the work, not receive praise.",
+          "The serving team adopted a quiet queue for noise-sensitive guests and offered paid training to the baker who had redesigned the route."
+        ]
+      ],
+      "chinese": [
+        [
+          "顧聞請林舟嘗第一碗完成的湯，林舟卻想共同工作，而不只是接受讚美。",
+          "供餐團隊設置適合怕吵賓客的安靜隊伍，並向重新設計動線的麵包師提供有薪訓練。"
+        ]
+      ]
     }
   ],
   "quizPatches": [
