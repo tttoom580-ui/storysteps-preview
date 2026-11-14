@@ -3,7 +3,7 @@
   "summary": {
     "books": 88,
     "chapters": 2200,
-    "englishWords": 1416467,
+    "englishWords": 1416676,
     "questions": 4400,
     "targetEntries": 44084,
     "bilingualParagraphs": 13135,
@@ -5228,7 +5228,7 @@
       "id": "ss-r2-l2-a",
       "title": "我的修仙天賦，是看懂使用說明",
       "chapters": 25,
-      "englishWords": 18069,
+      "englishWords": 18071,
       "minimumChapterWords": 694,
       "minimumTargetWords": 20,
       "questions": 50,
@@ -5708,7 +5708,7 @@
       "id": "ss-r10-l4-a",
       "title": "都市高武：我替弱者校準屏障",
       "chapters": 25,
-      "englishWords": 16018,
+      "englishWords": 16024,
       "minimumChapterWords": 602,
       "minimumTargetWords": 20,
       "questions": 50,
@@ -5723,7 +5723,7 @@
       "id": "ss-r10-l5-b",
       "title": "萬味渡口：與你煮一碗回家的湯",
       "chapters": 25,
-      "englishWords": 19637,
+      "englishWords": 19660,
       "minimumChapterWords": 543,
       "minimumTargetWords": 20,
       "questions": 50,
@@ -6232,17 +6232,6 @@
           "count": 5
         },
         {
-          "sentence": "After the tables were cleaned, the two men sat where they could see the last boats on the water.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5"
-          ],
-          "count": 5
-        },
-        {
           "sentence": "As the political dispute grew, their rule about consent became more important.",
           "chapters": [
             "ss-r10-l5-b-16",
@@ -6628,17 +6617,6 @@
           "count": 5
         },
         {
-          "sentence": "Their silence was easier than it had been at the start of the road.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5"
-          ],
-          "count": 5
-        },
-        {
           "sentence": "They brought clean cloth, fresh bottles, water, and a list of places where a second test could be repeated without permission from the merchant.",
           "chapters": [
             "ss-r10-l5-b-21",
@@ -6703,6 +6681,26 @@
             "ss-r10-l5-b-20"
           ],
           "count": 5
+        },
+        {
+          "sentence": "After the tables were cleaned, the two men sat where they could see the last boats on the water.",
+          "chapters": [
+            "ss-r10-l5-b-1",
+            "ss-r10-l5-b-3",
+            "ss-r10-l5-b-4",
+            "ss-r10-l5-b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Their silence was easier than it had been at the start of the road.",
+          "chapters": [
+            "ss-r10-l5-b-1",
+            "ss-r10-l5-b-3",
+            "ss-r10-l5-b-4",
+            "ss-r10-l5-b-5"
+          ],
+          "count": 4
         }
       ],
       "editorialStatus": "句子重用待逐章修訂"
@@ -6711,7 +6709,7 @@
       "id": "ss-r10-l6-a",
       "title": "星曆失落的十七分鐘",
       "chapters": 25,
-      "englishWords": 16562,
+      "englishWords": 16740,
       "minimumChapterWords": 599,
       "minimumTargetWords": 20,
       "questions": 50,
@@ -19103,7 +19101,7 @@
     {
       "book": "ss-r2-l2-a",
       "chapter": "ss-r2-l2-a-2",
-      "englishWords": 720,
+      "englishWords": 722,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
@@ -26294,7 +26292,7 @@
     {
       "book": "ss-r10-l4-a",
       "chapter": "ss-r10-l4-a-1",
-      "englishWords": 618,
+      "englishWords": 624,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -26519,7 +26517,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-1",
-      "englishWords": 824,
+      "englishWords": 840,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -26528,7 +26526,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-2",
-      "englishWords": 832,
+      "englishWords": 839,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -26744,7 +26742,7 @@
     {
       "book": "ss-r10-l6-a",
       "chapter": "ss-r10-l6-a-1",
-      "englishWords": 826,
+      "englishWords": 945,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -26753,7 +26751,7 @@
     {
       "book": "ss-r10-l6-a",
       "chapter": "ss-r10-l6-a-2",
-      "englishWords": 803,
+      "englishWords": 862,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
