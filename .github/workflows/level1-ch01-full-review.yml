@@ -1,0 +1,54 @@
+name: Approve all Level 1 first chapters after full bilingual editorial review
+on:
+  push:
+    paths:
+      - 'scripts/level1_ch01_full_review.py'
+      - 'verification/level1/ch01-editorial-plan-20261114.json'
+      - '.github/workflows/level1-ch01-full-review.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-l1-ch01-review
+  cancel-in-progress: false
+jobs:
+  editorial:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.13.1'
+      - name: Read source, apply bilingual edits, verify chapter 1 of all 15 books and 30 quizzes
+        run: |
+          set -euo pipefail
+          python3 scripts/level1_ch01_full_review.py
+          python3 scripts/check_editorial_certification.py
+          python3 scripts/audit_story_release.py
+          python3 scripts/audit_launch.py
+      - name: Build and publish verified manuscripts and review records
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          npm install --no-audit --no-fund
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/level1_ch01_full_review.py
+            python3 scripts/check_editorial_certification.py
+            npm run build
+            git add -A public/books public/catalog.js public/content-manifest.json public/level1-first-chapter-editorial.html verification/level1/ch01-editorial-completion-20261114.json docs
+            if git diff --cached --quiet; then
+              echo "All approved first-chapter revisions already present."
+              exit 0
+            fi
+            git commit -m 'editorial: approve 15 reviewed Level 1 first chapters with evidence [skip ci]'
+            if git push origin HEAD:main; then
+              echo "Published fully reviewed first chapters."
+              exit 0
+            fi
+          done
+          exit 1
