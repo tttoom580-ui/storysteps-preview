@@ -9,7 +9,7 @@
     "entireBooksFullyCertified": 0,
     "bilingualParagraphsReviewed": 96,
     "quizzesReviewed": 30,
-    "individualBilingualTextEdits": 47,
+    "individualBilingualTextEdits": 52,
     "chaptersBelow500": 0,
     "chaptersBelow20Targets": 0
   },
@@ -1567,7 +1567,7 @@
       "reviewDate": "2026-11-14",
       "reviewScope": "Full first chapter only; all bilingual paragraphs read, initial scene-to-next-chapter connection checked, all chapter-one questions checked",
       "englishWordsBefore": 681,
-      "englishWordsAfter": 691,
+      "englishWordsAfter": 693,
       "targetWords": 20,
       "missingTargetWords": [],
       "bilingualParagraphsReadAndReviewed": 6,
@@ -1576,9 +1576,9 @@
           "paragraph": 1,
           "englishReviewed": true,
           "chineseMeaningReviewed": true,
-          "englishWords": 112,
-          "englishExcerpt": "At 7 a.m., Nia stood outside her apartment on Red Brick Street, her heavy teaching bag resting beside the breakfast table. She was early for her first class and had plenty of time to prepare. The city",
-          "chineseExcerpt": "早上七點，妮雅站在紅磚街的公寓外，沉重的教學袋放在早餐桌旁。她提早到達，距離第一堂課還有充裕的時間。市民中心借給她一間教室，讓她連續六個星期六教大家認識夜空。妮雅喜歡星星，卻從來沒有獨自教過課。出發前，她坐下來吃完早餐，有水果、麵包和昨天剩"
+          "englishWords": 111,
+          "englishExcerpt": "At 7 a.m., Nia stood outside her apartment on Red Brick Street, her heavy teaching bag resting beside the breakfast table. She was up early to prepare for her first class the following Saturday. The c",
+          "chineseExcerpt": "早上七點，妮雅站在紅磚街的公寓外，沉重的教學袋放在早餐桌旁。她提早到達，她早早起床，準備下個星期六才會開始的第一堂課。市民中心借給她一間教室，讓她連續六個星期六教大家認識夜空。妮雅喜歡星星，卻從來沒有獨自教過課。出發前，她坐下來吃完早餐，有"
         },
         {
           "paragraph": 2,
@@ -1616,7 +1616,7 @@
           "paragraph": 6,
           "englishReviewed": true,
           "chineseMeaningReviewed": true,
-          "englishWords": 107,
+          "englishWords": 110,
           "englishExcerpt": "In the evening, Nia put one little lamp on the floor and covered it with a paper cup. She made three small holes in the cup. Three stars appeared on the wall. They were only dots from a lamp, but they",
           "chineseExcerpt": "傍晚，妮雅把一盞小燈放在地上，用紙杯罩住，在杯上戳出三個小孔。牆上出現三顆小星星。那只是燈投出的光點，卻讓房間有了不同的感覺。芬恩和媽媽再度走進來，看見光點時驚喜地叫出聲。「我們能做更多嗎？」他問。「可以，」妮雅回答，「不過要先學會安全操作"
         }
@@ -1642,6 +1642,36 @@
           "language": "zh",
           "old": "他告訴妮雅，上星期自己掉了一顆牙，現在說話有時覺得怪怪的。索爾奶奶親切地笑了，說可以慢慢說。",
           "new": "他告訴妮雅，上星期自己掉了一顆牙，現在有點害羞，不敢在眾人面前說話。索爾奶奶微笑著提醒他，可以先把問題寫下來。芬恩很喜歡這個主意。"
+        },
+        {
+          "paragraph": 1,
+          "language": "zh",
+          "old": "距離第一堂課還有充裕的時間。",
+          "new": "她提早到達，距離第一堂課還有充裕的時間。"
+        },
+        {
+          "paragraph": 1,
+          "language": "en",
+          "old": "She was early for her first class and had plenty of time to prepare.",
+          "new": "She was up early to prepare for her first class the following Saturday."
+        },
+        {
+          "paragraph": 1,
+          "language": "zh",
+          "old": "她提早到達，距離第一堂課還有充裕的時間。",
+          "new": "她早早起床，準備下個星期六才會開始的第一堂課。"
+        },
+        {
+          "paragraph": 6,
+          "language": "en",
+          "old": "She had hoped for a full room on the first day. For now, a grandmother, a cook, and one curious child were enough to begin.",
+          "new": "She had imagined a full class when the lessons began. For now, a grandmother, a cook, and one curious child had shown her that people were already interested."
+        },
+        {
+          "paragraph": 6,
+          "language": "zh",
+          "old": "她原本希望第一天就坐滿人。現在，有一位奶奶、一位廚師和一個好奇的孩子，就足以開始。",
+          "new": "她曾想像正式開課時整間教室座無虛席。現在，只是索爾奶奶、廚師瑪拉和一個好奇的孩子願意來看看，就已讓她知道有人期待這門課。"
         }
       ],
       "quizzesChecked": [
@@ -1667,9 +1697,9 @@
         }
       ],
       "quizAnswersReviewed": 2,
-      "chapterSourceSha256": "b1f6707887c3aacdc0f99adbe0819911721c65f909904db9804bedd5c7701ea5",
-      "bookSourceSha256": "c28a52e240f86efcaef6390af31dc1f5a3baab030683fe2f3bb4bd657841263e",
-      "newPayload": "./books/ss-r10-l1-a-c28a52e240f8.bin",
+      "chapterSourceSha256": "fc74ca238a8ff32541a3605b585b4344c475ce716d865b7c66ba3b51fff82b7e",
+      "bookSourceSha256": "a0f87a8fffe3c2219daabc57acc99dac6f0747741118cab5ba50356a53393298",
+      "newPayload": "./books/ss-r10-l1-a-a0f87a8fffe3.bin",
       "allFirstChapterGatesApproved": true,
       "fullBook25ChapterCertification": false
     },
@@ -1949,11 +1979,11 @@
     {
       "book": "ss-r10-l1-a",
       "wordsBefore": 681,
-      "wordsAfter": 691,
+      "wordsAfter": 693,
       "targets": 20,
       "quizzes": 2,
       "paragraphs": 6,
-      "individualTextPatches": 3,
+      "individualTextPatches": 8,
       "passed": true
     },
     {
