@@ -3,7 +3,7 @@
   "summary": {
     "books": 88,
     "chapters": 2200,
-    "englishWords": 1416729,
+    "englishWords": 1416894,
     "questions": 4400,
     "targetEntries": 44084,
     "bilingualParagraphs": 13135,
@@ -5108,7 +5108,7 @@
       "id": "ss-r2-l1-b",
       "title": "獸人村的第一間早餐店",
       "chapters": 25,
-      "englishWords": 15756,
+      "englishWords": 15783,
       "minimumChapterWords": 601,
       "minimumTargetWords": 20,
       "questions": 50,
@@ -5663,7 +5663,7 @@
       "id": "ss-r10-l1-a",
       "title": "紅磚街的星星課",
       "chapters": 25,
-      "englishWords": 17032,
+      "englishWords": 17091,
       "minimumChapterWords": 651,
       "minimumTargetWords": 20,
       "questions": 50,
@@ -5678,7 +5678,7 @@
       "id": "ss-r10-l2-b",
       "title": "把市場的聲音，留到明天",
       "chapters": 25,
-      "englishWords": 16011,
+      "englishWords": 16028,
       "minimumChapterWords": 620,
       "minimumTargetWords": 20,
       "questions": 50,
@@ -6724,8 +6724,8 @@
       "id": "ss-r11-l1-a",
       "title": "雨後的綠色箱子",
       "chapters": 25,
-      "englishWords": 16089,
-      "minimumChapterWords": 622,
+      "englishWords": 16151,
+      "minimumChapterWords": 627,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
@@ -17310,7 +17310,7 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": "ss-r2-l1-b-3",
-      "englishWords": 619,
+      "englishWords": 624,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -17337,7 +17337,7 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": "ss-r2-l1-b-6",
-      "englishWords": 658,
+      "englishWords": 663,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -17346,7 +17346,7 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": "ss-r2-l1-b-7",
-      "englishWords": 617,
+      "englishWords": 629,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -17373,7 +17373,7 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": "ss-r2-l1-b-10",
-      "englishWords": 640,
+      "englishWords": 642,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -17418,7 +17418,7 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": "ss-r2-l1-b-15",
-      "englishWords": 626,
+      "englishWords": 629,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25662,7 +25662,7 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": "ss-r10-l1-a-6",
-      "englishWords": 695,
+      "englishWords": 704,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25671,7 +25671,7 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": "ss-r10-l1-a-7",
-      "englishWords": 678,
+      "englishWords": 680,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25680,7 +25680,7 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": "ss-r10-l1-a-8",
-      "englishWords": 674,
+      "englishWords": 672,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25770,7 +25770,7 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": "ss-r10-l1-a-18",
-      "englishWords": 680,
+      "englishWords": 695,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25806,7 +25806,7 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": "ss-r10-l1-a-22",
-      "englishWords": 671,
+      "englishWords": 697,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25824,7 +25824,7 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": "ss-r10-l1-a-24",
-      "englishWords": 705,
+      "englishWords": 714,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25878,7 +25878,7 @@
     {
       "book": "ss-r10-l2-b",
       "chapter": "ss-r10-l2-b-5",
-      "englishWords": 659,
+      "englishWords": 667,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25914,7 +25914,7 @@
     {
       "book": "ss-r10-l2-b",
       "chapter": "ss-r10-l2-b-9",
-      "englishWords": 626,
+      "englishWords": 630,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -25986,7 +25986,7 @@
     {
       "book": "ss-r10-l2-b",
       "chapter": "ss-r10-l2-b-17",
-      "englishWords": 627,
+      "englishWords": 629,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -26049,7 +26049,7 @@
     {
       "book": "ss-r10-l2-b",
       "chapter": "ss-r10-l2-b-24",
-      "englishWords": 622,
+      "englishWords": 625,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27003,7 +27003,7 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": "ss-r11-l1-a-5",
-      "englishWords": 622,
+      "englishWords": 642,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
@@ -27021,7 +27021,7 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": "ss-r11-l1-a-7",
-      "englishWords": 638,
+      "englishWords": 640,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
@@ -27075,7 +27075,7 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": "ss-r11-l1-a-13",
-      "englishWords": 638,
+      "englishWords": 645,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
@@ -27138,7 +27138,7 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": "ss-r11-l1-a-20",
-      "englishWords": 653,
+      "englishWords": 663,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
@@ -27147,7 +27147,7 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": "ss-r11-l1-a-21",
-      "englishWords": 663,
+      "englishWords": 682,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
@@ -27165,7 +27165,7 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": "ss-r11-l1-a-23",
-      "englishWords": 653,
+      "englishWords": 656,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
@@ -27174,7 +27174,7 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": "ss-r11-l1-a-24",
-      "englishWords": 629,
+      "englishWords": 631,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 7,
@@ -27183,7 +27183,7 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": "ss-r11-l1-a-25",
-      "englishWords": 690,
+      "englishWords": 689,
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 7,

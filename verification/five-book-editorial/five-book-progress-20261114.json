@@ -6,14 +6,14 @@
   "summary": {
     "booksInScope": 5,
     "chaptersStructurallyChecked": 125,
-    "bilingualEditsAppliedNow": 14,
-    "bilingualPatchGroupsDocumented": 14,
+    "bilingualEditsAppliedNow": 26,
+    "bilingualPatchGroupsDocumented": 40,
     "quizzesVerified": 2,
-    "quizzesRevisedNow": 2,
+    "quizzesRevisedNow": 0,
     "totalTargetWordsChecked": 2504,
     "totalQuizzesStructurallyChecked": 250,
     "quizzesMissingExplicitTextEvidence": 240,
-    "chaptersWithDocumentedRepairs": 10,
+    "chaptersWithDocumentedRepairs": 32,
     "booksWithCrossChapterReuseCandidates": 0,
     "wholeBooksFullyEdited": 0
   },
@@ -26,7 +26,7 @@
         1,
         21
       ],
-      "sourceBeforeSha256": "2a47a88e3402f6d9b4195250d11a3542b2bf966e953a70f432e64bf121fc4d24",
+      "sourceBeforeSha256": "1b7489c30e2757b13bc8037dbb4f44e5f9396b9b43e22946cdd61f45e7deccad",
       "sourceAfterSha256": "1b7489c30e2757b13bc8037dbb4f44e5f9396b9b43e22946cdd61f45e7deccad",
       "bilingualPatchGroups": 2,
       "quizzesCorrected": 0,
@@ -45,13 +45,19 @@
       "chapters": 25,
       "chaptersModifiedThisPass": [
         1,
+        6,
+        7,
+        8,
         11,
         13,
-        19
+        18,
+        19,
+        22,
+        24
       ],
-      "sourceBeforeSha256": "111f09eaa8596a20523bffe91eb8b8ea74d14ab49fc87928bb6742c6d15f7a5f",
-      "sourceAfterSha256": "e9f5c7882208dd533d7f7ce51df678e05a584fb7b20960896f234bb6926c8734",
-      "bilingualPatchGroups": 7,
+      "sourceBeforeSha256": "e9f5c7882208dd533d7f7ce51df678e05a584fb7b20960896f234bb6926c8734",
+      "sourceAfterSha256": "f34258dce183339228109835d58ef6baa1659d498b5539a34e0f36b7c054b18e",
+      "bilingualPatchGroups": 14,
       "quizzesCorrected": 1,
       "minimumEnglishWords": 651,
       "minimumTargetWords": 20,
@@ -67,13 +73,21 @@
       "title": "雨後的綠色箱子",
       "chapters": 25,
       "chaptersModifiedThisPass": [
-        1
+        1,
+        5,
+        7,
+        13,
+        20,
+        21,
+        23,
+        24,
+        25
       ],
-      "sourceBeforeSha256": "90444006a838171d0ce285383f30e0d33f6d5af98e60217c2502d1db92792115",
-      "sourceAfterSha256": "c0dd74eea1fe0ee6f675161c57b04e2d808fad0b51c5125c81a8300c71bee195",
-      "bilingualPatchGroups": 2,
+      "sourceBeforeSha256": "c0dd74eea1fe0ee6f675161c57b04e2d808fad0b51c5125c81a8300c71bee195",
+      "sourceAfterSha256": "31814a63b681d3491fceeb00e1a0008e651e5a468bc6529e953c87ca063b5a5c",
+      "bilingualPatchGroups": 11,
       "quizzesCorrected": 0,
-      "minimumEnglishWords": 622,
+      "minimumEnglishWords": 627,
       "minimumTargetWords": 20,
       "quizzesWithExplicitTextEvidence": 2,
       "quizzesMissingExplicitTextEvidence": 48,
@@ -87,11 +101,16 @@
       "title": "獸人村的第一間早餐店",
       "chapters": 25,
       "chaptersModifiedThisPass": [
-        4
+        3,
+        4,
+        6,
+        7,
+        10,
+        15
       ],
-      "sourceBeforeSha256": "8bbfe5fc597e2c0d7d399c7e838baa94625765a7211831ca92d6e5fccb1f7a6f",
-      "sourceAfterSha256": "4ecf43bd1a82b79498d15d7d95b5a71986f3aadc386e61165afe3ed5f11a5ccc",
-      "bilingualPatchGroups": 2,
+      "sourceBeforeSha256": "4ecf43bd1a82b79498d15d7d95b5a71986f3aadc386e61165afe3ed5f11a5ccc",
+      "sourceAfterSha256": "b11765da2053b8a3b99e1d68c82f94b55406645262173ab6f43e376a0f999388",
+      "bilingualPatchGroups": 8,
       "quizzesCorrected": 0,
       "minimumEnglishWords": 601,
       "minimumTargetWords": 20,
@@ -108,11 +127,14 @@
       "chapters": 25,
       "chaptersModifiedThisPass": [
         1,
-        9
+        5,
+        9,
+        17,
+        24
       ],
-      "sourceBeforeSha256": "968c5e73ef729486c98185cbac95105f13a58d481f25ca7346e2f71b1704c5b4",
-      "sourceAfterSha256": "14923702c11fa33bd2a1535d26c4e6cb745db04c5385d4332abd43dd1a82b514",
-      "bilingualPatchGroups": 1,
+      "sourceBeforeSha256": "14923702c11fa33bd2a1535d26c4e6cb745db04c5385d4332abd43dd1a82b514",
+      "sourceAfterSha256": "bf49d24769c9b8cfbf5e5bc0b55acef78130f7722bd38c48308f749c63e9d521",
+      "bilingualPatchGroups": 5,
       "quizzesCorrected": 1,
       "minimumEnglishWords": 620,
       "minimumTargetWords": 20,
@@ -130,7 +152,7 @@
       "chapter": 1,
       "paragraph": 2,
       "reason": "Correct Chinese measure word for six English words, keep word count.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Below that were six words. Don't come to school tomorrow. Please.",
       "englishAfter": "Below that were six English words. Don't come to school tomorrow. Please.",
       "chineseBefore": "下面是六個字的英文句子：明天，別來學校。拜託。",
@@ -141,7 +163,7 @@
       "chapter": 21,
       "paragraph": 8,
       "reason": "Count English words correctly (Thank you for stopping there = five).",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Inside, in June's small handwriting, were four words. Thank you for stopping there.",
       "englishAfter": "Inside, in June's small handwriting, were five words. Thank you for stopping there.",
       "chineseBefore": "裡面是 June 小字寫的四個英文單字：謝謝妳到此為止。",
@@ -152,7 +174,7 @@
       "chapter": 1,
       "paragraph": 1,
       "reason": "Repair inconsistent location of indoor breakfast table.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "At 7 a.m., Nia stood outside her apartment on Red Brick Street, her heavy teaching bag resting beside the breakfast table.",
       "englishAfter": "At 7 a.m., Nia sat at the breakfast table in her apartment on Red Brick Street, with her heavy teaching bag resting beside her chair.",
       "chineseBefore": "早上七點，妮雅站在紅磚街的公寓外，沉重的教學袋放在早餐桌旁。",
@@ -163,7 +185,7 @@
       "chapter": 1,
       "paragraph": 1,
       "reason": "Avoid sitting down for a second time after changing opening scene.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Before leaving, she sat down to finish her breakfast.",
       "englishAfter": "Before leaving, she finished her breakfast.",
       "chineseBefore": "出發前，她坐下來吃完早餐",
@@ -174,7 +196,7 @@
       "chapter": 11,
       "paragraph": 1,
       "reason": "Clarify weekday group does not contradict six Saturday core lessons.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "The room would be safe later, but it was too cold for the morning group.",
       "englishAfter": "The room would be safe later, but it was too cold for the optional Tuesday reading group Nia had arranged between the six Saturday lessons.",
       "chineseBefore": "房間稍後會恢復安全，早上的小組卻不能在這麼冷的地方上課。",
@@ -185,7 +207,7 @@
       "chapter": 11,
       "paragraph": 2,
       "reason": "Respect that Tomas is blind; large print does not allow him to read.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Tomas asked for the names of planets in large print. Nia could make the letters big, but she was not sure how to explain every word.",
       "englishAfter": "Tomas asked Nia to read the planet names aloud and let him trace the raised labels on the models. She could point to the labels as she read, but she was not sure how to explain every word clearly.",
       "chineseBefore": "托馬斯請妮雅用大字寫出行星名稱。妮雅能把字寫大，卻不確定每個詞該怎麼解釋，便把難字另記一頁，準備查證。",
@@ -196,7 +218,7 @@
       "chapter": 11,
       "paragraph": 5,
       "reason": "Replace inaccessible large print with accessible tactile label.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Tomas sat near the table and ran a finger along the large letters in his new book.",
       "englishAfter": "Tomas sat near the table and ran a finger over the raised labels Ada had attached to the cover of his new book.",
       "chineseBefore": "托馬斯坐在桌旁，用手指沿著新書的大字慢慢讀。",
@@ -207,7 +229,7 @@
       "chapter": 13,
       "paragraph": 3,
       "reason": "Require accessible consent for blind participant.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Tomas said he did not mind having his name on the touch-map page, but he wanted to read the sentence first. Nia showed him the large-print version and asked for his approval.",
       "englishAfter": "Tomas said he did not mind having his name on the touch-map page, but he wanted to hear the sentence first. Nia read it aloud to him and asked for his approval.",
       "chineseBefore": "托馬斯不介意名字出現在觸摸地圖那一頁，但希望先讀過句子。妮雅拿給他大字版本，詢問是否同意。",
@@ -218,18 +240,95 @@
       "chapter": 19,
       "paragraph": 2,
       "reason": "Ensure interview question accessibility and consent.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Tomas was interested in joining the talk, but asked to read the questions first. The writer agreed.",
       "englishAfter": "Tomas was interested in joining the talk, but asked the writer to read the questions aloud beforehand. The writer agreed.",
       "chineseBefore": "托馬斯也有興趣受訪，但希望先讀過問題。作者同意，",
       "chineseAfter": "托馬斯也有興趣受訪，但希望記者先把問題念給他聽。記者同意，"
     },
     {
+      "book": "ss-r10-l1-a",
+      "chapter": 6,
+      "paragraph": 2,
+      "reason": "Moon phases depend on illumination angle and the observer's perspective, not simply the ball spinning.",
+      "appliedNow": true,
+      "englishBefore": "When he turned the ball, the bright shape seemed to change.",
+      "englishAfter": "When Finn moved the ball slowly around Nia while the lamp remained still, the bright shape she could see changed.",
+      "chineseBefore": "他轉動球時，亮起來的形狀好像變了。",
+      "chineseAfter": "芬恩讓球繞著妮雅慢慢移動，燈的位置保持不變；妮雅從自己的位置看到的亮面形狀也跟著改變。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 7,
+      "paragraph": 5,
+      "reason": "Clearly mark flashback after noon timeline.",
+      "appliedNow": true,
+      "englishBefore": "That morning, Finn had rushed out of his bedroom without checking the clock in the kitchen.",
+      "englishAfter": "Earlier that same morning, Finn had rushed out of his bedroom without checking the clock in the kitchen.",
+      "chineseBefore": "那天早上，芬恩沒檢查廚房的鐘，就急忙離開臥室。",
+      "chineseAfter": "當天稍早，芬恩沒檢查廚房的鐘，就急忙離開臥室。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 8,
+      "paragraph": 5,
+      "reason": "Original fifth paragraph transported pupils to park after chapter had already placed them at park at 7pm.",
+      "appliedNow": true,
+      "englishBefore": "During the break, Rae gave her little sister a paper star and asked her to hold it near her heart. The girl liked the shape and said it reminded her of a cookie. The two sisters had brought a small piece of fruit from home, and they sat down to taste it together before the evening visit. Nia watched them and remembered that the children had come after a long school day. She offered a short rest before the group walked to the park. Finn helped carry the clean paper cards, while Ada checked the list of families again. No one was left behind for moving slowly. When everyone was ready, Nia asked Ada to give one last reminder about staying near the bench. Then the group walked out in pairs.",
+      "englishAfter": "During the break beside the park bench, Rae gave her little sister a paper star and asked her to hold it near her heart. The girl liked its shape and said it reminded her of a cookie. The sisters had brought a small piece of fruit from home, and they sat down to taste it together. Nia remembered that the children had come after a long school day and offered a short rest before they walked to the park gate. Finn kept the paper cards dry, while Ada checked the list of families again. Nobody was left behind for moving slowly. When everyone was ready, Nia asked Ada to give the group one last reminder about staying on the path. Then they walked back to the center in pairs.",
+      "chineseBefore": "休息時，芮送妹妹一顆紙星星，請她把它拿在心口附近。妹妹喜歡那個形狀，說讓她想到餅乾。姊妹倆從家裡帶了一小塊水果，趁晚間活動前坐下來一起嚐。妮雅看著她們，想起孩子們都上了一整天學，因此在走去公園前安排短暫休息。芬恩幫忙拿乾淨的紙星卡，艾達再次核對家庭名單。沒有人因為走得慢就被留下。等大家都準備好，妮雅請艾達最後提醒一次大家要待在長椅附近，然後讓隊伍兩兩出發。",
+      "chineseAfter": "在公園長椅旁休息時，芮送妹妹一顆紙星星，請她放在心口附近。妹妹喜歡那個形狀，說讓她想到餅乾。姊妹倆帶了少量水果，便坐下來一起嚐。妮雅想起孩子們都上了一整天學，於是讓大家休息片刻，再沿著小路往公園大門走。芬恩把紙星卡收好，艾達再次核對家庭名單。沒有人因為走得慢而被留下。準備好後，妮雅請艾達再給大家一次提醒：沿著小路走，隊伍再兩兩結伴返回中心。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 18,
+      "paragraph": 5,
+      "reason": "Distinguish daytime field demonstration from evening indoor briefing.",
+      "appliedNow": true,
+      "englishBefore": "Before the evening test, Finn's father showed Nia the paper he had filled in yesterday.",
+      "englishAfter": "Before the indoor evening safety briefing, Finn's father showed Nia the paper he had filled in yesterday.",
+      "chineseBefore": "晚間測試前，芬恩爸爸拿出昨天填寫的紙給妮雅看。",
+      "chineseAfter": "晚上的室內安全說明開始前，芬恩爸爸拿出昨天填寫的紙給妮雅看。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 18,
+      "paragraph": 6,
+      "reason": "Explain why evening session indoors after daytime equipment test.",
+      "appliedNow": true,
+      "englishBefore": "That night, the class stayed indoors.",
+      "englishAfter": "That night, the class stayed indoors because the field's barrier and lighting were not ready for a larger group.",
+      "chineseBefore": "那晚，班上仍留在室內。",
+      "chineseAfter": "那晚，由於草地的隔離設施和照明還不足以接待大隊人馬，全班留在室內。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 22,
+      "paragraph": 3,
+      "reason": "Fix inaccessible plain letters falsely described as finger-readable.",
+      "appliedNow": true,
+      "englishBefore": "Then he asked whether the class could spell the name of the moon in large letters beside the dots. Finn wrote M-O-O-N, slowly. They checked the word together. Nia explained that a clear label could help one person read with eyes and another person read with fingers.",
+      "englishAfter": "Then he asked whether the class could spell the name of the moon beside the dots, making a large-print label and a separate raised-letter strip. Finn wrote M-O-O-N slowly, while Ada formed the same letters in thick paper for Tomas to feel. They checked the word together. Nia explained that a large clear label helped sighted people read with their eyes, while raised letters gave Tomas a way to read with his fingers.",
+      "chineseBefore": "接著，他問能不能在點旁用大字拼出月亮的英文。芬恩慢慢寫下 M-O-O-N，大家一起核對。妮雅解釋，清楚的標籤能讓一些人用眼睛閱讀，也讓另一些人用手指閱讀。",
+      "chineseAfter": "接著，托馬斯問能不能在凸點旁拼出月亮的英文，分別做一張大字標籤和一條凸字標籤。芬恩慢慢寫下 M-O-O-N，艾達則用厚紙做出同樣的字母，讓托馬斯可以摸讀。大家一起核對拼字。妮雅解釋，大而清楚的字可以讓看得見的學員閱讀，凸起的字母則讓托馬斯能用手指辨識。"
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 24,
+      "paragraph": 5,
+      "reason": "Original narrative returns to center departure after group is already outdoors observing stars.",
+      "appliedNow": true,
+      "englishBefore": "Before the evening group went outside, Nia asked families to meet inside the center and read the safety notice together. There was not much time between sunset and the end of the visit, so she kept the plan short. Ada checked the number of lamps and the route markers. One parent asked why the center needed to keep a written record of such a simple event. Nia explained that the next group would need to know where the equipment was stored and whether any part of the field needed work. They did not want to begin from nothing each time. The parent nodded and helped write the final check. By the time the group reached the gate, everyone knew where to stand and where to go if they needed help.",
+      "englishAfter": "While the group observed the stars, Nia pointed out that they had checked the safety notice together before leaving the center. They had agreed to meet at the field gate before dark, and there was not much time after sunset, so they kept the visit short. Ada checked the number of lamps again and confirmed that every route marker was still in place. One parent asked why the center needed a written record for such a simple event. Nia explained that the next group would need to know where the equipment was stored and whether any part of the field needed work. They did not want to begin from nothing each time. The parent nodded and offered to write down the final check after the visit. Everyone knew where to stand and where to go if they needed help.",
+      "chineseBefore": "晚間小組出門前，妮雅請家庭先在中心集合，一起閱讀安全公告。日落到參觀結束之間的時間不多，所以她把計畫安排得很短。艾達檢查燈具數量和路線標記。一位家長問，這麼簡單的活動為什麼要留書面紀錄。妮雅解釋，下一個使用場地的小組得知道器材收在哪裡，以及草地有哪些部分需要維護。大家不想每次都從零開始。家長點點頭，幫忙寫好最後檢查。隊伍抵達大門時，每個人都知道該站哪裡、需要幫助時該往哪裡走。",
+      "chineseAfter": "觀星時，妮雅提醒大家：離開中心前，他們已一起核對過安全公告。大家原本約好天黑前在草地入口集合；日落後時間已不多，所以行程安排得很短。艾達再次清點燈具，確認每個路線標記都在原位。一位家長問，這麼簡單的活動為什麼要留書面紀錄。妮雅解釋，下一組使用場地的人需要知道器材收在哪裡，以及草地是否仍有待修之處；大家不想每次都從零開始。家長點頭，主動提出活動結束後幫忙記下最後檢查結果。每個人都知道該站哪裡，以及需要協助時應往哪裡走。"
+    },
+    {
       "book": "ss-r11-l1-a",
       "chapter": 1,
       "paragraph": 1,
       "reason": "Allow later planting with substitute classroom seeds without plot inconsistency.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "Without the box, they could not begin.",
       "englishAfter": "Without the box, they could not begin the garden-day preparations as planned.",
       "chineseBefore": "沒有箱子，大家便無法開始。",
@@ -240,18 +339,117 @@
       "chapter": 1,
       "paragraph": 3,
       "reason": "Make original identifying picture consistent with chapter 6 and recovery chapter 17.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "He had once painted a monkey with one large tooth on the side of the missing box,",
       "englishAfter": "He had once painted a monkey with orange ears and one large white tooth on the side of the missing box,",
       "chineseBefore": "失蹤箱子的側面原本畫著一隻露出大牙齒的猴子，",
       "chineseAfter": "失蹤箱子的側面原本畫著一隻橘色耳朵、露出一顆白色大牙齒的猴子，"
     },
     {
+      "book": "ss-r11-l1-a",
+      "chapter": 5,
+      "paragraph": 2,
+      "reason": "Correct biologically impossible mature leaves hours after planting.",
+      "appliedNow": true,
+      "englishBefore": "That afternoon the club put the bean cups in three places and watched how the light changed. One place was under a tree, another was beside the window, and the last was near the garden wall. Ivy did not say that one place was best before they had tried them. She asked each child to look at the leaves and write one simple note. A boy said the leaves looked like tiny hands. A girl said they looked like green boats. The children could see the same plant and still find different words for it.",
+      "englishAfter": "That afternoon the club put the newly planted bean cups in three places and watched how the light changed. One place was under a tree, another was beside the window, and the last was near the garden wall. Ivy did not say that one place was best before they had tried them. Since the beans had been planted only that morning, there were no leaves to look at yet. She asked each child to draw what they expected to see after the seeds began to grow. A boy imagined tiny hands for leaves; a girl drew green boats. They were different guesses about the same future plant, not observations of leaves that were already there.",
+      "chineseBefore": "那天下午，社團把豆子杯放在三個位置，觀察光線如何變化。一個位置在樹下，一個在窗邊，最後一個在花園牆旁。還沒嘗試以前，艾薇不說哪個位置最好。她請每個孩子看看葉片，寫一句簡單的觀察。一個男孩說葉片像小手，一個女孩說像綠色小船。大家看著同一株植物，卻能用不同的字形容它。",
+      "chineseAfter": "那天下午，社團把早上剛種好的豆子杯放在三個位置，觀察光線如何變化：樹下、窗邊和花園牆旁。還沒實際測試以前，艾薇不說哪個位置最好。豆子才種下幾個小時，還沒有葉子可以觀察，所以她請大家畫出自己想像種子發芽後的樣子。一個男孩想像葉片像小手，另一個女孩畫成綠色小船。那都是對未來植物的不同猜測，而不是已經長出葉子的觀察紀錄。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 5,
+      "paragraph": 5,
+      "reason": "Avoid carrying seedlings twice (also moved indoors in paragraph 7).",
+      "appliedNow": true,
+      "englishBefore": "At the end of the lesson Ms. Wen reminded everyone to wash their hands after working with soil. The group carried the cups back inside and left the table clean.",
+      "englishAfter": "Near the end of the lesson Ms. Wen reminded everyone to wash their hands after working with soil. The group put the tools away and left the work table clean.",
+      "chineseBefore": "課程結束時，溫老師提醒大家碰過泥土後要洗手。社團把杯子搬回室內，讓桌面保持乾淨。",
+      "chineseAfter": "活動接近尾聲時，溫老師提醒大家碰過泥土後要洗手。社團收好工具，讓工作桌保持乾淨。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 7,
+      "paragraph": 2,
+      "reason": "Move bedroom recollection to explicit previous-night flashback after office morning.",
+      "appliedNow": true,
+      "englishBefore": "That night Ivy sat in her bedroom and looked at the drawing of the green box.",
+      "englishAfter": "The night before, Ivy had sat in her bedroom and looked at the drawing of the green box.",
+      "chineseBefore": "那晚，艾薇坐在臥室裡，看著綠箱子的圖。",
+      "chineseAfter": "前一晚，艾薇曾坐在臥室裡，看著綠箱子的圖。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 13,
+      "paragraph": 7,
+      "reason": "Ensure same gate is school gate after bus returns.",
+      "appliedNow": true,
+      "englishBefore": "When they stood by the gate again, Ms. Wen asked each student to say one thing they had learned.",
+      "englishAfter": "When they stood by the school gate again after returning from the city garden, Ms. Wen asked each student to say one thing they had learned.",
+      "chineseBefore": "大家再次站在門旁時，溫老師請每個學生說一件學到的事。",
+      "chineseAfter": "從城市花園回到學校後，大家再次站在校門旁，溫老師請每個學生說一件學到的事。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 20,
+      "paragraph": 6,
+      "reason": "Reconcile after-school homework scene with next paragraph's earlier afternoon watering.",
+      "appliedNow": true,
+      "englishBefore": "That afternoon the club helped carry water in small cans.",
+      "englishAfter": "Earlier that afternoon, the club had helped carry water in small cans, before Ivy went home to finish her homework.",
+      "chineseBefore": "下午，社團幫忙用小澆水壺搬水。",
+      "chineseAfter": "那天下午稍早，社團曾用小澆水壺搬水；之後艾薇才回家做功課。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 21,
+      "paragraph": 2,
+      "reason": "Blind Kai cannot independently read printed pictures or ordinary large type.",
+      "appliedNow": true,
+      "englishBefore": "Kai said each type helped him in a different way.",
+      "englishAfter": "Kai said that each type served a different reader: the pictures and large words would help other students, while the raised lines helped him recognize the signs by touch.",
+      "chineseBefore": "凱說，每一種都能以不同方式幫助他。",
+      "chineseAfter": "凱說，每一類標示都適合不同的讀者：圖片和大字能幫助其他學生，凸起的線條則讓他能用觸覺辨識標示。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 23,
+      "paragraph": 4,
+      "reason": "Mrs. Reed already arrived with her husband in first paragraph of same chapter.",
+      "appliedNow": true,
+      "englishBefore": "An older woman named Mrs. Reed visited with her husband, the school gardener.",
+      "englishAfter": "Mrs. Reed, who had joined the earlier meeting, shared pie with her husband, the school gardener.",
+      "chineseBefore": "一位叫里德太太的年長女士，和她的丈夫——學校園丁——一起來訪。",
+      "chineseAfter": "先前已參加會議的里德太太，與擔任學校園丁的丈夫一起分享派。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 24,
+      "paragraph": 6,
+      "reason": "Introduce flashback after prior evening scene.",
+      "appliedNow": true,
+      "englishBefore": "That afternoon the school workers put a cover over the new path materials.",
+      "englishAfter": "Earlier that afternoon, the school workers had put a cover over the new path materials.",
+      "chineseBefore": "下午，校方工人替新小徑的材料蓋上罩布。",
+      "chineseAfter": "當天下午稍早，校方工人就已替新小徑的材料蓋上罩布。"
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 25,
+      "paragraph": 5,
+      "reason": "Event already started with several families; retain required target When.",
+      "appliedNow": true,
+      "englishBefore": "When the first family walked into the garden, a child asked which plant Ivy liked most.",
+      "englishAfter": "When another family walked into the garden, a child asked which plant Ivy liked most.",
+      "chineseBefore": "第一個家庭走進花園時，一個孩子問艾薇最喜歡哪種植物。",
+      "chineseAfter": "另一個家庭走進花園時，一個孩子問艾薇最喜歡哪種植物。"
+    },
+    {
       "book": "ss-r2-l1-b",
       "chapter": 4,
       "paragraph": 6,
       "reason": "Premature new doorstep before repairs and false closing time before grand opening.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "At closing time, Fia put a small sign on the new door step.",
       "englishAfter": "At the end of the workday, Fia put a small sign beside the worn doorstep.",
       "chineseBefore": "收工時，菲雅在新門階放上小牌子",
@@ -262,22 +460,132 @@
       "chapter": 4,
       "paragraph": 6,
       "reason": "Remove double crossing and awkward phrase, preserve target 'cross'.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "As the sky became dark, the three friends crossed the road and went home together. At the cross in the road, Moss lifted his head and checked for a coming cart before the friends went over.",
       "englishAfter": "As the sky became dark, the three friends set off for home. At the place where two roads cross, Moss lifted his head to look for a coming cart before they walked safely to the other side.",
       "chineseBefore": "天色漸暗，三個朋友一起過馬路回家。 在道路的交會處，莫斯抬起頭查看有沒有車來，再帶著朋友過去。",
       "chineseAfter": "天色漸暗，三個朋友一起踏上回家的路。到了兩條路交會的地方，莫斯抬起頭查看有沒有推車過來，再與朋友安全走到對面。"
     },
     {
+      "book": "ss-r2-l1-b",
+      "chapter": 3,
+      "paragraph": 3,
+      "reason": "Response at evening cannot invite an earlier five-p.m. appointment.",
+      "appliedNow": true,
+      "englishBefore": "The teacher answered that evening. Some chairs were ready, but others had broken legs. \"Please come at five pm,\" the email said.",
+      "englishAfter": "The teacher answered before four. Some chairs were ready, but others had broken legs. \"Please come at five pm if the path is clear,\" the email said.",
+      "chineseBefore": "老師當晚回信，說有些椅子還能用，有些椅腳壞了。「請下午五點來。」信上寫著。",
+      "chineseAfter": "老師在四點前回信，說有些椅子還能用，有些椅腳壞了。「如果道路暢通，請下午五點來。」信上寫著。"
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 6,
+      "paragraph": 5,
+      "reason": "They already baked and shared the loaf; dough cannot rise afterward. Preserve 'rise' target.",
+      "appliedNow": true,
+      "englishBefore": "Back inside, Moss watched the new bread rise in the oven and smiled at the small change in his recipe.",
+      "englishAfter": "Back inside, Moss wrote down how well the new dough had begun to rise before baking, and smiled at the small change in his recipe.",
+      "chineseBefore": "回到屋裡，莫斯看著新麵包在烤爐裡膨起，為食譜的小改動而笑了。",
+      "chineseAfter": "回到屋裡，莫斯記下新麵團在烘烤前順利發酵膨起的情形，為食譜的小改動而笑了。"
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 7,
+      "paragraph": 2,
+      "reason": "Clarify four adult learners, child accompanies parent; no false roster.",
+      "appliedNow": true,
+      "englishBefore": "Mrs. Fern came with her child and a housewife named May from the next street.",
+      "englishAfter": "Mrs. Fern came with her child. A housewife named May from the next street also joined them.",
+      "chineseBefore": "芬恩太太帶著孩子來了，還有隔街的家庭主婦梅。",
+      "chineseAfter": "芬恩太太帶著孩子來了；隔街的家庭主婦梅也參加了。"
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 7,
+      "paragraph": 2,
+      "reason": "Explain a four-person class with accompanying child.",
+      "appliedNow": true,
+      "englishBefore": "Everybody could see and ask questions.",
+      "englishAfter": "The four adult learners could see and ask questions, while Mrs. Fern's child listened beside her.",
+      "chineseBefore": "大家都能看清楚，也能提問。",
+      "chineseAfter": "四位成人學員都能看清楚、提出問題；芬恩太太的孩子則在她身旁聆聽。"
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 10,
+      "paragraph": 2,
+      "reason": "Correct English mistranslation of farm chores into school work.",
+      "appliedNow": true,
+      "englishBefore": "The next morning, Kit came to test the food after school work.",
+      "englishAfter": "The next morning, Kit came to test the food after his early farm work.",
+      "chineseBefore": "隔天早上，基特做完農場的事後來試吃。",
+      "chineseAfter": "隔天早上，基特做完清晨的農場工作後來試吃。"
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 15,
+      "paragraph": 1,
+      "reason": "Correct present-tense sentence embedded in past narration; preserve exact target 'enter'.",
+      "appliedNow": true,
+      "englishBefore": "When the first guests enter, Fia tries to care for each one without forgetting that the workers also need time to rest and sleep.",
+      "englishAfter": "When the first guests were ready to enter, Fia tried to care for each one without forgetting that the workers also needed time to rest and sleep.",
+      "chineseBefore": "第一批客人進門時，菲雅努力照顧每個人，也不忘員工同樣需要休息與睡眠。",
+      "chineseAfter": "第一批客人準備進門時，菲雅努力照顧每個人，也不忘員工同樣需要休息與睡眠。"
+    },
+    {
       "book": "ss-r10-l2-b",
       "chapter": 9,
       "paragraph": 1,
       "reason": "Avoid ungrounded definitive legal claim; retain level target 'legal'.",
-      "appliedNow": true,
+      "appliedNow": false,
       "englishBefore": "That was not legal or fair, and it was not what anyone had agreed.",
       "englishAfter": "The claim did not match the signed permissions, and May wanted its legal basis checked before anyone presented it as fact.",
       "chineseBefore": "那既不符合約定，也不應被當作合法又公平的事。",
       "chineseAfter": "這種說法與簽署的授權不符；慧希望先核對其法律依據，不要把未經證實的權利主張寫成事實。"
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 5,
+      "paragraph": 4,
+      "reason": "No technician was previously mentioned; ensure faulty electrical system was repaired by qualified person.",
+      "appliedNow": true,
+      "englishBefore": "When the power returned, the team made a short test instead of opening the whole hall.",
+      "englishAfter": "After a trained technician repaired the loose electrical connection and restored power, the team made a short test instead of opening the whole hall.",
+      "chineseBefore": "電力恢復後，團隊沒有立刻開放整個大廳，而是先做簡短測試。",
+      "chineseAfter": "受訓技師修好鬆脫的電線接點並恢復供電後，團隊沒有立刻開放整個大廳，而是先做簡短測試。"
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 9,
+      "paragraph": 4,
+      "reason": "Remove next morning flash-forward before subsequent afternoon sequence.",
+      "appliedNow": true,
+      "englishBefore": "The correction appeared in the newspaper the next morning. It was short and plain, not a dramatic apology. Still, the people who had asked for it could finally see the truth printed beside their stories.",
+      "englishAfter": "The editor agreed to publish the correction in the newspaper the next morning. It would be short and plain, not a dramatic apology. The people who had asked for it would soon see the truth printed beside their stories.",
+      "chineseBefore": "隔天早晨，學生報刊出更正。文字簡短平實，並不戲劇化。然而提出要求的人終於看見真相印在自己的故事旁邊。",
+      "chineseAfter": "編輯答應隔天早晨在學生報刊出更正。那將是一則簡短平實的說明，而非戲劇化的道歉。提出要求的人很快就能看見真相印在自己的故事旁邊。"
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 17,
+      "paragraph": 5,
+      "reason": "Mark explicit flashback after preceding paragraph bus ride.",
+      "appliedNow": true,
+      "englishBefore": "Before leaving the school, Evan asked which channel teachers used to share class news with families.",
+      "englishAfter": "Earlier, before leaving the school, Evan had asked which channel teachers used to share class news with families.",
+      "chineseBefore": "離校前，安澤問老師用什麼管道向家長分享班級消息。",
+      "chineseAfter": "稍早離校前，安澤曾問老師用什麼管道向家長分享班級消息。"
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 24,
+      "paragraph": 2,
+      "reason": "Closing fair occurs chapter 25, chapter 24 is preparation.",
+      "appliedNow": true,
+      "englishBefore": "For the closing fair, a bakery offered salty bread, and a shop downstairs brought balloons.",
+      "englishAfter": "As they prepared for the closing fair, a bakery offered salty bread, and a shop downstairs brought balloons.",
+      "chineseBefore": "閉幕活動時，麵包店提供鹹麵包，樓下商店帶來氣球。",
+      "chineseAfter": "籌備閉幕活動時，麵包店提供鹹麵包，樓下商店帶來氣球。"
     }
   ],
   "quizChanges": [
@@ -286,14 +594,16 @@
       "chapter": 19,
       "question": 2,
       "before": "Why does Tomas read the interview questions first?",
-      "after": "Why does Tomas ask to hear the interview questions before answering?"
+      "after": "Why does Tomas ask to hear the interview questions before answering?",
+      "alreadyApplied": true
     },
     {
       "book": "ss-r10-l2-b",
       "chapter": 1,
       "question": 1,
       "before": "What clue do May and Evan notice outside the locked classroom?",
-      "after": "What clue do May and Evan notice outside the locked classroom?"
+      "after": "What clue do May and Evan notice outside the locked classroom?",
+      "alreadyApplied": true
     }
   ],
   "chapterStructuralChecks": [
@@ -600,32 +910,32 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": 6,
-      "englishWords": 695,
+      "englishWords": 704,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l1-a",
       "chapter": 7,
-      "englishWords": 678,
+      "englishWords": 680,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l1-a",
       "chapter": 8,
-      "englishWords": 674,
+      "englishWords": 672,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l1-a",
@@ -720,12 +1030,12 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": 18,
-      "englishWords": 680,
+      "englishWords": 695,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l1-a",
@@ -760,12 +1070,12 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": 22,
-      "englishWords": 671,
+      "englishWords": 697,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l1-a",
@@ -780,12 +1090,12 @@
     {
       "book": "ss-r10-l1-a",
       "chapter": 24,
-      "englishWords": 705,
+      "englishWords": 714,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l1-a",
@@ -840,12 +1150,12 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": 5,
-      "englishWords": 622,
+      "englishWords": 642,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r11-l1-a",
@@ -860,12 +1170,12 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": 7,
-      "englishWords": 638,
+      "englishWords": 640,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r11-l1-a",
@@ -920,12 +1230,12 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": 13,
-      "englishWords": 638,
+      "englishWords": 645,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r11-l1-a",
@@ -990,22 +1300,22 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": 20,
-      "englishWords": 653,
-      "targetWords": 20,
-      "quizCount": 2,
-      "bilingualParagraphs": 7,
-      "semanticGatesApproved": false,
-      "modifiedThisPass": false
-    },
-    {
-      "book": "ss-r11-l1-a",
-      "chapter": 21,
       "englishWords": 663,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 21,
+      "englishWords": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "semanticGatesApproved": false,
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r11-l1-a",
@@ -1020,32 +1330,32 @@
     {
       "book": "ss-r11-l1-a",
       "chapter": 23,
-      "englishWords": 653,
+      "englishWords": 656,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r11-l1-a",
       "chapter": 24,
-      "englishWords": 629,
+      "englishWords": 631,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r11-l1-a",
       "chapter": 25,
-      "englishWords": 690,
+      "englishWords": 689,
       "targetWords": 21,
       "quizCount": 2,
       "bilingualParagraphs": 7,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r2-l1-b",
@@ -1070,12 +1380,12 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": 3,
-      "englishWords": 619,
+      "englishWords": 624,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r2-l1-b",
@@ -1100,22 +1410,22 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": 6,
-      "englishWords": 658,
+      "englishWords": 663,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r2-l1-b",
       "chapter": 7,
-      "englishWords": 617,
+      "englishWords": 629,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r2-l1-b",
@@ -1140,12 +1450,12 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": 10,
-      "englishWords": 640,
+      "englishWords": 642,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r2-l1-b",
@@ -1190,12 +1500,12 @@
     {
       "book": "ss-r2-l1-b",
       "chapter": 15,
-      "englishWords": 626,
+      "englishWords": 629,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r2-l1-b",
@@ -1340,12 +1650,12 @@
     {
       "book": "ss-r10-l2-b",
       "chapter": 5,
-      "englishWords": 659,
+      "englishWords": 667,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l2-b",
@@ -1380,7 +1690,7 @@
     {
       "book": "ss-r10-l2-b",
       "chapter": 9,
-      "englishWords": 626,
+      "englishWords": 630,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -1460,12 +1770,12 @@
     {
       "book": "ss-r10-l2-b",
       "chapter": 17,
-      "englishWords": 627,
+      "englishWords": 629,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l2-b",
@@ -1530,12 +1840,12 @@
     {
       "book": "ss-r10-l2-b",
       "chapter": 24,
-      "englishWords": 622,
+      "englishWords": 625,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
       "semanticGatesApproved": false,
-      "modifiedThisPass": false
+      "modifiedThisPass": true
     },
     {
       "book": "ss-r10-l2-b",
