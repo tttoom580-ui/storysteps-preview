@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths:
       - 'app/**'
+      - 'config/**'
+      - 'verification/offer-smoke.mjs'
       - 'scripts/**'
       - 'public/**'
       - 'incoming/batch11/**'
@@ -39,6 +41,7 @@ jobs:
         run: |
           npm run build
           node verification/ad-policy-smoke.mjs
+          node verification/offer-smoke.mjs
           timeout 100s node verification/browser-smoke.mjs
           timeout 90s node verification/sync-api-smoke.mjs
       - name: Publish only the latest verified source commit
@@ -53,6 +56,7 @@ jobs:
             git reset --hard origin/main
             npm run build
             node verification/ad-policy-smoke.mjs
+            node verification/offer-smoke.mjs
             # Confirm the code being published is the code checked in and tested.
             timeout 100s node verification/browser-smoke.mjs
             printf '{"sourceCommit":"%s"}\n' "$(git rev-parse HEAD)" > docs/release.json
