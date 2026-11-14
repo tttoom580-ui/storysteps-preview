@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "reviewDate": "2026-11-14",
+  "reviewer": "GPT-6 AI editor",
+  "scope": "Five free books, 25 chapters each; targeted bilingual edits and quiz corrections grounded in actual passages",
+  "ids": [
+    "tomorrow",
+    "ss-r10-l1-a",
+    "ss-r11-l1-a",
+    "ss-r2-l1-b",
+    "ss-r10-l2-b"
+  ],
+  "patches": [
+    {
+      "book": "tomorrow",
+      "chapter": 1,
+      "paragraph": 2,
+      "oldEn": "Below that were six words. Don't come to school tomorrow. Please.",
+      "newEn": "Below that were six English words. Don't come to school tomorrow. Please.",
+      "oldZh": "下面是六個字的英文句子：明天，別來學校。拜託。",
+      "newZh": "下面是一句由六個英文單字組成的話：「明天，別來學校。拜託。」",
+      "reason": "Correct Chinese measure word for six English words, keep word count."
+    },
+    {
+      "book": "tomorrow",
+      "chapter": 21,
+      "paragraph": 8,
+      "oldEn": "Inside, in June's small handwriting, were four words. Thank you for stopping there.",
+      "newEn": "Inside, in June's small handwriting, were five words. Thank you for stopping there.",
+      "oldZh": "裡面是 June 小字寫的四個英文單字：謝謝妳到此為止。",
+      "newZh": "裡面是 June 用小字寫下的五個英文單字：「謝謝妳到此為止。」",
+      "reason": "Count English words correctly (Thank you for stopping there = five)."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "oldEn": "At 7 a.m., Nia stood outside her apartment on Red Brick Street, her heavy teaching bag resting beside the breakfast table.",
+      "newEn": "At 7 a.m., Nia sat at the breakfast table in her apartment on Red Brick Street, with her heavy teaching bag resting beside her chair.",
+      "oldZh": "早上七點，妮雅站在紅磚街的公寓外，沉重的教學袋放在早餐桌旁。",
+      "newZh": "早上七點，妮雅坐在紅磚街公寓裡的早餐桌前，沉重的教學袋放在椅子旁。",
+      "reason": "Repair inconsistent location of indoor breakfast table."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "oldEn": "Before leaving, she sat down to finish her breakfast.",
+      "newEn": "Before leaving, she finished her breakfast.",
+      "oldZh": "出發前，她坐下來吃完早餐",
+      "newZh": "出發前，她吃完早餐",
+      "reason": "Avoid sitting down for a second time after changing opening scene."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 11,
+      "paragraph": 1,
+      "oldEn": "The room would be safe later, but it was too cold for the morning group.",
+      "newEn": "The room would be safe later, but it was too cold for the optional Tuesday reading group Nia had arranged between the six Saturday lessons.",
+      "oldZh": "房間稍後會恢復安全，早上的小組卻不能在這麼冷的地方上課。",
+      "newZh": "房間稍後會恢復安全，但妮雅在六堂星期六正式課之間加開的週二晨間閱讀小組，當下不能在這麼冷的地方活動。",
+      "reason": "Clarify weekday group does not contradict six Saturday core lessons."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 11,
+      "paragraph": 2,
+      "oldEn": "Tomas asked for the names of planets in large print. Nia could make the letters big, but she was not sure how to explain every word.",
+      "newEn": "Tomas asked Nia to read the planet names aloud and let him trace the raised labels on the models. She could point to the labels as she read, but she was not sure how to explain every word clearly.",
+      "oldZh": "托馬斯請妮雅用大字寫出行星名稱。妮雅能把字寫大，卻不確定每個詞該怎麼解釋，便把難字另記一頁，準備查證。",
+      "newZh": "托馬斯請妮雅念出行星名稱，並讓他觸摸模型上的凸起標籤。妮雅一邊指著標籤一邊朗讀，卻不確定如何清楚解釋每個詞，便把難字另記一頁，準備查證。",
+      "reason": "Respect that Tomas is blind; large print does not allow him to read."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 11,
+      "paragraph": 5,
+      "oldEn": "Tomas sat near the table and ran a finger along the large letters in his new book.",
+      "newEn": "Tomas sat near the table and ran a finger over the raised labels Ada had attached to the cover of his new book.",
+      "oldZh": "托馬斯坐在桌旁，用手指沿著新書的大字慢慢讀。",
+      "newZh": "托馬斯坐在桌旁，用手指慢慢摸過艾達貼在新書封面上的凸起標籤。",
+      "reason": "Replace inaccessible large print with accessible tactile label."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 13,
+      "paragraph": 3,
+      "oldEn": "Tomas said he did not mind having his name on the touch-map page, but he wanted to read the sentence first. Nia showed him the large-print version and asked for his approval.",
+      "newEn": "Tomas said he did not mind having his name on the touch-map page, but he wanted to hear the sentence first. Nia read it aloud to him and asked for his approval.",
+      "oldZh": "托馬斯不介意名字出現在觸摸地圖那一頁，但希望先讀過句子。妮雅拿給他大字版本，詢問是否同意。",
+      "newZh": "托馬斯不介意名字出現在觸摸地圖那一頁，但希望先聽過句子。妮雅為他朗讀內容，接著詢問是否同意。",
+      "reason": "Require accessible consent for blind participant."
+    },
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 19,
+      "paragraph": 2,
+      "oldEn": "Tomas was interested in joining the talk, but asked to read the questions first. The writer agreed.",
+      "newEn": "Tomas was interested in joining the talk, but asked the writer to read the questions aloud beforehand. The writer agreed.",
+      "oldZh": "托馬斯也有興趣受訪，但希望先讀過問題。作者同意，",
+      "newZh": "托馬斯也有興趣受訪，但希望記者先把問題念給他聽。記者同意，",
+      "reason": "Ensure interview question accessibility and consent."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 1,
+      "oldEn": "Without the box, they could not begin.",
+      "newEn": "Without the box, they could not begin the garden-day preparations as planned.",
+      "oldZh": "沒有箱子，大家便無法開始。",
+      "newZh": "沒有箱子，大家就無法按照原訂計畫準備花園開放日。",
+      "reason": "Allow later planting with substitute classroom seeds without plot inconsistency."
+    },
+    {
+      "book": "ss-r11-l1-a",
+      "chapter": 1,
+      "paragraph": 3,
+      "oldEn": "He had once painted a monkey with one large tooth on the side of the missing box,",
+      "newEn": "He had once painted a monkey with orange ears and one large white tooth on the side of the missing box,",
+      "oldZh": "失蹤箱子的側面原本畫著一隻露出大牙齒的猴子，",
+      "newZh": "失蹤箱子的側面原本畫著一隻橘色耳朵、露出一顆白色大牙齒的猴子，",
+      "reason": "Make original identifying picture consistent with chapter 6 and recovery chapter 17."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 4,
+      "paragraph": 6,
+      "oldEn": "At closing time, Fia put a small sign on the new door step.",
+      "newEn": "At the end of the workday, Fia put a small sign beside the worn doorstep.",
+      "oldZh": "收工時，菲雅在新門階放上小牌子",
+      "newZh": "收工時，菲雅在尚未修好的舊門階旁放上小牌子",
+      "reason": "Premature new doorstep before repairs and false closing time before grand opening."
+    },
+    {
+      "book": "ss-r2-l1-b",
+      "chapter": 4,
+      "paragraph": 6,
+      "oldEn": "As the sky became dark, the three friends crossed the road and went home together. At the cross in the road, Moss lifted his head and checked for a coming cart before the friends went over.",
+      "newEn": "As the sky became dark, the three friends set off for home. At the place where two roads cross, Moss checked for a coming cart before they walked safely to the other side.",
+      "oldZh": "天色漸暗，三個朋友一起過馬路回家。 在道路的交會處，莫斯抬起頭查看有沒有車來，再帶著朋友過去。",
+      "newZh": "天色漸暗，三個朋友一起踏上回家的路。到了兩條路交會的地方，莫斯先查看有沒有推車過來，再與朋友安全走到對面。",
+      "reason": "Remove double crossing and awkward phrase, preserve target 'cross'."
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 9,
+      "paragraph": 1,
+      "oldEn": "That was not legal or fair, and it was not what anyone had agreed.",
+      "newEn": "The claim did not match the signed permissions, and May wanted its legal basis checked before anyone presented it as fact.",
+      "oldZh": "那既不符合約定，也不應被當作合法又公平的事。",
+      "newZh": "這種說法與簽署的授權不符；慧希望先核對其法律依據，不要把未經證實的權利主張寫成事實。",
+      "reason": "Avoid ungrounded definitive legal claim; retain level target 'legal'."
+    }
+  ],
+  "quizzes": [
+    {
+      "book": "ss-r10-l1-a",
+      "chapter": 19,
+      "question": 2,
+      "oldQuestion": "Why does Tomas read the interview questions first?",
+      "newQuestion": "Why does Tomas ask to hear the interview questions before answering?",
+      "oldExplanation": "答案：B。托馬斯要求先看問題，以便自主決定如何參與訪問。",
+      "newExplanation": "答案：B。托馬斯看不見文字，記者先依他的要求讀出訪談問題，讓他能自主決定是否參與。原文證據（第 2 段）：asked the writer to read the questions aloud beforehand.",
+      "oldOptions": [
+        "He wants to avoid talking about maps.",
+        "He wants to choose how to take part.",
+        "He is the newspaper editor."
+      ],
+      "newOptions": [
+        "He wants to avoid talking about maps.",
+        "He wants to choose how to take part.",
+        "He is the newspaper editor."
+      ]
+    },
+    {
+      "book": "ss-r10-l2-b",
+      "chapter": 1,
+      "question": 1,
+      "oldQuestion": "What clue do May and Evan notice outside the locked classroom?",
+      "newQuestion": "What clue do May and Evan notice outside the locked classroom?",
+      "oldExplanation": "答案：A。答案：A。第一章結尾只發現鎖著的教室門縫下有燈光，裡面傳來微弱的喀噠聲。此時還不知道錄音箱是否在裡面，不能把第二章才揭曉的結果放進第一章測驗。原文證據（第 6 段）：The classroom door was locked, but there was light beneath it.",
+      "newExplanation": "答案：A。第一章結尾，教室門雖鎖著，門縫下卻透出光線，還傳來微弱的喀噠聲。原文證據（第 6 段）：The classroom door was locked, but there was light beneath it.",
+      "oldOptions": [
+        "Light beneath the door and a faint click.",
+        "The box standing in the doorway.",
+        "A worker carrying a new microphone."
+      ],
+      "newOptions": [
+        "Light beneath the door and a faint click.",
+        "The box standing in the doorway.",
+        "A worker carrying a new microphone."
+      ]
+    }
+  ],
+  "governance": "Never declare whole-book approval from structural audits or automatic evidence extraction; 125 complete chapter-level prose and quiz semantic passes required for certification."
+}
