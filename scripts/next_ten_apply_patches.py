@@ -72,15 +72,18 @@ for bid,changes in work.items():
   assert 0<=ci<25 and 0<=qi<len(chapters[ci]['questions'])
   q=chapters[ci]['questions'][qi]
   field=qedit['field']
-  assert field in ('question','explanation')
+  assert field in ('question','explanation','correctOption')
   old,new=qedit['old'],qedit['new']
-  if q[field].count(old)==1:
-   q[field]=q[field].replace(old,new,1)
+  original=q['options'][q['answer']] if field=='correctOption' else q[field]
+  if original.count(old)==1:
+   updated=original.replace(old,new,1)
+   if field=='correctOption': q['options'][q['answer']]=updated
+   else: q[field]=updated
    changed=True;quiz_changed=True
-  elif new in q[field] and old not in q[field]:
+  elif new in original and old not in original:
    quiz_changed=False
   else:
-   raise ValueError(f"Quiz patch source mismatch: {bid} c{ci+1} q{qi+1} {old[:80]}")
+   raise ValueError(f"Quiz patch source mismatch: {bid} c{ci+1} q{qi+1} {field} {old[:80]}")
   edited.add(ci)
   allrecs.append({'book':bid,'chapter':ci+1,'question':qi+1,'field':field,'reason':qedit['reason'],
                   'changesAppliedNow':quiz_changed,'old':old,'new':new})
