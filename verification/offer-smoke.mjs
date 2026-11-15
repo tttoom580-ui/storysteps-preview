@@ -12,7 +12,10 @@ assert.equal(offer.premium.billing,'one_time','Not a subscription');
 assert.equal(offer.premium.advertising,'none_for_paid_account');
 for(const field of ['checkoutEnabled','serverEntitlementsEnabled','privateBookStorageEnabled'])
  assert.equal(offer.premium[field],false,'Do not claim secure checkout before '+field);
-assert.equal(available.size,88);
+const manifest=JSON.parse(readFileSync('public/content-manifest.json','utf8'));
+assert.equal(available.size,catalog.length,'All catalog books must be readable');
+assert.equal(available.size,Object.keys(manifest.books).length,'Catalog and book manifest must agree');
+assert(available.size>=93,'Previously published novels must remain available after import');
 for(const id of free){
  const book=available.get(id);
  assert(book,'Missing free book: '+id);
@@ -33,4 +36,4 @@ assert(plans.includes('私有'),'Private storage prerequisite is required');
 const privacy=readFileSync('public/privacy.html','utf8');
 assert(privacy.includes('展示及獎勵廣告目前預設關閉'),'Ad policy must be consistent');
 assert(!plans.includes('href="https://checkout'),'Do not add a fictitious checkout link');
-console.log('PASS: 10 fully free 25-chapter books, 78 other books preserved, one-time NT$100 prelaunch');
+console.log('PASS: 10 fully free 25-chapter books, '+(available.size-free.size)+' other books preserved, one-time NT$100 prelaunch');
