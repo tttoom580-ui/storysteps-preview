@@ -1,0 +1,61 @@
+name: StorySteps import five new bilingual novels
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'incoming/batch12/**'
+      - 'scripts/import_batch12.py'
+      - '.github/workflows/import-batch12.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: storysteps-batch12-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate source manuscripts and all published content
+        run: |
+          set -euo pipefail
+          python3 scripts/import_batch12.py
+          python3 scripts/check_editorial_certification.py
+          python3 scripts/audit_story_release.py
+          python3 scripts/audit_launch.py
+          python3 scripts/audit_editorial_depth.py > /tmp/batch12-editorial-audit.log
+          python3 scripts/build_editorial_progress.py
+      - name: Commit verified imports, preserving new source commits
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/import_batch12.py
+            python3 scripts/check_editorial_certification.py
+            python3 scripts/audit_story_release.py
+            python3 scripts/audit_launch.py
+            python3 scripts/audit_editorial_depth.py > /tmp/batch12-editorial-audit.log
+            python3 scripts/build_editorial_progress.py
+            git add public/books public/catalog.js public/content-manifest.json public/vocabulary-audit.json public/editorial-progress.html public/story-review.json \
+                    app/story-previews.json app/reading-guide.json app/reading-guide-samples.json \
+                    verification/import-batch12.json verification/editorial-triage-20261114.json \
+                    verification/launch-audit-20261109.json verification/story-review-20261110.json STORY_REVIEW.md
+            if git diff --cached --quiet; then
+              echo 'BATCH12_ALREADY_IMPORTED'
+              exit 0
+            fi
+            git commit -m 'content: publish five bilingual manuscripts with conservative review status [skip import]'
+            if git push origin HEAD:main; then
+              echo 'BATCH12_VALIDATED_PUBLISHED'
+              exit 0
+            fi
+            sleep 2
+          done
+          echo 'Import commit could not be pushed after retries' >&2
+          exit 1
