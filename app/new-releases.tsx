@@ -28,7 +28,7 @@ export default function NewReleases({onBook,onRead}:{onBook:(story:Story)=>void;
      <p className="release-hook">{s.hook}</p>
      <div className="release-actions">
       <button className="release-read" onClick={()=>onRead(s.chapters[0].id)}>開始讀 <ArrowRight size={15}/></button>
-      <span className="release-review"><CheckCircle2 size={14}/> 已上架・校訂中</span>
+      <span className="release-review"><CheckCircle2 size={14}/> {s.sentenceReusePatterns?'重複句優先校訂':'已上架・校訂中'}</span>
      </div>
     </div>
    </article>)}
