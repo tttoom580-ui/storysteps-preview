@@ -1,6 +1,7 @@
 // StorySteps browser smoke: desktop + emulated mobile. No real user data or ad requests.
 import {chromium, devices} from 'playwright';
 import {spawn} from 'node:child_process';
+import {readFileSync} from 'node:fs';
 import {setTimeout as delay} from 'node:timers/promises';
 import {resolve} from 'node:path';
 
@@ -105,7 +106,8 @@ async function run(label,options){
   // Stage 2 editorial transparency: every book is shown, none falsely certified.
   await page.goto(base+'editorial-progress.html',{waitUntil:'domcontentloaded'});
   const editorialRows=page.locator('#books tbody tr');
-  if(await editorialRows.count()!==88)throw Error('Editorial tracker must list all 88 published books');
+  const expectedBooks=JSON.parse(readFileSync('public/catalog.js','utf8').split('=',2)[1].replace(/;\s*$/,'')).length;
+  if(await editorialRows.count()!==expectedBooks)throw Error('Editorial tracker must list all '+expectedBooks+' published books');
   await page.locator('#search').fill('萬味渡口');
   if(await editorialRows.filter({visible:true}).count()!==1)throw Error('Editorial filter did not isolate one book');
   const auditContent=await editorialRows.filter({visible:true}).first().innerText();
