@@ -38,6 +38,7 @@ async function run(label,options){
   const nav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'閱讀',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'閱讀中心'});
   await nav.click();
   await page.getByRole('heading',{name:/跨裝置同步/}).first().waitFor();
+  await page.getByRole('heading',{name:'這七天，你讀了多少？'}).waitFor();
   if(label==='desktop'){
    await page.getByRole('button',{name:'建立我的同步空間'}).first().click();
    await page.getByRole('button',{name:'立即合併同步'}).first().waitFor();
@@ -71,6 +72,16 @@ async function run(label,options){
   const libraryNav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'書庫'}):page.locator('.desktop-nav').getByRole('button',{name:'分級書城'});
   await libraryNav.click();
   await page.getByRole('heading',{name:'三分鐘試讀'}).waitFor();
+  // Current release: covers are actual assets and five distinct novels are discoverable.
+  const latest=page.locator('#new-releases');
+  await latest.getByRole('heading',{name:'新的故事，現在開讀。'}).waitFor();
+  if(await latest.locator('.release-item').count()!==5)throw Error('Five latest releases are not visible in library');
+  const latestCovers=latest.locator('.release-item img');
+  if(await latestCovers.count()!==5)throw Error('Latest releases must all have covers');
+  await latestCovers.first().evaluate(async image=>{
+    if(!image.complete)await new Promise((resolve,reject)=>{image.addEventListener('load',resolve,{once:true});image.addEventListener('error',reject,{once:true})});
+    if(!image.naturalWidth)throw Error('Latest release cover did not load');
+  });
   await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'仍需校訂'});
   await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'全部校訂狀態'});
   // Read a real compressed story chapter, expand translation and verify reader viewport.
