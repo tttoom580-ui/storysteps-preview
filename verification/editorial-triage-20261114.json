@@ -2,15 +2,15 @@
   "version": "2026-11-14",
   "description": "Full machine screening, NOT sentence-by-sentence editorial approval. Translation length anomalies are candidate flags, not proof of mistranslation. Quiz semantic review required for all items without explicit source citations.",
   "summary": {
-    "totalBooks": 88,
-    "totalChapters": 2200,
+    "totalBooks": 93,
+    "totalChapters": 2325,
     "chaptersUnder500": 0,
     "chaptersUnder20Targets": 0,
     "chaptersUnder2Quizzes": 0,
     "chaptersWithBilingualHeuristicFlags": 0,
-    "quizzesWithoutExplicitSourceEvidence": 3617,
-    "booksWithRepeatedEnglishLongSentence": 4,
-    "booksWithRepeatedChineseSentence": 4,
+    "quizzesWithoutExplicitSourceEvidence": 3867,
+    "booksWithRepeatedEnglishLongSentence": 5,
+    "booksWithRepeatedChineseSentence": 5,
     "fullHumanSemanticApprovalCount": 0,
     "sharedExactEnglishParagraphPatternsAcrossBooks": 0
   },
@@ -70,7 +70,7 @@
       "level": "1000以下",
       "hook": "晴天響起的警鐘，究竟在警告誰？",
       "description": "一聲在晴天響起的警鐘，帶出河屋、工廠與十二年前的祕密。四名朋友必須在暴雨前找出保護小鎮的方法。",
-      "editorialLabel": true,
+      "editorialLabel": false,
       "chapterCount": 25,
       "minWords": 637,
       "minTargetWords": 20,
@@ -116,9 +116,9 @@
       "level": "1000–2000",
       "hook": "同一口鐘，為什麼只有他們聽見不同的聲音？",
       "description": "兩名少年聽見不同次數的鐘聲，手上的半圓印記指向被封鎖二十年的水道。信任彼此，才能改寫山城的未來。",
-      "editorialLabel": true,
+      "editorialLabel": false,
       "chapterCount": 25,
-      "minWords": 606,
+      "minWords": 609,
       "minTargetWords": 20,
       "quizzes": 50,
       "enCrossChapterSentenceReuse": 0,
@@ -145,8 +145,8 @@
         "ending": {
           "chapter": 25,
           "zh": "雙河，同心",
-          "openingEnglish": "Three months later, spring had returned to the valley. The old court had completed the first public hearing, and the full case against Luo would continue under the law. He was no longer allowed to control the gates. The principal of Cloud Gate Academy stood among farmers, workers, and students at a ceremony beside the Quiet River. She read a record of the repairs and explained the data collected since the flood. The two rivers now flowed steadily, and clean water had reached farms long absent from the old maps. The judgment about the people responsible would take time, but the safety work was already real.",
-          "openingChinese": "三個月後，春天回到山谷。舊法院已完成第一次公開聽證，對羅的完整案件仍將依法進行；他不再能控制水閘。雲門學院校長站在農夫、工人和學生之間，於靜河旁主持典禮。她朗讀修復紀錄，說明洪水後蒐集的資料。兩條河穩定流動，乾淨水已抵達多年不在舊地圖上的農田。責任人的判決還需要時間，但安全工程已是眼前的事實。",
+          "openingEnglish": "Three months later, fresh green growth covered the valley. The old court had completed the first public hearing, and the full case against Luo would continue under the law. He was no longer allowed to control the gates. The principal of Cloud Gate Academy stood among farmers, workers, and students at a ceremony beside the Quiet River. She read a record of the repairs and explained the data collected since the flood. The two rivers now flowed steadily, and clean water had reached farms long absent from the old maps. The judgment about the people responsible would take time, but the safety work was already real.",
+          "openingChinese": "三個月後，山谷又披上了新綠。舊法院已完成第一次公開聽證，對羅的完整案件仍將依法進行；他不再能控制水閘。雲門學院校長站在農夫、工人和學生之間，於靜河旁主持典禮。她朗讀修復紀錄，說明洪水後蒐集的資料。兩條河穩定流動，乾淨水已抵達多年不在舊地圖上的農田。責任人的判決還需要時間，但安全工程已是眼前的事實。",
           "closingEnglish": "the stone dust, the council's decision, and the two rivers returning home. He did not write that they had saved the world. That would have been a foolish claim. He wrote instead that people had listened to one another before it was too late. Qi read the page and smiled. Far away, the restored bell rang once to mark the hour. It was a clear, ordinary sound. Neither boy was afraid. They kept walking, with a future both of them had chosen.",
           "closingChinese": "走到最後一座橋時，沈雨再度打開筆記本。他寫下隱藏的鐘聲、失竊河盤、石粉、議會決定，以及兩條河如何回家。他沒有寫自己和韓祈拯救了世界，那樣太誇大也太傻。他寫的是人們如何在太遲之前聽見彼此。韓祈讀完，露出微笑。遠處修復的鐘響了一聲，報出時間。那是清楚、平凡的聲音。兩個少年都不再害怕。他們繼續往前，走向兩人自己選擇的未來。"
         }
@@ -162,7 +162,7 @@
       "level": "2000–3000",
       "hook": "離開地球後，地球卻傳來一句：別相信目的地。",
       "description": "星際移民船的最後一座花園即將關閉。一封十二分鐘前由地球寄出的訊息，卻說：不要相信目的地。",
-      "editorialLabel": true,
+      "editorialLabel": false,
       "chapterCount": 25,
       "minWords": 601,
       "minTargetWords": 20,
@@ -208,7 +208,7 @@
       "level": "3000–4000",
       "hook": "相隔五十年的人，能一起找回被抹去的姓名嗎？",
       "description": "1895 與 1945 年的臺北被一座銅鐘連在一起。兩個時代的年輕人，開始追索被歷史留白的姓名。",
-      "editorialLabel": true,
+      "editorialLabel": false,
       "chapterCount": 25,
       "minWords": 602,
       "minTargetWords": 20,
@@ -254,9 +254,9 @@
       "level": "4000–5000",
       "hook": "守住糧倉，還是打開河道？一座城正在等答案。",
       "description": "古代水門與現代考古相互印證。一座城究竟該守住糧倉，還是打開被統治者封死的河道？",
-      "editorialLabel": true,
+      "editorialLabel": false,
       "chapterCount": 25,
-      "minWords": 605,
+      "minWords": 600,
       "minTargetWords": 20,
       "quizzes": 50,
       "enCrossChapterSentenceReuse": 0,
@@ -275,7 +275,7 @@
         "middle": {
           "chapter": 13,
           "zh": "醫者的允諾",
-          "openingEnglish": "The Healer's Consent｜英文正文 605 詞｜目標新詞 20 個\n\nWhen the city ran short of clean water, its healers tried a conversion of abandoned wine jars into safe storage vessels. The idea seemed simple, but finding enough fuel for boiling placed a new burden on the kitchens. One healer reported a deficit of bandages and a growing number of patients with a strange fever syndrome. Mei requested an extension of the supply schedule while the council searched for new wells. The court's commander replied that the request was illegitimate because the city had refused his taxes. Mei read the letter twice, astonished that anyone could p",
+          "openingEnglish": "When the city ran short of clean water, its healers tried a conversion of abandoned wine jars into safe storage vessels. The idea seemed simple, but finding enough fuel for boiling placed a new burden on the kitchens. One healer reported a deficit of bandages and a growing number of patients with a strange fever syndrome. Mei requested an extension of the supply schedule while the council searched for new wells. The court's commander replied that the request was illegitimate because the city had refused his taxes. Mei read the letter twice, astonished that anyone could put pride ahead of sick children.",
           "openingChinese": "城裡乾淨水源告急，醫者便想把廢棄酒罈改造成儲水容器。辦法看似簡單，燒水所需的燃料卻加重公廚負擔。一名醫者報告繃帶短缺，奇怪的熱病症候群患者越來越多。梅要求延長補給時程，議會同時尋找新水井。王軍將領回信說南河拒稅，請求便不合法。梅把信讀了兩遍，驚訝竟有人將面子置於病童之前。",
           "closingEnglish": ". Mei understood that the enemy was trying to make thirst accomplish what swords could not. Rather than conceal the discovery, she asked the healer to explain the risks publicly in a format everyone could understand. The council voted to protect the spring and continue treating prisoners who arrived ill. “We cannot choose which lives deserve water,” Mei said. Her statement was brief, but it became the moral center of the city's defense.",
           "closingChinese": "水流朝城市而來，而不是向外流。有人從另一端封住古泉。梅明白，敵人想讓乾渴完成刀劍做不到的事。她沒有隱瞞，而是請醫者用人人聽得懂的形式公開說明風險。議會表決守住泉水，並繼續治療病重的敵方俘虜。「我們不能決定哪種人有資格喝水。」梅說。話雖短，卻成了南河守城的道德核心。"
@@ -283,10 +283,10 @@
         "ending": {
           "chapter": 25,
           "zh": "永不關上的水門",
-          "openingEnglish": "The Gate That Stayed Open｜英文正文 625 詞｜目標新詞 21 個\n\nThe final stage of restoration began as the rainy season approached. Forecasters warned of a slow-moving storm whose coverage extended from the northern mountains to the river plain. Engineers checked every pipeline and structural joint along the embankment, while volunteers prepared supplies for shelters. An felt awe standing beside the gate Mei had once saved. Its stone surface was obscure beneath layers of repair, yet the mechanism still worked. The team's main criterion was simple: the city must remain safe even if the new museum exhibition had to close. Beautif",
+          "openingEnglish": "The final stage of restoration began as the rainy season approached. Forecasters warned of a slow-moving storm whose coverage extended from the northern mountains to the river plain. Engineers checked every pipeline and structural joint along the embankment, while volunteers prepared supplies for shelters. An felt awe standing beside the gate Mei had once saved. Its stone surface was obscure beneath layers of repair, yet the mechanism still worked. The team's main criterion was simple: the city must remain safe even if the new museum exhibition had to close. Beautiful displays could wait; living people could not.",
           "openingChinese": "雨季將近，修復進入最後階段。預報說一場移動緩慢的暴雨將籠罩北山到河原。工程師檢查堤上每條管線與結構接縫，志工準備避難物資。安站在梅曾救過的水門旁，心中滿是敬畏。石面在層層修補下難辨原貌，機關卻仍能動。團隊最重要的判準很簡單：即使新展覽必須關閉，也要先確保城市安全。漂亮展示可以等，活人不行。",
           "closingEnglish": "untouched; several homes needed repairs, and families mourned what the water took. Yet there was no disaster on the scale once feared. At the shelter a small choir began to sing, and the sound reached An through an open window. She imagined another morning, centuries earlier, when Mei had stood above the same river. The two women would never meet, yet their work belonged to one story: protecting memory so that memory could protect life.",
-          "closingChinese": "清晨河水上漲，第三道水門卻把最凶猛的洪流引往空曠平原。沒有哪個社區完全不受影響；幾間屋子待修，人們也為被水帶走的東西哀傷。但最可怕的災難沒有發生。避難所裡，一小群人組成的合唱團開始唱歌，歌聲穿過開窗傳到安耳邊。她想像數百年前另一個清晨，梅站在同一條河上。兩人永不會見面，所做的事卻屬於同一個故事：保存記憶，好讓記憶繼續守護生命。"
+          "closingChinese": "安想起暴雨最後一個清晨，那時她尚未帶學生前來。河水雖已暴漲，第三道水門仍把最凶猛的洪流導往空曠平原。沒有哪個社區完全不受影響；幾間屋子待修，人們也為被水帶走的東西哀傷。但最可怕的災難沒有發生。避難所裡，一小群人組成的合唱團開始唱歌，歌聲穿過開窗傳到安耳邊。她想像數百年前另一個清晨，梅站在同一條河上。兩人永不會見面，所做的事卻屬於同一個故事：保存記憶，好讓記憶繼續守護生命。"
         }
       },
       "structuralGate": true,
@@ -2252,7 +2252,7 @@
       "level": "1000–2000",
       "hook": "全山門都說他沒有天賦，只有一本說明書不這麼認為。",
       "description": "十八歲的睿沒有靈力，在山門中被視為毫無天賦。村莊水道遭到封閉後，他意外找到父親留下的維修說明書，發現機關真正的力量不在法術，而在理解原理。他與擅長地圖的梅合作，從修好一座水車開始，逐步揭開山門隱瞞多年的供水祕密，並學習如何讓知識與權力接受眾人檢驗。",
-      "editorialLabel": true,
+      "editorialLabel": false,
       "chapterCount": 25,
       "minWords": 694,
       "minTargetWords": 20,
@@ -2283,8 +2283,8 @@
         "ending": {
           "chapter": 25,
           "zh": "河流守住了承諾",
-          "openingEnglish": "The first summer after the repairs began with a soft rain. Rui stood beside the mill and listened to the steady flow of water. Among the villagers, the new rules had become ordinary: check the marks, keep a record, and call for help when something seemed wrong. Nobody called this foolish work anymore. The principal of the mountain school had asked Rui to apply for a teaching position, and he was still thinking about it. His mother brought him a bowl of pumpkin soup, made with a bone broth she had cooked all morning. “You can choose your own road,” she told him.",
-          "openingChinese": "修復後的第一個夏天，以柔和的雨開始。睿站在磨坊旁，聽穩定的水流。在村民之間，新規則已成日常：檢查刻度、保存紀錄，發現異常就求助。再也沒有人把這些事叫作愚蠢工作。山門校長請睿申請教職，他還在考慮。母親端來一碗南瓜湯，用的是她燉了一整個早上的骨湯。「你可以選自己的路，」她告訴他。",
+          "openingEnglish": "The summer after Rui received his repair certificate began with a soft rain. Rui stood beside the mill and listened to the steady flow of water. Among the villagers, the new rules had become ordinary: check the marks, keep a record, and call for help when something seemed wrong. Nobody called this foolish work anymore. The principal of the mountain school had asked Rui to apply for a teaching position, and he was still thinking about it. His mother brought him a bowl of pumpkin soup, made with a bone broth she had cooked all morning. “You can choose your own road,” she told him.",
+          "openingChinese": "睿取得維修證書後的那個夏天，以柔和的雨開始。睿站在磨坊旁，聽穩定的水流。在村民之間，新規則已成日常：檢查刻度、保存紀錄，發現異常就求助。再也沒有人把這些事叫作愚蠢工作。山門校長請睿申請教職，他還在考慮。母親端來一碗南瓜湯，用的是她燉了一整個早上的骨湯。「你可以選自己的路，」她告訴他。",
           "closingEnglish": " learned that understanding is work, and that work can be shared.” He closed the book and listened to the night. The village had water, the school had new rules, and the people had a way to question the next mistake before it grew too large. Rui would make more mistakes himself. He was not afraid of that truth now. The promise of the river was not that nothing would ever break. It was that no one would have to face a broken world alone.",
           "closingChinese": "睡前，他在自己的日誌寫下最後一行：「我沒有發現祕密力量。我學到理解需要工作，而工作可以與人分享。」他合上書，聽著夜色。村子有了水，山門有了新規則，人們也能在下一次錯誤變得太大之前提出質疑。睿自己也會再犯錯。他如今不害怕這個事實。河流的承諾不是永遠不會有東西壞掉，而是當世界壞了，沒有人必須獨自面對。"
         }
@@ -3740,7 +3740,7 @@
       "level": "2000–3000",
       "hook": "舊郵局的地板上，每位舞者都有選擇自己步子的權利。",
       "description": "離鄉多年的編舞師黎安回到杉丘鎮，發現童年學舞的舊郵局二樓即將改成私人宴會場地。她原本想留下這片地板，卻在修繕與舞台試驗中發現，過去被稱為「向所有人開放」的活動，從沒認真聽過不能上台的人。黎安與輪椅舞者可拉、燈光技師羅恩建立一個共享作品、公開權責的成人舞蹈計畫。當暴雨、預算、贊助條件與不同人生方向接連改變安排，她必須學會：真正保存一個地方，不是讓所有人照自己的方式跳舞，而是讓每個人有權選擇自己的步子。",
-      "editorialLabel": true,
+      "editorialLabel": false,
       "chapterCount": 25,
       "minWords": 664,
       "minTargetWords": 20,
@@ -3788,7 +3788,7 @@
       "level": "3000–4000",
       "hook": "沒有戰鬥天賦的校準師，發現防護屏障真正的力量來源。",
       "description": "壓力風暴即將席捲城市，官方宣稱只有勝出的武者才能替防護屏障供能。沒有戰鬥天賦的校準師沈寧發現能量高峰常在出拳之前出現。她和競技冠軍、普通工人、醫護與地方居民聯手，以可重複的現場測試尋找另一種防禦方式。",
-      "editorialLabel": true,
+      "editorialLabel": false,
       "chapterCount": 25,
       "minWords": 602,
       "minTargetWords": 20,
@@ -4207,6 +4207,246 @@
           "openingChinese": "第一次停用公告滿一年時，青渠泳池舉辦社區檢討會，而不是週年盛典。公開帳目顯示參與增加、持續成本，以及下個使用季的修繕清單。部分課程擴大，部分則依回饋調整。檢查員報告設施符合現行證書條件，同時提醒未來測試仍有必要。如今十九歲的嘉寧獨立報告使用者委員會成果，沒有請沐禾站在身旁。宋穎主持會議。沐禾坐在觀眾席，不覺得被排除，也不覺得不可或缺。這個地方正因不再仰賴一人的決心，而變得更公共。 一名氣喘泳者要求課程能配合臨床專業人員的建議。 這項協議是雙方的：沐禾與之庭",
           "closingEnglish": "itate her ambitions. A renowned former swimmer praised the staff team rather than one celebrated director. The center continued to revive affordable classes without promising a perfect future. The emergency instructions were posted underneath the large opening-hours chart. The year's work brought unification of separate user groups around shared rules. A visiting family stayed in a small villa outside town while attending the swim camp.",
           "closingChinese": "那天回到上鎖大門前，原本只打算檢查一項危險。她找到了值得做的工作，也學會為別人的選擇保留空間。水面平靜。下一步屬於泳者。 舊傷沒有消失，但沐禾學會重建自己的志向。 一位知名退役泳者稱讚的是員工團隊，而非單一明星主管。 中心持續恢復平價課程，卻不保證未來完美。 緊急指引貼在大型開放時刻表下方。 一年工作促成不同使用者團體圍繞共同規則的團結。 一個來參加游泳營的家庭住在鎮外小別墅。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ss-r12-l1-b",
+      "name": "潮汐劇場的安靜掌聲",
+      "genre": "溫暖動物奇幻",
+      "level": "1000以下",
+      "hook": "海邊劇場想重新開幕，但舞台安全、海潮與育雛鳥類都需要被尊重。",
+      "description": "水獺瑟娜與夥伴合作，把破舊海邊劇場變成安全、無障礙而安靜的社區演出空間。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "minWords": 600,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "海邊的小舞台",
+          "openingEnglish": "At the north side of Shell Bay, an old wooden stage stood beside the sea. A red curtain hung over its door, but no one had used it for years. Sena, a young otter woman, went there with a camera to take pictures for the town picnic. Her pet snail, Pebble, sat in a safe glass box at home; she never took him near salt water. A little bug crossed the steps. Sena bent to notice it, and then saw a deep crack in the middle board. A friendly badger named Bram came over with apple juice. “This is not a safe place for a show,” he said. Sena did not lie. “That is a fact,” she answered. “But perhaps we can make it safe.”",
+          "openingChinese": "在貝殼灣北邊，一座老木舞台靠著海。門口掛著紅布幕，卻已多年沒人使用。年輕的水獺女子瑟娜帶著相機來拍照，準備鎮上的野餐活動。她的寵物蝸牛小石安全地待在家裡的玻璃箱中；她從不帶牠靠近海水。一隻小蟲爬過台階。瑟娜彎腰注意牠，接著發現舞台中央的一塊木板有深深的裂縫。友善的獾布蘭拿著蘋果汁走來。「這裡不適合安全地演出。」他說。瑟娜沒有說謊。「那是事實，」她回答，「但也許我們能把它修好。」",
+          "closingEnglish": "fter the town buildings, spoke carefully. “You may not reach the stage until an engineer checks it,” she said. “You also need a plan for the tide and a quiet time for birds that live by the rocks.” Sena wrote the rules on a large sheet and read them aloud. She did not promise a show yet. Instead, she asked for one week to learn what was possible. Bram offered to help with the first visit. The picnic ended with a question, not a promise.",
+          "closingChinese": "那天下午的野餐上，瑟娜詢問其他動物的想法。有些想唱歌，有些想演戲，一個孩子則想跳舞。大家都很興奮，但負責管理鎮上建築的芬恩太太謹慎地開口：「工程師檢查之前，你們不能走上舞台。還要有潮水的計畫，以及讓岩石邊的鳥兒安靜休息的時間。」瑟娜把規則寫在大紙上，念給大家聽。她沒有立刻承諾表演，只請求一週時間研究可能的辦法。布蘭願意幫忙第一次勘查。野餐在一個問題中結束，而不是在承諾中結束。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "寬寬的上坡路",
+          "openingEnglish": "A week later, the town engineer met the team on a beautiful brown hill above the bay. The rain had stopped, and the ground was dry enough for a safe walk. Pia came with her chair; a duck from the school camp came to help carry paper plans. “We do not need to fight about who can enter,” Pia said. “We need a wide path that works for everyone.” Toma asked the children to stay behind the line while he measured the land. He used a chair to show where the resting point would be. Beyond it stood a small stair that only went to the old storage room, not to the main path. “That stair is not our answer,” he said.",
+          "openingChinese": "一週後，鎮上的工程師在海灣上方美麗的褐色山坡和團隊碰面。雨停了，地面夠乾，可以安全走動。琵亞帶著輪椅來，一隻參加學校營隊的鴨子幫忙搬紙圖。「我們不需要為誰能進場爭吵，」琵亞說，「我們需要人人都能使用的寬通道。」托馬請孩子們待在線後，他自己測量地面。他用椅子示範休息點的位置。再往前有一小段階梯，只通往舊儲藏室，並不是主通道。「那段樓梯不是我們的答案。」他說。",
+          "closingEnglish": "at a picture was not proof. The path would need a test after it was built. Sena accepted that. She had already promised not to use the stage until the work was checked. Pia asked to study the plan with Toma next week, and he agreed to explain it in simple words. No one would ask her to test an unfinished path. Together, they marked the safe meeting place at the top of the hill. Even though the sea looked calm, the tide rule still stood.",
+          "closingChinese": "從山坡上，瑟娜看得見舊舞台房子的一扇方窗。她想像開幕那天，從窗內望出去，會看見一家人坐在一起。托馬提醒她，想像不是證明；通道完工後還要測試。瑟娜接受了，因為她早就答應工程驗收前不開放舞台。琵亞想下週和托馬一起研究圖面，托馬答應用簡單的話解說。不會有人要求她測試未完成的通道。大家一起標出山坡頂端安全的集合地點。即使海面看起來很平靜，潮水的規則仍然有效。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "布幕仍會再開",
+          "openingEnglish": "A week after the show, Sena was able to return to the empty stage without feeling afraid. The town would allow short daytime events there, but only with the same checks and weather rules. A cat named Nika had made a small doll of the crab and placed it on a comfortable bench near the high path. She had worn a blue skirt to the show and said it was the first time her grandmother had enjoyed a live play by the sea. “Thank you for making a place for us,” she told Sena. Sena smiled. “Thank everyone who worked here. I could not do it alone.” The new club had packed all its props in tidy boxes, ready for another story.",
+          "openingChinese": "表演一週後，瑟娜再次來到空舞台，已不再感到害怕。鎮上允許這裡舉辦短時間的白天活動，但仍須遵守同樣的檢查和天氣規則。一隻叫妮卡的貓做了小螃蟹娃娃，放在高處通道旁舒適的長椅上。她在演出當天穿著藍裙子，說這是祖母第一次在海邊欣賞現場戲劇。「謝謝妳為我們留下位置。」她對瑟娜說。瑟娜笑了：「要謝謝所有在這裡工作的人，我無法獨自完成。」新社團已把所有道具裝進整齊箱子，準備下一個故事。",
+          "closingEnglish": " theater did not belong to the loudest voice, the fastest worker, or the richest family. It belonged to the people who made room for one another. Sena looked at the clear path, the safe high seats, and the sea beyond them. She remembered the first word she had written on her plan: “Listen.” It was still the right word. The curtain could close after each show, and open again when the place was safe. That was a happy ending worth keeping.",
+          "closingChinese": "回家前，瑟娜站在布幕旁，向老舞台道別。小螃蟹現在只是紙娃娃，但牠的故事已改變小鎮合作的方式。劇場不屬於聲音最大的人、動作最快的人或最富有的家庭，而屬於願意互相留出空間的所有人。瑟娜望著清楚的通道、安全的高處座位，以及更遠的海。她想起計畫上寫下的第一個字：「傾聽。」那依然是對的字。每次演出後，布幕可以落下；當場地安全時，它又能再次打開。這是一個值得留下的幸福結局。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ss-r12-l2-a",
+      "name": "星光送不到的第七封信",
+      "genre": "奇幻冒險",
+      "level": "1000–2000",
+      "hook": "七村訊號中斷，最遠的村莊卻從地圖上消失了。",
+      "description": "山谷信使梅與觀星學徒安循著舊地圖、燈光訊號與信件，重新建立七個村莊的聯絡。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "minWords": 618,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "沒有星光的高塔",
+          "openingEnglish": "Mei took the steep approach to Starwatch Tower before sunset. From its balcony she could see the field below, the stone base of an old seesaw, and the narrow valley beyond. A windy sky made her pull her coat tight. The tower operator had promised to light seven distant lamps for the winter travelers, yet tonight not one shone. Mei was twenty, a messenger rather than a magician. She had no special speed or power. She had only a bag of letters and a belief that a message should reach the person who needed it.",
+          "openingChinese": "梅在日落前沿著陡路走向觀星塔。從塔的陽臺，她看得到下方的田地、一座舊翹翹板的石製底座，以及更遠處的狹長山谷。多風的天空讓她拉緊外套。高塔操作員原本答應為冬季旅人點亮七座遠方燈塔，今晚卻一盞都沒有亮。二十歲的梅是信使，不是魔法師。她沒有特別快的速度，也沒有神奇力量，只有一袋信，以及相信訊息應送到需要的人手中的信念。",
+          "closingEnglish": "for news of her daughter across the pass. Mei could not promise a quick answer. She wrote down the daughter’s name and the last day anyone had seen her. The mother thanked her for not pretending. As Mei walked home, the dark tower looked less like a dead building and more like a question standing over the valley. For the first time she understood that delivering letters might also mean helping seven villages listen to one another again.",
+          "closingChinese": "塔腳下，一位母親等著山口另一端女兒的消息。梅無法保證很快得到答案，只記下女兒的姓名，以及最後有人看見她的日期。母親感謝她沒有假裝知道一切。梅走回家時，漆黑的高塔看起來不像死去的建築，反而像一個立在山谷上方的問題。她第一次明白，送信也可能意味著幫助七個村莊重新聽見彼此。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "沒有名字的溪流",
+          "openingEnglish": "The road to the sixth village crossed a stream with no name on the modern map. Mei had to lower her bag to climb through a hole between two rocks. A sailor who lived nearby offered to help. He had traded his boat for a motorcycle years ago and knew the river path well. “Anyway,” he said, “you should consider the weather before you cross.” He was right. An checked the soil near the bank and found it wet enough to slip. They chose a higher route with a clear view of the bridge.",
+          "openingChinese": "通往第六村的路跨過一條在現代地圖上沒有名字的溪流。梅得放低背包，才能穿過兩塊石頭之間的洞。住在附近的一位水手願意幫忙。他幾年前把船換成摩托車，對河邊小路很熟。「總之，」他說，「過河前要先考慮天氣。」他說得對。安檢查岸邊土壤，發現濕得容易滑倒。他們改走能看清橋面的高路。",
+          "closingEnglish": "ly cleaned stream and thought about the cartoon thief. A drawing had helped the village name its fear, but the truth had been much quieter. No enemy had entered at night. One person had simply failed to tell the next person where the lamp went. That was a mistake they could prevent with a clear note and a shared record. Six villages now had voices in the growing network. The seventh was still silent, somewhere behind the northern ridge.",
+          "closingChinese": "梅站在剛清理乾淨的溪流旁，想到漫畫裡的小偷。圖畫幫村子說出恐懼，但真相安靜得多。夜裡沒有敵人潛入，只是一個人忘了告訴另一個人燈去了哪裡。這種錯誤可以靠清楚留言和共用紀錄避免。如今六座村子已在網路中發出聲音，只有第七座還沉默，位在北方山脊之後。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "第七道回覆",
+          "openingEnglish": "No one was absent from the final meeting because each village had sent a chosen speaker. They sat among neighbors in the court square, with the seventh letter beside the public record. Mei held a coin given to her by Sora; it was not payment, only a sign that an ordinary person could carry an important message. A child ate soft pumpkin bread, while a small bell gave a bright pop when its cover moved. The quiet melody from the school band made the gathering feel like a celebration rather than a trial.",
+          "openingChinese": "最後會議裡沒有任何村子缺席，因為每村都派出代表。大家坐在議事廣場的鄰居之間，第七封信放在公開紀錄旁。梅拿著索拉送她的一枚硬幣，那不是報酬，只是提醒平凡人也能傳遞重要訊息。孩子吃著柔軟的南瓜麵包，一只小鈴的蓋子移動時發出清脆聲響。學校樂隊傳出的輕柔旋律，讓聚會更像慶祝，而非審判。",
+          "closingEnglish": "ed to the tower with An and Mira, not to repair anything, but to watch the seven lights. The tower sent one clear flash. The villages answered in order, from the lake to the far northern ridge. When the seventh reply came, Mei did not cheer immediately. She looked at her friends, at the winter road, and at the notes that showed what still needed work. Then she smiled. A message had crossed the valley, and people were ready to answer it.",
+          "closingChinese": "當晚落下了那年第一場雪。梅和安、米拉走到高塔，不是要修東西，而是看七盞燈。高塔發出一次清楚閃光，村落依序回答，從湖邊一直到遙遠的北方山脊。第七道回覆抵達時，梅沒有立刻歡呼。她望著朋友、冬季道路，以及仍記著待辦工作的筆記，然後才微笑。一則訊息跨過了山谷，而且人們已準備好回應。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ss-r12-l3-a",
+      "name": "玻璃海牆的第三聲",
+      "genre": "規則懸疑",
+      "level": "2000–3000",
+      "hook": "水下中心的三聲敲擊究竟是鬼影，還是有人在求救？",
+      "description": "設備調查員戴寧追查失蹤觀測員，從海牆的異響和壓力紀錄重建事件真相。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "minWords": 604,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "玻璃上的三聲敲擊",
+          "openingEnglish": "Nina Dai had been told that her visit to Blue Bay Underwater Center was acceptable only if she stayed beside the guide. She was twenty-nine and had come to advise the safety office after a young observer, Leya, vanished. At the entrance, the guide Tao rested his chin on his hand, staring at an unopened carton of coconut milk. Nina tried to connect her recorder to the building clock. The display showed a date that was two days old. She wrote the difference down before anyone could offer an excuse.",
+          "openingChinese": "戴寧被告知，只要留在導覽員身邊，她進入藍灣水下觀測中心的申請就可以接受。她二十九歲，是為了年輕觀測員樂雅失蹤一事，前來向安全單位提供建議。入口處，導覽員阿卓用手托著下巴，望著一盒未開封的椰奶。戴寧試著把錄音設備連上建築物的時鐘，螢幕卻顯示兩天前的日期。她在其他人找藉口前先記下這個差異。",
+          "closingEnglish": "dy moved toward the glass. Nina read the gauge aloud while Jae filmed its needle. The pressure rose for several seconds, then returned to its earlier level. The guard's face turned pale, but his hands remained away from the wall. Nina sealed the recordings in separate envelopes and asked Tao to sign the time sheet. Leya was still missing. Yet for the first time, the frightened team had a measurement instead of another frightening rumor.",
+          "closingChinese": "臨近關閉時，那個聲音再次出現：一下敲擊，停頓，接著兩下。沒有人走近玻璃。戴寧讀出壓力錶數值，佳恩拍攝指針。壓力上升數秒，隨後回到原來的水平。警衛臉色發白，雙手仍遠離海牆。戴寧把錄音分開封入信封，請阿卓在時間表簽名。樂雅依然失蹤，但這支受驚的團隊第一次擁有了測量數據，而不只是另一則令人害怕的傳言。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "藍色的線",
+          "openingEnglish": "The camera view amazed the crew, but Nina was anxious about drawing the wrong conclusion. A tiny bud appeared in a jar beyond the door, suggesting someone had brought a living plant into the dry chamber. A charm shaped like a fish hung from a blue cotton thread. A toy crown lay beside the jar, probably left from a former school display. None of these objects could prove Leya was there. Nina asked the team to compare the thread and jar with photographs from the recent inventory. The evidence did not amaze Nina as much as it worried her: a hopeful sign could mislead a rescue team if they treated it as certainty.",
+          "openingChinese": "攝影機的畫面讓隊員驚訝，戴寧卻擔心下錯結論。門後一個玻璃罐裡有小小的嫩芽，顯示有人把活植物帶進乾燥艙室。一個魚形護身符掛在藍色棉線上，罐子旁還有玩具王冠，大概是舊學校展示留下的。這些東西沒有一項能證明樂雅就在那裡。戴寧要求團隊拿線與罐子去比對最近的庫存照片。 這項證據並沒有讓戴寧驚奇，反而令她擔心：如果團隊把希望的跡象當作確定事實，就可能誤判。",
+          "closingEnglish": "ted pattern exactly. The difference between the first and second tests persuaded the rescue office that someone was responding from inside the chamber. Nina called Leya's mother with careful words. “We have strong evidence that a person is alive in the old room,” she said. “We are still confirming who it is.” Her mother cried with relief, while Nina quietly marked the time of each response. The work was not finished, but it had changed.",
+          "closingChinese": "黃昏前答案出現了：兩聲短促的喀噠，精確回應了新的要求。兩次測試的差異讓救援辦公室相信，艙室裡有一個人正在回應。戴寧小心告訴樂雅母親：「我們有強力證據顯示舊房間裡有活人，但仍在確認身分。」母親如釋重負地哭了，戴寧則默默標下每次回應的時間。工作還沒結束，但已經改變方向。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "可以信任的玻璃",
+          "openingEnglish": "On the opening morning, visitors came aboard a small harbor shuttle and walked toward the repaired upper hall. A beetle rested on a rail near the gate. Tao offered to bet that nobody would ask about the old ghost story, but Nina refused the wager. A local broadcast station had already explained that the sounds came from a pump and a reused recording. The center would not destroy every trace of its past; it would preserve enough evidence to show how fear and neglected repairs had combined into danger.",
+          "openingChinese": "開放當天早上，訪客搭上一艘港口接駁船，走向修好的上層大廳。一隻甲蟲停在入口欄杆上。阿卓說他敢打賭沒人會再問舊鬼故事，戴寧拒絕下注。地方廣播電台已解釋，怪聲來自泵浦和被重用的錄音。中心不會摧毀過去的所有痕跡，而是保留足夠證據，展示恐懼與被忽視的修理如何交織成危險。",
+          "closingEnglish": "She did not need them. Leya stood beside her and looked at the water that had once kept them apart. They spoke about the future: a better public map, training that workers could question, and a reporting system that could not erase a warning with one careless stamp. The sea remained deep, powerful, and sometimes frightening. It no longer needed to be a ghost. Nina closed her notebook and walked with Leya into the light of the open hall.",
+          "closingChinese": "日落時，玻璃外潮水退去。戴寧沒有聽見敲擊，也不再需要它。樂雅站在身旁，望著曾經隔開她們的海水。兩人談起未來：更好的公開地圖、員工能提問的訓練，以及無法被草率印章抹掉警告的通報制度。海依然深、強大，有時令人畏懼，卻不再需要扮演鬼魂。戴寧闔上筆記本，和樂雅一起走進開放大廳的燈光裡。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ss-r12-l5-a",
+      "name": "潮汐之城：第十三道閘門",
+      "genre": "工程懸疑",
+      "level": "4000–5000",
+      "hook": "第十三道閘門保護的是城市，還是把危險轉嫁給低地居民？",
+      "description": "鹽鏡城水工繪圖師艾拉發現，第十三道閘門可能阻斷低地街區最後的退水通道。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "minWords": 640,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "玻璃上的三道刻痕",
+          "openingEnglish": "On the first morning of the spring tide, Elara Venn received a batch of water-level sheets at the Saltglass pumping house. She was thirty-one, old enough to distrust dramatic announcements and young enough to believe that accurate drawings could still save a city. A loose circuit made the alarm lamp blink while her mentor, retired gate keeper Tomas, showed her three marks cut into the observation glass. The new council projection promised a decent margin of safety, yet the actual water stood above the highest mark. A nonprofit sailors' clinic had sent the sheets because the lower streets had flooded twice without",
+          "openingChinese": "春潮第一天早上，三十一歲的水工繪圖師艾拉在鹽鏡城抽水房收到一批潮位紀錄。她早已不再輕信激昂宣言，卻仍相信精確圖紙可以救一座城市。鬆動的電路使警報燈忽明忽暗，退休閘門守護員、也是她導師的托瑪斯，指給她看觀測玻璃上的三道刻痕。議會的新預測宣稱有充足安全餘裕，實際水位卻高過最高刻痕。非營利的水手診所寄來紀錄，因為低地街道明明沒有風暴，卻已淹水兩次。托瑪斯望向河流說：「水不服從演說。量測只有在有人肯聽時才有用。」艾拉抄下數字，而不接受印好的預測。",
+          "closingEnglish": "d the council at the same time. That evening the city's bell announced a ceremony for the thirteenth gate. Elara did not want to stop a useful project simply because she disliked the mayor. She wanted a design that named the streets at risk and a way for residents to challenge its assumptions. When the bell sounded again, water appeared on the dry side of the inspection wall. Something underneath the city was already changing direction.",
+          "closingChinese": "看得出差異，細心的人卻得解釋差異。第一項突破其實很小：無論由哪組人讀取，新舊水尺的結果都只差不到一指寬。他們記下誤差，拍攝三道刻痕，同時把副本送交碼頭集會與議會。傍晚，城鐘宣布將為第十三道閘門舉行典禮。艾拉不想只因討厭市長就阻止有用的工程；她要的是說清哪些街道有風險的設計，以及居民能質疑其假設的途徑。鐘再次響起時，巡檢牆原本乾燥的一側竟冒出水來。城市地下某處，水流已經改變方向。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "一個簽名的代價",
+          "openingEnglish": "The contract register showed that residents near the old basin had signed a consent form years earlier. Yet several signatures were unfamiliar, and one name belonged to a man who had died before the supposed meeting. Elara acknowledged the discrepancy without accusing the entire committee of fraud. A considerate clerk explained that documents had once been converted from loose sheets into a standardized format; some pages might have been copied in the wrong order. Rui requested a legitimate extension of the review period. She knew the district faced a budget deficit, and delaying development would cost the counci",
+          "openingChinese": "合約登記簿顯示，舊水池附近居民多年前簽過同意書，但幾個簽名很陌生，其中一個名字屬於會議前就已過世的男子。艾拉承認這項矛盾，卻沒有指控整個委員會偽造。一名體貼的書記解釋，文件曾從散頁轉成標準格式，某些頁面可能排錯順序。芮申請合法延長審查期。她知道區公所正面臨預算赤字，延後開發會造成支出；但倉促決定可能讓家庭失去家園。艾拉問：哪些證據足以令公正觀察者驚訝，哪些可能只是紀錄不良？這讓調查聚焦於簽署文件究竟授權了什麼。",
+          "closingEnglish": "e agreement found earlier. Both documents referred to the same public right, though one had hidden it. This did not prove a secret conspiracy, but it made a clear legal question: had the city sold something that its own contract required it to preserve? The answer would need an independent decision. Meanwhile, Elara had to finish an engineering alternative before the next storm, whether or not anyone was ever punished for the paperwork.",
+          "closingChinese": "到下一次嚴重天氣預報為止。艾拉理解折衷，卻害怕後果：下一次春潮逼近，城市仍沒有通過測試的低地洩壓方案。離開前，她要芮把消失的選項與先前找到的購地契約相比。兩份文件都談同一項公共權利，其中一份卻把它藏了起來。這不能證明秘密陰謀，但形成清楚的法律問題：城市是否出售了合約本來要求保留的東西？答案需要獨立裁決。與此同時，不管是否有人因文件受罰，艾拉都必須在下一場暴風前完成替代工程設計。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "第十三個名字",
+          "openingEnglish": "Three months after the flood, the lower district gathered beside the repaired canal. A choir sang under a sky that had seemed permanently gloomy during the storm season. Families came carrying bread, children, and sometimes a diaper bag larger than the child it served. Elara felt awe not at the size of the gate, but at the number of people who had learned to read its daily record. The city had made a chronic failure visible and taken the first steps toward correcting it. The new policy required coverage of each district's water-level readings and a public explanation whenever the warning criteria were changed. A ",
+          "openingChinese": "洪水三個月後，低地居民聚在修復水道旁。合唱團在天空下唱歌，暴風季時那片天曾長久陰沉。家人帶著麵包、孩子，有人背著比嬰兒還大的尿布袋。艾拉感到敬畏的不是閘門多大，而是已有多少人學會閱讀每日紀錄。城市終於讓長期失靈的問題可見，並開始修正。新政策要求各區潮位讀數都要受到監測，每次更改警戒標準都必須公開說明。依這座虛構城市制度任命的陪審團仍在審查爭議土地轉讓。慶祝者沒有人假裝洪水退了，法律問題也就消失。",
+          "closingEnglish": " and instead accepted a limited appointment to train public observers and review future designs. The job allowed her to keep drawing while protecting the residents' right to ask questions. Hadi rested a hand on the rail. Far upstream, a small volcanic hill appeared blue in the distance, quiet and unrelated to the storm. The world was bigger than the city, and the river would keep moving. This time, Saltglass had learned to move with it.",
+          "closingChinese": "刻下十三個名字，不是官員姓名，而是讓城市得以呼吸的十三條水路。最後一個名字屬於內陸洩洪道，曾被倉庫計畫藏起來。艾拉婉拒永久總工程師職位，改接受有期限的職務，培訓公共觀察員並審查未來設計。這份工作讓她能繼續畫圖，也守護居民提問的權利。哈迪把手放在欄杆上。遠上游一座小火山山丘在天際泛藍，安靜地存在，與這場風暴無關。世界比城市大得多，河流也會繼續流動。這一次，鹽鏡城學會與它一同前行。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ss-r12-l6-b",
+      "name": "山路盡頭，還有未還的書",
+      "genre": "成年職場戀愛",
+      "level": "5000–6000",
+      "hook": "一本被漏算的借書紀錄，可能讓山區流動圖書車繼續上路。",
+      "description": "流動圖書館主任沈予晴與道路工程師許承岳重逢，共同追查漏算的借閱量與山路安全。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "minWords": 641,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 98,
+      "zhCrossChapterSentenceReuse": 53,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "終點站的停駛公告",
+          "openingEnglish": "Yuqing reached the mountain square to find a closure notice pasted over the timetable of the traveling library. The notice counted online loans but not the paper books delivered to homes without reliable signal. Yuqing had spent enough years in public service to know how easily a chart could make a difficult decision look inevitable. She carried a pencil and a dated notebook, because a reader might ask tomorrow what had really happened today. The important distinction was not between paper and technology. It was between a service that listened and a service that counted people only when they were easy to count. T",
+          "openingChinese": "予晴抵達山區廣場時，發現流動圖書車時刻表上貼了停駛公告。公告只計算線上借閱，沒把送往訊號不穩住家的紙本圖書列入。 予晴在公共服務工作多年，知道一張圖表很容易把艱難決定偽裝成必然。她隨身帶著鉛筆和註明日期的筆記本，因為明天可能有人會問今天究竟發生什麼。真正的差別不在紙本或科技，而在服務是否願意傾聽，還是只計算那些方便被計算的人。 還書箱的金屬扣環在予晴手中斷裂。 讀者要求區公所召開公開會議。 兒童書架上貼著小熊幼獸的圖片。 巡迴牙科診所也使用同一座村莊廣場。",
+          "closingEnglish": "the date, the title, and the time the road was passable. His handwriting was uneven, but the sequence of dates was clear. Yuqing asked whether he would allow the notebook to be checked by someone outside the library. He agreed after she promised that the names of children could be concealed. When Chengyue offered to carry the notebooks, she kept them with their owner. Evidence did not become public property simply because it was useful.",
+          "closingChinese": "會議結束前，一位年輕配送員給予晴看他放在外套裡的筆記本。每當居民在家門口還書，他就寫下日期、書名與當時道路是否可通行。他的字跡不整齊，日期順序卻很清楚。予晴問他是否願意讓圖書館以外的人核對。他在她承諾隱去孩子姓名後才答應。承岳提議幫忙拿筆記本時，她仍把它留在持有人手中。證據即使有用，也不會因此自動成為公共財產。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "留白的地圖",
+          "openingEnglish": "The revised route map included blank areas where no reliable travel time had been measured. A councillor called the map embarrassing. A librarian could tell the difference between a book that was missing and a book that had never been counted. The same principle applied to people. Yuqing asked who had been left outside the survey before arguing about percentages. She knew this habit made meetings longer; she also knew that a short meeting could leave behind a very long injury. The main contention was whether an unmeasured shortcut belonged on the public map. A donated book explained how cosmetics were made from l",
+          "openingChinese": "修訂地圖把沒有可靠行車時間的區域留白。議員稱這張地圖令人難堪。 館員分得清一本遺失的書和一本從未被計算的書。相同原則也適用於人。予晴在討論百分比前，先問誰從調查中被排除。她知道這會讓會議變長，也知道短促的會議可能留下很長久的傷害。 主要爭論在於未測量的捷徑能否列入公開地圖。 捐贈書籍介紹如何利用在地植物製作化妝品。 孩子研究路標時分享一片餅乾。 電工檢查新閱覽棚的緊急照明。 予晴打開滿是灰塵的檔案時，一根睫毛吹進眼睛。",
+          "closingEnglish": "ier route maps hung side by side. The first displayed a straight line through a road that had flooded twice; the second showed a longer, safer path. She pointed out that the corrected map did not make the mountain more dangerous. It made the danger visible. Chengyue gave the driver the survey dates and invited him to add his own travel observations. The man returned an hour later with three corrections, each signed beside the road name.",
+          "closingChinese": "一名年輕司機問為何新地圖公開那麼多不確定，顧客想要的是信心。予晴帶他去看牆上並列的兩張舊地圖。第一張畫直線穿過曾淹水兩次的路段，第二張則標示較長但安全的路。她指出更正地圖沒有讓山更危險，而是讓危險可見。承岳給司機測量日期，邀他補上自身行車觀察。一小時後司機帶回三處更正，逐一簽在路名旁。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "最後一頁以外的路",
+          "openingEnglish": "Months later, Yuqing returned as a visiting trainer, no longer the person who made every decision. She watched a new librarian refuse an unsafe detour without apology. Yuqing had spent enough years in public service to know how easily a chart could make a difficult decision look inevitable. She carried a pencil and a dated notebook, because a reader might ask tomorrow what had really happened today. The important distinction was not between paper and technology. It was between a service that listened and a service that counted people only when they were easy to count. A health notice explained how asthma attacks ",
+          "openingChinese": "數月後，予晴以客座講師身分回來，不再是每項決定的裁決者。她看見新館員毫不抱歉地拒絕危險繞路。 予晴在公共服務工作多年，知道一張圖表很容易把艱難決定偽裝成必然。她隨身帶著鉛筆和註明日期的筆記本，因為明天可能有人會問今天究竟發生什麼。真正的差別不在紙本或科技，而在服務是否願意傾聽，還是只計算那些方便被計算的人。 健康公告說明冷空氣可能引發氣喘發作。 最終協議是雙邊的：兩個村落承擔相同權利和義務。 新主任與另一山谷的對口主任協調還書事宜。 混合動力車使用的柴油比",
+          "closingEnglish": "osed roads would be recorded without punishment. The girl asked whether the library would still come when Yuqing was gone again. Yuqing looked toward the newly elected director, who answered yes and showed her the public schedule. Chengyue stood beside Yuqing, holding his own ticket for another city. Their futures would not always share a timetable. They chose to speak truthfully and meet when they could, with no debt disguised as love.",
+          "closingChinese": "在新的終點站，一名小女孩把逾期兩天的書交給予晴。她害怕罰款，書記員卻解釋修訂規則：官方封路造成的延誤會記錄，但不處罰。女孩問予晴再次離開後，圖書車是否還會來。予晴看向新選出的主任，由主任回答會，並拿出公開時刻表。承岳站在予晴旁，手裡拿著前往另一座城市的車票。他們的未來不會永遠同班。兩人選擇誠實說話，能見面時便見面，不把債務偽裝成愛。"
         }
       },
       "structuralGate": true,
@@ -4636,7 +4876,7 @@
       "id": "import-rain-bell-7",
       "number": 7,
       "title": "停住的鐘",
-      "words": 655,
+      "words": 663,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -4647,7 +4887,7 @@
       "id": "import-rain-bell-8",
       "number": 8,
       "title": "鬼影影片",
-      "words": 676,
+      "words": 685,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -4878,7 +5118,7 @@
       "id": "import-two-rivers-4",
       "number": 4,
       "title": "生病的果園",
-      "words": 606,
+      "words": 609,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -4911,7 +5151,7 @@
       "id": "import-two-rivers-7",
       "number": 7,
       "title": "石頭山路",
-      "words": 662,
+      "words": 664,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
@@ -5186,7 +5426,7 @@
       "id": "import-last-garden-7",
       "number": 7,
       "title": "機械之巢",
-      "words": 647,
+      "words": 655,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5197,7 +5437,7 @@
       "id": "import-last-garden-8",
       "number": 8,
       "title": "不眠的乘客",
-      "words": 609,
+      "words": 627,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5274,7 +5514,7 @@
       "id": "import-last-garden-15",
       "number": 15,
       "title": "果園上的灰燼",
-      "words": 649,
+      "words": 667,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5681,7 +5921,7 @@
       "id": "import-third-gate-2",
       "number": 2,
       "title": "鹽道上的證人",
-      "words": 678,
+      "words": 672,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5692,7 +5932,7 @@
       "id": "import-third-gate-3",
       "number": 3,
       "title": "騎士的兩張地圖",
-      "words": 652,
+      "words": 648,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5703,7 +5943,7 @@
       "id": "import-third-gate-4",
       "number": 4,
       "title": "冬疫商隊",
-      "words": 619,
+      "words": 614,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5714,7 +5954,7 @@
       "id": "import-third-gate-5",
       "number": 5,
       "title": "百聲議會",
-      "words": 609,
+      "words": 605,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5725,7 +5965,7 @@
       "id": "import-third-gate-6",
       "number": 6,
       "title": "邊境來信",
-      "words": 617,
+      "words": 613,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5736,7 +5976,7 @@
       "id": "import-third-gate-7",
       "number": 7,
       "title": "蘆葦湖的海盜",
-      "words": 650,
+      "words": 645,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5747,7 +5987,7 @@
       "id": "import-third-gate-8",
       "number": 8,
       "title": "王家專利",
-      "words": 634,
+      "words": 631,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5758,7 +5998,7 @@
       "id": "import-third-gate-9",
       "number": 9,
       "title": "星空下的鑄幣所",
-      "words": 625,
+      "words": 620,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5769,7 +6009,7 @@
       "id": "import-third-gate-10",
       "number": 10,
       "title": "青銅穹頂",
-      "words": 637,
+      "words": 634,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5780,7 +6020,7 @@
       "id": "import-third-gate-11",
       "number": 11,
       "title": "老兵最後的請願",
-      "words": 630,
+      "words": 626,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5791,7 +6031,7 @@
       "id": "import-third-gate-12",
       "number": 12,
       "title": "牆後的孩子",
-      "words": 637,
+      "words": 632,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5802,7 +6042,7 @@
       "id": "import-third-gate-13",
       "number": 13,
       "title": "醫者的允諾",
-      "words": 608,
+      "words": 605,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5813,7 +6053,7 @@
       "id": "import-third-gate-14",
       "number": 14,
       "title": "雷射與古信",
-      "words": 623,
+      "words": 618,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5824,7 +6064,7 @@
       "id": "import-third-gate-15",
       "number": 15,
       "title": "三夜之議",
-      "words": 623,
+      "words": 619,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5835,7 +6075,7 @@
       "id": "import-third-gate-16",
       "number": 16,
       "title": "故障的伺服器",
-      "words": 640,
+      "words": 637,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5846,7 +6086,7 @@
       "id": "import-third-gate-17",
       "number": 17,
       "title": "偽造的信",
-      "words": 627,
+      "words": 624,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5857,7 +6097,7 @@
       "id": "import-third-gate-18",
       "number": 18,
       "title": "被遺忘者名冊",
-      "words": 619,
+      "words": 614,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5868,7 +6108,7 @@
       "id": "import-third-gate-19",
       "number": 19,
       "title": "黑夜裡的水輪",
-      "words": 626,
+      "words": 621,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5879,7 +6119,7 @@
       "id": "import-third-gate-20",
       "number": 20,
       "title": "堤上的房子",
-      "words": 605,
+      "words": 600,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5890,7 +6130,7 @@
       "id": "import-third-gate-21",
       "number": 21,
       "title": "倉庫帳簿",
-      "words": 620,
+      "words": 617,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5901,7 +6141,7 @@
       "id": "import-third-gate-22",
       "number": 22,
       "title": "河市眾聲",
-      "words": 612,
+      "words": 607,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5912,7 +6152,7 @@
       "id": "import-third-gate-23",
       "number": 23,
       "title": "建築師的使命",
-      "words": 611,
+      "words": 608,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -5923,7 +6163,7 @@
       "id": "import-third-gate-24",
       "number": 24,
       "title": "手扶梯旁的會議",
-      "words": 643,
+      "words": 638,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 5,
@@ -5934,7 +6174,7 @@
       "id": "import-third-gate-25",
       "number": 25,
       "title": "永不關上的水門",
-      "words": 630,
+      "words": 637,
       "targetWords": 21,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -19510,7 +19750,7 @@
       "id": "ss-r2-l2-a-2",
       "number": 2,
       "title": "隧道裡的燈",
-      "words": 722,
+      "words": 740,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
@@ -19524,7 +19764,7 @@
       "id": "ss-r2-l2-a-3",
       "number": 3,
       "title": "雙手的考驗",
-      "words": 727,
+      "words": 747,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
@@ -19538,7 +19778,7 @@
       "id": "ss-r2-l2-a-4",
       "number": 4,
       "title": "被藏起來的支流",
-      "words": 718,
+      "words": 731,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
@@ -19622,7 +19862,7 @@
       "id": "ss-r2-l2-a-10",
       "number": 10,
       "title": "走向查核的路",
-      "words": 712,
+      "words": 715,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 7,
@@ -19832,7 +20072,7 @@
       "id": "ss-r2-l2-a-25",
       "number": 25,
       "title": "河流守住了承諾",
-      "words": 706,
+      "words": 714,
       "targetWords": 21,
       "quizCount": 2,
       "bilingualParagraphs": 7,
@@ -30668,7 +30908,7 @@
       "id": "ss-r10-l3-b-24",
       "number": 24,
       "title": "留著的那扇門",
-      "words": 687,
+      "words": 691,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -30864,7 +31104,7 @@
       "id": "ss-r10-l4-a-13",
       "number": 13,
       "title": "五塔會議",
-      "words": 660,
+      "words": 679,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -31004,7 +31244,7 @@
       "id": "ss-r10-l4-a-23",
       "number": 23,
       "title": "雷達與托兒所",
-      "words": 635,
+      "words": 640,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -31060,7 +31300,7 @@
       "id": "ss-r10-l5-b-2",
       "number": 2,
       "title": "越過鹽脊的小路",
-      "words": 839,
+      "words": 849,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -31186,7 +31426,7 @@
       "id": "ss-r10-l5-b-11",
       "number": 11,
       "title": "斷匙的守護人",
-      "words": 620,
+      "words": 627,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -31326,7 +31566,7 @@
       "id": "ss-r10-l5-b-21",
       "number": 21,
       "title": "墓園旁的一只水壺",
-      "words": 605,
+      "words": 603,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -31424,7 +31664,7 @@
       "id": "ss-r10-l6-a-3",
       "number": 3,
       "title": "黎明前的水閘",
-      "words": 798,
+      "words": 840,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 4,
@@ -31438,7 +31678,7 @@
       "id": "ss-r10-l6-a-4",
       "number": 4,
       "title": "碼頭下的刻痕",
-      "words": 792,
+      "words": 833,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 4,
@@ -31452,7 +31692,7 @@
       "id": "ss-r10-l6-a-5",
       "number": 5,
       "title": "公開的星曆",
-      "words": 790,
+      "words": 832,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 4,
@@ -31466,7 +31706,7 @@
       "id": "ss-r10-l6-a-6",
       "number": 6,
       "title": "提早出現的修正",
-      "words": 658,
+      "words": 719,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 4,
@@ -33836,6 +34076,1756 @@
       "targetWords": 21,
       "quizCount": 2,
       "bilingualParagraphs": 4,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-1",
+      "number": 1,
+      "title": "海邊的小舞台",
+      "words": 629,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-2",
+      "number": 2,
+      "title": "鎮上的三個問題",
+      "words": 614,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-3",
+      "number": 3,
+      "title": "地板上的線",
+      "words": 608,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-4",
+      "number": 4,
+      "title": "潮水留下的線",
+      "words": 610,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-5",
+      "number": 5,
+      "title": "小小的預算",
+      "words": 634,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-6",
+      "number": 6,
+      "title": "岩石上的鳥兒",
+      "words": 601,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-7",
+      "number": 7,
+      "title": "第一堂課",
+      "words": 607,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-8",
+      "number": 8,
+      "title": "博物館的盒子",
+      "words": 603,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-9",
+      "number": 9,
+      "title": "沒有歌聲的聲音",
+      "words": 602,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-10",
+      "number": 10,
+      "title": "日落時的測試",
+      "words": 605,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-11",
+      "number": 11,
+      "title": "人人都能走的路",
+      "words": 627,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-12",
+      "number": 12,
+      "title": "試演那一天",
+      "words": 600,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-13",
+      "number": 13,
+      "title": "寬寬的上坡路",
+      "words": 610,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-14",
+      "number": 14,
+      "title": "算錯的數字",
+      "words": 604,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-15",
+      "number": 15,
+      "title": "由大家來決定",
+      "words": 600,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-16",
+      "number": 16,
+      "title": "灰色的早晨",
+      "words": 615,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-17",
+      "number": 17,
+      "title": "圍著圖紙的雙手",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-18",
+      "number": 18,
+      "title": "十二件小工作",
+      "words": 614,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-19",
+      "number": 19,
+      "title": "安靜的魔術把戲",
+      "words": 610,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-20",
+      "number": 20,
+      "title": "沒有成功的音效",
+      "words": 611,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-21",
+      "number": 21,
+      "title": "最後一次籌備會",
+      "words": 604,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-22",
+      "number": 22,
+      "title": "再算一次",
+      "words": 610,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-23",
+      "number": 23,
+      "title": "安靜的總彩排",
+      "words": 611,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-24",
+      "number": 24,
+      "title": "表演的日子",
+      "words": 620,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l1-b",
+      "id": "ss-r12-l1-b-25",
+      "number": 25,
+      "title": "布幕仍會再開",
+      "words": 614,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-1",
+      "number": 1,
+      "title": "沒有星光的高塔",
+      "words": 656,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-2",
+      "number": 2,
+      "title": "鏡子後面的地圖",
+      "words": 677,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-3",
+      "number": 3,
+      "title": "舊路上的警報",
+      "words": 697,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-4",
+      "number": 4,
+      "title": "樹枝交錯的路",
+      "words": 687,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-5",
+      "number": 5,
+      "title": "一盞燈的價錢",
+      "words": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-6",
+      "number": 6,
+      "title": "湖邊的火光",
+      "words": 685,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-7",
+      "number": 7,
+      "title": "乾燥山口",
+      "words": 663,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-8",
+      "number": 8,
+      "title": "長者與河流",
+      "words": 663,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-9",
+      "number": 9,
+      "title": "藍色玻璃",
+      "words": 665,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-10",
+      "number": 10,
+      "title": "谷口的旗",
+      "words": 657,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-11",
+      "number": 11,
+      "title": "新手舉起燈",
+      "words": 669,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-12",
+      "number": 12,
+      "title": "來自首都的信",
+      "words": 680,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-13",
+      "number": 13,
+      "title": "沒有名字的溪流",
+      "words": 637,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-14",
+      "number": 14,
+      "title": "光做成的龍",
+      "words": 663,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-15",
+      "number": 15,
+      "title": "霧中的信",
+      "words": 680,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-16",
+      "number": 16,
+      "title": "山脊上的老鷹",
+      "words": 677,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-17",
+      "number": 17,
+      "title": "橋下的電線",
+      "words": 668,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-18",
+      "number": 18,
+      "title": "承諾的重量",
+      "words": 659,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-19",
+      "number": 19,
+      "title": "禮堂裡的發言",
+      "words": 677,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-20",
+      "number": 20,
+      "title": "雨中的月臺",
+      "words": 618,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-21",
+      "number": 21,
+      "title": "晚餐後的投票",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-22",
+      "number": 22,
+      "title": "黎明開橋",
+      "words": 629,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-23",
+      "number": 23,
+      "title": "第七座村莊",
+      "words": 697,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-24",
+      "number": 24,
+      "title": "冬季總測試",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l2-a",
+      "id": "ss-r12-l2-a-25",
+      "number": 25,
+      "title": "第七道回覆",
+      "words": 698,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-1",
+      "number": 1,
+      "title": "玻璃上的三聲敲擊",
+      "words": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-2",
+      "number": 2,
+      "title": "同一片海的兩張地圖",
+      "words": 621,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-3",
+      "number": 3,
+      "title": "沒有遊客鑰匙的房間",
+      "words": 636,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-4",
+      "number": 4,
+      "title": "不會呼吸的聲音",
+      "words": 617,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-5",
+      "number": 5,
+      "title": "藏著節奏的泵浦",
+      "words": 619,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-6",
+      "number": 6,
+      "title": "封條底下的簽名",
+      "words": 625,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-7",
+      "number": 7,
+      "title": "綠燈亮起時要留下",
+      "words": 604,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-8",
+      "number": 8,
+      "title": "留在箱裡的抱怨",
+      "words": 604,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-9",
+      "number": 9,
+      "title": "牆後的錄音機",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-10",
+      "number": 10,
+      "title": "海灣底下的閥門",
+      "words": 642,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-11",
+      "number": 11,
+      "title": "濕袖子上的墨跡",
+      "words": 615,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-12",
+      "number": 12,
+      "title": "地下室裡的字母",
+      "words": 616,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-13",
+      "number": 13,
+      "title": "藍色的線",
+      "words": 627,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-14",
+      "number": 14,
+      "title": "門另一側的名字",
+      "words": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-15",
+      "number": 15,
+      "title": "門後的一盞燈",
+      "words": 609,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-16",
+      "number": 16,
+      "title": "先救空氣，再處理海水",
+      "words": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-17",
+      "number": 17,
+      "title": "舊洞道裡的繞行管",
+      "words": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-18",
+      "number": 18,
+      "title": "失蹤零件的收據",
+      "words": 610,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-19",
+      "number": 19,
+      "title": "西側閘門開啟",
+      "words": 624,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-20",
+      "number": 20,
+      "title": "回家的路",
+      "words": 618,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-21",
+      "number": 21,
+      "title": "樂雅可以拒答的問題",
+      "words": 632,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-22",
+      "number": 22,
+      "title": "必須被理解的燈號",
+      "words": 604,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-23",
+      "number": 23,
+      "title": "人人都能查核的地圖",
+      "words": 616,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-24",
+      "number": 24,
+      "title": "誠實的重新開放測試",
+      "words": 611,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l3-a",
+      "id": "ss-r12-l3-a-25",
+      "number": 25,
+      "title": "可以信任的玻璃",
+      "words": 633,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-1",
+      "number": 1,
+      "title": "玻璃上的三道刻痕",
+      "words": 692,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-2",
+      "number": 2,
+      "title": "比河道更老的屋子",
+      "words": 674,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-3",
+      "number": 3,
+      "title": "石頭下的壓力",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-4",
+      "number": 4,
+      "title": "堤道上的藥箱",
+      "words": 657,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-5",
+      "number": 5,
+      "title": "低潮聽證",
+      "words": 664,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-6",
+      "number": 6,
+      "title": "朝內陸開的門",
+      "words": 684,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-7",
+      "number": 7,
+      "title": "運河同盟",
+      "words": 661,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-8",
+      "number": 8,
+      "title": "雨水的專利",
+      "words": 657,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-9",
+      "number": 9,
+      "title": "鎖鏈墓地",
+      "words": 671,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-10",
+      "number": 10,
+      "title": "圓頂下的工坊",
+      "words": 669,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-11",
+      "number": 11,
+      "title": "第一次無水試運轉",
+      "words": 659,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-12",
+      "number": 12,
+      "title": "玻璃後的證人",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-13",
+      "number": 13,
+      "title": "一個簽名的代價",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-14",
+      "number": 14,
+      "title": "同一條款的兩種規則",
+      "words": 660,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-15",
+      "number": 15,
+      "title": "全城選擇測試",
+      "words": 673,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-16",
+      "number": 16,
+      "title": "市場底下的洪水",
+      "words": 661,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-17",
+      "number": 17,
+      "title": "假的日出",
+      "words": 657,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-18",
+      "number": 18,
+      "title": "攤開的帳簿",
+      "words": 643,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-19",
+      "number": 19,
+      "title": "七分鐘的水",
+      "words": 668,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-20",
+      "number": 20,
+      "title": "水面上的屋頂",
+      "words": 660,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-21",
+      "number": 21,
+      "title": "河流的尺度",
+      "words": 654,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-22",
+      "number": 22,
+      "title": "大潮之夜",
+      "words": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-23",
+      "number": 23,
+      "title": "會呼吸的閘門",
+      "words": 659,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-24",
+      "number": 24,
+      "title": "洪峰過後",
+      "words": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l5-a",
+      "id": "ss-r12-l5-a-25",
+      "number": 25,
+      "title": "第十三個名字",
+      "words": 696,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-1",
+      "number": 1,
+      "title": "終點站的停駛公告",
+      "words": 694,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-2",
+      "number": 2,
+      "title": "有兩個名字的橋",
+      "words": 681,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-3",
+      "number": 3,
+      "title": "沒有人計算的收據",
+      "words": 680,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-4",
+      "number": 4,
+      "title": "足夠寬的門",
+      "words": 662,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-5",
+      "number": 5,
+      "title": "七天的許可",
+      "words": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-6",
+      "number": 6,
+      "title": "母親自己的行事曆",
+      "words": 658,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-7",
+      "number": 7,
+      "title": "失蹤的地圖集",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-8",
+      "number": 8,
+      "title": "雨中的路線",
+      "words": 643,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-9",
+      "number": 9,
+      "title": "上鎖的筆記本",
+      "words": 657,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-10",
+      "number": 10,
+      "title": "誰才算讀者",
+      "words": 654,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-11",
+      "number": 11,
+      "title": "細字裡的契約",
+      "words": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-12",
+      "number": 12,
+      "title": "河面上方的小徑",
+      "words": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-13",
+      "number": 13,
+      "title": "留白的地圖",
+      "words": 654,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-14",
+      "number": 14,
+      "title": "舊日簽名",
+      "words": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-15",
+      "number": 15,
+      "title": "有條件的表決",
+      "words": 647,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-16",
+      "number": 16,
+      "title": "燈光下的測試",
+      "words": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-17",
+      "number": 17,
+      "title": "屬於所有人的書",
+      "words": 652,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-18",
+      "number": 18,
+      "title": "黎明前的警報",
+      "words": 646,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-19",
+      "number": 19,
+      "title": "雪線",
+      "words": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-20",
+      "number": 20,
+      "title": "山路終於停下",
+      "words": 648,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-21",
+      "number": 21,
+      "title": "沒有英雄的報告",
+      "words": 656,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-22",
+      "number": 22,
+      "title": "免費借書的成本",
+      "words": 660,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-23",
+      "number": 23,
+      "title": "她要接受的工作",
+      "words": 668,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-24",
+      "number": 24,
+      "title": "第一條真正公共的路線",
+      "words": 655,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r12-l6-b",
+      "id": "ss-r12-l6-b-25",
+      "number": 25,
+      "title": "最後一頁以外的路",
+      "words": 718,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
       "issues": [
         "quiz_needs_semantic_answer_review:1",
         "quiz_needs_semantic_answer_review:2"

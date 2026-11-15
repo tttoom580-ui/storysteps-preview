@@ -1,0 +1,82 @@
+{
+  "books": 5,
+  "chapters": 125,
+  "method": "Mechanical structure, word counts, glossary exact forms and quiz shape; no claim of semantic/literary approval.",
+  "results": [
+    {
+      "id": "ss-r12-l1-b",
+      "title": "潮汐劇場的安靜掌聲",
+      "source": "incoming/batch12/1b_theatre.md",
+      "sourceSha256": "868d48d8f7d6d488f389e2d3087d77f8bdcc99173fa781cd1fd1c79d49bd58a8",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 125,
+      "minWords": 600,
+      "maxWords": 634,
+      "repeatedLongSentenceTypes": 0,
+      "payloadSha256": "a44cad1332aeea6beddc697fc87cd0ff932445aa2e240a23ed7584656255a631",
+      "editoriallyCertified": false
+    },
+    {
+      "id": "ss-r12-l2-a",
+      "title": "星光送不到的第七封信",
+      "source": "incoming/batch12/2a_starletter.md",
+      "sourceSha256": "30094034582e3f350debdb13d602fde11338d8831abbf5dd9cf2265212f20d4d",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 195,
+      "minWords": 618,
+      "maxWords": 698,
+      "repeatedLongSentenceTypes": 0,
+      "payloadSha256": "4242aca1b98554944d0042d7090805c90c8e78367f02b5d299d6fb19b511e249",
+      "editoriallyCertified": false
+    },
+    {
+      "id": "ss-r12-l3-a",
+      "title": "玻璃海牆的第三聲",
+      "source": "incoming/batch12/3a_glasswall.md",
+      "sourceSha256": "c4c312f794d8571f6b4e8584b548d6d0017045dfb1376b94a892560d2b43b291",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 175,
+      "minWords": 604,
+      "maxWords": 649,
+      "repeatedLongSentenceTypes": 0,
+      "payloadSha256": "63dc7d26b2e2838fc54adb52ea85f0f44a21fea201b8d6dd8b00d70f321d34d6",
+      "editoriallyCertified": false
+    },
+    {
+      "id": "ss-r12-l5-a",
+      "title": "潮汐之城：第十三道閘門",
+      "source": "incoming/batch12/5a_gate.md",
+      "sourceSha256": "541aafde7e7f9ebcf89886ae0d7f7bf0b3d9ac72a46e40483dd775e59d87a839",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 125,
+      "minWords": 640,
+      "maxWords": 696,
+      "repeatedLongSentenceTypes": 0,
+      "payloadSha256": "c4eb6e2c466d7ea43ccf12def1689b6f86ae76d907e822807de6cb9197f89c91",
+      "editoriallyCertified": false
+    },
+    {
+      "id": "ss-r12-l6-b",
+      "title": "山路盡頭，還有未還的書",
+      "source": "incoming/batch12/6b_library.md",
+      "sourceSha256": "35cd0556c925c4126bacbba2911773783bc57d355a7b047a822afb39c3a312a5",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 125,
+      "minWords": 641,
+      "maxWords": 718,
+      "repeatedLongSentenceTypes": 98,
+      "payloadSha256": "f8b454ca5a11eb35279f7928f8954ad16b6839421608d97a712a013d44e22fe1",
+      "editoriallyCertified": false
+    }
+  ]
+}
