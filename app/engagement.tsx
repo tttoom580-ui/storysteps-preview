@@ -64,10 +64,47 @@ export function ForYou({state,progress,onRead,onBook}:{state:ReaderState;progres
  return <section className="feature-panel retention-panel" aria-label="為你推薦的故事"><span className="eyebrow">FOR YOUR NEXT CHAPTER</span><h2>接下來讀這三本</h2><p>依照本機已讀章節、收藏、故事類型及自行選的級距排序；不使用個資剖析或付費推薦 API。若尚未閱讀，先按級距提供入門書單。</p><div className="retention-picks">{picks.map(({b,next,why})=><div className="retention-pick" key={b.id}><div><small>{why} · {b.level} · {b.genre}</small><h3>{b.zh}</h3><p>{b.hook}</p></div><div className="feature-actions"><button className="primary" onClick={()=>onRead(next)}>接著讀</button><button className="secondary" onClick={()=>onBook(b)}>看介紹</button></div></div>)}</div></section>
 }
 export function LocalReadingInsights({progress}:{progress:any[]}){
- const now=Date.now(),week=progress.filter(p=>Number.isFinite(p.completed)&&p.completed>=now-7*DAY);
- const books=new Set(progress.flatMap(p=>stories.filter(b=>b.chapters.some(c=>c.id===p.chapter)).map(b=>b.id)));
- const days=new Set(week.map(p=>new Date(p.completed).toLocaleDateString('en-CA',{timeZone:'Asia/Taipei'})));
- return <section className="feature-panel retention-panel" aria-label="我的本機閱讀摘要"><span className="eyebrow">MY READING SNAPSHOT</span><h2>我的七日閱讀摘要</h2><div className="retention-metrics"><span><strong>{week.length}</strong> 七日完成章數</span><span><strong>{days.size}</strong> 七日有閱讀日</span><span><strong>{books.size}</strong> 累計讀過的書</span></div><p className="fine">只根據你的本機閱讀進度即時計算，沒有新設追蹤器、Cookie 或送到伺服器的分析事件。這不是全站訪客數或正式的留存率。</p></section>
+ // The entire dashboard is computed in this browser. No new network requests.
+ const now=Date.now();
+ const chapterMap=new Map(stories.flatMap(story=>story.chapters.map(c=>[c.id,c] as const)));
+ const verified=progress.filter(p=>chapterMap.has(p.chapter)&&Number.isFinite(p.completed)&&p.completed>0&&p.completed<=now);
+ const week=verified.filter(p=>p.completed>=now-7*DAY);
+ const books=new Set(verified.flatMap(p=>stories.filter(b=>b.chapters.some(c=>c.id===p.chapter)).map(b=>b.id)));
+ const localDay=(time:number)=>new Date(time).toLocaleDateString('en-CA',{timeZone:'Asia/Taipei'});
+ const days=new Set(week.map(p=>localDay(p.completed)));
+ const quizRows=verified.filter(p=>Number.isFinite(p.score)&&chapterMap.get(p.chapter)?.available);
+ const totalQuestions=quizRows.reduce((sum,p)=>sum+2,0);
+ const correctAnswers=quizRows.reduce((sum,p)=>sum+Math.max(0,Math.min(2,p.score)),0);
+ const accuracy=totalQuestions?Math.round(100*correctAnswers/totalQuestions):null;
+ // The event log is capped and optional; completion rate is displayed only
+ // for started chapters actually visible in that local history.
+ let opened:string[]=[];
+ try{
+  const raw=JSON.parse(localStorage.getItem('storysteps-study-events')||'[]');
+  if(Array.isArray(raw))opened=[...new Set(raw.filter((x:any)=>x?.kind==='chapter_open'&&chapterMap.has(x.chapter)).map((x:any)=>x.chapter))] as string[];
+ }catch{}
+ const completeSet=new Set(verified.map(p=>p.chapter));
+ const completedFromOpen=opened.filter(id=>completeSet.has(id)).length;
+ const completion=opened.length?Math.round(100*completedFromOpen/opened.length):null;
+ const recent=Array.from({length:7},(_,offset)=>{
+  const date=new Date(now-(6-offset)*DAY);
+  const day=localDay(date.getTime());
+  return {day,short:new Intl.DateTimeFormat('zh-TW',{weekday:'short',timeZone:'Asia/Taipei'}).format(date),count:week.filter(p=>localDay(p.completed)===day).length};
+ });
+ const maxCount=Math.max(1,...recent.map(r=>r.count));
+ return <section className="feature-panel retention-panel learning-dashboard" aria-label="我的本機閱讀摘要">
+  <div className="learning-dashboard-header"><div><span className="eyebrow">MY LEARNING SNAPSHOT</span><h2>這七天，你讀了多少？</h2><p>看見自己的閱讀與答題進步，不必和別人比較。</p></div><span className="learning-private-label">僅此裝置</span></div>
+  <div className="learning-kpis">
+   <div><strong>{week.length}</strong><span>近 7 天完成章數</span></div>
+   <div><strong>{days.size}<small> / 7</small></strong><span>近 7 天閱讀日</span></div>
+   <div><strong>{accuracy===null?'—':accuracy+'%'}</strong><span>章末測驗最佳答對率</span></div>
+   <div><strong>{completion===null?'—':completion+'%'}</strong><span>本機開啟章節完讀比例（估計）</span></div>
+  </div>
+  <div className="learning-trend" role="img" aria-label={'近七天每日完成章數：'+recent.map(d=>d.short+d.count+'章').join('、')}>
+   {recent.map(d=><div key={d.day} className="learning-trend-day"><div className="learning-bar-rail"><span style={{height:Math.max(d.count?14:3,Math.round(d.count/maxCount*100))+'%'}} title={d.count+' 章'}/></div><small>{d.short}</small><b>{d.count}</b></div>)}
+  </div>
+  <p className="learning-dashboard-note">累計讀過 {books.size} 本。數據來自此瀏覽器的完成紀錄與有限的章節開啟紀錄；測驗率依各章保存的最佳分數計算。這不是全站完讀率、7 日回訪率或獨立訪客統計，也不會為此新增追蹤、Cookie 或資料上傳。</p>
+ </section>;
 }
 export function QuickTaste({options,onRead,onBook}:{options:Story[];onRead:(id:string)=>void;onBook:(s:Story)=>void}){
  const [position,setPosition]=useState(0);const b=options[position%Math.max(1,options.length)];
