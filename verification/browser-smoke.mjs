@@ -136,6 +136,18 @@ async function run(label,options){
   await lookup.getByRole('button',{name:'已收藏 · 移除'}).waitFor();
   await page.keyboard.press('Escape');
   await lookup.waitFor({state:'hidden'});
+  const wordsNav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'單字',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'單字口袋'});
+  await wordsNav.click();
+  await page.getByRole('heading',{name:'我的收藏'}).waitFor();
+  await page.getByRole('button',{name:'朗讀 the',exact:true}).waitFor();
+  const wordSearch=page.getByRole('searchbox',{name:'搜尋收藏單字'});
+  await wordSearch.fill('no matching entry');
+  await page.getByText('找不到符合的單字。',{exact:true}).waitFor();
+  await wordSearch.fill('the');
+  await page.getByRole('button',{name:'朗讀 the',exact:true}).waitFor();
+  await page.goto(base+'?book=tomorrow&chapter=tomorrow-1',{waitUntil:'domcontentloaded'});
+  await page.locator('[data-paragraph]').first().waitFor();
+
   const tocToggle=page.getByRole('button',{name:'章節目錄'});
   if(await page.locator('#chapter-toc').isVisible())throw Error('Chapter list surrounds reading text before it is requested');
   await tocToggle.click();

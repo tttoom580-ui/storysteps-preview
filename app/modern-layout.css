@@ -181,3 +181,45 @@
 .avatar-options button[aria-pressed="true"] { border-color:var(--purple); background:var(--lavender); }
 .avatar-options .animal-avatar { width:min(100%,64px); height:auto; }
 .hub-avatar-button:focus-visible,.avatar-options button:focus-visible { outline:2px solid #b69af0; outline-offset:3px; }
+
+.word-pocket { max-width:860px; margin:auto; }
+.word-pocket-head {
+ display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:14px;
+ padding:clamp(18px,4vw,32px); border-radius:20px; color:#fff;
+ background:radial-gradient(ellipse at 95% 25%,#483775 0,transparent 65%),#25243f;
+}
+.word-pocket-head h1 { margin:0; font-size:clamp(1.9rem,4.5vw,2.8rem); letter-spacing:-.035em; }
+.word-pocket-head p { margin:6px 0 0; color:#e0d8f0; }
+.word-pocket-head .primary { background:#fff; color:#2d2447; box-shadow:none; }
+.word-pocket-head .primary:hover { background:#eee8ff; }
+.word-collection { margin-top:22px; }
+.word-collection-head { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:12px; }
+.word-collection-head h2 { margin:0; font-size:1.15rem; }
+.word-pocket-search { display:flex; gap:7px; align-items:center; padding:0 11px; min-height:42px; border:1px solid var(--line); border-radius:10px; background:var(--paper); color:var(--muted); }
+.word-pocket-search input { min-width:0; background:transparent; border:0; padding:8px 0; color:var(--ink); }
+.word-pocket-search:focus-within { outline:2px solid var(--purple); outline-offset:1px; }
+.vocabulary-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); list-style:none; margin:0 0 12px; padding:0; gap:10px; }
+.vocabulary-grid li { min-width:0; border:1px solid var(--line); border-radius:13px; padding:14px 14px 6px; background:var(--paper); }
+.vocabulary-definition { display:grid; gap:4px; padding:0; width:100%; text-align:left; color:var(--ink); }
+.vocabulary-definition b { font-size:1.25rem; overflow-wrap:anywhere; }
+.vocabulary-definition span { color:var(--muted); font-size:.86rem; overflow-wrap:anywhere; }
+.vocabulary-card-foot { display:flex; align-items:center; gap:4px; margin-top:5px; }
+.vocabulary-card-foot small { margin-right:auto; color:var(--muted); font-size:.73rem; }
+.vocabulary-card-foot .word-due { color:var(--purple); font-weight:700; }
+.vocabulary-card-foot button { display:grid; place-items:center; min-width:38px; min-height:40px; color:var(--purple); border-radius:8px; }
+.vocabulary-card-foot button:hover { background:var(--lavender); }
+.word-pocket-empty { text-align:center; margin:14px 0; padding:26px 12px; border:1px solid var(--line); border-radius:14px; color:var(--muted); }
+.word-pocket-empty h2 { margin:8px 0; font-size:1.1rem; color:var(--ink); }
+.word-pocket-empty p,.word-no-results { margin:8px 0 14px; color:var(--muted); }
+.word-pocket-backup { margin-top:16px; border-top:1px solid var(--line); }
+.word-pocket-backup summary { cursor:pointer; color:var(--muted); font-weight:700; font-size:.85rem; padding:12px 0; }
+.view-review .review-area { max-width:620px; margin:auto; }
+.view-review .review-area h1 { margin:14px 0 4px; }
+.review-count { margin:0 0 16px; color:var(--muted); }
+.view-review .flashcard { background:var(--paper); border:1px solid var(--line); border-radius:18px; color:var(--ink); width:100%; min-height:220px; }
+.view-review .flashcard h2 { overflow-wrap:anywhere; }
+@media(max-width:550px) {
+ .vocabulary-grid { grid-template-columns:1fr; }
+ .word-pocket-search,.word-pocket-search input { width:100%; }
+ .word-collection { margin-top:16px; }
+}
