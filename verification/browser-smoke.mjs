@@ -49,6 +49,8 @@ async function run(label,options){
   const nav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'閱讀',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'閱讀中心'});
   await nav.click();
   await page.getByRole('heading',{name:'我的閱讀'}).waitFor();
+  await page.locator('.reading-hub-lead').getByText('雨來之前的鐘聲',{exact:true}).waitFor();
+  await page.locator('.reading-hub-lead').getByRole('button',{name:'接續閱讀'}).waitFor();
   const passport=page.getByRole('region',{name:'閱讀護照'});
   await passport.getByRole('heading',{name:'最近閱讀足跡'}).waitFor();
   await passport.getByText('完成章末測驗後，閱讀紀錄會顯示在這裡。').waitFor();

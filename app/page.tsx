@@ -47,6 +47,7 @@ export default function Home(){
  const comfort=useReaderComfort(chapter,view==='reader');
  const habit=useReadingDays(activity,view==='reader'?chapter?.id||null:null);
  const [allWords,setAllWords]=useState(false);
+ const [hasResume,setHasResume]=useState(false);
  useEffect(()=>{recordReading('visit');try{const c=JSON.parse(localStorage.getItem('storysteps-comfort')||'null');if(c){setFontSize(Math.max(17,Math.min(29,Number(c.font)||21)));setTheme(c.theme==='night'?'night':'paper')}}catch{}},[]);
  useEffect(()=>{document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme==='night'?'dark':'light';try{localStorage.setItem('storysteps-comfort',JSON.stringify({font:fontSize,theme}))}catch{}},[fontSize,theme]);
  useEffect(()=>setAllWords(false),[chapterId]);
@@ -86,6 +87,9 @@ export default function Home(){
  },[inlineLookup]);
  const story=stories.find(s=>s.id===bookId)||principal;
  const currentMeta=allMeta.find(c=>c.id===chapterId);
+ const resumeStory=view==='center'&&hasResume?stories.find(s=>s.chapters.some(c=>c.id===last)):undefined;
+ const resumeChapter=resumeStory?.chapters.find(c=>c.id===last);
+ const canResume=!!resumeStory&&!!resumeChapter?.available&&canRead(resumeStory.id,resumeChapter.number);
  const reachedPreviewEnd=view==='reader'&&currentMeta?.number===previewChapters&&!isFreeBook(story.id);
  const nextFreeBook=reachedPreviewEnd
   ? stories.find(s=>isFreeBook(s.id)&&s.level===story.level&&s.genre===story.genre)
@@ -94,7 +98,7 @@ export default function Home(){
   : undefined;
  const done=progress.filter(p=>allMeta.some(c=>c.id===p.chapter)).length;
  const due=vocab.filter(w=>w.due<=Date.now()),queue=reviewAll?vocab:due,reviewWord=queue[reviewIndex%Math.max(queue.length,1)];
- useEffect(()=>{refresh();const params=new URLSearchParams(window.location.search);if(params.has('purchase'))setView('access');const sharedBook=params.get('book'),sharedChapter=params.get('chapter');if(sharedChapter&&allMeta.some(c=>c.id===sharedChapter)){void read(sharedChapter)}else if(sharedBook&&stories.some(s=>s.id===sharedBook)){setBookId(sharedBook);setView('book')}try{setLast(allMeta.some(c=>c.id===localStorage.getItem('storysteps-last'))?localStorage.getItem('storysteps-last')!:'tomorrow-1');setSavedBooks(JSON.parse(localStorage.getItem('storysteps-books')||'[]'))}catch{}return()=>{if('speechSynthesis'in window)window.speechSynthesis.cancel()}},[]);
+ useEffect(()=>{refresh();const params=new URLSearchParams(window.location.search);if(params.has('purchase'))setView('access');const sharedBook=params.get('book'),sharedChapter=params.get('chapter');if(sharedChapter&&allMeta.some(c=>c.id===sharedChapter)){void read(sharedChapter)}else if(sharedBook&&stories.some(s=>s.id===sharedBook)){setBookId(sharedBook);setView('book')}try{const previous=localStorage.getItem('storysteps-last');if(previous&&allMeta.some(c=>c.id===previous)){setLast(previous);setHasResume(true)}setSavedBooks(JSON.parse(localStorage.getItem('storysteps-books')||'[]'))}catch{}return()=>{if('speechSynthesis'in window)window.speechSynthesis.cancel()}},[]);
  useEffect(()=>{if(!toast)return;const t=setTimeout(()=>setToast(''),6500);return()=>clearTimeout(t)},[toast]);
  useEffect(()=>{if(!modalOpen)return;const old=document.activeElement as HTMLElement;const el=dialogRef.current;el?.focus();const handle=(e:KeyboardEvent)=>{if(e.key==='Escape'){setModal('');setWord(null);}if(e.key==='Tab'&&el){const nodes=[...el.querySelectorAll<HTMLElement>('button:not(:disabled),a[href],input,select,textarea,[tabindex="0"]')];const first=nodes[0],last=nodes[nodes.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last?.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first?.focus()}}};document.addEventListener('keydown',handle);return()=>{document.removeEventListener('keydown',handle);old?.focus()}},[modalOpen]);
  async function refresh(){try{const r=await fetch('/api/learn');if(!r.ok)throw Error();const d=await r.json() as any;setSigned(d.signed);setTestReader(!!d.testReader);setCloudError(false);if(d.signed){setName(d.name);setOwned(d.owned||[]);setProgress(d.progress);setVocab(d.vocab);setActivity(d.activity||[]);setFeedback(d.feedback)}else{try{const g=JSON.parse(localStorage.getItem('storysteps-guest')||'{}');setProgress(g.progress||[]);setVocab(g.vocab||[]);setActivity(g.activity||[])}catch{}}}catch{setCloudError(true)}setLoaded(true)}
@@ -104,7 +108,7 @@ export default function Home(){
  function speak(text:string){if(!('speechSynthesis'in window)){setToast('此瀏覽器不支援朗讀。');return}stop();const u=new SpeechSynthesisUtterance(text);u.lang='en-US';u.rate=Number(rate);u.onend=u.onerror=()=>setSpeaking(false);voiceRef.current=u;setSpeaking(true);window.speechSynthesis.speak(u)}
  function navigate(v:string){comfort.pause();stop();setView(v);if(v==='book'||v==='reader')refresh();closeWord();setToc(false);window.scrollTo(0,0)}
  function book(s:Story){recordReading('book_preview',s.id);setBookId(s.id);feature.update(x=>({...x,seen:{...x.seen,[s.id]:s.chapters.filter(c=>c.available).length}}));navigate('book')}
- async function read(id:string){const s=stories.find(s=>s.chapters.some(c=>c.id===id));if(!s){setToast('這篇舊版故事已改版，請從新書開始。');return}const meta=s.chapters.find(c=>c.id===id)!;setBookId(s.id);setChapterId(id);setChapter(null);setChapterError('');setTranslated([]);setAnswers([]);setSubmitted(false);navigate('reader');setLoadingChapter(false);const seq=++requestRef.current;if(!meta.available){setChapterError('本章正在創作中。現在可以先閱讀第 1 章，或留下你想追更的回饋。');return}setLoadingChapter(true);try{const r=await fetch('/api/chapter?id='+encodeURIComponent(id));const data=await r.json() as any;if(seq!==requestRef.current)return;if(!r.ok){setChapterError(data.error||'章節無法載入');return}setChapter(data);feature.opened(s,id);setLast(id);try{localStorage.setItem('storysteps-last',id)}catch{}}catch{if(seq===requestRef.current)setChapterError('連線失敗，請重新載入章節。')}finally{if(seq===requestRef.current)setLoadingChapter(false)}}
+ async function read(id:string){const s=stories.find(s=>s.chapters.some(c=>c.id===id));if(!s){setToast('這篇舊版故事已改版，請從新書開始。');return}const meta=s.chapters.find(c=>c.id===id)!;setBookId(s.id);setChapterId(id);setChapter(null);setChapterError('');setTranslated([]);setAnswers([]);setSubmitted(false);navigate('reader');setLoadingChapter(false);const seq=++requestRef.current;if(!meta.available){setChapterError('本章正在創作中。現在可以先閱讀第 1 章，或留下你想追更的回饋。');return}setLoadingChapter(true);try{const r=await fetch('/api/chapter?id='+encodeURIComponent(id));const data=await r.json() as any;if(seq!==requestRef.current)return;if(!r.ok){setChapterError(data.error||'章節無法載入');return}setChapter(data);feature.opened(s,id);setLast(id);setHasResume(true);try{localStorage.setItem('storysteps-last',id)}catch{}}catch{if(seq===requestRef.current)setChapterError('連線失敗，請重新載入章節。')}finally{if(seq===requestRef.current)setLoadingChapter(false)}}
  function lookup(raw:string,trigger?:HTMLButtonElement){
   const w=normalizeWord(raw);
   wordTrigger.current=trigger||null;
@@ -131,15 +135,23 @@ export default function Home(){
  <main id="main-content">{cloudError&&<div className="notice">無法載入帳號紀錄。<button onClick={refresh}>重新連線</button></div>}
  {view==='center'?<><section className="reading-hub" aria-labelledby="reading-hub-title">
   <header className="reading-hub-lead">
-   <div><h1 id="reading-hub-title">我的閱讀</h1></div>
-   <button className="primary" onClick={()=>read(last)}>接續閱讀 <ArrowRight size={17}/></button>
+   <div className="reading-hub-intro">
+    <h1 id="reading-hub-title">我的閱讀</h1>
+    {canResume&&resumeStory&&resumeChapter?
+     <div className="resume-copy"><strong>{resumeStory.zh}</strong><p>第 {resumeChapter.number} 章 · {resumeChapter.zh}</p></div>:
+     <p className="resume-empty">挑一本想讀的小說，開始你的閱讀紀錄。</p>}
+    <button className="primary" onClick={()=>canResume?read(last):navigate('library')}>
+     {canResume?'接續閱讀':'到書庫挑書'} <ArrowRight size={17}/>
+    </button>
+   </div>
+   {canResume&&resumeStory?.cover&&<img className="resume-cover" src={resumeStory.cover} alt="" width="90" height="135"/>}
   </header>
   <ReadingPassport progress={progress} onRead={read}/>
   <div className="reading-hub-sections">
-   <details><summary>閱讀目標與紀錄</summary><ReadingCalendar habit={habit}/><WeeklyGoal progress={progress} lastBackup={feature.state.lastBackup} onCenter={()=>{const section=document.querySelector<HTMLDetailsElement>('#reading-data');if(section){section.open=true;section.scrollIntoView({behavior:'smooth'})}}}/><LocalReadingInsights progress={progress}/></details>
-   <details><summary>複習與收藏</summary><MistakeReview onRead={read}/><ReadingCenter feature={feature} progress={progress} vocab={vocab} signed={signed} onRead={read} refresh={refresh}/></details>
-   <details id="reading-data"><summary>備份與跨裝置同步</summary><BackupPanel onRestore={refresh}/><StudyExport/><StudyChoice/></details>
-   <details><summary>推薦閱讀</summary><ForYou state={feature.state} progress={progress} onRead={read} onBook={book}/></details>
+   <details><summary><Flame size={18} aria-hidden="true"/><span>閱讀目標與紀錄</span><ChevronRight size={17} aria-hidden="true"/></summary><ReadingCalendar habit={habit}/><WeeklyGoal progress={progress} lastBackup={feature.state.lastBackup} onCenter={()=>{const section=document.querySelector<HTMLDetailsElement>('#reading-data');if(section){section.open=true;section.scrollIntoView({behavior:'smooth'})}}}/><LocalReadingInsights progress={progress}/></details>
+   <details><summary><Bookmark size={18} aria-hidden="true"/><span>複習與收藏</span><ChevronRight size={17} aria-hidden="true"/></summary><MistakeReview onRead={read}/><ReadingCenter feature={feature} progress={progress} vocab={vocab} signed={signed} onRead={read} refresh={refresh}/></details>
+   <details id="reading-data"><summary><Library size={18} aria-hidden="true"/><span>備份與跨裝置同步</span><ChevronRight size={17} aria-hidden="true"/></summary><BackupPanel onRestore={refresh}/><StudyExport/><StudyChoice/></details>
+   <details><summary><Sparkles size={18} aria-hidden="true"/><span>推薦閱讀</span><ChevronRight size={17} aria-hidden="true"/></summary><ForYou state={feature.state} progress={progress} onRead={read} onBook={book}/></details>
   </div>
  </section></>:view==='analytics'?<><GlobalStudy/></>:view==='ranking'?<StoryInsights onRead={read}/>:view==='home'?<><section className="home-intro" aria-labelledby="start-here-title">
   <div className="home-intro-copy">
