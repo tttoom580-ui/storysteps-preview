@@ -6,10 +6,13 @@ from runpy import run_path
 ROOT=Path(__file__).resolve().parents[1]
 d=run_path(str(ROOT/'scripts/audit_editorial_depth.py'))['report'];s=d['summary']
 approvals=json.loads((ROOT/'verification/editorial-approvals.json').read_text())['certifiedBooks']
+catalog=json.loads((ROOT/'public/catalog.js').read_text().split('=',1)[1].rstrip(';\n'))
+basic={b['id'] for b in catalog if b.get('basicEditorialReviewed')}
+cleanup=json.loads((ROOT/'verification/basic-editorial-20261116.json').read_text())['books']
 rows=[]
 for b in d['books']:
     issue='跨章重複長句：'+str(b['enCrossChapterSentenceReuse'])+' 組' if b['enCrossChapterSentenceReuse'] else '未檢出跨章相同長句'
-    approval='全文已校訂（GPT-6 AI逐章校訂，非獨立真人審閱）' if b['id'] in approvals else '逐段英中、情節、角色與答案審閱未完成'
+    approval='全文已校訂（GPT-6 AI逐章校訂，非獨立真人審閱）' if b['id'] in approvals else '基礎校訂完成' if b['id'] in basic else '校訂中'
     rows.append(f'''<tr><td><a href="./stories/{e(b['id'])}/">{e(b['name'])}</a></td>
     <td>{e(b['level'])}</td><td>{b['minWords']}</td><td>{b['minTargetWords']}</td>
     <td>{e(issue)}</td><td>{approval}</td></tr>''')
@@ -23,13 +26,11 @@ td,th{{padding:.65em;text-align:left;border-bottom:1px solid #827a9366;vertical-
 .notice{{border-left:4px solid #9f82c5;padding:15px 18px;background:#7660bd16;border-radius:8px}}
 </style></head><body><header><a href="./">← StorySteps 首頁</a><nav><a href="./library.html">書城</a><a href="./story-review.html">原有檢查紀錄</a><a href="./privacy.html">隱私政策</a></nav></header><main>
 <h1>{s['totalBooks']} 本小說校訂進度</h1>
-<p class="notice"><strong>提醒：自動規格通過 ≠ 全文語意校訂完成。</strong>目前只有完成全部 25 章五關審核且留下證據的作品，才能顯示「全文已校訂」；未獲核准者維持校訂中。過去已局部修訂的作品，仍保留待複核狀態。</p>
-<p>五關全數通過（GPT-6 AI全文校訂；<strong>未經獨立真人審閱</strong>）：<strong>{len(approvals)}</strong> 本；仍待完整核准：<strong>{s['totalBooks']-len(approvals)}</strong> 本。<a href="./five-book-ai-certification.html">查看五本完整 AI 校訂與逐章證據</a></p>
-<p>已掃描 <strong>{s['totalBooks']}</strong> 本、<strong>{s['totalChapters']}</strong> 章；不足 500 英文詞：{s['chaptersUnder500']} 章；不足 20 目標詞：{s['chaptersUnder20Targets']} 章；不足兩題：{s['chaptersUnder2Quizzes']} 章。</p>
-<p>尚須補充原文證據並人工核對的測驗：<strong>{s['quizzesWithoutExplicitSourceEvidence']}</strong> 題。仍有跨章重用 12 詞以上英文長句的作品：<strong>{s['booksWithRepeatedEnglishLongSentence']}</strong> 本。</p>
-<p>本檢查只指出可能問題：短中文譯文未必錯誤、字數夠也未必自然、沒有完全相同的長句不代表情節沒有雷同。以下「沒有檢出」絕非原創性認證。</p>
+<p class="notice"><strong>基礎校訂完成 {len(basic)} 本。</strong>這輪檢查英中段落完整性、英文詞數、配詞與測驗格式，並刪除可確認雙語對應的重複敘述。</p>
+<p>共檢查 {s['totalChapters']:,} 章。在 {sum(bool(b['editedChapters']) for b in cleanup.values())} 本的 {sum(len(b['editedChapters']) for b in cleanup.values())} 章中刪除 {sum(b['removedRepeatedPairs'] for b in cleanup.values())} 組重複的英中句對。下表列出各書仍檢出的跨章長句。</p>
+<p>其中 <strong>{len(approvals)} 本</strong>另有 AI 全文校訂紀錄，涵蓋逐段譯意、情節與測驗答案。<a href="./five-book-ai-certification.html">查看部分全文校訂紀錄</a></p>
 <label for="search">搜尋書名或等級</label><p><input id="search" type="search" placeholder="例如：校園、萬味、2000"></p>
-<div class="table-wrap"><table id="books"><thead><tr><th>小說</th><th>級距</th><th>最短章英文詞</th><th>最少章目標詞</th><th>跨章長句</th><th>語意校訂</th></tr></thead><tbody>
+<div class="table-wrap"><table id="books"><thead><tr><th>小說</th><th>級距</th><th>最短章英文詞</th><th>最少章目標詞</th><th>跨章長句</th><th>校訂狀態</th></tr></thead><tbody>
 {''.join(rows)}
 </tbody></table></div>
 <h2>校訂必須通過的五道關卡</h2><ol><li>逐章檢查劇情發展與跨章雷同</li><li>逐段修改英文自然度、人物與事件時間線</li><li>逐段核對英中翻譯含義</li><li>確認每章至少 500 詞、20 目標詞並核對測驗答案</li><li>只有完成以上關卡才將作品標為「全文已校訂」</li></ol>

@@ -1,5 +1,5 @@
 import {ArrowRight,BookOpen,CheckCircle2} from 'lucide-react';
-import {stories} from './content';
+import {stories,editorialLabel} from './content';
 import type {Story} from './types';
 
 const releaseIds=['ss-r12-l1-b','ss-r12-l2-a','ss-r12-l3-a','ss-r12-l5-a','ss-r12-l6-b'];
@@ -12,7 +12,7 @@ export default function NewReleases({onBook,onRead}:{onBook:(story:Story)=>void;
   <div className="release-shelf-header">
    <div><span className="eyebrow">JUST ADDED · NOVEMBER 2026</span>
     <h2 id="release-shelf-heading">新的故事，現在開讀。</h2>
-    <p>5 本新書・125 章英中對照・從第一章免費試讀。內容已上架，仍在編輯校訂中。</p>
+    <p>5 本新書・125 章英中對照・從第一章免費試讀。</p>
    </div>
    <span className="release-shelf-hint"><BookOpen size={16}/> 向右瀏覽更多故事</span>
   </div>
@@ -28,7 +28,7 @@ export default function NewReleases({onBook,onRead}:{onBook:(story:Story)=>void;
      <p className="release-hook">{s.hook}</p>
      <div className="release-actions">
       <button className="release-read" onClick={()=>onRead(s.chapters[0].id)}>開始讀 <ArrowRight size={15}/></button>
-      <span className="release-review"><CheckCircle2 size={14}/> {s.sentenceReusePatterns?'重複句優先校訂':'已上架・校訂中'}</span>
+      <span className="release-review"><CheckCircle2 size={14}/> {editorialLabel(s)}</span>
      </div>
     </div>
    </article>)}
