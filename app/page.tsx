@@ -20,15 +20,18 @@ import AdSlot from './ad-slot';
 import SponsorSlot from './sponsor-slot';
 import {useReadingFeatures,ReadingCenter,Analytics,ChapterCommunity,QuoteButton,readingPost} from './reading-features';
 import {stories,levels,upcomingStories,editorialLabel} from './content';
-import {isFreeBook,freeBookCount,previewChapters,premiumPriceTwd,paidCheckoutIsLive} from './offer';
+import {readerOffer,isFreeBook,freeBookCount,previewChapters,premiumPriceTwd,paidCheckoutIsLive} from './offer';
 import type {Story,Chapter,Word} from './types';
 import {dayKey,streak,nextReview} from './learning';
 import {rangeLabel,levelLabel} from './vocabulary-range';
 import {normalizeWord, findDefinition} from './dictionary';
 const mainLinks=[['home','發現故事'],['library','分級書城'],['words','單字口袋'],['center','閱讀中心']];
-const homeFreePicks=['import-rain-bell','ss-r2-l1-b','import-platform-thirteen']
- .map(id=>stories.find(story=>story.id===id&&isFreeBook(story.id)))
+const freeHomeBooks=readerOffer.freeBookIds
+ .map(id=>stories.find(story=>story.id===id))
  .filter((story):story is Story=>Boolean(story));
+const freeHomeShelves=levels
+ .map(level=>({level,books:freeHomeBooks.filter(story=>story.level===level)}))
+ .filter(shelf=>shelf.books.length>0);
 const allMeta=stories.flatMap(s=>s.chapters);
 const totalWritten=allMeta.filter(c=>c.available).length;
 const principal=stories[0];
@@ -86,7 +89,7 @@ export default function Home(){
  const nextFreeBook=reachedPreviewEnd
   ? stories.find(s=>isFreeBook(s.id)&&s.level===story.level&&s.genre===story.genre)
     || stories.find(s=>isFreeBook(s.id)&&s.level===story.level)
-    || homeFreePicks[0]
+    || freeHomeBooks[0]
   : undefined;
  const done=progress.filter(p=>allMeta.some(c=>c.id===p.chapter)).length;
  const due=vocab.filter(w=>w.due<=Date.now()),queue=reviewAll?vocab:due,reviewWord=queue[reviewIndex%Math.max(queue.length,1)];
@@ -127,19 +130,22 @@ export default function Home(){
  <main id="main-content">{cloudError&&<div className="notice">無法載入帳號紀錄。<button onClick={refresh}>重新連線</button></div>}
  {view==='passport'?<Passport onRead={read}/>:view==='center'?<><BackupPanel onRestore={refresh}/><ReadingCalendar habit={habit}/><StudyChoice/><WeeklyGoal progress={progress} lastBackup={feature.state.lastBackup} onCenter={()=>document.getElementById('backup-center')?.scrollIntoView({behavior:'smooth'})}/><StudyExport/><LocalReadingInsights progress={progress}/><MistakeReview onRead={read}/><ForYou state={feature.state} progress={progress} onRead={read} onBook={book}/><ReadingCenter feature={feature} progress={progress} vocab={vocab} signed={signed} onRead={read} refresh={refresh}/></>:view==='analytics'?<><GlobalStudy/></>:view==='ranking'?<StoryInsights onRead={read}/>:view==='home'?<><section className="home-intro" aria-labelledby="start-here-title">
   <div className="home-intro-copy">
-   <p className="home-kicker">英中對照 · 點詞查義</p>
-   <h1 id="start-here-title">{freeBookCount} 本小說<br/>整本免費讀</h1>
-   <p className="home-lead">挑一個想追的故事。遇到生字點一下，就能繼續讀。</p>
-   <div className="home-actions">
-    <button className="primary" onClick={()=>navigate('access')}>看全部免費書單 <ArrowRight size={18}/></button>
-    {progress.length>0&&<button className="secondary" onClick={()=>read(last)}>接續上次閱讀</button>}
+   <div>
+    <h1 id="start-here-title">{freeBookCount} 本小說整本免費讀</h1>
+    <p className="home-lead">每本 25 章 · 英中對照 · 點詞查義</p>
    </div>
+   {progress.length>0&&<button className="secondary" onClick={()=>read(last)}>接續上次閱讀 <ArrowRight size={17}/></button>}
   </div>
   <div className="home-picks">
-   {homeFreePicks.map(s=><button className="home-pick" key={s.id} onClick={()=>read(s.chapters[0].id)} aria-label={`免費讀《${s.zh}》第 1 章`}>
-    {s.cover&&<img src={s.cover} alt="" width="640" height="960"/>}
-    <span><b>{s.zh}</b><small>{s.genre} · {s.level}</small></span>
-   </button>)}
+   {freeHomeShelves.map(({level,books})=><section key={level} className="home-tier" aria-label={level+' 詞彙級距'}>
+    <h2>{levelLabel(level)} <span>{level}</span></h2>
+    <div className="home-tier-books">
+     {books.map(s=><button className="home-pick" key={s.id} onClick={()=>read(s.chapters[0].id)} aria-label={`免費讀《${s.zh}》第 1 章`}>
+      {s.cover&&<img src={s.cover} alt="" width="80" height="120" loading="lazy"/>}
+      <span><small>{s.vocabularyRange} 本</small><b>{s.zh}</b><small>{s.genre}</small></span>
+     </button>)}
+    </div>
+   </section>)}
   </div>
  </section>
  <section className="home-explore">
