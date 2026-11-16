@@ -1,3 +1,6 @@
+import novelDictionary from "./data/dictionary-novel.json";
+import type {Word} from "./types";
+
 export const baseDictionary:Record<string,string>={
  a:'一個（不定冠詞）',an:'一個（母音前使用）',the:'這個；那個（定冠詞）',i:'我',you:'你；你們',he:'他',she:'她',it:'它',we:'我們',they:'他們',me:'我（受詞）',him:'他（受詞）',her:'她；她的',us:'我們（受詞）',them:'他們（受詞）',my:'我的',your:'你的',his:'他的',its:'它的',our:'我們的',their:'他們的',mine:'我的（東西）',yours:'你的（東西）',hers:'她的（東西）',ours:'我們的（東西）',theirs:'他們的（東西）',myself:'我自己',herself:'她自己',himself:'他自己',yourself:'你自己',themselves:'他們自己',
  and:'和；而且',or:'或；或者',but:'但是',so:'所以；如此',because:'因為',if:'如果',when:'當……時；何時',while:'當……時；然而',though:'雖然',although:'雖然',than:'比',as:'像；當作；當……時',that:'那個；引導子句',this:'這個',these:'這些',those:'那些',which:'哪一個；關係代名詞',who:'誰',whom:'誰（受詞）',whose:'誰的',what:'什麼',where:'在哪裡',why:'為什麼',how:'如何；多麼',
@@ -8,3 +11,45 @@ export const baseDictionary:Record<string,string>={
  mia:'米雅（人名）',leo:'里歐（人名）',june:'六月；瓊（人名）',school:'學校',phone:'電話；手機',message:'訊息',friend:'朋友',secret:'秘密',door:'門',room:'房間',time:'時間；次數',name:'名字',night:'夜晚',day:'一天；白天',light:'光；輕的',look:'看；看起來',looked:'看了；看起來（look 過去式）',said:'說（say 過去式）',say:'說',went:'去（go 過去式）',go:'去',come:'來',came:'來（come 過去式）',see:'看見',saw:'看見（see 過去式）',seen:'看見（see 過去分詞）',know:'知道',knew:'知道（know 過去式）',thought:'想（think 過去式）；想法',think:'想；認為',told:'告訴（tell 過去式）',tell:'告訴',asked:'問（ask 過去式）',ask:'問',read:'閱讀',book:'書；預訂',back:'背部；回來',one:'一',two:'二',three:'三',first:'第一；首先',last:'最後；上一個',next:'下一個',new:'新的',old:'舊的；年老的',good:'好的',bad:'壞的',right:'對的；右邊；權利',left:'左邊；離開（leave 過去式）',small:'小的',big:'大的',long:'長的',short:'短的',hand:'手；遞交',face:'臉；面對',eyes:'眼睛',water:'水',rain:'雨；下雨',voice:'聲音',quiet:'安靜的',open:'打開；開著的',closed:'關上的',stop:'停止',wait:'等待',help:'幫助',want:'想要',need:'需要',find:'找到',found:'找到（find 過去式）',make:'製作；使',made:'製作（make 過去式）',take:'拿；帶',took:'拿了（take 過去式）',get:'得到；變得',got:'得到（get 過去式）',put:'放',let:'讓',keep:'保持；保留',kept:'保持（keep 過去式）',turned:'轉動；變成（turn 過去式）',walked:'走路（walk 過去式）',standing:'站著',sat:'坐（sit 過去式）',felt:'感覺（feel 過去式）',heard:'聽見（hear 過去式）',leftover:'剩下的',people:'人們',home:'家',mother:'母親',father:'父親',teacher:'老師',class:'班級；課',classroom:'教室',student:'學生',students:'學生（複數）'
 };
 export const normalizeWord=(word:string)=>word.toLowerCase().replace(/[’‘]/g,"'");
+
+const loadedDefinitions=new Map<string,Word>();
+
+export function indexChapterWords(chapters:{words:Word[]}[]){
+ for(const chapter of chapters){
+  for(const entry of chapter.words){
+   const key=normalizeWord(entry.word);
+   if(entry.meaning&&!loadedDefinitions.has(key))loadedDefinitions.set(key,entry);
+  }
+ }
+}
+
+const dictionary=new Map(Object.entries({...novelDictionary,...baseDictionary}));
+
+// Irregular forms with a single common headword. Ambiguous forms keep their own entries.
+const irregularForms:Record<string,string>={
+ ate:'eat',eaten:'eat',bought:'buy',brought:'bring',caught:'catch',
+ driven:'drive',drove:'drive',fallen:'fall',fell:'fall',gave:'give',given:'give',
+ gone:'go',ran:'run',rose:'rise',spoken:'speak',spoke:'speak',taken:'take',
+ taught:'teach',wore:'wear',worn:'wear',written:'write',wrote:'write'
+};
+
+export function findDefinition(word:string):Word|undefined{
+ const known=loadedDefinitions.get(word);
+ if(known)return {...known,word};
+ const direct=dictionary.get(word);
+ if(direct)return {word,meaning:direct,source:'拾頁內建詞庫'};
+ const forms=[irregularForms[word]];
+ if(word.endsWith("'s"))forms.push(word.slice(0,-2));
+ if(word.endsWith('ies'))forms.push(word.slice(0,-3)+'y');
+ if(word.endsWith('ied'))forms.push(word.slice(0,-3)+'y');
+ if(word.endsWith('ing')||word.endsWith('ed')){
+  const stem=word.slice(0,word.endsWith('ing')?-3:-2);
+  forms.push(stem,stem+'e',stem.replace(/([b-df-hj-np-tv-z])\1$/,'$1'));
+ }
+ if(/(?:ch|sh|ss|zz|x|o)es$/.test(word))forms.push(word.slice(0,-2));
+ if(word.endsWith('s')&&!word.endsWith('ss'))forms.push(word.slice(0,-1));
+ for(const original of forms){
+  const meaning=dictionary.get(original);
+  if(meaning)return {word,meaning,original,source:'拾頁內建詞庫 · 依字形推測'};
+ }
+}

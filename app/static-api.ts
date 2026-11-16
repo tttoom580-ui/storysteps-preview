@@ -1,15 +1,13 @@
 import {stories} from './content';
-import {baseDictionary,normalizeWord} from './dictionary';
+import {indexChapterWords} from './dictionary';
 import {emptyReader} from './reading-model';
 import {canRead,readGrants} from './reading-access';
-import novelDictionary from './data/dictionary-novel.json';
 const nativeFetch=window.fetch.bind(window);
 const json=(value:any,status=200)=>Promise.resolve(new Response(JSON.stringify(value),{status,headers:{'Content-Type':'application/json'}}));
 const read=(key:string,fallback:any)=>{try{return JSON.parse(localStorage.getItem(key)||'null')??fallback}catch{return fallback}};
 let manifestPromise:Promise<any>|null=null;const cache=new Map<string,Promise<any[]>>();
 const manifest=()=>manifestPromise??=nativeFetch(new URL('./content-manifest.json',document.baseURI),{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('無法載入書庫設定');return r.json()}).catch(e=>{manifestPromise=null;throw e});
-function chapters(id:string){if(!cache.has(id))cache.set(id,manifest().then(m=>{const item=m.books[id];if(!item)throw Error('找不到故事');return nativeFetch(new URL(item.url,document.baseURI))}).then(r=>{if(!r.ok)throw Error('故事資料載入失敗');return new Response(r.body!.pipeThrough(new DecompressionStream('gzip'))).json()}).catch(e=>{cache.delete(id);throw e}));return cache.get(id)!}
-const loadedChapters=()=>Promise.all([...cache.values()]).then(xs=>xs.flat());
+function chapters(id:string){if(!cache.has(id))cache.set(id,manifest().then(m=>{const item=m.books[id];if(!item)throw Error('找不到故事');return nativeFetch(new URL(item.url,document.baseURI))}).then(r=>{if(!r.ok)throw Error('故事資料載入失敗');return new Response(r.body!.pipeThrough(new DecompressionStream('gzip'))).json()}).then(data=>{indexChapterWords(data);return data}).catch(e=>{cache.delete(id);throw e}));return cache.get(id)!}
 const guest=()=>read('storysteps-guest',{progress:[],vocab:[],activity:[]});
 const events=()=>read('storysteps-local-opens',{});
 export async function siteFetch(input:any,init?:RequestInit):Promise<Response>{
@@ -21,11 +19,6 @@ export async function siteFetch(input:any,init?:RequestInit):Promise<Response>{
   if(!book||!meta)return json({error:'找不到章節'},404);
   if(!canRead(book.id,meta.number))return json({error:'這一組 4 章尚未解鎖。所有章節都免費，請選擇下方解鎖方式。'},403);
   const c=(await chapters(book.id)).find(c=>c.id===id);return c?json(c):json({error:'本章尚未上架'},404);
- }
- if(path==='/api/dictionary'){
-  const word=normalizeWord(u.searchParams.get('word')||''),all=await loadedChapters();const curated=all.flatMap(c=>c.words||[]).find(w=>normalizeWord(w.word)===word&&w.meaning);const n=(novelDictionary as any)[word];
-  const meaning=curated?.meaning||baseDictionary[word]||(typeof n==='string'?n:n?.meaning);
-  return meaning?json({word,meaning,source:'拾頁內建詞庫'}):json({error:'內建詞庫尚未收錄此字，可點「外部字典」查詢。'},404);
  }
  if(path==='/api/reading'){
   const chapter=post?body.chapter:u.searchParams.get('id'),communityKey='storysteps-local-community',community=read(communityKey,{});

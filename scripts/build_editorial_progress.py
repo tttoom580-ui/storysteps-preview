@@ -2,9 +2,9 @@
 from pathlib import Path
 from html import escape as e
 import json
+from runpy import run_path
 ROOT=Path(__file__).resolve().parents[1]
-src=ROOT/'verification/editorial-triage-20261114.json'
-d=json.loads(src.read_text());s=d['summary']
+d=run_path(str(ROOT/'scripts/audit_editorial_depth.py'))['report'];s=d['summary']
 approvals=json.loads((ROOT/'verification/editorial-approvals.json').read_text())['certifiedBooks']
 rows=[]
 for b in d['books']:
@@ -33,7 +33,7 @@ td,th{{padding:.65em;text-align:left;border-bottom:1px solid #827a9366;vertical-
 {''.join(rows)}
 </tbody></table></div>
 <h2>校訂必須通過的五道關卡</h2><ol><li>逐章檢查劇情發展與跨章雷同</li><li>逐段修改英文自然度、人物與事件時間線</li><li>逐段核對英中翻譯含義</li><li>確認每章至少 500 詞、20 目標詞並核對測驗答案</li><li>只有完成以上關卡才將作品標為「全文已校訂」</li></ol>
-<p>最近一次自動稽核：2026-11-14。<a href="./">返回閱讀網站</a></p>
+<p>規格與重複長句資料按本次上架版本重新計算。<a href="./">返回閱讀網站</a></p>
 </main><script>document.getElementById('search').addEventListener('input',function(){{const q=this.value.trim().toLowerCase();document.querySelectorAll('#books tbody tr').forEach(r=>{{r.hidden=!r.innerText.toLowerCase().includes(q)}})}})</script></body></html>'''
 (ROOT/'public/editorial-progress.html').write_text(html)
 print('EDITORIAL_PROGRESS_PAGE',len(rows),'books',len(html),'bytes')

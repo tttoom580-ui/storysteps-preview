@@ -87,6 +87,16 @@ async function run(label,options){
   // Read a real compressed story chapter, expand translation and verify reader viewport.
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-1',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
+  const firstParagraph=page.locator('[data-paragraph]').first();
+  const firstWord=firstParagraph.getByRole('button',{name:'查詢 The',exact:true}).first();
+  await firstWord.click();
+  const lookup=page.getByRole('dialog',{name:'單字中文翻譯'});
+  await lookup.getByText('這個；那個（定冠詞）',{exact:true}).waitFor();
+  if(await lookup.getAttribute('aria-modal')==='true')throw Error('Lookup blocks reading');
+  await lookup.getByRole('button',{name:'收藏單字'}).click();
+  await lookup.getByRole('button',{name:'已收藏 · 移除'}).waitFor();
+  await page.keyboard.press('Escape');
+  await lookup.waitFor({state:'hidden'});
   await page.locator('.paragraph-tools > summary').first().click();
   await page.locator('.paragraph-translate').first().click();
   await page.locator('[data-paragraph] .translation').first().waitFor();
