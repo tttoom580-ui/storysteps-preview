@@ -148,7 +148,7 @@ export default function Home(){
  }
  function saveBook(id:string){if(!feature.ready){setToast('書架載入中，請稍後再試。');return}feature.update(s=>({...s,books:s.books.includes(id)?s.books.filter(x=>x!==id):[...s.books,id],seen:{...s.seen,[id]:s.seen[id]??stories.find(b=>b.id===id)!.chapters.filter(c=>c.available).length}}))}
  function Cover({s,large=false}:{s:Story;large?:boolean}){return <div className={'cover '+(large?'cover-large':'')} style={{background:s.color}}>{s.cover?<img src={s.cover} alt={s.zh+' AI 插畫封面'} loading={large?'eager':'lazy'}/>:<div className="cover-graphic" aria-hidden="true"><span className="orbit"/><span className="orbit second"/><span className="cover-number">{String(stories.indexOf(s)+1).padStart(2,'0')}</span></div>}<div className="cover-shade"/><span className="cover-series">{s.series?`${s.series} · VOL. ${s.volume}`:'STORYSTEPS ORIGINAL'}</span><div className="cover-words"><span>{s.genre}</span><h3>{s.series?(s.zh.split('：').slice(1).join('：')||s.zh):s.zh}</h3><p>{s.title}</p></div><div className="cover-footer">拾頁原創 <span>25 CHAPTERS</span></div></div>}
- function Card({s}:{s:Story}){const ready=s.chapters.filter(c=>c.available).length;return <article className="book-card"><button className="cover-button" onClick={()=>book(s)} aria-label={'查看 '+s.zh}><Cover s={s}/></button><div className="book-card-copy"><div className="tags"><EditorialStatus story={s}/><span>{levelLabel(s.level)} · 目標詞 {s.level}</span><span>{rangeLabel(s)}</span>{s.sentenceReusePatterns? <span className="quality-warning">部分段落用語重複</span>:null}{(s.tags||[s.genre]).slice(0,2).map(t=><span key={t}>#{t}</span>)}{s.volume&&<span>連載卷 {s.volume}</span>}</div><a className="title-button" href={'./stories/'+s.id+'/'} onClick={e=>{if(!e.metaKey&&!e.ctrlKey&&!e.shiftKey&&!e.altKey){e.preventDefault();book(s)}}}><h3>{s.zh}</h3></a><p>{s.desc}</p><a className="card-preview-link" href={'./stories/'+s.id+'/'} onClick={e=>{if(!e.metaKey&&!e.ctrlKey&&!e.shiftKey&&!e.altKey){e.preventDefault();book(s)}}}>查看故事 →</a><div className="card-bottom"><span>{savedBooks.includes(s.id)&&ready>(feature.state.seen[s.id]||0)?`新增 ${ready-(feature.state.seen[s.id]||0)} 章 · `:''}{ready===25?(isFreeBook(s.id)?'完整 25 章免費':`前 ${previewChapters} 章免費`):`已上架 ${ready} / 25 章`}</span><button aria-label={(savedBooks.includes(s.id)?'移除收藏 ':'收藏 ')+s.zh} className={savedBooks.includes(s.id)?'is-saved':''} onClick={()=>saveBook(s.id)}><Bookmark size={17} fill={savedBooks.includes(s.id)?'currentColor':'none'}/></button></div></div></article>}
+ function Card({s}:{s:Story}){const ready=s.chapters.filter(c=>c.available).length;return <article className="book-card"><button className="cover-button" onClick={()=>book(s)} aria-label={'查看 '+s.zh}><Cover s={s}/></button><div className="book-card-copy"><div className="tags"><EditorialStatus story={s}/><span>{levelLabel(s.level)} · 目標詞 {s.level}</span><span>{rangeLabel(s)}</span>{s.sentenceReusePatterns? <span className="quality-warning">部分段落用語重複</span>:null}{(s.tags||[s.genre]).slice(0,2).map(t=><span key={t}>#{t}</span>)}{s.volume&&<span>連載卷 {s.volume}</span>}</div><a className="title-button" href={'./stories/'+s.id+'/'} onClick={e=>{if(!e.metaKey&&!e.ctrlKey&&!e.shiftKey&&!e.altKey){e.preventDefault();book(s)}}}><h3>{s.zh}</h3></a><p>{s.desc}</p><a className="card-preview-link" href={'./stories/'+s.id+'/'} onClick={e=>{if(!e.metaKey&&!e.ctrlKey&&!e.shiftKey&&!e.altKey){e.preventDefault();book(s)}}}>查看故事 →</a><div className="card-bottom"><span>{savedBooks.includes(s.id)&&ready>(feature.state.seen[s.id]||0)?`新增 ${ready-(feature.state.seen[s.id]||0)} 章 · `:''}{ready===25?(isFreeBook(s.id)?'全本免費':`免費試讀 ${previewChapters} 章`):`已上架 ${ready} / 25 章`}</span><button aria-label={(savedBooks.includes(s.id)?'移除收藏 ':'收藏 ')+s.zh} className={savedBooks.includes(s.id)?'is-saved':''} onClick={()=>saveBook(s.id)}><Bookmark size={17} fill={savedBooks.includes(s.id)?'currentColor':'none'}/></button></div></div></article>}
  const filtered=stories.filter(s=>(!onlyFree||isFreeBook(s.id))&&(editorialFilter==='全部校訂狀態'||editorialFilter===editorialLabel(s))&&(level==='全部'||s.level===level)&&(range==='全部範圍'||s.vocabularyRange===range)&&(genre==='全部題材'||(s.genre===genre||s.tags?.includes(genre)))&&(!onlySaved||savedBooks.includes(s.id))&&(s.title+s.zh+s.desc+(s.tags||[]).join(' ')).toLowerCase().includes(query.toLowerCase().replace(/^#/,'')));
  return <div className={'app theme-'+theme+' view-'+view+(view==='reader'&&comfort.focus?' focus-reading':'')}><header className="header"><button className="brand" onClick={()=>navigate('home')}><img className="brand-wordmark" src="./brand/storysteps-logo-v2.webp" alt="拾頁 StorySteps" width="138" height="52"/></button><nav className="desktop-nav" aria-label="主要導覽">{mainLinks.map(([id,label])=><button key={id} className={view===id?'active':''} onClick={()=>navigate(id)}>{label}</button>)}<button onClick={()=>setModal('more')}>更多</button></nav><div className="header-actions"><button className="theme-toggle" aria-label={theme==='night'?'切換淺色模式':'切換黑暗模式'} aria-pressed={theme==='night'} title={theme==='night'?'切換淺色模式':'切換黑暗模式'} onClick={()=>setTheme(t=>t==='night'?'paper':'night')}>{theme==='night'?<Sun size={20}/>:<Moon size={20}/>}</button><button className="avatar" aria-label="閱讀設定" onClick={()=>setModal('profile')}>{avatar?<span className="animal-avatar" style={{backgroundPosition:avatar.position}} aria-hidden="true"/>:signed?name.slice(0,1):<User size={19}/>}</button></div></header>
  <div className={'layout '+(view==='reader'?'reading-layout':'')}>
@@ -180,18 +180,27 @@ export default function Home(){
   </div>
  </section></>:view==='analytics'?<><GlobalStudy/></>:view==='ranking'?<StoryInsights onRead={read}/>:view==='home'?<><section className="home-intro" aria-labelledby="start-here-title">
   <div className="home-intro-copy">
-   <div>
-    <h1 id="start-here-title">{freeBookCount} 本小說整本免費讀</h1>
-    <p className="home-lead">每本 25 章，選一本直接開始讀。</p>
+   <div className="home-hero-content">
+    <h1 id="start-here-title"><span>把英文讀成故事。</span><small>{freeBookCount} 本小說整本免費讀</small></h1>
+    <p className="home-lead">從喜歡的故事開始，點一下單字就能看中文。</p>
+    <div className="home-hero-actions">
+     <a href="#free-shelf" className="home-hero-cta">挑一本免費小說 <ArrowRight size={18} aria-hidden="true"/></a>
+     {hasResume&&<button className="home-hero-resume" onClick={()=>read(last)}>接續上次閱讀</button>}
+    </div>
    </div>
-   {progress.length>0&&<button className="secondary" onClick={()=>read(last)}>接續上次閱讀 <ArrowRight size={17}/></button>}
+   <div className="home-hero-art" aria-hidden="true">
+    {[freeHomeBooks[2],freeHomeBooks[0],freeHomeBooks[freeHomeBooks.length-1]].map(s=>s?.cover&&
+     <img key={s.id} src={s.cover} alt="" width="320" height="480" decoding="async"/>)}
+   </div>
   </div>
+  <div className="home-shelf-heading" id="free-shelf"><h2>全本免費書架</h2><span>每本 25 章</span></div>
   <div className="home-picks">
    {freeHomeShelves.map(({level,books})=><section key={level} className="home-tier" aria-label={level+' 詞彙級距'}>
-    <h2>{levelLabel(level)} <span>{level}</span></h2>
+    <h3>{levelLabel(level)} <span>{level}</span></h3>
     <div className="home-tier-books">
      {books.map(s=><button className="home-pick" key={s.id} onClick={()=>read(s.chapters[0].id)} aria-label={`免費讀《${s.zh}》第 1 章`}>
       <span className="home-cover" style={{backgroundColor:s.color}}>
+       <span className="home-play"><BookOpen size={17} aria-hidden="true"/></span>
        {s.cover&&<img src={s.cover} alt="" width="320" height="480" loading={level===freeHomeShelves[0]?.level?'eager':'lazy'} decoding="async"/>}
       </span>
       <span className="home-book-copy"><b>{s.zh}</b><small>{s.vocabularyRange} 本 · {s.genre}</small><span className="home-start">開始閱讀 <ArrowRight size={14} aria-hidden="true"/></span></span>
