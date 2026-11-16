@@ -1,19 +1,21 @@
 {
   "version": 1,
-  "updated": "2026-11-14",
+  "updated": "2026-11-16",
   "currency": "TWD",
   "phase": "prelaunch",
   "freeBookIds": [
-    "tomorrow",
-    "ss-r10-l1-a",
-    "ss-r11-l1-a",
+    "import-rain-bell",
     "ss-r2-l1-b",
-    "ss-r10-l2-b",
     "ss-r2-l2-a",
+    "ss-r10-l2-b",
+    "import-last-garden",
     "ss-r10-l3-b",
-    "ss-r10-l4-a",
-    "ss-r10-l5-b",
-    "ss-r10-l6-a"
+    "import-two-histories",
+    "ss-r13-l4-b",
+    "import-third-gate",
+    "ss-r9-l5-b",
+    "ss-r10-l6-a",
+    "import-platform-thirteen"
   ],
   "freeAccess": {
     "scope": "all_25_chapters",
@@ -32,12 +34,13 @@
     "privateBookStorageEnabled": false
   },
   "transitionalAccess": {
-    "legacyFreeUnlock": true,
-    "description": "支付、私有書稿與伺服器驗證完成前，維持現有免費章節及免費四章解鎖，不提供模擬購買、虛構已付款或不可使用的購買按鈕。"
+    "legacyFreeUnlock": false,
+    "description": "分級選書提供全書 25 章免費；其他作品開放前 10 章。全站通行證尚未開賣。"
   },
   "cautions": [
     "尚未提供付款或訂單服務。",
     "此設定是公開商品規格草案，不等於金流上線。",
     "靜態公開書稿不能靠前端鎖定達成付費保護。"
-  ]
+  ],
+  "previewChapters": 10
 }

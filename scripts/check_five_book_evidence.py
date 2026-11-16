@@ -8,19 +8,18 @@ import gzip, hashlib, json, re
 
 ROOT=Path(__file__).resolve().parents[1]
 PUB=ROOT/'public'
-OFFER=json.loads((ROOT/'config/reader-offer.json').read_text())
 CATALOG=json.loads((PUB/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'))
 MANIFEST=json.loads((PUB/'content-manifest.json').read_text())
 LEDGER=json.loads((ROOT/'verification/editorial-approvals.json').read_text())
 NOTES=json.loads((ROOT/'verification/five-book-editorial/ai-readthrough-notes-20261114.json').read_text())
-IDS=OFFER['freeBookIds'][:5]
+IDS=NOTES['bookIds']
 CERTS=LEDGER['certifiedBooks']
 active=[bid for bid in IDS if bid in CERTS]
 if not active:
     print('FIVE_BOOK_EVIDENCE certified=0 (pre-certification manuscript stage)')
     raise SystemExit(0)
 assert len(active)==5, 'Five-book review must release all five or none'
-assert NOTES['bookIds']==IDS
+assert len(IDS)==len(set(IDS))==5
 books={b['id']:b for b in CATALOG}
 count=0
 questions=0

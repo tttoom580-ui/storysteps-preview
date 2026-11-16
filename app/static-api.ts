@@ -17,7 +17,7 @@ export async function siteFetch(input:any,init?:RequestInit):Promise<Response>{
  if(path==='/api/chapter'){
   const id=u.searchParams.get('id'),book=stories.find(b=>b.chapters.some(c=>c.id===id)),meta=book?.chapters.find(c=>c.id===id);
   if(!book||!meta)return json({error:'找不到章節'},404);
-  if(!canRead(book.id,meta.number))return json({error:'這一組 4 章尚未解鎖。所有章節都免費，請選擇下方解鎖方式。'},403);
+  if(!canRead(book.id,meta.number))return json({error:'本章超出免費試讀範圍。全站閱讀通行證尚未開賣。'},403);
   const c=(await chapters(book.id)).find(c=>c.id===id);return c?json(c):json({error:'本章尚未上架'},404);
  }
  if(path==='/api/reading'){

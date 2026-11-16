@@ -4,6 +4,7 @@ import offerData from '../config/reader-offer.json';
 export const readerOffer = offerData;
 const freeIds = new Set<string>(readerOffer.freeBookIds);
 export const isFreeBook = (bookId:string) => freeIds.has(bookId);
+export const previewChapters = readerOffer.previewChapters;
 export const freeBookCount = freeIds.size;
 export const premiumPriceTwd = readerOffer.premium.priceTwd;
 
@@ -14,7 +15,7 @@ export const premiumPriceTwd = readerOffer.premium.priceTwd;
  *
  * Until the merchant payment account, webhook confirmation, account linking,
  * refund handling, and private content hosting are configured, sales fail
- * closed and existing readers keep their free unlocks.
+ * closed until the payment flow is ready.
  */
 export const paidCheckoutIsLive = false;
 export const transitionalFreeUnlock = readerOffer.transitionalAccess.legacyFreeUnlock;
