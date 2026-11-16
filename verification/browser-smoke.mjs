@@ -77,6 +77,13 @@ async function run(label,options){
   await review.getByText('目前沒有到期錯題',{exact:false}).waitFor();
   const libraryNav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'書庫'}):page.locator('.desktop-nav').getByRole('button',{name:'分級書城'});
   await libraryNav.click();
+  const onlyFree=page.getByRole('button',{name:'整本免費',exact:true});
+  await onlyFree.click();
+  if(await page.locator('.book-card').count()!==12)throw Error('Free-only filter must show 12 books');
+  await onlyFree.click();
+  await page.locator('#discover-more > summary').click();
+  await page.getByText('更多篩選',{exact:true}).click();
+
   await page.getByRole('heading',{name:'三分鐘試讀'}).waitFor();
   // Current release: covers are actual assets and six distinct novels are discoverable.
   const latest=page.locator('#new-releases');
@@ -119,6 +126,7 @@ async function run(label,options){
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-10',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
+  await page.getByRole('region',{name:'下一本整本免費小說'}).getByRole('button',{name:'免費讀第 1 章'}).waitFor();
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-11',{waitUntil:'domcontentloaded'});
   await page.getByRole('heading',{name:'前 10 章免費試讀'}).last().waitFor();
   if(await page.locator('[data-paragraph]').count())throw Error('Chapter 11 bypassed the preview limit');
