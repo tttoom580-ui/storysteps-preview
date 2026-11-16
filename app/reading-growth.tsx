@@ -2,7 +2,7 @@ import {useEffect,useRef,useState} from 'react';
 import {stories,levels} from './content';
 import type {Chapter,Story} from './types';
 import {localRead,studyConsent,sendEvent,sendFeedback,studyEndpoint} from './study-service';
-import guideUrl from './reading-guide.json?url';
+import guideUrl from './public-reading-guide.json?url';
 import homeSamples from './reading-guide-samples.json';
 // Heavy chapter guidance is fetched only when a matching reading widget mounts.
 let guidancePromise:Promise<any>|null=null;

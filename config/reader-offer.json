@@ -28,10 +28,11 @@
     "billing": "one_time",
     "advertising": "none_for_paid_account",
     "scope": "all_published_books_at_purchase",
-    "futureBooks": "not_promised",
+    "futureBooks": "excluded",
     "checkoutEnabled": false,
     "serverEntitlementsEnabled": false,
-    "privateBookStorageEnabled": false
+    "privateBookStorageEnabled": false,
+    "serviceUrl": "https://storysteps-premium.tttoom580-storysteps.workers.dev"
   },
   "transitionalAccess": {
     "legacyFreeUnlock": false,

@@ -2,6 +2,7 @@ import {stories} from './content';
 import {indexChapterWords} from './dictionary';
 import {emptyReader} from './reading-model';
 import {canRead,readGrants} from './reading-access';
+import {premiumFetch,savedPremiumKey} from './premium';
 const nativeFetch=window.fetch.bind(window);
 const json=(value:any,status=200)=>Promise.resolve(new Response(JSON.stringify(value),{status,headers:{'Content-Type':'application/json'}}));
 const read=(key:string,fallback:any)=>{try{return JSON.parse(localStorage.getItem(key)||'null')??fallback}catch{return fallback}};
@@ -17,7 +18,12 @@ export async function siteFetch(input:any,init?:RequestInit):Promise<Response>{
  if(path==='/api/chapter'){
   const id=u.searchParams.get('id'),book=stories.find(b=>b.chapters.some(c=>c.id===id)),meta=book?.chapters.find(c=>c.id===id);
   if(!book||!meta)return json({error:'找不到章節'},404);
-  if(!canRead(book.id,meta.number))return json({error:'本章超出免費試讀範圍。全站閱讀通行證尚未開賣。'},403);
+  if(!canRead(book.id,meta.number)){
+   if(!savedPremiumKey())return json({error:'第 11 章起需使用閱讀通行證。'},403);
+   const response=await premiumFetch('chapter?'+new URLSearchParams({book:book.id,id:meta.id}));
+   if(response.ok)indexChapterWords([await response.clone().json()]);
+   return response;
+  }
   const c=(await chapters(book.id)).find(c=>c.id===id);return c?json(c):json({error:'本章尚未上架'},404);
  }
  if(path==='/api/reading'){

@@ -223,3 +223,22 @@
  .word-pocket-search,.word-pocket-search input { width:100%; }
  .word-collection { margin-top:16px; }
 }
+
+.home-start { display:flex;align-items:center;gap:.3rem;margin-top:.3rem;color:var(--accent-text,#6943a0);font-size:.77rem;font-weight:700; }
+[data-theme="night"] .home-start { color:#d8baff; }
+.preview-price { margin:.6rem 0 1.2rem;font-size:.94rem; }
+.preview-price small { display:block;opacity:.8;margin-top:.25rem; }
+.premium-account form { display:grid;gap:.7rem;margin:.9rem 0; }
+.premium-account label { display:grid;gap:.3rem; }
+.premium-account input { min-width:0;width:100%;padding:.6rem .75rem;border:1px solid currentColor;border-radius:8px;background:transparent;color:inherit; }
+.premium-account details { margin-top:.8rem; }
+.premium-account summary { cursor:pointer;min-height:36px; }
+.premium-key-actions { display:flex;flex-wrap:wrap;gap:.5rem; }
+@media (max-width:600px) {
+ .view-reader .reader-paper .prose { overflow-wrap:anywhere; }
+ .view-reader .reader-paper .prose p { margin-block:0 1.05em; }
+ .view-reader .chapter-pagination { display:grid;grid-template-columns:auto minmax(0,1fr);align-items:stretch; }
+ .view-reader .chapter-pagination button { min-height:44px;white-space:normal; }
+ .word-dock .word-modal { max-height: min(46dvh, 20rem); overflow-y:auto; }
+ .word-dock .close { min-width:44px;min-height:44px; }
+}

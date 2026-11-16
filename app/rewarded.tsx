@@ -1,6 +1,8 @@
 import {useState} from 'react';
+import {premiumDescription,usePremium} from './premium';
+import PremiumAccount from './premium-account';
 import {stories} from './content';
-import {readerOffer,isFreeBook,freeBookCount,previewChapters,premiumPriceTwd,paidCheckoutIsLive} from './offer';
+import {readerOffer,isFreeBook,freeBookCount,previewChapters,premiumPriceTwd} from './offer';
 
 export function RewardPanel({story,onRead}:{story:string;chapter?:string;onRead:(id:string)=>void}){
  const book=stories.find(b=>b.id===story);
@@ -10,31 +12,36 @@ export function RewardPanel({story,onRead}:{story:string;chapter?:string;onRead:
   {book&&<button className="secondary" onClick={()=>onRead(book.chapters[previewChapters-1].id)}>回到第 {previewChapters} 章</button>}
  </section>;
 }
-export default function ReadingAccess({onRead}:{onRead:(id:string)=>void}){
+export default function ReadingAccess({onRead,premium,checkoutBook}:{onRead:(id:string)=>void;premium:ReturnType<typeof usePremium>;checkoutBook?:string}){
+ const selected=stories.find(book=>book.id===checkoutBook);
+ const ownsSelected=!!selected&&premium.booksOwned.includes(selected.id);
  const freeBooks=readerOffer.freeBookIds.map(id=>stories.find(b=>b.id===id)).filter(b=>b!==undefined);
  const otherBooks=stories.filter(b=>!isFreeBook(b.id));
  const [id,setId]=useState(otherBooks[0]?.id||stories[0].id);
  return <div className="free-reading-page reader-offer-page">
   <div className="page-top"><div><span className="eyebrow">STORYSTEPS · READING PLANS</span>
-   <h1>{freeBookCount} 本完整免費</h1>
-   <p>規劃一次付費，不是月費。購買後可閱讀目前上架的全部作品，並享無廣告閱讀。<strong>正式付款尚未開通，目前不會收款。</strong></p>
+   <h1>免費閱讀與通行證</h1>
+   <p>{freeBookCount} 本整本免費，其餘作品可免費試讀前 {previewChapters} 章。</p>
   </div></div>
-  <section id="free-books" className="feature-panel"><h2>{freeBookCount} 本完整免費小說</h2>
-   <p>每本從第 1 章到第 25 章直接免費閱讀，依興趣與詞彙級距挑選。</p>
-   <div className="free-book-links">{freeBooks.map(b=><button key={b.id} className="secondary" onClick={()=>onRead(b.chapters[0].id)}><b>{b.zh}</b><small>{b.level} · {b.vocabularyRange} 本 · {b.genre} · 25 章</small></button>)}</div>
-  </section>
   <div className="reader-offer-grid">
    <section className="offer-tier"><span className="eyebrow">FREE FOREVER</span><h2>免費閱讀</h2>
     <strong>NT$0</strong><p>{freeBooks.length} 本指定故事，全部 25 章免費；查詞、翻譯、朗讀與單字複習也免費。</p><p>不需要帳號、解鎖碼或廣告。</p><a className="offer-text-link" href="#free-books">查看免費書單</a>
    </section>
-   <section className="offer-tier offer-premium"><span className="eyebrow">ONE-TIME · PRELAUNCH</span><h2>全站閱讀通行證</h2>
-    <strong>NT{premiumPriceTwd}<small>／一次付費</small></strong>
-    <p>規劃解鎖目前已上架的 {stories.length} 本故事並移除展示廣告，不是月費、不是每本收費。</p>
-    <button className="primary" disabled={!paidCheckoutIsLive}>付款尚未開通</button>
-    <p className="fine">未連接金流，不接受付款。未來新增小說是否包含在通行證內，將在正式販售條款中說明。</p>
+   <section className="offer-tier offer-premium"><span className="eyebrow">一次付費</span><h2>全站閱讀通行證</h2>
+    <strong>NT${premiumPriceTwd}</strong>
+    {selected&&<p className="fine">繼續讀《{selected.zh}》第 {previewChapters+1} 章</p>}
+    <p>{premiumDescription}</p>
+    <p className="fine">適用於購買時方案列出的書目。日後新上架的小說不包含在這次購買內。</p>
+    <PremiumAccount checkout={premium.checkout&&!ownsSelected} connected={premium.connected}
+     active={!!premium.booksOwned.length} onChange={premium.refresh}
+     onContinue={ownsSelected&&selected?()=>onRead(selected.chapters[previewChapters].id):undefined}/>
    </section>
   </div>
-  <section className="feature-panel"><h2>其他故事：過渡期免費試讀</h2>
+  <section id="free-books" className="feature-panel"><h2>{freeBookCount} 本完整免費小說</h2>
+   <p>每本從第 1 章到第 25 章直接免費閱讀，依興趣與詞彙級距挑選。</p>
+   <div className="free-book-links">{freeBooks.map(b=><button key={b.id} className="secondary" onClick={()=>onRead(b.chapters[0].id)}><b>{b.zh}</b><small>{b.level} · {b.vocabularyRange} 本 · {b.genre} · 25 章</small></button>)}</div>
+  </section>
+  <section className="feature-panel"><h2>免費試讀 10 章</h2>
    <p>其他 {otherBooks.length} 本故事各開放前 {previewChapters} 章免費試讀。</p>
    <label className="book-picker">選擇故事<select value={id} onChange={e=>setId(e.target.value)}>{otherBooks.map(b=><option key={b.id} value={b.id}>{b.zh}</option>)}</select></label>
    {otherBooks.length>0&&<button className="primary" onClick={()=>{const first=otherBooks.find(b=>b.id===id)?.chapters[0];if(first)onRead(first.id)}}>開始免費試讀</button>}

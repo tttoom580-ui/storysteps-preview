@@ -167,7 +167,7 @@ async function run(label,options){
   }
   // The curated free tier is complete: the last chapter requires no local grant.
   await page.goto(base+'?purchase=1',{waitUntil:'domcontentloaded'});
-  await page.getByRole('heading',{name:/12 本完整免費/}).first().waitFor();
+  await page.getByRole('heading',{name:/12 本完整免費小說/}).first().waitFor();
   const purchaseButton=page.getByRole('button',{name:'付款尚未開通'});
   if(!(await purchaseButton.isDisabled()))throw Error('Unconfigured checkout must never accept money');
   await page.goto(base+'?book=import-rain-bell&chapter=import-rain-bell-25',{waitUntil:'domcontentloaded'});
@@ -175,6 +175,8 @@ async function run(label,options){
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-10',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   await page.getByRole('region',{name:'下一本整本免費小說'}).getByRole('button',{name:'免費讀第 1 章'}).waitFor();
+  await page.getByRole('button',{name:'繼續讀第 11 章'}).click();
+  await page.locator('.offer-premium').getByText(/繼續讀《.+》第 11 章/).waitFor();
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-11',{waitUntil:'domcontentloaded'});
   await page.getByRole('heading',{name:'前 10 章免費試讀'}).last().waitFor();
   if(await page.locator('[data-paragraph]').count())throw Error('Chapter 11 bypassed the preview limit');
@@ -203,7 +205,7 @@ async function run(label,options){
 }
 let failed=false;
 try{
- await ready();browser=await chromium.launch({headless:true});
+ await ready();browser=await chromium.launch({headless:true,executablePath:process.env.STORYSTEPS_CHROMIUM||undefined});
  await run('desktop',{viewport:{width:1365,height:900}});
  await run('mobile',{...devices['iPhone 13'],isMobile:true,hasTouch:true});
 }catch(error){failed=true;console.error(error)}

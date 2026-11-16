@@ -7,14 +7,3 @@ export const isFreeBook = (bookId:string) => freeIds.has(bookId);
 export const previewChapters = readerOffer.previewChapters;
 export const freeBookCount = freeIds.size;
 export const premiumPriceTwd = readerOffer.premium.priceTwd;
-
-/**
- * A paid entitlement must ultimately be verified by a trusted server that
- * protects non-public manuscripts. Never use localStorage, URL flags, or
- * client-only "purchase" data to grant premium access.
- *
- * Until the merchant payment account, webhook confirmation, account linking,
- * refund handling, and private content hosting are configured, sales fail
- * closed until the payment flow is ready.
- */
-export const paidCheckoutIsLive = false;

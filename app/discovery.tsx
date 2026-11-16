@@ -2,7 +2,7 @@ import {sendEvent} from './study-service';
 import {useEffect,useRef,useState} from 'react';
 import {stories,levels} from './content';
 import type {Story,Chapter} from './types';
-import previewsUrl from './story-previews.json?url';
+import previewsUrl from './public-story-previews.json?url';
 // Delay approximately 1MB of story summaries until a preview component is visible.
 let previewsPromise:Promise<any>|null=null;
 const loadPreviews=()=>previewsPromise??=fetch(previewsUrl).then(r=>{if(!r.ok)throw Error('Unable to load story previews');return r.json()}).catch(e=>{previewsPromise=null;throw e});

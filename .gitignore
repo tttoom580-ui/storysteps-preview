@@ -1,3 +1,6 @@
 node_modules/
 dist/
 .openai/
+.premium-private/
+.wrangler/
+app/public-*.json

@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
-import {readFileSync,existsSync} from 'node:fs';
+import {readFileSync,existsSync,readdirSync} from 'node:fs';
+import {gunzipSync} from 'node:zlib';
 
 const offer=JSON.parse(readFileSync('config/reader-offer.json','utf8'));
 const catalog=JSON.parse(readFileSync('public/catalog.js','utf8').split('=',2)[1].replace(/;\s*$/,''));
@@ -13,7 +14,8 @@ assert.equal(offer.premium.billing,'one_time','Not a subscription');
 assert.equal(offer.premium.advertising,'none_for_paid_account');
 for(const field of ['checkoutEnabled','serverEntitlementsEnabled','privateBookStorageEnabled'])
  assert.equal(offer.premium[field],false,'Do not claim secure checkout before '+field);
-const manifest=JSON.parse(readFileSync('public/content-manifest.json','utf8'));
+const manifest=JSON.parse(readFileSync('docs/content-manifest.json','utf8'));
+assert.equal(readdirSync('docs/books').length,available.size,'No stale full-book blobs in deployment');
 assert.equal(available.size,catalog.length,'All catalog books must be readable');
 assert.equal(available.size,Object.keys(manifest.books).length,'Catalog and book manifest must agree');
 assert(available.size>=93,'Previously published novels must remain available after import');
@@ -27,6 +29,14 @@ for(const book of catalog){
  assert.equal(book.chapters.length,25);
  assert(book.chapters.every(c=>c.available));
  const limit=free.has(book.id)?25:offer.previewChapters;
+ const chapters=JSON.parse(gunzipSync(readFileSync('docs/'+manifest.books[book.id].url)));
+ assert.deepEqual(chapters.map(c=>c.id),book.chapters.slice(0,limit).map(c=>c.id));
+ assert.equal(manifest.books[book.id].chapters,limit);
+ const blockedIds=new Set(book.chapters.slice(limit).map(c=>c.id));
+ for(const name of ['story-previews','reading-guide']){
+  const data=JSON.parse(readFileSync('app/public-'+name+'.json','utf8')).chapters;
+  assert(![...blockedIds].some(id=>id in data),'Locked excerpts must stay out of published reader data');
+ }
  for(let n=1;n<=25;n++)assert.equal(existsSync('public/stories/'+book.id+'/chapter-'+n+'.html'),n<=limit,book.id+' '+n);
 }
 const plans=readFileSync('public/plans.html','utf8');
