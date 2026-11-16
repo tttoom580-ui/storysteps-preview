@@ -153,7 +153,8 @@ privacy=privacy.replace('<main>','<main><section class="note"><h2>2026 年 11 �
 (P/'privacy.html').write_text(privacy)
 
 # The app replaces this ordinary, visible fallback after loading. The same book URLs remain linked in the app.
-fallback=f'<section class="crawl-home"><h1>拾頁 StorySteps：讀故事學英文</h1><p>{len(cat)} 本分級英文故事，其中 {len(free_books)} 本完整免費；NT$100 一次付費全站方案籌備中，目前不收款。</p>'+nav+'<ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat)+'</ul></section>'
+free_home_links=''.join('<li>'+link('stories/'+key+'/chapter-1.html',next(b['zh'] for b in cat if b['id']==key))+'</li>' for key in offer['freeBookIds'])
+fallback=f'<section class="crawl-home"><h1>{free_count} 本小說整本免費讀</h1><p>每本 25 章，英中對照。其他小說開放前 {preview} 章免費試讀。</p><h2>整本免費書單</h2><ul>{free_home_links}</ul>'+nav+'<h2>完整書目</h2><ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat)+'</ul></section>'
 p=R/'index.html';s=p.read_text();s=re.sub(r'拾頁 StorySteps — \d+ 本分級英文小說',f'拾頁 StorySteps — {len(cat)} 本分級英文小說',s);s=re.sub(r'<div id="root">.*?</div>(?=<script src=)',lambda m:'<div id="root">'+fallback+'</div>',s,flags=re.S);s=s.replace('</head>','<link rel="canonical" href="'+BASE+'"></head>') if 'rel="canonical"' not in s else s;s=s.replace('</head>',RUM_BEACON+'</head>') if RUM_TOKEN not in s else s
 p.write_text(s)
 namespace='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',namespace);sm=ET.Element('{'+namespace+'}urlset')

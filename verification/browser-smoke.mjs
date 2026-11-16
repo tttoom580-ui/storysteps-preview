@@ -35,6 +35,12 @@ async function run(label,options){
  try{
   await page.goto(base,{waitUntil:'domcontentloaded'});
   await page.locator('.header').waitFor();
+  const freeHome=page.getByRole('region',{name:/12 本小說/});
+  await freeHome.getByRole('button',{name:'看全部免費書單'}).waitFor();
+  if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==3)throw Error('Homepage must lead with three complete free books');
+  await freeHome.getByRole('button',{name:'免費讀《雨來之前的鐘聲》第 1 章'}).click();
+  await page.locator('[data-paragraph]').first().waitFor();
+
   const nav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'閱讀',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'閱讀中心'});
   await nav.click();
   await page.getByRole('heading',{name:/跨裝置同步/}).first().waitFor();
