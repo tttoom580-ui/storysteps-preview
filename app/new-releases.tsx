@@ -2,8 +2,7 @@ import {ArrowRight,BookOpen,CheckCircle2} from 'lucide-react';
 import {stories,editorialLabel} from './content';
 import type {Story} from './types';
 
-const releaseIds=['ss-r12-l1-b','ss-r12-l2-a','ss-r12-l3-a','ss-r12-l5-a','ss-r12-l6-b'];
-const releases=releaseIds.map(id=>stories.find(s=>s.id===id)).filter((s):s is Story=>Boolean(s));
+const releases=stories.filter(story=>story.id.startsWith('ss-r13-'));
 
 /** Book metadata comes from the published catalog; the links use the existing reader. */
 export default function NewReleases({onBook,onRead}:{onBook:(story:Story)=>void;onRead:(chapterId:string)=>void}){
@@ -12,7 +11,7 @@ export default function NewReleases({onBook,onRead}:{onBook:(story:Story)=>void;
   <div className="release-shelf-header">
    <div><span className="eyebrow">JUST ADDED · NOVEMBER 2026</span>
     <h2 id="release-shelf-heading">新的故事，現在開讀。</h2>
-    <p>5 本新書・125 章英中對照・從第一章免費試讀。</p>
+    <p>{releases.length} 本新書・{releases.reduce((sum,story)=>sum+story.chapters.length,0)} 章英中對照・從第一章免費試讀。</p>
    </div>
    <span className="release-shelf-hint"><BookOpen size={16}/> 向右瀏覽更多故事</span>
   </div>

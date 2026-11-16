@@ -90,7 +90,7 @@ def card_cover(book):
  if not cover:return ''
  return f'<a href="{href("stories/"+book["id"]+"/")}"><img class="library-cover" src="{esc(href(cover.removeprefix("./")))}" alt="{esc(book["zh"])}封面" loading="lazy" decoding="async"></a>'
 cards=''.join(f'<article class="card library-card">{card_cover(b)}<p class="muted">{esc(b["level"])} · {esc(b["genre"])}</p><h2>{link("stories/"+b["id"]+"/",b["zh"])}</h2><p><strong>{editorial_label(b)}</strong></p><p class="muted">{("完整 25 章免費" if b["id"] in free_books else "NT$100 全站通行證籌備中；目前免費試讀")}</p><p>{esc(b["hook"])}</p>{link("stories/"+b["id"]+"/chapter-1.html","免費讀第 1 章")}</article>' for b in cat)
-latest_new=[b for b in cat if b['id'].startswith('ss-r12-')]
+latest_new=[b for b in cat if b['id'].startswith('ss-r13-')]
 latest_section=('<section class="note"><h2>最新上架 · '+str(len(latest_new))+' 本</h2><p>每本收錄 25 章，前五章可直接試讀。</p><ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+' · '+esc(b['level'])+'</li>' for b in latest_new)+'</ul></section>') if latest_new else ''
 page('library.html','分級英文故事完整書目',f'<h1>分級英文故事書庫</h1>{latest_section}<section class="note"><h2>A／B 與閱讀方式</h2><p>A 本代表本站同級配詞前約 500 詞，B 本代表後約 500 詞（部分原表各 501 詞）；這是本站拆分方式，不是故事上下集。詞彙分級參考大考中心配合教育部 108 英語文課綱編修的《高中英文參考詞彙表》（官方六級）；本站第七級為自訂進階配詞。<a href="about.html#vocabulary-source">查看官方來源與分級說明</a>。每天讀一章，25 天讀完一本，餘下時間複習；同級 A、B 各讀一本，約兩個月接觸 1,000 個目標詞，並搭配間隔複習。同範圍可以選不同故事複習。先依興趣與級距選書，從第 1 章開始讀英文；需要時看中文，或到互動版查詞與朗讀，最後複習章末單字及已提供的測驗。</p></section><p>目前 {len(cat)} 本、{len(cat)*25} 章；其中 {len(free_books)} 本完整 25 章免費。NT$100 一次付費的全站無廣告通行證尚未開賣，其他故事仍保留過渡期的前 5 章試讀與每 4 章免費解鎖。</p><p>{link("editorial.html","內容製作與校訂狀態")}</p><div class="book-grid">{cards}</div>',f'{len(cat)} 本分級英文小說，免費試讀英中對照正文，包含詞彙與已收錄的閱讀測驗。')
 

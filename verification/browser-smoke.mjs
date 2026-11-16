@@ -72,12 +72,12 @@ async function run(label,options){
   const libraryNav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'書庫'}):page.locator('.desktop-nav').getByRole('button',{name:'分級書城'});
   await libraryNav.click();
   await page.getByRole('heading',{name:'三分鐘試讀'}).waitFor();
-  // Current release: covers are actual assets and five distinct novels are discoverable.
+  // Current release: covers are actual assets and six distinct novels are discoverable.
   const latest=page.locator('#new-releases');
   await latest.getByRole('heading',{name:'新的故事，現在開讀。'}).waitFor();
-  if(await latest.locator('.release-item').count()!==5)throw Error('Five latest releases are not visible in library');
+  if(await latest.locator('.release-item').count()!==6)throw Error('Six latest releases are not visible in library');
   const latestCovers=latest.locator('.release-item img');
-  if(await latestCovers.count()!==5)throw Error('Latest releases must all have covers');
+  if(await latestCovers.count()!==6)throw Error('Latest releases must all have covers');
   await latestCovers.first().evaluate(async image=>{
     if(!image.complete)await new Promise((resolve,reject)=>{image.addEventListener('load',resolve,{once:true});image.addEventListener('error',reject,{once:true})});
     if(!image.naturalWidth)throw Error('Latest release cover did not load');
@@ -138,6 +138,11 @@ async function run(label,options){
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   const newBookHeading=await page.locator('body').innerText();
   if(!newBookHeading.includes('雨後的綠色箱子'))throw Error('Newly imported story not readable');
+  const batch13=['ss-r13-l1-a','ss-r13-l2-b','ss-r13-l3-b','ss-r13-l4-b','ss-r13-l5-b','ss-r13-l6-a'];
+  for(const id of batch13){
+   await page.goto(base+'?book='+id+'&chapter='+id+'-1',{waitUntil:'domcontentloaded'});
+   await page.locator('[data-paragraph]').first().waitFor({timeout:10000});
+  }
   if(errors.length)throw Error(label+' JS errors: '+errors.join('; '));
   console.log(JSON.stringify({device:label,ok:true,sync:true,theme:true}));
  }finally{await context.close()}

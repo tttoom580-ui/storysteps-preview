@@ -1,0 +1,90 @@
+{
+  "books": 6,
+  "chapters": 150,
+  "results": [
+    {
+      "id": "ss-r13-l1-a",
+      "title": "紅色公車的第二張時刻表",
+      "code": "1A",
+      "source": "StorySteps_1A_紅色公車的第二張時刻表_全新第5版_完整25章.md",
+      "sourceSha256": "dc65b96b9c0367997f975eb92f02b550237d5d32ec220af160263d6ccc1222e5",
+      "payloadSha256": "995c8a3cf59803b38b8a0b3e0db9941303fe285c10a3a9bf35d1e77162cce7d2",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 176,
+      "minWords": 668,
+      "repeatedLongSentenceTypes": 0
+    },
+    {
+      "id": "ss-r13-l2-b",
+      "title": "留給明天的燈光",
+      "code": "2B",
+      "source": "2B_留給明天的燈光_25章完整雙語稿.md",
+      "sourceSha256": "de6a2a9cd3f6900c6741895254bdbe4688d4e18224a724f21b8ee6d33d7e0464",
+      "payloadSha256": "ffa017e383d56e2d9ccbf8dec552c244933c08f63fe2498129bc48a5882557ea",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 175,
+      "minWords": 626,
+      "repeatedLongSentenceTypes": 0
+    },
+    {
+      "id": "ss-r13-l3-b",
+      "title": "讓水面記住我們的舞步",
+      "code": "3B",
+      "source": "StorySteps_3B_第八版_讓水面記住我們的舞步_完整25章.md",
+      "sourceSha256": "f69d9625d5d2dd5919a07b243e731c1ebd0e1b23d1b527b3758de5fe9950faf8",
+      "payloadSha256": "7136eef5bc7f7c35ac310a62e46f235d03051296fdd39afb01390424b7ecd204",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 149,
+      "minWords": 601,
+      "repeatedLongSentenceTypes": 0
+    },
+    {
+      "id": "ss-r13-l4-b",
+      "title": "1998，長堤種子行的第七號紙袋",
+      "code": "4B",
+      "source": "4B_1998長堤種子行的第七號紙袋_全25章.md",
+      "sourceSha256": "9b33f77d7d6a1a185e7ef186b01f417ef57ea4b18bc2e74c5b3e8f1ee09da3c4",
+      "payloadSha256": "9f4271dbd395b19fa422c63e3a3cffbc23f0e27fb5aa4bb069af40b474d97a3a",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 125,
+      "minWords": 626,
+      "repeatedLongSentenceTypes": 0
+    },
+    {
+      "id": "ss-r13-l5-b",
+      "title": "借火山河：冬路的兩個修士",
+      "code": "5B",
+      "source": "5B_借火山河_冬路的兩個修士_25章全新第五版.md",
+      "sourceSha256": "62dc6638a42a3cb7de436b3655ed1bb831e60fcc8ae582b14f3bdc08dcf6b57b",
+      "payloadSha256": "9b47904258a4a5c81524f1f3d8bb490f66bf88c83ca9161ed7360e927ad85f3d",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 200,
+      "minWords": 624,
+      "repeatedLongSentenceTypes": 92
+    },
+    {
+      "id": "ss-r13-l6-a",
+      "title": "我不替王冠翻譯謊言",
+      "code": "6A",
+      "source": "6A_我不替王冠翻譯謊言_全新第十部25章雙語小說.md",
+      "sourceSha256": "17b168c3d42344ce8b7fa0d45900ed107aee6480826ed1860b59f86160016813",
+      "payloadSha256": "9166ac64c703e21080fccfc90db7f9123901d7fe70de3a28d3f77fce2f5a110e",
+      "chapters": 25,
+      "questions": 50,
+      "targetEntries": 501,
+      "bilingualPairs": 250,
+      "minWords": 630,
+      "repeatedLongSentenceTypes": 50
+    }
+  ]
+}
