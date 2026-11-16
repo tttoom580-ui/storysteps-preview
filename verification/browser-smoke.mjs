@@ -82,7 +82,7 @@ async function run(label,options){
     if(!image.complete)await new Promise((resolve,reject)=>{image.addEventListener('load',resolve,{once:true});image.addEventListener('error',reject,{once:true})});
     if(!image.naturalWidth)throw Error('Latest release cover did not load');
   });
-  await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'基礎校訂完成'});
+  await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'校訂完成'});
   await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'全部校訂狀態'});
   // Read a real compressed story chapter, expand translation and verify reader viewport.
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-1',{waitUntil:'domcontentloaded'});
@@ -132,7 +132,7 @@ async function run(label,options){
   await page.locator('#search').fill('萬味渡口');
   if(await editorialRows.filter({visible:true}).count()!==1)throw Error('Editorial filter did not isolate one book');
   const auditContent=await editorialRows.filter({visible:true}).first().innerText();
-  if(!auditContent.includes('基礎校訂完成'))throw Error('Editorial review is incorrectly marked complete');
+  if(!auditContent.includes('校訂完成'))throw Error('Editorial review is incorrectly marked complete');
   // New batch: open a genuinely imported first chapter, not merely catalog metadata.
   await page.goto(base+'?book=ss-r11-l1-a&chapter=ss-r11-l1-a-1',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});

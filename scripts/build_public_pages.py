@@ -11,8 +11,7 @@ assert not offer['premium']['checkoutEnabled'] and not offer['premium']['private
 esc=lambda s:html.escape(str(s),quote=True)
 def href(path):return BASE+path
 def editorial_label(book):
- if book.get('learningReviewRequired') is False:return 'AI 全文已校訂'
- return '基礎校訂完成' if book.get('basicEditorialReviewed') else '校訂中'
+ return '校訂完成' if book.get('learningReviewRequired') is False or book.get('basicEditorialReviewed') else '校訂中'
 
 css='''*{box-sizing:border-box}html{color-scheme:light dark;font-family:system-ui,-apple-system,"Noto Sans TC",sans-serif;line-height:1.85;background:#faf8fd;color:#302c3c}body{margin:0}header,main,footer{max-width:940px;margin:auto;padding:24px}header{border-bottom:1px solid #d9d1e4;display:flex;flex-wrap:wrap;gap:20px}a{color:#7051a3;text-underline-offset:4px}nav{display:flex;gap:18px;flex-wrap:wrap}main{min-height:65vh}h1{line-height:1.45;font-size:clamp(25px,4vw,36px)}h2{font-size:22px}p{margin:1em 0}img.cover{width:160px;max-width:45%;height:auto;border-radius:12px;float:right;margin:0 0 20px 20px}.book-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px}.card,.note,details{border:1px solid #d9d1e4;border-radius:14px;padding:20px;margin:18px 0;background:#fff}small,.muted{color:#71687e}.en{font-family:Georgia,serif;font-size:21px;line-height:1.95}.zh{border-left:3px solid #b3a0d0;padding-left:18px;color:#6f627e}.chapter-section{margin:34px 0}.button{display:inline-block;background:#7653ac;color:#fff;padding:10px 18px;border-radius:9px;text-decoration:none;margin:5px 10px 5px 0}ol{padding-left:25px}li{margin:9px 0}summary{cursor:pointer}footer{border-top:1px solid #d9d1e4;font-size:13px}.chapter-nav{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid #d9d1e4;text-align:left;padding:10px}a:focus-visible,summary:focus-visible{outline:3px solid #8862bd;outline-offset:4px}@media(prefers-color-scheme:dark){html{background:#171820;color:#eeeaf5}.card,.note,details{background:#22232e;border-color:#454051}a{color:#d0b4ff}small,.muted,.zh{color:#c6bbd3}header,footer,td,th{border-color:#454051}.button{background:#aa8be1;color:#1c1428}}'''
 # Complementary typography for the accessible HTML reading edition.
@@ -35,6 +34,8 @@ p{line-height:1.9}
 .card{transition:box-shadow .2s,transform .2s}
 .card:hover{box-shadow:0 10px 28px #2d244116;transform:translateY(-2px)}
 .card h2{font-size:20px;margin-bottom:12px}
+.library-card{margin:0;overflow:hidden}
+.library-cover{width:100%;aspect-ratio:5/3;object-fit:cover;object-position:center 35%;display:block;border-radius:9px}
 .button{background:var(--page-purple);border-radius:11px;font-weight:700;min-height:44px;display:inline-flex;align-items:center}
 .button:hover{filter:brightness(1.08)}
 .en{font-family:Georgia,serif;line-height:2.05;font-size:clamp(19px,2.6vw,22px);color:var(--page-ink)}
@@ -84,7 +85,11 @@ for b in cat:
   page(path+f'chapter-{i}.html',b['zh']+'｜第 '+str(i)+' 章 '+c['zh'],body,b['hook']+' 第 '+str(i)+' 章英中對照。',True)
  body=cover+f'<p class="muted">{esc(b["level"])} · {esc(b["genre"])}</p><h1>{esc(b["zh"])}</h1><p lang="en">{esc(b["title"])}</p><p>{esc(b["desc"])}</p><a class="button" href="{href(path+"chapter-1.html")}">直接讀第 1 章</a><a href="{href("?book="+id)}">開啟互動版書頁</a><p class="note"><strong>{editorial_label(b)}</strong> · 本書已收錄 25 章。{esc(b.get("importNote") or "")} {link("editorial-progress.html","查看校訂進度")}</p><p class="note">{("本書 25 章完整免費，不需廣告、付款或解鎖。" if id in free_books else "全站通行證 NT$100 尚未開賣；其他小說過渡期可免費試讀與解鎖。")}</p><h2>章節目錄</h2><ol>{"".join(toc)}</ol>'
  page(path+'index.html',b['zh'],body,b['hook'],True,{'@context':'https://schema.org','@type':'Book','name':b['zh'],'alternateName':b['title'],'inLanguage':['en','zh-Hant'],'description':b['desc'],'url':href(path+'index.html')})
-cards=''.join(f'<article class="card"><p class="muted">{esc(b["level"])} · {esc(b["genre"])}</p><h2>{link("stories/"+b["id"]+"/",b["zh"])}</h2><p><strong>{editorial_label(b)}</strong></p><p class="muted">{("完整 25 章免費" if b["id"] in free_books else "NT$100 全站通行證籌備中；目前免費試讀")}</p><p>{esc(b["hook"])}</p>{link("stories/"+b["id"]+"/chapter-1.html","免費讀第 1 章")}</article>' for b in cat)
+def card_cover(book):
+ cover=book.get('cover')
+ if not cover:return ''
+ return f'<a href="{href("stories/"+book["id"]+"/")}"><img class="library-cover" src="{esc(href(cover.removeprefix("./")))}" alt="{esc(book["zh"])}封面" loading="lazy" decoding="async"></a>'
+cards=''.join(f'<article class="card library-card">{card_cover(b)}<p class="muted">{esc(b["level"])} · {esc(b["genre"])}</p><h2>{link("stories/"+b["id"]+"/",b["zh"])}</h2><p><strong>{editorial_label(b)}</strong></p><p class="muted">{("完整 25 章免費" if b["id"] in free_books else "NT$100 全站通行證籌備中；目前免費試讀")}</p><p>{esc(b["hook"])}</p>{link("stories/"+b["id"]+"/chapter-1.html","免費讀第 1 章")}</article>' for b in cat)
 latest_new=[b for b in cat if b['id'].startswith('ss-r12-')]
 latest_section=('<section class="note"><h2>最新上架 · '+str(len(latest_new))+' 本</h2><p>每本收錄 25 章，前五章可直接試讀。</p><ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+' · '+esc(b['level'])+'</li>' for b in latest_new)+'</ul></section>') if latest_new else ''
 page('library.html','分級英文故事完整書目',f'<h1>分級英文故事書庫</h1>{latest_section}<section class="note"><h2>A／B 與閱讀方式</h2><p>A 本代表本站同級配詞前約 500 詞，B 本代表後約 500 詞（部分原表各 501 詞）；這是本站拆分方式，不是故事上下集。詞彙分級參考大考中心配合教育部 108 英語文課綱編修的《高中英文參考詞彙表》（官方六級）；本站第七級為自訂進階配詞。<a href="about.html#vocabulary-source">查看官方來源與分級說明</a>。每天讀一章，25 天讀完一本，餘下時間複習；同級 A、B 各讀一本，約兩個月接觸 1,000 個目標詞，並搭配間隔複習。同範圍可以選不同故事複習。先依興趣與級距選書，從第 1 章開始讀英文；需要時看中文，或到互動版查詞與朗讀，最後複習章末單字及已提供的測驗。</p></section><p>目前 {len(cat)} 本、{len(cat)*25} 章；其中 {len(free_books)} 本完整 25 章免費。NT$100 一次付費的全站無廣告通行證尚未開賣，其他故事仍保留過渡期的前 5 章試讀與每 4 章免費解鎖。</p><p>{link("editorial.html","內容製作與校訂狀態")}</p><div class="book-grid">{cards}</div>',f'{len(cat)} 本分級英文小說，免費試讀英中對照正文，包含詞彙與已收錄的閱讀測驗。')
@@ -104,7 +109,7 @@ page('contact.html','聯絡與勘誤','''<h1>聯絡與勘誤</h1><p>拾頁由本
 page('editorial.html','內容製作與校訂狀態',
   f'<h1>內容製作與校訂狀態</h1><p>目前書庫收錄 {len(cat)} 本完整原稿、{len(cat)*25} 章英中故事。小說、翻譯與詞彙資料使用 AI 輔助製作，站主負責篩選、版本管理與勘誤。</p>'
   '<h2>完整匯入不等於全文校訂</h2><p>章節、詞數、英中段落、詞彙字面出現和閱讀測驗格式可以用程式驗證；英文自然度、中文譯意、故事連貫性和測驗教學品質仍需逐章閱讀與修訂。本站不把機器檢查說成真人編輯認證。</p>'
-  '<p>「基礎校訂完成」表示已檢查章節、英中正文、配詞和測驗格式，並清理可安全刪除的跨章重複敘述。「AI 全文已校訂」另有逐段語意、情節和測驗答案的校訂紀錄。</p>'
+  '<p>「校訂完成」表示已通過這輪章節、英中正文、配詞與測驗格式檢查，並處理可確認對應的重複敘述。逐段語意、情節與測驗答案的複核紀錄可在進度頁查看。</p>'
   +link('editorial-progress.html','查看完整逐書校訂進度')
   +'<h2>勘誤與更新</h2><p>優先修正重大錯譯、題目矛盾、跨章重複、內容不連續。新書會保留尚待校訂標記，不因上架而自動取得全文通過資格。</p>'
   +link('contact.html','回報勘誤'))
