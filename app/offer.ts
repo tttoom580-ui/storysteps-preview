@@ -18,4 +18,3 @@ export const premiumPriceTwd = readerOffer.premium.priceTwd;
  * closed until the payment flow is ready.
  */
 export const paidCheckoutIsLive = false;
-export const transitionalFreeUnlock = readerOffer.transitionalAccess.legacyFreeUnlock;

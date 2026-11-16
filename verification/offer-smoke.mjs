@@ -34,6 +34,6 @@ assert(plans.includes('NT$100')&&plans.includes('尚未開通'),'Prelaunch check
 assert(plans.includes(free.size+' 本小說完整免費'));
 assert(plans.includes('私有'),'Private storage prerequisite is required');
 const privacy=readFileSync('public/privacy.html','utf8');
-assert(privacy.includes('展示及獎勵廣告目前預設關閉'),'Ad policy must be consistent');
+assert(privacy.includes('展示廣告目前預設關閉'),'Ad policy must be consistent');
 assert(!plans.includes('href="https://checkout'),'Do not add a fictitious checkout link');
 console.log('PASS: '+free.size+' fully free 25-chapter books, '+(available.size-free.size)+' other books with ten free chapters, all covers verified');
