@@ -105,3 +105,28 @@
 @media(prefers-reduced-motion:reduce) {
  .app .home-play,.app .book-card { transition:none; }
 }
+
+.app .header-actions { gap:clamp(4px,1.2vw,14px); }
+.app .header-pass { min-height:40px;padding:7px 14px;border-radius:999px;background:var(--lavender);color:var(--purple);font-weight:800;white-space:nowrap; }
+.app .header-pass:hover,.app .header-pass[aria-current="page"] { background:var(--purple);color:var(--paper); }
+.app .footer-privacy { padding:0;color:inherit;font-size:inherit;text-align:left;text-decoration:underline;text-underline-offset:3px; }
+.app .mobile-nav { grid-template-columns:repeat(4,minmax(0,1fr)); }
+.trial-shelf { margin:36px 0;padding:clamp(16px,3.2vw,34px);background:var(--panel);border:1px solid var(--line);border-radius:28px; }
+.trial-shelf-header { display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:22px; }
+.trial-shelf-header h2 { margin:0;font-weight:850;letter-spacing:-.04em;font-size:clamp(1.4rem,3vw,2rem); }
+.trial-shelf-header p { margin:4px 0 0;color:var(--muted); }
+.trial-shelf-grid { display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:24px clamp(10px,1.7vw,20px);list-style:none;padding:0;margin:0; }
+.trial-book { display:grid;text-align:left;gap:8px;width:100%;padding:0;color:var(--ink);border-radius:11px; }
+.trial-cover { position:relative;isolation:isolate;display:block;aspect-ratio:2/3;overflow:hidden;border-radius:11px;box-shadow:0 7px 16px #1f133129; }
+.trial-cover img { width:100%;height:100%;object-fit:cover;display:block;transition:transform .22s ease; }
+.trial-book:hover img { transform:scale(1.045); }
+.trial-book-copy { display:grid;gap:4px;padding:0 2px;overflow-wrap:anywhere;line-height:1.45; }
+.trial-book-copy small { color:var(--muted);font-size:.75rem; }
+.trial-expand { display:block;margin:22px auto 0; }
+@media(max-width:900px) { .trial-shelf-grid { grid-template-columns:repeat(3,minmax(0,1fr)); } }
+@media(max-width:520px) {
+ .app .header-pass { padding-inline:8px;font-size:.72rem; }
+ .app .header .brand-wordmark { width:clamp(81px,27vw,106px);height:auto; }
+ .trial-shelf-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+}
+@media(prefers-reduced-motion:reduce) { .trial-cover img { transition:none; } }

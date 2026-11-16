@@ -35,11 +35,19 @@ async function run(label,options){
  try{
   await page.goto(base,{waitUntil:'domcontentloaded'});
   await page.locator('.header').waitFor();
-  const moreNav=page.locator(label==='mobile'?'.mobile-nav':'.desktop-nav');
-  await moreNav.getByRole('button',{name:'更多',exact:true}).click();
-  const more=page.getByRole('dialog',{name:'更多功能'});
-  if(await more.locator('.more-links button').count()!==2)throw Error('More menu should omit paused submissions');
-  await more.getByRole('button',{name:'關閉視窗'}).click();
+  const passLink=page.locator('.header').getByRole('button',{name:'免費閱讀與通行證',exact:true});
+  await passLink.click();
+  await page.getByRole('heading',{name:'免費閱讀與通行證',exact:true}).waitFor();
+  await page.locator('footer').getByRole('button',{name:'網站與隱私',exact:true}).click();
+  await page.getByRole('heading',{name:'閱讀紀錄，怎麼保存？'}).waitFor();
+  await page.getByRole('button',{name:'關閉視窗'}).click();
+  await page.locator('.header').getByRole('button',{name:'拾頁 StorySteps'}).click();
+  const trialShelf=page.getByRole('region',{name:'免費試讀 10 章',exact:true});
+  const trialButtons=trialShelf.getByRole('button',{name:/試讀《/});
+  if(await trialButtons.count()!==6)throw Error('Homepage must show six trial picks initially');
+  await trialShelf.getByRole('button',{name:/展開全部/}).click();
+  if(await trialButtons.count()<=6)throw Error('Homepage should expand to show the full trial shelf');
+  await trialShelf.getByRole('button',{name:'收起其他試讀書'}).click();
   const freeHome=page.getByRole('region',{name:/12 本小說/});
   await freeHome.waitFor();
   if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==12)throw Error('Homepage must show all 12 complete free books');
