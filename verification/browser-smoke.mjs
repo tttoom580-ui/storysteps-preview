@@ -49,6 +49,13 @@ async function run(label,options){
   const nav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'閱讀',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'閱讀中心'});
   await nav.click();
   await page.getByRole('heading',{name:'我的閱讀'}).waitFor();
+  const passport=page.getByRole('region',{name:'閱讀護照'});
+  await passport.getByRole('heading',{name:'最近閱讀足跡'}).waitFor();
+  await passport.getByText('完成章末測驗後，閱讀紀錄會顯示在這裡。').waitFor();
+  await passport.getByText('完書印章與級距徽章',{exact:true}).click();
+  await passport.locator('.passport-badges li').first().waitFor();
+  await passport.getByText('完書印章與級距徽章',{exact:true}).click();
+
   await page.getByText('備份與跨裝置同步',{exact:true}).click();
   await page.getByText('閱讀目標與紀錄',{exact:true}).click();
   await page.getByRole('heading',{name:/跨裝置同步/}).first().waitFor();

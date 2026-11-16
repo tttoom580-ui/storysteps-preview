@@ -1,4 +1,5 @@
 import BackupPanel from './backup-panel';
+import ReadingPassport from './reading-passport';
 import {MistakeReview,ForYou,LocalReadingInsights,QuickTaste,rememberQuizMistakes} from './engagement';
 import {markLocalSaved} from './storage-status';
 import {challengingWords} from './reader-help';
@@ -15,7 +16,7 @@ import {useEffect,useMemo,useRef,useState} from 'react';
 import {BookOpen,Library,Bookmark,ArrowUpRight,ArrowRight,ChevronLeft,ChevronRight,Search,Lock,Check,Headphones,Pause,Volume2,X,MessageCircle,Sparkles,Flame,Clock,Menu,Sun,Moon,RotateCcw,User,GraduationCap,MoreHorizontal} from 'lucide-react';
 import ReadingAccess from './rewarded';
 import {StoryInsights} from './story-insights';
-import {Passport,RewardPanel,usePassportSession} from './passport';
+import {RewardPanel,usePassportSession} from './passport';
 import AdSlot from './ad-slot';
 import SponsorSlot from './sponsor-slot';
 import {useReadingFeatures,ReadingCenter,Analytics,ChapterCommunity,QuoteButton,readingPost} from './reading-features';
@@ -128,15 +129,12 @@ export default function Home(){
  return <div className={'app theme-'+theme+' view-'+view+(view==='reader'&&comfort.focus?' focus-reading':'')}><header className="header"><button className="brand" onClick={()=>navigate('home')}><img className="brand-wordmark" src="./brand/storysteps-logo-v2.webp" alt="拾頁 StorySteps" width="138" height="52"/></button><nav className="desktop-nav" aria-label="主要導覽">{mainLinks.map(([id,label])=><button key={id} className={view===id?'active':''} onClick={()=>navigate(id)}>{label}</button>)}<button onClick={()=>setModal('more')}>更多</button></nav><div className="header-actions"><button className="theme-toggle" aria-label={theme==='night'?'切換淺色模式':'切換黑暗模式'} aria-pressed={theme==='night'} title={theme==='night'?'切換淺色模式':'切換黑暗模式'} onClick={()=>setTheme(t=>t==='night'?'paper':'night')}>{theme==='night'?<Sun size={20}/>:<Moon size={20}/>}</button><button className="avatar" aria-label="閱讀設定" onClick={()=>setModal('profile')}>{signed?name.slice(0,1):<User size={19}/>}</button></div></header>
  <div className={'layout '+(view==='reader'?'reading-layout':'')}>
  <main id="main-content">{cloudError&&<div className="notice">無法載入帳號紀錄。<button onClick={refresh}>重新連線</button></div>}
- {view==='passport'?<Passport onRead={read}/>:view==='center'?<><section className="reading-hub" aria-labelledby="reading-hub-title">
+ {view==='center'?<><section className="reading-hub" aria-labelledby="reading-hub-title">
   <header className="reading-hub-lead">
-   <div><h1 id="reading-hub-title">我的閱讀</h1><p>{progress.length} 章已完成 · {vocab.length} 個收藏單字</p></div>
+   <div><h1 id="reading-hub-title">我的閱讀</h1></div>
    <button className="primary" onClick={()=>read(last)}>接續閱讀 <ArrowRight size={17}/></button>
   </header>
-  <nav className="reading-center-links" aria-label="閱讀紀錄">
-   <button className="secondary" onClick={()=>navigate('progress')}>閱讀足跡</button>
-   <button className="secondary" onClick={()=>navigate('passport')}>閱讀護照</button>
-  </nav>
+  <ReadingPassport progress={progress} onRead={read}/>
   <div className="reading-hub-sections">
    <details><summary>閱讀目標與紀錄</summary><ReadingCalendar habit={habit}/><WeeklyGoal progress={progress} lastBackup={feature.state.lastBackup} onCenter={()=>{const section=document.querySelector<HTMLDetailsElement>('#reading-data');if(section){section.open=true;section.scrollIntoView({behavior:'smooth'})}}}/><LocalReadingInsights progress={progress}/></details>
    <details><summary>複習與收藏</summary><MistakeReview onRead={read}/><ReadingCenter feature={feature} progress={progress} vocab={vocab} signed={signed} onRead={read} refresh={refresh}/></details>
