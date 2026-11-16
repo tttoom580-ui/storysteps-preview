@@ -162,3 +162,22 @@
  .passport-card-head dl { text-align:left; }
  .passport-footprints { padding:10px 16px; }
 }
+.reading-hub-profile { display:flex; align-items:center; gap:12px; margin-bottom:12px; }
+.reading-hub-profile h1 { margin:0; }
+.hub-avatar-button {
+ width:46px; height:46px; flex:none; padding:0; border:1px solid #ffffff85;
+ border-radius:50%; background:#ffffff1f; color:white; display:grid; place-items:center;
+}
+.animal-avatar {
+ display:block; width:100%; height:100%; aspect-ratio:1;
+ border-radius:50%; background:url('/avatars/story-animals.webp') no-repeat; background-size:200% 200%;
+}
+.header .avatar:has(.animal-avatar) { padding:2px; }
+.avatar-options { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:8px; margin-top:12px; }
+.avatar-options button {
+ display:grid; justify-items:center; gap:6px; min-width:0; padding:7px;
+ border:1px solid var(--line); border-radius:12px; color:var(--ink); font-size:.85rem;
+}
+.avatar-options button[aria-pressed="true"] { border-color:var(--purple); background:var(--lavender); }
+.avatar-options .animal-avatar { width:min(100%,64px); height:auto; }
+.hub-avatar-button:focus-visible,.avatar-options button:focus-visible { outline:2px solid #b69af0; outline-offset:3px; }

@@ -49,6 +49,14 @@ async function run(label,options){
   const nav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'閱讀',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'閱讀中心'});
   await nav.click();
   await page.getByRole('heading',{name:'我的閱讀'}).waitFor();
+  await page.getByRole('button',{name:'選擇頭像',exact:true}).click();
+  const avatars=page.getByRole('dialog',{name:'選擇頭像'});
+  if(await avatars.locator('.avatar-options button').count()!==4)throw Error('Expected four avatar choices');
+  await avatars.getByRole('button',{name:'白兔',exact:true}).click();
+  const savedAvatar=await page.evaluate(()=>localStorage.getItem('storysteps-avatar'));
+  if(savedAvatar!=='rabbit')throw Error('Avatar preference was not saved');
+  await page.getByRole('button',{name:'更換頭像，目前為白兔'}).waitFor();
+
   await page.locator('.reading-hub-lead').getByText('雨來之前的鐘聲',{exact:true}).waitFor();
   await page.locator('.reading-hub-lead').getByRole('button',{name:'接續閱讀'}).waitFor();
   const passport=page.getByRole('region',{name:'閱讀護照'});
