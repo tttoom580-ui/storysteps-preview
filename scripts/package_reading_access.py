@@ -32,8 +32,9 @@ def package(private_dir):
     for book_id, entry in source_manifest['books'].items():
         path = SOURCE / entry['url']
         chapters = json.loads(gzip.decompress(path.read_bytes()))
-        assert len(chapters) == 25, book_id
         limit = 25 if book_id in free_books else offer['previewChapters']
+        private = entry.pop('privateChapters', 0)
+        assert (len(chapters),private) in {(25,0),(limit,25-limit)}, book_id
         data = gzip.compress(compact(chapters[:limit]).encode(), mtime=0)
         url = 'books/' + book_id + '-' + hashlib.sha256(data).hexdigest()[:12] + '.bin'
         (DIST / url).write_bytes(data)
@@ -42,9 +43,9 @@ def package(private_dir):
         for key in ('chapters', 'bytes'):
             if key in entry:
                 entry[key] = limit if key == 'chapters' else len(data)
-        if limit < len(chapters):
+        if limit < 25:
             paid_books.append(book_id)
-            if private_dir:
+            if private_dir and not private:
                 rows = []
                 for chapter in chapters[limit:]:
                     values = ','.join(map(sql_text, (book_id, chapter['id'], compact(chapter))))

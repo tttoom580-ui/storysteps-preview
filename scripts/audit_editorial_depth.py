@@ -50,7 +50,7 @@ for b in cat:
   issues.update(chapter_issues)
  repeated_count=sum(len(ids)>1 for ids in repeated.values())
  zh_repeats=sum(len(ids)>1 for ids in repeated_zh.values())
- first=chapters[0];mid=chapters[12];end=chapters[-1]
+ first=chapters[0];mid=chapters[len(chapters)//2];end=chapters[-1]
  def snippet(c):
   return {'chapter':chapters.index(c)+1,'zh':c['zh'],'openingEnglish':c['paragraphs'][0]['en'][:620],
           'openingChinese':c['paragraphs'][0]['zh'][:230],
@@ -59,7 +59,7 @@ for b in cat:
  all_book_report.append({'id':bid,'name':b['zh'],'genre':b['genre'],'level':b['level'],
     'hook':b.get('hook',''),'description':b.get('desc',''),
     'editorialLabel':b.get('learningReviewRequired',False),
-    'chapterCount':len(chapters),'minWords':min(r['words'] for r in perbook),
+    'chapterCount':len(chapters),'privateChapters':man['books'][bid].get('privateChapters',0),'minWords':min(r['words'] for r in perbook),
     'minTargetWords':min(r['targetWords'] for r in perbook),
     'quizzes':sum(r['quizCount'] for r in perbook),
     'enCrossChapterSentenceReuse':repeated_count,'zhCrossChapterSentenceReuse':zh_repeats,
@@ -77,7 +77,7 @@ summary={'totalBooks':len(cat),'totalChapters':len(all_chapters),'chaptersUnder5
  'booksWithRepeatedChineseSentence':sum(r['zhCrossChapterSentenceReuse']>0 for r in all_book_report),
  'fullHumanSemanticApprovalCount':0,
  'sharedExactEnglishParagraphPatternsAcrossBooks':len(duplicates)}
-report={'version':'2026-11-14','description':'Full machine screening, NOT sentence-by-sentence editorial approval. Translation length anomalies are candidate flags, not proof of mistranslation. Quiz semantic review required for all items without explicit source citations.','summary':summary,'books':all_book_report,'chapters':all_chapters,'crossBookDuplicateParagraphs':list(duplicates.items())[:100]}
+report={'version':'2026-11-14','description':'Machine screening of source payloads available to the build, NOT sentence-by-sentence editorial approval. Translation length anomalies are candidate flags, not proof of mistranslation. Quiz semantic review required for all items without explicit source citations.','summary':summary,'books':all_book_report,'chapters':all_chapters,'crossBookDuplicateParagraphs':list(duplicates.items())[:100]}
 if __name__=='__main__':
  # Concise reading samples for grounded editorial popularity review (never certify full text).
  CANDIDATES={'tomorrow','import-campus-crush','ss-r2-l2-b','ss-r7-l3-a','ss-r2-l3-a','ss-r2-l2-a','ceo-1','ss-r9-l3-a','import-platform-thirteen','ss-r5-l4-a','ss-r3-l1-a','ss-r2-l1-b','ss-r9-l2-a','ss-r4-l3-b','ss-r10-l5-b'}

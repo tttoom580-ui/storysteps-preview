@@ -202,8 +202,8 @@ async function run(label,options){
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   const newBookHeading=await page.locator('body').innerText();
   if(!newBookHeading.includes('雨後的綠色箱子'))throw Error('Newly imported story not readable');
-  const batch13=['ss-r13-l1-a','ss-r13-l2-b','ss-r13-l3-b','ss-r13-l4-b','ss-r13-l5-b','ss-r13-l6-a'];
-  for(const id of batch13){
+  const batch14=['ss-r14-l1-b','ss-r14-l2-a','ss-r14-l3-a','ss-r14-l4-a','ss-r14-l5-a','ss-r14-l6-b'];
+  for(const id of batch14){
    await page.goto(base+'?book='+id+'&chapter='+id+'-1',{waitUntil:'domcontentloaded'});
    await page.locator('[data-paragraph]').first().waitFor({timeout:10000});
   }

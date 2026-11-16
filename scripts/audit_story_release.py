@@ -20,7 +20,8 @@ stats=Counter();seen_ids=set()
 for b in catalog:
     bid=b['id'];raw=(P/manifest['books'][bid]['url']).read_bytes()
     assert hashlib.sha256(raw).hexdigest()[:12] in manifest['books'][bid]['url'],bid
-    cs=json.loads(gzip.decompress(raw));assert len(cs)==len(b['chapters'])==25,bid
+    cs=json.loads(gzip.decompress(raw));private=manifest['books'][bid].get('privateChapters',0)
+    assert len(cs)+private==len(b['chapters'])==25,bid
     assert [c['number'] for c in b['chapters']]==list(range(1,26)),bid
     titles[textkey(b['zh'])].append(bid);sentences=defaultdict(set);examples={};br=[]
     for lang in ['en','zh']:
@@ -89,7 +90,7 @@ latest_import=json.loads(latest_import_path.read_text()) if latest_import_path.e
 new_import+=latest_import
 summary.update(rewrittenBooksThisRound=len(rewritten),rewrittenChaptersThisRound=rewrite_report['summary']['chaptersRevised'] if rewrite_report else 0,newImportedBooks=len(new_import),newImportedChapters=sum(b['chapters'] for b in new_import))
 summary.update(editedUploadedBooks=len(edited),editedUploadedChapters=25*len(edited))
-report=dict(updated='2026-11-10',summary=summary,scope='All published book payloads and all chapter/quiz/glossary records checked; English sentence reuse within each book and exact normalized full-book/chapter equality screened. The eleven flagged books received chapter-specific bilingual revisions and quiz review; see rewriteAudit. Other books received the earlier documented repairs and structural checks. AI editing and these checks are not independent expert proofreading or an originality certification.',rewriteAudit=rewrite_report,uploadedEditAudit=edited_report,newImportAudit=new_import,duplicates=duplicates,books=rows,chapters=chapters)
+report=dict(updated='2026-11-10',summary=summary,scope='Public source payloads and their chapter/quiz/glossary records checked; privately stored chapters are validated at import; English sentence reuse within each book and exact normalized full-book/chapter equality screened. The eleven flagged books received chapter-specific bilingual revisions and quiz review; see rewriteAudit. Other books received the earlier documented repairs and structural checks. AI editing and these checks are not independent expert proofreading or an originality certification.',rewriteAudit=rewrite_report,uploadedEditAudit=edited_report,newImportAudit=new_import,duplicates=duplicates,books=rows,chapters=chapters)
 (P/'story-review.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 (R/'verification/story-review-20261110.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 status_note=(f'本輪完成 {len(rewritten)} 本、{summary["rewrittenChaptersThisRound"]} 章的改寫與題目複核。' if rewritten else '')

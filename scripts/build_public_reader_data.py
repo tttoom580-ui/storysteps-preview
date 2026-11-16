@@ -16,10 +16,15 @@ for name in ('story-previews','reading-guide'):
     data['chapters']={key:value for key,value in data['chapters'].items() if key in visible}
     if name=='story-previews':
         for book in catalog:
-            if book['id'] not in free:
+            book_id=book['id']
+            entry=manifest['books'][book_id]
+            if book_id not in free and not entry.get('privateChapters'):
                 continue
-            resource=root/'public'/manifest['books'][book['id']]['url']
-            chapter=json.loads(gzip.decompress(resource.read_bytes()))[0]
-            opening=chapter['paragraphs'][0]['zh']
-            data['chapters'][chapter['id']]=''.join(re.findall(r'.*?[。！？](?:[」”])?|.+$',opening)[:3])
+            resource=root/'public'/entry['url']
+            chapters=json.loads(gzip.decompress(resource.read_bytes()))
+            if entry.get('privateChapters'):
+                data[book_id]={'hook':book['hook'],'intro':book['desc']}
+            for chapter in chapters if entry.get('privateChapters') else chapters[:1]:
+                opening=chapter['paragraphs'][0]['zh']
+                data['chapters'][chapter['id']]=''.join(re.findall(r'.*?[。！？](?:[」”])?|.+$',opening)[:3])
     (root/f'app/public-{name}.json').write_text(json.dumps(data,ensure_ascii=False,separators=(',',':')))

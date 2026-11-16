@@ -2,7 +2,7 @@ import {ArrowRight,BookOpen,CheckCircle2} from 'lucide-react';
 import {stories,editorialLabel} from './content';
 import type {Story} from './types';
 
-const releases=stories.filter(story=>story.id.startsWith('ss-r13-'));
+const releases=stories.filter(story=>story.id.startsWith('ss-r14-'));
 
 /** Book metadata comes from the published catalog; the links use the existing reader. */
 export default function NewReleases({onBook,onRead}:{onBook:(story:Story)=>void;onRead:(chapterId:string)=>void}){
