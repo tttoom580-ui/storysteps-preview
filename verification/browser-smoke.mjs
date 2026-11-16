@@ -38,23 +38,8 @@ async function run(label,options){
   const moreNav=page.locator(label==='mobile'?'.mobile-nav':'.desktop-nav');
   await moreNav.getByRole('button',{name:'更多',exact:true}).click();
   const more=page.getByRole('dialog',{name:'更多功能'});
-  if(await more.locator('.more-links button').count()!==3)throw Error('More menu should have three actions');
-  await page.route('https://storysteps-submissions.tttoom580-storysteps.workers.dev/submissions',async route=>{
-   const headers={'access-control-allow-origin':'*','access-control-allow-methods':'POST, OPTIONS','access-control-allow-headers':'Content-Type'};
-   if(route.request().method()==='OPTIONS')return route.fulfill({status:204,headers});
-   const payload=route.request().postDataJSON();
-   if(payload.title!=='StorySteps smoke test'||!payload.consent)throw Error('Submission form omitted expected fields');
-   return route.fulfill({status:201,headers,json:{id:payload.id}});
-  });
-  await more.getByRole('button',{name:'投稿小說'}).click();
-  await page.getByLabel('書名',{exact:true}).fill('StorySteps smoke test');
-  await page.getByLabel('筆名',{exact:true}).fill('Smoke test');
-  await page.getByLabel('小說正文',{exact:true}).fill('Synthetic manuscript text used to verify the submission form.');
-  await page.getByRole('checkbox',{name:/我擁有這份書稿的投稿權利/}).check();
-  await page.getByRole('button',{name:'送出投稿'}).click();
-  await page.getByRole('heading',{name:'投稿已收到'}).waitFor();
-  await page.getByRole('button',{name:'回首頁'}).click();
-
+  if(await more.locator('.more-links button').count()!==2)throw Error('More menu should omit paused submissions');
+  await more.getByRole('button',{name:'關閉視窗'}).click();
   const freeHome=page.getByRole('region',{name:/12 本小說/});
   await freeHome.waitFor();
   if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==12)throw Error('Homepage must show all 12 complete free books');
@@ -63,6 +48,9 @@ async function run(label,options){
 
   const nav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'閱讀',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'閱讀中心'});
   await nav.click();
+  await page.getByRole('heading',{name:'我的閱讀'}).waitFor();
+  await page.getByText('備份與跨裝置同步',{exact:true}).click();
+  await page.getByText('閱讀目標與紀錄',{exact:true}).click();
   await page.getByRole('heading',{name:/跨裝置同步/}).first().waitFor();
   await page.getByRole('heading',{name:'這七天，你讀了多少？'}).waitFor();
   if(label==='desktop'){
@@ -89,6 +77,7 @@ async function run(label,options){
     localStorage.setItem('storysteps-review-mistakes-v1',JSON.stringify([{id:'tomorrow-1:0',chapter:'tomorrow-1',index:0,question:'Stage 3 test: which option is correct?',options:['A','B','C'],answer:1,explanation:'Synthetic test explanation',stage:0,due:0,attempts:1,updated:Date.now()}]));
     window.dispatchEvent(new Event('storysteps-mistakes-changed'));
   });
+  await page.getByText('複習與收藏',{exact:true}).click();
   const review=page.getByRole('region',{name:'章末錯題複習'});
   await review.getByRole('heading',{name:'章末錯題複習'}).waitFor();
   await review.getByRole('button',{name:'B. B'}).click();
@@ -130,6 +119,16 @@ async function run(label,options){
   await lookup.getByRole('button',{name:'已收藏 · 移除'}).waitFor();
   await page.keyboard.press('Escape');
   await lookup.waitFor({state:'hidden'});
+  const tocToggle=page.getByRole('button',{name:'章節目錄'});
+  if(await page.locator('#chapter-toc').isVisible())throw Error('Chapter list surrounds reading text before it is requested');
+  await tocToggle.click();
+  await page.locator('#chapter-toc').waitFor();
+  await tocToggle.click();
+  const quiz=page.locator('.reader-extras details').first();
+  if(await quiz.locator('fieldset').first().isVisible())throw Error('Quiz should load collapsed');
+  await quiz.locator('summary').click();
+  await quiz.locator('fieldset').first().waitFor();
+  await quiz.locator('summary').click();
   await page.locator('.paragraph-tools > summary').first().click();
   await page.locator('.paragraph-translate').first().click();
   await page.locator('[data-paragraph] .translation').first().waitFor();
