@@ -3,7 +3,7 @@
   "summary": {
     "books": 93,
     "chapters": 2325,
-    "englishWords": 1497867,
+    "englishWords": 1487523,
     "questions": 4650,
     "targetEntries": 46589,
     "bilingualParagraphs": 13880,
@@ -4085,40 +4085,14 @@
       "id": "ss-r5-l5-b",
       "title": "封存試煉：未被允許遺忘的人",
       "chapters": 25,
-      "englishWords": 16495,
-      "minimumChapterWords": 636,
+      "englishWords": 14430,
+      "minimumChapterWords": 508,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
-      "repeatedLongSentencePatterns": 57,
+      "repeatedLongSentencePatterns": 53,
       "highestSentenceReuse": 7,
       "sentenceReuseExamples": [
-        {
-          "sentence": "A person could be brave and frightened at the same time; the task was to choose with open eyes.",
-          "chapters": [
-            "ss-r5-l5-b-11",
-            "ss-r5-l5-b-19",
-            "ss-r5-l5-b-2",
-            "ss-r5-l5-b-22",
-            "ss-r5-l5-b-25",
-            "ss-r5-l5-b-5",
-            "ss-r5-l5-b-8"
-          ],
-          "count": 7
-        },
-        {
-          "sentence": "Before leaving, they repeated the safety condition and confirmed that every participant understood where the exit stood.",
-          "chapters": [
-            "ss-r5-l5-b-1",
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-15",
-            "ss-r5-l5-b-18",
-            "ss-r5-l5-b-21",
-            "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4"
-          ],
-          "count": 7
-        },
         {
           "sentence": "Before sleep they compared their notes, corrected one mistake each, and decided not to hide either correction.",
           "chapters": [
@@ -4131,35 +4105,35 @@
             "ss-r5-l5-b-8"
           ],
           "count": 7
-        }
-      ],
-      "sentenceReuseDetails": [
-        {
-          "sentence": "A person could be brave and frightened at the same time; the task was to choose with open eyes.",
-          "chapters": [
-            "ss-r5-l5-b-11",
-            "ss-r5-l5-b-19",
-            "ss-r5-l5-b-2",
-            "ss-r5-l5-b-22",
-            "ss-r5-l5-b-25",
-            "ss-r5-l5-b-5",
-            "ss-r5-l5-b-8"
-          ],
-          "count": 7
         },
         {
-          "sentence": "Before leaving, they repeated the safety condition and confirmed that every participant understood where the exit stood.",
+          "sentence": "Even a correct conclusion could do harm if they published private names before the people involved were ready.",
           "chapters": [
             "ss-r5-l5-b-1",
-            "ss-r5-l5-b-12",
             "ss-r5-l5-b-15",
             "ss-r5-l5-b-18",
             "ss-r5-l5-b-21",
             "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4"
+            "ss-r5-l5-b-4",
+            "ss-r5-l5-b-7"
           ],
           "count": 7
         },
+        {
+          "sentence": "Every repaired line on the map offered a possibility, not a guarantee, and their next decision had to respect that difference.",
+          "chapters": [
+            "ss-r5-l5-b-13",
+            "ss-r5-l5-b-16",
+            "ss-r5-l5-b-19",
+            "ss-r5-l5-b-2",
+            "ss-r5-l5-b-22",
+            "ss-r5-l5-b-25",
+            "ss-r5-l5-b-5"
+          ],
+          "count": 7
+        }
+      ],
+      "sentenceReuseDetails": [
         {
           "sentence": "Before sleep they compared their notes, corrected one mistake each, and decided not to hide either correction.",
           "chapters": [
@@ -4200,37 +4174,11 @@
           "count": 7
         },
         {
-          "sentence": "For the first time, the abandoned examination felt less like a legend and more like an event involving actual people.",
-          "chapters": [
-            "ss-r5-l5-b-1",
-            "ss-r5-l5-b-10",
-            "ss-r5-l5-b-18",
-            "ss-r5-l5-b-21",
-            "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4",
-            "ss-r5-l5-b-7"
-          ],
-          "count": 7
-        },
-        {
           "sentence": "Luo Yan checked the witness column while Jiang Mu compared the paper with the rubbing he carried in a narrow case.",
           "chapters": [
             "ss-r5-l5-b-1",
             "ss-r5-l5-b-15",
             "ss-r5-l5-b-18",
-            "ss-r5-l5-b-21",
-            "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4",
-            "ss-r5-l5-b-7"
-          ],
-          "count": 7
-        },
-        {
-          "sentence": "Several observers wanted an immediate answer, but the pair refused to name a culprit before checking who had access.",
-          "chapters": [
-            "ss-r5-l5-b-1",
-            "ss-r5-l5-b-10",
-            "ss-r5-l5-b-13",
             "ss-r5-l5-b-21",
             "ss-r5-l5-b-24",
             "ss-r5-l5-b-4",
@@ -4278,19 +4226,6 @@
           "count": 7
         },
         {
-          "sentence": "The two men made separate notes, then exchanged them only after each had finished his own account of the scene.",
-          "chapters": [
-            "ss-r5-l5-b-1",
-            "ss-r5-l5-b-10",
-            "ss-r5-l5-b-13",
-            "ss-r5-l5-b-21",
-            "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4",
-            "ss-r5-l5-b-7"
-          ],
-          "count": 7
-        },
-        {
           "sentence": "Their route became longer, yet the evidence would survive even if they later changed their minds about what it meant.",
           "chapters": [
             "ss-r5-l5-b-1",
@@ -4317,75 +4252,10 @@
           "count": 7
         },
         {
-          "sentence": "They checked the wording aloud, because a rule that sounded harmless in a whisper could become cruel when enforced.",
-          "chapters": [
-            "ss-r5-l5-b-1",
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-15",
-            "ss-r5-l5-b-18",
-            "ss-r5-l5-b-21",
-            "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4"
-          ],
-          "count": 7
-        },
-        {
-          "sentence": "They could have concealed their disagreement, but instead stated both views to the witnesses and invited correction.",
-          "chapters": [
-            "ss-r5-l5-b-11",
-            "ss-r5-l5-b-19",
-            "ss-r5-l5-b-2",
-            "ss-r5-l5-b-22",
-            "ss-r5-l5-b-25",
-            "ss-r5-l5-b-5",
-            "ss-r5-l5-b-8"
-          ],
-          "count": 7
-        },
-        {
           "sentence": "They could not control the entire institution, but they could control whether their own account was faithful.",
           "chapters": [
             "ss-r5-l5-b-11",
             "ss-r5-l5-b-19",
-            "ss-r5-l5-b-2",
-            "ss-r5-l5-b-22",
-            "ss-r5-l5-b-25",
-            "ss-r5-l5-b-5",
-            "ss-r5-l5-b-8"
-          ],
-          "count": 7
-        },
-        {
-          "sentence": "They left a copy in public custody and another with the witnesses, so no single official could silently replace both.",
-          "chapters": [
-            "ss-r5-l5-b-11",
-            "ss-r5-l5-b-14",
-            "ss-r5-l5-b-2",
-            "ss-r5-l5-b-22",
-            "ss-r5-l5-b-25",
-            "ss-r5-l5-b-5",
-            "ss-r5-l5-b-8"
-          ],
-          "count": 7
-        },
-        {
-          "sentence": "They measured the gap twice, drew a clear mark, and refused to continue until the observer agreed with the reading.",
-          "chapters": [
-            "ss-r5-l5-b-1",
-            "ss-r5-l5-b-10",
-            "ss-r5-l5-b-18",
-            "ss-r5-l5-b-21",
-            "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4",
-            "ss-r5-l5-b-7"
-          ],
-          "count": 7
-        },
-        {
-          "sentence": "They separated the evidence from their anger, although anger was often the only thing that kept them on their feet.",
-          "chapters": [
-            "ss-r5-l5-b-11",
-            "ss-r5-l5-b-14",
             "ss-r5-l5-b-2",
             "ss-r5-l5-b-22",
             "ss-r5-l5-b-25",
@@ -4445,31 +4315,7 @@
           "count": 6
         },
         {
-          "sentence": "An official title did not make a statement true; a readable record and a chance to question it mattered more.",
-          "chapters": [
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-15",
-            "ss-r5-l5-b-23",
-            "ss-r5-l5-b-3",
-            "ss-r5-l5-b-6",
-            "ss-r5-l5-b-9"
-          ],
-          "count": 6
-        },
-        {
           "sentence": "For now they kept the copy dry and the door unsealed, leaving the next witness free to decide.",
-          "chapters": [
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-15",
-            "ss-r5-l5-b-23",
-            "ss-r5-l5-b-3",
-            "ss-r5-l5-b-6",
-            "ss-r5-l5-b-9"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "He touched the edge of the damaged ledger, then stopped before the fragile paper could tear beneath his fingers.",
           "chapters": [
             "ss-r5-l5-b-12",
             "ss-r5-l5-b-15",
@@ -4493,18 +4339,6 @@
           "count": 6
         },
         {
-          "sentence": "Jiang Mu returned the borrowed key before the deadline and kept a signed receipt, however inconvenient that seemed.",
-          "chapters": [
-            "ss-r5-l5-b-10",
-            "ss-r5-l5-b-13",
-            "ss-r5-l5-b-16",
-            "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4",
-            "ss-r5-l5-b-7"
-          ],
-          "count": 6
-        },
-        {
           "sentence": "Jiang Mu stayed because he chose to, and Luo Yan accepted that choice without asking for a promise about tomorrow.",
           "chapters": [
             "ss-r5-l5-b-17",
@@ -4517,42 +4351,6 @@
           "count": 6
         },
         {
-          "sentence": "Luo Yan put the seal away instead of using it immediately, and Jiang Mu noticed the restraint without thanking him.",
-          "chapters": [
-            "ss-r5-l5-b-14",
-            "ss-r5-l5-b-17",
-            "ss-r5-l5-b-20",
-            "ss-r5-l5-b-23",
-            "ss-r5-l5-b-3",
-            "ss-r5-l5-b-6"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "Neither man believed courage required a grand speech; sometimes it meant waiting beside a frightened stranger.",
-          "chapters": [
-            "ss-r5-l5-b-1",
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-15",
-            "ss-r5-l5-b-18",
-            "ss-r5-l5-b-21",
-            "ss-r5-l5-b-9"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "No witness was asked to risk another memory merely to make the investigators feel that their work was moving faster.",
-          "chapters": [
-            "ss-r5-l5-b-10",
-            "ss-r5-l5-b-13",
-            "ss-r5-l5-b-16",
-            "ss-r5-l5-b-24",
-            "ss-r5-l5-b-4",
-            "ss-r5-l5-b-7"
-          ],
-          "count": 6
-        },
-        {
           "sentence": "Nothing was settled forever, yet they had made one part of the future less dependent on secrecy.",
           "chapters": [
             "ss-r5-l5-b-10",
@@ -4561,54 +4359,6 @@
             "ss-r5-l5-b-19",
             "ss-r5-l5-b-2",
             "ss-r5-l5-b-22"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "One offered to carry the heavy case, and the other accepted without turning the gesture into a debt.",
-          "chapters": [
-            "ss-r5-l5-b-11",
-            "ss-r5-l5-b-14",
-            "ss-r5-l5-b-17",
-            "ss-r5-l5-b-25",
-            "ss-r5-l5-b-5",
-            "ss-r5-l5-b-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "One torn page could mislead an entire room, so they placed it beside the original seal and checked the date twice.",
-          "chapters": [
-            "ss-r5-l5-b-11",
-            "ss-r5-l5-b-14",
-            "ss-r5-l5-b-17",
-            "ss-r5-l5-b-25",
-            "ss-r5-l5-b-5",
-            "ss-r5-l5-b-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The archive had survived for years; the challenge was to make its contents useful without turning them into another weapon.",
-          "chapters": [
-            "ss-r5-l5-b-14",
-            "ss-r5-l5-b-17",
-            "ss-r5-l5-b-20",
-            "ss-r5-l5-b-23",
-            "ss-r5-l5-b-3",
-            "ss-r5-l5-b-6"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The audience heard two possible explanations, and the pair made clear what observation would distinguish one from the other.",
-          "chapters": [
-            "ss-r5-l5-b-17",
-            "ss-r5-l5-b-20",
-            "ss-r5-l5-b-23",
-            "ss-r5-l5-b-3",
-            "ss-r5-l5-b-6",
-            "ss-r5-l5-b-9"
           ],
           "count": 6
         },
@@ -4637,30 +4387,6 @@
           "count": 6
         },
         {
-          "sentence": "The older examiner could offer advice, but neither man allowed him to speak on behalf of the surviving candidates.",
-          "chapters": [
-            "ss-r5-l5-b-1",
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-15",
-            "ss-r5-l5-b-18",
-            "ss-r5-l5-b-21",
-            "ss-r5-l5-b-9"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The promise between them was not that they would always agree, but that disagreement would never be treated as betrayal.",
-          "chapters": [
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-20",
-            "ss-r5-l5-b-23",
-            "ss-r5-l5-b-3",
-            "ss-r5-l5-b-6",
-            "ss-r5-l5-b-9"
-          ],
-          "count": 6
-        },
-        {
           "sentence": "The silence after the discovery was not empty; it gave each person time to understand what might change.",
           "chapters": [
             "ss-r5-l5-b-11",
@@ -4669,30 +4395,6 @@
             "ss-r5-l5-b-20",
             "ss-r5-l5-b-23",
             "ss-r5-l5-b-3"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "They considered what the record omitted: the names of helpers, the price of delay, and the right to tell another story.",
-          "chapters": [
-            "ss-r5-l5-b-17",
-            "ss-r5-l5-b-20",
-            "ss-r5-l5-b-23",
-            "ss-r5-l5-b-3",
-            "ss-r5-l5-b-6",
-            "ss-r5-l5-b-9"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "They looked for a second source before moving, since the first account might describe only part of the event.",
-          "chapters": [
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-20",
-            "ss-r5-l5-b-23",
-            "ss-r5-l5-b-3",
-            "ss-r5-l5-b-6",
-            "ss-r5-l5-b-9"
           ],
           "count": 6
         },
@@ -4733,17 +4435,6 @@
           "count": 6
         },
         {
-          "sentence": "A clerk offered a shortcut; they requested the ordinary route in writing, including the name of whoever would approve it.",
-          "chapters": [
-            "ss-r5-l5-b-10",
-            "ss-r5-l5-b-13",
-            "ss-r5-l5-b-16",
-            "ss-r5-l5-b-19",
-            "ss-r5-l5-b-7"
-          ],
-          "count": 5
-        },
-        {
           "sentence": "At sunset they agreed on one limited next step, with a clear point at which either of them could call a halt.",
           "chapters": [
             "ss-r5-l5-b-10",
@@ -4751,17 +4442,6 @@
             "ss-r5-l5-b-16",
             "ss-r5-l5-b-19",
             "ss-r5-l5-b-7"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "Jiang Mu drew the route in the margin, and Luo Yan added the time beside each turn so another team could check it.",
-          "chapters": [
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-15",
-            "ss-r5-l5-b-18",
-            "ss-r5-l5-b-6",
-            "ss-r5-l5-b-9"
           ],
           "count": 5
         },
@@ -4777,11 +4457,11 @@
           "count": 5
         },
         {
-          "sentence": "The old trial had taught people to mistake silence for agreement; both men now insisted that a quiet person could still refuse.",
+          "sentence": "The audience heard two possible explanations, and the pair made clear what observation would distinguish one from the other.",
           "chapters": [
-            "ss-r5-l5-b-12",
-            "ss-r5-l5-b-15",
-            "ss-r5-l5-b-18",
+            "ss-r5-l5-b-17",
+            "ss-r5-l5-b-23",
+            "ss-r5-l5-b-3",
             "ss-r5-l5-b-6",
             "ss-r5-l5-b-9"
           ],
@@ -4810,6 +4490,28 @@
           "count": 5
         },
         {
+          "sentence": "They considered what the record omitted: the names of helpers, the price of delay, and the right to tell another story.",
+          "chapters": [
+            "ss-r5-l5-b-17",
+            "ss-r5-l5-b-23",
+            "ss-r5-l5-b-3",
+            "ss-r5-l5-b-6",
+            "ss-r5-l5-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "They looked for a second source before moving, since the first account might describe only part of the event.",
+          "chapters": [
+            "ss-r5-l5-b-12",
+            "ss-r5-l5-b-20",
+            "ss-r5-l5-b-3",
+            "ss-r5-l5-b-6",
+            "ss-r5-l5-b-9"
+          ],
+          "count": 5
+        },
+        {
           "sentence": "They named the risk before accepting it, and neither treated the other person’s agreement as automatic.",
           "chapters": [
             "ss-r5-l5-b-12",
@@ -4821,15 +4523,179 @@
           "count": 5
         },
         {
+          "sentence": "The promise between them was not that they would always agree, but that disagreement would never be treated as betrayal.",
+          "chapters": [
+            "ss-r5-l5-b-12",
+            "ss-r5-l5-b-20",
+            "ss-r5-l5-b-3",
+            "ss-r5-l5-b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "A person could be brave and frightened at the same time; the task was to choose with open eyes.",
+          "chapters": [
+            "ss-r5-l5-b-11",
+            "ss-r5-l5-b-2",
+            "ss-r5-l5-b-22"
+          ],
+          "count": 3
+        },
+        {
+          "sentence": "Before leaving, they repeated the safety condition and confirmed that every participant understood where the exit stood.",
+          "chapters": [
+            "ss-r5-l5-b-1",
+            "ss-r5-l5-b-15",
+            "ss-r5-l5-b-24"
+          ],
+          "count": 3
+        },
+        {
+          "sentence": "He touched the edge of the damaged ledger, then stopped before the fragile paper could tear beneath his fingers.",
+          "chapters": [
+            "ss-r5-l5-b-12",
+            "ss-r5-l5-b-15",
+            "ss-r5-l5-b-3"
+          ],
+          "count": 3
+        },
+        {
+          "sentence": "They checked the wording aloud, because a rule that sounded harmless in a whisper could become cruel when enforced.",
+          "chapters": [
+            "ss-r5-l5-b-1",
+            "ss-r5-l5-b-15",
+            "ss-r5-l5-b-24"
+          ],
+          "count": 3
+        },
+        {
+          "sentence": "They could have concealed their disagreement, but instead stated both views to the witnesses and invited correction.",
+          "chapters": [
+            "ss-r5-l5-b-11",
+            "ss-r5-l5-b-2",
+            "ss-r5-l5-b-22"
+          ],
+          "count": 3
+        },
+        {
+          "sentence": "A clerk offered a shortcut; they requested the ordinary route in writing, including the name of whoever would approve it.",
+          "chapters": [
+            "ss-r5-l5-b-10",
+            "ss-r5-l5-b-7"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "An official title did not make a statement true; a readable record and a chance to question it mattered more.",
+          "chapters": [
+            "ss-r5-l5-b-15",
+            "ss-r5-l5-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "For the first time, the abandoned examination felt less like a legend and more like an event involving actual people.",
+          "chapters": [
+            "ss-r5-l5-b-1",
+            "ss-r5-l5-b-18"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Jiang Mu returned the borrowed key before the deadline and kept a signed receipt, however inconvenient that seemed.",
+          "chapters": [
+            "ss-r5-l5-b-10",
+            "ss-r5-l5-b-4"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Luo Yan put the seal away instead of using it immediately, and Jiang Mu noticed the restraint without thanking him.",
+          "chapters": [
+            "ss-r5-l5-b-17",
+            "ss-r5-l5-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "No witness was asked to risk another memory merely to make the investigators feel that their work was moving faster.",
+          "chapters": [
+            "ss-r5-l5-b-10",
+            "ss-r5-l5-b-4"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "One offered to carry the heavy case, and the other accepted without turning the gesture into a debt.",
+          "chapters": [
+            "ss-r5-l5-b-17",
+            "ss-r5-l5-b-5"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "One torn page could mislead an entire room, so they placed it beside the original seal and checked the date twice.",
+          "chapters": [
+            "ss-r5-l5-b-17",
+            "ss-r5-l5-b-5"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Several observers wanted an immediate answer, but the pair refused to name a culprit before checking who had access.",
+          "chapters": [
+            "ss-r5-l5-b-1",
+            "ss-r5-l5-b-4"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "The archive had survived for years; the challenge was to make its contents useful without turning them into another weapon.",
+          "chapters": [
+            "ss-r5-l5-b-17",
+            "ss-r5-l5-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "The two men made separate notes, then exchanged them only after each had finished his own account of the scene.",
+          "chapters": [
+            "ss-r5-l5-b-1",
+            "ss-r5-l5-b-4"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "They left a copy in public custody and another with the witnesses, so no single official could silently replace both.",
+          "chapters": [
+            "ss-r5-l5-b-14",
+            "ss-r5-l5-b-2"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "They measured the gap twice, drew a clear mark, and refused to continue until the observer agreed with the reading.",
+          "chapters": [
+            "ss-r5-l5-b-1",
+            "ss-r5-l5-b-18"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "They separated the evidence from their anger, although anger was often the only thing that kept them on their feet.",
+          "chapters": [
+            "ss-r5-l5-b-14",
+            "ss-r5-l5-b-2"
+          ],
+          "count": 2
+        },
+        {
           "sentence": "They wrote down exactly what they knew, rather than letting a convincing guess become a fact that no one could challenge.",
           "chapters": [
             "ss-r5-l5-b-10",
-            "ss-r5-l5-b-13",
-            "ss-r5-l5-b-16",
-            "ss-r5-l5-b-19",
             "ss-r5-l5-b-7"
           ],
-          "count": 5
+          "count": 2
         }
       ],
       "editorialStatus": "句子重用待逐章修訂"
@@ -5723,41 +5589,14 @@
       "id": "ss-r10-l5-b",
       "title": "萬味渡口：與你煮一碗回家的湯",
       "chapters": 25,
-      "englishWords": 19675,
+      "englishWords": 16779,
       "minimumChapterWords": 543,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
-      "repeatedLongSentencePatterns": 62,
+      "repeatedLongSentencePatterns": 54,
       "highestSentenceReuse": 21,
       "sentenceReuseExamples": [
-        {
-          "sentence": "A different result would have mattered as much as a matching one.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-20",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 21
-        },
         {
           "sentence": "A promise that sounded generous from the council table might mean something very different to a family standing at the end of a queue.",
           "chapters": [
@@ -5787,6 +5626,33 @@
         },
         {
           "sentence": "At dawn they would travel again, but this time neither man would have to pretend he was walking alone.",
+          "chapters": [
+            "ss-r10-l5-b-1",
+            "ss-r10-l5-b-10",
+            "ss-r10-l5-b-12",
+            "ss-r10-l5-b-13",
+            "ss-r10-l5-b-14",
+            "ss-r10-l5-b-15",
+            "ss-r10-l5-b-17",
+            "ss-r10-l5-b-18",
+            "ss-r10-l5-b-19",
+            "ss-r10-l5-b-2",
+            "ss-r10-l5-b-20",
+            "ss-r10-l5-b-22",
+            "ss-r10-l5-b-23",
+            "ss-r10-l5-b-24",
+            "ss-r10-l5-b-25",
+            "ss-r10-l5-b-3",
+            "ss-r10-l5-b-4",
+            "ss-r10-l5-b-5",
+            "ss-r10-l5-b-7",
+            "ss-r10-l5-b-8",
+            "ss-r10-l5-b-9"
+          ],
+          "count": 21
+        },
+        {
+          "sentence": "He showed them which part of the result was known and which part still had to be tested.",
           "chapters": [
             "ss-r10-l5-b-1",
             "ss-r10-l5-b-10",
@@ -5815,33 +5681,6 @@
       ],
       "sentenceReuseDetails": [
         {
-          "sentence": "A different result would have mattered as much as a matching one.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-20",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 21
-        },
-        {
           "sentence": "A promise that sounded generous from the council table might mean something very different to a family standing at the end of a queue.",
           "chapters": [
             "ss-r10-l5-b-1",
@@ -5870,60 +5709,6 @@
         },
         {
           "sentence": "At dawn they would travel again, but this time neither man would have to pretend he was walking alone.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-20",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 21
-        },
-        {
-          "sentence": "For the first time that day, Gu Wen allowed himself a mouthful of warm food.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-20",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 21
-        },
-        {
-          "sentence": "Gu Wen marked the position in his notebook, while Lin Zhou asked a second person to repeat the measurement with fresh tools.",
           "chapters": [
             "ss-r10-l5-b-1",
             "ss-r10-l5-b-10",
@@ -6004,88 +5789,7 @@
           "count": 21
         },
         {
-          "sentence": "Nobody claimed the entire river had been healed, and the records were left where the people who had helped could check them.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-20",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 21
-        },
-        {
           "sentence": "People had gathered before sunrise, not because they expected a famous hero, but because the next meal might depend on what happened here.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-20",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 21
-        },
-        {
-          "sentence": "The work had names, dates, and mistakes recorded plainly instead of hidden behind a heroic speech.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-20",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 21
-        },
-        {
-          "sentence": "They folded the new information into their map instead of calling it proof.",
           "chapters": [
             "ss-r10-l5-b-1",
             "ss-r10-l5-b-10",
@@ -6166,15 +5870,18 @@
           "count": 21
         },
         {
-          "sentence": "A cooking method could be taught openly without forcing anyone to disclose the story of an illness or a family recipe.",
+          "sentence": "They folded the new information into their map instead of calling it proof.",
           "chapters": [
-            "ss-r10-l5-b-16",
+            "ss-r10-l5-b-1",
             "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
             "ss-r10-l5-b-19",
-            "ss-r10-l5-b-20"
+            "ss-r10-l5-b-2",
+            "ss-r10-l5-b-3",
+            "ss-r10-l5-b-4",
+            "ss-r10-l5-b-5",
+            "ss-r10-l5-b-8"
           ],
-          "count": 5
+          "count": 8
         },
         {
           "sentence": "A generous offer might conceal a demand for control, while an old friendship could reveal a painful omission.",
@@ -6199,40 +5906,7 @@
           "count": 5
         },
         {
-          "sentence": "A porter knew the weight of a full sack; a cook understood how long broth could stand; a parent recognized the silence of a child too tired to complain.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "A sample without its location and date could mislead an entire port.",
-          "chapters": [
-            "ss-r10-l5-b-11",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15"
-          ],
-          "count": 5
-        },
-        {
           "sentence": "After the first honest feast, the travelers had to deal with success as carefully as failure.",
-          "chapters": [
-            "ss-r10-l5-b-16",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-20"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "As the political dispute grew, their rule about consent became more important.",
           "chapters": [
             "ss-r10-l5-b-16",
             "ss-r10-l5-b-17",
@@ -6287,17 +5961,6 @@
           "count": 5
         },
         {
-          "sentence": "Gu Wen and Lin Zhou walked at the edge of the crowd, close enough to hear one another without having to compete with the cheering.",
-          "chapters": [
-            "ss-r10-l5-b-11",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15"
-          ],
-          "count": 5
-        },
-        {
           "sentence": "Gu Wen learned to recognize Lin Zhou’s careful silence: the herbalist was usually considering the possibility he most wanted to reject.",
           "chapters": [
             "ss-r10-l5-b-11",
@@ -6342,17 +6005,6 @@
           "count": 5
         },
         {
-          "sentence": "His skill could identify a change in a dish, but it could not create food or erase a poison.",
-          "chapters": [
-            "ss-r10-l5-b-1",
-            "ss-r10-l5-b-2",
-            "ss-r10-l5-b-3",
-            "ss-r10-l5-b-4",
-            "ss-r10-l5-b-5"
-          ],
-          "count": 5
-        },
-        {
           "sentence": "It was easy to identify a flawed tool and much harder to decide who deserved help first when supplies were limited.",
           "chapters": [
             "ss-r10-l5-b-10",
@@ -6360,17 +6012,6 @@
             "ss-r10-l5-b-7",
             "ss-r10-l5-b-8",
             "ss-r10-l5-b-9"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "It was the quiet work afterward, not the speeches before, that let them understand each other.",
-          "chapters": [
-            "ss-r10-l5-b-16",
-            "ss-r10-l5-b-17",
-            "ss-r10-l5-b-18",
-            "ss-r10-l5-b-19",
-            "ss-r10-l5-b-20"
           ],
           "count": 5
         },
@@ -6430,28 +6071,6 @@
           "count": 5
         },
         {
-          "sentence": "Neither traveler stood above them giving orders from a dry and comfortable platform.",
-          "chapters": [
-            "ss-r10-l5-b-21",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "Now their maps lay side by side on the table, and both were learning how to make a future without taking the other for granted.",
-          "chapters": [
-            "ss-r10-l5-b-21",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25"
-          ],
-          "count": 5
-        },
-        {
           "sentence": "Once the last worker had gone home, the two men remained to check the hearth.",
           "chapters": [
             "ss-r10-l5-b-16",
@@ -6459,28 +6078,6 @@
             "ss-r10-l5-b-18",
             "ss-r10-l5-b-19",
             "ss-r10-l5-b-20"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "One held material from the suspicious route; the other held a control sample obtained with a witness watching.",
-          "chapters": [
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-6",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "One person fetched water, another tested the jars, and a third wrote down the objections so that even those who arrived late could understand the decision.",
-          "chapters": [
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-6",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
           ],
           "count": 5
         },
@@ -6529,17 +6126,6 @@
           "count": 5
         },
         {
-          "sentence": "The copper spoon was useful only when its sound could be compared with a known sample.",
-          "chapters": [
-            "ss-r10-l5-b-11",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15"
-          ],
-          "count": 5
-        },
-        {
           "sentence": "The first five ports had not given Gu Wen and Lin Zhou an easy answer, but they had shown what a mistake could cost.",
           "chapters": [
             "ss-r10-l5-b-10",
@@ -6580,50 +6166,6 @@
             "ss-r10-l5-b-3",
             "ss-r10-l5-b-4",
             "ss-r10-l5-b-5"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "The two men finally found time to speak about something besides the mineral.",
-          "chapters": [
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-6",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "Their copper pot might amplify a real aroma, but no enchantment could replace grain that had never been harvested.",
-          "chapters": [
-            "ss-r10-l5-b-10",
-            "ss-r10-l5-b-6",
-            "ss-r10-l5-b-7",
-            "ss-r10-l5-b-8",
-            "ss-r10-l5-b-9"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "Their questions were specific: what was safe to touch, who would keep the key, and how could a failed test be reported?",
-          "chapters": [
-            "ss-r10-l5-b-11",
-            "ss-r10-l5-b-12",
-            "ss-r10-l5-b-13",
-            "ss-r10-l5-b-14",
-            "ss-r10-l5-b-15"
-          ],
-          "count": 5
-        },
-        {
-          "sentence": "They brought clean cloth, fresh bottles, water, and a list of places where a second test could be repeated without permission from the merchant.",
-          "chapters": [
-            "ss-r10-l5-b-21",
-            "ss-r10-l5-b-22",
-            "ss-r10-l5-b-23",
-            "ss-r10-l5-b-24",
-            "ss-r10-l5-b-25"
           ],
           "count": 5
         },
@@ -6701,6 +6243,111 @@
             "ss-r10-l5-b-5"
           ],
           "count": 4
+        },
+        {
+          "sentence": "It was the quiet work afterward, not the speeches before, that let them understand each other.",
+          "chapters": [
+            "ss-r10-l5-b-16",
+            "ss-r10-l5-b-17",
+            "ss-r10-l5-b-19"
+          ],
+          "count": 3
+        },
+        {
+          "sentence": "A cooking method could be taught openly without forcing anyone to disclose the story of an illness or a family recipe.",
+          "chapters": [
+            "ss-r10-l5-b-16",
+            "ss-r10-l5-b-17"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "A sample without its location and date could mislead an entire port.",
+          "chapters": [
+            "ss-r10-l5-b-11",
+            "ss-r10-l5-b-12"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "As the political dispute grew, their rule about consent became more important.",
+          "chapters": [
+            "ss-r10-l5-b-16",
+            "ss-r10-l5-b-17"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Gu Wen and Lin Zhou walked at the edge of the crowd, close enough to hear one another without having to compete with the cheering.",
+          "chapters": [
+            "ss-r10-l5-b-11",
+            "ss-r10-l5-b-12"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Neither traveler stood above them giving orders from a dry and comfortable platform.",
+          "chapters": [
+            "ss-r10-l5-b-21",
+            "ss-r10-l5-b-22"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "One held material from the suspicious route; the other held a control sample obtained with a witness watching.",
+          "chapters": [
+            "ss-r10-l5-b-6",
+            "ss-r10-l5-b-7"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "One person fetched water, another tested the jars, and a third wrote down the objections so that even those who arrived late could understand the decision.",
+          "chapters": [
+            "ss-r10-l5-b-6",
+            "ss-r10-l5-b-7"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "The copper spoon was useful only when its sound could be compared with a known sample.",
+          "chapters": [
+            "ss-r10-l5-b-11",
+            "ss-r10-l5-b-12"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "The two men finally found time to speak about something besides the mineral.",
+          "chapters": [
+            "ss-r10-l5-b-6",
+            "ss-r10-l5-b-8"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Their copper pot might amplify a real aroma, but no enchantment could replace grain that had never been harvested.",
+          "chapters": [
+            "ss-r10-l5-b-6",
+            "ss-r10-l5-b-7"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Their questions were specific: what was safe to touch, who would keep the key, and how could a failed test be reported?",
+          "chapters": [
+            "ss-r10-l5-b-11",
+            "ss-r10-l5-b-12"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "They brought clean cloth, fresh bottles, water, and a list of places where a second test could be repeated without permission from the merchant.",
+          "chapters": [
+            "ss-r10-l5-b-21",
+            "ss-r10-l5-b-22"
+          ],
+          "count": 2
         }
       ],
       "editorialStatus": "句子重用待逐章修訂"
@@ -6754,12 +6401,12 @@
       "id": "ss-r11-l3-b",
       "title": "把星空借給每一個人",
       "chapters": 25,
-      "englishWords": 21465,
-      "minimumChapterWords": 834,
+      "englishWords": 18965,
+      "minimumChapterWords": 689,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
-      "repeatedLongSentencePatterns": 47,
+      "repeatedLongSentencePatterns": 40,
       "highestSentenceReuse": 25,
       "sentenceReuseExamples": [
         {
@@ -6825,7 +6472,7 @@
           "count": 25
         },
         {
-          "sentence": "Jonas moved the lamp a little lower so that the cards could be read without forcing people to stand.",
+          "sentence": "She asked why a single word could make two people remember different nights.",
           "chapters": [
             "ss-r11-l3-b-1",
             "ss-r11-l3-b-10",
@@ -6890,130 +6537,6 @@
         },
         {
           "sentence": "An older neighbor explained one card through a small object that could be passed from hand to hand.",
-          "chapters": [
-            "ss-r11-l3-b-1",
-            "ss-r11-l3-b-10",
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-12",
-            "ss-r11-l3-b-13",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-15",
-            "ss-r11-l3-b-16",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-18",
-            "ss-r11-l3-b-19",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-21",
-            "ss-r11-l3-b-22",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-24",
-            "ss-r11-l3-b-25",
-            "ss-r11-l3-b-3",
-            "ss-r11-l3-b-4",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-6",
-            "ss-r11-l3-b-7",
-            "ss-r11-l3-b-8",
-            "ss-r11-l3-b-9"
-          ],
-          "count": 25
-        },
-        {
-          "sentence": "Jonas moved the lamp a little lower so that the cards could be read without forcing people to stand.",
-          "chapters": [
-            "ss-r11-l3-b-1",
-            "ss-r11-l3-b-10",
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-12",
-            "ss-r11-l3-b-13",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-15",
-            "ss-r11-l3-b-16",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-18",
-            "ss-r11-l3-b-19",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-21",
-            "ss-r11-l3-b-22",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-24",
-            "ss-r11-l3-b-25",
-            "ss-r11-l3-b-3",
-            "ss-r11-l3-b-4",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-6",
-            "ss-r11-l3-b-7",
-            "ss-r11-l3-b-8",
-            "ss-r11-l3-b-9"
-          ],
-          "count": 25
-        },
-        {
-          "sentence": "One speaker described a scene from work; another remembered a journey, while a third chose to leave the card unanswered.",
-          "chapters": [
-            "ss-r11-l3-b-1",
-            "ss-r11-l3-b-10",
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-12",
-            "ss-r11-l3-b-13",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-15",
-            "ss-r11-l3-b-16",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-18",
-            "ss-r11-l3-b-19",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-21",
-            "ss-r11-l3-b-22",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-24",
-            "ss-r11-l3-b-25",
-            "ss-r11-l3-b-3",
-            "ss-r11-l3-b-4",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-6",
-            "ss-r11-l3-b-7",
-            "ss-r11-l3-b-8",
-            "ss-r11-l3-b-9"
-          ],
-          "count": 25
-        },
-        {
-          "sentence": "Rui kept the circle open even when the words did not seem to belong to the same story.",
-          "chapters": [
-            "ss-r11-l3-b-1",
-            "ss-r11-l3-b-10",
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-12",
-            "ss-r11-l3-b-13",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-15",
-            "ss-r11-l3-b-16",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-18",
-            "ss-r11-l3-b-19",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-21",
-            "ss-r11-l3-b-22",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-24",
-            "ss-r11-l3-b-25",
-            "ss-r11-l3-b-3",
-            "ss-r11-l3-b-4",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-6",
-            "ss-r11-l3-b-7",
-            "ss-r11-l3-b-8",
-            "ss-r11-l3-b-9"
-          ],
-          "count": 25
-        },
-        {
-          "sentence": "Rui listened for what the speakers wanted to keep, rather than for a line that would sound clever in an advertisement.",
           "chapters": [
             "ss-r11-l3-b-1",
             "ss-r11-l3-b-10",
@@ -7106,37 +6629,6 @@
           "count": 25
         },
         {
-          "sentence": "The talk moved from easy memories to questions about who was allowed to speak and who would carry the results home.",
-          "chapters": [
-            "ss-r11-l3-b-1",
-            "ss-r11-l3-b-10",
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-12",
-            "ss-r11-l3-b-13",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-15",
-            "ss-r11-l3-b-16",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-18",
-            "ss-r11-l3-b-19",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-21",
-            "ss-r11-l3-b-22",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-24",
-            "ss-r11-l3-b-25",
-            "ss-r11-l3-b-3",
-            "ss-r11-l3-b-4",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-6",
-            "ss-r11-l3-b-7",
-            "ss-r11-l3-b-8",
-            "ss-r11-l3-b-9"
-          ],
-          "count": 25
-        },
-        {
           "sentence": "They became useful only when a real person placed them next to something seen, heard, or tested.",
           "chapters": [
             "ss-r11-l3-b-1",
@@ -7168,6 +6660,57 @@
           "count": 25
         },
         {
+          "sentence": "Jonas moved the lamp a little lower so that the cards could be read without forcing people to stand.",
+          "chapters": [
+            "ss-r11-l3-b-1",
+            "ss-r11-l3-b-12",
+            "ss-r11-l3-b-13",
+            "ss-r11-l3-b-17",
+            "ss-r11-l3-b-18",
+            "ss-r11-l3-b-2",
+            "ss-r11-l3-b-22",
+            "ss-r11-l3-b-23",
+            "ss-r11-l3-b-3",
+            "ss-r11-l3-b-7",
+            "ss-r11-l3-b-8"
+          ],
+          "count": 11
+        },
+        {
+          "sentence": "Rui kept the circle open even when the words did not seem to belong to the same story.",
+          "chapters": [
+            "ss-r11-l3-b-1",
+            "ss-r11-l3-b-10",
+            "ss-r11-l3-b-11",
+            "ss-r11-l3-b-15",
+            "ss-r11-l3-b-16",
+            "ss-r11-l3-b-2",
+            "ss-r11-l3-b-20",
+            "ss-r11-l3-b-21",
+            "ss-r11-l3-b-25",
+            "ss-r11-l3-b-5",
+            "ss-r11-l3-b-6"
+          ],
+          "count": 11
+        },
+        {
+          "sentence": "Rui listened for what the speakers wanted to keep, rather than for a line that would sound clever in an advertisement.",
+          "chapters": [
+            "ss-r11-l3-b-1",
+            "ss-r11-l3-b-11",
+            "ss-r11-l3-b-12",
+            "ss-r11-l3-b-16",
+            "ss-r11-l3-b-17",
+            "ss-r11-l3-b-2",
+            "ss-r11-l3-b-21",
+            "ss-r11-l3-b-22",
+            "ss-r11-l3-b-3",
+            "ss-r11-l3-b-6",
+            "ss-r11-l3-b-7"
+          ],
+          "count": 11
+        },
+        {
           "sentence": "At twenty-eight, she had spent a year saving for this traveling exhibition.",
           "chapters": [
             "ss-r11-l3-b-1",
@@ -7184,36 +6727,6 @@
         },
         {
           "sentence": "Jonas Qiao, the thirty-one-year-old engineer who built its turning lamp, checked each support instead of praising the view.",
-          "chapters": [
-            "ss-r11-l3-b-1",
-            "ss-r11-l3-b-10",
-            "ss-r11-l3-b-13",
-            "ss-r11-l3-b-16",
-            "ss-r11-l3-b-19",
-            "ss-r11-l3-b-22",
-            "ss-r11-l3-b-25",
-            "ss-r11-l3-b-4",
-            "ss-r11-l3-b-7"
-          ],
-          "count": 9
-        },
-        {
-          "sentence": "Jonas repeated the observation with another volunteer watching, then wrote down both the result and the conditions.",
-          "chapters": [
-            "ss-r11-l3-b-1",
-            "ss-r11-l3-b-10",
-            "ss-r11-l3-b-13",
-            "ss-r11-l3-b-16",
-            "ss-r11-l3-b-19",
-            "ss-r11-l3-b-22",
-            "ss-r11-l3-b-25",
-            "ss-r11-l3-b-4",
-            "ss-r11-l3-b-7"
-          ],
-          "count": 9
-        },
-        {
-          "sentence": "Rui was tempted to solve the matter herself, but a traveling show could become a private kingdom if every choice belonged to one person.",
           "chapters": [
             "ss-r11-l3-b-1",
             "ss-r11-l3-b-10",
@@ -7329,20 +6842,6 @@
           "count": 8
         },
         {
-          "sentence": "Jonas Qiao, thirty-one, had designed the light that made their small canvas dome seem immense.",
-          "chapters": [
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-8"
-          ],
-          "count": 8
-        },
-        {
           "sentence": "Jonas looked at Rui and said that careful work often began with admitting an ordinary mistake.",
           "chapters": [
             "ss-r11-l3-b-12",
@@ -7385,35 +6884,7 @@
           "count": 8
         },
         {
-          "sentence": "Rui An, twenty-eight, led the tour because she believed that learning about stars could belong to ordinary people, not only to those who could buy tickets.",
-          "chapters": [
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-8"
-          ],
-          "count": 8
-        },
-        {
           "sentence": "Rui asked Jonas to describe the limit of the evidence before they discussed a solution.",
-          "chapters": [
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-8"
-          ],
-          "count": 8
-        },
-        {
-          "sentence": "Rui asked the group not to hide the problem behind a smiling advertisement.",
           "chapters": [
             "ss-r11-l3-b-11",
             "ss-r11-l3-b-14",
@@ -7553,20 +7024,6 @@
           "count": 8
         },
         {
-          "sentence": "She placed a blank sheet beside the entrance, ready for facts, questions, and corrections.",
-          "chapters": [
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-8"
-          ],
-          "count": 8
-        },
-        {
           "sentence": "She spoke plainly, without turning the refusal into a speech about her own courage.",
           "chapters": [
             "ss-r11-l3-b-12",
@@ -7591,20 +7048,6 @@
             "ss-r11-l3-b-3",
             "ss-r11-l3-b-6",
             "ss-r11-l3-b-9"
-          ],
-          "count": 8
-        },
-        {
-          "sentence": "They had argued about timing before, but never about the value of a clear exit.",
-          "chapters": [
-            "ss-r11-l3-b-11",
-            "ss-r11-l3-b-14",
-            "ss-r11-l3-b-17",
-            "ss-r11-l3-b-2",
-            "ss-r11-l3-b-20",
-            "ss-r11-l3-b-23",
-            "ss-r11-l3-b-5",
-            "ss-r11-l3-b-8"
           ],
           "count": 8
         },
@@ -7661,6 +7104,18 @@
           "count": 6
         },
         {
+          "sentence": "One speaker described a scene from work; another remembered a journey, while a third chose to leave the card unanswered.",
+          "chapters": [
+            "ss-r11-l3-b-1",
+            "ss-r11-l3-b-11",
+            "ss-r11-l3-b-16",
+            "ss-r11-l3-b-2",
+            "ss-r11-l3-b-21",
+            "ss-r11-l3-b-6"
+          ],
+          "count": 6
+        },
+        {
           "sentence": "Rui did not dismiss the worry merely because it came from someone powerful.",
           "chapters": [
             "ss-r11-l3-b-11",
@@ -7680,6 +7135,18 @@
             "ss-r11-l3-b-17",
             "ss-r11-l3-b-2",
             "ss-r11-l3-b-5",
+            "ss-r11-l3-b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "The talk moved from easy memories to questions about who was allowed to speak and who would carry the results home.",
+          "chapters": [
+            "ss-r11-l3-b-1",
+            "ss-r11-l3-b-13",
+            "ss-r11-l3-b-18",
+            "ss-r11-l3-b-23",
+            "ss-r11-l3-b-3",
             "ss-r11-l3-b-8"
           ],
           "count": 6
@@ -7706,12 +7173,12 @@
       "id": "ss-r11-l6-a",
       "title": "王室療養院，不准替病人說謊",
       "chapters": 25,
-      "englishWords": 15598,
-      "minimumChapterWords": 609,
+      "englishWords": 14263,
+      "minimumChapterWords": 500,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
-      "repeatedLongSentencePatterns": 50,
+      "repeatedLongSentencePatterns": 42,
       "highestSentenceReuse": 25,
       "sentenceReuseExamples": [
         {
@@ -7945,19 +7412,6 @@
           "count": 7
         },
         {
-          "sentence": "A remembered ending did not establish the truth about living people, and the plot was already changing around her.",
-          "chapters": [
-            "ss-r11-l6-a-1",
-            "ss-r11-l6-a-13",
-            "ss-r11-l6-a-17",
-            "ss-r11-l6-a-21",
-            "ss-r11-l6-a-25",
-            "ss-r11-l6-a-5",
-            "ss-r11-l6-a-9"
-          ],
-          "count": 7
-        },
-        {
           "sentence": "Adela asked the clerks to preserve the technical original and prepare a plain-language explanation alongside it.",
           "chapters": [
             "ss-r11-l6-a-1",
@@ -7971,33 +7425,7 @@
           "count": 7
         },
         {
-          "sentence": "For a moment Adela wanted to use her knowledge of the novel as proof.",
-          "chapters": [
-            "ss-r11-l6-a-1",
-            "ss-r11-l6-a-13",
-            "ss-r11-l6-a-17",
-            "ss-r11-l6-a-21",
-            "ss-r11-l6-a-25",
-            "ss-r11-l6-a-5",
-            "ss-r11-l6-a-9"
-          ],
-          "count": 7
-        },
-        {
           "sentence": "She corrected a spelling mistake but would not alter an uncertain answer.",
-          "chapters": [
-            "ss-r11-l6-a-1",
-            "ss-r11-l6-a-13",
-            "ss-r11-l6-a-17",
-            "ss-r11-l6-a-21",
-            "ss-r11-l6-a-25",
-            "ss-r11-l6-a-5",
-            "ss-r11-l6-a-9"
-          ],
-          "count": 7
-        },
-        {
-          "sentence": "She put the memory aside and returned to what the witnesses could support.",
           "chapters": [
             "ss-r11-l6-a-1",
             "ss-r11-l6-a-13",
@@ -8111,42 +7539,6 @@
           "count": 6
         },
         {
-          "sentence": "Adela had spent years auditing records in another life; that knowledge taught her how easily a neat form could conceal a human decision.",
-          "chapters": [
-            "ss-r11-l6-a-12",
-            "ss-r11-l6-a-16",
-            "ss-r11-l6-a-20",
-            "ss-r11-l6-a-24",
-            "ss-r11-l6-a-4",
-            "ss-r11-l6-a-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "Adela knew that a quick accusation might calm them for an hour and destroy a fair trial for years.",
-          "chapters": [
-            "ss-r11-l6-a-10",
-            "ss-r11-l6-a-14",
-            "ss-r11-l6-a-18",
-            "ss-r11-l6-a-2",
-            "ss-r11-l6-a-22",
-            "ss-r11-l6-a-6"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "Adela looked at the documents waiting on the table and admitted that she did not know.",
-          "chapters": [
-            "ss-r11-l6-a-11",
-            "ss-r11-l6-a-15",
-            "ss-r11-l6-a-19",
-            "ss-r11-l6-a-23",
-            "ss-r11-l6-a-3",
-            "ss-r11-l6-a-7"
-          ],
-          "count": 6
-        },
-        {
           "sentence": "Adela now used it as a safeguard: a doubtful claim went into a separate column until another person checked it.",
           "chapters": [
             "ss-r11-l6-a-10",
@@ -8159,43 +7551,7 @@
           "count": 6
         },
         {
-          "sentence": "Adela reminded the families that no one had to choose that day, and independent advice would be available before any document was signed.",
-          "chapters": [
-            "ss-r11-l6-a-12",
-            "ss-r11-l6-a-16",
-            "ss-r11-l6-a-20",
-            "ss-r11-l6-a-24",
-            "ss-r11-l6-a-4",
-            "ss-r11-l6-a-8"
-          ],
-          "count": 6
-        },
-        {
           "sentence": "Adela treated that small change as a duty, not a victory speech.",
-          "chapters": [
-            "ss-r11-l6-a-10",
-            "ss-r11-l6-a-14",
-            "ss-r11-l6-a-18",
-            "ss-r11-l6-a-2",
-            "ss-r11-l6-a-22",
-            "ss-r11-l6-a-6"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "Afterward the staff compared the written order with what had happened in the ward.",
-          "chapters": [
-            "ss-r11-l6-a-11",
-            "ss-r11-l6-a-15",
-            "ss-r11-l6-a-19",
-            "ss-r11-l6-a-23",
-            "ss-r11-l6-a-3",
-            "ss-r11-l6-a-7"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "An order from the palace could open a door, but it could not explain what had happened behind it.",
           "chapters": [
             "ss-r11-l6-a-10",
             "ss-r11-l6-a-14",
@@ -8243,18 +7599,6 @@
           "count": 6
         },
         {
-          "sentence": "In the novel, a speech by the director would have solved the scene within a page.",
-          "chapters": [
-            "ss-r11-l6-a-11",
-            "ss-r11-l6-a-15",
-            "ss-r11-l6-a-19",
-            "ss-r11-l6-a-23",
-            "ss-r11-l6-a-3",
-            "ss-r11-l6-a-7"
-          ],
-          "count": 6
-        },
-        {
           "sentence": "Nia refused, saying that certainty purchased with an invented detail was just another form of deception.",
           "chapters": [
             "ss-r11-l6-a-11",
@@ -8268,18 +7612,6 @@
         },
         {
           "sentence": "On the left she copied verified dates; on the right she wrote the questions raised by those dates.",
-          "chapters": [
-            "ss-r11-l6-a-12",
-            "ss-r11-l6-a-16",
-            "ss-r11-l6-a-20",
-            "ss-r11-l6-a-24",
-            "ss-r11-l6-a-4",
-            "ss-r11-l6-a-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "Outside, the city kept moving: carts crossed bridges, children hurried home, and vendors closed their stalls.",
           "chapters": [
             "ss-r11-l6-a-12",
             "ss-r11-l6-a-16",
@@ -8315,115 +7647,7 @@
           "count": 6
         },
         {
-          "sentence": "She asked every visitor to distinguish what they had actually seen from what someone had merely told them.",
-          "chapters": [
-            "ss-r11-l6-a-12",
-            "ss-r11-l6-a-16",
-            "ss-r11-l6-a-20",
-            "ss-r11-l6-a-24",
-            "ss-r11-l6-a-4",
-            "ss-r11-l6-a-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "She asked the guards to protect the doorway without stopping peaceful questions.",
-          "chapters": [
-            "ss-r11-l6-a-10",
-            "ss-r11-l6-a-14",
-            "ss-r11-l6-a-18",
-            "ss-r11-l6-a-2",
-            "ss-r11-l6-a-22",
-            "ss-r11-l6-a-6"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "She learned to remain in the room after the dramatic part was over.",
-          "chapters": [
-            "ss-r11-l6-a-11",
-            "ss-r11-l6-a-15",
-            "ss-r11-l6-a-19",
-            "ss-r11-l6-a-23",
-            "ss-r11-l6-a-3",
-            "ss-r11-l6-a-7"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The actual people before Adela did not owe her an easy ending.",
-          "chapters": [
-            "ss-r11-l6-a-11",
-            "ss-r11-l6-a-15",
-            "ss-r11-l6-a-19",
-            "ss-r11-l6-a-23",
-            "ss-r11-l6-a-3",
-            "ss-r11-l6-a-7"
-          ],
-          "count": 6
-        },
-        {
           "sentence": "The corridors were still narrow, the work still hard, and most questions still open.",
-          "chapters": [
-            "ss-r11-l6-a-10",
-            "ss-r11-l6-a-14",
-            "ss-r11-l6-a-18",
-            "ss-r11-l6-a-2",
-            "ss-r11-l6-a-22",
-            "ss-r11-l6-a-6"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The first question was not whether the palace was embarrassed, but whose voice the institution had ignored.",
-          "chapters": [
-            "ss-r11-l6-a-12",
-            "ss-r11-l6-a-16",
-            "ss-r11-l6-a-20",
-            "ss-r11-l6-a-24",
-            "ss-r11-l6-a-4",
-            "ss-r11-l6-a-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The investigation affected them all, whether or not they had heard Adela’s name.",
-          "chapters": [
-            "ss-r11-l6-a-12",
-            "ss-r11-l6-a-16",
-            "ss-r11-l6-a-20",
-            "ss-r11-l6-a-24",
-            "ss-r11-l6-a-4",
-            "ss-r11-l6-a-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The note was placed in the public inspection folder, where the time, author, and reason for every correction could be checked.",
-          "chapters": [
-            "ss-r11-l6-a-12",
-            "ss-r11-l6-a-16",
-            "ss-r11-l6-a-20",
-            "ss-r11-l6-a-24",
-            "ss-r11-l6-a-4",
-            "ss-r11-l6-a-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The promise she could make was narrower: no missing page would be replaced with a convenient guess, and no patient would be turned into a symbol without consent.",
-          "chapters": [
-            "ss-r11-l6-a-11",
-            "ss-r11-l6-a-15",
-            "ss-r11-l6-a-19",
-            "ss-r11-l6-a-23",
-            "ss-r11-l6-a-3",
-            "ss-r11-l6-a-7"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "The response was imperfect, but it left room for witnesses to approach.",
           "chapters": [
             "ss-r11-l6-a-10",
             "ss-r11-l6-a-14",
@@ -8443,30 +7667,6 @@
             "ss-r11-l6-a-25",
             "ss-r11-l6-a-5",
             "ss-r11-l6-a-9"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "Vale's representatives offered an attractive shortcut: a private agreement, a generous payment, and silence from everyone who accepted.",
-          "chapters": [
-            "ss-r11-l6-a-12",
-            "ss-r11-l6-a-16",
-            "ss-r11-l6-a-20",
-            "ss-r11-l6-a-24",
-            "ss-r11-l6-a-4",
-            "ss-r11-l6-a-8"
-          ],
-          "count": 6
-        },
-        {
-          "sentence": "When they found a difference, they recorded it without inventing an excuse.",
-          "chapters": [
-            "ss-r11-l6-a-11",
-            "ss-r11-l6-a-15",
-            "ss-r11-l6-a-19",
-            "ss-r11-l6-a-23",
-            "ss-r11-l6-a-3",
-            "ss-r11-l6-a-7"
           ],
           "count": 6
         },
@@ -8493,6 +7693,138 @@
             "ss-r11-l6-a-6"
           ],
           "count": 6
+        },
+        {
+          "sentence": "Outside, the city kept moving: carts crossed bridges, children hurried home, and vendors closed their stalls.",
+          "chapters": [
+            "ss-r11-l6-a-12",
+            "ss-r11-l6-a-16",
+            "ss-r11-l6-a-20",
+            "ss-r11-l6-a-24",
+            "ss-r11-l6-a-4"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "The investigation affected them all, whether or not they had heard Adela’s name.",
+          "chapters": [
+            "ss-r11-l6-a-12",
+            "ss-r11-l6-a-16",
+            "ss-r11-l6-a-20",
+            "ss-r11-l6-a-24",
+            "ss-r11-l6-a-4"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Adela looked at the documents waiting on the table and admitted that she did not know.",
+          "chapters": [
+            "ss-r11-l6-a-15",
+            "ss-r11-l6-a-19",
+            "ss-r11-l6-a-3",
+            "ss-r11-l6-a-7"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Afterward the staff compared the written order with what had happened in the ward.",
+          "chapters": [
+            "ss-r11-l6-a-11",
+            "ss-r11-l6-a-23",
+            "ss-r11-l6-a-3",
+            "ss-r11-l6-a-7"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "In the novel, a speech by the director would have solved the scene within a page.",
+          "chapters": [
+            "ss-r11-l6-a-11",
+            "ss-r11-l6-a-23",
+            "ss-r11-l6-a-3",
+            "ss-r11-l6-a-7"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She learned to remain in the room after the dramatic part was over.",
+          "chapters": [
+            "ss-r11-l6-a-11",
+            "ss-r11-l6-a-23",
+            "ss-r11-l6-a-3",
+            "ss-r11-l6-a-7"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The actual people before Adela did not owe her an easy ending.",
+          "chapters": [
+            "ss-r11-l6-a-11",
+            "ss-r11-l6-a-23",
+            "ss-r11-l6-a-3",
+            "ss-r11-l6-a-7"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The promise she could make was narrower: no missing page would be replaced with a convenient guess, and no patient would be turned into a symbol without consent.",
+          "chapters": [
+            "ss-r11-l6-a-15",
+            "ss-r11-l6-a-19",
+            "ss-r11-l6-a-3",
+            "ss-r11-l6-a-7"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "When they found a difference, they recorded it without inventing an excuse.",
+          "chapters": [
+            "ss-r11-l6-a-11",
+            "ss-r11-l6-a-23",
+            "ss-r11-l6-a-3",
+            "ss-r11-l6-a-7"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Adela had spent years auditing records in another life; that knowledge taught her how easily a neat form could conceal a human decision.",
+          "chapters": [
+            "ss-r11-l6-a-4",
+            "ss-r11-l6-a-8"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Adela reminded the families that no one had to choose that day, and independent advice would be available before any document was signed.",
+          "chapters": [
+            "ss-r11-l6-a-12",
+            "ss-r11-l6-a-4"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "She asked every visitor to distinguish what they had actually seen from what someone had merely told them.",
+          "chapters": [
+            "ss-r11-l6-a-4",
+            "ss-r11-l6-a-8"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "The first question was not whether the palace was embarrassed, but whose voice the institution had ignored.",
+          "chapters": [
+            "ss-r11-l6-a-4",
+            "ss-r11-l6-a-8"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "The note was placed in the public inspection folder, where the time, author, and reason for every correction could be checked.",
+          "chapters": [
+            "ss-r11-l6-a-4",
+            "ss-r11-l6-a-8"
+          ],
+          "count": 2
         }
       ],
       "editorialStatus": "句子重用待逐章修訂"
@@ -8576,26 +7908,16 @@
       "id": "ss-r12-l6-b",
       "title": "山路盡頭，還有未還的書",
       "chapters": 25,
-      "englishWords": 16521,
-      "minimumChapterWords": 641,
+      "englishWords": 14973,
+      "minimumChapterWords": 501,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
-      "repeatedLongSentencePatterns": 98,
+      "repeatedLongSentencePatterns": 64,
       "highestSentenceReuse": 4,
       "sentenceReuseExamples": [
         {
           "sentence": "It was between a service that listened and a service that counted people only when they were easy to count.",
-          "chapters": [
-            "ss-r12-l6-b-1",
-            "ss-r12-l6-b-17",
-            "ss-r12-l6-b-25",
-            "ss-r12-l6-b-9"
-          ],
-          "count": 4
-        },
-        {
-          "sentence": "Several people still disagreed, and Yuqing was glad the record showed it.",
           "chapters": [
             "ss-r12-l6-b-1",
             "ss-r12-l6-b-17",
@@ -8613,11 +7935,9 @@
             "ss-r12-l6-b-9"
           ],
           "count": 4
-        }
-      ],
-      "sentenceReuseDetails": [
+        },
         {
-          "sentence": "It was between a service that listened and a service that counted people only when they were easy to count.",
+          "sentence": "She carried a pencil and a dated notebook, because a reader might ask tomorrow what had really happened today.",
           "chapters": [
             "ss-r12-l6-b-1",
             "ss-r12-l6-b-17",
@@ -8625,9 +7945,11 @@
             "ss-r12-l6-b-9"
           ],
           "count": 4
-        },
+        }
+      ],
+      "sentenceReuseDetails": [
         {
-          "sentence": "Several people still disagreed, and Yuqing was glad the record showed it.",
+          "sentence": "It was between a service that listened and a service that counted people only when they were easy to count.",
           "chapters": [
             "ss-r12-l6-b-1",
             "ss-r12-l6-b-17",
@@ -8667,37 +7989,7 @@
           "count": 4
         },
         {
-          "sentence": "She had seen too many projects fail after being declared a triumph.",
-          "chapters": [
-            "ss-r12-l6-b-1",
-            "ss-r12-l6-b-17",
-            "ss-r12-l6-b-25",
-            "ss-r12-l6-b-9"
-          ],
-          "count": 4
-        },
-        {
-          "sentence": "The village lights came on one by one as the volunteers packed the books away.",
-          "chapters": [
-            "ss-r12-l6-b-1",
-            "ss-r12-l6-b-17",
-            "ss-r12-l6-b-25",
-            "ss-r12-l6-b-9"
-          ],
-          "count": 4
-        },
-        {
           "sentence": "The volunteers disagreed on the next step, which Yuqing considered healthier than an artificial show of unity.",
-          "chapters": [
-            "ss-r12-l6-b-1",
-            "ss-r12-l6-b-17",
-            "ss-r12-l6-b-25",
-            "ss-r12-l6-b-9"
-          ],
-          "count": 4
-        },
-        {
-          "sentence": "This time the next inspection had a date, the next review had a public address, and the people who would be affected knew where to speak.",
           "chapters": [
             "ss-r12-l6-b-1",
             "ss-r12-l6-b-17",
@@ -8765,51 +8057,6 @@
           "count": 3
         },
         {
-          "sentence": "A favor might be offered freely and then mentioned at every meeting for years.",
-          "chapters": [
-            "ss-r12-l6-b-12",
-            "ss-r12-l6-b-20",
-            "ss-r12-l6-b-4"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "A good public decision could be revised when new evidence arrived, without pretending that responsibility had disappeared.",
-          "chapters": [
-            "ss-r12-l6-b-16",
-            "ss-r12-l6-b-24",
-            "ss-r12-l6-b-8"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "A late arrival could be corrected, an unsafe crossing could be closed, and an unhappy reader could appeal.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "A librarian could tell the difference between a book that was missing and a book that had never been counted.",
-          "chapters": [
-            "ss-r12-l6-b-13",
-            "ss-r12-l6-b-21",
-            "ss-r12-l6-b-5"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "A public explanation had failed if its intended readers could not act on it.",
-          "chapters": [
-            "ss-r12-l6-b-12",
-            "ss-r12-l6-b-20",
-            "ss-r12-l6-b-4"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "A public service survived by being revisited, checked, and changed, not by finding one person willing to carry all the danger.",
           "chapters": [
             "ss-r12-l6-b-12",
@@ -8828,74 +8075,11 @@
           "count": 3
         },
         {
-          "sentence": "An old hurt still occupied part of their conversations, but it no longer controlled every word.",
-          "chapters": [
-            "ss-r12-l6-b-10",
-            "ss-r12-l6-b-18",
-            "ss-r12-l6-b-2"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Before breakfast it belonged to delivery drivers; after school it filled with children and grandparents.",
-          "chapters": [
-            "ss-r12-l6-b-10",
-            "ss-r12-l6-b-18",
-            "ss-r12-l6-b-2"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Beyond the window, the road climbed into darkness, and somewhere above it a family was waiting for a storybook that had been promised, not a miracle that could never be delivered.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "By evening, the team had more work than before, but at least the work had a name and an owner.",
-          "chapters": [
-            "ss-r12-l6-b-16",
-            "ss-r12-l6-b-24",
-            "ss-r12-l6-b-8"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Chengyue could acknowledge the past; she could listen without giving him the answer he might hope to hear.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "Chengyue had a habit of offering practical help before asking whether help was wanted.",
           "chapters": [
             "ss-r12-l6-b-14",
             "ss-r12-l6-b-22",
             "ss-r12-l6-b-6"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Chengyue offered a factual correction where one was needed and silence where one was not.",
-          "chapters": [
-            "ss-r12-l6-b-10",
-            "ss-r12-l6-b-18",
-            "ss-r12-l6-b-2"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Even a tender moment did not erase the need for honest boundaries or the possibility of choosing different roads.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
           ],
           "count": 3
         },
@@ -8923,15 +8107,6 @@
             "ss-r12-l6-b-15",
             "ss-r12-l6-b-23",
             "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Instead, the driver checked the tires, a volunteer copied the minutes, and a child waited patiently for the library's next visit.",
-          "chapters": [
-            "ss-r12-l6-b-10",
-            "ss-r12-l6-b-18",
-            "ss-r12-l6-b-2"
           ],
           "count": 3
         },
@@ -8972,33 +8147,6 @@
           "count": 3
         },
         {
-          "sentence": "Meiling described her own plans before asking about the books, and Yuqing smiled.",
-          "chapters": [
-            "ss-r12-l6-b-15",
-            "ss-r12-l6-b-23",
-            "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Neither had been dishonest; they had measured different parts of the journey.",
-          "chapters": [
-            "ss-r12-l6-b-13",
-            "ss-r12-l6-b-21",
-            "ss-r12-l6-b-5"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "None of these acts would make the library look perfect, but each could make it trustworthy.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "Now he looked at the people who would live with his calculations.",
           "chapters": [
             "ss-r12-l6-b-16",
@@ -9026,15 +8174,6 @@
           "count": 3
         },
         {
-          "sentence": "She accepted, because the honest answer gave her room to choose the length of the walk.",
-          "chapters": [
-            "ss-r12-l6-b-16",
-            "ss-r12-l6-b-24",
-            "ss-r12-l6-b-8"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "She answered that progress which could be checked was worth the extra time.",
           "chapters": [
             "ss-r12-l6-b-14",
@@ -9049,42 +8188,6 @@
             "ss-r12-l6-b-14",
             "ss-r12-l6-b-22",
             "ss-r12-l6-b-6"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She asked him whether he was offering company or hoping to settle an old debt.",
-          "chapters": [
-            "ss-r12-l6-b-16",
-            "ss-r12-l6-b-24",
-            "ss-r12-l6-b-8"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She asked them whether the notice told them when they could borrow their books again.",
-          "chapters": [
-            "ss-r12-l6-b-12",
-            "ss-r12-l6-b-20",
-            "ss-r12-l6-b-4"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She began to imagine meeting him again after the project ended, when neither would have a reason to stand beside the other except wanting to.",
-          "chapters": [
-            "ss-r12-l6-b-10",
-            "ss-r12-l6-b-18",
-            "ss-r12-l6-b-2"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She could go home, take a day off, or accept another job without proving that everyone else would be safe only if she remained.",
-          "chapters": [
-            "ss-r12-l6-b-13",
-            "ss-r12-l6-b-21",
-            "ss-r12-l6-b-5"
           ],
           "count": 3
         },
@@ -9107,60 +8210,6 @@
           "count": 3
         },
         {
-          "sentence": "She had never believed that a good ending meant every question was answered.",
-          "chapters": [
-            "ss-r12-l6-b-16",
-            "ss-r12-l6-b-24",
-            "ss-r12-l6-b-8"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She knew this habit made meetings longer; she also knew that a short meeting could leave behind a very long injury.",
-          "chapters": [
-            "ss-r12-l6-b-13",
-            "ss-r12-l6-b-21",
-            "ss-r12-l6-b-5"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She took down the name of anyone who offered to check a fact, but she never confused a willing witness with a source that required no verification.",
-          "chapters": [
-            "ss-r12-l6-b-10",
-            "ss-r12-l6-b-18",
-            "ss-r12-l6-b-2"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She turned off her phone after writing a brief note for the morning shift and slept without waiting for anyone's permission.",
-          "chapters": [
-            "ss-r12-l6-b-15",
-            "ss-r12-l6-b-23",
-            "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She wanted an institution that would survive when its most energetic volunteers grew tired or decided to move somewhere else.",
-          "chapters": [
-            "ss-r12-l6-b-12",
-            "ss-r12-l6-b-20",
-            "ss-r12-l6-b-4"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "She was still useful, but usefulness was no longer the whole of her worth.",
-          "chapters": [
-            "ss-r12-l6-b-13",
-            "ss-r12-l6-b-21",
-            "ss-r12-l6-b-5"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "She wrote the next appointment on her calendar before closing her bag.",
           "chapters": [
             "ss-r12-l6-b-12",
@@ -9179,15 +8228,6 @@
           "count": 3
         },
         {
-          "sentence": "Sometimes they talked about the work; sometimes about the books they had loved before they became too busy to read.",
-          "chapters": [
-            "ss-r12-l6-b-15",
-            "ss-r12-l6-b-23",
-            "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "Still, it gave her a practical way to decide what to do at dawn: ask the next person, inspect the next stop, check the next invoice.",
           "chapters": [
             "ss-r12-l6-b-11",
@@ -9197,38 +8237,11 @@
           "count": 3
         },
         {
-          "sentence": "That night Yuqing called her mother and asked how the day had gone.",
-          "chapters": [
-            "ss-r12-l6-b-15",
-            "ss-r12-l6-b-23",
-            "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "The council chamber was built for speeches, but the most useful work took place around the small table in the hallway.",
           "chapters": [
             "ss-r12-l6-b-10",
             "ss-r12-l6-b-18",
             "ss-r12-l6-b-2"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "The distinction was small but precious: two adults could care for each other without managing each other's life.",
-          "chapters": [
-            "ss-r12-l6-b-15",
-            "ss-r12-l6-b-23",
-            "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "The first version of any public plan was always tempted to erase its own weaknesses.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
           ],
           "count": 3
         },
@@ -9251,15 +8264,6 @@
           "count": 3
         },
         {
-          "sentence": "The mountain was beautiful from a distance and tiring at the end of a workday.",
-          "chapters": [
-            "ss-r12-l6-b-16",
-            "ss-r12-l6-b-24",
-            "ss-r12-l6-b-8"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "The old route sheet was returned to its folder beside the new one.",
           "chapters": [
             "ss-r12-l6-b-14",
@@ -9269,38 +8273,11 @@
           "count": 3
         },
         {
-          "sentence": "The revised record would say so plainly, preserving the reason for the correction instead of rewriting the first report as though it had never existed.",
-          "chapters": [
-            "ss-r12-l6-b-13",
-            "ss-r12-l6-b-21",
-            "ss-r12-l6-b-5"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "The schoolchildren did not understand every line of the report, and Yuqing did not expect them to.",
-          "chapters": [
-            "ss-r12-l6-b-12",
-            "ss-r12-l6-b-20",
-            "ss-r12-l6-b-4"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "The team stopped at the school after lunch to check every entry against the original page.",
           "chapters": [
             "ss-r12-l6-b-14",
             "ss-r12-l6-b-22",
             "ss-r12-l6-b-6"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "The technician and the driver argued over a time estimate until Yuqing suggested walking the route together.",
-          "chapters": [
-            "ss-r12-l6-b-13",
-            "ss-r12-l6-b-21",
-            "ss-r12-l6-b-5"
           ],
           "count": 3
         },
@@ -9323,15 +8300,6 @@
           "count": 3
         },
         {
-          "sentence": "There were moments when Yuqing remembered why she had once trusted Chengyue: he noticed a loose step, waited for slower walkers, and could explain a complicated plan without mocking a beginner.",
-          "chapters": [
-            "ss-r12-l6-b-12",
-            "ss-r12-l6-b-20",
-            "ss-r12-l6-b-4"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "There would be another difficult decision soon, but the group had begun to share the right to make it.",
           "chapters": [
             "ss-r12-l6-b-10",
@@ -9341,29 +8309,11 @@
           "count": 3
         },
         {
-          "sentence": "They found themselves waiting for the same bus more often than either expected.",
-          "chapters": [
-            "ss-r12-l6-b-15",
-            "ss-r12-l6-b-23",
-            "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "When the meeting began, Chengyue kept his drawings face down until he was asked for them.",
           "chapters": [
             "ss-r12-l6-b-16",
             "ss-r12-l6-b-24",
             "ss-r12-l6-b-8"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "When work brought them together, they spoke as adults responsible for their own mistakes.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
           ],
           "count": 3
         },
@@ -9386,65 +8336,11 @@
           "count": 3
         },
         {
-          "sentence": "Yuqing asked the team to write those weaknesses in the same typeface as its successes.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Yuqing asked who had been left outside the survey before arguing about percentages.",
-          "chapters": [
-            "ss-r12-l6-b-13",
-            "ss-r12-l6-b-21",
-            "ss-r12-l6-b-5"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Yuqing felt the quiet satisfaction of an institution doing ordinary things well.",
-          "chapters": [
-            "ss-r12-l6-b-10",
-            "ss-r12-l6-b-18",
-            "ss-r12-l6-b-2"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Yuqing had learned not to confuse an apology with a contract for the future.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "Yuqing laid the papers where everybody could see them and invited correction.",
           "chapters": [
             "ss-r12-l6-b-15",
             "ss-r12-l6-b-23",
             "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Yuqing liked discovering the ordinary parts of him, but she kept her calendar in her own pocket.",
-          "chapters": [
-            "ss-r12-l6-b-15",
-            "ss-r12-l6-b-23",
-            "ss-r12-l6-b-7"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Yuqing listened to both groups rather than treating the loudest voices as a vote.",
-          "chapters": [
-            "ss-r12-l6-b-10",
-            "ss-r12-l6-b-18",
-            "ss-r12-l6-b-2"
           ],
           "count": 3
         },
@@ -9467,38 +8363,11 @@
           "count": 3
         },
         {
-          "sentence": "Yuqing put the annotated map into its folder and locked the cabinet in front of a witness.",
-          "chapters": [
-            "ss-r12-l6-b-11",
-            "ss-r12-l6-b-19",
-            "ss-r12-l6-b-3"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Yuqing sent a copy of the decisions to each village and left space for correction at the bottom.",
-          "chapters": [
-            "ss-r12-l6-b-16",
-            "ss-r12-l6-b-24",
-            "ss-r12-l6-b-8"
-          ],
-          "count": 3
-        },
-        {
           "sentence": "Yuqing thought about how much of her life had once been governed by the need to be useful.",
           "chapters": [
             "ss-r12-l6-b-13",
             "ss-r12-l6-b-21",
             "ss-r12-l6-b-5"
-          ],
-          "count": 3
-        },
-        {
-          "sentence": "Yuqing tried to make the rules clear enough that gratitude was welcome but never compulsory.",
-          "chapters": [
-            "ss-r12-l6-b-12",
-            "ss-r12-l6-b-20",
-            "ss-r12-l6-b-4"
           ],
           "count": 3
         },
@@ -9510,6 +8379,142 @@
             "ss-r12-l6-b-6"
           ],
           "count": 3
+        },
+        {
+          "sentence": "A good public decision could be revised when new evidence arrived, without pretending that responsibility had disappeared.",
+          "chapters": [
+            "ss-r12-l6-b-16",
+            "ss-r12-l6-b-8"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "A late arrival could be corrected, an unsafe crossing could be closed, and an unhappy reader could appeal.",
+          "chapters": [
+            "ss-r12-l6-b-11",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Beyond the window, the road climbed into darkness, and somewhere above it a family was waiting for a storybook that had been promised, not a miracle that could never be delivered.",
+          "chapters": [
+            "ss-r12-l6-b-19",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "By evening, the team had more work than before, but at least the work had a name and an owner.",
+          "chapters": [
+            "ss-r12-l6-b-16",
+            "ss-r12-l6-b-8"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Chengyue could acknowledge the past; she could listen without giving him the answer he might hope to hear.",
+          "chapters": [
+            "ss-r12-l6-b-11",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Even a tender moment did not erase the need for honest boundaries or the possibility of choosing different roads.",
+          "chapters": [
+            "ss-r12-l6-b-11",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Meiling described her own plans before asking about the books, and Yuqing smiled.",
+          "chapters": [
+            "ss-r12-l6-b-23",
+            "ss-r12-l6-b-7"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "None of these acts would make the library look perfect, but each could make it trustworthy.",
+          "chapters": [
+            "ss-r12-l6-b-11",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "She had never believed that a good ending meant every question was answered.",
+          "chapters": [
+            "ss-r12-l6-b-16",
+            "ss-r12-l6-b-8"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "She turned off her phone after writing a brief note for the morning shift and slept without waiting for anyone's permission.",
+          "chapters": [
+            "ss-r12-l6-b-23",
+            "ss-r12-l6-b-7"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "That night Yuqing called her mother and asked how the day had gone.",
+          "chapters": [
+            "ss-r12-l6-b-23",
+            "ss-r12-l6-b-7"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "The distinction was small but precious: two adults could care for each other without managing each other's life.",
+          "chapters": [
+            "ss-r12-l6-b-23",
+            "ss-r12-l6-b-7"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "The first version of any public plan was always tempted to erase its own weaknesses.",
+          "chapters": [
+            "ss-r12-l6-b-11",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "When work brought them together, they spoke as adults responsible for their own mistakes.",
+          "chapters": [
+            "ss-r12-l6-b-11",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Yuqing asked the team to write those weaknesses in the same typeface as its successes.",
+          "chapters": [
+            "ss-r12-l6-b-11",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Yuqing had learned not to confuse an apology with a contract for the future.",
+          "chapters": [
+            "ss-r12-l6-b-11",
+            "ss-r12-l6-b-3"
+          ],
+          "count": 2
+        },
+        {
+          "sentence": "Yuqing sent a copy of the decisions to each village and left space for correction at the bottom.",
+          "chapters": [
+            "ss-r12-l6-b-16",
+            "ss-r12-l6-b-8"
+          ],
+          "count": 2
         }
       ],
       "editorialStatus": "句子重用待逐章修訂"
@@ -14046,7 +13051,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-4",
-      "englishWords": 646,
+      "englishWords": 570,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14055,7 +13060,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-5",
-      "englishWords": 656,
+      "englishWords": 580,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14064,7 +13069,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-6",
-      "englishWords": 657,
+      "englishWords": 578,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14073,7 +13078,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-7",
-      "englishWords": 646,
+      "englishWords": 529,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14082,7 +13087,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-8",
-      "englishWords": 638,
+      "englishWords": 523,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14091,7 +13096,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-9",
-      "englishWords": 656,
+      "englishWords": 517,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14100,7 +13105,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-10",
-      "englishWords": 654,
+      "englishWords": 575,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14109,7 +13114,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-11",
-      "englishWords": 648,
+      "englishWords": 569,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14118,7 +13123,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-12",
-      "englishWords": 644,
+      "englishWords": 508,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14127,7 +13132,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-13",
-      "englishWords": 661,
+      "englishWords": 543,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14136,7 +13141,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-14",
-      "englishWords": 636,
+      "englishWords": 557,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14145,7 +13150,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-15",
-      "englishWords": 658,
+      "englishWords": 578,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14154,7 +13159,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-16",
-      "englishWords": 667,
+      "englishWords": 588,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14172,7 +13177,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-18",
-      "englishWords": 656,
+      "englishWords": 540,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14181,7 +13186,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-19",
-      "englishWords": 669,
+      "englishWords": 592,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14190,7 +13195,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-20",
-      "englishWords": 670,
+      "englishWords": 590,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14199,7 +13204,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-21",
-      "englishWords": 660,
+      "englishWords": 510,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14208,7 +13213,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-22",
-      "englishWords": 674,
+      "englishWords": 634,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14217,7 +13222,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-23",
-      "englishWords": 676,
+      "englishWords": 558,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14226,7 +13231,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-24",
-      "englishWords": 680,
+      "englishWords": 563,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -14235,7 +13240,7 @@
     {
       "book": "ss-r5-l5-b",
       "chapter": "ss-r5-l5-b-25",
-      "englishWords": 708,
+      "englishWords": 593,
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -27528,7 +26533,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-2",
-      "englishWords": 849,
+      "englishWords": 714,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27537,7 +26542,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-3",
-      "englishWords": 815,
+      "englishWords": 680,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27546,7 +26551,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-4",
-      "englishWords": 845,
+      "englishWords": 710,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27555,7 +26560,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-5",
-      "englishWords": 840,
+      "englishWords": 705,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27573,7 +26578,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-7",
-      "englishWords": 792,
+      "englishWords": 679,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27582,7 +26587,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-8",
-      "englishWords": 794,
+      "englishWords": 644,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27591,7 +26596,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-9",
-      "englishWords": 817,
+      "englishWords": 641,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27600,7 +26605,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-10",
-      "englishWords": 804,
+      "englishWords": 628,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27618,7 +26623,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-12",
-      "englishWords": 840,
+      "englishWords": 740,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27627,7 +26632,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-13",
-      "englishWords": 831,
+      "englishWords": 656,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27636,7 +26641,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-14",
-      "englishWords": 828,
+      "englishWords": 653,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27645,7 +26650,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-15",
-      "englishWords": 828,
+      "englishWords": 653,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27663,7 +26668,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-17",
-      "englishWords": 833,
+      "englishWords": 746,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27672,7 +26677,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-18",
-      "englishWords": 808,
+      "englishWords": 659,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27681,7 +26686,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-19",
-      "englishWords": 815,
+      "englishWords": 695,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27690,7 +26695,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-20",
-      "englishWords": 808,
+      "englishWords": 659,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27708,7 +26713,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-22",
-      "englishWords": 824,
+      "englishWords": 699,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27717,7 +26722,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-23",
-      "englishWords": 840,
+      "englishWords": 678,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27726,7 +26731,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-24",
-      "englishWords": 839,
+      "englishWords": 677,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -27735,7 +26740,7 @@
     {
       "book": "ss-r10-l5-b",
       "chapter": "ss-r10-l5-b-25",
-      "englishWords": 850,
+      "englishWords": 688,
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 6,
@@ -28428,7 +27433,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-2",
-      "englishWords": 859,
+      "englishWords": 838,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28437,7 +27442,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-3",
-      "englishWords": 861,
+      "englishWords": 823,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28446,7 +27451,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-4",
-      "englishWords": 835,
+      "englishWords": 695,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28455,7 +27460,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-5",
-      "englishWords": 867,
+      "englishWords": 703,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28464,7 +27469,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-6",
-      "englishWords": 866,
+      "englishWords": 826,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28473,7 +27478,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-7",
-      "englishWords": 834,
+      "englishWords": 734,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28482,7 +27487,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-8",
-      "englishWords": 874,
+      "englishWords": 732,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28491,7 +27496,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-9",
-      "englishWords": 866,
+      "englishWords": 767,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28500,7 +27505,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-10",
-      "englishWords": 839,
+      "englishWords": 717,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28509,7 +27514,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-11",
-      "englishWords": 871,
+      "englishWords": 748,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28518,7 +27523,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-12",
-      "englishWords": 857,
+      "englishWords": 798,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28527,7 +27532,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-13",
-      "englishWords": 844,
+      "englishWords": 744,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28536,7 +27541,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-14",
-      "englishWords": 871,
+      "englishWords": 689,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28545,7 +27550,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-15",
-      "englishWords": 857,
+      "englishWords": 776,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28554,7 +27559,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-16",
-      "englishWords": 852,
+      "englishWords": 771,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28563,7 +27568,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-17",
-      "englishWords": 871,
+      "englishWords": 729,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28572,7 +27577,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-18",
-      "englishWords": 871,
+      "englishWords": 812,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28581,7 +27586,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-19",
-      "englishWords": 850,
+      "englishWords": 710,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28590,7 +27595,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-20",
-      "englishWords": 871,
+      "englishWords": 707,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28599,7 +27604,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-21",
-      "englishWords": 870,
+      "englishWords": 830,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28608,7 +27613,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-22",
-      "englishWords": 834,
+      "englishWords": 734,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28617,7 +27622,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-23",
-      "englishWords": 865,
+      "englishWords": 723,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28626,7 +27631,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-24",
-      "englishWords": 864,
+      "englishWords": 765,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 8,
@@ -28635,7 +27640,7 @@
     {
       "book": "ss-r11-l3-b",
       "chapter": "ss-r11-l3-b-25",
-      "englishWords": 877,
+      "englishWords": 755,
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 9,
@@ -28905,7 +27910,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-5",
-      "englishWords": 629,
+      "englishWords": 583,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28914,7 +27919,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-6",
-      "englishWords": 633,
+      "englishWords": 571,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28932,7 +27937,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-8",
-      "englishWords": 622,
+      "englishWords": 552,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28941,7 +27946,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-9",
-      "englishWords": 617,
+      "englishWords": 571,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28950,7 +27955,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-10",
-      "englishWords": 628,
+      "englishWords": 566,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28959,7 +27964,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-11",
-      "englishWords": 617,
+      "englishWords": 573,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28968,7 +27973,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-12",
-      "englishWords": 613,
+      "englishWords": 516,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28977,7 +27982,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-13",
-      "englishWords": 634,
+      "englishWords": 588,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28986,7 +27991,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-14",
-      "englishWords": 619,
+      "englishWords": 557,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -28995,7 +28000,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-15",
-      "englishWords": 620,
+      "englishWords": 553,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29004,7 +28009,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-16",
-      "englishWords": 621,
+      "englishWords": 501,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29013,7 +28018,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-17",
-      "englishWords": 634,
+      "englishWords": 588,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29022,7 +28027,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-18",
-      "englishWords": 621,
+      "englishWords": 559,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29031,7 +28036,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-19",
-      "englishWords": 623,
+      "englishWords": 556,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29040,7 +28045,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-20",
-      "englishWords": 620,
+      "englishWords": 500,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29049,7 +28054,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-21",
-      "englishWords": 612,
+      "englishWords": 566,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29058,7 +28063,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-22",
-      "englishWords": 609,
+      "englishWords": 547,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29067,7 +28072,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-23",
-      "englishWords": 624,
+      "englishWords": 580,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29076,7 +28081,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-24",
-      "englishWords": 626,
+      "englishWords": 506,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -29085,7 +28090,7 @@
     {
       "book": "ss-r11-l6-a",
       "chapter": "ss-r11-l6-a-25",
-      "englishWords": 640,
+      "englishWords": 594,
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 4,
@@ -30291,7 +29296,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-9",
-      "englishWords": 657,
+      "englishWords": 592,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30300,7 +29305,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-10",
-      "englishWords": 654,
+      "englishWords": 509,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30309,7 +29314,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-11",
-      "englishWords": 649,
+      "englishWords": 601,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30318,7 +29323,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-12",
-      "englishWords": 641,
+      "englishWords": 515,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30327,7 +29332,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-13",
-      "englishWords": 654,
+      "englishWords": 508,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30345,7 +29350,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-15",
-      "englishWords": 647,
+      "englishWords": 532,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30354,7 +29359,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-16",
-      "englishWords": 651,
+      "englishWords": 605,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30363,7 +29368,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-17",
-      "englishWords": 652,
+      "englishWords": 587,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30372,7 +29377,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-18",
-      "englishWords": 646,
+      "englishWords": 501,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30381,7 +29386,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-19",
-      "englishWords": 649,
+      "englishWords": 503,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30390,7 +29395,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-20",
-      "englishWords": 648,
+      "englishWords": 522,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30399,7 +29404,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-21",
-      "englishWords": 656,
+      "englishWords": 510,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30417,7 +29422,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-23",
-      "englishWords": 668,
+      "englishWords": 618,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30426,7 +29431,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-24",
-      "englishWords": 655,
+      "englishWords": 541,
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
@@ -30435,7 +29440,7 @@
     {
       "book": "ss-r12-l6-b",
       "chapter": "ss-r12-l6-b-25",
-      "englishWords": 718,
+      "englishWords": 653,
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 5,
