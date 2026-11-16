@@ -35,6 +35,26 @@ async function run(label,options){
  try{
   await page.goto(base,{waitUntil:'domcontentloaded'});
   await page.locator('.header').waitFor();
+  const moreNav=page.locator(label==='mobile'?'.mobile-nav':'.desktop-nav');
+  await moreNav.getByRole('button',{name:'更多',exact:true}).click();
+  const more=page.getByRole('dialog',{name:'更多功能'});
+  if(await more.locator('.more-links button').count()!==3)throw Error('More menu should have three actions');
+  await page.route('https://storysteps-submissions.tttoom580-storysteps.workers.dev/submissions',async route=>{
+   const headers={'access-control-allow-origin':'*','access-control-allow-methods':'POST, OPTIONS','access-control-allow-headers':'Content-Type'};
+   if(route.request().method()==='OPTIONS')return route.fulfill({status:204,headers});
+   const payload=route.request().postDataJSON();
+   if(payload.title!=='StorySteps smoke test'||!payload.consent)throw Error('Submission form omitted expected fields');
+   return route.fulfill({status:201,headers,json:{id:payload.id}});
+  });
+  await more.getByRole('button',{name:'投稿小說'}).click();
+  await page.getByLabel('書名',{exact:true}).fill('StorySteps smoke test');
+  await page.getByLabel('筆名',{exact:true}).fill('Smoke test');
+  await page.getByLabel('小說正文',{exact:true}).fill('Synthetic manuscript text used to verify the submission form.');
+  await page.getByRole('checkbox',{name:/我擁有這份書稿的投稿權利/}).check();
+  await page.getByRole('button',{name:'送出投稿'}).click();
+  await page.getByRole('heading',{name:'投稿已收到'}).waitFor();
+  await page.getByRole('button',{name:'回首頁'}).click();
+
   const freeHome=page.getByRole('region',{name:/12 本小說/});
   await freeHome.waitFor();
   if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==12)throw Error('Homepage must show all 12 complete free books');
