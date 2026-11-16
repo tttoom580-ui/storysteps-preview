@@ -32,7 +32,7 @@ jobs:
           for attempt in 1 2 3 4; do
             git fetch origin main
             git reset --hard origin/main
-            if python3 -c "import json; j=json.load(open('verification/editorial-approvals.json')); exit(0 if len(j.get('certifiedBooks',{}))==5 else 1)"; then
+            if python3 -c "import json; j=json.load(open('verification/editorial-approvals.json')); notes=json.load(open('verification/five-book-editorial/ai-readthrough-notes-20261114.json')); exit(0 if set(notes['bookIds']) <= set(j['certifiedBooks']) else 1)"; then
               python3 scripts/check_editorial_certification.py
               python3 scripts/check_five_book_evidence.py
               echo 'All five source-locked certificates already exist.'
