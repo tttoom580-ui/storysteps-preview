@@ -116,6 +116,15 @@ async function run(label,options){
   if(await page.locator('.book-card').count()!==12)throw Error('Free-only filter must show 12 books');
   await onlyFree.click();
   await page.locator('#discover-more > summary').click();
+  const topics=page.getByRole('group',{name:'故事題材'});
+  const allTopics=topics.getByRole('button',{name:'全部題材',exact:true});
+  const mystery=topics.getByRole('button',{name:'規則懸疑',exact:true});
+  const allBooks=await page.locator('.book-card').count();
+  await mystery.click();
+  if(await mystery.getAttribute('aria-pressed')!=='true'||await page.locator('.book-card').count()>=allBooks)
+   throw Error('Visible topic chips must filter the shelf');
+  await allTopics.click();
+  if(await page.locator('.book-card').count()!==allBooks)throw Error('All topics must reset only the topic filter');
   await page.getByText('更多篩選',{exact:true}).click();
 
   await page.getByRole('heading',{name:'三分鐘試讀'}).waitFor();

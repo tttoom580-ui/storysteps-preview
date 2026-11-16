@@ -130,3 +130,9 @@
  .trial-shelf-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
 }
 @media(prefers-reduced-motion:reduce) { .trial-cover img { transition:none; } }
+
+.shelf-topics { display:flex;flex-wrap:wrap;gap:7px;margin:14px 0 4px;padding-top:13px;border-top:1px solid var(--line); }
+.shelf-topics button { min-height:35px;padding:5px 12px;border:1px solid var(--line);border-radius:999px;background:var(--panel);color:var(--ink);font-size:.82rem; }
+.shelf-topics button:hover { border-color:var(--purple); }
+.shelf-topics button[aria-pressed="true"] { background:var(--purple);border-color:var(--purple);color:var(--paper);font-weight:700; }
+@media(max-width:600px) { .shelf-topics button { min-height:42px; } }
