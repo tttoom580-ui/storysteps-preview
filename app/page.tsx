@@ -132,7 +132,7 @@ export default function Home(){
   <div className="home-intro-copy">
    <div>
     <h1 id="start-here-title">{freeBookCount} 本小說整本免費讀</h1>
-    <p className="home-lead">每本 25 章 · 英中對照 · 點詞查義</p>
+    <p className="home-lead">25 章完整故事 · 英中對照 · 點詞查義</p>
    </div>
    {progress.length>0&&<button className="secondary" onClick={()=>read(last)}>接續上次閱讀 <ArrowRight size={17}/></button>}
   </div>
@@ -141,8 +141,10 @@ export default function Home(){
     <h2>{levelLabel(level)} <span>{level}</span></h2>
     <div className="home-tier-books">
      {books.map(s=><button className="home-pick" key={s.id} onClick={()=>read(s.chapters[0].id)} aria-label={`免費讀《${s.zh}》第 1 章`}>
-      {s.cover&&<img src={s.cover} alt="" width="80" height="120" loading="lazy"/>}
-      <span><small>{s.vocabularyRange} 本</small><b>{s.zh}</b><small>{s.genre}</small></span>
+      <span className="home-cover" style={{backgroundColor:s.color}}>
+       {s.cover&&<img src={s.cover} alt="" width="320" height="480" loading={level===freeHomeShelves[0]?.level?'eager':'lazy'} decoding="async"/>}
+      </span>
+      <span className="home-book-copy"><b>{s.zh}</b><small>{s.vocabularyRange} 本 · {s.genre}</small></span>
      </button>)}
     </div>
    </section>)}
