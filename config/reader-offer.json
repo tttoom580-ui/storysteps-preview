@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "currency": "TWD",
   "phase": "prelaunch",
   "freeBookIds": [
@@ -32,7 +32,9 @@
     "checkoutEnabled": false,
     "serverEntitlementsEnabled": false,
     "privateBookStorageEnabled": false,
-    "serviceUrl": "https://storysteps-premium.tttoom580-storysteps.workers.dev"
+    "serviceUrl": "https://storysteps-premium.tttoom580-storysteps.workers.dev",
+    "accessTerm": "pending_announcement",
+    "activation": "pending_verification"
   },
   "transitionalAccess": {
     "legacyFreeUnlock": false,

@@ -54,6 +54,7 @@ async function run(label,options){
   await freeHome.getByRole('button',{name:'免費讀《雨來之前的鐘聲》第 1 章'}).click();
   await page.locator('[data-paragraph]').first().waitFor();
 
+  if(label==='mobile')await page.locator('.reader-header button').first().click();
   const nav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'閱讀',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'閱讀中心'});
   await nav.click();
   await page.getByRole('heading',{name:'我的閱讀'}).waitFor();
@@ -153,6 +154,7 @@ async function run(label,options){
   await lookup.getByRole('button',{name:'已收藏 · 移除'}).waitFor();
   await page.keyboard.press('Escape');
   await lookup.waitFor({state:'hidden'});
+  if(label==='mobile')await page.locator('.reader-header button').first().click();
   const wordsNav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'單字',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'單字口袋'});
   await wordsNav.click();
   await page.getByRole('heading',{name:'我的收藏'}).waitFor();
@@ -205,7 +207,8 @@ async function run(label,options){
   await page.locator('#search').fill('萬味渡口');
   if(await editorialRows.filter({visible:true}).count()!==1)throw Error('Editorial filter did not isolate one book');
   const auditContent=await editorialRows.filter({visible:true}).first().innerText();
-  if(!auditContent.includes('校訂完成'))throw Error('Editorial review is incorrectly marked complete');
+  const certificate=JSON.parse(readFileSync('verification/editorial-approvals.json','utf8')).certifiedBooks['ss-r10-l5-b'];
+  if(!auditContent.includes(certificate?'校訂完成':'校訂中'))throw Error('Editorial label must match full review evidence');
   // New batch: open a genuinely imported first chapter, not merely catalog metadata.
   await page.goto(base+'?book=ss-r11-l1-a&chapter=ss-r11-l1-a-1',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});

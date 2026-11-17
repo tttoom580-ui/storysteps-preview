@@ -14,7 +14,7 @@ for b in d['books']:
     issue='跨章重複長句：'+str(b['enCrossChapterSentenceReuse'])+' 組' if b['enCrossChapterSentenceReuse'] else '未檢出跨章相同長句'
     if b['privateChapters']:
         issue='公開試讀章節：'+issue
-    approval='校訂完成' if b['id'] in basic or b['id'] in approvals else '校訂中'
+    approval='校訂完成' if b['id'] in approvals else '校訂中'
     rows.append(f'''<tr><td><a href="./stories/{e(b['id'])}/">{e(b['name'])}</a></td>
     <td>{e(b['level'])}</td><td>{b['minWords']}</td><td>{b['minTargetWords']}</td>
     <td>{e(issue)}</td><td>{approval}</td></tr>''')
@@ -28,7 +28,7 @@ td,th{{padding:.65em;text-align:left;border-bottom:1px solid #827a9366;vertical-
 .notice{{border-left:4px solid #9f82c5;padding:15px 18px;background:#7660bd16;border-radius:8px}}
 </style></head><body><header><a href="./">← StorySteps 首頁</a><nav><a href="./library.html">書城</a><a href="./story-review.html">原有檢查紀錄</a><a href="./privacy.html">隱私政策</a></nav></header><main>
 <h1>{s['totalBooks']} 本小說校訂進度</h1>
-<p class="notice"><strong>校訂完成 {len(basic | approvals.keys())} 本。</strong>這輪檢查英中段落完整性、英文詞數、配詞與測驗格式，並刪除可確認雙語對應的重複敘述。</p>
+<p class="notice"><strong>校訂完成 {len(approvals)} 本。</strong>具備完整 AI 校訂紀錄；不代表獨立真人審閱。其餘 {len(catalog)-len(approvals)} 本仍在校訂中，格式掃描與重複句清理不等於全文校訂。</p>
 <p>站內例行掃描共檢查 {s['totalChapters']:,} 章。在 {sum(bool(b['editedChapters']) for b in cleanup.values())} 本的 {sum(len(b['editedChapters']) for b in cleanup.values())} 章中刪除 {sum(b['removedRepeatedPairs'] for b in cleanup.values())} 組重複的英中句對。下表列出各書仍檢出的跨章長句。</p>
 <p>其中 <strong>{len(approvals)} 本</strong>另有 AI 全文校訂紀錄，涵蓋逐段譯意、情節與測驗答案。<a href="./five-book-ai-certification.html">查看部分全文校訂紀錄</a></p>
 <label for="search">搜尋書名或等級</label><p><input id="search" type="search" placeholder="例如：校園、萬味、2000"></p>

@@ -6,5 +6,5 @@ export const stories=allStories.filter(s=>s.readable!==false);
 export const upcomingStories=allStories.filter(s=>s.readable===false);
 
 export function editorialLabel(story:Story){
- return story.learningReviewRequired===false||story.basicEditorialReviewed?'校訂完成':'校訂中';
+ return story.learningReviewRequired===false?'校訂完成':'校訂中';
 }
