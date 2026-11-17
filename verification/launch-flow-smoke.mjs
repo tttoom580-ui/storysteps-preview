@@ -32,9 +32,13 @@ try{
  assert(Math.abs((await page.evaluate(()=>scrollY))-position)<3,'Lookup must not move reading position');
  await page.locator('.chapter-pagination').scrollIntoViewIfNeeded();
  await page.waitForFunction(()=>JSON.parse(sessionStorage.getItem('storysteps-analytics-debug')||'[]').some(e=>e.event==='chapter_end'));
- await page.locator('.chapter-pagination').getByRole('button',{name:'下一章'}).click();
+ assert.equal(await page.locator('#chapter-review').isVisible(),false);
+ await page.getByRole('button',{name:'測驗與複習',exact:true}).click();
+ assert.equal(await page.locator('#chapter-review').isVisible(),true);
+ await page.locator('.chapter-pagination').getByRole('button',{name:'繼續第 2 章'}).click();
  await page.waitForFunction(()=>document.querySelector('.reader-chapter-number')?.textContent?.includes('第 2 章'));
  await page.locator('.prose').waitFor();
+ assert.equal(await page.locator('#chapter-review').isVisible(),false);
  await page.reload();await page.locator('.prose').waitFor();
  assert.match(await page.locator('.reader-chapter-number').textContent(),/第 2 章/);
  const events=await page.evaluate(()=>JSON.parse(sessionStorage.getItem('storysteps-analytics-debug')||'[]'));

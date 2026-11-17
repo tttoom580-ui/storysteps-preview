@@ -38,6 +38,7 @@ jobs:
           npm install --no-audit --no-fund
           npm install --no-save playwright
           npx playwright install --with-deps chromium
+          if ! command -v ffmpeg >/dev/null; then sudo apt-get update && sudo apt-get install -y ffmpeg; fi
       - name: Build, audit and browser smoke test
         run: |
           npm run build
@@ -63,7 +64,8 @@ jobs:
             timeout 100s node verification/browser-smoke.mjs
             timeout 100s node verification/launch-flow-smoke.mjs
             printf '{"sourceCommit":"%s"}\n' "$(git rev-parse HEAD)" > docs/release.json
-            git add -A docs
+            timeout 120s node scripts/record-reading-demos.mjs
+            git add -A docs public/demos
             if git diff --cached --quiet; then
               echo 'Current generated files are already published.'
               exit 0

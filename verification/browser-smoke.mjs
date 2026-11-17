@@ -172,6 +172,7 @@ async function run(label,options){
   await tocToggle.click();
   await page.locator('#chapter-toc').waitFor();
   await tocToggle.click();
+  await page.getByRole('button',{name:'測驗與複習',exact:true}).click();
   const quiz=page.locator('.reader-extras details').first();
   if(await quiz.locator('fieldset').first().isVisible())throw Error('Quiz should load collapsed');
   await quiz.locator('summary').click();
