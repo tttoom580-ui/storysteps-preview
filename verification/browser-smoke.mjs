@@ -126,6 +126,11 @@ async function run(label,options){
    throw Error('Visible topic chips must filter the shelf');
   await allTopics.click();
   if(await page.locator('.book-card').count()!==allBooks)throw Error('All topics must reset only the topic filter');
+  const extraTopics=page.getByRole('combobox',{name:'更多題材'});
+  await extraTopics.selectOption({label:'成年慢熱戀愛'});
+  if(await page.locator('.book-card').count()>=allBooks)throw Error('Detailed topics must filter the shelf');
+  await allTopics.click();
+  if(await extraTopics.inputValue()!=='')throw Error('Reset must clear the detailed topic');
   await page.getByText('更多篩選',{exact:true}).click();
 
   await page.getByRole('heading',{name:'三分鐘試讀'}).waitFor();
