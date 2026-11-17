@@ -1,15 +1,15 @@
 {
   "updated": "2026-11-10",
   "summary": {
-    "books": 105,
-    "chapters": 2535,
-    "englishWords": 1626091,
-    "questions": 5070,
-    "targetEntries": 50795,
-    "bilingualParagraphs": 15325,
+    "books": 111,
+    "chapters": 2685,
+    "englishWords": 1723282,
+    "questions": 5370,
+    "targetEntries": 53801,
+    "bilingualParagraphs": 16420,
     "sourceEvidenceQuestionsChecked": 783,
     "structuralErrors": 0,
-    "booksWithSentenceReuseFlags": 9,
+    "booksWithSentenceReuseFlags": 11,
     "newQuestions": 26,
     "filledMeanings": 479,
     "targetPassagesRepaired": 22,
@@ -10587,6 +10587,859 @@
       "minimumChapterWords": 644,
       "minimumTargetWords": 20,
       "questions": 20,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ss-r15-l1-b",
+      "title": "鈴果村的百變遊戲日",
+      "chapters": 25,
+      "englishWords": 16086,
+      "minimumChapterWords": 628,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 24,
+      "highestSentenceReuse": 5,
+      "sentenceReuseExamples": [
+        {
+          "sentence": "A decision made together was easier to carry into the next day.",
+          "chapters": [
+            "ss-r15-l1-b-14",
+            "ss-r15-l1-b-19",
+            "ss-r15-l1-b-24",
+            "ss-r15-l1-b-4",
+            "ss-r15-l1-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "A person might be shy, tired, or ready to ask a question.",
+          "chapters": [
+            "ss-r15-l1-b-1",
+            "ss-r15-l1-b-11",
+            "ss-r15-l1-b-16",
+            "ss-r15-l1-b-21",
+            "ss-r15-l1-b-6"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "A rule needed to be clear enough for a new helper to follow, even on a busy day.",
+          "chapters": [
+            "ss-r15-l1-b-14",
+            "ss-r15-l1-b-19",
+            "ss-r15-l1-b-24",
+            "ss-r15-l1-b-4",
+            "ss-r15-l1-b-9"
+          ],
+          "count": 5
+        }
+      ],
+      "sentenceReuseDetails": [
+        {
+          "sentence": "A decision made together was easier to carry into the next day.",
+          "chapters": [
+            "ss-r15-l1-b-14",
+            "ss-r15-l1-b-19",
+            "ss-r15-l1-b-24",
+            "ss-r15-l1-b-4",
+            "ss-r15-l1-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "A person might be shy, tired, or ready to ask a question.",
+          "chapters": [
+            "ss-r15-l1-b-1",
+            "ss-r15-l1-b-11",
+            "ss-r15-l1-b-16",
+            "ss-r15-l1-b-21",
+            "ss-r15-l1-b-6"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "A rule needed to be clear enough for a new helper to follow, even on a busy day.",
+          "chapters": [
+            "ss-r15-l1-b-14",
+            "ss-r15-l1-b-19",
+            "ss-r15-l1-b-24",
+            "ss-r15-l1-b-4",
+            "ss-r15-l1-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "A rule only worked when people knew it and were willing to follow it.",
+          "chapters": [
+            "ss-r15-l1-b-12",
+            "ss-r15-l1-b-17",
+            "ss-r15-l1-b-2",
+            "ss-r15-l1-b-22",
+            "ss-r15-l1-b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Before moving on, they read the card once more and gave each other time to ask for a change.",
+          "chapters": [
+            "ss-r15-l1-b-1",
+            "ss-r15-l1-b-11",
+            "ss-r15-l1-b-16",
+            "ss-r15-l1-b-21",
+            "ss-r15-l1-b-6"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Cora suggested checking the work with a child who had not helped to design it.",
+          "chapters": [
+            "ss-r15-l1-b-13",
+            "ss-r15-l1-b-18",
+            "ss-r15-l1-b-23",
+            "ss-r15-l1-b-3",
+            "ss-r15-l1-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Everybody could add a drawing or a few words, but nobody had to write if they did not want to.",
+          "chapters": [
+            "ss-r15-l1-b-14",
+            "ss-r15-l1-b-19",
+            "ss-r15-l1-b-24",
+            "ss-r15-l1-b-4",
+            "ss-r15-l1-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Filo agreed and offered to explain the rules using only simple words.",
+          "chapters": [
+            "ss-r15-l1-b-13",
+            "ss-r15-l1-b-18",
+            "ss-r15-l1-b-23",
+            "ss-r15-l1-b-3",
+            "ss-r15-l1-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Filo drew a small mark beside that choice so he would remember it.",
+          "chapters": [
+            "ss-r15-l1-b-14",
+            "ss-r15-l1-b-19",
+            "ss-r15-l1-b-24",
+            "ss-r15-l1-b-4",
+            "ss-r15-l1-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Filo was ready to make a quick choice, but Cora asked him to wait until everybody had spoken.",
+          "chapters": [
+            "ss-r15-l1-b-12",
+            "ss-r15-l1-b-17",
+            "ss-r15-l1-b-2",
+            "ss-r15-l1-b-22",
+            "ss-r15-l1-b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "He listened, even when the answer was not the one he hoped to hear.",
+          "chapters": [
+            "ss-r15-l1-b-12",
+            "ss-r15-l1-b-17",
+            "ss-r15-l1-b-2",
+            "ss-r15-l1-b-22",
+            "ss-r15-l1-b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Lark reminded the children that a game could be exciting and still leave room for someone who needed more time.",
+          "chapters": [
+            "ss-r15-l1-b-12",
+            "ss-r15-l1-b-17",
+            "ss-r15-l1-b-2",
+            "ss-r15-l1-b-22",
+            "ss-r15-l1-b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Milo pointed out that an idea and a rule were different things.",
+          "chapters": [
+            "ss-r15-l1-b-14",
+            "ss-r15-l1-b-19",
+            "ss-r15-l1-b-24",
+            "ss-r15-l1-b-4",
+            "ss-r15-l1-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Milo wrote the example on a clean card and put a small question mark beside the parts they still did not know.",
+          "chapters": [
+            "ss-r15-l1-b-1",
+            "ss-r15-l1-b-11",
+            "ss-r15-l1-b-16",
+            "ss-r15-l1-b-21",
+            "ss-r15-l1-b-6"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Nela asked every helper to give one clear example instead of simply calling the work good or bad.",
+          "chapters": [
+            "ss-r15-l1-b-1",
+            "ss-r15-l1-b-11",
+            "ss-r15-l1-b-16",
+            "ss-r15-l1-b-21",
+            "ss-r15-l1-b-6"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Nela read the notes aloud to the group and checked whether she had understood them.",
+          "chapters": [
+            "ss-r15-l1-b-14",
+            "ss-r15-l1-b-19",
+            "ss-r15-l1-b-24",
+            "ss-r15-l1-b-4",
+            "ss-r15-l1-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Nela said that a friendly game needed a clear answer, not a long speech.",
+          "chapters": [
+            "ss-r15-l1-b-1",
+            "ss-r15-l1-b-11",
+            "ss-r15-l1-b-16",
+            "ss-r15-l1-b-21",
+            "ss-r15-l1-b-6"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She asked Milo to describe what a new visitor could see with no help.",
+          "chapters": [
+            "ss-r15-l1-b-12",
+            "ss-r15-l1-b-17",
+            "ss-r15-l1-b-2",
+            "ss-r15-l1-b-22",
+            "ss-r15-l1-b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "They called it ready for another honest test, and that was enough for the moment.",
+          "chapters": [
+            "ss-r15-l1-b-13",
+            "ss-r15-l1-b-18",
+            "ss-r15-l1-b-23",
+            "ss-r15-l1-b-3",
+            "ss-r15-l1-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "They talked about what would happen if a stranger arrived without knowing any of their plans.",
+          "chapters": [
+            "ss-r15-l1-b-1",
+            "ss-r15-l1-b-11",
+            "ss-r15-l1-b-16",
+            "ss-r15-l1-b-21",
+            "ss-r15-l1-b-6"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "This was a small thing to write in a notebook, but it could mean a great deal to someone standing in front of a game for the first time.",
+          "chapters": [
+            "ss-r15-l1-b-13",
+            "ss-r15-l1-b-18",
+            "ss-r15-l1-b-23",
+            "ss-r15-l1-b-3",
+            "ss-r15-l1-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Cora added a drawing, and Filo showed what he meant by moving one game piece slowly across the table.",
+          "chapters": [
+            "ss-r15-l1-b-10",
+            "ss-r15-l1-b-15",
+            "ss-r15-l1-b-20",
+            "ss-r15-l1-b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Lark asked them to think about the next visitor, not only about the friends who already knew the game.",
+          "chapters": [
+            "ss-r15-l1-b-10",
+            "ss-r15-l1-b-15",
+            "ss-r15-l1-b-20",
+            "ss-r15-l1-b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Nela wrote it in plain words and asked everyone to check the page.",
+          "chapters": [
+            "ss-r15-l1-b-10",
+            "ss-r15-l1-b-15",
+            "ss-r15-l1-b-20",
+            "ss-r15-l1-b-5"
+          ],
+          "count": 4
+        }
+      ],
+      "editorialStatus": "句子重用待逐章修訂"
+    },
+    {
+      "id": "ss-r15-l2-b",
+      "title": "借一本到明天",
+      "chapters": 25,
+      "englishWords": 16124,
+      "minimumChapterWords": 622,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ss-r15-l3-b",
+      "title": "裂痕也能盛住光",
+      "chapters": 25,
+      "englishWords": 15537,
+      "minimumChapterWords": 600,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ss-r15-l4-b",
+      "title": "1997，青潭泳池的第六條水道",
+      "chapters": 25,
+      "englishWords": 15449,
+      "minimumChapterWords": 600,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ss-r15-l5-b",
+      "title": "不販售的黎明：夜幕劇團",
+      "chapters": 25,
+      "englishWords": 17800,
+      "minimumChapterWords": 668,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 37,
+      "highestSentenceReuse": 6,
+      "sentenceReuseExamples": [
+        {
+          "sentence": "A cracked bowl had survived a mountain winter; a blue curtain had been patched by people who disagreed about almost everything except the need for shelter.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "At the shared meal, there was no seat reserved for a hero.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "By night, their quarrel had become another practical lesson for the apprentices who carried the lamps.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5"
+          ],
+          "count": 6
+        }
+      ],
+      "sentenceReuseDetails": [
+        {
+          "sentence": "A cracked bowl had survived a mountain winter; a blue curtain had been patched by people who disagreed about almost everything except the need for shelter.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "At the shared meal, there was no seat reserved for a hero.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "By night, their quarrel had become another practical lesson for the apprentices who carried the lamps.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "He checked the simple parts first: doors, handles, brakes, and the path by which a tired person could escape.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "He had once hidden uncomfortable facts behind beautiful lines, believing that an elegant story could make a hard decision easier to bear.",
+          "chapters": [
+            "ss-r15-l5-b-11",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-2",
+            "ss-r15-l5-b-20",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "He was frightened by the moment when somebody grew certain that machinery would forgive any mistake.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "It also meant they would continue speaking to one another after the audience went home.",
+          "chapters": [
+            "ss-r15-l5-b-11",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-2",
+            "ss-r15-l5-b-20",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "It carried unfinished apologies, borrowed tools, and promises whose meaning changed with the people who heard them.",
+          "chapters": [
+            "ss-r15-l5-b-11",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-2",
+            "ss-r15-l5-b-20",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Tao noticed that Yi remembered people's names even when he forgot the exact date of a performance.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Tao respected the change but did not pretend that trust had been restored in a single conversation.",
+          "chapters": [
+            "ss-r15-l5-b-11",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-2",
+            "ss-r15-l5-b-20",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Tao sometimes preferred a neat surface, because a repairer likes to see a job finished.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "The actors could pack a scene into a chest, but they could not pack away its consequences.",
+          "chapters": [
+            "ss-r15-l5-b-11",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-2",
+            "ss-r15-l5-b-20",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "The work seemed ordinary from a distance, yet every safe step gave their extraordinary journey a reason to continue.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "The youngest apprentice served soup to the oldest carpenter, and the carpenter passed bread to a visitor who had spoken against their plan.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "They argued, then found that the scars of use helped newcomers understand what had broken and why.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "They had little patience for grand declarations that omitted a missing screw.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "They prepared instructions that could be followed without them, and tested those instructions on someone who had never seen the equipment.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "What mattered was whether the next town would have enough information to make its own decision after the actors had gone.",
+          "chapters": [
+            "ss-r15-l5-b-1",
+            "ss-r15-l5-b-10",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-19",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "When Yi offered to hand over the notebook, Tao said, 'Keep it.",
+          "chapters": [
+            "ss-r15-l5-b-11",
+            "ss-r15-l5-b-15",
+            "ss-r15-l5-b-2",
+            "ss-r15-l5-b-20",
+            "ss-r15-l5-b-24",
+            "ss-r15-l5-b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "When the wheels stopped, Tao asked what the nearest household needed before asking what the theatre needed.",
+          "chapters": [
+            "ss-r15-l5-b-11",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-2",
+            "ss-r15-l5-b-20",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Yi learned to make the same distinction in his scripts: a moving speech was not proof that a plan would work, and a quiet objection deserved as much attention as a cheer.",
+          "chapters": [
+            "ss-r15-l5-b-11",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-2",
+            "ss-r15-l5-b-20",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Yi stood beside him with the list, correcting a number whenever it was wrong.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-16",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-25",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "A witness was not merely a person asked to applaud; a witness could say that the experiment must stop.",
+          "chapters": [
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-18",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5",
+            "ss-r15-l5-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "At first it had been filled with accusations neither dared to speak.",
+          "chapters": [
+            "ss-r15-l5-b-13",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-22",
+            "ss-r15-l5-b-4",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "At sunset—although the sky no longer offered a true sunset—the cast gathered around a lamp whose flame was deliberately small.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Every test therefore ended with the same question: who stood beyond the wall, where the operators could not see?",
+          "chapters": [
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-18",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5",
+            "ss-r15-l5-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "If someone wished to leave before the decision, the exit remained clear; the theatre had once been used to hold people in place, and they refused to repeat that mistake.",
+          "chapters": [
+            "ss-r15-l5-b-13",
+            "ss-r15-l5-b-18",
+            "ss-r15-l5-b-22",
+            "ss-r15-l5-b-4",
+            "ss-r15-l5-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Later it became the quiet required to hear a tiny fault inside a moving mechanism.",
+          "chapters": [
+            "ss-r15-l5-b-13",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-22",
+            "ss-r15-l5-b-4",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "No one was asked to surrender a private memory to make it brighter.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Tao drew the problem twice, once as the people in the room described it and again as the equipment would behave.",
+          "chapters": [
+            "ss-r15-l5-b-13",
+            "ss-r15-l5-b-18",
+            "ss-r15-l5-b-22",
+            "ss-r15-l5-b-4",
+            "ss-r15-l5-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Tao listened for the change in a gear's rhythm, and Yi marked each small result on a sheet that anyone could inspect.",
+          "chapters": [
+            "ss-r15-l5-b-14",
+            "ss-r15-l5-b-18",
+            "ss-r15-l5-b-23",
+            "ss-r15-l5-b-5",
+            "ss-r15-l5-b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Tao trusted what his hands could measure, while Yi could imagine how a choice might affect people not yet in the room.",
+          "chapters": [
+            "ss-r15-l5-b-13",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-22",
+            "ss-r15-l5-b-4",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "The company followed neither man blindly, and that, more than the repaired hinges, was why the stage continued to travel.",
+          "chapters": [
+            "ss-r15-l5-b-13",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-22",
+            "ss-r15-l5-b-4",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "The lanterns could reveal how a road had looked; they could not move a stone or turn a mirror.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "The second was to stop an experiment the moment a witness withdrew consent.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Their memory lanterns worked only with permission, played a scene once, and then returned the recording to its owner.",
+          "chapters": [
+            "ss-r15-l5-b-12",
+            "ss-r15-l5-b-17",
+            "ss-r15-l5-b-21",
+            "ss-r15-l5-b-3",
+            "ss-r15-l5-b-8"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "They had learned that an audience could understand a difficult choice when it was shown the cost as well as the benefit.",
+          "chapters": [
+            "ss-r15-l5-b-13",
+            "ss-r15-l5-b-18",
+            "ss-r15-l5-b-22",
+            "ss-r15-l5-b-4",
+            "ss-r15-l5-b-9"
+          ],
+          "count": 5
+        }
+      ],
+      "editorialStatus": "句子重用待逐章修訂"
+    },
+    {
+      "id": "ss-r15-l6-a",
+      "title": "惡女館長，不肯把歷史賣給王室",
+      "chapters": 25,
+      "englishWords": 16195,
+      "minimumChapterWords": 615,
+      "minimumTargetWords": 20,
+      "questions": 50,
       "structuralChecksPassed": true,
       "repeatedLongSentencePatterns": 0,
       "highestSentenceReuse": 1,
@@ -33409,6 +34262,1356 @@
       "targetWords": 20,
       "questions": 2,
       "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-1",
+      "englishWords": 651,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-2",
+      "englishWords": 628,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-3",
+      "englishWords": 638,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-4",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-5",
+      "englishWords": 653,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-6",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-7",
+      "englishWords": 638,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-8",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-9",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-10",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-11",
+      "englishWords": 652,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-12",
+      "englishWords": 639,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-13",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-14",
+      "englishWords": 629,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-15",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-16",
+      "englishWords": 643,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-17",
+      "englishWords": 635,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-18",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-19",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-20",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-21",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-22",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-23",
+      "englishWords": 649,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-24",
+      "englishWords": 648,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l1-b",
+      "chapter": "ss-r15-l1-b-25",
+      "englishWords": 649,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-1",
+      "englishWords": 665,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-2",
+      "englishWords": 628,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-3",
+      "englishWords": 648,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-4",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-5",
+      "englishWords": 649,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-6",
+      "englishWords": 644,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-7",
+      "englishWords": 638,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-8",
+      "englishWords": 629,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-9",
+      "englishWords": 625,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-10",
+      "englishWords": 622,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-11",
+      "englishWords": 641,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-12",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-13",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-14",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-15",
+      "englishWords": 644,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-16",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-17",
+      "englishWords": 639,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-18",
+      "englishWords": 676,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-19",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-20",
+      "englishWords": 644,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-21",
+      "englishWords": 632,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-22",
+      "englishWords": 648,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-23",
+      "englishWords": 661,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-24",
+      "englishWords": 664,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l2-b",
+      "chapter": "ss-r15-l2-b-25",
+      "englishWords": 689,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-1",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-2",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-3",
+      "englishWords": 622,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-4",
+      "englishWords": 618,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-5",
+      "englishWords": 601,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-6",
+      "englishWords": 616,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-7",
+      "englishWords": 604,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-8",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-9",
+      "englishWords": 612,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-10",
+      "englishWords": 606,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-11",
+      "englishWords": 628,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-12",
+      "englishWords": 625,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-13",
+      "englishWords": 614,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-14",
+      "englishWords": 623,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-15",
+      "englishWords": 616,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-16",
+      "englishWords": 644,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-17",
+      "englishWords": 608,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-18",
+      "englishWords": 600,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-19",
+      "englishWords": 601,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-20",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-21",
+      "englishWords": 638,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-22",
+      "englishWords": 616,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-23",
+      "englishWords": 606,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-24",
+      "englishWords": 627,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l3-b",
+      "chapter": "ss-r15-l3-b-25",
+      "englishWords": 652,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-1",
+      "englishWords": 630,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-2",
+      "englishWords": 624,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-3",
+      "englishWords": 604,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-4",
+      "englishWords": 615,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-5",
+      "englishWords": 616,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-6",
+      "englishWords": 624,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-7",
+      "englishWords": 609,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-8",
+      "englishWords": 619,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-9",
+      "englishWords": 619,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-10",
+      "englishWords": 609,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-11",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-12",
+      "englishWords": 610,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-13",
+      "englishWords": 606,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-14",
+      "englishWords": 616,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-15",
+      "englishWords": 615,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-16",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-17",
+      "englishWords": 600,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-18",
+      "englishWords": 620,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-19",
+      "englishWords": 621,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-20",
+      "englishWords": 616,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-21",
+      "englishWords": 600,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-22",
+      "englishWords": 607,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-23",
+      "englishWords": 605,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-24",
+      "englishWords": 613,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l4-b",
+      "chapter": "ss-r15-l4-b-25",
+      "englishWords": 687,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-1",
+      "englishWords": 694,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-2",
+      "englishWords": 710,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-3",
+      "englishWords": 668,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-4",
+      "englishWords": 677,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-5",
+      "englishWords": 699,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-6",
+      "englishWords": 698,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-7",
+      "englishWords": 702,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-8",
+      "englishWords": 706,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-9",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-10",
+      "englishWords": 713,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-11",
+      "englishWords": 699,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-12",
+      "englishWords": 707,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-13",
+      "englishWords": 707,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-14",
+      "englishWords": 741,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-15",
+      "englishWords": 748,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-16",
+      "englishWords": 704,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-17",
+      "englishWords": 734,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-18",
+      "englishWords": 701,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-19",
+      "englishWords": 719,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-20",
+      "englishWords": 727,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-21",
+      "englishWords": 716,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-22",
+      "englishWords": 740,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-23",
+      "englishWords": 756,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-24",
+      "englishWords": 722,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l5-b",
+      "chapter": "ss-r15-l5-b-25",
+      "englishWords": 730,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-1",
+      "englishWords": 692,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-2",
+      "englishWords": 674,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-3",
+      "englishWords": 668,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-4",
+      "englishWords": 650,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-5",
+      "englishWords": 664,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-6",
+      "englishWords": 650,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-7",
+      "englishWords": 652,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-8",
+      "englishWords": 643,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-9",
+      "englishWords": 638,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-10",
+      "englishWords": 643,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-11",
+      "englishWords": 639,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-12",
+      "englishWords": 658,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-13",
+      "englishWords": 615,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-14",
+      "englishWords": 625,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-15",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-16",
+      "englishWords": 636,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-17",
+      "englishWords": 640,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-18",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-19",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-20",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-21",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-22",
+      "englishWords": 650,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-23",
+      "englishWords": 639,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-24",
+      "englishWords": 638,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ss-r15-l6-a",
+      "chapter": "ss-r15-l6-a-25",
+      "englishWords": 672,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 8,
       "errors": []
     }
   ]
