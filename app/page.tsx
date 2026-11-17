@@ -52,7 +52,7 @@ const distinctTrialBooks=trialBooks.filter(story=>{
  trialGenres.add(story.genre);
  return true;
 });
-const trialPicks=[...new Set([...trialBooks.filter(story=>story.id.startsWith('ss-r14-')),...distinctTrialBooks,...trialBooks])].slice(0,6);
+const trialPicks=[...new Set([...trialBooks.filter(story=>story.id.startsWith('ss-r15-')),...distinctTrialBooks,...trialBooks])].slice(0,6);
 const expandedTrialBooks=[...trialPicks,...trialBooks.filter(story=>!trialPicks.includes(story))];
 const allMeta=stories.flatMap(s=>s.chapters);
 const totalWritten=allMeta.filter(c=>c.available).length;
