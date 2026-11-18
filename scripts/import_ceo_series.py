@@ -14,6 +14,12 @@ BOOKS = {
     "4b": ("1999，總裁的心動不在合約裡", "Love Was Never in the Contract", "1999 年，知夏當場叫停香水發表會。她遇上願意聽她說完的總裁，也要守住自己的研究紀錄。"),
     "5a": ("總裁的合約，買不到我的名字", "The CEO Cannot Buy My Name", "慈善秀上，一棠翻開衣領，亮出親手繡下的縮寫。接下來的每一份合作，她都要保住設計署名。"),
     "6b": ("裴總，這份婚約不在收購清單裡", "The CEO Cannot Buy My Yes", "以寧拒絕在收購意向書上簽名。她要求留下會議紀錄，也要自己決定婚約和品牌的未來。"),
+    "1b": ("總裁，假婚約星期五到期", "CEO, the Rumored Engagement Ends on Friday", "修鐘師泰莎因一張照片陷入豪門緋聞。她和飯店總裁約定公開合作二十一天，並沿著古鐘裡的線索追查真相。"),
+    "2b": ("總裁，這張車票不賣給你", "CEO, You Cannot Buy This Ticket", "星光號首航前，列車安全工程師林雨晴掛出停駛牌。從煞車裂損到被改過的維修紀錄，她要鐵道總裁給乘客一個交代。"),
+    "3b": ("總裁，請先撤回那則聲明", "CEO, Retract That Statement", "飯店集團急著平息風波，公關顧問唐予晴要求總裁公開撤回聲明，讓被忽略的員工有機會說話。"),
+    "4a": ("董事會副本：總裁只剩一票", "The Boardroom Dungeon: One Vote for the CEO", "股東大會變成生存副本，股票決定市民的逃生權。總裁賀行舟得和員工聯手，破解每次表決背後的代價。"),
+    "5b": ("他的帝國靠岸時：總裁與不出售碼頭的男人", "When His Empire Came Ashore", "程硯帶著收購案來到東碼頭。許臨川拒絕出售，並要求他先公開合約裡由居民承擔的風險。"),
+    "6a": ("陸總，惡女的認罪書我不簽", "The Villainess CEO Who Refused to Confess", "企業稽核師穿進小說，成了即將為全城大停電坐牢的執行長。陸總帶來紓困條款，她要先查清自己被要求承認的罪。"),
 }
 
 
@@ -61,8 +67,9 @@ def register_books():
                 maxSentence=max(lengths), lastScene=paragraphs[-1]["zh"][:100])
 
         manifest["books"][book_id] = dict(url="./books/" + matches[0].name, chapters=25)
+        genre = {"4a": "都市遊戲災變", "5b": "雙男主霸總戀愛"}.get(code, "霸總戀愛")
         catalog.append(dict(id=book_id, title=en_title, zh=zh, level=LEVELS[level-1],
-            vocabularyRange=code[1].upper(), genre="霸總戀愛", tags=["新作", "霸總戀愛"],
+            vocabularyRange=code[1].upper(), genre=genre, tags=["新作", "霸總"],
             desc=hook, hook=hook, color="#73618c", cover=f"./covers/{book_id}.webp", chapters=metadata,
             vocabularySummary=dict(referenceLevel=level, uniqueTargets=501, perChapter=20),
             learningReviewRequired=True, readable=True,

@@ -14,5 +14,5 @@ export const genreGroups=[
 export function matchesGenre(story:Story,selection:string){
  if(selection==='全部題材')return true;
  const group=genreGroups.find(group=>group.name===selection);
- return group?group.pattern.test(story.genre):story.genre===selection||!!story.tags?.includes(selection);
+ return story.tags?.includes(selection)===true || (group?group.pattern.test(story.genre):story.genre===selection);
 }

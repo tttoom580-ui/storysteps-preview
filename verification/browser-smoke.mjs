@@ -123,7 +123,7 @@ async function run(label,options){
   await page.getByRole('heading',{name:'總裁，這份合約我改了｜第一卷：她刪掉的那一條',exact:true}).waitFor();
   const ceoBooks=page.locator('.book-card');
   await ceoBooks.getByRole('heading',{name:'冷面總裁，請先問我',exact:true}).waitFor();
-  if(await ceoBooks.count()!==7)throw Error('CEO genre should show the original novel and six newly imported titles');
+  await ceoBooks.getByRole('heading',{name:'董事會副本：總裁只剩一票',exact:true}).waitFor();
   await allTopics.click();
   const mystery=topics.getByRole('button',{name:/^懸疑推理/});
   const allBooks=await page.locator('.book-card').count();
@@ -144,6 +144,8 @@ async function run(label,options){
   const latest=page.locator('#new-releases');
   await latest.getByRole('heading',{name:'新的故事，現在開讀。'}).waitFor();
   if(await latest.locator('.release-item').count()!==6)throw Error('Six latest releases are not visible in library');
+  await latest.getByRole('heading',{name:'總裁，假婚約星期五到期',exact:true}).waitFor();
+  await latest.getByRole('heading',{name:'陸總，惡女的認罪書我不簽',exact:true}).waitFor();
   const latestCovers=latest.locator('.release-item img');
   if(await latestCovers.count()!==6)throw Error('Latest releases must all have covers');
   await latestCovers.first().evaluate(async image=>{
