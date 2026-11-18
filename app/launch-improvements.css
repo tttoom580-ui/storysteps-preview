@@ -125,3 +125,17 @@
  .app .level-tabs{display:flex;flex-wrap:nowrap;overflow-x:auto;max-width:100%;padding-bottom:8px}
  .app .level-tabs button{flex-shrink:0}
 }
+
+.app .reader-tools .mixed-toggle{border:1px solid var(--purple);color:var(--purple);border-radius:999px;font-weight:700}
+.app .reader-tools .mixed-toggle[aria-pressed="true"]{background:var(--purple);color:var(--paper)}
+.app .mixed-prose .mixed-paragraph{font-family:var(--system);font-size:1em;line-height:2.05!important;letter-spacing:.025em;word-break:normal;overflow-wrap:break-word}
+.app .mixed-word{font-family:Georgia,serif;font-size:1.08em!important;letter-spacing:0;font-weight:600;color:var(--purple);background:var(--lavender);padding:0 .15em;margin:0 .1em;border-radius:4px;text-decoration:none;border:0;border-bottom:2px solid var(--purple)}
+.app .mixed-meaning{font-size:.76em;color:var(--muted);letter-spacing:0}
+.app .mixed-unit{display:inline}
+.app .mixed-original{font-size:.8em;line-height:1.8;margin:10px 0 20px;color:var(--muted)}
+.app .mixed-original summary{cursor:pointer;font-size:13px}
+.app .mixed-original p{color:var(--ink);font-size:1.1em;margin-top:14px}
+@media(max-width:700px){
+ .app .mixed-prose .mixed-paragraph{font-size:18px!important;line-height:2!important}
+ .app .reader-tools button{min-height:42px}
+}
