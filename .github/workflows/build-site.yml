@@ -25,7 +25,7 @@ permissions:
   contents: write
 concurrency:
   group: storysteps-build
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -35,10 +35,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22.13.1'
-      - name: Install dependencies and browser once
+      - name: Install JavaScript dependencies
+        timeout-minutes: 3
+        run: npm install --no-save --no-audit --no-fund --fetch-timeout=30000 --fetch-retries=2 playwright
+      - name: Install browser and video tools
+        timeout-minutes: 3
         run: |
-          npm install --no-audit --no-fund
-          npm install --no-save playwright
           npx playwright install --with-deps chromium
           if ! command -v ffmpeg >/dev/null; then sudo apt-get update && sudo apt-get install -y ffmpeg; fi
       - name: Build, audit and browser smoke test
