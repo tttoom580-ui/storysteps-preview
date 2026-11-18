@@ -241,6 +241,17 @@ async function run(label,options){
    await page.goto(base+'?book='+id+'&chapter='+id+'-1',{waitUntil:'domcontentloaded'});
    await page.locator('[data-paragraph]').first().waitFor({timeout:10000});
   }
+  await page.goto(base+'?book=ceo-series-5a&chapter=ceo-series-5a-3',{waitUntil:'domcontentloaded'});
+  await page.locator('[data-paragraph]').first().waitFor();
+  await page.getByRole('button',{name:'邪修法',exact:true}).click();
+  const targets=page.locator('.mixed-prose button.mixed-word');
+  if(await targets.count()!==20)throw Error('Mixed mode must show all 20 distinct chapter targets');
+  const ticking=targets.filter({hasText:/^ticking$/i});
+  await ticking.click();
+  const definition=page.getByRole('dialog',{name:'單字中文翻譯'});
+  await definition.getByText('發出滴答聲',{exact:true}).waitFor();
+  if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+3))
+   throw Error('Mixed mode overflows the viewport');
   if(errors.length)throw Error(label+' JS errors: '+errors.join('; '));
   console.log(JSON.stringify({device:label,ok:true,sync:true,theme:true}));
  }finally{await context.close()}

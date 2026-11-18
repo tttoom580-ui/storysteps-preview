@@ -142,3 +142,7 @@
 
 /* Dictionary definitions keep their part-of-speech lines readable in the lookup dock. */
 .word-dock .word-meaning,.word-modal .word-meaning{white-space:pre-line;overflow-wrap:anywhere}
+
+.app .mixed-nearby{display:flex;flex-wrap:wrap;align-items:baseline;gap:.25rem .6rem;margin:-.4rem 0 .6rem;padding:.45rem .65rem;border-inline-start:2px solid var(--lavender);font-size:.85em;line-height:1.65}
+.app .mixed-nearby-label{color:var(--muted);font-size:.78em;margin-inline-end:.2rem}
+.app .mixed-nearby .mixed-unit{max-width:100%;overflow-wrap:anywhere}

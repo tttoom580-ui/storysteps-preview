@@ -6,14 +6,21 @@ function shortMeanings(text) {
     .filter(value => /^[\u3400-\u9fff]{2,10}$/.test(value));
 }
 
-export function mixParagraph(paragraph, words, references = {}) {
+const wordKey = word => word.trim().toLowerCase().replace(/[’‘]/g, "'");
+
+function wordPattern(word) {
+  const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/'/g, "['’‘]");
+  return new RegExp('(?<![A-Za-z])' + escaped + '(?![A-Za-z])', 'i');
+}
+
+export function mixParagraph(paragraph, words, references = {}, shown = new Set()) {
   const candidates = [];
   const occupiedMeanings = new Map();
   for (const entry of words) {
     const english = entry.word?.trim();
     if (!english || !entry.meaning || !/[A-Za-z]/.test(english)) continue;
-    const escaped = english.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const exact = new RegExp('(?<![A-Za-z])' + escaped + '(?![A-Za-z])', 'i').exec(paragraph.en);
+    if (shown.has(wordKey(english))) continue;
+    const exact = wordPattern(wordKey(english)).exec(paragraph.en);
     const actual = exact?.[0] || (paragraph.en.match(/[A-Za-z]+(?:['’][A-Za-z]+)*/g) || [])
       .find(form => references[form.toLowerCase()]?.original === english.toLowerCase());
     if (!actual) continue;
@@ -50,4 +57,35 @@ export function mixParagraph(paragraph, words, references = {}) {
   }
   if (text) parts.push({text});
   return parts;
+}
+
+/** Place each distinct target in the translation where possible, or beside its source paragraph. */
+export function mixChapter(paragraphs, words) {
+  const targets = [...new Map(words.filter(entry => entry.word?.trim() && entry.meaning?.trim())
+    .map(entry => [wordKey(entry.word), entry])).entries()];
+  const located = paragraphs.map(() => []);
+  for (const [key, entry] of targets) {
+    const pattern = wordPattern(key);
+    paragraphs.forEach((paragraph, index) => {
+      const match = pattern.exec(paragraph.en);
+      if (match) located[index].push({key, entry, text: match[0]});
+    });
+  }
+
+  const shown = new Set();
+  const result = paragraphs.map((paragraph, index) => {
+    const parts = mixParagraph(paragraph, located[index].map(target => target.entry), {}, shown);
+    for (const part of parts) {
+      if (part.entry) shown.add(wordKey(part.entry.word));
+    }
+    return {parts, nearby: []};
+  });
+  located.forEach((matches, index) => {
+    for (const {key, entry, text} of matches) {
+      if (shown.has(key)) continue;
+      result[index].nearby.push({text, entry, meaning: entry.meaning});
+      shown.add(key);
+    }
+  });
+  return {paragraphs: result, count: shown.size};
 }
