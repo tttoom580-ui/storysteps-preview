@@ -1,7 +1,9 @@
+import {Fragment} from 'react';
 import type {Word} from './types';
 
 type StudyWord = {text: string; meaning: string; entry: Word};
-type MixedPart = {text: string; meaning?: string; entry?: Word};
+type InlineNote = StudyWord & {anchor: 'sentence' | 'paragraph'};
+type MixedPart = {text: string} | StudyWord | {terms: InlineNote[]};
 
 function MixedWord({part,hints}:{part:StudyWord;hints:boolean}) {
  return <span className="mixed-unit">
@@ -10,13 +12,14 @@ function MixedWord({part,hints}:{part:StudyWord;hints:boolean}) {
  </span>;
 }
 
-export default function MixedParagraph({parts,nearby,hints}:{parts:MixedPart[];nearby:StudyWord[];hints:boolean}) {
- return <div lang="zh-Hant">
-  <p className="mixed-paragraph">{parts.map((part,index)=>part.entry&&part.meaning
-   ?<MixedWord key={index} part={{...part,entry:part.entry,meaning:part.meaning}} hints={hints}/>:part.text)}</p>
-  {!!nearby.length&&<div className="mixed-nearby">
-   <span className="mixed-nearby-label">本段單字</span>
-   {nearby.map(part=><MixedWord key={part.entry.word} part={part} hints={hints}/>)}
-  </div>}
- </div>;
+export default function MixedParagraph({parts,hints}:{parts:MixedPart[];hints:boolean}) {
+ return <p className="mixed-paragraph" lang="zh-Hant">{parts.map((part,index)=>{
+  if ('terms' in part) return <span className="mixed-source-note" role="group" key={index}
+   aria-label={part.terms[0].anchor==='sentence'?'原句用詞':'原段用詞'}>
+   {'〔'}{part.terms.map((term,wordIndex)=><Fragment key={term.entry.word}>
+    {wordIndex>0?'、':null}<MixedWord part={term} hints={hints}/>
+   </Fragment>)}{'〕'}
+  </span>;
+  return 'entry' in part?<MixedWord key={index} part={part} hints={hints}/>:part.text;
+ })}</p>;
 }

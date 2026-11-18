@@ -1,0 +1,101 @@
+{
+  "import-rain-bell-1": {
+    "early": {
+      "paragraph": 0,
+      "translation": "清晨"
+    },
+    "sun": {
+      "paragraph": 0,
+      "translation": "陽光"
+    },
+    "cover": {
+      "paragraph": 1,
+      "translation": "白布"
+    },
+    "teach": {
+      "paragraph": 2,
+      "translation": "教"
+    },
+    "write": {
+      "paragraph": 2,
+      "translation": "記下"
+    },
+    "himself": {
+      "paragraph": 3,
+      "translation": "自己"
+    },
+    "bell": {
+      "paragraph": 0,
+      "translation": "警鐘",
+      "prefix": "老舊的"
+    },
+    "monkey": {
+      "paragraph": 3,
+      "translation": "猴子",
+      "prefix": "表演要用的紙"
+    },
+    "exercise": {
+      "paragraph": 3,
+      "translation": "運動",
+      "prefix": "晨間"
+    }
+  },
+  "ceo-series-5a-3": {
+    "beloved": {
+      "paragraph": 0,
+      "translation": "愛人"
+    },
+    "layer": {
+      "paragraph": 0,
+      "translation": "逐層"
+    },
+    "prey": {
+      "paragraph": 0,
+      "translation": "獵物"
+    },
+    "scope": {
+      "paragraph": 0,
+      "translation": "範圍"
+    },
+    "attorney": {
+      "paragraph": 0,
+      "translation": "律師"
+    },
+    "cautious": {
+      "paragraph": 0,
+      "translation": "謹慎"
+    },
+    "executive": {
+      "paragraph": 0,
+      "translation": "主管"
+    },
+    "straighten": {
+      "paragraph": 1,
+      "translation": "拉直",
+      "meaning": "拉直；整理平整"
+    },
+    "strap": {
+      "paragraph": 1,
+      "translation": "肩帶",
+      "meaning": "肩帶；背帶"
+    },
+    "diminish": {
+      "paragraph": 1,
+      "translation": "下降",
+      "meaning": "使減少；使下降"
+    },
+    "bound": {
+      "paragraph": 2,
+      "translation": "一定會",
+      "meaning": "一定會（bound to）"
+    },
+    "specialize": {
+      "paragraph": 2,
+      "translation": "專門研究"
+    },
+    "ticking": {
+      "paragraph": 3,
+      "after": "敲著腕錶"
+    }
+  }
+}

@@ -1,5 +1,6 @@
 import MixedParagraph from './mixed-reading';
 import {mixChapter} from './mixed-tokens.mjs';
+import mixedAlignments from './mixed-alignments.json';
 import {genreGroups,matchesGenre} from './story-genres';
 import {trackReading,AnalyticsChoice} from './launch-analytics';
 import BackupPanel from './backup-panel';
@@ -30,6 +31,8 @@ import type {Story,Chapter,Word} from './types';
 import {dayKey,streak,nextReview} from './learning';
 import {rangeLabel,levelLabel} from './vocabulary-range';
 import {normalizeWord, findDefinition,findExpandedDefinition} from './dictionary';
+
+const reviewedAlignments: Record<string,Record<string,{paragraph:number;translation?:string;after?:string;prefix?:string;meaning?:string}>>=mixedAlignments;
 const animalAvatars=[
  {id:'cat',label:'橘貓',position:'0% 0%'},
  {id:'rabbit',label:'白兔',position:'100% 0%'},
@@ -123,7 +126,11 @@ export default function Home(){
  const [wordAbove,setWordAbove]=useState(false);
  const inlineLookup=view==='reader'&&!!word&&!modal;
  const modalOpen=!!modal||!!word&&!inlineLookup;
- const chapterWords=useMemo(()=>new Map(chapter?.words.filter(w=>w.meaning).map(w=>[normalizeWord(w.word),w])),[chapter]);
+ const chapterWords=useMemo(()=>new Map(chapter?.words.filter(w=>w.meaning).map(w=>{
+  const key=normalizeWord(w.word);
+  const meaning=mixedReading?reviewedAlignments[chapter.id]?.[key]?.meaning:undefined;
+  return [key,meaning?{...w,meaning}:w] as const;
+ })),[chapter,mixedReading]);
  const savedWords=useMemo(()=>new Map(vocab.filter(w=>w.meaning).map(w=>[normalizeWord(w.word),w])),[vocab]);
  function closeWord(restoreFocus=true){
   lookupRequest.current++;
@@ -196,7 +203,7 @@ export default function Home(){
   }
   feature.update(s=>({...s,lookups:{...s.lookups,[story.id]:(s.lookups[story.id]||0)+1}}));
  }
- const mixedChapter=useMemo(()=>mixedReading&&chapter?mixChapter(chapter.paragraphs,chapter.words):null,[chapter,mixedReading]);
+ const mixedChapter=useMemo(()=>mixedReading&&chapter?mixChapter(chapter.paragraphs,chapter.words,reviewedAlignments[chapter.id]):null,[chapter,mixedReading]);
  const readerText=useMemo(()=>{
   function tokenize(value:string){
    return value.split(/(\p{L}+(?:['’]\p{L}+)*)/gu).map((part,i)=>{
@@ -334,7 +341,7 @@ export default function Home(){
    <button onClick={()=>comfort.setFocus(!comfort.focus)}>{comfort.focus?'退出專注閱讀':'專注閱讀'}</button>
    {currentMeta&&<a className="text-link" href={'?book='+encodeURIComponent(story.id)+'&chapter='+encodeURIComponent(currentMeta.id)}>本章固定網址</a>}
   </div></details>
- </div><button className="text-link share-chapter" onClick={async()=>{const url=new URL(location.pathname,location.origin);url.searchParams.set('book',story.id);url.searchParams.set('chapter',chapter.id);try{await navigator.clipboard.writeText(url.href);setToast('本章閱讀連結已複製')}catch{setToast('請使用閱讀設定中的「本章固定網址」複製連結')}}}>複製本章連結</button><p className="reader-inline-tip">{mixedChapter?`本章 ${mixedChapter.count} 個目標詞。點字查詞，收起詞義練習回想。`:'點英文單字看中文，按「返回原文」繼續閱讀。'}</p><div className={'prose '+(mixedReading?'mixed-prose':'')} style={{fontSize,lineHeight:comfort.line}}>{chapter.paragraphs.map((p,i)=><section id={'paragraph-'+i} data-paragraph={i} key={chapter.id+'-'+i}>{mixedChapter?<><MixedParagraph {...mixedChapter.paragraphs[i]} hints={mixedHints}/><details className="mixed-original"><summary>看這段英文</summary><p lang="en">{readerText?.paragraphs[i]}</p></details></>:<p style={{lineHeight:comfort.line}}>{readerText?.paragraphs[i]}</p>}{!mixedReading&&translated.includes(i)&&<p className="translation">{p.zh}</p>}<details className="paragraph-tools"><summary aria-label="段落工具" title="段落工具">⋯</summary><button hidden={mixedReading} className="paragraph-translate" onClick={()=>setTranslated(translated.includes(i)?translated.filter(n=>n!==i):[...translated,i])}>{translated.includes(i)?'收起中文 −':'中文 ＋'}</button><QuoteButton chapter={chapter} index={i} story={story} state={feature.state} update={feature.update}/><SentenceReport story={story} chapter={chapter} index={i}/></details></section>)}</div><EndMarker story={story} chapter={chapter}/><div className="chapter-pagination">{currentMeta?.number===25?<button className="primary" onClick={()=>navigate('library')}>讀完這本，挑下一本 <Check size={17}/></button>:currentMeta?.number===previewChapters&&!chapterReadable(story.id,previewChapters+1)?<button className="primary" onClick={()=>showCheckout(story.id)}>繼續讀第 {previewChapters+1} 章 <ArrowRight size={17}/></button>:<button className="primary" onClick={()=>{trackReading('next_chapter',story.id,chapter.id);sendEvent('next_chapter',story.id,chapter.id);read(story.chapters[currentMeta?.number||1].id)}}>繼續第 {(currentMeta?.number||1)+1} 章 <ChevronRight size={17}/></button>}<button className="chapter-review-link" aria-expanded={showReview} aria-controls="chapter-review" onClick={()=>setShowReview(value=>!value)}>{showReview?'收起測驗與複習':'測驗與複習'}</button></div>{reachedPreviewEnd&&<p className="preview-price">{premiumDescription}{!premium.checkout&&<small>通行證尚未開賣</small>}</p>}{nextFreeBook&&<section className="next-free" aria-label="下一本整本免費小說">
+ </div><button className="text-link share-chapter" onClick={async()=>{const url=new URL(location.pathname,location.origin);url.searchParams.set('book',story.id);url.searchParams.set('chapter',chapter.id);try{await navigator.clipboard.writeText(url.href);setToast('本章閱讀連結已複製')}catch{setToast('請使用閱讀設定中的「本章固定網址」複製連結')}}}>複製本章連結</button><p className="reader-inline-tip">{mixedChapter?`本章 ${mixedChapter.count} 個正文目標詞。〔〕標示原文用詞，可點字查詞。`:'點英文單字看中文，按「返回原文」繼續閱讀。'}</p><div className={'prose '+(mixedReading?'mixed-prose':'')} style={{fontSize,lineHeight:comfort.line}}>{chapter.paragraphs.map((p,i)=><section id={'paragraph-'+i} data-paragraph={i} key={chapter.id+'-'+i}>{mixedChapter?<><MixedParagraph {...mixedChapter.paragraphs[i]} hints={mixedHints}/><details className="mixed-original"><summary>看這段英文</summary><p lang="en">{readerText?.paragraphs[i]}</p></details></>:<p style={{lineHeight:comfort.line}}>{readerText?.paragraphs[i]}</p>}{!mixedReading&&translated.includes(i)&&<p className="translation">{p.zh}</p>}<details className="paragraph-tools"><summary aria-label="段落工具" title="段落工具">⋯</summary><button hidden={mixedReading} className="paragraph-translate" onClick={()=>setTranslated(translated.includes(i)?translated.filter(n=>n!==i):[...translated,i])}>{translated.includes(i)?'收起中文 −':'中文 ＋'}</button><QuoteButton chapter={chapter} index={i} story={story} state={feature.state} update={feature.update}/><SentenceReport story={story} chapter={chapter} index={i}/></details></section>)}</div><EndMarker story={story} chapter={chapter}/><div className="chapter-pagination">{currentMeta?.number===25?<button className="primary" onClick={()=>navigate('library')}>讀完這本，挑下一本 <Check size={17}/></button>:currentMeta?.number===previewChapters&&!chapterReadable(story.id,previewChapters+1)?<button className="primary" onClick={()=>showCheckout(story.id)}>繼續讀第 {previewChapters+1} 章 <ArrowRight size={17}/></button>:<button className="primary" onClick={()=>{trackReading('next_chapter',story.id,chapter.id);sendEvent('next_chapter',story.id,chapter.id);read(story.chapters[currentMeta?.number||1].id)}}>繼續第 {(currentMeta?.number||1)+1} 章 <ChevronRight size={17}/></button>}<button className="chapter-review-link" aria-expanded={showReview} aria-controls="chapter-review" onClick={()=>setShowReview(value=>!value)}>{showReview?'收起測驗與複習':'測驗與複習'}</button></div>{reachedPreviewEnd&&<p className="preview-price">{premiumDescription}{!premium.checkout&&<small>通行證尚未開賣</small>}</p>}{nextFreeBook&&<section className="next-free" aria-label="下一本整本免費小說">
   {nextFreeBook.cover&&<img src={nextFreeBook.cover} loading="lazy" alt=""/>}
   <div><span className="fine">試讀已結束 · 下一本整本免費</span><h2>{nextFreeBook.zh}</h2><p>{nextFreeBook.hook}</p>
    <button className="secondary" onClick={()=>read(nextFreeBook.chapters[0].id)}>免費讀第 1 章 <ArrowRight size={17}/></button>
