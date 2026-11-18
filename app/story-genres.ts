@@ -2,6 +2,7 @@ import type {Story} from './types';
 
 // Themes may overlap so readers can discover a book through more than one interest.
 export const genreGroups=[
+ {name:'霸總',pattern:/霸總/},
  {name:'懸疑推理',pattern:/懸疑|推理/},
  {name:'戀愛關係',pattern:/戀愛|言情|霸總|雙男主/},
  {name:'奇幻仙俠',pattern:/奇幻|仙俠|修仙|修行|高武/},
