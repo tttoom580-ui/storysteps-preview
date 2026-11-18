@@ -3,6 +3,8 @@ import {local,mergeRecords,validateRemote,type Snapshot} from './cloud-sync';
 import {premiumRequest,savedPremiumKey} from './premium';
 
 const deviceKey='storysteps-drive-backup-profile';
+const wordBaselineKey='storysteps-drive-vocab-baseline';
+const guestKey='storysteps-guest';
 const excluded='storysteps-free-access-v1';
 const copyLocal=():Snapshot=>{
  const snapshot=local();
@@ -12,12 +14,32 @@ const copyLocal=():Snapshot=>{
  return snapshot;
 };
 const localHasLearning=(snapshot:Snapshot)=>Object.entries(snapshot.records).some(([key,value])=>{
- if(key==='storysteps-guest'){
+ if(key===guestKey){
   const {progress,vocab,activity}=JSON.parse(value);
   return Boolean(progress?.length||vocab?.length||activity?.length);
  }
  return key.startsWith('storysteps-position-')||key==='storysteps-last'||key==='storysteps-reader-v2-guest'||key==='storysteps-reading-days-v1';
 });
+function savedWordNames(records:Snapshot['records']):string[]{
+ const words=JSON.parse(records[guestKey]||'{}')?.vocab;
+ return Array.isArray(words)?words.flatMap(word=>typeof word?.word==='string'?[word.word]:[]):[];
+}
+function mergeLearning(localRecords:Snapshot['records'],remoteRecords:Snapshot['records'],profile:string){
+ const merged=mergeRecords(localRecords,remoteRecords);
+ if(localStorage.getItem(deviceKey)!==profile||!localRecords[guestKey]||!remoteRecords[guestKey])return merged;
+ let baseline:unknown;
+ try{baseline=JSON.parse(localStorage.getItem(wordBaselineKey)||'null');}catch{return merged;}
+ if(!Array.isArray(baseline))return merged;
+ const localWords=new Set(savedWordNames(localRecords));
+ const remoteWords=new Set(savedWordNames(remoteRecords));
+ const removed=new Set(baseline.filter(word=>!localWords.has(word)||!remoteWords.has(word)));
+ if(removed.size){
+  const guest=JSON.parse(merged[guestKey]);
+  guest.vocab=guest.vocab.filter((word:{word:string})=>!removed.has(word.word));
+  merged[guestKey]=JSON.stringify(guest);
+ }
+ return merged;
+}
 type Status={connected:boolean;savedAt:number;profile:string};
 
 export function useDriveBackup({available,signedIn,onRestore}:{available:boolean;signedIn:boolean;onRestore:()=>void}){
@@ -70,7 +92,7 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
     }
     if(remote.snapshot)delete remote.snapshot.records[excluded];
     const before=copyLocal();
-    const merged:Snapshot={version:1,records:remote.snapshot?mergeRecords(before.records,remote.snapshot.records):before.records};
+    const merged:Snapshot={version:1,records:remote.snapshot?mergeLearning(before.records,remote.snapshot.records,status.profile):before.records};
     const previous=remote.snapshot?.records||{};
     const entries=Object.entries(merged.records);
     let savedAt=remote.savedAt;
@@ -88,6 +110,7 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
     const old=changed.map(([name])=>[name,localStorage.getItem(name)] as const);
     try{
      for(const [name,value] of changed)localStorage.setItem(name,value);
+     localStorage.setItem(wordBaselineKey,JSON.stringify(savedWordNames(merged.records)));
      localStorage.setItem(deviceKey,status.profile);
     }catch(error){
      for(const [name,value] of old)try{value===null?localStorage.removeItem(name):localStorage.setItem(name,value);}catch{}
@@ -143,6 +166,7 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
   try{
    setStatus(await premiumRequest('drive/disconnect',undefined,{}));
    localStorage.removeItem(deviceKey);
+   localStorage.removeItem(wordBaselineKey);
    setNeedsApproval(false);
    setMessage('已停止自動備份。');
   }catch(error:any){setMessage(error.message);}
