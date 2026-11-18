@@ -18,3 +18,12 @@ Cloudflare Worker 為 `storysteps-premium`，綁定 `storysteps-premium` D1 為 
 通行證綁定帳號金鑰。同一訂單只能綁定一個帳號，同一帳號重試會回傳原權限。請提醒讀者私下保存跨裝置金鑰。若退款，在藍新確認完成後，依訂單編號更新 `premium_orders.revoked_at` 為當下毫秒時間；私有章節會立即拒絕已撤銷的訂單。寄信失敗的訂單每五分鐘重試。必要時可依 `paid_at`、`mailed_at` 查閱，避免在工作日誌輸出電郵或金鑰。
 
 更新正文時，在私有作者工作區執行 `npm run build`，再用 `python3 scripts/package_reading_access.py --private-dir .premium-private` 匯出私有 SQL。先匯入書本資料，最後匯入 `publish-catalog.sql`。付款時的書目會隨訂單保存，日後新增小說不會添加到既有訂單。
+
+## Google Drive 自動備份
+
+1. 在現有 Google 登入用戶端的專案啟用 Google Drive API，並為 OAuth 同意畫面加上 `https://www.googleapis.com/auth/drive.appdata`。測試後依 Google Auth Platform 的要求發布應用程式。
+2. 在同一網站用戶端新增授權重新導向 URI，使用 `SERVICE_URL` 的來源加上 `/api/premium/drive/callback`。
+3. 在通行證資料庫執行 `drive.sql`，隨既有 Worker 模組部署 `drive.mjs`。
+4. 將同一用戶端的 OAuth 密鑰存到 Worker secret `GOOGLE_DRIVE_CLIENT_SECRET`。將獨立產生的 32 位元組隨機十六進位金鑰存到 Worker secret `GOOGLE_DRIVE_TOKEN_KEY`。兩項 secret 到位後，前端才出現連結入口。保留加密金鑰才能解讀既有授權。
+
+上線後使用自己的 Google 帳號在「我的閱讀 → 備份與跨裝置同步」測試連結、儲存、空白瀏覽器還原與停止同步。

@@ -7,6 +7,7 @@ import worker from '../premium-service/worker.mjs';
 const sqlite=new DatabaseSync(':memory:');
 sqlite.exec(readFileSync('premium-service/schema.sql','utf8'));
 sqlite.exec(readFileSync('premium-service/google.sql','utf8'));
+sqlite.exec(readFileSync('premium-service/drive.sql','utf8'));
 sqlite.prepare('INSERT INTO premium_catalog VALUES (1,?,100,1)').run('["sample"]');
 sqlite.prepare('INSERT INTO premium_chapters VALUES (?,?,?)').run('sample','sample-11','{"id":"sample-11","paragraphs":[{"en":"private"}]}');
 function statement(sql,params=[]){
@@ -147,3 +148,64 @@ assert.equal((await request(chapter,{key:newDevice.token})).status,200);
 assert.equal((await request(chapter,{key:stranger.token})).status,403);
 assert.equal((await request(chapter)).status,401);
 console.log('PASS: full-library access without an order is restricted to the granted Google account');
+
+env.GOOGLE_DRIVE_CLIENT_SECRET='mock-client-secret';
+env.GOOGLE_DRIVE_TOKEN_KEY='f'.repeat(64);
+const storedFiles=new Map();
+let driveSubject='12345678';
+globalThis.fetch=async (url,init)=>{
+ if(url==='https://oauth2.googleapis.com/token'){
+  assert.equal(init.body.get('client_secret'),env.GOOGLE_DRIVE_CLIENT_SECRET);
+  if(init.body.get('grant_type')==='authorization_code'){
+   assert.match(init.body.get('code_verifier'),/^[a-f0-9]{64}$/);
+   return Response.json({access_token:'mock-drive',refresh_token:'mock-refresh',
+    scope:'openid https://www.googleapis.com/auth/drive.appdata'});
+  }
+  assert.equal(init.body.get('refresh_token'),'mock-refresh');
+  return Response.json({access_token:'mock-drive'});
+ }
+ if(url==='https://openidconnect.googleapis.com/v1/userinfo')return Response.json({sub:driveSubject});
+ assert.equal(init.headers.authorization,'Bearer mock-drive');
+ if(url.startsWith('https://www.googleapis.com/upload/drive/')){
+  assert.match(init.body,/"parents":\["appDataFolder"\]/);
+  const contents=init.body.split('\r\n\r\n').at(-1).split('\r\n')[0];
+  const id='mock-'+storedFiles.size;
+  storedFiles.set(id,JSON.parse(contents));
+  return Response.json({id});
+ }
+ const id=new URL(url).pathname.split('/').at(-1);
+ if(init.method==='DELETE'){storedFiles.delete(id);return new Response(null,{status:204});}
+ return storedFiles.has(id)?Response.json(storedFiles.get(id)):new Response(null,{status:404});
+};
+const driveStart=async key=>{
+ const auth=await request('/api/premium/drive/start',{key,data:{}}).then(r=>r.json());
+ const url=new URL(auth.url);
+ assert.equal(url.searchParams.get('access_type'),'offline');
+ assert.equal(url.searchParams.get('code_challenge_method'),'S256');
+ const callback=new URL(url.searchParams.get('redirect_uri'));
+ callback.searchParams.set('state',url.searchParams.get('state'));
+ callback.searchParams.set('code','mock-code');
+ return callback;
+};
+assert.equal((await request('/api/premium/drive/status')).status,401);
+const callbackUrl=await driveStart(newDevice.token);
+assert.equal((await worker.fetch(new Request(callbackUrl),env)).status,303);
+assert.match((await worker.fetch(new Request(callbackUrl),env)).headers.get('location'),/drive-backup=failed/);
+const wrongDrive=await driveStart(stranger.token);
+assert.match((await worker.fetch(new Request(wrongDrive),env)).headers.get('location'),/drive-backup=wrong-account/);
+const encrypted=sqlite.prepare('SELECT refresh_token FROM premium_drive_connections').get().refresh_token;
+assert.ok(encrypted&&!encrypted.includes('mock-refresh'));
+const driveRead=key=>request('/api/premium/drive/read',{key,data:{}});
+const blank=await driveRead(newDevice.token).then(r=>r.json());
+assert.equal(blank.snapshot,null);
+const snapshot={version:1,records:{'storysteps-guest':JSON.stringify({vocab:[{word:'story'}]}),'storysteps-last':'"sample-11"'}};
+const save=(revision,snapshot)=>request('/api/premium/drive/save',{key:newDevice.token,data:{revision,snapshot}});
+assert.equal((await save(blank.revision,{version:1,records:{'storysteps-premium-key':'"never-back-up"'}})).status,400);
+assert.equal((await save(blank.revision,snapshot)).status,200);
+assert.equal((await save(blank.revision,snapshot)).status,409);
+assert.deepEqual((await driveRead(newDevice.token).then(r=>r.json())).snapshot,snapshot);
+assert.equal((await driveRead(stranger.token)).status,409);
+assert.equal((await request('/api/premium/drive/disconnect',{key:newDevice.token,data:{}})).status,200);
+assert.equal((await driveRead(newDevice.token)).status,409);
+assert.equal(storedFiles.size,1);
+console.log('PASS: Drive authorization, account isolation, encrypted credentials, app-only save and restore, and backup disconnect');

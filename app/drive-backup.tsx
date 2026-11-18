@@ -1,0 +1,168 @@
+import {useCallback,useEffect,useRef,useState} from 'react';
+import {local,mergeRecords,validateRemote,type Snapshot} from './cloud-sync';
+import {premiumRequest,savedPremiumKey} from './premium';
+
+const deviceKey='storysteps-drive-backup-profile';
+const excluded='storysteps-free-access-v1';
+const copyLocal=():Snapshot=>{
+ const snapshot=local();
+ delete snapshot.records[excluded];
+ const last=localStorage.getItem('storysteps-last');
+ if(last)snapshot.records['storysteps-last']=JSON.stringify(last);
+ return snapshot;
+};
+const localHasLearning=(snapshot:Snapshot)=>Object.entries(snapshot.records).some(([key,value])=>{
+ if(key==='storysteps-guest'){
+  const {progress,vocab,activity}=JSON.parse(value);
+  return Boolean(progress?.length||vocab?.length||activity?.length);
+ }
+ return key.startsWith('storysteps-position-')||key==='storysteps-last'||key==='storysteps-reader-v2-guest'||key==='storysteps-reading-days-v1';
+});
+type Status={connected:boolean;savedAt:number;profile:string};
+
+export function useDriveBackup({available,signedIn,onRestore}:{available:boolean;signedIn:boolean;onRestore:()=>void}){
+ const sessionKey=signedIn?savedPremiumKey():'';
+ const [returnedFromGoogle]=useState(()=>new URLSearchParams(location.search).has('drive-backup'));
+ const [authorization,setAuthorization]=useState('');
+ const [status,setStatus]=useState<Status|null>(null);
+ const [busy,setBusy]=useState(false),[message,setMessage]=useState(''),[needsApproval,setNeedsApproval]=useState(false);
+ const syncing=useRef(false),pending=useRef(false);
+ const restore=useRef(onRestore);
+ restore.current=onRestore;
+
+ useEffect(()=>{
+  const url=new URL(window.location.href),result=url.searchParams.get('drive-backup');
+  if(!result)return;
+  url.searchParams.delete('drive-backup');
+  history.replaceState(null,'',url);
+  if(result==='connected')setMessage('已連結 Google Drive。');
+  else setMessage(result==='wrong-account'?'請選擇與拾頁登入相同的 Google 帳號。':'Google Drive 授權未完成，請重新連結。');
+ },[]);
+
+ useEffect(()=>{
+  if(!available||!signedIn){setStatus(null);setNeedsApproval(false);return;}
+  let current=true;
+  const key=sessionKey;
+  premiumRequest('drive/status',key).then(data=>{
+   if(!current)return;
+   if(key!==savedPremiumKey())return;
+   setAuthorization(key);
+   setStatus(data);
+   setNeedsApproval(data.connected&&Boolean(localStorage.getItem(deviceKey)!==data.profile&&localHasLearning(copyLocal())));
+  }).catch(()=>{if(current)setMessage('暫時無法確認 Google Drive 備份狀態。');});
+  return()=>{current=false;};
+ },[available,signedIn,sessionKey]);
+
+ const run=useCallback(async(approved=false)=>{
+  if(!status?.connected||authorization!==savedPremiumKey()||(needsApproval&&!approved))return;
+  if(syncing.current){pending.current=true;return;}
+  syncing.current=true;
+  setBusy(true);
+  const key=savedPremiumKey();
+  try{
+   for(let attempt=0;attempt<3;attempt++){
+    const remote=await premiumRequest('drive/read',key,{});
+    if(key!==savedPremiumKey())return;
+    if(remote.snapshot){
+     const {['storysteps-last']:last,...records}=remote.snapshot.records||{};
+     if(!validateRemote({...remote.snapshot,records})||(last!==undefined&&(typeof last!=='string'||!/^"[a-z0-9-]{1,90}"$/.test(last))))throw Error('雲端備份格式不符。');
+     
+    }
+    if(remote.snapshot)delete remote.snapshot.records[excluded];
+    const before=copyLocal();
+    const merged:Snapshot={version:1,records:remote.snapshot?mergeRecords(before.records,remote.snapshot.records):before.records};
+    const previous=remote.snapshot?.records||{};
+    const entries=Object.entries(merged.records);
+    let savedAt=remote.savedAt;
+    if(entries.some(([name,value])=>previous[name]!==value)){
+     try{
+      const saved=await premiumRequest('drive/save',key,{revision:remote.revision,snapshot:merged});
+      savedAt=saved.savedAt;
+     }catch(error:any){if(error.status===409&&!error.reconnect&&attempt<2)continue;throw error;}
+    }
+    if(key!==savedPremiumKey())return;
+    // If a reader changed this device during the request, leave the newer state in place.
+    const latest=copyLocal();
+    if(JSON.stringify(latest)!==JSON.stringify(before)){pending.current=true;break;}
+    const changed=entries.map(([name,value])=>[name,name==='storysteps-last'?JSON.parse(value):value] as const).filter(([name,value])=>localStorage.getItem(name)!==value);
+    const old=changed.map(([name])=>[name,localStorage.getItem(name)] as const);
+    try{
+     for(const [name,value] of changed)localStorage.setItem(name,value);
+     localStorage.setItem(deviceKey,status.profile);
+    }catch(error){
+     for(const [name,value] of old)try{value===null?localStorage.removeItem(name):localStorage.setItem(name,value);}catch{}
+     throw error;
+    }
+    if(changed.length){
+     window.dispatchEvent(new Event('storysteps-backup-restored'));
+     window.dispatchEvent(new Event('storysteps-days-changed'));
+     restore.current();
+    }
+    setStatus(previousStatus=>previousStatus?.profile===status.profile?{...previousStatus,savedAt}:previousStatus);
+    setNeedsApproval(false);
+    setMessage(changed.length?'已還原並合併閱讀紀錄。':savedAt?'Google Drive 備份已更新。':'有新的學習紀錄時會自動備份。');
+    break;
+   }
+  }catch(error:any){
+   if(key!==savedPremiumKey())return;
+   if(error.reconnect)setStatus(previous=>previous?{...previous,connected:false}:null);
+   setMessage(error.message||'Google Drive 備份失敗，稍後會再試。');
+  }finally{
+   syncing.current=false;
+   setBusy(false);
+   if(pending.current){pending.current=false;window.dispatchEvent(new Event('storysteps-local-saved'));}
+  }
+ },[status?.connected,status?.profile,needsApproval,authorization]);
+
+ useEffect(()=>{
+  if(!status?.connected||needsApproval)return;
+  let timer:number;
+  const schedule=()=>{window.clearTimeout(timer);if(!document.hidden)timer=window.setTimeout(()=>void run(),4000);};
+  const events=['storysteps-local-saved','storysteps-days-changed','focus','online'];
+  for(const event of events)window.addEventListener(event,schedule);
+  document.addEventListener('visibilitychange',schedule);
+  schedule();
+  const interval=window.setInterval(schedule,60_000);
+  return()=>{
+   for(const event of events)window.removeEventListener(event,schedule);
+   document.removeEventListener('visibilitychange',schedule);
+   window.clearTimeout(timer);window.clearInterval(interval);
+  };
+ },[status?.connected,needsApproval,run]);
+
+ async function connect(){
+  setBusy(true);
+  try{
+   const {url}=await premiumRequest('drive/start',undefined,{});
+   if(new URL(url).origin!=='https://accounts.google.com')throw Error('Google 授權網址無效。');
+   location.assign(url);
+  }catch(error:any){setMessage(error.message);setBusy(false);}
+ }
+ async function disconnect(){
+  setBusy(true);
+  try{
+   setStatus(await premiumRequest('drive/disconnect',undefined,{}));
+   localStorage.removeItem(deviceKey);
+   setNeedsApproval(false);
+   setMessage('已停止自動備份。');
+  }catch(error:any){setMessage(error.message);}
+  finally{setBusy(false);}
+ }
+ return {available,signedIn,returnedFromGoogle,status,busy,message,needsApproval,run,connect,disconnect};
+}
+
+export function DriveBackupControls({backup,onSignIn}:{backup:ReturnType<typeof useDriveBackup>;onSignIn:()=>void}){
+ if(!backup.available)return null;
+ return <section className="feature-panel" aria-label="Google Drive 自動備份">
+  <h3>Google Drive 自動備份</h3>
+  <p>備份收藏單字、書架和閱讀進度。換裝置時，用同一個 Google 帳號登入即可取回已備份的紀錄。</p>
+  {!backup.signedIn?<button type="button" className="secondary" onClick={onSignIn}>使用 Google 登入</button>:
+   !backup.status?null:backup.status.connected?<>
+    {backup.needsApproval&&<p>這台裝置已有學習紀錄，請確認要與這個 Google 帳號的備份合併。</p>}
+    {backup.status.savedAt>0&&<p className="fine">上次備份 {new Date(backup.status.savedAt).toLocaleString('zh-TW')}</p>}
+    <button type="button" className="primary" disabled={backup.busy} onClick={()=>void backup.run(true)}>{backup.needsApproval?'合併並啟用備份':'立即備份'}</button>
+    <button type="button" className="secondary" disabled={backup.busy} onClick={()=>void backup.disconnect()}>停止自動備份</button>
+   </>:<button type="button" className="primary" disabled={backup.busy} onClick={()=>void backup.connect()}>連結 Google Drive</button>}
+  <p role="status">{backup.busy?'正在處理…':backup.message}</p>
+ </section>;
+}

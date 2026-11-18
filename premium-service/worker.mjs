@@ -1,3 +1,4 @@
+import {completeDrive,driveBackup,driveConfigured,driveStatus,startDrive} from './drive.mjs';
 import {authenticateGoogle,cleanGoogleSessions,endGoogleSession,googleClientId,googleSession,newGoogleChallenge} from './google.mjs';
 
 const encoder = new TextEncoder();
@@ -217,6 +218,7 @@ export default {
   const origin = requestingOrigin === env.APP_ORIGIN ? env.APP_ORIGIN : '';
   try {
    if (url.pathname === '/api/newebpay/notify' && req.method === 'POST') return await notify(req,env);
+   if (url.pathname === '/api/premium/drive/callback' && req.method === 'GET') return await completeDrive(env,url);
    if (!origin) return response({error:'Origin not allowed'},403);
    if (req.method === 'OPTIONS') return response(null,204,origin);
    if (!env.DB) return response({error:'閱讀通行證暫未開放。'},503,origin);
@@ -225,7 +227,7 @@ export default {
     const session = await googleSession(env,bearer(req));
     const key = bearer(req);
     const account = session?.account ?? (validToken.test(key) ? await digest(key) : null);
-    return response({googleClientId:googleClientId(env),googleSignedIn:Boolean(session),
+    return response({googleClientId:googleClientId(env),googleSignedIn:Boolean(session),driveBackup:driveConfigured(env),
      checkout:!!catalog,amount:catalog?.amount,books:catalog ? JSON.parse(catalog.books).length : 0,
      booksOwned:await booksForAccount(env,account)},200,origin);
    }
@@ -239,6 +241,18 @@ export default {
     if (url.pathname === '/api/premium/google/logout') {
      await endGoogleSession(env,bearer(req));
      return response({ok:true},200,origin);
+    }
+   }
+   if (url.pathname.startsWith('/api/premium/drive/')) {
+    if (!driveConfigured(env)) return response({error:'Google Drive 備份尚未開通。'},503,origin);
+    const session = await googleSession(env,bearer(req));
+    if (!session) return response({error:'請先使用 Google 登入。'},401,origin);
+    const action = url.pathname.split('/').at(-1);
+    if (req.method === 'GET' && action === 'status') return response(await driveStatus(env,session.account),200,origin);
+    if (req.method === 'POST' && action === 'start') return response(await startDrive(env,session),200,origin);
+    if (req.method === 'POST' && ['read','save','disconnect'].includes(action)) {
+     const [body,status] = await driveBackup(env,session.account,action,action==='save'?await jsonBody(req,850_000):null);
+     return response(body,status,origin);
     }
    }
    if (url.pathname === '/api/premium/checkout' && req.method === 'POST') return await checkout(req,env,origin);

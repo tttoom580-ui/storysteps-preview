@@ -8,13 +8,13 @@ const KEY_STORAGE='storysteps-sync-recovery-key-v1';
 const recordNames=['storysteps-guest','storysteps-reader-v2-guest','storysteps-free-access-v1','storysteps-reading-days-v1','storysteps-comfort','storysteps-line','storysteps-weekly-goal'];
 const chapterIds=new Set(stories.flatMap(b=>b.chapters.map(c=>c.id)));
 const storyIds=new Set(stories.map(b=>b.id));
-type Snapshot={version:1,records:Record<string,string>};
+export type Snapshot={version:1,records:Record<string,string>};
 const parse=(raw?:string|null,f:any=null)=>{try{return raw?JSON.parse(raw):f}catch{return f}};
 const isKey=(s:string)=>/^ss1_[A-Za-z0-9_-]{43}$/.test(s);
 const safeKeys=()=>{const keys=[...recordNames];for(let i=0;i<localStorage.length;i++){const k=localStorage.key(i)||'';if(k.startsWith('storysteps-position-')&&chapterIds.has(k.slice('storysteps-position-'.length)))keys.push(k)}return keys;};
-const local=():Snapshot=>({version:1,records:Object.fromEntries(safeKeys().flatMap(k=>{const v=localStorage.getItem(k);return v&&parse(v)!==null?[[k,v]]:[]}))});
+export const local=():Snapshot=>({version:1,records:Object.fromEntries(safeKeys().flatMap(k=>{const v=localStorage.getItem(k);return v&&parse(v)!==null?[[k,v]]:[]}))});
 function union<T>(a:T[],b:T[],key:(x:T)=>string){const m=new Map<string,T>();for(const x of [...a,...b]){if(x&&typeof x==='object')m.set(key(x),x)}return [...m.values()];}
-function mergeRecords(a:Record<string,string>,b:Record<string,string>):Record<string,string>{
+export function mergeRecords(a:Record<string,string>,b:Record<string,string>):Record<string,string>{
  const out={...a};for(const [k,v] of Object.entries(b)){
   if(!(k in out)){out[k]=v;continue}
   const left=parse(out[k]),right=parse(v);if(left===null||right===null)continue;
@@ -33,7 +33,7 @@ function mergeRecords(a:Record<string,string>,b:Record<string,string>):Record<st
   // On conflicting positions or preferences preserve this device's current value.
  }return out;
 }
-function validateRemote(s:any):s is Snapshot{
+export function validateRemote(s:any):s is Snapshot{
  if(!s||s.version!==1||!s.records||typeof s.records!=='object'||Array.isArray(s.records))return false;
  return Object.entries(s.records).every(([k,v])=>(recordNames.includes(k)||(k.startsWith('storysteps-position-')&&chapterIds.has(k.slice('storysteps-position-'.length))))&&typeof v==='string'&&parse(v)!==null);
 }

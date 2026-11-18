@@ -9,6 +9,8 @@ const keysURL = 'https://www.googleapis.com/oauth2/v3/certs';
 let keys;
 let expiresAt = 0;
 
+export const googleAccountForSubject = async sub => 'google:' + await digest(sub);
+
 export function googleClientId(env) {
  const id = env.GOOGLE_CLIENT_ID || '';
  return /^[a-z0-9-]+\.apps\.googleusercontent\.com$/i.test(id) ? id : '';
@@ -63,7 +65,7 @@ export async function authenticateGoogle(env,data) {
  const consumed = await statement(env,'DELETE FROM premium_google_challenges WHERE proof_hash=? AND nonce=? AND expires_at>?',
   proofHash,claims.nonce,Date.now()).run();
  if (!consumed.meta.changes) return null;
- const account = 'google:' + await digest(claims.sub);
+ const account = await googleAccountForSubject(claims.sub);
  const token = 'ssg_' + randomHex();
  await env.DB.batch([
   statement(env,'INSERT OR IGNORE INTO premium_accounts(id,created_at) VALUES(?,?)',account,Date.now()),
