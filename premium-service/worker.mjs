@@ -1,3 +1,5 @@
+import {authenticateGoogle,cleanGoogleSessions,endGoogleSession,googleClientId,googleSession,newGoogleChallenge} from './google.mjs';
+
 const encoder = new TextEncoder();
 const decoder = new TextDecoder();
 const bytes = value => encoder.encode(value);
@@ -40,15 +42,15 @@ async function bodyText(req, limit) {
  }
 }
 
-async function jsonBody(req) {
- try { return JSON.parse(await bodyText(req,4096)); } catch { return null; }
+async function jsonBody(req,limit=4096) {
+ try { return JSON.parse(await bodyText(req,limit)); } catch { return null; }
 }
 
 function paymentConfigured(env) {
  return ['test','production'].includes(env.PAYMENT_ENV) &&
-  Boolean(env.MERCHANT_ID && env.APP_URL && env.SERVICE_URL && env.EMAIL_FROM && env.RESEND_API_KEY &&
-   bytes(env.HASH_KEY || '').length === 32 && bytes(env.HASH_IV || '').length === 16 &&
-   /^[a-f0-9]{64}$/i.test(env.ACTIVATION_SECRET || ''));
+  Boolean(env.MERCHANT_ID && env.APP_URL && env.SERVICE_URL &&
+   (googleClientId(env) || (env.EMAIL_FROM && env.RESEND_API_KEY && /^[a-f0-9]{64}$/i.test(env.ACTIVATION_SECRET || ''))) &&
+   bytes(env.HASH_KEY || '').length === 32 && bytes(env.HASH_IV || '').length === 16);
 }
 
 async function checkoutCatalog(env) {
@@ -86,8 +88,11 @@ function matches(a,b) {
 async function checkout(req,env,origin) {
  const catalog = await checkoutCatalog(env);
  if (!catalog) return response({error:'付款尚未開通。'},503,origin);
+ const googleMode = Boolean(googleClientId(env));
+ const session = googleMode ? await googleSession(env,bearer(req)) : null;
+ if (googleMode && !session) return response({error:'請先使用 Google 登入。'},401,origin);
  const data = await jsonBody(req);
- const email = typeof data?.email === 'string' ? data.email.trim() : '';
+ const email = session?.email ?? (typeof data?.email === 'string' ? data.email.trim() : '');
  if (email.length > 80 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return response({error:'請輸入有效的電子郵件。'},400,origin);
  const id = 'SS' + hex(crypto.getRandomValues(new Uint8Array(14)));
  const version = '2.2';
@@ -102,15 +107,15 @@ async function checkout(req,env,origin) {
  });
  const TradeInfo = hex(await aes(env,'encrypt',bytes(fields.toString())));
  const TradeSha = await tradeSha(env,TradeInfo);
- await query(env,'INSERT INTO premium_orders(id,email,amount,books,created_at) VALUES(?,?,?,?,?)',
-  id,email,catalog.amount,catalog.books,Date.now()).run();
+ await query(env,'INSERT INTO premium_orders(id,email,amount,books,created_at,account) VALUES(?,?,?,?,?,?)',
+  id,email,catalog.amount,catalog.books,Date.now(),session?.account??null).run();
  const host = env.PAYMENT_ENV === 'production' ? 'core.newebpay.com' : 'ccore.newebpay.com';
  return response({url:'https://' + host + '/MPG/mpg_gateway',
   fields:{MerchantID:env.MERCHANT_ID, TradeInfo, TradeSha, Version:version}},200,origin);
 }
 
 async function sendActivation(env, order) {
- if (order.mailed_at || !env.ACTIVATION_SECRET || !env.RESEND_API_KEY || !env.EMAIL_FROM) return;
+ if (order.account?.startsWith('google:') || order.mailed_at || !env.ACTIVATION_SECRET || !env.RESEND_API_KEY || !env.EMAIL_FROM) return;
  const code = await activationCode(env,order.id);
  const link = new URL(env.APP_URL);
  link.searchParams.set('purchase','1');
@@ -144,7 +149,7 @@ async function notify(req,env) {
  if (!orderPattern.test(payment?.MerchantOrderNo || '') || payment.MerchantID !== env.MERCHANT_ID ||
      payment.PaymentType !== 'CREDIT' || String(payment.RespondCode) !== '00' ||
      !/^[a-z0-9_-]{1,30}$/i.test(String(payment.TradeNo || ''))) return response('Invalid payment',400);
- const order = await query(env,'SELECT id,email,amount,trade_no,paid_at,mailed_at,revoked_at FROM premium_orders WHERE id=?',payment.MerchantOrderNo).first();
+ const order = await query(env,'SELECT id,email,amount,trade_no,paid_at,mailed_at,revoked_at,account FROM premium_orders WHERE id=?',payment.MerchantOrderNo).first();
  if (!order || String(order.amount) !== String(payment.Amt) || (order.trade_no && order.trade_no !== payment.TradeNo)) {
   return response('Invalid order',400);
  }
@@ -157,13 +162,18 @@ async function notify(req,env) {
  return response('OK');
 }
 
-async function accountId(req) {
- const token = (req.headers.get('authorization') || '').replace(/^Bearer /i,'');
- return validToken.test(token) ? digest(token) : null;
+function bearer(req) {
+ return (req.headers.get('authorization') || '').replace(/^Bearer /i,'');
+}
+
+async function accountId(req,env) {
+ const token = bearer(req);
+ if (validToken.test(token)) return digest(token);
+ return (await googleSession(env,token))?.account ?? null;
 }
 
 async function redeem(req,env,origin) {
- const account = await accountId(req);
+ const account = await accountId(req,env);
  const data = await jsonBody(req);
  if (!account || !env.ACTIVATION_SECRET || !orderPattern.test(data?.order || '') || !validActivation.test(data?.code || '') ||
      !matches(await activationCode(env,data.order),data.code)) return response({error:'訂單或開通碼不正確。'},400,origin);
@@ -186,7 +196,7 @@ async function booksForAccount(env,account) {
 }
 
 async function chapter(req,env,origin,url) {
- const account = await accountId(req), book = url.searchParams.get('book'), id = url.searchParams.get('id');
+ const account = await accountId(req,env), book = url.searchParams.get('book'), id = url.searchParams.get('id');
  if (!account) return response({error:'請先開通或登入閱讀通行證。'},401,origin);
  if (!bookPattern.test(book || '') || !bookPattern.test(id || '')) return response({error:'找不到章節。'},404,origin);
  const row = await query(env,`SELECT body FROM premium_chapters WHERE book=? AND id=? AND EXISTS (
@@ -208,8 +218,24 @@ export default {
    if (!env.DB) return response({error:'閱讀通行證暫未開放。'},503,origin);
    if (url.pathname === '/api/premium/status' && req.method === 'GET') {
     const catalog = await checkoutCatalog(env);
-    return response({checkout:!!catalog,amount:catalog?.amount,books:catalog ? JSON.parse(catalog.books).length : 0,
-     booksOwned:await booksForAccount(env,await accountId(req))},200,origin);
+    const session = await googleSession(env,bearer(req));
+    const key = bearer(req);
+    const account = session?.account ?? (validToken.test(key) ? await digest(key) : null);
+    return response({googleClientId:googleClientId(env),googleSignedIn:Boolean(session),
+     checkout:!!catalog,amount:catalog?.amount,books:catalog ? JSON.parse(catalog.books).length : 0,
+     booksOwned:await booksForAccount(env,account)},200,origin);
+   }
+   if (url.pathname.startsWith('/api/premium/google/') && req.method === 'POST') {
+    if (!googleClientId(env)) return response({error:'Google 登入尚未開通。'},503,origin);
+    if (url.pathname === '/api/premium/google/challenge') return response(await newGoogleChallenge(env),200,origin);
+    if (url.pathname === '/api/premium/google/login') {
+     const login = await authenticateGoogle(env,await jsonBody(req,8192));
+     return login ? response(login,200,origin) : response({error:'Google 登入未完成，請重新登入。'},401,origin);
+    }
+    if (url.pathname === '/api/premium/google/logout') {
+     await endGoogleSession(env,bearer(req));
+     return response({ok:true},200,origin);
+    }
    }
    if (url.pathname === '/api/premium/checkout' && req.method === 'POST') return await checkout(req,env,origin);
    if (url.pathname === '/api/premium/redeem' && req.method === 'POST') return await redeem(req,env,origin);
@@ -221,9 +247,10 @@ export default {
   }
  },
  async scheduled(_event,env) {
+  if (env.DB && googleClientId(env)) await cleanGoogleSessions(env);
   if (!env.DB || !env.ACTIVATION_SECRET || !env.RESEND_API_KEY || !env.EMAIL_FROM) return;
-  const {results} = await env.DB.prepare(`SELECT id,email,mailed_at FROM premium_orders
-   WHERE paid_at IS NOT NULL AND mailed_at IS NULL AND revoked_at IS NULL ORDER BY paid_at LIMIT 20`).all();
+  const {results} = await env.DB.prepare(`SELECT id,email,mailed_at,account FROM premium_orders
+   WHERE paid_at IS NOT NULL AND mailed_at IS NULL AND revoked_at IS NULL AND (account IS NULL OR substr(account,1,7)<>'google:') ORDER BY paid_at LIMIT 20`).all();
   for (const order of results) {
    try { await sendActivation(env,order); }
    catch { console.error('StorySteps activation delivery will retry'); }

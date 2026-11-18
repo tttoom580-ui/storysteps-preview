@@ -32,9 +32,10 @@ export default function ReadingAccess({onRead,premium,checkoutBook}:{onRead:(id:
     {selected&&<p className="fine">繼續讀《{selected.zh}》第 {previewChapters+1} 章</p>}
     <p>{premiumDescription}</p>
     <p className="fine">適用於購買時方案列出的書目。日後新上架的小說不包含在這次購買內。</p>
-    <dl className="offer-facts"><dt>解鎖範圍</dt><dd>購買時方案列出的 {otherBooks.length} 本試讀小說後續章節。</dd><dt>付款方式</dt><dd>規劃一次付費 NT${premiumPriceTwd}，非月訂閱。目前不接受付款。</dd><dt>未來新書</dt><dd>不包含；新增書目另行公告。</dd><dt>使用期限</dt><dd>尚未定案，開賣前公告；目前不承諾永久使用。</dd><dt>如何開通</dt><dd>付款驗證、帳號綁定與跨裝置閱讀驗證完成後，才開放購買並公布操作流程。</dd></dl>
+    <dl className="offer-facts"><dt>解鎖範圍</dt><dd>購買時方案列出的 {otherBooks.length} 本試讀小說後續章節。</dd><dt>付款方式</dt><dd>規劃一次付費 NT${premiumPriceTwd}，非月訂閱。{!premium.checkout&&'目前不接受付款。'}</dd><dt>未來新書</dt><dd>不包含；新增書目另行公告。</dd><dt>使用期限</dt><dd>尚未定案，開賣前公告；目前不承諾永久使用。</dd><dt>如何開通</dt><dd>{premium.googleClientId?'用 Google 登入後付款，付款確認後開通至同一帳號。':'付款驗證、帳號綁定與跨裝置閱讀驗證完成後，才開放購買並公布操作流程。'}</dd></dl>
     <PremiumAccount checkout={premium.checkout&&!ownsSelected} connected={premium.connected}
      active={!!premium.booksOwned.length} onChange={premium.refresh}
+     googleClientId={premium.googleClientId} googleSignedIn={premium.googleSignedIn}
      onContinue={ownsSelected&&selected?()=>onRead(selected.chapters[previewChapters].id):undefined}/>
    </section>
   </div>

@@ -1,11 +1,12 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {DatabaseSync} from 'node:sqlite';
-import {createCipheriv,createDecipheriv,createHash} from 'node:crypto';
+import {createCipheriv,createDecipheriv,createHash,generateKeyPairSync,sign} from 'node:crypto';
 import worker from '../premium-service/worker.mjs';
 
 const sqlite=new DatabaseSync(':memory:');
 sqlite.exec(readFileSync('premium-service/schema.sql','utf8'));
+sqlite.exec(readFileSync('premium-service/google.sql','utf8'));
 sqlite.prepare('INSERT INTO premium_catalog VALUES (1,?,100,1)').run('["sample"]');
 sqlite.prepare('INSERT INTO premium_chapters VALUES (?,?,?)').run('sample','sample-11','{"id":"sample-11","paragraphs":[{"en":"private"}]}');
 function statement(sql,params=[]){
@@ -35,7 +36,10 @@ const request=(path,{data,key,form}={})=>worker.fetch(new Request(env.SERVICE_UR
 }),env);
 let email;
 let sends=0;
+const signingKeys=generateKeyPairSync('rsa',{modulusLength:2048});
+const jwk={...signingKeys.publicKey.export({format:'jwk'}),kid:'story-test',alg:'RS256'};
 globalThis.fetch=async (url,init)=>{
+ if(url==='https://www.googleapis.com/oauth2/v3/certs')return Response.json({keys:[jwk]});
  assert.equal(url,'https://api.resend.com/emails');
  sends++;email=JSON.parse(init.body);
  assert.equal(email.to[0],'reader@example.com');
@@ -53,9 +57,9 @@ const decipher=createDecipheriv('aes-256-cbc',env.HASH_KEY,env.HASH_IV);
 const params=new URLSearchParams(Buffer.concat([decipher.update(order.fields.TradeInfo,'hex'),decipher.final()]).toString());
 assert.equal(params.get('Amt'),'100');
 const id=params.get('MerchantOrderNo');
-function callback(amount, valid=true){
+function callback(amount, valid=true, orderId=id, tradeNo="test123"){
  const content=JSON.stringify({Status:'SUCCESS',Result:{
-  MerchantID:env.MERCHANT_ID,MerchantOrderNo:id,PaymentType:'CREDIT',RespondCode:'00',TradeNo:'test123',Amt:amount
+  MerchantID:env.MERCHANT_ID,MerchantOrderNo:orderId,PaymentType:'CREDIT',RespondCode:'00',TradeNo:tradeNo,Amt:amount
  }});
  const cipher=createCipheriv('aes-256-cbc',env.HASH_KEY,env.HASH_IV);
  const info=Buffer.concat([cipher.update(content),cipher.final()]).toString('hex');
@@ -83,3 +87,55 @@ assert.equal((await request(chapter,{key:other})).status,403);
 sqlite.prepare('UPDATE premium_orders SET revoked_at=1 WHERE id=?').run(id);
 assert.equal((await request(chapter,{key})).status,403);
 console.log('PASS: private chapters, signed payment, wrong amount rejection, single email, single-account redemption, cross-device key, revocation');
+
+env.GOOGLE_CLIENT_ID='storysteps-test.apps.googleusercontent.com';
+env.SALES_ENABLED='true';
+delete env.RESEND_API_KEY;
+delete env.EMAIL_FROM;
+assert.equal((await request('/api/premium/checkout',{data:{email:'reader@example.com'}})).status,401);
+async function challenge(){
+ return request('/api/premium/google/challenge',{data:{}}).then(r=>r.json());
+}
+function credential(nonce,claims={}){
+ const now=Math.floor(Date.now()/1000);
+ const header=Buffer.from(JSON.stringify({alg:'RS256',kid:jwk.kid})).toString('base64url');
+ const body=Buffer.from(JSON.stringify({iss:'https://accounts.google.com',aud:env.GOOGLE_CLIENT_ID,sub:'12345678',
+  email:'reader@example.com',email_verified:true,nonce,iat:now,exp:now+600,...claims})).toString('base64url');
+ return header+'.'+body+'.'+sign('sha256',Buffer.from(header+'.'+body),signingKeys.privateKey).toString('base64url');
+}
+const login=(data)=>request('/api/premium/google/login',{data});
+const first=await challenge();
+assert.equal((await login({proof:first.proof,credential:credential(first.nonce,{aud:'other'})})).status,401);
+assert.equal((await login({proof:first.proof,credential:credential('0'.repeat(64))})).status,401);
+const signedIn={proof:first.proof,credential:credential(first.nonce)};
+const [attempt1,attempt2]=await Promise.all([login(signedIn),login(signedIn)]);
+assert.deepEqual([attempt1.status,attempt2.status].sort(),[200,401]);
+const {token}=await (attempt1.ok?attempt1:attempt2).json();
+assert.match(token,/^ssg_[a-f0-9]{64}$/);
+assert.equal((await request('/api/premium/status',{key:token}).then(r=>r.json())).googleSignedIn,true);
+const purchase=await request('/api/premium/checkout',{key:token,data:{email:'untrusted@example.com',amount:1}}).then(r=>r.json());
+const decrypted=createDecipheriv('aes-256-cbc',env.HASH_KEY,env.HASH_IV);
+const purchaseData=new URLSearchParams(Buffer.concat([decrypted.update(purchase.fields.TradeInfo,'hex'),decrypted.final()]).toString());
+const googleOrder=purchaseData.get('MerchantOrderNo');
+assert.equal(purchaseData.get('Email'),'reader@example.com');
+assert.equal(purchaseData.get('Amt'),'100');
+assert.equal((await request(chapter,{key:token})).status,403);
+assert.equal((await callback(1,true,googleOrder,'google-test-1')).status,400);
+assert.equal((await callback(100,true,googleOrder,'google-test-1')).status,200);
+assert.equal((await callback(100,true,googleOrder,'google-test-1')).status,200);
+assert.equal(sends,1);
+assert.equal((await request(chapter,{key:token})).status,200);
+const next=await challenge();
+const newDevice=await login({proof:next.proof,credential:credential(next.nonce,{email:'renamed@example.com'})}).then(r=>r.json());
+assert.notEqual(newDevice.token,token);
+assert.deepEqual((await request('/api/premium/status',{key:newDevice.token}).then(r=>r.json())).booksOwned,['sample']);
+const someoneElse=await challenge();
+const stranger=await login({proof:someoneElse.proof,credential:credential(someoneElse.nonce,{sub:'someone-else',email:'renamed@example.com'})}).then(r=>r.json());
+assert.equal((await request(chapter,{key:stranger.token})).status,403);
+assert.equal((await request(chapter,{key:'ssg_'+'f'.repeat(64)})).status,401);
+assert.equal((await request('/api/premium/google/logout',{key:token,data:{}})).status,200);
+assert.equal((await request(chapter,{key:token})).status,401);
+assert.equal((await request(chapter,{key:newDevice.token})).status,200);
+sqlite.prepare('UPDATE premium_orders SET revoked_at=1 WHERE id=?').run(googleOrder);
+assert.equal((await request(chapter,{key:newDevice.token})).status,403);
+console.log('PASS: Google verification, one-time sign-in, checkout binding, automatic unlock, device recovery and logout');

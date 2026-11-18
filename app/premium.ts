@@ -3,7 +3,7 @@ import {readerOffer,premiumPriceTwd} from './offer';
 import {stories} from './content';
 
 const storageKey='storysteps-premium-key';
-const tokenPattern=/^ss2_[a-f0-9]{64}$/;
+const tokenPattern=/^(?:ss2_|ssg_)[a-f0-9]{64}$/;
 const endpoint=readerOffer.premium.serviceUrl;
 export const premiumBookCount=stories.length-readerOffer.freeBookIds.length;
 export const premiumDescription=`NT$${premiumPriceTwd} 一次付費，解鎖目前 ${premiumBookCount} 本試讀小說的後續章節。`;
@@ -38,14 +38,15 @@ export async function premiumRequest(path:string,key?:string,data?:object){
 }
 
 export function usePremium(){
- const [state,setState]=useState<{checkout:boolean;booksOwned:string[]}>({checkout:false,booksOwned:[]});
+ const [state,setState]=useState<{checkout:boolean;booksOwned:string[];googleClientId:string;googleSignedIn:boolean}>({checkout:false,booksOwned:[],googleClientId:'',googleSignedIn:false});
  const [revision,setRevision]=useState(0);
  useEffect(()=>{
   let current=true;
   if(endpoint)premiumRequest('status').then(result=>{
    if(current)setState({checkout:result.checkout===true&&result.amount===premiumPriceTwd&&result.books===premiumBookCount,
-    booksOwned:Array.isArray(result.booksOwned)?result.booksOwned:[]});
-  }).catch(()=>{if(current)setState({checkout:false,booksOwned:[]})});
+    googleClientId:typeof result.googleClientId==='string'?result.googleClientId:'',
+    googleSignedIn:result.googleSignedIn===true,booksOwned:Array.isArray(result.booksOwned)?result.booksOwned:[]});
+  }).catch(()=>{if(current)setState({checkout:false,booksOwned:[],googleClientId:'',googleSignedIn:false})});
   return ()=>{current=false};
  },[revision]);
  return {...state,connected:Boolean(endpoint),refresh:()=>setRevision(value=>value+1)};

@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths:
       - 'app/**'
+      - 'premium-service/**'
+      - 'verification/premium-api-smoke.mjs'
       - 'config/**'
       - 'verification/offer-smoke.mjs'
       - 'verification/dictionary-smoke.mjs'
@@ -49,6 +51,7 @@ jobs:
           npm run build
           node verification/ad-policy-smoke.mjs
           node verification/offer-smoke.mjs
+          node verification/premium-api-smoke.mjs
           node verification/dictionary-smoke.mjs
           timeout 100s node verification/browser-smoke.mjs
           timeout 100s node verification/launch-flow-smoke.mjs
@@ -67,6 +70,7 @@ jobs:
             npm run build
             node verification/ad-policy-smoke.mjs
             node verification/offer-smoke.mjs
+            node verification/premium-api-smoke.mjs
             node verification/dictionary-smoke.mjs
             # Confirm the code being published is the code checked in and tested.
             timeout 100s node verification/browser-smoke.mjs

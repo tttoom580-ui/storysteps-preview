@@ -263,6 +263,44 @@ async function run(label,options){
   await page.locator('.mixed-paragraph').first().waitFor();
   if(await targets.count()!==20||await page.locator('.mixed-source-note').count())
    throw Error('The reviewed chapter must place all 20 words directly in the translated prose');
+  if(label==='desktop'){
+   const config=JSON.parse(readFileSync('config/reader-offer.json','utf8'));
+   const authOrigin=new URL(config.premium.serviceUrl).origin;
+   const fakeSession='ssg_'+'a'.repeat(64);
+   const fakeClient='story-test.apps.googleusercontent.com';
+   await page.route(authOrigin+'/api/premium/**',async route=>{
+    const request=route.request();
+    const origin=new URL(base).origin;
+    const headers={'access-control-allow-origin':origin,'access-control-allow-headers':'authorization,content-type','access-control-allow-methods':'GET, POST, OPTIONS'};
+    if(request.method()==='OPTIONS')return route.fulfill({status:204,headers});
+    const path=new URL(request.url()).pathname;
+    let json;
+    if(path.endsWith('/status'))json={checkout:false,googleClientId:fakeClient,googleSignedIn:request.headers().authorization==='Bearer '+fakeSession,booksOwned:[]};
+    if(path.endsWith('/challenge'))json={nonce:'nonce',proof:'proof'};
+    if(path.endsWith('/login')){
+     const {credential,proof}=request.postDataJSON();
+     if(credential!=='signed-credential'||proof!=='proof')throw Error('Sign-in did not send the Google credential and proof');
+     json={token:fakeSession};
+    }
+    if(path.endsWith('/logout')){
+     if(request.headers().authorization!=='Bearer '+fakeSession)throw Error('Logout did not send the Google session');
+     json={ok:true};
+    }
+    return route.fulfill({status:json?200:404,headers,json:json||{}});
+   });
+   await page.route('https://accounts.google.com/gsi/client',route=>route.fulfill({
+    contentType:'application/javascript',
+    body:"window.google={accounts:{id:{initialize(o){this.callback=o.callback},renderButton(e){let b=document.createElement('button');b.textContent='使用 Google 登入';b.onclick=()=>this.callback({credential:'signed-credential'});e.append(b)},disableAutoSelect(){}}}};",
+   }));
+   await page.goto(base+'?purchase=1',{waitUntil:'domcontentloaded'});
+   await page.getByRole('button',{name:'使用 Google 登入',exact:true}).click();
+   await page.getByText('已用 Google 登入。',{exact:true}).waitFor();
+   await page.reload({waitUntil:'domcontentloaded'});
+   await page.getByText('已用 Google 登入。',{exact:true}).waitFor();
+   await page.locator('.premium-account').getByRole('button',{name:'登出',exact:true}).click();
+   await page.getByRole('button',{name:'使用 Google 登入',exact:true}).waitFor();
+   if(await page.evaluate(()=>localStorage.getItem('storysteps-premium-key')))throw Error('Google session remained after logout');
+  }
   if(errors.length)throw Error(label+' JS errors: '+errors.join('; '));
   console.log(JSON.stringify({device:label,ok:true,sync:true,theme:true}));
  }finally{await context.close()}
