@@ -1,15 +1,15 @@
 {
   "updated": "2026-11-10",
   "summary": {
-    "books": 117,
-    "chapters": 2835,
-    "englishWords": 1823515,
-    "questions": 5670,
-    "targetEntries": 56807,
-    "bilingualParagraphs": 17536,
+    "books": 123,
+    "chapters": 2985,
+    "englishWords": 1920911,
+    "questions": 5970,
+    "targetEntries": 59813,
+    "bilingualParagraphs": 18561,
     "sourceEvidenceQuestionsChecked": 783,
     "structuralErrors": 0,
-    "booksWithSentenceReuseFlags": 13,
+    "booksWithSentenceReuseFlags": 14,
     "newQuestions": 26,
     "filledMeanings": 479,
     "targetPassagesRepaired": 22,
@@ -12428,6 +12428,874 @@
       "chapters": 25,
       "englishWords": 16215,
       "minimumChapterWords": 623,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ceo-series-1b",
+      "title": "總裁，假婚約星期五到期",
+      "chapters": 25,
+      "englishWords": 16003,
+      "minimumChapterWords": 614,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ceo-series-2b",
+      "title": "總裁，這張車票不賣給你",
+      "chapters": 25,
+      "englishWords": 16815,
+      "minimumChapterWords": 652,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 73,
+      "highestSentenceReuse": 5,
+      "sentenceReuseExamples": [
+        {
+          "sentence": "Adrian spoke to the assistant gently and explained that good news was worth sharing only when it was true.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Adrian's world was full of rooms where people agreed with him too quickly.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "He did not know whether she would ever love him, and he was learning not to turn that uncertainty into a demand.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        }
+      ],
+      "sentenceReuseDetails": [
+        {
+          "sentence": "Adrian spoke to the assistant gently and explained that good news was worth sharing only when it was true.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Adrian's world was full of rooms where people agreed with him too quickly.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "He did not know whether she would ever love him, and he was learning not to turn that uncertainty into a demand.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "His care for her would mean little if it cost her independence.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "It was a useful test of the words themselves, before those words guided a real action.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "June asked that it stay folded until the workers checked the facts.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "June kept a second notebook for questions that nobody could answer yet.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "June placed the old plan beside the new one so the team could see each change.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She believed an empty space on a page was better than a number invented to look complete.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She could be warm and still say that his plan was wrong.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "The team could still take pride in its effort, even while another test remained unfinished.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Their new way of working was slower, but it left a path that another person could follow.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "When the worker became confused, they found another line that needed repair.",
+          "chapters": [
+            "ceo-series-2b-1",
+            "ceo-series-2b-13",
+            "ceo-series-2b-19",
+            "ceo-series-2b-25",
+            "ceo-series-2b-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "A careful process might feel slow in the moment, but it could prevent a much longer delay.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "A changed habit, he knew, had to begin with a changed question.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "A cleaner stopped by to ask whether the workers could keep a clear path to the door.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "A meeting did not become useful simply because its leader spoke well.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "A mistake on a quiet day could be a warning about danger on a busy one.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "A visitor asked whether the rich passengers would still get special treatment.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "A worker at the back of the room raised a hand and then slowly lowered it.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Adrian answered that comfortable seats could cost more, but the right to a safe journey could not.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Adrian had spent years believing that solving a problem meant being the first person to speak.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Adrian listened, thinking about how often his company had praised a good result without asking whether the method was sound.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Adrian noticed that a useful safety change could start with the person who cleaned the floor, not a director.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Adrian saw how much courage it took to admit that a question was still open.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Adrian seemed to be learning the same lesson from the other side.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Adrian watched her and understood that listening was a kind of work.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "An assistant wanted to mark the job complete as soon as the first measurement looked good.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "At the end of the conversation, June asked whether anyone had understood the instruction differently.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "He had the legal office write the rule down and sent it to the workers.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "He hoped she could notice that change without feeling asked to reward it.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "He was beginning to learn why the place where a decision was made could change the decision itself.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "If a decision changed, readers needed to know what had changed and why.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "In earlier years she might have stayed until the lights went out, afraid a small mistake would be blamed on her.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "It meant making enough room for her to do it well and to rest afterward.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "It was easier to make a strong speech from one neat answer.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "It was harder, and more useful, to show where the answer still had limits.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June also asked for the name of the person who would do the work, not only the person who approved the money.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June explained this without anger, as a simple fact about a useful inspection.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June had a report to finish, and Adrian had people to answer to.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June knew she could admire a person and still disagree with him.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June marked what she had measured herself and what another person had reported.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June remembered that her first teacher had never let students hide a failed test.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June showed him another way: stay long enough to understand the person who would live with the answer.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June tried to treat each warning as a chance to learn, not as a reason to search for an enemy.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "June wrote the correction in the record, and Adrian signed beside it.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Nobody could claim later that an honest warning had broken the team's trust.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Now he understood they were a way of respecting everyone who would depend on the result.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She asked him to give them a written way to report danger without punishment.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She asked small questions in a calm voice and wrote down the answers without changing their meaning.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She asked someone who had not prepared the document to check the numbers.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She could hear where the floor shook and see which signs were difficult to read.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She did not expect everyone to have the same ticket, only the same basic protection.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She had worked too hard to win the right to make her own decisions.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She was beginning to enjoy his company, but she would not confuse comfort with consent to anything more.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Sometimes respect was visible in the questions a person did not ask.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "That small exchange made the discussion less like an advertisement and more like public work.",
+          "chapters": [
+            "ceo-series-2b-11",
+            "ceo-series-2b-17",
+            "ceo-series-2b-23",
+            "ceo-series-2b-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The answer was not ready, so she promised to return with evidence, not with a guess.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The first person to notice trouble was rarely the person with the highest title.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The most important part was not that they had been right; it was that they could correct themselves.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The people checking the work had to be free to say no.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The purpose of a record was to remember what had happened, not only what people wished had happened.",
+          "chapters": [
+            "ceo-series-2b-14",
+            "ceo-series-2b-2",
+            "ceo-series-2b-20",
+            "ceo-series-2b-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The railway looked different when June stood beside a worker instead of looking down from a meeting room.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The teacher would say that failure was a message, not a mark of shame.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The workers were relieved to know that asking for a clearer rule did not make them look foolish.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The younger workers were careful around Adrian because they knew he could change their jobs with one decision.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "There were photographs, numbers, and stories on the table, but they were not the same kind of evidence.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "They returned with fresh eyes and found a small error they had missed.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "They walked together for a short distance, then returned to their separate duties without anger or a promise they could not keep.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Trust grew more easily when people had rules to protect them, rather than having to depend on a boss's good mood.",
+          "chapters": [
+            "ceo-series-2b-15",
+            "ceo-series-2b-21",
+            "ceo-series-2b-3",
+            "ceo-series-2b-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "When something went wrong, people could return to the task instead of arguing about who had looked most confident in a meeting.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "When the work finally paused, Adrian offered tea without asking for an answer about their private lives.",
+          "chapters": [
+            "ceo-series-2b-12",
+            "ceo-series-2b-18",
+            "ceo-series-2b-24",
+            "ceo-series-2b-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Yet the quiet effort changed how he saw both the railway and the woman standing beside him.",
+          "chapters": [
+            "ceo-series-2b-10",
+            "ceo-series-2b-16",
+            "ceo-series-2b-22",
+            "ceo-series-2b-4"
+          ],
+          "count": 4
+        }
+      ],
+      "editorialStatus": "句子重用待逐章修訂"
+    },
+    {
+      "id": "ceo-series-3b",
+      "title": "總裁，請先撤回那則聲明",
+      "chapters": 25,
+      "englishWords": 16143,
+      "minimumChapterWords": 601,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ceo-series-4a",
+      "title": "董事會副本：總裁只剩一票",
+      "chapters": 25,
+      "englishWords": 16574,
+      "minimumChapterWords": 636,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ceo-series-5b",
+      "title": "他的帝國靠岸時：總裁與不出售碼頭的男人",
+      "chapters": 25,
+      "englishWords": 15583,
+      "minimumChapterWords": 602,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "ceo-series-6a",
+      "title": "陸總，惡女的認罪書我不簽",
+      "chapters": 25,
+      "englishWords": 16278,
+      "minimumChapterWords": 626,
       "minimumTargetWords": 20,
       "questions": 50,
       "structuralChecksPassed": true,
@@ -37952,6 +38820,1356 @@
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 11,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-1",
+      "englishWords": 651,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-2",
+      "englishWords": 660,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-3",
+      "englishWords": 635,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-4",
+      "englishWords": 625,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-5",
+      "englishWords": 659,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-6",
+      "englishWords": 657,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-7",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-8",
+      "englishWords": 668,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-9",
+      "englishWords": 648,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-10",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-11",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-12",
+      "englishWords": 635,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-13",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-14",
+      "englishWords": 637,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-15",
+      "englishWords": 632,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-16",
+      "englishWords": 628,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-17",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-18",
+      "englishWords": 639,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-19",
+      "englishWords": 635,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-20",
+      "englishWords": 634,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-21",
+      "englishWords": 651,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-22",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-23",
+      "englishWords": 614,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-24",
+      "englishWords": 637,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-1b",
+      "chapter": "ceo-series-1b-25",
+      "englishWords": 654,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-1",
+      "englishWords": 745,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-2",
+      "englishWords": 667,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-3",
+      "englishWords": 663,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-4",
+      "englishWords": 678,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-5",
+      "englishWords": 672,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-6",
+      "englishWords": 665,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-7",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-8",
+      "englishWords": 652,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-9",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-10",
+      "englishWords": 668,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-11",
+      "englishWords": 680,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-12",
+      "englishWords": 688,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-13",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-14",
+      "englishWords": 663,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-15",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-16",
+      "englishWords": 673,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-17",
+      "englishWords": 665,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-18",
+      "englishWords": 669,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-19",
+      "englishWords": 663,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-20",
+      "englishWords": 679,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-21",
+      "englishWords": 655,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-22",
+      "englishWords": 664,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-23",
+      "englishWords": 684,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-24",
+      "englishWords": 669,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-2b",
+      "chapter": "ceo-series-2b-25",
+      "englishWords": 689,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-1",
+      "englishWords": 736,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-2",
+      "englishWords": 725,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 8,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-3",
+      "englishWords": 650,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-4",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-5",
+      "englishWords": 661,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-6",
+      "englishWords": 630,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-7",
+      "englishWords": 641,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-8",
+      "englishWords": 653,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-9",
+      "englishWords": 621,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-10",
+      "englishWords": 665,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-11",
+      "englishWords": 638,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-12",
+      "englishWords": 622,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-13",
+      "englishWords": 622,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-14",
+      "englishWords": 615,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-15",
+      "englishWords": 639,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-16",
+      "englishWords": 620,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-17",
+      "englishWords": 677,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-18",
+      "englishWords": 634,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-19",
+      "englishWords": 601,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-20",
+      "englishWords": 637,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-21",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-22",
+      "englishWords": 623,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-23",
+      "englishWords": 639,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-24",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-3b",
+      "chapter": "ceo-series-3b-25",
+      "englishWords": 675,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-1",
+      "englishWords": 641,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-2",
+      "englishWords": 674,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-3",
+      "englishWords": 670,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-4",
+      "englishWords": 654,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-5",
+      "englishWords": 657,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-6",
+      "englishWords": 658,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-7",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-8",
+      "englishWords": 653,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-9",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-10",
+      "englishWords": 641,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-11",
+      "englishWords": 675,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-12",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-13",
+      "englishWords": 636,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-14",
+      "englishWords": 651,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-15",
+      "englishWords": 672,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-16",
+      "englishWords": 652,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-17",
+      "englishWords": 670,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-18",
+      "englishWords": 670,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-19",
+      "englishWords": 688,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-20",
+      "englishWords": 697,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-21",
+      "englishWords": 698,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-22",
+      "englishWords": 654,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-23",
+      "englishWords": 654,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-24",
+      "englishWords": 694,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-4a",
+      "chapter": "ceo-series-4a-25",
+      "englishWords": 676,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-1",
+      "englishWords": 635,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-2",
+      "englishWords": 602,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-3",
+      "englishWords": 640,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-4",
+      "englishWords": 619,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-5",
+      "englishWords": 625,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-6",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-7",
+      "englishWords": 625,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-8",
+      "englishWords": 615,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-9",
+      "englishWords": 620,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-10",
+      "englishWords": 623,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-11",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-12",
+      "englishWords": 622,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-13",
+      "englishWords": 604,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-14",
+      "englishWords": 648,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-15",
+      "englishWords": 619,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-16",
+      "englishWords": 628,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-17",
+      "englishWords": 621,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-18",
+      "englishWords": 604,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-19",
+      "englishWords": 613,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-20",
+      "englishWords": 625,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-21",
+      "englishWords": 618,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-22",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-23",
+      "englishWords": 616,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-24",
+      "englishWords": 616,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-5b",
+      "chapter": "ceo-series-5b-25",
+      "englishWords": 624,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-1",
+      "englishWords": 692,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-2",
+      "englishWords": 670,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-3",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-4",
+      "englishWords": 648,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-5",
+      "englishWords": 680,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-6",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-7",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-8",
+      "englishWords": 652,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-9",
+      "englishWords": 643,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-10",
+      "englishWords": 640,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-11",
+      "englishWords": 649,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-12",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-13",
+      "englishWords": 636,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-14",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-15",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-16",
+      "englishWords": 649,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-17",
+      "englishWords": 650,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-18",
+      "englishWords": 664,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-19",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-20",
+      "englishWords": 646,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-21",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-22",
+      "englishWords": 640,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-23",
+      "englishWords": 663,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-24",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "ceo-series-6a",
+      "chapter": "ceo-series-6a-25",
+      "englishWords": 676,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 10,
       "errors": []
     }
   ]
