@@ -139,3 +139,11 @@ assert.equal((await request(chapter,{key:newDevice.token})).status,200);
 sqlite.prepare('UPDATE premium_orders SET revoked_at=1 WHERE id=?').run(googleOrder);
 assert.equal((await request(chapter,{key:newDevice.token})).status,403);
 console.log('PASS: Google verification, one-time sign-in, checkout binding, automatic unlock, device recovery and logout');
+
+sqlite.prepare('INSERT INTO premium_full_library_grants VALUES (?,1)')
+ .run('google:'+createHash('sha256').update('12345678').digest('hex'));
+assert.deepEqual((await request('/api/premium/status',{key:newDevice.token}).then(r=>r.json())).booksOwned,['sample']);
+assert.equal((await request(chapter,{key:newDevice.token})).status,200);
+assert.equal((await request(chapter,{key:stranger.token})).status,403);
+assert.equal((await request(chapter)).status,401);
+console.log('PASS: full-library access without an order is restricted to the granted Google account');

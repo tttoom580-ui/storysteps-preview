@@ -16,3 +16,8 @@ CREATE TABLE IF NOT EXISTS premium_google_challenges (
 CREATE INDEX IF NOT EXISTS premium_google_challenges_exp ON premium_google_challenges(expires_at);
 CREATE INDEX IF NOT EXISTS premium_legacy_mail_queue ON premium_orders(paid_at)
  WHERE mailed_at IS NULL AND (account IS NULL OR substr(account,1,7)<>'google:');
+
+CREATE TABLE IF NOT EXISTS premium_full_library_grants (
+  account TEXT PRIMARY KEY REFERENCES premium_google_accounts(account),
+  granted_at INTEGER NOT NULL
+);

@@ -191,7 +191,10 @@ async function redeem(req,env,origin) {
 async function booksForAccount(env,account) {
  if (!account) return [];
  const {results} = await query(env,`SELECT DISTINCT item.value AS book FROM premium_orders,json_each(books) AS item
-  WHERE account=? AND paid_at IS NOT NULL AND revoked_at IS NULL ORDER BY book`,account).all();
+  WHERE account=? AND paid_at IS NOT NULL AND revoked_at IS NULL
+  UNION SELECT DISTINCT book FROM premium_chapters WHERE EXISTS (
+   SELECT 1 FROM premium_full_library_grants WHERE account=?
+  ) ORDER BY book`,account,account).all();
  return results.map(row => row.book);
 }
 
@@ -199,9 +202,10 @@ async function chapter(req,env,origin,url) {
  const account = await accountId(req,env), book = url.searchParams.get('book'), id = url.searchParams.get('id');
  if (!account) return response({error:'請先開通或登入閱讀通行證。'},401,origin);
  if (!bookPattern.test(book || '') || !bookPattern.test(id || '')) return response({error:'找不到章節。'},404,origin);
- const row = await query(env,`SELECT body FROM premium_chapters WHERE book=? AND id=? AND EXISTS (
+ const row = await query(env,`SELECT body FROM premium_chapters WHERE book=? AND id=? AND (EXISTS (
   SELECT 1 FROM premium_orders,json_each(books) AS item WHERE item.value=premium_chapters.book
-  AND account=? AND paid_at IS NOT NULL AND revoked_at IS NULL)`,book,id,account).first();
+  AND account=? AND paid_at IS NOT NULL AND revoked_at IS NULL
+ ) OR EXISTS (SELECT 1 FROM premium_full_library_grants WHERE account=?))`,book,id,account,account).first();
  if (!row) return response({error:'這個章節目前未包含在你的通行證。'},403,origin);
  return response(JSON.parse(row.body),200,origin);
 }
