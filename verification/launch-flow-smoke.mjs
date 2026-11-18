@@ -24,6 +24,15 @@ try{
  assert.equal(await page.locator('.reader-settings').getAttribute('open'),null);
  assert.equal(await page.locator('.reader-toc').isVisible(),false);
  assert.equal(await page.locator('.mobile-nav').isVisible(),false);
+ // A word absent from the old bundled dictionary must load and stay dismissible.
+ // Chapter one has no Seventeen token; chapter two provides a real prose lookup.
+ await page.goto('http://127.0.0.1:4175/?book=import-rain-bell&chapter=import-rain-bell-2&analytics_debug=1&utm_source=threads&utm_campaign=launch');
+ await page.locator('.prose').waitFor();
+ await page.getByRole('button',{name:'查詢 Seventeen',exact:true}).first().click();
+ await page.getByRole('dialog',{name:'單字中文翻譯'}).getByText(/十七/).first().waitFor();
+ await page.getByRole('button',{name:'返回原文',exact:true}).click();
+ await page.goto('http://127.0.0.1:4175/?book=import-rain-bell&chapter=import-rain-bell-1&analytics_debug=1&utm_source=threads&utm_campaign=launch');
+ await page.locator('.prose').waitFor();
  const originalText=await page.locator('.prose [data-paragraph]').first().innerText();
  await page.getByRole('button',{name:'邪修法',exact:true}).click();
  assert.equal(await page.locator('.mixed-paragraph').count()>0,true);

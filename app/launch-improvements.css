@@ -139,3 +139,6 @@
  .app .mixed-prose .mixed-paragraph{font-size:18px!important;line-height:2!important}
  .app .reader-tools button{min-height:42px}
 }
+
+/* Dictionary definitions keep their part-of-speech lines readable in the lookup dock. */
+.word-dock .word-meaning,.word-modal .word-meaning{white-space:pre-line;overflow-wrap:anywhere}

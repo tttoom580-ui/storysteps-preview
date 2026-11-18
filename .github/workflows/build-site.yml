@@ -6,6 +6,7 @@ on:
       - 'app/**'
       - 'config/**'
       - 'verification/offer-smoke.mjs'
+      - 'verification/dictionary-smoke.mjs'
       - 'scripts/**'
       - 'public/**'
       - 'incoming/batch11/**'
@@ -46,6 +47,7 @@ jobs:
           npm run build
           node verification/ad-policy-smoke.mjs
           node verification/offer-smoke.mjs
+          node verification/dictionary-smoke.mjs
           timeout 100s node verification/browser-smoke.mjs
           timeout 100s node verification/launch-flow-smoke.mjs
           timeout 90s node verification/sync-api-smoke.mjs
@@ -63,6 +65,7 @@ jobs:
             npm run build
             node verification/ad-policy-smoke.mjs
             node verification/offer-smoke.mjs
+            node verification/dictionary-smoke.mjs
             # Confirm the code being published is the code checked in and tested.
             timeout 100s node verification/browser-smoke.mjs
             timeout 100s node verification/launch-flow-smoke.mjs

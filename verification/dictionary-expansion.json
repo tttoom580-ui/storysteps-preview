@@ -1,0 +1,139 @@
+{
+  "source": "https://github.com/skywind3000/ECDICT",
+  "license": "MIT",
+  "sourceCsvSha256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc",
+  "conversion": "OpenCC s2twp",
+  "entries": 16027,
+  "proseWordTypes": 16168,
+  "directCoveredTypes": 14826,
+  "directCoverageByOccurrence": 99.11,
+  "remainingExamples": [
+    [
+      "person's",
+      288
+    ],
+    [
+      "ruo",
+      276
+    ],
+    [
+      "jiahe",
+      261
+    ],
+    [
+      "hsin",
+      250
+    ],
+    [
+      "city's",
+      248
+    ],
+    [
+      "tavi",
+      241
+    ],
+    [
+      "meicen",
+      228
+    ],
+    [
+      "zhixia",
+      225
+    ],
+    [
+      "yingrong",
+      216
+    ],
+    [
+      "ruoqing",
+      215
+    ],
+    [
+      "yuna",
+      213
+    ],
+    [
+      "jianxia",
+      210
+    ],
+    [
+      "yingshu",
+      208
+    ],
+    [
+      "liora",
+      197
+    ],
+    [
+      "shuning",
+      197
+    ],
+    [
+      "yuqing",
+      196
+    ],
+    [
+      "caiping",
+      185
+    ],
+    [
+      "veyra",
+      183
+    ],
+    [
+      "zhiwei",
+      174
+    ],
+    [
+      "children's",
+      166
+    ],
+    [
+      "company's",
+      162
+    ],
+    [
+      "child's",
+      151
+    ],
+    [
+      "station's",
+      144
+    ],
+    [
+      "maelin",
+      140
+    ],
+    [
+      "mother's",
+      135
+    ],
+    [
+      "father's",
+      135
+    ],
+    [
+      "town's",
+      132
+    ],
+    [
+      "zhaoyue",
+      128
+    ],
+    [
+      "family's",
+      115
+    ],
+    [
+      "yicheng",
+      114
+    ]
+  ],
+  "validation": {
+    "proseTokens": 1725573,
+    "combinedLookupCoverageByOccurrence": 99.66,
+    "mixedParagraphsChecked": 16420,
+    "mixedTokens": 34653,
+    "booksWithoutMixedTokens": 0
+  }
+}

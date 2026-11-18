@@ -1,7 +1,18 @@
+import {expandedDefinition,loadDefinitions} from './expanded-dictionary.mjs';
 import novelDictionary from "./data/dictionary-novel.json";
 import type {Word} from "./types";
 
 export const baseDictionary:Record<string,string>={
+ "don't":'不（do not）',"doesn't":'不（does not）',"didn't":'沒有；不（did not）',
+ "can't":'不能（cannot）',"cannot":'不能',"couldn't":'不能（could not）',"won't":'將不會（will not）',"wouldn't":'不會（would not）',
+ "isn't":'不是（is not）',"aren't":'不是（are not）',"wasn't":'不是（was not）',"weren't":'不是（were not）',
+ "haven't":'還沒有（have not）',"hasn't":'還沒有（has not）',"hadn't":'之前還沒有（had not）',"shouldn't":'不應該（should not）',"mustn't":'不可以（must not）',
+ "i'm":'我是（I am）',"you're":'你是；你們是（you are）',"we're":'我們是（we are）',"they're":'他們是（they are）',
+ "it's":'它是；它已經（it is / it has）',"that's":'那是；那已經（that is / that has）',"there's":'有（there is / there has）',
+ "he's":'他是；他已經（he is / he has）',"she's":'她是；她已經（she is / she has）',"what's":'是什麼；發生了什麼（what is / what has）',
+ "i've":'我已經（I have）',"we've":'我們已經（we have）',"you've":'你已經（you have）',"they've":'他們已經（they have）',
+ "i'll":'我將會（I will）',"you'll":'你將會（you will）',"he'll":'他將會（he will）',"she'll":'她將會（she will）',"we'll":'我們將會（we will）',"they'll":'他們將會（they will）',
+ "i'd":'我會；我之前已經（I would / I had）',"you'd":'你會；你之前已經（you would / you had）',"let's":'我們一起……吧（let us）',
  a:'一個（不定冠詞）',an:'一個（母音前使用）',the:'這個；那個（定冠詞）',i:'我',you:'你；你們',he:'他',she:'她',it:'它',we:'我們',they:'他們',me:'我（受詞）',him:'他（受詞）',her:'她；她的',us:'我們（受詞）',them:'他們（受詞）',my:'我的',your:'你的',his:'他的',its:'它的',our:'我們的',their:'他們的',mine:'我的（東西）',yours:'你的（東西）',hers:'她的（東西）',ours:'我們的（東西）',theirs:'他們的（東西）',myself:'我自己',herself:'她自己',himself:'他自己',yourself:'你自己',themselves:'他們自己',
  and:'和；而且',or:'或；或者',but:'但是',so:'所以；如此',because:'因為',if:'如果',when:'當……時；何時',while:'當……時；然而',though:'雖然',although:'雖然',than:'比',as:'像；當作；當……時',that:'那個；引導子句',this:'這個',these:'這些',those:'那些',which:'哪一個；關係代名詞',who:'誰',whom:'誰（受詞）',whose:'誰的',what:'什麼',where:'在哪裡',why:'為什麼',how:'如何；多麼',
  am:'是（與 I 搭配）',is:'是',are:'是',was:'是（過去式）',were:'是（過去式）',be:'是；成為',been:'be 的過去分詞',being:'存在；正在',have:'有；完成式助動詞',has:'有；完成式助動詞',had:'有（過去式）；完成式助動詞',do:'做；助動詞',does:'做；助動詞',did:'做（過去式）；助動詞',done:'完成；do 的過去分詞',can:'能；可以',could:'能；可以（過去式或委婉語氣）',will:'將會',would:'將會；願意（假設或過去語氣）',should:'應該',must:'必須',may:'可能；可以',might:'可能',shall:'將；要不要',
@@ -33,12 +44,21 @@ const irregularForms:Record<string,string>={
  taught:'teach',wore:'wear',worn:'wear',written:'write',wrote:'write'
 };
 
-export function findDefinition(word:string):Word|undefined{
+export function findDefinition(raw:string):Word|undefined{
+ const word=normalizeWord(raw.trim());
  const known=loadedDefinitions.get(word);
  if(known)return {...known,word};
  const direct=dictionary.get(word);
  if(direct)return {word,meaning:direct,source:'拾頁內建詞庫'};
+ const expanded=expandedDefinition(word);
+ if(expanded)return {word,...expanded,source:'ECDICT 擴充詞庫 · 一般詞義'};
  const forms=[irregularForms[word]];
+ if(word.endsWith('iest'))forms.push(word.slice(0,-4)+'y');
+ if(word.endsWith('ier'))forms.push(word.slice(0,-3)+'y');
+ if(word.endsWith('est')||word.endsWith('er')){
+  const stem=word.slice(0,word.endsWith('est')?-3:-2);
+  forms.push(stem,stem+'e',stem.replace(/([b-df-hj-np-tv-z])\1$/,'$1'));
+ }
  if(word.endsWith("'s"))forms.push(word.slice(0,-2));
  if(word.endsWith('ies'))forms.push(word.slice(0,-3)+'y');
  if(word.endsWith('ied'))forms.push(word.slice(0,-3)+'y');
@@ -49,7 +69,16 @@ export function findDefinition(word:string):Word|undefined{
  if(/(?:ch|sh|ss|zz|x|o)es$/.test(word))forms.push(word.slice(0,-2));
  if(word.endsWith('s')&&!word.endsWith('ss'))forms.push(word.slice(0,-1));
  for(const original of forms){
-  const meaning=dictionary.get(original);
+  if(!original)continue;
+  const meaning=dictionary.get(original)||expandedDefinition(original)?.meaning;
   if(meaning)return {word,meaning,original,source:'拾頁內建詞庫 · 依字形推測'};
  }
+}
+
+export async function findExpandedDefinition(raw:string):Promise<Word|undefined>{
+ const word=normalizeWord(raw.trim());
+ const known=findDefinition(word);
+ if(known)return known;
+ await loadDefinitions([word,irregularForms[word]||word]);
+ return findDefinition(word);
 }
