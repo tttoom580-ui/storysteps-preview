@@ -146,6 +146,18 @@ async function run(label,options){
   });
   await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'校訂完成'});
   await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'全部校訂狀態'});
+  if(label==='mobile'){
+   await page.goto(base+'?book=import-rain-bell',{waitUntil:'domcontentloaded'});
+   await page.locator('.book-detail').waitFor();
+   const layout=await page.locator('.book-detail').evaluate(element=>{
+    const cover=element.querySelector('.detail-cover').getBoundingClientRect();
+    const copy=element.querySelector('.detail-copy').getBoundingClientRect();
+    const primary=element.querySelector('.story-preview .primary').getBoundingClientRect();
+    return {stacked:copy.top>=cover.bottom,width:primary.width,overflow:document.documentElement.scrollWidth>innerWidth+2};
+   });
+   if(!layout.stacked||layout.width<240||layout.overflow)throw Error('Mobile book introduction must stack with readable full-width actions: '+JSON.stringify(layout));
+   if(await page.locator('.book-learning-details').getAttribute('open')!==null)throw Error('Learning details should start collapsed');
+  }
   // Read a real compressed story chapter, expand translation and verify reader viewport.
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-1',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
