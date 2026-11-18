@@ -2,15 +2,15 @@
   "version": "2026-11-14",
   "description": "Machine screening of source payloads available to the build, NOT sentence-by-sentence editorial approval. Translation length anomalies are candidate flags, not proof of mistranslation. Quiz semantic review required for all items without explicit source citations.",
   "summary": {
-    "totalBooks": 117,
-    "totalChapters": 2835,
+    "totalBooks": 123,
+    "totalChapters": 2985,
     "chaptersUnder500": 0,
     "chaptersUnder20Targets": 0,
     "chaptersUnder2Quizzes": 0,
     "chaptersWithBilingualHeuristicFlags": 0,
-    "quizzesWithoutExplicitSourceEvidence": 4887,
-    "booksWithRepeatedEnglishLongSentence": 13,
-    "booksWithRepeatedChineseSentence": 13,
+    "quizzesWithoutExplicitSourceEvidence": 5187,
+    "booksWithRepeatedEnglishLongSentence": 14,
+    "booksWithRepeatedChineseSentence": 14,
     "fullHumanSemanticApprovalCount": 0,
     "sharedExactEnglishParagraphPatternsAcrossBooks": 0
   },
@@ -5716,6 +5716,300 @@
           "openingChinese": "三個月後，以寧帶著兩只行李箱、新的研究合作與在家鄉設立學徒實驗室的計畫回來。硯承在入境區外等她，因為他先問過她要不要接機，這次她答應了。她把一只箱子交給他，他才接過。他們一起走向列車，談延誤班機、困難實驗，以及她想念的街邊小吃。",
           "closingEnglish": "Months later the apprentice laboratory opened with a modest ceremony attended by workers, teachers, customers, and independent partners. Yining and Yancheng stood among the guests rather than above them. No one announced an engagement, and no one needed to. The day's most important signature was on the laboratory charter, which promised that learning and credit would belong to the people who did the work.",
           "closingChinese": "數月後，學徒實驗室以樸素儀式開幕，工人、教師、顧客與獨立夥伴都來參加。以寧與硯承站在來賓中間，不在他們上方。沒有人宣布訂婚，也不需要。當天最重要的簽名在實驗室章程上，承諾學習成果與署名都屬於真正做事的人。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ceo-series-1b",
+      "name": "總裁，假婚約星期五到期",
+      "genre": "霸總戀愛",
+      "level": "1000以下",
+      "hook": "修鐘師泰莎因一張照片陷入豪門緋聞。她和飯店總裁約定公開合作二十一天，並沿著古鐘裡的線索追查真相。",
+      "description": "修鐘師泰莎因一張照片陷入豪門緋聞。她和飯店總裁約定公開合作二十一天，並沿著古鐘裡的線索追查真相。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 614,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "鐘上方的紅星",
+          "openingEnglish": "Tessa Lin, a twenty-eight-year-old clock repairer, stood in the middle of a hotel hall in North Gate City. A red star hung above a very old clock. A small bug walked across its glass. Tessa did not use her camera yet; first she wanted to learn one simple fact. Why had the clock stopped at nine? A friendly woman from the hotel offered orange juice and asked if Tessa could finish before the evening picnic for rich guests. Tessa said the future of an old clock did not matter as much as the safety of the people under it. Then she opened her tool box.",
+          "openingChinese": "二十八歲的鐘錶修復師林泰莎站在北門市一間飯店大廳中央。一顆紅星掛在古老大鐘上方，小蟲爬過鐘的玻璃。泰莎沒有立刻使用相機；她想先弄清一個簡單的事實：鐘為何停在九點？飯店一位友善的女士端來柳橙汁，問她能不能在富有賓客的晚間野餐會前完工。泰莎說，舊鐘的未來固然重要，但站在鐘下的人更需要安全。接著她打開工具箱。",
+          "closingEnglish": " age. A date was written behind the red star, but the letters were hard to see. She took a clear picture of the date, put the part safely in a box, and wrote what she knew. She did not guess who had moved the wheel. In another room Julian read the same false love story for the third time. He could make a phone call and silence one reporter, but he could not change what people thought. He needed facts, and perhaps he needed Tessa's help.",
+          "closingChinese": "深夜，泰莎研究大鐘的舊齒輪。有人拿走一個小零件，這不是自然老化造成的。紅星後面寫著日期，但字母很難看清。她拍下清楚的照片，把零件安全放進盒子，並記下已知事實。她沒有猜是誰動了齒輪。另一個房間裡，朱利安第三次看著不實的戀愛報導。他打通電話或許能讓一個記者閉嘴，卻無法改變每個人的想法。他需要事實，也可能需要泰莎幫忙。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "前往杉木老宅",
+          "openingEnglish": "On Sunday Julian asked Tessa to ride with him to Cedar House, the old family home on a high hill. Rain fell against the wide window of the car. He wanted to read his grandfather's papers, which were kept in a brown box. A member of the family, Aunt May, had agreed to meet them. Along the road they passed a camp by a lake, where a duck swam near a little boat. Tessa said the place was beautiful. Julian replied that his grandmother used to bring him there as a child. “Though the family house was large,” he said, “I liked the small lake best.”",
+          "openingChinese": "星期日，朱利安邀泰莎一起上山，去杉木老宅查祖父留下的文件。雨打在車子的寬窗上。文件放在棕色箱裡，一位家族成員梅姑媽答應與他們會面。沿路經過湖邊營地，有隻鴨在小船旁游泳。泰莎說景色很美。朱利安說祖母小時候常帶他來。「雖然家裡的房子很大，」他說，「我最喜歡的還是小湖。」",
+          "closingEnglish": "time they had spent together. “Yes,” she said, “but I want to finish this work in my own name.” He said he understood. Then he asked if he might hold her hand for a short walk. She thought about it and said yes. Their hands met without a camera, a crowd, or a contract line telling them what to do. The walk was short, and the road home still lay ahead. Neither of them called it love yet, but neither wanted to pretend nothing had changed.",
+          "closingChinese": "下山時，朱利安把車停在公共觀景處。雨已停了。他問泰莎喜不喜歡這次同行。「喜歡，」她說，「但我想以自己的名字完成工作。」他表示理解，接著問能不能牽著她走一小段路。她想了想，說好。沒有相機、群眾或合約條款指示，兩人的手自然握在一起。路很短，返家的路還很長。誰都還沒稱這是愛情，但也都不想假裝沒有改變。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "星期五六點",
+          "openingEnglish": "At six o'clock Tessa was able to close the public agreement without being afraid. Julian signed the last page, and she did the same. Their lawyer confirmed that both had kept their promises. Tessa packed her tools in a tidy case and looked at a small map of the public hall. She had written a word beside every safe entrance. A cat from the hotel garden slept on a chair, as comfortable as a queen. “Goodbye to the false story,” Tessa said. Julian smiled. “And thank you for giving this room its time again.” The contract was over. Neither owed the other a private life.",
+          "openingChinese": "六點整，泰莎能安心結束公開協議。朱利安簽署最後一頁，她也簽名。律師確認雙方履行約定。泰莎把工具整齊收進箱子，看著公共大廳的小地圖。每個安全入口旁，她都寫了一個字。飯店花園的貓在椅上睡著，舒服得像女王。「向假故事說再見。」泰莎說。朱利安微笑：「也謝謝妳讓這房間重新有了時間。」合約結束，彼此不欠對方私人生活。",
+          "closingEnglish": "tools worked. Julian told Tessa that he had begun piano lessons again. Neither person had to give up a job or a dream to be together. From the cafe they could hear the hall clock strike nine. Tessa smiled at the sound. “That is the first hour I tried to fix,” she said. Julian put down his cup. “And the hour when my life began to change,” he answered. Their story was no longer a lie in a newspaper. It was a choice they had made together.",
+          "closingChinese": "星期六，泰莎和朱利安在小咖啡館吃早餐。她帶姪女去參觀大鐘廳，教她看舊工具如何運作。朱利安說自己又開始學鋼琴。兩人不必為了在一起而放棄工作或夢想。咖啡館裡能聽到大鐘敲九下。泰莎聽著笑了：「那是我第一次想修好的時間。」朱利安放下杯子：「也是我人生開始改變的時刻。」他們的故事不再是報紙上的謊言，而是兩人共同做出的選擇。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ceo-series-2b",
+      "name": "總裁，這張車票不賣給你",
+      "genre": "霸總戀愛",
+      "level": "1000–2000",
+      "hook": "星光號首航前，列車安全工程師林雨晴掛出停駛牌。從煞車裂損到被改過的維修紀錄，她要鐵道總裁給乘客一個交代。",
+      "description": "星光號首航前，列車安全工程師林雨晴掛出停駛牌。從煞車裂損到被改過的維修紀錄，她要鐵道總裁給乘客一個交代。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 652,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 73,
+      "zhCrossChapterSentenceReuse": 33,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "黎明的紅色停駛牌",
+          "openingEnglish": "June Lin reached the station before sunrise, carrying a test case instead of a handbag. A man with a neat beard hurried out of the platform café and nearly stepped on a tiny green leaf. Behind him, a passenger in blue pajamas asked why the famous Starlight train had not opened. June had placed a red safety tag across its door. She was twenty-eight, an independent engineer, and her answer was simple: no one would board until the brakes passed a fair test. June kept a second notebook for questions that nobody could answer yet. She believed an empty space on a page was better than a number invented to look complete.",
+          "openingChinese": "林雨晴天亮前便帶著測試箱抵達車站，而不是提著手提包。一名鬍鬚修整整齊的男子匆匆走出月臺咖啡館，差點踩到一片細小的綠葉。他身後有位穿藍色睡衣的旅客，問為什麼著名的星光號還沒開門。雨晴已在車門掛上紅色停駛牌。她二十八歲，是獨立工程師；她的回答很簡單：煞車通過公平測試前，任何人都不能上車。 雨晴另備一本筆記，專門寫下暫時無人能回答的問題。她認為紙上留白，總比捏造數字看似完整更好。承遠以前不喜歡這種空白，如今卻問哪個問題該先查。他們的新工作方式比較慢，卻留下了其他",
+          "closingEnglish": "celed, and the passengers received clear choices about refunds. Adrian signed the notice himself. When June thanked the tired station workers, he stood beside her without trying to take credit. \"Tomorrow,\" he said, \"show me every test we need.\" She answered that she would show him the evidence, not a way around it. For the first time, the red tag felt less like the end of a journey and more like the beginning of a difficult partnership.",
+          "closingChinese": "八點時，首班車確定取消，旅客也得到清楚的退費選項。承遠親自簽署通知。雨晴向疲累的站務員致謝時，他站在一旁，沒有搶功。「明天，」他說，「帶我看每一項必要的測試。」她回答，她會展示證據，而不是教他規避規定。第一次，那張紅色停駛牌不像旅程的終點，反而像一段艱難合作的起點。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "豪華品牌的價格",
+          "openingEnglish": "Adrian spoke against a new plan that would replace safe local cars with a luxury brand. The amount of money on the table was large, but the plan ignored ordinary passengers. A director compared the new train to an aircraft, saying it would feel like flying. June answered that a train had to stop on rails, not in the sky. A handsome gentleman on the board smiled as if her point were a joke. She asked him to explain the brake figures instead. June kept a second notebook for questions that nobody could answer yet. She believed an empty space on a page was better than a number invented to look complete. Adrian had on",
+          "openingChinese": "承遠反對一項用奢華品牌取代安全地方車廂的新計畫。金額很大，卻忽略普通旅客。一名董事把新列車比作飛機，說乘坐起來像飛行。雨晴回答，火車得在軌道上停住，不是在天空。一位英俊紳士般的董事微笑，好像她在開玩笑。她請他改為解釋煞車數據。 雨晴另備一本筆記，專門寫下暫時無人能回答的問題。她認為紙上留白，總比捏造數字看似完整更好。承遠以前不喜歡這種空白，如今卻問哪個問題該先查。他們的新工作方式比較慢，卻留下了其他人也能跟著走的清楚路徑。",
+          "closingEnglish": "ian asked June to step into the garden with him. He told her that her courage made him feel less alone. She answered that courage was easier when many people shared the work. He wanted to take her hand but did not move until she offered it. She held his fingers for a brief moment, then let go. Neither called it a promise. The next day would still be full of documents, and both understood that care should make them more honest, not less.",
+          "closingChinese": "會議結束後，承遠請雨晴到花園走走。他說她的勇氣讓自己不那麼孤單。她回答，大家分擔工作，勇氣就比較容易。承遠想握她的手，卻等到她先伸出手。他們短暫牽了一下，又放開。兩人都沒把它當承諾。隔天依然有許多文件要處理；他們都明白關心彼此應該使人更誠實，而不是相反。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "誰也買不到的車票",
+          "openingEnglish": "The first limited train rolled toward the valley border at a careful speed. June sat in an ordinary seat, holding a chart of the approved stops. Adrian wore a simple coat instead of the formal appearance expected of a company president. His young niece sat with her mother nearby and asked curious questions about every signal. June answered them gladly. The aim of the trip was not to win a prize for luxury, but to show that a safe train plus fair service could fit the real needs of people. June kept a second notebook for questions that nobody could answer yet. She believed an empty space on a page was better than ",
+          "openingChinese": "第一班有限度營運的列車以謹慎速度駛向山谷邊界。雨晴坐在普通座位，手中拿著核准停靠站的圖表。承遠穿著簡單外套，而非人們期待總裁穿的正式服裝。他的小姪女和母親坐在附近，對每道訊號都好奇提問。雨晴樂意回答。這趟旅程的目標不是贏得奢華獎項，而是證明安全列車加上公平服務，才能符合人們真正的需求。 雨晴另備一本筆記，專門寫下暫時無人能回答的問題。她認為紙上留白，總比捏造數字看似完整更好。承遠以前不喜歡這種空白，如今卻問哪個問題該先查。他們的新工作方式比較慢，卻留下了其",
+          "closingEnglish": " showing the new service hours, safety reports, and contact names. A little girl asked whether the company would give them a free ticket as a prize for helping. Adrian laughed and said the best reward was a railway that belonged to its travelers through fair rules. June held out her hand, and he took it. Their future was not a contract anyone could buy. It was an invitation both could accept, change, or refuse, one honest day at a time.",
+          "closingChinese": "兩人經過公告欄，上面張貼新班次、安全報告與聯絡人姓名。一個小女孩問，公司會不會因他們幫忙而送免費車票當獎品。承遠笑說，最好的獎勵是透過公平規則真正服務旅客的鐵道。雨晴伸出手，他握住。他們的未來不是誰能花錢購買的合約，而是雙方都能接受、調整或拒絕的邀請，一天一天誠實走下去。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ceo-series-3b",
+      "name": "總裁，請先撤回那則聲明",
+      "genre": "霸總戀愛",
+      "level": "2000–3000",
+      "hook": "飯店集團急著平息風波，公關顧問唐予晴要求總裁公開撤回聲明，讓被忽略的員工有機會說話。",
+      "description": "飯店集團急著平息風波，公關顧問唐予晴要求總裁公開撤回聲明，讓被忽略的員工有機會說話。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 601,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "螢幕上的聲明",
+          "openingEnglish": "Tang Yuqing stepped into the Starcrest Hotel ballroom ten minutes before the annual ceremony. She had been hired as an independent communications adviser, not as an employee. On a wall of screens the hotel group displayed a perfect picture of its service. At the same moment, a short video of a crying housekeeper appeared on hundreds of phones. The woman seemed to say that she would quit because guests had been treated better than the people who cleaned their rooms.",
+          "openingChinese": "唐予晴在年度典禮開始前十分鐘走進曜星飯店的宴會廳。她受聘為獨立公關顧問，而非集團員工。牆上的螢幕展示集團完美服務的形象；同一時間，一段女房務員哭泣的短片出現在數百支手機上。影片中的她似乎說，自己要離職，因為飯店對客人的待遇比對打掃房間的人還好。",
+          "closingEnglish": "it did not promise that the investigation would be painless. Yuqing sent a copy to the worker representative and gave her a private contact number. Yaochuan offered to have a driver take Yuqing home. She declined and booked her own ride, keeping the relationship professional. As the car pulled away, she saw a second video arrive on her phone. This one began three seconds before the first, with the housekeeper speaking in a steady voice.",
+          "closingChinese": "午夜時，第一份公開訊息發出去了。它沒有替任何人洗清責任，也沒有保證調查不會讓人難受。予晴把副本送給員工代表，留下私人聯絡方式。曜川提出派司機送她回家，她婉拒並自行叫車，維持專業關係。車子駛離時，她收到第二段影片。這一段比第一段早了三秒開始，那名房務員的聲音平穩而清楚。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "董事會漂亮的圖表",
+          "openingEnglish": "A special board meeting began with a colorful chart comparing the hotel's reputation before and after the crisis. The marketing director called the recent ratings satisfactory and suggested ending the inquiry. Yuqing had been invited to present the evidence, but she noticed that her first slide had been removed. It explained the limits of the data. She asked the secretary to restore it before she spoke. A few directors frowned. Yaochuan remained silent, allowing the independent adviser to correct the record herself.",
+          "openingChinese": "董事會特別會議以一張繽紛圖表開始，比較危機前後的飯店名聲。行銷主管稱最近評分令人滿意，提議結束調查。予晴受邀報告證據，卻發現自己的第一張投影片被刪掉了，那張原本說明資料限制。她要求秘書恢復後才開始說話。幾位董事皺眉，曜川保持沉默，讓獨立顧問親自更正紀錄。",
+          "closingEnglish": "view, with a fixed budget and public reporting dates. No one called the vote a victory. Yuqing sent the final decision to Lu and arranged a plain-language meeting for staff. As she left, Yaochuan followed at a respectful distance and asked whether she was pleased. “I'm relieved we can keep asking questions,” she said. He smiled for a moment. This time she smiled back, because neither had confused a useful decision with a perfect ending.",
+          "closingChinese": "董事會通過有限度延長獨立查核，設有固定預算與公開報告日期。沒有人把投票稱作勝利。予晴把最終決議送給許露，安排一場給員工的白話說明會。離開時曜川保持距離跟在後方，問她是否高興。「我很慶幸我們還能繼續問問題。」她說。他短暫地笑了，這次她也回以微笑，因為兩人都沒有把有用的決定誤認成完美結局。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "屬於自己的聲明",
+          "openingEnglish": "One year after the first scandal, Yuqing returned to the Starcrest Hotel as a guest speaker at an educational forum on honest communication. Her own practice had grown slowly and efficiently. She employed an assistant, shared projects with other advisers, and still chose which clients to accept. Yaochuan introduced her by her professional title, not as the woman he was dating. When the audience applauded, she thanked the workers, reviewers, and citizens whose questions had made the group's changes possible. The hotel had improved, but she was careful not to call it perfect.",
+          "openingChinese": "第一場風波一年後，予晴以誠實溝通教育論壇講者身分重回曜星飯店。她自己的事務所緩慢而有效率地成長，聘了一名助理，並與其他顧問合作，仍自行挑選客戶。曜川用專業職稱介紹她，而不是稱她為交往對象。觀眾鼓掌時，她感謝員工、審查者與市民，是他們的問題使改變成為可能。飯店已有改善，但她謹慎不稱它完美。",
+          "closingEnglish": "e had refused to sign a false denial. Now, standing beside the same man, she understood that the refusal had protected more than her professional name. It had made room for workers to speak, for a company to examine itself, and for two adults to meet without pretending that power was love. Across the river, hotel lights shone through the evening. The next chapter was not an announcement someone else had written. It was theirs to choose.",
+          "closingChinese": "予晴想起最初那夜，螢幕上的一份聲明差點讓她轉身離開。她拒絕替不實否認背書。如今站在同一個男人身旁，她明白那次拒絕保護的不只是自己的專業名聲，也替員工發聲、公司檢討，以及兩位成年人不把權力假裝成愛的相遇，留出空間。河對岸飯店燈光在夜色中閃耀。下一章不是別人替他們寫好的公告，而是由他們自己選擇。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ceo-series-4a",
+      "name": "董事會副本：總裁只剩一票",
+      "genre": "都市遊戲災變",
+      "level": "3000–4000",
+      "hook": "股東大會變成生存副本，股票決定市民的逃生權。總裁賀行舟得和員工聯手，破解每次表決背後的代價。",
+      "description": "股東大會變成生存副本，股票決定市民的逃生權。總裁賀行舟得和員工聯手，破解每次表決背後的代價。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 636,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "董事長的出口",
+          "openingEnglish": "At seven in the evening, He Xingzhou stood at the copper doors of the Celestial Opera Center, where his company was holding its annual shareholder assembly. A youthful host rehearsed a slogan about confidence while a counter above the entrance displayed the expected profit. He had approved both the entertainment and the speech without reading their details. Then every phone showed the same white sentence: BOARDROOM DUNGEON ACTIVATED. The windows became dark mirrors. An electronic voice announced that company shares would determine the route to safety. Xingzhou owned forty-two percent of the voting stock. He was n",
+          "openingChinese": "晚上七點，賀行舟站在天穹歌劇中心的銅門前。瑞霄控股正在此舉行年度股東大會。一名年輕主持人排練著充滿信心的標語，入口上方的計數器則顯示預期獲利。行舟先前批准了娛樂節目與演講，卻沒有讀過細節。突然，每支手機都出現同一句白字：「董事會副本已啟動。」窗戶變成深色鏡面。電子聲宣布，公司股份將決定通往安全地點的路線。行舟持有百分之四十二的投票權。他不害怕數字；讓他害怕的是人群竟然為那些數字歡呼。",
+          "closingEnglish": "ook away his private exit and announced a loss of twenty points. He had never lost so much authority in a single minute. Yet the ordinary stairwell remained open because no vote had sealed it. Xia did not thank him for being noble. She asked him to copy the witness rule before the screen changed. He used the back of his prepared speech. For the first time that evening, the chief executive wrote down something he had not decided himself.",
+          "closingChinese": "門再次震動時，孩子已走到空氣清新的地方，阿梅也用紅布標出危險區域。行舟拒絕了主管出口的提案。畫面取消他的私人出口，宣布扣除二十分。他從未在一分鐘內失去這麼多權力。但普通樓梯因為沒有被表決封閉，仍維持開放。夏澄沒有稱讚他高尚，而是請他趁畫面改變前抄下見證規則。他拿出準備好的演講稿，在背面寫字。那是他當晚第一次記錄一件不是由自己決定的事。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "空椅子的會議",
+          "openingEnglish": "The next floor was a conference hall surrounded by an old neighborhood. A chorus from a nearby school was practicing songs about the city's foundation, and blossoms fell through an open window. The game announced a proposal to replace the district with a private executive garden. Its economics looked attractive: fewer buildings, lower maintenance costs, and a memorable entrance for investors. People who lived there would be moved away. Xingzhou had heard proposals like this for years. A woman who had raised three generations in the neighborhood asked whether a beautiful drawing could fulfill the promise of a home",
+          "openingChinese": "下一層是一座被老社區包圍的會議廳。附近學校的合唱團正練習城市創建紀念歌曲，花瓣從開著的窗飄入。遊戲宣布一項提案：拆除社區，改建私人主管花園。從經濟學角度看似誘人：建物更少、維護成本降低，還能給投資人留下難忘印象。居住在此的人卻得搬走。行舟多年來看過許多類似提案。一位在此養育三代家人的女子問，一張漂亮圖畫能否實現擁有家園的承諾。他沒有立即答案。",
+          "closingEnglish": "The teacher said the clause had been forgotten during recent development, though it was still written in the city archives. Xingzhou put the copy beside the independent-review folder. The project's strange power seemed to come from combining old legal promises with new corporate software. He could not defeat it by making a more dramatic speech. He needed to know which promises were still binding, and who had authority to interpret them.",
+          "closingChinese": "離開會議廳時，一名老教師交給行舟一份社區舊創建章程。文件載有普遍原則：公共通道必須讓不持有周邊財產的人也能使用。教師說，這條規定在近期開發中被遺忘，卻仍保存在城市檔案裡。行舟把副本放在獨立覆核資料夾旁。副本那股奇異的力量，似乎來自舊法律承諾和新企業軟體的結合。他無法靠更戲劇化的演說打敗它；他必須知道哪些承諾仍有拘束力，以及誰有權解釋它們。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "一張票與一座城的門",
+          "openingEnglish": "Morning dew covered the market railings when the final public vote opened. Xingzhou looked at the enormous screen above the bridge. It offered a graph showing his forty-two percent corporate ownership as enough power to decide the outcome alone. A second graph showed the actual residents, including workers, parents, and people living with disability, each with one witness mark. The old system warned that the company could become bankrupt if he surrendered his multiplier. Xingzhou knew the claim might be partly true. He would have to renegotiate contracts and face investors. But the danger of losing money did not ",
+          "openingChinese": "清晨露水覆在市場欄杆上，最後的公開投票開始。行舟望向橋上巨大的螢幕。第一張圖表將他百分之四十二的公司持股顯示成足以獨自決定結果的權力。第二張圖表則列出真正的居民，包括工人、家長與身心障礙者，每人只有一枚見證記號。舊系統警告，若他放棄加權票，公司可能破產。行舟知道這句話或許有部分真實；他得重新談判合約，面對投資人。但損失金錢的風險，不能給他為了自保而危及陌生人的權利。",
+          "closingEnglish": " report. Mei had accepted a paid position on the civic inspection team. Guo continued to represent workers, and Xia remained an independent safety auditor who could disagree with the company. Xingzhou still made hard decisions, and not all of them pleased everyone. His strongest impression of the trial was not the moment the game ended. It was the morning he finally understood that a person could lead without owning everybody's way out.",
+          "closingChinese": "間較小的辦公室，窗外是忙碌街道。公司失去一份龐大合約，卻沒有倒閉。投資人要求清楚的維修成本圖表，員工要求安全輪班；兩者都出現在同一份季度報告。阿梅接受市民巡檢隊的有薪職位，郭黎繼續代表工人，夏澄仍是能對公司提出反對意見的獨立職安稽核員。行舟依然得做艱難決定，也不可能討好每一個人。這場試煉留給他最深的印象，不是遊戲結束的那刻，而是那個終於明白「領導不代表擁有所有人的出口」的早晨。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ceo-series-5b",
+      "name": "他的帝國靠岸時：總裁與不出售碼頭的男人",
+      "genre": "雙男主霸總戀愛",
+      "level": "4000–5000",
+      "hook": "程硯帶著收購案來到東碼頭。許臨川拒絕出售，並要求他先公開合約裡由居民承擔的風險。",
+      "description": "程硯帶著收購案來到東碼頭。許臨川拒絕出售，並要求他先公開合約裡由居民承擔的風險。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 602,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "拒絕標價的人",
+          "openingEnglish": "On the morning Cheng Yan arrived at the East Pier, his black car stopped before a chapel that had survived three typhoons. At thirty-six, he was the youngest chief executive in Aster Group's history. He expected the purchase of Tide House Cooperative to be another transaction, completed before lunch. Instead, Xu Linchuan, the thirty-two-year-old director elected by the dockworkers, was waiting with a folding chair and a question. \"If you buy the pier,\" Xu asked, \"where will the people who work here go?\" Cheng had prepared numbers, not an answer.",
+          "openingChinese": "程硯抵達東碼頭那天早上，黑色轎車停在一座經歷過三次颱風的禮拜堂前。三十六歲的他是星衡集團歷來最年輕的執行長。他原以為收購潮屋合作社只是另一筆能在午餐前完成的交易。沒想到由碼頭工人選出的三十二歲主任許臨川，早已帶著折疊椅等在那裡。「如果你買下碼頭，在這裡工作的人要去哪裡？」許臨川問。程硯準備了數字，卻沒準備答案。",
+          "closingEnglish": "ishers, students, and people with disabilities a place to work. Yet when Cheng returned the unsigned contract that evening, Xu recognized an unfamiliar restraint in the man's expression. \"I can wait for the truth,\" Cheng said. \"I cannot promise the board will.\" Xu held out his hand, not for a bargain but for the copied register. Their fingers touched above the paper. Neither man mistook that brief warmth for permission to own the other.",
+          "closingChinese": "許臨川無意讓一個富有的陌生人拯救自己。他花了七年重建這門生意，讓年長漁民、學生及身心障礙者都有工作的地方。然而，當程硯傍晚帶回尚未簽署的合約時，他看見對方神情裡一種不熟悉的克制。「我能等真相，」程硯說，「但我無法保證董事會會等。」許臨川伸出手，不是為了交易，而是接過影印名冊。兩人的指尖在紙上碰到；誰也沒有把那一瞬的溫度誤認為擁有對方的許可。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "被換掉結局的影片",
+          "openingEnglish": "A documentary crew came to the harbor to record the clinic's work. The administrator warned that an acute and contagious illness was spreading through a nearby settlement, so filming had to follow strict safety rules. The director wanted a dramatic scene in which Cheng appeared to rescue everyone. Xu objected to the bias in that premise. The documentary should show the actual workers, not invent a superhero. When Cheng agreed, a producer flipped through the original footage and noticed that a key sequence had been removed.",
+          "openingChinese": "一組紀錄片攝製隊來港口拍攝診所工作。管理員警告附近聚落正有急性且具傳染性的疾病蔓延，因此拍攝必須遵守嚴格安全規則。導演想拍一段程硯拯救所有人的戲劇畫面。許臨川反對這種帶偏見的前提。紀錄片應呈現真正做事的工人，而不是製造超級英雄。程硯同意後，製片翻閱原始影像，發現一段關鍵畫面被刪掉。",
+          "closingEnglish": "Xu that night. Instead of watching the polished film, they reviewed the untouched footage on a small monitor. Xu leaned against him, exhausted, and Cheng asked whether he was comfortable. \"For now,\" Xu answered. \"And if that changes?\" \"You tell me.\" The simplicity of the exchange made Xu smile. The film might have an uncertain ending, but he was beginning to trust that their relationship could be edited only by the two people living it.",
+          "closingChinese": "程硯那晚為許臨川預訂私人放映室。他們沒有看精美成片，而是在小螢幕上檢視未剪輯的素材。疲憊的許臨川靠在程硯身上，程硯問他舒不舒服。「現在舒服，」許臨川說。「那如果改變呢？」「你就告訴我。」這簡單的對話讓許臨川笑了。影片結局或許仍不確定，但他開始相信，兩人的關係只能由身在其中的兩人共同剪輯。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "當他的帝國靠岸",
+          "openingEnglish": "A year later, the harbor had changed without becoming anyone's private kingdom. The new public canal ran alongside the old pier, and an alternate route let ferries avoid the narrow bridge. Cheng's company remained a shareholder in the commercial docks, but the cooperative's independent vote was crucial to every public decision. Xu had watched their relationship evolve with similar care. There was no quota of affection to meet, no voucher that could purchase forgiveness, and no manager authorized to specify how quickly two people should fall in love.",
+          "openingChinese": "一年後，港口改變了，卻沒有成為任何人的私人王國。新的公共運河沿著舊碼頭流過，替代航線讓渡輪避開狹窄橋梁。程硯的公司仍是商業碼頭的股東，但合作社的獨立表決對每項公共決策都至關重要。許臨川也同樣審慎看待兩人關係的演變。感情沒有必須達成的配額，沒有能買到原諒的抵用券，也沒有主管有權指定兩人該多快相愛。",
+          "closingEnglish": "ative, and Cheng would continue working with the external board that monitored his decisions. On weekends they planned to cook badly, visit distant beaches, and argue about books. At the harbor gate, Cheng held out his hand. \"Where to, Director Xu?\" he asked. Xu stepped beside him, smiling. \"Home, Mr. Cheng. But you are carrying the groceries.\" Cheng laughed and took the bags. The sea was wide, and for once neither man needed to own it.",
+          "closingChinese": "他們下一段旅程將從一間小小的租屋開始，而不是頂樓豪宅。許臨川選擇繼續主持合作社，程硯則在外部董事會監督下繼續工作。週末他們打算把料理做壞、去遠方海灘、為書本爭論。港口閘門旁，程硯伸出手。「去哪裡，許主任？」他問。許臨川笑著走到身邊。「回家，程先生。不過菜要你提。」程硯大笑，接過袋子。大海如此廣闊，這一次，兩人都不需要擁有它。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ceo-series-6a",
+      "name": "陸總，惡女的認罪書我不簽",
+      "genre": "霸總戀愛",
+      "level": "5000–6000",
+      "hook": "企業稽核師穿進小說，成了即將為全城大停電坐牢的執行長。陸總帶來紓困條款，她要先查清自己被要求承認的罪。",
+      "description": "企業稽核師穿進小說，成了即將為全城大停電坐牢的執行長。陸總帶來紓困條款，她要先查清自己被要求承認的罪。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 626,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "午夜的簽名",
+          "openingEnglish": "Shen Yingzhen woke to the sound of applause and a pen striking glass. The woman in the window was Su Jianyao, the ruthless executive from a novel she had read while auditing a client's records. A blackout had struck the eastern district, and the board wanted her confession before an independent inquiry could begin. In the novel she signed it, lost her company, and died in prison. This time Yingzhen folded the paper and asked who had preserved the switching logs.",
+          "openingChinese": "沈映真在掌聲與筆尖敲擊玻璃的聲音中醒來。窗戶倒影裡的女人是蘇見遙——她曾在替客戶稽核時讀過的一本小說中的冷酷執行長。東區剛經歷大停電，董事會卻急著要她在獨立調查開始前認罪。原著裡，她簽了字，失去公司，最後死在獄中。這次映真把文件折好，追問誰保管了切換設備的紀錄。",
+          "closingEnglish": "An orderly guided exhausted families to separate waiting rooms in the emergency clinic. A bank teller confirmed that the suspicious transfer had occurred before the outage. The alleged contract was printed on virgin paper, unlike the stained original file. The judge issued a narrow warrant for records rather than permission to arrest everyone.",
+          "closingChinese": "勤務員引導疲憊家庭前往緊急診所不同的候診室。 銀行出納確認可疑轉帳發生於停電之前。 所謂合約印在全新紙上，與有污漬的原檔不同。 法官核發有限範圍的調閱令，而非允許逮捕所有人。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "沒有窗的房間",
+          "openingEnglish": "The independent tribunal interviewed Rongting's assistant in a windowless room chosen for privacy, not intimidation. She explained that the old account had sent her an instruction to fetch a sealed box. She had never opened it. The investigators verified the message time against the building's access system and a delivery receipt. Jianyao watched from behind a one-way screen only after the witness agreed. The story was narrowing, but each answer opened another question.",
+          "openingChinese": "獨立法庭在沒有窗的房間訪談榮庭助理，選擇那裡是為保護隱私，而非恐嚇。她解釋舊帳號指示她領取一只封盒，自己從未打開。調查員用大樓門禁與送貨收據比對訊息時間。見遙只在證人同意後才隔著單向玻璃旁聽。故事逐漸收束，但每個答案又打開新問題。",
+          "closingEnglish": "The team praised the workers' sportsmanship during a charity tournament held after the shift. The assistant left her suitcase with security before entering the protected interview room. The tribunal issued a tentative timetable, subject to the independent examiner's findings. A separate inquiry was already underway when the forged scan was discovered.",
+          "closingChinese": "輪班後舉辦慈善賽，團隊讚賞工人的運動家精神。 助理進入受保護訪談室前，把行李箱交給保全。 法庭公布暫定時程，仍須視獨立審查結果調整。 發現偽造掃描檔時，另一項調查已在進行中。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "不占有的承諾",
+          "openingEnglish": "A year after the first blackout, the company published its first independently verified safety report. It recorded the repaired feeders, the failed siren, compensation already paid, and matters still under appeal. Jianyao had completed her transition and was no longer executive chief. Qing led engineering under a board that could question her, while worker delegates retained the authority to halt unsafe operations. The city was not perfect, but no emergency decision depended on a single family's secret signature.",
+          "openingChinese": "首次大停電一年後，公司公布第一份經獨立驗證的安全報告，列出修復的饋線、曾失靈的警報器、已支付的補償與仍在申訴的事項。見遙完成交接，不再是執行長。何晴在可受監督的董事會下領導工程，工人代表保有停止危險作業的權利。城市仍不完美，但緊急決策不再取決於某個家族的祕密簽名。",
+          "closingEnglish": "e judge's careful finding could stun the public without turning justice into entertainment. Successive inspections would continue after Jianyao resigned from the executive position. The recovered treasury funds were allocated first to repair and compensation obligations. A slight vibration during the final test was recorded even though the equipment passed. The clerk corrected one missing vowel in the public report before it was issued.",
+          "closingChinese": "法官謹慎的裁定可能震驚公眾，但不會把正義變成娛樂。 見遙辭去執行長後，連續的檢查仍將繼續。 追回的財庫款項優先分配給修復與賠償義務。 最後測試中即使設備通過，輕微震動仍被記錄。 書記在公開報告發行前更正一個漏掉的母音字母。"
         }
       },
       "structuralGate": true,
@@ -44235,6 +44529,2106 @@
       "targetWords": 21,
       "quizCount": 2,
       "bilingualParagraphs": 11,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-1",
+      "number": 1,
+      "title": "鐘上方的紅星",
+      "words": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-2",
+      "number": 2,
+      "title": "有出口的契約",
+      "words": 660,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-3",
+      "number": 3,
+      "title": "紙上的九點鐘",
+      "words": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-4",
+      "number": 4,
+      "title": "東邊的門",
+      "words": 625,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-5",
+      "number": 5,
+      "title": "月光下的收購案",
+      "words": 659,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-6",
+      "number": 6,
+      "title": "泥裡的信封",
+      "words": 657,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-7",
+      "number": 7,
+      "title": "西廳的名單",
+      "words": 645,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-8",
+      "number": 8,
+      "title": "舊票上的女王",
+      "words": 668,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-9",
+      "number": 9,
+      "title": "銀戒指",
+      "words": 648,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-10",
+      "number": 10,
+      "title": "沒有劇本的晚餐",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-11",
+      "number": 11,
+      "title": "白牆後的名字",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-12",
+      "number": 12,
+      "title": "給每個人的票",
+      "words": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-13",
+      "number": 13,
+      "title": "前往杉木老宅",
+      "words": 645,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-14",
+      "number": 14,
+      "title": "頭條與傷害",
+      "words": 637,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-15",
+      "number": 15,
+      "title": "買不到的禮物",
+      "words": 632,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-16",
+      "number": 16,
+      "title": "鐘裡的那一頁",
+      "words": 628,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-17",
+      "number": 17,
+      "title": "律師的簡單測試",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-18",
+      "number": 18,
+      "title": "十二個齒輪盒",
+      "words": 639,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-19",
+      "number": 19,
+      "title": "叫做家的安靜地方",
+      "words": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-20",
+      "number": 20,
+      "title": "山路上的雨",
+      "words": 634,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-21",
+      "number": 21,
+      "title": "市民會所的會議",
+      "words": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-22",
+      "number": 22,
+      "title": "安全地板的價格",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-23",
+      "number": 23,
+      "title": "大鐘下的表決",
+      "words": 614,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-24",
+      "number": 24,
+      "title": "最後的安全測試",
+      "words": 637,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-1b",
+      "id": "ceo-series-1b-25",
+      "number": 25,
+      "title": "星期五六點",
+      "words": 654,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-1",
+      "number": 1,
+      "title": "黎明的紅色停駛牌",
+      "words": 745,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-2",
+      "number": 2,
+      "title": "通往真相的車票",
+      "words": 667,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-3",
+      "number": 3,
+      "title": "寫著兩個日期的地圖",
+      "words": 663,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-4",
+      "number": 4,
+      "title": "向外開的那扇門",
+      "words": 678,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-5",
+      "number": 5,
+      "title": "雪聲之下",
+      "words": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-6",
+      "number": 6,
+      "title": "沒有屋頂的月臺",
+      "words": 665,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-7",
+      "number": 7,
+      "title": "司機藏起的抽屜",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-8",
+      "number": 8,
+      "title": "小箱子的重量",
+      "words": 652,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-9",
+      "number": 9,
+      "title": "消失的一頁",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-10",
+      "number": 10,
+      "title": "村莊的試車",
+      "words": 668,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-11",
+      "number": 11,
+      "title": "簽名的代價",
+      "words": 680,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-12",
+      "number": 12,
+      "title": "檔案室屋頂的雨",
+      "words": 688,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-13",
+      "number": 13,
+      "title": "豪華品牌的價格",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-14",
+      "number": 14,
+      "title": "大廳裡的辯論",
+      "words": 663,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-15",
+      "number": 15,
+      "title": "密碼與方案",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-16",
+      "number": 16,
+      "title": "地震演練",
+      "words": 673,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-17",
+      "number": 17,
+      "title": "村裡的課堂",
+      "words": 665,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-18",
+      "number": 18,
+      "title": "雜誌裡的照片",
+      "words": 669,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-19",
+      "number": 19,
+      "title": "沒有旅客的緊急演練",
+      "words": 663,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-20",
+      "number": 20,
+      "title": "十億元的選擇",
+      "words": 679,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-21",
+      "number": 21,
+      "title": "學校裡的黑板",
+      "words": 655,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-22",
+      "number": 22,
+      "title": "颱風到了橋邊",
+      "words": 664,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-23",
+      "number": 23,
+      "title": "獨立審查的答案",
+      "words": 684,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-24",
+      "number": 24,
+      "title": "復駛前的早晨",
+      "words": 669,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-2b",
+      "id": "ceo-series-2b-25",
+      "number": 25,
+      "title": "誰也買不到的車票",
+      "words": 689,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-1",
+      "number": 1,
+      "title": "螢幕上的聲明",
+      "words": 736,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-2",
+      "number": 2,
+      "title": "大廳背後的代價",
+      "words": 725,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 8,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-3",
+      "number": 3,
+      "title": "被移動的數字",
+      "words": 650,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-4",
+      "number": 4,
+      "title": "巷子裡的那扇門",
+      "words": 642,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-5",
+      "number": 5,
+      "title": "被剪掉的聲音",
+      "words": 661,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-6",
+      "number": 6,
+      "title": "稽核室",
+      "words": 630,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-7",
+      "number": 7,
+      "title": "沒有掌聲的廚房",
+      "words": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-8",
+      "number": 8,
+      "title": "客人的私人來信",
+      "words": 653,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-9",
+      "number": 9,
+      "title": "消失的一分鐘",
+      "words": 621,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-10",
+      "number": 10,
+      "title": "沒有腳本的晚宴",
+      "words": 665,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-11",
+      "number": 11,
+      "title": "第一個被確認的數字",
+      "words": 638,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-12",
+      "number": 12,
+      "title": "停電測試",
+      "words": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-13",
+      "number": 13,
+      "title": "董事會漂亮的圖表",
+      "words": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-14",
+      "number": 14,
+      "title": "敞開大門的座談",
+      "words": 615,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-15",
+      "number": 15,
+      "title": "補款與停頓",
+      "words": 639,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-16",
+      "number": 16,
+      "title": "有期限的合約",
+      "words": 620,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-17",
+      "number": 17,
+      "title": "標題能造成的傷害",
+      "words": 677,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-18",
+      "number": 18,
+      "title": "不受指揮的眼睛",
+      "words": 634,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-19",
+      "number": 19,
+      "title": "公開紀錄",
+      "words": 601,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-20",
+      "number": 20,
+      "title": "合約的最後一夜",
+      "words": 637,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-21",
+      "number": 21,
+      "title": "不必害怕的投票",
+      "words": 646,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-22",
+      "number": 22,
+      "title": "妹妹提出的問題",
+      "words": 623,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-23",
+      "number": 23,
+      "title": "自己的辦公室",
+      "words": 639,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-24",
+      "number": 24,
+      "title": "第二次驗證",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-3b",
+      "id": "ceo-series-3b-25",
+      "number": 25,
+      "title": "屬於自己的聲明",
+      "words": 675,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-1",
+      "number": 1,
+      "title": "董事長的出口",
+      "words": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-2",
+      "number": 2,
+      "title": "名字的價格",
+      "words": 674,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-3",
+      "number": 3,
+      "title": "大樓背後的山",
+      "words": 670,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-4",
+      "number": 4,
+      "title": "未完成承諾的圖書館",
+      "words": 654,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-5",
+      "number": 5,
+      "title": "接待廳裡的小偷",
+      "words": 657,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-6",
+      "number": 6,
+      "title": "週年紀念列車",
+      "words": 658,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-7",
+      "number": 7,
+      "title": "降落場上的雪",
+      "words": 647,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-8",
+      "number": 8,
+      "title": "兩份複本的工坊",
+      "words": 653,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-9",
+      "number": 9,
+      "title": "港口空缺",
+      "words": 646,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-10",
+      "number": 10,
+      "title": "沒有人認領的人",
+      "words": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-11",
+      "number": 11,
+      "title": "摩天樓示範室",
+      "words": 675,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-12",
+      "number": 12,
+      "title": "船艙裡的硬體",
+      "words": 646,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-13",
+      "number": 13,
+      "title": "空椅子的會議",
+      "words": 636,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-14",
+      "number": 14,
+      "title": "議會的罰則",
+      "words": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-15",
+      "number": 15,
+      "title": "懸崖電車",
+      "words": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-16",
+      "number": 16,
+      "title": "小機器的展廳",
+      "words": 652,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-17",
+      "number": 17,
+      "title": "沒有送達的傳真",
+      "words": 670,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-18",
+      "number": 18,
+      "title": "芭蕾舞臺下的電池",
+      "words": 670,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-19",
+      "number": 19,
+      "title": "不存在的申請人",
+      "words": 688,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-20",
+      "number": 20,
+      "title": "穿戲服的偵探",
+      "words": 697,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-21",
+      "number": 21,
+      "title": "有許多想法的工作間",
+      "words": 698,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-22",
+      "number": 22,
+      "title": "診所上方的拱門",
+      "words": 654,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-23",
+      "number": 23,
+      "title": "河畔的雷達",
+      "words": 654,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-24",
+      "number": 24,
+      "title": "最後一座橋的章程",
+      "words": 694,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-4a",
+      "id": "ceo-series-4a-25",
+      "number": 25,
+      "title": "一張票與一座城的門",
+      "words": 676,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-1",
+      "number": 1,
+      "title": "拒絕標價的人",
+      "words": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-2",
+      "number": 2,
+      "title": "山脊公路",
+      "words": 602,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-3",
+      "number": 3,
+      "title": "消失的名冊",
+      "words": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-4",
+      "number": 4,
+      "title": "一條生命線的價格",
+      "words": 619,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-5",
+      "number": 5,
+      "title": "潮來之前的一票",
+      "words": 625,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-6",
+      "number": 6,
+      "title": "有毒的晚宴邀請",
+      "words": 642,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-7",
+      "number": 7,
+      "title": "牆後的土地",
+      "words": 625,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-8",
+      "number": 8,
+      "title": "失去電力的夜晚",
+      "words": 615,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-9",
+      "number": 9,
+      "title": "沒有人是你的財產",
+      "words": 620,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-10",
+      "number": 10,
+      "title": "沒有觀眾的晚餐",
+      "words": 623,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-11",
+      "number": 11,
+      "title": "沒有電梯的晚宴",
+      "words": 633,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-12",
+      "number": 12,
+      "title": "正午的訴訟",
+      "words": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-13",
+      "number": 13,
+      "title": "被換掉結局的影片",
+      "words": 604,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-14",
+      "number": 14,
+      "title": "鐘聲下的拍賣會",
+      "words": 648,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-15",
+      "number": 15,
+      "title": "他藏起來的文件",
+      "words": 619,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-16",
+      "number": 16,
+      "title": "那扇沒有打開的門",
+      "words": 628,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-17",
+      "number": 17,
+      "title": "沉默的帳",
+      "words": 621,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-18",
+      "number": 18,
+      "title": "沒有國王的董事會",
+      "words": 604,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-19",
+      "number": 19,
+      "title": "試營運航線",
+      "words": 613,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-20",
+      "number": 20,
+      "title": "暴風測試",
+      "words": 625,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-21",
+      "number": 21,
+      "title": "所有人的節日",
+      "words": 618,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-22",
+      "number": 22,
+      "title": "兩個家族的聽證",
+      "words": 646,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-23",
+      "number": 23,
+      "title": "明天的排演",
+      "words": 616,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-24",
+      "number": 24,
+      "title": "最後一次董事會表決",
+      "words": 616,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-5b",
+      "id": "ceo-series-5b-25",
+      "number": 25,
+      "title": "當他的帝國靠岸",
+      "words": 624,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-1",
+      "number": 1,
+      "title": "午夜的簽名",
+      "words": 692,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-2",
+      "number": 2,
+      "title": "變電站上方的山丘",
+      "words": 670,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-3",
+      "number": 3,
+      "title": "有兩道影子的影像",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-4",
+      "number": 4,
+      "title": "夜班聽見的事",
+      "words": 648,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-5",
+      "number": 5,
+      "title": "試辦預算",
+      "words": 680,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-6",
+      "number": 6,
+      "title": "消失的發票",
+      "words": 633,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-7",
+      "number": 7,
+      "title": "沒人看懂的協議",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-8",
+      "number": 8,
+      "title": "上鎖的水道",
+      "words": 652,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-9",
+      "number": 9,
+      "title": "印章底下的名字",
+      "words": 643,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-10",
+      "number": 10,
+      "title": "沒有王座的董事會",
+      "words": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-11",
+      "number": 11,
+      "title": "沒有死去的帳戶",
+      "words": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-12",
+      "number": 12,
+      "title": "河上的租約",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-13",
+      "number": 13,
+      "title": "沒有窗的房間",
+      "words": 636,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-14",
+      "number": 14,
+      "title": "私下的命令",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-15",
+      "number": 15,
+      "title": "風暴前的表決",
+      "words": 647,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-16",
+      "number": 16,
+      "title": "紙箱之夜",
+      "words": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-17",
+      "number": 17,
+      "title": "洪水沖不掉的東西",
+      "words": 650,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-18",
+      "number": 18,
+      "title": "壞掉的鎖",
+      "words": 664,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-19",
+      "number": 19,
+      "title": "隱藏走廊",
+      "words": 647,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-20",
+      "number": 20,
+      "title": "沒有發生的停電",
+      "words": 646,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-21",
+      "number": 21,
+      "title": "董事長的一小時",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-22",
+      "number": 22,
+      "title": "修復的代價",
+      "words": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-23",
+      "number": 23,
+      "title": "辭職的決定",
+      "words": 663,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-24",
+      "number": 24,
+      "title": "不是誰的併購",
+      "words": 633,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ceo-series-6a",
+      "id": "ceo-series-6a-25",
+      "number": 25,
+      "title": "不占有的承諾",
+      "words": 676,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
       "issues": [
         "quiz_needs_semantic_answer_review:1",
         "quiz_needs_semantic_answer_review:2"
