@@ -121,7 +121,9 @@ async function run(label,options){
   const allTopics=topics.getByRole('button',{name:/^全部題材/});
   await topics.getByRole('button',{name:/^霸總/}).click();
   await page.getByRole('heading',{name:'總裁，這份合約我改了｜第一卷：她刪掉的那一條',exact:true}).waitFor();
-  if(await page.locator('.book-card').count()!==1)throw Error('CEO genre should show the existing published novel');
+  const ceoBooks=page.locator('.book-card');
+  await ceoBooks.getByRole('heading',{name:'冷面總裁，請先問我',exact:true}).waitFor();
+  if(await ceoBooks.count()!==7)throw Error('CEO genre should show the original novel and six newly imported titles');
   await allTopics.click();
   const mystery=topics.getByRole('button',{name:/^懸疑推理/});
   const allBooks=await page.locator('.book-card').count();
