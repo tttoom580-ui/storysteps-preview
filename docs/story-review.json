@@ -1,15 +1,15 @@
 {
   "updated": "2026-11-10",
   "summary": {
-    "books": 123,
-    "chapters": 2985,
-    "englishWords": 1920911,
-    "questions": 5970,
-    "targetEntries": 59813,
-    "bilingualParagraphs": 18561,
+    "books": 129,
+    "chapters": 3135,
+    "englishWords": 2020134,
+    "questions": 6270,
+    "targetEntries": 62819,
+    "bilingualParagraphs": 19548,
     "sourceEvidenceQuestionsChecked": 783,
     "structuralErrors": 0,
-    "booksWithSentenceReuseFlags": 14,
+    "booksWithSentenceReuseFlags": 16,
     "newQuestions": 26,
     "filledMeanings": 479,
     "targetPassagesRepaired": 22,
@@ -13304,6 +13304,1579 @@
       "sentenceReuseExamples": [],
       "sentenceReuseDetails": [],
       "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "light-novel-1a",
+      "title": "轉學生的尾巴，藏不住了！",
+      "chapters": 25,
+      "englishWords": 17546,
+      "minimumChapterWords": 649,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "light-novel-2a",
+      "title": "轉生後只有一格道具欄！？——我在迷宮裡當上了最弱勇者",
+      "chapters": 25,
+      "englishWords": 17208,
+      "minimumChapterWords": 661,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "light-novel-3a",
+      "title": "月光失物招領社，今天也不接受退貨！",
+      "chapters": 25,
+      "englishWords": 15867,
+      "minimumChapterWords": 613,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 72,
+      "highestSentenceReuse": 5,
+      "sentenceReuseExamples": [
+        {
+          "sentence": "Aoi replied that every royal announcement needed an accurate time and a clear purpose.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Aoi treated every surprising result like an ordinary problem that could be examined.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "By the time they put their things away, the day had turned a little different from the one Kaho expected.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        }
+      ],
+      "sentenceReuseDetails": [
+        {
+          "sentence": "Aoi replied that every royal announcement needed an accurate time and a clear purpose.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Aoi treated every surprising result like an ordinary problem that could be examined.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "By the time they put their things away, the day had turned a little different from the one Kaho expected.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Even those who preferred a quick answer had to admit that the answer would mean little without consent.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Kaho asked whether the people affected by the choice had been allowed to speak.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She asked who had seen it, when it had happened, and whether they could check it again.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She had not solved every problem, but she knew one fact she had not known before.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "The decision seemed small, but Itsuki noticed it immediately and moved aside to make room for her.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Their argument lasted less than a minute before Kaho interrupted with the question that actually mattered.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Yet an unanswered question always had a way of following her home.",
+          "chapters": [
+            "light-novel-3a-1",
+            "light-novel-3a-13",
+            "light-novel-3a-19",
+            "light-novel-3a-25",
+            "light-novel-3a-7"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "A good team, she was learning, did not need to agree immediately; it needed to notice the same facts.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Aoi approved of the practical list; Mochi approved of the space for its name.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Aoi checked the details one final time while Kaho prepared a short explanation for the others.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Aoi nodded; Mochi objected that a kingdom certainly worked that way, and was ignored.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Aoi placed two sheets side by side, and the differences finally became visible.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Aoi raised an eyebrow, as though asking whether Kaho was finally beginning to enjoy the club.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Even Mochi listened for a moment before returning to the important business of searching for biscuits.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Instead, it seemed to hand her forms, questions, and people with different ideas.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "It was made of small objects, ordinary schedules, and choices somebody had forgotten to discuss.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "It was not a prize or a promise of success; it meant they finally knew what to try next.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Itsuki asked whether she was ready to continue, and she answered only after checking that she truly was.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Itsuki bent down to see what Kaho was pointing at, close enough for her to notice a spot of ink on his cheek.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Itsuki checked the door before leaving, and Kaho checked that the shared notes would be available tomorrow.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Itsuki saw her expression change and quietly passed her the page she needed next.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Itsuki suggested writing the decision in plain language before anyone signed it.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Itsuki told her that changing a conclusion after learning something new was not defeat.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho added the date and asked the others to check her words.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho caught herself wishing for a bright miracle, then looked at the ordinary people doing careful work around her.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho closed her notebook on a question that would have to wait until tomorrow.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho felt a moment of disappointment and allowed herself to feel it.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho glanced toward Itsuki, expecting the club president to supply an easy answer.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho had expected magic to solve the difficult parts of student life.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho handled the drawings, Aoi checked practical details, and Itsuki contacted the people who needed to decide.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho listened to a hesitant answer without trying to fill the silence.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho noticed that the club had begun to feel less like a place she had entered by accident and more like a place she could choose.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho pointed to the line that needed an answer and asked who had the right to provide it.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho read the sentence aloud and found a part that could be misunderstood.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho reminded herself that uncertainty was not a reason to invent a satisfying story.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Kaho was embarrassed by how often her first answer turned out to be incomplete.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Mochi alone complained that no one had appointed a royal snack officer.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Mochi folded itself into a box and announced that even legendary guardians needed sleep.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Nobody was asked to trade safety or privacy for a beautiful result.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Outside, the campus lights were turning on one by one, and Itsuki walked beside her without demanding another promise.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She did not quite believe him yet, but she stopped crossing out her earlier notes.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She drew a little square around the most important detail in her notes.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She had once mistaken confidence for kindness, but the two did not always travel together.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She looked at Itsuki, found him looking back, and felt quietly glad that they had chosen to stay.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She made a short list of what to check next and left it where everyone could read it.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She offered to take one difficult task, and Itsuki accepted without asking whether she was strong enough to manage it.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She reminded him that a club was not simply a president followed by helpers.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "She stayed because the person in front of her deserved to finish speaking.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Something difficult became manageable once it had a clear place on the page.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Sometimes it required staying present long enough to notice what another person was trying to show.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Sometimes respect sounded like a quiet question and a willingness to hear no.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Still, the team had moved from guessing to a question they could answer.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "That was annoying in a surprisingly useful way: she had to decide what she actually believed before repeating somebody else.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The choice looked ordinary on paper, yet it mattered to everyone in the room.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The club could argue about motives all afternoon, but a change on paper was something they could examine together.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The club divided the work into pieces small enough for each person to choose freely.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The club room looked ordinary again once the last visitor had left.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The decision was smaller than the dream that had brought them there.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The extra minutes felt worthwhile, especially after remembering how much trouble one careless line had already caused.",
+          "chapters": [
+            "light-novel-3a-14",
+            "light-novel-3a-2",
+            "light-novel-3a-20",
+            "light-novel-3a-8"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The final task was not a victory pose but a careful record of what had happened.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The pause gave them a chance to notice a detail they might otherwise have missed.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "The room grew busy with opinions, and Kaho nearly lost track of the original question.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Their different skills made the picture less exciting, perhaps, but much more useful.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Their habits were different, but together they protected more than either could alone.",
+          "chapters": [
+            "light-novel-3a-11",
+            "light-novel-3a-17",
+            "light-novel-3a-23",
+            "light-novel-3a-5"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "Then she noticed that a smaller plan could still keep its promises.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "There was comfort in the sound of paper being turned and pencils moving across the table.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "There were moments when Kaho wanted to disappear behind the nearest door.",
+          "chapters": [
+            "light-novel-3a-12",
+            "light-novel-3a-18",
+            "light-novel-3a-24",
+            "light-novel-3a-6"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "They could ask one more question, check one more object, and leave the rest open for now.",
+          "chapters": [
+            "light-novel-3a-10",
+            "light-novel-3a-16",
+            "light-novel-3a-22",
+            "light-novel-3a-4"
+          ],
+          "count": 4
+        },
+        {
+          "sentence": "They moved the loose papers away from the edge of the table and made space to compare what each person had found.",
+          "chapters": [
+            "light-novel-3a-15",
+            "light-novel-3a-21",
+            "light-novel-3a-3",
+            "light-novel-3a-9"
+          ],
+          "count": 4
+        }
+      ],
+      "editorialStatus": "句子重用待逐章修訂"
+    },
+    {
+      "id": "light-novel-4b",
+      "title": "1998，被刪除的女主角拒絕退場！",
+      "chapters": 25,
+      "englishWords": 16167,
+      "minimumChapterWords": 615,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "light-novel-5a",
+      "title": "被召喚後只能改錯字的我，竟要拯救異世界的七座鐘塔？！",
+      "chapters": 25,
+      "englishWords": 15464,
+      "minimumChapterWords": 601,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 0,
+      "highestSentenceReuse": 1,
+      "sentenceReuseExamples": [],
+      "sentenceReuseDetails": [],
+      "editorialStatus": "完整性檢查通過；逐段語意校訂待完成"
+    },
+    {
+      "id": "light-novel-6b",
+      "title": "被勇者隊伍開除後，我替魔王城訂了週休二日",
+      "chapters": 25,
+      "englishWords": 16971,
+      "minimumChapterWords": 662,
+      "minimumTargetWords": 20,
+      "questions": 50,
+      "structuralChecksPassed": true,
+      "repeatedLongSentencePatterns": 58,
+      "highestSentenceReuse": 6,
+      "sentenceReuseExamples": [
+        {
+          "sentence": "\"Are you always this difficult?\" Leon asked, his voice carrying more curiosity than anger.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "\"Only when someone tries to save time by spending other people's lives,\" Aya replied.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "\"We have learned what to ask next.\" Leon walked her as far as the public stairs.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        }
+      ],
+      "sentenceReuseDetails": [
+        {
+          "sentence": "\"Are you always this difficult?\" Leon asked, his voice carrying more curiosity than anger.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "\"Only when someone tries to save time by spending other people's lives,\" Aya replied.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "\"We have learned what to ask next.\" Leon walked her as far as the public stairs.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "\"Yes,\" she answered, \"but not enough to leave other people alone with the problem.\" He nodded as if that mattered more than any declaration of loyalty.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "A name-bound spell could be cast only with informed consent; any working spell used the caster's energy; and the clock recorded hours unless two independent witnesses approved a correction.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "A reform that depended on one exceptional person would die when that person left.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "A threat written on paper was still only a claim until evidence supported it.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "A witness should be able to change an honest answer without fearing punishment.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "A wrong date repeated on three independently stamped pages demanded a different explanation.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Aya answered that they would record the failure, repair what they could, and explain what remained unsafe.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Aya asked Pipi to copy the original record before anyone moved it.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Aya hated dramatic timing almost as much as she hated unpaid overtime.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Aya read the notice aloud so the room could hear the precise words.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Aya was thirty-four, old enough to recognize an order designed to make someone else pay for its convenience.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Even a novice adventurer would have demanded clearer directions before entering a dungeon.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "He asked which resources she needed, and she gave him a list with prices, deadlines, and the people responsible.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "He did not ask where she lived or insist on accompanying her farther.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Here, in a castle ruled by a Demon King, they were beginning to feel surprisingly safe.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "It had a seal, a solemn title, and absolutely no explanation of what would happen to the people affected.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Leon listened without interrupting, which was itself enough to disturb three elderly advisers.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Leon offered her tea, not an order, and she accepted after finishing the record.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Pipi checked the copies, and Momo the dwarf engineer checked the practical details.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Several people stared at her as though she had proposed replacing the castle with a bakery.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She checked how the record had traveled, who had touched it, and whether a copy existed outside the castle.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She drew two columns in her notebook and refused to combine them for the sake of a satisfying accusation.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She had seen too many organizations call silence harmony, then wonder why their walls collapsed.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She let the people who had done the work take credit before the officials spoke.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She marked the evidence with the date, gave the workers a copy, and closed her notebook.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She secured the document, arranged the next meeting, and went home instead of working through the night.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She told him that predictable service was a greater honor than a hundred banners.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She trained a replacement, left instructions in plain language, and made sure someone other than Leon held a copy.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She unfolded her notebook and invited the nearest worker to speak first.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She would not let a frightened official quietly invent a fourth rule.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She wrote down their objections instead of pretending not to hear them.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "She wrote the choice in clear language so nobody could later claim they had misunderstood.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "Still, she admitted that a story needed the next question to remain honest.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "The change was not a miracle; it had required people, money, and the willingness to admit uncertainty.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "The handwritten schedule looked ordinary until she asked who was allowed to refuse.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "The impatient officials wanted to know whether she had found a villain.",
+          "chapters": [
+            "light-novel-6b-10",
+            "light-novel-6b-14",
+            "light-novel-6b-18",
+            "light-novel-6b-2",
+            "light-novel-6b-22",
+            "light-novel-6b-6"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "There was a moment when Aya nearly reached for the familiar comfort of doing everything herself.",
+          "chapters": [
+            "light-novel-6b-12",
+            "light-novel-6b-16",
+            "light-novel-6b-20",
+            "light-novel-6b-24",
+            "light-novel-6b-4",
+            "light-novel-6b-8"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "When Aya noticed, she did not thank him for being considerate; she thanked him for following the schedule.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "When he smiled at the list, she wondered whether his smile was becoming a problem of its own.",
+          "chapters": [
+            "light-novel-6b-11",
+            "light-novel-6b-15",
+            "light-novel-6b-19",
+            "light-novel-6b-23",
+            "light-novel-6b-3",
+            "light-novel-6b-7"
+          ],
+          "count": 6
+        },
+        {
+          "sentence": "A command might produce immediate silence, but it could not produce lasting agreement.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Aya asked the team to mark not only successes but also delays and near misses.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Aya insisted that every measurement be recorded before anyone proposed a remedy.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Aya pinned a copy of the new information beside the first rule of the castle: no binding spell without informed agreement.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "For a ruler who could frighten armies with a glance, standing quietly by a door was an unexpectedly demanding kind of courage.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "For once, he did not look like a ruler waiting to be obeyed.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "If accurate paperwork frightened powerful people, perhaps the kingdom needed a little more of it.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "In the corridor, Cinder the young dragon asked whether this meant adults would stop arguing.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Leon remained close enough to answer questions and far enough away to let them choose.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "Leon signed the corrected report only after the workers had read it.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She asked for the time of the first warning, the names of those actually present, and the place where the original instructions were kept.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She asked the affected people to speak without their supervisors in the room.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She had learned from injured adventurers that a heroic shortcut could move a danger rather than remove it.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "She intended to do the opposite, even if it meant losing another respectable position.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "The castle engineers repeated the test, and a worker chosen by the staff watched the result.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        },
+        {
+          "sentence": "The easiest solution would have been to let Leon issue a royal command.",
+          "chapters": [
+            "light-novel-6b-13",
+            "light-novel-6b-17",
+            "light-novel-6b-21",
+            "light-novel-6b-5",
+            "light-novel-6b-9"
+          ],
+          "count": 5
+        }
+      ],
+      "editorialStatus": "句子重用待逐章修訂"
     }
   ],
   "chapters": [
@@ -40167,6 +41740,1356 @@
       "book": "ceo-series-6a",
       "chapter": "ceo-series-6a-25",
       "englishWords": 676,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-1",
+      "englishWords": 683,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-2",
+      "englishWords": 681,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-3",
+      "englishWords": 660,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-4",
+      "englishWords": 673,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-5",
+      "englishWords": 652,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-6",
+      "englishWords": 683,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-7",
+      "englishWords": 732,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-8",
+      "englishWords": 720,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-9",
+      "englishWords": 658,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-10",
+      "englishWords": 741,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-11",
+      "englishWords": 672,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-12",
+      "englishWords": 760,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-13",
+      "englishWords": 723,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-14",
+      "englishWords": 651,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-15",
+      "englishWords": 736,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-16",
+      "englishWords": 750,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-17",
+      "englishWords": 750,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-18",
+      "englishWords": 658,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-19",
+      "englishWords": 710,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-20",
+      "englishWords": 739,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-21",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-22",
+      "englishWords": 650,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-23",
+      "englishWords": 649,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-24",
+      "englishWords": 736,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-1a",
+      "chapter": "light-novel-1a-25",
+      "englishWords": 797,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-1",
+      "englishWords": 671,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-2",
+      "englishWords": 704,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-3",
+      "englishWords": 698,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-4",
+      "englishWords": 687,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-5",
+      "englishWords": 699,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-6",
+      "englishWords": 714,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-7",
+      "englishWords": 683,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-8",
+      "englishWords": 679,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-9",
+      "englishWords": 694,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-10",
+      "englishWords": 711,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-11",
+      "englishWords": 698,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-12",
+      "englishWords": 675,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-13",
+      "englishWords": 677,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-14",
+      "englishWords": 662,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-15",
+      "englishWords": 670,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-16",
+      "englishWords": 730,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-17",
+      "englishWords": 689,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-18",
+      "englishWords": 698,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-19",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-20",
+      "englishWords": 674,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-21",
+      "englishWords": 669,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-22",
+      "englishWords": 661,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-23",
+      "englishWords": 704,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-24",
+      "englishWords": 662,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-2a",
+      "chapter": "light-novel-2a-25",
+      "englishWords": 717,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-1",
+      "englishWords": 661,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-2",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-3",
+      "englishWords": 644,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-4",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-5",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-6",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-7",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-8",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-9",
+      "englishWords": 626,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-10",
+      "englishWords": 648,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-11",
+      "englishWords": 645,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-12",
+      "englishWords": 633,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-13",
+      "englishWords": 632,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-14",
+      "englishWords": 618,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-15",
+      "englishWords": 635,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-16",
+      "englishWords": 629,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-17",
+      "englishWords": 613,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-18",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-19",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-20",
+      "englishWords": 623,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-21",
+      "englishWords": 628,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-22",
+      "englishWords": 623,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-23",
+      "englishWords": 614,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-24",
+      "englishWords": 627,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-3a",
+      "chapter": "light-novel-3a-25",
+      "englishWords": 666,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 5,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-1",
+      "englishWords": 670,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-2",
+      "englishWords": 667,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-3",
+      "englishWords": 653,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-4",
+      "englishWords": 666,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-5",
+      "englishWords": 649,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-6",
+      "englishWords": 654,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-7",
+      "englishWords": 634,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-8",
+      "englishWords": 657,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-9",
+      "englishWords": 634,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-10",
+      "englishWords": 660,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-11",
+      "englishWords": 655,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-12",
+      "englishWords": 628,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-13",
+      "englishWords": 628,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-14",
+      "englishWords": 640,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-15",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-16",
+      "englishWords": 647,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-17",
+      "englishWords": 641,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-18",
+      "englishWords": 642,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-19",
+      "englishWords": 624,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-20",
+      "englishWords": 637,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-21",
+      "englishWords": 627,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-22",
+      "englishWords": 638,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-23",
+      "englishWords": 615,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-24",
+      "englishWords": 648,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-4b",
+      "chapter": "light-novel-4b-25",
+      "englishWords": 706,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 7,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-1",
+      "englishWords": 649,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-2",
+      "englishWords": 617,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-3",
+      "englishWords": 621,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-4",
+      "englishWords": 620,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-5",
+      "englishWords": 605,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-6",
+      "englishWords": 629,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-7",
+      "englishWords": 617,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-8",
+      "englishWords": 618,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-9",
+      "englishWords": 603,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-10",
+      "englishWords": 614,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-11",
+      "englishWords": 611,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-12",
+      "englishWords": 607,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-13",
+      "englishWords": 614,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-14",
+      "englishWords": 609,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-15",
+      "englishWords": 610,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-16",
+      "englishWords": 644,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-17",
+      "englishWords": 613,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-18",
+      "englishWords": 610,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-19",
+      "englishWords": 620,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-20",
+      "englishWords": 620,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-21",
+      "englishWords": 608,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-22",
+      "englishWords": 601,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-23",
+      "englishWords": 611,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-24",
+      "englishWords": 631,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-5a",
+      "chapter": "light-novel-5a-25",
+      "englishWords": 662,
+      "targetWords": 21,
+      "questions": 2,
+      "bilingualParagraphs": 6,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-1",
+      "englishWords": 695,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-2",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-3",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-4",
+      "englishWords": 664,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-5",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-6",
+      "englishWords": 677,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-7",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-8",
+      "englishWords": 684,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-9",
+      "englishWords": 688,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-10",
+      "englishWords": 662,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-11",
+      "englishWords": 674,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-12",
+      "englishWords": 679,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-13",
+      "englishWords": 670,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-14",
+      "englishWords": 672,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-15",
+      "englishWords": 669,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-16",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-17",
+      "englishWords": 694,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-18",
+      "englishWords": 672,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-19",
+      "englishWords": 667,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-20",
+      "englishWords": 680,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-21",
+      "englishWords": 688,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-22",
+      "englishWords": 669,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-23",
+      "englishWords": 673,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-24",
+      "englishWords": 682,
+      "targetWords": 20,
+      "questions": 2,
+      "bilingualParagraphs": 10,
+      "errors": []
+    },
+    {
+      "book": "light-novel-6b",
+      "chapter": "light-novel-6b-25",
+      "englishWords": 702,
       "targetWords": 21,
       "questions": 2,
       "bilingualParagraphs": 10,
