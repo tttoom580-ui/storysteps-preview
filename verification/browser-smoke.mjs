@@ -294,9 +294,9 @@ async function run(label,options){
    }));
    await page.goto(base+'?purchase=1',{waitUntil:'domcontentloaded'});
    await page.getByRole('button',{name:'使用 Google 登入',exact:true}).click();
-   await page.getByText('已用 Google 登入。',{exact:true}).waitFor();
+   await page.locator('.premium-account').getByRole('button',{name:'登出',exact:true}).waitFor();
    await page.reload({waitUntil:'domcontentloaded'});
-   await page.getByText('已用 Google 登入。',{exact:true}).waitFor();
+   await page.locator('.premium-account').getByRole('button',{name:'登出',exact:true}).waitFor();
    await page.locator('.premium-account').getByRole('button',{name:'登出',exact:true}).click();
    await page.getByRole('button',{name:'使用 Google 登入',exact:true}).waitFor();
    if(await page.evaluate(()=>localStorage.getItem('storysteps-premium-key')))throw Error('Google session remained after logout');
