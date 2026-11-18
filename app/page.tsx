@@ -1,3 +1,4 @@
+import {genreGroups,matchesGenre} from './story-genres';
 import {trackReading,AnalyticsChoice} from './launch-analytics';
 import BackupPanel from './backup-panel';
 import ReadingPassport from './reading-passport';
@@ -57,9 +58,9 @@ const expandedTrialBooks=[...trialPicks,...trialBooks.filter(story=>!trialPicks.
 const allMeta=stories.flatMap(s=>s.chapters);
 const totalWritten=allMeta.filter(c=>c.available).length;
 const principal=stories[0];
-const primaryTopics=['全部題材','校園青春','現代言情','奇幻仙俠','規則懸疑','科幻','歷史穿越'];
-const shelfTopics=[...new Set(stories.flatMap(story=>[story.genre,...(story.tags||[])]))].sort((a,b)=>a.localeCompare(b,'zh-Hant'));
-const extraTopics=shelfTopics.filter(topic=>!primaryTopics.includes(topic));
+const primaryTopics=['全部題材',...genreGroups.map(group=>group.name)];
+const shelfTopics=[...new Set(stories.map(story=>story.genre))].sort((a,b)=>a.localeCompare(b,'zh-Hant'));
+const extraTopics=shelfTopics;
 type SavedWord=Word&{stage:number;due:number};
 function EditorialStatus({story}:{story:Story}){
  return <span className={'editorial-status '+(editorialLabel(story)==='校訂中'?'editorial-pending':'editorial-reviewed')}>{editorialLabel(story)}</span>;
@@ -178,7 +179,7 @@ export default function Home(){
  function saveBook(id:string){if(!feature.ready){setToast('書架載入中，請稍後再試。');return}feature.update(s=>({...s,books:s.books.includes(id)?s.books.filter(x=>x!==id):[...s.books,id],seen:{...s.seen,[id]:s.seen[id]??stories.find(b=>b.id===id)!.chapters.filter(c=>c.available).length}}))}
  function Cover({s,large=false}:{s:Story;large?:boolean}){return <div className={'cover '+(large?'cover-large':'')} style={{background:s.color}}>{s.cover?<img src={s.cover} alt={s.zh+' AI 插畫封面'} loading={large?'eager':'lazy'}/>:<div className="cover-graphic" aria-hidden="true"><span className="orbit"/><span className="orbit second"/><span className="cover-number">{String(stories.indexOf(s)+1).padStart(2,'0')}</span></div>}<div className="cover-shade"/><span className="cover-series">{s.series?`${s.series} · VOL. ${s.volume}`:'STORYSTEPS ORIGINAL'}</span><div className="cover-words"><span>{s.genre}</span><h3>{s.series?(s.zh.split('：').slice(1).join('：')||s.zh):s.zh}</h3><p>{s.title}</p></div><div className="cover-footer">拾頁原創 <span>25 CHAPTERS</span></div></div>}
  function Card({s}:{s:Story}){const ready=s.chapters.filter(c=>c.available).length;return <article className="book-card"><button className="cover-button" onClick={()=>book(s)} aria-label={'查看 '+s.zh}><Cover s={s}/></button><div className="book-card-copy"><a className="title-button" href={'./stories/'+s.id+'/'} onClick={e=>{if(!e.metaKey&&!e.ctrlKey&&!e.shiftKey&&!e.altKey){e.preventDefault();book(s)}}}><h3>{s.zh}</h3></a><p className="book-hook">{s.hook}</p><small className="card-level">程度：{s.level} 目標詞</small><a className="card-preview-link" href={'./stories/'+s.id+'/'} onClick={e=>{if(!e.metaKey&&!e.ctrlKey&&!e.shiftKey&&!e.altKey){e.preventDefault();book(s)}}}>查看故事 →</a><div className="card-bottom"><span>{savedBooks.includes(s.id)&&ready>(feature.state.seen[s.id]||0)?`新增 ${ready-(feature.state.seen[s.id]||0)} 章 · `:''}{ready===25?(isFreeBook(s.id)?'全本免費':`免費試讀 ${previewChapters} 章`):`已上架 ${ready} / 25 章`}</span><button aria-label={(savedBooks.includes(s.id)?'移除收藏 ':'收藏 ')+s.zh} className={savedBooks.includes(s.id)?'is-saved':''} onClick={()=>saveBook(s.id)}><Bookmark size={17} fill={savedBooks.includes(s.id)?'currentColor':'none'}/></button></div></div></article>}
- const filtered=stories.filter(s=>(!onlyFree||isFreeBook(s.id))&&(editorialFilter==='全部校訂狀態'||editorialFilter===editorialLabel(s))&&(level==='全部'||s.level===level)&&(range==='全部範圍'||s.vocabularyRange===range)&&(genre==='全部題材'||(s.genre===genre||s.tags?.includes(genre)))&&(!onlySaved||savedBooks.includes(s.id))&&(s.title+s.zh+s.desc+(s.tags||[]).join(' ')).toLowerCase().includes(query.toLowerCase().replace(/^#/,'')));
+ const filtered=stories.filter(s=>(!onlyFree||isFreeBook(s.id))&&(editorialFilter==='全部校訂狀態'||editorialFilter===editorialLabel(s))&&(level==='全部'||s.level===level)&&(range==='全部範圍'||s.vocabularyRange===range)&&matchesGenre(s,genre)&&(!onlySaved||savedBooks.includes(s.id))&&(s.title+s.zh+s.desc+(s.tags||[]).join(' ')).toLowerCase().includes(query.toLowerCase().replace(/^#/,'')));
  return <div className={'app theme-'+theme+' view-'+view+(view==='reader'&&comfort.focus?' focus-reading':'')}><header className="header"><button className="brand" onClick={()=>navigate('home')}><img className="brand-wordmark" src="./brand/storysteps-logo-v2.webp" alt="拾頁 StorySteps" width="138" height="52"/></button><nav className="desktop-nav" aria-label="主要導覽">{mainLinks.map(([id,label])=><button key={id} className={view===id?'active':''} onClick={()=>navigate(id)}>{label}</button>)}</nav><div className="header-actions"><button className="header-pass" aria-current={view==='access'?'page':undefined} onClick={()=>showCheckout()}>免費閱讀與通行證</button><button className="theme-toggle" aria-label={theme==='night'?'切換淺色模式':'切換黑暗模式'} aria-pressed={theme==='night'} title={theme==='night'?'切換淺色模式':'切換黑暗模式'} onClick={()=>setTheme(t=>t==='night'?'paper':'night')}>{theme==='night'?<Sun size={20}/>:<Moon size={20}/>}</button><button className="avatar" aria-label="閱讀設定" onClick={()=>setModal('profile')}>{avatar?<span className="animal-avatar" style={{backgroundPosition:avatar.position}} aria-hidden="true"/>:signed?name.slice(0,1):<User size={19}/>}</button></div></header>
  <div className={'layout '+(view==='reader'?'reading-layout':'')}>
  <main id="main-content">{cloudError&&<div className="notice">無法載入帳號紀錄。<button onClick={refresh}>重新連線</button></div>}
@@ -270,13 +271,13 @@ export default function Home(){
    <button className={'icon-text '+(onlySaved?'selected':'')} aria-pressed={onlySaved} onClick={()=>setOnlySaved(!onlySaved)}><Bookmark size={17}/>已收藏</button>
   </div>
   <div className="level-tabs">{['全部',...levels].map(l=><button className={level===l?'selected':''} key={l} onClick={()=>setLevel(l)}>{l}{l!=='全部'&&!stories.some(s=>s.level===l)&&<small> · 即將上架</small>}</button>)}</div>
-  <div className="shelf-topics" role="group" aria-label="故事題材">
-   {primaryTopics.filter(topic=>topic==='全部題材'||shelfTopics.includes(topic)).map(topic=><button key={topic} type="button" aria-pressed={genre===topic} onClick={()=>setGenre(topic)}>{topic}</button>)}
+  <div className="genre-heading"><h2>今天想讀哪一種故事？</h2><span>先選題材，再挑程度</span></div><div className="shelf-topics genre-grid" role="group" aria-label="故事題材">
+   {primaryTopics.map(topic=><button key={topic} type="button" aria-pressed={genre===topic} onClick={()=>setGenre(topic)}><span>{topic}</span><small>{stories.filter(story=>matchesGenre(story,topic)).length}</small></button>)}
   </div>
-  <label className="topic-picker">更多題材
-   <select aria-label="更多題材" value={extraTopics.includes(genre)?genre:''} onChange={event=>setGenre(event.target.value||'全部題材')}>
-    <option value="">選擇細分類</option>
-    {extraTopics.map(topic=><option key={topic} value={topic}>{topic}</option>)}
+  <label className="topic-picker">細分題材
+   <select aria-label="更多題材" value={extraTopics.includes(genre)?genre:''} onChange={event=>setGenre(event.target.value||genre)}>
+    <option value="">{genreGroups.some(group=>group.name===genre)?genre+'全部作品':'所有細分題材'}</option>
+    {extraTopics.filter(topic=>!genreGroups.some(group=>group.name===genre)||genreGroups.find(group=>group.name===genre)!.pattern.test(topic)).map(topic=><option key={topic} value={topic}>{topic}</option>)}
    </select>
   </label>
   <details className="shelf-extra"><summary>更多篩選</summary><div className="search-row"><select aria-label="內容校訂狀態" value={editorialFilter} onChange={e=>setEditorialFilter(e.target.value)}><option>全部校訂狀態</option><option>校訂完成</option><option>校訂中</option></select><select aria-label="單字範圍" value={range} onChange={e=>setRange(e.target.value)}><option value="全部範圍">全部範圍</option><option value="A">A 本 · 前約 500 詞</option><option value="B">B 本 · 後約 500 詞</option><option value="custom">故事自選詞彙</option><option value="pending">詞表整理中</option></select></div></details>

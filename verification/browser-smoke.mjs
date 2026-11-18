@@ -118,8 +118,8 @@ async function run(label,options){
   await onlyFree.click();
   await page.locator('#discover-more > summary').click();
   const topics=page.getByRole('group',{name:'故事題材'});
-  const allTopics=topics.getByRole('button',{name:'全部題材',exact:true});
-  const mystery=topics.getByRole('button',{name:'規則懸疑',exact:true});
+  const allTopics=topics.getByRole('button',{name:/^全部題材/});
+  const mystery=topics.getByRole('button',{name:/^懸疑推理/});
   const allBooks=await page.locator('.book-card').count();
   await mystery.click();
   if(await mystery.getAttribute('aria-pressed')!=='true'||await page.locator('.book-card').count()>=allBooks)

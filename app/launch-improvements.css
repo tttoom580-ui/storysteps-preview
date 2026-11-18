@@ -107,3 +107,21 @@
  .app.view-book main{padding-bottom:110px}
  .app.view-book .chapter-grid{grid-template-columns:1fr}
 }
+
+.genre-heading{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-top:24px}
+.genre-heading h2{font-size:18px;margin:0;letter-spacing:-.03em}
+.genre-heading>span{font-size:12px;color:var(--muted)}
+.app .genre-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border:0;padding:0;gap:10px;margin:14px 0 16px}
+.app .genre-grid button{display:flex;align-items:center;justify-content:space-between;gap:8px;min-height:56px;padding:14px 16px;border-radius:14px;text-align:left;background:var(--paper);font-size:14px;border:1px solid var(--line)}
+.app .genre-grid button small{font-size:12px!important;opacity:.6;font-variant-numeric:tabular-nums}
+.app .genre-grid button[aria-pressed="true"]{background:var(--lavender);color:var(--purple);border-color:var(--purple);box-shadow:inset 3px 0 var(--purple)}
+.app .topic-picker{justify-content:flex-start;padding:12px 0;border-top:1px solid var(--line)}
+.app .topic-picker select{flex:1;max-width:360px}
+@media(max-width:600px){
+ .app .genre-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+ .app .genre-grid button{min-height:50px;padding:12px 14px}
+ .genre-heading{display:block}.genre-heading>span{display:block;margin-top:5px}
+ .app .shelf-controls{padding:16px}
+ .app .level-tabs{display:flex;flex-wrap:nowrap;overflow-x:auto;max-width:100%;padding-bottom:8px}
+ .app .level-tabs button{flex-shrink:0}
+}
