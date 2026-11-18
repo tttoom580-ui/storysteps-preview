@@ -1,4 +1,4 @@
-"""Install the submitted bilingual CEO novels from their chapter payloads."""
+"""Install the submitted bilingual novels from their chapter payloads."""
 import gzip
 import hashlib
 import json
@@ -22,6 +22,15 @@ BOOKS = {
     "6a": ("陸總，惡女的認罪書我不簽", "The Villainess CEO Who Refused to Confess", "企業稽核師穿進小說，成了即將為全城大停電坐牢的執行長。陸總帶來紓困條款，她要先查清自己被要求承認的罪。"),
 }
 
+LIGHT_NOVELS = {
+    "1a": ("轉學生的尾巴，藏不住了！", "My New Classmate Has a Dragon Tail!", "轉學生海藏著一條藍色龍尾巴。當理子發現他的祕密，兩人得一起完成雲上世界交代的五項校園任務。", "校園奇幻"),
+    "2a": ("轉生後只有一格道具欄！？——我在迷宮裡當上了最弱勇者", "Reborn with Only One Inventory Slot?! — The Weakest Hero of the Moving Maze", "任在異世界抽到一格道具欄。當迷宮開始移動，他只能和嚮導、小石龍一起想辦法，用這一格救下小鎮。", "異世界奇幻冒險"),
+    "3a": ("月光失物招領社，今天也不接受退貨！", "No Returns at the Moonlight Lost-and-Found!", "一隻紙狐狸把花穗帶進社團教室。裡面的機器不收錢，卻會印出人們遺失的約定。", "校園奇幻戀愛"),
+    "4b": ("1998，被刪除的女主角拒絕退場！", "The Rejected Heroine Refuses to Fade!", "千景返鄉清理即將出售的手繪動畫工房，卻在舊燈箱裡遇見一名被刪除的女主角。", "年代奇幻"),
+    "5a": ("被召喚後只能改錯字的我，竟要拯救異世界的七座鐘塔？！", "I Was Summoned as a Proofreader, Not a Hero!", "澪被召喚到異世界，每天只能用紅筆標三處錯誤。日蝕將至，七座鐘塔卻要按錯誤的名冊分配物資。", "異世界奇幻冒險"),
+    "6b": ("被勇者隊伍開除後，我替魔王城訂了週休二日", "Fired by the Heroes, I Gave the Demon King Weekends", "後勤官綾因拒絕讓工人無償通宵而被開除。到魔王城上班後，她打算用工時計和休假表對付加班魔法。", "異世界職場奇幻"),
+}
+
 
 def register_books():
     catalog_path = PUB / "catalog.js"
@@ -38,8 +47,12 @@ def register_books():
     registered = {book["id"] for book in catalog}
     added = 0
 
-    for code, (zh, en_title, hook) in BOOKS.items():
-        book_id = f"ceo-series-{code}"
+    ceo_books = [(f"ceo-series-{code}", code, zh, title, hook,
+                  {"4a": "都市遊戲災變", "5b": "雙男主霸總戀愛"}.get(code, "霸總戀愛"), "霸總")
+                 for code, (zh, title, hook) in BOOKS.items()]
+    light_books = [(f"light-novel-{code}", code, zh, title, hook, genre, "日系輕小說")
+                   for code, (zh, title, hook, genre) in LIGHT_NOVELS.items()]
+    for book_id, code, zh, en_title, hook, genre, tag in ceo_books + light_books:
         if book_id in registered:
             continue
         matches = list((PUB / "books").glob(f"{book_id}-*.bin"))
@@ -67,9 +80,8 @@ def register_books():
                 maxSentence=max(lengths), lastScene=paragraphs[-1]["zh"][:100])
 
         manifest["books"][book_id] = dict(url="./books/" + matches[0].name, chapters=25)
-        genre = {"4a": "都市遊戲災變", "5b": "雙男主霸總戀愛"}.get(code, "霸總戀愛")
         catalog.append(dict(id=book_id, title=en_title, zh=zh, level=LEVELS[level-1],
-            vocabularyRange=code[1].upper(), genre=genre, tags=["新作", "霸總"],
+            vocabularyRange=code[1].upper(), genre=genre, tags=["新作", tag],
             desc=hook, hook=hook, color="#73618c", cover=f"./covers/{book_id}.webp", chapters=metadata,
             vocabularySummary=dict(referenceLevel=level, uniqueTargets=501, perChapter=20),
             learningReviewRequired=True, readable=True,
@@ -86,7 +98,7 @@ def register_books():
         previews_path.write_text(json.dumps(previews, ensure_ascii=False, indent=2) + "\n")
         for path, data in ((manifest_path, manifest), (guide_path, guide), (samples_path, samples)):
             path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")) + "\n")
-    print(f"CEO_SERIES added={added} catalog={len(catalog)}")
+    print(f"BOOK_IMPORT added={added} catalog={len(catalog)}")
 
 
 if __name__ == "__main__":

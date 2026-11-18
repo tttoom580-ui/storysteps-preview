@@ -144,8 +144,8 @@ async function run(label,options){
   const latest=page.locator('#new-releases');
   await latest.getByRole('heading',{name:'新的故事，現在開讀。'}).waitFor();
   if(await latest.locator('.release-item').count()!==6)throw Error('Six latest releases are not visible in library');
-  await latest.getByRole('heading',{name:'總裁，假婚約星期五到期',exact:true}).waitFor();
-  await latest.getByRole('heading',{name:'陸總，惡女的認罪書我不簽',exact:true}).waitFor();
+  await latest.getByRole('heading',{name:'轉學生的尾巴，藏不住了！',exact:true}).waitFor();
+  await latest.getByRole('heading',{name:'被勇者隊伍開除後，我替魔王城訂了週休二日',exact:true}).waitFor();
   const latestCovers=latest.locator('.release-item img');
   if(await latestCovers.count()!==6)throw Error('Latest releases must all have covers');
   await latestCovers.first().evaluate(async image=>{
