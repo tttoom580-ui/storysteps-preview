@@ -1,3 +1,4 @@
+import {previewChapters} from './offer';
 import {ArrowRight,BookOpen,CheckCircle2} from 'lucide-react';
 import {stories,editorialLabel} from './content';
 import type {Story} from './types';
@@ -11,7 +12,7 @@ export default function NewReleases({onBook,onRead}:{onBook:(story:Story)=>void;
   <div className="release-shelf-header">
    <div><span className="eyebrow">JUST ADDED · NOVEMBER 2026</span>
     <h2 id="release-shelf-heading">新的故事，現在開讀。</h2>
-    <p>{releases.length} 本新書・{releases.reduce((sum,story)=>sum+story.chapters.length,0)} 章英中對照・每本前 10 章免費試讀。</p>
+    <p>{releases.length} 本新書・{releases.reduce((sum,story)=>sum+story.chapters.length,0)} 章英中對照・每本前 {previewChapters} 章免費試讀。</p>
    </div>
    <span className="release-shelf-hint"><BookOpen size={16}/> 向右瀏覽更多故事</span>
   </div>

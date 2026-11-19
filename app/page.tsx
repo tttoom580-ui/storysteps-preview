@@ -332,7 +332,7 @@ export default function Home(){
    <button className={'icon-text '+(onlyFree?'selected':'')} aria-pressed={onlyFree} onClick={()=>setOnlyFree(!onlyFree)}>整本免費</button>
    <button className={'icon-text '+(onlySaved?'selected':'')} aria-pressed={onlySaved} onClick={()=>setOnlySaved(!onlySaved)}><Bookmark size={17}/>已收藏</button>
   </div>
-  <div className="level-tabs">{['全部',...levels].map(l=><button className={level===l?'selected':''} key={l} onClick={()=>setLevel(l)}>{l}{l!=='全部'&&!stories.some(s=>s.level===l)&&<small> · 即將上架</small>}</button>)}</div>
+  <div className="level-tabs" role="group" aria-label="參考詞表級距">{['全部',...levels].map(l=><button className={level===l?'selected':''} key={l} onClick={()=>setLevel(l)}>{l==='全部'?'全部':(levels.indexOf(l)===6?'延伸級':'第 '+(levels.indexOf(l)+1)+' 級')+' · '+l}{l!=='全部'&&!stories.some(s=>s.level===l)&&<small> · 即將上架</small>}</button>)}</div>
   <div className="genre-heading"><h2>今天想讀哪一種故事？</h2><span>先選題材，再挑程度</span></div><div className="shelf-topics genre-grid" role="group" aria-label="故事題材">
    {primaryTopics.map(topic=><button key={topic} type="button" aria-pressed={genre===topic} onClick={()=>setGenre(topic)}><span>{topic}</span><small>{stories.filter(story=>matchesGenre(story,topic)).length}</small></button>)}
   </div>

@@ -33,6 +33,8 @@ async function run(label,options){
   return route.fulfill({status:404,headers,body:'{}'});
  });
  try{
+  await page.goto(base+'topics/campus.html',{waitUntil:'domcontentloaded'});
+  await page.getByRole('heading',{name:'英語校園青春故事',exact:true}).waitFor();
   await page.goto(base,{waitUntil:'domcontentloaded'});
   await page.locator('.header').waitFor();
   const passLink=page.locator('.header').getByRole('button',{name:'免費閱讀與通行證',exact:true});
@@ -58,6 +60,7 @@ async function run(label,options){
   const nav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'閱讀',exact:true}):page.locator('.desktop-nav').getByRole('button',{name:'閱讀中心'});
   await nav.click();
   await page.getByRole('heading',{name:'我的閱讀'}).waitFor();
+  await page.getByRole('heading',{name:'我的學習報告',exact:true}).waitFor();
   await page.getByRole('button',{name:'選擇頭像',exact:true}).click();
   const avatars=page.getByRole('dialog',{name:'選擇頭像'});
   if(await avatars.locator('.avatar-options button').count()!==4)throw Error('Expected four avatar choices');
