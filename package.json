@@ -4,8 +4,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "python3 scripts/import_ceo_series.py && python3 scripts/build_public_reader_data.py && vite --host 127.0.0.1",
-    "build": "python3 scripts/import_ceo_series.py && python3 scripts/build_public_reader_data.py && python3 scripts/check_editorial_certification.py && python3 scripts/check_five_book_evidence.py && python3 scripts/build_editorial_progress.py && python3 scripts/audit_story_release.py && python3 scripts/audit_launch.py && python3 scripts/build_public_pages.py && vite build && python3 scripts/package_reading_access.py",
+    "dev": "python3 scripts/import_ceo_series.py && python3 scripts/import_batch16.py && python3 scripts/build_public_reader_data.py && vite --host 127.0.0.1",
+    "build": "python3 scripts/import_ceo_series.py && python3 scripts/import_batch16.py && python3 scripts/build_public_reader_data.py && python3 scripts/check_editorial_certification.py && python3 scripts/check_five_book_evidence.py && python3 scripts/build_editorial_progress.py && python3 scripts/audit_story_release.py && python3 scripts/audit_launch.py && python3 scripts/build_public_pages.py && vite build && python3 scripts/package_reading_access.py",
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {

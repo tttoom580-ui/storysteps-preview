@@ -1,0 +1,3264 @@
+[
+  {
+    "book": {
+      "id": "dragon-schoolbag",
+      "title": "The Tiny Dragon Living in My Schoolbag",
+      "zh": "我的書包住著一隻迷你龍",
+      "level": "1000以下",
+      "vocabularyRange": "A",
+      "genre": "校園溫暖奇幻",
+      "tags": [
+        "新作",
+        "校園溫暖奇幻"
+      ],
+      "desc": "書包裡傳來兩下敲擊聲。亞希打開拉鍊，發現一隻只會吐白霧的小龍。",
+      "hook": "書包裡傳來兩下敲擊聲。亞希打開拉鍊，發現一隻只會吐白霧的小龍。",
+      "color": "#224549",
+      "cover": "./covers/dragon-schoolbag.webp",
+      "chapters": [
+        {
+          "id": "dragon-schoolbag-1",
+          "title": "The Warm Pocket",
+          "zh": "會呼吸的書包",
+          "number": 1,
+          "available": true,
+          "wordCount": 659
+        },
+        {
+          "id": "dragon-schoolbag-2",
+          "title": "Two Taps Mean Yes",
+          "zh": "兩下是願意",
+          "number": 2,
+          "available": true,
+          "wordCount": 656
+        },
+        {
+          "id": "dragon-schoolbag-3",
+          "title": "The Road to School",
+          "zh": "上學路上的第一課",
+          "number": 3,
+          "available": true,
+          "wordCount": 638
+        },
+        {
+          "id": "dragon-schoolbag-4",
+          "title": "A Window Full of Wind",
+          "zh": "窗邊的風",
+          "number": 4,
+          "available": true,
+          "wordCount": 646
+        },
+        {
+          "id": "dragon-schoolbag-5",
+          "title": "Not a Race",
+          "zh": "不是賽跑",
+          "number": 5,
+          "available": true,
+          "wordCount": 662
+        },
+        {
+          "id": "dragon-schoolbag-6",
+          "title": "The Sign at the Book Shop",
+          "zh": "舊書店的招牌",
+          "number": 6,
+          "available": true,
+          "wordCount": 668
+        },
+        {
+          "id": "dragon-schoolbag-7",
+          "title": "A Friend Who Waits",
+          "zh": "願意等待的朋友",
+          "number": 7,
+          "available": true,
+          "wordCount": 652
+        },
+        {
+          "id": "dragon-schoolbag-8",
+          "title": "A Very Small Student",
+          "zh": "小得不能再小的學生",
+          "number": 8,
+          "available": true,
+          "wordCount": 648
+        },
+        {
+          "id": "dragon-schoolbag-9",
+          "title": "A Letter From Grandmother",
+          "zh": "外婆的舊卡片",
+          "number": 9,
+          "available": true,
+          "wordCount": 655
+        },
+        {
+          "id": "dragon-schoolbag-10",
+          "title": "A Rule for Everyone",
+          "zh": "人人都適用的規則",
+          "number": 10,
+          "available": true,
+          "wordCount": 641
+        },
+        {
+          "id": "dragon-schoolbag-11",
+          "title": "A Dictionary for Nono",
+          "zh": "諾諾的小字典",
+          "number": 11,
+          "available": true,
+          "wordCount": 635
+        },
+        {
+          "id": "dragon-schoolbag-12",
+          "title": "The Word Home",
+          "zh": "「家」這個字",
+          "number": 12,
+          "available": true,
+          "wordCount": 652
+        },
+        {
+          "id": "dragon-schoolbag-13",
+          "title": "Three Paths",
+          "zh": "三路口",
+          "number": 13,
+          "available": true,
+          "wordCount": 643
+        },
+        {
+          "id": "dragon-schoolbag-14",
+          "title": "The Wall Behind the Tree",
+          "zh": "老樹後面的牆",
+          "number": 14,
+          "available": true,
+          "wordCount": 669
+        },
+        {
+          "id": "dragon-schoolbag-15",
+          "title": "The Little Door in the Market",
+          "zh": "市場裡的小門",
+          "number": 15,
+          "available": true,
+          "wordCount": 661
+        },
+        {
+          "id": "dragon-schoolbag-16",
+          "title": "A Dragon Without Fire",
+          "zh": "不會噴火的龍",
+          "number": 16,
+          "available": true,
+          "wordCount": 663
+        },
+        {
+          "id": "dragon-schoolbag-17",
+          "title": "The School Meeting",
+          "zh": "放學後的會面",
+          "number": 17,
+          "available": true,
+          "wordCount": 649
+        },
+        {
+          "id": "dragon-schoolbag-18",
+          "title": "One Quiet Lesson",
+          "zh": "一堂安靜的課",
+          "number": 18,
+          "available": true,
+          "wordCount": 644
+        },
+        {
+          "id": "dragon-schoolbag-19",
+          "title": "The Question Nobody Asked",
+          "zh": "沒有人問的問題",
+          "number": 19,
+          "available": true,
+          "wordCount": 640
+        },
+        {
+          "id": "dragon-schoolbag-20",
+          "title": "The Blue Leaf",
+          "zh": "藍色葉子",
+          "number": 20,
+          "available": true,
+          "wordCount": 675
+        },
+        {
+          "id": "dragon-schoolbag-21",
+          "title": "Three Taps Across the Fence",
+          "zh": "圍欄另一邊的三聲",
+          "number": 21,
+          "available": true,
+          "wordCount": 655
+        },
+        {
+          "id": "dragon-schoolbag-22",
+          "title": "The Other Little Dragons",
+          "zh": "另外兩條小龍",
+          "number": 22,
+          "available": true,
+          "wordCount": 752
+        },
+        {
+          "id": "dragon-schoolbag-23",
+          "title": "A Name for Two Homes",
+          "zh": "兩個家的名字",
+          "number": 23,
+          "available": true,
+          "wordCount": 652
+        },
+        {
+          "id": "dragon-schoolbag-24",
+          "title": "The Book With No Dragon Picture",
+          "zh": "沒有小龍照片的書",
+          "number": 24,
+          "available": true,
+          "wordCount": 655
+        },
+        {
+          "id": "dragon-schoolbag-25",
+          "title": "The Backpack Has Room",
+          "zh": "書包裡仍留著位置",
+          "number": 25,
+          "available": true,
+          "wordCount": 667
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 1,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/dragon-schoolbag-c6b20720f636.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "last-substitute",
+      "title": "The Last Substitute",
+      "zh": "最後一名替補",
+      "level": "1000以下",
+      "vocabularyRange": "A",
+      "genre": "校園運動成長",
+      "tags": [
+        "新作",
+        "校園運動成長"
+      ],
+      "desc": "全隊最矮的替補阿任，能靠防守等到自己的上場機會嗎？",
+      "hook": "全隊最矮的替補阿任，能靠防守等到自己的上場機會嗎？",
+      "color": "#303760",
+      "cover": "./covers/last-substitute.webp",
+      "chapters": [
+        {
+          "id": "last-substitute-1",
+          "title": "The Empty Seat",
+          "zh": "空著的替補席",
+          "number": 1,
+          "available": true,
+          "wordCount": 820
+        },
+        {
+          "id": "last-substitute-2",
+          "title": "A Different Job",
+          "zh": "不同的工作",
+          "number": 2,
+          "available": true,
+          "wordCount": 800
+        },
+        {
+          "id": "last-substitute-3",
+          "title": "The Blue Line",
+          "zh": "藍色界線",
+          "number": 3,
+          "available": true,
+          "wordCount": 798
+        },
+        {
+          "id": "last-substitute-4",
+          "title": "One More Step",
+          "zh": "多走一步",
+          "number": 4,
+          "available": true,
+          "wordCount": 792
+        },
+        {
+          "id": "last-substitute-5",
+          "title": "The Wrong Number",
+          "zh": "錯誤的號碼",
+          "number": 5,
+          "available": true,
+          "wordCount": 768
+        },
+        {
+          "id": "last-substitute-6",
+          "title": "A Rainy Gym",
+          "zh": "下雨的體育館",
+          "number": 6,
+          "available": true,
+          "wordCount": 801
+        },
+        {
+          "id": "last-substitute-7",
+          "title": "The First Friendly Match",
+          "zh": "第一場友誼賽",
+          "number": 7,
+          "available": true,
+          "wordCount": 785
+        },
+        {
+          "id": "last-substitute-8",
+          "title": "A Serve at Home",
+          "zh": "客廳裡的發球",
+          "number": 8,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "last-substitute-9",
+          "title": "A Letter to the Coach",
+          "zh": "寫給教練的信",
+          "number": 9,
+          "available": true,
+          "wordCount": 778
+        },
+        {
+          "id": "last-substitute-10",
+          "title": "The Quiet Test",
+          "zh": "安靜的測試",
+          "number": 10,
+          "available": true,
+          "wordCount": 776
+        },
+        {
+          "id": "last-substitute-11",
+          "title": "The New Role",
+          "zh": "新的位置",
+          "number": 11,
+          "available": true,
+          "wordCount": 785
+        },
+        {
+          "id": "last-substitute-12",
+          "title": "The Video Replay",
+          "zh": "重播畫面",
+          "number": 12,
+          "available": true,
+          "wordCount": 793
+        },
+        {
+          "id": "last-substitute-13",
+          "title": "The Short Court",
+          "zh": "縮小的球場",
+          "number": 13,
+          "available": true,
+          "wordCount": 786
+        },
+        {
+          "id": "last-substitute-14",
+          "title": "The Team Dinner",
+          "zh": "球隊晚餐",
+          "number": 14,
+          "available": true,
+          "wordCount": 794
+        },
+        {
+          "id": "last-substitute-15",
+          "title": "The Opening Match",
+          "zh": "首場正式賽",
+          "number": 15,
+          "available": true,
+          "wordCount": 782
+        },
+        {
+          "id": "last-substitute-16",
+          "title": "Not Every Ball",
+          "zh": "不是每一球",
+          "number": 16,
+          "available": true,
+          "wordCount": 792
+        },
+        {
+          "id": "last-substitute-17",
+          "title": "The Captain's Worry",
+          "zh": "隊長的擔心",
+          "number": 17,
+          "available": true,
+          "wordCount": 794
+        },
+        {
+          "id": "last-substitute-18",
+          "title": "The Semifinal Corner",
+          "zh": "準決賽的角落",
+          "number": 18,
+          "available": true,
+          "wordCount": 776
+        },
+        {
+          "id": "last-substitute-19",
+          "title": "A Rest Day",
+          "zh": "休息也是訓練",
+          "number": 19,
+          "available": true,
+          "wordCount": 781
+        },
+        {
+          "id": "last-substitute-20",
+          "title": "The Final Begins",
+          "zh": "決賽開始",
+          "number": 20,
+          "available": true,
+          "wordCount": 786
+        },
+        {
+          "id": "last-substitute-21",
+          "title": "The Long Second Set",
+          "zh": "漫長的第二局",
+          "number": 21,
+          "available": true,
+          "wordCount": 801
+        },
+        {
+          "id": "last-substitute-22",
+          "title": "The Small Advantage",
+          "zh": "小小的優勢",
+          "number": 22,
+          "available": true,
+          "wordCount": 800
+        },
+        {
+          "id": "last-substitute-23",
+          "title": "One Point Behind",
+          "zh": "落後一分",
+          "number": 23,
+          "available": true,
+          "wordCount": 788
+        },
+        {
+          "id": "last-substitute-24",
+          "title": "The Last Rally",
+          "zh": "最後一回合",
+          "number": 24,
+          "available": true,
+          "wordCount": 792
+        },
+        {
+          "id": "last-substitute-25",
+          "title": "More Than Height",
+          "zh": "不只身高",
+          "number": 25,
+          "available": true,
+          "wordCount": 813
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 1,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/last-substitute-0bbccecf075f.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "saturday-time-shop",
+      "title": "The Saturday Time Shop",
+      "zh": "星期六的時間商店",
+      "level": "1000以下",
+      "vocabularyRange": "A",
+      "genre": "日常奇幻",
+      "tags": [
+        "新作",
+        "日常奇幻"
+      ],
+      "desc": "茉茉可以借一個小時，代價是把自己的下一個星期六交給小店。",
+      "hook": "茉茉可以借一個小時，代價是把自己的下一個星期六交給小店。",
+      "color": "#4b325f",
+      "cover": "./covers/saturday-time-shop.webp",
+      "chapters": [
+        {
+          "id": "saturday-time-shop-1",
+          "title": "A Shop Between Streets",
+          "zh": "街道之間的小店",
+          "number": 1,
+          "available": true,
+          "wordCount": 805
+        },
+        {
+          "id": "saturday-time-shop-2",
+          "title": "The Three Rules",
+          "zh": "三條規則",
+          "number": 2,
+          "available": true,
+          "wordCount": 802
+        },
+        {
+          "id": "saturday-time-shop-3",
+          "title": "The First Extra Hour",
+          "zh": "第一個額外小時",
+          "number": 3,
+          "available": true,
+          "wordCount": 813
+        },
+        {
+          "id": "saturday-time-shop-4",
+          "title": "The Missing Hour",
+          "zh": "消失的小時",
+          "number": 4,
+          "available": true,
+          "wordCount": 787
+        },
+        {
+          "id": "saturday-time-shop-5",
+          "title": "A Friend Who Waits",
+          "zh": "等候的朋友",
+          "number": 5,
+          "available": true,
+          "wordCount": 778
+        },
+        {
+          "id": "saturday-time-shop-6",
+          "title": "The Time Notebook",
+          "zh": "時間筆記本",
+          "number": 6,
+          "available": true,
+          "wordCount": 807
+        },
+        {
+          "id": "saturday-time-shop-7",
+          "title": "A Letter from Tomorrow",
+          "zh": "來自明天的信",
+          "number": 7,
+          "available": true,
+          "wordCount": 784
+        },
+        {
+          "id": "saturday-time-shop-8",
+          "title": "The Busy Brother",
+          "zh": "忙碌的弟弟",
+          "number": 8,
+          "available": true,
+          "wordCount": 804
+        },
+        {
+          "id": "saturday-time-shop-9",
+          "title": "A Clock Without Hands",
+          "zh": "沒有指針的鐘",
+          "number": 9,
+          "available": true,
+          "wordCount": 783
+        },
+        {
+          "id": "saturday-time-shop-10",
+          "title": "The Saturday Crowd",
+          "zh": "星期六的人群",
+          "number": 10,
+          "available": true,
+          "wordCount": 767
+        },
+        {
+          "id": "saturday-time-shop-11",
+          "title": "The Price of Hurry",
+          "zh": "匆忙的代價",
+          "number": 11,
+          "available": true,
+          "wordCount": 786
+        },
+        {
+          "id": "saturday-time-shop-12",
+          "title": "A Strange Receipt",
+          "zh": "奇怪的收據",
+          "number": 12,
+          "available": true,
+          "wordCount": 795
+        },
+        {
+          "id": "saturday-time-shop-13",
+          "title": "The Town Bell",
+          "zh": "小鎮鐘聲",
+          "number": 13,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "saturday-time-shop-14",
+          "title": "The Locked Minute",
+          "zh": "鎖住的一分鐘",
+          "number": 14,
+          "available": true,
+          "wordCount": 792
+        },
+        {
+          "id": "saturday-time-shop-15",
+          "title": "The Forgotten Promise",
+          "zh": "被忘記的約定",
+          "number": 15,
+          "available": true,
+          "wordCount": 789
+        },
+        {
+          "id": "saturday-time-shop-16",
+          "title": "The Hour on the Table",
+          "zh": "桌上的一小時",
+          "number": 16,
+          "available": true,
+          "wordCount": 789
+        },
+        {
+          "id": "saturday-time-shop-17",
+          "title": "The Festival Plan",
+          "zh": "節慶計畫",
+          "number": 17,
+          "available": true,
+          "wordCount": 785
+        },
+        {
+          "id": "saturday-time-shop-18",
+          "title": "A Saturday Without Magic",
+          "zh": "沒有魔法的星期六",
+          "number": 18,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "saturday-time-shop-19",
+          "title": "The Wrong Hour",
+          "zh": "錯誤的一小時",
+          "number": 19,
+          "available": true,
+          "wordCount": 773
+        },
+        {
+          "id": "saturday-time-shop-20",
+          "title": "The Longest Short Day",
+          "zh": "最長的短日子",
+          "number": 20,
+          "available": true,
+          "wordCount": 781
+        },
+        {
+          "id": "saturday-time-shop-21",
+          "title": "A New Sign",
+          "zh": "新的招牌",
+          "number": 21,
+          "available": true,
+          "wordCount": 806
+        },
+        {
+          "id": "saturday-time-shop-22",
+          "title": "The Quiet Customer",
+          "zh": "安靜的客人",
+          "number": 22,
+          "available": true,
+          "wordCount": 786
+        },
+        {
+          "id": "saturday-time-shop-23",
+          "title": "The Door at Six",
+          "zh": "六點的店門",
+          "number": 23,
+          "available": true,
+          "wordCount": 806
+        },
+        {
+          "id": "saturday-time-shop-24",
+          "title": "One Hour Together",
+          "zh": "一起的一小時",
+          "number": 24,
+          "available": true,
+          "wordCount": 792
+        },
+        {
+          "id": "saturday-time-shop-25",
+          "title": "The Final Receipt",
+          "zh": "最後一張收據",
+          "number": 25,
+          "available": true,
+          "wordCount": 805
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 1,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/saturday-time-shop-8c419fa49045.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "missing-trophy",
+      "title": "The Small-Town Detectives and the Missing Trophy",
+      "zh": "小鎮偵探與消失的冠軍獎盃",
+      "level": "1000以下",
+      "vocabularyRange": "A",
+      "genre": "校園偵探推理",
+      "tags": [
+        "新作",
+        "校園偵探推理"
+      ],
+      "desc": "冠軍獎盃不翼而飛，展示櫃只剩下一枚不起眼的線索。",
+      "hook": "冠軍獎盃不翼而飛，展示櫃只剩下一枚不起眼的線索。",
+      "color": "#573d30",
+      "cover": "./covers/missing-trophy.webp",
+      "chapters": [
+        {
+          "id": "missing-trophy-1",
+          "title": "The Empty Glass Case",
+          "zh": "空空的玻璃櫃",
+          "number": 1,
+          "available": true,
+          "wordCount": 801
+        },
+        {
+          "id": "missing-trophy-2",
+          "title": "The Last Photograph",
+          "zh": "最後的照片",
+          "number": 2,
+          "available": true,
+          "wordCount": 791
+        },
+        {
+          "id": "missing-trophy-3",
+          "title": "A Yellow Mark",
+          "zh": "黃色痕跡",
+          "number": 3,
+          "available": true,
+          "wordCount": 796
+        },
+        {
+          "id": "missing-trophy-4",
+          "title": "The Door Log",
+          "zh": "門口紀錄",
+          "number": 4,
+          "available": true,
+          "wordCount": 798
+        },
+        {
+          "id": "missing-trophy-5",
+          "title": "The Missing Screw",
+          "zh": "遺失的螺絲",
+          "number": 5,
+          "available": true,
+          "wordCount": 768
+        },
+        {
+          "id": "missing-trophy-6",
+          "title": "The Drama Room",
+          "zh": "戲劇教室",
+          "number": 6,
+          "available": true,
+          "wordCount": 784
+        },
+        {
+          "id": "missing-trophy-7",
+          "title": "The Trophy's History",
+          "zh": "獎盃的故事",
+          "number": 7,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "missing-trophy-8",
+          "title": "The Locked Cupboard",
+          "zh": "上鎖的櫃子",
+          "number": 8,
+          "available": true,
+          "wordCount": 799
+        },
+        {
+          "id": "missing-trophy-9",
+          "title": "The Wrong Rumor",
+          "zh": "錯誤的流言",
+          "number": 9,
+          "available": true,
+          "wordCount": 782
+        },
+        {
+          "id": "missing-trophy-10",
+          "title": "A Piece of Tape",
+          "zh": "一截膠帶",
+          "number": 10,
+          "available": true,
+          "wordCount": 772
+        },
+        {
+          "id": "missing-trophy-11",
+          "title": "Eli's Answer",
+          "zh": "艾里的回答",
+          "number": 11,
+          "available": true,
+          "wordCount": 779
+        },
+        {
+          "id": "missing-trophy-12",
+          "title": "A Rainy Afternoon",
+          "zh": "下雨的下午",
+          "number": 12,
+          "available": true,
+          "wordCount": 782
+        },
+        {
+          "id": "missing-trophy-13",
+          "title": "The School Map",
+          "zh": "校園地圖",
+          "number": 13,
+          "available": true,
+          "wordCount": 792
+        },
+        {
+          "id": "missing-trophy-14",
+          "title": "The Padded Box",
+          "zh": "軟墊盒",
+          "number": 14,
+          "available": true,
+          "wordCount": 798
+        },
+        {
+          "id": "missing-trophy-15",
+          "title": "A Small Confession",
+          "zh": "小小的坦白",
+          "number": 15,
+          "available": true,
+          "wordCount": 772
+        },
+        {
+          "id": "missing-trophy-16",
+          "title": "The Hidden Shelf",
+          "zh": "藏在高架上",
+          "number": 16,
+          "available": true,
+          "wordCount": 788
+        },
+        {
+          "id": "missing-trophy-17",
+          "title": "Not a Heroic Theft",
+          "zh": "不值得稱讚的偷拿",
+          "number": 17,
+          "available": true,
+          "wordCount": 786
+        },
+        {
+          "id": "missing-trophy-18",
+          "title": "The Repair Table",
+          "zh": "修理桌",
+          "number": 18,
+          "available": true,
+          "wordCount": 776
+        },
+        {
+          "id": "missing-trophy-19",
+          "title": "A Fair Meeting",
+          "zh": "公平的會議",
+          "number": 19,
+          "available": true,
+          "wordCount": 785
+        },
+        {
+          "id": "missing-trophy-20",
+          "title": "The Missing Label",
+          "zh": "遺失的標籤",
+          "number": 20,
+          "available": true,
+          "wordCount": 779
+        },
+        {
+          "id": "missing-trophy-21",
+          "title": "The Trophy Returns",
+          "zh": "獎盃歸來",
+          "number": 21,
+          "available": true,
+          "wordCount": 780
+        },
+        {
+          "id": "missing-trophy-22",
+          "title": "One More Question",
+          "zh": "還有一個問題",
+          "number": 22,
+          "available": true,
+          "wordCount": 789
+        },
+        {
+          "id": "missing-trophy-23",
+          "title": "The First Open Day",
+          "zh": "第一個開放日",
+          "number": 23,
+          "available": true,
+          "wordCount": 789
+        },
+        {
+          "id": "missing-trophy-24",
+          "title": "Three Notebooks",
+          "zh": "三本筆記",
+          "number": 24,
+          "available": true,
+          "wordCount": 785
+        },
+        {
+          "id": "missing-trophy-25",
+          "title": "The Real Winners",
+          "zh": "真正的贏家",
+          "number": 25,
+          "available": true,
+          "wordCount": 813
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 1,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/missing-trophy-8b7aed1b7642.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "idol-desk-partner",
+      "title": "My Desk Partner Is an Idol Trainee",
+      "zh": "我的同桌是偶像練習生",
+      "level": "1000以下",
+      "vocabularyRange": "B",
+      "genre": "成年校園戀愛",
+      "tags": [
+        "新作",
+        "成年校園戀愛"
+      ],
+      "desc": "白天趴在同桌睡覺的男生，竟是夜裡擁有百萬粉絲的歌手。",
+      "hook": "白天趴在同桌睡覺的男生，竟是夜裡擁有百萬粉絲的歌手。",
+      "color": "#5b385e",
+      "cover": "./covers/idol-desk-partner.webp",
+      "chapters": [
+        {
+          "id": "idol-desk-partner-1",
+          "title": "The Boy Who Slept at Noon",
+          "zh": "午睡的同桌",
+          "number": 1,
+          "available": true,
+          "wordCount": 635
+        },
+        {
+          "id": "idol-desk-partner-2",
+          "title": "The Third Desk Agreement",
+          "zh": "第三張桌子的約定",
+          "number": 2,
+          "available": true,
+          "wordCount": 615
+        },
+        {
+          "id": "idol-desk-partner-3",
+          "title": "An Email at Eight Fifteen",
+          "zh": "八點十五分的郵件",
+          "number": 3,
+          "available": true,
+          "wordCount": 622
+        },
+        {
+          "id": "idol-desk-partner-4",
+          "title": "A Quiet Room in the East Wing",
+          "zh": "東翼的安靜房間",
+          "number": 4,
+          "available": true,
+          "wordCount": 644
+        },
+        {
+          "id": "idol-desk-partner-5",
+          "title": "The Yellow String in the Film",
+          "zh": "電影裡的黃線",
+          "number": 5,
+          "available": true,
+          "wordCount": 642
+        },
+        {
+          "id": "idol-desk-partner-6",
+          "title": "The Seat Beside the Door",
+          "zh": "門邊的位置",
+          "number": 6,
+          "available": true,
+          "wordCount": 639
+        },
+        {
+          "id": "idol-desk-partner-7",
+          "title": "A List of Things That Matter",
+          "zh": "重要事情的清單",
+          "number": 7,
+          "available": true,
+          "wordCount": 626
+        },
+        {
+          "id": "idol-desk-partner-8",
+          "title": "The File That Did Not Belong Online",
+          "zh": "不該上網的檔案",
+          "number": 8,
+          "available": true,
+          "wordCount": 647
+        },
+        {
+          "id": "idol-desk-partner-9",
+          "title": "Whose Picture Was It?",
+          "zh": "那是誰的照片？",
+          "number": 9,
+          "available": true,
+          "wordCount": 637
+        },
+        {
+          "id": "idol-desk-partner-10",
+          "title": "One Button, Two Answers",
+          "zh": "一顆按鈕，兩種回答",
+          "number": 10,
+          "available": true,
+          "wordCount": 644
+        },
+        {
+          "id": "idol-desk-partner-11",
+          "title": "The White Kite on the Screen",
+          "zh": "畫面上的白風箏",
+          "number": 11,
+          "available": true,
+          "wordCount": 643
+        },
+        {
+          "id": "idol-desk-partner-12",
+          "title": "A Ticket Without a Name",
+          "zh": "沒有名字的門票",
+          "number": 12,
+          "available": true,
+          "wordCount": 652
+        },
+        {
+          "id": "idol-desk-partner-13",
+          "title": "Rain on the Wide Stairs",
+          "zh": "寬樓梯上的雨",
+          "number": 13,
+          "available": true,
+          "wordCount": 659
+        },
+        {
+          "id": "idol-desk-partner-14",
+          "title": "The Honest Answer in a Small Room",
+          "zh": "小房間裡的真話",
+          "number": 14,
+          "available": true,
+          "wordCount": 644
+        },
+        {
+          "id": "idol-desk-partner-15",
+          "title": "A Chance to Choose",
+          "zh": "自己選擇的機會",
+          "number": 15,
+          "available": true,
+          "wordCount": 650
+        },
+        {
+          "id": "idol-desk-partner-16",
+          "title": "Pink Light on a Gray Morning",
+          "zh": "灰色早晨的粉色光",
+          "number": 16,
+          "available": true,
+          "wordCount": 671
+        },
+        {
+          "id": "idol-desk-partner-17",
+          "title": "The Circle of Names",
+          "zh": "名字圍成的圓圈",
+          "number": 17,
+          "available": true,
+          "wordCount": 623
+        },
+        {
+          "id": "idol-desk-partner-18",
+          "title": "The Case of the Missing Sound",
+          "zh": "消失的聲音檔案",
+          "number": 18,
+          "available": true,
+          "wordCount": 638
+        },
+        {
+          "id": "idol-desk-partner-19",
+          "title": "The Song That Wasn't Loud",
+          "zh": "不必大聲的歌",
+          "number": 19,
+          "available": true,
+          "wordCount": 640
+        },
+        {
+          "id": "idol-desk-partner-20",
+          "title": "A Million Eyes and One Question",
+          "zh": "百萬雙眼與一個問題",
+          "number": 20,
+          "available": true,
+          "wordCount": 631
+        },
+        {
+          "id": "idol-desk-partner-21",
+          "title": "The Club Meeting Before the Show",
+          "zh": "影展前的社團會議",
+          "number": 21,
+          "available": true,
+          "wordCount": 637
+        },
+        {
+          "id": "idol-desk-partner-22",
+          "title": "The Price of a Quiet Screen",
+          "zh": "安靜螢幕的代價",
+          "number": 22,
+          "available": true,
+          "wordCount": 640
+        },
+        {
+          "id": "idol-desk-partner-23",
+          "title": "The Mark on the Ticket",
+          "zh": "票上的小記號",
+          "number": 23,
+          "available": true,
+          "wordCount": 645
+        },
+        {
+          "id": "idol-desk-partner-24",
+          "title": "The Film on the Hill",
+          "zh": "山坡上的電影",
+          "number": 24,
+          "available": true,
+          "wordCount": 637
+        },
+        {
+          "id": "idol-desk-partner-25",
+          "title": "Two Names, One New Beginning",
+          "zh": "兩個名字，一個新開始",
+          "number": 25,
+          "available": true,
+          "wordCount": 652
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 1,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/idol-desk-partner-9e3636d3619e.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "secret-cat-cafe",
+      "title": "The Secret Guest at the Cat Cafe",
+      "zh": "貓咪咖啡館的祕密客人",
+      "level": "1000以下",
+      "vocabularyRange": "B",
+      "genre": "溫暖動物喜劇",
+      "tags": [
+        "新作",
+        "溫暖動物喜劇"
+      ],
+      "desc": "一隻只在雨天上門的貓，叼來一張足以解開多年誤會的留言卡。",
+      "hook": "一隻只在雨天上門的貓，叼來一張足以解開多年誤會的留言卡。",
+      "color": "#5a3f40",
+      "cover": "./covers/secret-cat-cafe.webp",
+      "chapters": [
+        {
+          "id": "secret-cat-cafe-1",
+          "title": "The Rainy Visitor",
+          "zh": "下雨天的訪客",
+          "number": 1,
+          "available": true,
+          "wordCount": 801
+        },
+        {
+          "id": "secret-cat-cafe-2",
+          "title": "A Note for Table Three",
+          "zh": "給三號桌的紙條",
+          "number": 2,
+          "available": true,
+          "wordCount": 805
+        },
+        {
+          "id": "secret-cat-cafe-3",
+          "title": "The Door on the Rain Map",
+          "zh": "雨天地圖上的門",
+          "number": 3,
+          "available": true,
+          "wordCount": 793
+        },
+        {
+          "id": "secret-cat-cafe-4",
+          "title": "No Letter for Everyone",
+          "zh": "不是每個人都收信",
+          "number": 4,
+          "available": true,
+          "wordCount": 775
+        },
+        {
+          "id": "secret-cat-cafe-5",
+          "title": "A Ribbon from the Library",
+          "zh": "圖書館的絲帶",
+          "number": 5,
+          "available": true,
+          "wordCount": 773
+        },
+        {
+          "id": "secret-cat-cafe-6",
+          "title": "The Empty Chair",
+          "zh": "空著的椅子",
+          "number": 6,
+          "available": true,
+          "wordCount": 789
+        },
+        {
+          "id": "secret-cat-cafe-7",
+          "title": "The Cat's Short Walk",
+          "zh": "貓咪的短路線",
+          "number": 7,
+          "available": true,
+          "wordCount": 764
+        },
+        {
+          "id": "secret-cat-cafe-8",
+          "title": "The Pancake Disaster",
+          "zh": "鬆餅小災難",
+          "number": 8,
+          "available": true,
+          "wordCount": 794
+        },
+        {
+          "id": "secret-cat-cafe-9",
+          "title": "The Picture in the Drawer",
+          "zh": "抽屜裡的照片",
+          "number": 9,
+          "available": true,
+          "wordCount": 787
+        },
+        {
+          "id": "secret-cat-cafe-10",
+          "title": "The Wrong Address",
+          "zh": "錯誤的地址",
+          "number": 10,
+          "available": true,
+          "wordCount": 752
+        },
+        {
+          "id": "secret-cat-cafe-11",
+          "title": "A Wet Umbrella",
+          "zh": "濕答答的傘",
+          "number": 11,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "secret-cat-cafe-12",
+          "title": "The Visitor in Green",
+          "zh": "穿綠衣的訪客",
+          "number": 12,
+          "available": true,
+          "wordCount": 773
+        },
+        {
+          "id": "secret-cat-cafe-13",
+          "title": "A Cake Without a Recipe",
+          "zh": "沒有食譜的蛋糕",
+          "number": 13,
+          "available": true,
+          "wordCount": 784
+        },
+        {
+          "id": "secret-cat-cafe-14",
+          "title": "The Message Rule",
+          "zh": "留言規則",
+          "number": 14,
+          "available": true,
+          "wordCount": 803
+        },
+        {
+          "id": "secret-cat-cafe-15",
+          "title": "The First Clear Day",
+          "zh": "第一個晴天",
+          "number": 15,
+          "available": true,
+          "wordCount": 763
+        },
+        {
+          "id": "secret-cat-cafe-16",
+          "title": "The Quiet Table",
+          "zh": "安靜的桌子",
+          "number": 16,
+          "available": true,
+          "wordCount": 771
+        },
+        {
+          "id": "secret-cat-cafe-17",
+          "title": "The Cat's Choice",
+          "zh": "貓咪自己的選擇",
+          "number": 17,
+          "available": true,
+          "wordCount": 775
+        },
+        {
+          "id": "secret-cat-cafe-18",
+          "title": "The Two Receipts",
+          "zh": "兩張收據",
+          "number": 18,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "secret-cat-cafe-19",
+          "title": "A Birthday Message",
+          "zh": "生日留言",
+          "number": 19,
+          "available": true,
+          "wordCount": 788
+        },
+        {
+          "id": "secret-cat-cafe-20",
+          "title": "The Kitchen Window",
+          "zh": "廚房的窗戶",
+          "number": 20,
+          "available": true,
+          "wordCount": 777
+        },
+        {
+          "id": "secret-cat-cafe-21",
+          "title": "The Shelf's New Name",
+          "zh": "留言架的新名字",
+          "number": 21,
+          "available": true,
+          "wordCount": 781
+        },
+        {
+          "id": "secret-cat-cafe-22",
+          "title": "A Cat on the Menu",
+          "zh": "菜單上的貓",
+          "number": 22,
+          "available": true,
+          "wordCount": 770
+        },
+        {
+          "id": "secret-cat-cafe-23",
+          "title": "The Rainy Open House",
+          "zh": "雨天開放日",
+          "number": 23,
+          "available": true,
+          "wordCount": 797
+        },
+        {
+          "id": "secret-cat-cafe-24",
+          "title": "Two Sisters and a Cat",
+          "zh": "兩姊妹和一隻貓",
+          "number": 24,
+          "available": true,
+          "wordCount": 781
+        },
+        {
+          "id": "secret-cat-cafe-25",
+          "title": "The Secret Was Simple",
+          "zh": "原來祕密很簡單",
+          "number": 25,
+          "available": true,
+          "wordCount": 795
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 1,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/secret-cat-cafe-be61d9b16b65.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "class-chat-stranger",
+      "title": "The Stranger in Our Class Chat",
+      "zh": "班級群組裡的陌生人",
+      "level": "1000以下",
+      "vocabularyRange": "B",
+      "genre": "校園懸疑",
+      "tags": [
+        "新作",
+        "校園懸疑"
+      ],
+      "desc": "只有三十個人的班級群組，昨天出現了第三十一個學生。",
+      "hook": "只有三十個人的班級群組，昨天出現了第三十一個學生。",
+      "color": "#253e5e",
+      "cover": "./covers/class-chat-stranger.webp",
+      "chapters": [
+        {
+          "id": "class-chat-stranger-1",
+          "title": "Student Thirty-One",
+          "zh": "第三十一名學生",
+          "number": 1,
+          "available": true,
+          "wordCount": 797
+        },
+        {
+          "id": "class-chat-stranger-2",
+          "title": "The First Secret",
+          "zh": "第一個祕密",
+          "number": 2,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "class-chat-stranger-3",
+          "title": "A Message at Midnight",
+          "zh": "午夜訊息",
+          "number": 3,
+          "available": true,
+          "wordCount": 789
+        },
+        {
+          "id": "class-chat-stranger-4",
+          "title": "The Rumor List",
+          "zh": "流言清單",
+          "number": 4,
+          "available": true,
+          "wordCount": 771
+        },
+        {
+          "id": "class-chat-stranger-5",
+          "title": "The Old Survey",
+          "zh": "舊問卷",
+          "number": 5,
+          "available": true,
+          "wordCount": 781
+        },
+        {
+          "id": "class-chat-stranger-6",
+          "title": "The False Clue",
+          "zh": "假的線索",
+          "number": 6,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "class-chat-stranger-7",
+          "title": "The Quiet Lunch",
+          "zh": "安靜的午餐",
+          "number": 7,
+          "available": true,
+          "wordCount": 760
+        },
+        {
+          "id": "class-chat-stranger-8",
+          "title": "A Name That Isn't There",
+          "zh": "不存在的名字",
+          "number": 8,
+          "available": true,
+          "wordCount": 804
+        },
+        {
+          "id": "class-chat-stranger-9",
+          "title": "The Hidden Folder",
+          "zh": "被藏的資料夾",
+          "number": 9,
+          "available": true,
+          "wordCount": 781
+        },
+        {
+          "id": "class-chat-stranger-10",
+          "title": "The Second Warning",
+          "zh": "第二次警告",
+          "number": 10,
+          "available": true,
+          "wordCount": 758
+        },
+        {
+          "id": "class-chat-stranger-11",
+          "title": "An Empty Desk",
+          "zh": "空著的課桌",
+          "number": 11,
+          "available": true,
+          "wordCount": 797
+        },
+        {
+          "id": "class-chat-stranger-12",
+          "title": "The Art Club File",
+          "zh": "美術社檔案",
+          "number": 12,
+          "available": true,
+          "wordCount": 765
+        },
+        {
+          "id": "class-chat-stranger-13",
+          "title": "The Account Log",
+          "zh": "帳號紀錄",
+          "number": 13,
+          "available": true,
+          "wordCount": 789
+        },
+        {
+          "id": "class-chat-stranger-14",
+          "title": "A Teacher's Apology",
+          "zh": "老師的道歉",
+          "number": 14,
+          "available": true,
+          "wordCount": 800
+        },
+        {
+          "id": "class-chat-stranger-15",
+          "title": "The One Who Left Early",
+          "zh": "提早離席的人",
+          "number": 15,
+          "available": true,
+          "wordCount": 769
+        },
+        {
+          "id": "class-chat-stranger-16",
+          "title": "A Hard Conversation",
+          "zh": "困難的談話",
+          "number": 16,
+          "available": true,
+          "wordCount": 781
+        },
+        {
+          "id": "class-chat-stranger-17",
+          "title": "The Real Harm",
+          "zh": "真正的傷害",
+          "number": 17,
+          "available": true,
+          "wordCount": 774
+        },
+        {
+          "id": "class-chat-stranger-18",
+          "title": "Not a Ghost Story",
+          "zh": "不是鬼故事",
+          "number": 18,
+          "available": true,
+          "wordCount": 785
+        },
+        {
+          "id": "class-chat-stranger-19",
+          "title": "The New Exhibition",
+          "zh": "新的回憶展",
+          "number": 19,
+          "available": true,
+          "wordCount": 776
+        },
+        {
+          "id": "class-chat-stranger-20",
+          "title": "The Apology Letter",
+          "zh": "道歉信",
+          "number": 20,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "class-chat-stranger-21",
+          "title": "The Open Box",
+          "zh": "打開的盒子",
+          "number": 21,
+          "available": true,
+          "wordCount": 774
+        },
+        {
+          "id": "class-chat-stranger-22",
+          "title": "The Day of the Exhibition",
+          "zh": "展覽當天",
+          "number": 22,
+          "available": true,
+          "wordCount": 769
+        },
+        {
+          "id": "class-chat-stranger-23",
+          "title": "A Safer Group",
+          "zh": "更安全的群組",
+          "number": 23,
+          "available": true,
+          "wordCount": 792
+        },
+        {
+          "id": "class-chat-stranger-24",
+          "title": "Thirty Names",
+          "zh": "三十個名字",
+          "number": 24,
+          "available": true,
+          "wordCount": 772
+        },
+        {
+          "id": "class-chat-stranger-25",
+          "title": "The Message We Choose",
+          "zh": "自己選擇的訊息",
+          "number": 25,
+          "available": true,
+          "wordCount": 795
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 1,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/class-chat-stranger-27201db45969.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "wrong-message",
+      "title": "My First Flutter Began with a Wrong Message",
+      "zh": "第一次心動，是一則傳錯的訊息",
+      "level": "1000以下",
+      "vocabularyRange": "B",
+      "genre": "青春戀愛",
+      "tags": [
+        "新作",
+        "青春戀愛"
+      ],
+      "desc": "一則傳錯名字的訊息，拉近了兩個原本不熟的人。",
+      "hook": "一則傳錯名字的訊息，拉近了兩個原本不熟的人。",
+      "color": "#65384d",
+      "cover": "./covers/wrong-message.webp",
+      "chapters": [
+        {
+          "id": "wrong-message-1",
+          "title": "The Wrong Name",
+          "zh": "傳錯的名字",
+          "number": 1,
+          "available": true,
+          "wordCount": 800
+        },
+        {
+          "id": "wrong-message-2",
+          "title": "The Morning After",
+          "zh": "隔天早晨",
+          "number": 2,
+          "available": true,
+          "wordCount": 788
+        },
+        {
+          "id": "wrong-message-3",
+          "title": "A Second Message",
+          "zh": "第二則訊息",
+          "number": 3,
+          "available": true,
+          "wordCount": 772
+        },
+        {
+          "id": "wrong-message-4",
+          "title": "The Book With Two Endings",
+          "zh": "有兩種結局的書",
+          "number": 4,
+          "available": true,
+          "wordCount": 771
+        },
+        {
+          "id": "wrong-message-5",
+          "title": "The Original Crush",
+          "zh": "原本喜歡的人",
+          "number": 5,
+          "available": true,
+          "wordCount": 772
+        },
+        {
+          "id": "wrong-message-6",
+          "title": "The Paper Lanterns",
+          "zh": "紙燈籠",
+          "number": 6,
+          "available": true,
+          "wordCount": 778
+        },
+        {
+          "id": "wrong-message-7",
+          "title": "The Group Photograph",
+          "zh": "團體合照",
+          "number": 7,
+          "available": true,
+          "wordCount": 756
+        },
+        {
+          "id": "wrong-message-8",
+          "title": "A Quiet Walk",
+          "zh": "安靜的散步",
+          "number": 8,
+          "available": true,
+          "wordCount": 802
+        },
+        {
+          "id": "wrong-message-9",
+          "title": "The Lost Bookmark",
+          "zh": "遺失的書籤",
+          "number": 9,
+          "available": true,
+          "wordCount": 770
+        },
+        {
+          "id": "wrong-message-10",
+          "title": "An Unsent Reply",
+          "zh": "未送出的回覆",
+          "number": 10,
+          "available": true,
+          "wordCount": 764
+        },
+        {
+          "id": "wrong-message-11",
+          "title": "The Reading Night",
+          "zh": "閱讀之夜",
+          "number": 11,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "wrong-message-12",
+          "title": "A Message from Ethan",
+          "zh": "伊森的訊息",
+          "number": 12,
+          "available": true,
+          "wordCount": 756
+        },
+        {
+          "id": "wrong-message-13",
+          "title": "The Honest Question",
+          "zh": "坦白的問題",
+          "number": 13,
+          "available": true,
+          "wordCount": 784
+        },
+        {
+          "id": "wrong-message-14",
+          "title": "The Art Fair",
+          "zh": "藝術市集",
+          "number": 14,
+          "available": true,
+          "wordCount": 788
+        },
+        {
+          "id": "wrong-message-15",
+          "title": "A Rainy Bus Stop",
+          "zh": "下雨的公車站",
+          "number": 15,
+          "available": true,
+          "wordCount": 759
+        },
+        {
+          "id": "wrong-message-16",
+          "title": "The Friend's Advice",
+          "zh": "朋友的建議",
+          "number": 16,
+          "available": true,
+          "wordCount": 772
+        },
+        {
+          "id": "wrong-message-17",
+          "title": "The Bookstore Offer",
+          "zh": "書店的邀請",
+          "number": 17,
+          "available": true,
+          "wordCount": 762
+        },
+        {
+          "id": "wrong-message-18",
+          "title": "The Almost Confession",
+          "zh": "差點說出口",
+          "number": 18,
+          "available": true,
+          "wordCount": 780
+        },
+        {
+          "id": "wrong-message-19",
+          "title": "The Sunday Walk",
+          "zh": "星期日散步",
+          "number": 19,
+          "available": true,
+          "wordCount": 775
+        },
+        {
+          "id": "wrong-message-20",
+          "title": "Our First Date",
+          "zh": "第一次約會",
+          "number": 20,
+          "available": true,
+          "wordCount": 770
+        },
+        {
+          "id": "wrong-message-21",
+          "title": "The Wrong Screenshot",
+          "zh": "錯誤截圖",
+          "number": 21,
+          "available": true,
+          "wordCount": 766
+        },
+        {
+          "id": "wrong-message-22",
+          "title": "Not a Perfect Pair",
+          "zh": "不是完美的一對",
+          "number": 22,
+          "available": true,
+          "wordCount": 764
+        },
+        {
+          "id": "wrong-message-23",
+          "title": "A Message That Arrives",
+          "zh": "這次送達的訊息",
+          "number": 23,
+          "available": true,
+          "wordCount": 790
+        },
+        {
+          "id": "wrong-message-24",
+          "title": "The Right Words",
+          "zh": "正確的話",
+          "number": 24,
+          "available": true,
+          "wordCount": 773
+        },
+        {
+          "id": "wrong-message-25",
+          "title": "The Beginning We Choose",
+          "zh": "自己選擇的開始",
+          "number": 25,
+          "available": true,
+          "wordCount": 791
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 1,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/wrong-message-c4e27e306cff.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "island-fifth-signal",
+      "title": "The Fifth Signal from the Island",
+      "zh": "無人島的第五道求救訊號",
+      "level": "1000–2000",
+      "vocabularyRange": "A",
+      "genre": "野外冒險救援",
+      "tags": [
+        "新作",
+        "野外冒險救援"
+      ],
+      "desc": "受困無人島的五個人，發現第五道訊號似乎也在向他們求救。",
+      "hook": "受困無人島的五個人，發現第五道訊號似乎也在向他們求救。",
+      "color": "#23556b",
+      "cover": "./covers/island-fifth-signal.webp",
+      "chapters": [
+        {
+          "id": "island-fifth-signal-1",
+          "title": "Five on the Beach",
+          "zh": "海灘上的五個人",
+          "number": 1,
+          "available": true,
+          "wordCount": 848
+        },
+        {
+          "id": "island-fifth-signal-2",
+          "title": "What We Still Have",
+          "zh": "清點剩下的物資",
+          "number": 2,
+          "available": true,
+          "wordCount": 838
+        },
+        {
+          "id": "island-fifth-signal-3",
+          "title": "The Hill Above the Tide",
+          "zh": "潮線上方的山坡",
+          "number": 3,
+          "available": true,
+          "wordCount": 847
+        },
+        {
+          "id": "island-fifth-signal-4",
+          "title": "Rain Is Not Yet Water",
+          "zh": "雨不等於飲用水",
+          "number": 4,
+          "available": true,
+          "wordCount": 842
+        },
+        {
+          "id": "island-fifth-signal-5",
+          "title": "A Signal Nobody Saw",
+          "zh": "沒人看見的訊號",
+          "number": 5,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "island-fifth-signal-6",
+          "title": "The Fair Share",
+          "zh": "公平的一份",
+          "number": 6,
+          "available": true,
+          "wordCount": 851
+        },
+        {
+          "id": "island-fifth-signal-7",
+          "title": "The Shelter Moves",
+          "zh": "搬家的避難棚",
+          "number": 7,
+          "available": true,
+          "wordCount": 841
+        },
+        {
+          "id": "island-fifth-signal-8",
+          "title": "Smoke in the Wrong Wind",
+          "zh": "逆風而去的煙",
+          "number": 8,
+          "available": true,
+          "wordCount": 841
+        },
+        {
+          "id": "island-fifth-signal-9",
+          "title": "Food Without Guessing",
+          "zh": "不亂猜的食物",
+          "number": 9,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "island-fifth-signal-10",
+          "title": "Mina Cannot Run",
+          "zh": "米娜不能奔跑",
+          "number": 10,
+          "available": true,
+          "wordCount": 837
+        },
+        {
+          "id": "island-fifth-signal-11",
+          "title": "Marks on the Cave Wall",
+          "zh": "洞壁上的記號",
+          "number": 11,
+          "available": true,
+          "wordCount": 842
+        },
+        {
+          "id": "island-fifth-signal-12",
+          "title": "The Broken Solar Board",
+          "zh": "壞掉的太陽能板",
+          "number": 12,
+          "available": true,
+          "wordCount": 856
+        },
+        {
+          "id": "island-fifth-signal-13",
+          "title": "One Battery for Everyone",
+          "zh": "全隊共用的一顆電池",
+          "number": 13,
+          "available": true,
+          "wordCount": 842
+        },
+        {
+          "id": "island-fifth-signal-14",
+          "title": "A Light Beyond the Reef",
+          "zh": "礁石外的一點光",
+          "number": 14,
+          "available": true,
+          "wordCount": 838
+        },
+        {
+          "id": "island-fifth-signal-15",
+          "title": "The Boat We Will Not Build",
+          "zh": "決定不造的船",
+          "number": 15,
+          "available": true,
+          "wordCount": 835
+        },
+        {
+          "id": "island-fifth-signal-16",
+          "title": "The Hidden Bottle",
+          "zh": "藏起來的水瓶",
+          "number": 16,
+          "available": true,
+          "wordCount": 853
+        },
+        {
+          "id": "island-fifth-signal-17",
+          "title": "Three Short Flashes",
+          "zh": "三次短閃光",
+          "number": 17,
+          "available": true,
+          "wordCount": 838
+        },
+        {
+          "id": "island-fifth-signal-18",
+          "title": "The Map Turns East",
+          "zh": "地圖轉向東方",
+          "number": 18,
+          "available": true,
+          "wordCount": 835
+        },
+        {
+          "id": "island-fifth-signal-19",
+          "title": "No Race Against the Sea",
+          "zh": "不跟海浪比賽",
+          "number": 19,
+          "available": true,
+          "wordCount": 834
+        },
+        {
+          "id": "island-fifth-signal-20",
+          "title": "A Call Without an Answer",
+          "zh": "沒有回音的呼叫",
+          "number": 20,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "island-fifth-signal-21",
+          "title": "The Second Storm",
+          "zh": "第二次風暴",
+          "number": 21,
+          "available": true,
+          "wordCount": 847
+        },
+        {
+          "id": "island-fifth-signal-22",
+          "title": "A Landing Beach",
+          "zh": "可能靠岸的沙灘",
+          "number": 22,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "island-fifth-signal-23",
+          "title": "Orange Against Green",
+          "zh": "綠色背景上的橘布",
+          "number": 23,
+          "available": true,
+          "wordCount": 845
+        },
+        {
+          "id": "island-fifth-signal-24",
+          "title": "The Boat at the Edge",
+          "zh": "邊界處的救援船",
+          "number": 24,
+          "available": true,
+          "wordCount": 846
+        },
+        {
+          "id": "island-fifth-signal-25",
+          "title": "The Fifth Signal",
+          "zh": "第五道求救訊號",
+          "number": 25,
+          "available": true,
+          "wordCount": 859
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 2,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/island-fifth-signal-14631f82f55b.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "magic-convenience-store",
+      "title": "The Magic Convenience Store Is Open Today",
+      "zh": "魔法便利商店，今天正式營業",
+      "level": "1000–2000",
+      "vocabularyRange": "A",
+      "genre": "都市奇幻打工",
+      "tags": [
+        "新作",
+        "都市奇幻打工"
+      ],
+      "desc": "一間魔法便利商店開張，店員得學會處理生活裡各種奇怪的難題。",
+      "hook": "一間魔法便利商店開張，店員得學會處理生活裡各種奇怪的難題。",
+      "color": "#3a365e",
+      "cover": "./covers/magic-convenience-store.webp",
+      "chapters": [
+        {
+          "id": "magic-convenience-store-1",
+          "title": "Seven Bells at Six",
+          "zh": "六點的七聲鈴",
+          "number": 1,
+          "available": true,
+          "wordCount": 811
+        },
+        {
+          "id": "magic-convenience-store-2",
+          "title": "The Lantern that Tasted Sour",
+          "zh": "酸酸的燈籠",
+          "number": 2,
+          "available": true,
+          "wordCount": 817
+        },
+        {
+          "id": "magic-convenience-store-3",
+          "title": "A Lamb in the Alarm Box",
+          "zh": "警報箱裡的小羊",
+          "number": 3,
+          "available": true,
+          "wordCount": 853
+        },
+        {
+          "id": "magic-convenience-store-4",
+          "title": "The Papaya Bridge",
+          "zh": "木瓜橋上的晚餐",
+          "number": 4,
+          "available": true,
+          "wordCount": 829
+        },
+        {
+          "id": "magic-convenience-store-5",
+          "title": "Five Stars, One Cold Shelf",
+          "zh": "五顆星與第一座冷藏架",
+          "number": 5,
+          "available": true,
+          "wordCount": 872
+        },
+        {
+          "id": "magic-convenience-store-6",
+          "title": "A Visitor from the Prison Shore",
+          "zh": "來自牢島海岸的客人",
+          "number": 6,
+          "available": true,
+          "wordCount": 847
+        },
+        {
+          "id": "magic-convenience-store-7",
+          "title": "The Turtle Calendar",
+          "zh": "烏龜的日曆",
+          "number": 7,
+          "available": true,
+          "wordCount": 821
+        },
+        {
+          "id": "magic-convenience-store-8",
+          "title": "The Elder and the Mirror Peach",
+          "zh": "長者與鏡桃",
+          "number": 8,
+          "available": true,
+          "wordCount": 854
+        },
+        {
+          "id": "magic-convenience-store-9",
+          "title": "The Shark in the Tea Tube",
+          "zh": "茶管裡的鯊魚",
+          "number": 9,
+          "available": true,
+          "wordCount": 840
+        },
+        {
+          "id": "magic-convenience-store-10",
+          "title": "A Lamp for Every Language",
+          "zh": "聽得懂所有語言的燈",
+          "number": 10,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "magic-convenience-store-11",
+          "title": "A Golden Trap for a Beginner",
+          "zh": "新手與金色陷阱",
+          "number": 11,
+          "available": true,
+          "wordCount": 824
+        },
+        {
+          "id": "magic-convenience-store-12",
+          "title": "The Blank Receipt",
+          "zh": "空白收據",
+          "number": 12,
+          "available": true,
+          "wordCount": 848
+        },
+        {
+          "id": "magic-convenience-store-13",
+          "title": "A Stream Behind the Hill",
+          "zh": "山丘背後的小溪",
+          "number": 13,
+          "available": true,
+          "wordCount": 822
+        },
+        {
+          "id": "magic-convenience-store-14",
+          "title": "A Dragon at the Staircase",
+          "zh": "樓梯口的小龍",
+          "number": 14,
+          "available": true,
+          "wordCount": 841
+        },
+        {
+          "id": "magic-convenience-store-15",
+          "title": "The Delivery Window Opens",
+          "zh": "配送窗口開啟",
+          "number": 15,
+          "available": true,
+          "wordCount": 863
+        },
+        {
+          "id": "magic-convenience-store-16",
+          "title": "No Trash in the Stars",
+          "zh": "星空裡沒有垃圾",
+          "number": 16,
+          "available": true,
+          "wordCount": 842
+        },
+        {
+          "id": "magic-convenience-store-17",
+          "title": "The Wire Between Two Homes",
+          "zh": "連接兩個家的電線",
+          "number": 17,
+          "available": true,
+          "wordCount": 841
+        },
+        {
+          "id": "magic-convenience-store-18",
+          "title": "A Mirror Shows the Cost",
+          "zh": "鏡子照出真正的成本",
+          "number": 18,
+          "available": true,
+          "wordCount": 834
+        },
+        {
+          "id": "magic-convenience-store-19",
+          "title": "A Pupil Speaks at the Hall",
+          "zh": "大廳裡發言的學生",
+          "number": 19,
+          "available": true,
+          "wordCount": 827
+        },
+        {
+          "id": "magic-convenience-store-20",
+          "title": "The Last Safe Wheel",
+          "zh": "最後一只安全車輪",
+          "number": 20,
+          "available": true,
+          "wordCount": 861
+        },
+        {
+          "id": "magic-convenience-store-21",
+          "title": "The Keeper of the First Book",
+          "zh": "第一本帳冊的守護者",
+          "number": 21,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "magic-convenience-store-22",
+          "title": "A Rent Bill from Another World",
+          "zh": "異世界的租金帳單",
+          "number": 22,
+          "available": true,
+          "wordCount": 838
+        },
+        {
+          "id": "magic-convenience-store-23",
+          "title": "The Contract on the Playground",
+          "zh": "遊樂場上的契約",
+          "number": 23,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "magic-convenience-store-24",
+          "title": "Seven Signatures at Sunset",
+          "zh": "日落時的七個簽名",
+          "number": 24,
+          "available": true,
+          "wordCount": 848
+        },
+        {
+          "id": "magic-convenience-store-25",
+          "title": "Order Zero: The Shop Belongs to Everyone",
+          "zh": "零號訂單：商店屬於大家",
+          "number": 25,
+          "available": true,
+          "wordCount": 849
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 2,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/magic-convenience-store-731d6752d5c0.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "esports-rival",
+      "title": "My Worst Rival Is My Perfect Esports Partner!",
+      "zh": "死對頭竟然是我的電競搭檔",
+      "level": "1000–2000",
+      "vocabularyRange": "B",
+      "genre": "成年校園電競戀愛",
+      "tags": [
+        "新作",
+        "成年校園電競戀愛"
+      ],
+      "desc": "最常吵架的死對頭，可能就是線上那個跟自己最有默契的匿名搭檔。",
+      "hook": "最常吵架的死對頭，可能就是線上那個跟自己最有默契的匿名搭檔。",
+      "color": "#284469",
+      "cover": "./covers/esports-rival.webp",
+      "chapters": [
+        {
+          "id": "esports-rival-1",
+          "title": "The Seat by the Window",
+          "zh": "靠窗的座位",
+          "number": 1,
+          "available": true,
+          "wordCount": 638
+        },
+        {
+          "id": "esports-rival-2",
+          "title": "Two Names on One Screen",
+          "zh": "螢幕上的兩個名字",
+          "number": 2,
+          "available": true,
+          "wordCount": 640
+        },
+        {
+          "id": "esports-rival-3",
+          "title": "The First False Alarm",
+          "zh": "第一場假警報",
+          "number": 3,
+          "available": true,
+          "wordCount": 636
+        },
+        {
+          "id": "esports-rival-4",
+          "title": "Rules of the Room",
+          "zh": "教室的規則",
+          "number": 4,
+          "available": true,
+          "wordCount": 639
+        },
+        {
+          "id": "esports-rival-5",
+          "title": "The Practice Log",
+          "zh": "練習紀錄簿",
+          "number": 5,
+          "available": true,
+          "wordCount": 624
+        },
+        {
+          "id": "esports-rival-6",
+          "title": "Rain on the Bridge",
+          "zh": "橋上的雨",
+          "number": 6,
+          "available": true,
+          "wordCount": 635
+        },
+        {
+          "id": "esports-rival-7",
+          "title": "A Message After Midnight",
+          "zh": "午夜之後的訊息",
+          "number": 7,
+          "available": true,
+          "wordCount": 631
+        },
+        {
+          "id": "esports-rival-8",
+          "title": "The Road Map",
+          "zh": "對戰路線圖",
+          "number": 8,
+          "available": true,
+          "wordCount": 620
+        },
+        {
+          "id": "esports-rival-9",
+          "title": "One Missing Frame",
+          "zh": "少了一格影像",
+          "number": 9,
+          "available": true,
+          "wordCount": 622
+        },
+        {
+          "id": "esports-rival-10",
+          "title": "Second Chance Round",
+          "zh": "第二次機會",
+          "number": 10,
+          "available": true,
+          "wordCount": 642
+        },
+        {
+          "id": "esports-rival-11",
+          "title": "Fees and Favors",
+          "zh": "費用與人情",
+          "number": 11,
+          "available": true,
+          "wordCount": 632
+        },
+        {
+          "id": "esports-rival-12",
+          "title": "The Hidden Page",
+          "zh": "藏起來的一頁",
+          "number": 12,
+          "available": true,
+          "wordCount": 641
+        },
+        {
+          "id": "esports-rival-13",
+          "title": "The Purple Route",
+          "zh": "紫色路線",
+          "number": 13,
+          "available": true,
+          "wordCount": 639
+        },
+        {
+          "id": "esports-rival-14",
+          "title": "Masks and Evidence",
+          "zh": "面具與證據",
+          "number": 14,
+          "available": true,
+          "wordCount": 618
+        },
+        {
+          "id": "esports-rival-15",
+          "title": "Equal Lanes",
+          "zh": "公平的賽道",
+          "number": 15,
+          "available": true,
+          "wordCount": 634
+        },
+        {
+          "id": "esports-rival-16",
+          "title": "A Rare Drill",
+          "zh": "一場難得的演練",
+          "number": 16,
+          "available": true,
+          "wordCount": 633
+        },
+        {
+          "id": "esports-rival-17",
+          "title": "The Common Channel",
+          "zh": "共用頻道",
+          "number": 17,
+          "available": true,
+          "wordCount": 630
+        },
+        {
+          "id": "esports-rival-18",
+          "title": "The Wrong Switch",
+          "zh": "錯誤的開關",
+          "number": 18,
+          "available": true,
+          "wordCount": 629
+        },
+        {
+          "id": "esports-rival-19",
+          "title": "The Policy for Guests",
+          "zh": "給訪客的規則",
+          "number": 19,
+          "available": true,
+          "wordCount": 632
+        },
+        {
+          "id": "esports-rival-20",
+          "title": "The Thin Line",
+          "zh": "差一點就知道",
+          "number": 20,
+          "available": true,
+          "wordCount": 630
+        },
+        {
+          "id": "esports-rival-21",
+          "title": "Tickets to the Capital",
+          "zh": "前往首都的車票",
+          "number": 21,
+          "available": true,
+          "wordCount": 618
+        },
+        {
+          "id": "esports-rival-22",
+          "title": "The Final Door",
+          "zh": "決賽之門",
+          "number": 22,
+          "available": true,
+          "wordCount": 638
+        },
+        {
+          "id": "esports-rival-23",
+          "title": "Two Badges, One Team",
+          "zh": "兩張名牌，一支隊伍",
+          "number": 23,
+          "available": true,
+          "wordCount": 626
+        },
+        {
+          "id": "esports-rival-24",
+          "title": "The Last Match",
+          "zh": "最後一場比賽",
+          "number": 24,
+          "available": true,
+          "wordCount": 626
+        },
+        {
+          "id": "esports-rival-25",
+          "title": "After the Screen Goes Dark",
+          "zh": "螢幕熄滅之後",
+          "number": 25,
+          "available": true,
+          "wordCount": 625
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 2,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/esports-rival-5f03e23b02af.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "ten-years-ahead",
+      "title": "The Transfer Student from Ten Years Ahead",
+      "zh": "轉學生說他來自十年後",
+      "level": "1000–2000",
+      "vocabularyRange": "B",
+      "genre": "校園科幻戀愛",
+      "tags": [
+        "新作",
+        "校園科幻戀愛"
+      ],
+      "desc": "轉學生知道幾件還沒發生的校園事故，卻拒絕透露任何人的未來。",
+      "hook": "轉學生知道幾件還沒發生的校園事故，卻拒絕透露任何人的未來。",
+      "color": "#313b60",
+      "cover": "./covers/ten-years-ahead.webp",
+      "chapters": [
+        {
+          "id": "ten-years-ahead-1",
+          "title": "The Student with Tomorrow's Date",
+          "zh": "帶著明日日期的轉學生",
+          "number": 1,
+          "available": true,
+          "wordCount": 862
+        },
+        {
+          "id": "ten-years-ahead-2",
+          "title": "Two Minutes Before the Lights Go Out",
+          "zh": "熄燈前兩分鐘",
+          "number": 2,
+          "available": true,
+          "wordCount": 844
+        },
+        {
+          "id": "ten-years-ahead-3",
+          "title": "The Rule of the Notebook",
+          "zh": "筆記本的規則",
+          "number": 3,
+          "available": true,
+          "wordCount": 840
+        },
+        {
+          "id": "ten-years-ahead-4",
+          "title": "A Future Nobody Can Demand",
+          "zh": "無權索取的未來",
+          "number": 4,
+          "available": true,
+          "wordCount": 844
+        },
+        {
+          "id": "ten-years-ahead-5",
+          "title": "The Envelope from 2036",
+          "zh": "來自2036年的信封",
+          "number": 5,
+          "available": true,
+          "wordCount": 850
+        },
+        {
+          "id": "ten-years-ahead-6",
+          "title": "A Plaque with the Wrong Name",
+          "zh": "名字錯了的紀念牌",
+          "number": 6,
+          "available": true,
+          "wordCount": 851
+        },
+        {
+          "id": "ten-years-ahead-7",
+          "title": "When the Page Changes",
+          "zh": "頁面開始改變",
+          "number": 7,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "ten-years-ahead-8",
+          "title": "Proof Before Rumor",
+          "zh": "傳言之前先找證據",
+          "number": 8,
+          "available": true,
+          "wordCount": 845
+        },
+        {
+          "id": "ten-years-ahead-9",
+          "title": "The Warning Without a Name",
+          "zh": "沒有名字的警告",
+          "number": 9,
+          "available": true,
+          "wordCount": 850
+        },
+        {
+          "id": "ten-years-ahead-10",
+          "title": "An Accident That Does Not Happen",
+          "zh": "沒有發生的事故",
+          "number": 10,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "ten-years-ahead-11",
+          "title": "An Old Camera",
+          "zh": "老舊攝影機",
+          "number": 11,
+          "available": true,
+          "wordCount": 855
+        },
+        {
+          "id": "ten-years-ahead-12",
+          "title": "The Fire That Was Prevented",
+          "zh": "被阻止的火災",
+          "number": 12,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "ten-years-ahead-13",
+          "title": "The Missing Server Log",
+          "zh": "遺失的伺服器紀錄",
+          "number": 13,
+          "available": true,
+          "wordCount": 846
+        },
+        {
+          "id": "ten-years-ahead-14",
+          "title": "A Teacher Who Remembers",
+          "zh": "記得那件事的老師",
+          "number": 14,
+          "available": true,
+          "wordCount": 848
+        },
+        {
+          "id": "ten-years-ahead-15",
+          "title": "The Roof Vote",
+          "zh": "屋頂的表決",
+          "number": 15,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "ten-years-ahead-16",
+          "title": "Who Owns Tomorrow?",
+          "zh": "明天屬於誰",
+          "number": 16,
+          "available": true,
+          "wordCount": 855
+        },
+        {
+          "id": "ten-years-ahead-17",
+          "title": "The Question He Will Not Answer",
+          "zh": "他拒絕回答的問題",
+          "number": 17,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "ten-years-ahead-18",
+          "title": "The Price of Another Warning",
+          "zh": "另一則警告的代價",
+          "number": 18,
+          "available": true,
+          "wordCount": 851
+        },
+        {
+          "id": "ten-years-ahead-19",
+          "title": "The Clock That Cannot Turn Back",
+          "zh": "無法回頭的時鐘",
+          "number": 19,
+          "available": true,
+          "wordCount": 836
+        },
+        {
+          "id": "ten-years-ahead-20",
+          "title": "The Future Class Photo",
+          "zh": "未來的班級照",
+          "number": 20,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "ten-years-ahead-21",
+          "title": "The Truth About His Silence",
+          "zh": "關於沉默的真相",
+          "number": 21,
+          "available": true,
+          "wordCount": 860
+        },
+        {
+          "id": "ten-years-ahead-22",
+          "title": "Letters to Ten Years Later",
+          "zh": "寫給十年後的信",
+          "number": 22,
+          "available": true,
+          "wordCount": 855
+        },
+        {
+          "id": "ten-years-ahead-23",
+          "title": "A Roof Ready for Rain",
+          "zh": "能迎接雨季的屋頂",
+          "number": 23,
+          "available": true,
+          "wordCount": 845
+        },
+        {
+          "id": "ten-years-ahead-24",
+          "title": "No Last Prediction",
+          "zh": "沒有最後的預言",
+          "number": 24,
+          "available": true,
+          "wordCount": 857
+        },
+        {
+          "id": "ten-years-ahead-25",
+          "title": "The Day We Choose",
+          "zh": "由我們選擇的那一天",
+          "number": 25,
+          "available": true,
+          "wordCount": 878
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 2,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/ten-years-ahead-a6c973a90f6b.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "missing-singer",
+      "title": "Seven Days Until the Missing Singer",
+      "zh": "校慶前七天，主唱消失了",
+      "level": "1000–2000",
+      "vocabularyRange": "B",
+      "genre": "校園音樂懸疑",
+      "tags": [
+        "新作",
+        "校園音樂懸疑"
+      ],
+      "desc": "校慶只剩七天，樂團只找到主唱留下的手機。",
+      "hook": "校慶只剩七天，樂團只找到主唱留下的手機。",
+      "color": "#553454",
+      "cover": "./covers/missing-singer.webp",
+      "chapters": [
+        {
+          "id": "missing-singer-1",
+          "title": "Seven Days: The Empty Microphone",
+          "zh": "倒數七天：空著的麥克風",
+          "number": 1,
+          "available": true,
+          "wordCount": 862
+        },
+        {
+          "id": "missing-singer-2",
+          "title": "Seven Days: A Phone Left Behind",
+          "zh": "倒數七天：留下的手機",
+          "number": 2,
+          "available": true,
+          "wordCount": 855
+        },
+        {
+          "id": "missing-singer-3",
+          "title": "Seven Days: No Search Party",
+          "zh": "倒數七天：不組成追人隊伍",
+          "number": 3,
+          "available": true,
+          "wordCount": 852
+        },
+        {
+          "id": "missing-singer-4",
+          "title": "Six Days: The Unsigned Recording",
+          "zh": "倒數六天：沒有署名的錄音",
+          "number": 4,
+          "available": true,
+          "wordCount": 853
+        },
+        {
+          "id": "missing-singer-5",
+          "title": "Six Days: One Less Voice",
+          "zh": "倒數六天：少了一個聲音",
+          "number": 5,
+          "available": true,
+          "wordCount": 860
+        },
+        {
+          "id": "missing-singer-6",
+          "title": "Six Days: The Contract Folder",
+          "zh": "倒數六天：合約夾",
+          "number": 6,
+          "available": true,
+          "wordCount": 853
+        },
+        {
+          "id": "missing-singer-7",
+          "title": "Six Days: The Adviser's Table",
+          "zh": "倒數六天：指導老師的桌子",
+          "number": 7,
+          "available": true,
+          "wordCount": 858
+        },
+        {
+          "id": "missing-singer-8",
+          "title": "Five Days: A Voice Note",
+          "zh": "倒數五天：語音留言",
+          "number": 8,
+          "available": true,
+          "wordCount": 859
+        },
+        {
+          "id": "missing-singer-9",
+          "title": "Five Days: The Test Singer",
+          "zh": "倒數五天：試唱者",
+          "number": 9,
+          "available": true,
+          "wordCount": 858
+        },
+        {
+          "id": "missing-singer-10",
+          "title": "Five Days: A Song for Every Seat",
+          "zh": "倒數五天：讓每個座位都聽得到",
+          "number": 10,
+          "available": true,
+          "wordCount": 853
+        },
+        {
+          "id": "missing-singer-11",
+          "title": "Four Days: The Light That Fell",
+          "zh": "倒數四天：掉下的燈",
+          "number": 11,
+          "available": true,
+          "wordCount": 858
+        },
+        {
+          "id": "missing-singer-12",
+          "title": "Four Days: Rewrite the Bridge",
+          "zh": "倒數四天：改寫橋段",
+          "number": 12,
+          "available": true,
+          "wordCount": 852
+        },
+        {
+          "id": "missing-singer-13",
+          "title": "Four Days: Whose Song Is It?",
+          "zh": "倒數四天：這是誰的歌",
+          "number": 13,
+          "available": true,
+          "wordCount": 853
+        },
+        {
+          "id": "missing-singer-14",
+          "title": "Three Days: The Crowd Outside",
+          "zh": "倒數三天：門外的人群",
+          "number": 14,
+          "available": true,
+          "wordCount": 844
+        },
+        {
+          "id": "missing-singer-15",
+          "title": "Three Days: A Letter without Blame",
+          "zh": "倒數三天：沒有責怪的信",
+          "number": 15,
+          "available": true,
+          "wordCount": 852
+        },
+        {
+          "id": "missing-singer-16",
+          "title": "Three Days: Leo's Interview",
+          "zh": "倒數三天：里歐的面試",
+          "number": 16,
+          "available": true,
+          "wordCount": 861
+        },
+        {
+          "id": "missing-singer-17",
+          "title": "Two Days: A Safe Answer",
+          "zh": "倒數兩天：平安的回答",
+          "number": 17,
+          "available": true,
+          "wordCount": 851
+        },
+        {
+          "id": "missing-singer-18",
+          "title": "Two Days: Why She Left",
+          "zh": "倒數兩天：她離開的原因",
+          "number": 18,
+          "available": true,
+          "wordCount": 853
+        },
+        {
+          "id": "missing-singer-19",
+          "title": "Two Days: Four Voices Are Enough",
+          "zh": "倒數兩天：四個聲音也夠",
+          "number": 19,
+          "available": true,
+          "wordCount": 841
+        },
+        {
+          "id": "missing-singer-20",
+          "title": "One Day: An Open Rehearsal",
+          "zh": "倒數一天：公開彩排",
+          "number": 20,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "missing-singer-21",
+          "title": "One Day: A Storm Warning",
+          "zh": "倒數一天：暴雨警報",
+          "number": 21,
+          "available": true,
+          "wordCount": 859
+        },
+        {
+          "id": "missing-singer-22",
+          "title": "One Day: The Names on the Page",
+          "zh": "倒數一天：紙上的姓名",
+          "number": 22,
+          "available": true,
+          "wordCount": 871
+        },
+        {
+          "id": "missing-singer-23",
+          "title": "Festival Morning: Doors Closed",
+          "zh": "校慶早晨：場地封閉",
+          "number": 23,
+          "available": true,
+          "wordCount": 859
+        },
+        {
+          "id": "missing-singer-24",
+          "title": "Festival Afternoon: The Other Stage",
+          "zh": "校慶午後：另一座舞臺",
+          "number": 24,
+          "available": true,
+          "wordCount": 858
+        },
+        {
+          "id": "missing-singer-25",
+          "title": "Festival Night: Our Own Ending",
+          "zh": "校慶夜晚：自己的結尾",
+          "number": 25,
+          "available": true,
+          "wordCount": 881
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 2,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/missing-singer-66a288e01d91.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  },
+  {
+    "book": {
+      "id": "night-witch-delivery",
+      "title": "The Night Witch's Delivery List",
+      "zh": "夜班魔女的快遞清單",
+      "level": "1000–2000",
+      "vocabularyRange": "B",
+      "genre": "都市奇幻戀愛",
+      "tags": [
+        "新作",
+        "都市奇幻戀愛"
+      ],
+      "desc": "送快遞的魔女收到一件寫著自己名字的包裹，卻得先完成二十四筆配送才能拆開。",
+      "hook": "送快遞的魔女收到一件寫著自己名字的包裹，卻得先完成二十四筆配送才能拆開。",
+      "color": "#30395d",
+      "cover": "./covers/night-witch-delivery.webp",
+      "chapters": [
+        {
+          "id": "night-witch-delivery-1",
+          "title": "The Parcel with My Name",
+          "zh": "寫著我名字的包裹",
+          "number": 1,
+          "available": true,
+          "wordCount": 863
+        },
+        {
+          "id": "night-witch-delivery-2",
+          "title": "Three Rules after Sunset",
+          "zh": "日落後的三條規則",
+          "number": 2,
+          "available": true,
+          "wordCount": 859
+        },
+        {
+          "id": "night-witch-delivery-3",
+          "title": "Tea for the Vampire Upstairs",
+          "zh": "樓上吸血鬼的茶",
+          "number": 3,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "night-witch-delivery-4",
+          "title": "The Baby Dragon's Medicine",
+          "zh": "小龍的藥品",
+          "number": 4,
+          "available": true,
+          "wordCount": 855
+        },
+        {
+          "id": "night-witch-delivery-5",
+          "title": "A Cat without an Address",
+          "zh": "沒有地址的貓",
+          "number": 5,
+          "available": true,
+          "wordCount": 858
+        },
+        {
+          "id": "night-witch-delivery-6",
+          "title": "Midnight Moves the Streets",
+          "zh": "午夜會移動的街道",
+          "number": 6,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "night-witch-delivery-7",
+          "title": "The Seal That Glows",
+          "zh": "會發光的封條",
+          "number": 7,
+          "available": true,
+          "wordCount": 858
+        },
+        {
+          "id": "night-witch-delivery-8",
+          "title": "A Name in the Old Log",
+          "zh": "舊簿上的姓名",
+          "number": 8,
+          "available": true,
+          "wordCount": 850
+        },
+        {
+          "id": "night-witch-delivery-9",
+          "title": "The Toll Collector's Smile",
+          "zh": "收費員的微笑",
+          "number": 9,
+          "available": true,
+          "wordCount": 860
+        },
+        {
+          "id": "night-witch-delivery-10",
+          "title": "The Messengers Meet",
+          "zh": "信使們開會",
+          "number": 10,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "night-witch-delivery-11",
+          "title": "The Leaking Potion",
+          "zh": "漏出的藥水",
+          "number": 11,
+          "available": true,
+          "wordCount": 856
+        },
+        {
+          "id": "night-witch-delivery-12",
+          "title": "What My Mentor Hid",
+          "zh": "導師沒說的事",
+          "number": 12,
+          "available": true,
+          "wordCount": 856
+        },
+        {
+          "id": "night-witch-delivery-13",
+          "title": "The Elf Who Changed Schools",
+          "zh": "轉學的精靈",
+          "number": 13,
+          "available": true,
+          "wordCount": 855
+        },
+        {
+          "id": "night-witch-delivery-14",
+          "title": "The Ghost with Two Homes",
+          "zh": "有兩個家的幽靈",
+          "number": 14,
+          "available": true,
+          "wordCount": 853
+        },
+        {
+          "id": "night-witch-delivery-15",
+          "title": "A Second Parcel",
+          "zh": "第二件包裹",
+          "number": 15,
+          "available": true,
+          "wordCount": 843
+        },
+        {
+          "id": "night-witch-delivery-16",
+          "title": "The Clockmaker's Lantern",
+          "zh": "鐘錶師的燈",
+          "number": 16,
+          "available": true,
+          "wordCount": 855
+        },
+        {
+          "id": "night-witch-delivery-17",
+          "title": "A Public Hearing at Night",
+          "zh": "夜間公開聽證",
+          "number": 17,
+          "available": true,
+          "wordCount": 858
+        },
+        {
+          "id": "night-witch-delivery-18",
+          "title": "The False Dangerous Parcel",
+          "zh": "被誣指危險的包裹",
+          "number": 18,
+          "available": true,
+          "wordCount": 849
+        },
+        {
+          "id": "night-witch-delivery-19",
+          "title": "Receipts on the Table",
+          "zh": "攤開的簽收單",
+          "number": 19,
+          "available": true,
+          "wordCount": 838
+        },
+        {
+          "id": "night-witch-delivery-20",
+          "title": "Twenty Deliveries, Four to Go",
+          "zh": "二十筆完成，剩下四筆",
+          "number": 20,
+          "available": true,
+          "wordCount": 838
+        },
+        {
+          "id": "night-witch-delivery-21",
+          "title": "A Letter to the Old House",
+          "zh": "寄往老屋的信",
+          "number": 21,
+          "available": true,
+          "wordCount": 859
+        },
+        {
+          "id": "night-witch-delivery-22",
+          "title": "The Choice Her Mother Made",
+          "zh": "母親當年的選擇",
+          "number": 22,
+          "available": true,
+          "wordCount": 876
+        },
+        {
+          "id": "night-witch-delivery-23",
+          "title": "The Address Called Tomorrow",
+          "zh": "名叫明天的地址",
+          "number": 23,
+          "available": true,
+          "wordCount": 856
+        },
+        {
+          "id": "night-witch-delivery-24",
+          "title": "What Was in the Box",
+          "zh": "盒子裡的東西",
+          "number": 24,
+          "available": true,
+          "wordCount": 864
+        },
+        {
+          "id": "night-witch-delivery-25",
+          "title": "The Route That Belongs to Everyone",
+          "zh": "屬於所有人的路線",
+          "number": 25,
+          "available": true,
+          "wordCount": 880
+        }
+      ],
+      "vocabularySummary": {
+        "referenceLevel": 2,
+        "uniqueTargets": 501,
+        "perChapter": 20
+      },
+      "learningReviewRequired": true,
+      "readable": true,
+      "importNote": "25 章原稿已通過章節結構檢查，目前開放前 12 章試讀，逐章內容校訂中。"
+    },
+    "manifest": {
+      "url": "./books/night-witch-delivery-73afbf0c0c35.bin",
+      "chapters": 12,
+      "privateChapters": 13
+    }
+  }
+]
