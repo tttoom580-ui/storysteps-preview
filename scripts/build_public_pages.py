@@ -167,7 +167,7 @@ for topic in topics:
  cards=[]
  for book in selected:
   access='全本免費' if book['id'] in free_books else f'前 {preview} 章免費'
-  cards.append('<article class="card"><img class="library-cover" loading="lazy" src="'+href(book['cover'].removeprefix('./'))+'" alt="'+esc(book['zh'])+'封面"><h2>'+link('stories/'+book['id']+'/',book['zh'])+'</h2><p>'+esc(book['hook'])+'</p><small>'+esc(book['level'])+' · '+access+'</small><p>'+link('?book='+book['id']+'&chapter='+book['chapters'][0]['id'],'開始閱讀')+'</p></article>')
+  cards.append('<article class="card">'+card_cover(book)+'<h2>'+link('stories/'+book['id']+'/',book['zh'])+'</h2><p>'+esc(book['hook'])+'</p><small>'+esc(book['level'])+' · '+access+'</small><p>'+link('?book='+book['id']+'&chapter='+book['chapters'][0]['id'],'開始閱讀')+'</p></article>')
  title='英語'+topic['name']+'故事'
  body='<h1>'+title+'</h1><p>挑選符合程度的'+topic['name']+'英文小說，點字查詞、英中對照，從故事練習閱讀。</p><p>'+link('?genre='+topic['name'],'到書城依程度篩選')+'</p><div class="book-grid">'+''.join(cards)+'</div>'
  page('topics/'+topic['slug']+'.html',title,body,title+'合集，'+str(len(selected))+' 本分級英文小說，含免費閱讀範圍與封面。')

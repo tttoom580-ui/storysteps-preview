@@ -146,21 +146,25 @@ async function run(label,options){
   await page.getByText('更多篩選',{exact:true}).click();
 
   await page.getByRole('heading',{name:'三分鐘試讀'}).waitFor();
-  // Current release: covers are actual assets and six distinct novels are discoverable.
+  // Check the six latest releases and their configured cover or fallback.
   const latest=page.locator('#new-releases');
   await latest.getByRole('heading',{name:'新的故事，現在開讀。'}).waitFor();
   if(await latest.locator('.release-item').count()!==6)throw Error('Six latest releases are not visible in library');
   const catalog=JSON.parse(readFileSync('public/catalog.js','utf8').split('=',2)[1].replace(/;\s*$/,''));
   const expectedReleases=catalog.filter(book=>book.tags?.includes('新作')).slice(-6);
   for(const book of expectedReleases){
-   await latest.getByRole('heading',{name:book.zh,exact:true}).waitFor();
-  }
-  const latestCovers=latest.locator('.release-item img');
-  if(await latestCovers.count()!==6)throw Error('Latest releases must all have covers');
-  await latestCovers.first().evaluate(async image=>{
+   const card=latest.locator('.release-item').filter({has:page.getByRole('heading',{name:book.zh,exact:true})});
+   await card.waitFor();
+   if(!book.cover){
+    await card.locator('.release-fallback').waitFor();
+    continue;
+   }
+   await card.locator('img').evaluate(async image=>{
+    image.loading='eager';
     if(!image.complete)await new Promise((resolve,reject)=>{image.addEventListener('load',resolve,{once:true});image.addEventListener('error',reject,{once:true})});
     if(!image.naturalWidth)throw Error('Latest release cover did not load');
-  });
+   });
+  }
   await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'校訂完成'});
   await page.getByRole('combobox',{name:'內容校訂狀態'}).selectOption({label:'全部校訂狀態'});
   if(label==='mobile'){

@@ -7,7 +7,8 @@ root = Path(__file__).resolve().parents[1]
 public = root / 'public'
 catalog_file = public / 'catalog.js'
 manifest_file = public / 'content-manifest.json'
-records = json.loads((root / 'config/batch16-books.json').read_text())
+records = [record for source in sorted((root / 'config').glob('batch*-books.json'))
+           for record in json.loads(source.read_text())]
 catalog = json.loads(catalog_file.read_text().split('=', 1)[1].rstrip(';\n'))
 manifest = json.loads(manifest_file.read_text())
 known = {book['id']: book['zh'] for book in catalog}
@@ -29,7 +30,7 @@ for record in records:
         raise ValueError(f'Invalid preview length: {book_id}')
     if [chapter['id'] for chapter in preview] != [chapter['id'] for chapter in book['chapters'][:len(preview)]]:
         raise ValueError(f'Invalid preview chapter IDs: {book_id}')
-    if not (public / book['cover']).is_file():
+    if book.get('cover') and not (public / book['cover']).is_file():
         raise ValueError(f'Missing book cover: {book_id}')
     catalog.append(book)
     manifest['books'][book_id] = entry
