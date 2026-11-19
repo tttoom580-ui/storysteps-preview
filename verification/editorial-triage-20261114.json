@@ -2,17 +2,17 @@
   "version": "2026-11-14",
   "description": "Machine screening of source payloads available to the build, NOT sentence-by-sentence editorial approval. Translation length anomalies are candidate flags, not proof of mistranslation. Quiz semantic review required for all items without explicit source citations.",
   "summary": {
-    "totalBooks": 123,
-    "totalChapters": 2985,
+    "totalBooks": 129,
+    "totalChapters": 3147,
     "chaptersUnder500": 0,
     "chaptersUnder20Targets": 0,
     "chaptersUnder2Quizzes": 0,
     "chaptersWithBilingualHeuristicFlags": 0,
-    "quizzesWithoutExplicitSourceEvidence": 5187,
-    "booksWithRepeatedEnglishLongSentence": 14,
-    "booksWithRepeatedChineseSentence": 14,
+    "quizzesWithoutExplicitSourceEvidence": 5511,
+    "booksWithRepeatedEnglishLongSentence": 16,
+    "booksWithRepeatedChineseSentence": 16,
     "fullHumanSemanticApprovalCount": 0,
-    "sharedExactEnglishParagraphPatternsAcrossBooks": 0
+    "sharedExactEnglishParagraphPatternsAcrossBooks": 21
   },
   "books": [
     {
@@ -4848,17 +4848,17 @@
       "hook": "刺蝟露米和鼴鼠比可追著山谷裡的風，畫出第一張天氣地圖。",
       "description": "刺蝟露米和鼴鼠比可追著山谷裡的風，畫出第一張天氣地圖。",
       "editorialLabel": true,
-      "chapterCount": 10,
-      "privateChapters": 15,
+      "chapterCount": 12,
+      "privateChapters": 13,
       "minWords": 625,
       "minTargetWords": 20,
-      "quizzes": 20,
+      "quizzes": 24,
       "enCrossChapterSentenceReuse": 0,
       "zhCrossChapterSentenceReuse": 0,
       "chapterIssueCounts": {
-        "quiz_needs_semantic_answer_review": 20
+        "quiz_needs_semantic_answer_review": 24
       },
-      "flaggedChapters": 10,
+      "flaggedChapters": 12,
       "sample": {
         "beginning": {
           "chapter": 1,
@@ -4869,20 +4869,20 @@
           "closingChinese": "晚餐時，露米把三條規則說給家人聽。弟弟問他們能不能用地圖把風停下來。「不能，」露米說，「我們不能阻止風，但可以學會什麼時候收好東西、該站在哪裡。」爸爸看了看門邊晾著的濕野餐墊，明白這張圖的用處。他送給孩子一個舊盒子，裝鉛筆和紙。睡前，露米在紅星旁畫了一個空白小方格，留給明天的觀察。她第一次覺得，地圖上的空白也可以同時代表誠實與希望。"
         },
         "middle": {
-          "chapter": 6,
-          "zh": "泥濘的轉角",
-          "openingEnglish": "After a night of rain, the path behind the village shop was full of mud. Lumi held a small envelope of report cards under her arm while Biko carried their desk board. The ground beside the stream looked deep and soft. “We do not go down there,” Lumi said. A fish moved in the clear water, and Biko made a funny face when it splashed him. However, the joke did not change the danger. They could find the stream's water level from the high stone seat above it. “May we watch from there?” Biko asked the shop owner. She checked the path first and welcomed them to the safe area.",
-          "openingChinese": "一夜下雨後，村裡商店後方的小路滿是泥巴。露米把裝著回報卡的信封夾在手臂下，比可則帶著木製寫字板。溪邊的地面看起來又深又軟。「我們不能下去，」露米說。一條魚在清澈的水中游動，濺起的水讓比可做了個滑稽表情。然而玩笑不能改變危險。他們可以從上方的高石座觀察溪水高度。「我們能站那裡嗎？」比可問店主。店主先檢查道路，才歡迎他們到安全區域。",
-          "closingEnglish": " path was closed and the date it was opened. The worker thanked her for not throwing it away. “A safe path today does not erase what happened yesterday,” he said. She put a new card beside the stream drawing and asked the children to read both. Biko pointed out that the river had been higher after the second rain, although that rain felt shorter. The team did not know why yet. They added another question rather than making up an answer.",
-          "closingChinese": "週末，鎮上工人清理並檢查溪岸後，重新開放下方小路。露米把舊泥巴紀錄留在檔案裡，註明封閉與開放的日期。工人感謝她沒有丟掉。「今天安全了，不代表昨天的事從未發生，」他說。她在溪流圖旁貼上新卡，請孩子兩張一起讀。比可發現第二場雨感覺比較短，溪水卻更高。他們還不知道為什麼，於是新增一個問題，而不是編出答案。"
+          "chapter": 7,
+          "zh": "許多幫忙的手",
+          "openingEnglish": "A rabbit named Miri came from the west with a large basket of paper flowers. She had helped her mother, a housewife who ran a small craft class, collect clean paper by asking neighbors. The flowers were popular at village parties, and Miri hoped to use them to mark the weather board. Lumi liked the idea but showed her the main list. “The flower colors must mean something real,” she said. Miri suggested one flower for every hour of observation. Biko answered that the page would soon be too full. They chose one flower for each safe station instead, with a clear note beside it. During the course, Miri gave each help",
+          "openingChinese": "名叫米莉的兔子從西邊來，帶著一大籃紙花。她和主持手工課的家庭主婦媽媽一起向鄰居募集乾淨舊紙。紙花很受村裡派對歡迎，米莉想拿它們標記天氣板。露米喜歡這個點子，卻先把主要清單給她看。「花的顏色必須有真實意思，」她說。米莉提議每觀察一小時放一朵，比可說那樣頁面很快就會太滿。大家改成每個安全站點放一朵，旁邊再加清楚說明。 課程中，米莉在大家洗完手後，各給一小塊巧克力。不吃巧克力也完全可以參加。",
+          "closingEnglish": "flower beside every station that had reported for three days. Not all flowers were filled in, and that was fine. She did not want a full garden of paper flowers to hide empty records. Lumi placed the new list beside the first week's map. More people had joined, but the questions were harder now. They needed to know not just who wanted to help, but which jobs each person could do safely and well. That was the next part of building trust.",
+          "closingChinese": "到了第七天，團隊已有一張實用清單，記著姓名、地點與安全時間。連續三天有回報的站點，米莉就在旁邊畫一朵花。不是每朵花都有填色，這沒有關係。她不想讓滿滿紙花遮住缺失的紀錄。露米把新清單放在第一週地圖旁。幫手變多了，問題卻更難了：除了知道誰想幫忙，還得知道每個人能安全、穩定地做什麼工作。這是建立信任的下一步。"
         },
         "ending": {
-          "chapter": 10,
-          "zh": "安靜的傍晚測試",
-          "openingEnglish": "One evening, the weather board was hard to read because the street had become dark. Biko found a button beside an old lamp, but he did not press it. The lamp belonged to the shop, and the switch might have been broken. Lumi asked the owner to have it checked. While they waited, a student brought a menu from the café, where the evening meal was potato soup and sweet bread. A rose lay beside the menu. “Usually the market is still bright at this time,” said the student. Lumi made a note. The team would need to test the board at times when people actually used it, not just at noon.",
-          "openingChinese": "一個傍晚，街上天色暗了，天氣板也變得難讀。比可在舊燈旁找到按鈕，卻沒有按下去。燈是商店的，開關可能故障。露米請店主找人檢查。等待時，一位學生帶來咖啡館菜單，晚餐有馬鈴薯湯與甜麵包，菜單旁放著一朵玫瑰。「平常這個時間市場還很明亮，」學生說。露米記下來。團隊必須在大家實際使用看板的時間測試，而不能只選中午。",
-          "closingEnglish": "how to test the answer.” Lumi looked down the road toward the east station, where the first evening flag was still moving. The town sounded different at night: softer voices, fewer wheels, and leaves against stone. There would always be things they did not understand at once. The map did not need to be perfect to be useful. It needed people willing to look, listen, ask, and change what did not work. On that point, the whole team agreed.",
-          "closingChinese": "收拾看板準備過夜時，米莉對著新燈微笑。「以後可能還會遇到麻煩，」她說，「但現在我們知道如何驗證答案。」露米望向東站，傍晚的小旗仍輕輕飄動。鎮上的夜晚有不同聲音：更輕的談話、更少的車輪聲，以及樹葉摩擦石頭的沙沙聲。總有些事不會立刻懂。地圖不必完美才能有用；它需要願意觀察、傾聽、提問並改正錯誤的人。這一點，全隊都同意。"
+          "chapter": 12,
+          "zh": "小鎮開放日",
+          "openingEnglish": "On Saturday afternoon, the town held an open day at the supermarket hall. A band played soft music in one corner, and a young actor wore large glasses while reading the welcome signs. Lumi had been asked to play a short weather game with visitors. She was tired from the week, but wanted to celebrate the team's work. The last package of cards arrived just before two o'clock, carried by the shop clerk. Inside were simple tickets for the game. A ticket was free; it only helped the team count how many people tried the map. Lumi placed the cards by the door and waited for the first visitor. The clerk checked the wall ",
+          "openingChinese": "星期六下午，小鎮在超市大廳舉辦開放日。樂團在角落演奏輕柔音樂，一位戴著大眼鏡的年輕演員朗讀歡迎標示。露米受邀帶訪客玩簡單的天氣遊戲。她這週已經很累，卻還是想慶祝小隊的成果。下午兩點前，店員送來最後一包卡片，裡面是遊戲使用的票券。票券免費，只用來計算多少人試讀地圖。露米把卡片放在門旁，等著第一位訪客。 三點整，店員再次查看牆上的鐘，記下第一批訪客完成活動的時間。",
+          "closingEnglish": "as. Her mother asked whether she still wanted to lead the next meeting. “I want to help,” Lumi said, “but I do not need to lead every time.” She asked Biko to plan the next gathering, and he agreed after checking his school work. Lumi wrote that choice in the team book. Learning to share a microphone was easy for one afternoon. Learning to share a job might take longer. She was ready to try, because the map was no longer only her dream.",
+          "closingChinese": "露米回家時，看見窗玻璃映著自己的臉，笑自己累成這樣。媽媽問下次會議是否還想由她主持。「我還想幫忙，」露米說，「但不必每次都是我主持。」她請比可規劃下次聚會，比可先確認課業，再答應。露米把這項安排寫進團隊簿。分享麥克風，一個下午就能做到；分享長期工作，可能要學更久。她願意試試，因為這張地圖早已不只是她一個人的夢想。"
         }
       },
       "structuralGate": true,
@@ -4897,17 +4897,17 @@
       "hook": "沒有法術的風箏，卻能測出山谷裡風的秘密。",
       "description": "沒有法術的風箏，卻能測出山谷裡風的秘密。",
       "editorialLabel": true,
-      "chapterCount": 10,
-      "privateChapters": 15,
+      "chapterCount": 12,
+      "privateChapters": 13,
       "minWords": 620,
       "minTargetWords": 20,
-      "quizzes": 20,
+      "quizzes": 24,
       "enCrossChapterSentenceReuse": 0,
       "zhCrossChapterSentenceReuse": 0,
       "chapterIssueCounts": {
-        "quiz_needs_semantic_answer_review": 20
+        "quiz_needs_semantic_answer_review": 24
       },
-      "flaggedChapters": 10,
+      "flaggedChapters": 12,
       "sample": {
         "beginning": {
           "chapter": 1,
@@ -4918,20 +4918,20 @@
           "closingChinese": "那晚蘭在大門發現一張看過測試的孩子留下的小紙條：「我原以為絲帶永遠不會錯，因為大人總是看它。」蘭仔細摺好，隔天早晨拿給陶看。陶說修理工具最難的部分，也許是修好後還要改變人的習慣。蘭尚不知道怎麼辦，便決定未來每次測試都讓訪客有機會問標記的意思。小風箏能指出風向，問題則能指出錯誤。"
         },
         "middle": {
-          "chapter": 6,
-          "zh": "帶鎖箱子的訪客",
-          "openingEnglish": "The spring trial began with an unexpected affair: a council officer arrived carrying a locked box. Children put away their badminton rackets and gathered beside the cabbage beds. The officer, Vale, was clever and spoke politely, but he called the broken wind ribbon a crisis that only his company could solve. Lan did not argue with his fine clothes or his smooth voice. She asked why he had brought a box to a public test. Vale said he represented a culture of progress and would show a new engine for moving air. Qiu reminded him that the morning had been reserved for comparing measurements, not selling machines. Val",
-          "openingChinese": "春季測試一開始就出了意外：議會官員維爾帶著上鎖的箱子來了。孩子們收起羽毛球拍，聚集在高麗菜苗床旁。維爾很聰明，說話也有禮，卻把壞掉的風向絲帶說成只有他的公司才能解決的危機。蘭不與他的華服或口才爭論，只問為何公開測試要帶鎖箱。他說自己代表進步文化，將展示一臺能推動空氣的新引擎。秋守園人提醒，今天早晨是比對測量，不是賣機器。維爾微笑，卻沒有打開箱子。",
-          "closingEnglish": ", if someone enters the flight space, or if the wind rises beyond the measured range. He suggested adding one more reason, when the workers were too tired to make careful choices. Lan wrote it down. She had thought of danger as something outside the team: storms, broken roofs, or bad machines. Now she understood that exhaustion could be just as real. She sent the apprentices home early and stayed only long enough to lock the tools away.",
-          "closingChinese": "會後消防員問蘭，怎樣知道公開測試該結束。她拿出筆記：框架裂開、有人進入飛行區、風勢超出測量範圍時就停止。他建議再加一項：工人累到無法謹慎判斷時。蘭記下。她以前把危險想成來自外面，例如風暴、破屋頂或壞機器，如今懂得疲勞也是真實風險。她提早讓見習生回家，自己只留下鎖好工具便離開。"
+          "chapter": 7,
+          "zh": "日曆上的四個記號",
+          "openingEnglish": "At dawn Lan asked whether the test could advance without adding more tools. Tao said each being in the garden experienced the wind differently, including birds and people. On their calendar he drew four marks for the times when fog usually arrived. The mountain climate had changed during the last few years, so an old date might not be enough. Lan put her paper wings inside a covered box to contain them until the morning air became steady. A traveler from the desert watched her work and said the valley's cold mist was harder for him to understand than hot sand. Lan listened instead of laughing at him.",
+          "openingChinese": "黎明蘭問是否能不增加工具就推進測試。陶說園裡每個生命感受到的風都不同，包括鳥與人。他在日曆上畫四個記號，標出霧常到來的時間。近幾年山地氣候已有變化，舊日期未必足夠。蘭先把紙翼放進加蓋木箱，等晨風穩定。一位來自沙漠的旅人看她工作，說山谷冷霧比熱沙更令他難懂。蘭沒有笑他，而是認真聽完。",
+          "closingEnglish": "d written a plan for emergencies, and running through an unlit path could create another problem. Two trained keepers would first check the signal from safe places and call for help if needed. The traveler said he liked a plan that did not depend on heroes arriving at the perfect moment. Lan smiled. She had begun this project because she wanted to be useful, not because she wished to become a hero. The difference mattered more each day.",
+          "closingChinese": "來訪旅人問夜裡若再次響鈴，工人是否要小跑回藥圃。蘭說不。團隊已寫緊急計畫，黑暗中奔跑可能製造更多問題。先由兩位受訓守園人從安全位置確認訊號，必要時再求援。旅人說他喜歡不必仰賴英雄剛好及時出現的計畫。蘭笑了。她開始這項工作是因為想做有用的人，不是想當英雄。這差別一天比一天重要。"
         },
         "ending": {
-          "chapter": 10,
-          "zh": "第一次公開讀數",
-          "openingEnglish": "The garden was active from sunrise, but Lan's biggest concern was the difference between one good day and a full growing cycle. She placed a flag on the far side of the field and measured the distance between the flag and each paper wing. The ground was not flat, so Tao helped her set every frame at the same height. Workers walked forward carefully, counting their steps. They hoped to gain a clear picture of the air without moving the young plants. The marks on Lan's board indicated that one sheltered corner stayed still while the open rows changed direction several times. That difference was what they needed to ",
-          "openingChinese": "日出後藥圃十分忙碌，但蘭最擔心的是：一天的好結果不等於整個生長週期都成功。她在田地另一端插旗，量出旗幟與每片紙翼的距離。地面不平，陶幫她把每個架子調到同樣高度。工人小心往前走，數著步數，希望不碰幼苗便能得到清楚的氣流圖。蘭板上的記號顯示，有個遮蔽角落一直無風，開闊苗床卻幾度改變風向。這正是他們要理解的差別。",
-          "closingEnglish": ". Qiu read the line twice and asked Lan to make it larger before the next meeting. A visitor said a report should end on a happy note. Lan replied that the good news was the chance to improve without hiding facts. Later she and Tao walked along the marked path and counted the small wings moving above the beds. They were tired, but the garden looked different to them now: less like a mystery to defeat and more like a place to understand.",
-          "closingChinese": "公開報告最後一行沒有指出一切安全，而是指出工人還需要哪些資訊。秋守園人讀了兩遍，請蘭下次開會前把字放大。有訪客說報告應以快樂句子收尾。蘭回答，好消息是大家能不隱藏事實地持續改進。稍後她與陶沿標記小路走，數著苗床上方轉動的小紙翼。兩人很累，但眼裡的藥圃已不同：不再是要打敗的謎，而是需要理解的地方。"
+          "chapter": 12,
+          "zh": "紀錄上的空白",
+          "openingEnglish": "A visiting customer tried to blame Lan when he saw a blank square in the public chart. He had come from the capital to learn how the countryside garden handled wind. Lan explained that the square meant no one had safely measured that corner yet. It did not mean the air was calm. The customer said the empty space looked like a danger they were hiding. Nearby, a dentist who volunteered with the local clinic asked him to listen before making a judgment. She pointed to the direction of the roof and explained why an unsafe climb would prove nothing. Lan was grateful for the support, but she still wanted to fill the ga",
+          "openingChinese": "一位從首都來的顧客看見公開圖表上的空白格，便責怪蘭。他是想了解鄉村藥圃如何處理風向而來。蘭解釋空白代表那個角落尚未安全測量，不表示沒有風。顧客說空格像是在隱藏危險。附近一位自願協助診所的牙醫請他先聽完再判斷。她指向屋頂方向，說明冒險攀爬不能證明任何事。蘭感謝她支持，仍希望用安全方法補上缺口。",
+          "closingEnglish": "ked him, but asked whether he would help by telling others not to mistake an empty space for a secret. He promised to share the chart exactly as it stood, with the unfinished corner shown clearly. Tao gave him a copy and wrote the date beside it. Lan did not expect every visitor to become a supporter. She only hoped people would leave knowing the difference between a missing answer and a dishonest one. This visitor seemed to understand.",
+          "closingChinese": "從首都來的顧客離城前又回來。他說看見工人如何回答難題，開始尊重他們。蘭道謝，也請他幫忙告訴別人，別把空白誤認成祕密。他答應原樣分享圖表，清楚保留尚未完成的角落。陶給他副本，寫上日期。蘭不期待每位訪客都成為支持者，只希望大家能分辨尚無答案與不誠實。這名訪客似乎懂了。"
         }
       },
       "structuralGate": true,
@@ -4946,17 +4946,17 @@
       "hook": "種子庫出售前，植物檔案修復師循著午夜的鐘聲與秘密足跡追查紀錄。",
       "description": "種子庫出售前，植物檔案修復師循著午夜的鐘聲與秘密足跡追查紀錄。",
       "editorialLabel": true,
-      "chapterCount": 10,
-      "privateChapters": 15,
+      "chapterCount": 12,
+      "privateChapters": 13,
       "minWords": 602,
       "minTargetWords": 20,
-      "quizzes": 20,
+      "quizzes": 24,
       "enCrossChapterSentenceReuse": 25,
       "zhCrossChapterSentenceReuse": 6,
       "chapterIssueCounts": {
-        "quiz_needs_semantic_answer_review": 20
+        "quiz_needs_semantic_answer_review": 24
       },
-      "flaggedChapters": 10,
+      "flaggedChapters": 12,
       "sample": {
         "beginning": {
           "chapter": 1,
@@ -4967,20 +4967,20 @@
           "closingChinese": "午夜時銅鐘響了兩下，沒有人碰它，藍門卻自動鎖住。諾拉沒有硬拉門把；她拍下兩只仍在移動的儀表指針，並在紙本地圖標出第一處安全位置。聲音令人害怕，但她已掌握一項可靠事實：門鎖與鐘聲在同一時間發生變化。"
         },
         "middle": {
-          "chapter": 6,
-          "zh": "贊助商的信",
-          "openingEnglish": "A letter arrived from the development sponsor demanding a clean ownership report within forty-eight hours. Renn said the garden needed the money for repairs. Imani replied that repairs could not be paid for by selling seeds that the company did not own. The pressure made every conversation sharper.",
-          "openingChinese": "開發贊助商來信，要求四十八小時內交出沒有爭議的所有權報告。雷恩說溫室需要這筆錢維修。伊曼妮回答，不能靠出售公司不擁有的種子來支付維修費。壓力讓每段談話都變得尖銳。",
-          "closingEnglish": "Nora asked for the original donation agreement. Renn produced a photocopy without the last page. The missing page was the one that normally carried the conditions of custody. Nora refused to sign the sale inventory without it.",
-          "closingChinese": "諾拉要求查看原始捐贈協議。雷恩拿出影本，最後一頁卻不見了。那一頁通常記載保管條件。諾拉拒絕在缺少文件的出售清冊上簽名。"
+          "chapter": 7,
+          "zh": "圍籬後面",
+          "openingEnglish": "The retired gardener Sal returned with memories of the first seed harvest. He explained that families had carried their own seeds into the garden on a rainy morning, and the museum promised to store them for free. His memory was important, but Nora asked for documents that another reader could examine.",
+          "openingChinese": "退休園丁薩爾帶著第一批採種的記憶回到溫室。他說多戶家庭曾在雨天親自把種子帶入園區，館方承諾免費保存。這段記憶很重要，但諾拉仍請他找出別人也能檢驗的文件。",
+          "closingEnglish": "Sal led them to an old gate beyond the fence. There, a metal plate carried the cooperative's original name and the date of the transfer. They photographed it, measured its position, and did not disturb the surrounding soil.",
+          "closingChinese": "薩爾帶她們走向圍籬外的舊門。一塊金屬牌刻著合作社原名及移交日期。團隊拍下照片、測量位置，沒有擾動周圍土壤。"
         },
         "ending": {
-          "chapter": 10,
-          "zh": "錯誤的名字",
-          "openingEnglish": "On the tenth day, Nora compared the scanned donation ledger with a box of original receipts. Every disputed jar had been moved to the company's list during one late-night editing session. The computer account belonged to Renn, but an account name did not prove who had used the keyboard.",
-          "openingChinese": "第十天，諾拉比較掃描版捐贈帳冊與原始收據箱。所有有爭議的種子罐都在同一場深夜編輯中被移入公司清單。電腦帳號屬於雷恩，但帳號名稱不能證明當晚是誰操作鍵盤。",
-          "closingEnglish": "She requested the entry card record for the archive room. Ben found an unusual card swipe and a maintenance call at the same time. The names were different. Someone had been present without using the usual staff door.",
-          "closingChinese": "她請班恩調出檔案室門禁刷卡紀錄，發現異常刷卡與維修通話發生在同一時間，卻是不同的人名。有人沒有走正常員工門，仍然進入了檔案室。"
+          "chapter": 12,
+          "zh": "地下室字母表",
+          "openingEnglish": "In the basement, Imani found a wooden alphabet board used when the garden taught children to read seed labels. Behind it lay a thin notebook listing every family that contributed to the first collection. Some names had been crossed out, but the ink underneath was still visible.",
+          "openingChinese": "伊曼妮在地下室找到舊木製字母板，當年園區用它教孩子讀種子標籤。字母板後面藏著一本薄冊，記錄第一批捐種家庭。部分姓名被劃掉，底下的墨水仍可辨識。",
+          "closingEnglish": "The notebook matched the metal gate plate and the donated receipts. Nora now had three independent sources for the same transfer date. She copied them carefully instead of celebrating too early.",
+          "closingChinese": "筆記本與舊門金屬牌、捐贈收據相符。諾拉現在掌握三個互相獨立、指向同一移交日期的來源。她謹慎抄錄，沒有過早慶祝。"
         }
       },
       "structuralGate": true,
@@ -4995,17 +4995,17 @@
       "hook": "當一夜安眠開始被競價，一群輪班工作者試著替城市找回休息的權利。",
       "description": "當一夜安眠開始被競價，一群輪班工作者試著替城市找回休息的權利。",
       "editorialLabel": true,
-      "chapterCount": 10,
-      "privateChapters": 15,
+      "chapterCount": 12,
+      "privateChapters": 13,
       "minWords": 667,
       "minTargetWords": 20,
-      "quizzes": 20,
+      "quizzes": 24,
       "enCrossChapterSentenceReuse": 0,
       "zhCrossChapterSentenceReuse": 0,
       "chapterIssueCounts": {
-        "quiz_needs_semantic_answer_review": 20
+        "quiz_needs_semantic_answer_review": 24
       },
-      "flaggedChapters": 10,
+      "flaggedChapters": 12,
       "sample": {
         "beginning": {
           "chapter": 1,
@@ -5016,20 +5016,20 @@
           "closingChinese": "：「未使用時數會在自然睡眠後恢復；已消耗時數不予退還。」江梨把原文抄進筆記本。她不知道規則是否真實，但至少有個可以測試的說法。鐘又走了十秒，隨後停在午夜。一個聲音宣布，公共休息大廳將在二十五個拍賣夜後決定歸屬。珂娜問，是否有人可以擁有疲憊工人用來休息的場所。江梨望向名叫娜里的清潔員，又看向長椅上的樂手。「在同意遊戲擁有任何東西之前，」她說，「我們要先查清楚，它到底能拿走什麼。」"
         },
         "middle": {
-          "chapter": 6,
-          "zh": "借來時數的聲音",
-          "openingEnglish": "The sixth night began with an anniversary concert marking a hundred years since the old railway opened. A conductor in a worn blue coat had volunteered to lead a small orchestra, but the auction turned every note into a demand for bids. Thin cords hanging from the ceiling flashed as the frequency of the music changed. Li, Kena, and Samir entered with ear protection and a clear agreement to leave if anyone became dizzy. The hall's floor was coated in coarse dust and cleaning foam. An old poster celebrated a dynasty that had built the station. Li read the dates aloud. The building had lasted because many kinds of l",
-          "openingChinese": "第六夜以一場鐵路通車百週年音樂會開始。一名穿舊藍外套的指揮自願帶領小樂團，拍賣系統卻把每個音符變成催促出價的命令。天花板垂下的細繩隨著樂聲頻率變動而閃光。江梨、珂娜和薩米爾戴著護耳設備進場，事先約好有人頭暈就離開。大廳地板覆著粗糙灰塵與清潔泡沫。一張舊海報歌頌建造車站的王朝。江梨大聲讀出日期。建築能留存百年，是因為許多人的勞動共同維護，不是某位受讚頌的統治者從不睡覺。",
-          "closingEnglish": "not a mystery of human will. If they could show who controlled that mechanism, the people whose hours had disappeared might challenge the claims. Li reflected on her factory days, when a schedule could hide work by labeling it as rest. She had once helped prepare such a schedule without questioning the label. Now she wanted the records to reflect what people had actually done. The station clock made no sound when the next night started.",
-          "closingChinese": "午夜前，指揮在節目單背面寫下一句話：「我們的勞動不屬於聲音最大的人。」他把紙交給江梨，江梨在旁邊抄下脈衝測量結果。被重播的捐贈是一套機制，不是什麼神祕的人類意志。如果查得出誰控制機制，失去時數的人就可能質疑索取。江梨想起在工廠時，排班表只要把工作標成休息，就能藏起工時。她曾幫忙做過這種表，卻沒質疑名稱。如今她希望紀錄能反映人們真正做過什麼。下一夜開始時，車站鐘沒有發出聲音。"
+          "chapter": 7,
+          "zh": "沒有贏家的山丘",
+          "openingEnglish": "The seventh trial opened in a mountainous district where frost covered the morning path. A helicopter waited above the hospital, but the game required a high bid before it could carry supplies. Li refused to treat the helicopter as the only option. A farmer offered two mules and a safe lower road, provided someone checked the surroundings and the weight of each box. The farmer's small herd had already been frightened by the aircraft noise. A fierce competitor called the animal route a waste of time. Li asked him for an estimate of total travel time, including loading, landing, and the risk of another delay. He of",
+          "openingChinese": "第七場試煉開在山區，晨間小路覆著霜。一架直升機停在醫院上方，遊戲卻要求先付高額出價才能運送補給。江梨拒絕把直升機當成唯一選項。一名農夫願意提供兩頭騾子和較安全的低地道路，條件是有人先檢查周遭環境與每箱重量。農夫的小群牲畜已被飛機聲嚇到。一位激烈的競爭者說動物路線浪費時間。江梨問他估算過完整運輸時間沒有，包括裝載、降落以及再次延誤的風險。他拿不出數字。她自己寫下第一筆量測。",
+          "closingEnglish": "red people. The farmer gave them an apple each, then asked them not to photograph his animals for publicity. They respected the request. That night Li checked the delivery times against the game's official report. It listed the hill as a failure because the highest bidder had not won. The supplies were on the shelves, the crew was resting, and nobody had been left on the bridge. Li wrote a different result: DELIVERY COMPLETE, WITH REST.",
+          "closingChinese": "程時，珂娜問那位競爭者既然認為快路最好，為何不拿自己的時數替直升機出價。江梨說，信念和付費是兩回事；遊戲把代價分攤給疲憊的人，使它看似不存在。農夫每人送了一顆蘋果，又請她們不要拍攝牲畜做宣傳。她們尊重要求。當晚江梨把送達時間與遊戲報告比較。遊戲把山丘列成失敗，因為最高出價者沒贏。可是補給已放上架，隊伍正在休息，沒有任何人被留在橋上。江梨寫下另一種結果：「補給完成，並保有休息。」"
         },
         "ending": {
-          "chapter": 10,
-          "zh": "紫色信封裡的交易",
-          "openingEnglish": "On the tenth morning, Li received a violet envelope from the company operating the auction. It offered her a promotion to manager of a new sleep facility, with a private room and priority access for her family. In return she would sign a resignation from the public investigation. The letter called its terms generous and promised acceptance of her own hours as authentic credit. Li smelled perfume on the paper and wondered whether someone had chosen it to make a business offer feel personal. She did not tear the envelope up. She classified the claims: the salary could be checked, the promised safety could not, and ",
-          "openingChinese": "第十天早晨，江梨收到拍賣營運公司的紫色信封。信裡提出升職：成為新睡眠設施的經理，享有私人房間，家人也能優先使用。交換條件是她簽署退出公共調查的辭職聲明。信稱待遇優厚，還保證她自己的時數會被接受為真正的信用額度。江梨聞到紙上的香水味，想知道是否有人故意讓商業邀約顯得私人。她沒有撕掉信封，而是把主張分類：薪水可以查證，安全承諾無法查證，要求她停止發言的條件則明確得令人擔憂。",
-          "closingEnglish": "ations about money, because neither wanted the other to worry. Now they agreed to discuss needs directly. He needed a quiet bed and regular meals; she needed help sharing the cost, not permission to make every decision for him. The next auction round offered another promotion, this time in gold letters. Li ignored the glow. The only promise she trusted that evening was the one she had made to phone her father again after both had slept.",
-          "closingChinese": "黃昏時，父親從擁擠公寓打電話來。他說不希望女兒因為自己就接受危險合約。江梨既鬆了口氣，又感到難過。他們多年來避談金錢，因為都不想讓對方擔心。如今兩人同意直接談需求。他需要安靜床位和規律飲食；她需要有人分擔開支，而不是替他做每個決定的權力。下一輪拍賣又用金字提出升職。江梨沒有理會光芒。那晚她唯一相信的承諾，是自己說好要在父女兩人都睡過以後，再打電話給他。"
+          "chapter": 12,
+          "zh": "沒有完美頁面的帳冊",
+          "openingEnglish": "On the twelfth night, the city agreed to test the old manual in a small room below the station. Its entrance was oval and led past a former miner's workshop filled with hardware. A drawing on the door showed a hawk carrying a vessel, an illustration from the first public sleep hall. Li felt dread when she saw the dust. The place had been closed for years, and absolute certainty about its safety was impossible. Samir tested the air, checked the supports, and asked everyone to fasten protective masks properly. He wanted discipline without punishment: anyone uncomfortable with the conditions could leave. The team ne",
+          "openingChinese": "第十二夜，市府同意在車站下方的小房間測試舊手冊。入口呈橢圓形，通過一處舊礦工工作間，裡面堆滿五金設備。門上畫著老鷹叼著容器，是第一座公共休息大廳的插畫。江梨看到灰塵感到不安。地方關閉多年，不可能對安全有絕對把握。薩米爾檢測空氣、檢查支撐，並請所有人固定好防護口罩。他要有紀律，但不以懲罰強制：任何人不舒服都可以離開。隊伍需要寫實的測試，不是表演完美。",
+          "closingEnglish": "e mechanical fault found, no credit returned yet, no further credit taken. She included a date for the next check and a number Mira could call. In the margin, she wrote that the procedure could still fail. Nothing about the honest account was impressive. That was its value. People who trusted the record would not be surprised by an invented success later. They could decide what risk they were prepared to take when the machine was ready.",
+          "closingChinese": "當天下午米拉回家睡了。測試尚未完成，但她不必為了表現誠意而一直待在車站。江梨傳給她一份簡單說明：一張卡被接受、找到一處機械故障、尚未退回信用額度、也未再扣取時數。她附上下次檢查日期與聯絡電話，在空白處註明程序仍可能失敗。這份誠實報告一點也不令人驚豔，卻正因如此有價值。信任紀錄的人不會日後被捏造的成功嚇一跳，也能在機器準備好時，自行決定願承擔什麼風險。"
         }
       },
       "structuralGate": true,
@@ -5044,17 +5044,17 @@
       "hook": "海港警報的錄音少了八秒，社區電台開始追查被剪掉的聲音。",
       "description": "海港警報的錄音少了八秒，社區電台開始追查被剪掉的聲音。",
       "editorialLabel": true,
-      "chapterCount": 10,
-      "privateChapters": 15,
+      "chapterCount": 12,
+      "privateChapters": 13,
       "minWords": 700,
       "minTargetWords": 20,
-      "quizzes": 20,
+      "quizzes": 24,
       "enCrossChapterSentenceReuse": 16,
       "zhCrossChapterSentenceReuse": 12,
       "chapterIssueCounts": {
-        "quiz_needs_semantic_answer_review": 20
+        "quiz_needs_semantic_answer_review": 24
       },
-      "flaggedChapters": 10,
+      "flaggedChapters": 12,
       "sample": {
         "beginning": {
           "chapter": 1,
@@ -5065,20 +5065,20 @@
           "closingChinese": "艾達曾值守當年的夜班，米拉原以為會得到簡單解釋；沒想到老人放下杯子，只問她數位化的是哪一捲。米拉指出盒上號碼，艾達的臉便繃緊了。她說，洪災多年後曾做過展覽用副本，如今已記不得哪些標籤還留著。米拉提出簡單測試：保留數位檔不動、拍下盒子，先與另一捲錄音比對，再向基金會董事說明。董事會要求週五前核准海報。米拉願意完成展覽，但不願在無法查證的宣稱下簽名。艾達終於點頭，交給她儲藏室鑰匙。"
         },
         "middle": {
-          "chapter": 6,
-          "zh": "沒有窗的房間",
-          "openingEnglish": "The trust's storage annex had no windows, only shelves of boxes and an access book that recorded visitors by date. Mara's assistant offered Mira a private interview with a former technician, but he demanded anonymity and insisted his words never reach Nia. Mira refused to promise secrecy on someone else's behalf. She said the technician could explain what he remembered off the record, while any public claim would need separate permission. He agreed, then described a donor visit in which staff had been urged to make the memorial recording sound more immediate. He had heard the request; he had not seen an actual ed",
-          "openingChinese": "基金會的附屬儲藏室沒有窗，只有一排排紙箱，以及按日期記錄訪客的出入簿。瑪拉的助理安排米拉私下訪問一位前技師，但技師要求匿名，也堅持不讓妮亞得知他的話。米拉拒絕代替別人保證保密；她說可以先不具名聽他回憶，任何公開主張仍需另外取得同意。技師答應後描述，一次捐助者來訪時，有人希望員工把追思錄音做得更像現場。他聽見了要求，卻未親眼看見剪輯。談話間米拉注意到他舊識別證上寫著一組發票號碼。經他同意後，她抄下號碼，詢問那張發票是否能辨認製作展覽音檔的公司。",
-          "closingEnglish": "al catalog. Mira requested its version history. The company replied that its files were archived and would require a formal authorization letter. Ada warned that asking for records might cause the company to destroy them if it feared blame. Mira answered that an accusation would be weaker than a careful preservation request. They sent a neutral notice asking the firm to retain relevant files while the trust reviewed source descriptions.",
-          "closingChinese": "採購登記，發現一家媒體公司在二〇二三年向基金會請款，項目是旁白與音訊清理。這只能證明有付款，不能證明不當行為；但工作說明提到一部宣傳影片，早期追思目錄根本沒有這項作品。米拉要求調閱版本歷史，公司回覆檔案已封存，必須有正式授權函。艾達擔心，一旦公司怕被怪罪，反而可能銷毀資料。米拉說，嚴謹的保存要求比直接指控更有力。她們於是發出中立通知，請公司在基金會審查來源描述期間保留相關檔案。"
+          "chapter": 7,
+          "zh": "渡輪的第二聲鐘",
+          "openingEnglish": "A ferry captain named Rafi kept a notebook full of weather, docking delays, and the times his crew rang the bell. Nia found him repairing a narrow boat behind the market. The captain remembered two distinct bell patterns on the flood night: three slow strokes from the harbor tower and, later, five quick strokes from an island rescue boat. The anniversary audio placed five quick strokes directly beneath the central announcer. Mira asked to hear any surviving recordings of routine departures. The captain had none, but his daughter had captured a training exercise on a cheap recorder the year before the storm. Its b",
+          "openingChinese": "渡輪船長拉菲的筆記本記滿天氣、靠岸延誤與船員敲鐘的時間。妮亞在市場後方找到正在修窄船的他。船長記得洪災夜裡有兩種不同的鐘聲：港塔先敲三下慢鐘，之後島上救援船敲五下快鐘。周年音檔卻把五下快鐘接在中央播報員聲音下方。米拉問是否留有平常出航的錄音。船長沒有，但他的女兒曾在災前一年用廉價錄音機錄下一次演習。裡面的鐘聲與爭議片段一樣，帶著高而薄的金屬聲。這只是提示，因為相同的鐘可能發出相近聲音，尤其經過破舊磁帶。船員同意在可控制的環境下重敲一次。",
+          "closingEnglish": "everal community stations, including Harbor Voice. The mailing list survived because the cooperative had used it to request reimbursement for postage. Nia photographed the list with permission. For the first time they had a documented path by which an old bell could have entered the memorial studio. Mira marked it as a possible source, not the source. Rafi laughed at her cautious wording, then said the difference was why he trusted her.",
+          "closingChinese": "鐘聲，並邀一位大學技師旁觀。錄音證明快鐘有可能來自島船，不能證明周年剪輯者一定使用那份來源。拉菲接著說出更有用的事：女兒曾把演習錄音寄給幾個社區電臺，包括港聲。寄件名單因合作社曾申報郵費補助而留存。妮亞經同意拍下名單。她們第一次掌握一條有文件證明的路徑，說明舊鐘聲如何可能進入追思錄音室。米拉把它標成「可能來源」，不是「確定來源」。拉菲笑她用字小心，卻也說正是這種區別使他信任她。"
         },
         "ending": {
-          "chapter": 10,
-          "zh": "沒有署名的收據",
-          "openingEnglish": "A media company's archive manager finally answered Mira's request. She could not release private client files, but she could confirm that the original promotional project had a delivery schedule and several numbered revisions. The trust's board authorized a limited comparison of file metadata, with no access to unrelated work. One revision was delivered days before the anniversary fundraising campaign, years after the flood. Its notes instructed the editor to remove a visible RECONSTRUCTION card at the opening of the film. No document showed who had written that instruction. The manager said the request had arriv",
-          "openingChinese": "媒體公司的檔案經理終於回覆米拉。她不能交出私人客戶檔案，卻能確認最初宣傳案有交件時程與數個編號版本。基金會董事授權有限度比對檔案中繼資料，不得碰觸無關案件。其中一版是在周年募款前幾天送交，距洪災已有多年。編輯備註要求移除影片開頭看得見的「重建版」字卡。沒有文件顯示誰寫了指示。經理表示要求來自共用的專案帳號。米拉在旁人見證下記錄檔案雜湊與時間戳。畫面上的文字確實被改了；誰下令改動，仍無定論。",
-          "closingEnglish": "en a reconstruction, and the later film presented as a live record. Mara accepted a temporary correction but opposed refunding donors until the financial records could be reviewed. Mira considered the position defensible as an interim step. Then she received an email from a family whose father's voice seemed to appear in the montage. They had never given permission for a fundraising film. The question was no longer only about the clock.",
-          "closingChinese": "案的公開描述。瑪拉擔心這樣看起來像承認蓄意造假。妮亞回應，更正一項已證實不準確的標籤，並不等於先判定動機。臨時董事會上，艾達解釋原始追思拼接——從一開始就標為重建——與後來被當成現場紀錄的影片有何不同。瑪拉同意暫時更正，但反對在查清財務紀錄前就退款。米拉認為這可以作為過渡措施。接著，一個家庭寄來電郵，表示影片裡似乎有他們父親的聲音；他們從未授權把聲音用於募款。問題不再只有時鐘。"
+          "chapter": 12,
+          "zh": "晚到的稿本",
+          "openingEnglish": "The media company's preserved drafts arrived with an audit record from its independent archivist. An early storyboard displayed a large caption: RECREATED FROM PUBLIC ANNOUNCEMENTS. A later storyboard removed it. Mira compared the narration script with a photocopy from Ada's memorial folder and found nearly identical language, including a grammatical error that no broadcaster would have been likely to repeat by chance. The script had been written for the memorial, years after the flood. That was strong evidence of the film's source, though not of the precise sounds underneath. Nia suggested that the public correc",
+          "openingChinese": "媒體公司保存的草稿，連同獨立檔案員的稽核紀錄送到了。早期分鏡有一行很大的說明：「依公開公告重建」；後期分鏡則將它刪去。米拉把旁白稿與艾達追思資料夾裡的影本比較，發現文字幾乎相同，甚至保留一處播報員不太可能偶然重複的文法錯誤。稿本明明是在洪災多年後才寫成的追思用稿。這強烈支持影片的來源判斷，卻不能直接證明底下每一道聲音取自何處。妮亞主張公開更正時把這點寫清楚。瑪拉的律師要求，在未確定誰下令變更及募款材料如何揭露前，避免使用「詐欺」一詞。米拉雖同意，卻也不滿謹",
+          "closingEnglish": " He listened for half a minute, then chose to withdraw the clip from future public screenings while allowing the institution to preserve a restricted evidence copy. Nia reported the decision without naming the company employee who had placed the audio. Responsibility for permission belonged to the project, not to a single junior editor. The investigation had found a clear misuse, but the remedy had to honor the speaker's present choice.",
+          "closingChinese": "入重建警報。他很多年前允許追思團隊錄一段公開訪談，授權書卻只准教育展示；募款影片超出了用途。米拉停止放映檔流通，詢問索爾想怎麼處理。索爾聽了半分鐘，決定未來的公開放映都撤下他的聲音，但允許機構保留一份受限制的證據副本。妮亞報導這項決定，沒有點名放入音訊的公司基層剪輯員。取得授權是整個專案的責任，不該隨意推給一名新人。調查找到了明確的不當使用，補救方式也必須尊重說話者現在的選擇。"
         }
       },
       "structuralGate": true,
@@ -5093,17 +5093,17 @@
       "hook": "林遙返鄉守住救援站，追查從統計中消失的求援紀錄。",
       "description": "林遙返鄉守住救援站，追查從統計中消失的求援紀錄。",
       "editorialLabel": true,
-      "chapterCount": 10,
-      "privateChapters": 15,
+      "chapterCount": 12,
+      "privateChapters": 13,
       "minWords": 644,
       "minTargetWords": 20,
-      "quizzes": 20,
+      "quizzes": 24,
       "enCrossChapterSentenceReuse": 0,
       "zhCrossChapterSentenceReuse": 0,
       "chapterIssueCounts": {
-        "quiz_needs_semantic_answer_review": 20
+        "quiz_needs_semantic_answer_review": 24
       },
-      "flaggedChapters": 10,
+      "flaggedChapters": 12,
       "sample": {
         "beginning": {
           "chapter": 1,
@@ -5114,20 +5114,20 @@
           "closingChinese": "熄燈前，林遙把男孩的壞無線電放進標記清楚的證物袋。它不是違規的證據，而是有人曾努力求助的證據。她把家人的聯絡方式寫在另一份保密冊中，鎖進抽屜；公開版本則不列姓名。這個區分很重要。縣府也許有天會修改統計方式，但林遙希望「先取得同意」的習慣從今晚就開始。"
         },
         "middle": {
-          "chapter": 6,
-          "zh": "沒有電池的訊號器",
-          "openingEnglish": "The inventory audit began with an empty slot. A rescue beacon had been marked ready although its battery had been removed months earlier. The staff had not concealed the removal; the paper repair slip hung beneath the workbench. Only the digital count had failed to change. Yao assigned a second person to check each device and required the volunteers to sign the result together. Rui offered to build an automatic inventory tool. She accepted the prototype only on the condition that the paper record would remain accessible when the power failed. An airtight storage box protected the rare maps from damp weather. The ",
-          "openingChinese": "設備盤點從一個空格開始。一具救援訊號器被標為待命，電池卻在數月前已拆下。工作人員沒有隱瞞，維修紙條就掛在工作檯下方；只有數位數量一直沒改。林遙安排第二人複查每一具設備，要求志工共同簽署結果。程睿提出製作自動盤點工具，她同意測試原型，但條件是停電時仍須能查閱紙本紀錄。 密封儲物箱保護珍稀地圖不受潮氣侵害。 團隊希望在冬季前達成公平班表。 來訪的國會女議員向居民詢問道路情況，而非訓話。 美玲為疲憊的救援站志工煮了蔬菜咖哩。 林遙不鄙視對經費有不同意見的鄰居。",
-          "closingEnglish": "ag to every device awaiting repair. On the wall she hung a chart showing who would confirm each completed test. When a visitor asked why the station displayed so many faults, Yao pointed to the dates beside them. Problems that could be seen could also be addressed. She would have preferred a clean wall, but she trusted this honest one more. For the first time the equipment room looked less like a display and more like a working service.",
-          "closingChinese": "芬姨替每具待修裝備掛上黃色標籤，牆上則張貼完工測試由誰確認的表格。訪客問為何要展示那麼多故障，林遙指著旁邊日期說明：能被看見的問題，才有機會被處理。她當然希望牆面整齊，卻更信任這面誠實的牆。設備室第一次不像展示間，而像真正運作中的服務場所。"
+          "chapter": 7,
+          "zh": "每個人都能走的路",
+          "openingEnglish": "The trial route crossed an old hillside plantation and then reached a narrow lookout. County maps marked it accessible, yet a volunteer who used a cane found the lower gate difficult to open. The station had been designing routes for healthy adults while calling the result public service. Yao invited residents with different mobility needs to review the plan and paid them for their time. Rui changed the map legend, but Yao insisted that a label alone could not remove a physical barrier. The gate would remain closed until its owner agreed to a safe modification. A bulky equipment case would not fit through the nar",
+          "openingChinese": "試辦路線穿過山坡上的舊種植園，通向一處狹窄觀景台。縣府地圖將它標為無障礙，但一名拄杖志工連下方的門都很難打開。救援站一直以健康成年人的條件設計路線，卻稱那是公共服務。林遙邀請行動需求不同的居民審查計畫，並支付參與費。程睿修改圖例，林遙仍強調更改標籤不能消除實際障礙。地主同意安全修改前，通道保持封閉。 一只笨重的裝備箱無法通過狹窄大門。 林遙不會未查收據就認定學生有罪。 歷史社團討論獨裁統治如何壓制異議。 紙飛機彷彿滑過安靜的訓練室。 學生在村莊安全市集展示",
+          "closingEnglish": " the gate. The new route would be less spectacular, but it had places to rest and a way to ask for help. She imagined her younger self treating a successful summit photograph as proof of good planning. Now she knew that the quieter route often taught more. Rui had written the objections on the map in a different color, leaving space for future changes. She appreciated that he had not erased the line that showed where disagreement began.",
+          "closingChinese": "林遙最後看了一眼那道門。新路線不那麼壯觀，但設有休息處，也能方便求助。她想起年輕時的自己，可能會把登頂照片當成計畫良好的證明。現在她明白，較安靜的道路往往教會人更多。程睿用另一種顏色在地圖上記下反對意見，留出未來修改空間。她欣賞他沒有擦去分歧從何開始的線。"
         },
         "ending": {
-          "chapter": 10,
-          "zh": "消失的分類",
-          "openingEnglish": "The independent auditor arrived with a question nobody at the county office could answer: why did a call from a resident become invisible when it passed through the tourism booking system? The software retained the time of the call but changed its category before reports were compiled. Yao supplied paper logs, without asking the auditor to trust her interpretation. The auditor tested a sample against dispatch records and found the same error across several years. Some entries were innocent mistakes; others appeared to follow a change requested by an administrator whose name was not visible on the public file. An ",
-          "openingChinese": "獨立稽核員帶著縣府無法回答的問題來了：居民求援電話為何經過觀光訂位系統後就消失？軟體保留通話時間，卻在彙整報告前改了分類。林遙提供紙本紀錄，沒有要求稽核員相信自己的解讀。稽核員抽樣比對派遣紀錄，發現同樣錯誤跨越好幾年。有些是單純疏失，有些似乎跟隨某次管理員要求的變更，但公開檔案上看不到申請者姓名。 安全動畫中栩栩如生的角色教孩子質疑數字。 講師用簡單算術比較求援來電與已登記派遣數量。 學生稱更正圖表很棒，接著追問它如何製作。 午餐志工在會議桌旁切西洋芹。 ",
-          "closingEnglish": "ng a separate public index of what had been examined. Yao asked the team to count one more thing: how many residents had been informed of the corrections. A database could become accurate without the people it described ever knowing. Fen volunteered to help organize the notices in plain language. Rui offered to check that the printed route numbers matched the new map. Their work remained incomplete, but its direction was finally shared.",
-          "closingChinese": "稽核員把數位副本存進受控檔案室，另留下可公開查閱的審查索引。林遙請團隊再計算一件事：有多少居民真正收到更正通知。資料庫可能變準確，卻讓被記錄的人毫不知情。芬姨自願整理白話通知，程睿協助確認紙本路線編號與新地圖一致。工作仍未完成，但大家終於有了共同方向。"
+          "chapter": 12,
+          "zh": "冬夜的房間",
+          "openingEnglish": "The lower village offered its unused community hall as a winter shelter. The plan sounded generous until a nurse asked where people with breathing difficulties would sleep and who would supervise the heating system. Yao added those questions to the official plan. She refused to treat an empty building as a functioning refuge without checking its water, exits, and accessible rooms. A local carpenter repaired a damaged door while volunteers counted blankets. Their work was ordinary, careful, and far less photogenic than a rescue helicopter. An attendant kept the temporary shelter staffed while the path remained clo",
+          "openingChinese": "山下村落提供閒置活動中心作為冬季避難所。這個提案聽來慷慨，直到護理師問呼吸困難者該睡哪裡、暖氣由誰管理。林遙把問題寫進正式計畫。她拒絕把空房子直接當成可以使用的避難所，沒有檢查水、出口和無障礙房間前不算完成。木匠修好破門，志工清點毯子。這些工作平凡仔細，遠不如救援直升機適合拍照。 步道封閉期間，一名服務員持續留守臨時避難所。 學校廚師為滯留訪客調製煎餅麵糊。 最新人口普查顯示部分家庭被原始服務地圖遺漏。 退休化學師協助解釋舊橋油漆剝落的原因。 臨時圍欄外，",
+          "closingEnglish": "public. Yao agreed, even though the extra inspection would delay the announcement. A building could pass on paper and still be difficult for a frightened person to navigate in darkness. Volunteers tested the directions without revealing the answers first. They found one confusing turn and moved the sign. By midnight, the most valuable result was not a photograph of a ready shelter, but a list of small problems that could still be fixed.",
+          "closingChinese": "護理師要求避難所公開啟用前先進行夜間試走。林遙答應，即使多一次檢查會延遲公告。建築可能在紙面上合格，驚慌的人在黑暗裡卻未必找得到路。志工不先公布答案，實際測試指引，找到一個容易走錯的轉角，移動了標示。午夜時最有價值的不是準備完成的照片，而是一份仍能修好的小問題清單。"
         }
       },
       "structuralGate": true,
@@ -6010,6 +6010,300 @@
           "openingChinese": "首次大停電一年後，公司公布第一份經獨立驗證的安全報告，列出修復的饋線、曾失靈的警報器、已支付的補償與仍在申訴的事項。見遙完成交接，不再是執行長。何晴在可受監督的董事會下領導工程，工人代表保有停止危險作業的權利。城市仍不完美，但緊急決策不再取決於某個家族的祕密簽名。",
           "closingEnglish": "e judge's careful finding could stun the public without turning justice into entertainment. Successive inspections would continue after Jianyao resigned from the executive position. The recovered treasury funds were allocated first to repair and compensation obligations. A slight vibration during the final test was recorded even though the equipment passed. The clerk corrected one missing vowel in the public report before it was issued.",
           "closingChinese": "法官謹慎的裁定可能震驚公眾，但不會把正義變成娛樂。 見遙辭去執行長後，連續的檢查仍將繼續。 追回的財庫款項優先分配給修復與賠償義務。 最後測試中即使設備通過，輕微震動仍被記錄。 書記在公開報告發行前更正一個漏掉的母音字母。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "light-novel-1a",
+      "name": "轉學生的尾巴，藏不住了！",
+      "genre": "校園奇幻",
+      "level": "1000以下",
+      "hook": "轉學生海藏著一條藍色龍尾巴。當理子發現他的祕密，兩人得一起完成雲上世界交代的五項校園任務。",
+      "description": "轉學生海藏著一條藍色龍尾巴。當理子發現他的祕密，兩人得一起完成雲上世界交代的五項校園任務。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 649,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "七號課桌下的尾巴",
+          "openingEnglish": "At seven a.m., Riko Tanaka was already early for school. She had eaten breakfast on the couch because her little brother was doing exercise in the kitchen. He had left a heavy book on her lunch bag, and a slice of cake had fallen out of its box. Riko took the cake back, added some fruit, and ran into the morning sun. It was a new school term at Minato Middle School. The bell would ring soon, and her biggest worry was a science test. She did not know that a far bigger surprise was sitting under desk seven, with blue eyes, silver hair, and a tail that did not belong to a human boy.",
+          "openingChinese": "上午七點，田中理子已經提早準備上學。弟弟在廚房做運動，她只好坐在沙發上吃早餐。他把一本厚重的書壓在她的午餐袋上，害一小片蛋糕掉出盒子。理子把蛋糕放回去，添上水果，就迎著晨光出門。這是港南國中的新學期。鐘聲快響了，她最大的煩惱原本只是科學考試。她還不知道，七號課桌下坐著更驚人的祕密：一個有藍眼睛、銀色頭髮，以及不屬於人類男孩的尾巴的學生。",
+          "closingEnglish": "f trying to frighten her. She remembered how carefully he had held his notebook and how he had tried to hide his fear. At dinner, her brother asked why she was so quiet. “I met someone new,” Riko answered. She wanted to write everything down, but she had promised not to tell his secret. She opened a fresh page and gave it a safer title: “Things I Need to Understand.” Under it she wrote a single question: “Can a dragon become my friend?”",
+          "closingChinese": "家路上，理子滿腦子都是數不清的疑問。班上出現一隻龍，聽起來像小說的第一章，怎麼看都不像普通星期一。但海沒有嚇人，而是向她求助。她想起他小心抱著筆記本，以及努力藏住恐懼的樣子。晚餐時弟弟問她怎麼那麼安靜。「今天認識了一個新同學。」理子回答。她很想把事情全寫下來，卻已答應保密。於是她翻開新的一頁，寫下一個比較安全的標題：「我還需要弄懂的事。」下方只有一句：「龍也能成為我的朋友嗎？」"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "兩條路的山門",
+          "openingEnglish": "The next day the class took a short trip into the city for a local history lesson. Near a hotel stood an old stone gate with two roads leading away from it. One road went to the river. The other went to a small market. Their teacher told everyone to stand in the same place while she counted heads. Kai wanted to look at the rock beside the gate because it had a shape like a dragon's eye. “May I go?” he asked. The teacher said he could, but only when the group moved together. Kai stayed. A few weeks ago he might have gone ahead without thinking.",
+          "openingChinese": "隔天，全班到市區上地方歷史課。飯店附近有一道古老石門，從那裡分出兩條路，一條通往河邊，一條通往小市場。老師要大家站在同一位置，方便點名。海想看石門旁那塊像龍眼的岩石。「我可以過去嗎？」他問。老師說可以，但要等全組一起移動。海留在原處。幾週前，他可能根本不會想就自己先跑過去。",
+          "closingEnglish": "isit the human school soon and see whether Kai was learning enough. Kai felt his stomach turn. Aunt Nagi was kind in her own way, but she believed that every young dragon should become strong before doing anything else. He did not know how to show her the value of a small helpful answer to a traveler. He told Riko and Yuna the next morning. “Then we can tell her what we have seen,” Yuna said. “But you must speak first. It is your life.”",
+          "closingChinese": "那晚，海的風鏡浮出一張訊息，是他的阿姨凪傳來的。凪非常重視家族規則，說自己很快會來人類學校，看看海學得夠不夠。海心裡一沉。阿姨有她的善意，但她相信每條年幼的龍在做其他事之前，都必須先變強。海不知道該如何讓她明白，替陌生旅人指路也有價值。隔天早上，他把消息告訴理子與優奈。「那我們就告訴她我們看到的事。」優奈說，「但你要先開口，因為這是你的人生。」"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "選擇兩個家的龍",
+          "openingEnglish": "On Friday evening the town was noisy after the festival party. People went home carrying little gifts from the store sale. Near the hill, a theater had just finished its last show. Riko, Yuna, Toma, and Sota met Kai at the stone gate. Aunt Nagi stood beside a man with kind eyes: Kai's father. Beyond the mirror, a great dragon king waited with Teacher Sumi. Kai saw the bright clouds of home and felt lucky to be able to see them again. He could hear his sister calling his name. No one told him to hurry. It was his turn to speak, and they all waited for his first word.",
+          "openingChinese": "星期五傍晚，學園祭派對散場後，鎮上仍很熱鬧。人們帶著商店特賣的小禮物回家，山丘附近的劇院也剛結束最後一場演出。理子、優奈、斗真和蒼太在石門前與海會合。凪阿姨站在一位眼神溫柔的男人旁，那是海的父親。鏡子的另一邊，偉大的龍王與澄老師正在等候。海看見家鄉明亮的雲，覺得自己很幸運還能再見到它們，也聽見妹妹呼喚自己的名字。沒有人催促。他終於輪到自己發言，所有人都在等第一句話。",
+          "closingEnglish": "d Kai for a short family visit. Kai put the paper bag on Riko's table. Inside was a little wooden bird with a bright blue wing, made by his sister. It was not for sale and did not have any magic. It was simply a gift. The group walked to class together as the second bell rang. Riko looked at her friend and smiled. When she had first met him, she had asked whether a dragon could become her friend. Now she knew the answer. He already was.",
+          "closingChinese": "理子笑得太大聲，連斗真都從課桌抬頭。「只有幾堂課而已。」她說。優奈抱著課本走進門，蒼太也跟在海身後，這次是短期家屬探訪。海把紙袋放在理子桌上，裡面是一隻妹妹做的木鳥，翅膀漆成明亮的藍色。它不能出售，也沒有魔法，只是一份禮物。第二次鐘響時，大家一起走向教室。理子看著朋友微笑。第一次遇見他，她曾問自己：一隻龍能成為我的朋友嗎？現在她知道答案。他早就已經是了。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "light-novel-2a",
+      "name": "轉生後只有一格道具欄！？——我在迷宮裡當上了最弱勇者",
+      "genre": "異世界奇幻冒險",
+      "level": "1000–2000",
+      "hook": "任在異世界抽到一格道具欄。當迷宮開始移動，他只能和嚮導、小石龍一起想辦法，用這一格救下小鎮。",
+      "description": "任在異世界抽到一格道具欄。當迷宮開始移動，他只能和嚮導、小石龍一起想辦法，用這一格救下小鎮。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 661,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "只有一格的道具欄",
+          "openingEnglish": "The first thing Ren saw after waking in another world was a blue window floating above his nose. It said, \"Welcome, chosen hero. Your special skill is ONE SLOT.\" Below the words was the picture of a tiny empty box. Ren, who had been a twenty-year-old student in Japan yesterday, waited for a second page. None appeared. From the balcony of the town hall, the people watched him with great belief. Their president had promised that a hero would save the nation from the moving maze below the city. \"Can my skill stop a monster?\" Ren asked. The operator of the magic gate shook his head. \"It can hold one small object for ",
+          "openingChinese": "任在異世界醒來，第一眼看見的是漂浮在鼻尖上方的藍色視窗。「歡迎，被選中的勇者。你的特殊技能是『一格道具欄』。」文字下面只有一個空小格。昨天還是日本二十歲大學生的任，等著第二頁出現，卻什麼也沒有。市政廳的陽臺上，民眾滿懷信念地望著他。他們的議長曾保證勇者會拯救國家，阻止城下不斷移動的迷宮。「這技能能擋怪物嗎？」任問。魔法門操作員搖頭：「只能放一件小東西，維持十分鐘，就這樣。」任覺得這實在不是成為傳說的好方法。",
+          "closingEnglish": " enough space for his arm if he lay flat. Pebble pushed dust away with his nose. Ren stored the pin so it would not catch on the gap, slid his arm through, and brought it back into his palm. The pin clicked into place. The gate opened a little. Mira pulled it wide, and the first cart rolled free. The crowd cheered. Ren checked his window: one hour until he could use the slot again. \"Great,\" he said. \"I saved one cart and lost my lunch.\"",
+          "closingChinese": "比手指還小。任不能把道具隔空傳過牆；他只能收起親手碰到的東西，再讓它回到自己的掌心。他研究門下方的縫隙，發現只要整個人趴平，手臂剛好能伸過去。小石用鼻子把灰塵推開。任先收起插銷，免得伸手時卡住，再把手臂探進去，讓插銷回到掌中。金屬輕響一聲，門鬆開了。米拉用力拉開門，第一輛貨車終於通過。人群歡呼。任查看視窗：道具欄得等一小時才能再用。「太好了，」他說，「救了一輛車，午餐卻沒了。」"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "天空地圖上的洞",
+          "openingEnglish": "The third bell was supposed to stand near an old stream, but the map showed only a dark hole. \"Anyway, we have to consider the whole route,\" Mira said. She opened a brief cartoon guide made by former workers. The pictures showed a sailor riding a motorcycle across an empty bridge. Ren laughed at the ugly drawing. Then he noticed the important detail: the road was painted in two colors. The lower path carried clean water; the upper path carried waste from the machine rooms. The streams were separate for a reason. If they were joined, dirty water could reach the town. \"We should not test this by drinking it,\" Ren s",
+          "openingChinese": "第三個鐘應該在舊溪流旁，但地圖上只畫著一個黑洞。「總之，得考慮整條路線。」米拉說。她打開昔日工人畫的簡短漫畫指南。圖上有個水手騎摩托車過空橋，醜陋畫風讓任笑出聲。但他發現重要細節：道路被塗成兩種顏色。下層運送乾淨的水，上層帶走機房的廢水。兩條溪流分開是有原因的；若接在一起，髒水就可能流進小鎮。「這種事別靠喝水測試。」任說。米拉毫無笑意地表示同意。",
+          "closingEnglish": " to label them clearly and keep them in separate boxes. Ren offered to help carry the boxes, but he did not touch the samples without gloves. It was another small rule that would never appear on a hero's poster. He thought about how easy it was to praise courage and forget the ordinary care behind it. Then Pebble sneezed and knocked over an empty cup, reminding him that even quiet work could become exciting with the wrong dragon nearby.",
+          "closingChinese": "日落後，米拉把兩份水樣和對應紀錄放在一起。顏色相近，但一份採自機房上游，一份採自下游。她請工作人員清楚標記，放進不同箱子。任自願搬箱，卻沒有在未戴手套時碰樣本。又是一條永遠不會印在勇者海報上的小規則。他想到人們多容易稱讚勇氣，卻忘了背後日常的照顧。接著小石打噴嚏，把空杯子撞翻，提醒他有不對的小龍在旁，安靜工作也可能變刺激。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "由我選擇的唯一一格",
+          "openingEnglish": "On festival morning, Ren was absent from the hero parade. He was standing among the workers at the station, helping them apply the new safety rules. A gentle melody played across the square. The principal of the guide school held a small court ceremony to thank everyone who had helped. Ren felt foolish when the crowd called his name. He had not found a magic sword or defeated a dark king. He had carried a small pin, held a ruler, and written records. His most useful skill was still just one slot. Yet when he looked at the flowing crowd, he could figure out why the work mattered. People were moving freely between ",
+          "openingChinese": "祭典早晨，任缺席勇者遊行。他和站務工人站在一起，幫忙套用新安全規則。溫柔的旋律飄過廣場。嚮導學校校長主持簡單的公開表揚儀式，感謝每位協助的人。人群叫出任的名字，他有點傻氣地不好意思。他沒找到魔法劍，也沒擊敗黑暗國王。他只搬過小插銷、扶過尺、寫過紀錄。最有用的技能仍只有一格。但看著流動的人群，他終於想明白工作為何重要。大家能自由往來自己的家，這條路也重新屬於他們。",
+          "closingEnglish": "d a child helped wash the little signs by the entrance. Ren asked whether they needed help. The worker handed him a clean cloth, and he joined them. It was a task no one would record in a history book. Yet the clear glass allowed people to see the warning lights inside. Ren smiled at the simple connection between a clean window and a safe road. He looked at his empty blue slot and decided to leave it empty until someone truly needed it.",
+          "closingChinese": "那天晚上，任回到車站做最後一次巡走。他看見人們毫無恐懼地通過門口。一名工人在擦窗，孩子幫忙清洗入口的小告示。任問需不需要協助。工人交給他乾淨的布，他便加入。這任務不會被寫進史書，但清澈玻璃讓人們能看見裡面的警示燈。任微笑，體會到乾淨窗戶與安全道路之間簡單卻重要的連結。他看向空空的藍色道具欄，決定等真正有人需要時，再把東西放進去。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "light-novel-3a",
+      "name": "月光失物招領社，今天也不接受退貨！",
+      "genre": "校園奇幻戀愛",
+      "level": "2000–3000",
+      "hook": "一隻紙狐狸把花穗帶進社團教室。裡面的機器不收錢，卻會印出人們遺失的約定。",
+      "description": "一隻紙狐狸把花穗帶進社團教室。裡面的機器不收錢，卻會印出人們遺失的約定。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 613,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 72,
+      "zhCrossChapterSentenceReuse": 37,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "把我撿回去的社團",
+          "openingEnglish": "At Hoshimi University, nineteen-year-old Kaho Fujisawa wanted only a quiet first semester. Instead, a paper fox climbed out of her lunch bag and declared that she belonged to the Moonlight Lost-and-Found Club. Itsuki said a three-hour trial membership was perfectly acceptable. Aoi promised to advise Kaho about the machine's strange buttons. Kaho had promised herself she would not join another troublesome project. Yet an unanswered question always had a way of following her home. She opened her notebook instead of pretending not to care. The decision seemed small, but Itsuki noticed it immediately and moved aside ",
+          "openingChinese": "十九歲的藤澤花穗只想在星見大學安靜度過第一學期。沒想到，一隻紙狐狸從她的午餐袋爬出來，宣布她已經被月光失物招領社錄取。 樹說先試加入三小時完全可以接受。 葵答應教花穗認識機器那些奇怪的按鈕。 花穗曾答應自己不再加入麻煩計畫，但還沒回答的問題總會一路跟著她回家。她打開筆記本，沒有假裝不在乎。這決定看似微小，樹卻立刻注意到，還挪開位置讓她坐下。 花穗把下巴靠在一疊未完成的海報上。 麻糬偷走花穗午餐袋裡的椰子麵包。",
+          "closingEnglish": "ew one fact she had not known before. Itsuki thanked her without making a grand speech. Mochi demanded that gratitude be served with a biscuit. A photograph showed a festival painter standing beside her twin. The fox gave a loud whistle whenever someone mentioned cake. Kaho put the lantern picture into her notebook, even though she had promised never to draw in front of strangers again. She had already broken one rule of her own making.",
+          "closingChinese": " 褪色的告示說這間教室內禁止菸草。 當大家收好東西時，這一天已經和花穗原本想的不一樣。她沒有解決所有問題，卻知道了一件先前不知道的事。樹沒有發表長篇演說，只簡單道謝。麻糬則要求感謝必須附一塊餅乾。 一張照片拍到祭典畫家和她的雙胞胎手足站在一起。 每當有人提到蛋糕，狐狸就會吹出響亮的口哨。 花穗把燈籠圖片放進筆記本，雖然她曾說不再當著陌生人的面畫畫。她已經打破自己訂下的一條規矩。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "紙狐狸的生日",
+          "openingEnglish": "Mochi announced that its birthday was today and demanded a celebration worthy of a royal guardian. Nobody knew when a fox made of folded paper had actually been born. The paper fox could amaze any child with a simple jump. Mochi grew anxious when nobody knew its real birthday. Kaho had promised herself she would not join another troublesome project. Yet an unanswered question always had a way of following her home. She opened her notebook instead of pretending not to care. The decision seemed small, but Itsuki noticed it immediately and moved aside to make room for her. A green bud appeared beside the picnic blan",
+          "openingChinese": "麻糬宣布今天是牠的生日，要求大家辦一場配得上王室守護者的慶典。沒人知道一隻摺紙狐狸真正是哪天誕生的。 紙狐狸只要簡單一跳，就能讓孩子驚嘆。 沒人知道麻糬真正的生日，讓牠焦慮起來。 花穗曾答應自己不再加入麻煩計畫，但還沒回答的問題總會一路跟著她回家。她打開筆記本，沒有假裝不在乎。這決定看似微小，樹卻立刻注意到，還挪開位置讓她坐下。 野餐毯旁長出一顆綠色嫩芽。 花穗在派對桌上掛了紙護符祈求好運。",
+          "closingEnglish": ", but she knew one fact she had not known before. Itsuki thanked her without making a grand speech. Mochi demanded that gratitude be served with a biscuit. Mochi made everyone swear not to forget next year's cake. A paper tag beside the fox's pattern named its first artist. Mochi carefully folded the creator's card into its own paper body. It said this was not hiding the past; it was carrying the beginning of its story wherever it went.",
+          "closingChinese": "替麻糬做了一條溫暖圍巾。 樹在讀空的留言前喝了一口茶。 當大家收好東西時，這一天已經和花穗原本想的不一樣。她沒有解決所有問題，卻知道了一件先前不知道的事。樹沒有發表長篇演說，只簡單道謝。麻糬則要求感謝必須附一塊餅乾。 麻糬要大家發誓不忘記明年的蛋糕。 狐狸圖樣旁的紙標籤寫著最初的設計者。 麻糬小心把設計者卡片折進自己的紙身體，說這不是藏起過去，而是把故事起點帶到每個要去的地方。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "不接受退貨，只有明天",
+          "openingEnglish": "Winter arrived at Hoshimi University, and the Moonlight Lost-and-Found Club opened a new workshop in the same small room. Its sign now included an honest list of what the booth could not do. New students climbed aboard the club's little festival cart. A painted beetle decorated the winter workshop's welcome sign. Kaho had promised herself she would not join another troublesome project. Yet an unanswered question always had a way of following her home. She opened her notebook instead of pretending not to care. The decision seemed small, but Itsuki noticed it immediately and moved aside to make room for her. Mochi ",
+          "openingChinese": "冬天來到星見大學，月光失物招領社在同一間小教室開設新工作坊。招牌如今也誠實列出機器做不到的事。 新學生登上社團的小祭典推車。 一隻畫出來的甲蟲裝飾冬季工作坊迎賓牌。 花穗曾答應自己不再加入麻煩計畫，但還沒回答的問題總會一路跟著她回家。她打開筆記本，沒有假裝不在乎。這決定看似微小，樹卻立刻注意到，還挪開位置讓她坐下。 麻糬願意用三塊餅乾打賭新印表機能運作。 一段簡短廣播邀請鄰居參加下次免費繪畫課。",
+          "closingEnglish": "making a grand speech. Mochi demanded that gratitude be served with a biscuit. Itsuki helped turn the empty classroom into a small art studio. Mochi insisted that every box of forgotten stuff deserved a story. Kaho reminded the newcomers never to blame a victim for seeking help. Kaho placed a blank drawing sheet on the desk for tomorrow's visitors. There was no name, no obligation, and no promise of a perfect result, only room to begin.",
+          "closingChinese": " 當大家收好東西時，這一天已經和花穗原本想的不一樣。她沒有解決所有問題，卻知道了一件先前不知道的事。樹沒有發表長篇演說，只簡單道謝。麻糬則要求感謝必須附一塊餅乾。 樹幫忙把空教室變成小小的藝術工作室。 麻糬堅持每箱被遺忘的雜物都值得有故事。 花穗提醒新社員，絕不能責怪尋求幫助的受害者。 花穗在桌上放了一張空白畫紙給明天的訪客。上面沒有名字、義務或完美結果的保證，只有開始的空間。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "light-novel-4b",
+      "name": "1998，被刪除的女主角拒絕退場！",
+      "genre": "年代奇幻",
+      "level": "3000–4000",
+      "hook": "千景返鄉清理即將出售的手繪動畫工房，卻在舊燈箱裡遇見一名被刪除的女主角。",
+      "description": "千景返鄉清理即將出售的手繪動畫工房，卻在舊燈箱裡遇見一名被刪除的女主角。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 615,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "沒畫完的少女",
+          "openingEnglish": "In April 1998, Morino Chikage returned to the small animation studio behind Tsukimi Station with two suitcases and a terrible prediction: it would be sold by Friday. She was thirty-five, and the studio's founder was her mother. A rain-soaked notice announced a property presentation for potential buyers. Chikage carried a cushion from her childhood cottage and set it on the cracked office chair. Her mother had always called animation a spiritual calling; Chikage considered the unpaid overtime a tremendous violation of common sense. Still, the smell of paper and paint made her chest ache. \"I came to close the place",
+          "openingChinese": "一九九八年四月，三十五歲的森野千景拖著兩個行李箱，回到月見車站後方的小動畫工房。她的預測十分糟糕：星期五以前，工房就會被賣掉。創辦工房的是她母親。門上被雨淋濕的公告寫著要為潛在買家舉行資產說明會。千景把從童年小屋帶來的坐墊放上裂開的辦公椅。母親總說動畫是一種精神使命；千景則認為不支薪加班是嚴重違反常識的事。然而，紙與顏料的氣味仍讓她胸口微微發疼。「我是來好好關門的。」她對空房間說。「別自作多情。」",
+          "closingEnglish": "ho owned the rejected pilot drawings. Her mother answered that the studio possessed the originals but not every musical recording. \"Do not promise a finished film before checking the contracts.\" Akari, listening from the painted sky, held a finger to her lips. Chikage realized that keeping a magical secret and keeping honest accounts might become the same difficult job. On Friday, buyers would arrive; on Thursday, she would need a plan.",
+          "closingChinese": "本的隔熱板還在不在。「燈不是玩具。」她說。「人也不是。」千景猶豫著要不要傳達自己看見的奇蹟，最後改問那些廢棄試播片究竟歸誰所有。母親回答，工房擁有原始畫稿，卻不擁有全部配樂錄音。「查清楚合約前，不要承諾完成影片。」燈里坐在畫好的天空裡，對千景豎起一根手指示意保密。千景突然發現，守住奇幻祕密與守住誠實帳目，也許會變成同一份困難的工作。星期五買家就會上門；星期四之前，她得有個辦法。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "誰也不想算的那筆帳",
+          "openingEnglish": "The studio's roof began leaking just as the rainy season grew stronger. Chikage performed a calculation using the repair estimate, the insurance deductible, and the cash left after wages. The result was miserable. Even if the library renewed its contract, the company would lag behind its payments for another six months. Yui offered to use the studio's spare camera as security for a loan. Chikage refused. \"A loan can extend time, but it doesn't make the problem vanish.\" She asked the accountant to clarify which repairs were urgent and which could wait. The roof above the archive was an obstacle that could not be p",
+          "openingChinese": "雨季轉強時，工房屋頂開始漏水。千景把修繕估價、保險自付額及扣除薪水後的現金放在一起計算，結果糟透了。即使圖書館續約，公司接下來六個月仍可能落後付款。小結提議拿工房的備用攝影機抵押借款，千景拒絕。「貸款能延長時間，但不會讓問題消失。」她請會計師釐清哪些修繕最急，哪些能等。檔案室上方的屋頂，就是不能延後處理的障礙。",
+          "closingEnglish": "expose it to rain. \"You cannot rescue us today,\" she told the silent girl. \"So I'll try to rescue the place where you can stand.\" Sora brought plastic covers from the hardware shop; Yui moved the payroll records onto high shelves. The accountant stayed to carry boxes despite his soaked shoes. They did not solve the debt, but by midnight the most important archives were away from the leak. Tomorrow they would search for a safer building.",
+          "closingChinese": "傍晚，暴風雨讓工房停電。燈箱熄滅，燈里又成了一張靜止的畫。千景把賽璐珞片朝窗戶舉起，卻不讓它淋到雨。「妳今天救不了我們。」她對安靜的少女說。「那我就先努力救回妳能站立的地方。」蒼從五金行送來塑膠遮布，小結把薪資紀錄移到高架上。連會計師都留下來搬箱子，鞋子濕透了也不抱怨。他們沒解決債務，但午夜以前，最重要的檔案已經遠離漏水。明天，他們必須找一棟更安全的房子。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "女主角自己選擇的結局",
+          "openingEnglish": "The library theater was full before noon. A small panel of artists, teachers, and worker representatives checked the final program, including a correction concerning two damaged frames. The audience had gathered for a film once considered a failure. Chikage had not planned a fantastic feast of publicity; she wanted an honest screening. The opening animation showed Akari joining a tortoise in a race across a painted field, a gentle joke from the original series. The tortoise won a tiny championship because the heroine stopped to help another traveler. Children laughed, and the old animators looked at one another i",
+          "openingChinese": "中午以前，圖書館小劇場就滿座了。由畫師、教師與工作者代表組成的小型審查團確認最後的節目單，包括關於兩格損壞畫面的更正。觀眾為一部曾被視為失敗的影片而來。千景沒有打算舉辦鋪張奇幻的宣傳盛宴，她只想誠實放映。開場動畫讓燈里和一隻陸龜在畫好的田野競速，那是原系列的溫柔笑話。因為女主角停下來幫助另一名旅人，陸龜贏得小小的冠軍。孩子們笑了，老畫師則驚訝地互望。他們記得數十年前畫出那一幕。",
+          "closingEnglish": " returned it to the notebook. She had once thought her job was to finish unfinished stories. Now she understood that some stories deserved a clear ending and a careful record, while the people who made them deserved a future beyond the screen. Outside the window, a breeze moved the branches of a small plum tree. Chikage opened the studio door, called the team to lunch, and left the protected cel resting safely in its dark archival case.",
+          "closingChinese": "某個安靜午後，千景在典藏登記簿旁找到小結留的摺紙，上面寫：「女主角是她的選擇值得被重視的人，即使她無法走出紙頁。」千景微笑，把它收回筆記。她以前以為工作就是完成未完成的故事，現在明白，有些故事值得清楚結束、仔細留下紀錄，而創造它們的人也值得擁有螢幕外的未來。窗外微風吹動小梅樹的枝葉。千景打開工房門，叫大家去吃午餐，讓受保護的畫片安穩躺在不透光的典藏盒裡。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "light-novel-5a",
+      "name": "被召喚後只能改錯字的我，竟要拯救異世界的七座鐘塔？！",
+      "genre": "異世界奇幻冒險",
+      "level": "4000–5000",
+      "hook": "澪被召喚到異世界，每天只能用紅筆標三處錯誤。日蝕將至，七座鐘塔卻要按錯誤的名冊分配物資。",
+      "description": "澪被召喚到異世界，每天只能用紅筆標三處錯誤。日蝕將至，七座鐘塔卻要按錯誤的名冊分配物資。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 601,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "我的召喚錯誤居然有收據",
+          "openingEnglish": "The first thing I learned about another world was that its bakery sold a batch of moon-shaped buns before sunrise. The second was that a talking stamp could insult me. I was Kisaragi Mio, twenty-six, a Tokyo proofreader with a decent record and no heroic ambitions. A faulty summoning circuit had dropped me into Bellhaven's central kitchen. When the floor monster refused to dissolve, I circled a missing safety clause in the spell hanging above its head. The monster became an ordinary sack of flour. My unexpected breakthrough earned me applause and a bill for the broken oven.",
+          "openingChinese": "我對異世界的第一個認識，是這裡的麵包店在日出前出售一批月亮形狀的麵包。第二個認識，是會說話的印章居然能罵人。我叫如月澪，二十六歲，是東京的校對員，工作紀錄還算體面，從沒想當英雄。失靈的召喚電路把我丟進鈴港的中央廚房。地板怪物怎樣都不肯消失時，我在牠頭上的咒文圈出遺漏的安全條款。怪物立刻變回一袋普通麵粉。這個意外突破讓我得到掌聲，也收到一張烤箱維修帳單。",
+          "closingEnglish": "pen. I respected his caution, although I wished he had shown the same concern before the charge increased. Pip shared the last moon bun with me and pointed toward the distant hills. Seven dark bells stood against the sunrise, each connected to homes, roads, and the ordinary work of staying alive. I had hoped my first night in another world would include a warm bed. Instead it ended with flour in my hair and a very important appointment.",
+          "closingChinese": "橋邊守衛准許我們拍攝爭議公告，卻拒絕只憑我的話修改過路費。隊長說，只要道路仍開放，村長隔天就會回來。我尊重他的謹慎，雖然希望收費漲價前他也能如此小心。皮普把最後一個月亮麵包分給我，指向遠方山丘。七座黑色鐘塔映在晨光裡，每一座都連著住家、道路和維持日常生活的工作。我原以為異世界第一晚會有溫暖的床。結果頭髮沾滿麵粉，還多了一個非常重要的約會。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "三個簽名與壞掉的暖氣",
+          "openingEnglish": "In the northern clinic, a small boy showed me a rash that was clearly an allergic reaction, then asked whether magic could cure it. I had to acknowledge that my pencil was useless for medicine. The physician did not share his astonishment at my answer; she was busy getting consent for a treatment plan. Kael checked the heater's power conversion unit while Pip delivered meals to patients. A considerate nurse explained that the hospital had a budget deficit, so the planned extension of its ward had been delayed. \"Hence the blankets,\" she said, handing me one before I could complain about the cold.",
+          "openingChinese": "北方診所裡，一名小男孩讓我看明顯的過敏疹子，問魔法能不能治好。我不得不承認，自己的鉛筆對醫療毫無用處。醫師沒有和他一起對我的回答感到驚訝；她正忙著取得治療方案的同意。凱爾檢查暖氣的電力轉換器，皮普幫病人送餐。一名體貼的護理師解釋，醫院預算赤字讓擴建病房的計畫延後。「所以有這些毯子。」她說，在我抱怨寒冷前遞給我一條。",
+          "closingEnglish": "he old diagram with the shape of the new socket, then checked the part number twice. Rather than calling her a genius, he asked whether she wanted credit in the repair report. She nodded so hard her cap fell off. Watching them, I thought about how many capable people remained invisible because nobody asked who had done the work. Later I wrote her name carefully into the public log, with her permission and the precise time of the repair.",
+          "closingChinese": "一名年輕學徒在標示為故障品多年的盒子裡找到備用接頭。凱爾請她解釋如何發現。她說先比較舊圖和新插座形狀，再核對零件編號兩次。他沒有叫她天才，而是問她要不要在維修報告署名。她用力點頭，帽子都掉了。我看著他們，想到多少有能力的人只是因為沒人問工作是誰做的，就一直隱形。稍後我徵得她同意，仔細把她的名字和修復時間記進公開日誌。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "下一頁由我自己選",
+          "openingEnglish": "The last bell stood beside a quiet volcano, where an old geothermal pipeline carried heat to the valley. A choir from the villages greeted us with songs, and I felt awe at how many people had chosen to come. Some families cared for relatives with chronic illness; one father held a sleeping baby with a spare diaper tucked into his coat. Their commitment was not to a heroic speech but to a safe water and food supply. Kael explained the correlation between rising pressure and earlier relay failures, making clear that correlation alone was not proof of cause. The public coverage of the test would include every warnin",
+          "openingChinese": "最後一座鐘立在安靜火山旁，古老的地熱管線把暖氣送向山谷。各村組成的合唱團以歌聲迎接我們，我對這麼多人願意到場感到敬畏。有些家庭照顧慢性病親屬，一位父親抱著熟睡嬰兒，外套裡還塞著備用尿布。他們承諾的不是英雄演說，而是安全的水和食物供應。凱爾解釋壓力上升與過去轉運故障的相關性，也說明相關不等於因果證明。這次測試的公開報導將包含每項警告，而不只呈現成功時刻。",
+          "closingEnglish": "chool, where the young inventor displayed her paper cranes and the forest spirit sent a formal congratulations through its mushroom attorney. Kael stood beside me and waited for my answer about the return gate. I told him I had chosen another season here, not a lifetime promised in advance. He said that was enough. The next morning I opened the classroom door and wrote the first lesson on the board: \"A correction begins with listening.\"",
+          "closingChinese": "七鐘響起後，達爾發給我完成臨時學徒課程的證書。裝飾很糟，有兩個拼字錯誤，還把我稱為「官方文書英雄」。我笑到流淚。皮普在夜間學校安排慶祝，年輕發明家展示紙鶴，森林精靈也透過蘑菇律師正式送上祝賀。凱爾站在我身邊，等我回答返程傳送門的事。我告訴他，我選擇在這裡再待一季，不是預先許諾一輩子。他說這樣就夠了。隔天早上，我打開教室門，在黑板寫下第一堂課：「訂正，從傾聽開始。」"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "light-novel-6b",
+      "name": "被勇者隊伍開除後，我替魔王城訂了週休二日",
+      "genre": "異世界職場奇幻",
+      "level": "5000–6000",
+      "hook": "後勤官綾因拒絕讓工人無償通宵而被開除。到魔王城上班後，她打算用工時計和休假表對付加班魔法。",
+      "description": "後勤官綾因拒絕讓工人無償通宵而被開除。到魔王城上班後，她打算用工時計和休假表對付加班魔法。",
+      "editorialLabel": true,
+      "chapterCount": 25,
+      "privateChapters": 0,
+      "minWords": 662,
+      "minTargetWords": 20,
+      "quizzes": 50,
+      "enCrossChapterSentenceReuse": 58,
+      "zhCrossChapterSentenceReuse": 27,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 50
+      },
+      "flaggedChapters": 25,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "被勇者開除的那天",
+          "openingEnglish": "Aya had spent twelve years keeping the Hero's Guild alive with rope inventories, ration cards, and maps that nobody read until something caught fire. At thirty-four, she expected many things from her captain, but not dismissal for refusing a dangerous assignment. Three exhausted porters had just returned from a monster tunnel. The captain wanted them to go straight back for a ceremonial banner. Aya put the rescue sheet on his desk. 'A banner is not a person,' she said. 'And these people need sleep before anyone sends them underground again.'",
+          "openingChinese": "綾用繩索清冊、口糧卡和地圖維持勇者公會運作了十二年。那些地圖平時沒人看，總要等出事才派上用場。三十四歲的她對隊長早有各種心理準備，卻沒想到自己會因拒絕危險任務遭到解僱。三名筋疲力盡的搬運工剛從魔物坑道回來，隊長卻要他們立刻返回取出典禮旗幟。綾把救援表攤在他桌上。她說：「旗幟不是人。他們需要先睡覺，才能再進地底。」",
+          "closingEnglish": "The shelter garden needed to transplant young herbs before winter. A trustee of the guild fund refused to show Aya the wage account. Aya demanded unconditional access to her own duty entries. She refused to utter a false confession just to keep her job.",
+          "closingChinese": "避難所菜園需要在冬季前移植幼小的香草。 一位公會基金受託人拒絕讓綾查看薪資帳戶。 綾要求無條件查閱自己的值勤紀錄。 她拒絕為了保住工作而說出虛假的認罪詞。"
+        },
+        "middle": {
+          "chapter": 13,
+          "zh": "把加班變義工的魔法",
+          "openingEnglish": "In the abandoned temple where work spells were renewed, the day started with the kind of crisis that usually inspired a heroic speech and a very large repair bill. A volunteer spell had relabeled paid night patrols as charitable service. Aya preferred lists to speeches. She asked for the time of the first warning, the names of those actually present, and the place where the original instructions were kept. Her small goblin colleague Pipi called this her most frightening magic. Aya did not object. If accurate paperwork frightened powerful people, perhaps the kingdom needed a little more of it.",
+          "openingChinese": "在替工作魔法續期的廢棄神殿，這天以一場通常會催生英雄演說和龐大修理帳單的危機開場。一項志工魔法把有薪夜巡重新標記為慈善服務。綾比起演說更愛清單。她索取首次警告的時間、真正到場的人名，以及原始命令的保存地點。哥布林同事皮皮稱這是她最可怕的魔法。綾沒有反對。如果準確文書會嚇到掌權者，或許王國正需要多一點。",
+          "closingEnglish": "The stolen prototype was stylish but still unfinished. The investigator requested a supplement to the initial witness statement. The login suspension applied to all teams, not only Aya's. The guild workshop's sewing tempo slowed while evidence was preserved.",
+          "closingChinese": "遭移走的原型樣衣祭典，卻尚未完成。 調查員要求補充第一份證人陳述。 登入權暫停措施適用所有團隊，不只綾的。 證據保全期間，公會工坊縫紉節奏慢了下來。"
+        },
+        "ending": {
+          "chapter": 25,
+          "zh": "真正的第一個星期日",
+          "openingEnglish": "For the first time in living memory, the bells of the Demon Castle rang on a Sunday without summoning anyone to work. They marked a holiday. Aya stood in the riverside park with a paper bag of sweet buns and watched guards in ordinary clothes discover how uncomfortable leisure could be. Cinder, the young dragon, complained that there was nobody left to order him around. 'Try choosing a game,' Aya suggested. 'That sounds suspiciously like responsibility,' he said. She handed him a bun and let him complain in peace.",
+          "openingChinese": "在眾人記憶中，魔王城的鐘聲第一次於星期日響起，卻不是召喚誰上工，而是宣告休假。綾提著一袋甜麵包站在河畔公園，看守衛們穿著便服，發現休閒原來也會讓人不知所措。幼龍小燼抱怨再也沒有人命令他做事。綾建議他自己選遊戲。小燼說：「這聽起來可疑地像責任。」她遞給他一個麵包，任由他繼續抱怨。",
+          "closingEnglish": "A renowned dragon historian agreed to teach labor history at the academy. The holiday helped revive an old custom of singing beside the river. Aya found a small note underneath the calendar: You deserve rest, too. The unification of wage records would prevent invoices from vanishing. Leon refused a feast at his private villa and joined everyone in the park.",
+          "closingChinese": "一位知名龍族歷史學者同意到學院教授勞動史。 休假日使河畔歌唱的古老習俗得以復興。 綾在月曆底下發現小紙條：妳也值得休息。 薪資紀錄的統整將防止請款單再次消失。 雷昂拒絕在私人別墅辦宴會，選擇到公園與眾人同樂。"
         }
       },
       "structuralGate": true,
@@ -39635,6 +39929,34 @@
       ]
     },
     {
+      "book": "ss-r14-l1-b",
+      "id": "ss-r14-l1-b-11",
+      "number": 11,
+      "title": "人人看得懂的地圖",
+      "words": 665,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l1-b",
+      "id": "ss-r14-l1-b-12",
+      "number": 12,
+      "title": "小鎮開放日",
+      "words": 661,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
       "book": "ss-r14-l2-a",
       "id": "ss-r14-l2-a-1",
       "number": 1,
@@ -39766,6 +40088,34 @@
       "number": 10,
       "title": "第一次公開讀數",
       "words": 653,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l2-a",
+      "id": "ss-r14-l2-a-11",
+      "number": 11,
+      "title": "好風的價錢",
+      "words": 648,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l2-a",
+      "id": "ss-r14-l2-a-12",
+      "number": 12,
+      "title": "紀錄上的空白",
+      "words": 645,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -39915,6 +40265,34 @@
       ]
     },
     {
+      "book": "ss-r14-l3-a",
+      "id": "ss-r14-l3-a-11",
+      "number": 11,
+      "title": "撕開的包裹",
+      "words": 636,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l3-a",
+      "id": "ss-r14-l3-a-12",
+      "number": 12,
+      "title": "地下室字母表",
+      "words": 619,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
       "book": "ss-r14-l4-a",
       "id": "ss-r14-l4-a-1",
       "number": 1,
@@ -40046,6 +40424,34 @@
       "number": 10,
       "title": "紫色信封裡的交易",
       "words": 677,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l4-a",
+      "id": "ss-r14-l4-a-11",
+      "number": 11,
+      "title": "買不到任何東西的風暴",
+      "words": 685,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l4-a",
+      "id": "ss-r14-l4-a-12",
+      "number": 12,
+      "title": "沒有完美頁面的帳冊",
+      "words": 680,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 6,
@@ -40195,6 +40601,34 @@
       ]
     },
     {
+      "book": "ss-r14-l5-a",
+      "id": "ss-r14-l5-a-11",
+      "number": 11,
+      "title": "值夜的代價",
+      "words": 712,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l5-a",
+      "id": "ss-r14-l5-a-12",
+      "number": 12,
+      "title": "晚到的稿本",
+      "words": 712,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
       "book": "ss-r14-l6-b",
       "id": "ss-r14-l6-b-1",
       "number": 1,
@@ -40326,6 +40760,34 @@
       "number": 10,
       "title": "消失的分類",
       "words": 681,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l6-b",
+      "id": "ss-r14-l6-b-11",
+      "number": 11,
+      "title": "一小時的代價",
+      "words": 658,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ss-r14-l6-b",
+      "id": "ss-r14-l6-b-12",
+      "number": 12,
+      "title": "冬夜的房間",
+      "words": 659,
       "targetWords": 20,
       "quizCount": 2,
       "bilingualParagraphs": 5,
@@ -46633,7 +47095,2423 @@
         "quiz_needs_semantic_answer_review:1",
         "quiz_needs_semantic_answer_review:2"
       ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-1",
+      "number": 1,
+      "title": "七號課桌下的尾巴",
+      "words": 683,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-2",
+      "number": 2,
+      "title": "天空龍的三條規則",
+      "words": 681,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-3",
+      "number": 3,
+      "title": "河邊的地圖",
+      "words": 660,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-4",
+      "number": 4,
+      "title": "風找到他的那一天",
+      "words": 673,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-5",
+      "number": 5,
+      "title": "不必獲勝的賽跑",
+      "words": 652,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-6",
+      "number": 6,
+      "title": "小船與獅子雲",
+      "words": 683,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-7",
+      "number": 7,
+      "title": "犯錯的時鐘",
+      "words": 732,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-8",
+      "number": 8,
+      "title": "公園後面的幽靈",
+      "words": 720,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-9",
+      "number": 9,
+      "title": "學園祭卡片",
+      "words": 658,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-10",
+      "number": 10,
+      "title": "第二個藍色記號",
+      "words": 741,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-11",
+      "number": 11,
+      "title": "音樂教室裡的藍色祕密",
+      "words": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-12",
+      "number": 12,
+      "title": "山丘上的風鏡",
+      "words": 760,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-13",
+      "number": 13,
+      "title": "兩條路的山門",
+      "words": 723,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-14",
+      "number": 14,
+      "title": "穿綠外套的訪客",
+      "words": 651,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-15",
+      "number": 15,
+      "title": "夜市裡的龍",
+      "words": 736,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-16",
+      "number": 16,
+      "title": "太熱的暖光",
+      "words": 750,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-17",
+      "number": 17,
+      "title": "想當強者的訪客",
+      "words": 750,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-18",
+      "number": 18,
+      "title": "巨大的紙龍",
+      "words": 658,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-19",
+      "number": 19,
+      "title": "不是攻擊的事件",
+      "words": 710,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-20",
+      "number": 20,
+      "title": "量不出關心的機器",
+      "words": 739,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-21",
+      "number": 21,
+      "title": "夕陽下的紙飛機",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-22",
+      "number": 22,
+      "title": "小機器人與大答案",
+      "words": 650,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-23",
+      "number": 23,
+      "title": "我們選擇說出的名字",
+      "words": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-24",
+      "number": 24,
+      "title": "一起完成的學園祭",
+      "words": 736,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-1a",
+      "id": "light-novel-1a-25",
+      "number": 25,
+      "title": "選擇兩個家的龍",
+      "words": 797,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-1",
+      "number": 1,
+      "title": "只有一格的道具欄",
+      "words": 671,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-2",
+      "number": 2,
+      "title": "理髮師與假地圖",
+      "words": 704,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-3",
+      "number": 3,
+      "title": "響了兩次的門",
+      "words": 698,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-4",
+      "number": 4,
+      "title": "第一次真正的救援",
+      "words": 687,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-5",
+      "number": 5,
+      "title": "勇者的第一張帳單",
+      "words": 699,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-6",
+      "number": 6,
+      "title": "湯、襪子，還有大危機",
+      "words": 714,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-7",
+      "number": 7,
+      "title": "自己走掉的地圖",
+      "words": 683,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-8",
+      "number": 8,
+      "title": "舊名字之池",
+      "words": 679,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-9",
+      "number": 9,
+      "title": "不會游泳的鯊魚",
+      "words": 694,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-10",
+      "number": 10,
+      "title": "勇者也得守規矩",
+      "words": 711,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-11",
+      "number": 11,
+      "title": "新手專用黃金陷阱",
+      "words": 698,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-12",
+      "number": 12,
+      "title": "空白頁也會說話",
+      "words": 675,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-13",
+      "number": 13,
+      "title": "天空地圖上的洞",
+      "words": 677,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-14",
+      "number": 14,
+      "title": "小石的第一次真正飛行",
+      "words": 662,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-15",
+      "number": 15,
+      "title": "霧裡的歌",
+      "words": 670,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-16",
+      "number": 16,
+      "title": "絕不出售的小龍",
+      "words": 730,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-17",
+      "number": 17,
+      "title": "沒有反派的審問",
+      "words": 689,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-18",
+      "number": 18,
+      "title": "鏡子後的信",
+      "words": 698,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-19",
+      "number": 19,
+      "title": "故意不求通過的測試",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-20",
+      "number": 20,
+      "title": "退潮時的月臺",
+      "words": 674,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-21",
+      "number": 21,
+      "title": "節日前的表決",
+      "words": 669,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-22",
+      "number": 22,
+      "title": "安靜之門的守門人",
+      "words": 661,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-23",
+      "number": 23,
+      "title": "遊樂場旁的舊契約",
+      "words": 704,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-24",
+      "number": 24,
+      "title": "移動大廳的最終考試",
+      "words": 662,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-2a",
+      "id": "light-novel-2a-25",
+      "number": 25,
+      "title": "由我選擇的唯一一格",
+      "words": 717,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-1",
+      "number": 1,
+      "title": "把我撿回去的社團",
+      "words": 661,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-2",
+      "number": 2,
+      "title": "不標價格的販賣機",
+      "words": 642,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-3",
+      "number": 3,
+      "title": "溫室裡那隻不是貓",
+      "words": 644,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-4",
+      "number": 4,
+      "title": "燈籠上的兩個名字",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-5",
+      "number": 5,
+      "title": "第一次歸還",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-6",
+      "number": 6,
+      "title": "會說謊的祭典地圖",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-7",
+      "number": 7,
+      "title": "雨天兌換券",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-8",
+      "number": 8,
+      "title": "穿著完美制服的對手",
+      "words": 633,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-9",
+      "number": 9,
+      "title": "消失的最後一句歌詞",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-10",
+      "number": 10,
+      "title": "壞鐘下面的鑰匙",
+      "words": 648,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-11",
+      "number": 11,
+      "title": "前社長的信",
+      "words": 645,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-12",
+      "number": 12,
+      "title": "沒有人到場的那天",
+      "words": 633,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-13",
+      "number": 13,
+      "title": "紙狐狸的生日",
+      "words": 632,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-14",
+      "number": 14,
+      "title": "不能印出的名字",
+      "words": 618,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-15",
+      "number": 15,
+      "title": "百燈之夜",
+      "words": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-16",
+      "number": 16,
+      "title": "沒有酬勞的工作坊",
+      "words": 629,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-17",
+      "number": 17,
+      "title": "祭典前的暴風雨",
+      "words": 613,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-18",
+      "number": 18,
+      "title": "不能退還的約定",
+      "words": 647,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-19",
+      "number": 19,
+      "title": "沒有星星的祭典",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-20",
+      "number": 20,
+      "title": "盒中的最後一張票",
+      "words": 623,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-21",
+      "number": 21,
+      "title": "日出時的社團表決",
+      "words": 628,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-22",
+      "number": 22,
+      "title": "屬於大家的小遊行",
+      "words": 623,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-23",
+      "number": 23,
+      "title": "後勤走廊裡的故事",
+      "words": 614,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-24",
+      "number": 24,
+      "title": "月亮休假的時候",
+      "words": 627,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-3a",
+      "id": "light-novel-3a-25",
+      "number": 25,
+      "title": "不接受退貨，只有明天",
+      "words": 666,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 5,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-1",
+      "number": 1,
+      "title": "沒畫完的少女",
+      "words": 670,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-2",
+      "number": 2,
+      "title": "分鏡稿裡的化石",
+      "words": 667,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-3",
+      "number": 3,
+      "title": "停不下來的渡輪篇",
+      "words": 653,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-4",
+      "number": 4,
+      "title": "不會消失的門怎麼畫",
+      "words": 666,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-5",
+      "number": 5,
+      "title": "誰也唱不出的合約",
+      "words": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-6",
+      "number": 6,
+      "title": "不肯保持藍色的顏料",
+      "words": 654,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-7",
+      "number": 7,
+      "title": "水族館才不是童話宮殿",
+      "words": 634,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-8",
+      "number": 8,
+      "title": "不見的配樂提示",
+      "words": 657,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-9",
+      "number": 9,
+      "title": "笑著說謊的錄音帶",
+      "words": 634,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-10",
+      "number": 10,
+      "title": "道歉不是大結局",
+      "words": 660,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-11",
+      "number": 11,
+      "title": "拒絕黃金結局的少女",
+      "words": 655,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-12",
+      "number": 12,
+      "title": "檔案室裡的闖入者",
+      "words": 628,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-13",
+      "number": 13,
+      "title": "誰也不想算的那筆帳",
+      "words": 628,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-14",
+      "number": 14,
+      "title": "貸款與一封訃聞",
+      "words": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-15",
+      "number": 15,
+      "title": "演職員名單上的水痕",
+      "words": 647,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-16",
+      "number": 16,
+      "title": "沒有牆的動畫工房",
+      "words": 647,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-17",
+      "number": 17,
+      "title": "最終場景的配方",
+      "words": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-18",
+      "number": 18,
+      "title": "沒有主人的合約",
+      "words": 642,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-19",
+      "number": 19,
+      "title": "差點失聲的祭典",
+      "words": 624,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-20",
+      "number": 20,
+      "title": "最後一格也有代價",
+      "words": 637,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-21",
+      "number": 21,
+      "title": "磁片上的不速之客",
+      "words": 627,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-22",
+      "number": 22,
+      "title": "合作社，不是王國",
+      "words": 638,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-23",
+      "number": 23,
+      "title": "輪到工作者登臺的那一天",
+      "words": 615,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-24",
+      "number": 24,
+      "title": "來自彼岸的信",
+      "words": 648,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-4b",
+      "id": "light-novel-4b-25",
+      "number": 25,
+      "title": "女主角自己選擇的結局",
+      "words": 706,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-1",
+      "number": 1,
+      "title": "我的召喚錯誤居然有收據",
+      "words": 649,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-2",
+      "number": 2,
+      "title": "記者不是支線任務",
+      "words": 617,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-3",
+      "number": 3,
+      "title": "森林也有自己的律師",
+      "words": 621,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-4",
+      "number": 4,
+      "title": "救護車靠熱湯發動",
+      "words": 620,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-5",
+      "number": 5,
+      "title": "為留下的人敲響的鐘",
+      "words": 605,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-6",
+      "number": 6,
+      "title": "被放逐的倡議者與壞掉的升降梯",
+      "words": 629,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-7",
+      "number": 7,
+      "title": "海盜比較喜歡正式收據",
+      "words": 617,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-8",
+      "number": 8,
+      "title": "我的專利是一隻紙鶴",
+      "words": 618,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-9",
+      "number": 9,
+      "title": "銀河祭典有鮪魚味",
+      "words": 603,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-10",
+      "number": 10,
+      "title": "法庭不是魔王關卡",
+      "words": 614,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-11",
+      "number": 11,
+      "title": "差一點成為英雄的研究所",
+      "words": 611,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-12",
+      "number": 12,
+      "title": "把城市挾持的劇本",
+      "words": 607,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-13",
+      "number": 13,
+      "title": "三個簽名與壞掉的暖氣",
+      "words": 614,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-14",
+      "number": 14,
+      "title": "雷射獨占案意外地浪漫",
+      "words": 609,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-15",
+      "number": 15,
+      "title": "玻璃海下的投票",
+      "words": 610,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-16",
+      "number": 16,
+      "title": "異世界檔案館也有伺服器機房",
+      "words": 644,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-17",
+      "number": 17,
+      "title": "凱爾不再假裝的那一天",
+      "words": 613,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-18",
+      "number": 18,
+      "title": "不剪掉名字的祭典",
+      "words": 610,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-19",
+      "number": 19,
+      "title": "午夜突襲學校屋頂",
+      "words": 620,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-20",
+      "number": 20,
+      "title": "六鐘協議",
+      "words": 620,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-21",
+      "number": 21,
+      "title": "會記住主人的市場硬幣",
+      "words": 608,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-22",
+      "number": 22,
+      "title": "留住每種聲音的公寓",
+      "words": 601,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-23",
+      "number": 23,
+      "title": "女王的花園不是農田",
+      "words": 611,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-24",
+      "number": 24,
+      "title": "最終考試沒有滿分",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-5a",
+      "id": "light-novel-5a-25",
+      "number": 25,
+      "title": "下一頁由我自己選",
+      "words": 662,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-1",
+      "number": 1,
+      "title": "被勇者開除的那天",
+      "words": 695,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-2",
+      "number": 2,
+      "title": "和魔王面試不應該穿套裝嗎",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-3",
+      "number": 3,
+      "title": "改寫歷史的午休",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-4",
+      "number": 4,
+      "title": "會計室的祕密門",
+      "words": 664,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-5",
+      "number": 5,
+      "title": "週休試辦第一天",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-6",
+      "number": 6,
+      "title": "發燒的幼龍不想上班",
+      "words": 677,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-7",
+      "number": 7,
+      "title": "吃掉星期日的契約",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-8",
+      "number": 8,
+      "title": "哥布林也要勞資會議",
+      "words": 684,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-9",
+      "number": 9,
+      "title": "暗黑騎士第一次請假",
+      "words": 688,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-10",
+      "number": 10,
+      "title": "魔王城第一次公開表決",
+      "words": 662,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-11",
+      "number": 11,
+      "title": "兩軍中間那間旅店",
+      "words": 674,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-12",
+      "number": 12,
+      "title": "前隊友來了，先請排隊",
+      "words": 679,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-13",
+      "number": 13,
+      "title": "把加班變義工的魔法",
+      "words": 670,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-14",
+      "number": 14,
+      "title": "誠實誓約祭，請勿強迫告白",
+      "words": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-15",
+      "number": 15,
+      "title": "麵包店屋頂的黑煙",
+      "words": 669,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-16",
+      "number": 16,
+      "title": "王室帳本的審判",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-17",
+      "number": 17,
+      "title": "魔王的私人時間，不列入公務",
+      "words": 694,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-18",
+      "number": 18,
+      "title": "龍族郵筒不能拿來求婚",
+      "words": 672,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-19",
+      "number": 19,
+      "title": "湖底的運輸路線",
+      "words": 667,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-20",
+      "number": 20,
+      "title": "鐘聲停下的那一夜",
+      "words": 680,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-21",
+      "number": 21,
+      "title": "不願下跪的證人",
+      "words": 688,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-22",
+      "number": 22,
+      "title": "不要偷偷跟魔王交易",
+      "words": 669,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-23",
+      "number": 23,
+      "title": "道歉不是契約",
+      "words": 673,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-24",
+      "number": 24,
+      "title": "那道魔法的最後一個加班日",
+      "words": 682,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "light-novel-6b",
+      "id": "light-novel-6b-25",
+      "number": 25,
+      "title": "真正的第一個星期日",
+      "words": 702,
+      "targetWords": 21,
+      "quizCount": 2,
+      "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
     }
   ],
-  "crossBookDuplicateParagraphs": []
+  "crossBookDuplicateParagraphs": [
+    [
+      "the supervisor called the stolen design a disgrace to his department the warehouse's disposal register did not mention the missing fabric a technician recorded her dissent from the first inspection report a former seamstress planned to emigrate after her final contract ended",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-3",
+          4
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-3",
+          4
+        ]
+      ]
+    ],
+    [
+      "every volunteer wore a badge with their approved access zone a controlled blaze on the projection screen simulated stage lighting an elderly tailor called her devoted apprentice a disciple of fine craft the fitting demonstration could enlighten buyers about hidden barriers",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-4",
+          4
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-4",
+          4
+        ]
+      ]
+    ],
+    [
+      "one sponsor proposed to privatize the community training program the warm stage lights seemed to radiate through the silk the volunteer rotation gave everyone time for dinner a backstage shaver used to remove lint had a damaged cord",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-4",
+          8
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-4",
+          8
+        ]
+      ]
+    ],
+    [
+      "a stray cat slept beneath the service corridor's heater a thin veil covered a historical headpiece in the display a vineyard owner sponsored reusable garments for agricultural workers the invitation included a clear warranty for every purchased garment",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-4",
+          10
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-4",
+          10
+        ]
+      ]
+    ],
+    [
+      "the defective fastener was sold as an accessory not part of the main coat the accountant requested a full breakdown of repair expenses lin's proposal would bypass the independent review process no champagne was served at the tense finance meeting",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-5",
+          2
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-5",
+          2
+        ]
+      ]
+    ],
+    [
+      "the proposed gift remained pending until ownership could be confirmed an archive photo showed workers at an old cotton plantation a historical photograph showed farmers using a plow before the cotton harvest the contract preserved the original artist's right to a design royalty",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-7",
+          8
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-7",
+          8
+        ]
+      ]
+    ],
+    [
+      "a historical label used the outdated word oriental which the curator replaced a former driver recovering from pneumonia gave testimony by video the missing prototype was more valuable than the damaged fabric the employee clinic offered voluntary psychiatry referrals after severe workplace stress",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-8",
+          8
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-8",
+          8
+        ]
+      ]
+    ],
+    [
+      "a short film would animate the repair process for customers simple arithmetic exposed the missing return figures in the summary a visitor called the accessible collection awesome after trying it the riverside caf served celery soup during the long meeting",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-10",
+          2
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-10",
+          2
+        ]
+      ]
+    ],
+    [
+      "the council checked whether the exhibition ramp's cement base was secure a trade confederation offered advice on the nonexclusive distribution proposal a sudden crackdown on returns would have punished honest customers a playful crocodile costume appeared in the exhibition's children's section",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-10",
+          4
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-10",
+          4
+        ]
+      ]
+    ],
+    [
+      "the new policy served a dual purpose safety and clear accountability the store tried to equalize repair access across all customer groups a faction of trustees opposed extending the trial an unsafe launch would incur costs beyond the initial recall",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-10",
+          6
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-10",
+          6
+        ]
+      ]
+    ],
+    [
+      "a community center attendant helped visitors find the accessible entrance the cooking class showed how batter could stain a cotton apron a local census helped estimate demand for accessible clothing a textile chemist explained how different dyes affected sensitive skin",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-12",
+          2
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-12",
+          2
+        ]
+      ]
+    ],
+    [
+      "birds began to chirp outside when the power returned the center would dispense emergency supplies only through trained staff a volunteer gave a tired groan while carrying the last folding chair an apprentice compared hidden production costs to the unseen part of an iceberg",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-12",
+          4
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-12",
+          4
+        ]
+      ]
+    ],
+    [
+      "a martial arts teacher showed how flexible sleeves helped movement the center reviewed its plan for a possible infectious outbreak the street stall served oyster noodles beside the community center families began to populate the hall as the demonstration started",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-12",
+          8
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-12",
+          8
+        ]
+      ]
+    ],
+    [
+      "the archive's modernization required better ownership records a mournful silence followed the reading of the unpaid tailor's letter a small puff of dust rose when the archive box opened the repaired garment included a reflective strip for night travel",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-14",
+          8
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-14",
+          8
+        ]
+      ]
+    ],
+    [
+      "the charity collection refused leather sourced from unverified animal slaughter the employee fund helped workers facing food insecurity not literal starvation claims a retired statesman attended the public ethics lecture as a guest the vote required tedious review of each trust provision",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-15",
+          10
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-15",
+          10
+        ]
+      ]
+    ],
+    [
+      "a sociology student interviewed workers about the meaning of authorship warm tea helped soothe the elderly designer after the emotional interview journalists began to swarm near the archive entrance before the announcement the corrected names moved upward on the exhibition's credit board",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-17",
+          10
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-17",
+          10
+        ]
+      ]
+    ],
+    [
+      "a space themed children's jacket showed an astronaut waving from the moon the event team feared a breakup of the partnership after the storm a city bureaucrat insisted that the safety inspection be documented the finance chief used a calculator to estimate cancellation costs",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-18",
+          2
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-18",
+          2
+        ]
+      ]
+    ],
+    [
+      "the new lighting could dazzle viewers without compromising safe movement the inspection found that the ramp's incline was too steep a technician stored the damaged panel in a locked equipment locker a medieval costume inspired one pattern in the small exhibition",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-18",
+          6
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-18",
+          6
+        ]
+      ]
+    ],
+    [
+      "the inclusion guide stated that homosexual customers deserved equal respectful service the team refused to industrialize an unfinished technique without safety tests green ivy framed the exhibition's courtyard entrance a small bird chose to perch above the open entrance",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-20",
+          6
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-20",
+          6
+        ]
+      ]
+    ],
+    [
+      "the material report listed petroleum based fibers separately from recycled ones the dye supplier documented the purity of the test chemicals an emergency drill considered how a strong quake would affect the exhibition workers representatives warned that ignored safety demands could provoke revolt",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-20",
+          8
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-20",
+          8
+        ]
+      ]
+    ],
+    [
+      "the historical archive documented oppression of junior factory workers a reef appeared in the coastal photograph beside the research table workers showed solidarity by supporting colleagues seeking corrected records the governance report warned that secrecy could become an institutional vice",
+      [
+        [
+          "ceo-series-6b",
+          "ceo-series-6b-24",
+          10
+        ],
+        [
+          "light-novel-6b",
+          "light-novel-6b-24",
+          10
+        ]
+      ]
+    ]
+  ]
 }
