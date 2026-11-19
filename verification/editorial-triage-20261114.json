@@ -2,15 +2,15 @@
   "version": "2026-11-14",
   "description": "Machine screening of source payloads available to the build, NOT sentence-by-sentence editorial approval. Translation length anomalies are candidate flags, not proof of mistranslation. Quiz semantic review required for all items without explicit source citations.",
   "summary": {
-    "totalBooks": 129,
-    "totalChapters": 3147,
+    "totalBooks": 143,
+    "totalChapters": 3315,
     "chaptersUnder500": 0,
     "chaptersUnder20Targets": 0,
     "chaptersUnder2Quizzes": 0,
     "chaptersWithBilingualHeuristicFlags": 0,
-    "quizzesWithoutExplicitSourceEvidence": 5511,
-    "booksWithRepeatedEnglishLongSentence": 16,
-    "booksWithRepeatedChineseSentence": 16,
+    "quizzesWithoutExplicitSourceEvidence": 5847,
+    "booksWithRepeatedEnglishLongSentence": 28,
+    "booksWithRepeatedChineseSentence": 28,
     "fullHumanSemanticApprovalCount": 0,
     "sharedExactEnglishParagraphPatternsAcrossBooks": 21
   },
@@ -6304,6 +6304,692 @@
           "openingChinese": "在眾人記憶中，魔王城的鐘聲第一次於星期日響起，卻不是召喚誰上工，而是宣告休假。綾提著一袋甜麵包站在河畔公園，看守衛們穿著便服，發現休閒原來也會讓人不知所措。幼龍小燼抱怨再也沒有人命令他做事。綾建議他自己選遊戲。小燼說：「這聽起來可疑地像責任。」她遞給他一個麵包，任由他繼續抱怨。",
           "closingEnglish": "A renowned dragon historian agreed to teach labor history at the academy. The holiday helped revive an old custom of singing beside the river. Aya found a small note underneath the calendar: You deserve rest, too. The unification of wage records would prevent invoices from vanishing. Leon refused a feast at his private villa and joined everyone in the park.",
           "closingChinese": "一位知名龍族歷史學者同意到學院教授勞動史。 休假日使河畔歌唱的古老習俗得以復興。 綾在月曆底下發現小紙條：妳也值得休息。 薪資紀錄的統整將防止請款單再次消失。 雷昂拒絕在私人別墅辦宴會，選擇到公園與眾人同樂。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "dragon-schoolbag",
+      "name": "我的書包住著一隻迷你龍",
+      "genre": "校園溫暖奇幻",
+      "level": "1000以下",
+      "hook": "書包裡傳來兩下敲擊聲。亞希打開拉鍊，發現一隻只會吐白霧的小龍。",
+      "description": "書包裡傳來兩下敲擊聲。亞希打開拉鍊，發現一隻只會吐白霧的小龍。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 635,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "會呼吸的書包",
+          "openingEnglish": "At seven a.m., Aki was early for breakfast, but his blue school bag was late to the kitchen. It was still on the couch, where he had left it under a cover the night before. On Sunday afternoon he had set the clean bag beside the open yard door to dry, then moved it inside at night. His mother had made fruit salad and a little cake. Aki wanted to eat quickly because the school bell would ring in one hour. He did his morning exercise beside the table, then tried to lift his bag. It was much too heavy. He had only one notebook inside. “Did someone put a stone in here?” he asked. The bag answered with three tiny taps",
+          "openingChinese": "上午七點，亞希早早坐下吃早餐，可是他的藍色書包還留在客廳的沙發上，蓋著昨晚放上去的布。星期天下午，他曾把洗乾淨的書包放在敞開的院門旁晾乾，晚上才拿回屋裡。媽媽準備了水果沙拉和一小塊蛋糕。亞希想快點吃完，因為再過一小時學校就要響鐘了。他在桌邊做完晨間運動，試著提起書包，卻發現沉得奇怪。裡面明明只有一本筆記本。「有人放石頭進去嗎？」他問。書包竟回了三聲輕輕的敲擊。",
+          "closingEnglish": " only mist. Third, the pocket had to stay open enough for air, and the dragon could leave whenever it wished. He drew a small sun above the list. “You need a name,” he said. The dragon pressed a tiny foot on the page. Four marks looked like the word Nono if Aki turned the book sideways. “Nono?” he asked. Two taps. Aki smiled. His bag was still heavy, but he no longer thought it held a stone. It held a new friend with a very small voice.",
+          "closingChinese": "出門前，亞希在筆記本寫下三件事：第一，小龍是真的；第二，牠只能吐霧；第三，書包口必須留下足夠的空氣，牠想離開時也能離開。他在上方畫了一個小太陽。「你需要名字。」他說。小龍在紙上按下四個小腳印，亞希把本子轉向一旁看，竟有點像「Nono」。「諾諾？」他問。兩聲敲擊。亞希笑了。書包依舊很重，但他知道裡頭不是石頭，而是一位聲音很小的新朋友。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "願意等待的朋友",
+          "openingEnglish": "Aki kept the copied map in his bedroom, next to a small clock and a picture of a rainbow. On Monday he looked at it again and again. He wanted to believe the blue circle would lead to Nono's family, but he knew that hope was not the same as proof. He made an error while drawing the roads and had to start over. Nono sat in the yard under his mother's watch, looking at the sky. The dragon liked the morning air. Aki felt proud that it could move around freely at home, instead of spending every day in a bag. Then he looked toward school and wished it could learn there safely.",
+          "openingChinese": "亞希把影印地圖放在臥室裡，旁邊是小時鐘和彩虹畫。星期一，他一看再看。他很想相信藍圈能帶自己找到諾諾的家，卻也知道希望不是證據。畫路線時他畫錯了一段，只好重畫。媽媽看顧著院子裡的諾諾，小龍抬頭望著天空，似乎很喜歡早晨的空氣。亞希為牠能在家自在活動感到高興，不必整天待在書包裡；但一想到學校，又希望牠有朝一日能安全地去學習。",
+          "closingEnglish": ". “Do you want to find it?” Two taps. “I can help read the street names, but I will not tell my whole class.” Nono gave another two taps. Aki felt that something important had happened. He no longer had to hide from his best friend, and Nono had helped choose whom to trust. As the day grew dark, the three watched the first stars appear. Aki did not know whether their search would succeed. For now, they had made room for one more friend.",
+          "closingChinese": "諾諾走到地板上，用沾濕的小腳畫出圓圈。優衣看看記號，又看看地圖。「是舊招牌。你想找它嗎？」兩聲敲擊。「我可以幫忙讀街名，但不會告訴全班。」諾諾又敲了兩下。亞希覺得今天發生了重要的事：他不必再瞞著最好的朋友，諾諾也親自選擇了信任誰。天漸漸暗了，三人一起看最早的星星出現。亞希不知道尋找會不會成功，但此刻又多了一位能一起想辦法的朋友。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "「家」這個字",
+          "openingEnglish": "Aki took the little dictionary to Ms. Ono after class. He did not show her Nono yet, but his mother had already spoken with the school about the unusual creature. “I have an answer to one question,” he said. “It wants to learn, and it can pick words by touching pictures.” Ms. Ono looked at the pages. “That is a kind of language,” she said. “It is also a way to say no. A small body should not mean a person or animal has no choice.” Aki looked down at his own hands. He had always been able to speak for himself. Nono had to work much harder just to ask for water.",
+          "openingChinese": "下課後，亞希把小字典拿給小野老師看。雖然還沒帶諾諾來，媽媽已告知學校有這隻特殊的小生物。「我找到一個問題的答案，」他說，「牠想學習，也能碰圖來選字。」小野老師看過紙頁後說：「這也是一種語言，而且能用來表達拒絕。身體很小，不代表一個人或動物沒有選擇權。」亞希看看自己的雙手。他一直能替自己說話，諾諾卻得努力很久，才能說出想喝水這麼簡單的需要。",
+          "closingEnglish": "or soup, one is for words,” he said. Ryu had not met the dragon, so Aki put the card away and asked his mother when it would be right to tell him. “When Nono agrees and we can keep both of them calm,” she said. “Your brother is young. We do not need a surprise today.” Aki nodded. He had learned that a good secret was not simply something hidden. Sometimes it was a piece of news that needed the right time and a careful, kind way to tell.",
+          "closingChinese": "晚餐時，龍也伸手拿鹽罐，諾諾同時碰向字卡，亞希差點把兩個動作搞混，忍不住笑了。「一個給湯用，一個給語言用。」他說。弟弟還沒見過小龍，亞希先收好卡片，再問媽媽什麼時候可以說。「等諾諾同意，而且我們能讓兩邊都安心時，」媽媽說，「弟弟還小，今天不用突然讓他嚇一跳。」亞希點頭。他慢慢明白，好好保守祕密不是一味隱藏，有時是等到適合的時間，用溫柔、謹慎的方法說出真相。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "last-substitute",
+      "name": "最後一名替補",
+      "genre": "校園運動成長",
+      "level": "1000以下",
+      "hook": "全隊最矮的替補阿任，能靠防守等到自己的上場機會嗎？",
+      "description": "全隊最矮的替補阿任，能靠防守等到自己的上場機會嗎？",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 768,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 108,
+      "zhCrossChapterSentenceReuse": 49,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "空著的替補席",
+          "openingEnglish": "Ren, the shortest player on the school volleyball team, arrived before everyone and saw his name at the end of the list. The gym smelled faintly of polished wood and clean rubber. Ren had heard people speak of talent as though it were a number that could be written beside a name. Looking at the court, that idea no longer felt complete. Somebody had to serve, somebody had to pass, and somebody had to cover the space left behind. Mei pointed toward the part of the floor that most players forgot when they watched the net. Ren studied it with care. The next chance might last only a few seconds, and those few seconds ",
+          "openingChinese": "全隊最矮的阿任提早到球場，發現自己的名字排在名單最後。 體育館飄著淡淡的木地板和乾淨橡膠氣味。阿任以前聽人把天分說得像能寫在名字旁的一個數字。如今看著球場，這個說法顯得不完整。有人發球、有人接球，也必須有人守住留下的空檔。小美指向大家盯著球網時最容易忘記的那塊地。阿任認真觀察。下一次機會可能只有幾秒，而那幾秒屬於準備好的人。 阿任看鐘時，時刻是上午九點。大廳響起一聲鈴，提醒大家進入下一個時段。阿任想起幫自己開始一天的早餐。一位朋友答應休息時帶來小蛋糕。阿任",
+          "closingEnglish": "The important words were written down, and the people involved had heard the result. Ren could not know every part of the future, but there was comfort in knowing what to do first: ask, check, and listen. Mei said goodbye with a tired smile. Ren returned the smile. Somewhere beyond the familiar court, another ordinary day was waiting. It would bring its own surprises, but they did not have to meet them without friends or without a plan.",
+          "closingChinese": "今天的小物件都回到了原位。重要的話已寫好，相關的人也知道結果。阿任不可能知道未來每件事，卻因知道第一步該怎麼做而安心：發問、查證、傾聽。小美疲憊地笑著道別，阿任也回以微笑。在熟悉的球場之外，又有平凡的一天等待著，會帶來新的驚喜，但他們不必獨自、毫無計畫地面對。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "第一場友誼賽",
+          "openingEnglish": "The team traveled to a nearby school for a practice match against a strong defense. The gym smelled faintly of polished wood and clean rubber. Ren had heard people speak of talent as though it were a number that could be written beside a name. Looking at the court, that idea no longer felt complete. Somebody had to serve, somebody had to pass, and somebody had to cover the space left behind. Mei pointed toward the part of the floor that most players forgot when they watched the net. Ren studied it with care. The next chance might last only a few seconds, and those few seconds would belong to the person who was re",
+          "openingChinese": "球隊到附近學校，和防守強勁的對手打友誼賽。 體育館飄著淡淡的木地板和乾淨橡膠氣味。阿任以前聽人把天分說得像能寫在名字旁的一個數字。如今看著球場，這個說法顯得不完整。有人發球、有人接球，也必須有人守住留下的空檔。小美指向大家盯著球網時最容易忘記的那塊地。阿任認真觀察。下一次機會可能只有幾秒，而那幾秒屬於準備好的人。 光線變化時，阿任又看了一次。有人曾問小美關於臥室的問題。「我相信應該再核對一次結果。」阿任說。有人曾問小美關於時鐘的問題。翻開的書有一則談到關閉",
+          "closingEnglish": "ts outside grew softer, Ren remembered the feeling at the start of the chapter's trouble. It had seemed larger before anyone could name it. Now it had a shape, a few facts, and a next step. That did not make it harmless, but it made it possible to face. Mei had helped without taking the whole choice away. Ren hoped to remember that balance. It was a kind of strength that did not make a loud sound, and it might be needed again very soon.",
+          "closingChinese": "窗外的光漸漸柔和，阿任想起麻煩剛開始時的感受。那時在還沒說清楚前，事情看起來特別巨大。如今它有了形狀、幾項事實和下一步。問題不一定變得無害，卻能面對了。小美提供幫助，卻沒有奪走阿任的選擇權。阿任想記住這種平衡。這份力量不需要大聲，也許很快又會派上用場。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "重播畫面",
+          "openingEnglish": "A recording of the friendly match showed Ren clapping while the others play. Near the net, every player seemed to have a different way of waiting. Some stood on their toes. Others rolled their shoulders or spoke in quiet voices. Ren watched the ball move through the air and tried to read its path before anybody touched it. A tall person could reach higher; a shorter person might turn sooner. The coach had not promised that one talent would replace all the others. When Mei looked over, Ren raised a hand to show that the note had been made. Nothing was won yet, but the first useful observation belonged to Ren. A sm",
+          "openingChinese": "友誼賽錄影只拍到阿任在場邊拍手。 球網旁，每位球員等待的方式都不同。有人踮起腳尖，有人轉動肩膀，也有人低聲交談。阿任盯著球在空中的路線，試著在別人碰到球前看出落點。高個子伸得比較高，矮個子或許轉得更快。教練從未說一項長處能取代所有本領。小美望過來時，阿任舉手表示自己已記好。比賽還沒贏，但第一個有用的觀察已屬於阿任。 牆上的小海報寫著答案這個字。阿任想起本週稍早看到的自行車圖畫。課堂閱讀卡用身體造了一個例句。阿任想起本週稍早看到的鞠躬圖畫。有人曾問小美關於牛",
+          "closingEnglish": "ts outside grew softer, Ren remembered the feeling at the start of the chapter's trouble. It had seemed larger before anyone could name it. Now it had a shape, a few facts, and a next step. That did not make it harmless, but it made it possible to face. Mei had helped without taking the whole choice away. Ren hoped to remember that balance. It was a kind of strength that did not make a loud sound, and it might be needed again very soon.",
+          "closingChinese": "窗外的光漸漸柔和，阿任想起麻煩剛開始時的感受。那時在還沒說清楚前，事情看起來特別巨大。如今它有了形狀、幾項事實和下一步。問題不一定變得無害，卻能面對了。小美提供幫助，卻沒有奪走阿任的選擇權。阿任想記住這種平衡。這份力量不需要大聲，也許很快又會派上用場。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "saturday-time-shop",
+      "name": "星期六的時間商店",
+      "genre": "日常奇幻",
+      "level": "1000以下",
+      "hook": "茉茉可以借一個小時，代價是把自己的下一個星期六交給小店。",
+      "description": "茉茉可以借一個小時，代價是把自己的下一個星期六交給小店。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 767,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 108,
+      "zhCrossChapterSentenceReuse": 51,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "街道之間的小店",
+          "openingEnglish": "Momo noticed a narrow shop that appeared only between the bakery and library on Saturday. Outside the shop, people planned their days with ordinary words: breakfast, work, a visit, and rest. Inside, an hour could be written on a receipt. Momo ran a finger just above the paper without touching anything that was not hers. The shop did not make the world quiet. It only made the value of small choices harder to ignore. Jin remembered a meeting they had promised to attend together. Momo looked at the time and wondered whether a promise could be protected simply by buying a new minute. The answer was not written on the",
+          "openingChinese": "茉茉發現星期六時，麵包店和圖書館中間會出現一間狹長小店。 小店外的人用平常字眼安排一天：早餐、工作、探訪和休息。店內，一小時卻能寫在收據上。茉茉的手指在紙上方輕輕移動，沒有碰不屬於自己的東西。小店沒有讓世界安靜，只是讓小選擇的價值更難忽視。阿進想起兩人約好一起參加的活動。茉茉看著時間，思考是否只要買到新的一分鐘就能守住承諾。價目卡上沒有答案。 茉茉看鐘時，時刻是上午九點。大廳響起一聲鈴，提醒大家進入下一個時段。茉茉想起幫自己開始一天的早餐。一位朋友答應休息",
+          "closingEnglish": "just two sentences. The first sentence was about the problem. The second was about what people did together. Both mattered, and neither would have made sense alone. Momo left space beneath them for another note tomorrow. Jin sent a short reminder to rest. Momo smiled at it. A person could care deeply about a goal and still eat dinner, talk with family, and sleep. Whatever happened next, those ordinary things were part of the answer too.",
+          "closingChinese": "那天晚上，茉茉試著用兩句話描述今天。第一句是問題，第二句是大家一起做的事。兩句都重要，單獨看卻不完整。茉茉在下面留空，準備明天再記。阿進傳來簡短提醒，要記得休息。茉茉笑了。人可以非常在意目標，同時仍要吃晚餐、陪家人說話、好好睡覺。不論接下來如何，這些平常的事也是答案的一部分。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "來自明天的信",
+          "openingEnglish": "A folded letter arrived at the shop with Momo's name written in her own handwriting. Outside the shop, people planned their days with ordinary words: breakfast, work, a visit, and rest. Inside, an hour could be written on a receipt. Momo ran a finger just above the paper without touching anything that was not hers. The shop did not make the world quiet. It only made the value of small choices harder to ignore. Jin remembered a meeting they had promised to attend together. Momo looked at the time and wondered whether a promise could be protected simply by buying a new minute. The answer was not written on the pric",
+          "openingChinese": "小店收到一封摺好的信，封面竟是茉茉自己的字跡。 小店外的人用平常字眼安排一天：早餐、工作、探訪和休息。店內，一小時卻能寫在收據上。茉茉的手指在紙上方輕輕移動，沒有碰不屬於自己的東西。小店沒有讓世界安靜，只是讓小選擇的價值更難忽視。阿進想起兩人約好一起參加的活動。茉茉看著時間，思考是否只要買到新的一分鐘就能守住承諾。價目卡上沒有答案。 光線變化時，茉茉又看了一次。有人曾問阿進關於臥室的問題。「我相信應該再核對一次結果。」茉茉說。有人曾問阿進關於時鐘的問題。翻",
+          "closingEnglish": "he important words were written down, and the people involved had heard the result. Momo could not know every part of the future, but there was comfort in knowing what to do first: ask, check, and listen. Jin said goodbye with a tired smile. Momo returned the smile. Somewhere beyond the familiar shop, another ordinary day was waiting. It would bring its own surprises, but they did not have to meet them without friends or without a plan.",
+          "closingChinese": "今天的小物件都回到了原位。重要的話已寫好，相關的人也知道結果。茉茉不可能知道未來每件事，卻因知道第一步該怎麼做而安心：發問、查證、傾聽。阿進疲憊地笑著道別，茉茉也回以微笑。在熟悉的小店之外，又有平凡的一天等待著，會帶來新的驚喜，但他們不必獨自、毫無計畫地面對。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "奇怪的收據",
+          "openingEnglish": "A woman brought a receipt saying she borrowed an hour that she did not remember using. The shop window reflected the street so clearly that the clock inside seemed to float between passing people. Momo could hear a distant bicycle bell and someone laughing near the bakery. Those sounds belonged to ordinary Saturday hours. Inside the shop, the promise of an extra hour was written as neatly as a price on a jar. Momo wondered how something so simple could carry a cost she did not yet understand. Jin asked what could happen if everyone wanted more time but no one wanted to give any back. The question stayed with her ",
+          "openingChinese": "一名女子拿著收據，說自己不記得借過上面記載的一小時。 櫥窗把街景映得很清楚，店內的時鐘彷彿浮在來往的人影間。茉茉聽見遠處的腳踏車鈴聲，也聽見麵包店附近有人笑。那些都是平常的週六時間。小店裡，多出一小時的承諾卻寫得像罐子上的標價一樣整齊。茉茉想不通這麼簡單的東西怎會有自己還不理解的代價。阿進問，如果每個人都想要更多時間，卻沒人願意歸還，會怎樣呢？這個問題留在心裡，比鈴聲還久。 牆上的小海報寫著答案這個字。茉茉想起本週稍早看到的自行車圖畫。課堂閱讀卡用身體造了",
+          "closingEnglish": "he important words were written down, and the people involved had heard the result. Momo could not know every part of the future, but there was comfort in knowing what to do first: ask, check, and listen. Jin said goodbye with a tired smile. Momo returned the smile. Somewhere beyond the familiar shop, another ordinary day was waiting. It would bring its own surprises, but they did not have to meet them without friends or without a plan.",
+          "closingChinese": "今天的小物件都回到了原位。重要的話已寫好，相關的人也知道結果。茉茉不可能知道未來每件事，卻因知道第一步該怎麼做而安心：發問、查證、傾聽。阿進疲憊地笑著道別，茉茉也回以微笑。在熟悉的小店之外，又有平凡的一天等待著，會帶來新的驚喜，但他們不必獨自、毫無計畫地面對。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "missing-trophy",
+      "name": "小鎮偵探與消失的冠軍獎盃",
+      "genre": "校園偵探推理",
+      "level": "1000以下",
+      "hook": "冠軍獎盃不翼而飛，展示櫃只剩下一枚不起眼的線索。",
+      "description": "冠軍獎盃不翼而飛，展示櫃只剩下一枚不起眼的線索。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 768,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 108,
+      "zhCrossChapterSentenceReuse": 52,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "空空的玻璃櫃",
+          "openingEnglish": "Maya arrived at school and found the championship trophy missing from its locked display case. Sunlight reached the floor of the school corridor in long shapes. It showed dust, scratches, and the marks left by many ordinary shoes. Maya had to remember that not every mark was new and not every new mark belonged to the case. Jun asked a question, and the third friend offered a different answer. They wrote down both without deciding which sounded more exciting. The trophy was important, but no object was worth hurting a person with a careless rumor. That thought guided Maya when another student walked past and stopp",
+          "openingChinese": "瑪雅到校後發現冠軍獎盃從上鎖展示櫃裡消失了。 陽光在學校走廊地板上拉出長長的形狀，照見灰塵、刮痕和許多普通鞋印。瑪雅提醒自己，不是每個記號都是新的，也不是每個新記號都和案件有關。阿俊提出問題，第三位朋友又給出不同答案。他們都記下來，沒有選比較刺激的那個。獎盃很重要，卻沒有任何物品值得用不小心的流言傷害人。另一位學生經過、看向筆記時，瑪雅仍記著這件事。 瑪雅看鐘時，時刻是上午九點。大廳響起一聲鈴，提醒大家進入下一個時段。瑪雅想起幫自己開始一天的早餐。一位朋友",
+          "closingEnglish": "thinking about one small moment from the day. It was not necessarily the loudest moment. Sometimes the most important change happened when somebody listened, stopped, or asked one more question. Jun waved goodbye at the corner. Maya waved back and felt ready to begin again when the next problem came. The story had moved forward, not because every difficulty was gone, but because they now knew something they had not known in the morning.",
+          "closingChinese": "回家路上，瑪雅一直想著今天的一個小片刻。那不一定是最熱鬧的一刻。有時真正重要的改變，就發生在有人願意聽、停下來，或多問一句時。阿俊在轉角揮手再見，瑪雅也揮手回應，覺得下次遇到問題時還能重新開始。故事之所以前進，不是因為困難全消失了，而是因為他們比早上多懂了一件事。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "獎盃的故事",
+          "openingEnglish": "The school librarian showed the team an old photo of the original championship game. Sunlight reached the floor of the school corridor in long shapes. It showed dust, scratches, and the marks left by many ordinary shoes. Maya had to remember that not every mark was new and not every new mark belonged to the case. Jun asked a question, and the third friend offered a different answer. They wrote down both without deciding which sounded more exciting. The trophy was important, but no object was worth hurting a person with a careless rumor. That thought guided Maya when another student walked past and stopped to look",
+          "openingChinese": "圖書館老師拿出當年冠軍賽的舊照片。 陽光在學校走廊地板上拉出長長的形狀，照見灰塵、刮痕和許多普通鞋印。瑪雅提醒自己，不是每個記號都是新的，也不是每個新記號都和案件有關。阿俊提出問題，第三位朋友又給出不同答案。他們都記下來，沒有選比較刺激的那個。獎盃很重要，卻沒有任何物品值得用不小心的流言傷害人。另一位學生經過、看向筆記時，瑪雅仍記著這件事。 光線變化時，瑪雅又看了一次。有人曾問阿俊關於臥室的問題。「我相信應該再核對一次結果。」瑪雅說。有人曾問阿俊關於時鐘的",
+          "closingEnglish": "age of the notes, one line stood out: people deserve the chance to explain their own choices. It was easy to forget that in a busy day, especially when everyone wanted a quick ending. Jun had reminded Maya more than once to keep an open mind. The lesson was not that people should wait forever. It was that acting with care usually made the next action safer and fairer. Maya closed the book and made a quiet plan to remember that tomorrow.",
+          "closingChinese": "瑪雅翻到筆記最後一頁，看見一行話特別醒目：每個人都應有機會解釋自己的選擇。忙碌時很容易忘記，尤其人人都想快點結束。阿俊不只一次提醒瑪雅保持開放心態。這不是要大家永遠等待，而是說仔細行動通常會讓下一步更安全、更公平。瑪雅合上本子，默默決定明天也要記住。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "下雨的下午",
+          "openingEnglish": "Rain closed the sports field and forces the school fair indoors. The three young detectives had one rule before they began: a person was not a clue just because somebody whispered their name. Maya liked drawing arrows on a map, but an arrow meant nothing unless the place on either end could be checked. Jun carried a notebook, and their third friend looked for changes in ordinary objects. They were not trying to make the case look like a movie. They wanted the trophy found and the people at school treated fairly. That seemed a harder kind of courage than making a wild accusation. A small poster on the wall include",
+          "openingChinese": "下雨讓操場關閉，園遊會只好搬進室內。 三名小偵探開始前就訂下一條規則：有人低聲說出某個名字，不代表那個人就是線索。瑪雅喜歡在地圖上畫箭頭，但若兩端地點無法核對，箭頭就沒有意義。阿俊帶著筆記本，第三位朋友負責觀察平常物品的變化。他們不是想把案件演得像電影，而是希望找回獎盃，也讓校園裡的人受到公平對待。這比亂指責別人更需要勇氣。 牆上的小海報寫著答案這個字。瑪雅想起本週稍早看到的自行車圖畫。課堂閱讀卡用身體造了一個例句。瑪雅想起本週稍早看到的鞠躬圖畫。有人曾問",
+          "closingEnglish": "age of the notes, one line stood out: people deserve the chance to explain their own choices. It was easy to forget that in a busy day, especially when everyone wanted a quick ending. Jun had reminded Maya more than once to keep an open mind. The lesson was not that people should wait forever. It was that acting with care usually made the next action safer and fairer. Maya closed the book and made a quiet plan to remember that tomorrow.",
+          "closingChinese": "瑪雅翻到筆記最後一頁，看見一行話特別醒目：每個人都應有機會解釋自己的選擇。忙碌時很容易忘記，尤其人人都想快點結束。阿俊不只一次提醒瑪雅保持開放心態。這不是要大家永遠等待，而是說仔細行動通常會讓下一步更安全、更公平。瑪雅合上本子，默默決定明天也要記住。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "idol-desk-partner",
+      "name": "我的同桌是偶像練習生",
+      "genre": "成年校園戀愛",
+      "level": "1000以下",
+      "hook": "白天趴在同桌睡覺的男生，竟是夜裡擁有百萬粉絲的歌手。",
+      "description": "白天趴在同桌睡覺的男生，竟是夜裡擁有百萬粉絲的歌手。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 615,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 0,
+      "zhCrossChapterSentenceReuse": 0,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "午睡的同桌",
+          "openingEnglish": "Mira Chen was twenty years old and in her second year at North Bay Arts College. On Monday, a friendly woman from the school office led a new student into her class. His name was Ren Yu, and he was twenty-one. He sat in the middle row, beside Mira, put his head on a folded red jacket, and went to sleep before the teacher finished speaking. Mira took notice of a small bug near his desk and moved it gently to a plant. Ren did not move at all. The other students whispered that the new boy looked like a star, but Mira wanted only to finish her film project.",
+          "openingChinese": "二十歲的陳米拉就讀北灣藝術學院二年級。星期一，一位友善的女職員領著新生進教室。他叫余任，二十一歲。他坐在中間那排、米拉旁邊，把頭枕在摺好的紅外套上，老師還沒講完話就睡著了。米拉注意到桌旁有隻小蟲，輕輕把牠移到盆栽上。余任完全沒動。其他同學低聲說新同學像明星，米拉卻只想完成自己的動畫作品。",
+          "closingEnglish": "ed her lucky. Instead she put her phone away. “I will not tell anyone tonight,” she said. “But this is not a promise to tell a lie for you. We need to talk about what happens next.” Ren looked more surprised by her clear words than by the discovery itself. Behind him, the studio door opened and someone called his name. Mira stepped aside. She had a film to finish, and now her quiet class had become much more interesting than she wanted.",
+          "closingChinese": "好幾秒裡沒有人說話。米拉大可以用手機告訴全校，大家或許還會說她很幸運。但她收起手機。「今晚我不會告訴任何人，」她說，「不過這不代表我答應替你說謊。我們得談談接下來怎麼辦。」余任似乎比起祕密被發現，更驚訝她說得這麼清楚。他身後的錄音室門打開，有人喊他的名字。米拉退到一旁。她還有動畫要完成，而原本平靜的班級突然變得太有戲劇性了。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "重要事情的清單",
+          "openingEnglish": "The next class began with a small gift. Mira found a piece of chocolate on her desk and a note from Ren: “For the person who reminds me to eat.” She laughed and put it beside her lunch. Their teacher asked everyone to make a list of the main things they needed before the film show. Mira wrote, “Finish drawings, collect sound, test the film, get permission.” Ren wrote, “Go to class, learn the song, rest for one hour, be a real friend.” The paper looked almost too simple. But there was one new word for him that mattered most: friend.",
+          "openingChinese": "下一堂課從一個小禮物開始。米拉在桌上發現一塊巧克力，旁邊有余任的紙條：「送給提醒我吃飯的人。」她笑著把它放在午餐旁。老師請大家列出影展前要做的主要事情。米拉寫：「完成畫面、收集聲音、測試電影、取得許可。」余任寫：「上課、學歌、休息一小時、當真正的朋友。」紙上看起來簡單得過分，但有一個詞對他特別重要：朋友。",
+          "closingEnglish": "toys and bright flowers. On its screen a video of RAY was playing. The shop worker sang along, unaware that the man in a plain coat beside her was the same singer. Ren felt the old pull to stop and smile for the public. But he had no camera with him and no work to do there. He bought bread, thanked the worker, and walked away. For the first time in months, he enjoyed being one person rather than two names. He could begin again tomorrow.",
+          "closingChinese": "夜裡余任走過市場回家。轉角一家店賣兔子玩具和鮮花，螢幕播放著 RAY 的影片。店員跟著唱，沒發現身旁穿素色外套的男人就是歌手本人。余任感到熟悉的衝動，想停下來對公眾微笑，但他沒有帶鏡頭，也沒有工作要做。他買了麵包、向店員道謝，就走了。幾個月來第一次，他享受自己只是同一個人，而不是兩個名字。明天還能重新開始。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "沒有名字的門票",
+          "openingEnglish": "On Tuesday afternoon, a package came from the studio. Inside were two tickets to a band rehearsal, a small note, and a card with the correct entry time. Ren had invited Mira and her teacher to watch the group practice, not to celebrate him, but to hear how a song changed on a real stage. Mira put on her glasses and read the note twice. “The last train leaves early,” she said. “We must be home before that.” Ren agreed. He looked tired, yet his eyes grew bright when he talked about music. The teacher offered to come with them, so no one had to find a way through the busy building alone.",
+          "openingChinese": "星期二下午，錄音室寄來一個包裹，裡面有兩張樂團排練門票、一張短箋和寫著入場時間的卡片。余任邀米拉和老師去看練習，不是為了慶祝自己，而是想讓她們聽真正的舞台如何改變歌曲。米拉戴上眼鏡，把紙條讀了兩遍。「最後一班火車很早開，」她說，「我們得趕上。」余任答應。他看起來疲倦，談起音樂時眼睛卻亮了。老師也會同行，大家不用獨自穿過繁忙的大樓。",
+          "closingEnglish": "nobody gives that flower water, it may die,” she said. “A story is like that too. It needs the right care.” Ren nodded, thinking of his own songs and his sleep. He was beginning to see why an empty evening had mattered so much. At the station Mira thanked him for the tickets. Ren said, “I hope you will come to a real concert one day.” Mira smiled. “I might. But not if I have to stop making my film.” “I would not ask you to,” he replied.",
+          "closingChinese": "回家路上，他們經過超市，門口一桶桶放著鮮花。米拉指著其中一盆乾枯的植物。「如果沒人澆水，它可能會死，」她說，「故事也一樣，需要合適的照顧。」余任點頭，想著自己的歌與睡眠。他漸漸懂得，為何一個空下來的傍晚那麼珍貴。車站裡米拉謝謝他給門票。余任說：「希望有一天妳會來看正式演唱會。」米拉笑了。「可能會，但不能因此停下我的電影。」「我不會那樣要求妳。」他說。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "secret-cat-cafe",
+      "name": "貓咪咖啡館的祕密客人",
+      "genre": "溫暖動物喜劇",
+      "level": "1000以下",
+      "hook": "一隻只在雨天上門的貓，叼來一張足以解開多年誤會的留言卡。",
+      "description": "一隻只在雨天上門的貓，叼來一張足以解開多年誤會的留言卡。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 752,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 109,
+      "zhCrossChapterSentenceReuse": 51,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "下雨天的訪客",
+          "openingEnglish": "Aya began her first shift at Rosa's cat cafe just as a heavy rain starts. The rain made the window a little blurry, but it did not hide the quiet life inside the cafe. Cups touched plates, a chair moved, and someone laughed over a small mistake. Aya noticed how carefully Rosa watched the space beneath the tables. A cat could fit where a person could not, and that meant a dropped fork or a loose bag might become a danger. The cafe was not just a place for cute photographs. It was a place where someone had to keep choosing kindness in practical, sometimes unexciting ways. A tiny bug crossed the dry edge of the wind",
+          "openingChinese": "小雅在蘿莎的貓咪咖啡館開始第一天工作，外面剛好下起大雨。 雨讓窗玻璃有些模糊，卻遮不住店裡安靜的生活。杯盤碰出輕響，椅子移動，有人為一個小錯笑了。小雅注意蘿莎總是仔細看桌下。貓能鑽進人過不去的地方，因此掉落的叉子或鬆開的袋子都可能危險。咖啡館不只是拍可愛照片的地方，也需要有人用實際、有時不那麼刺激的方式持續選擇善意。 一隻小蟲爬過窗邊乾燥的角落。櫃檯上的相機保持關閉，等待取得拍攝同意。有一件事實很重要：大家必須查證後再判斷。蘿莎給了個親切的微笑，沒有急著評",
+          "closingEnglish": "page of the notes, one line stood out: people deserve the chance to explain their own choices. It was easy to forget that in a busy day, especially when everyone wanted a quick ending. Rosa had reminded Aya more than once to keep an open mind. The lesson was not that people should wait forever. It was that acting with care usually made the next action safer and fairer. Aya closed the book and made a quiet plan to remember that tomorrow.",
+          "closingChinese": "小雅翻到筆記最後一頁，看見一行話特別醒目：每個人都應有機會解釋自己的選擇。忙碌時很容易忘記，尤其人人都想快點結束。蘿莎不只一次提醒小雅保持開放心態。這不是要大家永遠等待，而是說仔細行動通常會讓下一步更安全、更公平。小雅合上本子，默默決定明天也要記住。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "貓咪的短路線",
+          "openingEnglish": "The library confirmed Pepper had an owner and a safe indoor route through a shared courtyard. The rain made the window a little blurry, but it did not hide the quiet life inside the cafe. Cups touched plates, a chair moved, and someone laughed over a small mistake. Aya noticed how carefully Rosa watched the space beneath the tables. A cat could fit where a person could not, and that meant a dropped fork or a loose bag might become a danger. The cafe was not just a place for cute photographs. It was a place where someone had to keep choosing kindness in practical, sometimes unexciting ways. The paper was checked b",
+          "openingChinese": "圖書館確認胡椒有主人，也有穿過共用庭院的室內安全路線。 雨讓窗玻璃有些模糊，卻遮不住店裡安靜的生活。杯盤碰出輕響，椅子移動，有人為一個小錯笑了。小雅注意蘿莎總是仔細看桌下。貓能鑽進人過不去的地方，因此掉落的叉子或鬆開的袋子都可能危險。咖啡館不只是拍可愛照片的地方，也需要有人用實際、有時不那麼刺激的方式持續選擇善意。 這張紙由蘿莎核對。有人為稍後的休息準備了巧克力。有人曾問蘿莎關於課堂的問題。他們必須在今天結束前收齊所有表格。翻開的書有一則談到課程的小故事。",
+          "closingEnglish": " just two sentences. The first sentence was about the problem. The second was about what people did together. Both mattered, and neither would have made sense alone. Aya left space beneath them for another note tomorrow. Rosa sent a short reminder to rest. Aya smiled at it. A person could care deeply about a goal and still eat dinner, talk with family, and sleep. Whatever happened next, those ordinary things were part of the answer too.",
+          "closingChinese": "那天晚上，小雅試著用兩句話描述今天。第一句是問題，第二句是大家一起做的事。兩句都重要，單獨看卻不完整。小雅在下面留空，準備明天再記。蘿莎傳來簡短提醒，要記得休息。小雅笑了。人可以非常在意目標，同時仍要吃晚餐、陪家人說話、好好睡覺。不論接下來如何，這些平常的事也是答案的一部分。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "穿綠衣的訪客",
+          "openingEnglish": "A woman in a green coat arrived to collect the yellow umbrella. On rainy days the street outside the cafe turned silver. Umbrellas passed the window like moving flowers, and people entered with wet sleeves and tired faces. Aya was learning to notice both the human visitors and the animals who sometimes came by. Rosa told her that a funny cat story could be shared without turning the cat into a performer. They checked the floor for puddles and kept the door area clear. Every guest had a place to sit, and every visiting animal needed a way to leave if it became afraid. Someone had asked Rosa a question about actor.",
+          "openingChinese": "一名穿綠外套的女士走進來領黃傘。 雨天咖啡館外的街道變得銀亮，雨傘像移動的花朵經過窗前，客人帶著濕袖子和疲憊表情進門。小雅學著同時注意人類訪客和偶爾來訪的動物。蘿莎說有趣的貓故事可以分享，卻不應把貓變成表演者。他們檢查地面積水，保持門口通暢。每位客人都有位子，每隻來訪動物若害怕也應能自由離開。 有人曾問蘿莎關於演員的問題。課堂閱讀卡用下午造了一個例句。小雅想起本週稍早看到的樂團圖畫。「等其他人準備好，我們就能慶祝。」小雅提議。入口附近的告示提到轉角。",
+          "closingEnglish": " just two sentences. The first sentence was about the problem. The second was about what people did together. Both mattered, and neither would have made sense alone. Aya left space beneath them for another note tomorrow. Rosa sent a short reminder to rest. Aya smiled at it. A person could care deeply about a goal and still eat dinner, talk with family, and sleep. Whatever happened next, those ordinary things were part of the answer too.",
+          "closingChinese": "那天晚上，小雅試著用兩句話描述今天。第一句是問題，第二句是大家一起做的事。兩句都重要，單獨看卻不完整。小雅在下面留空，準備明天再記。蘿莎傳來簡短提醒，要記得休息。小雅笑了。人可以非常在意目標，同時仍要吃晚餐、陪家人說話、好好睡覺。不論接下來如何，這些平常的事也是答案的一部分。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "class-chat-stranger",
+      "name": "班級群組裡的陌生人",
+      "genre": "校園懸疑",
+      "level": "1000以下",
+      "hook": "只有三十個人的班級群組，昨天出現了第三十一個學生。",
+      "description": "只有三十個人的班級群組，昨天出現了第三十一個學生。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 758,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 109,
+      "zhCrossChapterSentenceReuse": 48,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "第三十一名學生",
+          "openingEnglish": "Lin opened the class chat and saw a new member called Student Thirty-One. Every phone in the room could show the same words, yet each student read them with a different fear. One remembered an old argument; another worried about a private drawing; someone else wondered if a joke had gone too far. Lin did not try to collect those worries. Noah suggested that people speak to a trusted adult in private if they needed help. That made the mystery harder to turn into a game, but it also made the classroom safer. Not every secret belonged to the class simply because a message claimed to know it. A tiny bug crossed the d",
+          "openingChinese": "琳打開班級群組，看見多了一名叫「第三十一名學生」的成員。 教室裡每支手機都能看到同樣文字，每位學生卻帶著不同的害怕閱讀。有人想到以前的爭執，有人擔心私人的畫，也有人懷疑玩笑是否太過火。琳沒有去收集這些憂慮。諾亞建議需要幫助的人私下找可信任的成人。這樣謎團就不容易被當成遊戲，教室也更安全。不是每個祕密都因一則訊息聲稱知道，就屬於全班。 一隻小蟲爬過窗邊乾燥的角落。櫃檯上的相機保持關閉，等待取得拍攝同意。有一件事實很重要：大家必須查證後再判斷。諾亞給了個親切的",
+          "closingEnglish": "s outside grew softer, Lin remembered the feeling at the start of the chapter's trouble. It had seemed larger before anyone could name it. Now it had a shape, a few facts, and a next step. That did not make it harmless, but it made it possible to face. Noah had helped without taking the whole choice away. Lin hoped to remember that balance. It was a kind of strength that did not make a loud sound, and it might be needed again very soon.",
+          "closingChinese": "窗外的光漸漸柔和，琳想起麻煩剛開始時的感受。那時在還沒說清楚前，事情看起來特別巨大。如今它有了形狀、幾項事實和下一步。問題不一定變得無害，卻能面對了。諾亞提供幫助，卻沒有奪走琳的選擇權。琳想記住這種平衡。這份力量不需要大聲，也許很快又會派上用場。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "安靜的午餐",
+          "openingEnglish": "The class eats lunch in a tense silence because everyone feared becoming the next target. Every phone in the room could show the same words, yet each student read them with a different fear. One remembered an old argument; another worried about a private drawing; someone else wondered if a joke had gone too far. Lin did not try to collect those worries. Noah suggested that people speak to a trusted adult in private if they needed help. That made the mystery harder to turn into a game, but it also made the classroom safer. Not every secret belonged to the class simply because a message claimed to know it. The pape",
+          "openingChinese": "全班午餐時都很沉默，因為人人怕成為下一個目標。 教室裡每支手機都能看到同樣文字，每位學生卻帶著不同的害怕閱讀。有人想到以前的爭執，有人擔心私人的畫，也有人懷疑玩笑是否太過火。琳沒有去收集這些憂慮。諾亞建議需要幫助的人私下找可信任的成人。這樣謎團就不容易被當成遊戲，教室也更安全。不是每個祕密都因一則訊息聲稱知道，就屬於全班。 這張紙由諾亞核對。有人為稍後的休息準備了巧克力。有人曾問諾亞關於課堂的問題。他們必須在今天結束前收齊所有表格。翻開的書有一則談到課程的",
+          "closingEnglish": "thinking about one small moment from the day. It was not necessarily the loudest moment. Sometimes the most important change happened when somebody listened, stopped, or asked one more question. Noah waved goodbye at the corner. Lin waved back and felt ready to begin again when the next problem came. The story had moved forward, not because every difficulty was gone, but because they now knew something they had not known in the morning.",
+          "closingChinese": "回家路上，琳一直想著今天的一個小片刻。那不一定是最熱鬧的一刻。有時真正重要的改變，就發生在有人願意聽、停下來，或多問一句時。諾亞在轉角揮手再見，琳也揮手回應，覺得下次遇到問題時還能重新開始。故事之所以前進，不是因為困難全消失了，而是因為他們比早上多懂了一件事。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "美術社檔案",
+          "openingEnglish": "Noah recognized the box drawing from an art club poster about private memories. The classroom was full of ordinary signs of school life: bags under desks, notebooks on chairs, and sunlight across a wall. The unknown account felt strange precisely because the room was so familiar. Lin could name every classmate, yet the screen suggested there was one more. Noah looked at the official roster and then at the phone, careful not to treat either as an invitation to search private things. 'We should ask the school,' he said. Lin agreed. Finding the truth would matter less if they frightened innocent students along the w",
+          "openingChinese": "諾亞認出盒子圖案來自美術社的「私人回憶」海報。 教室裡都是平常的校園景象：書包在桌下、筆記本放在椅上，陽光照到牆面。陌生帳號之所以詭異，正因房間太熟悉。琳認得每位同學，螢幕卻顯示還有一個人。諾亞對照正式名冊與手機，沒有把它們當成可以搜查別人私物的理由。「先問學校吧。」他說。琳同意。若沿路嚇壞無辜同學，查到真相的意義也會變小。 有人曾問諾亞關於演員的問題。課堂閱讀卡用下午造了一個例句。琳想起本週稍早看到的樂團圖畫。「等其他人準備好，我們就能慶祝。」琳提議。入",
+          "closingEnglish": "thinking about one small moment from the day. It was not necessarily the loudest moment. Sometimes the most important change happened when somebody listened, stopped, or asked one more question. Noah waved goodbye at the corner. Lin waved back and felt ready to begin again when the next problem came. The story had moved forward, not because every difficulty was gone, but because they now knew something they had not known in the morning.",
+          "closingChinese": "回家路上，琳一直想著今天的一個小片刻。那不一定是最熱鬧的一刻。有時真正重要的改變，就發生在有人願意聽、停下來，或多問一句時。諾亞在轉角揮手再見，琳也揮手回應，覺得下次遇到問題時還能重新開始。故事之所以前進，不是因為困難全消失了，而是因為他們比早上多懂了一件事。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "wrong-message",
+      "name": "第一次心動，是一則傳錯的訊息",
+      "genre": "青春戀愛",
+      "level": "1000以下",
+      "hook": "一則傳錯名字的訊息，拉近了兩個原本不熟的人。",
+      "description": "一則傳錯名字的訊息，拉近了兩個原本不熟的人。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 756,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 106,
+      "zhCrossChapterSentenceReuse": 48,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "傳錯的名字",
+          "openingEnglish": "Nineteen-year-old Mina sent a message saying I like you to the wrong contact on her phone. A text message could be read again and again, yet it did not show the whole face of the person who wrote it. Mina was learning that words needed context, and feelings needed time. Leo did not answer every silence with another message. Sometimes he waited until they could speak at the library table, with books between them and no audience to please. The quiet gave Mina space to ask what she really felt. She was not ready to name it all at once, and for once that was perfectly all right. A tiny bug crossed the dry edge of the",
+          "openingChinese": "十九歲的米娜把「我喜歡你」傳到了手機裡錯誤的聯絡人。 一則訊息能反覆閱讀，卻不能呈現寫信人的完整模樣。米娜學到言語需要脈絡，感情也需要時間。里歐沒有用更多訊息填滿每次沉默，有時等到兩人能坐在圖書館桌旁、書本隔在中間，也不用取悅觀眾時才談。這份安靜讓米娜有空間問自己真正的心意。她還不急著一次說清，而這樣也完全沒關係。 一隻小蟲爬過窗邊乾燥的角落。櫃檯上的相機保持關閉，等待取得拍攝同意。有一件事實很重要：大家必須查證後再判斷。里歐給了個親切的微笑，沒有急著評斷",
+          "closingEnglish": " outside grew softer, Mina remembered the feeling at the start of the chapter's trouble. It had seemed larger before anyone could name it. Now it had a shape, a few facts, and a next step. That did not make it harmless, but it made it possible to face. Leo had helped without taking the whole choice away. Mina hoped to remember that balance. It was a kind of strength that did not make a loud sound, and it might be needed again very soon.",
+          "closingChinese": "窗外的光漸漸柔和，米娜想起麻煩剛開始時的感受。那時在還沒說清楚前，事情看起來特別巨大。如今它有了形狀、幾項事實和下一步。問題不一定變得無害，卻能面對了。里歐提供幫助，卻沒有奪走米娜的選擇權。米娜想記住這種平衡。這份力量不需要大聲，也許很快又會派上用場。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "團體合照",
+          "openingEnglish": "A club member posted a group picture that showed Mina and Leo standing close together. A text message could be read again and again, yet it did not show the whole face of the person who wrote it. Mina was learning that words needed context, and feelings needed time. Leo did not answer every silence with another message. Sometimes he waited until they could speak at the library table, with books between them and no audience to please. The quiet gave Mina space to ask what she really felt. She was not ready to name it all at once, and for once that was perfectly all right. The paper was checked by Leo. Somebody had",
+          "openingChinese": "社團成員貼出一張合照，照片裡米娜與里歐站得很近。 一則訊息能反覆閱讀，卻不能呈現寫信人的完整模樣。米娜學到言語需要脈絡，感情也需要時間。里歐沒有用更多訊息填滿每次沉默，有時等到兩人能坐在圖書館桌旁、書本隔在中間，也不用取悅觀眾時才談。這份安靜讓米娜有空間問自己真正的心意。她還不急著一次說清，而這樣也完全沒關係。 這張紙由里歐核對。有人為稍後的休息準備了巧克力。有人曾問里歐關於課堂的問題。他們必須在今天結束前收齊所有表格。翻開的書有一則談到課程的小故事。",
+          "closingEnglish": "thinking about one small moment from the day. It was not necessarily the loudest moment. Sometimes the most important change happened when somebody listened, stopped, or asked one more question. Leo waved goodbye at the corner. Mina waved back and felt ready to begin again when the next problem came. The story had moved forward, not because every difficulty was gone, but because they now knew something they had not known in the morning.",
+          "closingChinese": "回家路上，米娜一直想著今天的一個小片刻。那不一定是最熱鬧的一刻。有時真正重要的改變，就發生在有人願意聽、停下來，或多問一句時。里歐在轉角揮手再見，米娜也揮手回應，覺得下次遇到問題時還能重新開始。故事之所以前進，不是因為困難全消失了，而是因為他們比早上多懂了一件事。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "伊森的訊息",
+          "openingEnglish": "Ethan invited Mina to watch his new play from a front-row seat. Campus life rarely gave people a perfect moment to say an important thing. There were classes to reach, books to return, and friends talking nearby. Mina had imagined that love would begin with a grand confession, not with a mistaken tap on a phone. Leo made room for her to be uncertain without turning that uncertainty into a joke. She noticed his kindness, but she also noticed the work he took seriously. A person could be more interesting when seen in an ordinary afternoon than when imagined from a distance. Someone had asked Leo a question about ac",
+          "openingChinese": "伊森邀請米娜坐前排看他的新戲。 校園生活很少提供完美時刻讓人說重要的話。大家要趕課、還書，身邊還有朋友聊天。米娜以前想像愛情從盛大告白開始，而不是誤按手機。里歐讓她能安心不確定，沒有把那份不確定拿來開玩笑。她看見他的善意，也看見他認真對待的工作。從平常下午近距離認識一個人，有時比遠遠想像更有趣。 有人曾問里歐關於演員的問題。課堂閱讀卡用下午造了一個例句。米娜想起本週稍早看到的樂團圖畫。「等其他人準備好，我們就能慶祝。」米娜提議。入口附近的告示提到轉角。",
+          "closingEnglish": "thinking about one small moment from the day. It was not necessarily the loudest moment. Sometimes the most important change happened when somebody listened, stopped, or asked one more question. Leo waved goodbye at the corner. Mina waved back and felt ready to begin again when the next problem came. The story had moved forward, not because every difficulty was gone, but because they now knew something they had not known in the morning.",
+          "closingChinese": "回家路上，米娜一直想著今天的一個小片刻。那不一定是最熱鬧的一刻。有時真正重要的改變，就發生在有人願意聽、停下來，或多問一句時。里歐在轉角揮手再見，米娜也揮手回應，覺得下次遇到問題時還能重新開始。故事之所以前進，不是因為困難全消失了，而是因為他們比早上多懂了一件事。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "island-fifth-signal",
+      "name": "無人島的第五道求救訊號",
+      "genre": "野外冒險救援",
+      "level": "1000–2000",
+      "hook": "受困無人島的五個人，發現第五道訊號似乎也在向他們求救。",
+      "description": "受困無人島的五個人，發現第五道訊號似乎也在向他們求救。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 837,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 39,
+      "zhCrossChapterSentenceReuse": 24,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "海灘上的五個人",
+          "openingEnglish": "The morning began quietly in the small island, although Lin knew that quiet did not mean safe. It was the early days, and the group had already learned that a confident guess could be worse than an honest question. Lin reviewed the rescue map and invited Hao and Mina, Sora, and Tao to look at the same page. Nobody had to agree before hearing the whole problem. A sudden storm leaves five university students on a quiet island. Lin counts everyone twice before anyone follows the damaged boat into the waves. Their task suddenly seemed larger than it had a moment before. Lin made one important choice: the next step wo",
+          "openingChinese": "在這座小島，這個早晨起初很安靜，但琳知道安靜不代表安全。現在已是最初幾天，大家明白，自信的猜測有時比誠實提問更危險。琳翻閱救援地圖，邀請皓與米娜、空與陶一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：突來的風暴將五名大學生留在安靜的小島上。琳先清點兩遍人數，阻止大家追著損壞的小船衝進海浪。那一刻，眼前任務突然顯得比剛才更加龐大。琳做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "Hao asked how the speed might change their plans. They examined the subway and waited for a clearer answer. The group discussed the tradition openly rather than allow a rumor to decide. At first the answer looked windy, but the team checked again.",
+          "closingChinese": "皓詢問速度可能如何改變大家的計畫。 他們檢查地下貨運線，等待更清楚的答案。 團隊公開討論傳統，不讓傳聞替大家做決定。 答案起初看來多風的，但團隊再次核對。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "搬家的避難棚",
+          "openingEnglish": "The morning began quietly in the small island, although Lin knew that quiet did not mean safe. It was a difficult week, and the group had already learned that a confident guess could be worse than an honest question. Lin reviewed the rescue map and invited Hao and Mina, Sora, and Tao to look at the same page. Nobody had to agree before hearing the whole problem. Wind tears the first shelter open. The students move it away from weak branches instead of holding the roof through the storm. Their task suddenly seemed larger than it had a moment before. Lin made one important choice: the next step would be written dow",
+          "openingChinese": "在這座小島，這個早晨起初很安靜，但琳知道安靜不代表安全。現在已是困難的一週，大家明白，自信的猜測有時比誠實提問更危險。琳翻閱救援地圖，邀請皓與米娜、空與陶一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：強風掀開第一座避難棚。大家不硬撐，而是把棚子移到遠離脆弱樹枝的地方。那一刻，眼前任務突然顯得比剛才更加龐大。琳做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "Hao noted Thus in the margin and asked for an example. The group discussed the toothbrushes openly rather than allow a rumor to decide. The turtle became one more detail to check before the group moved on. Lin made a record of the victory, so everyone could compare it later.",
+          "closingChinese": "皓在頁邊記下「因此」，並要求舉例。 團隊公開討論牙刷，不讓傳聞替大家做決定。 在團隊繼續之前，烏龜成了需要查核的另一項細節。 琳記下了勝利，讓所有人日後能夠比較。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "壞掉的太陽能板",
+          "openingEnglish": "The morning began quietly in the small island, although Lin knew that quiet did not mean safe. It was the middle of the work, and the group had already learned that a confident guess could be worse than an honest question. Lin reviewed the rescue map and invited Hao and Mina, Sora, and Tao to look at the same page. Nobody had to agree before hearing the whole problem. A cracked solar panel near the path cannot directly charge their radio. Hao checks the wires and saves the few working parts. Their task suddenly seemed larger than it had a moment before. Lin made one important choice: the next step would be writte",
+          "openingChinese": "在這座小島，這個早晨起初很安靜，但琳知道安靜不代表安全。現在已是工作的中段，大家明白，自信的猜測有時比誠實提問更危險。琳翻閱救援地圖，邀請皓與米娜、空與陶一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：步道旁破裂的太陽能板無法直接替無線電充電。皓檢查線路，保留少數仍可使用的零件。那一刻，眼前任務突然顯得比剛才更加龐大。琳做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "There was still a chance to settle, if the next test worked. The group discussed the slippers openly rather than allow a rumor to decide. At first the answer looked sudden, but the team checked again. Lin made a record of the teapot, so everyone could compare it later.",
+          "closingChinese": "如果下一次測試成功，仍然有機會達成協議。 團隊公開討論拖鞋，不讓傳聞替大家做決定。 答案起初看來突然的，但團隊再次核對。 琳記下了茶壺，讓所有人日後能夠比較。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "magic-convenience-store",
+      "name": "魔法便利商店，今天正式營業",
+      "genre": "都市奇幻打工",
+      "level": "1000–2000",
+      "hook": "一間魔法便利商店開張，店員得學會處理生活裡各種奇怪的難題。",
+      "description": "一間魔法便利商店開張，店員得學會處理生活裡各種奇怪的難題。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 811,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 79,
+      "zhCrossChapterSentenceReuse": 45,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "六點的七聲鈴",
+          "openingEnglish": "At six in the morning, Nina lifted the blue shutter of the little shop her grandmother had left her. The brass bell over the door rang seven times, although she had only touched it once. Mochi, the paper cat who kept the accounts, stretched beside the register and reminded her of the rule: one completed and checked order meant one star, and five stars allowed one useful upgrade. Today the first guest was a cloud-field messenger with wet feathers. The guest asked for a sealed jar of sunrise sugar. Nina took the request seriously. Each visitor carried a whole world beyond the door, and a wrong purchase could follow",
+          "openingChinese": "早上六點，妮娜拉起奶奶留給她的小店藍色鐵門。門上的黃銅鈴明明只被碰了一下，卻連響七聲。負責記帳的紙貓麻糬在收銀機旁伸懶腰，提醒她一條規則：完成且經確認的一筆訂單得到一顆星；集滿五顆才可解鎖一項實用升級。今天第一位客人是一名羽毛濕透的雲野信使。客人想買一罐封好的日出糖。妮娜認真看待這份委託。每位客人都把門外的一整個世界帶進店裡，買錯東西也可能把問題帶回家。",
+          "closingEnglish": ". As she closed her notebook, she noticed a missing page marked Order Zero. Kai said the mark might be important, but they should compare it with other evidence before making an accusation. Nina liked that answer. They were learning to work together without guessing at other people’s motives. Outside, the ordinary streetlights came on. Inside, the shop kept its small promise: the doors would open again at six, ready for another visitor.",
+          "closingChinese": "世界之門另一邊揮手，妮娜也揮手回應。接著她關上收銀機，記下今天不想忘記的一個教訓：有用的商店靠每天反覆做出的選擇，而不是單一驚天法術。合上筆記本時，她發現一張標示「零號訂單」的缺頁。凱說這個記號也許重要，但指控任何人以前，應先和其他證據比對。妮娜喜歡這個答案。兩人正在學習不亂猜別人的動機，也能一起工作。外頭亮起普通路燈。店內則繼續守著小小承諾：明早六點再次開門，迎接下一名旅人。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "烏龜的日曆",
+          "openingEnglish": "At six in the morning, Nina lifted the blue shutter of the little shop her grandmother had left her. The brass bell over the door rang seven times, although she had only touched it once. Mochi, the paper cat who kept the accounts, stretched beside the register and reminded her of the rule: one completed and checked order meant one star, and five stars allowed one useful upgrade. Today the first guest was an old turtle who walked between dry valleys. The guest asked for a rain calendar with waterproof pages. Nina took the request seriously. Each visitor carried a whole world beyond the door, and a wrong purchase c",
+          "openingChinese": "早上六點，妮娜拉起奶奶留給她的小店藍色鐵門。門上的黃銅鈴明明只被碰了一下，卻連響七聲。負責記帳的紙貓麻糬在收銀機旁伸懶腰，提醒她一條規則：完成且經確認的一筆訂單得到一顆星；集滿五顆才可解鎖一項實用升級。今天第一位客人是一隻往返乾旱山谷的老烏龜。客人想買一本防水的降雨日曆。妮娜認真看待這份委託。每位客人都把門外的一整個世界帶進店裡，買錯東西也可能把問題帶回家。",
+          "closingEnglish": "he noticed a common delivery route was being quietly removed from the maps. Kai said the mark might be important, but they should compare it with other evidence before making an accusation. Nina liked that answer. They were learning to work together without guessing at other people’s motives. Outside, the ordinary streetlights came on. Inside, the shop kept its small promise: the doors would open again at six, ready for another visitor.",
+          "closingChinese": "另一邊揮手，妮娜也揮手回應。接著她關上收銀機，記下今天不想忘記的一個教訓：有用的商店靠每天反覆做出的選擇，而不是單一驚天法術。合上筆記本時，她發現地圖上的共用配送路線正在悄悄被刪除。凱說這個記號也許重要，但指控任何人以前，應先和其他證據比對。妮娜喜歡這個答案。兩人正在學習不亂猜別人的動機，也能一起工作。外頭亮起普通路燈。店內則繼續守著小小承諾：明早六點再次開門，迎接下一名旅人。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "空白收據",
+          "openingEnglish": "Nina had learned that a magical shop needed ordinary habits. Before touching the glowing register, she washed her hands, opened the account book, and checked the return shelf. Then the bell announced a countryside tea maker whose hands shook. The request sounded simple: a measured set of teapots for a festival. But customers from other worlds often used a familiar word for a very unfamiliar thing. Kai, the young courier who helped with deliveries, waited near the door with his boots still wet from the morning streets. Nina asked him to stay for the explanation. She had promised herself never to make a decision ab",
+          "openingChinese": "妮娜已學會魔法商店也需要普通習慣。碰發亮的收銀機前，她先洗手、打開帳冊，再檢查退貨架。接著門鈴宣布一名雙手發抖的鄉間製茶人到來。委託聽起來很簡單：供節慶使用的一組定量茶壺。但其他世界的客人，常用熟悉的詞指陌生的東西。幫忙配送的年輕信使凱，還穿著被早晨街道弄濕的靴子，在門邊等候。妮娜請他留下聽解釋。她已答應自己，在沒聽當事人說話前，絕不替別人的家鄉做決定。",
+          "closingEnglish": "ced the receipt beside Grandma Ada’s handwriting, a new detail caught her eye: the blank bill used the same ink as Order Zero. Mochi jumped onto the book and tried to cover the page with his tail. “You know something,” Nina told him. The cat looked away. Kai suggested they keep the evidence safe and ask questions tomorrow. Nina agreed. The bell above the door was silent now, but the question in the ledger would not let her sleep easily.",
+          "closingChinese": "門終於上鎖時，妮娜又清點一次當天的材料。商店賺到一顆誠實的星，卻也花掉時間、紙張和心力。這樣的平衡很真實。她把收據放在奶奶的字跡旁，忽然發現新的細節：那張空白帳單使用的墨水與零號訂單相同。麻糬跳上書，用尾巴想遮住那頁。「你知道些什麼，」妮娜對牠說。紙貓別過頭。凱建議把證據保管好，明天再追問。妮娜同意。門上的鈴此刻安靜了，帳簿裡的疑問卻讓她難以入睡。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "esports-rival",
+      "name": "死對頭竟然是我的電競搭檔",
+      "genre": "成年校園電競戀愛",
+      "level": "1000–2000",
+      "hook": "最常吵架的死對頭，可能就是線上那個跟自己最有默契的匿名搭檔。",
+      "description": "最常吵架的死對頭，可能就是線上那個跟自己最有默契的匿名搭檔。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 620,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 40,
+      "zhCrossChapterSentenceReuse": 17,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "靠窗的座位",
+          "openingEnglish": "At Haiwen University, twenty-one-year-old Mei Lin arrived early to prepare a game-design project. The last computer beside the window was already reserved by Kai Chen, a twenty-two-year-old engineering student. He had left a note saying that the machine needed a safety check. Mei believed he simply wanted to control the room. Kai believed she ignored the equipment rules. Neither asked what the other had been trying to finish. On the game screen, a small change often decided the whole route. That was why the players practiced the ordinary moves as seriously as the exciting ones.",
+          "openingChinese": "在海文大學，二十一歲的林梅提早來準備遊戲設計作業。靠窗的最後一台電腦已被二十二歲的工程系學生陳凱預約。他留了紙條，表示設備需要安全檢查。梅認為他只是想控制教室；凱則認為她忽略設備規則。兩人都沒有問對方究竟急著完成什麼。遊戲螢幕上，微小改變往往決定整條路。因此玩家對普通招式與刺激招式一樣認真練習。",
+          "closingEnglish": "the cost. Kai checked the computer's temperature before allowing another match. A tiny green light showed that Moth's message had arrived. Mei sliced a watermelon for herself after the long practice. Kai used a scale to weigh the heavy equipment box. One student asked why the details mattered. Mei answered that large plans failed when people ignored small needs. Kai agreed, then asked them to test the idea instead of merely praising it.",
+          "closingChinese": "社團把稅金列進預算，沒有藏起費用。凱確認電腦溫度後才准許繼續比賽。一盞小小的綠燈表示飛蛾的訊息已送達。長時間練習後，梅切了一顆西瓜來吃。凱用磅秤測量沉重設備箱的重量。有學生問這些細節為何重要。梅回答，大計畫常因忽略小需求而失敗。凱同意，接著要大家實際測試，而不只稱讚點子。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "午夜之後的訊息",
+          "openingEnglish": "Mei discovered that Kai had missed a morning committee meeting. She first called him careless. Later she learned only that he had requested a private family day; the details were none of her business. She covered his equipment shift without demanding an explanation. When he returned, he thanked her and asked how to repay the hour fairly. Outside the building, people hurried to their next classes. Inside, the work moved more slowly, because every rule would affect someone who was not present.",
+          "openingChinese": "梅發現凱缺席了早上的委員會。她一開始說他不負責任，後來只得知他申請了家庭事假；細節不該由她追問。她替他完成設備值班，沒有要求解釋。他回來後向她道謝，還問該如何公平補回那一小時。大樓外，人們趕著上下一堂課；裡面的工作卻慢得多，因為每條規則都會影響不在場的人。",
+          "closingEnglish": "er. Mei asked Kai about his role in checking the evening computers. Kai helped sort the repair forms by date rather than by name. They shared warm toast over the equipment list after class. The whole club agreed to protect private family information. One student asked why the details mattered. Mei answered that large plans failed when people ignored small needs. Kai agreed, then asked them to test the idea instead of merely praising it.",
+          "closingChinese": "遊戲描述一名被困在移動石塔裡的囚犯。梅問凱在晚間電腦檢查裡擔任什麼角色。凱幫忙按日期而非姓名整理維修表。下課後，他們一邊核對設備清單，一邊分享熱吐司。整個社團都同意保護私人家庭資訊。有學生問這些細節為何重要。梅回答，大計畫常因忽略小需求而失敗。凱同意，接著要大家實際測試，而不只稱讚點子。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "藏起來的一頁",
+          "openingEnglish": "During a cleaning day, Mei found a loose page from the club's accessibility guide. It explained how players who could not use voice chat might still take part in team matches. Someone had placed it behind an old cupboard, not destroyed it. Kai helped her find the original version, and together they restored it to the public handbook. Mei kept reminding herself that an argument had two sides, even when she liked only one of them. She wanted a useful result, not an easy victory.",
+          "openingChinese": "大掃除時，梅發現社團無障礙指南散落的一頁。那頁解釋了不能使用語音聊天的玩家如何參加團隊賽。有人把它放在舊櫥櫃後方，並非蓄意銷毀。凱協助她找到原始版本，兩人把那頁恢復到公開手冊裡。梅一直提醒自己，爭執總有兩面，即使她只喜歡其中一面。她想要的是有用的結果，而不是輕鬆取勝。",
+          "closingEnglish": "en the evening wind entered. Mei hoped to travel to the final but kept her identity private. Upon reading the old guide, Kai noticed a missing safety step. Mei felt upset when students laughed at players who typed slowly. The project invited youth teams to test the new silent-play signs. There was no prize for sounding certain when the answer was unknown. They wrote a question mark in the notes and promised to return after another test.",
+          "closingChinese": "晚風吹進來時，門開始擺動。梅希望前往決賽，但仍保密身分。讀完舊指南，凱注意到缺少一項安全步驟。有人嘲笑打字較慢的玩家，梅很難過。專題邀請青年隊伍測試新的無語音標誌。不知道答案時，裝得很肯定也不會有獎品。他們在筆記留下問號，答應再測試後回來確認。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "ten-years-ahead",
+      "name": "轉學生說他來自十年後",
+      "genre": "校園科幻戀愛",
+      "level": "1000–2000",
+      "hook": "轉學生知道幾件還沒發生的校園事故，卻拒絕透露任何人的未來。",
+      "description": "轉學生知道幾件還沒發生的校園事故，卻拒絕透露任何人的未來。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 840,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 40,
+      "zhCrossChapterSentenceReuse": 25,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "帶著明日日期的轉學生",
+          "openingEnglish": "The morning began quietly in the university, although Ivy knew that quiet did not mean safe. It was the early days, and the group had already learned that a confident guess could be worse than an honest question. Ivy reviewed the future notebook and invited Noah and the campus science club to look at the same page. Nobody had to agree before hearing the whole problem. Noah joins Ivy's class with a notebook dated ten years in the future. He predicts a short campus power failure, but asks students not to believe him without proof. Their task suddenly seemed larger than it had a moment before. Ivy made one important",
+          "openingChinese": "在這所大學，這個早晨起初很安靜，但艾薇知道安靜不代表安全。現在已是最初幾天，大家明白，自信的猜測有時比誠實提問更危險。艾薇翻閱未來筆記，邀請諾亞與校園科學社一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：諾亞帶著日期寫在十年後的筆記本進入艾薇的班級。他預言校園短暫停電，卻要求同學不要無證據就相信他。那一刻，眼前任務突然顯得比剛才更加龐大。艾薇做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "Noah asked how the temperature might change their plans. They did not treat the description tiny as evidence by itself. The group discussed the watermelon openly rather than allow a rumor to decide. The team decided to weigh only after checking the risks.",
+          "closingChinese": "諾亞詢問溫度可能如何改變大家的計畫。 他們沒有只憑「極小的」這種描述就當成證據。 團隊公開討論西瓜，不讓傳聞替大家做決定。 團隊決定先確認風險，再嘗試秤重。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "頁面開始改變",
+          "openingEnglish": "The morning began quietly in the university, although Ivy knew that quiet did not mean safe. It was a difficult week, and the group had already learned that a confident guess could be worse than an honest question. Ivy reviewed the future notebook and invited Noah and the campus science club to look at the same page. Nobody had to agree before hearing the whole problem. After a safe exit is reopened, one warning fades from Noah's notebook. They realize predictions are records of one possible path, not orders. Their task suddenly seemed larger than it had a moment before. Ivy made one important choice: the next st",
+          "openingChinese": "在這所大學，這個早晨起初很安靜，但艾薇知道安靜不代表安全。現在已是困難的一週，大家明白，自信的猜測有時比誠實提問更危險。艾薇翻閱未來筆記，邀請諾亞與校園科學社一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：安全出口重新開放後，筆記本的一則警告淡去。兩人明白預言只是某條可能路線的紀錄，不是命令。那一刻，眼前任務突然顯得比剛才更加龐大。艾薇做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "They examined the role and waited for a clearer answer. The group discussed the sort openly rather than allow a rumor to decide. The toast became one more detail to check before the group moved on. The latest report called the result whole, and Ivy asked why.",
+          "closingChinese": "他們檢查角色，等待更清楚的答案。 團隊公開討論分類，不讓傳聞替大家做決定。 在團隊繼續之前，吐司成了需要查核的另一項細節。 最新報告稱結果整個的，艾薇追問原因。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "被阻止的火災",
+          "openingEnglish": "The morning began quietly in the university, although Ivy knew that quiet did not mean safe. It was the middle of the work, and the group had already learned that a confident guess could be worse than an honest question. Ivy reviewed the future notebook and invited Noah and the campus science club to look at the same page. Nobody had to agree before hearing the whole problem. A warning points to the chemistry storeroom. Noah and Ivy report unsafe wiring and let trained staff handle it, avoiding a future fire. Their task suddenly seemed larger than it had a moment before. Ivy made one important choice: the next st",
+          "openingChinese": "在這所大學，這個早晨起初很安靜，但艾薇知道安靜不代表安全。現在已是工作的中段，大家明白，自信的猜測有時比誠實提問更危險。艾薇翻閱未來筆記，邀請諾亞與校園科學社一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：警告指向化學儲藏室。諾亞與艾薇通報不安全的電線，交由專業人員處理，避免未來可能發生的火災。那一刻，眼前任務突然顯得比剛才更加龐大。艾薇做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "They examined the travel and waited for a clearer answer. They checked whether Upon changed the order of the instructions. At first the answer looked upset, but the team checked again. Ivy made a record of the youth, so everyone could compare it later.",
+          "closingChinese": "他們檢查旅行，等待更清楚的答案。 他們核對「一……就」是否改變指示的順序。 答案起初看來難過的，但團隊再次核對。 艾薇記下了青年，讓所有人日後能夠比較。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "missing-singer",
+      "name": "校慶前七天，主唱消失了",
+      "genre": "校園音樂懸疑",
+      "level": "1000–2000",
+      "hook": "校慶只剩七天，樂團只找到主唱留下的手機。",
+      "description": "校慶只剩七天，樂團只找到主唱留下的手機。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 852,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 41,
+      "zhCrossChapterSentenceReuse": 23,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "倒數七天：空著的麥克風",
+          "openingEnglish": "The morning began quietly in the music building, although Rina knew that quiet did not mean safe. It was the early days, and the group had already learned that a confident guess could be worse than an honest question. Rina reviewed the rehearsal book and invited Leo and the four band members to look at the same page. Nobody had to agree before hearing the whole problem. Singer Xia misses rehearsal without explanation. Rina counts the band members and asks the student office to make a private welfare check. Their task suddenly seemed larger than it had a moment before. Rina made one important choice: the next step",
+          "openingChinese": "在音樂大樓，這個早晨起初很安靜，但莉娜知道安靜不代表安全。現在已是最初幾天，大家明白，自信的猜測有時比誠實提問更危險。莉娜翻閱排練紀錄本，邀請里歐與另外四位團員一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：主唱夏沒有說明就缺席排練。莉娜清點團員，請學生事務處私下確認她是否平安。那一刻，眼前任務突然顯得比剛才更加龐大。莉娜做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "Leo asked how the temperature might change their plans. They did not treat the description tiny as evidence by itself. The group discussed the watermelon openly rather than allow a rumor to decide. The team decided to weigh only after checking the risks.",
+          "closingChinese": "里歐詢問溫度可能如何改變大家的計畫。 他們沒有只憑「極小的」這種描述就當成證據。 團隊公開討論西瓜，不讓傳聞替大家做決定。 團隊決定先確認風險，再嘗試秤重。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "倒數六天：指導老師的桌子",
+          "openingEnglish": "The morning began quietly in the music building, although Rina knew that quiet did not mean safe. It was a difficult week, and the group had already learned that a confident guess could be worse than an honest question. Rina reviewed the rehearsal book and invited Leo and the four band members to look at the same page. Nobody had to agree before hearing the whole problem. The band asks the school legal adviser to explain the contract. They decide to use an original song with written permission from every writer. Their task suddenly seemed larger than it had a moment before. Rina made one important choice: the nex",
+          "openingChinese": "在音樂大樓，這個早晨起初很安靜，但莉娜知道安靜不代表安全。現在已是困難的一週，大家明白，自信的猜測有時比誠實提問更危險。莉娜翻閱排練紀錄本，邀請里歐與另外四位團員一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：樂團請學校法律顧問解釋合約，決定使用每位作者都書面授權的原創歌曲。那一刻，眼前任務突然顯得比剛才更加龐大。莉娜做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "They examined the role and waited for a clearer answer. The group discussed the sort openly rather than allow a rumor to decide. The toast became one more detail to check before the group moved on. The latest report called the result whole, and Rina asked why.",
+          "closingChinese": "他們檢查角色，等待更清楚的答案。 團隊公開討論分類，不讓傳聞替大家做決定。 在團隊繼續之前，吐司成了需要查核的另一項細節。 最新報告稱結果整個的，莉娜追問原因。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "倒數四天：改寫橋段",
+          "openingEnglish": "The morning began quietly in the music building, although Rina knew that quiet did not mean safe. It was the middle of the work, and the group had already learned that a confident guess could be worse than an honest question. Rina reviewed the rehearsal book and invited Leo and the four band members to look at the same page. Nobody had to agree before hearing the whole problem. The band rewrites the middle section so it can be sung by four voices. Rina adds a pause that lets the crowd breathe and listen. Their task suddenly seemed larger than it had a moment before. Rina made one important choice: the next step w",
+          "openingChinese": "在音樂大樓，這個早晨起初很安靜，但莉娜知道安靜不代表安全。現在已是工作的中段，大家明白，自信的猜測有時比誠實提問更危險。莉娜翻閱排練紀錄本，邀請里歐與另外四位團員一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：樂團改寫歌曲橋段，讓四人都能合唱。莉娜加入短暫停頓，讓觀眾能喘息並仔細聆聽。那一刻，眼前任務突然顯得比剛才更加龐大。莉娜做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "They examined the travel and waited for a clearer answer. They checked whether Upon changed the order of the instructions. At first the answer looked upset, but the team checked again. Rina made a record of the youth, so everyone could compare it later.",
+          "closingChinese": "他們檢查旅行，等待更清楚的答案。 他們核對「一……就」是否改變指示的順序。 答案起初看來難過的，但團隊再次核對。 莉娜記下了青年，讓所有人日後能夠比較。"
+        }
+      },
+      "structuralGate": true,
+      "translationAndPlotApproved": false,
+      "editorialCertificate": "NOT_CERTIFIED"
+    },
+    {
+      "id": "night-witch-delivery",
+      "name": "夜班魔女的快遞清單",
+      "genre": "都市奇幻戀愛",
+      "level": "1000–2000",
+      "hook": "送快遞的魔女收到一件寫著自己名字的包裹，卻得先完成二十四筆配送才能拆開。",
+      "description": "送快遞的魔女收到一件寫著自己名字的包裹，卻得先完成二十四筆配送才能拆開。",
+      "editorialLabel": true,
+      "chapterCount": 12,
+      "privateChapters": 13,
+      "minWords": 849,
+      "minTargetWords": 20,
+      "quizzes": 24,
+      "enCrossChapterSentenceReuse": 43,
+      "zhCrossChapterSentenceReuse": 26,
+      "chapterIssueCounts": {
+        "quiz_needs_semantic_answer_review": 24
+      },
+      "flaggedChapters": 12,
+      "sample": {
+        "beginning": {
+          "chapter": 1,
+          "zh": "寫著我名字的包裹",
+          "openingEnglish": "The night began quietly in Moonport City, although Luna knew that quiet did not mean safe. It was the early days, and the group had already learned that a confident guess could be worse than an honest question. Luna reviewed the route log and invited Eli and the night delivery crew to look at the same page. Nobody had to agree before hearing the whole problem. Luna receives a parcel addressed to herself on her first solo shift. A note says she may open it only after twenty-four confirmed deliveries. Their task suddenly seemed larger than it had a moment before. Luna made one important choice: the next step would ",
+          "openingChinese": "在月港城，這個夜晚起初很安靜，但露娜知道安靜不代表安全。現在已是最初幾天，大家明白，自信的猜測有時比誠實提問更危險。露娜翻閱配送紀錄簿，邀請伊萊與夜間快遞小隊一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：露娜第一次獨立值班時收到寄給自己的包裹。紙條說必須完成二十四筆經確認的配送後才能開封。那一刻，眼前任務突然顯得比剛才更加龐大。露娜做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "Eli asked how the temperature might change their plans. They did not treat the description tiny as evidence by itself. The group discussed the watermelon openly rather than allow a rumor to decide. The team decided to weigh only after checking the risks.",
+          "closingChinese": "伊萊詢問溫度可能如何改變大家的計畫。 他們沒有只憑「極小的」這種描述就當成證據。 團隊公開討論西瓜，不讓傳聞替大家做決定。 團隊決定先確認風險，再嘗試秤重。"
+        },
+        "middle": {
+          "chapter": 7,
+          "zh": "會發光的封條",
+          "openingEnglish": "The night began quietly in Moonport City, although Luna knew that quiet did not mean safe. It was a difficult week, and the group had already learned that a confident guess could be worse than an honest question. Luna reviewed the route log and invited Eli and the night delivery crew to look at the same page. Nobody had to agree before hearing the whole problem. Luna's personal parcel glows whenever a delivery record is missing. She realizes the seal measures honest work rather than speed. Their task suddenly seemed larger than it had a moment before. Luna made one important choice: the next step would be written",
+          "openingChinese": "在月港城，這個夜晚起初很安靜，但露娜知道安靜不代表安全。現在已是困難的一週，大家明白，自信的猜測有時比誠實提問更危險。露娜翻閱配送紀錄簿，邀請伊萊與夜間快遞小隊一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：露娜自己的包裹在配送紀錄缺失時發亮。她發現封條衡量的是誠實工作，而不是速度。那一刻，眼前任務突然顯得比剛才更加龐大。露娜做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "They examined the role and waited for a clearer answer. The group discussed the sort openly rather than allow a rumor to decide. The toast became one more detail to check before the group moved on. The latest report called the result whole, and Luna asked why.",
+          "closingChinese": "他們檢查角色，等待更清楚的答案。 團隊公開討論分類，不讓傳聞替大家做決定。 在團隊繼續之前，吐司成了需要查核的另一項細節。 最新報告稱結果整個的，露娜追問原因。"
+        },
+        "ending": {
+          "chapter": 12,
+          "zh": "導師沒說的事",
+          "openingEnglish": "The night began quietly in Moonport City, although Luna knew that quiet did not mean safe. It was the middle of the work, and the group had already learned that a confident guess could be worse than an honest question. Luna reviewed the route log and invited Eli and the night delivery crew to look at the same page. Nobody had to agree before hearing the whole problem. Her mentor admits that the old public route closed after a safety failure. He agrees to show the original report instead of giving a vague warning. Their task suddenly seemed larger than it had a moment before. Luna made one important choice: the ne",
+          "openingChinese": "在月港城，這個夜晚起初很安靜，但露娜知道安靜不代表安全。現在已是工作的中段，大家明白，自信的猜測有時比誠實提問更危險。露娜翻閱配送紀錄簿，邀請伊萊與夜間快遞小隊一起查看相同頁面。所有人都可以先聽完整個問題，再決定是否同意。當天的第一份紀錄寫道：導師承認舊公共路線因安全故障關閉，願意出示原始報告，而不只模糊警告。那一刻，眼前任務突然顯得比剛才更加龐大。露娜做出重要決定：下一步要公開記下，讓每個人都能核對。",
+          "closingEnglish": "They examined the travel and waited for a clearer answer. They checked whether Upon changed the order of the instructions. At first the answer looked upset, but the team checked again. Luna made a record of the youth, so everyone could compare it later.",
+          "closingChinese": "他們檢查旅行，等待更清楚的答案。 他們核對「一……就」是否改變指示的順序。 答案起初看來難過的，但團隊再次核對。 露娜記下了青年，讓所有人日後能夠比較。"
         }
       },
       "structuralGate": true,
@@ -49191,6 +49877,2358 @@
       "targetWords": 21,
       "quizCount": 2,
       "bilingualParagraphs": 10,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-1",
+      "number": 1,
+      "title": "會呼吸的書包",
+      "words": 659,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-2",
+      "number": 2,
+      "title": "兩下是願意",
+      "words": 656,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-3",
+      "number": 3,
+      "title": "上學路上的第一課",
+      "words": 638,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-4",
+      "number": 4,
+      "title": "窗邊的風",
+      "words": 646,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-5",
+      "number": 5,
+      "title": "不是賽跑",
+      "words": 662,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-6",
+      "number": 6,
+      "title": "舊書店的招牌",
+      "words": 668,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-7",
+      "number": 7,
+      "title": "願意等待的朋友",
+      "words": 652,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-8",
+      "number": 8,
+      "title": "小得不能再小的學生",
+      "words": 648,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-9",
+      "number": 9,
+      "title": "外婆的舊卡片",
+      "words": 655,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-10",
+      "number": 10,
+      "title": "人人都適用的規則",
+      "words": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-11",
+      "number": 11,
+      "title": "諾諾的小字典",
+      "words": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "dragon-schoolbag",
+      "id": "dragon-schoolbag-12",
+      "number": 12,
+      "title": "「家」這個字",
+      "words": 652,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-1",
+      "number": 1,
+      "title": "空著的替補席",
+      "words": 820,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-2",
+      "number": 2,
+      "title": "不同的工作",
+      "words": 800,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-3",
+      "number": 3,
+      "title": "藍色界線",
+      "words": 798,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-4",
+      "number": 4,
+      "title": "多走一步",
+      "words": 792,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-5",
+      "number": 5,
+      "title": "錯誤的號碼",
+      "words": 768,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-6",
+      "number": 6,
+      "title": "下雨的體育館",
+      "words": 801,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-7",
+      "number": 7,
+      "title": "第一場友誼賽",
+      "words": 785,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-8",
+      "number": 8,
+      "title": "客廳裡的發球",
+      "words": 790,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-9",
+      "number": 9,
+      "title": "寫給教練的信",
+      "words": 778,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-10",
+      "number": 10,
+      "title": "安靜的測試",
+      "words": 776,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-11",
+      "number": 11,
+      "title": "新的位置",
+      "words": 785,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "last-substitute",
+      "id": "last-substitute-12",
+      "number": 12,
+      "title": "重播畫面",
+      "words": 793,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-1",
+      "number": 1,
+      "title": "街道之間的小店",
+      "words": 805,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-2",
+      "number": 2,
+      "title": "三條規則",
+      "words": 802,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-3",
+      "number": 3,
+      "title": "第一個額外小時",
+      "words": 813,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-4",
+      "number": 4,
+      "title": "消失的小時",
+      "words": 787,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-5",
+      "number": 5,
+      "title": "等候的朋友",
+      "words": 778,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-6",
+      "number": 6,
+      "title": "時間筆記本",
+      "words": 807,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-7",
+      "number": 7,
+      "title": "來自明天的信",
+      "words": 784,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-8",
+      "number": 8,
+      "title": "忙碌的弟弟",
+      "words": 804,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-9",
+      "number": 9,
+      "title": "沒有指針的鐘",
+      "words": 783,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-10",
+      "number": 10,
+      "title": "星期六的人群",
+      "words": 767,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-11",
+      "number": 11,
+      "title": "匆忙的代價",
+      "words": 786,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "saturday-time-shop",
+      "id": "saturday-time-shop-12",
+      "number": 12,
+      "title": "奇怪的收據",
+      "words": 795,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-1",
+      "number": 1,
+      "title": "空空的玻璃櫃",
+      "words": 801,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-2",
+      "number": 2,
+      "title": "最後的照片",
+      "words": 791,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-3",
+      "number": 3,
+      "title": "黃色痕跡",
+      "words": 796,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-4",
+      "number": 4,
+      "title": "門口紀錄",
+      "words": 798,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-5",
+      "number": 5,
+      "title": "遺失的螺絲",
+      "words": 768,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-6",
+      "number": 6,
+      "title": "戲劇教室",
+      "words": 784,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-7",
+      "number": 7,
+      "title": "獎盃的故事",
+      "words": 790,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-8",
+      "number": 8,
+      "title": "上鎖的櫃子",
+      "words": 799,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-9",
+      "number": 9,
+      "title": "錯誤的流言",
+      "words": 782,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-10",
+      "number": 10,
+      "title": "一截膠帶",
+      "words": 772,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-11",
+      "number": 11,
+      "title": "艾里的回答",
+      "words": 779,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-trophy",
+      "id": "missing-trophy-12",
+      "number": 12,
+      "title": "下雨的下午",
+      "words": 782,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-1",
+      "number": 1,
+      "title": "午睡的同桌",
+      "words": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-2",
+      "number": 2,
+      "title": "第三張桌子的約定",
+      "words": 615,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-3",
+      "number": 3,
+      "title": "八點十五分的郵件",
+      "words": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-4",
+      "number": 4,
+      "title": "東翼的安靜房間",
+      "words": 644,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-5",
+      "number": 5,
+      "title": "電影裡的黃線",
+      "words": 642,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-6",
+      "number": 6,
+      "title": "門邊的位置",
+      "words": 639,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-7",
+      "number": 7,
+      "title": "重要事情的清單",
+      "words": 626,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-8",
+      "number": 8,
+      "title": "不該上網的檔案",
+      "words": 647,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-9",
+      "number": 9,
+      "title": "那是誰的照片？",
+      "words": 637,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-10",
+      "number": 10,
+      "title": "一顆按鈕，兩種回答",
+      "words": 644,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-11",
+      "number": 11,
+      "title": "畫面上的白風箏",
+      "words": 643,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "idol-desk-partner",
+      "id": "idol-desk-partner-12",
+      "number": 12,
+      "title": "沒有名字的門票",
+      "words": 652,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-1",
+      "number": 1,
+      "title": "下雨天的訪客",
+      "words": 801,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-2",
+      "number": 2,
+      "title": "給三號桌的紙條",
+      "words": 805,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-3",
+      "number": 3,
+      "title": "雨天地圖上的門",
+      "words": 793,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-4",
+      "number": 4,
+      "title": "不是每個人都收信",
+      "words": 775,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-5",
+      "number": 5,
+      "title": "圖書館的絲帶",
+      "words": 773,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-6",
+      "number": 6,
+      "title": "空著的椅子",
+      "words": 789,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-7",
+      "number": 7,
+      "title": "貓咪的短路線",
+      "words": 764,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-8",
+      "number": 8,
+      "title": "鬆餅小災難",
+      "words": 794,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-9",
+      "number": 9,
+      "title": "抽屜裡的照片",
+      "words": 787,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-10",
+      "number": 10,
+      "title": "錯誤的地址",
+      "words": 752,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-11",
+      "number": 11,
+      "title": "濕答答的傘",
+      "words": 790,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "secret-cat-cafe",
+      "id": "secret-cat-cafe-12",
+      "number": 12,
+      "title": "穿綠衣的訪客",
+      "words": 773,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-1",
+      "number": 1,
+      "title": "第三十一名學生",
+      "words": 797,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-2",
+      "number": 2,
+      "title": "第一個祕密",
+      "words": 790,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-3",
+      "number": 3,
+      "title": "午夜訊息",
+      "words": 789,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-4",
+      "number": 4,
+      "title": "流言清單",
+      "words": 771,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-5",
+      "number": 5,
+      "title": "舊問卷",
+      "words": 781,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-6",
+      "number": 6,
+      "title": "假的線索",
+      "words": 790,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-7",
+      "number": 7,
+      "title": "安靜的午餐",
+      "words": 760,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-8",
+      "number": 8,
+      "title": "不存在的名字",
+      "words": 804,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-9",
+      "number": 9,
+      "title": "被藏的資料夾",
+      "words": 781,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-10",
+      "number": 10,
+      "title": "第二次警告",
+      "words": 758,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-11",
+      "number": 11,
+      "title": "空著的課桌",
+      "words": 797,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "class-chat-stranger",
+      "id": "class-chat-stranger-12",
+      "number": 12,
+      "title": "美術社檔案",
+      "words": 765,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-1",
+      "number": 1,
+      "title": "傳錯的名字",
+      "words": 800,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-2",
+      "number": 2,
+      "title": "隔天早晨",
+      "words": 788,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-3",
+      "number": 3,
+      "title": "第二則訊息",
+      "words": 772,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-4",
+      "number": 4,
+      "title": "有兩種結局的書",
+      "words": 771,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-5",
+      "number": 5,
+      "title": "原本喜歡的人",
+      "words": 772,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-6",
+      "number": 6,
+      "title": "紙燈籠",
+      "words": 778,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-7",
+      "number": 7,
+      "title": "團體合照",
+      "words": 756,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-8",
+      "number": 8,
+      "title": "安靜的散步",
+      "words": 802,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-9",
+      "number": 9,
+      "title": "遺失的書籤",
+      "words": 770,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-10",
+      "number": 10,
+      "title": "未送出的回覆",
+      "words": 764,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-11",
+      "number": 11,
+      "title": "閱讀之夜",
+      "words": 790,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "wrong-message",
+      "id": "wrong-message-12",
+      "number": 12,
+      "title": "伊森的訊息",
+      "words": 756,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 6,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-1",
+      "number": 1,
+      "title": "海灘上的五個人",
+      "words": 848,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-2",
+      "number": 2,
+      "title": "清點剩下的物資",
+      "words": 838,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-3",
+      "number": 3,
+      "title": "潮線上方的山坡",
+      "words": 847,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-4",
+      "number": 4,
+      "title": "雨不等於飲用水",
+      "words": 842,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-5",
+      "number": 5,
+      "title": "沒人看見的訊號",
+      "words": 843,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-6",
+      "number": 6,
+      "title": "公平的一份",
+      "words": 851,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-7",
+      "number": 7,
+      "title": "搬家的避難棚",
+      "words": 841,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-8",
+      "number": 8,
+      "title": "逆風而去的煙",
+      "words": 841,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-9",
+      "number": 9,
+      "title": "不亂猜的食物",
+      "words": 843,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-10",
+      "number": 10,
+      "title": "米娜不能奔跑",
+      "words": 837,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-11",
+      "number": 11,
+      "title": "洞壁上的記號",
+      "words": 842,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "island-fifth-signal",
+      "id": "island-fifth-signal-12",
+      "number": 12,
+      "title": "壞掉的太陽能板",
+      "words": 856,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-1",
+      "number": 1,
+      "title": "六點的七聲鈴",
+      "words": 811,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-2",
+      "number": 2,
+      "title": "酸酸的燈籠",
+      "words": 817,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-3",
+      "number": 3,
+      "title": "警報箱裡的小羊",
+      "words": 853,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-4",
+      "number": 4,
+      "title": "木瓜橋上的晚餐",
+      "words": 829,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-5",
+      "number": 5,
+      "title": "五顆星與第一座冷藏架",
+      "words": 872,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-6",
+      "number": 6,
+      "title": "來自牢島海岸的客人",
+      "words": 847,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-7",
+      "number": 7,
+      "title": "烏龜的日曆",
+      "words": 821,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-8",
+      "number": 8,
+      "title": "長者與鏡桃",
+      "words": 854,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-9",
+      "number": 9,
+      "title": "茶管裡的鯊魚",
+      "words": 840,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-10",
+      "number": 10,
+      "title": "聽得懂所有語言的燈",
+      "words": 843,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-11",
+      "number": 11,
+      "title": "新手與金色陷阱",
+      "words": 824,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "magic-convenience-store",
+      "id": "magic-convenience-store-12",
+      "number": 12,
+      "title": "空白收據",
+      "words": 848,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-1",
+      "number": 1,
+      "title": "靠窗的座位",
+      "words": 638,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-2",
+      "number": 2,
+      "title": "螢幕上的兩個名字",
+      "words": 640,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-3",
+      "number": 3,
+      "title": "第一場假警報",
+      "words": 636,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-4",
+      "number": 4,
+      "title": "教室的規則",
+      "words": 639,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-5",
+      "number": 5,
+      "title": "練習紀錄簿",
+      "words": 624,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-6",
+      "number": 6,
+      "title": "橋上的雨",
+      "words": 635,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-7",
+      "number": 7,
+      "title": "午夜之後的訊息",
+      "words": 631,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-8",
+      "number": 8,
+      "title": "對戰路線圖",
+      "words": 620,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-9",
+      "number": 9,
+      "title": "少了一格影像",
+      "words": 622,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-10",
+      "number": 10,
+      "title": "第二次機會",
+      "words": 642,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-11",
+      "number": 11,
+      "title": "費用與人情",
+      "words": 632,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "esports-rival",
+      "id": "esports-rival-12",
+      "number": 12,
+      "title": "藏起來的一頁",
+      "words": 641,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 7,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-1",
+      "number": 1,
+      "title": "帶著明日日期的轉學生",
+      "words": 862,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-2",
+      "number": 2,
+      "title": "熄燈前兩分鐘",
+      "words": 844,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-3",
+      "number": 3,
+      "title": "筆記本的規則",
+      "words": 840,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-4",
+      "number": 4,
+      "title": "無權索取的未來",
+      "words": 844,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-5",
+      "number": 5,
+      "title": "來自2036年的信封",
+      "words": 850,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-6",
+      "number": 6,
+      "title": "名字錯了的紀念牌",
+      "words": 851,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-7",
+      "number": 7,
+      "title": "頁面開始改變",
+      "words": 849,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-8",
+      "number": 8,
+      "title": "傳言之前先找證據",
+      "words": 845,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-9",
+      "number": 9,
+      "title": "沒有名字的警告",
+      "words": 850,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-10",
+      "number": 10,
+      "title": "沒有發生的事故",
+      "words": 843,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-11",
+      "number": 11,
+      "title": "老舊攝影機",
+      "words": 855,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "ten-years-ahead",
+      "id": "ten-years-ahead-12",
+      "number": 12,
+      "title": "被阻止的火災",
+      "words": 843,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-1",
+      "number": 1,
+      "title": "倒數七天：空著的麥克風",
+      "words": 862,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-2",
+      "number": 2,
+      "title": "倒數七天：留下的手機",
+      "words": 855,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-3",
+      "number": 3,
+      "title": "倒數七天：不組成追人隊伍",
+      "words": 852,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-4",
+      "number": 4,
+      "title": "倒數六天：沒有署名的錄音",
+      "words": 853,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-5",
+      "number": 5,
+      "title": "倒數六天：少了一個聲音",
+      "words": 860,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-6",
+      "number": 6,
+      "title": "倒數六天：合約夾",
+      "words": 853,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-7",
+      "number": 7,
+      "title": "倒數六天：指導老師的桌子",
+      "words": 858,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-8",
+      "number": 8,
+      "title": "倒數五天：語音留言",
+      "words": 859,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-9",
+      "number": 9,
+      "title": "倒數五天：試唱者",
+      "words": 858,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-10",
+      "number": 10,
+      "title": "倒數五天：讓每個座位都聽得到",
+      "words": 853,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-11",
+      "number": 11,
+      "title": "倒數四天：掉下的燈",
+      "words": 858,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "missing-singer",
+      "id": "missing-singer-12",
+      "number": 12,
+      "title": "倒數四天：改寫橋段",
+      "words": 852,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-1",
+      "number": 1,
+      "title": "寫著我名字的包裹",
+      "words": 863,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-2",
+      "number": 2,
+      "title": "日落後的三條規則",
+      "words": 859,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-3",
+      "number": 3,
+      "title": "樓上吸血鬼的茶",
+      "words": 849,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-4",
+      "number": 4,
+      "title": "小龍的藥品",
+      "words": 855,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-5",
+      "number": 5,
+      "title": "沒有地址的貓",
+      "words": 858,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-6",
+      "number": 6,
+      "title": "午夜會移動的街道",
+      "words": 849,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-7",
+      "number": 7,
+      "title": "會發光的封條",
+      "words": 858,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-8",
+      "number": 8,
+      "title": "舊簿上的姓名",
+      "words": 850,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-9",
+      "number": 9,
+      "title": "收費員的微笑",
+      "words": 860,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-10",
+      "number": 10,
+      "title": "信使們開會",
+      "words": 849,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-11",
+      "number": 11,
+      "title": "漏出的藥水",
+      "words": 856,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
+      "issues": [
+        "quiz_needs_semantic_answer_review:1",
+        "quiz_needs_semantic_answer_review:2"
+      ]
+    },
+    {
+      "book": "night-witch-delivery",
+      "id": "night-witch-delivery-12",
+      "number": 12,
+      "title": "導師沒說的事",
+      "words": 856,
+      "targetWords": 20,
+      "quizCount": 2,
+      "bilingualParagraphs": 12,
       "issues": [
         "quiz_needs_semantic_answer_review:1",
         "quiz_needs_semantic_answer_review:2"
