@@ -1,3 +1,4 @@
+import {previewChapters} from './offer';
 import {stories} from './content';
 import {indexChapterWords} from './dictionary';
 import {emptyReader} from './reading-model';
@@ -19,7 +20,7 @@ export async function siteFetch(input:any,init?:RequestInit):Promise<Response>{
   const id=u.searchParams.get('id'),book=stories.find(b=>b.chapters.some(c=>c.id===id)),meta=book?.chapters.find(c=>c.id===id);
   if(!book||!meta)return json({error:'找不到章節'},404);
   if(!canRead(book.id,meta.number)){
-   if(!savedPremiumKey())return json({error:'第 11 章起需使用閱讀通行證。'},403);
+   if(!savedPremiumKey())return json({error:'第 '+(previewChapters+1)+' 章起需使用閱讀通行證。'},403);
    const response=await premiumFetch('chapter?'+new URLSearchParams({book:book.id,id:meta.id}));
    if(response.ok)indexChapterWords([await response.clone().json()]);
    return response;

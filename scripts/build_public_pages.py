@@ -54,7 +54,7 @@ a:focus-visible,summary:focus-visible{outline:3px solid #9877c0;outline-offset:3
 '''
 (P/'public-reading.css').write_text(css)
 def link(path,label):return f'<a href="{href(path)}">{esc(label)}</a>'
-nav='<nav>'+link('', '互動閱讀')+link('library.html','完整書目')+link('about.html','關於拾頁')+link('teachers.html','教師資源')+link('plans.html','免費書單與方案')+link('partners.html','商業合作')+link('privacy.html','隱私政策')+link('contact.html','聯絡與勘誤')+'</nav>'
+nav='<nav>'+link('', '互動閱讀')+link('library.html','完整書目')+link('topics/index.html','題材專區')+link('about.html','關於拾頁')+link('teachers.html','教師資源')+link('plans.html','免費書單與方案')+link('partners.html','商業合作')+link('privacy.html','隱私政策')+link('contact.html','聯絡與勘誤')+'</nav>'
 def page(path,title,body,description='',advertising=False,schema=None):
  urls.append(path);canonical=href(path);extra=''
  if path.startswith('stories/') and path.endswith('/index.html'):
@@ -151,7 +151,7 @@ editorial=(P/'editorial.html').read_text().replace('<main>','<main><section clas
 
 # New research transmission remains paused; advertising placements are restored.
 privacy=(P/'privacy.html').read_text()
-privacy=privacy.replace('<main>','<main><section class="note"><h2>2026 年 11 月 14 日更新</h2><p>目前版本暫停新增雲端閱讀研究與文字回報；Google 廣告預設關閉，Cloudflare Web Analytics 用於頁面流量彙總。Google 可能使用 Cookie 與裝置資訊提供及衡量廣告，詳見下方廣告說明。進度、收藏、單字、簽到與免費解鎖仍自動存在此瀏覽器；不需要帳號。既有研究樣本保留原來的 90 天刪除政策，以彙總方式展示，不提供可識別代碼或回報文字。</p><p>舊版研究的隨機瀏覽器代碼屬可連結的瀏覽器紀錄，不能因此稱完全匿名。恢復蒐集前將另行提供經營者、目的、資料類別、保存／利用範圍、權利行使與拒絕影響說明，並確認未成年人適用方式。供應商仍處理正常網路連線所需資訊。</p></section>')
+privacy=privacy.replace('<main>','<main><section class="note"><h2>2026 年 11 月 19 日更新</h2><p>Google 登入後可將學習紀錄同步到 Cloudflare D1。讀者可自願啟用網站使用事件，傳送隨機瀏覽器代碼、書籍與章節、限定的社群來源代碼及試讀入口文案版本，保存 90 天，供站主分析及呈現彙總人氣。使用事件可能連結同一瀏覽器的造訪，可在我的閱讀隨時停止後續傳送。</p><p>主動提交的回饋包含填寫文字、書籍章節與隨機代碼，保存 90 天，僅供管理者查看。請避免提供個人或敏感資料。可透過聯絡頁申請存取、更正或刪除紀錄。拒絕使用分析仍可使用閱讀、查詞與帳號同步。Google 展示廣告目前預設關閉。</p></section>')
 (P/'privacy.html').write_text(privacy)
 
 # The app replaces this ordinary, visible fallback after loading. The same book URLs remain linked in the app.
@@ -159,6 +159,20 @@ free_home_links=''.join('<li>'+link('stories/'+key+'/chapter-1.html',next(b['zh'
 fallback=f'<section class="crawl-home"><h1>{free_count} 本小說整本免費讀</h1><p>每本 25 章，英中對照。其他小說開放前 {preview} 章免費試讀。</p><h2>整本免費書單</h2><ul>{free_home_links}</ul>'+nav+'<h2>完整書目</h2><ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat)+'</ul></section>'
 p=R/'index.html';s=p.read_text();s=re.sub(r'拾頁 StorySteps — \d+ 本分級英文小說',f'拾頁 StorySteps — {len(cat)} 本分級英文小說',s);s=re.sub(r'<div id="root">.*?</div>(?=<script src=)',lambda m:'<div id="root">'+fallback+'</div>',s,flags=re.S);s=s.replace('</head>','<link rel="canonical" href="'+BASE+'"></head>') if 'rel="canonical"' not in s else s;s=s.replace('</head>',RUM_BEACON+'</head>') if RUM_TOKEN not in s else s
 p.write_text(s)
+# Crawlable topic collections use the same definitions as interactive filtering.
+topics=json.loads((R/'config/topics.json').read_text())
+topic_links=[]
+for topic in topics:
+ selected=[b for b in cat if any(word in ' '.join([b['genre']]+b.get('tags',[])) for word in topic['keywords'])]
+ cards=[]
+ for book in selected:
+  access='全本免費' if book['id'] in free_books else f'前 {preview} 章免費'
+  cards.append('<article class="card"><img class="library-cover" loading="lazy" src="'+href(book['cover'].removeprefix('./'))+'" alt="'+esc(book['zh'])+'封面"><h2>'+link('stories/'+book['id']+'/',book['zh'])+'</h2><p>'+esc(book['hook'])+'</p><small>'+esc(book['level'])+' · '+access+'</small><p>'+link('?book='+book['id']+'&chapter='+book['chapters'][0]['id'],'開始閱讀')+'</p></article>')
+ title='英語'+topic['name']+'故事'
+ body='<h1>'+title+'</h1><p>挑選符合程度的'+topic['name']+'英文小說，點字查詞、英中對照，從故事練習閱讀。</p><p>'+link('?genre='+topic['name'],'到書城依程度篩選')+'</p><div class="book-grid">'+''.join(cards)+'</div>'
+ page('topics/'+topic['slug']+'.html',title,body,title+'合集，'+str(len(selected))+' 本分級英文小說，含免費閱讀範圍與封面。')
+ topic_links.append('<article class="card"><h2>'+link('topics/'+topic['slug']+'.html',topic['name'])+'</h2><p>'+str(len(selected))+' 本故事</p></article>')
+page('topics/index.html','熱門題材專區','<h1>今天想讀什麼故事？</h1><p>依題材挑選英文小說，再依詞彙級距找到適合的起點。</p><div class="book-grid">'+''.join(topic_links)+'</div>','校園、懸疑、科幻、愛情、霸總、職場與冒險英文故事合集。')
 namespace='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',namespace);sm=ET.Element('{'+namespace+'}urlset')
 for path in ['']+urls:
  u=ET.SubElement(sm,'{'+namespace+'}url');ET.SubElement(u,'{'+namespace+'}loc').text=href(path)

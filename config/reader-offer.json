@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-19",
   "currency": "TWD",
   "phase": "prelaunch",
   "freeBookIds": [
@@ -45,5 +45,5 @@
     "此設定是公開商品規格草案，不等於金流上線。",
     "靜態公開書稿不能靠前端鎖定達成付費保護。"
   ],
-  "previewChapters": 10
+  "previewChapters": 12
 }

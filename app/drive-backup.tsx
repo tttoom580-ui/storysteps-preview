@@ -52,6 +52,7 @@ export function useDriveBackup({available,signedIn,onRestore,accountSync=false}:
  const profileKey=accountSync?'storysteps-account-sync-profile':deviceKey;
  const sessionKey=signedIn?savedPremiumKey():'';
  const [returnedFromGoogle]=useState(()=>new URLSearchParams(location.search).has('drive-backup'));
+ const [statusRevision,setStatusRevision]=useState(0);
  const [authorization,setAuthorization]=useState('');
  const [status,setStatus]=useState<Status|null>(null);
  const [busy,setBusy]=useState(false),[message,setMessage]=useState(''),[needsApproval,setNeedsApproval]=useState(false);
@@ -80,7 +81,7 @@ export function useDriveBackup({available,signedIn,onRestore,accountSync=false}:
    setNeedsApproval(data.connected&&Boolean(localStorage.getItem(profileKey)!==data.profile&&localHasLearning(copyLocal())));
   }).catch(()=>{if(current)setMessage('暫時無法確認雲端儲存狀態。');});
   return()=>{current=false;};
- },[available,signedIn,sessionKey,endpoint,profileKey]);
+ },[available,signedIn,sessionKey,endpoint,profileKey,statusRevision]);
 
  const run=useCallback(async(approved=false)=>{
   if(!status?.connected||authorization!==savedPremiumKey()||(needsApproval&&!approved))return;
@@ -136,7 +137,7 @@ export function useDriveBackup({available,signedIn,onRestore,accountSync=false}:
   }catch(error:any){
    if(key!==savedPremiumKey())return;
    if(error.reconnect)setStatus(previous=>previous?{...previous,connected:false}:null);
-   setMessage(error.message||'Google Drive 備份失敗，稍後會再試。');
+   setMessage(error.message||'同步失敗，稍後會再試。');
   }finally{
    syncing.current=false;
    setBusy(false);
@@ -179,7 +180,7 @@ export function useDriveBackup({available,signedIn,onRestore,accountSync=false}:
   }catch(error:any){setMessage(error.message);}
   finally{setBusy(false);}
  }
- return {available,signedIn,accountSync,returnedFromGoogle,status,busy,message,needsApproval,run,connect,disconnect};
+ return {retry:()=>setStatusRevision(value=>value+1),available,signedIn,accountSync,returnedFromGoogle,status,busy,message,needsApproval,run,connect,disconnect};
 }
 
 export function DriveBackupControls({backup,onSignIn}:{backup:ReturnType<typeof useDriveBackup>;onSignIn:()=>void}){
@@ -188,7 +189,7 @@ export function DriveBackupControls({backup,onSignIn}:{backup:ReturnType<typeof 
   <h3>{backup.accountSync?"帳號自動同步":"Google Drive 自動備份"}</h3>
   <p>備份收藏單字、書架和閱讀進度。換裝置時，用同一個 Google 帳號登入即可取回已備份的紀錄。</p>
   {!backup.signedIn?<button type="button" className="secondary" onClick={onSignIn}>使用 Google 登入</button>:
-   !backup.status?null:backup.status.connected?<>
+   !backup.status?<button className="secondary" disabled={backup.busy} onClick={backup.retry}>重新確認同步狀態</button>:backup.status.connected?<>
     {backup.needsApproval&&<p>這台裝置已有學習紀錄，請確認要與這個 Google 帳號的備份合併。</p>}
     {backup.status.savedAt>0&&<p className="fine">上次成功儲存 {new Date(backup.status.savedAt).toLocaleString('zh-TW')}</p>}
     <button type="button" className="primary" disabled={backup.busy} onClick={()=>void backup.run(true)}>{backup.needsApproval?'合併這台裝置的紀錄':backup.accountSync?'立即同步':'立即備份'}</button>

@@ -38,14 +38,14 @@ export async function premiumRequest(path:string,key?:string,data?:object){
 }
 
 export function usePremium(){
- const [state,setState]=useState<{checkout:boolean;booksOwned:string[];googleClientId:string;googleSignedIn:boolean;driveBackup?:boolean}>({checkout:false,booksOwned:[],googleClientId:'',googleSignedIn:false});
+ const [state,setState]=useState<{checkout:boolean;booksOwned:string[];googleClientId:string;googleSignedIn:boolean;productAdmin?:boolean;driveBackup?:boolean}>({checkout:false,booksOwned:[],googleClientId:'',googleSignedIn:false});
  const [revision,setRevision]=useState(0);
  useEffect(()=>{
   let current=true;
   if(endpoint)premiumRequest('status').then(result=>{
    if(current)setState({checkout:result.checkout===true&&result.amount===premiumPriceTwd&&result.books===premiumBookCount,
     googleClientId:typeof result.googleClientId==='string'?result.googleClientId:'',
-    googleSignedIn:result.googleSignedIn===true,driveBackup:result.driveBackup===true,booksOwned:Array.isArray(result.booksOwned)?result.booksOwned:[]});
+    googleSignedIn:result.googleSignedIn===true,productAdmin:result.productAdmin===true,driveBackup:result.driveBackup===true,booksOwned:Array.isArray(result.booksOwned)?result.booksOwned:[]});
   }).catch(()=>{if(current)setState({checkout:false,booksOwned:[],googleClientId:'',googleSignedIn:false})});
   return ()=>{current=false};
  },[revision]);

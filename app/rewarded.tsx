@@ -43,7 +43,7 @@ export default function ReadingAccess({onRead,premium,checkoutBook}:{onRead:(id:
    <p>每本從第 1 章到第 25 章直接免費閱讀，依興趣與詞彙級距挑選。</p>
    <div className="free-book-links">{freeBooks.map(b=><button key={b.id} className="secondary" onClick={()=>onRead(b.chapters[0].id)}><b>{b.zh}</b><small>{b.level} · {b.vocabularyRange} 本 · {b.genre} · 25 章</small></button>)}</div>
   </section>
-  <section className="feature-panel"><h2>免費試讀 10 章</h2>
+  <section className="feature-panel"><h2>免費試讀 {previewChapters} 章</h2>
    <p>其他 {otherBooks.length} 本故事各開放前 {previewChapters} 章免費試讀。</p>
    <label className="book-picker">選擇故事<select value={id} onChange={e=>setId(e.target.value)}>{otherBooks.map(b=><option key={b.id} value={b.id}>{b.zh}</option>)}</select></label>
    {otherBooks.length>0&&<button className="primary" onClick={()=>{const first=otherBooks.find(b=>b.id===id)?.chapters[0];if(first)onRead(first.id)}}>開始免費試讀</button>}

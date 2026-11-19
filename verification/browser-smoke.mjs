@@ -42,7 +42,7 @@ async function run(label,options){
   await page.getByRole('heading',{name:'閱讀紀錄，怎麼保存？'}).waitFor();
   await page.getByRole('button',{name:'關閉視窗'}).click();
   await page.locator('.header').getByRole('button',{name:'拾頁 StorySteps'}).click();
-  const trialShelf=page.getByRole('region',{name:'免費試讀 10 章',exact:true});
+  const trialShelf=page.getByRole('region',{name:'免費試讀 12 章',exact:true});
   const trialButtons=trialShelf.getByRole('button',{name:/試讀《/});
   if(await trialButtons.count()!==6)throw Error('Homepage must show six trial picks initially');
   await trialShelf.getByRole('button',{name:/展開全部/}).click();
@@ -217,14 +217,14 @@ async function run(label,options){
   if(!(await purchaseButton.isDisabled()))throw Error('Unconfigured checkout must never accept money');
   await page.goto(base+'?book=import-rain-bell&chapter=import-rain-bell-25',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
-  await page.goto(base+'?book=tomorrow&chapter=tomorrow-10',{waitUntil:'domcontentloaded'});
+  await page.goto(base+'?book=tomorrow&chapter=tomorrow-12',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   await page.getByRole('region',{name:'下一本整本免費小說'}).getByRole('button',{name:'免費讀第 1 章'}).waitFor();
-  await page.getByRole('button',{name:'繼續讀第 11 章'}).click();
-  await page.locator('.offer-premium').getByText(/繼續讀《.+》第 11 章/).waitFor();
-  await page.goto(base+'?book=tomorrow&chapter=tomorrow-11',{waitUntil:'domcontentloaded'});
-  await page.getByRole('heading',{name:'前 10 章免費試讀'}).last().waitFor();
-  if(await page.locator('[data-paragraph]').count())throw Error('Chapter 11 bypassed the preview limit');
+  await page.getByRole('button',{name:'繼續讀第 13 章'}).click();
+  await page.locator('.offer-premium').getByText(/繼續讀《.+》第 13 章/).waitFor();
+  await page.goto(base+'?book=tomorrow&chapter=tomorrow-13',{waitUntil:'domcontentloaded'});
+  await page.getByRole('heading',{name:'前 12 章免費試讀'}).last().waitFor();
+  if(await page.locator('[data-paragraph]').count())throw Error('Chapter 13 bypassed the preview limit');
   // Stage 2 editorial transparency: every book is shown, none falsely certified.
   await page.goto(base+'editorial-progress.html',{waitUntil:'domcontentloaded'});
   const editorialRows=page.locator('#books tbody tr');

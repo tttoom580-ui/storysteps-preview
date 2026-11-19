@@ -7,7 +7,7 @@ const catalog=JSON.parse(readFileSync('public/catalog.js','utf8').split('=',2)[1
 const available=new Map(catalog.filter(b=>b.readable!==false).map(b=>[b.id,b]));
 const free=new Set(offer.freeBookIds);
 assert.equal(offer.phase,'prelaunch');
-assert.equal(offer.previewChapters,10);
+assert.equal(offer.previewChapters,12);
 assert.equal(offer.transitionalAccess.legacyFreeUnlock,false);
 assert.equal(offer.premium.priceTwd,100,'NT$100 price');
 assert.equal(offer.premium.billing,'one_time','Not a subscription');
@@ -46,4 +46,4 @@ assert(plans.includes('私有'),'Private storage prerequisite is required');
 const privacy=readFileSync('public/privacy.html','utf8');
 assert(privacy.includes('展示廣告目前預設關閉'),'Ad policy must be consistent');
 assert(!plans.includes('href="https://checkout'),'Do not add a fictitious checkout link');
-console.log('PASS: '+free.size+' fully free 25-chapter books, '+(available.size-free.size)+' other books with ten free chapters, all covers verified');
+console.log('PASS: '+free.size+' fully free 25-chapter books, '+(available.size-free.size)+' other books with twelve free chapters, all covers verified');

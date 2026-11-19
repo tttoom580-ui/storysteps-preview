@@ -17,7 +17,7 @@ function snapshot(){
  const ids=new Set(stories.flatMap(b=>b.chapters.map(c=>c.id)));
  const positions:Record<string,any>={};try{for(let i=0;i<localStorage.length;i++){const k=localStorage.key(i)||'';if(k.startsWith('storysteps-position-')){const id=k.slice('storysteps-position-'.length);if(ids.has(id))positions[id]=read(k,null);}}}catch{}
  return {format:'storysteps-learning',version:2,exportedAt:Date.now(),progress:guest.progress||[],vocab:guest.vocab||[],state,
-  readingDays:readDays(),grants:readGrants(),preferences:Object.fromEntries(allowedPreferences.map(k=>[k,read(k,null)])),positions};
+  readingTime:read('storysteps-reading-time',{}),readingDays:readDays(),grants:readGrants(),preferences:Object.fromEntries(allowedPreferences.map(k=>[k,read(k,null)])),positions};
 }
 function fingerprint(){const s=snapshot();return JSON.stringify([s.progress,s.vocab,{...s.state,lastBackup:0},s.readingDays,s.grants,s.preferences,s.positions]);}
 export default function BackupPanel({onRestore}:{onRestore:()=>void}){
@@ -41,6 +41,14 @@ export default function BackupPanel({onRestore}:{onRestore:()=>void}){
   const writes:Record<string,string>={'storysteps-guest':JSON.stringify(next),[readerKey]:JSON.stringify(merged)};
   if(candidate.version===2){const grants=new Map(readGrants().map(g=>[g.story+':'+g.start,g]));for(const g of b.grants)if(!grants.has(g.story+':'+g.start))grants.set(g.story+':'+g.start,g);writes['storysteps-free-access-v1']=JSON.stringify([...grants.values()]);}
   const days=cleanDays([...readDays(),...(Array.isArray(candidate.readingDays)?candidate.readingDays:[])]);writes['storysteps-reading-days-v1']=JSON.stringify(days);
+  if(candidate.readingTime&&typeof candidate.readingTime==='object'){
+   const current=read('storysteps-reading-time',{});
+   for(const [id,seconds] of Object.entries(candidate.readingTime)){
+    if(stories.some(book=>book.chapters.some(chapter=>chapter.id===id))&&typeof seconds==='number'&&Number.isFinite(seconds)&&seconds>=0)
+     current[id]=Math.max(Number(current[id])||0,seconds);
+   }
+   writes['storysteps-reading-time']=JSON.stringify(current);
+  }
   const before=Object.fromEntries(Object.keys(writes).map(k=>[k,localStorage.getItem(k)]));try{for(const [k,v]of Object.entries(writes))localStorage.setItem(k,v);}catch(e){for(const [k,v]of Object.entries(before)){try{v===null?localStorage.removeItem(k):localStorage.setItem(k,v)}catch{}}throw e;}
   window.dispatchEvent(new Event('storysteps-days-changed'));markLocalSaved();window.dispatchEvent(new Event('storysteps-backup-restored'));window.dispatchEvent(new Event('storysteps-access-changed'));setCandidate(null);setNotice('已合併學習資料；同章節與同單字保留目前裝置的紀錄。閱讀設定及段落位置沒有覆蓋。');onRestore();
  }catch{setNotice('匯入未完成，請確認檔案與瀏覽器儲存空間。');}}

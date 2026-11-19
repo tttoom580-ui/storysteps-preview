@@ -1,7 +1,7 @@
 import {stories} from './content';
 import type {Story} from './types';
 import {levelLabel,rangeLabel} from './vocabulary-range';
-export function ReadingGuide(){return <details className="reading-start-guide" aria-label="A B 範圍與閱讀指南"><summary>詞彙分級與每天一章的閱讀計畫</summary><div><h3>A／B 代表什麼？</h3><p><strong>A 本練前約 500 詞，B 本練後約 500 詞。</strong>這是本站同級配詞順序，部分詞表各有 501 詞；不是故事上下集。每天一章，25 天讀完一本，再用幾天複習，約一個月一本；兩個月讀同級 A、B 各一本，接觸並複習約 1,000 個目標詞。讀過不代表已熟記。</p><p>詞彙來源參考配合教育部 108 英語文課綱編修、由大考中心公布的《高中英文參考詞彙表》（官方六級）；本站第七級為自訂延伸。正文也可能出現其他級別、人名及變化形。<a href="./vocabulary.html">查看實際正文詞表覆蓋率</a> · <a href="./about.html#vocabulary-source">分級來源</a></p></div></details>}
+export function ReadingGuide(){return <details className="reading-start-guide" aria-label="A B 範圍與閱讀指南"><summary>詞彙分級與每天一章的閱讀計畫</summary><div><h3>A／B 代表什麼？</h3><p><strong>A 本練前約 500 詞，B 本練後約 500 詞。</strong>這是本站同級配詞順序，部分詞表各有 501 詞；不是故事上下集。每天一章，25 天讀完一本，再用幾天複習，約一個月一本；兩個月讀同級 A、B 各一本，接觸並複習約 1,000 個目標詞。讀過不代表已熟記。</p><p>詞彙來源參考配合教育部 108 英語文課綱編修、由大考中心公布的《高中英文參考詞彙表》（官方六級）；A、B 是各級的專案分冊，第七級為自訂延伸。正文也可能出現其他級別、人名及變化形。<a href="./vocabulary.html">查看實際正文詞表覆蓋率</a> · <a href="./about.html#vocabulary-source">分級來源</a></p></div></details>}
 export function HomeStories({onBook}:{onBook:(s:Story)=>void}){
  const ids=['ss-r10-l1-a','ss-r10-l2-b','ss-r10-l3-b','ss-r10-l4-a','import-last-garden','import-third-gate'];
  const books=ids.map(id=>stories.find(s=>s.id===id)).filter((s):s is Story=>!!s&&s.learningReviewRequired===false&&Boolean(s.cover));

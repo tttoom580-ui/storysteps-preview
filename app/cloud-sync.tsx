@@ -5,7 +5,7 @@ import {markLocalSaved} from './storage-status';
 
 const ENDPOINT='https://storysteps-sync.tttoom580-storysteps.workers.dev';
 const KEY_STORAGE='storysteps-sync-recovery-key-v1';
-const recordNames=['storysteps-guest','storysteps-reader-v2-guest','storysteps-free-access-v1','storysteps-reading-days-v1','storysteps-comfort','storysteps-line','storysteps-weekly-goal'];
+const recordNames=['storysteps-guest','storysteps-reader-v2-guest','storysteps-free-access-v1','storysteps-reading-days-v1','storysteps-comfort','storysteps-line','storysteps-weekly-goal','storysteps-reading-time'];
 const chapterIds=new Set(stories.flatMap(b=>b.chapters.map(c=>c.id)));
 const storyIds=new Set(stories.map(b=>b.id));
 export type Snapshot={version:1,records:Record<string,string>};
@@ -27,6 +27,9 @@ export function mergeRecords(a:Record<string,string>,b:Record<string,string>):Re
   if(k==='storysteps-reader-v2-guest'){
    const aa=cleanState(left),bb=cleanState(right);
    out[k]=JSON.stringify(cleanState({...aa,books:[...new Set([...aa.books,...bb.books])],seen:Object.fromEntries(stories.map(s=>[s.id,Math.max(aa.seen[s.id]||0,bb.seen[s.id]||0)])),resume:{...bb.resume,...aa.resume},lookups:Object.fromEntries(stories.map(s=>[s.id,Math.max(aa.lookups[s.id]||0,bb.lookups[s.id]||0)])),quotes:union(bb.quotes,aa.quotes,q=>q.id),testTaken:aa.testTaken||bb.testTaken,lastBackup:Math.max(aa.lastBackup,bb.lastBackup)}));continue;
+  }
+  if(k==='storysteps-reading-time'){
+   out[k]=JSON.stringify(Object.fromEntries([...new Set([...Object.keys(left),...Object.keys(right)])].filter(id=>chapterIds.has(id)).map(id=>[id,Math.max(Number(left[id])||0,Number(right[id])||0)])));continue;
   }
   if(k==='storysteps-free-access-v1'){const grants=union(Array.isArray(right)?right:[],Array.isArray(left)?left:[],(g:any)=>g.story+':'+g.start).filter((g:any)=>storyIds.has(g.story)&&[6,10,14,18,22].includes(g.start)&&['launch-gift','rewarded-ad'].includes(g.source));out[k]=JSON.stringify(grants);continue;}
   if(k==='storysteps-reading-days-v1'){out[k]=JSON.stringify([...new Set([...(Array.isArray(left)?left:[]),...(Array.isArray(right)?right:[])].filter((s:any)=>typeof s==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(s)))].sort());continue;}

@@ -1,3 +1,4 @@
+import {productRequest,isProductAdmin} from './product.mjs';
 import {learningRequest} from './learning.mjs';
 import {completeDrive,driveBackup,driveConfigured,driveStatus,startDrive} from './drive.mjs';
 import {authenticateGoogle,cleanGoogleSessions,endGoogleSession,googleClientId,googleSession,newGoogleChallenge} from './google.mjs';
@@ -228,7 +229,7 @@ export default {
     const session = await googleSession(env,bearer(req));
     const key = bearer(req);
     const account = session?.account ?? (validToken.test(key) ? await digest(key) : null);
-    return response({googleClientId:googleClientId(env),googleSignedIn:Boolean(session),driveBackup:driveConfigured(env),
+    return response({googleClientId:googleClientId(env),googleSignedIn:Boolean(session),productAdmin:await isProductAdmin(env,session?.account),driveBackup:driveConfigured(env),
      checkout:!!catalog,amount:catalog?.amount,books:catalog ? JSON.parse(catalog.books).length : 0,
      booksOwned:await booksForAccount(env,account)},200,origin);
    }
@@ -242,6 +243,14 @@ export default {
     if (url.pathname === '/api/premium/google/logout') {
      await endGoogleSession(env,bearer(req));
      return response({ok:true},200,origin);
+    }
+   }
+   if(url.pathname.startsWith('/api/premium/product/')){
+    const action=url.pathname.split('/').at(-1);
+    if((req.method==='GET'&&['stats','admin'].includes(action))||(req.method==='POST'&&['event','feedback'].includes(action))){
+     const session=action==='admin'?await googleSession(env,bearer(req)):null;
+     const [data,status]=await productRequest(env,action,req.method==='POST'?await jsonBody(req,8192):null,session);
+     return response(data,status,origin);
     }
    }
    if (url.pathname.startsWith('/api/premium/learning/')) {
@@ -275,6 +284,11 @@ export default {
   }
  },
  async scheduled(_event,env) {
+  if(env.DB)await env.DB.batch([
+   query(env,'DELETE FROM product_events WHERE created<?',Date.now()-90*86400000),
+   query(env,'DELETE FROM product_feedback WHERE created<?',Date.now()-90*86400000)
+  ]);
+
   if (env.DB && googleClientId(env)) await cleanGoogleSessions(env);
   if (!env.DB || !env.ACTIVATION_SECRET || !env.RESEND_API_KEY || !env.EMAIL_FROM) return;
   const {results} = await env.DB.prepare(`SELECT id,email,mailed_at,account FROM premium_orders

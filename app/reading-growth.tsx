@@ -1,3 +1,4 @@
+import {FeedbackBox} from './product-insights';
 import {useEffect,useRef,useState} from 'react';
 import {stories,levels} from './content';
 import type {Chapter,Story} from './types';
@@ -8,7 +9,7 @@ import homeSamples from './reading-guide-samples.json';
 let guidancePromise:Promise<any>|null=null;
 const loadGuidance=()=>guidancePromise??=fetch(guideUrl).then(r=>{if(!r.ok)throw Error('Unable to load reading guidance');return r.json()}).catch(e=>{guidancePromise=null;throw e});
 function useGuidance(){const [data,setData]=useState<any>({books:{},chapters:{}});useEffect(()=>{let active=true;loadGuidance().then(d=>{if(active)setData(d)}).catch(()=>{});return()=>{active=false}},[]);return data;}
-export function StudyChoice(){return <details className="growth-panel consent-panel"><summary>資料與隱私：學習資料留在此瀏覽器</summary><p>目前暫停新增雲端閱讀研究與段落文字回報。閱讀、查詞、生字複習與免費解鎖不受影響。既有研究樣本僅以彙總方式保留展示；隨機瀏覽器代碼不等於完全匿名。</p><a href="./privacy.html">查看資料處理與保存說明</a></details>}
+export function StudyChoice(){return <details className="growth-panel consent-panel"><summary>資料與隱私</summary><p>登入 Google 可自動同步學習紀錄。使用事件由讀者自願啟用，回饋意見供站主查看並保存 90 天。隨機瀏覽器代碼可能識別重複造訪。</p><a href="./privacy.html">查看資料處理與保存說明</a></details>}
 export function GuidedPicker({onBook,onRead,last}:{onBook:(s:Story)=>void;onRead:(id:string)=>void;last:string}){
  const data=homeSamples as any;
  const [topic,setTopic]=useState('不限'),[level,setLevel]=useState(()=>Math.max(0,Math.min(6,localRead('storysteps-suggested-level',0)))),[rated,setRated]=useState(false),[message,setMessage]=useState('');
@@ -31,7 +32,10 @@ export function ReadingSupport({story,chapter,progress,onBook,onTranslate}:{stor
  function rate(value:string){setDifficulty(value);localStorage.setItem('storysteps-difficulty-'+chapter.id,JSON.stringify(value));sendEvent('difficulty_'+value,story.id,chapter.id)}
  return <><details className="chapter-preview"><summary>閱讀小提醒</summary><p>本章平均每句約 {info?.meanSentence||'—'} 詞，最長句約 {info?.maxSentence||'—'} 詞。</p><p>目標詞級距是配詞範圍，不代表全文所有詞都在該級。人名、變化形、抽象情節也會影響難度；先讀懂發生什麼事，不必一次背完。</p></details>{previous&&progress.some(p=>p.chapter===previous.id)&&<details className="chapter-preview"><summary>前情提要：回看上章最後一幕</summary><p>{data.chapters[previous.id]?.lastScene}</p><small>節錄已完成的上一章結尾，不包含本章內容。</small></details>}<details className="chapter-preview"><summary>閱讀方式與難度回饋</summary><div className="choice-row">{[['easy','太簡單'],['ok','剛剛好'],['hard','有點難']].map(([v,label])=><button className={difficulty===v?'primary':'secondary'} aria-pressed={difficulty===v} key={v} onClick={()=>rate(v)}>{label}</button>)}</div><p role="status">{difficulty?'已記下你的感受。':''}</p><button className="text-link" onClick={onTranslate}>先打開段落中文</button>{easier?<button className="text-link" onClick={()=>onBook(easier)}>換一本稍簡單的：《{easier.zh}》</button>:<p>你已在入門級，可以每次讀一段，搭配中文與朗讀。</p>}</details></>
 }
-export function SentenceReport({story,chapter,index}:{story:Story;chapter:Chapter;index:number}){return <div className="sentence-report"><p>需勘誤：第 {story.chapters.find(c=>c.id===chapter.id)?.number} 章，第 {index+1} 段。</p><a href="./contact.html" target="_blank" rel="noreferrer">查看勘誤方式</a><p className="fine">雲端文字回報暫停；請勿填入姓名、電話或其他個人資料。</p></div>}
+export function SentenceReport({story,chapter,index}:{story:Story;chapter:Chapter;index:number}){
+ return <div className="sentence-report"><p>第 {index+1} 段</p><FeedbackBox book={story.id} chapter={chapter.id}/></div>;
+}
+
 export function EndMarker({story,chapter}:{story:Story;chapter:Chapter}){const ref=useRef<HTMLDivElement>(null);useEffect(()=>{const o=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){sendEvent('chapter_end',story.id,chapter.id);o.disconnect()}},{threshold:.5});if(ref.current)o.observe(ref.current);return()=>o.disconnect()},[chapter.id]);return <div ref={ref} className="fine centered">本章完 · 完成測驗可記錄進度</div>}
 export function GlobalStudy(){const [data,setData]=useState<any>(null),[error,setError]=useState('');async function refresh(){setError('');try{const r=await window.fetch(studyEndpoint+'/stats',{signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error('無法取得全站資料');setData(await r.json())}catch{setError('目前無法載入全站資料，請重試。')}}useEffect(()=>{refresh()},[]);
  const n=(book:string,kind:string)=>Number(data?.rows.find((r:any)=>r.book===book&&r.kind===kind)?.readers||0);

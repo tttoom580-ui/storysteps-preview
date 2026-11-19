@@ -1,6 +1,7 @@
 import {useState} from 'react';
 import type {FormEvent} from 'react';
 import GoogleSignIn,{stopGoogleAutoSelect} from './google-sign-in';
+import {previewChapters} from './offer';
 import {newPremiumKey,premiumRequest,savedPremiumKey,savePremiumKey} from './premium';
 
 export default function PremiumAccount({checkout,connected,active,googleClientId,googleSignedIn,onChange,onContinue}:{
@@ -56,7 +57,7 @@ export default function PremiumAccount({checkout,connected,active,googleClientId
    {!googleSignedIn&&<label>接收開通碼的 Email<input name="email" type="email" autoComplete="email" maxLength={80} required/></label>}
    <button className="primary" disabled={busy}>前往藍新付款</button>
   </form>}
-  {active&&onContinue&&<button className="primary" onClick={onContinue}>繼續讀第 11 章</button>}
+  {active&&onContinue&&<button className="primary" onClick={onContinue}>繼續讀第 {previewChapters+1} 章</button>}
   {!checkout&&!active&&<button className="primary" disabled>付款尚未開通</button>}
   {connected&&!googleSignedIn&&<details><summary>{active?'通行證帳號與跨裝置登入':'已有開通碼或登入金鑰？'}</summary>
    {active?<div className="premium-key-actions">
