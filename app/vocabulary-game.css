@@ -1,0 +1,15 @@
+.vocab-game{margin-block:20px}
+.vocab-game h3{font-size:clamp(23px,5vw,34px);overflow-wrap:anywhere}
+.vocab-game-modes,.vocab-game-progress{display:flex;gap:12px;flex-wrap:wrap;justify-content:space-between}
+.vocab-game-modes{justify-content:flex-start;margin-block:12px}
+.vocab-game-modes [aria-pressed=true]{outline:2px solid var(--accent,#9274c1);outline-offset:2px}
+.vocab-game progress{width:100%;accent-color:#8560b6;margin-block:12px}
+.vocab-game-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-block:16px}
+.vocab-game-options button{min-height:56px;white-space:normal;text-align:left;overflow-wrap:anywhere}
+.vocab-game form{display:flex;gap:12px;align-items:end;flex-wrap:wrap;margin-block:16px}
+.vocab-game label{display:grid;gap:8px;flex:1;min-width:160px}
+.vocab-game input{font:inherit;color:inherit;background:var(--panel,#fff);border:1px solid var(--line,#b8aec8);padding:12px;border-radius:10px;width:100%}
+.vocab-game-result{margin-block:16px;padding:16px;border:1px solid var(--line,#b8aec8);border-radius:12px}
+.vocab-game-result strong{font-size:21px}
+.vocab-game button:focus-visible,.vocab-game input:focus-visible{outline:3px solid #9d7fce;outline-offset:3px}
+@media(max-width:480px){.vocab-game-options{grid-template-columns:1fr}}

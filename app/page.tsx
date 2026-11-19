@@ -1,3 +1,4 @@
+import VocabularyGame from './vocabulary-game';
 import ChapterPractice,{type PracticeWord} from './chapter-practice';
 import {mergePracticeMistakes} from './chapter-practice-model.mjs';
 import {ProductConsent,FeedbackBox,LearningReport,DiscoveryBoards,TrialOffer,ProductDashboard,useReadingTime,productEvent,productConsent} from './product-insights';
@@ -420,6 +421,7 @@ export default function Home(){
   <div><h1 id="word-pocket-title">單字口袋</h1><p>{vocab.length} 個收藏 · {due.length} 個待複習</p></div>
   {vocab.length>0&&<button className="primary" onClick={()=>startReview(!due.length)}>{due.length?'開始複習':'練習全部單字'} <RotateCcw size={16}/></button>}
  </header>
+ <VocabularyGame words={vocab} disabled={busy||!loaded||cloudError} onReview={(word,known)=>action({action:"review",word,known})} onSpeak={speak}/>
  {vocab.length>0?<section className="word-collection" aria-labelledby="word-collection-title">
   <div className="word-collection-head">
    <h2 id="word-collection-title">我的收藏</h2>
