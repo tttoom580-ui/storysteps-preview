@@ -96,7 +96,7 @@ export async function driveStatus(env,account) {
 
 const learningKeys = new Set(['storysteps-guest','storysteps-reader-v2-guest','storysteps-reading-days-v1',
  'storysteps-comfort','storysteps-line','storysteps-weekly-goal','storysteps-last']);
-function validSnapshot(snapshot) {
+export function validSnapshot(snapshot) {
  if (snapshot?.version!==1 || !snapshot.records || typeof snapshot.records!=='object' || Array.isArray(snapshot.records)) return false;
  const records = Object.entries(snapshot.records);
  return records.length<=4000 && records.every(([key,value])=>{

@@ -18,15 +18,20 @@ const localHasLearning=(snapshot:Snapshot)=>Object.entries(snapshot.records).som
   const {progress,vocab,activity}=JSON.parse(value);
   return Boolean(progress?.length||vocab?.length||activity?.length);
  }
- return key.startsWith('storysteps-position-')||key==='storysteps-last'||key==='storysteps-reader-v2-guest'||key==='storysteps-reading-days-v1';
+ if(key==='storysteps-reader-v2-guest'){
+  const state=JSON.parse(value);
+  return Boolean(state?.books?.length||state?.quotes?.length||Object.keys(state?.resume||{}).length);
+ }
+ if(key==='storysteps-reading-days-v1')return Boolean(JSON.parse(value)?.length);
+ return key.startsWith('storysteps-position-')||key==='storysteps-last';
 });
 function savedWordNames(records:Snapshot['records']):string[]{
  const words=JSON.parse(records[guestKey]||'{}')?.vocab;
  return Array.isArray(words)?words.flatMap(word=>typeof word?.word==='string'?[word.word]:[]):[];
 }
-function mergeLearning(localRecords:Snapshot['records'],remoteRecords:Snapshot['records'],profile:string){
+function mergeLearning(localRecords:Snapshot['records'],remoteRecords:Snapshot['records'],profile:string,profileKey=deviceKey){
  const merged=mergeRecords(localRecords,remoteRecords);
- if(localStorage.getItem(deviceKey)!==profile||!localRecords[guestKey]||!remoteRecords[guestKey])return merged;
+ if(localStorage.getItem(profileKey)!==profile||!localRecords[guestKey]||!remoteRecords[guestKey])return merged;
  let baseline:unknown;
  try{baseline=JSON.parse(localStorage.getItem(wordBaselineKey)||'null');}catch{return merged;}
  if(!Array.isArray(baseline))return merged;
@@ -42,7 +47,9 @@ function mergeLearning(localRecords:Snapshot['records'],remoteRecords:Snapshot['
 }
 type Status={connected:boolean;savedAt:number;profile:string};
 
-export function useDriveBackup({available,signedIn,onRestore}:{available:boolean;signedIn:boolean;onRestore:()=>void}){
+export function useDriveBackup({available,signedIn,onRestore,accountSync=false}:{available:boolean;signedIn:boolean;onRestore:()=>void;accountSync?:boolean}){
+ const endpoint=accountSync?'learning':'drive';
+ const profileKey=accountSync?'storysteps-account-sync-profile':deviceKey;
  const sessionKey=signedIn?savedPremiumKey():'';
  const [returnedFromGoogle]=useState(()=>new URLSearchParams(location.search).has('drive-backup'));
  const [authorization,setAuthorization]=useState('');
@@ -65,15 +72,15 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
   if(!available||!signedIn){setStatus(null);setNeedsApproval(false);return;}
   let current=true;
   const key=sessionKey;
-  premiumRequest('drive/status',key).then(data=>{
+  premiumRequest(endpoint+'/status',key).then(data=>{
    if(!current)return;
    if(key!==savedPremiumKey())return;
    setAuthorization(key);
    setStatus(data);
-   setNeedsApproval(data.connected&&Boolean(localStorage.getItem(deviceKey)!==data.profile&&localHasLearning(copyLocal())));
-  }).catch(()=>{if(current)setMessage('暫時無法確認 Google Drive 備份狀態。');});
+   setNeedsApproval(data.connected&&Boolean(localStorage.getItem(profileKey)!==data.profile&&localHasLearning(copyLocal())));
+  }).catch(()=>{if(current)setMessage('暫時無法確認雲端儲存狀態。');});
   return()=>{current=false;};
- },[available,signedIn,sessionKey]);
+ },[available,signedIn,sessionKey,endpoint,profileKey]);
 
  const run=useCallback(async(approved=false)=>{
   if(!status?.connected||authorization!==savedPremiumKey()||(needsApproval&&!approved))return;
@@ -83,7 +90,7 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
   const key=savedPremiumKey();
   try{
    for(let attempt=0;attempt<3;attempt++){
-    const remote=await premiumRequest('drive/read',key,{});
+    const remote=await premiumRequest(endpoint+'/read',key,{});
     if(key!==savedPremiumKey())return;
     if(remote.snapshot){
      const {['storysteps-last']:last,...records}=remote.snapshot.records||{};
@@ -92,13 +99,13 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
     }
     if(remote.snapshot)delete remote.snapshot.records[excluded];
     const before=copyLocal();
-    const merged:Snapshot={version:1,records:remote.snapshot?mergeLearning(before.records,remote.snapshot.records,status.profile):before.records};
+    const merged:Snapshot={version:1,records:remote.snapshot?mergeLearning(before.records,remote.snapshot.records,status.profile,profileKey):before.records};
     const previous=remote.snapshot?.records||{};
     const entries=Object.entries(merged.records);
     let savedAt=remote.savedAt;
     if(entries.some(([name,value])=>previous[name]!==value)){
      try{
-      const saved=await premiumRequest('drive/save',key,{revision:remote.revision,snapshot:merged});
+      const saved=await premiumRequest(endpoint+'/save',key,{revision:remote.revision,snapshot:merged});
       savedAt=saved.savedAt;
      }catch(error:any){if(error.status===409&&!error.reconnect&&attempt<2)continue;throw error;}
     }
@@ -111,7 +118,7 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
     try{
      for(const [name,value] of changed)localStorage.setItem(name,value);
      localStorage.setItem(wordBaselineKey,JSON.stringify(savedWordNames(merged.records)));
-     localStorage.setItem(deviceKey,status.profile);
+     localStorage.setItem(profileKey,status.profile);
     }catch(error){
      for(const [name,value] of old)try{value===null?localStorage.removeItem(name):localStorage.setItem(name,value);}catch{}
      throw error;
@@ -123,7 +130,7 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
     }
     setStatus(previousStatus=>previousStatus?.profile===status.profile?{...previousStatus,savedAt}:previousStatus);
     setNeedsApproval(false);
-    setMessage(changed.length?'已還原並合併閱讀紀錄。':savedAt?'Google Drive 備份已更新。':'有新的學習紀錄時會自動備份。');
+    setMessage(changed.length?'已還原並合併閱讀紀錄。':savedAt?accountSync?'學習紀錄已同步。':'Google Drive 備份已更新。':'有新的學習紀錄時會自動備份。');
     break;
    }
   }catch(error:any){
@@ -135,7 +142,7 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
    setBusy(false);
    if(pending.current){pending.current=false;window.dispatchEvent(new Event('storysteps-local-saved'));}
   }
- },[status?.connected,status?.profile,needsApproval,authorization]);
+ },[status?.connected,status?.profile,needsApproval,authorization,endpoint,profileKey]);
 
  useEffect(()=>{
   if(!status?.connected||needsApproval)return;
@@ -172,20 +179,20 @@ export function useDriveBackup({available,signedIn,onRestore}:{available:boolean
   }catch(error:any){setMessage(error.message);}
   finally{setBusy(false);}
  }
- return {available,signedIn,returnedFromGoogle,status,busy,message,needsApproval,run,connect,disconnect};
+ return {available,signedIn,accountSync,returnedFromGoogle,status,busy,message,needsApproval,run,connect,disconnect};
 }
 
 export function DriveBackupControls({backup,onSignIn}:{backup:ReturnType<typeof useDriveBackup>;onSignIn:()=>void}){
  if(!backup.available)return null;
- return <section className="feature-panel" aria-label="Google Drive 自動備份">
-  <h3>Google Drive 自動備份</h3>
+ return <section className="feature-panel" aria-label={backup.accountSync?"帳號自動同步":"Google Drive 自動備份"}>
+  <h3>{backup.accountSync?"帳號自動同步":"Google Drive 自動備份"}</h3>
   <p>備份收藏單字、書架和閱讀進度。換裝置時，用同一個 Google 帳號登入即可取回已備份的紀錄。</p>
   {!backup.signedIn?<button type="button" className="secondary" onClick={onSignIn}>使用 Google 登入</button>:
    !backup.status?null:backup.status.connected?<>
     {backup.needsApproval&&<p>這台裝置已有學習紀錄，請確認要與這個 Google 帳號的備份合併。</p>}
-    {backup.status.savedAt>0&&<p className="fine">上次備份 {new Date(backup.status.savedAt).toLocaleString('zh-TW')}</p>}
-    <button type="button" className="primary" disabled={backup.busy} onClick={()=>void backup.run(true)}>{backup.needsApproval?'合併並啟用備份':'立即備份'}</button>
-    <button type="button" className="secondary" disabled={backup.busy} onClick={()=>void backup.disconnect()}>停止自動備份</button>
+    {backup.status.savedAt>0&&<p className="fine">上次成功儲存 {new Date(backup.status.savedAt).toLocaleString('zh-TW')}</p>}
+    <button type="button" className="primary" disabled={backup.busy} onClick={()=>void backup.run(true)}>{backup.needsApproval?'合併這台裝置的紀錄':backup.accountSync?'立即同步':'立即備份'}</button>
+    {!backup.accountSync&&<button type="button" className="secondary" disabled={backup.busy} onClick={()=>void backup.disconnect()}>停止自動備份</button>}
    </>:<button type="button" className="primary" disabled={backup.busy} onClick={()=>void backup.connect()}>連結 Google Drive</button>}
   <p role="status">{backup.busy?'正在處理…':backup.message}</p>
  </section>;

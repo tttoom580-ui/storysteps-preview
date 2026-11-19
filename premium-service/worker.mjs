@@ -1,3 +1,4 @@
+import {learningRequest} from './learning.mjs';
 import {completeDrive,driveBackup,driveConfigured,driveStatus,startDrive} from './drive.mjs';
 import {authenticateGoogle,cleanGoogleSessions,endGoogleSession,googleClientId,googleSession,newGoogleChallenge} from './google.mjs';
 
@@ -241,6 +242,15 @@ export default {
     if (url.pathname === '/api/premium/google/logout') {
      await endGoogleSession(env,bearer(req));
      return response({ok:true},200,origin);
+    }
+   }
+   if (url.pathname.startsWith('/api/premium/learning/')) {
+    const session=await googleSession(env,bearer(req));
+    if(!session)return response({error:'請先使用 Google 登入。'},401,origin);
+    const action=url.pathname.split('/').at(-1);
+    if((action==='status'&&req.method==='GET')||(['read','save'].includes(action)&&req.method==='POST')){
+     const [data,status]=await learningRequest(env,session.account,action,action==='save'?await jsonBody(req,850000):null);
+     return response(data,status,origin);
     }
    }
    if (url.pathname.startsWith('/api/premium/drive/')) {

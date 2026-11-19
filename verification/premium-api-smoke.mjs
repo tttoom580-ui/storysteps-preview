@@ -7,6 +7,7 @@ import worker from '../premium-service/worker.mjs';
 const sqlite=new DatabaseSync(':memory:');
 sqlite.exec(readFileSync('premium-service/schema.sql','utf8'));
 sqlite.exec(readFileSync('premium-service/google.sql','utf8'));
+sqlite.exec(readFileSync('premium-service/learning.sql','utf8'));
 sqlite.exec(readFileSync('premium-service/drive.sql','utf8'));
 sqlite.prepare('INSERT INTO premium_catalog VALUES (1,?,100,1)').run('["sample"]');
 sqlite.prepare('INSERT INTO premium_chapters VALUES (?,?,?)').run('sample','sample-11','{"id":"sample-11","paragraphs":[{"en":"private"}]}');
@@ -209,3 +210,12 @@ assert.equal((await request('/api/premium/drive/disconnect',{key:newDevice.token
 assert.equal((await driveRead(newDevice.token)).status,409);
 assert.equal(storedFiles.size,1);
 console.log('PASS: Drive authorization, account isolation, encrypted credentials, app-only save and restore, and backup disconnect');
+
+assert.equal((await request('/api/premium/learning/read',{data:{}})).status,401);
+const saveLearning=(key,revision)=>request('/api/premium/learning/save',{key,data:{revision,snapshot:{version:1,records:{'storysteps-guest':'{"progress":[],"vocab":[]}'}}}});
+assert.equal((await saveLearning(newDevice.token,0)).status,200);
+assert.equal((await saveLearning(newDevice.token,0)).status,409);
+assert.equal((await saveLearning(newDevice.token,1)).status,200);
+assert.equal((await request('/api/premium/learning/read',{key:stranger.token,data:{}}).then(r=>r.json())).snapshot,null);
+assert.equal((await request('/api/premium/learning/read',{key:newDevice.token,data:{}}).then(r=>r.json())).revision,2);
+console.log('PASS: learning account isolation and stale-write rejection');
