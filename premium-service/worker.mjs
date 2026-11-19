@@ -217,7 +217,8 @@ export default {
  async fetch(req,env) {
   const url = new URL(req.url);
   const requestingOrigin = req.headers.get('origin');
-  const origin = requestingOrigin === env.APP_ORIGIN ? env.APP_ORIGIN : '';
+  const allowedOrigins = [env.APP_ORIGIN, ...(env.APP_ADDITIONAL_ORIGINS || '').split(',').map(value => value.trim())];
+  const origin = requestingOrigin && allowedOrigins.includes(requestingOrigin) ? requestingOrigin : '';
   try {
    if (url.pathname === '/api/newebpay/notify' && req.method === 'POST') return await notify(req,env);
    if (url.pathname === '/api/premium/drive/callback' && req.method === 'GET') return await completeDrive(env,url);

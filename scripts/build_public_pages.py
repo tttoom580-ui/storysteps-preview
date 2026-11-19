@@ -4,11 +4,37 @@ import json,gzip,re,html,posixpath,xml.etree.ElementTree as ET
 R=Path(__file__).resolve().parents[1];P=R/'public';BASE='https://tttoom580-ui.github.io/storysteps-preview/';PUB='ca-pub-9154967510584289';ADS_ENABLED=False # No automatic Google ads.
 RUM_TOKEN='39932ea1057a4fb79b7e707e0b028e6b' # non-secret Cloudflare Web Analytics site token
 RUM_BEACON='<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=\'{"token":"'+RUM_TOKEN+'"}\'></script>'
-cat=json.loads((P/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'));cat=[b for b in cat if b.get('readable',True)];manifest=json.loads((P/'content-manifest.json').read_text());urls=[]
+catalog=json.loads((P/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'));cat=[b for b in catalog if b.get('readable',True)];manifest=json.loads((P/'content-manifest.json').read_text());urls=[]
 offer=json.loads((R/'config/reader-offer.json').read_text(encoding='utf-8'));free_books=set(offer['freeBookIds']);preview=offer['previewChapters'];free_count=len(free_books)
 assert offer['phase']=='prelaunch' and offer['premium']['priceTwd']==100 and free_books<={b['id'] for b in cat}
 assert {(b['level'],b.get('vocabularyRange')) for b in cat if b['id'] in free_books}=={(b['level'],b['vocabularyRange']) for b in cat if b.get('vocabularyRange') in ('A','B')} and len(free_books)==len({(b['level'],b.get('vocabularyRange')) for b in cat if b['id'] in free_books})
 assert not offer['premium']['checkoutEnabled'] and not offer['premium']['privateBookStorageEnabled']
+topics=json.loads((R/'config/topics.json').read_text())
+by_topic={topic['slug']:topic for topic in topics}
+topic_order=('games','sports','ceo','mystery','romance','scifi','history','healing','fantasy','adventure','workplace','campus','growth')
+plot_patterns={
+ '時間循環':'時間循環|世界重開', '時間旅行':'穿越|時間旅行',
+ '校園':'校園|學院|學校', '群像成長':'群像', '電競':'電競',
+ '規則副本':'規則|無限流|副本', '法律與證據':'法律|法庭|司法|證詞',
+ '末世求生':'末日|末世|生存|求生', '動物角色':'動物|獸人|貓咪|迷你龍',
+ '海洋與海港':'海港|海洋|深海|航海|海島', '職場':'職場|打工|創業|經營',
+ '慢熱戀愛':'慢熱', '穿書':'穿書|反派千金', '家族權謀':'權謀|王庭|宮廷'
+}
+for book in cat:
+    labels=' '.join([book['genre']]+book.get('tags',[]))
+    book['primaryGenre']=next((by_topic[key]['name'] for key in topic_order
+        if any(word in labels for word in by_topic[key]['keywords'])), by_topic['growth']['name'])
+    plot_text=' '.join([labels,book['zh']])
+    book['plotTags']=[label for label,pattern in plot_patterns.items()
+                      if re.search(pattern,plot_text) and label!=book['primaryGenre']][:3]
+(P/'catalog.js').write_text('window.__STORYSTEPS_CATALOG='+json.dumps(catalog,ensure_ascii=False,separators=(',',':'))+';\n',encoding='utf-8')
+def topic_matches(book, topic):
+    labels=' '.join([book['genre']]+book.get('tags',[])+book['plotTags'])
+    return book['primaryGenre']==topic['name'] or any(word in labels for word in topic['keywords'])
+def difficulty(book):
+    label={'A':'A 本','B':'B 本','custom':'自選詞彙'}.get(book.get('vocabularyRange'),'配詞整理中')
+    return f"{book['level']} 目標詞 · {label}"
+
 esc=lambda s:html.escape(str(s),quote=True)
 def href(path):return BASE+path
 def editorial_label(book):
@@ -88,26 +114,28 @@ for b in cat:
    opts=''.join(f'<li>{esc(o)}</li>' for o in q['options']);quiz+=f'<section><h3 lang="en">{esc(q["question"])}</h3><ol type="A" lang="en">{opts}</ol><details><summary>查看答案與說明</summary><p>答案：{chr(65+q["answer"])}。{esc(q["explanation"])}</p></details></section>'
   prev=link(path+(f'chapter-{i-1}.html' if i>1 else ''),'上一章' if i>1 else '回章節目錄')
   nxt=link(path+f'chapter-{i+1}.html','下一章') if i<limit else link('?purchase='+id,f'繼續讀第 {preview+1} 章') if limit<25 else link(path,'全書讀完，回書頁')
-  offer_note=f'<p class="note">NT$100 一次付費，解鎖目前 {len(cat)-free_count} 本試讀小說的後續章節。{link("plans.html","查看免費書單與方案")}</p>' if i==limit<25 else ''
+  offer_note=f'<p class="note">你目前讀到第 {i}／25 章。第 {i+1}–25 章尚未開放，規劃由 NT$100 一次付費通行證解鎖。{link("plans.html","查看方案與整本免費書單")}</p>' if i==limit<25 else ''
   body=f'<p>{link("library.html","完整書目")} / {link(path,b["zh"])}</p><h1>{esc(c["zh"])}</h1><h2 lang="en">{esc(c["title"])}</h2><p class="muted">{esc(b["zh"])} · 第 {i} / 25 章 · {esc(b["level"])} · 英中對照 · {editorial_label(b)}</p><a class="button" href="{href("?book="+id+"&chapter="+c["id"])}">用互動版查詞、朗讀與收藏</a><article>{paras}</article><h2>本章詞彙</h2><table><thead><tr><th>英文</th><th>中文</th></tr></thead><tbody>{words}</tbody></table>'+(f'<h2>閱讀理解</h2>{quiz}' if quiz else '<p class="note">本章目前提供正文與詞彙，閱讀理解題仍待補齊。</p>')+f'<nav class="chapter-nav">{prev}{nxt}</nav>{offer_note}<p class="muted">發現文字或翻譯問題？{link("contact.html","回報勘誤")}。這份內容尚未標示為人工全章校訂完成。</p>'
   page(path+f'chapter-{i}.html',b['zh']+'｜第 '+str(i)+' 章 '+c['zh'],body,b['hook']+' 第 '+str(i)+' 章英中對照。',True)
- body=cover+f'<p class="muted">{esc(b["level"])} · {esc(b["genre"])}</p><h1>{esc(b["zh"])}</h1><p lang="en">{esc(b["title"])}</p><p>{esc(b["desc"])}</p><a class="button" href="{href(path+"chapter-1.html")}">直接讀第 1 章</a><a href="{href("?book="+id)}">開啟互動版書頁</a><p class="note"><strong>{editorial_label(b)}</strong> · 本書已收錄 25 章。{esc(b.get("importNote") or "")} {link("editorial-progress.html","查看校訂進度")}</p><p class="note">{("本書 25 章完整免費，不需廣告、付款或解鎖。" if id in free_books else "全站通行證 NT$100 尚未開賣；本書前 12 章免費試讀。")}</p><h2>章節目錄</h2><ol>{"".join(toc)}</ol>'
+ body=cover+f'<p class="muted">{esc(difficulty(b))} · {esc(b["primaryGenre"])}</p><h1>{esc(b["zh"])}</h1><p lang="en">{esc(b["title"])}</p><p>{esc(b["desc"])}</p><a class="button" href="{href(path+"chapter-1.html")}">直接讀第 1 章</a><a href="{href("?book="+id)}">開啟互動版書頁</a><p class="note"><strong>{editorial_label(b)}</strong> · 本書已收錄 25 章。{esc(b.get("importNote") or "")} {link("editorial-progress.html","查看校訂進度")}</p><p class="note">{("本書 25 章完整免費，不需廣告、付款或解鎖。" if id in free_books else "全站通行證 NT$100 尚未開賣；本書前 12 章免費試讀。")}</p><h2>章節目錄</h2><ol>{"".join(toc)}</ol>'
  page(path+'index.html',b['zh'],body,b['hook'],True,{'@context':'https://schema.org','@type':'Book','name':b['zh'],'alternateName':b['title'],'inLanguage':['en','zh-Hant'],'description':b['desc'],'url':href(path+'index.html')})
 def card_cover(book):
  cover=book.get('cover')
  if not cover:return ''
  return f'<a href="{href("stories/"+book["id"]+"/")}"><img class="library-cover" src="{esc(href(cover.removeprefix("./")))}" alt="{esc(book["zh"])}封面" loading="lazy" decoding="async"></a>'
-cards=''.join(f'<article class="card library-card">{card_cover(b)}<p class="muted">{esc(b["level"])} · {esc(b["genre"])}</p><h2>{link("stories/"+b["id"]+"/",b["zh"])}</h2><p><strong>{editorial_label(b)}</strong></p><p class="muted">{("完整 25 章免費" if b["id"] in free_books else "NT$100 全站通行證籌備中；目前免費試讀")}</p><p>{esc(b["hook"])}</p>{link("stories/"+b["id"]+"/chapter-1.html","免費讀第 1 章")}</article>' for b in cat)
+cards=''.join(f'<article class="card library-card">{card_cover(b)}<p class="muted">{esc(difficulty(b))} · {esc(b["primaryGenre"])}</p><h2>{link("stories/"+b["id"]+"/",b["zh"])}</h2><p><strong>{editorial_label(b)}</strong></p><p class="muted">{("完整 25 章免費" if b["id"] in free_books else "NT$100 全站通行證籌備中；目前免費試讀")}</p><p>{esc(b["hook"])}</p>{link("stories/"+b["id"]+"/chapter-1.html","免費讀第 1 章")}</article>' for b in cat)
 latest_new=[b for b in cat if '新作' in (b.get('tags') or [])][-6:]
 latest_section=('<section class="note"><h2>最新上架 · '+str(len(latest_new))+' 本</h2><p>每本收錄 25 章，可直接試讀前 '+str(preview)+' 章。</p><ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+' · '+esc(b['level'])+'</li>' for b in latest_new)+'</ul></section>') if latest_new else ''
 page('library.html','分級英文故事完整書目',f'<h1>分級英文故事書庫</h1>{latest_section}<section class="note"><h2>A／B 與閱讀方式</h2><p>A 本代表本站同級配詞前約 500 詞，B 本代表後約 500 詞（部分原表各 501 詞）；這是本站拆分方式，不是故事上下集。詞彙分級參考大考中心配合教育部 108 英語文課綱編修的《高中英文參考詞彙表》（官方六級）；本站第七級為自訂進階配詞。<a href="about.html#vocabulary-source">查看官方來源與分級說明</a>。每天讀一章，25 天讀完一本，餘下時間複習；同級 A、B 各讀一本，約兩個月接觸 1,000 個目標詞，並搭配間隔複習。同範圍可以選不同故事複習。先依興趣與級距選書，從第 1 章開始讀英文；需要時看中文，或到互動版查詞與朗讀，最後複習章末單字及已提供的測驗。</p></section><p>目前 {len(cat)} 本、{len(cat)*25} 章；其中 {len(free_books)} 本完整 25 章免費。NT$100 一次付費的閱讀通行證尚未開賣，其他故事可免費試讀前 {preview} 章。</p><p>{link("editorial.html","內容製作與校訂狀態")}</p><div class="book-grid">{cards}</div>',f'{len(cat)} 本分級英文小說，免費試讀英中對照正文，包含詞彙與已收錄的閱讀測驗。')
 
 free_cards=''.join('<article class="card"><h2>'+link('stories/'+b['id']+'/',b['zh'])+'</h2><p class="muted">'+esc(b['level'])+' · '+esc(b['genre'])+' · 25 章完整免費</p>'+link('stories/'+b['id']+'/chapter-1.html','從第一章開始')+'</article>' for key in offer['freeBookIds'] for b in cat if b['id']==key)
+paid_book_links=''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat if b['id'] not in free_books)
 page('plans.html','完整免費書單與 NT$100 全站方案',
 f'<h1>{free_count} 本小說完整免費，NT$100 一次解鎖全站</h1><p><strong>方案籌備中：未開放付款，不會產生訂單，也不會顯示假的購買成功。</strong></p>'
 +'<section class="note"><h2>免費閱讀</h2><p>下列每本 25 章完整英中小說，不需登入、看廣告或解鎖。</p></section>'
-+'<section class="note"><h2>全站閱讀通行證：NT$100（一次付費）</h2><p>一次付費解鎖目前 '+str(len(cat)-free_count)+' 本試讀小說的後續章節。適用於購買時方案列出的書目，日後新上架的小說不包含在這次購買內。</p><p>使用期限尚未定案，開賣前公告，目前不承諾永久使用。付款驗證、帳號綁定與跨裝置閱讀驗證完成後，才開放購買並公布開通流程。正式上線前需確認金流商戶、購買權限和私有書稿儲存，並公告退費及聯絡方式。</p></section>'
++'<section class="note"><h2>全站閱讀通行證：NT$100（一次付費）</h2><p>一次付費解鎖目前 '+str(len(cat)-free_count)+' 本試讀小說的後續章節。適用於購買時方案列出的書目，日後新上架的小說不包含在這次購買內。</p><p></p><dl><dt>使用期限</dt><dd>尚未定案，正式開賣前公告。</dd><dt>開通方式</dt><dd>規劃以 Google 帳號登入後付款。付款確認後，閱讀權限綁定到下單帳號。正式上線前仍需完成付款驗證與私有書稿保存。</dd><dt>退款方式</dt><dd>退款條件、期限及私密申請管道將在開賣前公告。</dd><dt>客服</dt><dd>一般使用問題請見「聯絡與勘誤」。正式開賣前將公布訂單與退款的私密聯絡方式。</dd></dl><p><a href="contact.html">聯絡與勘誤</a></p></section>'
 +f'<section class="note"><h2>其他故事</h2><p>前 {preview} 章免費試讀，後續章節尚未開放。</p></section>'
++'<details><summary>查看目前規劃納入的 '+str(len(cat)-free_count)+' 本書</summary><ul>'+paid_book_links+'</ul></details>'
 +'<h2>分級整本免費書單</h2><div class="book-grid">'+free_cards+'</div><p>'+link('library.html','完整書庫')+' · '+link('privacy.html','資料與隱私')+'</p>',
 '完整免費分級英文小說，每本25章；NT$100 一次付費解鎖試讀小說的後續章節，付款尚未開通。')
 
@@ -160,10 +188,9 @@ fallback=f'<section class="crawl-home"><h1>{free_count} 本小說整本免費讀
 p=R/'index.html';s=p.read_text();s=re.sub(r'拾頁 StorySteps — \d+ 本分級英文小說',f'拾頁 StorySteps — {len(cat)} 本分級英文小說',s);s=re.sub(r'<div id="root">.*?</div>(?=<script src=)',lambda m:'<div id="root">'+fallback+'</div>',s,flags=re.S);s=s.replace('</head>','<link rel="canonical" href="'+BASE+'"></head>') if 'rel="canonical"' not in s else s;s=s.replace('</head>',RUM_BEACON+'</head>') if RUM_TOKEN not in s else s
 p.write_text(s)
 # Crawlable topic collections use the same definitions as interactive filtering.
-topics=json.loads((R/'config/topics.json').read_text())
 topic_links=[]
 for topic in topics:
- selected=[b for b in cat if any(word in ' '.join([b['genre']]+b.get('tags',[])) for word in topic['keywords'])]
+ selected=[b for b in cat if topic_matches(b,topic)]
  cards=[]
  for book in selected:
   access='全本免費' if book['id'] in free_books else f'前 {preview} 章免費'

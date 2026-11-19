@@ -94,3 +94,15 @@ jobs:
           done
           echo 'Unable to publish after four retries; previous live site preserved.' >&2
           exit 1
+
+      - name: Deploy verified site to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_PAGES_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: 3f1d5c8ecec11ca0ebd45457a7a5aa24
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::notice::Cloudflare Pages deployment requires the CLOUDFLARE_PAGES_API_TOKEN repository secret."
+            exit 0
+          fi
+          python3 scripts/prepare_cloudflare_pages.py "$RUNNER_TEMP/storysteps-pages" --site storysteps-5ef.pages.dev
+          npx --yes wrangler@4 pages deploy "$RUNNER_TEMP/storysteps-pages" --project-name storysteps --branch main

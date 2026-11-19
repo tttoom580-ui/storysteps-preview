@@ -23,7 +23,7 @@ function start(){
  initialized=true;return true;
 }
 export function trackReading(name:EventName,book='',chapter=''){
- if(['visit','book_open','chapter_start','chapter_end','chapter_complete','next_chapter','pass_view'].includes(name))productEvent(name,book,chapter);
+ if(['visit','book_open','chapter_start','chapter_end','chapter_complete','quiz_complete','next_chapter','pass_view'].includes(name))productEvent(name,book,chapter);
  const event={event:name,book_id:book,chapter_id:chapter,source,campaign};
  // Local test mode is never uploaded, has no persistent reader ID, and is bounded.
  if(params.get('analytics_debug')==='1')try{

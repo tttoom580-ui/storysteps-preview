@@ -39,6 +39,15 @@ export default function ReadingAccess({onRead,premium,checkoutBook}:{onRead:(id:
      onContinue={ownsSelected&&selected?()=>onRead(selected.chapters[previewChapters].id):undefined}/>
    </section>
   </div>
+  <section className="feature-panel" aria-labelledby="plan-terms-title">
+   <h2 id="plan-terms-title">開通、退款與客服</h2>
+   <p>規劃流程為使用 Google 帳號登入、完成付款、由系統確認後開通下單帳號的閱讀權限。</p>
+   <p>使用期限、退款條件與期限，以及訂單和退款的私密聯絡方式，將在正式開賣前公告。目前尚未開放付款。</p>
+   <a href="./contact.html">一般客服與內容勘誤</a>
+   <details><summary>查看目前規劃納入的 {otherBooks.length} 本書</summary><ul>
+    {otherBooks.map(book=><li key={book.id}><a href={'?book='+encodeURIComponent(book.id)}>{book.zh}</a></li>)}
+   </ul></details>
+  </section>
   <section className="feature-panel plan-comparison" aria-labelledby="plan-comparison-title">
    <h2 id="plan-comparison-title">免費與通行證，差在哪？</h2>
    <p>收藏、複習和帳號同步皆可免費使用。通行證規劃用來解鎖更多正文，目前尚未開賣。</p>

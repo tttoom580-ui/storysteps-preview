@@ -1,6 +1,6 @@
 import books from './product-books.mjs';
 
-const events=new Set(['visit','book_impression','book_open','chapter_start','chapter_end','chapter_complete','next_chapter','pass_view','offer_click','trial_survey','trial_view']);
+const events=new Set(['visit','book_impression','book_open','chapter_start','chapter_end','chapter_complete','quiz_complete','next_chapter','pass_view','offer_click','trial_survey','trial_view']);
 const uuid=value=>typeof value==='string'&&/^[a-f0-9-]{36}$/i.test(value);
 const q=(env,sql,...params)=>env.DB.prepare(sql).bind(...params);
 export async function isProductAdmin(env,account){
