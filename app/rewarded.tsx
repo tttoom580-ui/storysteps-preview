@@ -39,6 +39,21 @@ export default function ReadingAccess({onRead,premium,checkoutBook}:{onRead:(id:
      onContinue={ownsSelected&&selected?()=>onRead(selected.chapters[previewChapters].id):undefined}/>
    </section>
   </div>
+  <section className="feature-panel plan-comparison" aria-labelledby="plan-comparison-title">
+   <h2 id="plan-comparison-title">免費與通行證，差在哪？</h2>
+   <p>收藏、複習和帳號同步皆可免費使用。通行證規劃用來解鎖更多正文，目前尚未開賣。</p>
+   <div className="plan-table-scroll" tabIndex={0} role="region" aria-label="免費與通行證功能比較"><table><caption>目前免費服務與通行證規劃</caption><thead><tr><th scope="col">項目</th><th scope="col">免費閱讀</th><th scope="col">通行證規劃</th></tr></thead><tbody>
+    <tr><th scope="row">價格</th><td>NT$0</td><td>NT${premiumPriceTwd} 一次付費，尚未開賣</td></tr>
+    <tr><th scope="row">可讀範圍</th><td>{freeBookCount} 本全 25 章；其他 {otherBooks.length} 本前 {previewChapters} 章</td><td>加上購買時列出的 {otherBooks.length} 本後續章節</td></tr>
+    <tr><th scope="row">查詞與中英對照</th><td>免費</td><td>同免費版</td></tr>
+    <tr><th scope="row">邪修學習／複習版</th><td>可讀章節皆可使用</td><td>解鎖後的章節也可使用</td></tr>
+    <tr><th scope="row">收藏單字與間隔複習</th><td>免費</td><td>同免費版</td></tr>
+    <tr><th scope="row">本章單字挑戰</th><td>免費，答錯加入待複習</td><td>解鎖後的章節也可使用</td></tr>
+    <tr><th scope="row">閱讀與單字雲端同步</th><td>Google 登入並啟用帳號同步後使用</td><td>同免費版，無須另付同步費</td></tr>
+    <tr><th scope="row">未來新書</th><td>依上架時的免費範圍</td><td>不包含，新增書目另行公告</td></tr>
+    <tr><th scope="row">使用期限</th><td>依網站服務與書目公告</td><td>開賣前公告，目前不承諾永久使用</td></tr>
+   </tbody></table></div><p className="fine">未登入時，紀錄保存在目前瀏覽器。同步須完成 Google 登入並確認啟用，請在閱讀中心查看同步狀態；也可下載備份。</p>
+  </section>
   <section id="free-books" className="feature-panel"><h2>{freeBookCount} 本完整免費小說</h2>
    <p>每本從第 1 章到第 25 章直接免費閱讀，依興趣與詞彙級距挑選。</p>
    <div className="free-book-links">{freeBooks.map(b=><button key={b.id} className="secondary" onClick={()=>onRead(b.chapters[0].id)}><b>{b.zh}</b><small>{b.level} · {b.vocabularyRange} 本 · {b.genre} · 25 章</small></button>)}</div>

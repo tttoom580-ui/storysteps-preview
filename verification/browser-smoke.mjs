@@ -40,6 +40,9 @@ async function run(label,options){
   const passLink=page.locator('.header').getByRole('button',{name:'免費閱讀與通行證',exact:true});
   await passLink.click();
   await page.getByRole('heading',{name:'免費閱讀與通行證',exact:true}).waitFor();
+  await page.getByRole('heading',{name:'免費與通行證，差在哪？',exact:true}).waitFor();
+  if(!await page.locator('.plan-comparison').getByText('不包含，新增書目另行公告',{exact:true}).isVisible())throw Error('Future books policy must be explicit');
+  if(!await page.locator('.plan-comparison').getByText('免費，答錯加入待複習',{exact:true}).isVisible())throw Error('Practice must remain free');
   await page.locator('footer').getByRole('button',{name:'網站與隱私',exact:true}).click();
   await page.getByRole('heading',{name:'閱讀紀錄，怎麼保存？'}).waitFor();
   await page.getByRole('button',{name:'關閉視窗'}).click();

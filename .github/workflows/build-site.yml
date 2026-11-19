@@ -50,6 +50,7 @@ jobs:
           python3 scripts/import_batch15.py
           npm run build
           node verification/ad-policy-smoke.mjs
+          node verification/chapter-practice-smoke.mjs
           node verification/offer-smoke.mjs
           node verification/premium-api-smoke.mjs
           node verification/dictionary-smoke.mjs
@@ -69,6 +70,7 @@ jobs:
             python3 scripts/import_batch15.py
             npm run build
             node verification/ad-policy-smoke.mjs
+            node verification/chapter-practice-smoke.mjs
             node verification/offer-smoke.mjs
             node verification/premium-api-smoke.mjs
             node verification/dictionary-smoke.mjs

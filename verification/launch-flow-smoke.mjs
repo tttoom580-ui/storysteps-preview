@@ -1,3 +1,6 @@
+import {readFileSync} from 'node:fs';
+import {gunzipSync} from 'node:zlib';
+import {buildChapterPractice} from '../app/chapter-practice-model.mjs';
 import assert from 'node:assert/strict';
 import {chromium} from 'playwright';
 import {spawn} from 'node:child_process';
@@ -39,9 +42,13 @@ try{
  assert.equal(await page.locator('.mixed-word').count()>0,true);
  assert.equal(await page.getByRole('button',{name:'邪修法',exact:true}).getAttribute('aria-pressed'),'true');
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+2),true);
- await page.getByRole('button',{name:'收起詞義',exact:true}).click();
+ await page.getByRole('button',{name:'複習版・隱藏詞義',exact:true}).click();
  assert.equal(await page.locator('.mixed-meaning').count(),0);
- await page.getByRole('button',{name:'顯示詞義',exact:true}).click();
+ const reveal=page.locator('.mixed-reveal').first();
+ await reveal.click();assert.equal(await reveal.getAttribute('aria-expanded'),'true');
+ await reveal.click();assert.equal(await reveal.getAttribute('aria-expanded'),'false');
+ assert.equal(await page.locator('.word-dock').count(),0);
+ await page.getByRole('button',{name:'學習版',exact:true}).click();
  await page.locator('.mixed-word').first().click();
  await page.locator('.word-dock').waitFor();
  await page.getByRole('button',{name:'返回原文',exact:true}).click();
@@ -56,6 +63,18 @@ try{
  const position=await page.evaluate(()=>scrollY);
  await page.getByRole('button',{name:'返回原文',exact:true}).click();
  assert(Math.abs((await page.evaluate(()=>scrollY))-position)<3,'Lookup must not move reading position');
+ const manifest=JSON.parse(readFileSync('public/content-manifest.json','utf8'));
+ const chapterData=JSON.parse(gunzipSync(readFileSync('public/'+manifest.books['import-rain-bell'].url))).find(c=>c.id==='import-rain-bell-1');
+ const practice=buildChapterPractice(chapterData);
+ await page.getByRole('button',{name:'開始挑戰',exact:true}).click();
+ assert.equal(await page.locator('.chapter-practice fieldset').count(),3);
+ for(let i=0;i<3;i++)await page.locator('.chapter-practice fieldset').nth(i).locator('input').nth((practice[i].answer+1)%practice[i].options.length).check();
+ await page.getByRole('button',{name:'查看答案',exact:true}).click();
+ await page.getByText('3 個單字已加入待複習，原句也一起保存。',{exact:true}).waitFor();
+ await page.reload();await page.locator('.prose').waitFor();
+ const saved=await page.evaluate(()=>JSON.parse(localStorage.getItem('storysteps-guest')).vocab);
+ for(const question of practice){const item=saved.find(w=>w.word===question.entry.word);assert(item);assert.equal(item.stage,0);assert.equal(item.chapter,chapterData.id);assert.equal(item.sentence,question.entry.sentence);assert(item.due<=Date.now());}
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+2),true);
  await page.locator('.chapter-pagination').scrollIntoViewIfNeeded();
  await page.waitForFunction(()=>JSON.parse(sessionStorage.getItem('storysteps-analytics-debug')||'[]').some(e=>e.event==='chapter_end'));
  assert.equal(await page.locator('#chapter-review').isVisible(),false);

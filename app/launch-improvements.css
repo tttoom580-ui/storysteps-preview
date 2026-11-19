@@ -143,3 +143,28 @@
 /* Dictionary definitions keep their part-of-speech lines readable in the lookup dock. */
 .word-dock .word-meaning,.word-modal .word-meaning{white-space:pre-line;overflow-wrap:anywhere}
 .app .mixed-source-note{font-size:.88em;color:var(--muted);letter-spacing:0;overflow-wrap:anywhere}
+/* Chapter learning, active recall, and transparent plans. */
+.app .mixed-study-mode{display:flex;gap:4px;flex-wrap:wrap;padding:4px;border:1px solid var(--line);border-radius:16px}
+.app .mixed-study-mode button{font-size:14px;min-height:42px;padding:8px 12px}
+.app .mixed-study-mode button[aria-pressed="true"]{background:var(--purple);color:var(--paper)}
+.app .mixed-reveal{display:inline;font:inherit;font-size:.76em;line-height:1.8;color:var(--purple);background:var(--lavender);border:1px dashed currentColor;border-radius:5px;padding:1px 5px;margin:0 3px;cursor:pointer;vertical-align:baseline}
+.app .mixed-reveal:focus-visible{outline:3px solid var(--purple);outline-offset:3px}
+.app .chapter-practice{padding:24px;margin:28px 0;border:1px solid var(--line);border-radius:22px;background:var(--paper)}
+.app .practice-intro{display:flex;align-items:center;justify-content:space-between;gap:16px}
+.app .practice-intro h2{font-size:20px;margin:0 0 8px}.app .practice-intro p{font-size:14px;color:var(--muted);margin:0;line-height:1.7}
+.app .chapter-practice fieldset{border:0;border-top:1px solid var(--line);padding:24px 0;margin:20px 0 0;min-width:0}
+.app .chapter-practice legend{font-size:16px;font-weight:700;padding:0 8px 0 0}
+.app .practice-sentence{font:18px/1.8 Georgia,serif;overflow-wrap:anywhere}
+.app .practice-options{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.app .practice-options label{display:flex;align-items:center;gap:10px;padding:14px;border:1px solid var(--line);border-radius:12px;cursor:pointer;font-size:16px;overflow-wrap:anywhere}
+.app .practice-options input{width:18px;height:18px;flex-shrink:0;accent-color:var(--purple)}
+.app .practice-options .picked{border-color:var(--purple);background:var(--lavender)}
+.app .practice-options .correct{border:2px solid #26835b}.app .practice-options .wrong{border:2px dashed #c55a65}
+.app .practice-answer{font-size:15px;line-height:1.8;color:var(--ink)}
+.app .practice-result{padding-top:12px}.app .practice-result button{margin:6px 8px 6px 0}
+.app .plan-table-scroll{overflow-x:auto}.app .plan-comparison table{width:100%;border-collapse:collapse;font-size:15px;line-height:1.7}
+.app .plan-comparison caption{text-align:left;font-size:14px;color:var(--muted);padding:0 0 12px}
+.app .plan-comparison th,.app .plan-comparison td{padding:15px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+.app .plan-comparison thead th{background:var(--lavender)}
+.app .plan-comparison th:first-child{width:26%}
+@media(max-width:600px){.app .chapter-practice{padding:20px 16px}.app .practice-intro{align-items:flex-start;flex-direction:column}.app .practice-options{grid-template-columns:1fr}.app .plan-comparison th,.app .plan-comparison td{padding:12px 7px;font-size:14px}.app .plan-comparison{padding:20px 12px}.app .mixed-study-mode{max-width:100%}}

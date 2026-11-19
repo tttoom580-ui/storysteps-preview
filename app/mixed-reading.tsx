@@ -1,4 +1,4 @@
-import {Fragment} from 'react';
+import {Fragment,useState} from 'react';
 import type {Word} from './types';
 
 type StudyWord = {text: string; meaning: string; entry: Word};
@@ -6,9 +6,10 @@ type InlineNote = StudyWord & {anchor: 'sentence' | 'paragraph'};
 type MixedPart = {text: string} | StudyWord | {terms: InlineNote[]};
 
 function MixedWord({part,hints}:{part:StudyWord;hints:boolean}) {
+ const [revealed,setRevealed]=useState(false);
  return <span className="mixed-unit">
   <button type="button" className="inline-word mixed-word" data-lookup={part.entry.word} lang="en" aria-label={'查詢 '+part.text}>{part.text}</button>
-  {hints&&<span className="mixed-meaning">（{part.meaning}）</span>}
+  {hints?<span className="mixed-meaning">（{part.meaning}）</span>:<button type="button" className="mixed-reveal" aria-expanded={revealed} aria-label={(revealed?"隱藏 ":"揭曉 ")+part.text+" 的詞義"} onClick={()=>setRevealed(value=>!value)}>{revealed?"（"+part.meaning+"）":"揭曉詞義"}</button>}
  </span>;
 }
 
