@@ -58,7 +58,7 @@ const popularBooks=popularRecommendations.books
  .filter((entry):entry is {rank:number;story:Story}=>Boolean(entry.story));
 const starterPicks=[
  {id:'tomorrow',label:'英文起步',hook:'明天傳來的訊息，說你千萬別去學校。'},
- {id:'class-chat-stranger',label:'喜歡懸疑',hook:'班級群組多出第 31 個人，卻沒人認識他。'},
+ {id:'ss-r19-l1b15',label:'喜歡懸疑',hook:'校外教學的巴士，竟然只開往昨天。'},
  {id:'ss-r19-l1b14',label:'想看戀愛',hook:'借來的耳機，竟然正在播放明天的聲音。'}
 ].map(pick=>({...pick,story:freeHomeBooks.find(book=>book.id===pick.id)!})).filter(pick=>pick.story);
 const trialBooks=stories.filter(story=>!isFreeBook(story.id));
