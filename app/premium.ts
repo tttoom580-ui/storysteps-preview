@@ -5,8 +5,8 @@ import {stories} from './content';
 const storageKey='storysteps-premium-key';
 const tokenPattern=/^(?:ss2_|ssg_)[a-f0-9]{64}$/;
 const endpoint=readerOffer.premium.serviceUrl;
-export const premiumBookCount=stories.length-readerOffer.freeBookIds.length;
-export const premiumDescription=`NT$${premiumPriceTwd} 一次付費，解鎖目前 ${premiumBookCount} 本試讀小說的後續章節。`;
+export const premiumBookCount=stories.length-readerOffer.freeBookIds.length+readerOffer.freeAccess.previewOnlyBookIds.length;
+export const premiumDescription=`NT$${premiumPriceTwd} 一次付費，規劃解鎖目前 ${premiumBookCount} 本尚未完整免費小說的後續章節。`;
 
 export function savedPremiumKey(){
  try { return localStorage.getItem(storageKey)||''; } catch { return ''; }

@@ -21,6 +21,8 @@ def sql_text(value):
 def package(private_dir):
     offer = json.loads((ROOT / 'config/reader-offer.json').read_text())
     free_books = set(offer['freeBookIds'])
+    preview_only = set(offer['freeAccess']['previewOnlyBookIds'])
+    assert preview_only <= free_books
     catalog = json.loads((SOURCE / 'catalog.js').read_text().split('=', 1)[1].rstrip(';\n'))
     active = {book['id'] for book in catalog if book.get('readable', True)}
     source_manifest = json.loads((SOURCE / 'content-manifest.json').read_text())
@@ -32,8 +34,9 @@ def package(private_dir):
     for book_id, entry in source_manifest['books'].items():
         path = SOURCE / entry['url']
         chapters = json.loads(gzip.decompress(path.read_bytes()))
-        limit = 25 if book_id in free_books else offer['previewChapters']
+        limit = 25 if book_id in free_books and book_id not in preview_only else offer['previewChapters']
         private = entry.pop('privateChapters', 0)
+        assert (book_id in preview_only) == (book_id in free_books and private > 0), book_id
         assert (len(chapters),private) in {(25,0),(limit,25-limit)}, book_id
         data = gzip.compress(compact(chapters[:limit]).encode(), mtime=0)
         url = 'books/' + book_id + '-' + hashlib.sha256(data).hexdigest()[:12] + '.bin'

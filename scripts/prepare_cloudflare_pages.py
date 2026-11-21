@@ -24,8 +24,9 @@ base_url = 'https://' + args.site + '/'
 manifest = json.loads((source / 'content-manifest.json').read_text())['books']
 reader_offer = json.loads((source.parent / 'config/reader-offer.json').read_text())
 free_books = set(reader_offer['freeBookIds'])
+full_free = free_books - set(reader_offer['freeAccess']['previewOnlyBookIds'])
 for book_id, book in manifest.items():
-    chapter_limit = 25 if book_id in free_books else reader_offer['previewChapters']
+    chapter_limit = 25 if book_id in full_free else reader_offer['previewChapters']
     chapters = json.loads(gzip.decompress((source / book['url']).read_bytes()))
     if len(chapters) != chapter_limit or len(chapters) != book['chapters']:
         raise ValueError(f'Unexpected public chapter count for {book_id}')

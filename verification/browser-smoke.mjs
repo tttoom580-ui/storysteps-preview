@@ -57,9 +57,9 @@ async function run(label,options){
   if(await popularShelf.getByRole('button',{name:/第 \d+ 名/}).count()!==12)throw Error('Homepage must show twelve popular recommendations initially');
   await popularShelf.getByRole('button',{name:'展開完整 50 本推薦'}).click();
   if(await popularShelf.getByRole('button',{name:/第 \d+ 名/}).count()!==50)throw Error('Homepage must show all fifty recommendations');
-  const freeHome=page.getByRole('region',{name:/24 本小說/});
+  const freeHome=page.getByRole('region',{name:/24 本排行榜精選/});
   await freeHome.waitFor();
-  if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==24)throw Error('Homepage must show all 24 complete free books');
+  if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==24)throw Error('Homepage must show all 24 ranked free reading picks');
   await freeHome.getByRole('button',{name:'免費讀《明天，別來學校》第 1 章'}).click();
   await page.locator('[data-paragraph]').first().waitFor();
 
@@ -122,7 +122,7 @@ async function run(label,options){
   await review.getByText('目前沒有到期錯題',{exact:false}).waitFor();
   const libraryNav=label==='mobile'?page.locator('.mobile-nav').getByRole('button',{name:'書庫'}):page.locator('.desktop-nav').getByRole('button',{name:'分級書城'});
   await libraryNav.click();
-  const onlyFree=page.getByRole('button',{name:'整本免費',exact:true});
+  const onlyFree=page.getByRole('button',{name:'精選免費',exact:true});
   await onlyFree.click();
   if(await page.locator('.book-card').count()!==24)throw Error('Free-only filter must show 24 books');
   await onlyFree.click();
@@ -229,7 +229,7 @@ async function run(label,options){
   }
   // The curated free tier is complete: the last chapter requires no local grant.
   await page.goto(base+'?purchase=1',{waitUntil:'domcontentloaded'});
-  await page.getByRole('heading',{name:/24 本完整免費小說/}).first().waitFor();
+  await page.getByRole('heading',{name:/24 本排行榜精選免費小說/}).first().waitFor();
   const purchaseButton=page.getByRole('button',{name:'付款尚未開通'});
   if(!(await purchaseButton.isDisabled()))throw Error('Unconfigured checkout must never accept money');
   await page.goto(base+'?book=ss-r19-l4b16&chapter=ss-r19-l4b16-25',{waitUntil:'domcontentloaded'});
@@ -238,7 +238,7 @@ async function run(label,options){
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   await page.goto(base+'?book=ss-r17-l4a1&chapter=ss-r17-l4a1-12',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
-  await page.getByRole('region',{name:'下一本整本免費小說'}).getByRole('button',{name:'免費讀第 1 章'}).waitFor();
+  await page.getByRole('region',{name:'下一本排行榜精選小說'}).getByRole('button',{name:'免費讀第 1 章'}).waitFor();
   await page.getByRole('button',{name:'繼續讀第 13 章'}).click();
   await page.locator('.offer-premium').getByText(/繼續讀《.+》第 13 章/).waitFor();
   await page.goto(base+'?book=ss-r17-l4a1&chapter=ss-r17-l4a1-13',{waitUntil:'domcontentloaded'});

@@ -23,7 +23,7 @@ try{
  await page.screenshot({path:'/tmp/storysteps-launch-home.png',fullPage:false});
  await page.locator('.starter-card').nth(1).click();
  await page.locator('.prose').waitFor();
- assert.match(page.url(),/chapter=ss-r19-l1b15-1/);
+ assert.match(page.url(),/chapter=class-chat-stranger-1/);
  assert.equal(await page.locator('.reader-settings').getAttribute('open'),null);
  assert.equal(await page.locator('.reader-toc').isVisible(),false);
  assert.equal(await page.locator('.mobile-nav').isVisible(),false);
