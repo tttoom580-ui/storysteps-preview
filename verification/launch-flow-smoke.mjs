@@ -18,7 +18,7 @@ try{
  await page.goto('http://127.0.0.1:4175/?analytics_debug=1&utm_source=threads&utm_campaign=launch&sync_key=must-not-leak');
  await page.locator('.starter-card').first().waitFor();
  assert.equal(await page.locator('.starter-card').count(),3);
- assert.equal(await page.locator('.home-pick').count(),12);
+ assert.equal(await page.locator('.home-pick').count(),24);
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
  await page.screenshot({path:'/tmp/storysteps-launch-home.png',fullPage:false});
  await page.locator('.starter-card').nth(1).click();
