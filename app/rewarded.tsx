@@ -21,11 +21,11 @@ export default function ReadingAccess({onRead,premium,checkoutBook}:{onRead:(id:
  return <div className="free-reading-page reader-offer-page">
   <div className="page-top"><div><span className="eyebrow">STORYSTEPS · READING PLANS</span>
    <h1>免費閱讀與通行證</h1>
-   <p>{freeBookCount} 本排行榜精選，其中 {fullFreeBookCount} 本完整免費；其餘作品可讀前 {previewChapters} 章。</p>
+   <p>{freeBookCount} 本排行榜精選，每本 25 章完整免費；其他作品可試讀前 {previewChapters} 章。</p>
   </div></div>
   <div className="reader-offer-grid">
    <section className="offer-tier"><span className="eyebrow">FREE FOREVER</span><h2>免費閱讀</h2>
-    <strong>NT$0</strong><p>{freeBooks.length} 本排行榜精選，{fullFreeBookCount} 本全 25 章、其餘前 {previewChapters} 章免費；查詞、翻譯、朗讀與單字複習也免費。</p><p>不需要帳號、解鎖碼或廣告。</p><a className="offer-text-link" href="#free-books">查看免費書單</a>
+    <strong>NT$0</strong><p>{freeBooks.length} 本排行榜精選，每本 25 章完整免費；查詞、翻譯、朗讀與單字複習也免費。</p><p>不需要帳號、解鎖碼或廣告。</p><a className="offer-text-link" href="#free-books">查看免費書單</a>
    </section>
    <section className="offer-tier offer-premium"><span className="eyebrow">一次付費</span><h2>全站閱讀通行證</h2>
     <strong>NT${premiumPriceTwd}</strong>
@@ -64,7 +64,7 @@ export default function ReadingAccess({onRead,premium,checkoutBook}:{onRead:(id:
    </tbody></table></div><p className="fine">未登入時，紀錄保存在目前瀏覽器。同步須完成 Google 登入並確認啟用，請在閱讀中心查看同步狀態；也可下載備份。</p>
   </section>
   <section id="free-books" className="feature-panel"><h2>{freeBookCount} 本排行榜精選免費小說</h2>
-   <p>依排行榜每級四本。部分故事目前只開放前 12 章，請看每本書的標示。</p>
+   <p>依排行榜每級四本，均可直接讀完 25 章。</p>
    <div className="free-book-links">{freeBooks.map(b=><button key={b.id} className="secondary" onClick={()=>onRead(b.chapters[0].id)}>{b.cover&&<img src={b.cover} alt="" loading="lazy" width="54" height="81"/>}<span><b>{b.zh}</b><small>{b.level} · {b.vocabularyRange} 本 · {b.genre} · {freeAccessLabel(b.id)}</small></span></button>)}</div>
   </section>
   <section className="feature-panel"><h2>免費試讀 {previewChapters} 章</h2>

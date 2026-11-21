@@ -6,24 +6,24 @@
   "freeBookIds": [
     "tomorrow",
     "ss-r19-l1b14",
-    "class-chat-stranger",
-    "idol-desk-partner",
-    "ten-years-ahead",
-    "esports-rival",
-    "island-fifth-signal",
+    "ss-r19-l1b13",
+    "ss-r19-l1b15",
     "light-novel-2a",
-    "ss-r17-l3a1",
+    "ss-r2-l2-b",
+    "import-two-rivers",
+    "ss-r5-l2-b",
     "ss-r19-l3b13",
     "ss-r19-l3b15",
-    "ss-r17-l3b2",
-    "ss-r17-l4a1",
+    "ss-r19-l3b16",
+    "ss-r19-l3a16",
     "ss-r19-l4b16",
-    "ss-r18-l4a5",
     "ss-r19-l4b13",
-    "ss-r17-l5a1",
+    "ss-r19-l4b14",
+    "ss-r19-l4a13",
     "ss-r19-l5a14",
     "light-novel-5a",
     "ss-r19-l5a15",
+    "ss-r19-l5b14",
     "light-novel-6b",
     "import-platform-thirteen",
     "ss-r2-l6-a",
@@ -31,7 +31,7 @@
   ],
   "freeAccess": {
     "scope": "published_chapters_up_to_25",
-    "previewOnlyBookIds": ["class-chat-stranger", "idol-desk-partner", "ten-years-ahead", "esports-rival", "island-fifth-signal", "ss-r17-l3a1", "ss-r17-l3b2", "ss-r17-l4a1", "ss-r18-l4a5", "ss-r17-l5a1"],
+    "previewOnlyBookIds": [],
     "requiresAccount": false,
     "priceTwd": 0
   },
@@ -51,7 +51,7 @@
   },
   "transitionalAccess": {
     "legacyFreeUnlock": false,
-    "description": "第 1～6 級每級依整合排名精選 4 本免費閱讀；目前 14 本完整 25 章、10 本先開放前 12 章。其他作品也可試讀前 12 章。全站通行證尚未開賣。"
+    "description": "第 1～6 級每級依整合排名、從已保存完整正文的作品中選 4 本，共 24 本，每本 25 章完整免費；其餘作品可免費試讀前 12 章。全站通行證尚未開賣。"
   },
   "cautions": [
     "尚未提供付款或訂單服務。",

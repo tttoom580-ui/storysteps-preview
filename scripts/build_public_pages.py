@@ -96,7 +96,7 @@ def page(path,title,body,description='',advertising=False,schema=None):
  if ADS_ENABLED and advertising:extra=f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={PUB}" crossorigin="anonymous"></script>'
  extra+=RUM_BEACON
  if schema:extra+='<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'</script>'
- out=f'<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}｜拾頁 StorySteps</title><meta name="description" content="{esc(description or title)}"><meta name="google-adsense-account" content="{PUB}"><link rel="canonical" href="{canonical}"><link rel="stylesheet" href="{posixpath.relpath("public-reading.css",str(Path(path).parent))}">{extra}</head><body><header>{link("", "拾頁 StorySteps")}{nav}</header><main>{body}</main><footer><p>{free_count} 本依排行榜精選免費閱讀（{len(full_free)} 本全 25 章、{len(preview_only)} 本前 {preview} 章）；其餘可試讀前 {preview} 章。NT$100 全站通行證尚未開賣。</p>{nav}<p>© 2026 StorySteps · AI 輔助創作與翻譯 · 校訂狀態請見各書說明</p></footer></body></html>'
+ out=f'<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}｜拾頁 StorySteps</title><meta name="description" content="{esc(description or title)}"><meta name="google-adsense-account" content="{PUB}"><link rel="canonical" href="{canonical}"><link rel="stylesheet" href="{posixpath.relpath("public-reading.css",str(Path(path).parent))}">{extra}</head><body><header>{link("", "拾頁 StorySteps")}{nav}</header><main>{body}</main><footer><p>{free_count} 本依排行榜精選免費閱讀（每本 25 章）；其餘可試讀前 {preview} 章。NT$100 全站通行證尚未開賣。</p>{nav}<p>© 2026 StorySteps · AI 輔助創作與翻譯 · 校訂狀態請見各書說明</p></footer></body></html>'
  p=P/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(out)
 chapters={b['id']:json.loads(gzip.decompress((P/manifest['books'][b['id']]['url']).read_bytes())) for b in cat}
 for b in cat:
@@ -136,7 +136,7 @@ free_cards=''.join('<article class="card library-card">'+card_cover(b)+'<h2>'+li
 paid_book_links=''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat if b['id'] not in full_free)
 page('plans.html','排行榜精選免費書單與 NT$100 全站方案',
 f'<h1>{free_count} 本排行榜精選免費閱讀，NT$100 全站方案籌備中</h1><p><strong>方案籌備中：未開放付款，不會產生訂單，也不會顯示假的購買成功。</strong></p>'
-+f'<section class="note"><h2>免費閱讀</h2><p>依排名每級 4 本；目前 {len(full_free)} 本完整 25 章、{len(preview_only)} 本開放前 {preview} 章。各書實際章數如下，不需登入或付款。</p></section>'
++f'<section class="note"><h2>免費閱讀</h2><p>依排名每級 4 本，共 24 本，每本完整 25 章。不需登入或付款。</p></section>'
 +'<section class="note"><h2>全站閱讀通行證：NT$100（一次付費）</h2><p>一次付費解鎖目前 '+str(len(cat)-len(full_free))+' 本尚未完整免費小說的後續章節。適用於購買時方案列出的書目，日後新上架的小說不包含在這次購買內。</p><p></p><dl><dt>使用期限</dt><dd>尚未定案，正式開賣前公告。</dd><dt>開通方式</dt><dd>規劃以 Google 帳號登入後付款。付款確認後，閱讀權限綁定到下單帳號。正式上線前仍需完成付款驗證與私有書稿保存。</dd><dt>退款方式</dt><dd>退款條件、期限及私密申請管道將在開賣前公告。</dd><dt>客服</dt><dd>一般使用問題請見「聯絡與勘誤」。正式開賣前將公布訂單與退款的私密聯絡方式。</dd></dl><p><a href="contact.html">聯絡與勘誤</a></p></section>'
 +f'<section class="note"><h2>其他故事</h2><p>前 {preview} 章免費試讀，後續章節尚未開放。</p></section>'
 +'<details><summary>查看目前規劃納入的 '+str(len(cat)-len(full_free))+' 本書</summary><ul>'+paid_book_links+'</ul></details>'
@@ -188,7 +188,7 @@ privacy=privacy.replace('<main>','<main><section class="note"><h2>2026 年 11 �
 
 # The app replaces this ordinary, visible fallback after loading. The same book URLs remain linked in the app.
 free_home_links=''.join('<li>'+link('stories/'+key+'/chapter-1.html',next(b['zh'] for b in cat if b['id']==key))+'</li>' for key in offer['freeBookIds'])
-fallback=f'<section class="crawl-home"><h1>{free_count} 本排行榜精選免費讀</h1><p>{len(full_free)} 本 25 章完整免費、{len(preview_only)} 本先開放前 {preview} 章。其他小說也開放前 {preview} 章試讀。</p><h2>排行榜精選書單</h2><ul>{free_home_links}</ul>'+nav+'<h2>完整書目</h2><ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat)+'</ul></section>'
+fallback=f'<section class="crawl-home"><h1>{free_count} 本排行榜精選免費讀</h1><p>每本 25 章完整免費。其他小說開放前 {preview} 章試讀。</p><h2>排行榜精選書單</h2><ul>{free_home_links}</ul>'+nav+'<h2>完整書目</h2><ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat)+'</ul></section>'
 p=R/'index.html';s=p.read_text();s=re.sub(r'拾頁 StorySteps — \d+ 本分級英文小說',f'拾頁 StorySteps — {len(cat)} 本分級英文小說',s);s=re.sub(r'<div id="root">.*?</div>(?=<script src=)',lambda m:'<div id="root">'+fallback+'</div>',s,flags=re.S);s=s.replace('</head>','<link rel="canonical" href="'+BASE+'"></head>') if 'rel="canonical"' not in s else s;s=s.replace('</head>',RUM_BEACON+'</head>') if RUM_TOKEN not in s else s
 p.write_text(s)
 # Crawlable topic collections use the same definitions as interactive filtering.
@@ -213,7 +213,7 @@ print(f'Generated {len(urls)} HTML pages, sitemap with {len(urls)+1} URLs; {(len
 # Keep the interactive entry metadata in sync with the source catalog.
 entry=R/'index.html'
 text=entry.read_text()
-summary=f'拾頁 StorySteps — {len(cat)} 本分級英文小說，{free_count} 本排行榜精選，{len(full_free)} 本完整免費，其餘前 {preview} 章免費閱讀。點字查詞、英中對照，從故事開始學英文。'
+summary=f'拾頁 StorySteps — {len(cat)} 本分級英文小說，{free_count} 本排行榜精選，{len(full_free)} 本完整免費，其餘前 {preview} 章免費試讀。點字查詞、英中對照，從故事開始學英文。'
 text=re.sub(r'<meta name="description" content="[^"]*">', '<meta name="description" content="'+esc(summary)+'">', text)
 text=re.sub(r'\d+ 本分級英文故事，其中 \d+ 本完整免費',f'{len(cat)} 本分級英文故事，其中 {len(full_free)} 本完整免費',text)
 entry.write_text(text)

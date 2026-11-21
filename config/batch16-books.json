@@ -14,7 +14,7 @@
       "desc": "書包裡傳來兩下敲擊聲。亞希打開拉鍊，發現一隻只會吐白霧的小龍。",
       "hook": "書包裡傳來兩下敲擊聲。亞希打開拉鍊，發現一隻只會吐白霧的小龍。",
       "color": "#224549",
-      "cover": "./covers/dragon-schoolbag.webp",
+      "cover": "./covers/dragon-schoolbag-scene.webp",
       "chapters": [
         {
           "id": "dragon-schoolbag-1",
@@ -247,7 +247,7 @@
       "desc": "全隊最矮的替補阿任，能靠防守等到自己的上場機會嗎？",
       "hook": "全隊最矮的替補阿任，能靠防守等到自己的上場機會嗎？",
       "color": "#303760",
-      "cover": "./covers/last-substitute.webp",
+      "cover": "./covers/last-substitute-scene.webp",
       "chapters": [
         {
           "id": "last-substitute-1",
@@ -480,7 +480,7 @@
       "desc": "茉茉可以借一個小時，代價是把自己的下一個星期六交給小店。",
       "hook": "茉茉可以借一個小時，代價是把自己的下一個星期六交給小店。",
       "color": "#4b325f",
-      "cover": "./covers/saturday-time-shop.webp",
+      "cover": "./covers/saturday-time-shop-scene.webp",
       "chapters": [
         {
           "id": "saturday-time-shop-1",
@@ -713,7 +713,7 @@
       "desc": "冠軍獎盃不翼而飛，展示櫃只剩下一枚不起眼的線索。",
       "hook": "冠軍獎盃不翼而飛，展示櫃只剩下一枚不起眼的線索。",
       "color": "#573d30",
-      "cover": "./covers/missing-trophy.webp",
+      "cover": "./covers/missing-trophy-scene.webp",
       "chapters": [
         {
           "id": "missing-trophy-1",
@@ -946,7 +946,7 @@
       "desc": "白天趴在同桌睡覺的男生，竟是夜裡擁有百萬粉絲的歌手。",
       "hook": "白天趴在同桌睡覺的男生，竟是夜裡擁有百萬粉絲的歌手。",
       "color": "#5b385e",
-      "cover": "./covers/idol-desk-partner.webp",
+      "cover": "./covers/idol-desk-partner-scene.webp",
       "chapters": [
         {
           "id": "idol-desk-partner-1",
@@ -1179,7 +1179,7 @@
       "desc": "一隻只在雨天上門的貓，叼來一張足以解開多年誤會的留言卡。",
       "hook": "一隻只在雨天上門的貓，叼來一張足以解開多年誤會的留言卡。",
       "color": "#5a3f40",
-      "cover": "./covers/secret-cat-cafe.webp",
+      "cover": "./covers/secret-cat-cafe-scene.webp",
       "chapters": [
         {
           "id": "secret-cat-cafe-1",
@@ -1412,7 +1412,7 @@
       "desc": "只有三十個人的班級群組，昨天出現了第三十一個學生。",
       "hook": "只有三十個人的班級群組，昨天出現了第三十一個學生。",
       "color": "#253e5e",
-      "cover": "./covers/class-chat-stranger.webp",
+      "cover": "./covers/class-chat-stranger-scene.webp",
       "chapters": [
         {
           "id": "class-chat-stranger-1",
@@ -1645,7 +1645,7 @@
       "desc": "一則傳錯名字的訊息，拉近了兩個原本不熟的人。",
       "hook": "一則傳錯名字的訊息，拉近了兩個原本不熟的人。",
       "color": "#65384d",
-      "cover": "./covers/wrong-message.webp",
+      "cover": "./covers/wrong-message-scene.webp",
       "chapters": [
         {
           "id": "wrong-message-1",
@@ -1878,7 +1878,7 @@
       "desc": "受困無人島的五個人，發現第五道訊號似乎也在向他們求救。",
       "hook": "受困無人島的五個人，發現第五道訊號似乎也在向他們求救。",
       "color": "#23556b",
-      "cover": "./covers/island-fifth-signal.webp",
+      "cover": "./covers/island-fifth-signal-scene.webp",
       "chapters": [
         {
           "id": "island-fifth-signal-1",
@@ -2111,7 +2111,7 @@
       "desc": "一間魔法便利商店開張，店員得學會處理生活裡各種奇怪的難題。",
       "hook": "一間魔法便利商店開張，店員得學會處理生活裡各種奇怪的難題。",
       "color": "#3a365e",
-      "cover": "./covers/magic-convenience-store.webp",
+      "cover": "./covers/magic-convenience-store-scene.webp",
       "chapters": [
         {
           "id": "magic-convenience-store-1",
@@ -2344,7 +2344,7 @@
       "desc": "最常吵架的死對頭，可能就是線上那個跟自己最有默契的匿名搭檔。",
       "hook": "最常吵架的死對頭，可能就是線上那個跟自己最有默契的匿名搭檔。",
       "color": "#284469",
-      "cover": "./covers/esports-rival.webp",
+      "cover": "./covers/esports-rival-scene.webp",
       "chapters": [
         {
           "id": "esports-rival-1",
@@ -2577,7 +2577,7 @@
       "desc": "轉學生知道幾件還沒發生的校園事故，卻拒絕透露任何人的未來。",
       "hook": "轉學生知道幾件還沒發生的校園事故，卻拒絕透露任何人的未來。",
       "color": "#313b60",
-      "cover": "./covers/ten-years-ahead.webp",
+      "cover": "./covers/ten-years-ahead-scene.webp",
       "chapters": [
         {
           "id": "ten-years-ahead-1",
@@ -2810,7 +2810,7 @@
       "desc": "校慶只剩七天，樂團只找到主唱留下的手機。",
       "hook": "校慶只剩七天，樂團只找到主唱留下的手機。",
       "color": "#553454",
-      "cover": "./covers/missing-singer.webp",
+      "cover": "./covers/missing-singer-scene.webp",
       "chapters": [
         {
           "id": "missing-singer-1",
@@ -3043,7 +3043,7 @@
       "desc": "送快遞的魔女收到一件寫著自己名字的包裹，卻得先完成二十四筆配送才能拆開。",
       "hook": "送快遞的魔女收到一件寫著自己名字的包裹，卻得先完成二十四筆配送才能拆開。",
       "color": "#30395d",
-      "cover": "./covers/night-witch-delivery.webp",
+      "cover": "./covers/night-witch-delivery-scene.webp",
       "chapters": [
         {
           "id": "night-witch-delivery-1",
