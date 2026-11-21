@@ -96,7 +96,7 @@ def page(path,title,body,description='',advertising=False,schema=None):
  p=P/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(out)
 chapters={b['id']:json.loads(gzip.decompress((P/manifest['books'][b['id']]['url']).read_bytes())) for b in cat}
 for b in cat:
- id=b['id'];path=f'stories/{id}/';cover=f'<img class="cover" loading="lazy" src="{href(b["cover"].removeprefix("./"))}" alt="{esc(b["zh"])} AI 插畫封面">' if b.get('cover') else ''
+ id=b['id'];path=f'stories/{id}/';cover=f'<img class="cover" loading="lazy" src="{href(b["cover"].removeprefix("./"))}" alt="{esc(b["zh"])}封面">' if b.get('cover') else ''
  toc=[]
  limit=25 if id in free_books else preview
  for stale in (P/path).glob('chapter-*.html'):
@@ -115,7 +115,7 @@ for b in cat:
   prev=link(path+(f'chapter-{i-1}.html' if i>1 else ''),'上一章' if i>1 else '回章節目錄')
   nxt=link(path+f'chapter-{i+1}.html','下一章') if i<limit else link('?purchase='+id,f'繼續讀第 {preview+1} 章') if limit<25 else link(path,'全書讀完，回書頁')
   offer_note=f'<p class="note">你目前讀到第 {i}／25 章。第 {i+1}–25 章尚未開放，規劃由 NT$100 一次付費通行證解鎖。{link("plans.html","查看方案與整本免費書單")}</p>' if i==limit<25 else ''
-  body=f'<p>{link("library.html","完整書目")} / {link(path,b["zh"])}</p><h1>{esc(c["zh"])}</h1><h2 lang="en">{esc(c["title"])}</h2><p class="muted">{esc(b["zh"])} · 第 {i} / 25 章 · {esc(b["level"])} · 英中對照 · {editorial_label(b)}</p><a class="button" href="{href("?book="+id+"&chapter="+c["id"])}">用互動版查詞、朗讀與收藏</a><article>{paras}</article><h2>本章詞彙</h2><table><thead><tr><th>英文</th><th>中文</th></tr></thead><tbody>{words}</tbody></table>'+(f'<h2>閱讀理解</h2>{quiz}' if quiz else '<p class="note">本章目前提供正文與詞彙，閱讀理解題仍待補齊。</p>')+f'<nav class="chapter-nav">{prev}{nxt}</nav>{offer_note}<p class="muted">發現文字或翻譯問題？{link("contact.html","回報勘誤")}。這份內容尚未標示為人工全章校訂完成。</p>'
+  body=f'<p>{link("library.html","完整書目")} / {link(path,b["zh"])}</p><h1>{esc(c["zh"])}</h1><h2 lang="en">{esc(c["title"])}</h2><p class="muted">{esc(b["zh"])} · 第 {i} / 25 章 · {esc(b["level"])} · 英中對照 · {editorial_label(b)}</p>{'<p class="note">本章為待擴寫的雙語精簡稿，尚未符合每章 500 詞規格。</p>' if b.get('manuscriptStatus')=='abridged_draft' else ''}<a class="button" href="{href("?book="+id+"&chapter="+c["id"])}">用互動版查詞、朗讀與收藏</a><article>{paras}</article><h2>本章詞彙</h2><table><thead><tr><th>英文</th><th>中文</th></tr></thead><tbody>{words}</tbody></table>'+(f'<h2>閱讀理解</h2>{quiz}' if quiz else '<p class="note">本章目前提供正文與詞彙，閱讀理解題仍待補齊。</p>')+f'<nav class="chapter-nav">{prev}{nxt}</nav>{offer_note}<p class="muted">發現文字或翻譯問題？{link("contact.html","回報勘誤")}。這份內容尚未標示為人工全章校訂完成。</p>'
   page(path+f'chapter-{i}.html',b['zh']+'｜第 '+str(i)+' 章 '+c['zh'],body,b['hook']+' 第 '+str(i)+' 章英中對照。',True)
  body=cover+f'<p class="muted">{esc(difficulty(b))} · {esc(b["primaryGenre"])}</p><h1>{esc(b["zh"])}</h1><p lang="en">{esc(b["title"])}</p><p>{esc(b["desc"])}</p><a class="button" href="{href(path+"chapter-1.html")}">直接讀第 1 章</a><a href="{href("?book="+id)}">開啟互動版書頁</a><p class="note"><strong>{editorial_label(b)}</strong> · 本書已收錄 25 章。{esc(b.get("importNote") or "")} {link("editorial-progress.html","查看校訂進度")}</p><p class="note">{("本書 25 章完整免費，不需廣告、付款或解鎖。" if id in free_books else "全站通行證 NT$100 尚未開賣；本書前 12 章免費試讀。")}</p><h2>章節目錄</h2><ol>{"".join(toc)}</ol>'
  page(path+'index.html',b['zh'],body,b['hook'],True,{'@context':'https://schema.org','@type':'Book','name':b['zh'],'alternateName':b['title'],'inLanguage':['en','zh-Hant'],'description':b['desc'],'url':href(path+'index.html')})
