@@ -18,7 +18,33 @@ export async function productRequest(env,action,data,session){
    WHERE created>=? AND variant<>'' GROUP BY variant,kind`,since).all();
   const sources=await q(env,'SELECT source,kind,count(DISTINCT client) AS readers FROM product_events WHERE created>=? GROUP BY source,kind',since).all();
   const paid=await q(env,'SELECT count(*) AS orders FROM premium_orders WHERE paid_at>=? AND revoked_at IS NULL',since).first();
-  return [{days:30,rows:results,feedback:feedback.results,experiments:experiments.results,sources:sources.results,paidOrders:paid.orders},200];
+  // Count the same browser only after it actually opened the same first chapter.
+  // A completion without an earlier start in the reporting window is excluded.
+  const firstChapters=await q(env,`SELECT s.book,
+   count(DISTINCT s.client) AS started,
+   count(DISTINCT CASE WHEN EXISTS (
+    SELECT 1 FROM product_events c WHERE c.client=s.client AND c.book=s.book
+     AND c.chapter=s.book||'-1' AND c.kind='chapter_complete'
+     AND c.created>=s.created AND c.created>=?
+   ) THEN s.client END) AS completed,
+   count(DISTINCT CASE WHEN EXISTS (
+    SELECT 1 FROM product_events n WHERE n.client=s.client AND n.book=s.book
+     AND n.chapter=s.book||'-2' AND n.kind='chapter_start'
+     AND n.created>=s.created AND n.created>=?
+   ) THEN s.client END) AS continued
+   FROM product_events s WHERE s.kind='chapter_start' AND s.chapter=s.book||'-1'
+    AND s.created>=? GROUP BY s.book`,since,since,since).all();
+  const audience=await q(env,`SELECT count(DISTINCT client) AS browsers,
+   count(DISTINCT CASE WHEN kind='visit' THEN client END) AS visits,
+   count(DISTINCT CASE WHEN kind='visit' AND EXISTS (
+    SELECT 1 FROM product_events v WHERE v.client=product_events.client AND v.kind='visit'
+     AND v.created>=? AND date(v.created/1000,'unixepoch','+8 hours')
+       <> date(product_events.created/1000,'unixepoch','+8 hours')
+   ) THEN client END) AS returningBrowsers
+   FROM product_events WHERE created>=?`,since,since).first();
+  return [{days:30,windowStart:since,windowEnd:Date.now(),rows:results,
+   firstChapters:firstChapters.results,audience,feedback:feedback.results,
+   experiments:experiments.results,sources:sources.results,paidOrders:paid.orders},200];
  }
  if(!data||!uuid(data.id)||!uuid(data.client))return [{error:'資料格式不符。'},400];
  const book=data.book||'',chapter=data.chapter||'';

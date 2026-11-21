@@ -230,8 +230,21 @@ const stats=await request('/api/premium/product/stats').then(r=>r.json());
 assert.ok(stats.rows.some(row=>row.book===productBook&&row.readers===1));
 assert.ok(stats.rows.every(row=>!('client' in row)));
 assert.equal((await request('/api/premium/product/feedback',{data:{...event,id:crypto.randomUUID(),kind:'使用體驗',message:'Synthetic feedback'}})).status,200);
+const secondClient=crypto.randomUUID(),now=Date.now();
+const addProduct=(client,kind,chapter,created)=>sqlite.prepare('INSERT INTO product_events VALUES (?,?,?,?,?,?,?,?)')
+ .run(crypto.randomUUID(),client,kind,productBook,chapter,'','direct',created);
+addProduct(event.client,'chapter_complete',productChapter,now+1);
+addProduct(event.client,'chapter_start',productBook+'-2',now+2);
+addProduct(secondClient,'chapter_complete',productChapter,now-10000); // no earlier start: exclude
+addProduct(secondClient,'chapter_start',productChapter,now);
+addProduct(secondClient,'visit','',now-86400000);
+addProduct(secondClient,'visit','',now);
 sqlite.prepare('INSERT INTO product_admins VALUES (?)').run('google:'+createHash('sha256').update('12345678').digest('hex'));
 const dashboard=await request('/api/premium/product/admin',{key:newDevice.token}).then(r=>r.json());
+assert.deepEqual({...dashboard.firstChapters.find(row=>row.book===productBook)},
+ {book:productBook,started:2,completed:1,continued:1});
+assert.equal(dashboard.audience.returningBrowsers,1);
+assert.ok(dashboard.windowStart<dashboard.windowEnd);
 assert.equal(dashboard.feedback.length,1);
 assert.equal(dashboard.feedback[0].message,'Synthetic feedback');
 assert.equal((await request('/api/premium/product/admin')).status,403);

@@ -2,7 +2,7 @@ import {useEffect,useRef,useState} from 'react';
 import {stories} from './content';
 import {premiumRequest} from './premium';
 import {markLocalSaved} from './storage-status';
-import {previewChapters} from './offer';
+import {previewChapters,isFreeBook} from './offer';
 import './product.css';
 
 const consentKey='storysteps-product-consent';
@@ -118,15 +118,20 @@ export function TrialOffer({book}:{book:string}){
  </section>;
 }
 export function ProductDashboard(){
- const [data,setData]=useState<any>(null),[error,setError]=useState('');
- async function refresh(){try{setData(await premiumRequest('product/admin'));setError('');}catch(e:any){setError(e.message);}}
+ const [data,setData]=useState<any>(null),[error,setError]=useState(''),[loading,setLoading]=useState(false),[level,setLevel]=useState('全部'),[query,setQuery]=useState('');
+ async function refresh(){setLoading(true);try{setData(await premiumRequest('product/admin'));setError('');}catch(e:any){setError(e.message||'暫時無法取得營運資料。');}finally{setLoading(false)}}
  useEffect(()=>{void refresh();},[]);
- const counts=(book:string,kind:string)=>data?.rows.find((r:Stats)=>r.book===book&&r.kind===kind)?.readers||0;
+ const counts=(book:string,kind:string)=>Number(data?.rows?.find((r:Stats)=>r.book===book&&r.kind===kind)?.readers||0);
+ const first=(book:string)=>data?.firstChapters?.find((r:any)=>r.book===book);
  const ratio=(a:number,b:number)=>b?Math.round(a/b*100)+'%':'—';
- return <section className="feature-panel product-dashboard"><h2>網站營運數據</h2><p>最近 30 天的實際事件。樣本來自自願啟用分析的瀏覽器。點擊率、開始率與完讀率使用各步驟人數比值，尚未做同批讀者歸因。</p><button className="secondary" onClick={refresh}>重新整理</button>{error&&<p role="status">{error}</p>}
- {data&&<><p>成功付款訂單 {data.paidOrders} 筆 · 從全站入口查看方案 {counts("", "pass_view")} 位</p><div className="product-table"><table><thead><tr><th>書籍</th><th>曝光</th><th>點擊</th><th>開始閱讀</th><th>完成章節</th><th>完成測驗</th><th>查看方案</th><th>點擊／曝光</th><th>完成／開始</th></tr></thead><tbody>{stories.map(book=>{const impression=counts(book.id,'book_impression'),clicks=counts(book.id,'book_open'),start=counts(book.id,'chapter_start'),done=counts(book.id,'chapter_complete');return <tr key={book.id}><td>{book.zh}</td><td>{impression}</td><td>{clicks}</td><td>{start}</td><td>{done}</td><td>{counts(book.id,"quiz_complete")}</td><td>{counts(book.id,"pass_view")}</td><td>{ratio(clicks,impression)}</td><td>{ratio(done,start)}</td></tr>;})}</tbody></table></div>
- <details><summary>試讀入口文案測試</summary><p>相同 12 章試讀與價格，測試「接下來，故事會怎麼走」與「已讀完 12 章」兩種文案。付款入口尚未開放時，以通行證點擊與試讀回饋作觀察。</p>{data.experiments.map((row:any)=><p key={row.variant+row.kind}>{row.variant==='curiosity'?'故事懸念':'閱讀進度'} · {row.kind} · {row.readers} 位</p>)}</details>
+ const filtered=stories.filter(book=>(level==='全部'||book.level.startsWith(level))&&book.zh.includes(query.trim()))
+  .sort((a,b)=>Number(first(b.id)?.started||0)-Number(first(a.id)?.started||0)||a.zh.localeCompare(b.zh,'zh-TW'));
+ function download(){if(!data)return;const rows=[['書名','等級','免費規劃','首章開始瀏覽器','首章完成瀏覽器','首章完成率','進入第二章瀏覽器','進入第二章率','章節開始瀏覽器','章節完成瀏覽器','查看方案瀏覽器'],...filtered.map(book=>{const s=Number(first(book.id)?.started||0);return [book.zh,book.level,isFreeBook(book.id)?'精選免費':'試讀',s,first(book.id)?.completed||0,ratio(Number(first(book.id)?.completed||0),s),first(book.id)?.continued||0,ratio(Number(first(book.id)?.continued||0),s),counts(book.id,'chapter_start'),counts(book.id,'chapter_complete'),counts(book.id,'pass_view')]})];const csv='\ufeff'+rows.map(row=>row.map(value=>'"'+String(value).replaceAll('"','""')+'"').join(',')).join('\r\n');const url=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='storysteps-operations-'+new Date().toISOString().slice(0,10)+'.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}
+ return <section className="feature-panel product-dashboard"><h2>網站營運數據</h2><p>僅供管理者查看。最近 30 天自願同意提供使用事件的瀏覽器樣本；同一人多個瀏覽器可能重複，並非全站訪客。沒有資料就顯示 0 或「—」。</p><div className="dashboard-controls"><button className="secondary" disabled={loading} onClick={refresh}>{loading?'載入中…':'重新整理'}</button>{data&&<button className="secondary" onClick={download}>下載目前篩選的 CSV</button>}</div>{error&&<p role="alert">{error}</p>}
+ {data&&<><p className="fine">資料期間：{new Date(data.windowStart||Date.now()-30*86400000).toLocaleDateString('zh-TW',{timeZone:'Asia/Taipei'})} 至 {new Date(data.windowEnd||Date.now()).toLocaleDateString('zh-TW',{timeZone:'Asia/Taipei'})}（臺灣時間）。資料每次重新整理取得。</p><div className="product-metrics dashboard-metrics"><span><b>{data.audience?.browsers??'—'}</b>參與事件的瀏覽器</span><span><b>{data.audience?.returningBrowsers??'—'}</b>跨日回訪瀏覽器</span><span><b>{data.paidOrders}</b>有效付款訂單</span><span><b>{counts('', 'pass_view')}</b>從全站入口查看方案</span></div><p className="fine">跨日回訪只計算有兩個不同臺灣日期 visit 事件的瀏覽器。付款訂單數是交易筆數，不能當作此匿名樣本的付費轉換率。</p>
+ <div className="dashboard-controls"><label>等級 <select value={level} onChange={e=>setLevel(e.target.value)}>{['全部','1','2','3','4','5','6'].map(n=><option key={n}>{n}</option>)}</select></label><label>搜尋書名 <input type="search" value={query} onChange={e=>setQuery(e.target.value)} placeholder="輸入書名"/></label></div><p className="fine">顯示 {filtered.length} 本，依首章開始瀏覽器數排序。首章完成率和進入第二章率以同一本書、同一瀏覽器在期間內先開始首章，再完成首章或開始第二章計算；「進入第二章」不等於已完成首章。</p><div className="product-table"><table><thead><tr><th>書籍</th><th>等級／開放</th><th>首章開始</th><th>首章完成</th><th>首章完成率</th><th>進入第二章</th><th>第二章進入率</th><th>查看方案</th></tr></thead><tbody>{filtered.map(book=>{const s=Number(first(book.id)?.started||0),d=Number(first(book.id)?.completed||0),n=Number(first(book.id)?.continued||0);return <tr key={book.id}><th scope="row">{book.zh}</th><td>{book.level} · {isFreeBook(book.id)?'精選免費':'試讀'}</td><td>{s}</td><td>{d}</td><td>{ratio(d,s)}</td><td>{n}</td><td>{ratio(n,s)}</td><td>{counts(book.id,'pass_view')}</td></tr>})}</tbody></table></div>
+ <details><summary>試讀入口文案測試</summary><p>文案對照只供方向參考，未做同批讀者歸因；目前付款入口尚未開放。</p>{data.experiments.map((row:any)=><p key={row.variant+row.kind}>{row.variant==='curiosity'?'故事懸念':'閱讀進度'} · {row.kind} · {row.readers} 位</p>)}</details>
  <details><summary>社群來源</summary>{data.sources.map((row:any)=><p key={row.source+row.kind}>{row.source} · {row.kind} · {row.readers} 位</p>)}</details><h3>讀者回饋</h3>{data.feedback.length?data.feedback.map((row:any,i:number)=><article key={i}><b>{stories.find(b=>b.id===row.book)?.zh||'全站'} {row.chapter} · {row.kind}</b><p>{row.message}</p><small>{new Date(row.created).toLocaleString('zh-TW')}</small></article>):<p>目前尚未收到回饋。</p>}</>}
- <details><summary>30／60／90 天執行計畫</summary><ol><li>前 30 天主推 6 本免費作品，依題材分配社群入口，每週查看曝光、開始與完成章節的比例。</li><li>第 31～60 天依回饋精修跳出最多的章節，再主推其餘 6 本免費書。優先評估懸疑、科幻、職場與現實冒險的需求。</li><li>第 61～90 天建立每週內容更新節奏，發布每次實際完成的校訂或新章，依季節安排主題合集。</li></ol><p>首批六本以免費書架前六本為基準，第二批使用其餘六本，發布前核對校訂狀態。每週更新可使用已完成的校訂紀錄與既有故事推薦。</p><p>點擊少時檢查封面、看點與曝光。開始後完成少時檢查手機體驗、難度與故事。每週有足夠樣本後再比較，付款歸因須等正式結帳開通後驗證。</p></details>
+ <details><summary>每週檢查重點</summary><p>比較各等級首章開始、完成與進入第二章的人數；樣本少時先收集讀者回饋，再決定調整哪些書的封面、開頭或閱讀體驗。24 本免費規劃與實際開放章數請以書籍頁為準。</p></details>
  </section>;
 }
