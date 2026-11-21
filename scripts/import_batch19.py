@@ -11,7 +11,6 @@ import random
 import re
 import statistics
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
 PUB = ROOT / 'public'
@@ -90,6 +89,7 @@ def parse(path):
 
 def cover(book):
     """Draw an individual illustrated cover; fixed seed makes rebuilds deterministic."""
+    from PIL import Image, ImageDraw, ImageFont
     bid, title, code = book['id'], book['zh'], book['code']
     palette = {1:('#142c47','#89d6e0','#fbd77b'),3:('#172e40','#96caba','#eec68c'),4:('#261b39','#e8859f','#fed18b'),5:('#172435','#90adc6','#f5b877'),6:('#171e35','#96a9db','#deb5ed')}
     bg, light, gold = palette[int(code[0])]
