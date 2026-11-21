@@ -1,0 +1,257 @@
+{
+  "label": "熱門推薦",
+  "basis": "三份 AI 評估之學生向綜合潛力榜，並非實際閱讀或銷售排行",
+  "updated": "2026-11-21",
+  "books": [
+    {
+      "rank": 1,
+      "bookId": "tomorrow",
+      "score": 94.5
+    },
+    {
+      "rank": 2,
+      "bookId": "ss-r17-l4a1",
+      "score": 93.2
+    },
+    {
+      "rank": 3,
+      "bookId": "ss-r19-l1b14",
+      "score": 83.4
+    },
+    {
+      "rank": 4,
+      "bookId": "ss-r17-l3a1",
+      "score": 80.5
+    },
+    {
+      "rank": 5,
+      "bookId": "class-chat-stranger",
+      "score": 71.8
+    },
+    {
+      "rank": 6,
+      "bookId": "ten-years-ahead",
+      "score": 71.2
+    },
+    {
+      "rank": 7,
+      "bookId": "light-novel-6b",
+      "score": 68.6
+    },
+    {
+      "rank": 8,
+      "bookId": "idol-desk-partner",
+      "score": 68.5
+    },
+    {
+      "rank": 9,
+      "bookId": "esports-rival",
+      "score": 68.2
+    },
+    {
+      "rank": 10,
+      "bookId": "ss-r19-l4b16",
+      "score": 65.7
+    },
+    {
+      "rank": 11,
+      "bookId": "ss-r19-l3b13",
+      "score": 65.4
+    },
+    {
+      "rank": 12,
+      "bookId": "ss-r19-l1b13",
+      "score": 64
+    },
+    {
+      "rank": 13,
+      "bookId": "ss-r18-l4a5",
+      "score": 62.6
+    },
+    {
+      "rank": 14,
+      "bookId": "ss-r19-l4b13",
+      "score": 59.9
+    },
+    {
+      "rank": 15,
+      "bookId": "ss-r19-l3b15",
+      "score": 59.6
+    },
+    {
+      "rank": 16,
+      "bookId": "wrong-message",
+      "score": 59.2
+    },
+    {
+      "rank": 17,
+      "bookId": "ss-r17-l3b2",
+      "score": 57.5
+    },
+    {
+      "rank": 18,
+      "bookId": "ss-r19-l4b14",
+      "score": 47.5
+    },
+    {
+      "rank": 19,
+      "bookId": "ss-r19-l1b15",
+      "score": 45.8
+    },
+    {
+      "rank": 20,
+      "bookId": "ss-r19-l3b16",
+      "score": 39.8
+    },
+    {
+      "rank": 21,
+      "bookId": "ss-r19-l4a13",
+      "score": 37.6
+    },
+    {
+      "rank": 22,
+      "bookId": "ss-r18-l4b8",
+      "score": 35.9
+    },
+    {
+      "rank": 23,
+      "bookId": "ss-r19-l3a16",
+      "score": 34.9
+    },
+    {
+      "rank": 24,
+      "bookId": "ss-r17-l4b3",
+      "score": 34.8
+    },
+    {
+      "rank": 25,
+      "bookId": "ss-r18-l3b7",
+      "score": 32
+    },
+    {
+      "rank": 26,
+      "bookId": "ceo-series-1b",
+      "score": 31.8
+    },
+    {
+      "rank": 27,
+      "bookId": "ss-r17-l5a1",
+      "score": 31.2
+    },
+    {
+      "rank": 28,
+      "bookId": "ss-r18-l3b5",
+      "score": 30.7
+    },
+    {
+      "rank": 29,
+      "bookId": "ss-r17-l4a3",
+      "score": 29.6
+    },
+    {
+      "rank": 30,
+      "bookId": "ss-r17-l3a2",
+      "score": 28
+    },
+    {
+      "rank": 31,
+      "bookId": "ss-r17-l4a2",
+      "score": 27.6
+    },
+    {
+      "rank": 32,
+      "bookId": "island-fifth-signal",
+      "score": 27.3
+    },
+    {
+      "rank": 33,
+      "bookId": "import-platform-thirteen",
+      "score": 26.7
+    },
+    {
+      "rank": 34,
+      "bookId": "dragon-schoolbag",
+      "score": 25.9
+    },
+    {
+      "rank": 35,
+      "bookId": "ss-r19-l3b14",
+      "score": 24.6
+    },
+    {
+      "rank": 36,
+      "bookId": "ss-r18-l3a6",
+      "score": 24.1
+    },
+    {
+      "rank": 37,
+      "bookId": "ss-r2-l6-a",
+      "score": 24
+    },
+    {
+      "rank": 38,
+      "bookId": "ss-r18-l3a8",
+      "score": 23.8
+    },
+    {
+      "rank": 39,
+      "bookId": "ss-r19-l4a16",
+      "score": 23.7
+    },
+    {
+      "rank": 40,
+      "bookId": "import-campus-crush",
+      "score": 23.5
+    },
+    {
+      "rank": 41,
+      "bookId": "light-novel-2a",
+      "score": 22.7
+    },
+    {
+      "rank": 42,
+      "bookId": "light-novel-1a",
+      "score": 22.6
+    },
+    {
+      "rank": 43,
+      "bookId": "missing-singer",
+      "score": 22.4
+    },
+    {
+      "rank": 44,
+      "bookId": "night-witch-delivery",
+      "score": 22.4
+    },
+    {
+      "rank": 45,
+      "bookId": "ss-r17-l3b1",
+      "score": 21.9
+    },
+    {
+      "rank": 46,
+      "bookId": "ss-r19-l3a13",
+      "score": 21.7
+    },
+    {
+      "rank": 47,
+      "bookId": "ss-r17-l4a4",
+      "score": 21.6
+    },
+    {
+      "rank": 48,
+      "bookId": "ceo-1",
+      "score": 21
+    },
+    {
+      "rank": 49,
+      "bookId": "ss-r18-l4a8",
+      "score": 20.9
+    },
+    {
+      "rank": 50,
+      "bookId": "ss-r19-l5a14",
+      "score": 20.7
+    }
+  ]
+}

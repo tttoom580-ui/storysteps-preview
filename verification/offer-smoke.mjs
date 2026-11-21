@@ -6,6 +6,12 @@ const offer=JSON.parse(readFileSync('config/reader-offer.json','utf8'));
 const catalog=JSON.parse(readFileSync('public/catalog.js','utf8').split('=',2)[1].replace(/;\s*$/,''));
 const available=new Map(catalog.filter(b=>b.readable!==false).map(b=>[b.id,b]));
 const free=new Set(offer.freeBookIds);
+const recommendations=JSON.parse(readFileSync('config/popular-recommendations.json','utf8'));
+assert.equal(recommendations.books.length,50,'Exactly fifty curated recommendations');
+assert.equal(new Set(recommendations.books.map(entry=>entry.bookId)).size,50,'Recommendations are distinct');
+assert.deepEqual(recommendations.books.map(entry=>entry.rank),Array.from({length:50},(_,index)=>index+1));
+assert(recommendations.books.every(entry=>available.has(entry.bookId)),'Recommendations must be readable books');
+assert(recommendations.books.filter(entry=>free.has(entry.bookId)).length>=12,'At least twelve recommendations are fully free');
 assert.equal(offer.phase,'prelaunch');
 assert.equal(offer.previewChapters,12);
 assert.equal(offer.transitionalAccess.legacyFreeUnlock,false);
@@ -22,8 +28,9 @@ assert(available.size>=93,'Previously published novels must remain available aft
 const bucket=b=>b.level+'/'+b.vocabularyRange;
 const expectedBuckets=new Set(catalog.filter(b=>['A','B'].includes(b.vocabularyRange)).map(bucket));
 const chosenBuckets=new Set([...free].map(id=>bucket(available.get(id))));
-assert.deepEqual(chosenBuckets,expectedBuckets);
-assert.equal(free.size,chosenBuckets.size,'Exactly one free book per level and range');
+assert([...expectedBuckets].every(bucket=>chosenBuckets.has(bucket)),'All A/B levels keep a free entry');
+assert.equal(free.size,24,'Exactly twenty-four fully free books');
+assert.equal(offer.freeBookIds.length,24,'No duplicate free book IDs');
 for(const book of catalog){
  if(book.cover)assert(existsSync('public/'+book.cover),'Missing cover: '+book.id);
  assert.equal(book.chapters.length,25);

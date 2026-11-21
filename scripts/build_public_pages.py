@@ -7,7 +7,8 @@ RUM_BEACON='<script defer src="https://static.cloudflareinsights.com/beacon.min.
 catalog=json.loads((P/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'));cat=[b for b in catalog if b.get('readable',True)];manifest=json.loads((P/'content-manifest.json').read_text());urls=[]
 offer=json.loads((R/'config/reader-offer.json').read_text(encoding='utf-8'));free_books=set(offer['freeBookIds']);preview=offer['previewChapters'];free_count=len(free_books)
 assert offer['phase']=='prelaunch' and offer['premium']['priceTwd']==100 and free_books<={b['id'] for b in cat}
-assert {(b['level'],b.get('vocabularyRange')) for b in cat if b['id'] in free_books}=={(b['level'],b['vocabularyRange']) for b in cat if b.get('vocabularyRange') in ('A','B')} and len(free_books)==len({(b['level'],b.get('vocabularyRange')) for b in cat if b['id'] in free_books})
+assert len(free_books)==len(offer['freeBookIds'])==24
+assert {(b['level'],b.get('vocabularyRange')) for b in cat if b['id'] in free_books}>={(b['level'],b['vocabularyRange']) for b in cat if b.get('vocabularyRange') in ('A','B')}
 assert not offer['premium']['checkoutEnabled'] and not offer['premium']['privateBookStorageEnabled']
 topics=json.loads((R/'config/topics.json').read_text())
 by_topic={topic['slug']:topic for topic in topics}

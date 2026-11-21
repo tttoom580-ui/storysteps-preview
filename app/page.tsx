@@ -33,6 +33,7 @@ import SponsorSlot from './sponsor-slot';
 import {useReadingFeatures,ReadingCenter,Analytics,ChapterCommunity,QuoteButton,readingPost} from './reading-features';
 import {stories,levels,upcomingStories,editorialLabel} from './content';
 import {readerOffer,isFreeBook,freeBookCount,previewChapters,premiumPriceTwd} from './offer';
+import popularRecommendations from '../config/popular-recommendations.json';
 import type {Story,Chapter,Word} from './types';
 import {dayKey,streak,nextReview} from './learning';
 import {difficultyLabel,rangeLabel,levelLabel} from './vocabulary-range';
@@ -52,8 +53,11 @@ const freeHomeBooks=readerOffer.freeBookIds
 const freeHomeShelves=levels
  .map(level=>({level,books:freeHomeBooks.filter(story=>story.level===level)}))
  .filter(shelf=>shelf.books.length>0);
+const popularBooks=popularRecommendations.books
+ .map(entry=>({rank:entry.rank,story:stories.find(story=>story.id===entry.bookId)}))
+ .filter((entry):entry is {rank:number;story:Story}=>Boolean(entry.story));
 const starterPicks=[
- {id:'ss-r2-l2-a',label:'英文起步',hook:'跟著一本神祕說明書，走進不一樣的修仙日常。'},
+ {id:'tomorrow',label:'英文起步',hook:'明天傳來的訊息，說你千萬別去學校。'},
  {id:'import-rain-bell',label:'喜歡懸疑',hook:'晴天突然響起的警鐘，藏著十二年前的秘密。'},
  {id:'ss-r2-l1-b',label:'想看療癒',hook:'從一份早餐開始，慢慢打開整個村莊的心。'}
 ].map(pick=>({...pick,story:freeHomeBooks.find(book=>book.id===pick.id)!})).filter(pick=>pick.story);
@@ -98,6 +102,7 @@ export default function Home(){
  },[chapter]);
 
  const [showAllTrialBooks,setShowAllTrialBooks]=useState(false);
+ const [showAllPopularBooks,setShowAllPopularBooks]=useState(false);
  const [showReview,setShowReview]=useState(false);
  useEffect(()=>setShowReview(false),[chapterId]);
  const [checkoutBook,setCheckoutBook]=useState<string>();
@@ -327,6 +332,18 @@ export default function Home(){
     <div className="starter-art"><img src={s.cover} alt="" width="320" height="480" decoding="async"/><span>{label}</span></div>
     <div className="starter-copy"><h3>{s.zh}</h3><p>{hook}</p><small>程度：{s.level} · 全本免費</small><strong>開始閱讀 <ArrowRight size={16}/></strong></div>
    </a>)}</div>
+  </section>
+  <section className="popular-shelf" aria-labelledby="popular-shelf-title">
+   <div className="trial-shelf-header"><div><h2 id="popular-shelf-title">熱門推薦 TOP 50</h2><p>依國高中生閱讀興趣與故事吸引力編選，並非實際閱讀量排行榜；其中整本免費的作品已標示。</p></div></div>
+   <ol className="popular-shelf-grid" id="popular-books">
+    {(showAllPopularBooks?popularBooks:popularBooks.slice(0,12)).map(({rank,story:s})=><li key={s.id}>
+     <button className="popular-book" onClick={()=>book(s)} aria-label={`第 ${rank} 名《${s.zh}》，${isFreeBook(s.id)?'整本免費':'前 '+previewChapters+' 章免費'}`}>
+      <span className="popular-cover" style={{backgroundColor:s.color}}>{s.cover&&<img src={s.cover} alt="" width="96" height="144" loading="lazy" decoding="async"/>}<b>#{rank}</b></span>
+      <span className="popular-book-copy"><strong>{s.zh}</strong><small>{s.level} · {isFreeBook(s.id)?'25 章整本免費':`前 ${previewChapters} 章免費`}</small></span>
+     </button>
+    </li>)}
+   </ol>
+   <button className="trial-expand secondary" aria-expanded={showAllPopularBooks} aria-controls="popular-books" onClick={()=>setShowAllPopularBooks(value=>!value)}>{showAllPopularBooks?'收起推薦':`展開完整 ${popularBooks.length} 本推薦`}</button>
   </section>
   <div className="home-shelf-heading" id="free-shelf"><h2>全本免費書架</h2><span>每本 25 章</span></div>
   <div className="home-picks">

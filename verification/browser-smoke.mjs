@@ -53,9 +53,13 @@ async function run(label,options){
   await trialShelf.getByRole('button',{name:/展開全部/}).click();
   if(await trialButtons.count()<=6)throw Error('Homepage should expand to show the full trial shelf');
   await trialShelf.getByRole('button',{name:'收起其他試讀書'}).click();
-  const freeHome=page.getByRole('region',{name:/12 本小說/});
+  const popularShelf=page.getByRole('region',{name:'熱門推薦 TOP 50'});
+  if(await popularShelf.getByRole('button',{name:/第 \d+ 名/}).count()!==12)throw Error('Homepage must show twelve popular recommendations initially');
+  await popularShelf.getByRole('button',{name:'展開完整 50 本推薦'}).click();
+  if(await popularShelf.getByRole('button',{name:/第 \d+ 名/}).count()!==50)throw Error('Homepage must show all fifty recommendations');
+  const freeHome=page.getByRole('region',{name:/24 本小說/});
   await freeHome.waitFor();
-  if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==12)throw Error('Homepage must show all 12 complete free books');
+  if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==24)throw Error('Homepage must show all 24 complete free books');
   await freeHome.getByRole('button',{name:'免費讀《雨來之前的鐘聲》第 1 章'}).click();
   await page.locator('[data-paragraph]').first().waitFor();
 
@@ -225,7 +229,7 @@ async function run(label,options){
   }
   // The curated free tier is complete: the last chapter requires no local grant.
   await page.goto(base+'?purchase=1',{waitUntil:'domcontentloaded'});
-  await page.getByRole('heading',{name:/12 本完整免費小說/}).first().waitFor();
+  await page.getByRole('heading',{name:/24 本完整免費小說/}).first().waitFor();
   const purchaseButton=page.getByRole('button',{name:'付款尚未開通'});
   if(!(await purchaseButton.isDisabled()))throw Error('Unconfigured checkout must never accept money');
   await page.goto(base+'?book=import-rain-bell&chapter=import-rain-bell-25',{waitUntil:'domcontentloaded'});

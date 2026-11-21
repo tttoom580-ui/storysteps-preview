@@ -1,9 +1,21 @@
 {
   "version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-21",
   "currency": "TWD",
   "phase": "prelaunch",
   "freeBookIds": [
+    "tomorrow",
+    "ss-r19-l1b14",
+    "light-novel-6b",
+    "ss-r19-l4b16",
+    "ss-r19-l3b13",
+    "ss-r19-l1b13",
+    "ss-r19-l4b13",
+    "ss-r19-l3b15",
+    "ss-r19-l4b14",
+    "ss-r19-l1b15",
+    "ss-r19-l3b16",
+    "ss-r19-l4a13",
     "import-rain-bell",
     "ss-r2-l1-b",
     "ss-r2-l2-a",
@@ -38,7 +50,7 @@
   },
   "transitionalAccess": {
     "legacyFreeUnlock": false,
-    "description": "分級選書提供全書 25 章免費；其他作品開放前 12 章。全站通行證尚未開賣。"
+    "description": "24 本分級選書提供全書 25 章免費；其他作品開放前 12 章。全站通行證尚未開賣。"
   },
   "cautions": [
     "尚未提供付款或訂單服務。",
