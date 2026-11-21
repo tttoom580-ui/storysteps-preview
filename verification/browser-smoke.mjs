@@ -124,7 +124,7 @@ async function run(label,options){
   await libraryNav.click();
   const onlyFree=page.getByRole('button',{name:'整本免費',exact:true});
   await onlyFree.click();
-  if(await page.locator('.book-card').count()!==12)throw Error('Free-only filter must show 12 books');
+  if(await page.locator('.book-card').count()!==24)throw Error('Free-only filter must show 24 books');
   await onlyFree.click();
   await page.locator('#discover-more > summary').click();
   const topics=page.getByRole('group',{name:'故事題材'});
@@ -234,12 +234,14 @@ async function run(label,options){
   if(!(await purchaseButton.isDisabled()))throw Error('Unconfigured checkout must never accept money');
   await page.goto(base+'?book=import-rain-bell&chapter=import-rain-bell-25',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
-  await page.goto(base+'?book=tomorrow&chapter=tomorrow-12',{waitUntil:'domcontentloaded'});
+  await page.goto(base+'?book=tomorrow&chapter=tomorrow-25',{waitUntil:'domcontentloaded'});
+  await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
+  await page.goto(base+'?book=ss-r17-l4a1&chapter=ss-r17-l4a1-12',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   await page.getByRole('region',{name:'下一本整本免費小說'}).getByRole('button',{name:'免費讀第 1 章'}).waitFor();
   await page.getByRole('button',{name:'繼續讀第 13 章'}).click();
   await page.locator('.offer-premium').getByText(/繼續讀《.+》第 13 章/).waitFor();
-  await page.goto(base+'?book=tomorrow&chapter=tomorrow-13',{waitUntil:'domcontentloaded'});
+  await page.goto(base+'?book=ss-r17-l4a1&chapter=ss-r17-l4a1-13',{waitUntil:'domcontentloaded'});
   await page.getByRole('heading',{name:'前 12 章免費試讀'}).last().waitFor();
   if(await page.locator('[data-paragraph]').count())throw Error('Chapter 13 bypassed the preview limit');
   // Stage 2 editorial transparency: every book is shown, none falsely certified.
