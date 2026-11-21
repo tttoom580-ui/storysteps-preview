@@ -25,14 +25,14 @@ assert.equal(readdirSync('docs/books').length,available.size,'No stale full-book
 assert.equal(available.size,catalog.length,'All catalog books must be readable');
 assert.equal(available.size,Object.keys(manifest.books).length,'Catalog and book manifest must agree');
 assert(available.size>=93,'Previously published novels must remain available after import');
-const bucket=b=>b.level+'/'+b.vocabularyRange;
-const expectedBuckets=new Set(catalog.filter(b=>['A','B'].includes(b.vocabularyRange)).map(bucket));
-const chosenBuckets=new Set([...free].map(id=>bucket(available.get(id))));
-assert([...expectedBuckets].every(bucket=>chosenBuckets.has(bucket)),'All A/B levels keep a free entry');
+const freeByLevel=new Map();
+for(const id of free){const level=available.get(id)?.level;freeByLevel.set(level,(freeByLevel.get(level)||0)+1)}
+for(const level of ['1000以下','1000–2000','2000–3000','3000–4000','4000–5000','5000–6000'])assert.equal(freeByLevel.get(level),4,`Exactly four fully free books for ${level}`);
 assert.equal(free.size,24,'Exactly twenty-four fully free books');
 assert.equal(offer.freeBookIds.length,24,'No duplicate free book IDs');
 for(const book of catalog){
- if(book.cover)assert(existsSync('public/'+book.cover),'Missing cover: '+book.id);
+ assert(book.cover&&existsSync('public/'+book.cover)&&existsSync('docs/'+book.cover),'Missing published cover: '+book.id);
+ for(const key of ['desc','hook'])assert(/[\u3400-\u9fff]/u.test(book[key]),'Description must be Chinese: '+book.id+' '+key);
  assert.equal(book.chapters.length,25);
  assert(book.chapters.every(c=>c.available));
  const limit=free.has(book.id)?25:offer.previewChapters;

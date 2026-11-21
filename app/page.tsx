@@ -58,8 +58,8 @@ const popularBooks=popularRecommendations.books
  .filter((entry):entry is {rank:number;story:Story}=>Boolean(entry.story));
 const starterPicks=[
  {id:'tomorrow',label:'英文起步',hook:'明天傳來的訊息，說你千萬別去學校。'},
- {id:'import-rain-bell',label:'喜歡懸疑',hook:'晴天突然響起的警鐘，藏著十二年前的秘密。'},
- {id:'ss-r2-l1-b',label:'想看療癒',hook:'從一份早餐開始，慢慢打開整個村莊的心。'}
+ {id:'ss-r19-l1b15',label:'喜歡懸疑',hook:'校外教學的巴士，竟然只會開往昨天。'},
+ {id:'ss-r19-l1b13',label:'想看戀愛',hook:'全校最會寫情書的人，偏偏從沒談過戀愛。'}
 ].map(pick=>({...pick,story:freeHomeBooks.find(book=>book.id===pick.id)!})).filter(pick=>pick.story);
 const trialBooks=stories.filter(story=>!isFreeBook(story.id));
 const trialGenres=new Set<string>();

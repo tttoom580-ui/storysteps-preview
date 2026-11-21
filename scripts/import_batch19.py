@@ -160,12 +160,18 @@ def main():
     manifest=json.loads(MAN.read_text())
     previews_path=ROOT/'app/story-previews.json';guide_path=ROOT/'app/reading-guide.json'
     previews=json.loads(previews_path.read_text());guide=json.loads(guide_path.read_text())
+    zh_intros=json.loads((ROOT/'config/batch19-zh-intros.json').read_text())
     report=[]
-    existing={b['id'] for b in cat}
+    existing={b['id']:b for b in cat}
     for b in books:
         bid=b['id']
+        intro=zh_intros.get(bid,b['desc'])
         if bid in existing:
             if not any(v['id']==bid and v['zh']==b['zh'] for v in cat):raise ValueError(f'conflicting ID {bid}')
+            if bid in zh_intros:
+                existing[bid]['desc']=intro
+                existing[bid]['hook']=intro
+                previews[bid]=dict(hook=intro,intro=existing[bid].get('importNote','')+' '+intro)
             continue
         if any(v['zh']==b['zh'] for v in cat):raise ValueError(f'duplicate title {b["zh"]}')
         path=cover(b)
@@ -177,8 +183,8 @@ def main():
         note=('雙語精簡故事初稿；第 2–25 章未達每章 500 詞，配詞未全部融入正文，閱讀題待校訂。' if draft else
               '25 章英中對照教學初稿；尚待人工語言、翻譯與情節校訂。')
         genre=('雙語精簡稿・待擴寫' if draft else '雙語教學初稿')
-        cat.append(dict(id=bid,title=b['title'],zh=b['zh'],level=LEVELS[int(b['code'][0])-1],vocabularyRange=b['code'][1],genre=genre,tags=['第四批',genre],desc=b['desc'],hook=b['desc'],color='#26364b',cover='./covers/'+path.name,chapters=b['metadata'],vocabularySummary=dict(referenceLevel=int(b['code'][0]),uniqueTargets=len({w['entryId'] for c in b['chapters'] for w in c['words']}),perChapter=20),learningReviewRequired=True,readable=True,importNote=note,manuscriptStatus='abridged_draft' if draft else 'teaching_draft'))
-        previews[bid]=dict(hook=b['desc'],intro=note+' '+b['desc'])
+        cat.append(dict(id=bid,title=b['title'],zh=b['zh'],level=LEVELS[int(b['code'][0])-1],vocabularyRange=b['code'][1],genre=genre,tags=['第四批',genre],desc=intro,hook=intro,color='#26364b',cover='./covers/'+path.name,chapters=b['metadata'],vocabularySummary=dict(referenceLevel=int(b['code'][0]),uniqueTargets=len({w['entryId'] for c in b['chapters'] for w in c['words']}),perChapter=20),learningReviewRequired=True,readable=True,importNote=note,manuscriptStatus='abridged_draft' if draft else 'teaching_draft'))
+        previews[bid]=dict(hook=intro,intro=note+' '+intro)
         guide.setdefault('books',{})[bid]=dict(sample=' '.join(b['chapters'][0]['paragraphs'][0]['en'].split()[:65])+'…')
         for c in b['chapters']:
             previews.setdefault('chapters',{})[c['id']]=c['paragraphs'][0]['zh'][:160]

@@ -60,7 +60,7 @@ async function run(label,options){
   const freeHome=page.getByRole('region',{name:/24 本小說/});
   await freeHome.waitFor();
   if(await freeHome.getByRole('button',{name:/免費讀《/}).count()!==24)throw Error('Homepage must show all 24 complete free books');
-  await freeHome.getByRole('button',{name:'免費讀《雨來之前的鐘聲》第 1 章'}).click();
+  await freeHome.getByRole('button',{name:'免費讀《明天，別來學校》第 1 章'}).click();
   await page.locator('[data-paragraph]').first().waitFor();
 
   if(label==='mobile')await page.locator('.reader-header button').first().click();
@@ -76,7 +76,7 @@ async function run(label,options){
   if(savedAvatar!=='rabbit')throw Error('Avatar preference was not saved');
   await page.getByRole('button',{name:'更換頭像，目前為白兔'}).waitFor();
 
-  await page.locator('.reading-hub-lead').getByText('雨來之前的鐘聲',{exact:true}).waitFor();
+  await page.locator('.reading-hub-lead').getByText('明天，別來學校',{exact:true}).waitFor();
   await page.locator('.reading-hub-lead').getByRole('button',{name:'接續閱讀'}).waitFor();
   const passport=page.getByRole('region',{name:'閱讀護照'});
   await passport.getByRole('heading',{name:'最近閱讀足跡'}).waitFor();
@@ -232,7 +232,7 @@ async function run(label,options){
   await page.getByRole('heading',{name:/24 本完整免費小說/}).first().waitFor();
   const purchaseButton=page.getByRole('button',{name:'付款尚未開通'});
   if(!(await purchaseButton.isDisabled()))throw Error('Unconfigured checkout must never accept money');
-  await page.goto(base+'?book=import-rain-bell&chapter=import-rain-bell-25',{waitUntil:'domcontentloaded'});
+  await page.goto(base+'?book=ss-r19-l4b16&chapter=ss-r19-l4b16-25',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});
   await page.goto(base+'?book=tomorrow&chapter=tomorrow-25',{waitUntil:'domcontentloaded'});
   await page.locator('[data-paragraph]').first().waitFor({timeout:20000});

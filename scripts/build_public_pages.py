@@ -8,7 +8,7 @@ catalog=json.loads((P/'catalog.js').read_text().split('=',1)[1].rstrip(';\n'));c
 offer=json.loads((R/'config/reader-offer.json').read_text(encoding='utf-8'));free_books=set(offer['freeBookIds']);preview=offer['previewChapters'];free_count=len(free_books)
 assert offer['phase']=='prelaunch' and offer['premium']['priceTwd']==100 and free_books<={b['id'] for b in cat}
 assert len(free_books)==len(offer['freeBookIds'])==24
-assert {(b['level'],b.get('vocabularyRange')) for b in cat if b['id'] in free_books}>={(b['level'],b['vocabularyRange']) for b in cat if b.get('vocabularyRange') in ('A','B')}
+assert {level:sum(b['level']==level and b['id'] in free_books for b in cat) for level in ('1000以下','1000–2000','2000–3000','3000–4000','4000–5000','5000–6000')}==dict.fromkeys(('1000以下','1000–2000','2000–3000','3000–4000','4000–5000','5000–6000'),4)
 assert not offer['premium']['checkoutEnabled'] and not offer['premium']['privateBookStorageEnabled']
 topics=json.loads((R/'config/topics.json').read_text())
 by_topic={topic['slug']:topic for topic in topics}
@@ -129,7 +129,7 @@ latest_new=[b for b in cat if '新作' in (b.get('tags') or [])][-6:]
 latest_section=('<section class="note"><h2>最新上架 · '+str(len(latest_new))+' 本</h2><p>每本收錄 25 章，可直接試讀前 '+str(preview)+' 章。</p><ul>'+''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+' · '+esc(b['level'])+'</li>' for b in latest_new)+'</ul></section>') if latest_new else ''
 page('library.html','分級英文故事完整書目',f'<h1>分級英文故事書庫</h1>{latest_section}<section class="note"><h2>A／B 與閱讀方式</h2><p>A 本代表本站同級配詞前約 500 詞，B 本代表後約 500 詞（部分原表各 501 詞）；這是本站拆分方式，不是故事上下集。詞彙分級參考大考中心配合教育部 108 英語文課綱編修的《高中英文參考詞彙表》（官方六級）；本站第七級為自訂進階配詞。<a href="about.html#vocabulary-source">查看官方來源與分級說明</a>。每天讀一章，25 天讀完一本，餘下時間複習；同級 A、B 各讀一本，約兩個月接觸 1,000 個目標詞，並搭配間隔複習。同範圍可以選不同故事複習。先依興趣與級距選書，從第 1 章開始讀英文；需要時看中文，或到互動版查詞與朗讀，最後複習章末單字及已提供的測驗。</p></section><p>目前 {len(cat)} 本、{len(cat)*25} 章；其中 {len(free_books)} 本完整 25 章免費。NT$100 一次付費的閱讀通行證尚未開賣，其他故事可免費試讀前 {preview} 章。</p><p>{link("editorial.html","內容製作與校訂狀態")}</p><div class="book-grid">{cards}</div>',f'{len(cat)} 本分級英文小說，免費試讀英中對照正文，包含詞彙與已收錄的閱讀測驗。')
 
-free_cards=''.join('<article class="card"><h2>'+link('stories/'+b['id']+'/',b['zh'])+'</h2><p class="muted">'+esc(b['level'])+' · '+esc(b['genre'])+' · 25 章完整免費</p>'+link('stories/'+b['id']+'/chapter-1.html','從第一章開始')+'</article>' for key in offer['freeBookIds'] for b in cat if b['id']==key)
+free_cards=''.join('<article class="card library-card">'+card_cover(b)+'<h2>'+link('stories/'+b['id']+'/',b['zh'])+'</h2><p class="muted">'+esc(b['level'])+' · '+esc(b['genre'])+' · 25 章完整免費</p>'+link('stories/'+b['id']+'/chapter-1.html','從第一章開始')+'</article>' for key in offer['freeBookIds'] for b in cat if b['id']==key)
 paid_book_links=''.join('<li>'+link('stories/'+b['id']+'/',b['zh'])+'</li>' for b in cat if b['id'] not in free_books)
 page('plans.html','完整免費書單與 NT$100 全站方案',
 f'<h1>{free_count} 本小說完整免費，NT$100 一次解鎖全站</h1><p><strong>方案籌備中：未開放付款，不會產生訂單，也不會顯示假的購買成功。</strong></p>'

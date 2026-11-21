@@ -65,7 +65,7 @@ export default function ReadingAccess({onRead,premium,checkoutBook}:{onRead:(id:
   </section>
   <section id="free-books" className="feature-panel"><h2>{freeBookCount} 本完整免費小說</h2>
    <p>每本從第 1 章到第 25 章直接免費閱讀，依興趣與詞彙級距挑選。</p>
-   <div className="free-book-links">{freeBooks.map(b=><button key={b.id} className="secondary" onClick={()=>onRead(b.chapters[0].id)}><b>{b.zh}</b><small>{b.level} · {b.vocabularyRange} 本 · {b.genre} · 25 章</small></button>)}</div>
+   <div className="free-book-links">{freeBooks.map(b=><button key={b.id} className="secondary" onClick={()=>onRead(b.chapters[0].id)}>{b.cover&&<img src={b.cover} alt="" loading="lazy" width="54" height="81"/>}<span><b>{b.zh}</b><small>{b.level} · {b.vocabularyRange} 本 · {b.genre} · 25 章</small></span></button>)}</div>
   </section>
   <section className="feature-panel"><h2>免費試讀 {previewChapters} 章</h2>
    <p>其他 {otherBooks.length} 本故事各開放前 {previewChapters} 章免費試讀。</p>
