@@ -1,0 +1,40 @@
+name: StorySteps one-time source and full-history export
+on:
+  push:
+    branches:
+      - 'archive/export-20261121'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Collect all branches and create offline restore files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin '+refs/heads/*:refs/remotes/origin/*' --tags
+          git bundle create ../StorySteps-full-history.bundle --all
+          tar -czf ../StorySteps-working-tree.tar.gz --exclude=.git .
+          git rev-parse HEAD > ../HEAD_SHA.txt
+          git branch -a > ../GIT_BRANCHES.txt
+          sha256sum ../StorySteps-full-history.bundle ../StorySteps-working-tree.tar.gz > ../SHA256SUMS.txt
+      - name: Export source code as downloadable backup artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: storysteps-full-repository-export
+          path: |
+            ../StorySteps-full-history.bundle
+            ../StorySteps-working-tree.tar.gz
+            ../HEAD_SHA.txt
+            ../GIT_BRANCHES.txt
+            ../SHA256SUMS.txt
+          retention-days: 7
+          compression-level: 0
