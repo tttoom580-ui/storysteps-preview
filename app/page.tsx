@@ -194,8 +194,8 @@ export default function Home(){
  const canResume=!!resumeStory&&!!resumeChapter?.available&&chapterReadable(resumeStory.id,resumeChapter.number);
  const reachedPreviewEnd=view==='reader'&&currentMeta?.number===previewChapters&&!chapterReadable(story.id,previewChapters+1);
  const nextFreeBook=reachedPreviewEnd
-  ? stories.find(s=>isFreeBook(s.id)&&s.level===story.level&&s.primaryGenre===story.primaryGenre)
-    || stories.find(s=>isFreeBook(s.id)&&s.level===story.level)
+  ? stories.find(s=>s.id!==story.id&&isFreeBook(s.id)&&s.level===story.level&&s.primaryGenre===story.primaryGenre)
+    || stories.find(s=>s.id!==story.id&&isFreeBook(s.id)&&s.level===story.level)
     || freeHomeBooks[0]
   : undefined;
  const done=progress.filter(p=>allMeta.some(c=>c.id===p.chapter)).length;
