@@ -21,20 +21,16 @@ jobs:
         run: |
           set -euo pipefail
           git fetch origin '+refs/heads/*:refs/remotes/origin/*' --tags
-          git bundle create ../StorySteps-full-history.bundle --all
-          tar -czf ../StorySteps-working-tree.tar.gz --exclude=.git .
-          git rev-parse HEAD > ../HEAD_SHA.txt
-          git branch -a > ../GIT_BRANCHES.txt
-          sha256sum ../StorySteps-full-history.bundle ../StorySteps-working-tree.tar.gz > ../SHA256SUMS.txt
+          mkdir -p backup-export
+          git bundle create backup-export/StorySteps-full-history.bundle --all
+          tar -czf backup-export/StorySteps-working-tree.tar.gz --exclude=.git --exclude=backup-export .
+          git rev-parse HEAD > backup-export/HEAD_SHA.txt
+          git branch -a > backup-export/GIT_BRANCHES.txt
+          sha256sum backup-export/StorySteps-full-history.bundle backup-export/StorySteps-working-tree.tar.gz > backup-export/SHA256SUMS.txt
       - name: Export source code as downloadable backup artifact
         uses: actions/upload-artifact@v4
         with:
           name: storysteps-full-repository-export
-          path: |
-            ../StorySteps-full-history.bundle
-            ../StorySteps-working-tree.tar.gz
-            ../HEAD_SHA.txt
-            ../GIT_BRANCHES.txt
-            ../SHA256SUMS.txt
+          path: backup-export/
           retention-days: 7
           compression-level: 0
